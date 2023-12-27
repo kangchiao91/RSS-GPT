@@ -50,12 +50,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 
-- https://brett.trpstra.net/brettterpstra -> https://kangchiao91.github.io/RSS-GPT/brett-terpstra.xml
-- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://kangchiao91.github.io/RSS-GPT/appinn.xml
-- https://rsshub.app/sspai/index -> https://kangchiao91.github.io/RSS-GPT/sspai.xml
-- https://rknight.me/feed.xml -> https://kangchiao91.github.io/RSS-GPT/robb-knight.xml
-- https://stephanango.com/feed.xml -> https://kangchiao91.github.io/RSS-GPT/steph-ango.xml
-- https://lopespm.com/atom.xml -> https://kangchiao91.github.io/RSS-GPT/byte-tank.xml
-- https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://kangchiao91.github.io/RSS-GPT/36kr.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://kangchiao91.github.io/RSS-GPT/36kr-ai.xml
-- https://rsshub.app/paulgraham/articles -> https://kangchiao91.github.io/RSS-GPT/paul-graham.xml
+- https://iopscience.iop.org/journal/rss/0004-637X -> https://kangchiao91.github.io/RSS-GPT/apj.xml
