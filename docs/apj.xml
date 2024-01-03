@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Structure and Morphology of Galaxies during the Epoch of Reionization Revealed by JWST</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/acf1f6</link>
@@ -14,7 +15,6 @@
 本研究利用JWST观测到的347个红移在4 < z < 9.5的星系，采用二维参数模型进行分析，测量星系的整体结构参数并量化其在真实光学波段的全局特性。研究着重于得出包括宇宙表面亮度衰减和分辨率影响在内的可靠不确定性。根据全局Sérsic指数(n < 1.5)和观测轴比(q < 0.6)的指导，我们将星系的旋盘现象的发生率保守地下限定为约45%。在4 < z < 9.5的红移范围内，星系的真实光学波段亮度和有效半径之间存在关系，分别在4 < z < 5和5 ≤ z < 9.5的区间内，具有相似的斜率，但较高红移区间的截距略低一些(Re = 0.69 ± 0.05 kpc)，而低红移区间的为(Re = 0.91 ± 0.04 kpc)。在目前样本规模的限制下，我们发现在这些早期时期，n或Re并没有显著的红移演化。 <div>
 We analyze 347 galaxies at redshift 4 &lt; z &lt; 9.5 using JWST observations from the Cosmic Evolution Early Release Science (CEERS) program by simultaneously fitting a two-dimensional parametric model to the seven-filter Near Infrared Camera images to measure the overall structural parameters and quantify the global properties of the galaxies in the rest-frame optical band. Particular attention is devoted to deriving robust uncertainties that include, among other factors, the influence of cosmological surface brightness dimming and resolution effects. Using the global Sérsic index (n &lt; 1.5) and observed axial ratio (q &lt; 0.6) as a guide, we place a conservative lower limit of ∼45% on the incidence of galactic disks. Galaxies follow a relation between the rest-frame optical luminosity and effective radius in the redshift range 4 &lt; z &lt; 9.5, as well as separately over the intervals 4 &lt; z &lt; 5 and 5 ≤ z &lt; 9.5, with a very similar slope but a marginally lower zero-point in the higher-redshift bin (Re = 0.69 ± 0.05 kpc) compared to the lower-redshift bin (Re = 0.91 ± 0.04 kpc). Within the limitations of the current sample size, we find no significant redshift evolution of n or Re at these early epochs.
 ]]></content:encoded>
-
 <pubDate>2024-01-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@ We analyze 347 galaxies at redshift 4 &lt; z &lt; 9.5 using JWST observations fr
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f19</guid>
 <content:encoded><![CDATA[
 <div> SNe Ia, quasars, time-delay distances, strong lensing, model-independent method
-<br><br>总结:
+<br /><br />总结:
 本研究利用强引力透镜效应的时间延迟距离来锚定宇宙距离，结合类星体作为辅助探测器，使用模型无关的方法确定哈勃常数H0。通过模拟数据集和高斯过程回归，我们展示了利用高红移的类星体可以扩展SNe Ia的红移范围，提高强透镜时间延迟距离测量的精确度。在时间延迟距离不确定性为距离数值的5%时，我们将H0的估计精度从2.1%提高到1.3%。 <div>
 Absolute distances from strong lensing can anchor Type Ia Supernovae (SNe Ia) at cosmological distances giving a model-independent inference of the Hubble constant (H0). Future observations could provide strong lensing time-delay distances with source redshifts up to z  ≃  4, which are much higher than the maximum redshift of SNe Ia observed so far. In order to make full use of time-delay distances measured at higher redshifts, we use quasars as a complementary cosmic probe to measure cosmological distances at redshifts beyond those of SNe Ia and provide a model-independent method to determine H0. In this work, we demonstrate a model-independent, joint constraint of SNe Ia, quasars, and time-delay distances from strong lensed quasars. We first generate mock data sets of SNe Ia, quasar, and time-delay distances based on a fiducial cosmological model. Then, we calibrate the quasar parameters model independently using Gaussian process (GP) regression with mock SNe Ia data. Finally, we determine the value of H0 model-independently using GP regression from mock quasars and time-delay distances from strong lensing systems. As a comparison, we also show the H0 results obtained from mock SNe Ia in combination with time-delay lensing systems whose redshifts overlap with SNe Ia. Our results show that quasars at higher redshifts show great potential to extend the redshift coverage of SNe Ia and thus enable the full use of strong lens time-delay distance measurements from ongoing cosmic surveys and improve the accuracy of the estimation of H0 from 2.1% to 1.3% when the uncertainties of the time-delay distances are 5% of the distance values.
 ]]></content:encoded>
-
 <pubDate>2024-01-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,11 +35,10 @@ Absolute distances from strong lensing can anchor Type Ia Supernovae (SNe Ia) at
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad10a7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad10a7</guid>
 <content:encoded><![CDATA[
-<div> 磁流体力学仿真；太阳冠；初始条件；NLFFF外推；磁场比较<br>
-磁流体力学仿真研究太阳冠常常从不同的初始条件开始，本文尝试了三种不同的初始条件，分别是常用的潜在场、认为更接近真实磁场的非线性力自由场以及纯垂直场。经过松弛，研究比较了磁场。结果显示，所有初始条件都有趋向于收敛到相似连接状态的倾向，特别是在距离边界较远的强磁场区域，暗示仿真结果对初始条件不太敏感。松弛后的解更接近非线性力自由场的初始条件，但仍然与其存在显著差异。 <br><br>总结:磁流体力学仿真研究太阳冠的初始条件对最终状态影响不大，不同初始条件趋向于相似连接状态，松弛解更接近非线性力自由场的初始条件，但依然存在显著差异。 <div>
+<div> 磁流体力学仿真；太阳冠；初始条件；NLFFF外推；磁场比较<br />
+磁流体力学仿真研究太阳冠常常从不同的初始条件开始，本文尝试了三种不同的初始条件，分别是常用的潜在场、认为更接近真实磁场的非线性力自由场以及纯垂直场。经过松弛，研究比较了磁场。结果显示，所有初始条件都有趋向于收敛到相似连接状态的倾向，特别是在距离边界较远的强磁场区域，暗示仿真结果对初始条件不太敏感。松弛后的解更接近非线性力自由场的初始条件，但仍然与其存在显著差异。 <br /><br />总结:磁流体力学仿真研究太阳冠的初始条件对最终状态影响不大，不同初始条件趋向于相似连接状态，松弛解更接近非线性力自由场的初始条件，但依然存在显著差异。 <div>
 Magnetohydrodynamic (MHD) simulations of the solar corona are often started from a potential field initial condition, which may be far from the true state of the coronal magnetic field. To test the sensitivity of the simulations to the initial condition, an electric-field-driven MHD code was initiated from three different initial conditions: the commonly used potential field, a nonlinear force-free field (NLFFF) extrapolation, which is believed to be a better representation of the true coronal magnetic field, and a purely vertical field. After relaxation, the magnetic field in the MHD simulations was compared. It was found that there is a tendency for all of the initial conditions to converge to a similar connectivity, particularly in areas of strong fields that are not close to the boundary, suggesting that the final state of the simulation is not particularly sensitive to the initial condition. The relaxed solution more closely resembles the NLFFF initial condition than the other initial conditions, but still exhibits substantial differences from it.
 ]]></content:encoded>
-
 <pubDate>2024-01-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -52,10 +50,8 @@ Magnetohydrodynamic (MHD) simulations of the solar corona are often started from
 总结: 本研究通过对STEREO任务观测到的152个太阳风耀斑进行了研究，发现其波矢偏离太阳-航天器线的绝对值比密度模型预测的分别大了3.72和2.10倍。通过蒙特卡洛模拟，探讨了密度不均匀对射电发射位置的影响，结果显示相对密度波动为0.40可以解释观测到的角度偏移。同时，多通量管太阳风模型证实了太阳风中存在这种数量级的相对密度波动。研究提出了一种波矢修正方法，以增强对太阳风中电子束的三角定位能力，证明了在使用这种修正后的射电三角定位可以可靠地跟踪太阳风中的电子束。 <div>
 Interplanetary Type III bursts, generated by relativistic electron beams at solar flare reconnection sites, are explored through an investigation of 152 instances observed by the Solar Terrestrial Relations Observatory mission. This study reveals that the absolute values of the wavevector deviations from the Sun–spacecraft line are statistically 3.72 and 2.10 larger than predicted by the density model, assuming fundamental and harmonic emission, respectively. Through Monte Carlo simulations, we examine the impact of scattering by density inhomogeneities on the apparent locations of radio emissions in the interplanetary medium. The findings indicate that relative density fluctuations of 0.40 can account for the observed angular shift, a conclusion supported by the multiple flux-tube solar wind model, which confirms the presence of such magnitude of relative perpendicular density fluctuations in the solar wind. We propose a wavevector correction that incorporates this effect to enhance the triangulation of interplanetary Type III bursts, demonstrating that radio triangulation, with this correction, can reliably track electron beams in the interplanetary medium.
 ]]></content:encoded>
-
 <pubDate>2024-01-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Indirect Detection of Decaying Dark Matter with High Angular Resolution: The Case for Axion Search by IRCS on the Subaru Telescope</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/acfa01</link>
