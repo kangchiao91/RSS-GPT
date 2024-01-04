@@ -4,6 +4,60 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Are There Higher Electron Densities in Narrow Emission Line Regions of Type-1 AGNs than in Type-2 AGNs?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad029a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad029a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 电子密度, 窄发射线区域, 活动星系核, 统一模型, SDSS Data Release 12
+
+总结: 
+该研究在SDSS Data Release 12中针对活动星系核（AGN）的Type-1和Type-2进行了电子密度（ne）的比较。研究发现Type-1 AGN的NLRs中的ne要高于Type-2 AGN，并提出了AGN活动时间长、导致更多电子注入NLRs的可能解释，以及Type-2 AGN中更强烈的星形成贡献导致ne较低的可能解释。这些结果对广泛认可的AGN统一模型提出了有趣的挑战。<br><br> <div>
+In the manuscript, we check properties of electron densities ne traced by flux ratio Rsii of [S ii]λ6716 Å to [S ii]λ6731 Å in narrow emission line regions (NLRs) between Type-1 active galactic nucleus (AGN) and Type-2 AGN in SDSS Data Release 12 (DR12). Under the framework of unified model considering kiloparsec-scale structures, similar ne in NLRs should be expected between Type-1 AGN and Type-2 AGN. Based on reliable measurements of the [S ii] doublet with measured parameters at least 5 times larger than corresponding uncertainties, there are 6039 Type-1 AGN and 8725 Type-2 AGN (excluding the Type-2 LINERs and the composite galaxies) collected from SDSS DR12. Then, lower Rsii (higher ne) in NLRs can be well confirmed in Type-1 AGN than in Type-2 AGN, with the confidence level higher than 5σ, even after considering the necessary effects including effects of electron temperatures traced by [O iii]λ4364,4959,5007 Å on estimating ne in NLRs. Two probable methods are proposed to explain the higher ne in NLRs in Type-1 AGN. First, the higher ne in NLRs of Type-1 AGN could indicate longer time durations of AGN activities in Type-1 AGN than in Type-2 AGN, if AGN activities triggering galactic-scale outflows leading to more electrons injecting into NLRs were accepted to explain the higher ne in NLRs of Type-2 AGN than H ii galaxies. Second, the lower ne in NLRs of Type-2 AGN could be explained by stronger star-forming contributions in Type-2 AGN, considering lower ne in H ii regions. The results provide interesting challenges to the commonly and widely accepted unified model of AGN.
+]]></content:encoded>
+
+<pubDate>2024-01-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Correcting Exoplanet Transmission Spectra for Stellar Activity with an Optimized Retrieval Framework</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0369</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0369</guid>
+<content:encoded><![CDATA[
+<div> 关键词: chromatic contamination, exoplanet transmission spectra, stellar models, StARPA, ASteRA<br>
+<br>
+这篇文章探讨了来自恒星异质性的色彩污染对外行星传输光谱的影响，以及如何利用不同复杂度的恒星模型进行校正。研究发现，包含恒星活动参数在内的检索过程可以最大程度地减小偏差。在低至中等活动条件下，ASteRA表现良好，能够准确检索行星参数。但在最活跃的情况下，由于ASteRA忽视了斑点和暗淡边界效应之间的相互作用，仍存在一些偏差。因此，在中心斑点和靠近边缘的位置检索到的行星参数误差较大。 <br><br>总结: <br>恒星异质性对外行星传输光谱的影响被详细研究，发现包含恒星活动参数在内的检索过程可以最大程度地减小偏差。ASteRA模型在低至中等活动条件下表现良好，但在最活跃的情况下仍存在一些偏差。 <div>
+The chromatic contamination that arises from photospheric heterogeneities, e.g., spots and faculae on the host star presents a significant noise source for exoplanet transmission spectra. If this contamination is not corrected for, it can introduce substantial bias in our analysis of the planetary atmosphere. We utilize two stellar models of differing complexity, StARPA (Stellar Activity Removal for Planetary Atmospheres) and ASteRA (Active Stellar Retrieval Algorithm), to explore the biases introduced by stellar contamination in retrieval under differing degrees of stellar activity. We use the retrieval framework TauREx3 and a grid of 27 synthetic, spot-contaminated transmission spectra to investigate potential biases and to determine how complex our stellar models must be in order to accurately extract the planetary parameters from transmission spectra. The input observation is generated using the more complex model (StARPA), in which the spot latitude is an additional, fixable parameter. This observation is then fed into a combined stellar-planetary retrieval, which contains a simplified stellar model (ASteRA). Our results confirm that the inclusion of stellar activity parameters in retrieval minimizes bias under all activity regimes considered. ASteRA performs very well under low-to-moderate activity conditions, retrieving the planetary parameters with a high degree of accuracy. For the most active cases, characterized by larger, higher-temperature contrast spots, some minor residual bias remains due to ASteRA neglecting the interplay between the spot and the limb-darkening effect. As a result of this, we find larger errors in retrieved planetary parameters for central spots (0°) and those found close to the limb (60°) than those at intermediate latitudes (30°).
+]]></content:encoded>
+
+<pubDate>2024-01-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Future Prospects for Constraining Black Hole Spacetime: Horizon-scale Variability of Astrophysical Jets</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad07d4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad07d4</guid>
+<content:encoded><![CDATA[
+<div> 超大质量黑洞，事件视界望远镜，GRMHD模拟，射电辐射，黑洞自旋<br>
+<br>
+事件视界望远镜合作团队首次发布了对M87*和Sgr A*超大质量黑洞的单位视界图像，并提供了其周围物理条件的初步信息。他们使用三维广义相对论磁流体力学模拟与观测进行比较，初步约束了这些黑洞时空的特性。然而，由于观测辐射在改变等离子体和时空特性时产生的退化，准确区分吸积流的性质和时空特性仍具有挑战性。下一代事件视界望远镜观测预计将通过探索盘-喷流动力学的复杂相互作用来消除一些这些退化。GRMHD模拟和广义相对论辐射传输的计算结果显示，喷流的径向和方位动态与黑洞自旋密切相关。基于ngEHT对M87*的分辨率和图像重建能力，我们能够评估这种相关性的检测性和相关的不确定性。总的来说，我们的结果有助于评估未来事件视界望远镜观测来约束黑洞自旋的前景。 <br><br>总结: 超大质量黑洞M87*和Sgr A*的首张单位视界图像的发布和通过GRMHD模拟研究黑洞自旋的相关性，有望为未来事件视界望远镜观测提供了约束黑洞自旋的前景。 <div>
+The Event Horizon Telescope (EHT) Collaboration has recently published the first horizon-scale images of the supermassive black holes M87* and Sgr A* and provided some first information on the physical conditions in their vicinity. The comparison between the observations and the three-dimensional general relativistic magnetohydrodynamic (GRMHD) simulations has enabled the EHT to set initial constraints on the properties of these black hole spacetimes. However, accurately distinguishing the properties of the accretion flow from those of the spacetime, most notably, the black hole mass and spin, remains challenging because of the degeneracies the emitted radiation suffers when varying the properties of the plasma and those of the spacetime. The next-generation EHT (ngEHT) observations are expected to remove some of these degeneracies by exploring the complex interplay between the disk–jet dynamics, which represents one of the most promising tools for extracting information on the black hole spin. By using GRMHD simulations of magnetically arrested disks and general relativistic radiative transfer (GRRT) calculations of the emitted radiation, we have studied the properties of the jet and the accretion disk dynamics on spatial scales that are comparable with the horizon. In this way, we are able to highlight that the radial and azimuthal dynamics of the jet are well correlated with the black hole spin. Based on the resolution and image reconstruction capabilities of the ngEHT observations of M87*, we can assess the detectability and associated uncertainty of this correlation. Overall, our results serve to assess the prospects for constraining the black hole spin with future EHT observations.
+]]></content:encoded>
+
+<pubDate>2024-01-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Possible Correlation between Metallicity and Near-IR Color for Late-M and L Dwarfs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad083c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad083c</guid>
+<content:encoded><![CDATA[
+<div> late-M and L dwarfs, metallicity, J-K color, correlation, Drift-Phoenix
+
+总结:
+本研究分析了64个benchmark late-M和L矮星的金属丰度和J-K颜色之间的关系，发现它们显示出正相关性。对比实验结果和Drift-Phoenix模型预测的关系，发现金属丰度越高的天体在光度上表现更红。作者推测这是因为更高的金属丰度导致了这些大气层中更多的凝结物形成，使得这些超冷矮星在光度上显得更红。 <div>
+We examine the relationship between metallicity and J − K color for 64 benchmark late-M and L dwarfs, all of which are wide companions to higher-mass stars, and six of which are new discoveries. We assess the correlation between the Δ(J − K) color anomaly (the difference in an object’s J − K color from the median color for field objects of the same spectral type) and the metallicity of the host star to investigate how metallicity affects ultracool photospheres. Using Spearman’s rank correlation test and Student’s t-test, the late-M dwarf (L dwarf) sample’s Δ(J − K) and metallicity show a positive correlation at the 95% (90%) confidence level. A linear fit to color anomaly as a function of metallicity finds a slope of 0.17 ± 0.07 for the late-M dwarfs and a slope of {0.20}_{-0.08}^{+0.07} for the L dwarfs. We also computed the Δ(J − K) versus metallicity relationship predicted by multi-metallicity model spectra generated using Drift-Phoenix. The modeled late-M dwarfs show a slope of 0.202 ± 0.03, which is close to our observational results, but the modeled L dwarfs show a slope of 0.493 ± 0.02, steeper than our observational results. Both our empirical results and the models indicate that more metal-rich objects should appear redder photometrically. We speculate that higher metallicity drives more condensate formation in these atmospheres, thus making these ultracool dwarfs appear redder.
+]]></content:encoded>
+
+<pubDate>2024-01-04T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Structure and Morphology of Galaxies during the Epoch of Reionization Revealed by JWST</title>
