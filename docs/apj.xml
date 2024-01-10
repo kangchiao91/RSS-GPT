@@ -5,15 +5,29 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Transition from Small-scale to Large-scale Dynamo in a Supernova-driven, Multiphase Medium</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0da0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0da0</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 磁场，星系动力学，银河系，多尺度，磁流体力学
+
+总结:
+本文研究了在多个尺度上对星系磁场动力学的建模，发现单独建模小尺度磁流体动力学（SSD）或大尺度磁流体动力学（LSD）都无法完全描述银河磁场的动态和拓扑结构。研究表明，SSD对LSD的存在并不敏感，并且在大尺度剪切流存在时更强。此外，我们还发现，通过在OB联合中集中超新星爆发可以增加SSD和LSD的生长速率。最后，我们的研究表明，对于LSD的建模在银河系中的温暖气体中心平面生长，并且通过增加分辨率，我们逐渐接近物理解。 <br><br> <div>
+Magnetic fields are now widely recognized as critical at many scales to galactic dynamics and structure, including multiphase pressure balance, dust processing, and star formation. Using imposed magnetic fields cannot reliably model the interstellar medium's (ISM) dynamical structure nor phase interactions. Dynamos must be modeled. ISM models exist of turbulent magnetic fields using small-scale dynamo (SSD). Others model the large-scale dynamo (LSD) organizing magnetic fields at the scale of the disk or spiral arms. Separately, neither can fully describe the galactic magnetic field dynamics nor topology. We model the LSD and SSD together at a sufficient resolution to use the low explicit Lagrangian resistivity required. The galactic SSD saturates within 20 Myr. We show that the SSD is quite insensitive to the presence of an LSD and is even stronger in the presence of a large-scale shear flow. The LSD grows more slowly in the presence of SSD, saturating after 5 Gyr versus 1–2 Gyr in studies where the SSD is weak or absent. The LSD primarily grows in warm gas in the galactic midplane. Saturation of the LSD occurs due to α-quenching near the midplane as the growing mean-field produces a magnetic α that opposes the kinetic α. The magnetic energy in our models of the LSD shows a slightly sublinear response to increasing resolution, indicating that we are converging toward the physical solution at 1 pc resolution. Clustering supernovae in OB associations increases the growth rates for both the SSD and the LSD, compared to a horizontally uniform supernova distribution.
+]]></content:encoded>
+
+<pubDate>2024-01-10T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>How Can the Optical Variation Properties of Active Galactic Nuclei Be Unbiasedly Measured?</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad072f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad072f</guid>
 <content:encoded><![CDATA[
-<div> 关键词: active galactic nuclei, AGN variability, optical variation properties, damped random walk, time-domain surveys<br>
-<br>总结: <br>这篇文章讨论了活动星系核的变化特性，并提出了一个新的优化解决方案，通过仔细审查假设的先验知识、采用的最佳拟合值、集合平均方法和拟合方法的复杂组合，确定了获取无偏差变化特性的最佳监测基线。这一结果对广域巡天望远镜进行的时间域调查具有积极作用，可以改善对AGN变化特性的约束。 <div>
+<div> 关键词: active galactic nuclei, AGN variability, optical variation properties, damped random walk, time-domain surveys<br />
+<br />总结: <br />这篇文章讨论了活动星系核的变化特性，并提出了一个新的优化解决方案，通过仔细审查假设的先验知识、采用的最佳拟合值、集合平均方法和拟合方法的复杂组合，确定了获取无偏差变化特性的最佳监测基线。这一结果对广域巡天望远镜进行的时间域调查具有积极作用，可以改善对AGN变化特性的约束。 <div>
 The variability of active galactic nuclei (AGNs) is ubiquitous, but has not yet been understood. Measuring the optical variation properties of AGNs, such as the variation timescale and amplitude, and then correlating them with their fundamental physical parameters has long served as a critical way of exploring the origin of AGN variability and the associated physics of the accretion process in AGNs. Obtaining accurate variation properties of AGNs is thus essential. It has been found that the damped random walk process can describe the AGN optical variation well, but there is a controversy over how long a minimal monitoring baseline is required to obtain unbiased variation properties. In this work, we settle the controversy by exhaustively scrutinizing the complex combination of assumed priors, adopted best-fit values, ensemble averaging methods, and fitting methods. The new proposal is then an optimized solution where unbiased variation properties of an AGN sample possessing the same variation timescale can be obtained with a minimal baseline of about 10 times their variation timescale. Finally, the new optimized solution is used to demonstrate the positive role of the time-domain surveys to be conducted by the Wide Field Survey Telescope in improving constraints on AGN variation properties.
 ]]></content:encoded>
-
 <pubDate>2024-01-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -27,10 +41,8 @@ The variability of active galactic nuclei (AGNs) is ubiquitous, but has not yet 
 本文研究了类地无生命行星大气中CO2、CO和CH4的相对丰度对行星气候和生物地球化学的基本控制。研究结果表明，大气中CO2水平的升高会触发CO气体的光化学失稳，导致CO逃逸。同时，更高的火山岩浆喷发通量也会引发CO逃逸。我们的系统研究揭示了类似地球的无生命行星的缺氧大气可以根据CH4/CO2与CO/CO2的相对比值被归类。研究结果表明，这种缺口结构是围绕类太阳恒星（F型、G型和K型）运转的类地无生命行星大气的普遍特征。 <div>
 Carbon is an essential element for life on Earth, and the relative abundances of major carbon species (CO2, CO, and CH4) in the atmosphere exert fundamental controls on planetary climate and biogeochemistry. Here we employed a theoretical model of atmospheric chemistry to investigate diversity in the atmospheric abundances of CO2, CO, and CH4 on Earth-like lifeless planets orbiting Sun-like (F-, G-, and K-type) stars. We focused on the conditions for the formation of a CO-rich atmosphere, which would be favorable for the origin of life. Results demonstrated that elevated atmospheric CO2 levels trigger photochemical instability of the CO budget in the atmosphere (i.e., CO runaway) owing to enhanced CO2 photolysis relative to H2O photolysis. Higher volcanic outgassing fluxes of reduced C (CO and CH4) also tend to initiate CO runaway. Our systematic examinations revealed that anoxic atmospheres of Earth-like lifeless planets could be classified in the phase space of CH4/CO2 versus CO/CO2, where a distinct gap in atmospheric carbon chemistry is expected to be observed. Our findings indicate that the gap structure is a general feature of Earth-like lifeless planets with reducing atmospheres orbiting Sun-like (F-, G-, and K-type) stars.
 ]]></content:encoded>
-
 <pubDate>2024-01-10T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Effect of Solar Wind on Charged Particles’ Diffusion Coefficients</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad09b7</link>
