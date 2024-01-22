@@ -5,16 +5,95 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Exploring the Chemistry and Mass Function of the Globular Cluster 47 Tucanae with New Theoretical Color–Magnitude Diagrams</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad08bf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad08bf</guid>
+<content:encoded><![CDATA[
+<div> globular clusters, chemical composition, stellar modeling, 47 Tucanae, James Webb Space Telescope
+总结:
+球状星团中的恒星显示出化学组成的差异，这一特征无法被目前的任何机制完全解释。研究者通过发展了一种星体建模方法，利用多色差光度法为47 Tucanae球状星团的恒星准确获取了化学丰度。他们发现了化学元素丰度的分布规律，而这不支持恒星相互作用作为化学差异的起源。但需要更准确的吸积理论来得出更确切的结论。未来，随着詹姆斯·韦伯太空望远镜对47 Tucanae球状星团的观测，将扩展我们的分析质量基线到次恒星级别。因此，研究者还展示了47 Tucanae棕矮星成员的预测色-星等图和质量-星等关系。<br><br> <div>
+Despite their shared origin, members of globular clusters display star-to-star variations in composition. The observed pattern of element abundances is unique to these stellar environments and cannot be fully explained by any proposed mechanism. It remains unclear whether stars form with chemical heterogeneity or inherit it from interactions with other members. These scenarios may be differentiated by the dependence of chemical spread on stellar mass; however, obtaining a sufficiently large mass baseline requires abundance measurements on the lower main sequence, which is too faint for spectroscopy even in the nearest globular clusters. We developed a stellar modeling method to obtain precise chemical abundances for stars near the end of the main sequence from multiband photometry, and we applied it to the globular cluster 47 Tucanae. The computational efficiency is attained by matching chemical elements to the model components that are most sensitive to their abundance. We determined [O/Fe] for ∼5000 members below the main-sequence knee at the level of accuracy, comparable to the spectroscopic measurements of evolved members in the literature. The inferred distribution disfavors stellar interactions as the origin of chemical spread; however, an accurate theory of accretion is required to draw a more definitive conclusion. We anticipate that future observations of 47 Tucanae with the James Webb Space Telescope will extend the mass baseline of our analysis into the substellar regime. Therefore, we present predicted color–magnitude diagrams and mass–magnitude relations for the brown dwarf members of 47 Tucanae.
+]]></content:encoded>
+
+<pubDate>2024-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling Binary Asteroids: Integrating Orbital and Rotational Motion for Physical Property Inversion</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0b0e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0b0e</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 深空探测, 小行星, 二元小行星, 物理特性, 模型
+
+总结:<br>
+本文介绍了在深空探测领域中，对小行星特别是作为潜在威胁的二元小行星物理特性进行估算的挑战。提出了一个新颖的二元小行星模型，结合了轨道和自转运动，通过两个Cellinoid形状的投影和掩星效应来生成模拟亮度。通过Levenberg-Marquardt算法对物理特性进行反演，并通过数值实验和对真实二元小行星的应用进行了验证。研究结果表明，该模型提供了可靠且准确的二元小行星物理特性估算，同时还具有在支持双小行星重定向测试(DART)项目中的潜在应用。 <div>
+The field of space science places significant emphasis on deep space exploration, with a particular focus on asteroids as a potential hazard to humanity. Inverting their physical characteristics from photometric observations is essential for uncovering their origins and evolution. This article attempts to present a solution to the challenging task of estimating the physical properties of binary asteroids, which are common in near-Earth asteroids larger than 200 meters. A novel model for binary asteroids is proposed, which integrates orbital and rotational motions to simulate brightness variations based on two Cellinoid shapes. The model combines the projection and occultation effects of the shapes to generate the simulated brightness. The inversion of determining physical properties is optimized based on the Levenberg–Marquardt algorithm through a simulation process involving several parameter corrections. Finally, the performance of the proposed model is demonstrated through numerical experiments and applications to two real binary asteroids, namely, asteroid (317) Roxane and asteroid (624) Hektor. The derived results are nearly identical to those from other publications, which confirms that the proposed model provides reliable and accurate estimations of the physical properties of binary asteroids. Additionally, this method has a potential application in supporting the development of effective strategies for the Double Asteroid Redirection Test (DART) project, the first planetary defense experiment in space undertaken by humans.
+]]></content:encoded>
+
+<pubDate>2024-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>First Systematic Study Reporting the Changes in Eclipse Cutoff Frequency for Pulsar J1544+4937</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0b83</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0b83</guid>
+<content:encoded><![CDATA[
+<div> PSR J1544+4937, black widow pulsar, radio eclipses, frequency-dependent, mass-loss rate
+<br><br>
+该研究对PSR J1544+4937黑寡妇脉冲星的长期监测结果进行了介绍。研究发现，脉冲星周围的环境是动态变化的，电子密度和磁场可能会随时间变化。观测还显示出伴星的质量流失率与频率依赖性遮挡有显著的相关性。这项研究为黑寡妇脉冲星的频率依赖性遮挡现象提供了第一手直接证据。 
+<br>
+总结: 该研究观测PSR J1544+4937黑寡妇脉冲星的长期监测结果，发现频率依赖性遮挡频率存在显著变化，推测环境动态演化，受伴星质量流失率影响。 <div>
+We present results from long-term monitoring of frequency-dependent eclipses of the radio emission from PSR J1544+4937, which is a black widow spider millisecond pulsar (MSP) in a compact binary system. The majority of such systems often exhibit relatively long-duration radio eclipses caused by ablated material from their companion stars. With the wide spectral bandwidth of the upgraded Giant Metrewave Radio Telescope, we present the first systematic study of temporal variation of eclipse cutoff frequency. With decade-long monitoring of 39 eclipses for PSR J1544+4937, we notice significant changes in the observed cutoff frequency ranging from 343 ± 7 to ≥740 MHz. We also monitored changes in eclipse cutoff frequency on timescales of tens of days and observed a maximum change of ≥315 MHz between observations that were separated by 22 days. In addition, we observed a change of ∼47 MHz in eclipse cutoff frequency between adjacent orbits, i.e., on timescales of ∼2.9 hr. We infer that such changes in the eclipse cutoff frequency depict an eclipse environment for the PSR J1544+4937 system that is dynamically evolving, where, along with the change in electron density, the magnetic field could also be varying. We also report a significant correlation between the eclipse cutoff frequency and the mass-loss rate of the companion. This study provides the first direct evidence of mass-loss rate affecting the frequency-dependent eclipsing in a spider MSP.
+]]></content:encoded>
+
+<pubDate>2024-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Parsec-scale Catalog of Molecular Clouds in the Solar Neighborhood Based on 3D Dust Mapping: Implications for the Mass–Size Relation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0cf8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0cf8</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Leike et al., 3D dust map, molecular clouds, mass-size relation, volume density
+
+本研究利用Leike等人的3D尘埃地图，结合其约1 pc空间分辨率，生成了太阳附近分子云的均匀目录。通过精确的距离测量，我们消除了质量、大小和密度方面的许多不确定性，对65个云的性质进行了真实的3D空间测量。目录中的云总共包含1.1×105太阳质量，跨越116-440 pc的距离范围，并包括文献中已广泛研究的十几个云。除了在3D体积密度空间推导云的性质外，我们还通过将3D云投影到2D“天空”视图上，创建了2D尘埃消光图。我们分别测量了2D云和3D云的性质。我们比较了遵循Larson定律的云的质量和大小之间的比例关系。我们发现我们的2D投影质量-大小关系M∝r2.1符合Larson的第三关系，但我们的3D推导性质导致了约一个数量级更大的比例关系：M∝r2.9。验证了理论和数值模拟的预测，我们的结果表明，质量-大小关系对于定义云的面密度或体积密度敏感，因为质量在2D中按照面积缩放（M∝r2），在3D中按照体积缩放（M∝r3）。我们的结果表明，分子云的表面密度和体积密度在2D和3D中大致保持恒定，这与在云的质量预算中占主导地位的低密度、较大体积充填气体对云的预期情况相符。 <br><br>总结: 本研究利用Leike等人的3D尘埃地图，对太阳附近的分子云进行了全面的研究，得出了关于云的质量-大小关系的新发现，对分子云的性质提供了更精确的认识。 <div>
+We dendrogram the Leike et al. 3D dust map, leveraging its ∼1 pc spatial resolution to produce a uniform catalog of molecular clouds in the solar neighborhood. Using accurate distances, we measure the properties of 65 clouds in true 3D space, eliminating much of the uncertainty in mass, size, and density. Clouds in the catalog contain a total of 1.1 × 105M☉, span distances of 116−440 pc, and include a dozen well-studied clouds in the literature. In addition to deriving cloud properties in 3D volume density space, we create 2D dust extinction maps from the 3D data by projecting the 3D clouds onto a 2D “Sky” view. We measure the properties of the 2D clouds separately from the 3D clouds. We compare the scaling relation between the masses and sizes of clouds following Larson. We find that our 2D projected mass–size relation, M ∝ r2.1, agrees with Larson's Third Relation, but our 3D derived properties lead to a scaling relation of about one order larger: M ∝ r2.9. Validating predictions from theory and numerical simulations, our results indicate that the mass–size relation is sensitive to whether column or volume density is used to define clouds, since mass scales with area in 2D (M ∝ r2) and with volume in 3D (M ∝ r3). Our results imply a roughly constant column and volume density in 2D and 3D, respectively, for molecular clouds, as would be expected for clouds where the lower density, larger volume-filling gas dominates the cloud mass budget.
+]]></content:encoded>
+
+<pubDate>2024-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Early Growth of the Star Formation Rate Function in the Epoch of Reionization: An Approach with Rest-frame Optical Emissions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e67</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e67</guid>
+<content:encoded><![CDATA[
+<div> z ∼ 6, star formation rate function, spectral energy distribution, rest-frame UV, Schechter function
+<br><br>总结: 该研究在z ∼ 6时提出了一个星体形成率函数（SFRF），该函数基于对CANDELS GOODS-South和North领域中星系的光谱能量分布拟合推导出的恒星形成率（SFR）。研究结果显示，在z ∼ 6时的SFRF相较于仅根据红移UV观测修正尘埃衰减的光度函数（LF）估计结果有过剩，并且可与远红外LF估计相媲美。研究使用Schechter函数参数化SFRF，并在固定斜率和特征数密度的情况下得到了最佳拟合参数。而在z ∼ 6时的最佳适应SFR*与z ∼ 2时的相当，这是宇宙中星体形成活动达到顶峰的时期。此外，通过类似方法使用红移UV到光学数据进行的SFRF估计还发现，在z ∼ 2到∼6时期，SFR*大致保持不变，而在z ∼ 6以上可能有所减少。SFR*对SFRF的高SFR端敏感，这种SFR*的演变表明，在再电离时期，SFRF的高SFR端迅速增长，并达到了在z ∼ 2时观测到的水平。 <div>
+We present a star formation rate function (SFRF) at z ∼ 6 based on star formation rates (SFRs) derived by spectral energy distribution fitting on data from rest-frame UV to optical wavelengths of galaxies in the CANDELS GOODS-South and North fields. The resulting SFRF shows an excess compared to the previous estimations by using rest-frame UV luminosity functions (LFs) corrected for the dust attenuation and is comparable to that estimated from a far-infrared LF. This suggests that the number density of dust-obscured intensively star-forming galaxies at z ∼ 6 has been underestimated in the previous approach based only on rest-frame UV observations. We parameterize the SFRF using the Schechter function and obtain the best-fit parameter of the characteristic SFR (SFR*) when the faint-end slope and characteristic number density are fixed. The best-fit SFR* at z ∼ 6 is comparable to that at z ∼ 2, when the cosmic star formation activity reaches its peak. Together with SFRF estimations with a similar approach using rest-frame UV to optical data, the SFR* is roughly constant from z ∼ 2 to ∼6 and may decrease above z ∼ 6. Since the SFR* is sensitive to the high-SFR end of the SFRF, this evolution of SFR* suggests that the high-SFR end of the SFRF grows rapidly during the epoch of reionization and reaches a similar level observed at z ∼ 2.
+]]></content:encoded>
+
+<pubDate>2024-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An Examination of Polarization Mode Transitions in Pulsar Radio Emission</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0feb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0feb</guid>
+<content:encoded><![CDATA[
+<div> Stochastic fluctuations, Intensities, Polarization, Modulation, Depolarization
+总结:<br><br>本文利用统计模型来研究正交偏振模式强度的随机波动对脉冲星的无线电发射调制和去极化的影响。推导了Stokes参数、线性偏振、偏振位置角和分数偏振的分布表达式，当模式强度遵循相同或不同的概率分布时。研究了模式之间的过渡情况。当模式强度遵循相同的分布时，分数线偏振和调制指数在过渡点上是对称的。当模式强度遵循不同的分布时，对称性被破坏。在模式强度分布相同且调制指数较小时，分数线偏振是最小的，并且模式出现的频率在过渡点上迅速改变。还量化了在给定调制指数条件下通过模式的同时出现所能达到的最低分数线偏振的下限。 <div>
+A statistical model is used to determine how stochastic fluctuations in the intensities of orthogonal polarization modes contribute to the modulation and depolarization of pulsar radio emission. General expressions for the distributions of the Stokes parameters, linear polarization, polarization position angle, and fractional polarization are derived when the mode intensities follow the same or different probability distributions. The transition between modes is examined. When the mode intensities follow the same distribution, the fractional linear polarization and modulation index are symmetric about the transition. The symmetry is disrupted when the mode intensities follow different distributions. The fractional linear polarization is minimum and the mode frequency of occurrence changes rapidly at transitions where the mode intensity distributions are the same and the modulation index is small. A lower limit on the fractional linear polarization that can be attained via the simultaneous occurrence of the modes as a function of modulation index is quantified.
+]]></content:encoded>
+
+<pubDate>2024-01-22T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>“Tidal Peeling Events”: Low-eccentricity Tidal Disruption of a Star by a Stellar-mass Black Hole</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad11d3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad11d3</guid>
 <content:encoded><![CDATA[
 <div> stellar-mass black holes, tidal disruption event, hydrodynamics simulations, gradual tidal disruption, fast luminous transients
-<br>
-这篇文章讨论了恒星质量黑洞与恒星之间的接近相遇事件，通过使用平滑粒子流体力学代码PHANTOM进行了水动力学模拟。研究发现，在某些情况下，恒星的质量会慢慢被黑洞剥离，这被称为“渐进潮汐瓦解事件”。同时，研究还发现了一种新型的快速明亮的瞬变事件，即低偏心率微潮汐瓦解事件，与典型的偏心率微潮汐瓦解事件有明显不同的引力加速率和轨道演变。总结：<br><br> <div>
+<br />
+这篇文章讨论了恒星质量黑洞与恒星之间的接近相遇事件，通过使用平滑粒子流体力学代码PHANTOM进行了水动力学模拟。研究发现，在某些情况下，恒星的质量会慢慢被黑洞剥离，这被称为“渐进潮汐瓦解事件”。同时，研究还发现了一种新型的快速明亮的瞬变事件，即低偏心率微潮汐瓦解事件，与典型的偏心率微潮汐瓦解事件有明显不同的引力加速率和轨道演变。总结：<br /><br /> <div>
 Close encounters between stellar-mass black holes (BHs) and stars occur frequently in dense star clusters and in the disks of active galactic nuclei. Recent studies have shown that in highly eccentric close encounters, the star can be tidally disrupted by the BH in a microtidal disruption event (microTDE), resulting in rapid mass accretion and possibly bright electromagnetic signatures. Here we consider a scenario in which the star might approach the stellar-mass BH in a gradual, nearly circular inspiral, under the influence of dynamical friction in a circum-binary gas disk or three-body interactions in a star cluster. We perform hydrodynamics simulations of this scenario using the smoothed particle hydrodynamics code PHANTOM. We find that under certain circumstances (for initial eccentricity e0 ≳ 0.4 and penetration factor β = 1, or e0 &lt; 0.4 and β ≲ 0.67), the mass of the star is slowly stripped away by the BH. We call this gradual tidal disruption a “tidal-peeling event.” Additionally, we discover that some low-eccentricity microTDEs (e0 &lt; 0.4 and β = 1) are a new form of fast luminous transients similar to parabolic microTDEs. Depending on the initial distance and eccentricity of the encounter, these low-eccentricity microTDEs might exhibit significant accretion rates and orbital evolution distinct from those of a typical (eccentric) microTDE.
 ]]></content:encoded>
-
 <pubDate>2024-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +103,9 @@ Close encounters between stellar-mass black holes (BHs) and stars occur frequent
 <content:encoded><![CDATA[
 <div> DC/RC, CME, eruptive-flare, PIL, photospheric
 
-这项研究分析了太阳活动区产生日冕质量抛射（CME）的能力与光球直接电流与返程电流的比值∣DC/RC∣的关系。研究发现，具有∣DC/RC∣> 1.63和PIL剪切角> 45°（平均值分别为3.2°和68°）的喷发性耀斑源区往往具有更高的CME产生潜力，而对于困禁性耀斑源区，这两个量的平均值要小一些（分别为2.2°和68°），但存在重叠区域。此外，研究还发现一些特定的困禁性耀斑源区具有∣DC/RC∣接近于1的情况，PIL剪切角很低，且没有明显的EDC签名，因此不太可能产生CME。研究结论指出，∣DC/RC∣和PIL剪切角在评估CME产生潜力方面具有几乎相同的效果，比文献中提出的其他代理变量更有效。此外，研究还讨论了对∣DC/RC∣计算和结果解释进行细致考量的特定案例，并提出可以通过纳入日冕测量指标如衰减指数来改进光球CME产生潜力的代理变量。 <br><br>总结: 这项研究分析了光球直接电流与返程电流比值（∣DC/RC∣）以及PIL剪切角与太阳活动区产生日冕质量抛射（CME）的关系，揭示了它们在评估CME产生潜力方面的重要性，以及如何进一步改进这些代理变量的方法。 <div>
+这项研究分析了太阳活动区产生日冕质量抛射（CME）的能力与光球直接电流与返程电流的比值∣DC/RC∣的关系。研究发现，具有∣DC/RC∣> 1.63和PIL剪切角> 45°（平均值分别为3.2°和68°）的喷发性耀斑源区往往具有更高的CME产生潜力，而对于困禁性耀斑源区，这两个量的平均值要小一些（分别为2.2°和68°），但存在重叠区域。此外，研究还发现一些特定的困禁性耀斑源区具有∣DC/RC∣接近于1的情况，PIL剪切角很低，且没有明显的EDC签名，因此不太可能产生CME。研究结论指出，∣DC/RC∣和PIL剪切角在评估CME产生潜力方面具有几乎相同的效果，比文献中提出的其他代理变量更有效。此外，研究还讨论了对∣DC/RC∣计算和结果解释进行细致考量的特定案例，并提出可以通过纳入日冕测量指标如衰减指数来改进光球CME产生潜力的代理变量。 <br /><br />总结: 这项研究分析了光球直接电流与返程电流比值（∣DC/RC∣）以及PIL剪切角与太阳活动区产生日冕质量抛射（CME）的关系，揭示了它们在评估CME产生潜力方面的重要性，以及如何进一步改进这些代理变量的方法。 <div>
 It has been suggested that the ratio of photospheric direct to return current, ∣DC/RC∣, may be a better proxy for assessing the ability of solar active regions to produce a coronal mass ejection (CME) than others such as the amount of shear along the polarity inversion line (PIL). To test this conjecture, we measure both quantities prior to eruptive and confined flares of varying magnitude. We find that eruptive-flare source regions have ∣DC/RC∣ &gt; 1.63 and PIL shear above 45° (average values of 3.°2 and 68°, respectively), tending to be larger for stronger events, while both quantities are on average smaller for confined-flare source regions (2.°2 and 68°, respectively), albeit with substantial overlap. Many source regions, especially those of eruptive X-class flares, exhibit elongated direct currents (EDCs) bracketing the eruptive PIL segment, which typically coincide with areas of continuous PIL shear above 45°. However, a small subset of confined-flare source regions have ∣DC/RC∣ close to unity, very low PIL shear (&lt;38°), and no clear EDC signatures, rendering such regions less likely to produce a CME. A simple quantitative analysis reveals that ∣DC/RC∣ and PIL shear are almost equally good proxies for assessing CME-productivity, comparable to other proxies suggested in the literature. We also show that an inadequate selection of the current-integration area typically yields a substantial underestimation of ∣DC/RC∣, discuss specific cases that require careful consideration for ∣DC/RC∣ calculation and interpretation of the results, and suggest improving photospheric CME-productivity proxies by incorporating coronal measures such as the decay index.
 ]]></content:encoded>
-
 <pubDate>2024-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,11 +114,10 @@ It has been suggested that the ratio of photospheric direct to return current, �
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad12b6</guid>
 <content:encoded><![CDATA[
 <div> NGC 1068, NGC 253, γ-ray emission, spectral-change activity, Fermi γ-ray Space Telescope
-<br>
-通过对 NGC 1068 和 NGC 253 的γ射线数据进行详细分析，研究人员发现NGC 1068在≥2 GeV能量范围内显示出谱特征活动，并且长期统计显著的变化发生在NGC 253的≥5 GeV能量范围内。研究人员怀疑NGC 1068的γ射线可能与喷流（或流出）有关，并认为NGC 253的长期统计显著变化可能与该星系中心的超高能（VHE）射线有关，这可以通过VHE观测进一步研究。<br><br>总结: 本研究通过对NGC 1068和NGC 253的γ射线进行详细分析，发现了两者在不同能量范围的谱特征和长期统计显著变化。NGC 1068可能与喷流有关，而NGC 253的长期变化可能与超高能射线有关。这些发现对于了解这些星系的γ射线发射机制具有重要意义。 <div>
+<br />
+通过对 NGC 1068 和 NGC 253 的γ射线数据进行详细分析，研究人员发现NGC 1068在≥2 GeV能量范围内显示出谱特征活动，并且长期统计显著的变化发生在NGC 253的≥5 GeV能量范围内。研究人员怀疑NGC 1068的γ射线可能与喷流（或流出）有关，并认为NGC 253的长期统计显著变化可能与该星系中心的超高能（VHE）射线有关，这可以通过VHE观测进一步研究。<br /><br />总结: 本研究通过对NGC 1068和NGC 253的γ射线进行详细分析，发现了两者在不同能量范围的谱特征和长期统计显著变化。NGC 1068可能与喷流有关，而NGC 253的长期变化可能与超高能射线有关。这些发现对于了解这些星系的γ射线发射机制具有重要意义。 <div>
 Intrigued by recent high-energy study results for nearby galaxies with γ-ray emission and in particular NGC 1068 that has been detected as a neutrino-emitting source by the IceCube Neutrino Observatory, we conduct a detailed analysis of the γ-ray data of the galaxies NGC 1068 and NGC 253, obtained with the Large Area Telescope on board the Fermi γ-ray Space Telescope. By checking their possible spectral features and then constructing light curves in the corresponding energy ranges, we identify spectral-change activity from NGC 1068 in the ≥2 GeV energy range and long-term, statistically significant changes for NGC 253 in the ≥5 GeV energy range. In the former, the emission appears harder in two half-year periods than in the otherwise “quiescent” state. In the latter, an ∼two-fold decrease in the detection significance after MJD = 57023 is clearly revealed by the test-statistic maps we obtain. Considering the previous studies carried out and the various models proposed for the γ-ray emissions of the two sources, we discuss the implications of our findings. We suspect that a jet (or outflow) in NGC 1068 might contribute to the γ-ray emission. The nature of the long-term statistically significant changes for NGC 253 is not clear, but since the part of the GeV emission may be connected to the very-high-energy (VHE) emission from the center of the galaxy, it could be further probed with VHE observations.
 ]]></content:encoded>
-
 <pubDate>2024-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -52,10 +129,9 @@ Intrigued by recent high-energy study results for nearby galaxies with γ-ray em
 
 这篇论文重新探讨了与小麦哲伦星云、大麦哲伦星云（LMC）、和0.1太阳金属丰度一致的金属丰富旋转双重不稳定超新星（PISNe）模型。通过计算多个模型，我们打算澄清PISNe的质量范围和喷射出的56Ni质量，以及母体的质量损失历史。我们发现选择Wolf-Rayet（WR）质量损失率是很重要的，我们采用了最近提出的Sander & Vink的速率，它覆盖了PISNe前体的质量范围。我们发现慢速旋转降低了PISN范围，因为旋转混合导致了核心质量的增加。另一方面，当我们假设观测到的OB星的典型旋转速度时，质量损失增加变得更加显著，最终恒星的质量低于非旋转模型。因此，对于这些快速旋转模型，亮度超新星（SN）的典型质量范围，其56Ni质量高于10M⊙，分别为LMC和0.1Z⊙金属丰度，超过400和350M⊙。有趣的是，与以往的研究不同，我们发现大多数情况下是富氧的母体。这种富氧的母体可能与最近确定的PISN候选SN2018ibb一致。He-丰富的母体仅在相对暗淡和金属贫（Z ≲ 0.1Z⊙）的PISNe中出现。我们还讨论了金属丰富PISNe的黑洞质量间隙，并展示了间隙的上限低于III类群体的情况。
 
-<br><br>总结: 本研究重新探讨了金属丰富旋转双重不稳定超新星（PISNe）模型，以及与小麦哲伦星云、大麦哲伦星云（LMC）、和0.1太阳金属丰度一致的质量范围和地方。特别地，与之前研究不同的是发现了富氧的母体，这一发现与最近确定的PISN候选SN2018ibb相符。同时还讨论了金属丰富PISNe的黑洞质量间隙。 <div>
+<br /><br />总结: 本研究重新探讨了金属丰富旋转双重不稳定超新星（PISNe）模型，以及与小麦哲伦星云、大麦哲伦星云（LMC）、和0.1太阳金属丰度一致的质量范围和地方。特别地，与之前研究不同的是发现了富氧的母体，这一发现与最近确定的PISN候选SN2018ibb相符。同时还讨论了金属丰富PISNe的黑洞质量间隙。 <div>
 In this paper, we revisit metal-enriched rotating pair-instability supernovae (PISNe) models for metallicities consistent with the Small Magellanic Cloud, the Large Magellanic Cloud (LMC), and 0.1Z⊙. By calculating multiple models, we intend to clarify mass ranges and the ejected 56Ni masses from the PISNe, and mass-loss histories for progenitors. We find that the choice of the Wolf–Rayet (WR) mass-loss rates is important, and we adopt the recently proposed rate of Sander &amp; Vink, which covers the mass ranges for PISNe progenitors. We show that slow rotation lowers the PISN range because the core mass increases by rotational mixing. On the other hand, when we assume a typical rotation speed for observed OB stars, the mass-loss increase becomes more significant, and the final stellar masses are lower than in nonrotating models. As a result, the typical mass range for bright supernovae (SNe), with a 56Ni mass higher than 10M⊙ for these fast-rotating models is more than 400 and 350M⊙ for LMC and 0.1Z⊙ metallicities, respectively. It is interesting that unlike in previous works, we find oxygen-rich progenitors for most cases. This O-rich progenitor may be consistent with the recently identified PISN candidate SN2018ibb. He-rich progenitors are seen only for relatively dim and metal-poor (Z ≲ 0.1Z⊙) PISNe. We also discuss the black hole mass gap for metal-enriched PISNe, and we show that the upper bound for the gap is lower than in the Population III case.
 ]]></content:encoded>
-
 <pubDate>2024-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -63,15 +139,13 @@ In this paper, we revisit metal-enriched rotating pair-instability supernovae (P
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1521</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1521</guid>
 <content:encoded><![CDATA[
-<div> 磁流体力学模拟, 太阳, 磁流体, 爆发, 观测 <br>
+<div> 磁流体力学模拟, 太阳, 磁流体, 爆发, 观测 <br />
 总结: 
 这篇文章使用零β假设进行数据约束模拟，研究了2012年5月5日太阳活动区11474中一个丝状物的强烈旋转和失败喷发的机制。他们发现两个磁流体扭曲构造在系统中，并且提出了一个可能的逆向旋转的猜测。模拟结果与观测特征吻合，包括约130°的丝状物大角度旋转、受限的喷发和耀斑丝状物振子。他们还发现了与观测中的丝状物和热通道对应的两个磁流体扭曲构造，它们在模拟中都经历了受限的喷发。他们指出MFR1的旋转与轴向的剪切场分量有关，并且MFR1的扭结和螺旋度的时间演化是可能逆转旋转的线索。相互作用也对大角度旋转和喷发失败起到了作用。 <div>
 We perform a data-constrained simulation with the zero-β assumption to study the mechanisms of strong rotation and failed eruption of a filament in active region 11474 on 2012 May 5 observed by Solar Dynamics Observatory and Solar Terrestrial Relations Observatory. The initial magnetic field is provided by nonlinear force-free field extrapolation, which is reconstructed by the regularized Biot–Savart laws and magnetofrictional method. Our simulation reproduces most observational features very well, e.g., the filament large-angle rotation of about 130°, the confined eruption, and the flare ribbons, allowing us to analyze the underlying physical processes behind observations. We discover two flux ropes in the sigmoid system, an upper flux rope (MFR1) and a lower flux rope (MFR2), which correspond to the filament and hot channel in observations, respectively. Both flux ropes undergo confined eruptions. MFR2 grows by tether-cutting reconnection during the eruption. The rotation of MFR1 is related to the shear-field component along the axis. The toroidal field tension force and the nonaxisymmetry forces confine the eruption of MFR1. We also suggest that the mutual interaction between MFR1 and MFR2 contributes to the large-angle rotation and the eruption failure. In addition, we calculate the temporal evolution of the twist and writhe of MFR1, which is a hint of probable reversal rotation.
 ]]></content:encoded>
-
 <pubDate>2024-01-22T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>On the Role of Alfvénic Fluctuations as Mediators of Coherence within Interplanetary Coronal Mass Ejections: Investigation of Multi-spacecraft Measurements at 1 au</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0ed1</link>
