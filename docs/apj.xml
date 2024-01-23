@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Rapid Generation of Kilonova Light Curves Using Conditional Variational Autoencoder</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad02f4</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 关键词: GW170817, 二进制中子星合并, kilonova, CVAE, 多信使天体物理
 
-总结:<br>
+总结:<br />
 GW170817观测到了第一个二进制中子星合并的光学对应体，并且开启了多信使天体物理的新时代。结合引力波数据和光学对应体的信息揭示了关于合并系统性质的丰富信息。目前仅有一次GW事件观测到了kilonova，限制了我们对其起源和传播的精确理解。本文使用了条件变分自动编码器(CVAE)对两种不同时间长度的kilonova模型进行训练，可以快速准确地生成kilonova光变曲线。实施这一技术可以提供快速和可靠的结果，为多信使天体物理研究提供了新的工具。 <div>
 The discovery of the optical counterpart, along with the gravitational waves (GWs) from GW170817, of the first binary neutron star merger has opened up a new era for multimessenger astrophysics. Combining the GW data with the optical counterpart, also known as AT 2017gfo and classified as a kilonova, has revealed the nature of compact binary merging systems by extracting enriched information about the total binary mass, the mass ratio, the system geometry, and the equation of state. Even though the detection of kilonovae has brought about a revolution in the domain of multimessenger astronomy, there has been only one kilonova from a GW-detected binary neutron star merger event confirmed so far, and this limits the exact understanding of the origin and propagation of the kilonova. Here, we use a conditional variational autoencoder (CVAE) trained on light-curve data from two kilonova models having different temporal lengths, and consequently, generate kilonova light curves rapidly based on physical parameters of our choice with good accuracy. Once the CVAE is trained, the timescale for light-curve generation is of the order of a few milliseconds, which is a speedup of the generation of light curves by 1000 times as compared to the simulation. The mean squared error between the generated and original light curves is typically 0.015 with a maximum of 0.08 for each set of considered physical parameters, while having a maximum of ≈0.6 error across the whole parameter space. Hence, implementing this technique provides fast and reliably accurate results.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -23,12 +23,11 @@ The discovery of the optical counterpart, along with the gravitational waves (GW
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0895</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0895</guid>
 <content:encoded><![CDATA[
-<div> TRAPPIST-1e, transit spectra, stellar energetic particle event, biosignatures, atmospheric ionization<br>
-<br>
+<div> TRAPPIST-1e, transit spectra, stellar energetic particle event, biosignatures, atmospheric ionization<br />
+<br />
 TRAPPIST-1e行星的大气离子化，中性和离子化学以及大气生物标志的影响是本研究的关键点。通过模拟六种不同情境，发现类似卡林顿事件会大幅增加大气离子化并引起离子化学和光谱传输特征的显著变化。氮 dioxide含量大幅增加，水带深度减小，甲烷带减少，臭氧减少。这显示了必须考虑高能粒子效应，才能正确识别臭氧和甲烷等生物标志信号。另外，发现硝酸在湿润和枯落大气中的特征是不同的。总结：TRAPPIST-1e大气在强烈的恒星能量粒子事件下会出现显著变化，需要考虑高能粒子的影响才能准确识别生物标志信号。 <div>
 Ongoing observing projects like the James Webb Space Telescope and future missions offer the chance to characterize Earth-like exoplanetary atmospheres. Thereby, M dwarfs are preferred targets for transit observations, for example, due to their favorable planet–star contrast ratio. However, the radiation and particle environment of these cool stars could be far more extreme than what we know from the Sun. Thus, knowing the stellar radiation and particle environment and its possible influence on detectable biosignatures—in particular, signs of life like ozone and methane—is crucial to understanding upcoming transit spectra. In this study, with the help of our unique model suite INCREASE, we investigate the impact of a strong stellar energetic particle event on the atmospheric ionization, neutral and ion chemistry, and atmospheric biosignatures of TRAPPIST-1e. Therefore, transit spectra for six scenarios are simulated. We find that a Carrington-like event drastically increases atmospheric ionization and induces substantial changes in ion chemistry and spectral transmission features: all scenarios show high event-induced amounts of nitrogen dioxide (i.e., at 6.2 μm), a reduction of the atmospheric transit depth in all water bands (i.e., at 5.5–7.0 μm), a decrease of the methane bands (i.e., at 3.0–3.5 μm), and depletion of ozone (i.e., at ∼9.6 μm). Therefore, it is essential to include high-energy particle effects to correctly assign biosignature signals from, e.g., ozone and methane. We further show that the nitric acid feature at 11.0–12.0 μm, discussed as a proxy for stellar particle contamination, is absent in wet-dead atmospheres.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -37,9 +36,9 @@ Ongoing observing projects like the James Webb Space Telescope and future missio
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0a98</guid>
 <content:encoded><![CDATA[
 <div> JWST-CEERS, quenching, massive galaxies, black hole, stellar potential
-<br>
+<br />
 利用JWST-CEERS数据，对宇宙早期（0.5–3亿年）质量巨大星系（M* > 10^9.5M⊙）中星形成的抑制进行了分析。通过使用先进的统计方法，对多维和相互关联的参数空间进行准确限制，确定了星系停止形成恒星的内在依赖性。在两种最先进的宇宙学模拟（IllustrisTNG和EAGLE）中，确定了关键的可验证预测，预测星系的停止形成恒星应该由早期宇宙中的超大质量黑洞质量所调控。在光度观测中，星系的重力潜能（ϕ*）被发现是超大质量黑洞质量的最佳替代品。在JWST-CEERS中，星系的停星潜能在所有时期（z = 0–8）都是质量巨大星系停止形成恒星的最具预测性的参数。这些结果强烈暗示了一个稳定的停星机制在宇宙历史上一直在起作用，与星系的中心重力潜能密切相关。在宇宙模型中，这种联系通过超大质量黑洞在深潜势井中形成和增长，随后通过混合的主动星系核反馈对星系进行停星解释。 
-<br><br>总结: 
+<br /><br />总结: 
 1. 本研究利用JWST-CEERS数据分析了宇宙早期质量巨大星系中的停星现象。
 2. 通过统计方法确定了停星与相关参数的内在依赖性。
 3. 两种宇宙学模拟都预测了停星应该由超大质量黑洞质量调控。
@@ -47,7 +46,6 @@ Ongoing observing projects like the James Webb Space Telescope and future missio
 5. 结果暗示了一个稳定的停星机制在宇宙历史上一直在起作用。 <div>
 We present an analysis of the quenching of star formation in massive galaxies (M* &gt; 109.5M⊙) within the first 0.5–3 Gyr of the Universe’s history utilizing JWST-CEERS data. We utilize a combination of advanced statistical methods to accurately constrain the intrinsic dependence of quenching in a multidimensional and intercorrelated parameter space. Specifically, we apply random forest classification, area statistics, and a partial correlation analysis to the JWST-CEERS data. First, we identify the key testable predictions from two state-of-the-art cosmological simulations (IllustrisTNG and EAGLE). Both simulations predict that quenching should be regulated by supermassive black hole mass in the early Universe. Furthermore, both simulations identify the stellar potential (ϕ*) as the optimal proxy for black hole mass in photometric data. In photometric observations, where we have no direct constraints on black hole masses, we find that the stellar potential is the most predictive parameter of massive galaxy quenching at all epochs from z = 0–8, exactly as predicted by simulations for this sample. The stellar potential outperforms stellar mass, galaxy size, galaxy density, and Sérsic index as a predictor of quiescence at all epochs probed in JWST-CEERS. Collectively, these results strongly imply a stable quenching mechanism operating throughout cosmic history, which is closely connected to the central gravitational potential in galaxies. This connection is explained in cosmological models via massive black holes forming and growing in deep potential wells, and subsequently quenching galaxies through a mix of ejective and preventative active galactic nucleus feedback.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -56,10 +54,9 @@ We present an analysis of the quenching of star formation in massive galaxies (M
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0da3</guid>
 <content:encoded><![CDATA[
 <div> 核爆发超新星遗迹、伽玛射线、多线性分解、哈德子、轻子
-<br><br>这项研究使用了一种新的方法来量化TeV伽玛射线超新星遗迹中的哈德子和轻子伽玛射线成分。他们发现在两个核心塌缩超新星遗迹中，哈德子和轻子伽玛射线的比例相似，验证了重要的哈德子伽玛射线成分。研究结果表明，宇宙射线能量小于100TeV的方案与超新星遗迹是这些银河宇宙射线的主要来源相容。这个发现强调了目标星际质子的重要性，特别是它们的空间分布，对于确定负责伽玛射线发射的粒子类型是至关重要的。 <br> <div>
+<br /><br />这项研究使用了一种新的方法来量化TeV伽玛射线超新星遗迹中的哈德子和轻子伽玛射线成分。他们发现在两个核心塌缩超新星遗迹中，哈德子和轻子伽玛射线的比例相似，验证了重要的哈德子伽玛射线成分。研究结果表明，宇宙射线能量小于100TeV的方案与超新星遗迹是这些银河宇宙射线的主要来源相容。这个发现强调了目标星际质子的重要性，特别是它们的空间分布，对于确定负责伽玛射线发射的粒子类型是至关重要的。 <br /> <div>
 Fukui et al. quantified the hadronic and leptonic gamma-rays in the young TeV gamma-ray shell-type supernova remnant (SNR) RX J1713.7-3946 (RX J1713), and demonstrated that gamma rays are a combination of hadronic and leptonic gamma-ray components with a ratio of ∼6: 4 in gamma-ray counts Ng. This discovery, which adopted a new methodology of multi-linear gamma-ray decomposition, was the first quantification of the two gamma-ray components. In the present work, we applied the same methodology to another TeV gamma-ray shell-type SNR RX J0852.0-4622 (RXJ0852) in 3D space characterized by (the interstellar proton column density Np)-(the nonthermal X-ray count Nx)-[Ng], and quantified the hadronic and leptonic gamma-ray components as having a ratio of ∼5:5 in Ng. The present work adopted the fitting of two/three flat planes in 3D space instead of a single flat plane, which allowed suppression of the fitting errors. This quantification indicates that hadronic and leptonic gamma-rays are of the same order of magnitude in these two core-collapse SNRs, verifying the significant hadronic gamma-ray components. We argue that the target interstellar protons, in particular their spatial distribution, are essential in any attempts to identify the type of particles responsible for gamma-ray emission. The present results confirm that cosmic-ray (CR) energy ≲100 TeV is compatible with a scheme in which SNRs are the dominant source of these Galactic CRs.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -67,7 +64,7 @@ Fukui et al. quantified the hadronic and leptonic gamma-rays in the young TeV ga
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f97</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f97</guid>
 <content:encoded><![CDATA[
-<div> 非线性引力演化导致观测到的宇宙密度场中出现强烈的非线性，导致功率谱协方差中出现正的非对角相关性。这导致了功率谱中的信息饱和，例如，来自非线性功率谱的中微子质量约束比其线性对应物低约2倍，z = 0。本文探讨了非线性重构方法如何改善非线性宇宙场中的宇宙信息。通过将非线性重构应用于Quijote模拟中的冷暗物质场，我们发现，非线性重构可以显著改善宇宙参数的约束，几乎达到线性理论极限。对于中微子质量，结果仅比线性功率谱低12％，即理论最佳结果。这使非线性重构成为从当前和即将到来的星系调查中提取中微子信息的高效而有用的方法。<br><br>总结:
+<div> 非线性引力演化导致观测到的宇宙密度场中出现强烈的非线性，导致功率谱协方差中出现正的非对角相关性。这导致了功率谱中的信息饱和，例如，来自非线性功率谱的中微子质量约束比其线性对应物低约2倍，z = 0。本文探讨了非线性重构方法如何改善非线性宇宙场中的宇宙信息。通过将非线性重构应用于Quijote模拟中的冷暗物质场，我们发现，非线性重构可以显著改善宇宙参数的约束，几乎达到线性理论极限。对于中微子质量，结果仅比线性功率谱低12％，即理论最佳结果。这使非线性重构成为从当前和即将到来的星系调查中提取中微子信息的高效而有用的方法。<br /><br />总结:
 1. 非线性引力演化导致宇宙密度场中出现强烈的非线性，功率谱协方差中出现正的非对角相关性。
 2. 非线性重构方法可以改善非线性宇宙场中的宇宙信息。
 3. 运用非线性重构到Quijote模拟的冷暗物质场，可显著改善宇宙参数的约束，几乎达到线性理论极限。
@@ -75,7 +72,6 @@ Fukui et al. quantified the hadronic and leptonic gamma-rays in the young TeV ga
 5. 非线性重构是一种高效且有用的方法，可从当前和即将到来的星系调查中提取中微子信息。 <div>
 Nonlinear gravitational evolution induces strong nonlinearities in the observed cosmological density fields, leading to positive off-diagonal correlations in the power spectrum covariance. This has caused the information saturation in the power spectrum, e.g., the neutrino mass constraints from the nonlinear power spectra are lower than their linear counterparts by a factor of ∼2 at z = 0. In this paper, we explore how nonlinear reconstruction methods improve the cosmological information from nonlinear cosmic fields. By applying nonlinear reconstruction to cold dark matter fields from the Quijote simulations, we find that nonlinear reconstruction can improve the constraints on cosmological parameters significantly, nearly reaching the linear theory limit. For neutrino mass, the result is only 12% lower than the linear power spectrum, i.e., the theoretical best result. This makes nonlinear reconstruction an efficient and useful method to extract neutrino information from current and upcoming galaxy surveys.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -85,10 +81,9 @@ Nonlinear gravitational evolution induces strong nonlinearities in the observed 
 <content:encoded><![CDATA[
 <div> 关键词: 测量技术, 星系属性, 红化, He ii谱线, Hubble Space Telescope
 总结: 
-本文使用了一种新的技术来利用Wolf-Rayet星的恒星风产生的He iiλ1640和λ4686发射线来测量尘埃红移。研究发现，He ii线的红移倾向于更高，而UV连续谱的红移倾向于更低，需要更大的样本量来确认这一趋势。这可能表明一个年龄序列，探测到不同阶段的尘埃清除。此外，广泛的He ii线也已经在比我们的样本更遥远的星系中检测到，为估算距离约100 Mpc的最年轻恒星群的尘埃红移提供了机会。 He ii线比较容易测量，因此可能为测量星系属性提供了一种有效的途径。 <br><br> <div>
+本文使用了一种新的技术来利用Wolf-Rayet星的恒星风产生的He iiλ1640和λ4686发射线来测量尘埃红移。研究发现，He ii线的红移倾向于更高，而UV连续谱的红移倾向于更低，需要更大的样本量来确认这一趋势。这可能表明一个年龄序列，探测到不同阶段的尘埃清除。此外，广泛的He ii线也已经在比我们的样本更遥远的星系中检测到，为估算距离约100 Mpc的最年轻恒星群的尘埃红移提供了机会。 He ii线比较容易测量，因此可能为测量星系属性提供了一种有效的途径。 <br /><br /> <div>
 The ability to determine galaxy properties such as masses, ages, and star formation rates robustly is critically limited by the ability to measure dust attenuation accurately. Dust reddening is often characterized by comparing observations to models of either nebular recombination lines or the UV continuum. Here, we use a new technique to measure dust reddening by exploiting the He iiλ1640 and λ4686 emission lines originating from the stellar winds of Wolf–Rayet stars. The intrinsic line ratio is determined by atomic physics, enabling an estimate of the stellar reddening similar to how the Balmer lines probe gas-emission reddening. The He ii line ratio is measured from UV and optical spectroscopy using the Space Telescope Imaging Spectrograph on board the Hubble Space Telescope for eight nearby galaxies hosting young massive star clusters. We compare our results to dust reddening values estimated from UV spectral slopes and from Balmer line ratios and find tentative evidence for systematic differences. The reddening derived from the He ii lines tends to be higher, whereas that from the UV continuum tends to be lower. A larger sample size is needed to confirm this trend. If confirmed, this may indicate an age sequence probing different stages of dust clearing. Broad He ii lines have also been detected in galaxies more distant than in our sample, providing the opportunity to estimate the dust reddening of the youngest stellar populations out to distances of ∼100 Mpc.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -102,7 +97,6 @@ The ability to determine galaxy properties such as masses, ages, and star format
 核心坍缩超新星的爆炸能量可能有所不同，当爆炸能量较低时，初始冲击波速度可能会减速至与母体速度接近。这会导致重力对爆炸流体动力学的影响，并可能导致冲击波在母体星内大半径处停滞。研究人员通过发展一种微扰方法来模拟这种弱爆炸的特殊属性，并得出结论，如果爆炸能量低于临界值，冲击波将在母体内停滞。该模型在与流体力学模拟结果的对比中表现出良好的一致性，准确预测了冲击波位置、速度以及停滞位置。这些结果对于黑洞形成和新发现的快速X射线暴（FXTs）具有重要影响。特别是，研究人员推测“幻影冲击波突破”——即星体外层冲破停滞冲击波——可以产生X射线爆发，但不会有随后的光学/紫外线迹象，类似于FXTs。该模型还预测了X射线爆发的上升时间td和平均光子能量kT之间存在反相关关系，大致为T∝{t}_{{\rm{d}}}^{-5/8}。 <div>
 Observations and theory suggest that core-collapse supernovae can span a range of explosion energies, and when sub-energetic the shockwave initiating the explosion can decelerate to speeds comparable to the escape speed of the progenitor. In these cases, gravity will complicate the explosion hydrodynamics and conceivably cause the shock to stall at large radii within the progenitor star. To understand these unique properties of weak explosions, we develop a perturbative approach for modeling the propagation of an initially strong shock into a time-steady, infalling medium in the gravitational field of a compact object. This method writes the shock position and the post-shock velocity, density, and pressure as series solutions in the (time-dependent) ratio of the freefall speed to the shock speed, and predicts that the shock stalls within the progenitor if the explosion energy is below a critical value. We show that our model agrees very well with hydrodynamic simulations, and accurately predicts (for example) the time-dependent shock position and velocity and the radius at which the shock stalls. Our results have implications for black hole formation and the newly detected class of fast X-ray transients (FXTs). In particular, we propose that a “phantom shock breakout”—where the outer edge of the star falls through a stalled shock—can yield a burst of X-rays without a subsequent optical/UV signature, similar to FXTs. This model predicts the rise time of the X-ray burst, td, and the mean photon energy, kT, are anticorrelated, approximately as T\propto {t}_{{\rm{d}}}^{-5/8}.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -111,13 +105,11 @@ Observations and theory suggest that core-collapse supernovae can span a range o
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1594</guid>
 <content:encoded><![CDATA[
 <div> 关键词: ion-beam, Weibel instability, collisionless shocks, magnetized media, magnetic reconnection
-总结: 本研究研究了在弱磁化介质中强碰撞无关震荡中离子束Weibel不稳定性的演变。结果发现，有限的背景磁场实质上影响了不稳定性的线性和非线性阶段，具体取决于背景电子是不是表现出磁化。对于磁化电子的粒子在电荷模拟显示了一种类似发电机的磁场放大机制，最终导致了自发的磁重联。我们得出结论，这种情景适用于典型的年轻超新星遗迹震荡。<br><br>总结: 本研究考察了在弱磁化介质中强碰撞无关震荡中离子束Weibel不稳定性的发展。研究发现，背景磁场对不稳定性的线性和非线性阶段都有显著影响，具体取决于背景电子的磁化行为。通过对磁化电子的粒子在电荷模拟，发现了一种类似发电机的磁场放大机制，最终导致了自发的磁重联。研究认为，这种情景适用于典型的年轻超新星遗迹震荡。 <div>
+总结: 本研究研究了在弱磁化介质中强碰撞无关震荡中离子束Weibel不稳定性的演变。结果发现，有限的背景磁场实质上影响了不稳定性的线性和非线性阶段，具体取决于背景电子是不是表现出磁化。对于磁化电子的粒子在电荷模拟显示了一种类似发电机的磁场放大机制，最终导致了自发的磁重联。我们得出结论，这种情景适用于典型的年轻超新星遗迹震荡。<br /><br />总结: 本研究考察了在弱磁化介质中强碰撞无关震荡中离子束Weibel不稳定性的发展。研究发现，背景磁场对不稳定性的线性和非线性阶段都有显著影响，具体取决于背景电子的磁化行为。通过对磁化电子的粒子在电荷模拟，发现了一种类似发电机的磁场放大机制，最终导致了自发的磁重联。研究认为，这种情景适用于典型的年轻超新星遗迹震荡。 <div>
 We examine the evolution of ion-beam Weibel instability at strong collisionless shocks in weakly magnetized media. We find that a finite background magnetic field substantially affects both the linear and nonlinear phases of the instability, depending on whether the background electrons behave magnetized or not. Particle-in-cell simulations for magnetized electrons identify a dynamo-like mechanism of magnetic field amplification, which eventually leads to spontaneous magnetic reconnection. We conclude that this scenario is applicable to typical young supernova remnant shocks.
 ]]></content:encoded>
-
 <pubDate>2024-01-23T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Proton- and Alpha-driven Instabilities in an Ion Cyclotron Wave Event</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad05ba</link>
