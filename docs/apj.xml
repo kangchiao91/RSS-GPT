@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Disentangling the Black Hole Mass Spectrum with Photometric Microlensing Surveys</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad09bf</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad09bf</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 星体形成, 天体物理学, 引力微透镜, 贝叶斯框架, 原始黑洞
-总结: 本研究利用贝叶斯框架处理引力微透镜数据，推断黑洞的类型和贡献，尤其对于平均质量为30M⊙的原始黑洞群体有较好效果。该方法能够在不确定的情况下对群体特征进行推测，成为了当前光度微透镜调查中提取原始黑洞丰度约为25%的领先方法。但在模拟中发现，难以推断恒星起源黑洞的质量下限，这对了解黑洞质量间隔的重要观测结果产生了挑战。这项工作为从当前光度微透镜调查中提取尖端原始黑洞丰度约束奠定了基础。 <br><br> <div>
+总结: 本研究利用贝叶斯框架处理引力微透镜数据，推断黑洞的类型和贡献，尤其对于平均质量为30M⊙的原始黑洞群体有较好效果。该方法能够在不确定的情况下对群体特征进行推测，成为了当前光度微透镜调查中提取原始黑洞丰度约为25%的领先方法。但在模拟中发现，难以推断恒星起源黑洞的质量下限，这对了解黑洞质量间隔的重要观测结果产生了挑战。这项工作为从当前光度微透镜调查中提取尖端原始黑洞丰度约束奠定了基础。 <br /><br /> <div>
 From the formation mechanisms of stars and compact objects to nuclear physics, modern astronomy frequently leverages surveys to understand populations of objects to answer fundamental questions. The population of dark and isolated compact objects in the Galaxy contains critical information related to many of these topics, but is only practically accessible via gravitational microlensing. However, photometric microlensing observables are degenerate for different types of lenses, and one can seldom classify an event as involving either a compact object or stellar lens on its own. To address this difficulty, we apply a Bayesian framework that treats lens type probabilistically and jointly with a lens population model. This method allows lens population characteristics to be inferred despite intrinsic uncertainty in the lens class of any single event. We investigate this method’s effectiveness on a simulated ground-based photometric survey in the context of characterizing a hypothetical population of primordial black holes (PBHs) with an average mass of 30M⊙. On simulated data, our method outperforms current black hole (BH) lens identification pipelines and characterizes different subpopulations of lenses while jointly constraining the PBH contribution to dark matter to ≈25%. Key to robust inference, our method can marginalize over population model uncertainty. We find the lower mass cutoff for stellar origin BHs, a key observable in understanding the BH mass gap, particularly difficult to infer in our simulations. This work lays the foundation for cutting-edge PBH abundance constraints to be extracted from current photometric microlensing surveys.
 ]]></content:encoded>
-
 <pubDate>2024-01-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -21,15 +21,13 @@ From the formation mechanisms of stars and compact objects to nuclear physics, m
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0c59</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0c59</guid>
 <content:encoded><![CDATA[
-<div> CHIME/FRB repeaters, galaxies, cross correlation, extragalactic dispersion measure, statistical association<br>
-<br>
-通过对CHIME/FRB重复观测源和三个光度星系调查的样本进行角度交叉相关性分析，结果显示当FRB的外星系色散度测量值大于395 pc cm^−3时，与红移z>0.275的WISE × SCOS星系呈现出显著的相关性。这种相关性源自于FRB 20200320A与相同暗物质暗物质红移z≈0.32的星系团之间的统计联系。研究结果强烈提示将星系团和星系群目录纳入直接主机关联管线中，以有效利用双点信息来约束FRB的性质，比如它们的红移和DM分布。此外，还发现重复FRB样本与DESI-LRG星系在红移0.3 ≤ z < 0.45范围内呈现出99.4%的置信度下的负相关性，这表明与表观非重复源相比，重复源可能更容易受到自由电子的传播效应的影响。 <br><br>总结: <br>文章研究了CHIME/FRB重复观测源与星系的相关性，发现当FRB的外星系色散度测量值大于395 pc cm^−3时，与红移z>0.275的WISE × SCOS星系呈现出显著的相关性。此外，还发现重复FRB样本与DESI-LRG星系在红移0.3 ≤ z < 0.45范围内呈现出负相关性。对研究FRB性质和星系关联提供了重要的启示。 <div>
+<div> CHIME/FRB repeaters, galaxies, cross correlation, extragalactic dispersion measure, statistical association<br />
+<br />
+通过对CHIME/FRB重复观测源和三个光度星系调查的样本进行角度交叉相关性分析，结果显示当FRB的外星系色散度测量值大于395 pc cm^−3时，与红移z>0.275的WISE × SCOS星系呈现出显著的相关性。这种相关性源自于FRB 20200320A与相同暗物质暗物质红移z≈0.32的星系团之间的统计联系。研究结果强烈提示将星系团和星系群目录纳入直接主机关联管线中，以有效利用双点信息来约束FRB的性质，比如它们的红移和DM分布。此外，还发现重复FRB样本与DESI-LRG星系在红移0.3 ≤ z < 0.45范围内呈现出99.4%的置信度下的负相关性，这表明与表观非重复源相比，重复源可能更容易受到自由电子的传播效应的影响。 <br /><br />总结: <br />文章研究了CHIME/FRB重复观测源与星系的相关性，发现当FRB的外星系色散度测量值大于395 pc cm^−3时，与红移z>0.275的WISE × SCOS星系呈现出显著的相关性。此外，还发现重复FRB样本与DESI-LRG星系在红移0.3 ≤ z < 0.45范围内呈现出负相关性。对研究FRB性质和星系关联提供了重要的启示。 <div>
 We present results from angular cross correlations between select samples of CHIME/FRB repeaters and galaxies in three photometric galaxy surveys, which have shown correlations with the first CHIME/FRB catalog containing repeating and nonrepeating sources: Wide-field Infrared Survey Explorer (WISE) × SCOS, DESI-BGS, and DESI-LRG. We find a statistically significant correlation (p-value &lt;0.001, after accounting for look-elsewhere factors) between a sample of repeaters with an extragalactic dispersion measure (DM) &gt; 395 pc cm−3 and WISE × SCOS galaxies with redshift z &gt; 0.275. We demonstrate that the correlation arises surprisingly because of a statistical association between FRB 20200320A (extragalactic DM ≈ 550 pc cm−3) and a galaxy group in the same dark matter halo at redshift z ≈ 0.32. We estimate that the host halo, along with an intervening halo at redshift z ≈ 0.12, accounts for at least ∼30% of the extragalactic DM. Our results strongly motivate incorporating galaxy group and cluster catalogs into direct host association pipelines for FRBs with \lesssim 1^{\prime} localization precision, effectively utilizing the two-point information to constrain FRB properties such as their redshift and DM distributions. In addition, we find marginal evidence for a negative correlation at 99.4% confidence limit between a sample of repeating FRBs with baseband data (median extragalactic DM = 354 pc cm−3) and DESI-LRG galaxies with redshift 0.3 ≤ z &lt; 0.45, suggesting that the repeaters might be more prone than apparent nonrepeaters to propagation effects in FRB–galaxy correlations due to intervening free electrons over angular scales ∼0.°5.
 ]]></content:encoded>
-
 <pubDate>2024-01-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Could a Kilonova Kill: A Threat Assessment</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad12b7</link>
