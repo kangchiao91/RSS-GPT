@@ -4,6 +4,47 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Molecular Outflow in the Reionization-epoch Quasar J2054-0005 Revealed by OH 119 μm Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0df5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0df5</guid>
+<content:encoded><![CDATA[
+<div> 高红移，分子流，猎户座座标，太阳质量，天体物理学
+总结:
+研究了高红移星系中分子流对星形成的影响，发现猎户座座标J2054-0005的OH 119μm线显示了P-Cygni型谱线，表明存在出流现象，并且该分子流速度极快，可能导致星形成迅速停止。研究还发现，在4 < z < 6.4的星形成星系和类星体中，质量流出率与红外总光度呈正相关。另外，由于出流速度极高，高达50%的分子气体可能会逸出到星系外的星际介质中。 <div>
+Molecular outflows are expected to play a key role in galaxy evolution at high redshift. To study the impact of outflows on star formation at the epoch of reionization, we performed sensitive Atacama Large Millimeter/submillimeter Array observations of OH 119 μm toward J2054-0005, a luminous quasar at z = 6.04. The OH line is detected and exhibits a P-Cygni profile that can be fitted with a broad blueshifted absorption component, providing unambiguous evidence of an outflow, and an emission component at near-systemic velocity. The mean and terminal outflow velocities are estimated to be vout ≈ 670 and 1500 km s−1, respectively, making the molecular outflow in this quasar one of the fastest at the epoch of reionization. The OH line is marginally spatially resolved for the first time in a quasar at z > 6, revealing that the outflow extends over the central 2 kpc region. The mass outflow rate is comparable to the star formation rate ( ), indicating rapid (∼107 yr) quenching of star formation. The mass outflow rate in a sample of star-forming galaxies and quasars at 4 < z < 6.4 exhibits a positive correlation with the total infrared luminosity, although the scatter is large. Owing to the high outflow velocity, a large fraction (up to ∼50%) of the outflowing molecular gas may be able to escape from the host galaxy into the intergalactic medium.
+]]></content:encoded>
+
+<pubDate>2024-02-01T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An Improved Wiener Filtration Method for Constructing the Ensemble Pulsar Timescale</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad175b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad175b</guid>
+<content:encoded><![CDATA[
+<div> 改进的Wiener滤波（WF）算法，脉冲星，时间尺度，跨功率谱密度，PSD估计<br>
+模拟数据，观测数据，国际脉冲星时间阵列，国际原子时，本地原子时<br>
+
+改进的WF算法通过调整交叉功率谱密度和加权平均（WA）算法估计的PSD，成功地抑制了噪声水平，重构了公共信号。对观测数据的分析结果表明，该方法成功地检测到了国际原子时间（TAI）和本地原子时间TA（NTSC）的波动。稳定性分析表明，EPT有潜力在7年以上的时间尺度上揭示TAI的不稳定性。这一改进的WF方法还可被用于通过多个原子时间标准检测和监测脉冲星时间残差中的噪声，进而改善EPT。 <br><br>总结: 该研究提出了一种改进的Wiener滤波方法，成功应用于脉冲星时间尺度的构建，通过模拟数据和观测数据表明了其有效性，能够检测和监测原子时间的波动和不稳定性。 <div>
+An improved Wiener filtration (WF) method for constructing the ensemble pulsar timescale (EPT) is proposed to solve the existing problems in the WF algorithm. The improvements consist of three parts: (i) adjusting the cross-power spectral density (PSD) and PSD estimated by the weighted average (WA) algorithm by the concept of the energy upper limit; (ii) combining the cross-PSD and WA PSD to form a different signal modulus for the filtration of residuals of different noise levels; and (iii) setting a weight for each residual by a more general algorithm based on the concept of effective power. We use this improved WF method to construct the EPT by both simulated data and observational data from the second data release of the International Pulsar Timing Array. The results from the simulated data indicate this improved WF can successfully suppress the noise level and reform the common signal. For observational data, this method also successfully detects the fluctuations of International Atomic Time (TAI) and local atomic time TA(NTSC). A stability analysis shows that an EPT will have the potential to reveal the instability of TAI on a scale longer than 7 yr. This improved WF method can also be used to detect and monitor the noise in pulsar timing residuals inversely, by using multiple atomic time standards, which can in turn improve the EPT.
+]]></content:encoded>
+
+<pubDate>2024-02-01T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Typical X-Ray Outburst Light Curves of Aql X-1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1515</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1515</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Aql X-1, X-ray outburst, 磁偶极矩, 准周期爆发, 磁场强度
+
+总结:
+Aql X-1的X射线暴发光变曲线可以被中子星的吸积盘不稳定模型自然地再现，无需引入部分吸积或推进效应。通过考虑盘面纵横比h/r对X射线辐射通量计算的影响，可以自然产生光变曲线中的转折点和随后的急剧衰减。研究结果还表明，该模型可以解释Aql X-1的长期演化，与观测到的暴发周期和典型光变曲线相符。此外，估算表明，该源在休眠状态也从盘上吸积物质，并且磁偶极矩μ≲4×10^26 G cm^3（表面磁场强度B≲4×10^8 G）。 <div>
+We show that the typical X-ray outburst light curve of Aql X-1 can be reproduced by accretion onto a neutron star in the frame of the disk instability model without invoking partial accretion or the propeller effect. The knee and the subsequent sharp decay in the X-ray light curve can be generated naturally by taking into account the weak dependence of the disk aspect ratio, h/r, on the disk mass-flow rate, , in the X-ray irradiation flux calculation. This dependence of h/r only slightly modifies the irradiation temperature profile along the hot disk in comparison to that obtained with a constant h/r. Nevertheless, this small difference has a significant cumulative effect on the hot disk radius, leading to a much faster decrease in the size of the hot disk and thereby to a sharper decay in the X-ray outburst light curve. The same model also produces the long-term evolution of Aql X-1, consistent with its observed outburst recurrence time and typical light curve. Our results imply that the source accretes matter from the disk in the quiescent state as well. We also estimate that the dipole moment of the source μ ≲ 4 × 1026 G cm3 (B ≲ 4 × 108 G at the surface).
+]]></content:encoded>
+
+<pubDate>2024-01-31T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Constraints on the Faint End of the Galaxy Stellar Mass Function at z ≃ 4–8 from Deep JWST Data</title>
