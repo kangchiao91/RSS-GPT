@@ -4,6 +4,219 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Disentangling CO Chemistry in a Protoplanetary Disk Using Explanatory Machine-learning Techniques</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad11ed</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad11ed</guid>
+<content:encoded><![CDATA[
+<div> 关键词：protoplanetary disks, molecular abundances, machine learning, CO spatial density, chemical processes
+
+总结: 
+该研究利用机器学习探索了原行星盘中CO的空间密度与气体密度、气体温度、宇宙射线电离率、X射线电离率和紫外线通量之间的依赖关系。研究发现多种参数的组合对调节CO丰度具有重要作用，且磁盘中的条件对CO有破坏性影响，特别是在增加的宇宙射线环境和具有较高初始C/O比的盘中。通过这一新方法揭示的CO的依赖关系与之前的研究结果一致，而且这种方法不仅能创建高效的预测模型，还能深入理解复杂的化学过程。<br><br>总结: <div>
+Molecular abundances in protoplanetary disks are highly sensitive to the local physical conditions, including gas temperature, gas density, radiation field, and dust properties. Often multiple factors are intertwined, impacting the abundances of both simple and complex species. We present a new approach to understanding these chemical and physical interdependencies using machine learning. Specifically, we explore the case of CO modeled under the conditions of a generic disk and build an explanatory regression model to study the dependence of CO spatial density on the gas density, gas temperature, cosmic-ray ionization rate, X-ray ionization rate, and UV flux. Our findings indicate that combinations of parameters play a surprisingly powerful role in regulating CO abundance compared to any singular physical parameter. Moreover, in general we find the conditions in the disk are destructive toward CO. CO depletion is further enhanced in an increased cosmic-ray environment and in disks with higher initial C/O ratios. These dependencies uncovered by our new approach are consistent with previous studies, which are more modeling intensive and computationally expensive. Our work thus shows that machine learning can be a powerful tool not only for creating efficient predictive models, but also for enabling a deeper understanding of complex chemical processes.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Small-amplitude Compressible Magnetohydrodynamic Turbulence Modulated by Collisionless Damping in Earth’s Magnetosheath: Observation Matches Theory</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad132e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad132e</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 等离子湍流, 压缩性磁流体动力学, 碰撞阻尼, 分解算法, 观测证据
+
+总结:
+本研究提供了地球磁尾磁场中对小振幅压缩性磁流体动力学湍流级联有重要影响的碰撞阻尼(CD)调制的首次观测证据。研究使用了四个Cluster航天器，并基于改进的压缩性磁流体动力学分解算法，将湍流分解为三个本征模式：不可压阿尔文模式和可压缩的慢速和快速（磁音速）模式。观察结果表明，碰撞阻尼增强了可压缩磁流体动力学模式的各向异性，因为碰撞阻尼对波的传播角度有很强的依赖性。快速模式受到更显著的碰撞阻尼调制，具有一个微弱的、与尺度无关的各向异性。随着波数增加，快速模式的各向异性增强。因此，快速模式在可压缩模式的总能量中的比例随着垂直波数（相对于背景磁场）或波传播角度的增加而减少。我们的发现揭示了碰撞阻尼对湍流级联的形成方式以及其在空间环境中各向异性的影响。 <div>
+Plasma turbulence is a ubiquitous dynamical process that transfers energy across many spatial and temporal scales and affects energetic particle transport. Recent advances in the understanding of compressible magnetohydrodynamic (MHD) turbulence demonstrate the important role of damping in shaping energy distributions on small scales, yet its observational evidence is still lacking. This study provides the first observational evidence of substantial collisionless damping (CD) modulation on the small-amplitude compressible MHD turbulence cascade in Earth’s magnetosheath using four Cluster spacecraft. Based on an improved compressible MHD decomposition algorithm, turbulence is decomposed into three eigenmodes: incompressible Alfvén modes and compressible slow and fast (magnetosonic) modes. Our observations demonstrate that CD enhances the anisotropy of compressible MHD modes because CD has a strong dependence on wave propagation angle. The wavenumber distributions of slow modes are mainly stretched perpendicular to the background magnetic field (B0) and weakly modulated by CD. In contrast, fast modes are subjected to a more significant CD modulation. Fast modes exhibit a weak, scale-independent anisotropy above the CD truncation scale. Below the CD truncation scale, the anisotropy of fast modes enhances as wavenumbers increase. As a result, fast-mode fractions in the total energy of compressible modes decrease with the increase of perpendicular wavenumber (to B0) or wave propagation angle. Our findings reveal how the turbulence cascade is shaped by CD and its consequences for anisotropies in the space environment.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The EDGE-CALIFA Survey: Molecular Gas and Star Formation Activity across the Green Valley</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1387</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1387</guid>
+<content:encoded><![CDATA[
+<div> 星系、星系演化、星体形态、星体积效率、星体形态对星体形成效率的影响
+<br>
+星体形成效率对星体的质量、星体形态和星体形成活动水平有影响。ACA EDGE调查发现，星体形成效率随着星体形成活动水平的降低而系统性减小。研究还发现，处于“绿谷”状态的星系的分子-恒星质量比在核心区域比主序星系更低。此外，研究还指出，在“绿谷”状态的星系中，随着半径增加，分子-恒星质量比和特定星体形成率均呈系统性增加。这些发现暗示了在星系在演化到“绿谷”状态时，星体形成效率的降低是星体形成抑制的重要因素之一。总结：<br><br>星体形成效率随着星体形成活动水平的降低而系统性减小。处于“绿谷”状态的星系的分子-恒星质量比在核心区域比主序星系更低。在“绿谷”状态的星系中，随着半径增加，分子-恒星质量比和特定星体形成率均呈系统性增加。 <div>
+We present a 12CO(J = 2−1) survey of 60 local galaxies using data from the Atacama Compact Array as part of the Extragalactic Database for Galaxy Evolution: the ACA EDGE survey. These galaxies all have integral field spectroscopy from the CALIFA survey. Compared to other local galaxy surveys, ACA EDGE is designed to mitigate selection effects based on CO brightness and morphological type. Of the 60 galaxies in ACA EDGE, 36 are on the star formation main sequence, 13 are on the red sequence, and 11 lie in the “green valley” transition between these sequences. We test how star formation quenching processes affect the star formation rate (SFR) per unit molecular gas mass, SFEmol = SFR/Mmol, and related quantities in galaxies with stellar masses 10 ≤ log[M⋆/M⊙] ≤ 11.5 covering the full range of morphological types. We observe a systematic decrease of the molecular-to-stellar mass fraction ( ) with a decreasing level of star formation activity, with green valley galaxies also having lower SFEmol than galaxies on the main sequence. On average, we find that the spatially resolved SFEmol within the bulge region of green valley galaxies is lower than in the bulges of main-sequence galaxies if we adopt a constant CO-to-H2 conversion factor, αCO. While efficiencies in main-sequence galaxies remain almost constant with galactocentric radius, in green valley galaxies, we note a systematic increase of SFEmol, , and specific SFR with increasing radius. As shown in previous studies, our results suggest that although gas depletion (or removal) seems to be the most important driver of the star formation quenching in galaxies transiting through the green valley, a reduction in star formation efficiency is also required during this stage.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Aggregation and Charging of Mineral Cloud Particles under High-energy Irradiation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad13ef</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad13ef</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 高能辐射，云凝结核，矿物颗粒，聚集，带电状态
+
+总结: 
+本研究旨在探索高能辐射对矿物云颗粒聚集和带电状态的影响。实验结果表明，在高湿度环境下，gamma辐射显著增加颗粒的负电荷状态，同时抑制颗粒的聚集形成。而在低湿度环境下，gamma辐射对颗粒的带电状态也有显著影响，但对聚集形成的抑制效果不及在高湿度环境下。因此，高能辐射可能有利于形成大量的小颗粒而非少量的大颗粒。这些发现对于理解行星大气中的云颗粒具有重要意义，特别是考虑到宿主恒星的辐射环境不同，这些研究有助于更好地理解外行星大气的特性。<br><br> <div>
+It is known from Earth that ionizing high-energy radiation can lead to ion-induced nucleation of cloud condensation nuclei in the atmosphere. Since the amount of high-energy radiation can vary greatly based on the radiative environment of a host star, understanding the effect of high-energy radiation on cloud particles is critical to understand exoplanet atmospheres. This study aims to explore how high-energy radiation affects the aggregation and charging of mineral cloud particles. We present experiments conducted in an atmosphere chamber on mineral SiO2 particles with diameters of 50 nm. The particles were exposed to gamma radiation in either low-humidity (RH ≈ 20%) or high-humidity (RH > 50%) environments. The aggregation and charging state of the particles were studied with a scanning mobility particle sizer. We find that the single SiO2 particles (N1) cluster to form larger aggregates (N2–N4), and that this aggregation is inhibited by gamma radiation. We find that gamma radiation shifts the charging of the particles to become more negative by increasing the charging state of negatively charged particles. Through an independent t-test, we find that this increase is statistically significant within a 5% significance level for all aggregates in the high-humidity environment and all except the N1 particles in the low-humidity environment. For the positively charged particles, the changes in charging state are not within the 5% significance level. We suggest that the overall effect of gamma radiation could favor the formation of a high number of small particles over a lower number of larger particles.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Changes in Photospheric Lorentz Force in Eruptive and Confined Solar Flares</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad13f0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad13f0</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳耀斑, 磁场, Lorentz力, 爆发性, 局限性
+
+总结:
+太阳耀斑会在光球层的磁场上留下印记，研究旨在通过垂直Lorentz力的变化来区分爆发性和局限性太阳耀斑。研究选取了26个爆发性和11个局限性主要太阳耀斑（强度超过GOES M5级）并分析了这些耀斑区域的磁场。结果显示，在耀斑极性反转线周围区域，水平磁场迅速增加，伴随着相同区域中下行Lorentz力的显著变化。所有局限性事件表现出的Lorentz力变化总量都小于1.8×1022dyn，这一阈值在有效区分爆发性和局限性太阳耀斑中起重要作用。此外，分析结果表明，总Lorentz力的变化还取决于太阳冠层中的重连接高度。这些结果对于理解与耀斑相关的向上脉冲传输以及相关的日冕物质抛射具有重要意义。 <div>
+Solar flares are known to leave imprints on the magnetic field in the photosphere, often manifested as an abrupt and permanent change in the downward-directed Lorentz force in localized areas inside the active region. Our study aims to differentiate eruptive and confined solar flares based on the variations in vertical Lorentz force. We select 26 eruptive and 11 confined major solar flares (stronger than the GOES M5 class) observed during 2011–2017. We analyze these flaring regions using SHARP vector magnetograms obtained from NASA’s Helioseismic and Magnetic Imager. We also compare data corresponding to two synthetic flares from a δ-sunspot simulation reported by Chatterjee et al. We estimate the change in the horizontal magnetic field and the total Lorentz force integrated over an area around the polarity inversion line (PIL) that encompasses the location of the flare. Our results indicate a rapid increase in the horizontal magnetic field along the flaring PIL, accompanied by a significant change in the downward-directed Lorentz force in the same vicinity. Notably, we find that all the confined events under study exhibit a total change in Lorentz force of <1.8 × 1022 dyn. This threshold plays an important role in effectively distinguishing eruptive and confined flares. Further, our analysis suggests that the change in total Lorentz force also depends on the reconnection height in the solar corona at the associated flare onset. The results provide significant implications for understanding the flare-related upward impulse transmission for the associated coronal mass ejection.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>One Fits All: A Unified Synchrotron Model Explains GRBs with FRED-shape Pulses</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad14fb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad14fb</guid>
+<content:encoded><![CDATA[
+<div> 关键词: gamma-ray burst (GRB) spectra, synchrotron radiation model, time evolution, physical parameters, emission mechanism
+总结: 
+1. 该研究提出了一种新颖的方法，通过将自洽的同步辐射模型与单脉冲GRBs的观测数据相结合，全面测试了同步辐射模型。
+2. 该模型成功地将所有时间分辨光谱与每个爆发中的所有时间分辨光谱相结合，使用了一组物理参数。
+3. 研究表明GRB脉冲的光谱和时间演变来源于GRB辐射区域的扩张，初始半径约为10^15厘米，并且同步辐射是底层的发射机制。
+总结: <br><br>该研究采用新的方法将同步辐射模型与单脉冲GRBs的观测数据结合起来，通过追踪冷却电子在衰减磁场中的演变，成功地解释了GRB光谱的时间演变。研究结果表明，GRB脉冲的光谱和时间演变源于GRB辐射区域的扩张，初始半径约为10^15厘米，并且同步辐射是底层的发射机制。 <div>
+The analysis of gamma-ray burst (GRB) spectra often relies on empirical models lacking a distinct physical explanation. Previous attempts to couple physical models with observed data focus on individual burst studies, fitting models to segmented spectra with independent physical parameters. However, these approaches typically neglect to explain the time evolution of observed spectra. In this study, we propose a novel approach by incorporating the synchrotron radiation model to provide a self-consistent explanation for a selection of single-pulse GRBs. Our study comprehensively tests the synchrotron model under a unified physical condition, such as a single injection event of electrons. By tracing the evolution of cooling electrons in a decaying magnetic field, our model predicts time-dependent observed spectra that align well with the data. Using a single set of physical parameters, our model successfully fits all time-resolved spectra within each burst. Our model suggests that the rising phase of the GRB light curve results from the increasing number of radiating electrons, while the declining phase is attributed to the curvature effect, electron cooling, and the decaying magnetic field. Our model provides a straightforward interpretation of the peak energy’s evolution, linked to the decline of the magnetic field and electron cooling due to the expansion of the GRB emission region. Our findings strongly support the notion that spectral and temporal evolution in GRB pulses originates from the expansion of the GRB emission region, with an initial radius of approximately 1015 cm, and synchrotron radiation as the underlying emission mechanism.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of Galactic Disks. I. Why Did the Milky Way’s Disk Form Unusually Early?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad150a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad150a</guid>
+<content:encoded><![CDATA[
+<div> 银河系，形成时间，宇宙学模拟，恒星盘，金属丰度
+总结:
+通过宇宙学模拟TNG50对类似银河系的星系进行研究发现，银河系类似的恒星盘形成时间和金属丰度存在较大的离散性，约10%的类似银河系的星系在早期形成恒星盘，类似银河系的直接模拟星系大部分质量在100亿年前即已形成，且不受破坏性合并的影响。在早期形成恒星盘的星系中，星盘更倾向于受到旋转支持，且金属丰度较高。相比之下，大多数类似银河系的星系要么是由已经富集的物质形成恒星盘，要么是经历了较晚的破坏性合并导致恒星盘形成较晚并金属丰度较高。 <div>
+Recent results from spectroscopic and astrometric surveys of nearby stars suggest that the stellar disk of our Milky Way (MW) was formed quite early, within the first few billion years of its evolution. Chemokinematic signatures of disk formation in cosmological zoom-in simulations appear to be in tension with these data, implying that MW-like disk formation is delayed in simulations. We investigate the formation of galactic disks using a representative sample of MW-like galaxies from the cosmological volume simulation TNG50. We find that on average MW-mass disks indeed form later than the local data suggest. However, their formation time and metallicity exhibit a substantial scatter, such that ∼10% of MW-mass galaxies form disks early, similar to the MW. Thus, although the MW is unusual, it is consistent with the overall population of MW-mass disk galaxies. The direct MW analogs assemble most of their mass early, ≳10 Gyr ago, and are not affected by destructive mergers after that. In addition, these galaxies form their disks during the early enrichment stage when the interstellar medium metallicity increases rapidly, with only ∼25% of early-forming disks being as metal-poor as the MW was at the onset of disk formation, [Fe/H] ≈ −1.0. In contrast, most MW-mass galaxies either form disks from already enriched material or experience late destructive mergers that reset the signatures of galactic disk formation to later times and higher metallicities. Finally, we also show that earlier disk formation leads to more dominant rotationally supported stellar disks at redshift zero.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multiple Habitable Phases on Outer Exosolar Worlds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1685</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1685</guid>
+<content:encoded><![CDATA[
+<div> 太阳系，恒星演化，外行星，适居区，外星生命
+<br><br>总结:
+本文讨论了恒星演化过程中外行星的可能适居性，提出了外行星在恒星演化中可能出现的多次适居相，计算了外行星在这些适居相中的时间，并且分析了可能的水资源损失情况。研究结果显示，即使在外行星经历第一个适居相后可能出现的水资源损失也不足以使外行星在其旅行距离所对应的时间内损失所有水资源，这表明外行星有可能具有长久的适居性，从而可能成为寻找外星生命的有利候选者。 <div>
+As stars evolve to higher luminosities during first ascension of the giant branch, previously frozen terrestrial worlds may thaw and host liquid water on their surfaces. Eventually these outer worlds again become uninhabitable due to receiving too much incident light and their water inventory evaporating. Solar-mass stars experience a sudden decrease in luminosity entering the horizontal branch, which could result in a secondary habitable phase for their outer worlds. The outer worlds’ time with habitable surface climates is key in evaluating the possibility of extraterrestrial life arising. The times inside the habitable zone (TIHZ) are calculated for outer worlds orbiting between 5 and 45 au around a Sun-like star. By comparing the TIHZ to time estimates for life to arise on Earth, we evaluate whether such outer worlds are promising candidates in the search for extraterrestrial life. We use two different solar evolution models (PARSEC and Dartmouth) and both optimistic and conservative habitable zone (HZ) definitions. Multiple habitable phases are found for each outer world. Outer worlds with orbits as large as Saturn are found to have a secondary habitable phase which exceeds the first in duration. Generally, the time inside the HZ is found to decrease almost monotonically with orbiting distance. Water loss is calculated after the first habitable phase to determine whether a secondary habitable phase is possible. For all orbiting distances the water loss is insufficient to deplete a water inventory equivalent to that of many moons in the outer solar system.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Updated Proper Motion of the Neutron Star in the Supernova Remnant Cassiopeia A</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad16e5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad16e5</guid>
+<content:encoded><![CDATA[
+<div> Cassiopeia A, Chandra observations, neutron star velocity, astrometry, heliocentric velocity<br>
+更新估计卡西opeia A超新星遗迹中中子星(NS)速度的研究。研究利用20年的Chandra观测数据，采用两种方法进行估计：一种是记录数十次Chandra观测中NS的位置，包括数据点的天文学不确定性估计，但不纠正观测的天文测量；另一种是纠正具有足够数量点源并确定了盖亚对应源的13次Chandra观测的天文测量。对于方法#1，观测到一个位于北方177° ± 22°的太阳系速度为275 ± 121 km s−1；对于方法#2，观测到一个位于北方158° ± 12°的太阳系速度为436 ± 89 km s−1。考虑到银河旋转和太阳的特殊运动，这些估计减少到分别为256 km s−1 and 167°和433 km s−1和151°。我们的估计排除了速度≳600 km s−1，与卡西opeia A的爆炸中心估计的速度∼350 km s−1和先前10年基线固有运动测量的570 ± 260 km s−1相匹配，但我们使用了更长时间跨度上的额外数据，导致了2-3倍的减小不确定性。我们的估计更好地匹配包括NS踢动机制的卡西opeia A的模拟。 <br><br>总结: 通过Chandra观测数据，对卡西opeia A超新星遗迹中中子星(NS)速度进行了研究。使用两种方法得出的估计速度与先前的测量相匹配，但由于使用了更长时间跨度的额外数据，导致了更小的不确定性。新的估计排除了某些速度范围，并与包括NS踢动机制的模拟更好地匹配。 <div>
+In this paper, we present updated estimates of the velocity of the neutron star (NS) in the supernova remnant Cassiopeia A using over two decades of Chandra observations. We use two methods: (1) recording the NS positions from dozens of Chandra observations, including the astrometric uncertainty estimates on the data points, but not correcting the astrometry of the observations; and (2) correcting the astrometry of the 13 Chandra observations that have a sufficient number of point sources with identified Gaia counterparts. For method #1, we observe a heliocentric velocity of 275 ± 121 km s−1, with an angle of 177° ± 22° east of north. For method #2, we observe a heliocentric velocity of 436 ± 89 km s−1 at an angle of 158° ± 12°. Correcting for galactic rotation and the Sun’s peculiar motion decreases these estimates to 256 km s−1 at 167° and 433 km s−1 at 151°, respectively. Both of our estimates match with the explosion-center-estimated velocity of ∼350 km s−1 and the previous 10 yr baseline proper-motion measurement of 570 ± 260 km s−1, but our use of additional data over a longer baseline has led to a smaller uncertainty by a factor of 2–3. Our estimates rule out velocities ≳600 km s−1 and better match with simulations of Cassiopeia A that include NS kick mechanisms.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Orbital Structure and Selection Effects of the Galactic Center S-star Cluster</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad17bb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad17bb</guid>
+<content:encoded><![CDATA[
+<div> S-star cluster, pericenter distance, eccentricity, G-clouds, zone of avoidance
+<br><br>总结:
+研究分析了围绕银河系中心超大质量黑洞的S星团的轨道分布。发现了围绕近地点距离rp与轨道离心率e⋆之间的紧密依存关系，这不能简单地通过半长轴和离心率的随机分布来解释。没有发现在大e⋆和大rp区域或小e⋆和小rp区域有任何恒星。虽然样本仍很小，但G云显示了非常相似的分布。确定了确定S星的轨道参数的可能性。具有大e⋆和大rp的恒星的可能性非常小。S星可能存在于该区域。但是，要确定它们的轨道参数，需要在更长的时间段内进行观测。另一方面，如果存在小rp和小e⋆的恒星，则它们的轨道参数应该已经被确定。因此，这一区域的无星表明不存在具有这些轨道特征的S星，为它们的形成提供了约束。我们将这一由rp和e⋆定义的区域称为回避区。最后，结果表明，如果考虑到在回避区内没有恒星存在以及目前无法确定具有大rp和大e⋆的恒星的轨道参数这一事实，观测到的离心率和近地点距离的频率与对rp和e⋆的随机抽样是一致的。 <div>
+The orbital distribution of the S-star cluster surrounding the supermassive black hole in the center of the Milky Way is analyzed. A tight dependence of the pericenter distance rp on orbital eccentricity e⋆ is found, , which cannot be explained simply by a random distribution of semimajor axis and eccentricities. No stars are found in the region with high e⋆ and large or in the region with low e⋆ and small . Although the sample is still small, the G-clouds show a very similar distribution. The likelihood to determine the orbital parameters of S-stars is determined. P is very small for stars with large e⋆ and large . S-stars might exist in this region. To determine their orbital parameters, one however needs observations over a longer time period. On the other hand, if stars would exist in the region of low and small e⋆, their orbital parameters should by now have been determined. That this region is unpopulated therefore indicates that no S-stars exist with these orbital characteristics, providing constraints for their formation. We call this region, defined by , the zone of avoidance. Finally, it is shown that the observed frequency of eccentricities and pericenter distances is consistent with a random sampling of and e⋆ if one takes into account the fact that no stars exist in the zone of avoidance and that orbital parameters cannot yet be determined for stars with large rp and large e⋆.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>On the Spin Period Distribution of Millisecond Pulsars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad17c9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad17c9</guid>
+<content:encoded><![CDATA[
+
+Spin period distribution provides important clues to understand the formation of millisecond pulsars (MSPs). To uncover the intrinsic period distribution, we analyze three samples of radio MSPs in the Galactic field and globular clusters. The selection bias due to pulse broadening has been corrected but turns out to be negligible. We find that all the samples can be well described by a Weibull distribution of spin frequencies. Considering MSPs in the Galactic field or globular clusters and in isolation or binary systems, we find no significant difference in the spin distribution among these subpopulations. Based on the current known population of MSPs, we find that submillisecond pulsars are unlikely to be discovered by the Square Kilometre Array, although up to ∼10 discoveries of pulsars that spin faster than the current record holder of P = 1.4 ms are expected.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Emergent Nucleosynthesis from a 1.2 s Long Simulation of a Black Hole Accretion Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1819</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1819</guid>
+<content:encoded><![CDATA[
+
+We simulate a black hole accretion disk system with full-transport general relativistic neutrino radiation magnetohydrodynamics for 1.2 s. This system is likely to form after the merger of two compact objects and is thought to be a robust site of r-process nucleosynthesis. We consider the case of a black hole accretion disk arising from the merger of two neutron stars. Our simulation time coincides with the nucleosynthesis timescale of the r-process (∼1 s). Because these simulations are time-consuming, it is common practice to run for a “short” duration of approximately 0.1–0.3 s. We analyze the nucleosynthetic outflow from this system and compare the results of stopping at 0.12 and 1.2 s. We find that the addition of mass ejected in the longer simulation as well as more favorable thermodynamic conditions from emergent viscous ejecta greatly impacts the nucleosynthetic outcome. We quantify the error in nucleosynthetic outcomes between short and long cuts.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Rapid Dimming Followed by a State Transition: A Study of the Highly Variable Nuclear Transient AT 2019avd over 1000+ Days</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad182b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad182b</guid>
+<content:encoded><![CDATA[
+
+The tidal disruption of a star around a supermassive black hole (SMBH) offers a unique opportunity to study accretion onto an SMBH on a human timescale. We present results from our 1000+ days monitoring campaign of AT 2019avd, a nuclear transient with tidal-disruption-event-like properties, with NICER, Swift, and Chandra. Our primary finding is that approximately 225 days following the peak of the X-ray emission, there is a rapid drop in luminosity exceeding 2 orders of magnitude. This X-ray dropoff is accompanied by X-ray spectral hardening, followed by a plateau phase of 740 days. During this phase, the spectral index decreases from 6.2 ± 1.1 to 2.3 ± 0.4, while the disk temperature remains constant. Additionally, we detect pronounced X-ray variability, with an average fractional rms amplitude of 47%, manifesting over timescales of a few dozen minutes. We propose that this phenomenon may be attributed to intervening clumpy outflows. The overall properties of AT 2019avd suggest that the accretion disk evolves from a super-Eddington to a sub-Eddington luminosity state, possibly associated with a compact jet. This evolution follows a pattern in the hardness–intensity diagram similar to that observed in stellar-mass BHs, supporting the mass invariance of accretion–ejection processes around BHs.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Relativistic Effects on Circumbinary Disk Evolution: Breaking the Polar Alignment around Eccentric Black Hole Binary Systems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1a11</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1a11</guid>
+<content:encoded><![CDATA[
+
+We study the effects of general relativity (GR) on the evolution and alignment of circumbinary disks around binaries on all scales. We implement relativistic apsidal precession of the binary into the hydrodynamics code phantom. We find that the effects of GR can suppress the stable polar alignment of a circumbinary disk, depending on how the relativistic binary apsidal precession timescale compares to the disk nodal precession timescale. Studies of circumbinary disk evolution typically ignore the effects of GR, which is an appropriate simplification for low-mass or widely separated binary systems. In this case, polar alignment occurs, provided that the disks initial misalignment is sufficiently large. However, systems with a very short relativistic precession timescale cannot polar align and instead move toward coplanar alignment. In the intermediate regime where the timescales are similar, the outcome depends upon the properties of the disk. Polar alignment is more likely in the wavelike disk regime (where the disk viscosity parameter is less than the aspect ratio, α < H/r), since the disk is in good radial communication. In the viscous disk regime, disk breaking is more likely. Multiple rings can destructively interact with one another, resulting in short disk lifetimes and the disk moving toward coplanar alignment. Around main-sequence star or stellar mass black hole binaries, polar alignment may be suppressed far from the binary, but in general, the inner parts of the disk can align to polar. Polar alignment may be completely suppressed for disks around supermassive black holes for close binary separations.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Magnetic Relaxation Seen in a Rapidly Evolving Light Bridge in a Sunspot</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ab0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ab0</guid>
+<content:encoded><![CDATA[
+
+We report a magnetic relaxation process inside a sunspot associated with the evolution of a transient light bridge (LB). From high-resolution imaging and spectro-polarimetric data taken by the 1.6 m Goode Solar Telescope installed at Big Bear Solar Observatory, we observe the evolutionary process of a rapidly evolving LB. The LB is formed as a result of the strong intrusion of filamentary structures with relatively horizontal fields into the vertical umbral field region. A strong current density is detected along a localized region where the magnetic field topology changes rapidly in the sunspot, especially in the boundary region between the LB and the umbra, and bright jets are observed intermittently and repeatedly in the chromosphere along this region through magnetic reconnection. In the second half of our observation, the horizontal component of the magnetic field diminishes within the LB, and the typical convection structure within the sunspot, which manifests itself as umbral dots, is restored. Our findings provide a comprehensive perspective not only on the evolution of an LB itself but also on its impacts in the neighboring regions, including the chromospheric activity and the change of magnetic energy of a sunspot.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The HST Nondetection of SN Ia 2011fe 11.5 yr after Explosion Further Restricts Single-degenerate Progenitor Systems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b4e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b4e</guid>
+<content:encoded><![CDATA[
+
+We present deep Hubble Space Telescope imaging of the nearby Type Ia supernova (SN Ia) 2011fe obtained 11.5 yr after explosion. No emission is detected at the SN location to a 1σ (3σ) limit of F555W > 30.2 (29.0) mag, or equivalently MV > 1.2 (−0.1) mag, neglecting the distance uncertainty to M101. We constrain the presence of donor stars impacted by the SN ejecta with the strictest limits thus far on compact (i.e., ) companions. H-rich zero-age main-sequence companions with masses ≥2 M⊙ are excluded, a significant improvement upon the preexplosion imaging limit of ≈5 M⊙. Main-sequence He stars with masses ≥1.0 M⊙ and subgiant He stars with masses ≤0.8 M⊙ are also disfavored by our late-time imaging. Synthesizing our limits on postimpact donors with previous constraints from preexplosion imaging, early-time radio and X-ray observations, and nebular-phase spectroscopy, essentially all formation channels for SN 2011fe invoking a nondegenerate donor star at the time of explosion are unlikely.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Revised Constraints on the Fast Radio Burst Population from the First CHIME/FRB Catalog</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b4f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b4f</guid>
+<content:encoded><![CDATA[
+
+In this paper, we investigate the fast radio burst (FRB) population using the first CHIME/FRB catalog. We first reconstruct the extragalactic dispersion measure–redshift relation (DME–z relation) from well-localized FRBs, then use it to infer the redshift and isotropic energy of the first CHIME/FRB catalog. The intrinsic energy distribution is modeled by the power law with an exponential cutoff, and the selection effect of the CHIME telescope is modeled by a two-parametric function of specific fluence. For the intrinsic redshift distribution, the star formation history (SFH) model and five other SFH-related models are considered. We construct the joint likelihood of fluence, energy, and redshift, and all the free parameters are constrained simultaneously using the Bayesian inference method. The Bayesian information criterion (BIC) is used to choose the model that best matches the observational data. For comparison, we fit our models with two data samples, i.e., the Full sample and the Gold sample. The power-law index and cutoff energy are tightly constrained to be 1.8 ≲ α ≲ 1.9 and , which are almost independent of the redshift distribution model and the data sample we choose. The parameters involving the selection effect strongly depend on the data sample but are insensitive to the redshift distribution model. According to BIC, the pure SFH model is strongly disfavored by both the Full sample and Gold sample. For the other five SFH-related redshift distribution models, most of them can match the data well if the parameters are properly chosen. Therefore, with the present data, it is still premature to draw a conclusion on the FRB population.
+]]></content:encoded>
+
+<pubDate>2024-02-08T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Two of a Kind: Comparing Big and Small Black Holes in Binaries with Gravitational Waves</title>
