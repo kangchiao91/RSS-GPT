@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>CLASSY. VIII. Exploring the Source of Ionization with UV Interstellar Medium Diagnostics in Local High-z Analogs*</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1033</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1033</guid>
 <content:encoded><![CDATA[
-<div> 星系、JWST、UV光谱、CLASSY、ISM<br>
-在当前JWST时代，UV光谱对于增进我们对复离子时代（z > 6）中第一批星系的星际介质（ISM）和恒星特性的理解起着至关重要的作用。本文利用HST COS Legacy Archive Spectroscopic SurveY（CLASSY）中的远紫外线（UV）光谱数据，比较了光学图谱和UV图谱之间的关系，分析了在不同UV诊断图中的UV线比的位置，并考虑了最新的光电离和激波模型，以及已测得的ISM和恒星特性。研究发现，C iii] λλ1907,9 He iiλ1640和O iii] λ1666的组合可以在次太阳金属丰度条件下有效区分星际介质的形成源。此外，文中还讨论了检测UV发射线所需的ISM条件，强调了它们仅在低气相金属丰度（12 + log(O/H) ≲ 8.3）和高电离参数（log(U) ≳ −2.5）的环境中可见。总的来说，CLASSY和UV工具将在解释JWST目前正在揭示的最早星系的光谱方面发挥关键作用。<br><br>总结: 本文利用CLASSY收集的大量UV光谱数据，比较了UV和光学图谱之间的关系，分析了UV线比的位置，并讨论了检测UV发射线所需的ISM条件。研究发现特定的UV线比组合可以区分不同形成源，而UV发射线仅在特定环境下可见。这将对解释JWST发现的早期星系的光谱起到关键作用。 <div>
+<div> 星系、JWST、UV光谱、CLASSY、ISM<br />
+在当前JWST时代，UV光谱对于增进我们对复离子时代（z > 6）中第一批星系的星际介质（ISM）和恒星特性的理解起着至关重要的作用。本文利用HST COS Legacy Archive Spectroscopic SurveY（CLASSY）中的远紫外线（UV）光谱数据，比较了光学图谱和UV图谱之间的关系，分析了在不同UV诊断图中的UV线比的位置，并考虑了最新的光电离和激波模型，以及已测得的ISM和恒星特性。研究发现，C iii] λλ1907,9 He iiλ1640和O iii] λ1666的组合可以在次太阳金属丰度条件下有效区分星际介质的形成源。此外，文中还讨论了检测UV发射线所需的ISM条件，强调了它们仅在低气相金属丰度（12 + log(O/H) ≲ 8.3）和高电离参数（log(U) ≳ −2.5）的环境中可见。总的来说，CLASSY和UV工具将在解释JWST目前正在揭示的最早星系的光谱方面发挥关键作用。<br /><br />总结: 本文利用CLASSY收集的大量UV光谱数据，比较了UV和光学图谱之间的关系，分析了UV线比的位置，并讨论了检测UV发射线所需的ISM条件。研究发现特定的UV线比组合可以区分不同形成源，而UV发射线仅在特定环境下可见。这将对解释JWST发现的早期星系的光谱起到关键作用。 <div>
 In the current JWST era, rest-frame UV spectra play a crucial role in enhancing our understanding of the interstellar medium (ISM) and stellar properties of the first galaxies in the epoch of reionization (z > 6). Here, we compare well-known and reliable optical diagrams sensitive to the main ionization source (i.e., star formation, SF; active galactic nuclei, AGN; and shocks) to UV counterparts proposed in the literature—the so-called “UV–BPT diagrams”—using the HST COS Legacy Archive Spectroscopic SurveY (CLASSY), which is the largest high-quality, high-resolution, and broad-wavelength range atlas of far-UV spectra for 45 local star-forming galaxies. In particular, we explore where CLASSY UV line ratios are located in the different UV diagnostic plots, taking into account state-of-the-art photoionization and shock models, and, for the first time, the measured ISM and stellar properties (e.g., gas-phase metallicity, ionization parameter, carbon abundance, and stellar age). We find that the combination of C iii] λλ1907,9 He iiλ1640 and O iii] λ1666 can be a powerful tool to separate between SF, shocks, and AGN at subsolar metallicities. We also confirm that alternative diagrams without O iii] λ1666 still allow us to define an SF-locus, with some caveats. Diagrams including C ivλλ1548,51 should be taken with caution given the complexity of this doublet profile. Finally, we present a discussion detailing the ISM conditions required to detect UV emission lines, visible only in low gas-phase metallicity (12 + log(O/H) ≲ 8.3) and high ionization parameter (log(U) ≳ −2.5) environments. Overall, CLASSY and our UV toolkit will be crucial in interpreting the spectra of the earliest galaxies that JWST is currently revealing.
 ]]></content:encoded>
-
 <pubDate>2024-02-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,15 +22,13 @@ In the current JWST era, rest-frame UV spectra play a crucial role in enhancing 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1517</guid>
 <content:encoded><![CDATA[
 <div> NIRCam, PSF model, AGN, multiwavelength, black hole mass-stellar mass relation
-<br>
+<br />
 这篇文章总结了针对COSMOS-Web宝库项目的JWST NIRCam成像数据进行了详细和全面的数据降维和点扩散函数（PSF）模型构建。研究发现NIRCam PSF在四个滤波器（F115W，F150W，F277W和F444W）中存在显著的短时间尺度的时间变化和随机空间变化。通过将NIRCam与哈勃太空望远镜成像数据结合起来，进行多波段活动星系核（AGN）+宿主图像分解，研究了0.35 ≲ z ≲ 3.5的143个X射线选择的宽线AGN的特性。研究利用NIRCam出色的分辨率、波长覆盖和灵敏度，成功在142个对象中分解出中心AGN点源后检测到宿主恒星发射。约2/3的AGN位于星成形星系中，表明没有即时的负面AGN反馈。X射线选择的宽线AGN宿主遵循与非活跃星系类似的恒星质量-尺寸关系，尽管其星系大小略小。研究发现，尽管主要并合在样本中很少（约7%–22%），但来自恒星棒、螺旋臂和小并合等更微妙的非轴对称特征是普遍存在的，突出了非周期过程和小并合在触发AGN活动中的重要性。对于具有来自单一时期光谱的黑洞质量测量的30个AGN子样本（1 < z < 2.5），它们遵循与当地非活跃早期星系相似的黑洞质量-恒星质量关系，但更倾向于驻留在附近AGN的上限。需要注意的是，不同红移下的AGN种群的固有差异可能会显着影响它们在黑洞质量-恒星质量平面上的位置。
-<br><br>总结: 该研究对COSMOS-Web宝库项目的JWST NIRCam成像数据进行了全面的数据降维和PSF模型构建。利用NIRCam和哈勃太空望远镜成像数据，进行了多波段AGN+宿主图像分解研究。发现约2/3的AGN位于星成形星系中，X射线选择的宽线AGN宿主遵循与非活跃星系类似的恒星质量-尺寸关系。并指出了主要并合在样本中很少，但非轴对称特征是普遍存在的，突出了非周期过程和小并合在触发AGN活动中的重要性。同时，黑洞质量-恒星质量平面上的位置可能受到选择偏差和不同红移下AGN种群固有差异的显着影响。 <div>
+<br /><br />总结: 该研究对COSMOS-Web宝库项目的JWST NIRCam成像数据进行了全面的数据降维和PSF模型构建。利用NIRCam和哈勃太空望远镜成像数据，进行了多波段AGN+宿主图像分解研究。发现约2/3的AGN位于星成形星系中，X射线选择的宽线AGN宿主遵循与非活跃星系类似的恒星质量-尺寸关系。并指出了主要并合在样本中很少，但非轴对称特征是普遍存在的，突出了非周期过程和小并合在触发AGN活动中的重要性。同时，黑洞质量-恒星质量平面上的位置可能受到选择偏差和不同红移下AGN种群固有差异的显着影响。 <div>
 We present detailed and comprehensive data reduction and point-spread-function (PSF) model construction for all public JWST NIRCam imaging data from the COSMOS-Web treasury program (up to 2023 June, totaling 0.28 deg2). We show that the NIRCam PSF has significant short-timescale temporal variations and random spatial variations in all four filters (F115W, F150W, F277W, and F444W). Combining NIRCam with archival Hubble Space Telescope imaging, we perform multiwavelength active galactic nucleus (AGN)+host image decomposition to study the properties of 143 X-ray-selected (Lbol = 1043.6–47.2 erg s−1) broad-line AGNs at 0.35 ≲ z ≲ 3.5. Leveraging the superb resolution, wavelength coverage, and sensitivity of NIRCam, we successfully detect host stellar emission after decomposing the central AGN point source in 142 objects. ∼2/3 AGNs are in star-forming galaxies based on the UVJ diagram, suggesting that there is no instantaneous negative AGN feedback. X-ray-selected broad-line AGN hosts follow a similar stellar mass–size relation as inactive galaxies, albeit with slightly smaller galaxy sizes. We find that although major mergers are rare (∼7%–22%) among the sample, more subtle nonaxisymmetric features from stellar bars, spiral arms, and minor mergers are ubiquitous, highlighting the importance of secular processes and minor mergers in triggering AGN activity. For a subsample of 30 AGNs at 1 < z < 2.5 with black hole mass measurements from single epoch spectra, they follow a similar black hole mass-stellar mass relation as local inactive early-type galaxies but reside preferentially near the upper envelope of nearby AGNs. We caution that selection biases and the intrinsic differences of AGN populations at different redshifts may significantly affect their location on the black hole mass-stellar mass plane.
 ]]></content:encoded>
-
 <pubDate>2024-02-09T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Erratum: “Observational Constraints on the Physical Properties of Interstellar Dust in the Post-Planck Era” (2021, ApJ, 906, 73)</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad205d</link>
