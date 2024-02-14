@@ -4,6 +4,158 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Characterization of JWST NIRCam PSFs and Implications for AGN+host Image Decomposition</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1183</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1183</guid>
+<content:encoded><![CDATA[
+<div> PSF, JWST NIRCam, 模拟图像, 宿主星系, 偏移<br>
+<br>
+本文详细分析了JWST NIRCam在八个滤波器下的点扩散函数（PSF），发现PSF的空间变化随波长增加而减少。且研究比较了构建模型PSF的三种常用方法，并得出PSFEx表现最佳的结论。通过模拟宽线活动星系核（AGN）的图像，评估了PSF不匹配对宿主星系属性恢复的影响。结果发现，使用不匹配的PSF模型通常会高估宿主星系的通量，同时影响宿主测量的系统误差通常大于形式拟合误差。此外，图像分解也可能导致AGN和宿主星系之间的人工偏移，这种现象在高表面亮度的宿主星系中更为常见。文章最后通过一个在CEERS领域的z = 1.646的宽线类星体示例展示了他们的PSF构建和图像分解方法。 <br><br>总结: 本文研究了JWST NIRCam的PSF特性，评估了PSF不匹配对宿主星系属性恢复的影响，并提出了PSF构建和图像分解的方法。 <div>
+We present a detailed analysis of the point-spread function (PSF) of JWST NIRCam imaging in eight filters: F070W, F115W, F150W, F200W, F277W, F356W, F444W, and F480M, using publicly available data. Spatial variations in the PSF FWHM generally decrease with wavelength: the maximum and rms fractional variations are ∼20% and 5% in F070W, reduced to ∼3% and 0.6% in F444W. We compare three commonly used methods (SWarp, photutils, and PSFEx) to construct model PSFs and conclude that PSFEx delivers the best performance. Using simulated images of broad-line active galactic nuclei (AGNs), we evaluate the impact of PSF mismatches on the recoverability of host galaxy properties. Host fluxes are generally overestimated when adopting mismatched PSF models, with larger overestimation for more AGN-dominated systems. Broader PSFs tend to produce less concentrated hosts, while narrower PSFs tend to produce more concentrated and compact hosts. Systematic uncertainties in host measurements from PSF and model mismatches are generally larger than the formal fitting uncertainties for high signal-to-noise ratio data. Image decomposition can also lead to an artificial offset between the AGN and host centroids, which is common (e.g., >1σ [3σ] detection in ∼80% [∼20%–30%] of systems), and scales with the mean host surface brightness (SB). Near the SB limit, this artificial offset can reach as large as ∼80%, 26%, and 7% of Re in systems with Re = 0.″12, 0.″48, and 1.″92, respectively. We demonstrate our PSF construction and image decomposition methods with an example broad-line quasar at z = 1.646 in the CEERS field.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Stellar Cruise Control: Weakened Magnetic Braking Leads to Sustained Rapid Rotation of Old Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1516</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1516</guid>
+<content:encoded><![CDATA[
+<div> 关键词: stellar rotation periods, asteroseismology, magnetic braking, neural network, Rossby number
+
+总结:
+这篇文章讨论了恒星自转周期、年龄的精确测量，以及磁制动的强度和与标准自转减速的偏离程度。通过利用恒星振动学，可以测量出比太阳更老的恒星的自转周期，从而可以对更大范围的老场星进行模型测试。研究发现，通过神经网络和层次化模型拟合方法的结合，可以限制磁制动减弱的开始时间。研究还表明，磁制动减弱在恒星演化到太阳阶段之前就开始了，对于类太阳恒星的主序阶段约有一半的寿命存在挑战。此外，还发现了临界罗斯比数的阈值为Rocrit/Ro⊙ = 0.91 ± 0.03。不同物理假设下的模型网格对于推断制动定律的属性有影响。这些发现对于恒星年龄的测定和自转周期的推断具有重要意义。<br><br> <div>
+Despite a growing sample of precisely measured stellar rotation periods and ages, the strength of magnetic braking and the degree of departure from standard (Skumanich-like) spin-down have remained persistent questions, particularly for stars more evolved than the Sun. Rotation periods can be measured for stars older than the Sun by leveraging asteroseismology, enabling models to be tested against a larger sample of old field stars. Because asteroseismic measurements of rotation do not depend on starspot modulation, they avoid potential biases introduced by the need for a stellar dynamo to drive starspot production. Using a neural network trained on a grid of stellar evolution models and a hierarchical model-fitting approach, we constrain the onset of weakened magnetic braking (WMB). We find that a sample of stars with asteroseismically measured rotation periods and ages is consistent with models that depart from standard spin-down prior to reaching the evolutionary stage of the Sun. We test our approach using neural networks trained on model grids produced by separate stellar evolution codes with differing physical assumptions and find that the choices of grid physics can influence the inferred properties of the braking law. We identify the normalized critical Rossby number Rocrit/Ro⊙ = 0.91 ± 0.03 as the threshold for the departure from standard rotational evolution. This suggests that WMB poses challenges to gyrochronology for roughly half of the main-sequence lifetime of Sun-like stars.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Filamentary Network and Magnetic Field Structures Revealed with BISTRO in the High-mass Star-forming Region NGC 2264: Global Properties and Local Magnetogravitational Configurations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad165b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad165b</guid>
+<content:encoded><![CDATA[
+<div> NGC 2264, high-mass star-forming region, magnetic field, polarization observations, filamentary network
+总结: 本研究针对NGC 2264的星形成区进行了850μm的连续波偏振观测，并发现了非均匀结构的磁场。NGC 2264C地区受到重力的全局支配，而在2264D地区，磁、引力和动能之间的平衡。根据本地解析的磁场结构、重力矢量场和提取的纤维网络，推断出纤维网络主要由两组近似垂直的纤维组成。此外，重力显示出一个主导的汇聚方向，大致垂直于一个纤维方向，暗示着沿着这个方向的物质吸积。我们鉴别出两种类型的纤维，即I型纤维垂直于磁场，而II型纤维平行于磁场。我们解释这两种纤维的产生是由于受到纤维自身引力驱动的径向坍缩和受到区域全局引力驱动的纵向坍缩之间的竞争。 <div>
+We report 850 μm continuum polarization observations toward the filamentary high-mass star-forming region NGC 2264, taken as part of the B-fields In STar forming Regions Observations large program on the James Clerk Maxwell Telescope. These data reveal a well-structured nonuniform magnetic field in the NGC 2264C and 2264D regions with a prevailing orientation around 30° from north to east. Field strength estimates and a virial analysis of the major clumps indicate that NGC 2264C is globally dominated by gravity, while in 2264D, magnetic, gravitational, and kinetic energies are roughly balanced. We present an analysis scheme that utilizes the locally resolved magnetic field structures, together with the locally measured gravitational vector field and the extracted filamentary network. From this, we infer statistical trends showing that this network consists of two main groups of filaments oriented approximately perpendicular to one another. Additionally, gravity shows one dominating converging direction that is roughly perpendicular to one of the filament orientations, which is suggestive of mass accretion along this direction. Beyond these statistical trends, we identify two types of filaments. The type I filament is perpendicular to the magnetic field with local gravity transitioning from parallel to perpendicular to the magnetic field from the outside to the filament ridge. The type II filament is parallel to the magnetic field and local gravity. We interpret these two types of filaments as originating from the competition between radial collapsing, driven by filament self-gravity, and longitudinal collapsing, driven by the region's global gravity.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Study of the Accretion State of Magnetically Arrested Disks across Black Hole Spins for Radiatively Inefficient Accretion Flows</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad167b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad167b</guid>
+<content:encoded><![CDATA[
+<div> 磁性阻滞盘，广义相对论磁流体动力学模拟，黑洞自旋，质量吸积率，磁吸积盘 参数
+
+在最近的研究中，发现磁性阻滞盘（MAD）能够产生强大的喷流，在许多吸积系统中都有观察到。本研究使用cuHARM对14个广义相对论磁流体模拟了黑洞自旋下的MAD状态的吸积支配吸积流。主要发现如下：（i）喷流以Maxwell应力的形式将大量角动量输运至无穷远。对于正值高自旋情况下，角动量输运率比负自旋情况下高出约五倍，而对于非旋转黑洞来说，这一贡献几乎可以忽略不计。（ii）质量吸积率和在视界处计算的MAD参数之间没有相关性，但是它们的时间导数对于每个自旋都是负相关的。（iii）对于零自旋，磁场的径向分量对磁压的贡献可以忽略不计，而对于高自旋的黑洞来说，与径向磁场分量的贡献相当。对于高正自旋情况下，甚至磁场的垂直分量占主导地位。（iv）对于负的自旋，喷流比正自旋情况下更窄，而且波动更强烈。非旋转黑洞的弱喷流是最宽的，波动最弱。我们的研究突显了MAD状态下黑洞自旋与盘和喷流特性之间的复杂非线性关系。
+
+<br><br>总结:研究表明，MAD状态下黑洞自旋与盘和喷流特性之间存在复杂而非线性的关系，具体表现为喷流通过Maxwell应力以及质量吸积率和MAD参数的时间导数呈负相关。此外，不同自旋情况下磁场构成的不同，对于负自旋喷流更窄波动更强，而非旋转黑洞的喷流最宽波动最弱。 <div>
+The study of magnetically arrested disks (MAD) has attracted strong interest in recent years because these disk configurations were found to generate strong jets, as observed in many accreting systems. Here, we present the results of 14 general relativistic magnetohydrodynamic simulations of advection-dominated accretion flow in the MAD state across black hole (BH) spins, carried out with cuHARM. Our main findings are as follows. (i) The jets transport a significant amount of angular momentum to infinity in the form of Maxwell stresses. For positive, high spin, the rate of angular momentum transport is about five times higher than for negative spin. This contribution is nearly absent for a nonrotating BH. (ii) The mass accretion rate and the MAD parameter, both calculated at the horizon, are not correlated. However, their time derivatives are anticorrelated for every spin. (iii) For zero spin, the contribution of the toroidal component of the magnetic field to the magnetic pressure is negligible, while for a fast-spinning BH, it is on the same order as the contribution of the radial magnetic component. For high positive spin, the toroidal component even dominates. (iv) For negative spins, the jets are narrower than their positive-spin counterparts, while their fluctuations are stronger. The weak jet from the nonrotating BH is the widest with the weakest fluctuations. Our results highlight the complex nonlinear connection between the black hole spin and the resulting disk and jet properties in the MAD regime.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Radio Continuum and Water Maser Observations of the High-mass Protostar IRAS 19035+0641 A</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad182f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad182f</guid>
+<content:encoded><![CDATA[
+<div> IRAS 19035+0641 A, Very Large Array, 1.3 cm continuum, 22.2 GHz H2O maser, high-mass protostellar object
+总结:
+利用Very Large Array进行了针对IRAS 19035+0641 A的1.3 cm连续波和22.2 GHz H2O激射观测。发现了一个在尺度≲500 au的延长的双极性1.3 cm连续波结构，与上升的带内谱指数一起，强烈暗示指向IRAS 19035+0641 A的射流是电离的。此外，还确定了8个水激射点，它们与射流轴线很好地对齐。最亮的H2O激射线Stokes V谱显示可能的泽曼分裂，并且可以用拟合到Stokes I谱形的两个高斯成分的导数很好地表示。测得的Blos分别为123 (±27)和156 (±8) mG，相应的预激震磁场约为7 mG。后续的观测证实了泽曼分裂，并且发现了所有水激射点的强烈变化，其中最亮的激射完全消失。在1年的时间尺度内观察到的变化可能是一个吸积事件的结果。这些发现加强了对IRAS 19035+0641 A作为处于早期吸积/流出演化阶段的高质量原恒星的解释。 <div>
+We present Very Large Array 1.3 cm continuum and 22.2 GHz H2O maser observations of the high-mass protostellar object IRAS 19035+0641 A. Our observations unveil an elongated bipolar 1.3 cm continuum structure at scales ≲500 au, which, together with a rising in-band spectral index, strongly suggests that the radio emission toward IRAS 19035+0641 A arises from an ionized jet. In addition, eight individual water maser spots well aligned with the jet axis were identified. The Stokes V spectrum of the brightest H2O maser line (∼100 Jy) shows a possible Zeeman splitting and is well represented by the derivatives of two Gaussian components fitted to the Stokes I profile. The measured Blos are 123 (±27) and 156 (±8) mG, translating to a preshock magnetic field of ≈7 mG. Subsequent observations to confirm the Zeeman splitting showed intense variability in all the water maser spots, with the brightest maser completely disappearing. The observed variability in a 1 yr timescale could be the result of an accretion event. These findings strengthen our interpretation of IRAS 19035+0641 A as a high-mass protostar in an early accretion/outflow evolutionary phase.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Tracing the Layers of Photodissociated Gas in the Trifid Nebula</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad19cb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad19cb</guid>
+<content:encoded><![CDATA[
+<div> photodissociated gas, Trifid Nebula, kinematics, PDRs, H ii region
+<br><br>总结:
+本文分析了年轻的三叉戟星云的运动学特征，基于远红外[C ii] 158μm和[O i] 63μm的速度分辨观测。PDR的分布呈现出质量为516 M⊙的红移和蓝移PDR壳层，动能约为1047 erg。观测到的PDR壳层的动量低于理论计算预测的，这提示M20星云由于周围气体被传播的电离前沿所吹散而发生了显著的质量丢失。总体来说，文章揭示了H ii区的热能以及HD 169442A的恒星风流明度对M20星云的动力学演化造成的影响。 <div>
+Photodissociated gas bears the signature of the dynamical evolution of the ambient interstellar medium impacted by the mechanical and radiative feedback from an expanding H ii region. Here we present an analysis of the kinematics of the young Trifid Nebula, based on velocity-resolved observations of the far-infrared fine structure lines of [C ii] at 158 μm and [O i] at 63 μm. The distribution of the photodissociated regions (PDRs) surrounding the nebula is consistent with a shell-like structure created by the H ii region expanding at a velocity of 5 km s−1. Comparison of ratios of [C ii] and [O i]63 μm intensities for identical velocity components with PDR models indicate a density of 104 cm−3. The redshifted and blueshifted PDR shells with a combined mass of 516 M⊙ have a kinetic energy of ∼1047 erg. This is consistent with the thermal energy of the H ii region as well as with the energy deposited by the stellar wind luminosity from HD 169442A, an O7 V star, over the 0.5 Myr lifetime of the star. The observed momentum of the PDR shell is lower than what theoretical calculations predict for the radial momentum due to the shell being swept up by an expanding H ii region, which suggests that significant mass loss has occurred in M20 due to the dispersal of the surrounding gas by the advancing ionization front.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>K-shell X-Ray Emission from Lithium-like Nitrogen N v</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e58</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e58</guid>
+<content:encoded><![CDATA[
+<div> N v, X-ray emission lines, electron-impact collisions, astrophysical emission models, many-body perturbation theory method
+总结:
+本研究对N v X射线发射线进行了实验测量，发现其强度约为共振线的五分之一。此外，还提供了融合线的波长数据，并进行了原子结构计算的测试，结果与理论计算方法的计算结果相吻合。这些实验和理论数据为精确的静止波长提供了基准，可帮助确定活跃星系核和其他天体物质吸收特征的速度。 <div>
+We present laboratory measurements of n = 3 → n = 1 N v X-ray emission lines situated near 26 Å. The lines are excited by electron-impact collisions and are shown to reach a combined intensity of about a fifth of the combined strong N v 1s2s2p2P1/2,3/2 → 1s22s2S1/2 resonance lines, commonly labeled q and r, at 29.4 Å. In addition, we present new experimental data for the wavelength of the blended q and r lines at 29.4 Å, as well as for that of the blended inner-shell-excited N v lines u and v at 30.0 Å. All of these collisional N v lines need to be included in astrophysical emission models in order to properly account for flux from N v in the soft X-ray region. The measured wavelengths provide benchmarks for testing atomic structure calculations and excellent agreement is found with our calculations using the many-body perturbation theory method. We provide a complete listing of the N v energy levels with valence electrons in the n = 2, 3, and 4 shells calculated with this approach. The experimental and theoretical data, thus, provide accurate rest-frame wavelengths needed for velocity determinations based on high-resolution absorption features in spectra of warm absorbers in active galactic nuclei and other astrophysical objects.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e5d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e5d</guid>
+<content:encoded><![CDATA[
+<div> 关键词: dark galaxies, IllustrisTNG, 暗物质晕, 星等
+
+总结: 本研究利用IllustrisTNG宇宙水动力学模拟研究了暗物质星系的形成和演化。首先识别了具有恒星质量-总质量比M*/Mtot小于10−4的暗物质星系，与具有M*/Mtot ≥ 10−4的发光星系不同。然后选择了具有大约10^9h-1M⊙暗物质暗物质晕质量的星系，比较它们的物理特性与发光星系。发现，在当今宇宙（z = 0）中，暗物质星系主要位于无星形气体的空洞区域。此外，暗物质星系倾向于具有比较大的尺寸和更高的自旋参数。在早期宇宙中，暗物质星系和发光星系在自旋和局部环境估计的分布上存在较小差异，随着演化，这两个样本之间的差异变得更加显著。研究结果表明，与发光星系不同，暗物质星系倾向于最初形成在密度较小的区域，并且由于宇宙复电离的加热以及与其他含有恒星的系统的相互作用和并合较少而无法形成恒星。这项基于数值模拟的研究能够为验证观测中的暗物质星系候选者和约束星系形成模型提供重要线索。 <div>
+We study the formation and evolution of dark galaxies using the IllustrisTNG cosmological hydrodynamical simulation. We first identify dark galaxies with stellar-to-total mass ratios, M*/Mtot, smaller than 10−4, which differ from luminous galaxies with M*/Mtot ≥ 10−4. We then select the galaxies with a dark matter halo mass of ∼109h−1M⊙ for mass completeness and compare their physical properties with those of luminous galaxies. We find that, at the present epoch (z = 0), dark galaxies are predominantly located in void regions without star-forming gas. We also find that dark galaxies tend to have larger sizes and higher spin parameters than luminous galaxies. In the early universe, dark and luminous galaxies show small differences in the distributions of spin and local environment estimates, and the difference between the two samples becomes more significant as they evolve. Our results suggest that, unlike luminous galaxies, dark galaxies tend to be initially formed in less dense regions and could not form stars because of heating from cosmic reionization and few interactions and mergers with other systems containing stars. This study based on numerical simulations can provide important hints for validating dark galaxy candidates in observations and for constraining galaxy formation models.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Comparing SCUBA-2 and ALMA Selections of Faint Dusty Star-forming Galaxies in A2744</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e61</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e61</guid>
+<content:encoded><![CDATA[
+<div> SCUBA-2, ALMA, 镜头聚焦, 星系团, 红外观测
+总结:<br><br>研究比较了在A2744星系团中使用ALMA 1.2毫米数据和SCUBA-2 450和850 μm成像的效果。结果显示，将SCUBA-2数据与JWST红外观测相结合可以更有效地发现微弱尘埃星系的存在。通过比对观测结果，研究确认约95%的微弱尘埃星系，并且借助红外先验条件还可以进一步深入ALMA图像观测。同时，发现46/69的ALMA源在850 μm波段有信号，24/69在450 μm波段也有信号，总检测率接近75%。另外，发现SCUBA-2检测到的比例在z=3后略有下降，推测这可能与ALMA选择以及波段之间的信号比有关。这项研究强调了结合SCUBA-2数据和JWST颜色观测可以更好地绘制微弱尘埃星系的能力。 <div>
+We make a comparison of deep SCUBA-2 450 and 850 μm imaging on the massive lensing cluster field A2744 with Atacama Large Millimeter/submillimeter Array (ALMA) 1.2 mm data. Our primary goal is to assess how effective the wider-field SCUBA-2 sample, in combination with red JWST priors, is for finding faint dusty star-forming galaxies (DSFGs) compared to the much more expensive mosaicked ALMA observations. We cross-match our previously reported direct (>5σ) SCUBA-2 sample and red JWST NIRCam prior-selected (>3σ) SCUBA-2 sample to direct ALMA sources from the DUALZ survey. We find that roughly 95% are confirmed by ALMA. The red priors also allow us to probe deeper in the ALMA image. Next, by measuring the 450 and 850 μm properties of the full ALMA sample, we show that 46/69 of the ALMA sources are detected at 850 μm and 24/69 are detected at 450 μm in the SCUBA-2 images, with a total detection fraction of nearly 75%. All of the robust (>5σ) ALMA sources that are not detected in at least one SCUBA-2 band lie at 1.2 mm fluxes ≲0.6 mJy and are undetected primarily due to the higher SCUBA-2 flux limits. We also find that the SCUBA-2 detection fraction drops slightly beyond z = 3, which we attribute to the increasing 1.2 mm to 850 μm and 1.2 mm to 450 μm flux ratios combined with the ALMA selection. The results emphasize the power of combining SCUBA-2 data with JWST colors to map the faint DSFG population.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Revisiting the Solar Wind Deceleration Upstream of the Martian Bow Shock Based on MAVEN Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f56</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f56</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Mars, MAVEN, solar wind, deceleration, pickup ions
+总结:<br><br>这项研究使用Mars Atmosphere and Volatile EvolutioN (MAVEN)获取的粒子和磁场测量数据，研究了火星弓形震波上游的太阳风减速情况。研究发现，平均太阳风减速约为初始太阳风速度的0.7%，远小于先前研究得出的数值。进一步的计算表明，这种观察到的减速与捕获离子质量装载场景是一致的。这一发现对太阳风与火星上层大气的相互作用有重要意义。 <div>
+The solar wind deceleration upstream of the Martian bow shock is examined using particle and magnetic field measurements obtained by the Mars Atmosphere and Volatile EvolutioN (MAVEN). Mars lacks a strong intrinsic magnetic field so its upper atmosphere extends beyond the Martian bow shock and interacts directly with the solar wind. Neutral atoms in the Martian upper atmosphere can be ionized through several physical processes and then start to move with the solar wind flow to form pickup ions. In return, the solar wind is expected to slow down due to the momentum transfer to the pickup ions. The present study surveys the MAVEN solar wind measurements between 2015 and 2019 to evaluate the solar wind deceleration upstream of the Martian bow shock. Different from previous studies of solar wind deceleration, our analysis carefully excludes the solar wind deceleration in the shock foot region. The average solar wind deceleration obtained is about 0.7% of the initial solar wind speed, much smaller than the values given by previous studies. Further calculation using several reasonable Martian upper atmosphere density profiles demonstrates that the deceleration observed is consistent with the pickup ion mass-loading scenario.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Missing Symbiotic Stars: A Joint Analysis with Gaia, GALEX, and XMM-Newton Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad20ec</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad20ec</guid>
+<content:encoded><![CDATA[
+
+The existence of a population of low-accretion-rate symbiotic stars (SySts), consisting of a giant star and a compact companion (usually a white dwarf), has been proposed recently. However, their population has not been fully understood. In this work, we present an investigation on SySts candidates consisting of asymptotic giant branch stars (AGBs) by cross-correlating the Gaia DR3, the Galaxy Evolution Explorer All-Sky Imaging Survey, and the 4XMM DR13 catalogs. We first build a sample of AGBs within 500 pc based on their locations in the Gaia color–absolute magnitude diagram. We then explore the UV and X-ray properties of the sampled AGBs and compare them to known SySts and candidates. We find 10 SySts candidates based on the far-ultraviolet excess. The typical UV luminosity of the candidates is 1031 erg s−1, which corresponds to a typical accretion rate of 10−12–10−11M⊙ yr−1, which is more than 1 order of magnitude lower than known SySts. Based on these findings, the total number of SySts within 500 pc is estimated to be 18. The number of AGBs with X-ray flux above 10−14 erg s−1 cm−2 within 500 pc is estimated to be 37. Our finding implies that a large number of low-accretion-rate SySts are yet to be detected, which provides a base for a complete understanding of their population.
+]]></content:encoded>
+
+<pubDate>2024-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Analysis of the 3.2–3.3 μm Interstellar Absorption Feature on Three Milky Way Sightlines</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1245</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1245</guid>
+<content:encoded><![CDATA[
+
+We report new analyses of spectra of the 3.2–3.3 μm absorption feature observed in the diffuse interstellar medium toward three Milky Way sources: 2MASS J17470898 − 2829561 (2M1747) and the Quintuplet Cluster, both located in the Galactic center, and Cygnus OB2-12. The 3.2–3.3 μm interval coincides with the CH-stretching region for compact polycyclic aromatic hydrocarbons (PAHs). We focus on the 2M1747 spectrum. Its published optical depth spectrum contains residual telluric transmission features, which arise from the 0.06 difference in mean airmasses between the observations of the source and its telluric standard star. We corrected the published spectrum by adding the airmass residual optical depth spectrum. The corrected spectrum is well fit by a superposition of four Gaussians. The absorption spectra of the other two sources were also fit by four Gaussians, with similar central wavelengths, widths, and relative peak opacities. We associate the three longer wavelength Gaussians covering the 3.23–3.31 μm interval with compact PAHs in positive, neutral, and negative charge states. We identify the shortest-wavelength Gaussian, near 3.21 μm, with irregularly shaped PAHs. Constraints imposed by spectral smoothness on the corrected 2M1747 spectrum, augmented by a PAH cluster formation model for post-asymptotic giant branch stars, suggests that >99% of the PAHs in the diffuse interstellar medium reside in small clusters. This study supports the PAH hypothesis, and it suggests that a family of primarily compact PAHs with a C66H20 (circumvalene) parent is consistent with the observed mid-infrared and ultraviolet interstellar absorption spectrum.
+]]></content:encoded>
+
+<pubDate>2024-02-13T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Artificial Intelligence Assisted Inversion (AIAI): Quantifying the Spectral Features of 56Ni of Type Ia Supernovae</title>
