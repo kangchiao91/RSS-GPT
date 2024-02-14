@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Gamma-Ray Burst Detection with Poisson-FOCuS and Other Trigger Algorithms</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad15ff</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: Poisson-FOCuS, HERMES-Pathfinder constellation, gamma-ray bursts, miniaturized satellites, computational cost
 
-Poisson-FOCuS算法可以在计算成本的限制下优化地检测伽马射线暴，适用于即将推出的HERMES-Pathfinder卫星。该算法能够在实时并以较低的计算成本检测计数时间序列中的所有时间间隔，所有时间尺度和偏移，通过对历史数据进行验证，证明了该实施方案在自动背景评估方面具有更高的检测能力。其分析速度比历史Fermi-GBM的benchmark模拟器快两倍，实现了更高性能。总结:<br><br>作者使用Poisson-FOCuS算法在小型卫星上实时检测伽马射线暴。他们通过验证和模拟数据表明，该算法在计算成本和检测能力方面都具有优势。 <div>
+Poisson-FOCuS算法可以在计算成本的限制下优化地检测伽马射线暴，适用于即将推出的HERMES-Pathfinder卫星。该算法能够在实时并以较低的计算成本检测计数时间序列中的所有时间间隔，所有时间尺度和偏移，通过对历史数据进行验证，证明了该实施方案在自动背景评估方面具有更高的检测能力。其分析速度比历史Fermi-GBM的benchmark模拟器快两倍，实现了更高性能。总结:<br /><br />作者使用Poisson-FOCuS算法在小型卫星上实时检测伽马射线暴。他们通过验证和模拟数据表明，该算法在计算成本和检测能力方面都具有优势。 <div>
 We describe how a novel online change-point detection algorithm, called Poisson-FOCuS, can be used to optimally detect gamma-ray bursts within the computational constraints imposed by miniaturized satellites such as the upcoming HERMES-Pathfinder constellation. Poisson-FOCuS enables testing for gamma-ray burst onset at all intervals in a count time series, across all timescales and offsets, in real time and at a fraction of the computational cost of conventional strategies. We validate an implementation with automatic background assessment through exponential smoothing, using archival data from Fermi-GBM. Through simulations of lightcurves modeled after real short and long gamma-ray bursts, we demonstrate that the same implementation has higher detection power than algorithms designed to emulate the logic of Fermi-GBM and Compton-BATSE, reaching the performance of a brute-force benchmark with oracle information on the true background rate, when not hindered by automatic background assessment. Finally, using simulated data with different lengths and means, we show that Poisson-FOCuS can analyze data twice as fast as a similarly implemented benchmark emulator for the historic Fermi-GBM on-board trigger algorithms.
 ]]></content:encoded>
-
 <pubDate>2024-02-14T00:00:00Z</pubDate>
 </item>
 <item>
@@ -28,7 +28,6 @@ We describe how a novel online change-point detection algorithm, called Poisson-
 频域分析可以帮助解决活动星系核的中心引擎尺寸问题。NGC 5548的时间延迟与经典的Shakura-Sunyaev盘模型的X射线再处理不一致，但CHAR模型能够很好地解释NGC 5548的时间延迟。此外，我们对Mrk 817进行了CHAR模型预测，并得到了有效于不同黑洞质量和Eddington比率范围内的时间延迟。我们还证明了CHAR模型的滞后 - 亮度关系与观测一致。未来的观测将有助于验证我们的结果，并为解决活动星系核的中心引擎提供新的见解。 <div>
 Continuum reverberation mapping with high-cadence, long-term UV/optical monitoring of active galactic nuclei (AGNs) enables us to resolve the AGN central engine sizes on different timescales. The frequency-resolved time lags of NGC 5548 (the target for the AGN STORM I campaign) are inconsistent with the X-ray reprocessing of the classical Shakura–Sunyaev disk model. Here we show that the frequency-resolved time lags in NGC 5548 can be well produced by the Corona-Heated Accretion-disk Reprocessing (CHAR) model. Moreover, we make CHAR model predictions of the frequency-resolved time lags for Mrk 817, the source of the AGN STORM II campaign. We also obtain frequency-resolved time lags as a function of the BH mass and Eddington ratio, which is valid for BH masses from 106.5 to 109M⊙ and Eddington ratios from 0.01 to 1. Moreover, we demonstrate that with the time spans of current continuum reverberation-mapping campaigns, the lag–luminosity relation of the CHAR model can be , which is consistent with observations. Future observations can test our results and shed new light on resolving the AGN central engine.
 ]]></content:encoded>
-
 <pubDate>2024-02-14T00:00:00Z</pubDate>
 </item>
 <item>
@@ -41,10 +40,8 @@ Continuum reverberation mapping with high-cadence, long-term UV/optical monitori
 脉冲星发出的宽带射电波在穿过星际介质时会受到扭曲和延迟。研究者使用CLEAN去卷积技术来恢复脉冲展宽的时间尺度，从而揭示脉冲的真实形状。通过模拟数据进行参数化，开发了一套测试来确定散射时间尺度及其不确定性。该算法在高度散射的毫秒脉冲星J1903+0327上进行了测试，显示散射时间尺度随时间变化，与脉冲星的折射时间尺度估计一致。这项研究还将改进的算法与循环光谱法进行了比较，验证了其有效性。 <div>
 Broadband radio waves emitted from pulsars are distorted and delayed as they propagate toward the Earth due to interactions with the free electrons that compose the interstellar medium (ISM), with lower radio frequencies being more impacted than higher frequencies. Multipath propagation in the ISM results in both later times of arrival for the lower frequencies and causes the observed pulse to arrive with a broadened tail described via the pulse broadening function. We employ the CLEAN deconvolution technique to recover the pulse broadening timescale and by proxy the intrinsic pulse shape. This work expands upon previous descriptions of CLEAN deconvolution used in pulse broadening analyses by parameterizing the efficacy on simulated data and developing a suite of tests to establish which of a set of figures of merit leads to an automatic and consistent determination of the scattering timescale and its uncertainty. We compare our algorithm to the cyclic spectroscopy method of estimating the scattering timescale, specifically to the simulations performed in Dolch et al. (2021). We test our improved algorithm on the highly scattered millisecond pulsar J1903+0327, showing the scattering timescale to change over years, consistent with estimates of the refractive timescale of the pulsar.
 ]]></content:encoded>
-
 <pubDate>2024-02-14T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Characterization of JWST NIRCam PSFs and Implications for AGN+host Image Decomposition</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1183</link>
