@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Bjet_MCMC: A New Tool to Automatically Fit the Broadband Spectral Energy Distributions of Blazars</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad09c0</link>
@@ -15,10 +16,8 @@
 多波段观测已成为研究类星体各种状态活动、分类以及确定可能驱动其辐射的物理过程的规范。波段辐射模型成为测试辐射情景和确定物理量值（如磁场强度、多普勒因子或发射区粒子分布形状）的必不可少的工具。我们在此宣布一个新工具Bjet_MCMC的首次公开发布，它能自动拟合类星体的宽频谱能量分布(SEDs)。该代码完整版本可在GitHub上获得，并可用于测试包含或不包含来自超大质量黑洞的热环境(吸积盘和宽线区)的外部逆康普顿过程的轻子同步自康普顿模型。该代码设计用户友好且计算效率高。它包含一个用C++编写的核心以及一个完全并行化的SED拟合方法。Bjet的原始多SSC区模型也可在GitHub上获取，但目前不包含在马尔可夫蒙特卡罗拟合过程中。我们展示了Bjet_MCMC的特点、性能和结果，以及用户建议。 <div>
 Multiwavelength observations are now the norm for studying blazars’ various states of activity, classifying them, and determining the possible underlying physical processes driving their emission. Broadband emission models became unavoidable tools for testing emission scenarios and setting the values of physical quantities such as the magnetic field strength, Doppler factor, or shape of the particle distribution of the emission zone(s). We announce here the first public release of a new tool, Bjet_MCMC, that can automatically fit the broadband spectral energy distributions (SEDs) of blazars. The complete code is available on GitHub and allows for testing leptonic synchrotron self-Compton models with or without external inverse-Compton processes from the thermal environment of supermassive black holes (accretion disk and broad-line region). The code is designed to be user-friendly and computationally efficient. It contains a core written in C++ and a fully parallelized SED fitting method. The original multi-SSC zone model of Bjet is also available on GitHub but is not included in the Markov Chain Monte Carlo fitting process at the moment. We present the features, performance, and results of Bjet_MCMC, as well as user advice.
 ]]></content:encoded>
-
 <pubDate>2024-02-16T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Betelgeuse as a Merger of a Massive Star with a Companion</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e0a</link>
