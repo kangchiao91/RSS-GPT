@@ -5,20 +5,123 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Modeling of Radio Supernovae: Including the Effects of Inhomogeneities and Radiative Cooling</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1109</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1109</guid>
+<content:encoded><![CDATA[
+<div> radio supernovae, inhomogeneities, deduced source properties, volume filling factor, synchrotron emission
+
+总结:<br><br>本文讨论了空间未解析源中不均匀性的存在，这使得很难确定源的性质。文章展示了如何利用不符合均匀模型的观察特征来推断射电超新星中不均匀性的性质。此外，放射冷却的观察结果可能会受到不均匀性的严重影响。文章指出，观测到的冷却频率的值对推断源的性质非常敏感；即使是下限通常也有助于限制其特征。文章认为SN 2003L中的主要同步辐射发射区具有较小的体积填充因子，可能低至几个百分点。相反，SN 2002ap中的非均匀性偏差显著较小。总体上，类型Ib/c射电超新星的观测性质表明个体源的体积填充因子随时间保持相当恒定，但在射电频率上达到峰值的源具有较低的填充因子。SN 2003L和SN 2002ap中主同步辐射组分的条件与相对论电子和磁场之间的能量均衡一致。 <div>
+The presence of inhomogeneities in a spatially unresolved source is often hard to establish. This limits the accuracy with which the source properties can be determined. It is shown how observed features not expected for a homogeneous model can be used to infer the properties of the inhomogeneities in radio supernovae. Furthermore, the observed consequences of radiative cooling can be seriously affected by inhomogeneities. It is shown that the deduced source properties are very sensitive to the observed value of the cooling frequency; even a lower limit is often useful to constrain its characteristics. It is argued that the main synchrotron emission region in SN 2003L has a small volume filling factor, possibly as low as a few percent. On the contrary, deviations from homogeneity are substantially smaller in SN 2002ap. The observed properties of Type Ib/c radio supernovae in general indicate the volume filling factor to remain rather constant with time for individual sources, but those peaking later at radio frequencies have lower filling factors. The conditions in the main synchrotron component in both SN 2003L and SN 2002ap are consistent with equipartition of energy between relativistic electrons and magnetic fields.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Explaining the GWSkyNet-Multi Machine Learning Classifier Predictions for Gravitational-wave Events</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad13ea</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad13ea</guid>
+<content:encoded><![CDATA[
+<div> LIGO-Virgo, 深度学习, 引力波, 分类模型, 误分类
+<br>
+GWSkyNet-Multi是一个用于对LIGO和Virgo观测所检测到的候选引力波事件进行分类的机器学习模型。该模型利用低延迟的公开警报中发布的有限信息，生成预测分数，指示事件是否是两个黑洞的合并、涉及中子星的合并，或者是非天体故障。然而，人们对于模型如何利用有限的信息进行预测并不了解。通过对模型和其输入进行系统性干扰，我们发现模型学习用于区分源的基本特征和相关性。我们发现，二维天空图的定位区域和计算的一致性与不一致性贝叶斯因子被用作强有力的预测器，用于区分真实事件和故障。而估计的源距离进一步用于区分二进制黑洞合并和涉及中子星的合并。我们利用这些发现来展示GWSkyNet-Multi在LVK的第三次观测运行中错误分类的事件具有不同的天空区域、一致性因子和距离值，这些影响了预测并解释了这些误分类。这些结果有助于识别模型的局限性，并为进一步优化提供了潜在的途径。 <br><br>总结: GWSkyNet-Multi是一个用于分类引力波事件的深度学习模型，借助有限信息进行预测，发现了特定的天空区域、一致性因子和距离值对于区分不同类型的事件具有重要作用，同时揭示了模型的局限性并提出了进一步优化的可能路径。 <div>
+GWSkyNet-Multi is a machine learning model developed for the classification of candidate gravitational-wave events detected by the LIGO and Virgo observatories. The model uses limited information released in the low-latency Open Public Alerts to produce prediction scores indicating whether an event is a merger of two black holes (BHs), a merger involving a neutron star (NS), or a non-astrophysical glitch. This facilitates time-sensitive decisions about whether to perform electromagnetic follow-up of candidate events during LIGO-Virgo-KAGRA (LVK) observing runs. However, it is not well understood how the model is leveraging the limited information available to make its predictions. As a deep learning neural network, the inner workings of the model can be difficult to interpret, impacting our trust in its validity and robustness. We tackle this issue by systematically perturbing the model and its inputs to explain what underlying features and correlations it has learned for distinguishing the sources. We show that the localization area of the 2D sky maps and the computed coherence versus incoherence Bayes factors are used as strong predictors for distinguishing between real events and glitches. The estimated distance to the source is further used to discriminate between binary BH mergers and mergers involving NSs. We leverage these findings to show that events misclassified by GWSkyNet-Multi in LVK’s third observing run have distinct sky areas, coherence factors, and distance values that influence the predictions and explain these misclassifications. The results help identify the model’s limitations and inform potential avenues for further optimization.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>MIDIS: JWST NIRCam and MIRI Unveil the Stellar Population Properties of Lyα Emitters and Lyman-break Galaxies at z ≃ 3–7</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad15f6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad15f6</guid>
+<content:encoded><![CDATA[
+<div> 关键词: LAEs, LBGs, 星族特性，JWST观测，星际物质
+
+在这项研究中，研究人员对182个经光谱确认的Lyα发射星系（LAEs）和450个在Hubble极深场中选取的红移z=2.8-6.7的光度学选取的莱曼突破星系（LBGs）的恒星族特性进行了分析。他们发现LAEs是低质量的天体，几乎没有或者很少的尘埃消光，而且具有蓝色的紫外线连续谱。相比之下，LBGs具有较红的紫外线连续谱和略微较大的尘埃消光值。通过与LBGs的比较，发现这两种对象在性质上没有统计学差异。此外，发现JWST观测对于确定LAEs的特性以及与LBGs的比较至关重要。总结：<br><br>总结: LAEs是低质量的天体，几乎没有或者很少的尘埃消光，而且具有蓝色的紫外线连续谱。LBGs具有较红的紫外线连续谱和略微较大的尘埃消光值。 LBGs的星际物质可能是导致它们缺乏探测到的Lyα发射的原因。JWST观测对于确定LAEs的特性以及与LBGs的比较至关重要。 <div>
+We study the stellar population properties of 182 spectroscopically confirmed (MUSE/VLT) Lyα emitters (LAEs) and 450 photometrically selected Lyman-break galaxies (LBGs) at z = 2.8–6.7 in the Hubble Extreme Deep Field. Leveraging the combined power of Hubble Space Telescope and JWST NIRCam and MIRI observations, we analyze their rest-frame UV-through-near-IR spectral energy distributions, with MIRI playing a crucial role in robustly assessing the LAEs’ stellar masses and ages. Our LAEs are low-mass objects with little or no dust extinction (E(B − V) ≃ 0.1) and a blue UV continuum slope (β ≃ −2.2). While 75% of our LAEs are young (<100 Myr), the remaining 25% have significantly older stellar populations (≥100 Myr). These old LAEs are statistically more massive, less extinct, and have lower specific star formation rate than young LAEs. Besides, they populate the plane of M⋆ versus star formation rate along the main sequence of star-forming galaxies, while young LAEs populate the starburst region. The comparison between the LAEs’ properties and those of a stellar-mass-matched sample of LBGs shows no statistical difference between these objects, except for the LBGs’ redder UV continuum slope and marginally larger E(B − V) values. Interestingly, 48% of the LBGs have ages <10 Myr and are classified as starbursts, but lack detectable Lyα emission. This is likely due to H i resonant scattering and/or dust-selective extinction. Overall, we find that JWST observations are crucial in determining the properties of LAEs and shedding light on their comparison with LBGs.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Coronagraphic Data Post-processing Using Projections on Instrumental Modes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1879</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1879</guid>
+<content:encoded><![CDATA[
+<div> 关键词: exoplanets, coronagraphs, wave front control, post-processing, transfer matrix
+
+总结:<br><br>这篇文章讨论了在后期处理中使用仪器模型来分离冠状数据中的残余像差与天体信号。研究发现，通过投影到仪器模式，可以移除主要误差模式，从而改善对天体信号的探测灵敏度。这种方法不需要额外的信息，可以与其他技术相结合，在后期处理中起到模型指导的作用。这项研究为冠状数据的科学利用提供了新的途径，可以提高对天体信号的敏感度。 <div>
+Directly observing exoplanets with coronagraphs is impeded by the presence of speckles from aberrations in the optical path, which can be mitigated in hardware with wave front control, as well as in post-processing. This work explores using an instrument model in post-processing to separate astrophysical signals from residual aberrations in coronagraphic data. The effect of wave front error (WFE) on the coronagraphic intensity consists of a linear contribution and a quadratic contribution. When either of the terms is much larger than the other, the instrument response can be approximated by a transfer matrix mapping WFE to detector plane intensity. From this transfer matrix, a useful projection onto instrumental modes that removes the dominant error modes can be derived. We apply this approach to synthetically generated Roman Space Telescope hybrid Lyot coronagraph data to extract “robust observables,” which can be used instead of raw data for applications such as detection testing. The projection improves planet flux ratio detection limits by about 28% in the linear regime and by over a factor of 2 in the quadratic regime, illustrating that robust observables can increase sensitivity to astrophysical signals and improve the scientific yield from coronagraphic data. While this approach does not require additional information such as observations of reference stars or modulations of a deformable mirror, it can and should be combined with these other techniques, acting as a model-informed prior in an overall post-processing strategy.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Chemical Cartography of the Sagittarius Stream with Gaia</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad187b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad187b</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Sagittarius dwarf galaxy, stellar stream, metallicity maps, red giant branch stars, N-body simulation
+
+Sagittarius矮星系的星流连接是目前银河系中已被绘制的最大的潮汐星流，也是银河系外部恒星晕的主要贡献者。研究使用来自Gaia BP/RP光谱的34,240颗红巨星分支星，推断其金属丰度，得出Sgr星流的金属丰度图。我们测量了与Sgr星流坐标(Λ、B)相关的金属丰度梯度，并突出显示了与星流纬度坐标B相关的金属丰度梯度。通过将金属丰度梯度应用到Sgr星流的N体模拟中，我们发现星流中的观测金属丰度与Sgr矮星系的初始径向金属丰度梯度一致，在-0.1至-0.2 dex kpc−1的范围内。我们的研究为Sgr星流的源矮星系的内部结构提供了新的观测约束。借助新的大数据集以及量身定制的模拟，我们可以将银河系中破碎的矮星今日特性与其初始条件联系起来。<br><br>总结: 本研究使用了庞大的数据集，测量了Sgr星流中红巨星分支星的金属丰度，并得出金属丰度梯度。研究发现，这些观测结果与Sgr矮星系的初始金属丰度梯度一致，为矮星系的内部结构提供了新的观测约束。使用N体模拟，可以将破碎的矮星今日特性与其初始条件联系起来。 <div>
+The stellar stream connected to the Sagittarius (Sgr) dwarf galaxy is the most massive tidal stream that has been mapped in the Galaxy, and is the dominant contributor to the outer stellar halo of the Milky Way (MW). We present metallicity maps of the Sgr stream, using 34,240 red giant branch stars with inferred metallicities from Gaia BP/RP spectra. This sample is larger than previous samples of Sgr stream members with chemical abundances by an order of magnitude. We measure metallicity gradients with respect to Sgr stream coordinates (Λ, B), and highlight the gradient in metallicity with respect to stream latitude coordinate B, which has not been observed before. Including the core, we find ∇[M/H] = −2.48 ± 0.08 × 10−2 dex deg−1 above the stream track (B > B0, where B0 = 1.5° is the latitude of the Sgr remnant) and ∇[M/H] = −2.02 ± 0.08 × 10−2 dex deg−1 below the stream track (B < B0). By painting metallicity gradients onto a tailored N-body simulation of the Sgr stream, we find that the observed metallicities in the stream are consistent with an initial radial metallicity gradient in the Sgr dwarf galaxy of ∼−0.1 to −0.2 dex kpc−1, well within the range of observed metallicity gradients in Local Group dwarf galaxies. Our results provide novel observational constraints for the internal structure of the dwarf galaxy progenitor of the Sgr stream. Leveraging new large data sets in conjunction with tailored simulations, we can connect the present-day properties of disrupted dwarfs in the MW to their initial conditions.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>JWST Mid-infrared Spectroscopy Resolves Gas, Dust, and Ice in Young Stellar Objects in the Large Magellanic Cloud</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad18bc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad18bc</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 年轻恒星对象 (YSOs), James Webb太空望远镜, 大麦哲伦星云 (LMC), 分子云, 中红外光谱
+
+总结: 本研究利用James Webb太空望远镜的MRS仪器对大麦哲伦星云（LMC）N79区域的11个年轻恒星对象（YSOs）进行了光谱观测。在N79区域的三个巨大分子云中，我们发现了具有特殊特征的YSOs，包括完整或几乎完整的4.9–27.9μm波段的发射和吸收线，其中年轻最小的YSO Y3显示出明显的冰吸收特征，并且其中心离子化YSO Y4具有大量的发射线。此外，我们还首次在中红外观测到了在星团中形成的高质量原恒星，而这些星团位于LMC这样的外星系环境中。根据H i (7-6)线的光度，我们得出四个YSOs的质量吸积率在1.22 × 10−4–1.89 × 10−2M⊙ yr−1之间。这项研究有助于我们更深入地了解外星系中的星际物质的形成和演化过程。<br><br> <div>
+In this work, we present spectra of 11 young stellar objects (YSOs) taken with the Mid-Infrared Instrument / Medium Resolution Spectroscopy (MRS) instrument on board the James Webb Space Telescope (JWST). The YSOs are located in the N79 region of the Large Magellanic Cloud (LMC), an active star-forming region with hundreds of Spitzer- and Herschel-identified YSOs and host to super star cluster (SSC) candidate H72.97-69.39. The three giant molecular clouds in N79 (East, West, and South) have varying star formation rates and stellar populations. MRS follow-up observations of four Spitzer-identified YSOs in N79 East, West, and South have revealed that what seemed to be a single, massive YSO is actually a cluster of YSOs. We discuss the emission and absorption lines of six YSOs that have complete or almost-complete spectral coverage from 4.9–27.9 μm. YSO Y3, located in N79 East, is the youngest source in this study and likely to be less than 10,000 yr old, as inferred from the prominent CH4, NH3, CH3OH, CH3OCHO, and CO2 ice absorption features. The most luminous source is the central ionizing YSO of SSC H72.97-69.39, Y4, which has dozens of fine-structure and H2 emission lines. Unlike the other YSOs in this work, Y4 has no polyaromatic hydrocarbon emission lines, due to the intense ionizing radiation destroying these large carbon-chain molecules. The mass accretion rates based on the H i (7-6) line luminosities of YSOs Y1, Y2, Y4, and Y9 range between 1.22 × 10−4–1.89 × 10−2M⊙ yr−1. For the first time in the mid-infrared, we are able to resolve individual high-mass protostars forming in small clusters in an extragalactic environment like the LMC.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Active Galactic Nuclei in a Mid-infrared Selected Galaxy Sample at z > 0.13: [Ne v]λ3426 Line Emission as a Benchmark</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b54</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b54</guid>
+<content:encoded><![CDATA[
+<div> AGNs, Lockman Hole field, spectroscopic sample, [Ne v]λ3426 emission line, MIR SEDs  
+总结: 该研究使用24μm选取的光谱样本，在Lockman Hole区域发现了4035个光谱。研究旨在识别活动星系核（AGNs）并确定在这个中红外选择样本中的占比。通过用[Ne v]λ3426发射线进行光谱识别，发现样本中有887个（约22%）AGNs。通过堆叠分析发现在MIR楔形选取的AGN候选者中，堆叠光谱仍然显示出明显的[Ne v]λ3426发射信号。而在楔形之外的非AGN候选者中则没有清晰的[Ne v]λ3426信号。研究开发了一种方法，利用静止系L12/L1.6对L4.5/L1.6图表，将AGN和星形成对MIR SEDs的贡献分离出来。他们发现AGN在12μm处的纯净光度与星形成率呈正相关，表明AGNs和宿主星系可能存在共同的气体供应，说明了观测到的相关性来自于不同红移范围内的种群特性的变化。 <div>
+We present a 24 μm-selected spectroscopic sample z > 0.13 (median 〈z〉 = 0.41) in the Lockman Hole field, consisting of 4035 spectra. Our aim is to identify active galactic nuclei (AGNs) and determine their fraction in this mid-infrared-selected sample. In this work, we use the [Ne v]λ3426 emission line to spectroscopically identify AGNs. Combined with broad-line Type I AGNs selected in our previous study, our sample consists of 887 (∼22%) spectroscopically confirmed AGNs. We perform a stacking analysis on the remaining spectra and find that in various mid-infrared (MIR) wedge-selected AGN candidates, the stacked spectra still show significant [Ne v]λ3426 emission. In contrast, no clear [Ne v]λ3426 signal is detected in non-AGN candidates falling outside the wedges. Assuming a range of AGN MIR spectral energy distribution (SED) slope of −0.3 <α < 0.7, and an average star-forming relation derived from 65 star-forming templates, we develop a robust method to separate the AGN and star-forming contributions to the MIR SEDs using the rest-frame L12/L1.6 versus L4.5/L1.6 diagram. We separate the objects into bins of L12 and find that the AGN fraction increases with increasing L12. We also find that the stacked [Ne v]λ3426 strength scales with L12. The pure AGN luminosity at 12 μm exhibits a positive correlation with the star formation rates, indicating possible coevolution and common gas supply between the AGNs and their host galaxies. Varying population properties across the redshift range explored contribute to the observed correlation.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring Neutral Hydrogen in Radio MOlecular Hydrogen Emission Galaxies (MOHEGs) and Prospects with the SKA</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1edf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1edf</guid>
+<content:encoded><![CDATA[
+<div> MOHEGs, star formation, neutral hydrogen, H i 21 cm absorption, galaxy properties
+<br><br>
+MOHEGs是Faranoff–Riley I/II类型的射电星系，富含分子氢，但星形成活动较低。通过H i 21 cm吸收线，对红移<0.2的中性氢气相关的射电MOHEGs进行研究，发现70%的星系中存在中性氢，距离相邻星系8-120 kpc。这些星系相比相似红移的合并星系，H i气体稀缺。发现N(H i)、NH与星系属性之间关联不强，表明原子气体对星形成可能不重要。总氢气面密度与星形成面密度的关系偏离标准的Kennicutt-Schmidt定律。研究强调了H i研究的重要性，并为解释这些星系的特性提供了见解。未来，使用下一代射电望远镜进行的H i 21 cm吸收线调查，比如Square Kilometre Array和先导仪器，可能会为这些关联提供更好的约束。
+<br>总结: 本研究基于H i 21 cm吸收线对射电MOHEGs进行了中性氢气相关性的研究，发现了一些重要发现，包括70%的星系存在中性氢，这些星系中的H i气体稀缺，N(H i)、NH与星系属性之间关联不强，以及总氢气面密度与星形成面密度的关系与Kennicutt-Schmidt定律不符。这些发现强调了H i研究的重要性，并具有重要的见解。未来，使用下一代射电望远镜进行的H i 21 cm吸收线调查可能会为这些关联提供更好的约束。 <div>
+Empirical studies of cold gas content are essential for comprehending the star formation activities and evolution in galaxies. However, it is not straightforward to understand these processes because they depend on various physical properties of the interstellar medium. Massive Faranoff–Riley I/II type radio galaxies rich in molecular hydrogen with lower star formation activities are known as radio molecular hydrogen emission galaxies (MOHEGs). We present a study of neutral hydrogen-gas-associated radio MOHEGs at redshifts <0.2 probed via the H i 21 cm absorption line. Neutral hydrogen is detected in 70% of these galaxies, which are located at a distance of 8–120 kpc from the neighboring galaxies. These galaxies show a scarcity of H i gas as compared to merging galaxies at similar redshifts. We found no strong correlation between N(H i), NH, and the galaxy properties, regardless of whether the H i is assumed to be cold or warm, indicating that the atomic gas probably plays no important role in star formation. The relation between the total hydrogen gas surface density and the star formation surface density deviates from the standard Kennicutt–Schmidt law. Our study highlights the importance of H i studies and offers insights into the role of atomic and molecular hydrogen gas in explaining the properties of these galaxies. In the upcoming H i 21 cm absorption surveys with next-generation radio telescopes such as the Square Kilometre Array and pathfinder instruments, it may be possible to provide better constraints for these correlations.
+]]></content:encoded>
+
+<pubDate>2024-03-04T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>CLASS Angular Power Spectra and Map-component Analysis for 40 GHz Observations through 2022</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1abf</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1abf</guid>
 <content:encoded><![CDATA[
 <div> 关键词: CMB polarization, Cosmology Large Angular Scale Surveyor (CLASS), 40 GHz channel, synchrotron radiation, Atacama Desert
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了利用40 GHz通道的CLASS观测的CMB极化角尺度（ℓ < 30）特征的测量方法，并探讨了对再电离的光学深度的限制以及搜索通观宇宙膨胀的标志的重要性。通过对Atacama沙漠的优越条件和前端极化调制技术的稳定性，研究表明该通道的灵敏度高于卫星测量的类似频率。通过对漫射辐射的EE和BB谱的测量，对银河遮蔽的漫射辐射的漫射谱能量密度进行了空间方面的扩展。此外，还对ℓ < 125范围内的圆极化背景进行了上限测量，并给出了令人兴奋的可能性。这些结果为从地面恢复最大尺度的CMB极化建立了一种新标准，并展示了当包括更高灵敏度和更高频率的CLASS通道进行分析时的潜在机会。 <div>
 Measurement of the largest angular scale (ℓ < 30) features of the cosmic microwave background (CMB) polarization is a powerful way to constrain the optical depth to reionization and search for the signature of inflation through the detection of primordial B-modes. We present an analysis of maps covering 73.6% of the sky made from the 40 GHz channel of the Cosmology Large Angular Scale Surveyor (CLASS) from 2016 August to 2022 May. Taking advantage of the measurement stability enabled by front-end polarization modulation and excellent conditions from the Atacama Desert, we show this channel achieves higher sensitivity than the analogous frequencies from satellite measurements in the range 10 < ℓ < 100. Simulations show the CLASS linear (circular) polarization maps have a white noise level of . We measure the Galaxy-masked EE and BB spectra of diffuse synchrotron radiation and compare to space-based measurements at similar frequencies. In combination with external data, we expand measurements of the spatial variations of the synchrotron spectral energy density (SED) to include new sky regions and measure the diffuse SED in the harmonic domain. We place a new upper limit on a background of circular polarization in the range 5 < ℓ < 125 with the first bin showing Dℓ < 0.023 at 95% confidence. These results establish a new standard for recovery of the largest-scale CMB polarization from the ground and signal exciting possibilities when the higher sensitivity and higher-frequency CLASS channels are included in the analysis.
 ]]></content:encoded>
-
 <pubDate>2024-03-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Powerful Radio-loud Quasars Are Triggered by Galaxy Mergers in the Cosmic Bright Ages</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad19db</link>
