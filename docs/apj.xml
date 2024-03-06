@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Low-mass Stars: Their Protoplanetary Disk Lifetime Distribution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bef</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bef</guid>
 <content:encoded><![CDATA[
 <div> 盘状星系、寿命分布、Weibull分布、星际盘消退、行星形成模型
-<br><br>这篇文章讨论了原行星盘的寿命分布，指出了不同星际盘的存在时间差异，提出了Weibull分布用于描述寿命分布的可能性，重点讨论了低质量恒星（谱型M3.7至M6，Ms≈0.1–0.24 M⊙）的盘寿命。结果表明，在初始盘分数为0.65时，Weibull分布（k = 2.34，λ = 11.22）和高斯分布（σ = 9.52，μ = 9.52）能较好地拟合观测数据。最终挑战是量化盘的寿命多样性与行星多样性之间的联系。 <br> <div>
+<br /><br />这篇文章讨论了原行星盘的寿命分布，指出了不同星际盘的存在时间差异，提出了Weibull分布用于描述寿命分布的可能性，重点讨论了低质量恒星（谱型M3.7至M6，Ms≈0.1–0.24 M⊙）的盘寿命。结果表明，在初始盘分数为0.65时，Weibull分布（k = 2.34，λ = 11.22）和高斯分布（σ = 9.52，μ = 9.52）能较好地拟合观测数据。最终挑战是量化盘的寿命多样性与行星多样性之间的联系。 <br /> <div>
 While most protoplanetary disks lose their gas within less than 10 Myr, individual disk lifetimes vary from <1 Myr to ≫20 Myr, with some disks existing for 40 Myr. Mean disk half-lifetimes hide this diversity; only a so-far nonexisting disk lifetime distribution could capture this fact. The benefit of a disk lifetime distribution would be twofold. First, it would provide a stringent test on disk evolution theories. Second, it could function as an input for planet formation models. Here, we derive such a disk lifetime distribution. We heuristically test different standard distribution forms for their ability to account for the observed disk fractions at certain ages. We here concentrate on the distribution for low-mass stars (spectral types M3.7–M6, Ms ≈ 0.1–0.24 M⊙) because disk lifetimes depend on stellar mass. A Weibull-type distribution (k = 1.78, λ = 9.15) describes the observational data if all stars have a disk at a cluster age tc = 0. However, a better match exists for lower initial disk fractions. For f(t=0) = 0.65, a Weibull distribution (k = 2.34, λ = 11.22) and a Gaussian distribution (σ = 9.52, μ = 9.52) fit the data similarly well. All distributions have in common that they are wide, and most disks are dissipated at ages >5 Myr. The next challenge is to quantitatively link the diversity of disk lifetimes to the diversity in planets.
 ]]></content:encoded>
-
 <pubDate>2024-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -23,13 +23,11 @@ While most protoplanetary disks lose their gas within less than 10 Myr, individu
 <content:encoded><![CDATA[
 <div> 关键词: CMEs, CAT-PUMA, 机器学习算法, 地球影响, 太空天气
 
-总结:<br><br>研究团队开发了一个名为CAT-PUMA的工具，利用机器学习算法，通过监督学习对CME的到达时间和地球影响进行预测。他们使用了回归模型和分类模型来进行CME到达时间的预测和地球影响的分类。这种应用提供了关于太空天气事件地球影响的定量指示。研究发现，机器学习模型在回归和分类任务中表现良好，但实际潜力和应用并不总是直观的。为了解决这一挑战，他们使用了模型解释技术，特别是Shap值，以获得对这些模型影响的定量洞见。 <div>
+总结:<br /><br />研究团队开发了一个名为CAT-PUMA的工具，利用机器学习算法，通过监督学习对CME的到达时间和地球影响进行预测。他们使用了回归模型和分类模型来进行CME到达时间的预测和地球影响的分类。这种应用提供了关于太空天气事件地球影响的定量指示。研究发现，机器学习模型在回归和分类任务中表现良好，但实际潜力和应用并不总是直观的。为了解决这一挑战，他们使用了模型解释技术，特别是Shap值，以获得对这些模型影响的定量洞见。 <div>
 Space weather phenomena have long captured the attention of the scientific community, and along with recent technological developments, the awareness that such phenomena can interfere with human activities on Earth has grown considerably. Coronal mass ejections (CMEs) are among the main drivers of space weather. Therefore, developing tools to provide information on their arrival at Earth's nearby space has become increasingly important. Liu et al. developed a tool, called CME Arrival Time Prediction Using Machine Learning Algorithms (CAT-PUMA), to obtain fast and accurate predictions of CME transit time. This present work aims at the expansion of the CAT-PUMA concept, employing supervised learning to obtain vital information about the arrival of CMEs at Earth. In this study, we report the results of our work following the implementation of supervised regression and classification models in the CAT-PUMA framework. We conducted a comparison of various machine learning models in the context of predicting the transit time of CMEs and classifying CMEs as either Earth impacting or non-impacting. In this way, we are able to provide information on the possibility of a CME reaching Earth relying on CME features and solar wind parameters measured at take-off. This application thus provides quantitative indications about the geoeffectiveness of these space weather events. While machine-learning models can demonstrate fairly strong performance in regression and classification tasks, it is not always straightforward to extrapolate their practical potential and real-world applicability. To address this challenge, we employed model interpretation techniques, specifically Shap values, to gain quantitative insights into the limitations that affect these models.
 ]]></content:encoded>
-
 <pubDate>2024-03-06T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Magnetic Field in the Colliding Filaments G202.3+2.5</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bc7</link>
