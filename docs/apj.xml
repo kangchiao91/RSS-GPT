@@ -4,6 +4,116 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Extending a Physics-informed Machine-learning Network for Superresolution Studies of Rayleigh–Bénard Convection</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1c55</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1c55</guid>
+<content:encoded><![CDATA[
+
+Advancing our understanding of astrophysical turbulence is bottlenecked by the limited resolution of numerical simulations that may not fully sample scales in the inertial range. Machine-learning (ML) techniques have demonstrated promise in upscaling resolution in both image analysis and numerical simulations (i.e., superresolution). Here we employ and further develop a physics-constrained convolutional neural network ML model called “MeshFreeFlowNet” (MFFN) for superresolution studies of turbulent systems. The model is trained on both the simulation images and the evaluated partial differential equations (PDEs), making it sensitive to the underlying physics of a particular fluid system. We develop a framework for 2D turbulent Rayleigh–Bénard convection generated with the Dedalus code by modifying the MFFN architecture to include the full set of simulation PDEs and the boundary conditions. Our training set includes fully developed turbulence sampling Rayleigh numbers (Ra) of Ra = 106–1010. We evaluate the success of the learned simulations by comparing the power spectra of the direct Dedalus simulation to the predicted model output and compare both ground-truth and predicted power spectral inertial range scalings to theoretical predictions. We find that the updated network performs well at all Ra studied here in recovering large-scale information, including the inertial range slopes. The superresolution prediction is overly dissipative at smaller scales than that of the inertial range in all cases, but the smaller scales are better recovered in more turbulent than laminar regimes. This is likely because more turbulent systems have a rich variety of structures at many length scales compared to laminar flows.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Searches for Neutrinos in the Direction of Radio-bright Blazars with the ANTARES Telescope</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f5b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f5b</guid>
+<content:encoded><![CDATA[
+
+Active galaxies, especially blazars, are among the most promising extragalactic candidates for high-energy neutrino sources. To date, ANTARES searches included these objects and used GeV–TeV γ-ray flux to select blazars. Here, a statistically complete blazar sample selected by their bright radio emission is used as the target for searches of origins of neutrinos collected by the ANTARES neutrino telescope over 13 yr of operation. The hypothesis of a neutrino–blazar directional correlation is tested by pair counting and a complementary likelihood-based approach. The resulting posttrial p-value is 3.0% (2.2σ in the two-sided convention). Additionally, a time-dependent analysis is performed to search for temporal clustering of neutrino candidates as a means of detecting neutrino flares in blazars. None of the investigated sources alone reaches a significant flare detection level. However, the presence of 18 sources with a pretrial significance above 3σ indicates a p = 1.4% (2.5σ in the two-sided convention) detection of a time-variable neutrino flux. An a posteriori investigation reveals an intriguing temporal coincidence of neutrino, radio, and γ-ray flares of the J0242+1101 blazar at a p = 0.5% (2.9σ in the two-sided convention) level. Altogether, the results presented here suggest a possible connection of neutrino candidates detected by the ANTARES telescope with radio-bright blazars.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Orbital Stability and Secular Dynamics of the Proxima Centauri Planetary System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ff4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ff4</guid>
+<content:encoded><![CDATA[
+
+The two innermost planets of the Proxima Centauri system are separated by just 0.02 au, inducing strong gravitational interactions between them. We assess this interaction by leveraging fast orbital stability indicators and find that orbital stability is very likely if the initial eccentricities of planets b and d are less than ∼0.2, but cannot confirm stability at larger values. We find that stability is not strongly affected by the true masses of the planets or by the distant planet c. However, mutual inclinations between 95° and 142° often result in unstable motion. We further explore the long-term evolution of the orbits in these stable regions of parameter space and find that circularization can take over 5 Gyr. This tidal evolution could support surface energy fluxes in excess of 1 W m−2 for over 1 Gyr, possibly affecting planet b’s habitability.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multiple Emission Lines of Hα Emitters at z ∼ 2.3 from the Broad- and Medium-band Photometry in the ZFOURGE Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad20cc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad20cc</guid>
+<content:encoded><![CDATA[
+
+We present a multiple emission line study of ∼1300 Hα emitters (HAEs) at z ∼ 2.3 in the ZFOURGE survey. In contrast to the traditional spectroscopic method, our sample is selected based on the flux excess in the ZFOURGE Ks broadband data relative to the best-fit stellar continuum. Using the same method, we also extract the strong diagnostic emission lines for these individual HAEs: [O iii] λλ4959, 5007 and [O ii] λλ3726, 3729. Our measurements demonstrate good consistency with those obtained from spectroscopic surveys. We investigate the relationship between the equivalent widths (EWs) of these emission lines and various galaxy properties, including stellar mass, stellar age, star formation rate, specific star formation rate, and ionization state (O32). We have identified a discrepancy between HAEs at z ∼ 2.3 and typical local star-forming galaxies observed in the Sloan Digital Sky Survey, suggesting the evolution of lower gas-phase metallicity (Z) and higher ionization parameters (U) with redshift. Notably, we have observed a significant number of low-mass HAEs exhibiting exceptionally high EW[O iii]. Their galaxy properties are comparable to those of extreme objects, such as extreme O3 emitters and Lyα emitters at z ≃ 2–3. Considering that these characteristics may indicate potential strong Lyman continuum leakage, higher-redshift analogs of the low-mass HAEs could be significant contributors to the cosmic reionization. Further investigations of this particular population are required to gain a clearer understanding of galaxy evolution and cosmic reionization.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Pulse Jitter and Single-pulse Variability in Millisecond Pulsars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad217b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad217b</guid>
+<content:encoded><![CDATA[
+
+Understanding the jitter noise resulting from single-pulse phase and shape variations is important for the detection of gravitational waves using pulsar timing arrays. We present measurements of the jitter noise and single-pulse variability of 12 millisecond pulsars that are part of the International Pulsar Timing Array sample using the Five-hundred-meter Aperture Spherical radio Telescope. We find that the levels of jitter noise can vary dramatically among pulsars. A moderate correlation with a correlation coefficient of 0.57 between jitter noise and pulse width is detected. To mitigate jitter noise, we perform matrix template matching using all four Stokes parameters. Our results reveal a reduction in jitter noise ranging from 6.7% to 39.6%. By performing longitude-resolved fluctuation spectrum analysis, we identify periodic intensity modulations in 10 pulsars. In PSR J0030+0451, we detect single pulses with energies more than 10 times the average pulse energy, suggesting the presence of giant pulses. We also observe a periodic mode-changing phenomenon in PSR J0030+0451. We examine the achievable timing precision by selecting a subset of pulses with a specific range of peak intensity, but no significant improvement in timing precision is achievable.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Asphericity of the Base of the Solar Convection Zone</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2203</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2203</guid>
+<content:encoded><![CDATA[
+
+We have used solar oscillation frequencies and frequency splittings obtained over solar cycles 23 and 24 to investigate whether the base of the solar convection zone shows any departure from spherical symmetry. We used the even-order splitting coefficients, a2–a8, and estimated the contributions from each one separately. The average asphericity over the two solar cycles was determined using frequencies and splittings obtained with a 9216-day time series. We find that evidence of asphericity is, at best, marginal: the a2 component is consistent with no asphericity, the a4 and a6 components yield results at a level a little greater than 1σ, while the a8 component shows a signature below 1σ. The combined results indicate that the time average of the departure from the spherically symmetric position of the base of the convection zone is ≲0.0001R⊙. We have also used helioseismic data obtained from time series of lengths of 360, 576, 1152, and 2304 days in order to examine the consistency of the results and evaluate whether there is any time variation. We find that the evidence for time variation is statistically marginal in all cases, except for the a6 component, for which tests consistently yield p-values of less than 0.05.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Two-sided Loop Solar Jet Driven by the Eruption of a Small Filament in a Big Filament Channel</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad23e5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad23e5</guid>
+<content:encoded><![CDATA[
+
+Similar to the cases of anemone jets, two-sided loop solar jets can also be produced by either flux emergence from the solar interior or small-scale filament eruptions. Using high-quality data from the Solar Dynamics Observatory, we have analyzed a two-sided loop solar jet triggered by the eruption of a small filament. The jet occurred in a pre-existing big filament channel. The detailed processes involved in the eruption of the small filament, the interaction between the erupted filament and the big filament channel, and the launch of the two-sided loop jet are presented. The observations further revealed notable asymmetry between the two branches of the jet spire: the northeastern branch is narrow and short, while the southern branch is wide and long and accompanied by discernible untwisting motions. We explored the unique appearance of the jet by employing the method of local potential field extrapolation to calculate the coronal magnetic field configuration around the jet. The photospheric magnetic flux below the small filament underwent cancellation for approximately 7 hr before the filament eruption, and the negative flux near the southern footpoint of the filament decreased by about 56% during this interval. Therefore, we propose that the primary photospheric driver of the filament eruption and the associated two-sided loop jet in this event is flux cancellation rather than flux emergence.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Discovery of Radial Spectral Hardening in the Hot Bubble of Planetary Nebula BD+30°3639 with Median Energy Imaging</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fa</guid>
+<content:encoded><![CDATA[
+
+We apply an imaging analysis technique to study the spatial distribution of the X-ray spectral hardness across the hot bubble of planetary nebula BD+30°3639. Hot bubble emission is typically photon starved, thus limiting the methods for spatial–spectral analysis; however, this technique uses the statistics of photon energies across the nebula to identify spatial variations in the X-ray spectral hardness. Using the median energy value of the X-ray photons, we identified a rise in median energy values toward the projected edge of the nebula, which we refer to as radial spectral hardening. We explored the origin of this radial spectral hardening with an X-ray spectral analysis of distinct regions of high and low median energy values. Given the results of the X-ray spectral fits and the fact that the hot bubble is embedded within a young, dense, planetary nebula, we conclude that the radial spectral hardening is due to an increased column density at the projected nebular edge.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Comparing Observed with Simulated Solar-disk-center Scattering Polarization in the Sr i 4607 Å Line</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad26f9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad26f9</guid>
+<content:encoded><![CDATA[
+
+Solar magnetic fields alter scattering polarization in spectral lines like Sr i at 4607 Å via the Hanle effect, making it a potential diagnostic for small-scale, mixed-polarity photospheric magnetic fields. Recently, observational evidence for scattering polarization in the Sr i 4607 Å line at the solar disk center was found. Here, we investigate the reliability of the reconstruction method that made possible this detection. To this end, we apply it to linear polarization profiles of the Sr i 4607 Å line radiation emerging at the disk center obtained from a detailed 3D radiative transfer calculation in a magneto-hydrodynamic (MHD) simulation snapshot with a small-scale dynamo contribution. The reconstruction method systematically reduces the scattering amplitudes by up to a factor of 2, depending on the noise level. We demonstrate that the decrease can be attributed to two systematic errors: first, the physical constraint that underlies our assumptions regarding the dependence of scattering polarization on the quadrupolar moment of the radiation field; and second, the limitations of our method in accurately determining the sign of the radiation field tensor from the observed intensity image. However, by consistently applying the reconstruction process and after taking into account image-degradation effects due to the temporally variable image quality, such as imposed by seeing, the observed and synthesized polarization signals show remarkable agreement. We thus conclude that the observed scattering polarization at the solar disk center is consistent with that emerging from a MHD model of the solar photosphere with an average magnetic field of 170 G at the visible surface.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Probing Supermassive Black Hole Seed Scenarios with Gravitational-wave Measurements</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d5</guid>
+<content:encoded><![CDATA[
+
+The process whereby the supermassive black holes (SMBHs) populating the centers of galaxies have been assembled remains to be established, with the relative importance of seeds provided by collapsed Population III stars, black holes formed in nuclear star clusters via repeated mergers, or direct collapses of protogalactic disks yet to be determined. In this paper we study the prospects for casting light on this issue by future measurements of gravitational waves emitted during the inspirals and mergers of pairs of intermediate-mass black holes (IMBHs), discussing in particular the roles of prospective measurements by LISA and the proposed atom interferometers AION and AEDGE. We find that the expected number of detectable IMBH binaries is for LISA and AEDGE and for AION in low-mass seeds scenarios and goes down to for LISA and below one for AEDGE and AION in high-mass seed scenarios. This allows all of these observatories to probe the parameters of the seed model, in particular, if at least a fraction of the SMBHs arises from a low-mass seed population. We also show that the measurement accuracy of the binary parameters is, in general, best for AEDGE, which sees very precisely the merger of the binary.
+]]></content:encoded>
+
+<pubDate>2024-03-11T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Theoretical Spectroscopic Study of Isopropyl Alcohol (CH3-CHOH-CH3)</title>
