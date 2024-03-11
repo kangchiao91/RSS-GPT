@@ -7306,3 +7306,12 @@ Existing_entries: 705
 Fetching from https://iopscience.iop.org/journal/rss/0004-637X
 append_entries: 0
 Finish: 2024-03-11 16:05:03.531749
+------------------------------------------------------
+Started: 2024-03-11 18:05:14.769374
+Existing_entries: 705
+Fetching from https://iopscience.iop.org/journal/rss/0004-637X
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tests of Disk-locking in T Tauri Stars of the Orion Nebula Cluster](http://iopscience.iop.org/article/10.3847/1538-4357/ad1ddf)
+append_entries: 1
+Finish: 2024-03-11 18:05:21.104044
