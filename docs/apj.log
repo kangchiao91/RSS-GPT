@@ -7522,3 +7522,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Resolving Phase Transition Properties of Dense Matter through Tidal-excited g-mode from Inspiralling Neutron Stars](http://iopscience.iop.org/article/10.3847/1538-4357/ad27cd)
 append_entries: 1
 Finish: 2024-03-13 16:05:11.117329
+------------------------------------------------------
+Started: 2024-03-13 18:05:01.833946
+Existing_entries: 733
+Fetching from https://iopscience.iop.org/journal/rss/0004-637X
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Search for Continuous and Transient Neutrino Emission Associated with IceCube’s Highest-energy Tracks: An 11 yr Analysis](http://iopscience.iop.org/article/10.3847/1538-4357/ad18d6)
+append_entries: 1
+Finish: 2024-03-13 18:05:08.244802
