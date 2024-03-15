@@ -7735,3 +7735,18 @@ Existing_entries: 758
 Fetching from https://iopscience.iop.org/journal/rss/0004-637X
 append_entries: 0
 Finish: 2024-03-15 14:05:09.337899
+------------------------------------------------------
+Started: 2024-03-15 16:05:39.433937
+Existing_entries: 758
+Fetching from https://iopscience.iop.org/journal/rss/0004-637X
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The Polarization of the Solar Ba ii D1 Line with Partial Frequency Redistribution and Its Magnetic Sensitivity](http://iopscience.iop.org/article/10.3847/1538-4357/ad217e)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Revealing High-z Fermi-LAT BL Lacs Using Swift and SARA Data with Photometric Analysis](http://iopscience.iop.org/article/10.3847/1538-4357/ad21e7)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The Evolution of Inclined Binary Black Holes in the Disks of Active Galactic Nuclei](http://iopscience.iop.org/article/10.3847/1538-4357/ad23ce)
+append_entries: 3
+Finish: 2024-03-15 16:05:58.452615
