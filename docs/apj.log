@@ -7987,3 +7987,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Modeling the Multiwavelength Radiation Properties in Pulsar Dissipative Magnetospheres](http://iopscience.iop.org/article/10.3847/1538-4357/ad293c)
 append_entries: 9
 Finish: 2024-03-18 14:06:15.530105
+------------------------------------------------------
+Started: 2024-03-18 16:05:48.750131
+Existing_entries: 770
+Fetching from https://iopscience.iop.org/journal/rss/0004-637X
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Quaia, the Gaia-unWISE Quasar Catalog: An All-sky Spectroscopic Quasar Sample](http://iopscience.iop.org/article/10.3847/1538-4357/ad1328)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Heating and Acceleration of the Solar Wind by Ion Acoustic Waves—Parker Solar Probe](http://iopscience.iop.org/article/10.3847/1538-4357/ad029f)
+append_entries: 2
+Finish: 2024-03-18 16:06:01.619764

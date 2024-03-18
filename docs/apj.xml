@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Quaia, the Gaia-unWISE Quasar Catalog: An All-sky Spectroscopic Quasar Sample</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1328</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1328</guid>
+<content:encoded><![CDATA[
+
+We present a new, all-sky quasar catalog, Quaia, that samples the largest comoving volume of any existing spectroscopic quasar sample. The catalog draws on the 6,649,162 quasar candidates identified by the Gaia mission that have redshift estimates from the space observatory’s low-resolution blue photometer/red photometer spectra. This initial sample is highly homogeneous and complete, but has low purity, and 18% of even the bright (G < 20.0) confirmed quasars have discrepant redshift estimates (∣Δz/(1 + z)∣ > 0.2) compared to those from the Sloan Digital Sky Survey (SDSS). In this work, we combine the Gaia candidates with unWISE infrared data (based on the Wide-field Infrared Survey Explorer survey) to construct a catalog useful for cosmological and astrophysical quasar studies. We apply cuts based on proper motions and colors, reducing the number of contaminants by approximately four times. We improve the redshifts by training a k-Nearest Neighbor model on SDSS redshifts, and achieve estimates on the G < 20.0 sample with only 6% (10%) catastrophic errors with ∣Δz/(1 + z)∣ > 0.2 (0.1), a reduction of approximately three times (approximately two times) compared to the Gaia redshifts. The final catalog has 1,295,502 quasars with G < 20.5, and 755,850 candidates in an even cleaner G < 20.0 sample, with accompanying rigorous selection function models. We compare Quaia to existing quasar catalogs, showing that its large effective volume makes it a highly competitive sample for cosmological large-scale structure analyses. The catalog is publicly available at 10.5281/zenodo.10403370.
+]]></content:encoded>
+
+<pubDate>2024-03-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Heating and Acceleration of the Solar Wind by Ion Acoustic Waves—Parker Solar Probe</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad029f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad029f</guid>
+<content:encoded><![CDATA[
+
+The heating of the solar wind has been shown to be correlated with certain ion acoustic waves. Here calculations of the heating are made, using the methods used previously for STEREO observations, which show that the strong damping of ion acoustic waves rapidly delivers their energy to the plasma of the solar wind. It is shown that heating by the observed waves is not only sufficient to produce the observed heating but can also provide much or all of the outward acceleration of the solar wind.
+]]></content:encoded>
+
+<pubDate>2024-03-15T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Cosmos in Its Infancy: JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ee4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ee4</guid>
 <content:encoded><![CDATA[
-
 We present a catalog of 717 candidate galaxies at z > 8 selected from 125 square arcmin of NIRCam imaging as part of the JWST Advanced Deep Extragalactic Survey (JADES). We combine the full JADES imaging data set with data from the JWST Extragalactic Medium Survey and First Reionization Epoch Spectroscopic COmplete Survey (FRESCO) along with extremely deep existing observations from Hubble Space Telescope (HST)/Advanced Camera for Surveys (ACS) for a final filter set that includes 15 JWST/NIRCam filters and five HST/ACS filters. The high-redshift galaxy candidates were selected from their estimated photometric redshifts calculated using a template-fitting approach, followed by visual inspection from seven independent reviewers. We explore these candidates in detail, highlighting interesting resolved or extended sources, sources with very red long-wavelength slopes, and our highest-redshift candidates, which extend to zphot ∼ 18. Over 93% of the sources are newly identified from our deep JADES imaging, including 31 new galaxy candidates at zphot > 12. We also investigate potential contamination by stellar objects, and do not find strong evidence from spectral energy distribution fitting that these faint high-redshift galaxy candidates are low-mass stars. Using 42 sources in our sample with measured spectroscopic redshifts from NIRSpec and FRESCO, we find excellent agreement to our photometric redshift estimates, with no catastrophic outliers and an average difference of 〈Δz = zphot − zspec〉 = 0.26. These sources comprise one of the most robust samples for probing the early buildup of galaxies within the first few hundred million years of the Universe’s history.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ We present a catalog of 717 candidate galaxies at z > 8 selected from 125 square
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ee9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ee9</guid>
 <content:encoded><![CDATA[
-
 TWA 27B (2M1207b) is the first directly imaged planetary-mass (Mp ≈ 5 MJ) companion and was observed at 0.9–5.3 μm with JWST/NIRSpec. To understand the accretion properties of TWA 27B, we search for continuum-subtracted near-infrared helium and hydrogen emission lines and measure their widths and luminosities. We detect the He i triplet at 4.3σ and all Paschen-series lines covered by NIRSpec (Paα, Paβ, Paγ, Paδ) at 4σ–5σ. The three brightest Brackett-series lines (Brα, Brβ, Brγ) as well as Pfγ and Pfδ are tentative detections at 2σ–3σ. We provide upper limits on the other hydrogen lines, including on Hα through Hubble Space Telescope archival data. Three lines can be reliably deconvolved to reveal an intrinsic width Δvintrsc = (67 ± 9) km s−1, which is 60% of the surface freefall velocity. The line luminosities seem significantly too high to be due to chromospheric activity. Converting line luminosities to an accretion rate yields when using scaling relationships for planetary masses, and with extrapolated stellar scalings. Several of these lines represent the first detections at an accretor of such low mass. The weak accretion rate implies that formation is likely over. This analysis shows that JWST can be used to measure low line-emitting mass accretion rates onto planetary-mass objects, motivates deeper searches for the mass reservoir feeding TWA 27B, and hints that other young directly imaged objects might—hitherto unbeknownst—also be accreting.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@ TWA 27B (2M1207b) is the first directly imaged planetary-mass (Mp ≈ 5 MJ) comp
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ef0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ef0</guid>
 <content:encoded><![CDATA[
-
 We present the results of our search for Lyman continuum (LyC)-emitting (weak) active galactic nuclei (AGN) at redshifts 2.3 ≲ z ≲ 4.9 from Hubble Space Telescope (HST) Wide Field Camera 3 (WFC3) F275W observations in the Ultraviolet Imaging of the Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey (UVCANDELS) fields. We also include LyC emission from AGN using HST WFC3 F225W, F275W, and F336W imaging found in Early Release Science (ERS) and Hubble Deep UV Legacy Survey data. We performed exhaustive queries of the Vizier database to locate AGN with high-quality spectroscopic redshifts. In total, we found 51 AGN that met our criteria within the UVCANDELS and ERS footprints. Out of these 51, we find 12 AGN that had ≥4σ detected LyC flux in the WFC3/UVIS images. Using a wide variety of space-based plus ground-based data, ranging from X-ray to radio wavelengths, we fit the multiwavelength photometric data of each AGN to a CIGALE spectral energy distribution (SED) using AGN models and correlate various SED parameters to the LyC flux. Kolmogorov–Smirnov tests of the SED parameter distributions for the LyC-detected and nondetected AGN showed they are likely not distinct samples. However, we find that the X-ray luminosity, star formation onset age, and disk luminosity show strong correlations relative to their emitted LyC flux. We also find strong correlations of the LyC flux to several dust parameters, i.e., polar and toroidal dust emission and 6 μm luminosity, and anticorrelations with metallicity and AFUV. We simulate the LyC escape fraction (fesc) using the CIGALE and intergalactic medium transmission models for the LyC-detected AGN and find an average fesc ≃ 18%, weighted by uncertainties. We stack the LyC fluxes of subsamples of AGN according to the wavelength continuum region in which they are detected and find no significant distinctions in their LyC emission, although our submillimeter-detected F336W sample (3.15 < z < 3.71) shows the brightest stacked LyC flux. These findings indicate that LyC production and escape in AGN are more complicated than the simple assumption of thermal emission and a 100% escape fraction. Further testing of AGN models with larger samples than presented here is needed.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@ We present the results of our search for Lyman continuum (LyC)-emitting (weak) a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad20cd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad20cd</guid>
 <content:encoded><![CDATA[
-
 In the absence of a sufficient amount of plasma injection into the black hole (BH) magnetosphere, the force-free state of the magnetosphere cannot be maintained, leading to the emergence of strong, time-dependent, longitudinal electric fields (i.e., spark gaps). Recent studies of supermassive BH magnetospheres using analytical methods and particle-in-cell (PIC) simulations propose the possibility of efficient particle acceleration and consequent gamma-ray emission in the spark gap. In this work, we perform 1D general relativistic PIC simulations to examine the gamma-ray emission from stellar-mass BH magnetospheres. We find that intermittent spark gaps emerge and particles are efficiently accelerated in a similar manner to the supermassive BH case. We build a semianalytic model of the plasma dynamics and radiative processes, which reproduces the maximum electron energies and peak gamma-ray luminosities of the simulation results. Based on this model, we show that the gamma-ray signals from stellar-mass BHs wandering through the interstellar medium could be detected by gamma-ray telescopes such as the Fermi Large Area Telescope or the Cherenkov Telescope Array.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +68,8 @@ In the absence of a sufficient amount of plasma injection into the black hole (B
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad226e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad226e</guid>
 <content:encoded><![CDATA[
-
 A large energy-dependent X-ray polarization degree is detected by the Imaging X-ray Polarimetry Explorer (IXPE) in the high-soft emission state of the black hole X-ray binary 4U 1630–47. The highly significant detection (at ≈50σ confidence level) of an unexpectedly high polarization, rising from ∼6% at 2 keV to ∼10% at 8 keV, cannot be easily reconciled with standard models of thin accretion disks. In this work, we compare the predictions of different theoretical models with the IXPE data and conclude that the observed polarization properties are compatible with a scenario in which matter accretes onto the black hole through a thin disk covered by a partially ionized atmosphere flowing away at mildly relativistic velocities.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +77,8 @@ A large energy-dependent X-ray polarization degree is detected by the Imaging X-
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad23ec</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad23ec</guid>
 <content:encoded><![CDATA[
-
 JWST is providing a unique opportunity to directly study the feedback processes regulating star formation (SF) in early galaxies. The two z > 5 quiescent systems (JADES-GS-z7-01-QU and MACS0417-z5BBG) detected so far show a recent starburst after which SF is suppressed. To clarify whether such quenching is due to supernova (SN) feedback, we have developed a minimal physical model. We derive a condition on the minimum star formation rate, , lasting for a time interval Δtb, required to quench SF in a galaxy at redshift z, with gas metallicity Z, and hosted by a halo of mass Mh. We find that lower (z, Z, Mh) systems are more easily quenched. We then apply the condition to JADES-GS-z7-01-QU (z = 7.3, M⋆ = 108.6M⊙) and MACS0417-z5BBG (z = 5.2, M⋆ = 107.6M⊙) and find that SN feedback largely fails to reproduce the observed quenched SF history. Alternatively, we suggest that SF is rapidly suppressed by radiation-driven dusty outflows sustained by the high specific star formation rates (43 and 25 Gyr−1, respectively) of the two galaxies. Our model provides a simple tool to interpret the SF histories of post-starburst galaxies and unravel quenching mechanisms from incoming JWST data.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +86,8 @@ JWST is providing a unique opportunity to directly study the feedback processes 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24ec</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24ec</guid>
 <content:encoded><![CDATA[
-
 This paper presents a multiwavelength Sun-as-a-star analysis of the M8.7 flare on 2022 October 2, which was associated with a filament eruption and the subsequent coronal mass ejection. The Sun-as-a-star analysis was performed using Hα data taken by Solar Dynamics Doppler Imager on board the Solar Magnetic Activity Research Telescope at Hida Observatory, Kyoto University, and full-disk integrated extreme ultraviolet (EUV) spectra taken by the Extreme ultraviolet Variability Experiment (EVE) on board the Solar Dynamics Observatory. The Sun-as-a-star Hα spectra showed blueshifted absorption corresponding to the filament eruption. Furthermore, the EVE O v 629.7 Å spectra showed blueshifted brightening, which can also be attributed to the filament eruption. Even when the blueshifted absorption became almost invisible in the Sun-as-a-star Hα spectra, the O v blueshifted brightening up to −400 km s−1 was still clearly visible. This result indicates that even when the shifted components—which are expected to originate from stellar eruptions—become almost invisible in the spatially integrated stellar Hα spectra, the erupting materials may still be present and observable in EUV spectra. Additionally, the Sun-as-a-star Hα and O v spectra exhibited redshifted absorption and brightening, respectively, during the decay phase of the flare. These components probably originate from the post-flare loops, providing clues to the multitemperature nature of the post-flare loops in the spatially integrated observation. Our Sun-as-a-star results suggest that the combination of Hα and EUV lines allows the investigation of the multitemperature structure and temporal development of stellar active phenomena even in spatially integrated spectra.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +95,8 @@ This paper presents a multiwavelength Sun-as-a-star analysis of the M8.7 flare o
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2704</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2704</guid>
 <content:encoded><![CDATA[
-
 The Ultraviolet Transient Astronomy Satellite (ULTRASAT) is scheduled to be launched to geostationary orbit in 2027. It will carry a telescope with an unprecedentedly large field of view (204 deg2) and near-ultraviolet (NUV; 230–290 nm) sensitivity (22.5 mag, 5σ, at 900 s). ULTRASAT will conduct the first wide-field survey of transient and variable NUV sources and will revolutionize our ability to study the hot transient Universe. It will explore a new parameter space in energy and timescale (months-long light curves with minutes cadence), with an extragalactic volume accessible for the discovery of transient sources that is >300 times larger than that of the Galaxy Evolution Explorer (GALEX) and comparable to that of the Vera Rubin Observatory’s Legacy Survey of Space and Time. ULTRASAT data will be transmitted to the ground in real time, and transient alerts will be distributed to the community in <15 minutes, enabling vigorous ground-based follow up of ULTRASAT sources. ULTRASAT will also provide an all-sky NUV image to >23.5 AB mag, over 10 times deeper than the GALEX map. Two key science goals of ULTRASAT are the study of mergers of binaries involving neutron stars, and supernovae. With a large fraction (>50%) of the sky instantaneously accessible, fast (minutes) slewing capability, and a field of view that covers the error ellipses expected from gravitational-wave (GW) detectors beyond 2026, ULTRASAT will rapidly detect the electromagnetic emission following binary neutron star/neutron star–black hole mergers identified by GW detectors, and will provide continuous NUV light curves of the events. ULTRASAT will provide early (hour) detection and continuous high-cadence (minutes) NUV light curves for hundreds of core-collapse supernovae, including for rarer supernova progenitor types.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,13 +104,10 @@ The Ultraviolet Transient Astronomy Satellite (ULTRASAT) is scheduled to be laun
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad293c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad293c</guid>
 <content:encoded><![CDATA[
-
 We explore the multiwavelength radiation properties of the light curves and energy spectra in the dissipative magnetospheres of pulsars. The dissipative magnetospheres are simulated by the pseudo-spectral method with the combined force-free and Aristotelian electrodynamics, which can produce self-consistent accelerating electric fields mainly distributed in the equatorial current sheet outside the light cylinder. The multiwavelength light curves and spectra are computed by using the multiple emission mechanisms of both the primary particles accelerated by the accelerating electric fields in the equatorial current sheet and the secondary pairs with an assumed distribution spectrum. We then compare the predicted multiwavelength light curves and spectra with the observed data from the Crab, Vela, and Geminga pulsars. Our modeling results can systematically reproduce the observed trends of the multiwavelength light curves and the spectra for these three pulsars well.
 ]]></content:encoded>
-
 <pubDate>2024-03-18T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Polarization of the Solar Ba ii D1 Line with Partial Frequency Redistribution and Its Magnetic Sensitivity</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad217e</link>
