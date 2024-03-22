@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Fate of the Interstellar Medium in Early-type Galaxies. III. The Mechanism of Interstellar Medium Removal and the Quenching of Star Formation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b52</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b52</guid>
 <content:encoded><![CDATA[
 <div> ETGs, quenching, cold ISM, star formation, SFE
-<br><br>总结:
+<br /><br />总结:
 本研究探讨了早期星系（ETGs）中恒星形成的抑制机制。研究发现，ETGs中冷间星介质（ISM）的减少速度与尘埃、分子和原子气体的减少速度相似，排除了一系列潜在的ISM消除机制，表明低质量恒星的电离和/或超新星引起的电离/流出可能是主要机制。此外，研究还提供了内部产生的ISM的证据，并发现星系中恒星形成的抑制不能仅通过气体量的减少来解释，因为SFR的下降速度比冷气体的减少速度更快，而星系的SFE低于恒星形成星系的SFE，可能是由于气体的稳定性增强。 <div>
 Understanding how galaxies quench their star formation is crucial for studies of galaxy evolution. Quenching is related to a decrease of cold gas. In the first paper we showed that the dust removal timescale in early-type galaxies (ETGs) is about 2.5 Gyr. Here we present carbon monoxide and 21 cm hydrogen line observations of these galaxies and measure the timescale of removal of the cold interstellar medium (ISM). We find that all the cold ISM components (dust and molecular and atomic gas) decline at similar rates. This allows us to rule out a wide range of potential ISM-removal mechanisms (including starburst-driven outflows, astration, or a decline in the number of asymptotic giant branch stars), and artificial effects like the stellar mass–age correlation, environmental influence, mergers, and selection bias, leaving ionization by evolved low-mass stars and ionization/outflows by Type Ia supernovae or active galactic nuclei as viable mechanisms. We also provide evidence for an internal origin of the detected ISMs. Moreover, we find that the quenching of star formation in these galaxies cannot be explained by a reduction in the gas amount alone, because the star formation rates (SFRs) decrease faster (on a timescale of about 1.8 Gyr) than the amount of cold gas. Furthermore, the star formation efficiency (SFE) of the ETGs ( ) is lower than that of star-forming galaxies, whereas their gas mass fractions ( ) are normal. This may be explained by the stabilization of gas against fragmentation, for example due to morphological quenching, turbulence, or magnetic fields.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@ Understanding how galaxies quench their star formation is crucial for studies of
 <content:encoded><![CDATA[
 <div> 关键词: Pulsar timing, algorithm, binary pulsars, Green Bank Telescope, Terzan 5
 
-总结:<br><br>这篇文章介绍了一个自动化的脉冲星定时算法，用于测量脉冲星的旋转频率、位置、双星参数等信息。通过应用统计F-检验和减少的χ2在最小值附近的二次依赖关系，可以高效而系统地确定脉冲星的全局旋转计数。作者使用这个算法在Terzan 5球状星团的两颗新发现的双星脉冲星PSR J1748−2446aq和J1748−2446at上建立了定时解决方案，利用了过去13年的约70次Green Bank Telescope观测。 <div>
+总结:<br /><br />这篇文章介绍了一个自动化的脉冲星定时算法，用于测量脉冲星的旋转频率、位置、双星参数等信息。通过应用统计F-检验和减少的χ2在最小值附近的二次依赖关系，可以高效而系统地确定脉冲星的全局旋转计数。作者使用这个算法在Terzan 5球状星团的两颗新发现的双星脉冲星PSR J1748−2446aq和J1748−2446at上建立了定时解决方案，利用了过去13年的约70次Green Bank Telescope观测。 <div>
 Pulsar timing is a powerful tool that, by accounting for every rotation of a pulsar, precisely measures the spin frequency, spin frequency derivatives, astrometric position, binary parameters when applicable, properties of the interstellar medium, and potentially general relativistic effects. Typically, this process demands fairly stringent scheduling requirements for monitoring observations as well as deep domain knowledge to “phase connect” the timing data. We present an algorithm that automates the pulsar-timing process for binary pulsars, whose timing solutions have an additional level of complexity, although the algorithm works for isolated pulsars as well. Using the statistical F-test and the quadratic dependence of the reduced χ2 near a minimum, the global rotation count of a pulsar can be determined efficiently and systematically. We have used our algorithm to establish timing solutions for two newly discovered binary pulsars, PSRs J1748−2446aq and J1748−2446at, in the globular cluster Terzan 5, using ∼70 Green Bank Telescope observations from the last 13 yr.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,10 +35,9 @@ Pulsar timing is a powerful tool that, by accounting for every rotation of a pul
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad220b</guid>
 <content:encoded><![CDATA[
 <div> 关键词: neutrinos, gamma-ray bursts, IceCube-DeepCore, sub-photospheric collision, baryon loading
-总结:<br><br> 这项研究使用IceCube-DeepCore数据对2268次伽马射线暴（GRBs）进行了8年的中微子探测，探索了光球以下的爆发物理过程。研究发现没有发现中微子的证据，但对GRB 221009A的分析提供了对重子装载的最具约束力的限制。相比于IceCube在太子到拍他子电子伏特能量范围内的观测，本文给出的中微子限制是一个有益的补充。 <div>
+总结:<br /><br /> 这项研究使用IceCube-DeepCore数据对2268次伽马射线暴（GRBs）进行了8年的中微子探测，探索了光球以下的爆发物理过程。研究发现没有发现中微子的证据，但对GRB 221009A的分析提供了对重子装载的最具约束力的限制。相比于IceCube在太子到拍他子电子伏特能量范围内的观测，本文给出的中微子限制是一个有益的补充。 <div>
 We present the results of a search for 10–1000 GeV neutrinos from 2268 gamma-ray bursts (GRBs) over 8 yr of IceCube-DeepCore data. This work probes burst physics below the photosphere where electromagnetic radiation cannot escape. Neutrinos of tens of giga electronvolts are predicted in sub-photospheric collision of free-streaming neutrons with bulk-jet protons. In a first analysis, we searched for the most significant neutrino-GRB coincidence using six overlapping time windows centered on the prompt phase of each GRB. In a second analysis, we conducted a search for a group of GRBs, each individually too weak to be detectable, but potentially significant when combined. No evidence of neutrino emission is found for either analysis. The most significant neutrino coincidence is for Fermi-GBM GRB bn 140807500, with a p-value of 0.097 corrected for all trials. The binomial test used to search for a group of GRBs had a p-value of 0.65 after all trial corrections. The binomial test found a group consisting only of GRB bn 140807500 and no additional GRBs. The neutrino limits of this work complement those obtained by IceCube at tera electronvolt to peta electronvolt energies. We compare our findings for the large set of GRBs as well as GRB 221009A to the sub-photospheric neutron-proton collision model and find that GRB 221009A provides the most constraining limit on baryon loading. For a jet Lorentz factor of 300 (800), the baryon loading on GRB 221009A is lower than 3.85 (2.13) at a 90% confidence level.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -47,11 +45,10 @@ We present the results of a search for 10–1000 GeV neutrinos from 2268 gamma-r
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2349</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2349</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 太阳观测, 磁流体力线, 日冕磁场, 太阳爆发, 太阳动力学<br>
+<div> 关键词: 太阳观测, 磁流体力线, 日冕磁场, 太阳爆发, 太阳动力学<br />
 总结: 本研究利用高时空分辨率的观测仪器观察到了双层磁流体力线的形成过程，发现双重爆发引发了两个磁通绳系统。观测结果表明，第一个磁通绳的爆发经历了短暂的停顿后成功喷发，而第二个磁通绳则是失败的喷发。这表明新形成的磁通绳在较高高度达到了新的平衡状态，可以被视为一个临时的双层磁通绳系统。研究结果支持了系留剪切模型，并提出了当背景日冕磁场在高度上呈现鞍状磁衰减指数分布时，两次连续的受限系留剪切喷发会自然产生双层磁通绳系统的假设。 <div>
 Double-decker filaments and their eruptions have been widely observed in recent years, but their physical formation mechanism is still unclear. Using high spatiotemporal resolution, multi-wavelength observations taken by the New Vacuum Solar Telescope and the Solar Dynamics Observatory, we show the formation of a double-decker pair of flux rope system by two successive tether-cutting eruptions in a bipolar active region. Due to the combined effect of photospheric shearing and convergence motions around the active region’s polarity inversion line (PIL), the arms of two overlapping inverse-S-shaped short filaments reconnected at their intersection, which created a simultaneous upward-moving magnetic flux rope (MFR) and a downward-moving post-flare-loop (PFL) system striding the PIL. Meanwhile, four bright flare ribbons appeared at the footpoints of the newly formed MFR and the PFL. As the MFR rose, two elongated flare ribbons connected by a relatively larger PFL appeared on either side of the PIL. After a few minutes, another MFR formed in the same way at the same location and then erupted in the same direction as the first one. Detailed observational results suggest that the eruption of the first MFR might experienced a short pause before its successful eruption, while the second MFR was a failed eruption. This implies that the two newly formed MFRs might reach a new equilibrium at relatively higher heights for a while, which can be regarded as a transient double-decker flux rope system. The observations can well be explained by the tether-cutting model, and we propose that two successive confined tether-cutting eruptions can naturally produce a double-decker flux rope system, especially when the background coronal magnetic field has a saddle-like distribution of magnetic decay index profile in height.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -65,7 +62,6 @@ Double-decker filaments and their eruptions have been widely observed in recent 
 大气层模拟包括了光与大气的相互作用，使用光子Monte Carlo方法实现。气象分布基于历史数据编译全球气候分布，垂直热力学量的自洽垂直剖面，云量和云覆盖的空间模型，以及四种气溶胶的全球分布。通过物理第一原理实现物理交互，从而产生出包括差分星差测量和椭圆点扩散函数在内的新兴图像特性。使用共同的大气层表示框架通过模拟单个光子来自洽地模拟所有现象。文章还总结了一些微妙的相关性，包括温度与背景和差分星差测量的反相关性，湿度与月背景的相关性，PSF翼与云深度的相关性，背景与云深度的反相关性，以及月背景与云深度的相关性。 <div>
 We present a self-consistent representation of the atmosphere and implement the interactions of light with the atmosphere using a photon Monte Carlo approach. We compile global climate distributions based on historical data, self-consistent vertical profiles of thermodynamic quantities, spatial models of cloud variation and cover, and global distributions of four kinds of aerosols. We then implement refraction, Rayleigh scattering, molecular interactions, and Tyndall–Mie scattering to all photons emitted from astronomical sources and various background components using physics first principles. This results in emergent image properties that include: differential astrometry and elliptical point spread functions (PSFs) predicted completely to the horizon, arcminute-scale spatial-dependent photometry variations at 20 mmag for short exposures, excess background spatial variations at 0.2% due to the atmosphere, and a PSF wing due to water droplets. We use a common atmosphere representation framework to self-consistently model all phenomena by simulating individual photons. We reproduce the well-known correlations in image characteristics: correlations in altitude with absolute photometry (overall transmission) and relative photometry (spectrally dependent transmission), anticorrelations of altitude with differential astrometry (nonideal astrometric patterns) and background levels, and an anticorrelation in absolute photometry with cloud depth. However, we also find further subtle correlations including an anticorrelation of temperature with background and differential astrometry, a correlation of temperature with absolute and relative photometry, an anticorrelation of absolute photometry with humidity, a correlation of humidity with lunar background, a significant correlation of PSF wing with cloud depth, an anticorrelation of background with cloud depth, and a correlation of lunar background with cloud depth.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -73,11 +69,10 @@ We present a self-consistent representation of the atmosphere and implement the 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad245b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad245b</guid>
 <content:encoded><![CDATA[
-<div> AGORA High-resolution Galaxy Simulations, z ∼ 2, satellite halo populations, missing satellite problem, baryonic physics<br>
-<br>这篇研究对比了在z∼2时刻的卫星暗物质晕的种群，通过在八种不同的天体物理模拟代码上进行模拟，发现每个暗物质晕对应的余辉星系较其暗物质晕要小。同时发现在所有参与的模拟代码中，包含星陨粒子的星系数量显著少于暗物质晕的数量，并且与银河系或M31附近的卫星星系数量相当。在AGORA项目中，通过采用共同的天体物理学和各个代码中常用的恒星反馈法，结合足够的数值分辨率(≲100 proper pc at z = 2)，就可以完全解决所谓的“缺失卫星问题”。同时也比较了其他性质，如恒星质量-暗物质晕质量关系和质量-金属丰度关系。我们的研究突显了AGORA等比较研究的价值，通过这种方式可以同时在多个数值平台上研究星系形成理论中的突出问题。<br><br>总结: AGORA项目通过比较多个数值平台上的研究，解决了星系形成理论中的缺失卫星问题；在z∼2时刻的卫星暗物质种群中，发现暗物质晕对应的余辉星系较其暗物质晕要小；通过采用共同的天体物理学和各代码中常用的恒星反馈法，并结合足够的数值分辨率，可以解决这一问题。 <div>
+<div> AGORA High-resolution Galaxy Simulations, z ∼ 2, satellite halo populations, missing satellite problem, baryonic physics<br />
+<br />这篇研究对比了在z∼2时刻的卫星暗物质晕的种群，通过在八种不同的天体物理模拟代码上进行模拟，发现每个暗物质晕对应的余辉星系较其暗物质晕要小。同时发现在所有参与的模拟代码中，包含星陨粒子的星系数量显著少于暗物质晕的数量，并且与银河系或M31附近的卫星星系数量相当。在AGORA项目中，通过采用共同的天体物理学和各个代码中常用的恒星反馈法，结合足够的数值分辨率(≲100 proper pc at z = 2)，就可以完全解决所谓的“缺失卫星问题”。同时也比较了其他性质，如恒星质量-暗物质晕质量关系和质量-金属丰度关系。我们的研究突显了AGORA等比较研究的价值，通过这种方式可以同时在多个数值平台上研究星系形成理论中的突出问题。<br /><br />总结: AGORA项目通过比较多个数值平台上的研究，解决了星系形成理论中的缺失卫星问题；在z∼2时刻的卫星暗物质种群中，发现暗物质晕对应的余辉星系较其暗物质晕要小；通过采用共同的天体物理学和各代码中常用的恒星反馈法，并结合足够的数值分辨率，可以解决这一问题。 <div>
 We analyze and compare the satellite halo populations at z ∼ 2 in the high-resolution cosmological zoom-in simulations of a 1012M⊙ target halo (z = 0 mass) carried out on eight widely used astrophysical simulation codes (Art-I, Enzo, Ramses, Changa, Gadget-3, Gear, Arepo-t, and Gizmo) for the AGORA High-resolution Galaxy Simulations Comparison Project. We use slightly different redshift epochs near z = 2 for each code (hereafter “z ∼ 2”) at which the eight simulations are in the same stage in the target halo’s merger history. After identifying the matched pairs of halos between the CosmoRun simulations and the DMO simulations, we discover that each CosmoRun halo tends to be less massive than its DMO counterpart. When we consider only the halos containing stellar particles at z ∼ 2, the number of satellite galaxies is significantly fewer than that of dark matter halos in all participating AGORA simulations and is comparable to the number of present-day satellites near the Milky Way or M31. The so-called “missing satellite problem” is fully resolved across all participating codes simply by implementing the common baryonic physics adopted in AGORA and the stellar feedback prescription commonly used in each code, with sufficient numerical resolution (≲100 proper pc at z = 2). We also compare other properties such as the stellar mass–halo mass relation and the mass–metallicity relation. Our work highlights the value of comparison studies such as AGORA, where outstanding problems in galaxy formation theory are studied simultaneously on multiple numerical platforms.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -85,12 +80,11 @@ We analyze and compare the satellite halo populations at z ∼ 2 in the high-res
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f0</guid>
 <content:encoded><![CDATA[
-<div> 黑洞，红移，万有引力常数，引力透镜效应，施瓦西半径<br>
-总结:<br>
+<div> 黑洞，红移，万有引力常数，引力透镜效应，施瓦西半径<br />
+总结:<br />
 本研究使用了Newman-Janis算法构建了在f(R) scalaron引力理论中的一个轴对称渐近平坦度量，即Kerr-scalaron度量。通过使用紧凑型恒星轨道和黑洞影子来研究新度量的天文学后果。研究发现，质量在10^-17 - 10^-16 eV范围内的scalaron与观测到的发射环尺寸相符。新度量能够复制S2等星体轨道的Schwarzschild极近点位移，并且scalaron对于小于45天文单位的轨道具有支配性的Schwarzschild进动。新度量下的Lense-Thirring(LT)进动在S2轨道内的幅度为(12.25-24.5) μas yr^-1，并且进动时间尺度与S星体的年龄非常接近。 <div>
 Astronomical tests of spacetime metric and gravitation theory near the Galactic center (GC) black hole, Sgr A*, have gained momentum with the observations of compact stellar orbits near the black hole and measurement of the black hole shadow. Deviation from the Kerr metric is a potential signature of modified gravity theory. In this work, we use the Newman–Janis algorithm to construct an axially symmetric and asymptotically flat metric in f(R) scalaron gravity theory. We call it the Kerr-scalaron metric. To study the astronomical consequences of the new metric, we use the compact stellar orbits and the black hole shadow. We use the observed size of the emission ring of the GC black hole shadow for estimating the deviation of the new metric from general relativity. It has been found that scalarons with masses within 10−17–10−16 eV are compatible with the observed emission ring size for a black hole spin of χ = 0.9. The Schwarzschild limit of the pericenter shift is estimated for compact stellar orbits near the black hole. General relativistic pericenter shift in wider orbits, including S stars such as S4716 and S2, has been reproduced with these scalarons. The parameter fSP measuring the deviation from Schwarzschild pericenter shift has been found to be fSP = 1.00–1.04 within stellar orbits with semimajor axes of 45–100 au. Scalarons have the capability to dominate Schwarzschild precession for orbits with semimajor axes much smaller than 45 au. Lense–Thirring (LT) precession with the new metric is estimated for the compact orbits. The massive scalarons produce LT precession with magnitude (12.25–24.5) μas yr−1 in the orbit of S2. The LT precession timescale is within 0.1% of the age of the S stars.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -99,12 +93,11 @@ Astronomical tests of spacetime metric and gravitation theory near the Galactic 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f9</guid>
 <content:encoded><![CDATA[
 <div> Sunyaev–Zel'dovich effect, NILC, spatial localization parameter, Deep-NILC, neural network
-<br>
+<br />
 热Sunyaev-Zel'dovich效应的全天图通常受到成分分离技术引起的系统特征的影响。本研究调查了一种称为needlet内部线性组合(NILC)的方法，并测试其在模拟数据上的表现。研究表明，NILC估计受到空间本地化参数(Γ)选择的强烈影响，该参数控制偏差-方差的权衡。通常，NILC提取假设整个天空上的Γ固定值，但我们展示了存在一个依赖于SZ信号强度和局部污染特性的最佳Γ。然后，我们计算了多个Γ值的NILC解，并将结果输入到神经网络中以预测SZ信号。这种提取方法，我们称之为Deep-NILC，经过一组验证数据的测试，包括恢复的解析系统的径向剖面。我们的主要结果是，Deep-NILC相对于选择固定的Γ值提供了显著的改进。
-<br><br>总结: 本研究调查了NILC在全天图中的效果，并展示了Γ参数的重要性，提出了Deep-NILC方法，并证明其相对于固定Γ值的选择有显著改进。 <div>
+<br /><br />总结: 本研究调查了NILC在全天图中的效果，并展示了Γ参数的重要性，提出了Deep-NILC方法，并证明其相对于固定Γ值的选择有显著改进。 <div>
 All-sky maps of the thermal Sunyaev–Zel’dovich effect (SZ) tend to suffer from systematic features arising from the component-separation techniques used to extract the signal. In this work, we investigate one of these methods, known as needlet internal linear combination (NILC), and test its performance on simulated data. We show that NILC estimates are strongly affected by the choice of the spatial localization parameter (Γ), which controls a bias-variance trade-off. Typically, NILC extractions assume a fixed value of Γ over the entire sky, but we show there exists an optimal Γ that depends on the SZ signal strength and local contamination properties. Then we calculate the NILC solutions for multiple values of Γ and feed the results into a neural network to predict the SZ signal. This extraction method, which we call Deep-NILC, is tested against a set of validation data, including recovered radial profiles of resolved systems. Our main result is that Deep-NILC offers significant improvements over choosing fixed values of Γ.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -112,11 +105,10 @@ All-sky maps of the thermal Sunyaev–Zel’dovich effect (SZ) tend to suffer fr
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2687</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2687</guid>
 <content:encoded><![CDATA[
-<div> 重复爆发（FRB），光学观测，‘Alopeke相机，Gemini-North望远镜，射电流量<br>
-这项研究利用Gemini-North望远镜上的‘Alopeke相机对两次重复爆发（FRB 20201023和FRB 20220908）进行了光学观测，发现没有显著的光学检测。研究结果显示，FRB 20180916B的光学与射电流量比率（ην）的上限为3 × 10−3，比以往的测量结果高出一个数量级。这些测量结果排除了一些FRB的天体模型，例如和蟹状星云脉冲星类似的模型，或者光学辐射在脉冲星磁层或年轻超新星遗迹中产生的逆康普顿辐射。我们将继续使用Gemini-North望远镜上的‘Alopeke相机对重复FRB进行监测，寻找毫秒量级的光学对应体。 <br><br>总结：本研究利用‘Alopeke相机在Gemini-North望远镜上对两次重复爆发进行了光学观测，未发现显著的光学信号，同时得出了对FRB 20180916B光学与射频流量比率的上限。这些测量结果排除了一些可能的天体模型，并强调了继续寻找毫秒量级光学对应体的重要性。 <div>
+<div> 重复爆发（FRB），光学观测，‘Alopeke相机，Gemini-North望远镜，射电流量<br />
+这项研究利用Gemini-North望远镜上的‘Alopeke相机对两次重复爆发（FRB 20201023和FRB 20220908）进行了光学观测，发现没有显著的光学检测。研究结果显示，FRB 20180916B的光学与射电流量比率（ην）的上限为3 × 10−3，比以往的测量结果高出一个数量级。这些测量结果排除了一些FRB的天体模型，例如和蟹状星云脉冲星类似的模型，或者光学辐射在脉冲星磁层或年轻超新星遗迹中产生的逆康普顿辐射。我们将继续使用Gemini-North望远镜上的‘Alopeke相机对重复FRB进行监测，寻找毫秒量级的光学对应体。 <br /><br />总结：本研究利用‘Alopeke相机在Gemini-North望远镜上对两次重复爆发进行了光学观测，未发现显著的光学信号，同时得出了对FRB 20180916B光学与射频流量比率的上限。这些测量结果排除了一些可能的天体模型，并强调了继续寻找毫秒量级光学对应体的重要性。 <div>
 We report on contemporaneous optical observations at ≈10 ms timescales from the fast radio burst (FRB) 20180916B of two repeat bursts (FRB 20201023 and FRB 20220908) taken with the ‘Alopeke camera on the Gemini-North telescope. These repeats have radio fluences of 2.8 and 3.5 Jy ms, respectively, approximately in the lower 50th percentile for fluence from this repeating burst. The ‘Alopeke data reveal no significant optical detections at the FRB position and we place 3σ upper limits to the optical fluences of <8.3 × 10−3 and <7.7 × 10−3 Jy ms after correcting for line-of-sight extinction. Together, these yield the most sensitive limits to the optical-to-radio fluence ratio of an FRB on these timescales with ην < 3 × 10−3 by roughly an order of magnitude. These measurements rule out progenitor models where FRB 20180916B has a similar fluence ratio to optical pulsars, such as the Crab pulsar, or where optical emission is produced as inverse-Compton radiation in a pulsar magnetosphere or young supernova remnant. Our ongoing program with ‘Alopeke on Gemini-North will continue to monitor repeating FRBs, including FRB 20180916B, to search for optical counterparts on millisecond timescales.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -125,11 +117,10 @@ We report on contemporaneous optical observations at ≈10 ms timescales from th
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c1</guid>
 <content:encoded><![CDATA[
 <div> 分析, 星系, 分子气体, 星形成, 抑制
-<br><br>总结:
+<br /><br />总结:
 本研究调查了星系从星系主序到被动状态时分子气体和星形成特性的变化。研究发现随着星系从主序向绿谷过渡，比较于主序星系，特定星形成率表面密度（ΣsSFR）的径向分布在1.5 Re的星系中心半径范围内被抑制。通过结合气体分数（fgas）和星形成效率（SFE）的径向分布，我们可以识别出确定不同星系中ΣsSFR的潜在机制。分析fgas和SFE对ΣsSFR的相对贡献揭示了多种抑制模式。大约一半的抑制星系的星形成主要受单一模式（即fgas或SFE）或两者的组合驱动。对所有星系的集体分析显示，在中心区域（R < 0.5 Re）内的星形成减少主要归因于SFE的下降。相反，在盘区域（R > 0.5 Re），fgas和SFE都对星形成的抑制有所贡献。我们的发现表明在我们的样本星系中可能存在多种抑制机制，甚至在单个星系内也是如此。我们还将我们的观测结果与星系模拟进行了比较，并讨论了我们数据的影响。 <div>
 Star formation quenching is one of the key processes that shape the evolution of galaxies. In this study, we investigate the changes in molecular gas and star formation properties as galaxies transit from the star-forming main sequence to the passive regime. Our analysis reveals that as galaxies move away from the main sequence toward the green valley the radial profile of specific star formation rate surface density (ΣsSFR) is suppressed compared with main-sequence galaxies out to a galactocentric radius of 1.5 Re(∼7 kpc for our sample). By combining radial profiles of gas fraction (fgas) and star formation efficiency (SFE), we can discern the underlying mechanism that determines ΣsSFR at different galactocentric radii. Analysis of relative contributions of fgas and SFE to ΣsSFR uncovers a diverse range of quenching modes. Star formation in approximately half of our quenching galaxies is primarily driven by a single mode (i.e., either fgas or SFE), or a combination of both. A collective analysis of all galaxies reveals that the reduction in star formation within the central regions (R < 0.5 Re) is primarily attributable to a decrease in SFE. Conversely, in the disk regions (R > 0.5 Re), both fgas and SFE contribute to the suppression of star formation. Our findings suggest that multiple quenching mechanisms may be at play in our sample galaxies, and even within a single galaxy. We also compare our observational outcomes with those from galaxy simulations and discuss the implications of our data.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -137,10 +128,8 @@ Star formation quenching is one of the key processes that shape the evolution of
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a54</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a54</guid>
 <content:encoded><![CDATA[
-
 Dense core collisions, previously regarded as minor in star formation, are proposed to play a significant role in structure formation around protostellar envelopes and binary formation. Using archival data of nearby star-forming regions, we determine the frequencies of core collisions. Our calculations reveal that a typical core is likely to undergo multiple interactions with other cores throughout its lifetime. To further investigate the core collision process, we employ adaptive mesh refinement hydrodynamic simulations with sink particles. Our simulations demonstrate that following the formation of a protostar within a gravitationally unstable core, the merging core’s accreting gas gives rise to a rotationally supported circumstellar disk. Meanwhile, the region compressed by the shock between the cores develops into asymmetric arms that connect with the disk. Gas along these arms tends to migrate inward, ultimately falling toward the protostar. One of the arms, a remnant of the shock-compressed region, dominates over the second core gas, potentially exhibiting a distinct chemical composition. This is consistent with recent findings of large-scale streamers around protostars. Additionally, we found that collisions with velocities of ∼1.5 km s−1 result in the formation of a binary system, as evidenced by the emergence of a sink particle within the dense section of the shocked layer. Overall, dense core collisions are highlighted as a critical process in creating 103 au-scale streamers around protostellar systems and binary stars.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -148,13 +137,10 @@ Dense core collisions, previously regarded as minor in star formation, are propo
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3210</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3210</guid>
 <content:encoded><![CDATA[
-
 We analyzed the globular cluster M5 (NGC 5904) using 15 yr of gamma-ray data from the Fermi Large Area Telescope (LAT). Using rotation ephemerides generated from Arecibo and FAST radio telescope observations, we searched for gamma-ray pulsations from the seven millisecond pulsars (MSPs) identified in M5. We detected no significant pulsations from any of the individual pulsars. In addition, we searched for possible variations of the gamma-ray emission as a function of orbital phase for all six MSPs in binary systems, but we did not detect any significant modulations. The gamma-ray emission from the direction of M5 is well described by an exponentially cutoff power-law spectral model, although other models cannot be excluded. The phase-averaged emission is consistent with being steady on a timescale of a few months. We estimate the number of MSPs in M5 to be between 1 and 10, using the gamma-ray conversion efficiencies for well-characterized gamma-ray MSPs in the Third Fermi-LAT Catalog of Gamma-ray Pulsars, suggesting that the sample of known MSPs in M5 is (nearly) complete, even if it is not currently possible to rule out a diffuse component of the observed gamma rays from the cluster.
 ]]></content:encoded>
-
 <pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Modeling X-Ray and Gamma-Ray Emission from Redback Pulsar Binaries</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fb</link>
