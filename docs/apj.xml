@@ -4,18 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Improving Photometric Redshift Estimation for Cosmology with LSST Using Bayesian Neural Networks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2070</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2070</guid>
 <content:encoded><![CDATA[
 <div> BNN, photo-z estimation, uncertainty estimates, LSST, Hyper Suprime-Cam Survey
-<br><br>
+<br /><br />
 本研究旨在探讨概率深度学习模型在宇宙学中的应用，重点是通过光度红移估计对大规模天文调查的角色。作者使用超级HSC调查中的星系数据集进行了实验，研究了神经网络和概率BNN在光度红移估计方面的表现，并评估了它们满足LSST光度红移学科要求的性能。实验结果显示，BNN能够准确地产生不确定性，通过覆盖率测试发现，在0 < z < 2.5的范围内，67.2%的星系的1σ不确定性覆盖了光谱值。同时，与其他机器学习模型相比，BNN在0 < z < 2.5范围内满足了LSST的光度红移学科要求中的三分之二。 
-<br><br>总结: <div>
+<br /><br />总结: <div>
 We present results exploring the role that probabilistic deep learning models can play in cosmology from large-scale astronomical surveys through photometric redshift (photo-z) estimation. Photo-z uncertainty estimates are critical for the science goals of upcoming large-scale surveys such as the Legacy Survey of Space and Time (LSST); however, common machine learning methods typically provide only point estimates and lack uncertainties on predictions. We turn to Bayesian neural networks (BNNs) as a promising way to provide accurate predictions of redshift values with uncertainty estimates. We have compiled a galaxy data set from the Hyper Suprime-Cam Survey with grizy photometry, which is designed to be a smaller-scale version of large surveys like LSST. We use this data set to investigate the performance of a neural network and a probabilistic BNN for photo-z estimation and evaluate their performance with respect to LSST photo-z science requirements. We also examine the utility of photo-z uncertainties as a means to reduce catastrophic outlier estimates. The BNN outputs the estimate in the form of a Gaussian probability distribution. We use the mean and standard deviation as the redshift estimate and uncertainty. We find that the BNN can produce accurate uncertainties. Using a coverage test, we find excellent agreement with expectation—67.2% of galaxies between 0 < 2.5 have 1σ uncertainties that cover the spectroscopic value. We also include a comparison to alternative machine learning models using the same data. We find the BNN meets two out of three of the LSST photo-z science requirements in the range 0 < z < 2.5.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@ We present results exploring the role that probabilistic deep learning models ca
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad21fe</guid>
 <content:encoded><![CDATA[
 <div> Atacama Cosmology Telescope, asteroids, millimeter wavelengths, fluxes, spectral characteristic
-<br>总结:<br>研究使用Atacama Cosmology Telescope（ACT）数据在18,000平方度的天空范围内，通过毫米波长探测到的小行星的通量和光变曲线。检测到170颗小行星，在至少一个ACT观测波段的信噪比至少为5。发现毫米波长存在通量缺失，且在150 GHz和220 GHz波段的通量相对于90 GHz较低。此外，发现S型小行星的通量缺失比C型小行星更为显著。 <div>
+<br />总结:<br />研究使用Atacama Cosmology Telescope（ACT）数据在18,000平方度的天空范围内，通过毫米波长探测到的小行星的通量和光变曲线。检测到170颗小行星，在至少一个ACT观测波段的信噪比至少为5。发现毫米波长存在通量缺失，且在150 GHz和220 GHz波段的通量相对于90 GHz较低。此外，发现S型小行星的通量缺失比C型小行星更为显著。 <div>
 We present fluxes and light curves for a population of asteroids at millimeter wavelengths, detected by the Atacama Cosmology Telescope (ACT) over 18,000 deg2 of the sky using data from 2017 to 2021. We utilize high cadence maps, which can be used in searching for moving objects such as asteroids and trans-Neptunian Objects, as well as for studying transients. We detect 170 asteroids with a signal-to-noise of at least 5 in at least one of the ACT observing bands, which are centered near 90, 150, and 220 GHz. For each asteroid, we compare the ACT measured flux to predicted fluxes from the near-Earth asteroid thermal model fit to WISE data. We confirm previous results that detected a deficit of flux at millimeter wavelengths. Moreover, we report a spectral characteristic to this deficit, such that the flux is relatively lower at 150 and 220 GHz than at 90 GHz. Additionally, we find that the deficit in flux is greater for S-type asteroids than for C-type.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -35,12 +34,11 @@ We present fluxes and light curves for a population of asteroids at millimeter w
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2358</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2358</guid>
 <content:encoded><![CDATA[
-<div> Type Ia supernovae, hydrodynamic simulations, deep-learning emulator, abundance tomography, 1991T-like Type Ia SNe<br>
-<br>
-通过深度学习模拟器加速的TARDIS辐射传输代码，对40颗Type Ia超新星进行丰度层析，发现1991T型和典型Type Ia SNe的外部喷发物质丰度分布存在差异，1991T型中间质量元素高度电离，而在典型Type Ia SNe中表现为典型元素分布。观察上表明，这两种类型的差异是连续的，并且是由于它们的丰度和电离分布在这两种SNe种群中的组合作用。 <br><br>总结: <br>使用深度学习模拟器加速的辐射传输代码对Type Ia超新星进行了研究，发现了1991T型和典型Type Ia SNe在丰度分布和电离分数上的差异。观察表明，这两种类型的差异是连续的，并且是由于它们的丰度和电离分布在这两种SNe种群中的组合作用。 <div>
+<div> Type Ia supernovae, hydrodynamic simulations, deep-learning emulator, abundance tomography, 1991T-like Type Ia SNe<br />
+<br />
+通过深度学习模拟器加速的TARDIS辐射传输代码，对40颗Type Ia超新星进行丰度层析，发现1991T型和典型Type Ia SNe的外部喷发物质丰度分布存在差异，1991T型中间质量元素高度电离，而在典型Type Ia SNe中表现为典型元素分布。观察上表明，这两种类型的差异是连续的，并且是由于它们的丰度和电离分布在这两种SNe种群中的组合作用。 <br /><br />总结: <br />使用深度学习模拟器加速的辐射传输代码对Type Ia超新星进行了研究，发现了1991T型和典型Type Ia SNe在丰度分布和电离分数上的差异。观察表明，这两种类型的差异是连续的，并且是由于它们的丰度和电离分布在这两种SNe种群中的组合作用。 <div>
 Type Ia supernovae (SNe) remain poorly understood despite decades of investigation. Massive computationally intensive hydrodynamic simulations have been developed and run to model an ever-growing number of proposed progenitor channels. Further complicating the matter, a large number of subtypes of Type Ia SNe have been identified in recent decades. Due to the massive computational load required, inference of the internal structure of Type Ia SNe ejecta directly from observations using simulations has previously been computationally intractable. However, deep-learning emulators for radiation transport simulations have alleviated such barriers. We perform abundance tomography on 40 Type Ia SNe from optical spectra using the radiative transfer code TARDIS accelerated by the probabilistic DALEK deep-learning emulator. We apply a parametric model of potential outer ejecta structures to comparatively investigate abundance distributions and internal ionization fractions of intermediate-mass elements (IMEs) between normal and 1991T-like Type Ia SNe in the early phases. Our inference shows that the outer ejecta of 1991T-like Type Ia SNe is underabundant in the typical intermediate mass elements that heavily contribute to the spectral line formation seen in normal Type Ia SNe at early times. Additionally, we find that the IMEs present in 1991T-like Type Ia SNe are highly ionized compared to those in the normal Type Ia population. Finally, we conclude that the transition between normal and 1991T-like Type Ia SNe appears to be continuous observationally and that the observed differences come out of a combination of both abundance and ionization fractions in these SNe populations.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -49,10 +47,9 @@ Type Ia supernovae (SNe) remain poorly understood despite decades of investigati
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24fe</guid>
 <content:encoded><![CDATA[
 <div> 高红移活跃星系核（AGN）- 极端星暴星系 -  NOEMA 观测 - 分子CO特性 - 偏移
-总结:<br><br> 这篇论文报告了对六个明显的星爆高红移红外星系（HyLIRGs）进行的 NOEMA 观测，这些星系与光学类星体相关联，红移在 z ∼ 2-3。其中五个候选星系被探测到具有CO(4–3)或CO(5–4)发射线和四个在2mm尘埃连续波段上被探测到。基于其线宽诊断，发现其中四个星系可能是无透镜或弱透镜。分子气体质量在 （其中 μ 是未知的可能引力放大因子）。在包含观测到的2mm通量和上限后，拟合它们的光谱能量分布，估计它们表观（未校正可能的透镜效应）星形成率（μSFRs）在∼400-2500 M⊙ yr−1之间，枯竭时间在∼20-110 Myr之间。我们注意到有趣的偏移，空间上约为10-40 kpc或光谱上约为1000-2000 km s−1，在光学类星体与毫米波连续谱或CO发射之间。观察到的速度偏移可能与类星体的蓝移宽发射线区域有关，尽管合并或反冲黑洞也是可能的原因，这可以解释星系中的空间偏移和高固有星形成率。 <div>
+总结:<br /><br /> 这篇论文报告了对六个明显的星爆高红移红外星系（HyLIRGs）进行的 NOEMA 观测，这些星系与光学类星体相关联，红移在 z ∼ 2-3。其中五个候选星系被探测到具有CO(4–3)或CO(5–4)发射线和四个在2mm尘埃连续波段上被探测到。基于其线宽诊断，发现其中四个星系可能是无透镜或弱透镜。分子气体质量在 （其中 μ 是未知的可能引力放大因子）。在包含观测到的2mm通量和上限后，拟合它们的光谱能量分布，估计它们表观（未校正可能的透镜效应）星形成率（μSFRs）在∼400-2500 M⊙ yr−1之间，枯竭时间在∼20-110 Myr之间。我们注意到有趣的偏移，空间上约为10-40 kpc或光谱上约为1000-2000 km s−1，在光学类星体与毫米波连续谱或CO发射之间。观察到的速度偏移可能与类星体的蓝移宽发射线区域有关，尽管合并或反冲黑洞也是可能的原因，这可以解释星系中的空间偏移和高固有星形成率。 <div>
 Some high-z active galactic nuclei (AGNs) are found to reside in extreme star-forming galaxies, such as hyperluminous infrared galaxies (HyLIRGs), with AGN-removed LIR of >1013L⊙. In this paper, we report NOEMA observations of six apparent starburst HyLIRGs associated with optical quasars at z ∼ 2–3 in the Stripe 82 field, to study their dust and molecular CO properties. Five out of the six candidates are detected with CO(4–3) or CO(5–4) emission, and four in the 2 mm dust continuum. Based on the linewidth– diagnostics, we find that four galaxies are likely unlensed or weakly lensed sources. The molecular gas mass is in the range of (with , where μ is the unknown possible gravitational magnification factor). We fit their spectral energy distributions, after including the observed 2 mm fluxes and upper limits, and estimate their apparent (uncorrected for possible lensing effects) star formation rates (μSFRs) to be ∼400–2500 M⊙ yr−1, with a depletion time of ∼20–110 Myr. We notice interesting offsets, of ∼10–40 kpc spatially or ∼1000–2000 km s−1 spectroscopically, between the optical quasar and the millimeter continuum or CO emissions. The observed velocity shift is likely related to the blueshifted broad-emission-line region of quasars, though mergers or recoiling black holes are also possible causes, which can explain the spatial offsets and the high intrinsic star formation rates in the HyLIRG quasar systems.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -61,13 +58,12 @@ Some high-z active galactic nuclei (AGNs) are found to reside in extreme star-fo
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad250f</guid>
 <content:encoded><![CDATA[
 <div> 低质量星系，宇宙学模拟，H i观测，暗物质，Tully-Fisher关系
-<br>
+<br />
 这篇文章研究了低质量暗物质星系的观测和宇宙学模拟之间的关联。通过深入的H i观测和宇宙学模拟的比较，发现观测到的星系动力学特性在接近理论预测的暗物质星系的运动学特性时有显著改进。同时，测量的普通物质质量与Tully-Fisher关系也得到了验证，暗示了低质量星系的Tully-Fisher关系在宇宙学模拟中的预期表现。这些研究结果有助于增强我们对宇宙学模型在小尺度下的理解。 
-<br><br>总结: 
+<br /><br />总结: 
 低质量星系的观测和宇宙学模拟比较得出观测到的星系动力学特性与理论预测的暗物质星系的运动学特性接近，测量的普通物质质量与Tully-Fisher关系也得到了验证。暗示了低质量星系的Tully-Fisher关系在宇宙学模拟中的预期表现。 <div>
 Testing the standard cosmological model (ΛCDM) at small scales is challenging. Galaxies that inhabit low-mass dark matter halos provide an ideal test bed for dark matter models by linking observational properties of galaxies at small scales (low mass, low velocity) to low-mass dark matter halos. However, the observed kinematics of these galaxies do not align with the kinematics of the dark matter halos predicted to host them, obscuring our understanding of the low-mass end of the galaxy–halo connection. We use deep H i observations of low-mass galaxies at high spectral resolution in combination with cosmological simulations of dwarf galaxies to better understand the connection between dwarf galaxy kinematics and low-mass halos. Specifically, we use H i line widths to directly compare to the maximum velocities in a dark matter halo and find that each deeper measurement approaches the expected one-to-one relationship between the observed kinematics and the predicted kinematics in ΛCDM. We also measure baryonic masses and place these on the baryonic Tully–Fisher relation (BTFR). Again, our deepest measurements approach the theoretical predictions for the low-mass end of this relation, a significant improvement on similar measurements based on line widths measured at 50% and 20% of the peak. Our data also hint at the rollover in the BTFR predicted by hydrodynamical simulations of ΛCDM for low-mass galaxies.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -77,10 +73,9 @@ Testing the standard cosmological model (ΛCDM) at small scales is challenging. 
 <content:encoded><![CDATA[
 <div> 关键词: 二元星，磁场，涡旋臂，磁旋不稳定性，角动量传输
 
-总结:<br><br>本研究通过3D数值模拟模拟了通过环绕双星盘的双星吸积过程，考虑了垂直于盘面的磁场和一个向内坠落的包层。模拟结果表明：(1)存在与环绕星盘相关的螺旋臂；(2)磁旋不稳定性诱发了环绕双星盘中的湍流；(3)每个星周盘发射了一个快速的射流；和(4)环绕双星盘产生了一个缓慢的射流。二元模型显示出比相应的单星模型更高的 α 参数，表明双星增强了磁旋不稳定性的湍流。此外，一个向内坠落的包层也增强了湍流，导致高的α 参数。螺旋臂促进了径向流动，在环绕双星盘内传递了质量和角动量，而磁旋不稳定性和射流是降低系统特定角动量的主要驱动因素。 <div>
+总结:<br /><br />本研究通过3D数值模拟模拟了通过环绕双星盘的双星吸积过程，考虑了垂直于盘面的磁场和一个向内坠落的包层。模拟结果表明：(1)存在与环绕星盘相关的螺旋臂；(2)磁旋不稳定性诱发了环绕双星盘中的湍流；(3)每个星周盘发射了一个快速的射流；和(4)环绕双星盘产生了一个缓慢的射流。二元模型显示出比相应的单星模型更高的 α 参数，表明双星增强了磁旋不稳定性的湍流。此外，一个向内坠落的包层也增强了湍流，导致高的α 参数。螺旋臂促进了径向流动，在环绕双星盘内传递了质量和角动量，而磁旋不稳定性和射流是降低系统特定角动量的主要驱动因素。 <div>
 The formation of binary stars is highly influenced by magnetic fields, which play a crucial role in transporting angular momentum. We conducted 3D numerical simulations of binary star accretion via a circumbinary disk, taking into account a magnetic field perpendicular to the disk and an infalling envelope. Our simulations reproduce the following phenomena: (1) the spiral arms associated with circumstellar disks; (2) the turbulence in the circumbinary disk, induced by magnetorotational instability (MRI); (3) a fast outflow launched from each circumstellar disk; and (4) a slow outflow from the circumbinary disk. The binary models exhibit a higher α-parameter than the corresponding single-star models, indicating that the binary stars enhance the MRI turbulence. Moreover, an infalling envelope also enhances the turbulence, leading to a high α-parameter. While the spiral arms promote radial flow, causing the transfer of mass and angular momentum within the circumbinary disk, the MRI turbulence and outflows are the main drivers of angular momentum transfer to reduce the specific angular momentum of the system.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -88,12 +83,11 @@ The formation of binary stars is highly influenced by magnetic fields, which pla
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2614</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2614</guid>
 <content:encoded><![CDATA[
-<div> 2FHL J1745.1–3035, X-ray analysis, multi-epoch, Galactic Center, pulsar wind nebula<br>
-<br>
-这篇文章报告了对2FHL J1745.1–3035进行的多时期、多天文台的X射线分析。该源在50 GeV以上具有非常硬的γ射线光子指数，Γγ = 1.2 ± 0.4，并被Fermi-LAT发现为TeV辐射体。通过联合XMM-Newton、Chandra和NuSTAR观测，使用超过20年的存档XMM-Newton观测，研究了2FHL J1745.1–3035的X射线光谱特性。联合X射线光谱显示最佳拟合为带有断裂功率定律模型，断裂能量Eb∼7keV：在10keV以下的能量范围内，该源非常硬，Γ1∼0.6，在NuSTAR测量的更高能量范围内显著变软，Γ2∼1.9。通过Chandra进行了空间分辨的X射线分析，发现了边缘延展的证据（最多达到角尺寸r∼5″），这一结果支持了紧凑脉冲星风星云的情形。根据X射线和γ射线特性，2FHL J1745.1–3035是一个有力的脉冲星风星云候选体。由于其作为极端TeV辐射体的特性，进一步得到了HESS J1745-303的TeV延展源的探测支持，2FHL J1745.1–3035是未来使用切伦科夫望远镜阵的理想候选体。 <br><br>总结: 多时期的X射线分析显示2FHL J1745.1–3035具有极端的γ射线光子指数和TeV发射特性；X射线光谱表明其可能是一个脉冲星风星云候选体；同时与TeV延展源HESS J1745-303的探测结果相吻合，值得进一步使用切伦科夫望远镜阵进行跟踪观测。 <div>
+<div> 2FHL J1745.1–3035, X-ray analysis, multi-epoch, Galactic Center, pulsar wind nebula<br />
+<br />
+这篇文章报告了对2FHL J1745.1–3035进行的多时期、多天文台的X射线分析。该源在50 GeV以上具有非常硬的γ射线光子指数，Γγ = 1.2 ± 0.4，并被Fermi-LAT发现为TeV辐射体。通过联合XMM-Newton、Chandra和NuSTAR观测，使用超过20年的存档XMM-Newton观测，研究了2FHL J1745.1–3035的X射线光谱特性。联合X射线光谱显示最佳拟合为带有断裂功率定律模型，断裂能量Eb∼7keV：在10keV以下的能量范围内，该源非常硬，Γ1∼0.6，在NuSTAR测量的更高能量范围内显著变软，Γ2∼1.9。通过Chandra进行了空间分辨的X射线分析，发现了边缘延展的证据（最多达到角尺寸r∼5″），这一结果支持了紧凑脉冲星风星云的情形。根据X射线和γ射线特性，2FHL J1745.1–3035是一个有力的脉冲星风星云候选体。由于其作为极端TeV辐射体的特性，进一步得到了HESS J1745-303的TeV延展源的探测支持，2FHL J1745.1–3035是未来使用切伦科夫望远镜阵的理想候选体。 <br /><br />总结: 多时期的X射线分析显示2FHL J1745.1–3035具有极端的γ射线光子指数和TeV发射特性；X射线光谱表明其可能是一个脉冲星风星云候选体；同时与TeV延展源HESS J1745-303的探测结果相吻合，值得进一步使用切伦科夫望远镜阵进行跟踪观测。 <div>
 We present a multi-epoch, multi-observatory X-ray analysis for 2FHL J1745.1–3035, a newly discovered very high-energy Galactic source detected by the Fermi Large Area Telescope (LAT) located in close proximity to the Galactic Center (l = 358.°5319; b = −0.°7760). The source shows a very hard γ-ray photon index above 50 GeV, Γγ = 1.2 ± 0.4, and is found to be a TeV emitter by the Fermi–LAT. We conduct a joint XMM-Newton, Chandra, and NuSTAR observing campaign, combining archival XMM-Newton observations, to study the X-ray spectral properties of 2FHL J1745.1–3035 over a time span of over 20 yr. The joint X-ray spectrum is best fitted as a broken-power-law model with break energy Eb ∼ 7 keV: the source is very hard at energies below 10 keV, with Γ1 ∼ 0.6, and significantly softer in the higher energy range measured by NuSTAR with Γ2 ∼ 1.9. We also perform a spatially resolved X-ray analysis with Chandra, finding evidence for marginal extension (up to an angular size r ∼ 5″), a result that supports a compact pulsar wind nebula scenario. Based on the X-ray and γ-ray properties, 2FHL J1745.1–3035 is a powerful pulsar wind nebula candidate. Given its nature as an extreme TeV emitter, further supported by the detection of a coincident TeV extended source HESS J1745-303, 2FHL J1745.1–3035 is an ideal candidate for a follow up with the upcoming Cherenkov Telescope Array.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -102,14 +96,12 @@ We present a multi-epoch, multi-observatory X-ray analysis for 2FHL J1745.1–30
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad275e</guid>
 <content:encoded><![CDATA[
 <div> FRBs, polarization analysis, DSA-110, Faraday rotation measures, Galactic pulsars
-<br><br>总结:
+<br /><br />总结:
 该研究报道了对25个尚未重复的快速无线电爆发（FRBs）进行的全极化分析，这些FRB是在1.4 GHz上由110天线深度综合阵列（DSA-110）在委托观测期间检测到的。文章介绍了针对这一新型设备开发的数据降噪、校准和分析程序的细节。研究结果显示，20个FRBs在±106 rad m−2范围内具有法拉第旋转测量值（RMs），其中15个FRBs与100%极化一致，10个具有高（≥70%）线偏极化分数，2个具有高（≥30%）圆偏极化分数。结果不支持多路径RM散射作为主要解极化机制。与先前发表的FRB极化测量相结合后，研究比较了FRB子种群和银河脉冲星的极化特性。研究支持了一种情况，即FRB发射本质上是高度线偏极化的，传播效应可以导致圆偏极化和解极化。年轻的脉冲星发射和磁层传播几何形态可能对FRB极化的起源形成有用的类比。 <div>
 We report on a full-polarization analysis of the first 25 as yet nonrepeating fast radio bursts (FRBs) detected at 1.4 GHz by the 110-antenna Deep Synoptic Array (DSA-110) during commissioning observations. We present details of the data-reduction, calibration, and analysis procedures developed for this novel instrument. Faraday rotation measures (RMs) are searched between ±106 rad m−2 and detected for 20 FRBs, with magnitudes ranging from 4 to 4670 rad m−2. Fifteen out of 25 FRBs are consistent with 100% polarization, 10 of which have high (≥70%) linear-polarization fractions and two of which have high (≥30%) circular-polarization fractions. Our results disfavor multipath RM scattering as a dominant depolarization mechanism. Polarization-state and possible RM variations are observed in the four FRBs with multiple subcomponents. We combine the DSA-110 sample with polarimetry of previously published FRBs, and compare the polarization properties of FRB subpopulations and FRBs with Galactic pulsars. Although FRB polarization fractions are typically higher than those of Galactic pulsars, and cover a wider range than those of pulsar single pulses, they resemble those of the youngest (characteristic ages <105 yr) pulsars. Our results support a scenario wherein FRB emission is intrinsically highly linearly polarized, and propagation effects can result in conversion to circular polarization and depolarization. Young pulsar emission and magnetospheric propagation geometries may form a useful analogy for the origin of FRB polarization.
 ]]></content:encoded>
-
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Fate of the Interstellar Medium in Early-type Galaxies. III. The Mechanism of Interstellar Medium Removal and the Quenching of Star Formation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b52</link>
