@@ -4,6 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad251d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad251d</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Redshift measurements, host galaxies, SNe Ia, Dark Energy Survey 5 Yr, simulation <br>
+<br>
+该研究评估了主宇宙中心星系不匹配率以及来自Dark Energy Survey 5 Yr（DES-SN5YR）光度样本模拟的宇宙学参数偏差。他们发现1.7%的SNe匹配到错误的主星系，这导致了红移的错误。采用他们的分析流程，他们发现由于包括了匹配错误的SNe，暗能量状态参数（Δw）的偏差很小，远小于来自DES-SN5YR样本的不确定性。他们鼓励进一步的研究，通过更好的主星系匹配算法或选择性剔除来减小这种偏差。<br><br>总结: 评估了SNe Ia的主星系匹配率和其对宇宙学参数的偏差；发现偏差远小于样本不确定性；鼓励进一步研究改进匹配算法。 <div>
+Redshift measurements, primarily obtained from host galaxies, are essential for inferring cosmological parameters from type Ia supernovae (SNe Ia). Matching SNe to host galaxies using images is nontrivial, resulting in a subset of SNe with mismatched hosts and thus incorrect redshifts. We evaluate the host galaxy mismatch rate and resulting biases on cosmological parameters from simulations modeled after the Dark Energy Survey 5 Yr (DES-SN5YR) photometric sample. For both DES-SN5YR data and simulations, we employ the directional light radius method for host galaxy matching. In our SN Ia simulations, we find that 1.7% of SNe are matched to the wrong host galaxy, with redshift differences between the true and matched hosts of up to 0.6. Using our analysis pipeline, we determine the shift in the dark energy equation of state parameter (Δw) due to including SNe with incorrect host galaxy matches. For SN Ia–only simulations, we find Δw = 0.0013 ± 0.0026 with constraints from the cosmic microwave background. Including core-collapse SNe and peculiar SNe Ia in the simulation, we find that Δw ranges from 0.0009 to 0.0032, depending on the photometric classifier used. This bias is an order of magnitude smaller than the expected total uncertainty on w from the DES-SN5YR sample of ∼0.03. We conclude that the bias on w from host galaxy mismatch is much smaller than the uncertainties expected from the DES-SN5YR sample, but we encourage further studies to reduce this bias through better host-matching algorithms or selection cuts.
+]]></content:encoded>
+
+<pubDate>2024-03-26T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Improving Photometric Redshift Estimation for Cosmology with LSST Using Bayesian Neural Networks</title>
