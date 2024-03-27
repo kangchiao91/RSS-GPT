@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Building the First Galaxies—Chapter 2. Starbursts Dominate the Star Formation Histories of 6 < z < 12 Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1923</link>
@@ -12,10 +13,9 @@
 <div> 关键词: SEDz*, star formation histories, JWST/NIRCam imaging, SFH types, cosmic history
 
           
-总结: 本文使用SEDz*代码分析了894个6 < z < 12的星系的光谱能量分布，并确认了模板与早期星系中的星光的兼容性。研究表明，星爆现象在宇宙的关键时期占主导地位，长期星形成历史也对累积的星体质量有贡献。作者还提出，缺乏上升的星形成历史可以解释为每个测量的星形成历史之前都有持续数千万年的强烈尘埃包裹的星形成阶段。同时，作者还发现了一个由30个星系组成的紧凑星系团，其中11个星系的第一次星形成发生在z = 11-12，这提示长期的星形成历史可能在罕见的密集环境中占主导地位。<br><br>总结: 本研究使用SEDz*代码分析了来自JADES的JWST/NIRCam成像的894个星系的光谱能量分布，证实了其与星系中的星光的兼容性。研究结果显示星爆现象在宇宙的关键时期占主导地位，同时也发现长期星形成历史对累积的星体质量有重要贡献。此外，作者还找到了一个由30个星系组成的紧凑星系团，发现11个星系的第一次星形成发生在z = 11-12，这提示长期的星形成历史可能在罕见的密集环境中占主导地位。 <div>
+总结: 本文使用SEDz*代码分析了894个6 < z < 12的星系的光谱能量分布，并确认了模板与早期星系中的星光的兼容性。研究表明，星爆现象在宇宙的关键时期占主导地位，长期星形成历史也对累积的星体质量有贡献。作者还提出，缺乏上升的星形成历史可以解释为每个测量的星形成历史之前都有持续数千万年的强烈尘埃包裹的星形成阶段。同时，作者还发现了一个由30个星系组成的紧凑星系团，其中11个星系的第一次星形成发生在z = 11-12，这提示长期的星形成历史可能在罕见的密集环境中占主导地位。<br /><br />总结: 本研究使用SEDz*代码分析了来自JADES的JWST/NIRCam成像的894个星系的光谱能量分布，证实了其与星系中的星光的兼容性。研究结果显示星爆现象在宇宙的关键时期占主导地位，同时也发现长期星形成历史对累积的星体质量有重要贡献。此外，作者还找到了一个由30个星系组成的紧凑星系团，发现11个星系的第一次星形成发生在z = 11-12，这提示长期的星形成历史可能在罕见的密集环境中占主导地位。 <div>
 We use SEDz*—a code designed to chart the star formation histories (SFHs) of 6 < z < 12 galaxies—to analyze the spectral energy distributions (SEDs) of 894 galaxies with deep JWST/NIRCam imaging by JADES in the GOODS-S field. We show how SEDz* matches observed SEDs using stellar-population templates, graphing the contribution of each epoch by epoch to confirm the robustness of the technique. Very good SED fits for most SFHs demonstrate the compatibility of the templates with stars in the first galaxies—as expected, because their light is primarily from main-sequence A stars, free of post-main-sequence complexity, and insensitive to heavy-element compositions. We confirm earlier results from Dressler et al. (1) There are four types of SFHs: SFH1, burst; SFH2, stochastic; SFH3, “contiguous” (three epochs), and SFH4, “continuous” (four to six epochs). (2) Starbursts—both single and multiple—are predominant (∼70%) in this critical period of cosmic history, although longer SFHs (0.5–1.0 Gyr) contribute one-third of the accumulated stellar mass. These 894 SFHs contribute 1011.14, 1011.09, 1011.00, and 1010.60M⊙ for SFH1–4, respectively, adding up to ∼4 × 1011M⊙ by z = 6 for this field. We suggest that the absence of rising SFHs could be explained as an intense dust-enshrouded phase of star formation lasting tens of Myr that preceded each of the SFHs we measure. We find no strong dependencies of SFH type with the large-scale environment; however, the discovery of a compact group of 30 galaxies, 11 of which had first star formation at z = 11–12, suggests that long SFHs could dominate in rare, dense environments.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@ We use SEDz*—a code designed to chart the star formation histories (SFHs) of 6
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2351</guid>
 <content:encoded><![CDATA[
 <div> CMB-S4, gravitational lensing, delensing, tensor-to-scalar ratio, map-based framework
-<br><br>
+<br /><br />
 总结: 该研究涵盖了CMB-S4实验的重要性以及引入了一种新的引力透镜重建管道。该管道实现了对任意天空覆盖范围的最佳透镜重建并与CMB-S4的去透镜性能进行测试。研究发现，经过有效处理，重建的透镜 B 模方差减少了 92%–93%，达到了预期的性能，并为日后研究提供了重要的数据和方法。 <div>
 The tightest constraints on the tensor-to-scalar ratio r can only be obtained after removing a substantial fraction of the lensing B-mode sample variance. The planned Cosmic Microwave Background (CMB)-S4 experiment (cmb-s4.org) will remove the lensing B-mode signal internally by reconstructing the gravitational lenses from high-resolution observations. We document here a first lensing reconstruction pipeline able to achieve this optimally for arbitrary sky coverage. We make it part of a map-based framework to test CMB-S4 delensing performance and its constraining power on r, including inhomogeneous noise and two non-Gaussian Galactic polarized foreground models. The framework performs component separation of the high-resolution maps, followed by the construction of lensing B-mode templates, which are then included in a parametric small-aperture map cross-spectra-based likelihood for r. We find that the lensing reconstruction and framework achieve the expected performance, compatible with the target σ(r) ≃ 5 · 10−4 in the absence of a tensor signal, after an effective removal of 92%–93% of the lensing B-mode variance, depending on the simulation set. The code for the lensing reconstruction can also be used for cross-correlation studies with large-scale structures, lensing spectrum reconstruction, cluster lensing, or other CMB lensing-related purposes. As part of our tests, we also demonstrate the joint optimal reconstruction of the lensing potential with the lensing curl potential mode at second order in the density fluctuations.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,12 +35,11 @@ The tightest constraints on the tensor-to-scalar ratio r can only be obtained af
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad235c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad235c</guid>
 <content:encoded><![CDATA[
-<div> ALMA, spectroscopy, lensed galaxy, [O iii] 88 μm, [C ii] 158 μm<br>
-<br>
-ALMA进行了深度光谱观测，探测到了位于zspec = 8.496的透镜星系的[O iii] 88 μm 和 [C ii] 158 μm谱线。其中，[O iii]线的红移和位置与JWST源相吻合，而[C ii]线则表现出蓝移和空间偏移。NIRCam的成像显示，[O iii] λ5007和Hβ谱线辐射的空间范围超出了恒星成分，暗示这个z = 8.5的星系已经经历了强烈的流出，促进了电离光子的逃逸并推动再电离。通过光电离建模，推算出了该星系中的电子密度，并计算了[O iii] 88 μm/λ5007和[O iii] 88 μm/[C ii] 158 μm的线比值。推测这种高线比是由高电子密度以及低金属丰度、高电离参数和低碳氧丰度比所致。通过进一步的[C ii]观测，将可以限制光解区域的覆盖范围。<br><br>总结:ALMA进行了深度光谱观测，探测到了[z = 8.5]的透镜星系中的[O iii] 88 μm和[C ii] 158 μm谱线。NIRCam成像显示星系已经经历了强烈的流出，推动再电离。通过光电离建模和谱线比值推算出星系中的电子密度以及相关参数，有助于对星系形成和演化的理解。 <div>
+<div> ALMA, spectroscopy, lensed galaxy, [O iii] 88 μm, [C ii] 158 μm<br />
+<br />
+ALMA进行了深度光谱观测，探测到了位于zspec = 8.496的透镜星系的[O iii] 88 μm 和 [C ii] 158 μm谱线。其中，[O iii]线的红移和位置与JWST源相吻合，而[C ii]线则表现出蓝移和空间偏移。NIRCam的成像显示，[O iii] λ5007和Hβ谱线辐射的空间范围超出了恒星成分，暗示这个z = 8.5的星系已经经历了强烈的流出，促进了电离光子的逃逸并推动再电离。通过光电离建模，推算出了该星系中的电子密度，并计算了[O iii] 88 μm/λ5007和[O iii] 88 μm/[C ii] 158 μm的线比值。推测这种高线比是由高电子密度以及低金属丰度、高电离参数和低碳氧丰度比所致。通过进一步的[C ii]观测，将可以限制光解区域的覆盖范围。<br /><br />总结:ALMA进行了深度光谱观测，探测到了[z = 8.5]的透镜星系中的[O iii] 88 μm和[C ii] 158 μm谱线。NIRCam成像显示星系已经经历了强烈的流出，推动再电离。通过光电离建模和谱线比值推算出星系中的电子密度以及相关参数，有助于对星系形成和演化的理解。 <div>
 We present Atacama Large Millimeter/submillimeter Array (ALMA) deep spectroscopy for a lensed galaxy at zspec = 8.496 with whose optical nebular lines and stellar continuum are detected by JWST/NIRSpec and NIRCam Early Release Observations in the field of SMACS J0723.3–7327. Our ALMA spectrum shows [O iii] 88 μm and [C ii] 158 μm line detections at 4.0σ and 4.5σ, respectively. The redshift and position of the [O iii] line coincide with those of the JWST source, while the [C ii] line is blueshifted by 90 km s−1 with a spatial offset of 0.″5 (≈0.5 kpc in the source plane) from the centroid of the JWST source. The NIRCam F444W image, including [O iii] λ5007 and Hβ line emission, spatially extends beyond the stellar components by a factor of >8. This indicates that the z = 8.5 galaxy has already experienced strong outflows as traced by extended [O iii] λ5007 and offset [C ii] emission, which would promote ionizing photon escape and facilitate reionization. With careful slit-loss corrections and the removal of emission spatially outside the galaxy, we evaluate the [O iii] 88 μm/λ5007 line ratio, and derive the electron density ne by photoionization modeling to be cm−3, which is comparable with those of z ∼ 2–3 galaxies. We estimate an [O iii] 88 μm/[C ii] 158 μm line ratio in the galaxy of >4, as high as those of known z ∼ 6–9 galaxies. This high [O iii] 88 μm/[C ii] 158 μm line ratio is generally explained by the high ne as well as the low metallicity ( ), high ionization parameter ( ), and low carbon-to-oxygen abundance ratio (log(C/O) = [−0.52: −0.24]) obtained from the JWST/NIRSpec data; further [C ii] follow-up observations will constrain the covering fraction of photodissociation regions.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -51,10 +49,9 @@ We present Atacama Large Millimeter/submillimeter Array (ALMA) deep spectroscopy
 <content:encoded><![CDATA[
 <div> EOS, neutrinos, phase transition, core-collapse supernovae, hadron-quark matter
 
-研究通过天体模拟核心坍缩超新星，探讨了高重子密度下一级强子-夸克物质相变的发生，以利用来自这类宇宙事件的中微子来揭示密集物质态方程的尚未完全理解的性质。发现释放出非标准的第二中微子爆发，以电子反中微子为主导的信号不仅可以用来衡量解离夸克物质的出现，还可以揭示超新星内部极端条件下物态的信息。为此，研究了大量球对称超新星模型，研究了对物态方程和恒星祖先的依赖关系。采用了广义相对论中微子辐射流体动力学，采用了三味波尔兹曼中微子输运和微观强子-夸克混合物态方程。因此，采用了DD2相对论平均场强子模型以及它的几种变种，并使用了用于描述解离夸克物质的string-flip模型。由此得到的混合模型涵盖了相变的起始密度和潜热的代表性范围，便于直接将中微子信号的固有特征与物态方程的性质联系起来。特别地，已经经验性地发现了一组线性关系。如果在1秒左右或更短的时间内出现毫秒级电子反中微子爆发，这些关系可能为未来对下一个银河中心坍缩超新星的中微子观测提供了一种约束，用于可能的QCD相变的起始密度。 <br><br>总结: 研究探讨了核心坍缩超新星中一级强子-夸克物质相变的发生及其对应的中微子信号特征，提出了一组线性关系用于约束可能的QCD相变的起始密度。 <div>
+研究通过天体模拟核心坍缩超新星，探讨了高重子密度下一级强子-夸克物质相变的发生，以利用来自这类宇宙事件的中微子来揭示密集物质态方程的尚未完全理解的性质。发现释放出非标准的第二中微子爆发，以电子反中微子为主导的信号不仅可以用来衡量解离夸克物质的出现，还可以揭示超新星内部极端条件下物态的信息。为此，研究了大量球对称超新星模型，研究了对物态方程和恒星祖先的依赖关系。采用了广义相对论中微子辐射流体动力学，采用了三味波尔兹曼中微子输运和微观强子-夸克混合物态方程。因此，采用了DD2相对论平均场强子模型以及它的几种变种，并使用了用于描述解离夸克物质的string-flip模型。由此得到的混合模型涵盖了相变的起始密度和潜热的代表性范围，便于直接将中微子信号的固有特征与物态方程的性质联系起来。特别地，已经经验性地发现了一组线性关系。如果在1秒左右或更短的时间内出现毫秒级电子反中微子爆发，这些关系可能为未来对下一个银河中心坍缩超新星的中微子观测提供了一种约束，用于可能的QCD相变的起始密度。 <br /><br />总结: 研究探讨了核心坍缩超新星中一级强子-夸克物质相变的发生及其对应的中微子信号特征，提出了一组线性关系用于约束可能的QCD相变的起始密度。 <div>
 The occurrence of a first-order hadron–quark matter phase transition at high baryon densities is investigated in astrophysical simulations of core-collapse supernovae, to decipher yet incompletely understood properties of the dense matter equation of state (EOS) using neutrinos from such cosmic events. It is found that the emission of a nonstandard second neutrino burst, dominated by electron antineutrinos, is not only a measurable signal for the appearance of deconfined quark matter but also reveals information about the state of matter at extreme conditions encountered at the supernova (SN) interior. To this end, a large set of spherically symmetric SN models is investigated, studying the dependence on the EOS and the stellar progenitor. General relativistic neutrino-radiation hydrodynamics is employed featuring three-flavor Boltzmann neutrino transport and a microscopic hadron-quark hybrid matter EOS class. Therefore, the DD2 relativistic mean-field hadronic model is employed, and several variations of it, and the string-flip model for the description of deconfined quark matter. The resulting hybrid model covers a representative range of onset densities for the phase transition and latent heats. This facilitates the direct connection between intrinsic signatures of the neutrino signal and properties of the EOS. In particular, a set of linear relations has been found empirically. These potentially provide a constraint for the onset density of a possible QCD phase transition from the future neutrino observation of the next galactic core-collapse SN, if a millisecond electron anti-neutrino burst is present around or less than 1 s.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -62,15 +59,13 @@ The occurrence of a first-order hadron–quark matter phase transition at high b
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27db</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27db</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 多星群, 恒星群, 星际, 星级, 恒星质量<br>
-总结:<br>
+<div> 关键词: 多星群, 恒星群, 星际, 星级, 恒星质量<br />
+总结:<br />
 文章研究了巨大球状星团中多重恒星群的现象，发现第一种恒星群在球状星团中所占比例随着星团质量的增加而减少。通过假设固定的恒星质量阈值、星团质量与第一种恒星群比例之间的幂律关系以及第一种恒星群比例随时间保持不变等假设，对第一种恒星群比例随星团质量的关系进行了详细解析，并推论出在演化开始时具有至少4·105M⊙的最低质量阈值。这一高质量阈值严重限制了从演化星团中流失的第二种恒星群的数量，与银河星系晕的低第二种恒星群比例相吻合。根据假设的第一种恒星群比例恒定，推断了第二种恒星群不一定是在中心区域形成。 Magellanic Clouds集群在（质量，第一种恒星群比例）空间的位置与预期的中间时代集群在温和潮汐场中演化时一致。内外模型星团的分布与观测到的也一致。总的来说，该研究对球状星团中多重恒星群的现象进行了深入的研究和推断。 <div>
 The phenomenon of multiple stellar populations is exacerbated in massive globular clusters, with the fraction of first-population (1P) stars a decreasing function of the cluster present-day mass. We decipher this relation in far greater detail than has been done so far. We assume (i) a fixed stellar mass threshold for the formation of second-population (2P) stars, (ii) a power-law scaling between the mass mecl of newly formed clusters and their 1P star fraction F1P, and (iii) a constant F1P over time. The F1P(mecl) relation is then evolved up to an age of 12 Gyr for tidal field strengths representative of the entire Galactic halo. The 12 Gyr old model tracks cover the present-day distribution of Galactic globular clusters in the (mass, F1P) space extremely well. The distribution is curtailed on its top right side by the scarcity of clusters at large Galactocentric distances and on its bottom left side by the initial scarcity of very high-mass clusters and dynamical friction. Given their distinct dissolution rates, “inner” and “outer” model clusters are offset from each other, as observed. The locus of Magellanic Clouds clusters in the (mass, F1P) space is as expected for intermediate-age clusters evolving in a gentle tidal field. Given the assumed constancy of F1P, we conclude that 2P stars do not necessarily form centrally concentrated. We infer a minimum mass of 4 · 105M⊙ for multiple-population clusters at secular evolution onset. This high-mass threshold severely limits the number of 2P stars lost from evolving clusters, thereby fitting the low 2P star fraction of the Galactic halo field.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>First Direct Imaging of a Kelvin–Helmholtz Instability by PSP/WISPR</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2208</link>
