@@ -5,16 +5,82 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Building the First Galaxies—Chapter 2. Starbursts Dominate the Star Formation Histories of 6 < z < 12 Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1923</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1923</guid>
+<content:encoded><![CDATA[
+<div> 关键词: SEDz*, star formation histories, JWST/NIRCam imaging, SFH types, cosmic history
+
+          
+总结: 本文使用SEDz*代码分析了894个6 < z < 12的星系的光谱能量分布，并确认了模板与早期星系中的星光的兼容性。研究表明，星爆现象在宇宙的关键时期占主导地位，长期星形成历史也对累积的星体质量有贡献。作者还提出，缺乏上升的星形成历史可以解释为每个测量的星形成历史之前都有持续数千万年的强烈尘埃包裹的星形成阶段。同时，作者还发现了一个由30个星系组成的紧凑星系团，其中11个星系的第一次星形成发生在z = 11-12，这提示长期的星形成历史可能在罕见的密集环境中占主导地位。<br><br>总结: 本研究使用SEDz*代码分析了来自JADES的JWST/NIRCam成像的894个星系的光谱能量分布，证实了其与星系中的星光的兼容性。研究结果显示星爆现象在宇宙的关键时期占主导地位，同时也发现长期星形成历史对累积的星体质量有重要贡献。此外，作者还找到了一个由30个星系组成的紧凑星系团，发现11个星系的第一次星形成发生在z = 11-12，这提示长期的星形成历史可能在罕见的密集环境中占主导地位。 <div>
+We use SEDz*—a code designed to chart the star formation histories (SFHs) of 6 < z < 12 galaxies—to analyze the spectral energy distributions (SEDs) of 894 galaxies with deep JWST/NIRCam imaging by JADES in the GOODS-S field. We show how SEDz* matches observed SEDs using stellar-population templates, graphing the contribution of each epoch by epoch to confirm the robustness of the technique. Very good SED fits for most SFHs demonstrate the compatibility of the templates with stars in the first galaxies—as expected, because their light is primarily from main-sequence A stars, free of post-main-sequence complexity, and insensitive to heavy-element compositions. We confirm earlier results from Dressler et al. (1) There are four types of SFHs: SFH1, burst; SFH2, stochastic; SFH3, “contiguous” (three epochs), and SFH4, “continuous” (four to six epochs). (2) Starbursts—both single and multiple—are predominant (∼70%) in this critical period of cosmic history, although longer SFHs (0.5–1.0 Gyr) contribute one-third of the accumulated stellar mass. These 894 SFHs contribute 1011.14, 1011.09, 1011.00, and 1010.60M⊙ for SFH1–4, respectively, adding up to ∼4 × 1011M⊙ by z = 6 for this field. We suggest that the absence of rising SFHs could be explained as an intense dust-enshrouded phase of star formation lasting tens of Myr that preceded each of the SFHs we measure. We find no strong dependencies of SFH type with the large-scale environment; however, the discovery of a compact group of 30 galaxies, 11 of which had first star formation at z = 11–12, suggests that long SFHs could dominate in rare, dense environments.
+]]></content:encoded>
+
+<pubDate>2024-03-27T00:00:00Z</pubDate>
+</item>
+<item>
+<title>CMB-S4: Iterative Internal Delensing and r Constraints</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2351</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2351</guid>
+<content:encoded><![CDATA[
+<div> CMB-S4, gravitational lensing, delensing, tensor-to-scalar ratio, map-based framework
+<br><br>
+总结: 该研究涵盖了CMB-S4实验的重要性以及引入了一种新的引力透镜重建管道。该管道实现了对任意天空覆盖范围的最佳透镜重建并与CMB-S4的去透镜性能进行测试。研究发现，经过有效处理，重建的透镜 B 模方差减少了 92%–93%，达到了预期的性能，并为日后研究提供了重要的数据和方法。 <div>
+The tightest constraints on the tensor-to-scalar ratio r can only be obtained after removing a substantial fraction of the lensing B-mode sample variance. The planned Cosmic Microwave Background (CMB)-S4 experiment (cmb-s4.org) will remove the lensing B-mode signal internally by reconstructing the gravitational lenses from high-resolution observations. We document here a first lensing reconstruction pipeline able to achieve this optimally for arbitrary sky coverage. We make it part of a map-based framework to test CMB-S4 delensing performance and its constraining power on r, including inhomogeneous noise and two non-Gaussian Galactic polarized foreground models. The framework performs component separation of the high-resolution maps, followed by the construction of lensing B-mode templates, which are then included in a parametric small-aperture map cross-spectra-based likelihood for r. We find that the lensing reconstruction and framework achieve the expected performance, compatible with the target σ(r) ≃ 5 · 10−4 in the absence of a tensor signal, after an effective removal of 92%–93% of the lensing B-mode variance, depending on the simulation set. The code for the lensing reconstruction can also be used for cross-correlation studies with large-scale structures, lensing spectrum reconstruction, cluster lensing, or other CMB lensing-related purposes. As part of our tests, we also demonstrate the joint optimal reconstruction of the lensing potential with the lensing curl potential mode at second order in the density fluctuations.
+]]></content:encoded>
+
+<pubDate>2024-03-27T00:00:00Z</pubDate>
+</item>
+<item>
+<title>JWST and ALMA Multiple-line Study in and around a Galaxy at z = 8.496: Optical to Far-Infrared Line Ratios and the Onset of an Outflow Promoting Ionizing Photon Escape</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad235c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad235c</guid>
+<content:encoded><![CDATA[
+<div> ALMA, spectroscopy, lensed galaxy, [O iii] 88 μm, [C ii] 158 μm<br>
+<br>
+ALMA进行了深度光谱观测，探测到了位于zspec = 8.496的透镜星系的[O iii] 88 μm 和 [C ii] 158 μm谱线。其中，[O iii]线的红移和位置与JWST源相吻合，而[C ii]线则表现出蓝移和空间偏移。NIRCam的成像显示，[O iii] λ5007和Hβ谱线辐射的空间范围超出了恒星成分，暗示这个z = 8.5的星系已经经历了强烈的流出，促进了电离光子的逃逸并推动再电离。通过光电离建模，推算出了该星系中的电子密度，并计算了[O iii] 88 μm/λ5007和[O iii] 88 μm/[C ii] 158 μm的线比值。推测这种高线比是由高电子密度以及低金属丰度、高电离参数和低碳氧丰度比所致。通过进一步的[C ii]观测，将可以限制光解区域的覆盖范围。<br><br>总结:ALMA进行了深度光谱观测，探测到了[z = 8.5]的透镜星系中的[O iii] 88 μm和[C ii] 158 μm谱线。NIRCam成像显示星系已经经历了强烈的流出，推动再电离。通过光电离建模和谱线比值推算出星系中的电子密度以及相关参数，有助于对星系形成和演化的理解。 <div>
+We present Atacama Large Millimeter/submillimeter Array (ALMA) deep spectroscopy for a lensed galaxy at zspec = 8.496 with whose optical nebular lines and stellar continuum are detected by JWST/NIRSpec and NIRCam Early Release Observations in the field of SMACS J0723.3–7327. Our ALMA spectrum shows [O iii] 88 μm and [C ii] 158 μm line detections at 4.0σ and 4.5σ, respectively. The redshift and position of the [O iii] line coincide with those of the JWST source, while the [C ii] line is blueshifted by 90 km s−1 with a spatial offset of 0.″5 (≈0.5 kpc in the source plane) from the centroid of the JWST source. The NIRCam F444W image, including [O iii] λ5007 and Hβ line emission, spatially extends beyond the stellar components by a factor of >8. This indicates that the z = 8.5 galaxy has already experienced strong outflows as traced by extended [O iii] λ5007 and offset [C ii] emission, which would promote ionizing photon escape and facilitate reionization. With careful slit-loss corrections and the removal of emission spatially outside the galaxy, we evaluate the [O iii] 88 μm/λ5007 line ratio, and derive the electron density ne by photoionization modeling to be cm−3, which is comparable with those of z ∼ 2–3 galaxies. We estimate an [O iii] 88 μm/[C ii] 158 μm line ratio in the galaxy of >4, as high as those of known z ∼ 6–9 galaxies. This high [O iii] 88 μm/[C ii] 158 μm line ratio is generally explained by the high ne as well as the low metallicity ( ), high ionization parameter ( ), and low carbon-to-oxygen abundance ratio (log(C/O) = [−0.52: −0.24]) obtained from the JWST/NIRSpec data; further [C ii] follow-up observations will constrain the covering fraction of photodissociation regions.
+]]></content:encoded>
+
+<pubDate>2024-03-27T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraining the Onset Density for the QCD Phase Transition with the Neutrino Signal from Core-collapse Supernovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f2</guid>
+<content:encoded><![CDATA[
+<div> EOS, neutrinos, phase transition, core-collapse supernovae, hadron-quark matter
+
+研究通过天体模拟核心坍缩超新星，探讨了高重子密度下一级强子-夸克物质相变的发生，以利用来自这类宇宙事件的中微子来揭示密集物质态方程的尚未完全理解的性质。发现释放出非标准的第二中微子爆发，以电子反中微子为主导的信号不仅可以用来衡量解离夸克物质的出现，还可以揭示超新星内部极端条件下物态的信息。为此，研究了大量球对称超新星模型，研究了对物态方程和恒星祖先的依赖关系。采用了广义相对论中微子辐射流体动力学，采用了三味波尔兹曼中微子输运和微观强子-夸克混合物态方程。因此，采用了DD2相对论平均场强子模型以及它的几种变种，并使用了用于描述解离夸克物质的string-flip模型。由此得到的混合模型涵盖了相变的起始密度和潜热的代表性范围，便于直接将中微子信号的固有特征与物态方程的性质联系起来。特别地，已经经验性地发现了一组线性关系。如果在1秒左右或更短的时间内出现毫秒级电子反中微子爆发，这些关系可能为未来对下一个银河中心坍缩超新星的中微子观测提供了一种约束，用于可能的QCD相变的起始密度。 <br><br>总结: 研究探讨了核心坍缩超新星中一级强子-夸克物质相变的发生及其对应的中微子信号特征，提出了一组线性关系用于约束可能的QCD相变的起始密度。 <div>
+The occurrence of a first-order hadron–quark matter phase transition at high baryon densities is investigated in astrophysical simulations of core-collapse supernovae, to decipher yet incompletely understood properties of the dense matter equation of state (EOS) using neutrinos from such cosmic events. It is found that the emission of a nonstandard second neutrino burst, dominated by electron antineutrinos, is not only a measurable signal for the appearance of deconfined quark matter but also reveals information about the state of matter at extreme conditions encountered at the supernova (SN) interior. To this end, a large set of spherically symmetric SN models is investigated, studying the dependence on the EOS and the stellar progenitor. General relativistic neutrino-radiation hydrodynamics is employed featuring three-flavor Boltzmann neutrino transport and a microscopic hadron-quark hybrid matter EOS class. Therefore, the DD2 relativistic mean-field hadronic model is employed, and several variations of it, and the string-flip model for the description of deconfined quark matter. The resulting hybrid model covers a representative range of onset densities for the phase transition and latent heats. This facilitates the direct connection between intrinsic signatures of the neutrino signal and properties of the EOS. In particular, a set of linear relations has been found empirically. These potentially provide a constraint for the onset density of a possible QCD phase transition from the future neutrino observation of the next galactic core-collapse SN, if a millisecond electron anti-neutrino burst is present around or less than 1 s.
+]]></content:encoded>
+
+<pubDate>2024-03-27T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Cracking the Relation between Mass and 1P Star Fraction of Globular Clusters. I. Present-day Cluster Masses as a First Tool</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27db</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27db</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 多星群, 恒星群, 星际, 星级, 恒星质量<br>
+总结:<br>
+文章研究了巨大球状星团中多重恒星群的现象，发现第一种恒星群在球状星团中所占比例随着星团质量的增加而减少。通过假设固定的恒星质量阈值、星团质量与第一种恒星群比例之间的幂律关系以及第一种恒星群比例随时间保持不变等假设，对第一种恒星群比例随星团质量的关系进行了详细解析，并推论出在演化开始时具有至少4·105M⊙的最低质量阈值。这一高质量阈值严重限制了从演化星团中流失的第二种恒星群的数量，与银河星系晕的低第二种恒星群比例相吻合。根据假设的第一种恒星群比例恒定，推断了第二种恒星群不一定是在中心区域形成。 Magellanic Clouds集群在（质量，第一种恒星群比例）空间的位置与预期的中间时代集群在温和潮汐场中演化时一致。内外模型星团的分布与观测到的也一致。总的来说，该研究对球状星团中多重恒星群的现象进行了深入的研究和推断。 <div>
+The phenomenon of multiple stellar populations is exacerbated in massive globular clusters, with the fraction of first-population (1P) stars a decreasing function of the cluster present-day mass. We decipher this relation in far greater detail than has been done so far. We assume (i) a fixed stellar mass threshold for the formation of second-population (2P) stars, (ii) a power-law scaling between the mass mecl of newly formed clusters and their 1P star fraction F1P, and (iii) a constant F1P over time. The F1P(mecl) relation is then evolved up to an age of 12 Gyr for tidal field strengths representative of the entire Galactic halo. The 12 Gyr old model tracks cover the present-day distribution of Galactic globular clusters in the (mass, F1P) space extremely well. The distribution is curtailed on its top right side by the scarcity of clusters at large Galactocentric distances and on its bottom left side by the initial scarcity of very high-mass clusters and dynamical friction. Given their distinct dissolution rates, “inner” and “outer” model clusters are offset from each other, as observed. The locus of Magellanic Clouds clusters in the (mass, F1P) space is as expected for intermediate-age clusters evolving in a gentle tidal field. Given the assumed constancy of F1P, we conclude that 2P stars do not necessarily form centrally concentrated. We infer a minimum mass of 4 · 105M⊙ for multiple-population clusters at secular evolution onset. This high-mass threshold severely limits the number of 2P stars lost from evolving clusters, thereby fitting the low 2P star fraction of the Galactic halo field.
+]]></content:encoded>
+
+<pubDate>2024-03-27T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>First Direct Imaging of a Kelvin–Helmholtz Instability by PSP/WISPR</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2208</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2208</guid>
 <content:encoded><![CDATA[
 <div> 关键词: WISPR, Parker Solar Probe, Kelvin-Helmholtz instability, Coronal Mass Ejection, solar corona
 
-总结: <br><br>研究使用WISPR观察到小尺度特征，推测为Kelvin–Helmholtz不稳定性，这些特征出现在Parker Solar Probe在7.5 R⊙和9.5 R⊙之间的日冕质量抛射尾部附近，持续约30分钟。通过分析涡旋的尺寸和边界层的厚度，以及估计的线性增长率，支持了KHI的候选性。研究强调了PSP/WISPR在观察太阳低层和中层日冕中此类现象的独特能力，尤其是当PSP的近日点距离太阳更近时。 <div>
+总结: <br /><br />研究使用WISPR观察到小尺度特征，推测为Kelvin–Helmholtz不稳定性，这些特征出现在Parker Solar Probe在7.5 R⊙和9.5 R⊙之间的日冕质量抛射尾部附近，持续约30分钟。通过分析涡旋的尺寸和边界层的厚度，以及估计的线性增长率，支持了KHI的候选性。研究强调了PSP/WISPR在观察太阳低层和中层日冕中此类现象的独特能力，尤其是当PSP的近日点距离太阳更近时。 <div>
 We present a comprehensive analysis aimed at proving the hypothesis that a train of small-scale features observed by the Wide-field Imager (WISPR) onboard the Parker Solar Probe (PSP) are the signature of a Kelvin–Helmholtz instability (KHI). These features were seen near the flank of a Coronal Mass Ejection (CME) wake between 7.5 R⊙ and 9.5 R⊙, lasting for about 30 minutes. The CME was a slow event, associated with a streamer blowout. We analyzed the size of the eddies and found growth during their evolution while maintaining separation distances and alignment typical of Kelvin–Helmholtz vortexes. We then assessed the magnetic field conditions that would make the observation of such an instability plausible. Two methods were used to cross-check our findings. The measured thickness of the boundary layer supports KHI candidacy, and the estimated linear growth rate suggests nonlinear saturation within the expected timescale. We conclude that a KHI is a plausible explanation for the observed features, and therefore that such instabilities might exist in the low and middle solar corona (within ∼15 R⊙) and can be detected in white light observations. Their observation, however, might be rare due to stringent conditions like the observer’s proximity, suitable viewing circumstances, magnetic field topology, and flow properties. This study highlights the unique capability of PSP/WISPR in observing such phenomena, especially as PSP perihelia reach closer distances to the Sun.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,11 +90,10 @@ We present a comprehensive analysis aimed at proving the hypothesis that a train
 <content:encoded><![CDATA[
 <div> Hubble Space Telescope, HH 30, Atacama Large Millimeter/submillimeter Array, optical jet, ionic 
 
-总结:<br><br>
+总结:<br /><br />
 文章介绍了年轻恒星源HH 30的特点和结构。通过Hubble Space Telescope观测到HH 30的离子光学喷流，同时Atacama Large Millimeter/submillimeter Array观测到了12CO的残余包层。光学喷流具有窄的外观、基部较大的线宽和高温度。通过位置-速度图可以识别三种主要结构：具有大谱线宽度的极高速宽角风组分、12CO中观测到的极低速环境介质、以及与主要风和周围环境介质在速度和位置上都有嵌套的12CO跟踪的低速区域。在光学喷流周围形成了多层空腔结构，由内部盘区域起源的原子气体通过禁闭线发出明亮的光学喷流，宽角部分扩展形成低密度腔体。12CO纤维环绕着风腔混合并通过磁场相互作用向内部运动。HH 30系统是Shang等人提出的统一风模型的理想表现，通过其中区分的原子和分子物种混合以及环绕的寒冷分子环境物质。 <div>
 The young stellar source HH 30 is a textbook example of an ionic optical jet originating from a disk in an edge-on system shown by the Hubble Space Telescope. It has a remnant envelope in 12CO observed by the Atacama Large Millimeter/submillimeter Array. The optical jet is characterized by its narrow appearance, large line width at the base, and high temperature inferred from line diagnostics. Three featured structures can be identified, most evident in the transverse position–velocity diagrams: an extremely-high-velocity wide-angle wind component with large spectral widths in the optical, a very-low-velocity ambient surrounding medium seen in 12CO, and a low-velocity region traced by 12CO nested both in velocity and location between the primary wind and ambient environment. A layered cavity with multiple shells forms nested morphological and kinematic structures around the optical jet. The atomic gas originating from the innermost region of the disk attains a sufficient temperature and ionization to emit brightly in forbidden lines as an optical jet. The wide-angle portion expands, forming a low-density cavity. The filamentary 12CO encompassing the wind cavity is mixed and advected inward through the action of the magnetic interplay of the wide-angle wind with the molecular ambient medium. The magnetic interplay results in the layered shells penetrating deeply into the vast cavity of tenuous atomic wind material. The HH 30 system is an ideal manifestation of the unified wind model of Shang et al. (2020, 2023), with clearly distinguishable atomic and molecular species mixed through the atomic lightly ionized magnetized wind and the surrounding cold molecular ambient material.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -41,7 +106,6 @@ The young stellar source HH 30 is a textbook example of an ionic optical jet ori
 本文介绍了Solar Orbiter上的Spectrometer/Telescope for Imaging X-rays (STIX)提供了进行太阳耀斑立体X射线观测的独特机会，该观测与当前和未来的地球X射线任务进行比较。这些观测将产生几十年来第一次可靠的硬X射线（HXR）直接度量，提供耀斑加速电子的一个新的诊断，并有助于限制耀斑中加速电子的过程。文章展示了HXR直接度量如何随着不同的电子和耀斑特性而变化，并展示了建模可以如何从数据中提取这些通常未知的特性。最后，文章展示了通过与本文建模的比较如何提取HXR直接度量，并呈现了两个耀斑的初步HXR直接度分析，证明了这样的观测的可行性和挑战，以及如何通过与此处展示的建模比较来提取HXR直接度量。 <div>
 The Spectrometer/Telescope for Imaging X-rays (STIX) on board Solar Orbiter (SolO) provides a unique opportunity to systematically perform stereoscopic X-ray observations of solar flares with current and upcoming X-ray missions at Earth. These observations will produce the first reliable measurements of hard X-ray (HXR) directivity in decades, providing a new diagnostic of the flare-accelerated electron angular distribution and helping to constrain the processes that accelerate electrons in flares. However, such observations must be compared to modeling, taking into account electron and X-ray transport effects and realistic plasma conditions, all of which can change the properties of the measured HXR directivity. Here, we show how HXR directivity, defined as the ratio of X-ray spectra at different spacecraft viewing angles, varies with different electron and flare properties (e.g., electron angular distribution, highest-energy electrons, and magnetic configuration), and how modeling can be used to extract these typically unknown properties from the data. Finally, we present a preliminary HXR directivity analysis of two flares, observed by the Fermi Gamma-ray Burst Monitor and SolO/STIX, demonstrating the feasibility and challenges associated with such observations, and how HXR directivity can be extracted by comparison with the modeling presented here.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -50,11 +114,10 @@ The Spectrometer/Telescope for Imaging X-rays (STIX) on board Solar Orbiter (Sol
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24e8</guid>
 <content:encoded><![CDATA[
 <div> relativistic reconnection, shear flows, guide fields, Alfvén velocity, particle-in-cell simulations
-<br><br>总结:
+<br /><br />总结:
 本文研究了相对论性再连接流速度的缩放，同时考虑了沿着重新连接磁场的剪切流和指向重新连接平面外的引导场。在非相对论性再连接中，已发现超阿尔文剪切流会抑制再连接。我们将这一现象的分析模型扩展到相对论情况，并发现了类似的行为，这得到了粒子在单元模拟的证实。与非相对论极限不同的是，引导场的加入降低了平面内的阿尔文速度，导致了更慢的流出喷流以及在强磁化等离子体中更有效地抑制了再连接。 <div>
 The scaling of the relativistic reconnection outflow speed is studied in the presence of both shear flows parallel to the reconnecting magnetic fields and guide fields pointing out of the reconnection plane. In nonrelativistic reconnection, super-Alfvénic shear flows have been found to suppress reconnection. We extend the analytical model of this phenomenon to the relativistic regime and find similar behavior, which is confirmed by particle-in-cell simulations. Unlike the nonrelativistic limit, the addition of a guide field lowers the in-plane Alfvén velocity, contributing to slower outflow jets and the more efficient suppression of reconnection in strongly magnetized plasmas.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -62,11 +125,10 @@ The scaling of the relativistic reconnection outflow speed is studied in the pre
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2518</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2518</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 太阳耀斑, 多波段观测, 热-非热能量, 等离子体参数, 太阳飞行器<br>
-总结: <br>本研究分析了2021年9月20日至25日期间太阳飞行器接收到的来自近距离观测的约200次较弱耀斑的多波段辐射数据。通过关联硬X射线通量和软X射线通量，并结合耀斑峰值软X射线通量，确定了强非热耀斑。对20次强非热弱耀斑的多波段观测结果表明硬X射线通量与辐射度存在反比关系，而与等离子体温度呈正相关。这表明在得到非热能量输入后，低密度环路中的等离子体温度比高密度环路中的温度更高。同时，研究结果进一步表明太阳耀斑最初阶段的等离子体参数对热-非热能量分配起着决定性作用。 <div>
+<div> 关键词: 太阳耀斑, 多波段观测, 热-非热能量, 等离子体参数, 太阳飞行器<br />
+总结: <br />本研究分析了2021年9月20日至25日期间太阳飞行器接收到的来自近距离观测的约200次较弱耀斑的多波段辐射数据。通过关联硬X射线通量和软X射线通量，并结合耀斑峰值软X射线通量，确定了强非热耀斑。对20次强非热弱耀斑的多波段观测结果表明硬X射线通量与辐射度存在反比关系，而与等离子体温度呈正相关。这表明在得到非热能量输入后，低密度环路中的等离子体温度比高密度环路中的温度更高。同时，研究结果进一步表明太阳耀斑最初阶段的等离子体参数对热-非热能量分配起着决定性作用。 <div>
 The disparate nature of the thermal–nonthermal energy partition during flares, particularly during weak flares, is still an open issue. Following the Neupert effect, quantifying the relative yield of X-ray emission in different energy bands can enable the inferring of the underlying energy release mechanism. During 2021 September 20–25, the Solar Orbiter mission—being closer to the Sun (∼0.6 au) and having a moderate separation angle (<40°) from the Sun–Earth line—offered a unique opportunity to analyze multiwavelength emission from ∼200 (mostly weak) flares, commonly observed by the Spectrometer Telescope for Imaging X-rays (STIX), STEREO-A, GOES, and the Solar Dynamics Observatory. Associating the quotient (qf) of hard X-ray fluence (12–20 keV) and soft X-ray flux (4–10 keV) with the peak soft X-ray flux enabled us to identify strongly nonthermal flares. A multiwavelength investigation of spectral and imaging-mode observations of the 20 strongly nonthermal weak flares reveals an inverse relationship of qf with the emission measure (and density), and a positive relationship with the flare plasma temperature. This indicates that the plasma in tenuous loops attains higher temperatures compared to that in the denser loops, in response to nonthermal energy deposition. This is in agreement with the plasma parameters of the coronal loops, as derived by applying the one-dimensional Palermo–Harvard hydrodynamical code to coronal loop plasma with different initial coronal loop base pressures when subjected to similar heating inputs. Our investigation, therefore, indicates that the plasma parameters of the flaring loop in the initial phase have a decisive role in the thermal–nonthermal energy partitioning.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -74,14 +136,12 @@ The disparate nature of the thermal–nonthermal energy partition during flares,
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d0</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 活动星系核（AGN），Sloan数字化天空测量（SDSS），Hα谱线，星形成，负反馈<br>
-总结:<br>这篇手稿提供了支持低红移Sloan数字化天空测量（SDSS）Type 2 AGN宿主星系中全球负面活动星系核（AGN）反馈的线索，基于窄Hα发射线光度LHα和光学连续光度λLcont之间的不同依赖关系。研究发现，在Type 2 AGN中，λLcont和LHα的相关性显著低于星形成星系，即Type 2 AGN中的窄Hα发射线光度明显较低。此外，Dn（4000）和HδA的属性也提供了间接证据，支持Type 2 AGN中全球负面AGN反馈。本研究不仅支持局部Type 2 AGN中全球负面AGN反馈的存在，还展示了对全球负面AGN反馈对星形成抑制的量化。 <div>
+<div> 关键词: 活动星系核（AGN），Sloan数字化天空测量（SDSS），Hα谱线，星形成，负反馈<br />
+总结:<br />这篇手稿提供了支持低红移Sloan数字化天空测量（SDSS）Type 2 AGN宿主星系中全球负面活动星系核（AGN）反馈的线索，基于窄Hα发射线光度LHα和光学连续光度λLcont之间的不同依赖关系。研究发现，在Type 2 AGN中，λLcont和LHα的相关性显著低于星形成星系，即Type 2 AGN中的窄Hα发射线光度明显较低。此外，Dn（4000）和HδA的属性也提供了间接证据，支持Type 2 AGN中全球负面AGN反馈。本研究不仅支持局部Type 2 AGN中全球负面AGN反馈的存在，还展示了对全球负面AGN反馈对星形成抑制的量化。 <div>
 In this manuscript, clues are provided to support globally negative active galactic nuclei (AGN) feedback on star formation in the host galaxies of the local low-redshift Sloan Digital Sky Survey (SDSS) Type 2 AGN, based on the different dependence of narrow Hα line luminosity LHα on optical continuum luminosity λLcont between star-forming galaxies and Type 2 AGN. Through the measured LHα and λLcont in SDSS star-forming galaxies, there is a strong linear correlation between λLcont and LHα, accepted as a standard correlation without the effects of AGN activity. Meanwhile, considering the apparent contribution of AGN activity to the narrow Hα line emissions in Type 2 AGN, the correlation between λLcont and LHα in the SDSS Type 2 AGN leads to a statistically lower LHα in Type 2 AGN than in star-forming galaxies, with a significance level higher than 5σ, even after considering necessary effects (including effects of host galaxy properties), leading to the accepted conclusion on the globally negative AGN feedback in the local Type 2 AGN. Meanwhile, the properties of Dn(4000) and HδA can provide indirect clues to support the globally negative AGN feedback in local Type 2 AGN, due to older stellar ages in Type 2 AGN. Moreover, it is interesting to expect more than 50% narrow Hα emissions globally suppressed in the host galaxies of Type 2 AGN relative to the star-forming galaxies. The results not only support globally negative AGN feedback in local Type 2 AGN, but also show further clues on the quantification of suppressions of star formation by the globally negative AGN feedback.
 ]]></content:encoded>
-
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad251d</link>
