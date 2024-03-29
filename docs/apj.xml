@@ -4,6 +4,276 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>SN 2022joj: A Potential Double Detonation with a Thin Helium Shell</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad19c9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad19c9</guid>
+<content:encoded><![CDATA[
+<div> SN 2022joj, Type Ia supernova, fast decline, red colors, double detonation model<br>
+<br>SN 2022joj 是一颗附近的特殊Ia型超新星，其快速衰减率(Δm15，B = 1.4 mag)。初期表现为极端红色，随后出现蓝移的光谱特性，最终逐渐趋向典型SNe Ia。根据观测结果，SN 2022joj与白矮星质量约1 M⊙和0.01至0.05 M⊙之间的薄He壳层的双重爆炸模型有较强的一致性。此外，该超新星的星云光谱与预期的双重爆炸模型有所偏差，产生了强烈的[Fe iii]发射。然而，随着He壳层变薄，这些超新星开始变得更像典型的SNe Ia，这引发了触发大多数SNe Ia的可能机制，并且强调了观测超新星的早期重要性。 <br><br>总结:  SN 2022joj 是一颗特殊的Ia型超新星，其具有快速衰减率和异常的红色光谱特性。观测结果与双重爆炸模型相吻合，但星云光谱与预期有所偏差，这可能暗示了触发大多数SNe Ia的机制并强调了早期观测的重要性。 <div>
+We present photometric and spectroscopic data for SN 2022joj, a nearby peculiar Type Ia supernova (SN Ia) with a fast decline rate (Δm15,B = 1.4 mag). SN 2022joj shows exceedingly red colors, with a value of approximately B − V ≈ 1.1 mag during its initial stages, beginning from 11 days before maximum brightness. As it evolves, the flux shifts toward the blue end of the spectrum, approaching B − V ≈ 0 mag around maximum light. Furthermore, at maximum light and beyond, the photometry is consistent with that of typical SNe Ia. This unusual behavior extends to its spectral characteristics, which initially displayed a red spectrum and later evolved to exhibit greater consistency with typical SNe Ia. Spectroscopically, we find strong agreement between SN 2022joj and double detonation models with white dwarf masses of around 1 M⊙ and a thin He shell between 0.01 and 0.05 M⊙. Moreover, the early red colors are explained by line-blanketing absorption from iron peak elements created by the double detonation scenario in similar mass ranges. The nebular spectra in SN 2022joj deviate from expectations for double detonation, as we observe strong [Fe iii] emission instead of [Ca ii] lines as anticipated, though this is not as robust a prediction as early red colors and spectra. The fact that as He shells get thinner these SNe start to look more like normal SNe Ia raises the possibility that this is the triggering mechanism for the majority of SNe Ia, though evidence would be missed if the SNe are not observed early enough.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Probing the Diversity of Type Ia Supernova Light Curves in the Open Supernova Catalog</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b5a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b5a</guid>
+<content:encoded><![CDATA[
+<div> SNe Ia, population studies, autoencoder neural network, latent variables, SN light curves
+<br><br>
+1. 研究利用观测到的超新星样本进行超新星种群研究。
+2. 使用自编码器神经网络开发了低维数据表示，提供了超新星光度曲线多样性的紧凑表示。
+3. 发现其中一个潜变量与红移强相关，可以近似“去红移”描述每个事件的其他潜变量。
+4. 发现三个潜变量解释了样本方差的约95％，并在SNe 91T和SNe 91bg之间提供了自然分离。
+5. 确定了最能区分SNe 91T和SNe 91bg / 02cx的SN光度曲线的物理特征，并讨论了未来的改进和其他超新星类别以及其他瞬变现象的应用前景。
+<br><br>总结:
+该研究利用观测到的超新星样本进行了超新星种群研究，使用自编码器神经网络开发了低维数据表示，发现了能够分离不同超新星类型的潜变量，并确定了最能区分不同类型超新星的物理特征。未来可以应用到其他超新星类别和其他瞬变现象的研究中。 <div>
+The ever-growing sample of observed supernovae (SNe) enhances our capacity for comprehensive SN population studies, providing a richer data set for understanding the diverse characteristics of Type Ia supernovae (SNe Ia) and possibly those of their progenitors. Here, we present a data-driven analysis of observed SN Ia photometric light curves collected in the Open Supernova Catalog. Where available, we add the environmental information from the host galaxy. We focus on identifying subclasses of SNe Ia without imposing the predefined subclasses found in the literature to date. To do so, we employ an implicit rank-minimizing autoencoder neural network for developing low-dimensional data representations, providing a compact representation of the SN light-curve diversity. When we analyze light curves alone, we find that one of our resulting latent variables is strongly correlated with redshift, allowing us to approximately “de-redshift” the other latent variables describing each event. After doing so, we find that three of our latent variables account for ∼95% of the variance in our sample, and provide a natural separation between 91T and 91bg thermonuclear SNe. Of note, the 02cx subclass is not unambiguously delineated from the 91bg sample in our results, nor do either the overluminous 91T or the underluminous 91bg/02cx samples form a clearly distinct population from the broader sample of “other” SN Ia events. We identify the physical characteristics of SN light curves that best distinguish SNe 91T from SNe 91bg and 02cx, and discuss prospects for future refinements and applications to other classes of SNe as well as other transients.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Cosmology and Astrophysics with Standard Sirens and Galaxy Catalogs in View of Future Gravitational Wave Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad20eb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad20eb</guid>
+<content:encoded><![CDATA[
+<div> GW detections, galaxy redshift surveys, CHIMERA, cosmological parameters, GW population parameters
+<br><br>总结:
+本研究探讨了引力波和星系调查之间的协同作用，以共同限制宇宙学和引力波种群参数。研究引入了CHIMERA，这是一种新颖的引力波宇宙学代码，结合了紧凑双子融合体的种群特性和星系目录的信息。研究发现，在LIGO-Virgo-KAGRA O4和O5观测运行的代表性情景中，利用光谱或光度红移测量的星系目录，可以实现对H0的百分之一级测量。此外，文章还强调了未来获得光谱星系目录的重要性，以最大化引力波宇宙学的科学收益。 <div>
+With the growing number of gravitational wave (GW) detections and the advent of large galaxy redshift surveys, a new era in cosmology is emerging. This study explores the synergies between GWs and galaxy surveys to jointly constrain cosmological and GW population parameters. We introduce CHIMERA, a novel code for GW cosmology combining information from the population properties of compact binary mergers and galaxy catalogs. We study constraints for scenarios representative of the LIGO-Virgo-KAGRA O4 and O5 observing runs, assuming to have a complete catalog of potential host galaxies with either spectroscopic or photometric redshift measurements. We find that a percent-level measurement of H0 could be achieved with the best 100 binary black holes (BBHs) in O5 using a spectroscopic galaxy catalog. In this case, the intrinsic correlation that exists between H0 and the BBH population mass scales is broken. Instead, by using a photometric catalog the accuracy is degraded up to a factor of ∼9, leaving a significant correlation between H0 and the mass scales that must be carefully modeled to avoid bias. Interestingly, we find that using spectroscopic redshift measurements in the O4 configuration yields a better constraint on H0 compared to the O5 configuration with photometric measurements. In view of the wealth of GW data that will be available in the future, we argue the importance of obtaining spectroscopic galaxy catalogs to maximize the scientific return of GW cosmology.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24d2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24d2</guid>
+<content:encoded><![CDATA[
+<div> PDS 70, massive planets, protoplanetary disk, CO isotopologue, gas structure
+
+PDS 70是一个拥有两颗质量巨大的行星的原行星盘，其倾斜的盘面结构为直接探测行星盘垂直气体结构提供了独特的机会。采用高空间分辨率观测了一系列CO同位素线和HCO+J = 4−3，从盘面气体结构(由12CO描绘)到接近盘面(由含量较少的同位素和HCO+描绘)绘制了完整的二维（r，z）盘面结构。在PDS 70盘面上，12CO追踪高度z/r约为0.3，13CO位于z/r约为0.1，C18O起源于盘面或附近。HCO+的表面出现在z/r约为0.2，是为数不多的在盘上得到高保真度约束的非CO发射表面之一。在12CO J = 3−2线中，我们解析了一个在空洞壁上高度的垂直下降和急剧上升，使得PDS 70成为第一个直接在发射线高度上看到这种效应的过渡盘。在外盘中，PDS 70的CO发射高度似乎对其恒星质量和盘尺寸来说是典型的，并且并不受到两个内部嵌入的行星的实质性改变。通过结合CO同位素和HCO+线，我们得出了二维气体温度结构，并估算出一个约为56-85天文单位的盘面CO雪线。这意味着PDS 70b和70c都位于CO雪线内部，并且很可能正在吸积具有高C/O比约为1.0的气体，这为未来从JWST（詹姆斯·韦伯太空望远镜）等方面测量行星大气和正确地建模它们的形成历史提供了背景。 <br><br>总结: PDS 70拥有两颗质量巨大的行星而且其盘面结构倾斜，通过CO同位素和HCO+线观测得出了该行星盘的二维气体温度结构，估算出了盘面CO雪线的位置，在盘中心拥有高C/O比的气体，这为未来行星大气测量和形成历史建模提供了重要背景。 <div>
+PDS 70 hosts two massive, still-accreting planets and the inclined orientation of its protoplanetary disk presents a unique opportunity to directly probe the vertical gas structure of a planet-hosting disk. Here, we use high-spatial-resolution (≈0.″1; 10 au) observations in a set of CO isotopologue lines and HCO+J = 4−3 to map the full 2D (r, z) disk structure from the disk atmosphere, as traced by 12CO, to closer to the midplane, as probed by less abundant isotopologues and HCO+. In the PDS 70 disk, 12CO traces a height of z/r ≈ 0.3, 13CO is found at z/r ≈ 0.1, and C18O originates at, or near, the midplane. The HCO+ surface arises from z/r ≈ 0.2 and is one of the few non-CO emission surfaces constrained with high-fidelity in disks to date. In the 12CO J = 3−2 line, we resolve a vertical dip and steep rise in height at the cavity wall, making PDS 70 the first transition disk where this effect is directly seen in line-emitting heights. In the outer disk, the CO emission heights of PDS 70 appear typical for its stellar mass and disk size and are not substantially altered by the two inner embedded planets. By combining CO isotopologue and HCO+ lines, we derive the 2D gas temperature structure and estimate a midplane CO snowline of ≈ 56–85 au. This implies that both PDS 70b and 70c are located interior to the CO snowline and are likely accreting gas with a high C/O ratio of ≈ 1.0, which provides context for future planetary atmospheric measurements from, e.g., JWST, and for properly modeling their formation histories.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Multiwavelength Study of the Hard and Soft States of MAXI J1820+070 During Its 2018 Outburst</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24ef</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24ef</guid>
+<content:encoded><![CDATA[
+<div> AstroSat, MAXI J1820+070 outburst, multiwavelength spectral analysis, BH spin parameter, hard state optical/UV excess
+<br>
+<br>
+MAXI J1820+070在2018年爆发期间进行了多波段光谱分析，利用AstroSat远紫外、软X射线和硬X射线数据，以及Las Cumbres Observatory和NICER的（准）同时光学和X射线数据。在软态中，研究发现软X射线和UV/光学存在过量成分，而硬态中光学/UV也有显著过量成分，表明外圆盘中存在更强的重新辐射。通过具体的光谱拟合，确定了BH自旋参数以及盘的密度和内盘结构。硬态中还观察到了两个成分的冕，并分析了它们所产生的反射特征。<br><br>总结: <div>
+We present a comprehensive multiwavelength spectral analysis of the black hole (BH) X-ray binary MAXI J1820+070 during its 2018 outburst, utilizing AstroSat far-UV, soft X-ray, and hard X-ray data, along with (quasi-)simultaneous optical and X-ray data from the Las Cumbres Observatory and NICER, respectively. In the soft state, we detect soft X-ray and UV/optical excess components over and above the intrinsic accretion disk emission (kTin ∼ 0.58 keV) and a steep X-ray power-law component. The soft X-ray excess is consistent with a high-temperature blackbody (kT ∼ 0.79 keV), while the UV/optical excess is described by UV emission lines and two low-temperature blackbody components (kT ∼ 3.87 and ∼0.75 eV). Employing continuum spectral fitting, we determine the BH spin parameter (a = 0.77 ± 0.21), using the jet inclination angle of 64° ± 5° and a mass spanning 5–10 M☉. In the hard state (HS), we observe a significantly enhanced optical/UV excess component, indicating a stronger reprocessed emission in the outer disk. Broadband X-ray spectroscopy in the HS reveals a two-component corona, each associated with its reflection component, in addition to the disk emission (kTin ∼ 0.19 keV). The softer coronal component dominates the bolometric X-ray luminosity and produces broader relativistic reflection features, while the harder component gets reflected far from the inner disk, yielding narrow reflection features. Furthermore, our analysis in the HS suggests a substantial truncation of the inner disk (≳51 gravitational radii) and a high disk density (∼1020 cm−3).
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Size–Stellar Mass Relation and Morphology of Quiescent Galaxies at z ≥ 3 in Public JWST Fields</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2512</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2512</guid>
+<content:encoded><![CDATA[
+<div> quiescent galaxies, JWST, size, stellar mass, redshift
+总结:
+本研究利用James Webb太空望远镜(NIRCam)对z ≥ 3的静止星系的光学形态进行了系统研究。通过UVJ颜色或NUVUVJ颜色选择样本，重点关注了26个zphot介于2.8和4.6之间的静止星系，利用NIRCam图像拟合Sérsic模型约束它们的大小。我们发现观测波长与大小之间呈负相关，并通过多波段的大小测量推导了它们在0.5微米处的大小。在z ≥ 3时期，我们的静止星系表现出了在0.5微米处的大小与恒星质量之间显著的相关性。我们的分析结果显示，相较于较低红移时期，我们的大小-恒星质量关系较低，当M⋆ = 5 × 1010M⊙时振幅约为0.6千秒差距。样本主要包括具有类似球状结构的星系，其平均Sérsic指数和轴比分别约为n ∼ 3-4和q ∼ 0.6-0.8。另一方面，我们观察到低Sérsic指数星系的比例随着红移的增加而增加，这表明3 < z < 5可能是形态转变开始的时期，出现了一定比例的非常明显的扁盘状已停止形成星系。 <div>
+We present the results of a systematic study of the rest-frame optical morphology of quiescent galaxies at z ≥ 3 using the Near-Infrared Camera (NIRCam) on board the James Webb Space Telescope (JWST). Based on a sample selected by UVJ color or NUVUVJ color, we focus on 26 quiescent galaxies with at 2.8 < zphot < 4.6 with publicly available JWST data. Their sizes are constrained by fitting the Sérsic profile to all available NIRCam images. We see a negative correlation between the observed wavelength and the size and derive their size at the rest frame 0.5 μm using size measurements in multiple bands. Our quiescent galaxies show a significant correlation between the rest-frame 0.5 μm size and the stellar mass at z ≥ 3. The analytical fit for them at implies that our size–stellar mass relations are below those at lower redshifts, with the amplitude of ∼0.6 kpc at M⋆ = 5 × 1010M⊙. This value agrees with the extrapolation of the size evolution of quiescent galaxies at z < 3 in the literature, implying that the size of quiescent galaxies increases monotonically from z ∼ 3–5. Our sample mainly comprises galaxies with bulge-like structures according to their median Sérsic index and axis ratio of n ∼ 3–4 and q ∼ 0.6–0.8, respectively. On the other hand, there is a trend of increasing fraction of galaxies with low Sérsic index at higher redshift, suggesting 3 < z < 5 might be the epoch of onset of morphological transformation with a fraction of very notable disky quenched galaxies.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Assessing the Performance of the ADAPT and AFT Flux Transport Models Using In Situ Measurements from Multiple Satellites</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25f1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25f1</guid>
+<content:encoded><![CDATA[
+<div> Parker Solar Probe, Solar Orbiter, solar wind studies, magnetohydrodynamic simulations, photospheric magnetic field map
+<br><br>
+这篇文章介绍了Parker Solar Probe和Solar Orbiter的发射，以及它们在太阳风研究中的作用。通过使用数据驱动的磁流体力学模拟，评估了两种模型在模拟地球、SolO和Parker位置的太阳风特性的准确度。研究发现，两种模型在Parker位置的表现相当好，但在SolO和地球位置的表现不佳。最后，文章还追踪了SolO位置的场线，发现了与Hinode/EIS观测结果相符的活跃区出流迹象。总的来说，该研究结果显示AFT和ADAPT模型在各种位置的表现相似，并且与纯粹的WSA模型相当。 
+<br>总结: Parker Solar Probe和Solar Orbiter的数据被用于进行太阳风模拟研究，结果显示AFT和ADAPT模型在不同位置的太阳风特性模拟效果相似，但在SolO和地球位置需要改进。另外，研究追踪了SolO位置的场线，发现了活跃区出流迹象。 <div>
+The launches of Parker Solar Probe (Parker) and Solar Orbiter (SolO) are enabling a new era of solar wind studies that track the solar wind from its origin at the photosphere, through the corona, to multiple vantage points in the inner heliosphere. A key ingredient for these models is the input photospheric magnetic field map that provides the boundary condition for the coronal portion of many heliospheric models. In this paper, we perform steady-state, data-driven magnetohydrodynamic (MHD) simulations of the solar wind during Carrington rotation 2258 with the Grid GAMERA model. We use the ADAPT and AFT flux transport models and quantitatively assess how well each model matches in situ measurements from Parker, SolO, and Earth. We find that both models reproduce the magnetic field components at Parker quantitatively well. At SolO and Earth, the magnetic field is reproduced relatively well, though not as well as at Parker, and the density is reproduced extremely poorly. The velocity is overpredicted at Parker, but not at SolO or Earth, hinting that the Wang–Sheeley–Arge (WSA) relation, fine-tuned for Earth, misses the deceleration of the solar wind near the Sun. We conclude that AFT performs quantitatively similarly to ADAPT in all cases, and that both models are comparable to a purely WSA heliospheric treatment with no MHD component. Finally, we trace field lines from SolO back to an active region outflow that was observed by Hinode/EIS, and which shows evidence of elevated charge state ratios.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Merger-driven Growth of Intermediate-mass Black Holes: Constraints from Hubble Space Telescope Imaging of Hyper-luminous X-Ray Sources</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fe</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fe</guid>
+<content:encoded><![CDATA[
+<div> HLXs, extragalactic, X-ray sources, intermediate-mass black holes (IMBHs), Hubble Space Telescope imaging
+<br><br>总结:
+研究团队系统性地建立了HLX候选样本，利用哈勃太空望远镜的成像资料进行了首次统一的HLX恒星核群体研究，得出至少88%的HLX可能是来自外部星系的具有大质量黑洞的情况。50%的样本通过HST成像揭示了将HLX与宿主星系连接起来的特征，强烈表明这些情况并非背景/前景的污染可能性。根据活跃星系核的质量比例关系，估计29%的污染率后，我们的样本中多达60%可能与IMBH相关。与已知的HLX类似，X射线亮度相对于其恒星核质量系统性升高，可能是因为合并驱动的吸积率增强。最小质量的恒星核更可能出现在更大的核偏移处，并更可能在宿主星系的晕中漂泊。HLX的星系占据率约为10^-2，并且与质量呈强烈的反比关系。多达12%的HLX候选情况可能与球状星团内形成或异常亮X射线双星情况一致。 <div>
+Hyper-luminous X-ray sources (HLXs) are extragalactic off-nuclear X-ray sources with luminosities exceeding the theoretical limit for accretion onto stellar-mass compact objects. Many HLXs may represent intermediate-mass black holes (IMBHs) deposited in galaxy halos through mergers, and the properties of the stellar cores surrounding HLXs provide powerful constraints on this scenario. Therefore, we have systematically built the largest sample of HLX candidates with archival Hubble Space Telescope (HST) imaging (24) for the first uniform population study of HLX stellar cores down to low masses. Based on their host galaxy redshifts, at least 21 (88%) have stellar core masses ≥ 107M⊙ and hence are consistent with accretion onto massive black holes from external galaxies. In 50% of the sample, the HST imaging reveals features connecting the HLXs with their host galaxies, strongly suggesting against the background/foreground contaminant possibility in these cases. Assuming a mass scaling relation for active galactic nuclei and accounting for an estimated contamination fraction of 29%, up to ∼60% of our sample may be associated with IMBHs. Similar to previously known HLXs, the X-ray luminosities are systematically elevated relative to their stellar core masses, possibly from merger-driven accretion rate enhancements. The least massive stellar cores are preferentially found at larger nuclear offsets and are more likely to remain wandering in their host galaxy halos. The HLX galaxy occupation fraction is ∼ 10−2 and has a strong inverse mass dependence. Up to three of the HLX candidates (12%) are potentially consistent with formation within globular clusters or with exceptionally luminous X-ray binaries.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Helium-deficient ER UMa-type Dwarf Nova below the Period Minimum with a Hot Secondary</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25ff</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25ff</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 矮新星, KSP-OT-201712a, 星际爆发, 光谱分析, 系统演化
+
+总结: 
+KSP-OT-201712a是一颗特殊的矮新星，表现出在停滞期间的爆发现象，具有罕见的双峰Hα发射线和弱He I发射线。该系统的次星温度高达4570K，表明它开始质量传递时约为主序星寿命的93%。由此推测该系统随着质量传递的进化将发生巨大的质量转移。最终，在氢包层耗尽之前，将演化成为氦新星或AM CVn系统，甚至在演化的终点会爆发成为Ia型超新星。  <br><br> <div>
+We present the discovery of a peculiar dwarf nova KSP-OT-201712a using high-cadence, multicolor observations made with the Korea Microlensing Telescope Network. KSP-OT-201712a exhibits a rare presence of outbursts during standstills, as well as strong Hα emission for a dwarf nova below the period minimum with an orbital period of 58.75 ± 0.02 minutes. The outburst cycles are ∼6.6 days within standstills but increase to ∼15 days outside of them. Both B − V and V − I colors become bluer and redder as the outburst luminosities increase and decrease, respectively, for the outburst within standstill, while they evolve in the opposite directions outside of the standstills. The presence of strong double-peaked Hα and weak He i emission lines with He/H flux ratio of 0.27, together with absorption lines of Mg b and Na D in the source, leads to the estimation Teff ≃ 4570 ± 40 K, [Fe/H] ≃ 0.06 ± 0.15 dex, and log g ≃ 4.5 ± 0.1 for its secondary. KSP-OT-201712a is the second He-deficient dwarf nova below the period minimum, while the temperature of the secondary is measured for the first time in such objects. We identify it to be an ER UMa-type dwarf nova, suggesting that the evolution of dwarf novae across the period minimum is accompanied by large mass transfers. The high temperature of the secondary indicates that the system started its mass transfer when the secondary was about 93% of its main-sequence age. The system will evolve to a helium cataclysmic variable or to AM CVn once its hydrogen envelope is exhausted before it explodes as a Type Ia supernova.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mapping the Growth of Supermassive Black Holes as a Function of Galaxy Stellar Mass and Redshift</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27cc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27cc</guid>
+<content:encoded><![CDATA[
+<div> AGN, 红移, 星系, 超大质量黑洞, X射线
+
+超大质量黑洞的增长与它们所在星系的关系密切。研究表明，黑洞的平均吸积率主要与星系的恒星质量和红移相关。本研究旨在提供关于吸积率与恒星质量、红移的最佳测量值。使用九个高质量调查区域的8000个活动星系核和130万个普通星系的前所未有的大样本，采用半参数贝叶斯方法合理估计吸积率和相应的不确定性。吸积率通过X射线调查和波长覆盖紫外到红外的多波段调查来约束。我们的结果可以独立地从星系恒星质量函数预测X射线光度函数，并且预测与观测到的X射线光度函数一致。我们还尝试从观测到的星系恒星质量函数和X射线光度函数中添加外部约束。我们进一步测量了星系中星体形成和静止的吸积率，并表明星体形成的吸积率通常大于或至少与静止的吸积率相当。<br><br>总结：超大质量黑洞的增长与它们所在星系的关系密切，吸积率主要与星系的恒星质量和红移相关。使用大样本和先进方法估计了吸积率和不确定性。结果可以预测X射线光度函数，并与观测结果一致。此外，还测量了星体形成和静止星系的吸积率。 <div>
+The growth of supermassive black holes is strongly linked to their galaxies. It has been shown that the population mean black hole accretion rate ( ) primarily correlates with the galaxy stellar mass (M⋆) and redshift for the general galaxy population. This work aims to provide the best measurements of as a function of M⋆ and redshift over ranges of 109.5 < M⋆ < 1012M⊙ and z < 4. We compile an unprecedentedly large sample with 8000 active galactic nuclei (AGNs) and 1.3 million normal galaxies from nine high-quality survey fields following a wedding cake design. We further develop a semiparametric Bayesian method that can reasonably estimate and the corresponding uncertainties, even for sparsely populated regions in the parameter space. is constrained by X-ray surveys sampling the AGN accretion power and UV-to-infrared multiwavelength surveys sampling the galaxy population. Our results can independently predict the X-ray luminosity function (XLF) from the galaxy stellar mass function (SMF), and the prediction is consistent with the observed XLF. We also try adding external constraints from the observed SMF and XLF. We further measure for star-forming and quiescent galaxies and show that star-forming is generally larger than or at least comparable to the quiescent .
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Spectroscopic Identification and Photochemistry of Astrochemically Relevant Phosphorus-bearing Molecules [O, C, N, P] and [2O, C, N, P]</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2846</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2846</guid>
+<content:encoded><![CDATA[
+
+Diatomic molecules phosphorus monoxide (PO) and phosphorus mononitride (PN) are the main reservoirs of gas-phase phosphorus in interstellar and circumstellar environments, indicating the possibility of forming new phosphorus-bearing molecules through reactions with other interstellar species. To explore the astrochemistry of PO and PN, new simple phosphorus-bearing molecules [O, C, N, P] and [2O, C, N, P] were generated in the gas phase and isolated in cryogenic matrices for characterization with matrix-isolation IR and UV/vis spectroscopy in combination with calculations at the CCSD(T)-F12a/VTZ-F12 level of theory. In an inert argon matrix, OPCN isomerizes to OPNC upon UV-light irradiation at 365 nm, followed by successive isomerizations to PNCO and POCN with concomitant dissociation to diatomic PN and CO under further irradiation at 193 nm. By analogy, the isomerization of O2PCN to O2PNC and OPNCO followed by fragmentation to OPN/CO and PN/CO2 occurs in the matrix upon irradiation at 193 nm. In a chemically active CO ice, the photolytic reaction of OPCN with CO yields CO2 and PCN, and O2PCN reacts with CO by forming OPCN and CO2, in which the photochemical networks for these P-bearing species linking the astrochemically important PN and PO have been proposed. The experimental identification of these phosphorus-bearing molecules is supported by quantum chemical calculations, and the spectroscopic data may aid in their detection in the interstellar and circumstellar medium.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multiple Peaks and a Long Precursor in the Type IIn Supernova 2021qqp: An Energetic Explosion in a Complex Circumstellar Environment</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2854</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2854</guid>
+<content:encoded><![CDATA[
+
+We present optical photometry and spectroscopy of the Type IIn supernova (SN) 2021qqp. Its unusual light curve is marked by a long precursor for ≈300 days, a rapid increase in brightness for ≈60 days, and then a sharp increase of ≈1.6 mag in only a few days to a first peak of Mr ≈ −19.5 mag. The light curve then declines rapidly until it rebrightens to a second distinct peak of Mr ≈ −17.3 mag centered at ≈335 days after the first peak. The spectra are dominated by Balmer lines with a complex morphology, including a narrow component with a width of ≈1300 km s−1 (first peak) and ≈2500 km s−1 (second peak) that we associate with the circumstellar medium (CSM) and a P Cygni component with an absorption velocity of ≈8500 km s−1 (first peak) and ≈5600 km s−1 (second peak) that we associate with the SN–CSM interaction shell. Using the luminosity and velocity evolution, we construct a flexible analytical model, finding two significant mass-loss episodes with peak mass loss rates of ≈10 and ≈5 M⊙ yr−1 about 0.8 and 2 yr before explosion, respectively, with a total CSM mass of ≈2–4 M⊙. We show that the most recent mass-loss episode could explain the precursor for the year preceding the explosion. The SN ejecta mass is constrained to be ≈5–30 M⊙ for an explosion energy of ≈(3–10) × 1051 erg. We discuss eruptive massive stars (luminous blue variable, pulsational pair instability) and an extreme stellar merger with a compact object as possible progenitor channels.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Contribution of γ-Ray Burst Afterglow Emissions to the Isotropic Diffuse γ-Ray Background</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad28be</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28be</guid>
+<content:encoded><![CDATA[
+
+The isotropic diffuse γ-ray background (IGRB) serves as a fundamental probe of the evolution of the extreme Universe. Although various astrophysical sources have been proposed as potential contributors to the IGRB, the dominant population is still under debate. γ-ray bursts (GRBs) are among candidate contributors of IGRB, although they are not as frequently discussed as blazars or starburst galaxies. Recent observations of TeV emission from GRB afterglows have provided fresh insights into this subject. This work aims to investigate the potential contribution of GRB afterglows to the IGRB under the standard afterglow model. We carefully examine the influence of each microphysical parameter of the afterglow model on this contribution, with a particular emphasis on the significant role played by the initial kinematic energy. To determine the energy and quantify the contribution of GRB afterglow to IGRBs, we utilize the observed GRB afterglow energy emissions from the Swift X-ray Telescope and Fermi Large Area Telescope instruments. Our calculations, considering the synchrotron self-Compton emission, suggest that GRB afterglows make up less than 10% of the IGRBs. To enhance the precision of our findings, it is crucial to further constrain these parameters by conducting additional ground-based observations of GRB afterglows.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Suprathermal Electron Transport in the Solar Wind: Effects of Coulomb Collisions and Whistler Turbulence</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c3</guid>
+<content:encoded><![CDATA[
+
+The nature and radial evolution of solar wind electrons in the suprathermal energy range are studied. A wave–particle interaction tensor and a Fokker–Planck Coulomb collision operator are introduced into the kinetic transport equation describing electron collisions and resonant interactions with whistler waves. The diffusion tensor includes diagonal and off-diagonal terms, and the Coulomb collision operator applies to arbitrary electron velocities describing collisions with both background protons and electrons. The background proton and electron densities and temperatures are based on previous turbulence models that mediate the supersonic solar wind. The electron velocity distribution functions and electron heat flux are calculated. Comparison and analysis of the numerical results with analytical solutions and observations in the near-Sun region are made. The numerical results reproduce well the creation of the sunward electron deficit observed in the near-Sun region. The deficit of the electron velocity distribution function below the core Maxwellian fit at low velocities results from Coulomb collisions, and the excess part above the core Maxwellian fit at high velocities is determined by strong wave–particle interactions.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An Unusual Pulse Shape Change Event in PSR J1713+0747 Observed with the Green Bank Telescope and CHIME</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2930</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2930</guid>
+<content:encoded><![CDATA[
+
+The millisecond pulsar J1713+0747 underwent a sudden and significant pulse shape change between 2021 April 16 and 17 (MJDs 59320 and 59321). Subsequently, the pulse shape gradually recovered over the course of several months. We report the results of continued multifrequency radio observations of the pulsar made using the Canadian Hydrogen Intensity Mapping Experiment and the 100 m Green Bank Telescope in a 3 yr period encompassing the shape change event, between 2020 February and 2023 February. As of 2023 February, the pulse shape had returned to a state similar to that seen before the event, but with measurable changes remaining. The amplitude of the shape change and the accompanying time-of-arrival residuals display a strong nonmonotonic dependence on radio frequency, demonstrating that the event is neither a glitch (the effects of which should be independent of radio frequency, ν) nor a change in dispersion measure alone (which would produce a delay proportional to ν−2). However, it does bear some resemblance to the two previous “chromatic timing events” observed in J1713+0747, as well as to a similar event observed in PSR J1643−1224 in 2015.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Velocity Dispersions of Quiescent Galaxies in IllustrisTNG</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c0a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c0a</guid>
+<content:encoded><![CDATA[
+
+We examine the central stellar velocity dispersion of subhalos based on IllustrisTNG cosmological hydrodynamic simulations. The central velocity dispersion is a fundamental observable that links galaxies with their dark matter subhalos. We carefully explore simulated stellar velocity dispersions derived with different definitions to assess possible systematics. We explore the impact of variation in the identification of member stellar particles, the viewing axes, the velocity dispersion computation technique, and simulation resolution. None of these issues impact the velocity dispersion significantly; any systematic uncertainties are smaller than the random error. We examine the stellar mass–velocity dispersion relation as an observational test of the simulations. At fixed stellar mass, the observed velocity dispersions significantly exceed the simulation results. This discrepancy is an interesting benchmark for the IllustrisTNG simulations because the simulations are not explicitly tuned to match this relation. We demonstrate that the stellar velocity dispersion provides measures of the dark matter velocity dispersion and the dark matter subhalo mass.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Measurement of the Assembly of Milky Way Analogs at Redshifts 0.5 < z < 2 with Resolved Stellar Mass and Star Formation Rate Profiles</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c90</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c90</guid>
+<content:encoded><![CDATA[
+
+The resolved mass assembly of Milky Way–mass galaxies has been previously studied in simulations, the local Universe, and at higher redshifts using infrared (IR) light profiles. To better characterize the mass assembly of Milky Way analogs (MWAs), as well as their changes in star formation rate (SFR) and color gradients, we construct resolved stellar mass and SFR maps of MWA progenitors selected with abundance matching techniques up to z ∼2 using deep, multiwavelength imaging data from the Hubble Frontier Fields. Our results using stellar mass profiles agree well with previous studies that utilize IR light profiles, showing that the inner 2 kpc of the galaxies and the regions beyond 2 kpc exhibit similar rates of stellar mass growth. This indicates the progenitors of MWAs from z ∼ 2 to the present do not preferentially grow their bulges or their disks. The evolution of the SFR profiles indicates a greater decrease in SFR density in the inner regions versus the outer regions. Sérsic parameters indicate modest growth in the central regions at lower redshifts, perhaps indicating slight bulge growth. However, the Sérsic index does not rise above n ∼ 2 until z < 0.5, meaning these galaxies are still disk-dominated systems. We find that the half-mass radii of the MWA progenitors increase between 1.5 < z < 2, but remain constant at later epochs (z < 1.5). This implies mild bulge growth since z ∼ 2 in MWA progenitors, in line with previous MWA mass assembly studies.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Study of the Radio Spectrum of Mrk 421</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c91</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c91</guid>
+<content:encoded><![CDATA[
+
+We present the results of a spectral analysis using simultaneous multifrequency (22, 43, 86, and 129 GHz) very long baseline interferometry (VLBI) observations of the Korean VLBI Network on BL Lac object, Markarian 421. The data we used were obtained from 2013 January to 2018 June. The light curves showed several flux enhancements with global decreases. To separate the variable and quiescent components in the multifrequency light curves for milliarcsecond-scale emission regions, we assumed that the quiescent radiation comes from the emission regions radiating constant optically thin synchrotron emissions (i.e., a minimum flux density with an optically thin spectral index). The quiescent spectrum determined from the multifrequency light curves was subtracted from the total CLEAN flux density, yielding a variable component in the flux that produces the time-dependent spectrum. We found that the observed spectra were flat at 22–43 GHz, and relatively steep at 43–86 GHz, whereas the quiescent-corrected spectra are sometimes quite different from the observed spectra (e.g., sometimes inverted at 22–43 GHz). The quiescent-corrected spectral indices were much more variable than the observed spectral indices. This spectral investigation implies that the quiescent-spectrum correction can significantly affect the multifrequency spectral index of variable compact radio sources such as blazars. Therefore, the synchrotron self-absorption B-field strength (BSSA) can be significantly affected because BSSA is proportional to the fifth power of turnover frequency.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Impact of Overlapping Signals on Parameterized Post-Newtonian Coefficients in Tests of Gravity</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e00</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e00</guid>
+<content:encoded><![CDATA[
+
+Gravitational waves have been instrumental in providing deep insights into the nature of gravity. Next-generation detectors, such as the Einstein Telescope, are predicted to have a higher detection rate given the increased sensitivity and lower cutoff frequency. However, this increased sensitivity raises challenges concerning parameter estimation due to the foreseeable overlap of signals from multiple sources. Overlapping signals (OSs), if not properly identified, may introduce biases in estimating post-Newtonian (PN) coefficients in parameterized tests of general relativity (GR). We investigate how OSs affect −1PN to 2PN terms in parameterized GR tests, examining their potential to falsely suggest GR deviations. We estimate the prevalence of such misleading signals in next-generation detectors, and their collective influence on GR tests. We compare the effects of OSs on coefficients at different PN orders, concluding that overall the 1PN coefficient suffers the most. Our findings also reveal that while a nonnegligible portion of OSs exhibit biases in PN coefficients that might individually prefer to conclude deviations from GR, collectively, the direction to deviate is random and a statistical combination will still be in favor of GR.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Global Impact of Emerging Internetwork Fields on the Low Solar Atmosphere</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e03</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e03</guid>
+<content:encoded><![CDATA[
+
+Small-scale, newly emerging internetwork (IN) magnetic fields are considered a viable source of energy and mass for the solar chromosphere and possibly the corona. Multiple studies show that single events of flux emergence can indeed locally heat the low solar atmosphere through interactions of the upward propagating magnetic loops and the preexisting ambient field lines. However, the global impact of the newly emerging IN fields on the solar atmosphere is still unknown. In this paper, we study the spatiotemporal evolution of IN bipolar flux features and analyze their impact on the energetics and dynamics of the quiet-Sun atmosphere. We use high-resolution, multiwavelength, coordinated observations obtained with the Interface Region Imaging Spectrograph, Hinode, and the Solar Dynamics Observatory to identify emerging IN magnetic fields and follow their evolution. Our observational results suggest that only the largest IN bipoles are capable of heating locally the low solar atmosphere, while the global contribution of these bipoles appears to be marginal. However, the total number of bipoles detected and their impact estimated in this work is limited by the sensitivity level, spatial resolution, and duration of our observations. To detect smaller and weaker IN fields that would maintain the basal flux, and examine their contribution to the chromospheric heating, we will need higher resolution, higher sensitivity, and longer time series obtained with current and next-generation ground- and space-based telescopes.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Episodic Energy Release during the Main and Post-impulsive Phases of a Solar Flare</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8f</guid>
+<content:encoded><![CDATA[
+
+When and where the magnetic field energy is released and converted in eruptive solar flares remains an outstanding topic in solar physics. To shed light on this question, here we report multiwavelength observations of a C9.4-class eruptive limb flare that occurred on 2017 August 20. The flare, accompanied by a magnetic flux rope eruption and a white light coronal mass ejection, features three post-impulsive X-ray and microwave bursts immediately following its main impulsive phase. For each burst, both microwave and X-ray imaging suggest that the nonthermal electrons are located in the above-the-loop-top region. Interestingly, contrary to many other flares, the peak flux of the three post-impulsive microwave and X-ray bursts shows an increase for later bursts. Spectral analysis reveals that the sources have a hardening spectral index, suggesting a more efficient electron acceleration into the later post-impulsive bursts. We observe a positive correlation between the acceleration of the magnetic flux rope and the nonthermal energy release during the post-impulsive bursts in the same event. Intriguingly, different from some other eruptive events, this correlation does not hold for the main impulse phase of this event, which we interpret as energy release due to the tether-cutting reconnection before the primary flux rope acceleration occurs. In addition, using footpoint brightenings at conjugate flare ribbons, a weakening reconnection guide field is inferred, which may also contribute to the hardening of the nonthermal electrons during the post-impulsive phase.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Accretion Disk Size and Updated Time-delay Measurements in the Gravitationally Lensed Quasar SDSS J165043.44+425149.3</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3069</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3069</guid>
+<content:encoded><![CDATA[
+
+We analyze variability in 15-season optical lightcurves from the doubly imaged lensed quasar SDSS J165043.44+425149.3 (SDSS1650), comprising five seasons of monitoring data from the Maidanak Observatory (277 nights in total, including the two seasons of data previously presented in Vuissoz et al.), five seasons of overlapping data from the Mercator telescope (269 nights), and 12 seasons of monitoring data from the US Naval Observatory, Flagstaff Station at lower cadence (80 nights). We update the 2007 time-delay measurement for SDSS1650 with these new data, finding a time delay of days, with image A leading image B. We analyze the microlensing variability in these lightcurves using a Bayesian Monte Carlo technique to yield measurements of the size of the accretion disk at λrest = 2420 Å, finding a half-light radius of log(r1/2/cm) = assuming a 60° inclination angle. This result is unchanged if we model 30% flux contamination from the broad-line region. We use the width of the Mg ii line in the existing Sloan Digital Sky Survey spectra to estimate the mass of this system’s supermassive black hole, finding MBH = 2.47 × 109M⊙. We confirm that the accretion disk size in this system, whose black hole mass is on the very high end of the MBH scale, is fully consistent with the existing quasar accretion disk size–black hole mass relation.
+]]></content:encoded>
+
+<pubDate>2024-03-29T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-wave Candidates from the Third Gravitational-wave Observing Run</title>
