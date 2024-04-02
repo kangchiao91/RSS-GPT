@@ -4,6 +4,228 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Electron Heating in 2D Particle-in-cell Simulations of Quasi-perpendicular Low-beta Shocks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f69</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f69</guid>
+<content:encoded><![CDATA[
+<div> 电子加热, 离子电子冲击, 电动势跳跃, 离子动能, 磁波
+总结:
+在这篇文章中，研究了在低βp（βp = 0.25）冲击波情况下，通过1D和2D粒子在单元模拟中测量了热电子的能量激发。研究发现，电子加热由双极、B-平行电位跳跃Δϕ∥描述，它与电子温度跳跃大致成线性关系。在模拟中得出的电位跳跃为 -0.2，与之前的测量和模拟结果一致。不考虑离对角线电子压强张量项可能会导致在低βp冲击波中对Δϕ∥的系统低估。此外，研究还关注了两种θBn = 65°的冲击波情况，分别是具有沿B方向的30di鸣波前体的情况和具有倾斜于B的短5di鸣波前体的情况。在鸣波前体中，Δϕ∥随着冲击波朝向呈现出沿多个鸣波波长的逐渐上升，并且在磁场波谷内还具有局部尖峰。对于θBn = 65°的情况的1D模拟显示，Δϕ∥对电子等离子体与回旋频率比值ωpe/Ωce的依赖性较弱，当mi/me增加到真实的质子-电子值1836时，Δϕ∥减少了一倍。 <div>
+We measure the thermal electron energization in 1D and 2D particle-in-cell simulations of quasi-perpendicular, low-beta (βp = 0.25) collisionless ion–electron shocks with mass ratio mi/me = 200, fast Mach number –4, and upstream magnetic field angle θBn = 55°–85° from the shock normal . It is known that shock electron heating is described by an ambipolar, B-parallel electric potential jump, Δϕ∥, that scales roughly linearly with the electron temperature jump. Our simulations have –0.2 in units of the pre-shock ions’ bulk kinetic energy, in agreement with prior measurements and simulations. Different ways to measure ϕ∥, including the use of de Hoffmann–Teller frame fields, agree to tens-of-percent accuracy. Neglecting off-diagonal electron pressure tensor terms can lead to a systematic underestimate of ϕ∥ in our low-βp shocks. We further focus on two θBn = 65° shocks: a ( ) case with a long, 30di precursor of whistler waves along , and a ( ) case with a shorter, 5di precursor of whistlers oblique to both and B; di is the ion skin depth. Within the precursors, ϕ∥ has a secular rise toward the shock along multiple whistler wavelengths and also has localized spikes within magnetic troughs. In a 1D simulation of the , θBn = 65° case, ϕ∥ shows a weak dependence on the electron plasma-to-cyclotron frequency ratio ωpe/Ωce, and ϕ∥ decreases by a factor of 2 as mi/me is raised to the true proton–electron value of 1836.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Ursa Major III/UNIONS 1: The Darkest Galaxy Ever Discovered?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2267</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2267</guid>
+<content:encoded><![CDATA[
+<div> UMa3/U1、暗物质、N-body simulations、LCDM halo、多次观测
+
+UMa3/U1是迄今为止已知的银河系卫星中最微弱的，其质量较小，半光半径为3 ±1 pc。有可能是已发现的最暗淡的星系，或者是围绕银河系轨道上已知最微弱的自引力星团。其视向速度离散性暗示存在暗物质，尽管目前的测量由于未知的潜在双星贡献而不确定。N-body模拟表明，如果是自引力的话，该系统在银河系潮汐场中不可能存活比单次轨道（约0.4 Gyr）更久，这强烈暗示了该系统受到大量暗物质的稳定。如果UMa3/U1在一个约10^9M⊙的线性冷暗物质（LCDM）暗物质晕中形成，则其速度离散度有望预测为大约1 km s^-1。这与目前的估计大致一致，不考虑双星，则将σlos放在1-4 km s^-1的范围内。由于其密集的拱，这样的暗物质晕应该能够在银河系潮汐场中存活下来，使UMa3/U1到目前为止相对完好无损。这意味着UMa3/U1可能是银河系最微弱和最密集的矮星系卫星，对于替代暗物质模型以及LCDM宇宙学中光亮星系形成的最低暗物质晕质量阈值都有重要影响。我们的研究呼吁进行多次高分辨率光谱跟进观测以确认这一非凡系统的暗物质含量。<br><br>总结:UMa3/U1是银河系中最微弱的卫星系统之一，其中可能存在大量暗物质，对于宇宙学和星系形成模型有重要影响。我们需要进行多次观测以确认其暗物质成分。 <div>
+The recently discovered stellar system Ursa Major III/UNIONS 1 (UMa3/U1) is the faintest known Milky Way satellite to date. With a stellar mass of and a half-light radius of 3 ± 1 pc, it is either the darkest galaxy ever discovered or the faintest self-gravitating star cluster known to orbit the Galaxy. Its line-of-sight velocity dispersion suggests the presence of dark matter, although current measurements are inconclusive because of the unknown contribution to the dispersion of potential binary stars. We use N-body simulations to show that, if self-gravitating, the system could not survive in the Milky Way tidal field for much longer than a single orbit (roughly 0.4 Gyr), which strongly suggests that the system is stabilized by the presence of large amounts of dark matter. If UMa3/U1 formed at the center of a ∼109M⊙ cuspy LCDM halo, its velocity dispersion would be predicted to be of order ∼1 km s−1. This is roughly consistent with the current estimate, which, neglecting binaries, places σlos in the range 1–4 km s−1. Because of its dense cusp, such a halo should be able to survive the Milky Way tidal field, keeping UMa3/U1 relatively unscathed until the present time. This implies that UMa3/U1 is plausibly the faintest and densest dwarf galaxy satellite of the Milky Way, with important implications for alternative dark matter models and for the minimum halo mass threshold for luminous galaxy formation in the LCDM cosmology. Our results call for multi-epoch high-resolution spectroscopic follow-up to confirm the dark matter content of this extraordinary system.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Stellar Metallicities and Gradients in the Isolated, Quenched Low-mass Galaxy Tucana</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25ed</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25ed</guid>
+<content:encoded><![CDATA[
+<div> 红巨星分支、金属丰度、Tucana、金属丰度梯度、恒星质量<br>
+<br>总结:
+本研究使用哈勃空间望远镜对孤立、抑制的矮星系Tucana中374颗红巨星分支恒星的金属丰度进行测量。研究发现了Tucana的全局金属丰度分布功能，以及其金属丰度梯度。Tucana的红巨星分支呈现出两个不同的金属丰度分布，与银河系卫星相比，Tucana在固定恒星质量下更为富含金属。此外，约有2%的Tucana恒星的铁丰度低于-3%，而20%的恒星的铁丰度高于-1%。这项研究为社区提供了进行光谱后续观测的目录。 <div>
+We measure the metallicities of 374 red giant branch (RGB) stars in the isolated, quenched dwarf galaxy Tucana using Hubble Space Telescope narrowband (F395N) calcium H and K imaging. Our sample is a factor of ∼7 larger than what is available from previous studies. Our main findings are as follows. (i) A global metallicity distribution function (MDF) with and . (ii) A metallicity gradient of −0.54 ± 0.07 dex (−2.1 ± 0.3 dex kpc−1) over the extent of our imaging (∼2.5 Re), which is steeper than literature measurements. Our finding is consistent with predicted gradients from the publicly available FIRE-2 simulations, in which bursty star formation creates stellar population gradients and dark matter cores. (iii) Tucana’s bifurcated RGB has distinct metallicities: a blue RGB with and and a red RGB with and . (iv) At fixed stellar mass, Tucana is more metal-rich than Milky Way satellites by ∼0.4 dex, but its blue RGB is chemically comparable to the satellites. Tucana’s MDF appears consistent with star-forming isolated dwarfs, though MDFs of the latter are not as well populated. (v) About 2% of Tucana’s stars have [Fe/H] < −3% and 20% have [Fe/H] > −1. We provide a catalog for community spectroscopic follow-up.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling the Reverberation Response of the Broad-line Region in Active Galactic Nuclei</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad26f3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad26f3</guid>
+<content:encoded><![CDATA[
+<div> AGN, continuum emission, broad emission lines, reverberation mapping, Broad Emission Line MApping Code
+<br>
+这篇文章介绍了一种新的前向建模工具——Broad Emission Line MApping Code，该工具可以模拟宽发射线区域对任何给定输入光变曲线的速度分辨的回响响应。通过模拟以母线驱动的大气流的球状BLR和具有开普勒旋转的盘状BLR的一组模型对单个光谱脉冲的速度响应，我们计算了响应加权的时间延迟（反射“滞后”），这被认为是BLR的光度加权半径的代理。我们发现，当云层以各向同性发射并且是辐射为主时（部分电离）时，响应加权的延迟才等价于光度加权的半径。否则，光度加权的半径可能会被高估多达两倍。 
+<br><br>总结: <div>
+The variable continuum emission of an active galactic nucleus (AGN) produces corresponding responses in the broad emission lines, which are modulated by light travel delays, and contain information on the physical properties, structure, and kinematics of the emitting gas region. The reverberation mapping technique, a time series analysis of the driving light curve and response, can recover some of this information, including the size and velocity field of the broad-line region (BLR). Here we introduce a new forward-modeling tool, the Broad Emission Line MApping Code, which simulates the velocity-resolved reverberation response of the BLR to any given input light curve by setting up a 3D ensemble of gas clouds for various specified geometries, velocity fields, and cloud properties. In this work, we present numerical approximations to the transfer function by simulating the velocity-resolved responses to a single continuum pulse for sets of models representing a spherical BLR with a radiatively driven outflow and a disklike BLR with Keplerian rotation. We explore how the structure, velocity field, and other BLR properties affect the transfer function. We calculate the response-weighted time delay (reverberation “lag”), which is considered to be a proxy for the luminosity-weighted radius of the BLR. We investigate the effects of anisotropic cloud emission and matter-bounded (completely ionized) clouds and find the response-weighted delay is only equivalent to the luminosity-weighted radius when clouds emit isotropically and are radiation-bounded (partially ionized). Otherwise, the luminosity-weighted radius can be overestimated by up to a factor of 2.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Reliable Identification of Binary Supermassive Black Holes from Rubin Observatory Time-domain Monitoring</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad276e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad276e</guid>
+<content:encoded><![CDATA[
+<div> Quasars, Binary supermassive black holes, Rubin Observatory Legacy Survey of Space and Time, Periodic signal, False-positive<br>
+总结:<br>
+本研究通过对未来的鲁宾天文台遗产空间与时间调查（LSST）的模拟光变曲线进行分析，预测了二进制超大质量黑洞在这项调查中的可检测性。研究发现，虽然固有变异性可能导致对两个黑洞的干扰，但对于大部分的潜在二进制光变曲线，二进制信号的周期和相位可以被辨别出来。然而，由于赛弗尔星系核的固有变异性，二进制幅度被高估且难以恢复。此外，最亮的赛弗尔星系核模拟光变曲线的假阳性率高达60％。因此，使用光度周期性进行纯电磁探测的二进制样本中将存在大量的假阳性。本研究为了解鲁宾所发现的二进制候选者的真实和假阳性率提供了一种重要且经济的方法。 <div>
+Periodic signatures in time-domain observations of quasars have been used to search for binary supermassive black holes (SMBHs). These searches, across existing time-domain surveys, have produced several hundred candidates. The general stochastic variability of quasars, however, can masquerade as a false-positive periodic signal, especially when monitoring cadence and duration are limited. In this work, we predict the detectability of binary SMBHs in the upcoming Rubin Observatory Legacy Survey of Space and Time (LSST). We apply computationally inexpensive sinusoidal curve fits to millions of simulated LSST Deep Drilling Field light curves of both single, isolated quasars and binary quasars. The period and phase of simulated binary signals can generally be disentangled from quasar variability. Binary amplitude is overestimated and poorly recovered for two-thirds of potential binaries due to quasar accretion variability. Quasars with strong intrinsic variability can obscure a binary signal too much for recovery. We also find that the most luminous quasars mimic current binary candidate light curves and their properties: The false-positive rates are 60% for these quasars. The reliable recovery of binary period and phase for a wide range of input binary LSST light curves is promising for multi-messenger characterization of binary SMBHs. However, pure electromagnetic detections of binaries using photometric periodicity with amplitude greater than 0.1 mag will result in samples that are overwhelmed by false positives. This paper represents an important and computationally inexpensive way forward for understanding the true and false-positive rates for binary candidates identified by Rubin.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The NuSTAR View of Perseus: The Intracluster Medium and a Peculiar Hard Excess</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2838</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2838</guid>
+<content:encoded><![CDATA[
+<div> Perseus, galaxy cluster, X-ray, NuSTAR, AGN
+总结: 
+1. 介绍了Perseus星系团作为X射线天空中最亮的星系团的特点及其对研究星系团内部介质的重要性。
+2. 提到了以前由于NuSTAR点扩散函数的延伸翼和AGN的活跃性使得对Perseus星系团中心附近的弥散辐射的研究几乎不可能进行。
+3. 介绍了新开发的nucrossarf开源软件包，允许对点源和弥散源的贡献进行建模，以便考虑AGN的散射光。
+4. 对使用NuSTAR对Perseus星系团进行的弥散硬X射线（3-25keV）辐射分析的结果进行了概述，发现了超出20keV的约10%的辐射过量。
+5. 讨论了这种过量的潜在起源和影响，并提出了对nucrossarf系统不确定性的表征，这对未来的工作可能有用。 <div>
+As the brightest galaxy cluster in the X-ray sky, Perseus is an excellent target for studying the intracluster medium (ICM), but until recently, its active galactic nucleus (AGN) made studies of the diffuse emission near its center nearly impossible to accomplish with NuSTAR, due to the extended wings of NuSTAR's point-spread function. The development of a new open-source software package—nucrossarf—now allows the contribution from point and diffuse sources to be modeled so that scattered light from the AGN can be accounted for. Using this technique, we present an analysis of diffuse hard X-ray (3–25 keV) emission from the ICM using three archival NuSTAR observations of the Perseus cluster. We find a ∼10% excess of emission beyond 20 keV not describable by purely thermal models. By performing similar analyses of AGNs in archival observations, we have characterized the systematic uncertainty of the modeled AGN contribution to be 3.4%. However, in order to explain the excess, the total scattered AGN emission would have to be 39% stronger than we have measured. We test physical explanations for the excess, such as diffuse inverse-Compton emission potentially originating from the radio mini-halo, but we determine that none of the models are compelling. An upper limit on the inverse-Compton flux (≤1.5 × 10−11 erg s−1 cm−2) and a corresponding lower limit on the global magnetic field strength (≥0.35 μG) are derived. We discuss the potential origin and implications of the excess and present our characterization of the nucrossarf systematic uncertainty, which should be useful for future work.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Molecular Exoskeleton of the Ring-like Planetary Nebula NGC 3132</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2848</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2848</guid>
+<content:encoded><![CDATA[
+<div> NGC 3132, SMA, 星际分子, 双极星云, 分子环<br>
+星际分子的SMA映射显示，NGC 3132的南环主要、明亮的分子丰富环是正在膨胀的环，而不是边缘明亮的壳，这表明NGC 3132是一个基本上面向极点的双极星云。SMA数据还显示星云内存在一个几乎与主要分子环正交的第二个膨胀分子环。作者认为，这种两环结构是星云的椭球分子气体包的遗迹，是原恒星渐近巨星分支演化结束后被一个或多个伴星相互作用形成的不对齐快速集束流所破坏的结果。 <br><br>总结: 星际分子的SMA映射显示NGC 3132的主要分子环是正在膨胀的环而非壳，表明NGC 3132是一个双极星云。此外，通过SMA数据还发现了一个几乎与主要分子环正交的第二个膨胀分子环，作者认为这是由于快速集束流与原恒星和伴星之间相互作用导致的椭球分子气体包的遗迹。 <div>
+We present Submillimeter Array (SMA) mapping of 12CO J = 2 → 1, 13CO J = 2 → 1, and CN N = 2 → 1 emission from the ring-like planetary nebula NGC 3132, one of the subjects of JWST Early Release Observation near-infrared imaging. The ∼5″ resolution SMA data demonstrate that the Southern Ring’s main, bright, molecule-rich ring is indeed an expanding ring, as opposed to a limb-brightened shell, in terms of its intrinsic (physical) structure. This suggests that NGC 3132 is a bipolar nebula viewed more or less pole-on (inclination ∼15°–30°). The SMA data furthermore reveal that the nebula harbors a second expanding molecular ring that is aligned almost orthogonally to the main, bright molecular ring. We propose that this two-ring structure is the remnant of an ellipsoidal molecular envelope of ejecta that terminated the progenitor star’s asymptotic giant branch evolution and was subsequently disrupted by a series of misaligned fast, collimated outflows or jets resulting from interactions between the progenitor and one or more companions.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Is the Radio Source Dipole from NVSS Consistent with the Cosmic Microwave Background and ΛCDM?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad28bf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28bf</guid>
+<content:encoded><![CDATA[
+<div> CMB dipole, kinematic origin, large-scale structure, NVSS catalog, ΛCDM cosmological model
+<br><br>总结:本研究重新评估了来自NVSS目录的偶极估计与CMB测量之间的明显不一致。研究发现，在确定预期的偶极信号时，考虑NVSS源的shot noise和聚类以及运动贡献至关重要。我们使用了聚类红移方法和交叉匹配技术来优化聚类项的估计。然后，在标准的ΛCDM宇宙学模型中，包括所有（即运动、shot noise和聚类）偶极分量，推导出了NVSS偶极的概率分布。我们的模型与以往大部分文献中的NVSS偶极测量基本一致，精度达到或优于2σ。我们得出结论，NVSS偶极与CMB偶极的运动起源在ΛCDM模型内是一致的。 <div>
+The dipole moment in the angular distribution of the cosmic microwave background (CMB) is thought to originate from the doppler effect and our motion relative to the CMB frame. Observations of large-scale structure (LSS) should show a related “kinematic dipole” and help test the kinematic origin of the CMB dipole. Intriguingly, many previous LSS dipole studies suggest discrepancies with the expectations from the CMB. Here, we reassess the apparent inconsistency between the CMB measurements and dipole estimates from the NVSS catalog of radio sources. We find that it is important to account for the shot noise and clustering of the NVSS sources, as well as kinematic contributions, in determining the expected dipole signal. We use the clustering redshift method and a cross-matching technique to refine estimates of the clustering term. We then derive a probability distribution for the expected NVSS dipole in a standard ΛCDM cosmological model including all (i.e., kinematic, shot noise, and clustering) dipole components. Our model agrees with most of the previous NVSS dipole measurements in the literature at better than ≲2σ. We conclude that the NVSS dipole is consistent with a kinematic origin for the CMB dipole within ΛCDM.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Reconstruction of Cosmological Initial Density Field with Observations from the Epoch of Reionization</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2991</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2991</guid>
+<content:encoded><![CDATA[
+<div> H i 21 cm, CO line intensity maps, density field, reionization, cosmological initial density distribution
+<br><br>总结:
+本文提出了一种通过观测高红移时期的H i 21 cm和CO线强度图来重建宇宙初始密度分布的方法。H i 21 cm和CO线强度图提供了关于密度场的互补信息，H i 21 cm场是中性区域的物质分布的代理，而CO线强度图对高密度的星形成区域敏感，这些区域是再电离源。通过共轭梯度法和代价函数最小化的方式，通过分析得到代价函数的梯度的解析表达式来实现密度场的重建。研究结果显示，通过半数值模拟再电离的输入图来重新模拟的强度图在再电离的所有阶段具有小于7%的均方根误差。这种重建方法在CO图上应用了一个乐观的水平的射线噪声或者每幅图应用了小于标准偏差的10%的白噪声时，仍然表现出了约10%的均方根误差的鲁棒性。这个概念验证的工作证明了重建方法的稳健性，从而提供了一种从高红移观测中重建宇宙初始密度分布的有效技术。 <div>
+The initial density distribution provides a basis for understanding the complete evolution of cosmological density fluctuations. While reconstruction in our local Universe exploits the observations of galaxy surveys with large volumes, observations of high-redshift galaxies are performed with a small field of view and therefore can hardly be used for reconstruction. Here, we propose reconstructing the initial density field using the H i 21 cm and CO line intensity maps from the epoch of reionization. Observations of these two intensity maps provide complementary information on the density field—the H i 21 cm field is a proxy of matter distributions in the neutral regions, while the CO line intensity maps are sensitive to the high-density, star-forming regions that host the sources for reionization. Technically, we employ the conjugate gradient method and develop the machinery for minimizing the cost function for the intensity mapping observations. Analytical expressions for the gradient of cost function are derived explicitly. We show that the resimulated intensity maps match the input maps of mock observations using semi-numerical simulations of reionization with an rms error ≲7% at all stages of reionization. This reconstruction is also robust with an rms error of ∼10% when an optimistic level of shot noise is applied to the CO map or white noise at the level of ≲10% of the standard deviation is applied to each map. Our proof-of-concept work demonstrates the robustness of the reconstruction method, thereby providing an effective technique for reconstructing the cosmological initial density distribution from high-redshift observations.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Sensitivity of the Helioglow to Variation of the Total Ionization Rate and Solar Lyα Emission</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a55</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a55</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳风, 观测, 光谱, IMAP 任务, 氢原子离子
+
+总结:
+太阳风观测受限于黄道平面附近，IMAP任务计划的GLOWS仪器旨在通过观测星际中性氢的反散射辉光，间接获取太阳风的纬度结构。研究发现，太阳光照的变化会立即反映在辉光上，但其调整时间比变化上升时间更长。相反，星际氢的电离率变化会与辉光亮度呈反相关，并且存在数月的延迟。此外，辉光对于太阳极地区的电离率变化不敏感，因此需要使用适当的参数函数来近似电离率剖面，以检测极地区的电离率和太阳风变化。 <div>
+Direct observations of solar wind are mostly limited to the vicinity of the ecliptic plane. Retrieving the latitudinal structure of solar wind indirectly based on observations of the backscatter glow of interstellar neutral hydrogen is complex and requires support from theoretical models. The GLOWS instrument, to operate on the planned IMAP mission, will scan the helioglow along circumsolar rings with an angular distance of ∼75°. Its objective is to retrieve the latitudinal structure of the ionization rate of interstellar hydrogen and with this the structure of the solar wind. In preparation for the future analysis, we studied the sensitivity of the light curves to temporal and latitudinal variation of the ionization rate of interstellar hydrogen and the solar Lyα illumination. Based on carefully planned numerical experiments, we analyze the time delay and relaxation time of the system for variations of the ionization rate and solar illumination in heliolatitude and with time. We found that variations in the solar illumination are reflected in the helioglow without delay, but relaxation takes longer than the variation rise time. By contrast, variations in the ionization rate are anticorrelated with the helioglow brightness with a delay of several months. We also found that the helioglow is not sensitive to variations in the ionization rate at the solar poles, so retrieving the ionization rate and solar wind at the poles requires approximation of the ionization rate profiles with appropriate parametric functions.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Spatial Variations of Dust Opacity and Grain Growth in Dark Clouds: L1689, L1709, and L1712</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a59</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a59</guid>
+<content:encoded><![CDATA[
+
+The far-infrared (FIR) opacity of dust in dark clouds within the Ophiuchus molecular cloud is investigated through multiwavelength infrared observations from UKIDSS, Spitzer, and Herschel. Employing the infrared color excess technique with both near-infrared and mid-infrared photometric data, a high-resolution extinction map in the K band (AK) is constructed for three dark clouds: L1689, L1709, and L1712. The derived extinction map has a resolution of and reaches a depth of AK ∼ 3 mag. The FIR optical depths τ250 at a reference wavelength of 250 μm are obtained by fitting the Herschel PACS and SPIRE continuum data at 100, 160, 250, 350, and 500 μm using a modified blackbody model. The average dust opacity per unit gas mass at 250 μm, rκ250, is determined through a pixel-by-pixel correlation of τ250 with AK, yielding a value of approximately 0.09 cm2 g−1, which is about 2–3 times higher than the typical value in the diffuse interstellar medium. Additionally, an independent analysis across 16 subregions within the Ophiuchus cloud indicates spatial variations in dust opacity, with values ranging from 0.07 to 0.12 cm2 g−1. Although the observed trend of increasing dust opacity with higher extinction implies grain growth, our findings indicate that rapid grain growth has clearly not yet occurred in the dark clouds studied in this work.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Revision of the GeV γ-Ray Emission in the Region of HESS J1813-178 with Fermi-LAT</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae1</guid>
+<content:encoded><![CDATA[
+
+HESS J1813-178 is one of the brightest and most compact TeV γ-ray sources, and whether its γ-ray emission is associated with supernova remnant (SNR), pulsar wind nebula (PWN), or young stellar cluster (YSC) is still under debate. By analyzing the GeV γ-ray data in the field of HESS J1813-178 using 14 yr of PASS 8 data recorded by the Fermi Large Area Telescope (Fermi-LAT), we report the discovery of three different sources with different spectra in this region. The hard source with a PL spectral index of 2.11 ± 0.08 has a small size extension, which is spatially and spectrally coincident with the TeV γ-ray emission from HESS J1813-178. CO observations display the dense molecular clouds surrounding HESS J1813-178 in the velocity range of 45–60 km s−1. The possible origins of the γ-ray emission from HESS J1813-178 are discussed, including SNR G12.820.02, the PWN driven by the energetic X-ray pulsar PSR J1813-1749 and YSC Cl 1813-178. However, none of them can be ruled out clearly. Note that the maximum energy of protons in the hadronic model should exceed a few hundred TeV, which makes HESS J1813-178 a promising PeVatron. A detailed LHAASO data analysis about the morphology and spectrum would be helpful to investigate the origin of the γ-ray emission in this region and test its PeVatron nature.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Relativistic Alfvén Turbulence at Kinetic Scales</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e02</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e02</guid>
+<content:encoded><![CDATA[
+
+In a strongly magnetized, magnetically dominated relativistic plasma, Alfvénic turbulence can extend to scales much smaller than the particle inertial scales. It leads to an energy cascade somewhat analogous to inertial- or kinetic-Alfvén turbulent cascades existing in nonrelativistic space and astrophysical plasmas. Based on phenomenological modeling and particle-in-cell numerical simulations, we propose that the energy spectrum of such relativistic kinetic-scale Alfvénic turbulence is close to k−3 or slightly steeper than that due to intermittency corrections or Landau damping. We note the analogy of this spectrum with the Kraichnan spectrum corresponding to the enstrophy cascade in 2D incompressible fluid turbulence. Such turbulence strongly energizes particles in the direction parallel to the background magnetic field, leading to nearly one-dimensional particle momentum distributions. We find that these distributions have universal log-normal statistics.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Search for GeV Gamma-Ray Emission from Possible TeV-bright Red Dwarfs with Fermi-LAT</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e91</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e91</guid>
+<content:encoded><![CDATA[
+
+Red dwarfs have been suggested to be among the possible astrophysical species accelerating particles and emitting TeV γ-rays. In an effort to search for the GeV γ-ray counterparts of the suggested TeV emission from eight red dwarfs, we analyze the 0.2–500 GeV γ-ray emission of the regions covering them, exploiting the ∼13.6 yr Pass 8 data from the Fermi Large Area Telescope (LAT). A GeV γ-ray emission excess with a significance of 3.8σ is detected in the direction of the red dwarf V962 Tau. This emission contains V962 Tau in a 1σ error radius and is independent of the catalog source. However, the stellar flare scenario can hardly explain the total energy and lightcurve (LC) derived from the γ-ray emission in view of the spectral analysis. We also analyze the LCs in the positions of the eight red dwarfs, and no time bin with a significance >5σ is found. Therefore, no significant emission from the red dwarfs could be concluded to have been detected by Fermi-LAT.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dwarf Pulses of 10 Pulsars Detected by FAST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e9c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e9c</guid>
+<content:encoded><![CDATA[
+
+How pulsars radiate is a long-standing problem. Detailed polarization measurements of individual pulses shed light on currently unknown emission processes. Recently, based on supersensitive observations, dwarf pulses have been recognized as weak narrow pulses often appearing during the nulling state. In this study, we report the detection of dwarf pulses from 10 pulsars, PSRs B0525+21, B1237+25, J1538+2345, J1824−0127, J1851−0053, B1901+10, J1939+10, B1944+17, B2000+40, and J2112+4058, based on observations conducted with the Five-hundred-meter Aperture Spherical radio Telescope. Dwarf pulses of five pulsars are clearly discernible in the two-dimensional distribution of pulse intensity and pulse width. For the other five pulsars, PSRs J1538+2345, J1824−0127, J1939+10, B2000+40, and J2112+4058, only a few dwarf pulses are detected from pulse stacks. The dwarf pulses can emerge in both cone and core emission components for PSR B1237+25, and the polarization angles of these dwarf pulses are mostly in the orthogonal polarization mode of normal pulses for PSR B1944+17. In general, pulsars with detected dwarf pulses tend to be located within the “death valley” region of the distribution of pulsar periods and period derivatives.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Petrogenesis of Erg Chech 002 Achondrite and Implications for an Altered Magma Ocean</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ea7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ea7</guid>
+<content:encoded><![CDATA[
+
+This study conducts mineralogical and chemical investigations on the oldest achondrite, Erg Chech 002 (∼4565 million yr old). This meteorite exhibits a disequilibrium igneous texture characterized by high-Mg-number (atomic Mg/(Mg + Fe2+)) orthopyroxene xenocrysts (Mg number = 60–80) embedded in an andesitic groundmass. Our research reveals that these xenocrysts were early formed crystals, loosely accumulated or scattered in the short-period magma ocean on the parent body. Subsequently, these crystals underwent agitation due to the influx of external materials. The assimilation of these materials enriched the 16O component of the magma ocean and induced a relatively reduced state. Furthermore, this process significantly cooled the magma ocean and inhibited the evaporation of alkali elements, leading to elevated concentrations of Na and K within the meteorite. Our findings suggest that the introduced materials are probably sourced from the reservoirs of CR clan meteorites, indicating extensive transport and mixing of materials within the early solar system.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Giant Biconical Dust Filaments in the Starburst Galaxy NGC 1808</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2eab</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2eab</guid>
+<content:encoded><![CDATA[
+
+We present the results from an analysis of multiwavelength archival data on the multiphase outflow in the starburst galaxy NGC 1808. We report the detection at 70 and 100 μm of dust filaments that extend up to ∼13 kpc from the galactic midplane and trace an edge-brightened biconical structure along the minor axis of the galaxy. The inner filaments are roughly cospatial with previously identified optical dust filaments, extraplanar polycyclic aromatic hydrocarbon emission, and neutral and ionized gaseous outflows. The 70/160 μm flux ratio, a proxy for the dust temperature, is elevated along the edges of the cones, indicating that the dusty medium has been driven out of the central regions of these cones and is possibly shock-heated by a large-scale outflow. We establish lower limits on the extraplanar dust mass and mean height above the stellar disk of and ∣ z ∣ ∼ 5 kpc. The energy requirement of (5.1–9.6) × 1056 erg needed to lift the dusty material, assuming a Milky Way–like dust-to-gas ratio, can be supplied by the current starburst, with a measured star formation rate of 3.5–5.4 M⊙ yr−1 over a timescale of (4–26) ξ−1 Myr, where ξ is the efficiency of energy transfer. We conclude that a starburst-driven outflow is the most likely mechanism by which the dust features were formed.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Young Star Clusters Dominate the Production of Detached Black Hole–Star Binaries</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2c</guid>
+<content:encoded><![CDATA[
+
+The recent discovery of two detached black hole–star (BH–star) binaries from Gaia’s third data release has sparked interest in understanding the formation mechanisms of these systems. We investigate the formation of these systems by dynamical processes in young star clusters (SCs) and via isolated binary (IB) evolution, using a combination of direct N-body and population synthesis simulations. We find that dynamical formation in SCs is nearly 50 times more efficient per unit of star formation at producing BH–star binaries than IB evolution. We expand this analysis to the full Milky Way (MW) using a FIRE-2 hydrodynamical simulation of an MW-mass galaxy. Even assuming that only 10% of star formation goes into SCs, we find that approximately four out of every five BH–star systems are formed dynamically, and that the MW contains a total of ∼2 × 105 BH–star systems. Many of these dynamically formed systems have longer orbital periods, greater eccentricities, and greater black hole masses than their isolated counterparts. For binaries older than 100 Myr, we show that any detectable system with e ≳ 0.5 or MBH ≳ 10 M⊙ can only be formed through dynamical processes. Our MW model predicts between 64 and 215 such detections from the complete DR4 Gaia catalog, with the majority of systems being dynamically formed in massive and metal-rich SCs. Finally, we compare our populations to the recently discovered Gaia BH1 and Gaia BH2, and conclude that the dynamical scenario is the most favorable formation pathway for both systems.
+]]></content:encoded>
+
+<pubDate>2024-04-01T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Probing Dark Energy and Modifications of Gravity with Ground-based millimeter-wavelength Line Intensity Mapping</title>
