@@ -4,6 +4,140 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>A Linear Model for Inertial Modes in a Differentially Rotating Sun</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad226c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad226c</guid>
+<content:encoded><![CDATA[
+<div> sectoral inertial modes, solar interior, differential rotation, eigenvalue solver, equatorial Rossby modes
+<br><br>
+这篇文章研究了太阳内部的惯性波模式，发现在高方位阶数下，这些模式似乎与薄壳Rossby-Haurwitz模型有所偏离。研究采用了谱特征值求解器计算了差异旋转条件下的太阳惯性模式的谱。特别是关注赤道Rossby模式，发现计算得到的模式频率与观测的太阳模式频率非常接近，但n=0的模式明显向后偏转。这表明太阳的测量结果可能与n较高的模式相对应。此外，数值得到的特征函数似乎位于对流区内部，与太阳观测有显著差异，使推断变得更加复杂。 
+<br><br>总结: 挖掘了太阳内部的惯性波模式特性，发现了高方位阶数下模式的偏离及差异旋转影响，对赤道Rossby模式进行了重点研究，发现了模式频率的相似之处以及n=0模式的偏转，也指出了数值计算得到的特征函数的深层位置与太阳观测存在的差异。 <div>
+Inertial wave modes in the Sun are of interest owing to their potential to reveal new insight into the solar interior. These predominantly retrograde-propagating modes in the solar subsurface appear to deviate from the thin-shell Rossby–Haurwitz model at high azimuthal orders. We present new measurements of sectoral inertial modes at m > 15 where the modes appear to become progressively less retrograde compared to the canonical Rossby–Haurwitz dispersion relation in a corotating frame. We use a spectral eigenvalue solver to compute the spectrum of solar inertial modes in the presence of differential rotation. Focussing specifically on equatorial Rossby modes, we find that the numerically obtained mode frequencies lie along distinct ridges, one of which lies strikingly close to the observed mode frequencies in the Sun. We also find that the n = 0 ridge is deflected strongly in the retrograde direction. This suggests that the solar measurements may not correspond to the fundamental n = 0 Rossby–Haurwitz solutions as was initially suspected, but to those for a higher n. The numerically obtained eigenfunctions also appear to sit deep within the convection zone—unlike those for the n = 0 modes—which differs substantially from solar measurements and complicates inference.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling of Condensations in Coronal Loops Produced by Impulsive Heating with Variable Frequencies and Locations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fc</guid>
+<content:encoded><![CDATA[
+<div> 模型、脉冲加热、等离子体、磁环、冷凝<br>
+研究使用1D流体力学自适应细化Godunov求解器代码模拟了冲动加热的日冕环。通过在循环中离散能量脉冲模拟脉冲加热事件（称为纳米耀斑）。研究了由于稳定加热导致的等效热非平衡在环中出现冷凝的情况，以及其对纳米耀斑的定时、强度和位置的依赖性，包括纳米耀斑的随机分布。发现随机分布纳米耀斑（无论是时间/强度还是位置上）较之具有相同平均特性的规律发生纳米耀斑的情况下，减少了冷凝发生的可能性。对于随机分布的纳米耀斑，通常的加热靠近环脚点且频率高的标准更为严格，而且冷凝在环中停留的时间更短。然而，在一些情况下，即使参数的平均值（频率或位置）超过了相应稳定的非随机化值的临界限制，冷凝仍可能发生。这些由随机加热导致的冷凝特性可用于未来研究日冕加热机制的诊断。<br><br>总结:模型使用1维流体动力学求解器模拟了冲动加热的日冕环，研究了纳米耀斑对冷凝的影响，发现随机分布的纳米耀斑减少了冷凝的可能性，且对冷凝的触发条件更为严格。这些特性对于研究日冕加热机制的诊断具有重要意义。 <div>
+We present the results of models of impulsively heated coronal loops using the 1D hydrodynamic Adaptively Refined Godunov Solver code. The impulsive heating events (which we refer to as nanoflares) are modeled by discrete pulses of energy along the loop. We explore the occurrence of cold condensations due to the effective equivalent of thermal nonequilibrium in loops with steady heating, and examine its dependence on nanoflare timing and intensity and also nanoflare location along the loop, including randomized distributions of nanoflares. We find that randomizing the distribution of nanoflares, both in time/intensity and location, diminishes the likelihood of condensation occurring as compared to distributions with regularly occurring nanoflares with the same average properties. The usual criteria that condensation is favored for heating near loop footpoints and with high cadences are more strict for randomized (as opposed to regular) nanoflare distributions, and for randomized distributions the condensations stay in the loop for a shorter amount of time. That said, condensation can sometimes occur in cases where the average values of parameters (frequency or location) are beyond the critical limits above which condensation does not occur for corresponding steady, non-randomized values of those parameters. These properties of condensation occurring due to randomized heating can be used in the future to investigate the diagnostics of coronal heating mechanisms.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Measuring the Variance of the Macquart Relation in Redshift–Extragalactic Dispersion Measure Modeling</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2705</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2705</guid>
+<content:encoded><![CDATA[
+<div> FRBs, Macquart relation, dispersion measure, Hubble constant, fluctuation parameter
+<br>
+FRB的色散测量与宿主星系的红移之间存在相关性，这种相关性敏感于星系间介质中的重子分布，而这些重子可能通过反馈过程从星系暗物质晕中喷射出来。研究利用78个FRB的数据对波动参数F进行了新的测量，其中21个FRB已被定位于宿主星系。分析同时拟合哈勃常数H0和FRB宿主星系导致的DM分布。研究发现，波动参数与这些参数存在退化关系，尤其是H0。使用100个定位FRB的合成样本，对波动参数的约束提高了约2倍。将F的测量结果与宇宙学模拟（IllustrisTNG）中的预测进行比较，发现在红移0.4 < z和z < 2.0时存在一致性。然而，在z < 0.4时，模拟结果低估了F，这被归因于低红移时快速变化的宇宙间余量分布。 
+<br><br>总结: FRB的色散测量与宿主星系红移之间的Macquart关系受到星系间介质中的重子分布的影响，这项研究采用了78个FRB并发现了影响参数F的新测量结果，同时发现该参数与哈勃常数H0存在退化关系。通过与宇宙模拟进行比较，得出了F的预测结果与观测结果的一致性，并指出了低红移时宇宙间余量分布的快速变化。 <div>
+The Macquart relation describes the correlation between the dispersion measure (DM) of fast radio bursts (FRBs) and the redshift z of their host galaxies. The scatter of the Macquart relation is sensitive to the distribution of baryons in the intergalactic medium including those ejected from galactic halos through feedback processes. The variance of the distribution in DMs from the cosmic web (DMcosmic) is parameterized by a fluctuation parameter F. In this work, we present a new measurement of F using 78 FRBs of which 21 have been localized to host galaxies. Our analysis simultaneously fits for the Hubble constant H0 and the DM distribution due to the FRB host galaxy. We find that the fluctuation parameter is degenerate with these parameters, most notably H0, and use a uniform prior on H0 to measure at the 3σ confidence interval and a new constraint on the Hubble constant . Using a synthetic sample of 100 localized FRBs, the constraint on the fluctuation parameter is improved by a factor of ∼2. Comparing our F measurement to simulated predictions from cosmological simulation (IllustrisTNG), we find agreement between redshifts 0.4 < z and z < 2.0. However, at z < 0.4, the simulations underpredict F, which we attribute to the rapidly changing extragalactic DM excess distribution at low redshift.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of Limb-brightened Radio Jets by Angle-dependent Energy Extraction from Rapidly Rotating Black Holes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c7</guid>
+<content:encoded><![CDATA[
+<div> 黑洞，磁流体动力学模拟，喷流，视角，聚类
+总结:
+这篇文章通过广义相对论磁流体动力学模拟研究发现，黑洞的旋转能量会优先沿着穿过视界的磁场线提取，同时还展示了在不同视角观测下，喷流呈现出明显的边缘亮度结构。研究还发现，喷流在高度聚类时横向宽度会从圆锥形逐渐变为抛物线形，并在M87喷流中展示了聚类在距离黑洞100个Schwarzschild半径内发生的情况。 <div>
+Using general relativistic magnetohydrodynamic simulations, it has been suggested that the rotational energy of a rapidly rotating black hole (BH) is preferentially extracted along the magnetic field lines threading the event horizon in the middle and lower latitudes. Applying this angle-dependent Poynting flux to the jet downstream, we demonstrate that the jets exhibit limb-brightened structures at various viewing angles, as observed from Mrk 501, M87, and Cyg A between 5° and 75°, and that the limb brightening is enhanced when the jet is collimated strongly. It is also found that the jet width perpendicular to the propagation direction shrinks at the projected distance of the altitude where the jet collimates from a conical shape (near the BH) to a parabolic one (in the jet). Comparing with Very Long Baseline Interferometry observations, we show that this collimation takes place within the deprojected altitude of 100 Schwarzschild radii from the BH in the case of the M87 jet.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Trapped Water on Silicates in the Laboratory and in Astrophysical Environments</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c07</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c07</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 水分子，硅酸盐表面，天体物理环境，陷阱，地球形成
+
+总结:
+水分子在硅酸盐表面上的捕获现象对各种天体物理环境具有重要意义，实验结果表明，这种捕获现象取决于表面的性质和组成。硅酸盐表面的亲水性使得水分子可以被有效捕获，而捕获的性质是物理吸附而非化学吸附。此外，研究还表明，在高达470K的温度下仍然可以捕获水分子，这说明在行星形成盘中可能存在着湿润的硅酸盐颗粒。对于已捕获的水的热稳定性和紫外线稳定性的研究结果表明，在漫射的星际介质中检测到了被捕获的水分子，说明水分子有高效的持续形成。最后，研究还探讨了这些结果对一些基础科学问题的意义，比如氧的消耗问题、地球上水的起源以及岩石行星的形成。 <div>
+The existence of strongly bound water molecules on silicate surfaces, above the desorption temperature of water ice, was first predicted by computational studies and has recently been demonstrated by laboratory experiments. Such trapped water may be present in various astrophysical environments and there is now evidence for its presence in the diffuse interstellar medium (ISM) and in extraterrestrial particles. We present here new results of a laboratory study of the phenomenon of trapping (strong bonding) of water molecules by silicates. We show that the efficiency of the trapping is strongly dependent on the properties and composition of the surface. Our results point out that the presence of trapped water should be due to the hydrophilic properties of the silicate surface and that the nature of the trapping is physical (physisorption rather than chemisorption). We demonstrate that water can be trapped on silicates up to temperatures of about 470 K, which speaks for the presence of wet silicate grains in the terrestrial planet formation zone in planet-forming disks. Studying the thermal and UV stability of trapped water, we conclude that the detection of trapped water in the diffuse ISM speaks for its efficient continuous formation. We discuss our results as relevant to fundamental scientific questions, such as the oxygen depletion problem, the origin of water on Earth, and the formation of rocky planets.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Correlations between Ca ii H and K Emission and the Gaia M Dwarf Gap</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8c</guid>
+<content:encoded><![CDATA[
+<div> Gaia Data Release 2, M dwarf gap, convective transition mass, Hα emission, Ca ii H and K activity
+
+总结:
+Gaia Data Release 2中发现了M矮星间隙现象，也称为Jao Gap，它表现为主序线上在与对流转变质量（约0.35 M⊙）附近的一小段明度范围内，星体密度减少了17%。之前的研究表明，太阳附近的恒星在Jao Gap的G亮度附近存在Hα发射的缺乏现象。作者推测，这一现象可能是由于Jao Gap特征形成和恒星辐射性转变区的破坏所导致的恒星磁拓扑的复杂变化。本研究还观察到Ca ii H和K活动与Hα在Jao Gap附近表现出类似的异常行为，活动的恒星间变化增加。研究提出了一个恒星磁场演化的玩具模型，表明这种增加可能是由于Jao Gap形成所驱动的周期混合事件引起的磁场随机破坏。 <div>
+The Gaia M dwarf gap, also known as the Jao Gap, is a novel feature discovered in the Gaia Data Release 2 G versus BP-RP color–magnitude diagram. This gap represents a 17% decrease in stellar density in a thin magnitude band around the convective transition mass (∼0.35 M⊙) on the main sequence. Previous work has demonstrated a paucity of Hα emission coincident with the G magnitude of the Jao Gap in the solar neighborhood. The exact mechanism that results in this paucity is as of yet unknown; however, the authors of the originating paper suggest that it may be the result of complex variations to a star’s magnetic topology driven by the Jao Gap’s characteristic formation and breakdown of stars’ radiative transition zones. We present a follow-up investigating another widely used magnetic activity metric, Calcium ii H and K emission. Ca ii H and K activity appears to share a similar anomalous behavior as Hα does near the Jao Gap magnitude. We observe an increase in star-to-star variation of magnetic activity near the Jao Gap. We present a toy model of a star’s magnetic field evolution, which demonstrates that this increase may be due to stochastic disruptions to the magnetic field originating from the periodic-mixing events characteristic of the convective kissing instabilities that drive the formation of the Jao Gap.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Insights into Neutron Star Equation of State by Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8d</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 机器学习, 核物质, 神经网络, 物质性质, 中子星
+
+总结:<br><br>这篇文章介绍了机器学习在核物质方程状态中的应用。研究者构建了一个神经网络平台，用于限制核物质状态方程的行为。他们发现神经网络可以合理预测参数空间，并为强子相互作用的限制提供新的线索。文中以相对论平均场近似为例说明了平台的可行性和效率。结果表明神经网络可以确实估计模型参数，使得核物质在饱和密度周围的性质和中子星的整体性质都可以满足。当前模块化设计的神经网络的优化和扩展到其他有效模型都是直接的。 <div>
+Due to its powerful capability and high efficiency in big data analysis, machine learning has been applied in various fields. We construct a neural network platform to constrain the behaviors of the equation of state of nuclear matter with respect to the properties of nuclear matter at saturation density and the properties of neutron stars. It is found that the neural network is able to give reasonable predictions of parameter space and provide new hints into the constraints of hadron interactions. As a specific example, we take the relativistic mean field approximation in a widely accepted Walecka-type model to illustrate the feasibility and efficiency of the platform. The results show that the neural network can indeed estimate the parameters of the model at a certain precision such that both the properties of nuclear matter around saturation density and global properties of neutron stars can be saturated. The optimization of the present modularly designed neural network and extension to other effective models is straightforward.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Millimeter and Submillimeter Spectroscopy of the Deuterated Molecular Ion SD+</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f9d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f9d</guid>
+<content:encoded><![CDATA[
+<div> 关键词: SD+，分子吸收线，亚毫米波频率，夸萨 PKS 1830-211，ALMA 
+
+总结: 
+这篇文章报道了对X3Σ−基态的氘化分子离子SD+进行了实验室测量，并确定了其旋转、离心畸变、自旋-自旋相互作用和超精细结构常数。通过这些参数，提供了SD+的准确亚毫米波静止频率，以便在天文学上进行探测。研究人员利用Atacama大型毫米/亚毫米阵列(ALMA)对PKS 1830-211夸萨的SD+吸收线进行了调查，确定了分子吸收线的上限总柱密度为3 × 1012 cm−2。 <div>
+Seven rotational and fine-structure transitions of the deuterated molecular ion SD+ in the X3Σ− ground electronic state have been measured in the 271–863 GHz region in the laboratory. This ion has been produced by direct-current glow discharge using a mixture of D2S and argon in a free space cell in a temperature range of −140°C to −160°C. The rotational, centrifugal distortion, spin–spin interaction, and hyperfine constants have been determined; the standard deviation of the residuals in the fitting is 109 kHz. The set of obtained spectroscopic parameters provides a list of accurate submillimeter rest frequencies of SD+ for astronomical detection. We have investigated lines of SD+ toward the quasar PKS 1830-211 using the Atacama Large Millimeter/submillimeter Array archive, as the z = 0.89 molecular absorber exists in front of this quasar. A data set covering the 297 GHz region includes the NJ = 23–12 transition at 561 GHz due to redshift, providing an upper limit of the column density Ntot = 3 × 1012 cm−2 for SD+.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Small-scale Field-aligned Currents in the Magnetopause Boundary Layer</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad320b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad320b</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 小尺度场向电流, 磁层边界层, 能量耗散, 太阳风, 磁层耦合<br>
+总结: <br>
+这项研究利用2015年5月至2018年6月的Magnetospheric Multiscale (MMS)任务的高分辨率测量数据，统计性地研究了磁层边界层中小尺度场向电流（SFACs）的性质。共成功识别了2235个SFACs，它们的持续时间主要在0.2到0.3秒之间，宽度大多小于1个离子惯性长度，主要分布在5到25个电子惯性长度之间。SFACs的主要载体是电子，超过70%的SFACs表现出净能量耗散，其中大部分能量耗散发生在平行方向。SFACs在空间上分布广泛，且在靠近磁层的边界层中发生率更高。此外，不到一半的SFACs出现在众所周知的结构中，约54%的SFACs出现在“其他”未知结构中。这些结果提高了我们对磁层边界层中电流系统和SFACs在太阳风和磁层耦合中的作用的理解。 <div>
+Based on high-resolution measurements from the Magnetospheric Multiscale mission from 2015 May to 2018 June, we statistically investigate the properties of small-scale field-aligned currents (SFACs) in the magnetopause boundary layer. A total of 2235 SFACs are successfully identified. The durations of SFACs mainly fall between 0.2 and 0.3 s. Over 90% of SFACs have a width of less than 1 ion inertia length and are primarily distributed from 5 to 25 electron inertia lengths, implying that the SFACs belong to the kinetic-scale current layer. The main carriers of SFACs are electrons, and over 70% of SFACs exhibit net energy dissipation (i.e., J · E′ > 0) with the majority of energy dissipation taking place in the parallel direction. SFACs are widely distributed spatially, and the occurrence rate of SFACs is higher in the boundary layer closer to the magnetosphere. Additionally, less than half of the total SFACs are identified in well-known structures, including the magnetic reconnection region, flux transfer event, Kelvin–Helmholtz vortex, and exhaust region, and 54% of the SFACs are in the “others” unknown structures. These results improve our comprehension of the current system at the magnetopause and the roles of SFACs in the coupling between the solar wind and magnetosphere.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Probing Lorentz Invariance Violation with Absorption of Astrophysical γ-Rays by Solar Photons</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3212</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3212</guid>
+<content:encoded><![CDATA[
+<div> 光学深度，伽马射线，太阳，Lorentz不变性，HAWC<br>
+总结:<br>
+本文详细计算了宇宙γ射线与太阳光子相互作用，产生电子-正电子对的吸收光学深度。该效应在距离太阳较近的γ射线源处最为显著，吸收光学深度可高达τγγ ∼ 10−2。文章还考虑了亚光速Lorentz不变性（LIV）对吸收截面阈值的影响，首次展示亚光速LIV可导致τγγ与非LIV情况相比增加或减少。研究表明，至少在原理上，可通过HAWC或LHAASO在≳20 TeV的能量范围内观测太阳附近γ射线源，探测LIV效应，尽管由于效应规模微小，测量将极为困难。 <div>
+We compute in detail the absorption optical depth for astrophysical γ-ray photons interacting with solar photons to produce electron–positron pairs. This effect is greatest for γ-ray sources at small angular distances from the Sun, reaching optical depths as high as τγγ ∼ 10−2. We also calculate this effect including modifications to the absorption cross-section threshold from subluminal Lorentz invariance violation (LIV). We show for the first time that subluminal LIV can lead to increases or decreases in τγγ compared to the non-LIV case. We show that, at least in principle, LIV can be probed with this effect with observations of γ-ray sources near the Sun at ≳20 TeV by HAWC or LHAASO, although a measurement will be extremely difficult due to the small size of the effect.
+]]></content:encoded>
+
+<pubDate>2024-04-03T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The On-axis Jetted Tidal Disruption Event AT2022cmc: X-Ray Observations and Broadband Spectral Modeling</title>
