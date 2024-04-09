@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Evaluating the Consistency of Cosmological Distances Using Supernova Siblings in the Near-infrared</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ff5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ff5</guid>
 <content:encoded><![CDATA[
 <div> Type Ia SN, supernova siblings, near-infrared, light curves, calibration
-<br><br>总结:
+<br /><br />总结:
 本研究首次使用仅近红外数据对超新星同胞进行分析。通过对已发表的近红外光度数据进行校准，并使用SALT3-NIR和SNooPy模型拟合光度曲线，发现同胞之间绝对视星等差异中位数为0.248和0.186等级。通过模拟实验估计了这些差异的不确定性，并发现统计上，在近红外波段不存在内在散射的可能性。与仅使用光学数据相比，同一组超新星同胞之间的绝对视星等差异中位数为0.177等级。目前尚不清楚这些结果是由于统计数据不足还是近红外数据质量不佳，这些问题都将在南希·格雷斯·罗曼空间望远镜的使用中得到改善。 <div>
 The study of supernova (SN) siblings, supernovae with the same host galaxy, is an important avenue for understanding and measuring the properties of Type Ia SN Ia light curves (LCs). Thus far, sibling analyses have mainly focused on optical LC data. Considering that LCs in the near-infrared (NIR) are expected to be better standard candles than those in the optical, we carry out the first analysis compiling SN siblings with only NIR data. We perform an extensive literature search of all SN siblings and find six sets of siblings with published NIR photometry. We calibrate each set of siblings ensuring they are on homogeneous photometric systems, fit the LCs with the SALT3-NIR and SNooPy models, and find median absolute differences in μ values between siblings of 0.248 and 0.186 mag, respectively. To evaluate the significance of these differences beyond measurement noise, we run simulations that mimic these LCs and provide an estimate for uncertainty on these median absolute differences of ∼0.052 mag, and we find that, statistically, our analysis rules out the nonexistence of intrinsic scatter in the NIR at the 99% level. When comparing the same sets of SN siblings, we observe a median absolute difference in μ values between siblings of 0.177 mag when using optical data alone as compared to 0.186 mag when using NIR data alone. It is unclear if these results may be due to limited statistics or poor quality NIR data, all of which will be improved with the Nancy Grace Roman Space Telescope.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,13 +22,12 @@ The study of supernova (SN) siblings, supernovae with the same host galaxy, is a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2261</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2261</guid>
 <content:encoded><![CDATA[
-<div> 关键词: globular clusters, intermediate-mass black holes, machine-learning, interpretability, real data<br>
-<br>
-总结:<br>
+<div> 关键词: globular clusters, intermediate-mass black holes, machine-learning, interpretability, real data<br />
+<br />
+总结:<br />
 本文介绍了使用机器学习模型预测球状星团（GCs）中的中等质量黑洞（IMBHs）的方法及其局限性。作者使用 anchors 方法和 Certifiably Optimal RulE ListS (CORELS) 在解释性和可解释性方面进行了研究，以解决模型的不透明性问题。他们还通过测量模拟数据的真实性来评估模型的偏见，以减轻模型在外推时产生偏见预测的风险。最后，他们将这些分类器应用于真实GC数据，得到了预测的分类、预测置信度、异常值检测等信息。文章提出了对于GC中IMBH的预测方法，并对模型的解释性和泛化能力进行了深入探讨。 <div>
 Definitive evidence that globular clusters (GCs) host intermediate-mass black holes (IMBHs) is elusive. Machine-learning (ML) models trained on GC simulations can in principle predict IMBH host candidates based on observable features. This approach has two limitations: first, an accurate ML model is expected to be a black box due to complexity; second, despite our efforts to simulate GCs realistically, the simulation physics or initial conditions may fail to reflect reality fully. Therefore our training data may be biased, leading to a failure in generalization to observational data. Both the first issue—explainability/interpretability—and the second—out of distribution generalization and fairness—are active areas of research in ML. Here we employ techniques from these fields to address them: we use the anchors method to explain an Extreme Gradient Boosting (XGBoost) classifier; we also independently train a natively interpretable model using Certifiably Optimal RulE ListS (CORELS). The resulting model has a clear physical meaning, but loses some performance with respect to XGBoost. We evaluate potential candidates in real data based not only on classifier predictions but also on their similarity to the training data, measured by the likelihood of a kernel density estimation model. This measures the realism of our simulated data and mitigates the risk that our models may produce biased predictions by working in extrapolation. We apply our classifiers to real GCs, obtaining a predicted classification, a measure of the confidence of the prediction, an out-of-distribution flag, a local rule explaining the prediction of XGBoost, and a global rule from CORELS.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -42,7 +41,6 @@ Definitive evidence that globular clusters (GCs) host intermediate-mass black ho
 本文研究了气态巨行星与其母恒星和它的系外卫星之间的磁性和潮汐相互作用，重点关注它们的保留情况。首先，讨论了行星地核生成的标度定律，然后根据维里定理构建了行星磁场的演化规律，并发现初始熵对高质量行星的磁场演化非常重要。在估计了星-行星和行星-卫星磁相互作用引起的磁力矩后，发现它可以补偿潮汐力，并绕过动力潮汐响应无效的频谷。对于卫星的保留，考虑了两种情况。在存在环绕行星的盘的情况下，通过比较盘的内外半径，发现磁场过强或与母恒星距离过近的行星很难容纳卫星。在后续的无盘演化中，通过比较行星的减速和卫星迁移的时间尺度，发现几天周期的热木星不太可能保留大型卫星，尽管它们可以被来自被潮汐瓦解的卫星碎片形成的环围绕。与此相反，围绕温暖或寒冷木星形成的卫星可以被保留。最后，我们估算了由星-行星和行星-卫星磁相互作用导致的射电功率和流量密度，并给出了通过FAST探测的上限距离。 <div>
 We study the magnetic and tidal interactions of a gas-giant exoplanet with its host star and with its exomoons, and focus on their retention. We briefly revisit the scaling law for planetary dynamo in terms of its mass, radius, and luminosity. Based on the virial theorem, we construct an evolution law for planetary magnetic field and find that its initial entropy is important for the field evolution of a high-mass planet. We estimate the magnetic torques on orbit arising from the star–planet and planet–moon magnetic interactions, and find that it can compensate tidal torques and bypass frequency valleys where dynamical-tide response is ineffective. For exomoon’s retention, we consider two situations. In the presence of a circumplanetary disk (CPD), by comparison between CPD’s inner and outer radii, we find that planets with too strong magnetic fields or too small distance from its host star tend not to host exomoons. During the subsequent CPD-free evolution, we find, by comparison between a planet’s spin-down and a moon’s migration timescales, that hot Jupiters with periods of several days are unlikely to retain large exomoons, albeit they could be surrounded by rings from the debris of tidally disrupted moons. In contrast, moons, if formed around warm or cold Jupiters, can be preserved. Finally, we estimate the radio power and flux density due to the star–planet and planet–moon magnetic interactions and give the upper limit of detection distance by FAST.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -52,10 +50,9 @@ We study the magnetic and tidal interactions of a gas-giant exoplanet with its h
 <content:encoded><![CDATA[
 <div> 磁星，SGR J1935+2154，X射线，射电暴，脉冲  
 
-该研究对磁星SGR J1935+2154在2022年10月10日爆发后的X射线持续和爆发辐射特性进行了观测。结果显示，持续辐射谱符合吸收黑体加幂律模型，在能量约25 keV时表现良好。在两个观测时段中，黑体温度（kTBB约为0.4 keV）和辐射半径（RBB约为1.9 km）没有显着变化，但幂律参数有轻微变化。此外，观测到X射线脉冲，并得出自旋周期导数为s s−1。这一数值较2014年首次爆发后测得的数值高3.8倍。同时，进行了射电观测未发现任何射电暴或周期性辐射。<br><br>总结：该研究描述了SGR J1935+2154磁星持续和爆发X射线辐射的特性，观测结果显示持续辐射谱符合黑体加幂律模型，且没有显着变化。此外，还观测到X射线脉冲，并发现自旋周期导数有显著变化。射电观测未发现射电暴或周期性辐射。 <div>
+该研究对磁星SGR J1935+2154在2022年10月10日爆发后的X射线持续和爆发辐射特性进行了观测。结果显示，持续辐射谱符合吸收黑体加幂律模型，在能量约25 keV时表现良好。在两个观测时段中，黑体温度（kTBB约为0.4 keV）和辐射半径（RBB约为1.9 km）没有显着变化，但幂律参数有轻微变化。此外，观测到X射线脉冲，并得出自旋周期导数为s s−1。这一数值较2014年首次爆发后测得的数值高3.8倍。同时，进行了射电观测未发现任何射电暴或周期性辐射。<br /><br />总结：该研究描述了SGR J1935+2154磁星持续和爆发X射线辐射的特性，观测结果显示持续辐射谱符合黑体加幂律模型，且没有显着变化。此外，还观测到X射线脉冲，并发现自旋周期导数有显著变化。射电观测未发现射电暴或周期性辐射。 <div>
 Recently, the Galactic magnetar SGR J1935+2154 has garnered attention due to its emission of an extremely luminous radio burst, reminiscent of fast radio bursts (FRBs). SGR J1935+2154 is one of the most active magnetars, displaying flaring events nearly every year, including outbursts as well as short and intermediate bursts. Here, we present our results on the properties of the persistent and bursting X-ray emission from SGR J1935+2154 during the initial weeks following its outburst on 2022 October 10. The source was observed with XMM-Newton and NuSTAR (quasi-)simultaneously during two epochs, separated by ∼5 days. The persistent emission spectrum is well described by an absorbed blackbody plus power-law model up to an energy of ∼25 keV. No significant changes were observed in the blackbody temperature (kTBB ∼ 0.4 keV) and emitting radius (RBB ∼ 1.9 km) between the two epochs. However, we observed a slight variation in the power-law parameters. Moreover, we detected X-ray pulsations in all the data sets and derived a spin-period derivative of s s−1. This is 3.8 times larger than the value measured after the first recorded outburst in 2014. Additionally, we performed quasi-simultaneous radio observations using three 25–32 m class radio telescopes for a total of 92.5 hr to search for FRB-like radio bursts and pulsed emission. However, our analysis did not reveal any radio bursts or periodic emission.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -64,13 +61,12 @@ Recently, the Galactic magnetar SGR J1935+2154 has garnered attention due to its
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad29fb</guid>
 <content:encoded><![CDATA[
 <div> HR 1099, astrometric, very long baseline interferometry, radio positions, coronal mass ejections
-<br><br>
+<br /><br />
 HR 1099是一个活跃的双星系统，通过进行多周期的天文测量和射电定位，发现射电位置在共动参考系中定义了一个椭圆轨道。射电重心在所有阶段都偏离了双星质心，排除了来自双星区域的辐射。在测量速度时发现，大多数阶段测得的速度并不显著，但在一个耀斑期间，检测到了与观测到的太阳日冕物质抛射平均速度相当的速度。这些发现有助于我们更好地了解这个活跃的双星系统的性质。 
-<br>
-总结: <br> HR 1099是一个活跃的双星系统，通过进行多周期的天文测量和射电定位，发现射电位置在共动参考系中定义了一个椭圆轨道。射电重心在所有阶段都偏离了双星质心，排除了来自双星区域的辐射。在测量速度时发现，大多数阶段测得的速度并不显著，但在一个耀斑期间，检测到了与观测到的太阳日冕物质抛射平均速度相当的速度。 <div>
+<br />
+总结: <br /> HR 1099是一个活跃的双星系统，通过进行多周期的天文测量和射电定位，发现射电位置在共动参考系中定义了一个椭圆轨道。射电重心在所有阶段都偏离了双星质心，排除了来自双星区域的辐射。在测量速度时发现，大多数阶段测得的速度并不显著，但在一个耀斑期间，检测到了与观测到的太阳日冕物质抛射平均速度相当的速度。 <div>
 We report multiepoch astrometric very long baseline interferometry observations of the chromospherically active binary HR 1099 (V711 Tau, HD 22468) at six epochs over 63 days using the Very Long Baseline Array at 22.2 GHz. We determined hourly radio positions at each epoch with a positional uncertainty significantly smaller than the component separation. The aggregate radio positions at all epochs define an ellipse in the comoving reference frame with an inclination and longitude of ascending node Ω = 212° ± 22°. The ellipse center is offset from the Third Gaia Celestial Reference Frame position by Δα = , Δδ = mas. All radio centroids are well displaced from the binary center of mass at all epochs, ruling out emission from the interbinary region. We examined the motion of the radio centroids within each epoch by comparing hourly positions over several hours. The measured speeds were not statistically significant for five of the six epochs, with 2σ upper limits in the range 200–1000 km s−1. However, for one flaring epoch, there was a 3σ detection v⊥ = 228 ± 85 km s−1. This speed is comparable to the mean speed of observed coronal mass ejections on the Sun.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -80,10 +76,9 @@ We report multiepoch astrometric very long baseline interferometry observations 
 <content:encoded><![CDATA[
 <div> SN 2022jox, Type II supernova, high-ionization flash, circumstellar material, mass-loss rate
 
-总结:<br><br>本文报告了对SN 2022jox的高频光学和紫外线观测结果。该超新星展现出早期光谱中的高电离闪烁特征，并在爆炸后的几天内消失。SN 2022jox在爆发后约0.75天被Distance Less Than 40 Mpc survey发现，并随后获得了光谱和紫外光度的跟进数据。超新星达到了峰值亮度MV∼−17.3 mag，估计的56Ni质量为0.04 M⊙，这是正常II型超新星的典型数值。对早期光变曲线的建模和光谱中的闪烁特征表明了与周围物质的相互作用，这些物质是由一个具有质量损失率的前体星产生的。SN 2022jox的质量损失率远高于已知II型超新星前体——红超巨星的平静质量损失率，但与类似的核心坍缩超新星的推断值相当，这表明爆炸前几个月或几年内前体星发生了喷发事件或超级风。此外，在大约200天的光谱中还有一些迟发的CSM相互作用的迹象。 <div>
+总结:<br /><br />本文报告了对SN 2022jox的高频光学和紫外线观测结果。该超新星展现出早期光谱中的高电离闪烁特征，并在爆炸后的几天内消失。SN 2022jox在爆发后约0.75天被Distance Less Than 40 Mpc survey发现，并随后获得了光谱和紫外光度的跟进数据。超新星达到了峰值亮度MV∼−17.3 mag，估计的56Ni质量为0.04 M⊙，这是正常II型超新星的典型数值。对早期光变曲线的建模和光谱中的闪烁特征表明了与周围物质的相互作用，这些物质是由一个具有质量损失率的前体星产生的。SN 2022jox的质量损失率远高于已知II型超新星前体——红超巨星的平静质量损失率，但与类似的核心坍缩超新星的推断值相当，这表明爆炸前几个月或几年内前体星发生了喷发事件或超级风。此外，在大约200天的光谱中还有一些迟发的CSM相互作用的迹象。 <div>
 We present high-cadence optical and ultraviolet (UV) observations of the Type II supernova (SN), SN 2022jox which exhibits early spectroscopic high-ionization flash features of H i, He ii, C iv, and N iv that disappear within the first few days after explosion. SN 2022jox was discovered by the Distance Less Than 40 Mpc survey ∼0.75 day after explosion with follow-up spectra and UV photometry obtained within minutes of discovery. The SN reached a peak brightness of MV ∼ −17.3 mag, and has an estimated 56Ni mass of 0.04 M⊙, typical values for normal Type II SNe. The modeling of the early light curve and the strong flash signatures present in the optical spectra indicate interaction with circumstellar material (CSM) created from a progenitor with a mass-loss rate of . There may also be some indication of late-time CSM interaction in the form of an emission line blueward of Hα seen in spectra around 200 days. The mass-loss rate of SN 2022jox is much higher than the values typically associated with quiescent mass loss from red supergiants, the known progenitors of Type II SNe, but is comparable to inferred values from similar core-collapse SNe with flash features, suggesting an eruptive event or a superwind in the progenitor in the months or years before explosion.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -91,12 +86,11 @@ We present high-cadence optical and ultraviolet (UV) observations of the Type II
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a53</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a53</guid>
 <content:encoded><![CDATA[
-<div> 弱线类星体；活动星系核；紫外线发射线；光谱能量分布；云模拟<br>
-总结:<br>
+<div> 弱线类星体；活动星系核；紫外线发射线；光谱能量分布；云模拟<br />
+总结:<br />
 这篇文章研究了弱线类星体的特性，针对活动星系核的光谱能量分布进行了云模拟计算，发现C iv的等效宽度会受到软X射线过剩组分的影响，而具有较大黑洞质量和软X射线较弱的类星体会表现出较弱的紫外线发射线。 <div>
 Weak-line quasars (WLQs) are a notable group of active galactic nuclei (AGNs) that show unusually weak UV lines even though their optical-UV continuum shapes are similar to those of typical quasars. The physical mechanism for WLQs is an unsolved puzzle in the AGN unified model. We explore the properties of UV emission lines by performing extensive photoionization calculations based on Cloudy simulations with different spectral energy distributions (SEDs) of AGNs. The AGN continua are built from several observational empirical correlations, where the blackbody emission from the cold disk, the power-law emission from the hot corona, and a soft X-ray excess component are considered. We find that the equivalent width (EW) of C iv from our models is systematically lower than observational values if the component of soft X-ray excess is neglected. The EW will increase several times and is roughly consistent with the observations after considering the soft X-ray excess component as constrained from normal type I AGNs. We find that the UV lines are weak for QSOs with quite large black hole mass (e.g., MBH > 109M⊙) and weak soft X-ray emission due to the deficit of ionizing photons. As an example, we present the strength of C iv based on the multiband SEDs for three nearby weak-line AGNs, where the weaker soft X-ray emission normally predicts the weaker lines.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -107,10 +101,9 @@ Weak-line quasars (WLQs) are a notable group of active galactic nuclei (AGNs) th
 <div> 多波长光度测量，棕矮星，行星质量物体，大气层，云层
 J-和Ks-波段光度观测，SIMP J013656.5+093347，相位差，大气层检测，Sonora Bobcat模型
 
-这篇文章报告了对T2.5行星质量物体SIMP J013656.5+093347进行的J-和Ks-波段多波长观测的分析结果。研究重新分析了2015年一夜的观测数据，并首次检测到J-和Ks-波段光度曲线之间存在相位差。研究利用Sonora Bobcat模型表明，为了解释观测到的相位差，该物体的大气层中必须至少存在两个不同的云层。这一结果与该物体的大气检测结果一致，也与其他类似L/T转变物体的最新研究结果一致。 <br><br>总结: 多波长光度测量揭示了SIMP J013656.5+093347大气层中存在至少两个不同的云层，与最新的大气检测结果一致。 <div>
+这篇文章报告了对T2.5行星质量物体SIMP J013656.5+093347进行的J-和Ks-波段多波长观测的分析结果。研究重新分析了2015年一夜的观测数据，并首次检测到J-和Ks-波段光度曲线之间存在相位差。研究利用Sonora Bobcat模型表明，为了解释观测到的相位差，该物体的大气层中必须至少存在两个不同的云层。这一结果与该物体的大气检测结果一致，也与其他类似L/T转变物体的最新研究结果一致。 <br /><br />总结: 多波长光度测量揭示了SIMP J013656.5+093347大气层中存在至少两个不同的云层，与最新的大气检测结果一致。 <div>
 Multiwavelength photometry of brown dwarfs and planetary-mass objects provides insight into their atmospheres and cloud layers. We present near-simultaneous J- and Ks-band multiwavelength observations of the highly variable T2.5 planetary-mass object, SIMP J013656.5+093347. We reanalyze observations acquired over a single night in 2015 using a recently developed data reduction pipeline. For the first time, we detect a phase shift between J- and Ks-band light curves, which we measure to be . Previously, phase shifts between near-infrared and mid-infrared observations of this object were detected and attributed to probing different depths of the atmosphere, and thus different cloud layers. Using the Sonora Bobcat models, we expand on this idea to show that at least two different patchy cloud layers must be present to explain the measured phase shift. Our results are generally consistent with recent atmospheric retrievals of this object and other similar L/T transition objects.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -119,13 +112,12 @@ Multiwavelength photometry of brown dwarfs and planetary-mass objects provides i
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c8a</guid>
 <content:encoded><![CDATA[
 <div> Ganymede, mini-magnetosphere, Alfvénic power, magnetohydrodynamic model, Jovian plasma
-<br><br>
+<br /><br />
 Ganymede的微型磁层与朱庇特等离子体的共旋流相互作用产生Alfvénic power，为木卫三在朱庇特电离层形成极光足迹做出贡献。研究使用了木卫三磁层的三维、高分辨率全球磁流体力学模型，调查了在稳态上游条件下木卫三磁层中产生的Alfvénic power的时间变化。结果显示：（1）由于磁重联和Kelvin-Helmholtz不稳定性引起的Alfvénic power呈准周期性变化，周期约为71-333秒，与木卫三极光足迹发出功率的100秒周期性一致；（2）当木卫三位于朱庇特等离子体片区内，其朱轴磁场成分较小，Alfvénic power的大小也较小，而当木卫三位于等离子体片区外时，朱轴磁场较大，Alfvénic power也较大。 
-<br><br>总结: 
+<br /><br />总结: 
 Ganymede的微型磁层与Jovian等离子体流相互作用产生Alfvénic power，其变化周期与Ganymede极光足迹发出功率周期一致。Alfvénic power的大小与Ganymede所处位置的Jovian等离子体片区的By分量大小相关。 <div>
 Alfvénic power is generated through the interaction between the mini-magnetosphere of Ganymede and the corotating flow of the Jovian plasma, contributing to the formation of the Ganymede auroral footprint at Jupiter’s ionosphere. Using a three-dimensional, high-resolution global magnetohydrodynamic model of the Ganymede magnetosphere, we investigate the temporal variations of the Alfvénic power generated in the mini-magnetosphere of the moon under steady-state upstream conditions. Results show that (1) the Alfvénic power caused by the intermittent magnetic reconnections and the Kelvin–Helmholtz instabilities is quasiperiodic, varying over time with the periods about 71–333 s, which are consistent with the 100 s timescale periodicities of the Ganymede footprint's emitted power; and (2) the magnitude of the Alfvénic power is smaller when Ganymede is inside the Jovian plasma sheet where the By component is smaller, and larger when the moon is outside the plasma sheet where the By component is larger.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -136,10 +128,9 @@ Alfvénic power is generated through the interaction between the mini-magnetosph
 <div> 关键词: ambipolar diffusion, protoplanetary disk, Rossby wave instability, magnetic field, Elsässer number
 
 总结:
-本研究旨在调查ambipolar diffusion对原行星盘外部大半径处Rossby波不稳定性(RWI)的影响。研究使用线性摄动分析获得了PPD外部不稳定RWI模式的增长率。结果表明，对于小Elssässer数，ambipolar diffusion减弱了与RWI相关的不稳定模式的增长率，类似于对磁致旋转不稳定性(MRI)的影响。然而，与MRI不同的是，在大约Elssässer数为1附近存在ambipolar diffusion支持RWI的情况。最后，将研究结果与模拟研究进行比较，强调了RWI在原行星盘外部的重要性。<br><br>总结: 本研究通过线性摄动分析研究了ambipolar diffusion对原行星盘外部RWI的影响，发现小Elssässer数下其减弱了不稳定模式的增长率，支持了RWI的发生。同时与模拟研究进行比较强调了RWI在PPD外部的重要性。 <div>
+本研究旨在调查ambipolar diffusion对原行星盘外部大半径处Rossby波不稳定性(RWI)的影响。研究使用线性摄动分析获得了PPD外部不稳定RWI模式的增长率。结果表明，对于小Elssässer数，ambipolar diffusion减弱了与RWI相关的不稳定模式的增长率，类似于对磁致旋转不稳定性(MRI)的影响。然而，与MRI不同的是，在大约Elssässer数为1附近存在ambipolar diffusion支持RWI的情况。最后，将研究结果与模拟研究进行比较，强调了RWI在原行星盘外部的重要性。<br /><br />总结: 本研究通过线性摄动分析研究了ambipolar diffusion对原行星盘外部RWI的影响，发现小Elssässer数下其减弱了不稳定模式的增长率，支持了RWI的发生。同时与模拟研究进行比较强调了RWI在PPD外部的重要性。 <div>
 Recent observational and simulation studies have revealed that ambipolar diffusion is an important phenomenon in the outer regions of a protoplanetary disk (PPD). However, numerous simulation studies have found that ambipolar diffusion suppresses the turbulence caused by the magnetorotational instability (MRI) in these regions of a PPD. The aim of this study is to investigate the impact of ambipolar diffusion on the Rossby wave instability (RWI) at large radii of a PPD. To accomplish this, we examine the occurrence of the RWI in a PPD threaded by the magnetic field in the presence of ambipolar diffusion. Additionally, we scale the ambipolar diffusivity with respect to both the toroidal magnetic field and an important parameter known as the Elsässer number. We obtain the growth rate of unstable RWI modes in the outer regions of a PPD using linear perturbation analysis. In our nonaxisymmetric perturbation analysis, we find that the amplitude of the toroidal field oscillates in various modes for small values of the Elsässer numbers. For small Elsässer numbers, the growth rate of unstable modes associated with the RWI decreases. In other words, ambipolar diffusion suppresses the perturbation caused by the RWI. This effect is similar to the effect of ambipolar diffusion on the MRI. In contrast to the MRI, where there is a range around 1 for the Elsässer numbers, the existence of ambipolar diffusion supports the occurrence of RWI. Finally, we compare our findings with those of simulation studies to emphasize the importance of RWI in the outer regions of a PPD.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -147,10 +138,8 @@ Recent observational and simulation studies have revealed that ambipolar diffusi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e9a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e9a</guid>
 <content:encoded><![CDATA[
-
 A hierarchical triple merger (HTM) constitutes a type of event in which two successive black hole (BH) mergers occur sequentially within the observational window of gravitational-wave (GW) detectors, which has an important role in testing general relativity and studying BH population. In this work, we conduct an analysis to determine the feasibility of identifying HTMs from a large GW event catalog using third-generation ground-based GW detectors. By comparing the Bhattacharyya coefficient that measures the overlap between the posterior distributions of the remnant and progenitor BH parameters, we find that the overlap between the event pair can serve as a preliminary filter, which balances between computational demand and the probability of false alarms. Following this initial, time-efficient, yet less accurate screening, a subset of potential HTM candidates will be retained. These candidates will subsequently be subjected to a more precise, albeit time-intensive, method of joint parameter estimation for verification. Ultimately, this process will enable us to robustly identify HTMs.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -158,10 +147,8 @@ A hierarchical triple merger (HTM) constitutes a type of event in which two succ
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fa4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fa4</guid>
 <content:encoded><![CDATA[
-
 The thorium and six second-peak r-process element (56 ≤ Z ≤ 72) abundances are determined for the α-poor star LAMOST J1124+4535 based on a high-resolution spectrum obtained with the High Dispersion Spectrograph on the Subaru Telescope. The age of J1124+4535 is 11.3 ± 4.4 Gyr using thorium and other r-process element abundances. J1124+4535 is confirmed to be a Galactic halo metal-poor ([Fe/H] = −1.27 ± 0.1) star with extreme r-process element overabundance ([Eu/Fe] = 1.13 ± 0.08) and α element deficiency ([Mg/Fe] = −0.31 ± 0.09) by the LAMOST-Subaru project. Along with the subsolar α-to-iron ratios (e.g., [Mg/Fe], [Si/Fe], [Ca/Fe]), the relatively low abundances of Na, Cr, Ni, and Zn in J1124+4535 show a significant departure from the general trends of the Galactic halo but are in good agreement with those of dwarf galaxies. The chemical abundances and kinematics of J1124+4535 suggest it was formed in the late stage of star formation in a dwarf galaxy that has been disrupted by the Milky Way. The star formation of its progenitor dwarf galaxy lasted more than 2 Gyr and has been affected by a rare r-process event before the occurrence of accretion event.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -169,10 +156,8 @@ The thorium and six second-peak r-process element (56 ≤ Z ≤ 72) abundances a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad320a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad320a</guid>
 <content:encoded><![CDATA[
-
 We report on the orbit of the binary system powering the most extreme ultraluminous X-ray pulsar known to date: NGC 5907 ULX-1 (hereafter ULX1). ULX1 has been the target of a substantial multi-instrument campaign, mainly in the X-ray band, but no clear counterparts are known in other bands. Although ULX1 is highly variable and pulsations can be transient (regardless of the source flux), the timing data collected so far allow us to investigate the orbit of this system. We find an orbital period and a projected semi-axis . The most likely ephemeris is Porb = 5.6585(6) days, A1 = 3.1(4) lt-s, and the epoch of ascending nodes passage is Tasc = 57751.37(5) MJD. However, there are six similar solutions acceptable within 3σ. We find further indications that ULX1 is a high-mass X-ray binary. This implies that we are observing its orbit face on, with an inclination <5°.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -180,13 +165,10 @@ We report on the orbit of the binary system powering the most extreme ultralumin
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3218</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3218</guid>
 <content:encoded><![CDATA[
-
 We investigate the morphological and structural evolution of disk galaxies in simulations for a wide range of Toomre’s Q parameters. In addition to the inspection of conventional bar modes, we compute the concentration, asymmetry, and clumpiness (CAS) parameters to enlarge the understanding of the galaxy evolution. These parameters are widely employed to analyze the light distribution of the observed galaxies, but the adaptation to numerical simulations is not much considered. While the bar formation takes place in a considerable range of Q around 1, barred galaxies originating from Q > 1 and Q < 1 disks yield CAS values that differ significantly. Disks starting with Q < 1 develop clumps due to local gravitational instabilities along with the bar, and these clumps play a central role in enhancing the CAS values. This process is absent in the Q > 1 counterparts in which the evolution is dominated by linearly unstable two-armed modes that lead to lower CAS values. Likewise, unbarred galaxies that are obtainable from disks with Q far below and far above 1 exhibit greatly different CAS magnitudes. It turns out that the CAS parameters can serve as indicators of the initial kinematical state and the evolution history of a disk of any morphology. In addition, we find an alternative mechanism of the formation of the lopsided barred galaxy when Q ≲ 1. Bars that evolve in the midst of the clumps can spontaneously become lopsided at the end.
 ]]></content:encoded>
-
 <pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Parker Solar Probe Observations of Magnetic Reconnection Exhausts in Quiescent Plasmas near the Sun</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25f0</link>
