@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Developing an Automated Detection, Tracking, and Analysis Method for Solar Filaments Observed by CHASE via Machine Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2be9</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: 太阳丝状物，太阳活动，空间天气预警，自动化处理， U-Net 模型
 
-太阳丝状物动态研究对于理解它们的形成、演变和喷发具有重要意义，尤其对太空天气预警和预测至关重要。中国Hα太阳探测器（CHASE）上的Hα成像光谱仪（HIS）提供了对太阳全圆盘的Hα光谱观测数据，为系统地探索和分析丝状物的等离子体动态提供了机会。本文利用U-Net模型识别太阳丝状物，并实施通道和空间可靠跟踪算法进行自动化丝状物跟踪。此外，我们使用云模型反演丝状物的径向速度，并采用图论算法提取丝状物脊线，这有助于深化我们对丝状物动态的理解。有利的测试表现证实了我们方法的有效性，并将在后续的CHASE/HIS观测数据中进行丝状物特征和动态的统计分析。<br><br>总结: 本文针对自动处理和分析太阳丝状物动态的问题，使用了U-Net模型识别丝状物、通道和空间可靠跟踪算法进行自动化跟踪、云模型反演速度以及图论算法提取丝状物脊线。通过有利的测试表现证实了方法的有效性，为进一步统计分析CHASE/HIS观测数据中的丝状物特征和动态提供了重要基础。 <div>
+太阳丝状物动态研究对于理解它们的形成、演变和喷发具有重要意义，尤其对太空天气预警和预测至关重要。中国Hα太阳探测器（CHASE）上的Hα成像光谱仪（HIS）提供了对太阳全圆盘的Hα光谱观测数据，为系统地探索和分析丝状物的等离子体动态提供了机会。本文利用U-Net模型识别太阳丝状物，并实施通道和空间可靠跟踪算法进行自动化丝状物跟踪。此外，我们使用云模型反演丝状物的径向速度，并采用图论算法提取丝状物脊线，这有助于深化我们对丝状物动态的理解。有利的测试表现证实了我们方法的有效性，并将在后续的CHASE/HIS观测数据中进行丝状物特征和动态的统计分析。<br /><br />总结: 本文针对自动处理和分析太阳丝状物动态的问题，使用了U-Net模型识别丝状物、通道和空间可靠跟踪算法进行自动化跟踪、云模型反演速度以及图论算法提取丝状物脊线。通过有利的测试表现证实了方法的有效性，为进一步统计分析CHASE/HIS观测数据中的丝状物特征和动态提供了重要基础。 <div>
 Studies on the dynamics of solar filaments have significant implications for understanding their formation, evolution, and eruption, which are of great importance for space weather warning and forecasting. The Hα Imaging Spectrograph (HIS) on board the recently launched Chinese Hα Solar Explorer (CHASE) can provide full-disk solar Hα spectroscopic observations, which bring us an opportunity to systematically explore and analyze the plasma dynamics of filaments. The dramatically increased observation data require automated processing and analysis, which are impossible if dealt with manually. In this paper, we utilize the U-Net model to identify filaments and implement the Channel and Spatial Reliability Tracking algorithm for automated filament tracking. In addition, we use the cloud model to invert the line-of-sight velocity of filaments and employ the graph theory algorithm to extract the filament spine, which can advance our understanding of the dynamics of filaments. The favorable test performance confirms the validity of our method, which will be implemented in the following statistical analyses of filament features and dynamics of CHASE/HIS observations.
 ]]></content:encoded>
-
 <pubDate>2024-04-15T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Joint Observations of Energy Transport and Dissipation during Plasma Flow Vortex in the Terrestrial Magnetotail</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad275f</link>
@@ -11197,25 +11196,6 @@ We report spectroscopic observations of vB 120 (HD 30712), a 5.7 yr astrometric�
 总结:<br />
 本研究基于Gaia Data Release 3的数据，发现了一些关于双星系统的引力异常现象。在对天体测量和径向速度进行了严格要求的情况下，研究发现了纯粹的双星系统，符合牛顿力学，但在较大距离下却显示出与牛顿预期有明显偏差的运动。这一发现在数据分析中得到了验证，并得出了相应的运动加速度比率，证实了在低加速度下存在引力异常现象。 <div>
 It is found that Gaia Data Release 3 binary stars selected with stringent requirements on astrometric measurements and radial velocities naturally satisfy Newtonian dynamics without hidden close companions when the projected separation s ≲ 2 kau, showing that pure binaries can be selected. It is then found that pure binaries selected with the same criteria show a systematic deviation from the Newtonian expectation when s ≳ 2 kau. When both proper motions and parallaxes are required to have precision better than 0.005 and radial velocities better than 0.2, I obtain 2463 statistically pure binaries within a “clean” G-band absolute magnitude range. From this sample, I obtain an observed-to-Newtonian predicted kinematic acceleration ratio of {\gamma }_{g}={g}_{\mathrm{obs}}/{g}_{\mathrm{pred}}={1.49}_{-0.19}^{+0.21} for acceleration ≲10−10 m s−2, in excellent agreement with 1.49 ± 0.07 for a much larger general sample with the amount of hidden close companions self-calibrated. I also investigate the radial profile of stacked sky-projected relative velocities without a deprojection to the 3D space. The observed profile matches the Newtonian predicted profile for s ≲ 2 kau without any free parameters, but shows a clear deviation at a larger separation with a significance of ≈5.0σ. The projected velocity boost factor for s ≳ 5 kau is measured to be {\gamma }_{{v}_{p}}=1.20\pm 0.06 (stat) ±0.05 (sys) matching \sqrt{{\gamma }_{g}}. Finally, for a small sample of 40 binaries with exceptionally precise radial velocities (fractional errors &lt;0.005), the directly measured relative velocities in the 3D space also show a boost at larger separations. These results robustly confirm the recently reported gravitational anomaly at low acceleration for a general sample.
-]]></content:encoded>
-<pubDate>2024-01-08T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Influence of Jets on [O iii] Extensions in Green Pea/Bean Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f28</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f28</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Green Peas, Green Beans, [O iii] emission, jets, EELRs
-
-研究调查了具有强烈[O iii]λ5007发射的星系（即绿豆和绿豌豆）受喷流影响的情况。研究样本包括12个附近源（z∼0.04–0.1，其中六个有喷流，六个没有喷流），具有高的[O iii]发光度（L∼1040 erg s−1），这些样本来自于斯隆数字化天空调查和二十厘米射电天空调查观测的射电选择星系样本。我们在每个星系上进行了大双望远镜-多对象双光谱仪的长条谱学观测，沿着两个位置角度进行观测：一个与喷流方向对齐，另一个垂直于喷流方向。通过沿着这些切口追踪[O iii]发射，我们旨在评估狭线区域的延伸并检查喷流的影响。令人惊讶的是，我们的分析显示[O iii]发射的延伸没有首选方向，这表明喷流对延伸的发射线区域（EELRs）影响有限。这也暗示了可能会漏掉与喷流对齐的圆锥形EELRs的检测，这归因于我们的切口方向。此外，我们比较了跟踪星形区域的[O ii]发射与[O iii]的延伸。我们观察到了显著的差异，[O ii]沿着星系平面展示了更大的延伸，这表明[O ii]发射与恒星过程的关联更加强烈。
-
-<br /><br />总结:
-1. 研究对象为具有高 [O iii] 发射的星系，分为有喷流和无喷流两组。
-2. 使用长条谱学观测评估了狭线区域的延伸，并检查了喷流的影响。
-3. 结果显示喷流对延伸的发射线区域影响有限，没有首选方向。
-4. 比较了 [O ii] 和 [O iii] 发射的延伸，发现 [O ii] 更与恒星过程关联。
-5. 研究结果暗示可能漏掉与喷流对齐的圆锥形 EELRs 的检测。 <div>
-We present a study investigating the influence of jets on galaxies exhibiting strong [O iii]λ5007 emission, known as Green Peas and Green Beans. Our sample comprised 12 nearby sources (z ∼ 0.04–0.1, six with jets and six without jets) with high [O iii] luminosity (L ∼ 1040 erg s−1), selected from a radio-selected galaxy sample observed with the Sloan Digital Sky Survey and Radio Sky at Twenty-centimeters survey. We perform Large Binocular Telescope–Multi-Object Double Spectrograph long-slit spectroscopy at two position angles for each galaxy: one aligned with the jet direction and another perpendicular to it. By tracing the [O iii] emission along these slits, we aimed to assess the extension of the narrow line region and examine the impact of jets. Surprisingly, our analysis revealed no preferred direction for the extension of the [O iii] emission, indicating that jets have a limited influence on the extended emission line regions (EELRs). This also suggests the possibility of missed detection of conical-shaped EELRs aligned with the jets, attributable to our slit orientations. Furthermore, we compared the extension of [O ii] emission, which traces star-forming regions, with that of [O iii]. We observed a significant difference, with [O ii] exhibiting a considerably greater extension along the galactic plane. This suggests a stronger association of [O ii] emission with stellar processes.
 ]]></content:encoded>
 <pubDate>2024-01-08T00:00:00Z</pubDate>
 </item>
