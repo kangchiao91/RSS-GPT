@@ -5,16 +5,42 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Galactic Magnetic Fields. I. Theoretical Model and Scaling Relations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3205</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3205</guid>
+<content:encoded><![CDATA[
+<div> 观测量、星系旋转曲线、气体表面密度、恒星表面密度、星际介质湍流
+总结:
+该研究开发了一个模型，使用可观测的数量作为输入参数，如星系旋转曲线、气体、恒星和恒星形成率的表面密度，以及气体温度。模型可以用来估计磁场的随机和平均分量的参数，以及气体尺度高度、均方根速度和星际湍流的相关长度和时间，从观测量的角度来看。研究还评估了结果对湍流驱动不同假设的依赖性，并发现通过明确建模超新星遗迹的扩展和能量，可以改善与观测的一致性。该模型具有足够的灵活性，可以包括涉及的物理过程的替代方案，并提供两个实施该模型的开源Python程序的链接。 <div>
+Galactic dynamo models have generally relied on input parameters that are very challenging to constrain. We address this problem by developing a model that uses observable quantities as input: the galaxy rotation curve, the surface densities of the gas, stars and star formation rate, and the gas temperature. The model can be used to estimate parameters of the random and mean components of the magnetic field, as well as the gas scale height, root-mean-square velocity and the correlation length and time of the interstellar turbulence, in terms of the observables. We use our model to derive theoretical scaling relations for the quantities of interest, finding reasonable agreement with empirical scaling relations inferred from observation. We assess the dependence of the results on different assumptions about turbulence driving, finding that agreement with observations is improved by explicitly modeling the expansion and energetics of supernova remnants. The model is flexible enough to include alternative prescriptions for the physical processes involved, and we provide links to two open-source python programs that implement it.
+]]></content:encoded>
+
+<pubDate>2024-04-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Mid-infrared Properties of Narrow-line Seyfert 1 Galaxies Detected by LoTSS DR2</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3067</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3067</guid>
+<content:encoded><![CDATA[
+<div> NLS1s, AGNs, jets, radio emission, mid-infrared<br>
+总结:<br>
+本文研究了NLS1s的中红外特性，发现它们与射电暴星系和星暴星系在MIR颜色-颜色图中有重叠，但与SFGs和光学选择的射电星系有很大差别。同时发现NLS1s的射电和MIR辐射都受AGN活动的显著影响。一小部分射电亮度较高的NLS1s在射电-MIR图中与类星体相似，这说明它们的射电辐射由喷流主导。通过射电-MIR图中的射电过剩，发现了一些潜在的具有喷流的NLS1候选体。 <div>
+Narrow-line Seyfert 1 galaxies (NLS1s), a subclass of active galactic nuclei (AGNs) in an early stage of the accretion process, are also found to host relativistic jets. However, currently known jetted NLS1s are rare. The majority of NLS1s are undetected at the radio band. The radio detection rate of NLS1s increases with the LOFAR Two-metre Sky Survey (LoTSS), which provides a good opportunity for finding more jetted NLS1s. The better sensitivity raises the question whether the radio emission of NLS1s with a low radio luminosity originates from the jet activity. In order to clarify the origin of the radio emission for NLS1s and search for more jetted NLS1s, we explore the mid-infrared properties of LoTSS-detected NLS1s by comparing them with known jetted AGNs and star-forming galaxies (SFGs), which are located above and on the well-studied radio/far-infrared correlation, respectively. The majority of NLS1s show mid-infrared (MIR) excess compared with SFGs. Their radio emission shows a significant correlation with the MIR emission. In the MIR color–color diagram, NLS1s overlap flat spectrum radio quasars, but they are well separated from SFGs and optically selected radio galaxies. The flux ratio of the radio and MIR emission of these NLS1s is also similar to that of a radio-quiet quasar with a weak jet. These results imply substantial contributions from the AGN activities for both the radio and MIR emission of NLS1s. A small fraction of NLS1s with relatively higher radio luminosities are located in a similar region as blazars in the radio-MIR diagram, which suggests that the radio emission of these NLS1s is dominated by the jet. We obtain a sample of jetted NLS1 candidates through their radio excess in the radio-MIR diagram.
+]]></content:encoded>
+
+<pubDate>2024-04-24T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>GN-z11 in Context: Possible Signatures of Globular Cluster Precursors at Redshift 10</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad235e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad235e</guid>
 <content:encoded><![CDATA[
-<div> 高红移星系、JWST光谱、氮元素、恒星形成、化学丰度<br>
-<br>总结:
+<div> 高红移星系、JWST光谱、氮元素、恒星形成、化学丰度<br />
+<br />总结:
 这篇文章介绍了对高红移星系GN-z11的JWST光谱分析结果。研究发现，该星系的光谱显示了高度电离的氮元素特征，并通过星云建模测量了星云密度。研究人员还使用光电离模型和地球附近的低金属丰度星系进行比较，发现星系中氮气含量丰富，并认为这可能是密集星系中强烈星形成的独特标志。这些结果为高红移星系中的星团形成和化学丰度提供了新的见解。 <div>
 The first JWST spectroscopy of the luminous galaxy GN-z11 simultaneously established its redshift at z = 10.6 and revealed a rest-ultraviolet spectrum dominated by signatures of highly ionized nitrogen, which has so far defied clear interpretation. We present a reappraisal of this spectrum in the context of both detailed nebular modeling and nearby metal-poor reference galaxies. The N iv] emission enables the first nebular density measurement in an apparently predominantly star-forming galaxy at z > 10, revealing evidence for extremely high densities ne ≳ 105 cm−3. With a suite of photoionization models, we establish that regardless of the ionization mechanism and accounting for depletion and this density enhancement, gas substantially enriched in nitrogen ([N/O] = +0.52 assuming the nebular emission is dominated by star formation) is required to reproduce the observed lines. We compare the GN-z11 spectrum to local UV databases and highlight a unique nearby galaxy, Mrk 996, where a high concentration of Wolf–Rayet stars and their CNO-processed ejecta produce a UV spectrum remarkably similar in some respects to that of GN-z11 and the Sunburst Arc. Collating this evidence in the context of Galactic stellar abundances, we suggest that the peculiar nitrogenic features prominent in GN-z11 may be a unique signature of intense and densely clustered star formation in the evolutionary chain of the present-day globular clusters, consistent with in situ early enrichment with nuclear-processed stellar ejecta on a massive scale. Combined with insight from local galaxies, these and future JWST data open a powerful new window into the physical conditions of star formation and chemical enrichment at the highest redshifts.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,7 +53,6 @@ The first JWST spectroscopy of the luminous galaxy GN-z11 simultaneously establi
 本研究通过对宽带观测数据和窄带观测数据进行对比分析，发现使用减少频率范围会引入系统偏差。我们发现对于DM值较高的脉冲星，由于频率采样不完整造成的无穷频率到达时间会存在约22微秒的偏移，并且在约一个月的时间尺度上存在相关性。对于DM值较低的脉冲星，这个偏移约为7微秒。这种误差的量化可以用于在NANOGrav数据中提供更加健壮的噪声建模，从而提高灵敏度和改善引力波搜索中的参数估计。 <div>
 Noise characterization for pulsar-timing applications accounts for interstellar dispersion by assuming a known frequency dependence of the delay it introduces in the times of arrival (TOAs). However, calculations of this delay suffer from misestimations due to other chromatic effects in the observations. The precision in modeling dispersion is dependent on the observed bandwidth. In this work, we calculate the offsets in infinite-frequency TOAs due to misestimations in the modeling of dispersion when using varying bandwidths at the Green Bank Telescope. We use a set of broadband observations of PSR J1643−1224, a pulsar with unusual chromatic timing behavior. We artificially restricted these observations to a narrowband frequency range, then used both the broad- and narrowband data sets to calculate residuals with a timing model that does not account for time variations in the dispersion. By fitting the resulting residuals to a dispersion model and comparing the fits, we quantify the error introduced in the timing parameters due to using a reduced frequency range. Moreover, by calculating the autocovariance function of the parameters, we obtained a characteristic timescale over which the dispersion misestimates are correlated. For PSR J1643−1224, which has one of the highest dispersion measures (DM) in the NANOGrav pulsar timing array, we find that the infinite-frequency TOAs suffer from a systematic offset of ∼22 μs due to incomplete frequency sampling, with correlations over about one month. For lower-DM pulsars, the offset is ∼7 μs. This error quantification can be used to provide more robust noise modeling in the NANOGrav data, thereby increasing the sensitivity and improving the parameter estimation in gravitational wave searches.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -36,11 +61,10 @@ Noise characterization for pulsar-timing applications accounts for interstellar 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2935</guid>
 <content:encoded><![CDATA[
 <div> Class 0 protostars, K-band spectra, accretion, Brγ emission, CO overtone emission
-<br>
-通过对26个Class 0原恒星的K波段光谱进行分析，发现了H i Brγ、H2和CO Δv = 2特征的检测和分析。Brγ发射在62%的源中检测到，CO overtone发射在50%的源中检测到，而H2发射在90%的源中检测到。H i和CO发射与吸积有关，而H2线与激波激发一致，表明存在喷流/流出。另外，六个物体表现出光球吸收特征，几乎没有流出活动，并且未检测到与吸积相关的Brγ发射线。将这些结果与Class I K-band光谱的文献样本进行比较，发现Class 0中CO和Brγ发射线的发射量普遍更大，这表明Class 0阶段的吸积平均更为激烈。Class 0中CO overtone发射的更高检测率通常与加热的内部吸积盘相关，表明Class 0系统中更频繁出现高吸积活动的阶段。Class 0 CO overtone发射的动力学特征表明，可能存在吸积加热的内部盘或物质直接落入中心区域的情况。这可能指向Class 0系统中不同性质的吸积机制，不同于 typica中幅卫星吸积的典型图片。<br><br>总结:  这项研究分析了Class 0原恒星的K波段光谱，发现了吸积和喷流活动的迹象，并发现Class 0阶段的吸积更为激烈，并且更频繁出现高吸积活动的情况。此外，Class 0系统中可能存在着不同于typica中幅卫星吸积的吸积机制。 <div>
+<br />
+通过对26个Class 0原恒星的K波段光谱进行分析，发现了H i Brγ、H2和CO Δv = 2特征的检测和分析。Brγ发射在62%的源中检测到，CO overtone发射在50%的源中检测到，而H2发射在90%的源中检测到。H i和CO发射与吸积有关，而H2线与激波激发一致，表明存在喷流/流出。另外，六个物体表现出光球吸收特征，几乎没有流出活动，并且未检测到与吸积相关的Brγ发射线。将这些结果与Class I K-band光谱的文献样本进行比较，发现Class 0中CO和Brγ发射线的发射量普遍更大，这表明Class 0阶段的吸积平均更为激烈。Class 0中CO overtone发射的更高检测率通常与加热的内部吸积盘相关，表明Class 0系统中更频繁出现高吸积活动的阶段。Class 0 CO overtone发射的动力学特征表明，可能存在吸积加热的内部盘或物质直接落入中心区域的情况。这可能指向Class 0系统中不同性质的吸积机制，不同于 typica中幅卫星吸积的典型图片。<br /><br />总结:  这项研究分析了Class 0原恒星的K波段光谱，发现了吸积和喷流活动的迹象，并发现Class 0阶段的吸积更为激烈，并且更频繁出现高吸积活动的情况。此外，Class 0系统中可能存在着不同于typica中幅卫星吸积的吸积机制。 <div>
 Sun-like stars are thought to accrete most of their final mass during the protostellar phase, during which the stellar embryo is surrounded by an infalling dense envelope. We present an analysis of 26 K-band spectra of Class 0 protostars, which are the youngest protostars. Of these, 18 are new observations made with the Keck MOSFIRE instrument. H i Brγ, several H2, and CO Δv = 2 features are detected and analyzed. We detect Brγ emission in 62%, CO overtone emission in 50%, and H2 emission in 90% of sources. The H i and CO emission is associated with accretion, while the H2 lines are consistent with shock excitation indicating jets/outflows. Six objects exhibit photospheric absorption features, with almost no outflow activity and no detection of the accretion-related Brγ emission line. Comparing these results with an archival sample of Class I K-band spectra, we find that the CO and Brγ emission lines are systematically more luminous in Class 0s, suggesting that the accretion is on average more vigorous in the Class 0 phase. Typically associated with the heated inner accretion disk, the much higher detection rate of CO overtone emission in Class 0s indicates also that episodes of high accretion activity are more frequent in Class 0 systems. The kinematics of the Class 0 CO overtone emission suggest either an accretion-heated inner disk or material directly infalling onto the central region. This could point toward an accretion mechanism of different nature in Class 0 systems than the typical picture of magnetospheric accretion.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,10 +74,9 @@ Sun-like stars are thought to accrete most of their final mass during the protos
 <content:encoded><![CDATA[
 <div> 关键词: protoplanetary disk turbulence, ansatz, Shakura–Sunyaev α parameter, Keplerian frequency, particle collision dynamics
 
-总结:<br><br>本文讨论了原行星盘湍流的理论，并探讨了一个广泛采用的假设，即最大湍流涡的周转频率ΩL等于局部开普勒频率ΩK的假设。文章指出这种假设不适用于数值强迫湍流或由自然过程驱动的情况。作者提出了更一般的情况，并研究了当ΩL ≥ ΩK时的特征长度和速度比例。文章还提到了在这种情况下的影响，对粒子碰撞动力学、成长以及行星形成等方面产生了重要影响。文章的研究有助于解释近期对边缘盘的观测，并对观测结果有着更一般的影响。 <div>
+总结:<br /><br />本文讨论了原行星盘湍流的理论，并探讨了一个广泛采用的假设，即最大湍流涡的周转频率ΩL等于局部开普勒频率ΩK的假设。文章指出这种假设不适用于数值强迫湍流或由自然过程驱动的情况。作者提出了更一般的情况，并研究了当ΩL ≥ ΩK时的特征长度和速度比例。文章还提到了在这种情况下的影响，对粒子碰撞动力学、成长以及行星形成等方面产生了重要影响。文章的研究有助于解释近期对边缘盘的观测，并对观测结果有着更一般的影响。 <div>
 In the theory of protoplanetary disk turbulence, a widely adopted ansatz, or assumption, is that the turnover frequency of the largest turbulent eddy, ΩL, is the local Keplerian frequency ΩK. In terms of the standard dimensionless Shakura–Sunyaev α parameter that quantifies turbulent viscosity or diffusivity, this assumption leads to characteristic length and velocity scales given respectively by and , in which H and c are the local gas scale height and sound speed. However, this assumption is not applicable in cases when turbulence is forced numerically or driven by some natural processes such as vertical shear instability. Here, we explore the more general case where ΩL ≥ ΩK and show that, under these conditions, the characteristic length and velocity scales are respectively and , where is twice the Rossby number. It follows that , where is the root-mean-square average of the turbulent velocities. Properly allowing for this effect naturally explains the reduced particle scale heights produced in shearing box simulations of particles in forced turbulence, and it may help with interpreting recent edge-on disk observations; more general implications for observations are also presented. For , the effective particle Stokes numbers are increased, which has implications for particle collision dynamics and growth, as well as for planetesimal formation.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -66,7 +89,6 @@ In the theory of protoplanetary disk turbulence, a widely adopted ansatz, or ass
 红巨星分支（TRGB）是利用低质量红巨星在氦闪之前的最亮上升来测量邻近星系精确距离的技术。JWST的出现使得该技术可以测量至少50 Mpc的星系距离，大大超过HST的20 Mpc的范围。使用F090W滤光片的绝对校准提供了TRGB测量的绝对参考。NGC 4258的图像数据提供了直接的几何距离测量，利用几种测量技术，得到了金属贫乏TRGB为-4.362 ± 0.033 (stat) ± 0.045 (sys)等级（vega）的结果。对NGC 1559和NGC 5584进行的TRGB测量与以前用Cepheids方法测得的距离结果一致。此外，还意外发现了NGC 5584附近的一个微弱的矮星系。 <div>
 The tip of the red giant branch (TRGB) allows for the measurement of precise and accurate distances to nearby galaxies based on the brightest ascent of low-mass red giant branch stars before they undergo the helium flash. With the advent of JWST, there is great promise to utilize the technique to measure galaxy distances out to at least 50 Mpc, significantly further than the Hubble Space Telescope's (HST's) reach of 20 Mpc. However, with any standard candle, it is first necessary to provide an absolute reference. Here, we use Cycle 1 data to provide an absolute calibration in the F090W filter. F090W is most similar to the F814W filter commonly used for TRGB measurements with HST, which had been adopted by the community due to its minimal dependence on the underlying metallicities and ages of stars. The imaging we use was taken in the outskirts of NGC 4258, which has a direct geometrical distance measurement from the Keplerian motion of its water megamaser. Utilizing several measurement techniques, we find = −4.362 ± 0.033 (stat) ± 0.045 (sys) mag (Vega) for the metal-poor TRGB. We also perform measurements of the TRGB in two Type Ia supernova hosts, NGC 1559 and NGC 5584. We find good agreement between our TRGB distances and previous determinations of distances to these galaxies from Cepheids (Δ = 0.01 ± 0.06 mag), with these differences being too small to explain the Hubble tension (∼0.17 mag). In addition, we showcase the serendipitous discovery of a faint dwarf galaxy near NGC 5584.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -74,11 +96,10 @@ The tip of the red giant branch (TRGB) allows for the measurement of precise and
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3047</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3047</guid>
 <content:encoded><![CDATA[
-<div> 太阳耀斑、脉冲指数、光谱曲线、磁场剪切、能量释放<br>
-太阳耀斑脉冲指数的研究对太阳动力学和恒星耀斑物理有重要意义。研究使用Solar Dynamics Observatory的304 Å光谱曲线计算了1368次太阳耀斑的脉冲指数，并将事件分为低、中和高脉冲性三类。研究发现，最大重联速率高的耀斑往往也具有高脉冲性。还发现，在一些案例研究中，脉冲指数与磁场剪切、带状演化和能量释放有关。这些发现有助于理解耀斑的脉冲性及其与其他特性的关系。需要更多研究验证这一关系，并将研究结果应用到恒星耀斑物理中。<br><br>总结: <br>太阳耀斑脉冲指数对太阳活动和恒星耀斑物理具有重要意义，研究发现耀斑的脉冲性与重联速率、磁场剪切、带状演化和能量释放相关，有助于理解其它特性的关系。需要更多研究来验证这些发现，并将其应用到恒星耀斑物理中。 <div>
+<div> 太阳耀斑、脉冲指数、光谱曲线、磁场剪切、能量释放<br />
+太阳耀斑脉冲指数的研究对太阳动力学和恒星耀斑物理有重要意义。研究使用Solar Dynamics Observatory的304 Å光谱曲线计算了1368次太阳耀斑的脉冲指数，并将事件分为低、中和高脉冲性三类。研究发现，最大重联速率高的耀斑往往也具有高脉冲性。还发现，在一些案例研究中，脉冲指数与磁场剪切、带状演化和能量释放有关。这些发现有助于理解耀斑的脉冲性及其与其他特性的关系。需要更多研究验证这一关系，并将研究结果应用到恒星耀斑物理中。<br /><br />总结: <br />太阳耀斑脉冲指数对太阳活动和恒星耀斑物理具有重要意义，研究发现耀斑的脉冲性与重联速率、磁场剪切、带状演化和能量释放相关，有助于理解其它特性的关系。需要更多研究来验证这些发现，并将其应用到恒星耀斑物理中。 <div>
 We develop the impulsiveness index, a new classification system for solar flares using the Solar Dynamics Observatory/Extreme Ultraviolet Experiment 304 Å Sun-as-a-star light curves. Impulsiveness classifies events based on the duration and intensity of the initial high-energy deposition of energy into the chromosphere. In stellar flare U-band light curves, Kowalski et al. found that impulsiveness is related to quantities such as a proxy for the Balmer jump ratio. However, the lack of direct spatial resolution in stellar flares limits our ability to explain this phenomenon. We calculate impulsiveness for 1368 solar flares between 2010 April and 2014 May. We divide events into categories of low, mid, and high impulsiveness. We find, in a sample of 480 flares, that events with high maximum reconnection rate tend to also have high impulsiveness. For six case studies, we compare impulsiveness to magnetic shear, ribbon evolution, and energy release. We find that the end of the 304 Å light-curve rise phase in these case studies corresponds to the cessation of polarity inversion line (PIL)-parallel ribbon motion, while PIL-perpendicular motion persists afterward in most cases. The measured guide-field ratio for low- and mid-impulsiveness case-study flares decreases about an order of magnitude during the impulsive flare phase. Finally, we find that, in four of the six case studies, flares with higher, more persistent shear tend to have low impulsiveness. Our study suggests that impulsiveness may be related to other properties of the impulsive phase, though more work is needed to verify this relationship and apply our findings to stellar flare physics.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -87,10 +108,9 @@ We develop the impulsiveness index, a new classification system for solar flares
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3076</guid>
 <content:encoded><![CDATA[
 <div> MW-like satellite systems, ram pressure stripping, gas fraction, cosmological zoom-in simulations, ultra-diffuse galaxy
-<br><br>总结: 本研究通过观测8个MW样本系统的45颗卫星，发现其中有4颗正在经历RPS。此外，在MW样本系统中观察到了气体分数随着卫星与宿主的距离减小而明显下降的现象。对比宇宙学局部环境模拟和TNG50宇宙尺度模拟，发现它们低估了大约0.5 dex的气体分数。通过简单的RPS模型，估计卫星遭遇的平均峰值CGM密度。最后，发现UGC 903系统中存在一个新的富气体卫星，其光学大小和表面亮度符合超弥散星系的标准。 <div>
+<br /><br />总结: 本研究通过观测8个MW样本系统的45颗卫星，发现其中有4颗正在经历RPS。此外，在MW样本系统中观察到了气体分数随着卫星与宿主的距离减小而明显下降的现象。对比宇宙学局部环境模拟和TNG50宇宙尺度模拟，发现它们低估了大约0.5 dex的气体分数。通过简单的RPS模型，估计卫星遭遇的平均峰值CGM密度。最后，发现UGC 903系统中存在一个新的富气体卫星，其光学大小和表面亮度符合超弥散星系的标准。 <div>
 We have imaged the entirety of eight (plus one partial) Milky Way (MW)–like satellite systems, a total of 42 (45) satellites, from the Satellites Around Galactic Analogs II catalog in both Hα and H i with the Canada–France–Hawaii Telescope and the Jansky Very Large Array. In these eight systems we have identified four cases where a satellite appears to be currently undergoing ram pressure stripping (RPS) as its H i gas collides with the circumgalactic medium (CGM) of its host. We also see a clear suppression of gas fraction (MHI/M*) with decreasing (projected) satellite–host separation—to our knowledge, the first time this has been observed in a sample of MW-like systems. Comparisons to the Auriga, A Project Of Simulating The Local Environment, and TNG50 cosmological zoom-in simulations show consistent global behavior, but they systematically underpredict gas fractions across all satellites by roughly 0.5 dex. Using a simplistic RPS model, we estimate the average peak CGM density that satellites in these systems have encountered to be . Furthermore, we see tentative evidence that these satellites are following a specific star formation rate to gas fraction relation that is distinct from field galaxies. Finally, we detect one new gas-rich satellite in the UGC 903 system with an optical size and surface brightness meeting the standard criteria to be considered an ultra-diffuse galaxy.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -100,13 +120,11 @@ We have imaged the entirety of eight (plus one partial) Milky Way (MW)–like sa
 <content:encoded><![CDATA[
 <div> 探测, 磁层, 天体, 磁流, 广播
 
-在这篇文章中，作者介绍了他们针对九个附近星系进行的有关探测天体磁层广播的调研成果。调研中使用了阿雷西博射电望远镜进行无线电测量，结果表明并未探测到天体伴星的磁层广播。这些结果有助于我们理解关于天体磁层的理论工作和太阳系行星以及超冷矮星的无线电发射观测。此外，这项调研也是第一次针对Y型棕矮星进行了相关研究，有助于解答有关它们磁性、内部和大气结构以及形成历史的问题。总结: <br><br>磁层广播调查无法探测到天体伴星的无线电信号，但对于天体磁层的理论研究以及棕矮星的相关问题提供了一定的参考价值。 <div>
+在这篇文章中，作者介绍了他们针对九个附近星系进行的有关探测天体磁层广播的调研成果。调研中使用了阿雷西博射电望远镜进行无线电测量，结果表明并未探测到天体伴星的磁层广播。这些结果有助于我们理解关于天体磁层的理论工作和太阳系行星以及超冷矮星的无线电发射观测。此外，这项调研也是第一次针对Y型棕矮星进行了相关研究，有助于解答有关它们磁性、内部和大气结构以及形成历史的问题。总结: <br /><br />磁层广播调查无法探测到天体伴星的无线电信号，但对于天体磁层的理论研究以及棕矮星的相关问题提供了一定的参考价值。 <div>
 Plasma flow–obstacle interactions, such as those between an exoplanet’s magnetosphere and the host star’s stellar wind, may lead to detectable radio emissions. Despite many attempts to detect magnetospheric (auroral) radio emissions from exoplanets, a reproducible, unambiguous detection remains elusive. This fourth paper of the Radio Observations of Magnetized Exoplanets (ROME) series presents the results of a targeted radio survey of nine nearby systems that host exoplanet, brown dwarf, or low-mass-stellar companions conducted with the Arecibo radio telescope at ∼5 GHz. This search for magnetospheric radio emissions has the greatest sensitivity (∼1 mJy during <1 s integration times) and collected full Stokes parameters over the largest simultaneous bandpass of any survey to date. It is also the first survey to search for radio emission from brown dwarfs of spectral class Y, which may illuminate open questions regarding their magnetism, interior and atmospheric structure, and formation histories. No magnetospheric radio emissions from substellar companions were detected. These results are examined within the context of recent theoretical work on plasma flow–obstacle interactions, and radio emissions observed from the solar system planets and ultracool dwarfs.
 ]]></content:encoded>
-
 <pubDate>2024-04-24T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Multiple Beads on a String: Dark-matter-deficient Galaxy Formation in a Mini-Bullet Satellite–Satellite Galaxy Collision</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2932</link>
@@ -11185,104 +11203,6 @@ In the forthcoming era of big astronomical data, it is a burden to find target s
 <br />
 Globular clusters (GCs)是特别高效形成毫秒脉冲星的地方。在这些脉冲星中，大约一半缺乏伴星，这个比例比银河系场中的要高得多。在一些最密集的GCs中，特别是那些经历了核心崩溃的GCs中，这个比例进一步增加，这表明动态相互作用过程起着关键作用。我们首次创建了能够重现类似银河系GCs中单脉冲星与双脉冲星的比例的N体模型。我们特别关注NGC 6752，这是一个典型的核心崩溃星团，观测到许多毫秒脉冲星。先前的研究表明，在最密集的星团中，中子星双星破碎率增加可能解释了这些系统中单个脉冲星的过多。在这里，我们证明双星破碎是无效的，相反，我们提出两个额外的动态过程起主导作用：（1）中子星对主序星团的潮汐破碎和（2）重型白矮星双星合并残余物的引力坍缩。通过这些过程形成的中子星也可能与最近在外星系GC中观测到的快速射电暴发有关。<br /><br />总结:GCs是形成毫秒脉冲星的高效地方，但一半以上缺乏伴星。N体模型能重现银河系GCs中的现象。NGC 6752是一个典型的核心崩溃星团，关于双脉冲星的过多有新的解释。双星破碎无效，而潮汐破碎和白矮星合并引起的中子星形成可能引起快速射电暴发。 <div>
 Globular clusters (GCs) are particularly efficient at forming millisecond pulsars. Among these pulsars, about half lack a companion star, a significantly higher fraction than in the Galactic field. This fraction increases further in some of the densest GCs, especially those that have undergone core collapse, suggesting that dynamical interaction processes play a key role. For the first time, we create N-body models that reproduce the ratio of single-to-binary pulsars in Milky Way–like GCs. We focus especially on NGC 6752, a typical core-collapsed cluster with many observed millisecond pulsars. Previous studies suggested that an increased rate of neutron star binary disruption in the densest clusters could explain the overabundance of single pulsars in these systems. Here, we demonstrate that binary disruption is ineffective and instead we propose that two additional dynamical processes play dominant roles: (1) tidal disruption of main-sequence stars by neutron stars and (2) gravitational collapse of heavy white dwarf binary merger remnants. Neutron stars formed through these processes may also be associated with fast radio bursts similar to those observed recently in an extragalactic GC.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Galactic Gamma-Ray Diffuse Emission at TeV Energies with HAWC Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad00b6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad00b6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Galactic gamma-ray diffuse emission, High Altitude Water Cherenkov detector, cosmic rays, CR population, DRAGONbase model
-
-总结:
-本文使用HAWC探测器收集的数据分析了银河平面区域的太子电子伏特弥散辐射。研究显示，这种辐射的光谱与观测到的宇宙射线具有相似的指数。与DRAGONbase模型相比，HAWC GDE流量高出约2倍，这可能是未解决的源（如脉冲星风星云和太子电子伏特半球）或银河射线通量从局部测量的射线通量偏差所致。这些发现有助于我们更好地理解银河系中太子电子伏特弥散辐射的性质。<br /><br /> <div>
-Galactic gamma-ray diffuse emission (GDE) is emitted by cosmic rays (CRs), ultra-relativistic protons, and electrons, interacting with gas and electromagnetic radiation fields in the interstellar medium. Here we present the analysis of teraelectronvolt diffuse emission from a region of the Galactic plane over the range in longitude of l ∈ [43°, 73°], using data collected with the High Altitude Water Cherenkov (HAWC) detector. Spectral, longitudinal, and latitudinal distributions of the teraelectronvolt diffuse emission are shown. The radiation spectrum is compatible with the spectrum of the emission arising from a CR population with an index similar to that of the observed CRs. When comparing with the DRAGONbase model, the HAWC GDE flux is higher by about a factor of 2. Unresolved sources such as pulsar wind nebulae and teraelectronvolt halos could explain the excess emission. Finally, deviations of the Galactic CR flux from the locally measured CR flux may additionally explain the difference between the predicted and measured diffuse fluxes.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Sensitivity of Polarization to Grain Shape. I. Convex Shapes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0463</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0463</guid>
-<content:encoded><![CDATA[
-<div> 粒子形状，偏振消光，偏振热辐射，离散偶极近似，星光偏振 <br />
-该研究通过离散偶极近似来计算20种不同凸形状的粒子在不同波长和不同粒径下的偏振截面。结果显示，一些形状可以被排除，因为它们在远红外和亚毫米波段提供的偏振太少或太多。通过实验确定了观察到的星光偏振所需的最小长宽比。另外，发现10微米波长偏振和光学偏振的比值几乎不受颗粒形状影响，这表明颗粒形状的不确定性不能解释对Cyg OB2-12预测和观测到的10微米偏振之间的差异。<br /><br />总结: 该研究使用离散偶极近似计算了不同凸形状粒子的偏振截面，发现一些形状不适合产生所需的偏振，同时发现颗粒形状的不确定性不能解释观测结果。 <div>
-Aligned interstellar grains produce polarized extinction (observed at wavelengths from the far-ultraviolet to the mid-infrared) and polarized thermal emission (observed at far-infrared and submm wavelengths). The grains must be quite nonspherical, but the actual shapes are unknown. The relative efficacy for aligned grains to produce polarization at optical versus infrared wavelengths depends on particle shape. The discrete dipole approximation is used to calculate polarization cross sections for 20 different convex shapes, for wavelengths from 0.1 to 100 μm, and grain sizes aeff from 0.05 to 0.3 μm. Spheroids, cylinders, square prisms, and triaxial ellipsoids are considered. Minimum aspect ratios required by the observed starlight polarization are determined. Some shapes can also be ruled out because they provide too little or too much polarization at far-infrared and submm wavelengths. The ratio of 10 μm polarization to integrated optical polarization is almost independent of grain shape, varying by only ±8% among the viable convex shapes; thus, at least for convex grains, uncertainties in grain shape cannot account for the discrepancy between predicted and observed 10 μm polarization toward Cyg OB2-12.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>MAMMOTH-Subaru. V. Effects of Cosmic Variance on Lyα Luminosity Functions at z = 2.2–2.3</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad04da</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad04da</guid>
-<content:encoded><![CDATA[
-<div> Subaru/Hyper Suprime-Cam, Lyα emitters, cosmic variance, luminosity function, observational approach
-<br />
-这项研究利用Subaru/Hyper Suprime-Cam在八个独立的领域观测了近似2.2的Lyα发射线光度函数，通过观测方法来测量宇宙方差。研究报告了Lyα光度函数的最佳拟合Schechter函数参数。通过对样本进行采样并剔除可能引起宇宙方差测量偏差的区域，计算了σg。研究还调查了σg与调查体积V之间的关系，并拟合了简单的幂律关系。最后，研究比较了实测结果与模拟预测，发现LAEs的宇宙方差可能大于普通星系的宇宙方差。
-<br /><br />总结: <br />Subaru/Hyper Suprime-Cam观测了近似2.2的Lyα发射线光度函数；研究报告了Lyα光度函数的最佳拟合Schechter函数参数；通过对样本进行采样并剔除可能引起宇宙方差测量偏差的区域，计算了σg；研究调查了σg与调查体积V之间的关系，并拟合了简单的幂律关系；最后，实测结果与模拟预测比较，发现LAEs的宇宙方差可能大于普通星系的宇宙方差。 <div>
-Cosmic variance introduces significant uncertainties into galaxy number density properties when surveying the high-redshift Universe with a small volume. Such uncertainties produce the field-to-field variance σg of galaxy numbers in observational astronomy, which significantly affects the luminosity function (LF) measurement of Lyα emitters (LAEs). For most previous Lyα LF studies, σg is often adopted from predictions by cosmological simulations, but barely confirmed by observations. Measuring cosmic variance requires a huge sample over a large volume, exceeding the capabilities of most astronomical instruments. In this study, we demonstrate an observational approach for measuring the cosmic variance contribution for z ≈ 2.2 Lyα LFs. The LAE candidates are observed using the narrow band and broad band of the Subaru/Hyper Suprime-Cam in eight independent fields, making the total survey area ≃11.62 deg2 and a comoving volume of ≃8.71 × 106 Mpc3. We report a best-fit Schechter function with parameters α = −1.75 (fixed), {L}_{\mathrm{Ly}\alpha }^{* }={5.95}_{-0.96}^{+1.22}\times {10}^{42} erg s−1, and {\phi }_{\mathrm{Ly}\alpha }^{* }={5.26}_{-1.27}^{+1.65} × 10−4 Mpc−3 for the overall Lyα LFs. After clipping out the regions that may bias the cosmic variance measurements, we calculate σg by sampling LAEs within multiple pointings on the field image. We investigate the relation between σg and survey volume V, and fit a simple power-law {\sigma }_{g}=k\times {\left(\tfrac{V}{{10}^{5}\,{\mathrm{Mpc}}^{3}}\right)}^{\beta }. We find best-fit values of -{1.399}_{-0.156}^{+0.160} for β and {1.249}_{-0.193}^{+0.213} for k. We compare our measurements with predictions from simulations and find that the cosmic variance of LAEs is likely larger than that of general star-forming galaxies.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Simultaneous Dual-frequency Scintillation Arc Survey of Six Bright Canonical Pulsars Using the Upgraded Giant Metrewave Radio Telescope</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad06bb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad06bb</guid>
-<content:encoded><![CDATA[
-<div> 关键词: uGMRT, 脉冲星, 散射弧, 频率依赖性, 射电望远镜
-
-总结:<br /><br />本研究使用升级版巨型米波射电望远镜（uGMRT）对六颗明亮的脉冲星进行观测，测量了其散射弧特性，包括频率和时间的演变。观测覆盖频率范围从300到750 MHz，能够对频率、曲率、带宽和时间尺度等参数进行更准确的测量和比较。研究发现散射弧的不对称性与曲率存在强相关性，并发现了可能支持某一散射屏幕在一周左右时间内主导信号传播的证据。此外，观测还发现一些脉冲星的散射弧存在明显的曲率不对称性，表明其视线上存在折射现象。对于一些脉冲星还发现了先前研究中出现的多重散射弧和平坦的小弧特征。升级后的GMRT射电望远镜在未来的脉冲星散射研究中展现了良好的潜力。 <div>
-We use the upgraded Giant Metrewave Radio Telescope (uGMRT) to measure scintillation arc properties in six bright canonical pulsars with simultaneous dual-frequency coverage. These observations, at frequencies from 300 to 750 MHz, allowed for detailed analysis of arc evolution across frequency and epoch. We perform more robust determinations of frequency dependence for arc curvature, scintillation bandwidth, and scintillation timescale, and comparison between arc curvature and pseudo-curvature than allowed by single-frequency-band-per-epoch measurements, which we find to agree with theory and previous literature. We find a strong correlation between arc asymmetry and arc curvature, which we have replicated using simulations, and attribute to a bias in the Hough transform approach to scintillation arc analysis. Possible evidence for an approximately week-long timescale over which a given scattering screen dominates signal propagation was found by tracking visible scintillation arcs in each epoch in PSR J1136+1551. The inclusion of a 155-minute observation allowed us to resolve the scale of scintillation variations on short timescales, which we find to be directly tied to the amount of interstellar medium sampled over the observation. Some of our pulsars showed either consistent or emerging asymmetries in arc curvature, indicating instances of refraction across their lines of sight. Significant features in various pulsars, such as multiple scintillation arcs in PSR J1136+1551 and flat arclets in PSR J1509+5531, that have been found in previous works, were also detected. The simultaneous multiple-band observing capability of the upgraded GMRT shows excellent promise for future pulsar scintillation work.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Growth of Massive Molecular Cloud Filament by Accretion Flows. I. Slow-shock Instability versus Ambipolar Diffusion</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad072a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad072a</guid>
-<content:encoded><![CDATA[
-<div> 星形成，分子云，慢震荡，磁流体力学，等离子体<br />
-总结:<br />
-该研究调查了等离子体对慢震荡不稳定性的影响。通过二维磁流体力学模拟，研究结果显示，慢震荡不稳定性最不稳定的尺度约为等离子体扩散长度的5倍。这对于了解星形成过程中慢震荡的影响具有重要意义。 <div>
-The Herschel Gould Belt Survey showed that stars form in dense filaments in nearby molecular clouds. Recent studies suggest that massive filaments are bound by the slow shocks caused by accretion flows onto the filaments. The slow shocks are known to be unstable to corrugation deformation of the shock front. Corrugation instability could convert the accretion flow's ram pressure into turbulent pressure that influences the width of the filament, which, according to theory, determines the self-gravitational fragmentation scale and core mass. In spite of its importance, the effect of slow-shock instability on star-forming filaments has not been investigated. In addition, the linear dispersion relation obtained from ideal magnetohydrodynamics (MHD) analysis shows that the most unstable wavelength of shock corrugation is infinitesimally small. In the scale of dense filaments, the effect of ambipolar diffusion can suppress the instability at small scales. This study investigates the influence of ambipolar diffusion on the instability of the slow shock. We perform two-dimensional MHD simulations to examine the linear growth of the slow-shock instability, considering the effect of ambipolar diffusion. The results demonstrate that the most unstable scale of slow-shock instability is approximately 5 times the length scale of ambipolar diffusion ℓAD calculated using post-shock variables, where ℓAD corresponds to the scale where the magnetic Reynolds number for ambipolar diffusivity is unity.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Spectroscopic Imaging of the Sun with MeerKAT: Opening a New Frontier in Solar Physics</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0b7f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0b7f</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳辐射、MeerKAT射电望远镜、频谱图像、太阳观测、大角度尺度
-
-总结:
-太阳辐射提供了估算太阳冠层不同物理参数的独特诊断手段，但在射电波段成像太阳冠层的高动态范围结构十分具有挑战性。MeerKAT射电望远镜在880-1670 MHz频段提供了高保真频谱图像，在与模拟图像的比较中表现出极好的形态相似性。观测结果显示，在约900 MHz以下，MeerKAT可以恢复整个太阳盘的大角度尺度的辐射通量。然而，在更高的频率下，缺失的通量可高达50%，但可以进行估算和修正。MeerKAT的太阳观测有望带来许多新的研究，开启大量未被探索的领域，并为未来的Square Kilometre Array-Mid望远镜的太阳科学研究铺平道路。 <div>
-Solar radio emissions provide several unique diagnostics to estimate different physical parameters of the solar corona, which are otherwise simply inaccessible. However, imaging the highly dynamic solar coronal emissions spanning a large range of angular scales at radio wavelengths is extremely challenging. At gigahertz frequencies, MeerKAT radio telescope is possibly globally the best-suited instrument at present for providing high-fidelity spectroscopic snapshot solar images. Here, we present the first published spectroscopic images of the Sun made using the observations with MeerKAT in the 880–1670 MHz band. This work demonstrates the high fidelity of spectroscopic snapshot MeerKAT solar images through a comparison with simulated radio images at MeerKAT frequencies. The observed images show extremely good morphological similarities with the simulated images. Our analysis shows that below ∼900 MHz MeerKAT images can recover essentially the entire flux density from the large angular-scale solar disk. Not surprisingly, at higher frequencies, the missing flux density can be as large as ∼50%. However, it can potentially be estimated and corrected for. We believe once solar observation with MeerKAT is commissioned, it will enable a host of novel studies, open the door to a large unexplored phase space with significant discovery potential, and also pave the way for solar science with the upcoming Square Kilometre Array-Mid telescope, of which MeerKAT is a precursor.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>JWST Imaging of Edge-on Protoplanetary Disks. II. Appearance of Edge-on Disks with a Tilted Inner Region: Case Study of IRAS04302+2247</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0c4b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0c4b</guid>
-<content:encoded><![CDATA[
-<div> 边缘-on原行星盘，James Webb Space Telescope（JWST），IRAS40302+2247，反射星云，内倾区域
-
-总结：<br /><br /> 这篇文章介绍了对IRAS40302+2247嵌入式年轻恒星周围边缘-on原行星盘的James Webb Space Telescope（JWST）成像结果。研究发现，源结构显示两个由暗区隔开的反射星云。源范围由∼4.4微米和较短波长处的扩展丝状包层主导，在7.7微米和更长波长时过渡到来自盘本身的更紧凑的散射光束。暗区厚度随波长变化不显著，这表明盘的上层存在中等大小（∼10微米）的颗粒。研究发现，IRAS40302最亮的星云在12.8和21微米之间切换。文章还探讨了内部倾斜区域对边缘-on盘的一般外观的影响，并发现包括内倾斜区域的盘的辐射传递模型可以再现最亮星云的倒转。此外，模型预测了特定方向的强烈侧向不对称性。观察到的许多边缘-on原行星盘显示出这种侧向不对称性，这表明大部分原行星盘可能存在内倾区域。星际斑点也可能引起侧向不对称性，但这种不对称性的预期变化周期明显较短。变化性研究可以帮助我们测试这些不对称性起源的主要情景。 <div>
-We present James Webb Space Telescope imaging from 2 to 21 μm of the edge-on protoplanetary disk around the embedded young star IRAS04302+2247. The structure of the source shows two reflection nebulae separated by a dark lane. The source extent is dominated by the extended filamentary envelope at ∼4.4 μm and shorter wavelengths, transitioning at 7.7 μm and longer wavelengths to more compact lobes of scattered light from the disk itself. The dark lane thickness does not vary significantly with wavelength, which we interpret as an indication for intermediate-sized (∼10 μm) grains in the upper layers of the disk. Intriguingly, we find that the brightest nebula of IRAS40302 switches side between 12.8 and 21 μm. We explore the effect of a tilted inner region on the general appearance of edge-on disks. We find that radiative transfer models of a disk including a tilted inner region can reproduce an inversion in the brightest nebula. In addition, for specific orientations, the model predicts strong lateral asymmetries, which can occur for more than half possible viewing azimuths. A large number of edge-on protoplanetary disks observed in scattered light show such lateral asymmetries (15/20), which suggests that a large fraction of protoplanetary disks might host a tilted inner region. Stellar spots may also induce lateral asymmetries, which are expected to vary over a significantly shorter timescale. Variability studies of edge-on disks would allow us to test the dominant scenario for the origin of these asymmetries.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Metallicities of Five Small High-velocity Clouds*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0cb7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0cb7</guid>
-<content:encoded><![CDATA[
-<div> 高速云，Hubble Space Telescope，金属含量，银河系，麦哲伦星系<br />
-总结:<br />
-这篇文章研究了小型高速云的金属含量，发现这些云的氧金属含量均≤0.17 Z⊙，因此不可能源自银河系的盘。其中有两个云的金属含量与麦哲伦星流相似，表明它们是麦哲伦星系的碎片。另外三个云的金属含量较低，可能是气态小暗物质晕或受到拉伸相互作用的矮星系的气体剥离。这些结果表明，小型高速云不一定都存在于银河系内部晕或麦哲伦星系，而可能追踪更远的结构。 <div>
-High-velocity clouds (HVCs) are multiphase gas structures whose velocities (∣vLSR∣ ≥ 100 km s−1) are too high to be explained by Galactic disk rotation. While large HVCs are well characterized, compact and small HVCs (with H i angular sizes of a few degrees) are poorly understood. Possible origins for such small clouds include Milky Way (MW) halo gas or fragments of the Magellanic System, but neither their origin nor their connection to the MW halo has been confirmed. We use new Hubble Space Telescope/Cosmic Origins Spectrograph UV spectra and Green Bank Telescope H i spectra to measure the metallicities of five small HVCs in the southern Galactic sky projected near the Magellanic System. We build a set of distance-dependent Cloudy photoionization models for each cloud and calculate their ionization-corrected metallicities. All five small HVCs have oxygen metallicities ≤0.17 Z⊙, indicating they do not originate in the disk of the MW. Two of the five have metallicities of 0.16–0.17 Z⊙, similar to the Magellanic Stream, suggesting these clouds are fragments of the Magellanic System. The remaining three clouds have much lower metallicities of 0.02–0.04 Z⊙. While the origin of these low-metallicity clouds is unclear, they could be gaseous minihalos or gas stripped from dwarf galaxies by ram pressure or tidal interactions. These results suggest that small HVCs do not all reside in the inner MW halo or the Magellanic System, but instead can trace more distant structures.
 ]]></content:encoded>
 <pubDate>2024-01-17T00:00:00Z</pubDate>
 </item>
