@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Galactic Magnetic Fields. I. Theoretical Model and Scaling Relations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3205</link>
@@ -14,7 +15,6 @@
 该研究开发了一个模型，使用可观测的数量作为输入参数，如星系旋转曲线、气体、恒星和恒星形成率的表面密度，以及气体温度。模型可以用来估计磁场的随机和平均分量的参数，以及气体尺度高度、均方根速度和星际湍流的相关长度和时间，从观测量的角度来看。研究还评估了结果对湍流驱动不同假设的依赖性，并发现通过明确建模超新星遗迹的扩展和能量，可以改善与观测的一致性。该模型具有足够的灵活性，可以包括涉及的物理过程的替代方案，并提供两个实施该模型的开源Python程序的链接。 <div>
 Galactic dynamo models have generally relied on input parameters that are very challenging to constrain. We address this problem by developing a model that uses observable quantities as input: the galaxy rotation curve, the surface densities of the gas, stars and star formation rate, and the gas temperature. The model can be used to estimate parameters of the random and mean components of the magnetic field, as well as the gas scale height, root-mean-square velocity and the correlation length and time of the interstellar turbulence, in terms of the observables. We use our model to derive theoretical scaling relations for the quantities of interest, finding reasonable agreement with empirical scaling relations inferred from observation. We assess the dependence of the results on different assumptions about turbulence driving, finding that agreement with observations is improved by explicitly modeling the expansion and energetics of supernova remnants. The model is flexible enough to include alternative prescriptions for the physical processes involved, and we provide links to two open-source python programs that implement it.
 ]]></content:encoded>
-
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,15 +22,13 @@ Galactic dynamo models have generally relied on input parameters that are very c
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3067</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3067</guid>
 <content:encoded><![CDATA[
-<div> NLS1s, AGNs, jets, radio emission, mid-infrared<br>
-总结:<br>
+<div> NLS1s, AGNs, jets, radio emission, mid-infrared<br />
+总结:<br />
 本文研究了NLS1s的中红外特性，发现它们与射电暴星系和星暴星系在MIR颜色-颜色图中有重叠，但与SFGs和光学选择的射电星系有很大差别。同时发现NLS1s的射电和MIR辐射都受AGN活动的显著影响。一小部分射电亮度较高的NLS1s在射电-MIR图中与类星体相似，这说明它们的射电辐射由喷流主导。通过射电-MIR图中的射电过剩，发现了一些潜在的具有喷流的NLS1候选体。 <div>
 Narrow-line Seyfert 1 galaxies (NLS1s), a subclass of active galactic nuclei (AGNs) in an early stage of the accretion process, are also found to host relativistic jets. However, currently known jetted NLS1s are rare. The majority of NLS1s are undetected at the radio band. The radio detection rate of NLS1s increases with the LOFAR Two-metre Sky Survey (LoTSS), which provides a good opportunity for finding more jetted NLS1s. The better sensitivity raises the question whether the radio emission of NLS1s with a low radio luminosity originates from the jet activity. In order to clarify the origin of the radio emission for NLS1s and search for more jetted NLS1s, we explore the mid-infrared properties of LoTSS-detected NLS1s by comparing them with known jetted AGNs and star-forming galaxies (SFGs), which are located above and on the well-studied radio/far-infrared correlation, respectively. The majority of NLS1s show mid-infrared (MIR) excess compared with SFGs. Their radio emission shows a significant correlation with the MIR emission. In the MIR color–color diagram, NLS1s overlap flat spectrum radio quasars, but they are well separated from SFGs and optically selected radio galaxies. The flux ratio of the radio and MIR emission of these NLS1s is also similar to that of a radio-quiet quasar with a weak jet. These results imply substantial contributions from the AGN activities for both the radio and MIR emission of NLS1s. A small fraction of NLS1s with relatively higher radio luminosities are located in a similar region as blazars in the radio-MIR diagram, which suggests that the radio emission of these NLS1s is dominated by the jet. We obtain a sample of jetted NLS1 candidates through their radio excess in the radio-MIR diagram.
 ]]></content:encoded>
-
 <pubDate>2024-04-24T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>GN-z11 in Context: Possible Signatures of Globular Cluster Precursors at Redshift 10</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad235e</link>
@@ -11178,31 +11176,6 @@ We present a search for host galaxy associations for the third set of repeating 
 <div> eclipsing time variations, optimization methods, W UMa-type binary star, circumbinary companions, TESS data <br />
 这篇论文介绍了使用现代和复杂的优化方法对日食时间变化进行全面分析的有效策略，具体包括一套工具，用于研究日食双星中的周期变化机制，如光时效应、Applegate 机制和质量传递。研究团队首次使用存档和新的TESS数据跨越了75年，重新审视了最新的ETV。初步分析发现，TZ Bootis的TESS数据首次揭示了第二个双星的存在，与先前的光谱数据和Gaia DR3的天文测量结果相吻合。他们考虑了ETV的最可信情景：两个恒星周围伴星，最小质量分别为M3=0.5 M☉和M4=0.14 M☉，轨道高偏心率e3=0.70和e4=0.82，周期分别为P3=38年和P4=20年，以及主体的长达24年的磁活动和长期的周期增加（dP/dt=1.2×10−8天/年），解释为次体向主体的保守质量传递率dM1/dt=3.7×10−9天/年。需要进一步进行光谱观测、第二对的分析建模以及对两对的ETV分析，以研究系统的四重性质。<br /><br />总结: 该研究使用先进的优化方法对ETV进行了全面分析，首次发现了TZ Bootis中存在第二个双星的证据，并提出了两个潜在的恒星周围伴星的情景，以及进行了解释性质量传递率的估算。继续的观测和分析有望揭示该系统的四重性质。 <div>
 We present an effective strategy for extensive analysis of eclipsing time variations (ETVs) using modern and sophisticated optimization methods that comprise a set of tools to investigate period variability mechanisms in eclipsing binary stars such as the light-time effect, the Applegate mechanism, and mass transfer. We implement these methods for the first time assuming that the above mechanisms can act simultaneously in the puzzling W UMa–type binary star TZ Bootis by using archival and new TESS data spanning 75 yr and reexamining the up-to-date ETVs. Preliminary analysis of the TESS data revealed for the first time the presence of a second binary in agreement with previous spectroscopic data and astrometric results from Gaia DR3. We consider the most credible scenario for the ETV: two stellar circumbinary companions of minimum masses M3 = 0.5 M☉ and M4 = 0.14 M☉ in highly eccentric orbits e3 = 0.70 and e4 = 0.82 with periods P3 = 38 yr and P4 = 20 yr along with a 24 yr magnetic activity of the secondary component and a long-term period increase (dP/dt = 1.2 × 10−8 days yr−1), interpreted as a conservative mass transfer from the secondary to the primary component at a rate of dM1/dt = 3.7 × 10−9 days yr−1. Further spectroscopic observations, analytical modeling of the second pair, and ETV analysis of both pairs are needed to investigate the quadruple nature of the system.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Identification of 4FGL Uncertain Sources at Higher Resolutions with Inverse Discrete Wavelet Transform</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e6c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e6c</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 天文数据，机器学习，主动星系核，巴莱克星座对象，数据分析
-
-总结: 
-本研究通过深入数据分析，提出了一种名为分形维度-逆离散小波变换（FDIDWT）的新方法，用于在大容量的天文数据中识别主动星系核（AGN）候选者和巴莱克星座对象（BL Lac）或平谱射电类星体（FSRQ）候选者。通过将原始数据转换为低维度并突出特征的转换数据集，结合使用改进的轻量级MatchboxConv1D模型，成功实现了对4FGL_DR3不确定源中AGN和BL Lac/FSRQ候选者的识别任务，并具有很高的准确性。此外，该方法还具有发现相对较弱变化和相对较暗的源的优势。 <div>
-In the forthcoming era of big astronomical data, it is a burden to find target sources from ground-based and space-based telescopes. Although machine-learning methods have been extensively utilized to address this issue, the incorporation of in-depth data analysis can significantly enhance the efficiency of identifying target sources when dealing with massive volumes of astronomical data. In this work, we focused on the task of finding active galactic nucleus (AGN) candidates and identifying BL Lacertae objects (BL Lac) or flat spectrum radio quasar (FSRQ) candidates from the 4FGL_DR3 uncertain sources. We studied the correlations among the attributes of the 4FGL_DR3 catalog and proposed a novel method, named fractal dimension–inverse discrete wavelet transform (FDIDWT), to transform the original data. The transformed data set is characterized as low-dimensional and feature-highlighted, with the estimation of correlation features by fractal dimension theory and the multi-resolution analysis by inverse discrete wavelet transform (IDWT). Combining the FDIDWT method with an improved lightweight MatchboxConv1D model, we accomplished two missions: (1) to distinguish the AGNs from others (non-AGNs) in the 4FGL_DR3 uncertain sources with an accuracy of 96.65% ± 1.32%, namely Mission A; and (2) to classify blazar candidates of uncertain type into BL Lacs or FSRQs with an accuracy of 92.03% ± 2.2%, namely Mission B. There are 1354 AGN candidates in Mission A, and 482 BL Lacs candidates and 128 FSRQ candidates were found in Mission B. The results show a high consistency of greater than 98% with the results in previous works. In addition, our method has the advantage of finding less variable and relatively faint sources than ordinary methods.
-]]></content:encoded>
-<pubDate>2024-01-17T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Single Millisecond Pulsars from Dynamical Interaction Processes in Dense Star Clusters</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad089a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad089a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Globular clusters, millisecond pulsars, dynamical interaction, N-body models, gravitational collapse<br />
-<br />
-Globular clusters (GCs)是特别高效形成毫秒脉冲星的地方。在这些脉冲星中，大约一半缺乏伴星，这个比例比银河系场中的要高得多。在一些最密集的GCs中，特别是那些经历了核心崩溃的GCs中，这个比例进一步增加，这表明动态相互作用过程起着关键作用。我们首次创建了能够重现类似银河系GCs中单脉冲星与双脉冲星的比例的N体模型。我们特别关注NGC 6752，这是一个典型的核心崩溃星团，观测到许多毫秒脉冲星。先前的研究表明，在最密集的星团中，中子星双星破碎率增加可能解释了这些系统中单个脉冲星的过多。在这里，我们证明双星破碎是无效的，相反，我们提出两个额外的动态过程起主导作用：（1）中子星对主序星团的潮汐破碎和（2）重型白矮星双星合并残余物的引力坍缩。通过这些过程形成的中子星也可能与最近在外星系GC中观测到的快速射电暴发有关。<br /><br />总结:GCs是形成毫秒脉冲星的高效地方，但一半以上缺乏伴星。N体模型能重现银河系GCs中的现象。NGC 6752是一个典型的核心崩溃星团，关于双脉冲星的过多有新的解释。双星破碎无效，而潮汐破碎和白矮星合并引起的中子星形成可能引起快速射电暴发。 <div>
-Globular clusters (GCs) are particularly efficient at forming millisecond pulsars. Among these pulsars, about half lack a companion star, a significantly higher fraction than in the Galactic field. This fraction increases further in some of the densest GCs, especially those that have undergone core collapse, suggesting that dynamical interaction processes play a key role. For the first time, we create N-body models that reproduce the ratio of single-to-binary pulsars in Milky Way–like GCs. We focus especially on NGC 6752, a typical core-collapsed cluster with many observed millisecond pulsars. Previous studies suggested that an increased rate of neutron star binary disruption in the densest clusters could explain the overabundance of single pulsars in these systems. Here, we demonstrate that binary disruption is ineffective and instead we propose that two additional dynamical processes play dominant roles: (1) tidal disruption of main-sequence stars by neutron stars and (2) gravitational collapse of heavy white dwarf binary merger remnants. Neutron stars formed through these processes may also be associated with fast radio bursts similar to those observed recently in an extragalactic GC.
 ]]></content:encoded>
 <pubDate>2024-01-17T00:00:00Z</pubDate>
 </item>
