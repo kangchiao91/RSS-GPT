@@ -4,6 +4,89 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Taming the TuRMoiL: The Temperature Dependence of Turbulence in Cloud–Wind Interactions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e51</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e51</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 涡动辐射混合层, 天体物理, 气体云, 湍流, 辐射冷却
+总结: <br><br>在天体物理中，涡动辐射混合层在气体云和炽热气流相互作用中扮演重要角色。研究发现，涡动速度与温度呈现明显的关联，随着时间的推移，涡动速度稳定在一定数值。同时，云与风的相对速度会导致涡动速度快速增长，之后逐渐下降并稳定在大约一半的最大数值。此外，涡动速度的大小与热相声传播时间与最小冷却时间的比值成正比。最后，研究还发现有关解决湍流的长度尺度存在着一些初步的证据。未能解决这一尺度可能导致云的大尺度形态特性发生变化。 <div>
+Turbulent radiative mixing layers play an important role in many astrophysical contexts where cool (≲104 K) clouds interact with hot flows (e.g., galactic winds, high-velocity clouds, infalling satellites in halos and clusters). The fate of these clouds (as well as many of their observable properties) is dictated by the competition between turbulence and radiative cooling; however, turbulence in these multiphase flows remains poorly understood. We have investigated the emergent turbulence arising in the interaction between clouds and supersonic winds in hydrodynamic enzo-e simulations. In order to obtain robust results, we employed multiple metrics to characterize the turbulent velocity, vturb. We find four primary results when cooling is sufficient for cloud survival. First, vturb manifests clear temperature dependence. Initially, vturb roughly matches the scaling of sound speed on temperature. In gas hotter than the temperature where cooling peaks, this dependence weakens with time until vturb is constant. Second, the relative velocity between the cloud and wind initially drives rapid growth of vturb. As it drops (from entrainment), vturb starts to decay before it stabilizes at roughly half its maximum. At late times, cooling flows appear to support turbulence. Third, the magnitude of vturb scales with the ratio between the hot phase sound-crossing time and the minimum cooling time. Finally, we find tentative evidence for a length scale associated with resolving turbulence. Underresolving this scale may cause violent shattering and affect the cloud’s large-scale morphological properties.
+]]></content:encoded>
+
+<pubDate>2024-05-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Tidal Synchronization Trapping in Stars and Planets with Convective Envelopes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad344d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad344d</guid>
+<content:encoded><![CDATA[
+<div> Tidal torques, spins, rotating systems, synchronization traps, inertial waves
+<br><br>总结: 本文讨论了潮汐力对于星体和行星自转的影响，特别是在偏心轨道系统中。在这种系统中，潮汐力驱动惯性振荡，导致了一系列稳定的“同步陷阱”，使得自转周期与轨道周期的比值偏离了传统的假同步预期。这一机制类似于潮汐共振锁定，但不需要推动振荡模式的非线性增长。同步陷阱可能会解释观测到的自转速率与假同步或同步预期不符的低质量恒星和热木星现象。 <div>
+Tidal torques can alter the spins of tidally interacting stars and planets, usually over shorter timescales than the tidal damping of orbital separations or eccentricities. Simple tidal models predict that, in eccentric binary or planetary systems, rotation periods will evolve toward a “pseudosynchronous” ratio with the orbital period. However, this prediction does not account for “inertial” waves that are present in stars or gaseous planets with (i) convective envelopes and (ii) even very slow rotation. We demonstrate that tidal driving of inertial oscillations in eccentric systems generically produces a network of stable “synchronization traps” at ratios of orbital to rotation period that are simple to predict but can deviate significantly from pseudosynchronization. The mechanism underlying spin synchronization trapping is similar to tidal resonance locking, involving a balance between torques that is maintained automatically by the scaling of inertial mode frequencies with the rotation rate. In contrast with many resonance locking scenarios, however, the torque balance required for synchronization trapping need not drive mode amplitudes to nonlinearity. Synchronization traps may provide an explanation for low-mass stars and hot Jupiters with observed rotation rates that deviate from pseudosynchronous or synchronous expectations.
+]]></content:encoded>
+
+<pubDate>2024-05-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Generic Model for a Persistent Radio Source around Fast Radio Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad35be</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad35be</guid>
+<content:encoded><![CDATA[
+<div> FRB 121102A, FRB 190520B, 一区域模型, 同步辐射, 参数化
+
+总结:
+FRB 121102A和FRB 190520B的快速射电爆发是与紧凑持续的射电辐射空间相关的。研究采用了参数化的一区域模型，表明脉冲星的相对论磁化风吹扫其周围，并导致前向冲击波和终止冲击波之间的电子的幂律分布。并且经过对模型参数的适当调整，得出了能够很好地拟合观测光谱的一区域模型的同步辐射射电发射性质。通过模型的动力学演化，我们还可以得到时间变化的相关性质。这种参数化模型不依赖于具体的物理模型，而是可以通过参数和观测结果的比较来约束物理模型，从而揭示了关于中心引擎和周围环境的信息。我们还讨论了我们的场景中的同步辐射自康普顿辐射，但发现没有关于其他波段的对应物。 <div>
+The repeated fast radio bursts FRB 121102A and FRB 190520B have been reported, along with a spatially coincident, compact, persistent radio emission. In this paper, we present a parameterized one-zone model, with the basic scenario that a relativistic magnetized wind from the pulsar sweeps up the surroundings, e.g., freely expanding supernova ejecta, giving rise to a power-law distribution of electrons between the forward shock and the termination shock. We show that via appropriate adjustment of the model parameters, we can obtain synchrotron radio emission properties from the one-zone model bright enough to account for the observation, simply and analytically fitting the observed spectra well. Through dynamical evolution of the model, we can also obtain time-varying relevant properties. This parameterized model does not depend on concrete physical models such as a central engine; instead, we can constraint the physical model via comparison between parameters and observations, indicating the information about the central engine and surroundings. We also discuss the synchrotron self-Compton emission in our scenario in the end but find no clue about the counterparts at other wave bands.
+]]></content:encoded>
+
+<pubDate>2024-05-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Shock and Cosmic-Ray Chemistry Associated with the Supernova Remnant W28</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3634</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3634</guid>
+<content:encoded><![CDATA[
+<div> SNR, molecular clouds, shock waves, cosmic rays, HCO+ <br>
+<br> 
+该研究调查了W28 (G6.4−0.1) 原型相互作用型超新星遗迹与周围分子云的相互作用。研究使用HCO+，和HNC J = 1–0线的新观测数据，以及CO同位素、N2H+和H13CO+的存档数据。在比较不同分子物质的空间分布和谱线轮廓后，研究得出了HCO+/CO的丰度比约为10−4，这比未受震激的云中的值高出一个数量级。这可以通过来自观测的物理参数加以解释：预激波密度nH约为2 × 105 cm−3，CR 电离率ζ = 2.5 × 10−15 s−1，激波速度Vs = 15–20 km s−1。在W28东北边界之外的一个点上，估算出了N(HCO+)/N(N2H+)的丰度比约为0.6–3.3，如果采用高密度nH ∼ 2 × 105 cm−3，这可以通过化学模拟重现。 <br><br>总结: <br>该研究使用多种分子观测数据，探讨了超新星遗迹与分子云的相互作用，发现震波和宇宙射线对分子云化学产生影响，为研究星际介质的演化提供了有益信息。 <div>
+Supernova remnants (SNRs) exert a strong influence on the physics and chemistry of the nearby molecular clouds through shock waves and the cosmic rays (CRs) they accelerate. To investigate the SNR–cloud interaction in the prototype interacting SNR W28 (G6.4−0.1), we present new observations of the HCO+, , and HNC J = 1–0 lines, supplemented by archival data of CO isotopes, N2H+ and H13CO+. We compare the spatial distribution and spectral line profiles of different molecular species. Using the local thermodynamic equilibrium assumption, we obtain an abundance ratio of N(HCO+)/N(CO) ∼10−4 in the northeastern shocked cloud, which is higher by an order of magnitude than the values in unshocked clouds. This can be accounted for by the chemistry jointly induced by shock and CRs, with the physical parameters previously obtained from observations: preshock density nH ∼ 2 × 105 cm−3, CR ionization rate ζ = 2.5 × 10−15 s−1, and shock velocity Vs = 15–20 km s−1. Toward a point outside the northeastern boundary of W28 with a known high CR ionization rate, we estimate the abundance ratio N(HCO+)/N(N2H+) ≈ 0.6–3.3, which can be reproduced by a chemical simulation if a high density nH ∼ 2 × 105 cm−3 is adopted.
+]]></content:encoded>
+
+<pubDate>2024-05-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>On a Spectral Method for β-particle Bound Excitation Collisions in Kilonovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad37f9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad37f9</guid>
+<content:encoded><![CDATA[
+<div> β-particles, weakly ionized plasma, kilonova transient signal, Vlasov–Maxwell–Boltzmann equation, spectral solver
+<br>
+这篇文章介绍了β粒子在弱电离等离子体背景中与原子核发生碰撞从而促进中子星并合引发的重要机制。作者利用Inokuti的快速粒子碰撞核的近似实现了Vlasov-Maxwell-Boltzmann方程的光谱求解器。具体而言，他们将快速粒子平面波原子激发核展开为Hermite基函数的系数，并得出了相关离散光谱系统。在这种快速粒子极限下，该方法允许直接使用光谱矩阵，包括通常应用于光子-物质相互作用的光学振子强度。他们在MASS-APP光谱求解器框架中实现了这个光谱矩阵，避免了每个空间区域的完整矩阵存储。他们对矩阵构建的各个方面进行了数值验证，并进行了一个二维轴对称的Kilonova喷射快照的三维模拟验证。他们的初步数值结果表明，在Kilonova中，对β粒子合理的Hermite基函数参数选择是：速度参数u = 0，热速度参数α = 0.5c，以及一个9×9×9模式速度基函数集（每个维度的Hermite阶数为0-8）。对于内部喷射样本区域，作者估计大角度（≳2.°5）束缚激发散射导致的热化比例约为0.002-0.003。
+<br><br>总结：
+- 介绍了β粒子在弱电离等离子体背景中与原子核发生碰撞的重要机制，用于促进中子星并合引发的重要机制。
+- 实现了Vlasov-Maxwell-Boltzmann方程的光谱求解器，并将快速粒子平面波原子激发核展开为Hermite基函数的系数，并得出了相关离散光谱系统。
+- 方法允许直接使用光谱矩阵，包括通常应用于光子-物质相互作用的光学振子强度。
+- 他们的初步数值结果表明了对β粒子合理的Hermite基函数参数选择。
+- 作者进行了一个二维轴对称的Kilonova喷射快照的三维模拟验证。 <div>
+The interaction of β-particles with the weakly ionized plasma background is an important mechanism for powering the kilonova (KN) transient signal from neutron star mergers. For this purpose, we present an implementation of the approximate fast-particle collision kernel, described by Inokuti following the seminal formulation of Bethe, in a spectral solver of the Vlasov–Maxwell–Boltzmann equation. In particular, we expand the fast-particle plane-wave atomic excitation kernel into coefficients of the Hermite basis, and derive the relevant discrete spectral system. In this fast-particle limit, the approach permits the direct use of atomic data, including optical oscillator strengths, normally applied to photon–matter interaction. The resulting spectral matrix is implemented in the MASS-APP spectral solver framework, in a way that avoids full matrix storage per spatial zone. We numerically verify aspects of the matrix construction, and present a proof-of-principle 3D simulation of a 2D axisymmetric KN ejecta snapshot. Our preliminary numerical results indicate that a reasonable choice of Hermite basis parameters for β-particles in the KN is a bulk velocity parameter u = 0, a thermal velocity parameter α = 0.5c, and a 9 × 9 × 9 mode velocity basis set (Hermite orders of 0–8 in each dimension). For interior-ejecta sample zones, we estimate that the ratio of thermalization from large-angle (≳2.°5) bound excitation scattering to total thermalization is ∼0.002–0.003.
+]]></content:encoded>
+
+<pubDate>2024-05-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>EIGER. V. Characterizing the Host Galaxies of Luminous Quasars at z ≳ 6</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3914</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3914</guid>
+<content:encoded><![CDATA[
+<div> EIGER, quasar host galaxy, SMBH masses, NIRCam measurements, redshift<br>
+<br>
+利用JWST/NIRCam测量了EIGER项目中5.9 < z < 7.1的六个类星体宿主星系和超大质量黑洞（SMBH）质量。我们获得了F115W、F200W和F356W波段的深度NIRCam成像，以及几个类星体的F356W棱镜光谱。我们利用明亮非饱和的恒星构建了点扩散函数（PSF）模型，并估计了这些PSF的误差。然后，通过将类星体图像拟合为点源加指数盘，测量或限制了类星体的荧光和形态。我们成功探测到了三个类星体，其宿主与类星的荧光比约为1%–5%。光谱能量分布拟合表明，这些类星体宿主星系的恒星质量为M* ≳ 1010M⊙。对于无法检测到宿主星系的类星体，我们估计了它们的恒星质量上限。我们使用棱镜光谱测量了Hβ线剖面和连续光度，然后估计了类星体的SMBH质量。我们的结果表明，在红移z ≳ 6时，宿主星系质量和SMBH质量之间存在着正相关关系。我们的样本中的类星体显示出较高的BH-to-stellar-mass比值，MBH/M* ∼ 0.15，比本地关系高出约2 dex。我们发现，选择效应只部分地导致了高红移类星体的高MBH/M*比率。这一结果暗示了MBH-M*关系可能存在红移演化。<br><br>总结: 本研究利用JWST/NIRCam对EIGER项目中6个红移在5.9 < z < 7.1的类星体进行了观测。其中成功探测到3个类星体的宿主星系，这些宿主星系的恒星质量约为M* ≳ 1010M⊙。通过测量Hβ线剖面和连续光度，我们估计了类星体的SMBH质量。研究结果表明，红移z ≳ 6时，宿主星系质量和SMBH质量之间存在正相关关系。与本地关系相比，我们的样本显示出较高的BH-to-stellar-mass比值，MBH/M* ∼ 0.15，这可能暗示了MBH-M*关系存在红移演化。 <div>
+We report JWST/NIRCam measurements of quasar host galaxy emissions and supermassive black hole (SMBH) masses for six quasars at 5.9 < z < 7.1 in the Emission-line galaxies and Intergalactic Gas in the Epoch of Reionization (EIGER) project. We obtain deep NIRCam imaging in the F115W, F200W, and F356W bands, as well as F356W grism spectroscopy of the quasars. We use bright unsaturated stars to construct models of the point-spread functions (PSFs) and estimate the errors of these PSFs. We then measure or constrain the fluxes and morphology of the quasar host galaxies by fitting the quasar images as a point source plus an exponential disk. We successfully detect the host galaxies of three quasars, which have host-to-quasar-flux ratios of ∼1%–5%. Spectral energy distribution fitting suggests that these quasar host galaxies have stellar masses of M* ≳ 1010M⊙. For quasars with host galaxy nondetections, we estimate the upper limits of their stellar masses. We use the grism spectra to measure the Hβ line profile and the continuum luminosity, then estimate the SMBH masses for the quasars. Our results indicate that the positive relation between SMBH masses and host galaxy stellar masses already exists at redshift z ≳ 6. The quasars in our sample show a high BH-to-stellar-mass ratio of MBH/M* ∼ 0.15, which is about ∼2 dex higher than local relations. We find that selection effects only contribute partially to the high MBH/M* ratios of high-redshift quasars. This result hints at a possible redshift evolution of the MBH–M* relation.
+]]></content:encoded>
+
+<pubDate>2024-05-05T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Exploring Low-mass Black Holes through Tidal Disruption Events in the Early Universe: Perspectives in the Era of the JWST, Roman Space Telescope, and LSST Surveys</title>
