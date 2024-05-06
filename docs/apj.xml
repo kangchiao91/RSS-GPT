@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Taming the TuRMoiL: The Temperature Dependence of Turbulence in Cloud–Wind Interactions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e51</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e51</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 涡动辐射混合层, 天体物理, 气体云, 湍流, 辐射冷却
-总结: <br><br>在天体物理中，涡动辐射混合层在气体云和炽热气流相互作用中扮演重要角色。研究发现，涡动速度与温度呈现明显的关联，随着时间的推移，涡动速度稳定在一定数值。同时，云与风的相对速度会导致涡动速度快速增长，之后逐渐下降并稳定在大约一半的最大数值。此外，涡动速度的大小与热相声传播时间与最小冷却时间的比值成正比。最后，研究还发现有关解决湍流的长度尺度存在着一些初步的证据。未能解决这一尺度可能导致云的大尺度形态特性发生变化。 <div>
+总结: <br /><br />在天体物理中，涡动辐射混合层在气体云和炽热气流相互作用中扮演重要角色。研究发现，涡动速度与温度呈现明显的关联，随着时间的推移，涡动速度稳定在一定数值。同时，云与风的相对速度会导致涡动速度快速增长，之后逐渐下降并稳定在大约一半的最大数值。此外，涡动速度的大小与热相声传播时间与最小冷却时间的比值成正比。最后，研究还发现有关解决湍流的长度尺度存在着一些初步的证据。未能解决这一尺度可能导致云的大尺度形态特性发生变化。 <div>
 Turbulent radiative mixing layers play an important role in many astrophysical contexts where cool (≲104 K) clouds interact with hot flows (e.g., galactic winds, high-velocity clouds, infalling satellites in halos and clusters). The fate of these clouds (as well as many of their observable properties) is dictated by the competition between turbulence and radiative cooling; however, turbulence in these multiphase flows remains poorly understood. We have investigated the emergent turbulence arising in the interaction between clouds and supersonic winds in hydrodynamic enzo-e simulations. In order to obtain robust results, we employed multiple metrics to characterize the turbulent velocity, vturb. We find four primary results when cooling is sufficient for cloud survival. First, vturb manifests clear temperature dependence. Initially, vturb roughly matches the scaling of sound speed on temperature. In gas hotter than the temperature where cooling peaks, this dependence weakens with time until vturb is constant. Second, the relative velocity between the cloud and wind initially drives rapid growth of vturb. As it drops (from entrainment), vturb starts to decay before it stabilizes at roughly half its maximum. At late times, cooling flows appear to support turbulence. Third, the magnitude of vturb scales with the ratio between the hot phase sound-crossing time and the minimum cooling time. Finally, we find tentative evidence for a length scale associated with resolving turbulence. Underresolving this scale may cause violent shattering and affect the cloud’s large-scale morphological properties.
 ]]></content:encoded>
-
 <pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,10 +22,9 @@ Turbulent radiative mixing layers play an important role in many astrophysical c
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad344d</guid>
 <content:encoded><![CDATA[
 <div> Tidal torques, spins, rotating systems, synchronization traps, inertial waves
-<br><br>总结: 本文讨论了潮汐力对于星体和行星自转的影响，特别是在偏心轨道系统中。在这种系统中，潮汐力驱动惯性振荡，导致了一系列稳定的“同步陷阱”，使得自转周期与轨道周期的比值偏离了传统的假同步预期。这一机制类似于潮汐共振锁定，但不需要推动振荡模式的非线性增长。同步陷阱可能会解释观测到的自转速率与假同步或同步预期不符的低质量恒星和热木星现象。 <div>
+<br /><br />总结: 本文讨论了潮汐力对于星体和行星自转的影响，特别是在偏心轨道系统中。在这种系统中，潮汐力驱动惯性振荡，导致了一系列稳定的“同步陷阱”，使得自转周期与轨道周期的比值偏离了传统的假同步预期。这一机制类似于潮汐共振锁定，但不需要推动振荡模式的非线性增长。同步陷阱可能会解释观测到的自转速率与假同步或同步预期不符的低质量恒星和热木星现象。 <div>
 Tidal torques can alter the spins of tidally interacting stars and planets, usually over shorter timescales than the tidal damping of orbital separations or eccentricities. Simple tidal models predict that, in eccentric binary or planetary systems, rotation periods will evolve toward a “pseudosynchronous” ratio with the orbital period. However, this prediction does not account for “inertial” waves that are present in stars or gaseous planets with (i) convective envelopes and (ii) even very slow rotation. We demonstrate that tidal driving of inertial oscillations in eccentric systems generically produces a network of stable “synchronization traps” at ratios of orbital to rotation period that are simple to predict but can deviate significantly from pseudosynchronization. The mechanism underlying spin synchronization trapping is similar to tidal resonance locking, involving a balance between torques that is maintained automatically by the scaling of inertial mode frequencies with the rotation rate. In contrast with many resonance locking scenarios, however, the torque balance required for synchronization trapping need not drive mode amplitudes to nonlinearity. Synchronization traps may provide an explanation for low-mass stars and hot Jupiters with observed rotation rates that deviate from pseudosynchronous or synchronous expectations.
 ]]></content:encoded>
-
 <pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
 <item>
@@ -39,7 +38,6 @@ Tidal torques can alter the spins of tidally interacting stars and planets, usua
 FRB 121102A和FRB 190520B的快速射电爆发是与紧凑持续的射电辐射空间相关的。研究采用了参数化的一区域模型，表明脉冲星的相对论磁化风吹扫其周围，并导致前向冲击波和终止冲击波之间的电子的幂律分布。并且经过对模型参数的适当调整，得出了能够很好地拟合观测光谱的一区域模型的同步辐射射电发射性质。通过模型的动力学演化，我们还可以得到时间变化的相关性质。这种参数化模型不依赖于具体的物理模型，而是可以通过参数和观测结果的比较来约束物理模型，从而揭示了关于中心引擎和周围环境的信息。我们还讨论了我们的场景中的同步辐射自康普顿辐射，但发现没有关于其他波段的对应物。 <div>
 The repeated fast radio bursts FRB 121102A and FRB 190520B have been reported, along with a spatially coincident, compact, persistent radio emission. In this paper, we present a parameterized one-zone model, with the basic scenario that a relativistic magnetized wind from the pulsar sweeps up the surroundings, e.g., freely expanding supernova ejecta, giving rise to a power-law distribution of electrons between the forward shock and the termination shock. We show that via appropriate adjustment of the model parameters, we can obtain synchrotron radio emission properties from the one-zone model bright enough to account for the observation, simply and analytically fitting the observed spectra well. Through dynamical evolution of the model, we can also obtain time-varying relevant properties. This parameterized model does not depend on concrete physical models such as a central engine; instead, we can constraint the physical model via comparison between parameters and observations, indicating the information about the central engine and surroundings. We also discuss the synchrotron self-Compton emission in our scenario in the end but find no clue about the counterparts at other wave bands.
 ]]></content:encoded>
-
 <pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
 <item>
@@ -47,12 +45,11 @@ The repeated fast radio bursts FRB 121102A and FRB 190520B have been reported, a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3634</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3634</guid>
 <content:encoded><![CDATA[
-<div> SNR, molecular clouds, shock waves, cosmic rays, HCO+ <br>
-<br> 
-该研究调查了W28 (G6.4−0.1) 原型相互作用型超新星遗迹与周围分子云的相互作用。研究使用HCO+，和HNC J = 1–0线的新观测数据，以及CO同位素、N2H+和H13CO+的存档数据。在比较不同分子物质的空间分布和谱线轮廓后，研究得出了HCO+/CO的丰度比约为10−4，这比未受震激的云中的值高出一个数量级。这可以通过来自观测的物理参数加以解释：预激波密度nH约为2 × 105 cm−3，CR 电离率ζ = 2.5 × 10−15 s−1，激波速度Vs = 15–20 km s−1。在W28东北边界之外的一个点上，估算出了N(HCO+)/N(N2H+)的丰度比约为0.6–3.3，如果采用高密度nH ∼ 2 × 105 cm−3，这可以通过化学模拟重现。 <br><br>总结: <br>该研究使用多种分子观测数据，探讨了超新星遗迹与分子云的相互作用，发现震波和宇宙射线对分子云化学产生影响，为研究星际介质的演化提供了有益信息。 <div>
+<div> SNR, molecular clouds, shock waves, cosmic rays, HCO+ <br />
+<br /> 
+该研究调查了W28 (G6.4−0.1) 原型相互作用型超新星遗迹与周围分子云的相互作用。研究使用HCO+，和HNC J = 1–0线的新观测数据，以及CO同位素、N2H+和H13CO+的存档数据。在比较不同分子物质的空间分布和谱线轮廓后，研究得出了HCO+/CO的丰度比约为10−4，这比未受震激的云中的值高出一个数量级。这可以通过来自观测的物理参数加以解释：预激波密度nH约为2 × 105 cm−3，CR 电离率ζ = 2.5 × 10−15 s−1，激波速度Vs = 15–20 km s−1。在W28东北边界之外的一个点上，估算出了N(HCO+)/N(N2H+)的丰度比约为0.6–3.3，如果采用高密度nH ∼ 2 × 105 cm−3，这可以通过化学模拟重现。 <br /><br />总结: <br />该研究使用多种分子观测数据，探讨了超新星遗迹与分子云的相互作用，发现震波和宇宙射线对分子云化学产生影响，为研究星际介质的演化提供了有益信息。 <div>
 Supernova remnants (SNRs) exert a strong influence on the physics and chemistry of the nearby molecular clouds through shock waves and the cosmic rays (CRs) they accelerate. To investigate the SNR–cloud interaction in the prototype interacting SNR W28 (G6.4−0.1), we present new observations of the HCO+, , and HNC J = 1–0 lines, supplemented by archival data of CO isotopes, N2H+ and H13CO+. We compare the spatial distribution and spectral line profiles of different molecular species. Using the local thermodynamic equilibrium assumption, we obtain an abundance ratio of N(HCO+)/N(CO) ∼10−4 in the northeastern shocked cloud, which is higher by an order of magnitude than the values in unshocked clouds. This can be accounted for by the chemistry jointly induced by shock and CRs, with the physical parameters previously obtained from observations: preshock density nH ∼ 2 × 105 cm−3, CR ionization rate ζ = 2.5 × 10−15 s−1, and shock velocity Vs = 15–20 km s−1. Toward a point outside the northeastern boundary of W28 with a known high CR ionization rate, we estimate the abundance ratio N(HCO+)/N(N2H+) ≈ 0.6–3.3, which can be reproduced by a chemical simulation if a high density nH ∼ 2 × 105 cm−3 is adopted.
 ]]></content:encoded>
-
 <pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,9 +58,9 @@ Supernova remnants (SNRs) exert a strong influence on the physics and chemistry 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad37f9</guid>
 <content:encoded><![CDATA[
 <div> β-particles, weakly ionized plasma, kilonova transient signal, Vlasov–Maxwell–Boltzmann equation, spectral solver
-<br>
+<br />
 这篇文章介绍了β粒子在弱电离等离子体背景中与原子核发生碰撞从而促进中子星并合引发的重要机制。作者利用Inokuti的快速粒子碰撞核的近似实现了Vlasov-Maxwell-Boltzmann方程的光谱求解器。具体而言，他们将快速粒子平面波原子激发核展开为Hermite基函数的系数，并得出了相关离散光谱系统。在这种快速粒子极限下，该方法允许直接使用光谱矩阵，包括通常应用于光子-物质相互作用的光学振子强度。他们在MASS-APP光谱求解器框架中实现了这个光谱矩阵，避免了每个空间区域的完整矩阵存储。他们对矩阵构建的各个方面进行了数值验证，并进行了一个二维轴对称的Kilonova喷射快照的三维模拟验证。他们的初步数值结果表明，在Kilonova中，对β粒子合理的Hermite基函数参数选择是：速度参数u = 0，热速度参数α = 0.5c，以及一个9×9×9模式速度基函数集（每个维度的Hermite阶数为0-8）。对于内部喷射样本区域，作者估计大角度（≳2.°5）束缚激发散射导致的热化比例约为0.002-0.003。
-<br><br>总结：
+<br /><br />总结：
 - 介绍了β粒子在弱电离等离子体背景中与原子核发生碰撞的重要机制，用于促进中子星并合引发的重要机制。
 - 实现了Vlasov-Maxwell-Boltzmann方程的光谱求解器，并将快速粒子平面波原子激发核展开为Hermite基函数的系数，并得出了相关离散光谱系统。
 - 方法允许直接使用光谱矩阵，包括通常应用于光子-物质相互作用的光学振子强度。
@@ -71,7 +68,6 @@ Supernova remnants (SNRs) exert a strong influence on the physics and chemistry 
 - 作者进行了一个二维轴对称的Kilonova喷射快照的三维模拟验证。 <div>
 The interaction of β-particles with the weakly ionized plasma background is an important mechanism for powering the kilonova (KN) transient signal from neutron star mergers. For this purpose, we present an implementation of the approximate fast-particle collision kernel, described by Inokuti following the seminal formulation of Bethe, in a spectral solver of the Vlasov–Maxwell–Boltzmann equation. In particular, we expand the fast-particle plane-wave atomic excitation kernel into coefficients of the Hermite basis, and derive the relevant discrete spectral system. In this fast-particle limit, the approach permits the direct use of atomic data, including optical oscillator strengths, normally applied to photon–matter interaction. The resulting spectral matrix is implemented in the MASS-APP spectral solver framework, in a way that avoids full matrix storage per spatial zone. We numerically verify aspects of the matrix construction, and present a proof-of-principle 3D simulation of a 2D axisymmetric KN ejecta snapshot. Our preliminary numerical results indicate that a reasonable choice of Hermite basis parameters for β-particles in the KN is a bulk velocity parameter u = 0, a thermal velocity parameter α = 0.5c, and a 9 × 9 × 9 mode velocity basis set (Hermite orders of 0–8 in each dimension). For interior-ejecta sample zones, we estimate that the ratio of thermalization from large-angle (≳2.°5) bound excitation scattering to total thermalization is ∼0.002–0.003.
 ]]></content:encoded>
-
 <pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
 <item>
@@ -79,15 +75,13 @@ The interaction of β-particles with the weakly ionized plasma background is an 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3914</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3914</guid>
 <content:encoded><![CDATA[
-<div> EIGER, quasar host galaxy, SMBH masses, NIRCam measurements, redshift<br>
-<br>
-利用JWST/NIRCam测量了EIGER项目中5.9 < z < 7.1的六个类星体宿主星系和超大质量黑洞（SMBH）质量。我们获得了F115W、F200W和F356W波段的深度NIRCam成像，以及几个类星体的F356W棱镜光谱。我们利用明亮非饱和的恒星构建了点扩散函数（PSF）模型，并估计了这些PSF的误差。然后，通过将类星体图像拟合为点源加指数盘，测量或限制了类星体的荧光和形态。我们成功探测到了三个类星体，其宿主与类星的荧光比约为1%–5%。光谱能量分布拟合表明，这些类星体宿主星系的恒星质量为M* ≳ 1010M⊙。对于无法检测到宿主星系的类星体，我们估计了它们的恒星质量上限。我们使用棱镜光谱测量了Hβ线剖面和连续光度，然后估计了类星体的SMBH质量。我们的结果表明，在红移z ≳ 6时，宿主星系质量和SMBH质量之间存在着正相关关系。我们的样本中的类星体显示出较高的BH-to-stellar-mass比值，MBH/M* ∼ 0.15，比本地关系高出约2 dex。我们发现，选择效应只部分地导致了高红移类星体的高MBH/M*比率。这一结果暗示了MBH-M*关系可能存在红移演化。<br><br>总结: 本研究利用JWST/NIRCam对EIGER项目中6个红移在5.9 < z < 7.1的类星体进行了观测。其中成功探测到3个类星体的宿主星系，这些宿主星系的恒星质量约为M* ≳ 1010M⊙。通过测量Hβ线剖面和连续光度，我们估计了类星体的SMBH质量。研究结果表明，红移z ≳ 6时，宿主星系质量和SMBH质量之间存在正相关关系。与本地关系相比，我们的样本显示出较高的BH-to-stellar-mass比值，MBH/M* ∼ 0.15，这可能暗示了MBH-M*关系存在红移演化。 <div>
+<div> EIGER, quasar host galaxy, SMBH masses, NIRCam measurements, redshift<br />
+<br />
+利用JWST/NIRCam测量了EIGER项目中5.9 < z < 7.1的六个类星体宿主星系和超大质量黑洞（SMBH）质量。我们获得了F115W、F200W和F356W波段的深度NIRCam成像，以及几个类星体的F356W棱镜光谱。我们利用明亮非饱和的恒星构建了点扩散函数（PSF）模型，并估计了这些PSF的误差。然后，通过将类星体图像拟合为点源加指数盘，测量或限制了类星体的荧光和形态。我们成功探测到了三个类星体，其宿主与类星的荧光比约为1%–5%。光谱能量分布拟合表明，这些类星体宿主星系的恒星质量为M* ≳ 1010M⊙。对于无法检测到宿主星系的类星体，我们估计了它们的恒星质量上限。我们使用棱镜光谱测量了Hβ线剖面和连续光度，然后估计了类星体的SMBH质量。我们的结果表明，在红移z ≳ 6时，宿主星系质量和SMBH质量之间存在着正相关关系。我们的样本中的类星体显示出较高的BH-to-stellar-mass比值，MBH/M* ∼ 0.15，比本地关系高出约2 dex。我们发现，选择效应只部分地导致了高红移类星体的高MBH/M*比率。这一结果暗示了MBH-M*关系可能存在红移演化。<br /><br />总结: 本研究利用JWST/NIRCam对EIGER项目中6个红移在5.9 < z < 7.1的类星体进行了观测。其中成功探测到3个类星体的宿主星系，这些宿主星系的恒星质量约为M* ≳ 1010M⊙。通过测量Hβ线剖面和连续光度，我们估计了类星体的SMBH质量。研究结果表明，红移z ≳ 6时，宿主星系质量和SMBH质量之间存在正相关关系。与本地关系相比，我们的样本显示出较高的BH-to-stellar-mass比值，MBH/M* ∼ 0.15，这可能暗示了MBH-M*关系存在红移演化。 <div>
 We report JWST/NIRCam measurements of quasar host galaxy emissions and supermassive black hole (SMBH) masses for six quasars at 5.9 < z < 7.1 in the Emission-line galaxies and Intergalactic Gas in the Epoch of Reionization (EIGER) project. We obtain deep NIRCam imaging in the F115W, F200W, and F356W bands, as well as F356W grism spectroscopy of the quasars. We use bright unsaturated stars to construct models of the point-spread functions (PSFs) and estimate the errors of these PSFs. We then measure or constrain the fluxes and morphology of the quasar host galaxies by fitting the quasar images as a point source plus an exponential disk. We successfully detect the host galaxies of three quasars, which have host-to-quasar-flux ratios of ∼1%–5%. Spectral energy distribution fitting suggests that these quasar host galaxies have stellar masses of M* ≳ 1010M⊙. For quasars with host galaxy nondetections, we estimate the upper limits of their stellar masses. We use the grism spectra to measure the Hβ line profile and the continuum luminosity, then estimate the SMBH masses for the quasars. Our results indicate that the positive relation between SMBH masses and host galaxy stellar masses already exists at redshift z ≳ 6. The quasars in our sample show a high BH-to-stellar-mass ratio of MBH/M* ∼ 0.15, which is about ∼2 dex higher than local relations. We find that selection effects only contribute partially to the high MBH/M* ratios of high-redshift quasars. This result hints at a possible redshift evolution of the MBH–M* relation.
 ]]></content:encoded>
-
 <pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Exploring Low-mass Black Holes through Tidal Disruption Events in the Early Universe: Perspectives in the Era of the JWST, Roman Space Telescope, and LSST Surveys</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad344c</link>
@@ -11138,83 +11132,6 @@ Studying stars that are located off the Galactic plane is important for understa
 总结:
 中小M型矮星的光谱观测表明，其中7个耀斑显示了清晰的Hα线蓝翼不对称性，耀斑持续时间从20分钟到2.5小时不等，并且也在Hβ线上显示了蓝翼不对称性。某些耀斑还在软X射线光谱中观察到，估算出了耀斑磁场和耀斑环的长度。蓝移组分的视向速度范围从-73到-122 km/s。假设蓝移是由突出体喷发引起的，那么上升等离子体的质量估计在10^15到10^19克之间，大致符合太阳日冕物质喷发（CME）的耀斑能量和喷发质量关系。这些发现暗示了M型矮星上可能存在与太阳喷发相似的加速机制，可能会发展成CME。 <br /><br /> <div>
 We conducted the time-resolved simultaneous optical spectroscopic and photometric observations of mid-M-dwarf flare stars YZ CMi, EV Lac, and AD Leo. Spectroscopic observations were obtained using Apache Point Observatory 3.5 m and Small and Moderate Aperture Research Telescope System 1.5 m telescopes during 31 nights. Among the 41 detected flares, seven flares showed clear blue wing asymmetries in the Hα line, with various correspondences in flare properties. The duration of the blue wing asymmetries range from 20 minutes to 2.5 hr, including a flare showing the shift from blue to red wing asymmetry. Blue wing asymmetries can be observed during both white-light and candidate non-white-light flares. All of the seven flares showed blue wing asymmetries also in the Hβ line, but there are large varieties on which other chromospheric lines showed blue wing asymmetries. One among the 7 flares was also observed with soft X-ray spectroscopy, which enabled us to estimate the flare magnetic field and length of the flare loop. The line-of-sight velocities of the blueshifted components range from –73 to –122 km s−1. Assuming that the blueshifts were caused by prominence eruptions, the mass of upward-moving plasma was estimated to be 1015–1019 g, which are roughly on the relation between flare energy and erupting mass expected from solar coronal mass ejections (CMEs). Although further investigations are necessary for understanding the observed various properties, these possible prominence eruptions on M-dwarfs could evolve into CMEs, assuming the similar acceleration mechanism with solar eruptions.
-]]></content:encoded>
-<pubDate>2024-01-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>An Updated Modular Set of Synthetic Spectral Energy Distributions for Young Stellar Objects</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad072d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad072d</guid>
-<content:encoded><![CDATA[
-<div> Young stellar objects, YSOs, properties, radiative transfer models, SEDs
-
-在研究前主序恒星演化过程中，测量YSO（年轻恒星对象）的性质是关键工具。通过比较观测辐射与现有YSO光谱能量分布（SEDs）计算的模板格点，常用来测量YSO的性质。然而，目前我们还没有完整的星际形成理论。本文呈现了无假设演化理论的新版Robitaille YSO SEDs模型集合，可用于更广泛的理论评估。我们还计算了包层质量、加权平均尘埃温度、盘稳定性和星周AV，并将SEDs与新的滤波器进行卷积。我们发现了模型中平均温度与微米波长亮度之间的相关性，并讨论了对前主序和原恒星核的质量测量的影响。此外，我们比较了不同观测类别和演化阶段YSO在红外颜色空间中的位置，并使用我们的模型量化了由于观测效应可能引起的类别和阶段混淆程度。我们向公众发布了更新的模型。 <br /><br />总结: 研究了测量YSO性质的方法，提出了新版无假设演化理论的YSO SEDs模型集合，计算了多个性质并与新的滤波器进行卷积。发现了模型中的关联性，并比较了不同YSO在红外色彩空间的位置。 <div>
-Measured properties of young stellar objects (YSOs) are key tools for research into pre-main-sequence stellar evolution. YSO properties are commonly measured by comparing observed radiation to existing grids of template YSO spectral energy distributions (SEDs) calculated by radiative transfer. These grids are often sampled and constructed using simple models of mass assembly/accretion over time. However, because we do not yet have a complete theory of star formation, the choice of model sets the tracked parameters and range of allowed values. By construction, then, the assumed model limits the measurements that can be made using the grid. Radiative transfer models not constrained by specific accretion histories would enable assessment of a wider range of theories. We present an updated version of the Robitaille set (2017) of YSO SEDs, a collection of models with no assumed evolutionary theory. We outline our newly calculated properties: envelope mass, weighted-average dust temperature, disk stability, and circumstellar AV. We also convolve the SEDs with new filters, including JWST, and provide users the ability to perform additional convolutions. We find a correlation between the average temperature and millimeter-wavelength brightness of optically thin dust in our models and discuss its ramifications for mass measurements of pre- and protostellar cores. We also compare the positions of YSOs of different observational classes and evolutionary stages in IR color space and use our models to quantify the extent to which class and stage may be confused due to observational effects. Our updated models are released to the public.
-]]></content:encoded>
-<pubDate>2024-01-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A New Kilohertz Gravitational-wave Feature from Rapidly Rotating Core-collapse Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad08c2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad08c2</guid>
-<content:encoded><![CDATA[
-<div> SPHYNX, FLASH, core-collapse supernova simulations, gravitational waves, proto-neutron star modulation<br />
-<br />
-这篇文章报告了使用SPHYNX和FLASH两种模拟代码对旋转20M⊙原恒星的三维恒星核心坍缩超新星模拟的研究。研究发现在跳跃后的第一个100毫秒内，出现两个重要的引力波信号，频率分别约为300赫兹和1.3千赫。这两个特征与来自原恒星变形的m = 1调制有关，该调制由低T/∣W∣不稳定引起。根据观察结果，300赫兹特征在初始角速度为1.0至4.0弧度每秒的模型中存在，而1.3千赫特征仅出现在1.5至3.5弧度每秒的更窄范围内。研究还观察到一个较弱但显著的更高阶模式的引力波特征，其初始峰频约为800赫兹，并逐渐增加至900-1000赫兹。因此，除了引力反弹信号外，检测300赫兹、1.3千赫以及更高阶模式，甚至相关的中微子的不对称发射，可以提供额外的诊断信息来估计坍缩核的初始角速度。<br /><br />总结: <br />核心坍缩超新星模拟产生了约300赫兹和1.3千赫的重要引力波特征，这与m = 1变形和低T/∣W∣不稳定有关。此外，还观察到了更高阶模式的引力波特征。这些结果为估计坍缩核的初始角速度提供了额外的诊断信息。 <div>
-We present self-consistent three-dimensional core-collapse supernova simulations of a rotating 20M⊙ progenitor model with various initial angular velocities from 0.0 to 4.0 rad s−1 using the smoothed particle hydrodynamics code SPHYNX and the grid-based hydrodynamics code FLASH. We identify two strong gravitational-wave features with peak frequencies of ∼300 Hz and ∼1.3 kHz in the first 100 ms postbounce. We demonstrate that these two features are associated with the m = 1 deformation from the proto-neutron star (PNS) modulation induced by the low-T/∣W∣ instability, regardless of the simulation code. The 300 Hz feature is present in models with an initial angular velocity between 1.0 and 4.0 rad s−1, while the 1.3 kHz feature is only present in a narrower range, from 1.5 to 3.5 rad s−1. We show that the 1.3 kHz signal originates from the high-density inner core of the PNS, and the m = 1 deformation triggers a strong asymmetric distribution of electron antineutrinos. In addition to the 300 Hz and 1.3 kHz features, we also observe one weaker but noticeable gravitational-wave feature from higher-order modes in the range between 1.5 and 3.5 rad s−1. Its initial peak frequency is around 800 Hz, and it gradually increases to 900–1000 Hz. Therefore, in addition to the gravitational bounce signal, the detection of the 300 Hz, 1.3 kHz, the higher-order mode, and even the related asymmetric emission of neutrinos could provide additional diagnostics for estimating the initial angular velocity of a collapsing core.
-]]></content:encoded>
-<pubDate>2024-01-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0cbf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0cbf</guid>
-<content:encoded><![CDATA[
-<div> 关键词：A2744, 弱引力透镜, 强引力透镜, 高分辨率，MAximum-entropy ReconStruction (MARS)
-
-总结:
-A2744是一个由JWST提供数据支持的高分辨率自由形式质量模型。该模型结合了弱引力透镜和强引力透镜数据集，创造了迄今为止单个星团最严格的强引力透镜约束，同时也是迄今为止密度最高的弱引力透镜约束。质量重建显示出一个等腰三角形结构，完美地跟踪了最亮的星团星系。通过MARS算法，我们的质量模型显示出更低的多重像散射参数，远远低于以前的研究。我们还公开了质量和放大地图。 <div>
-We present a new high-resolution free-form mass model of A2744 that combines both weak-lensing (WL) and strong-lensing (SL) data sets from JWST. The SL data set comprises 286 multiple images, presenting the most extensive SL constraint to date for a single cluster. The WL data set, employing photo-z selection, yields a source density of , marking the densest WL constraint ever. The combined mass reconstruction enables the highest-resolution mass map of A2744 within the ∼1.8 Mpc × 1.8 Mpc reconstruction region to date, revealing an isosceles triangular structure with two legs of ∼1 Mpc and a base of ∼0.6 Mpc. Although our algorithm, which is called MAximum-entropy ReconStruction (MARS), is entirely blind to the cluster galaxy distribution, the resulting mass reconstruction traces the brightest cluster galaxies remarkably well. The five strongest mass peaks coincide with the five most luminous cluster galaxies within ≲2″. We do not detect any unusual mass peaks that are not traced by the cluster galaxies, unlike the findings in previous studies. Our mass model shows the smallest scatter of SL multiple images in both source (∼0.″05) and image (∼0.″1) planes, which is lower than in previous studies by a factor of ∼4. Although MARS represents the mass field with an extremely large number of free parameters (∼300,000), it converges to a solution within a few hours because we use a deep-learning technique. We make our mass and magnification maps publicly available.
-]]></content:encoded>
-<pubDate>2024-01-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Environmental Dependence of Type Ia Supernovae in Low-redshift Galaxy Clusters</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e0f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0e0f</guid>
-<content:encoded><![CDATA[
-<div> SNe Ia, galaxy clusters, light curves, population, Hubble residuals
-<br />
-这篇文章分析了102个Ia型超新星（SNe Ia），这是迄今为止最大的样本，主要基于来自ZTF和ATLAS的归档数据。研究将SNe Ia分为内部集群样本和外部集群样本，并与类似红移的 quiescent 和 star-forming 宿主星系的场样本进行比较。研究发现，内部集群的SNe Ia有更高比例的快速演化天体（SALT3 x1 <−1），这意味着内部集群环境中存在一种本质上不同的SNe Ia种群。研究还表明，集群样本显示了明显的双峰x1分布，快速演化的天体在内部集群中占主导地位，而在星形成星系中占较小比例。此外，研究发现了宇宙膨胀的残差中SN Ia标准化参数的微小差异。研究建议星体群的年龄驱使了所观察的分布，年龄最大的星体群几乎完全产生了快速演化的SNe Ia。
-<br /><br />总结: 我们分析了102个近邻（z<0.1）x射线选择的星系团中的SNe Ia。内部星系团样本中的SNe Ia具有更高比例的快速演化天体，并且集群样本显示出明显的双峰x1分布。此外，我们观察到了在SNe Ia标准化参数和宇宙膨胀的残差中的微小差异。我们的研究表明，星体群的年龄可能驱使了所观察到的分布。 <div>
-We present an analysis of 102 Type Ia supernovae (SNe Ia) in nearby (z < 0.1), x-ray-selected galaxy clusters. This is the largest such sample to date and is based on archival data primarily from ZTF and ATLAS. We divide our SNe Ia into an inner cluster sample projected within r500 of the cluster center and an outer cluster sample projected between r500 and 2 r500. We compare these to field samples of SNe Ia at similar redshifts in both quiescent and star-forming host galaxies. Based on SALT3 fits to the light curves, we find that the inner cluster SNe Ia have a higher fraction of fast-evolving objects (SALT3 x1 < −1) than the outer cluster or field quiescent samples. This implies an intrinsically different population of SNe Ia occurs in inner cluster environments, beyond known correlations based on host galaxy alone. Our cluster samples show a strongly bimodal x1 distribution with a fast-evolving component that dominates the inner cluster objects (≳75%) but is just a small fraction of SNe Ia in field star-forming galaxies (≲10%). We do not see strong evidence for variations in the color (SALT3 c) distributions among the samples and find only minor differences in SN Ia standardization parameters and Hubble residuals. We suggest that the age of the stellar population drives the observed distributions, with the oldest populations nearly exclusively producing fast-evolving SNe Ia.
-]]></content:encoded>
-<pubDate>2024-01-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Toward the IR Detection of Carbonic Acid: Absorption and Emission Spectra</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f16</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f16</guid>
-<content:encoded><![CDATA[
-<div> 关键词: cis-trans-carbonic acid, molecular cloud, IR features, quantum chemical anharmonic procedures, observational reference<br />
-总结: <br />
-最近，在银河系中心的分子云中探测到了顺式-反式碳酸，表明更稳定但目前尚未观测到的顺式-顺式构型在红外特征上有较强的特点。虽然能量较高的顺式-反式碳酸已经在毫米和厘米波长被探测到，由于其较大的偶极矩，但顺式-顺式碳酸的振动结构更适合在微米波长观测到。两种构型的红外强度都较大，并且其中一些特征落在不被多环芳烃主导的区域。水特征可能会阻碍在2.75μm的氢化物拉伸附近的观测，但在5.5-6.0μm范围内的其他振动基频甚至倍频可能通过JWST数据被识别。这项研究利用高水平和准确基准的量子化学非谐程序计算了与实验相比异常精确的旋转光谱数据。这种性能意味着在该研究中计算的红外吸收甚至级联发射光谱特征应该是准确的，并将为各种天文环境中对碳酸酸构型的观测提供所需的参考。 <div>
-With the recent radioastronomical detection of cis-trans-carbonic acid (H2CO3) in a molecular cloud toward the Galactic center, the more stable but currently unobserved cis-cis conformer is shown here to have strong IR features. While the higher-energy cis-trans-carbonic acid was detected at millimeter and centimeter wavelengths, owing to its larger dipole moment, the vibrational structure of cis-cis-carbonic acid is more amenable to its observation at micron wavelengths. Even so, both conformers have relatively large IR intensities, and some of these fall in regions not dominated by polycyclic aromatic hydrocarbons. Water features may inhibit observation near the 2.75 μm hydride stretches, but other vibrational fundamentals and even overtones in the 5.5–6.0 μm range may be discernible with JWST data. This work has employed high-level, accurately benchmarked quantum chemical anharmonic procedures to compute exceptionally accurate rotational spectroscopic data compared to experiment. Such performance implies that the IR absorption and even cascade emission spectral features computed in this work should be accurate and will provide the needed reference for observation of either carbonic acid conformer in various astronomical environments.
-]]></content:encoded>
-<pubDate>2024-01-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Filament Formation due to Diffusive Instabilities in Dusty Protoplanetary Disks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1114</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1114</guid>
-<content:encoded><![CDATA[
-<div> 新的扩散不稳定性，原行突出的粉尘流体，在原地质学家用于描述的条件下触发小尺度湍流的混合物，新不稳定性可能是丝状特征的起源，模型允许的振荡模式类似于密集行星环的不稳定性，条件可以在原行星盘中满足，但仍有待确认。<br /><br />总结:
-1. 发现了新的局部扩散不稳定性
-2. 描述了在原行星盘中的粉尘层的模型
-3. 模型允许增长的振荡模式
-4. 新不稳定性可能是丝状特征的起源
-5. 尚不清楚条件是否在原行星盘中得到满足 <div>
-We report the finding of a new, local diffusion instability in a protoplanetary disk which can operate in a dust fluid, subject to mass diffusion, shear viscosity, and dust–gas drag, provided the diffusivity, viscosity, or both, decrease sufficiently rapidly with increasing dust surface mass density. We devise a vertically averaged, axisymmetric hydrodynamic model to describe a dense, midplane dust layer in a protoplanetary disk. The gas is modeled as a passive component, imposing an effective, diffusion-dependent pressure, mass diffusivity, and viscosity onto the otherwise collisionless dust fluid, via turbulence excited by the gas alone, or dust and gas in combination. In particular, we argue that such conditions are met when the dust–gas mixture generates small-scale turbulence through the streaming instability, as supported by recent measurements of dust mass diffusion slopes in simulations. We hypothesize that the newly discovered instability may be the origin of filamentary features, almost ubiquitously found in simulations of the streaming instability. In addition, our model allows for growing oscillatory modes, which operate in a similar fashion as the axisymmetric viscous overstability in dense planetary rings. However, it remains speculative if the required conditions for such modes can be met in protoplanetary disks.
 ]]></content:encoded>
 <pubDate>2024-01-25T00:00:00Z</pubDate>
 </item>
