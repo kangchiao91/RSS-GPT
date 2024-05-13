@@ -4,18 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>TEMPLATES: Characterization of a Merger in the Dusty Lensing SPT0418–47 System</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad33c9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad33c9</guid>
 <content:encoded><![CDATA[
 <div> SPT0418−47, JWST, ALMA, lensing system, star-forming galaxy
-<br>
+<br />
 这篇文章报告了关于SPT0418−47的望远镜观测，包括JWST和ALMA的成像观测。SPT0418−47包括一个红移为z=4.225的强透镜星际尘埃星系和一个相关的多重成像伴星系。使用JWST NIRCam和MIRI进行的观测提供了对SPT0418A和SPT0418B两个星系中恒星光的稳健多波段检测，而ALMA对[C ii]发射的检测证实了SPT0418B与SPT0418A处于相同的红移。两个星系的投影物理间隔被推断为4.42±0.05千秒差距。我们推导出SPT0418A和SPT0418B的总放大率分别为μ=29±1和μ=4.1±0.7。我们使用prospector和cigale推导了恒星质量，发现SPT0418A的恒星质量为M* = 1.5±0.3×1010M⊙。SPT0418A和SPT0418B的恒星质量比约为4至7。我们观察到与SPT0418A相关的伸展结构，暗示着一种潮汐特征。这些特征以及接近的投影距离表明该系统正在相互作用。有趣的是，这两个星系的星形成速率和恒星质量与这个时期的星系的主序一致，表明这种持续的相互作用并没有明显提升星形成水平。
-<br><br>总结: SPT0418−47是一个包括主星系和伴星系的强透镜系统，通过JWST和ALMA的成像观测得出了两个星系的物理特性和恒星质量比。两个星系的相互作用导致了伸展结构的出现，但并没有明显提升星形成水平。 <div>
+<br /><br />总结: SPT0418−47是一个包括主星系和伴星系的强透镜系统，通过JWST和ALMA的成像观测得出了两个星系的物理特性和恒星质量比。两个星系的相互作用导致了伸展结构的出现，但并没有明显提升星形成水平。 <div>
 We present JWST and Atacama Large Millimeter/submillimeter Array (ALMA) imaging for the lensing system SPT0418−47, which includes a strongly lensed, dusty, star-forming galaxy at redshift z = 4.225 and an associated multiply imaged companion. The JWST NIRCam and MIRI imaging observations presented in this paper were acquired as part of the Early Release Science program Targeting Extremely Magnified Panchromatic Lensed Arcs and Their Extended Star formation (TEMPLATES). This data set provides robust mutiwavelength detections of stellar light in both the main (SPT0418A) and companion (SPT0418B) galaxies, while the ALMA detection of [C ii] emission confirms that SPT0418B lies at the same redshift as SPT0418A. We infer that the projected physical separation of the two galaxies is 4.42 ± 0.05 kpc. We derive total magnifications of μ = 29 ± 1 and μ = 4.1 ± 0.7 for SPT0418A and SPT0418B, respectively. We use both prospector and cigale to derive stellar masses. We find that SPT0418A has a stellar mass of from prospector or M* = 1.5 ± 0.3 × 1010M⊙ from cigale. The stellar mass ratio of SPT0418A and SPT0418B is roughly between 4 and 7 ( for prospector and 7.5 ± 3.7 for cigale). We see evidence of extended structure associated with SPT0418A that is suggestive of a tidal feature. These features, along with the close projected proximity, imply that the system is interacting. Interestingly, the star formation rates and stellar masses of both galaxies are consistent with the main sequence of star-forming galaxies at this epoch, indicating that this ongoing interaction has not noticeably elevated the star formation levels.
 ]]></content:encoded>
-
 <pubDate>2024-05-12T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,12 +24,11 @@ We present JWST and Atacama Large Millimeter/submillimeter Array (ALMA) imaging 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3635</guid>
 <content:encoded><![CDATA[
 <div> Legacy Survey of Space and Time; Science Pipelines; Difference Image Analysis; synthetic sources; artifact rate
-<br>
-总结:<br>
+<br />
+总结:<br />
 本文评估了Legacy Survey of Space and Time科学管道的差异图像分析（DIA）在模拟图像上的表现。通过向图像中的星系添加合成源，以评估管道对Dark Energy Science Collaboration数据挑战2图像的注入合成源的恢复情况。管道的性能良好，效率和流量准确性与输入图像的信噪比一致。我们探讨了Alard-Lupton多项式高斯图像减法核的不同空间自由度，并分析了效率与伪迹率之间的权衡。增加核的空间自由度可以降低伪迹率而不损失效率。不同核空间自由度的流量测量是一致的。我们还提供了一组DIA标志，可以从DIA源表中实质性地过滤出伪迹。我们探讨了观察到的剩余减法伪迹的形态和可能的起源，并建议考虑到这些伪迹起源的复杂性，可能需要使用具有空间变化的一组灵活基础的卷积核来进一步改进。 <div>
 We evaluate the performance of the Legacy Survey of Space and Time Science Pipelines Difference Image Analysis (DIA) on simulated images. By adding synthetic sources to galaxies on images, we trace the recovery of injected synthetic sources to evaluate the pipeline on images from the Dark Energy Science Collaboration Data Challenge 2. The pipeline performs well, with efficiency and flux accuracy consistent with the signal-to-noise ratio of the input images. We explore different spatial degrees of freedom for the Alard–Lupton polynomial-Gaussian image subtraction kernel and analyze for trade-offs in efficiency versus artifact rate. Increasing the kernel spatial degrees of freedom reduces the artifact rate without loss of efficiency. The flux measurements with different kernel spatial degrees of freedom are consistent. We also here provide a set of DIA flags that substantially filter out artifacts from the DIA source table. We explore the morphology and possible origins of the observed remaining subtraction artifacts and suggest that given the complexity of these artifact origins, a convolution kernel with a set of flexible bases with spatial variation may be needed to yield further improvements.
 ]]></content:encoded>
-
 <pubDate>2024-05-12T23:00:00Z</pubDate>
 </item>
 <item>
@@ -39,13 +38,11 @@ We evaluate the performance of the Legacy Survey of Space and Time Science Pipel
 <content:encoded><![CDATA[
 <div> 多维有限体积法，守恒律方程，加权本质非振荡方法（WENO），核基有限体积法，Euler方程
 
-包含多维核基有限体积法的彻底重构方案用于处理守恒律方程系统，特别是可压缩 Euler 方程。该方法通过自适应阶数的加权本质非振荡（WENO）方法实现非振荡重构，并且结合了径向基函数和高斯过程建模的核基方法。这种方法允许以简单定义的多维取样和子取样创建任意阶精度的方案。此外，全面多维的重构消除了对修改后的分量边界条件的需要，同时还引入了一组新的简单且有效的重构变量。该方案还通过一系列严格和信息丰富的基准问题来证明其功效和实用性。此外，还提供了使用Kokkos和消息传递接口的高度并行多GPU实现。 <br><br>总结: <br>多维重构方案，WENO方法，核基有限体积法，Euler方程，多GPU实现。 <div>
+包含多维核基有限体积法的彻底重构方案用于处理守恒律方程系统，特别是可压缩 Euler 方程。该方法通过自适应阶数的加权本质非振荡（WENO）方法实现非振荡重构，并且结合了径向基函数和高斯过程建模的核基方法。这种方法允许以简单定义的多维取样和子取样创建任意阶精度的方案。此外，全面多维的重构消除了对修改后的分量边界条件的需要，同时还引入了一组新的简单且有效的重构变量。该方案还通过一系列严格和信息丰富的基准问题来证明其功效和实用性。此外，还提供了使用Kokkos和消息传递接口的高度并行多GPU实现。 <br /><br />总结: <br />多维重构方案，WENO方法，核基有限体积法，Euler方程，多GPU实现。 <div>
 This paper presents a fully multidimensional kernel-based reconstruction scheme for finite volume methods applied to systems of hyperbolic conservation laws, with a particular emphasis on the compressible Euler equations. Nonoscillatory reconstruction is achieved through an adaptive-order weighted essentially nonoscillatory (WENO) method cast into a form suited to multidimensional reconstruction. A kernel-based approach inspired by radial basis functions and Gaussian process modeling, which we call kernel-based finite volume method with WENO, is presented here. This approach allows the creation of a scheme of arbitrary order of accuracy with simply defined multidimensional stencils and substencils. Furthermore, the fully multidimensional nature of the reconstruction allows for a more straightforward extension to higher spatial dimensions and removes the need for complicated boundary conditions on intermediate quantities in modified dimension-by-dimension methods. In addition, a new simple yet effective set of reconstruction variables is introduced, which could be useful in existing schemes with little modification. The proposed scheme is applied to a suite of stringent and informative benchmark problems to demonstrate its efficacy and utility. A highly parallel multi-GPU implementation using Kokkos and the message-passing interface is also provided.
 ]]></content:encoded>
-
 <pubDate>2024-05-12T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Generation and Life Cycle of Solar Spicules</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad372b</link>
@@ -11157,39 +11154,6 @@ Investigating the temperature and density structures of gas in massive protoclus
 总结: 
 本研究旨在通过对约700百万年的Praesepe和Hyades开放星团成员的观测来表征不同活动迹象在这个年龄的旋转-活动关系。通过获得新的光谱数据、X射线探测结果和旋转周期，我们得出了以下结论：在约700百万年时，几乎所有M型矮星都表现出Hα发射，联星与单星的整体颜色-Hα等价宽度分布相同；在Ro-LHα/Lbol平面上，非饱和单星遵循一个幂律，Ro > 0.3时指数为-5.9 ± 0.8；在Ro-LX/Lbol平面上，我们观察到有关Ro ≲ 0.01的单星存在超饱和迹象，并且遵循一个幂律，支持了这些恒星的日冕被离心剥离的假设；在LHα/Lbol和LX/Lbol之间几乎存在1:1的关系，这表明日冕和色球都经历了类似的磁加热过程。 <div>
 Low-mass (≲1.2 M⊙) main-sequence stars lose angular momentum over time, leading to a decrease in their magnetic activity. The details of this rotation–activity relation remain poorly understood, however. Using observations of members of the ≈700 Myr old Praesepe and Hyades open clusters, we aim to characterize the rotation–activity relation for different tracers of activity at this age. To complement published data, we obtained new optical spectra for 250 Praesepe stars, new X-ray detections for 10, and new rotation periods for 28. These numbers for Hyads are 131, 23, and 137, respectively. The latter increases the number of Hyads with periods by 50%. We used these data to measure the fractional Hα and X-ray luminosities, LHα/Lbol and LX/Lbol, and to calculate Rossby numbers Ro. We found that at ≈700 Myr almost all M dwarfs exhibit Hα emission, with binaries having the same overall color–Hα equivalent width distribution as single stars. In the Ro–LHα/Lbol plane, unsaturated single stars follow a power law with index β = −5.9 ± 0.8 for Ro > 0.3. In the Ro–LX/Lbol plane, we see evidence for supersaturation for single stars with Ro ≲ 0.01, following a power law with index , supporting the hypothesis that the coronae of these stars are being centrifugally stripped. We found that the critical Ro value at which activity saturates is smaller for LX/Lbol than for LHα/Lbol. Finally, we observed an almost 1:1 relation between LHα/Lbol and LX/Lbol, suggesting that both the corona and the chromosphere experience similar magnetic heating.
-]]></content:encoded>
-<pubDate>2024-02-01T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Exploring Primordial Curvature Perturbation on Small Scales with the Lensing Effect of Fast Radio Bursts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad118b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad118b</guid>
-<content:encoded><![CDATA[
-<div> 关键词：宇宙学观测、原初曲率扰动、原始黑洞、快速射电暴、透镜效应<br />
-总结:<br />本文首先推导了一个简单的公式来应用原始黑洞的约束条件以及单色质量分布到扩展质量分布。然后，利用最新的快速射电暴观测结果，结合透镜效应，对小尺度上两种原初曲率扰动模型进行了约束。研究结果显示，在目前可用的观测结果中，透镜效应下的快速射电暴没有检测到任何信号，在尺度范围为105-106 Mpc^-1的区域，原初曲率扰动的振幅应小于8 × 10^-2。这对应着与LIGO-Virgo-KAGRA以及未来Einstein Telescope或Cosmic Explorer探测到的双黑洞质量范围相关的一个有趣的质量范围。 <div>
-Cosmological observations, e.g., cosmic microwave background, have precisely measured the spectrum of primordial curvature perturbation on larger scales, but smaller scales are still poorly constrained. Since primordial black holes (PBHs) could form in the very early Universe through the gravitational collapse of primordial density perturbations, constraints on the PBH could encode much information on primordial fluctuations. In this work, we first derive a simple formula for the lensing effect to apply PBH constraints with the monochromatic mass distribution to an extended mass distribution. Then, we investigate the latest fast radio burst observations with this relationship to constrain two kinds of primordial curvature perturbation models on small scales. This suggests that, from the null search result of lensed fast radio bursts in currently available observations, the amplitude of primordial curvature perturbation should be less than 8 × 10−2 at the scale region of 105–106 Mpc−1. This corresponds to an interesting mass range relating to binary black holes detected by LIGO–Virgo–KAGRA and future Einstein Telescope or Cosmic Explorer.
-]]></content:encoded>
-<pubDate>2024-02-01T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Validation of Elemental and Isotopic Abundances in Late-M Spectral Types with the Benchmark HIP 55507 AB System</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1243</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1243</guid>
-<content:encoded><![CDATA[
-<div> M dwarfs, exoplanets, atmospheric measurements, HIP 55507, high-resolution spectroscopy
-<br /><br />
-这篇文章介绍了M7.5伴星HIP 55507 B和其K6V主星的大气分析。首先通过Keck/KPIC高分辨率（R∼35,000）K波段光谱学分析，包括KPIC相对径向速度的轨道拟合，提高了HIP 55507 B的动态质量精度，并发现其处于恒星-亚恒星边界之上。此外，作者还对HIP 55507 B的大气进行了检测和测量，得出了碳、氧的丰度以及C/O比率。同时在主星HIP 55507 A上进行了简化的大气成分分析。结果表明，HIP 55507 A和B具有一致的12C/13C和16O/18O比率，这对于一个化学上均一的双星系统来说是符合预期的。HIP 55507 AB与年轻的亚恒星伴星系统具有类似的光度比和分离距离，这意味着我们可以系统地测量类似光谱类型的亚恒星甚至行星质量伴星的13CO和丰度。 
-<br /><br />总结: 该研究通过高分辨率光谱学分析了M7.5伴星HIP 55507 B及其主星的大气特性，并对其动态质量和化学成分进行了测量，结果显示HIP 55507 A和B具有一致的大气成分，为测量类似光谱类型的亚恒星甚至行星质量伴星的大气成分提供了一种新方法。 <div>
-M dwarfs are common host stars to exoplanets but often lack atmospheric abundance measurements. Late-M dwarfs are also good analogs to the youngest substellar companions, which share similar Teff ∼ 2300–2800 K. We present atmospheric analyses for the M7.5 companion HIP 55507 B and its K6V primary star with Keck/KPIC high-resolution (R ∼ 35,000) K-band spectroscopy. First, by including KPIC relative radial velocities between the primary and secondary in the orbit fit, we improve the dynamical mass precision by 60% and find , putting HIP 55507 B above the stellar–substellar boundary. We also find that HIP 55507 B orbits its K6V primary star with au and e = 0.40 ± 0.04. From atmospheric retrievals of HIP 55507 B, we measure [C/H] = 0.24 ± 0.13, [O/H] = 0.15 ± 0.13, and C/O = 0.67 ± 0.04. Moreover, we strongly detect 13CO (7.8σ significance) and tentatively detect (3.7σ significance) in the companion’s atmosphere and measure and after accounting for systematic errors. From a simplified retrieval analysis of HIP 55507 A, we measure and for the primary star. These results demonstrate that HIP 55507 A and B have consistent 12C/13C and 16O/18O to the <1σ level, as expected for a chemically homogeneous binary system. Given the similar flux ratios and separations between HIP 55507 AB and systems with young substellar companions, our results open the door to systematically measuring 13CO and abundances in the atmospheres of substellar or even planetary-mass companions with similar spectral types.
-]]></content:encoded>
-<pubDate>2024-02-01T00:00:00Z</pubDate>
-</item>
-<item>
-<title>MINDS. JWST/MIRI Reveals a Dynamic Gas-rich Inner Disk inside the Cavity of SY Cha</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1393</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1393</guid>
-<content:encoded><![CDATA[
-SY Cha is a T Tauri star surrounded by a protoplanetary disk with a large cavity seen in the millimeter continuum but has the spectral energy distribution of a full disk. Here we report the first results from JWST/Mid-InfraRed Instrument (MIRI) Medium Resolution Spectrometer (MRS) observations taken as part of the MIRI mid-INfrared Disk Survey (MINDS) GTO Program. The much improved resolution and sensitivity of MIRI-MRS compared to Spitzer enables a robust analysis of the previously detected H2O, CO, HCN, and CO2 emission as well as a marginal detection of C2H2. We also report the first robust detection of mid-infrared OH and rovibrational CO emission in this source. The derived molecular column densities reveal the inner disk of SY Cha to be rich in both oxygen- and carbon-bearing molecules. This is in contrast to PDS 70, another protoplanetary disk with a large cavity observed with JWST, which displays much weaker line emission. In the SY Cha disk, the continuum, and potentially the line, flux varies substantially between the new JWST observations and archival Spitzer observations, indicative of a highly dynamic inner disk.
 ]]></content:encoded>
 <pubDate>2024-02-01T00:00:00Z</pubDate>
 </item>
