@@ -4,6 +4,47 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>TEMPLATES: Characterization of a Merger in the Dusty Lensing SPT0418–47 System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad33c9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad33c9</guid>
+<content:encoded><![CDATA[
+<div> SPT0418−47, JWST, ALMA, lensing system, star-forming galaxy
+<br>
+这篇文章报告了关于SPT0418−47的望远镜观测，包括JWST和ALMA的成像观测。SPT0418−47包括一个红移为z=4.225的强透镜星际尘埃星系和一个相关的多重成像伴星系。使用JWST NIRCam和MIRI进行的观测提供了对SPT0418A和SPT0418B两个星系中恒星光的稳健多波段检测，而ALMA对[C ii]发射的检测证实了SPT0418B与SPT0418A处于相同的红移。两个星系的投影物理间隔被推断为4.42±0.05千秒差距。我们推导出SPT0418A和SPT0418B的总放大率分别为μ=29±1和μ=4.1±0.7。我们使用prospector和cigale推导了恒星质量，发现SPT0418A的恒星质量为M* = 1.5±0.3×1010M⊙。SPT0418A和SPT0418B的恒星质量比约为4至7。我们观察到与SPT0418A相关的伸展结构，暗示着一种潮汐特征。这些特征以及接近的投影距离表明该系统正在相互作用。有趣的是，这两个星系的星形成速率和恒星质量与这个时期的星系的主序一致，表明这种持续的相互作用并没有明显提升星形成水平。
+<br><br>总结: SPT0418−47是一个包括主星系和伴星系的强透镜系统，通过JWST和ALMA的成像观测得出了两个星系的物理特性和恒星质量比。两个星系的相互作用导致了伸展结构的出现，但并没有明显提升星形成水平。 <div>
+We present JWST and Atacama Large Millimeter/submillimeter Array (ALMA) imaging for the lensing system SPT0418−47, which includes a strongly lensed, dusty, star-forming galaxy at redshift z = 4.225 and an associated multiply imaged companion. The JWST NIRCam and MIRI imaging observations presented in this paper were acquired as part of the Early Release Science program Targeting Extremely Magnified Panchromatic Lensed Arcs and Their Extended Star formation (TEMPLATES). This data set provides robust mutiwavelength detections of stellar light in both the main (SPT0418A) and companion (SPT0418B) galaxies, while the ALMA detection of [C ii] emission confirms that SPT0418B lies at the same redshift as SPT0418A. We infer that the projected physical separation of the two galaxies is 4.42 ± 0.05 kpc. We derive total magnifications of μ = 29 ± 1 and μ = 4.1 ± 0.7 for SPT0418A and SPT0418B, respectively. We use both prospector and cigale to derive stellar masses. We find that SPT0418A has a stellar mass of from prospector or M* = 1.5 ± 0.3 × 1010M⊙ from cigale. The stellar mass ratio of SPT0418A and SPT0418B is roughly between 4 and 7 ( for prospector and 7.5 ± 3.7 for cigale). We see evidence of extended structure associated with SPT0418A that is suggestive of a tidal feature. These features, along with the close projected proximity, imply that the system is interacting. Interestingly, the star formation rates and stellar masses of both galaxies are consistent with the main sequence of star-forming galaxies at this epoch, indicating that this ongoing interaction has not noticeably elevated the star formation levels.
+]]></content:encoded>
+
+<pubDate>2024-05-12T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Testing the LSST Difference Image Analysis Pipeline Using Synthetic Source Injection Analysis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3635</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3635</guid>
+<content:encoded><![CDATA[
+<div> Legacy Survey of Space and Time; Science Pipelines; Difference Image Analysis; synthetic sources; artifact rate
+<br>
+总结:<br>
+本文评估了Legacy Survey of Space and Time科学管道的差异图像分析（DIA）在模拟图像上的表现。通过向图像中的星系添加合成源，以评估管道对Dark Energy Science Collaboration数据挑战2图像的注入合成源的恢复情况。管道的性能良好，效率和流量准确性与输入图像的信噪比一致。我们探讨了Alard-Lupton多项式高斯图像减法核的不同空间自由度，并分析了效率与伪迹率之间的权衡。增加核的空间自由度可以降低伪迹率而不损失效率。不同核空间自由度的流量测量是一致的。我们还提供了一组DIA标志，可以从DIA源表中实质性地过滤出伪迹。我们探讨了观察到的剩余减法伪迹的形态和可能的起源，并建议考虑到这些伪迹起源的复杂性，可能需要使用具有空间变化的一组灵活基础的卷积核来进一步改进。 <div>
+We evaluate the performance of the Legacy Survey of Space and Time Science Pipelines Difference Image Analysis (DIA) on simulated images. By adding synthetic sources to galaxies on images, we trace the recovery of injected synthetic sources to evaluate the pipeline on images from the Dark Energy Science Collaboration Data Challenge 2. The pipeline performs well, with efficiency and flux accuracy consistent with the signal-to-noise ratio of the input images. We explore different spatial degrees of freedom for the Alard–Lupton polynomial-Gaussian image subtraction kernel and analyze for trade-offs in efficiency versus artifact rate. Increasing the kernel spatial degrees of freedom reduces the artifact rate without loss of efficiency. The flux measurements with different kernel spatial degrees of freedom are consistent. We also here provide a set of DIA flags that substantially filter out artifacts from the DIA source table. We explore the morphology and possible origins of the observed remaining subtraction artifacts and suggest that given the complexity of these artifact origins, a convolution kernel with a set of flexible bases with spatial variation may be needed to yield further improvements.
+]]></content:encoded>
+
+<pubDate>2024-05-12T23:00:00Z</pubDate>
+</item>
+<item>
+<title>KFVM-WENO: A High-order Accurate Kernel-based Finite Volume Method for Compressible Hydrodynamics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad37fb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad37fb</guid>
+<content:encoded><![CDATA[
+<div> 多维有限体积法，守恒律方程，加权本质非振荡方法（WENO），核基有限体积法，Euler方程
+
+包含多维核基有限体积法的彻底重构方案用于处理守恒律方程系统，特别是可压缩 Euler 方程。该方法通过自适应阶数的加权本质非振荡（WENO）方法实现非振荡重构，并且结合了径向基函数和高斯过程建模的核基方法。这种方法允许以简单定义的多维取样和子取样创建任意阶精度的方案。此外，全面多维的重构消除了对修改后的分量边界条件的需要，同时还引入了一组新的简单且有效的重构变量。该方案还通过一系列严格和信息丰富的基准问题来证明其功效和实用性。此外，还提供了使用Kokkos和消息传递接口的高度并行多GPU实现。 <br><br>总结: <br>多维重构方案，WENO方法，核基有限体积法，Euler方程，多GPU实现。 <div>
+This paper presents a fully multidimensional kernel-based reconstruction scheme for finite volume methods applied to systems of hyperbolic conservation laws, with a particular emphasis on the compressible Euler equations. Nonoscillatory reconstruction is achieved through an adaptive-order weighted essentially nonoscillatory (WENO) method cast into a form suited to multidimensional reconstruction. A kernel-based approach inspired by radial basis functions and Gaussian process modeling, which we call kernel-based finite volume method with WENO, is presented here. This approach allows the creation of a scheme of arbitrary order of accuracy with simply defined multidimensional stencils and substencils. Furthermore, the fully multidimensional nature of the reconstruction allows for a more straightforward extension to higher spatial dimensions and removes the need for complicated boundary conditions on intermediate quantities in modified dimension-by-dimension methods. In addition, a new simple yet effective set of reconstruction variables is introduced, which could be useful in existing schemes with little modification. The proposed scheme is applied to a suite of stringent and informative benchmark problems to demonstrate its efficacy and utility. A highly parallel multi-GPU implementation using Kokkos and the message-passing interface is also provided.
+]]></content:encoded>
+
+<pubDate>2024-05-12T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Generation and Life Cycle of Solar Spicules</title>
