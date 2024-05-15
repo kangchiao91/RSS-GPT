@@ -4,6 +4,94 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Probing the Circumgalactic Medium with Fast Radio Bursts: Insights from CAMELS</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3070</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3070</guid>
+<content:encoded><![CDATA[
+<div> 关键词: baryons, fast radio bursts (FRBs), feedback, ionized baryons, simulations<br>
+<br>总结: 该研究利用快速射电暴(FRBs)测量电子色散测量，以解决遗失的重子问题并约束宇宙中的反馈历史。通过分析三种模拟套件中的183个模型，发现它们在预测上存在显著差异，主要是由于反馈实现的不同。其中SIMBA的反馈最强，Astrid的反馈最弱，而IllustrisTNG对超新星反馈最敏感。研究发现，黑洞而不是恒星最有能力重新分布宇宙中和星系周围的重子物质。这些统计数据为利用FRBs约束星系形成和演化的物理学奠定了基础。 <br> <div>
+Most diffuse baryons, including the circumgalactic medium (CGM) surrounding galaxies and the intergalactic medium (IGM) in the cosmic web, remain unmeasured and unconstrained. Fast radio bursts (FRBs) offer an unparalleled method to measure the electron dispersion measures (DMs) of ionized baryons. Their distribution can resolve the missing baryon problem and constrain the history of feedback theorized to impart significant energy to the CGM and IGM. We analyze the Cosmology and Astrophysics with Machine Learning Simulations using three suites, IllustrisTNG, SIMBA, and Astrid, each varying six parameters (two cosmological and four astrophysical feedback), for a total of 183 distinct simulation models. We find significantly different predictions between the fiducial models of the suites owing to their different implementations of feedback. SIMBA exhibits the strongest feedback, leading to the smoothest distribution of baryons and reducing the sight-line-to-sight-line variance in DMs between z = 0 and 1. Astrid has the weakest feedback and the largest variance. We calculate FRB CGM measurements as a function of galaxy impact parameter, with SIMBA showing the weakest DMs due to aggressive active galactic nucleus (AGN) feedback and Astrid the strongest. Within each suite, the largest differences are due to varying AGN feedback. IllustrisTNG shows the most sensitivity to supernova feedback, but this is due to the change in the AGN feedback strengths, demonstrating that black holes, not stars, are most capable of redistributing baryons in the IGM and CGM. We compare our statistics directly to recent observations, paving the way for the use of FRBs to constrain the physics of galaxy formation and evolution.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Bayesian Synthesis of Astrometric Wobble and Total Light Curves in Close Binary Supermassive Black Holes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3729</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3729</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 贝叶斯合成, 超大质量黑洞, 多波段数据, 天体测量, 计算机模拟
+
+总结:
+贝叶斯合成是一种潜在的方法，可以从不同仪器的多波段数据中提取出超大质量黑洞的轨道参数和各自的光变曲线。未来的干涉仪将可以观测到质量较大的超大质量黑洞的星震。结合这些观测数据和来自调查项目如Vera C. Rubin Legacy Survey of Space and Time的定期变化时域数据，可以比独立的观测方法提供更多有关超大质量黑洞候选者的信息。该方法可以从长期、中期和短期的二进制动力学和观测配置中可靠地确定二进制参数和组分流量，假设每年进行10次观测，即使在“q-accrete”类型的短周期物体中也适用。从二进制动力学参数构建的预期超大质量黑洞星震可能有助于改进超大质量黑洞的观测策略。推断的质量比、二进制组分的光变曲线和观测到的光心星震组合可以成为超大质量黑洞组分活动状态的代理。 <div>
+We test the potential of Bayesian synthesis of upcoming multi-instrument data to extract orbital parameters and individual light curves of close binary supermassive black holes (CB-SMBH) with subparsec separations. Next-generation interferometers, will make possible the observation of astrometric wobbles in CB-SMBH. Combining them with periodic variable time-domain data from surveys like the Vera C. Rubin Legacy Survey of Space and Time, allows for more information on CB-SMBH candidates compared to standalone observational methods. Our method reliably determines binary parameters and component fluxes from binary total flux across long-term, intermediate, and short-term binary dynamics and observational configurations, assuming 10 annual observations, even in short period “q-accrete” objects. Expected CB-SMBH astrometric wobbles constructed from binary dynamical parameters might serve in refining observational strategies for CB-SMBH. Combination of inferred mass ratio, light curves of binary components, and observed photocenter wobbles can be a proxy for the activity states of CB-SMBH components.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Lyα Emission at z = 7–13: Clear Evolution of Lyα Equivalent Width Indicating a Late Cosmic Reionization History</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad38c2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad38c2</guid>
+<content:encoded><![CDATA[
+<div> 星系、Lyα发射、红移、氢的中性分数、再电离<br>
+在这篇文章中，研究人员对红移为6.6-13.2的53个星系进行了Lyα发射的演化研究，并发现其中有15个星系在3σ水平上显示了Lyα发射。通过对这些星系的Lyα当量宽度测量和严格的3σ上限限制，研究人员认为Lyα发射的EW随着红移的增加而统计上减小。然后，他们利用贝叶斯推断框架基于Lyα当量宽度的红移演化和宇宙再电离模拟结果评估中性氢分数，得出在z∼7，8和9-13处的xH I分别小于0.79、和，这些相对较大的xH I值与Planck宇宙微波背景光学深度测量和先前从星系和类星体Lyα阻尼翼吸收中得出的xH I约束一致，并强烈表明晚期再电离历史。这样的晚期再电离历史表明，再电离的主要来源会比较晚出现，并由相对于被广泛接受的少量低质量对象再电离来源图像的中等质量暗物质晕组织。 <br><br>总结: 这项研究对红移为6.6-13.2的53个星系进行了Lyα发射的演化研究，发现15个星系显示了Lyα发射，在红移增加时Lyα的当量宽度统计上减小。根据再电离模拟结果，他们评估了中性氢分数，结果表明晚期再电离历史，这暗示再电离的主要来源会比较晚出现。 <div>
+We present the evolution of Lyα emission derived from 53 galaxies at z = 6.6–13.2, which have been identified by multiple JWST/NIRSpec spectroscopy programs of Early Release Science, General Observer, Director's Discretionary Time, and Guaranteed Time Observations. These galaxies fall on the star formation main sequence and are typical star-forming galaxies with UV magnitudes of −22.5 ≤ MUV ≤ −17.0. We find that 15 out of 53 galaxies show Lyα emission at the >3σ level, and we obtain Lyα equivalent width (EW) measurements and stringent 3σ upper limits for the 15 and 38 galaxies, respectively. Confirming that Lyα velocity offsets and line widths of our galaxies are comparable to those of low-redshift Lyα emitters, we investigate the redshift evolution of the Lyα EW. We find that Lyα EWs statistically decrease toward high redshifts on the Lyα EW versus the MUV plane for various probability distributions of the uncertainties. We then evaluate neutral hydrogen fractions xH I with the redshift evolution of the Lyα EW and the cosmic reionization simulation results on the basis of a Bayesian inference framework, and obtain xH I < 0.79, , and at z ∼ 7, 8, and 9–13, respectively. These moderately large xH I values are consistent with the Planck cosmic microwave background optical depth measurement and previous xH I constraints from galaxy and QSO Lyα damping wing absorption and strongly indicate a late reionization history. Such a late reionization history suggests that major sources of reionization would emerge late and be hosted by moderately massive halos compared with the widely accepted picture of abundant low-mass objects for the sources of reionization.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Study of the Observation Sensitivity of Gamma-Ray Bursts for the HADAR Project</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3933</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3933</guid>
+<content:encoded><![CDATA[
+<div> 关键词: HADAR, Cherenkov Telescope, gamma-ray astronomy, GRBs, observational results
+总结: <br><br>这篇研究主要介绍了一种名为HADAR的新型Cherenkov望远镜，其设计用于观测10 GeV到100 TeV能量范围内的宇宙射线，并将伽马射线爆发作为其主要研究重点之一。研究首先展示了HADAR对蟹状星云的敏感度，并对GRBs的敏感度进行了比较，标准观测时间为100秒。研究发现，HADAR能更全面地记录自衍康普顿辐射的弯曲和吸收，填补了空间和地面实验的观测空白。这种设施将确保大量GRB样本的统计数据，并推动我们对GRBs的理解。 <div>
+The High Altitude Detection of Astronomical Radiation (HADAR) is a novel wide-field Cherenkov Telescope. It is designed for gamma-ray astronomy in the energy range of 10 GeV to 100 TeV, with gamma-ray bursts (GRBs) being one of its primary research focuses. To assess its complementary capabilities, this study first presents the Crab sensitivity of HADAR. Then, to compare the sensitivity of GRBs, the observation time for all experiments is standardized to 100 s. To clearly demonstrate HADAR’s advantages, we estimate its observational results with a 221009A-like GRB. The study found that HADAR is capable of more comprehensively recording the bending and absorption of self-Compton radiation, which is expected to fill observational gaps in space- and ground-based experiments. We anticipate that this facility will ensure a large statistical GRB sample and advance our understanding of GRBs.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring the Mpc Environment of the Quasar ULAS J1342+0928 at z = 7.54</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bab</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bab</guid>
+<content:encoded><![CDATA[
+<div> 关键词: z ≳ 6 quasars, ULAS J1342+0928, Lyman-break galaxy (LBG) candidates, Hubble Space Telescope (HST), clustering analysis<br>
+总结:<br>研究关于 z = 7.54 明亮类星体ULAS J1342+0928的1.1Mpc²环境。使用HST进行深度成像，发现一个与类星体相距223kpc的LBG。对之前ALMA发现的一个[C ii]辐射体未发现HST对应体。LBG候选体的完整性估计结果表明，>50% z ∼ 7.5 LBGs被忽视，由于F105W缺少Lyman断裂红边滤波器。通过QSO-LBG聚类分析，发现此类星体的LBG过度需求较低，与平均或低密度的领域一致。最后，鉴定两个LBG候选体的zphot与类星体视线上一个已确认的z = 6.84吸收体匹配。所有这些星系候选体都是进一步观测的极好目标，以确认它们的红移和物理特性。 <div>
+Theoretical models predict that z ≳ 6 quasars are hosted in the most massive halos of the underlying dark matter distribution and thus would be immersed in protoclusters of galaxies. However, observations report inconclusive results. We investigate the 1.1 proper-Mpc2 environment of the z = 7.54 luminous quasar ULAS J1342+0928. We search for Lyman-break galaxy (LBG) candidates using deep imaging from the Hubble Space Telescope (HST) in the Advanced Camera for Surveys (ACS)/F814W, Wide Field Camera 3 (WFC3)/F105W/F125W bands, and Spitzer/Infrared Array Camera at 3.6 and 4.5 μm. We report a LBG with magF125W = 26.41 at 223 projected proper kpc (pkpc) from the quasar. We find no HST counterpart to one [C ii] emitter previously found with the Atacama Large millimeter/submillimeter Array (ALMA) at 27 projected pkpc and z[C II]=7.5341 ± 0.0009 (Venemans et al. 2020). We estimate the completeness of our LBG candidates using results from Cosmic Assembly Near-Infrared Deep Extragalactic Legacy Survey/GOODS deep blank field searches sharing a similar filter setup. We find that >50% of the z ∼ 7.5 Lyman-break galaxies (LBGs) with magF125W > 25.5 are missed due to the absence of a filter redward of the Lyman break in F105W, hindering the UV color accuracy of the candidates. We conduct a QSO-LBG clustering analysis revealing a low LBG excess of in this quasar field, consistent with an average or low-density field. Consequently, this result does not present strong evidence of an LBG overdensity around ULAS J1342+0928. Furthermore, we identify two LBG candidates with a zphot matching a confirmed z = 6.84 absorber along the line of sight to the quasar. All these galaxy candidates are excellent targets for follow-up observations with JWST and/or ALMA to confirm their redshift and physical properties.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Evidence of a Strong 19.5 Hz Flux Oscillation in Swift BAT and Fermi GBM Gamma-Ray Data from GRB 211211A</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bb7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bb7</guid>
+<content:encoded><![CDATA[
+<div> Fermi, Swift, gamma-ray, GRB 211211A, neutron stars<br>
+<br>
+这篇研究分析了GRB 211211A的时间特性，并发现了一个极其显著的19.5赫兹流量振荡，随着能量的增加，振幅也会增加。这个振荡出现在爆发开始后约1.6秒的0.2秒时间段内。尽管未发现强烈的准周期振荡，但这一发现仍具有重要意义。研究人员在讨论了振荡可能的机制后，提出了一些可能的机理和解释。这项研究结果有助于更好地理解引力波爆发并推动相关领域的进展。<br><br>总结:FERMI和Swift卫星对GRB 211211A进行了时间分析，发现了一个显著的19.5赫兹流量振荡特征，这有助于对引力波爆发的机制进行进一步研究。 <div>
+The gamma-ray burst (GRB) GRB 211211A is believed to have occurred due to the merger of two neutron stars or a neutron star and a black hole, despite its duration of more than a minute. Subsequent analysis has revealed numerous interesting properties including the possible presence of a ∼22 Hz quasiperiodic oscillation (QPO) during precursor emission. Here we perform timing analysis of Fermi and Swift gamma-ray data on GRB 211211A and, although we do not find a strong QPO during the precursor, we do find an extremely significant 19.5 Hz flux oscillation, which has higher fractional amplitude at higher energies, in a ∼0.2 s segment beginning ∼1.6 s after the start of the burst. After presenting our analysis we discuss possible mechanisms for the oscillation.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Sizes of Active Galactic Nucleus Inhomogeneous Disks—Large in Microlensing, Small in Reverberation Mapping</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d53</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d53</guid>
+<content:encoded><![CDATA[
+<div> 磁流体动力学湍流、AGN、吸积盘、X射线重照、时间延迟
+
+总结:<br><br>这篇文章研究了活跃星系核（AGN）吸积盘中的磁流体动力学湍流对温度波动的影响，指出这些波动会导致吸积盘不均匀性，并与一些塞弗特1型AGN的连续反应映射结果不符。研究还表明X射线重照模型中的时间延迟与磁流体动力学湍流有关，并且应该在模拟中加以考虑。此外，文章还提到了X射线和盘发射之间的交叉相关性较弱，与最近的连续反应映射结果一致。 <div>
+Magnetohydrodynamic turbulence can drive significant temperature fluctuations in the accretion disk of an active galactic nucleus (AGN). As a result, the disk can be highly inhomogeneous and has a half-light radius larger than the static Shakura and Sunyaev disk (SSD), in agreement with quasar microlensing observations. Meanwhile, the accretion-disk sizes can also be determined using continuum reverberation mappings that measure interband cross-correlations and time lags. The interband time lags are often understood in the X-ray reprocessing scenario. Here we show that the interband continuum time lags of the X-ray reprocessing of an inhomogeneous disk are similar to or even smaller than those of a static SSD. Consequently, the X-ray reprocessing of an inhomogeneous disk cannot account for the recent continuum reverberation mappings of some Seyfert 1 AGNs, whose measured time lags are larger than those of a static SSD. In contrast to the tight correlation between UV/optical variations, the cross-correlation between X-ray and disk emission is rather weak in this model; this behavior is consistent with recent continuum reverberation mappings. Moreover, the time lags in this model are anticorrelated with the amplitude of disk temperature fluctuations. Our results suggest that the temperature fluctuations should be properly considered when modeling interband continuum time lags.
+]]></content:encoded>
+
+<pubDate>2024-05-14T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Evolution of Accreting Binaries: From Brown Dwarfs to Supermassive Black Holes</title>
