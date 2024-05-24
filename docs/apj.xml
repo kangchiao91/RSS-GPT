@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Toward Cosmological Simulations of the Magnetized Intracluster Medium with Resolved Coulomb Collision Scale</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad39ee</link>
@@ -13,11 +14,10 @@
 
 这篇文章报告了一项关于质量为2.0×1015太阳质量的大型星系团的高分辨率磁流体力学宇宙学模拟的初步结果。采用4×10^5太阳质量的质量分辨率，并在星系团中心区域实现了约250pc的最大空间分辨率。研究表明，在红移4之前，星系团中心区域内存在一个小尺度湍流动力学过程放大磁场的详细过程，直到红移2之后，磁场增长呈现弱化的趋势。磁场能量在系统接近红移零时略有下降，符合绝热膨胀的预测。磁场结构在中心区域呈高度湍流状态，并在几十千秒差距的尺度上显示出磁场反转和径向、角向分量的反相关性，这是由小尺度湍流动力学作用所引起的。在兆秒差距尺度上，大尺度磁场几乎是各向同性的，这表明大规模星系团形成过程抑制了初始磁场配置和湍流动力学放大形态的记忆。此外，研究还证明了能够同时揭示星际介质中小尺度磁场结构的极高分辨率模拟的可行性，这对于模拟宇宙射线的注入和输运过程具有重要意义。这项工作对于具有实时宇宙射线处理的后续研究，以及详细建模电子同步辐射和伽马射线发射过程都具有重要意义。
 
-<br><br>总结:
+<br /><br />总结:
 本文报道了对质量2.0×1015太阳质量的大型星系团进行高分辨率磁流体力学宇宙学模拟的初步结果。研究显示，在星系团中心区域存在小尺度的湍流动力学过程放大磁场，并且磁场结构呈现高度湍流状态。随着红移的接近，磁场能量略有下降，符合绝热膨胀的趋势。此外，研究还证明了高分辨率模拟揭示小尺度磁场结构的可行性，对于宇宙射线注入和输运过程的模拟具有重要意义。 <div>
 We present the first results of one extremely high-resolution, nonradiative magnetohydrodynamical cosmological zoom-in simulation of a massive cluster with a virial mass of Mvir = 2.0 × 1015 solar masses. We adopt a mass resolution of 4 × 105M⊙ with a maximum spatial resolution of around 250 pc in the central regions of the cluster. We follow the detailed amplification process in a resolved small-scale turbulent dynamo in the intracluster medium (ICM) with strong exponential growth until redshift 4, after which the field grows weakly in the adiabatic compression limit until redshift 2. The energy in the field is slightly reduced as the system approaches redshift zero in agreement with adiabatic decompression. The field structure is highly turbulent in the center and shows field reversals on a length scale of a few tens of kiloparsecs and an anticorrelation between the radial and angular field components in the central region that is ordered by small-scale turbulent dynamo action. The large-scale field on megaparsec scales is almost isotropic, indicating that the structure formation process in massive galaxy cluster formation suppresses any memory of both the initial field configuration and the amplified morphology via the turbulent dynamo. We demonstrate that extremely high-resolution simulations of the magnetized ICM are within reach that can simultaneously resolve the small-scale magnetic field structure, which is of major importance for the injection of and transport of cosmic rays in the ICM. This work is a major cornerstone for follow-up studies with an on-the-fly treatment of cosmic rays to model in detail electron-synchrotron and gamma-ray emissions.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@ We present the first results of one extremely high-resolution, nonradiative magn
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bae</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bae</guid>
 <content:encoded><![CDATA[
-<div> 小固体，行星形成，气态盘，固体吸积效率，质量通量<br>
-这篇文章研究了小固体颗粒在嵌入气态盘的行星表面的吸积效率。研究发现，1cm ≤ Rs ≤ 100cm颗粒的最大吸积效率通常≲10％，而10m颗粒往往能够高效吸积或者排列在行星轨道之外。此外，研究还发现小行星核心的吸积效率近似于行星质量的一个指数函数。通过代表性的盘模型，估计得到的固体吸积速率在1-1.5百万年后下降至小于10^(-6) M⊕ yr^(-1)。最后，文章还应用得到的吸积速率进行了行星形成计算，结果显示，形成的行星种类各异，从主要由重元素组成的几倍地球质量的行星到巨行星都有。在固体吸积的时期，行星的峰值光度范围大约为10^(-7)到10^(-6)个太阳光度。<br><br>总结:本文研究了小固体颗粒在气态盘中对行星形成的影响，发现不同尺寸的固体颗粒在行星吸积过程中的效率不同，还发现小行星核心的吸积效率与行星质量成正比，最后应用得到的吸积速率进行了行星形成计算，结果显示行星形成过程中可能出现多种结果。 <div>
+<div> 小固体，行星形成，气态盘，固体吸积效率，质量通量<br />
+这篇文章研究了小固体颗粒在嵌入气态盘的行星表面的吸积效率。研究发现，1cm ≤ Rs ≤ 100cm颗粒的最大吸积效率通常≲10％，而10m颗粒往往能够高效吸积或者排列在行星轨道之外。此外，研究还发现小行星核心的吸积效率近似于行星质量的一个指数函数。通过代表性的盘模型，估计得到的固体吸积速率在1-1.5百万年后下降至小于10^(-6) M⊕ yr^(-1)。最后，文章还应用得到的吸积速率进行了行星形成计算，结果显示，形成的行星种类各异，从主要由重元素组成的几倍地球质量的行星到巨行星都有。在固体吸积的时期，行星的峰值光度范围大约为10^(-7)到10^(-6)个太阳光度。<br /><br />总结:本文研究了小固体颗粒在气态盘中对行星形成的影响，发现不同尺寸的固体颗粒在行星吸积过程中的效率不同，还发现小行星核心的吸积效率与行星质量成正比，最后应用得到的吸积速率进行了行星形成计算，结果显示行星形成过程中可能出现多种结果。 <div>
 We compute the accretion efficiency of small solids, with radii 1 cm ≤ Rs ≤ 10 m, on planets embedded in gaseous disks. Planets have masses 3 ≤ Mp ≤ 20 Earth masses (M⊕) and orbit within 10 au of a solar mass star. Disk thermodynamics is modeled via 3D radiation-hydrodynamics calculations that typically resolve the planetary envelopes. Both icy and rocky solids are considered, explicitly modeling their thermodynamic evolution. The maximum efficiencies of 1 ≤ Rs ≤ 100 cm particles are generally ≲10%, whereas 10 m solids tend to accrete efficiently or be segregated beyond the planet’s orbit. A simplified approach is applied to compute the accretion efficiency of small cores, with masses Mp ≤ 1 M⊕ and without envelopes, for which efficiencies are approximately proportional to . The mass flux of solids, estimated from unperturbed drag-induced drift velocities, provides typical accretion rates dMp/dt ≲ 10−5M⊕ yr−1. In representative disk models with an initial gas-to-dust mass ratio of 70–100 and total mass of 0.05–0.06 M⊙, the solids’ accretion falls below 10−6M⊕ yr−1 after 1–1.5 Myr. The derived accretion rates, as functions of time and planet mass, are applied to formation calculations that compute dust opacity self-consistently with the delivery of solids to the envelope. Assuming dust-to-solid coagulation times of ≈0.3 Myr and disk lifetimes of ≈3.5 Myr, heavy-element inventories in the range 3–7 M⊕ require that ≈90–150 M⊕ of solids cross the planet’s orbit. The formation calculations encompass a variety of outcomes, from planets a few times M⊕, predominantly composed of heavy elements, to giant planets. The peak luminosities during the epoch of the solids’ accretion range from ≈10−7 to ≈10−6L⊙.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,12 +36,11 @@ We compute the accretion efficiency of small solids, with radii 1 cm ≤ Rs ≤ 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3c44</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3c44</guid>
 <content:encoded><![CDATA[
-<div> 光学和红外数据，MaDCoWS2，Galaxy cluster candidates, Detection algorithm, Redshift probability distribution functions<br>
-总结:<br>
+<div> 光学和红外数据，MaDCoWS2，Galaxy cluster candidates, Detection algorithm, Redshift probability distribution functions<br />
+总结:<br />
 MaDCoWS2是原MaDCoWS调查的后继者，使用更深入的光学和红外数据以及更强大的检测算法(PZWav)。利用DECaLS和CatWISE2020目录的光度数据，得出宽场红外巡天探测器(WISE)选择的星系的光度红移的全概率分布函数。利用PZWav算法检测三维星系密度过度，得到了22,970个星系团候选者的目录，跨越0.1 < z < 2的红移范围。与其他调查相比，MaDCoWS2重新发现了60%–92%的星团，且偏差较小。研究了信噪比和富度之间的关系表现出较小的散布。 <div>
 The Massive and Distant Clusters of WISE Survey 2 (MaDCoWS2) is a new survey designed as the successor of the original MaDCoWS survey. MaDCoWS2 improves upon its predecessor by using deeper optical and infrared data and a more powerful detection algorithm (PZWav). As input to the search, we use grz photometry from the DECam Legacy Survey (DECaLS) in combination with W1 and W2 photometry from the CatWISE2020 catalog to derive the photometric redshifts with full redshift probability distribution functions for Wide-field Infrared Survey Explorer (WISE)-selected galaxies. Cluster candidates are then detected using the PZWav algorithm to find three-dimensional galaxy overdensities from the sky positions and photometric redshifts. This paper provides the first MaDCoWS2 data release, covering 1461 (1838 without masking) deg2 centered on the Hyper-SuprimeCam Subaru Strategic Program equatorial fields. Within this region, we derive a catalog of 22,970 galaxy cluster candidates detected at a signal-to-noise ratio (S/N) > 5. These clusters span the redshift range 0.1 < z < 2, including 1312 candidates at z > 1.5. We compare MaDCoWS2 to six existing catalogs in the area. We rediscover 60%–92% of the clusters in these surveys at S/N > 5. The medians of the absolute redshift offset are <0.02 relative to these surveys, while the standard deviations are less than 0.06. The median offsets between the detection position from MaDCoWS2 and other surveys are less than 0.25 Mpc. We quantify the relation between S/N and gas mass, total mass, luminosity, and richness from other surveys using a redshift-dependent power law relation. We find that the S/N-richness relation exhibits the lowest scatter.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,12 +48,11 @@ The Massive and Distant Clusters of WISE Survey 2 (MaDCoWS2) is a new survey des
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df9</guid>
 <content:encoded><![CDATA[
-<div> 中心星；行星状星云；光谱学；双星系统；恒星旋转<br>
-总结:<br>
+<div> 中心星；行星状星云；光谱学；双星系统；恒星旋转<br />
+总结:<br />
 本文报道了利用Hobby-Eberly望远镜的低分辨率光谱仪对行星状星云Patchick 27（Pa 27）的中心星进行的光学光谱观测。光谱显示Pa 27为K0 III红巨星，但同时在近紫外波段也检测到了一个热的双星成分。研究还发现Pa 27表现出低幅度的7.36天正弦变化，可能是由于旋转和磁活跃的冷巨星表面出现恒星黑子导致的。Pa 27属于“A35型中心星”这一稀有类别，由一个有斑点的晚型恒星和一个热的白矮星前体组成。最后，研究提出了一些有用的后续观测建议。 <div>
 We present optical spectroscopy of the 12th-magnitude central star of the planetary nebula (PN) Patchick 27 (Pa 27), obtained during a survey of faint PN nuclei (PNNs) with the Low-Resolution Spectrograph of the Hobby–Eberly Telescope. The optical spectrum of Pa 27 is that of a K0 III red giant with rotationally broadened lines. However, the star is detected in the near-ultraviolet (near-UV) with GALEX, showing that a hot binary component is also present. The spectral-energy distribution from the near-UV to the mid-infrared can be fitted with a combination of the K0 III giant and a hot PNN with an effective temperature of about 50,000 K. Photometric observations of Pa 27, both ground-based and from TESS, show a low-amplitude sinusoidal variation with a period of 7.36 days, probably due to starspots on a rotating and magnetically active cool giant. Pa 27 is a new member of the rare class of “A35-type central stars,” which are binary PNNs consisting of a spotted late-type star and a hot pre–white dwarf. They are likely the result of a situation where an asymptotic-giant-branch (AGB) star ejects its outer layers in a dense wind, part of which is captured by a distant companion, spinning up its rotation by accretion of material and angular momentum. We suggest several useful follow-up observations.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -65,10 +62,9 @@ We present optical spectroscopy of the 12th-magnitude central star of the planet
 <content:encoded><![CDATA[
 <div> Mercury, orbit, destabilize, subdiffusive, solar system
 Summary: 
-水星的轨道可能变得不稳定，导致与金星或太阳的碰撞。先前的工作将g1的变化近似为随机扩散，建立出一个可以在长达10亿年以上的时间尺度上复现水星不稳定统计的现象学模型。然而，新的研究表明，随机扩散模型在5亿年以下的时间尺度上显著低估了水星不稳定的概率。为了更好地模拟短时间尺度上的变化，研究人员建立了一个新的亚扩散现象学模型。他们选择了模型参数，使其能够在1到40亿年的时间尺度内复现水星的不稳定统计。这项工作引发了太阳系动力学领域的一些基本问题：为什么亚扩散更好地近似了g1的变化？为什么g1有一个上限，而没有阻止它达到g5的下限？<br><br>总结: <br>水星可能与金星或太阳碰撞；现有的扩散模型无法准确预测水星不稳定性；新的亚扩散模型能够更好地模拟短时间尺度上的变化；这项工作引发了太阳系动力学领域的一些基本问题。 <div>
+水星的轨道可能变得不稳定，导致与金星或太阳的碰撞。先前的工作将g1的变化近似为随机扩散，建立出一个可以在长达10亿年以上的时间尺度上复现水星不稳定统计的现象学模型。然而，新的研究表明，随机扩散模型在5亿年以下的时间尺度上显著低估了水星不稳定的概率。为了更好地模拟短时间尺度上的变化，研究人员建立了一个新的亚扩散现象学模型。他们选择了模型参数，使其能够在1到40亿年的时间尺度内复现水星的不稳定统计。这项工作引发了太阳系动力学领域的一些基本问题：为什么亚扩散更好地近似了g1的变化？为什么g1有一个上限，而没有阻止它达到g5的下限？<br /><br />总结: <br />水星可能与金星或太阳碰撞；现有的扩散模型无法准确预测水星不稳定性；新的亚扩散模型能够更好地模拟短时间尺度上的变化；这项工作引发了太阳系动力学领域的一些基本问题。 <div>
 Mercury’s orbit can destabilize, generally resulting in a collision with either Venus or the Sun. Chaotic evolution can cause g1 to decrease to the approximately constant value of g5 and create a resonance. Previous work has approximated the variation in g1 as stochastic diffusion, which leads to a phenomological model that can reproduce the Mercury instability statistics of secular and N-body models on timescales longer than 10 Gyr. Here we show that the diffusive model significantly underpredicts the Mercury instability probability on timescales less than 5 Gyr, the remaining lifespan of the solar system. This is because g1 exhibits larger variations on short timescales than the diffusive model would suggest. To better model the variations on short timescales, we build a new subdiffusive phenomological model for g1. Subdiffusion is similar to diffusion but exhibits larger displacements on short timescales and smaller displacements on long timescales. We choose model parameters based on the behavior of the g1 trajectories in the N-body simulations, leading to a tuned model that can reproduce Mercury instability statistics from 1–40 Gyr. This work motivates fundamental questions in solar system dynamics: why does subdiffusion better approximate the variation in g1 than standard diffusion? Why is there an upper bound on g1, but not a lower bound that would prevent it from reaching g5?
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -77,11 +73,10 @@ Mercury’s orbit can destabilize, generally resulting in a collision with eithe
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad401f</guid>
 <content:encoded><![CDATA[
 <div> 红巨星，光谱观测，太空望远镜，Hubble Space Telescope，质量流失率
-<br>总结:
+<br />总结:
 研究使用哈勃空间望远镜上的STIS仪器对红巨星进行了光谱观测，发现早期K到中期M巨星主要表现为温暖的色球风。利用H i Lyα线的观察结果估算了红巨星的质量流失率，其中M巨星的流失率为M⊙ yr−1，而检测到流失吸收的K巨星具有较弱的流失率。此外，在观测两颗红巨星的光谱数据时发现了空间延展的Lyα发射，估算了可检测发射的极限范围。同时，也发现了Fe ii、Mg ii、Mg i、O i和C ii等线的空间特征。整体而言，M巨星的空间特征更为明显，与Lyα分析结果一致。 <div>
 We describe recent spectroscopic observations of red giant stars made by the Space Telescope Imaging Spectrograph (STIS) instrument on board the Hubble Space Telescope, which has provided spatially resolved observations of the warm chromospheric winds that predominate for early K to mid-M giants. The H i Lyα lines of a set of 11 red giants observed with the STIS/E140M echelle grating are first analyzed to ascertain wind H i column densities and total wind mass-loss rates. The M giants have estimated mass-loss rates of M⊙ yr−1, while the K giants with detected wind absorption have weaker winds with M⊙ yr−1. We use long-slit spectra of H i Lyα for two particular red giants, α Tau (K5 III) and γ Cru (M3.5 III), to study the spatial extent of the Lyα emission. From these data we estimate limits for the extent of detectable emission, which are r = 193 R* for γ Cru and r = 44 R* for α Tau. The cross-dispersion emission profiles in the STIS echelle spectra of the larger sample of red giants also show evidence for spatial resolution, not only for H i Lyα but for other lines with visible wind absorption, such as Fe ii, Mg ii, Mg i, O i, and C ii. We characterize the nature of these spatial signatures. The spatial extent is far more apparent for the M giants than for the K giants, consistent with the stronger winds found for the M giants from the Lyα analysis.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -89,11 +84,10 @@ We describe recent spectroscopic observations of red giant stars made by the Spa
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43d7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43d7</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 太阳能电池，Habitable Worlds Observatory，技术标志，外星文明，能源利用<br>
-总结: 本研究评估了类地外行星上由硅制成的太阳能电池作为潜在技术标志的可能性。通过对近红外和可见光范围内的高反射特性进行评估，发现使用类似Habitable Worlds Observatory telescop的8米望远镜需要数百个小时的观测时间才能在10光年外的类太阳恒星附近的地球样行星上达到一定的信噪比。此外，论文还讨论了Kardeshev Type I/II文明和戴森球等概念在能源利用方面的作用，最后指出，即使是未来的人类文明也不太可能发展成为银河系范围的文明，因为能源需求存在一定的限制。 <br> <div>
+<div> 关键词: 太阳能电池，Habitable Worlds Observatory，技术标志，外星文明，能源利用<br />
+总结: 本研究评估了类地外行星上由硅制成的太阳能电池作为潜在技术标志的可能性。通过对近红外和可见光范围内的高反射特性进行评估，发现使用类似Habitable Worlds Observatory telescop的8米望远镜需要数百个小时的观测时间才能在10光年外的类太阳恒星附近的地球样行星上达到一定的信噪比。此外，论文还讨论了Kardeshev Type I/II文明和戴森球等概念在能源利用方面的作用，最后指出，即使是未来的人类文明也不太可能发展成为银河系范围的文明，因为能源需求存在一定的限制。 <br /> <div>
 In this work, we assess the potential detectability of solar panels made of silicon on an Earth-like exoplanet as a potential technosignature. Silicon-based photovoltaic cells have high reflectance in the ultraviolet-to-visible (UV-VIS) and in the near-infrared, within the wavelength range of a space-based flagship mission concept like the Habitable Worlds Observatory (HWO). Assuming that only solar energy is used to provide the 2022 human energy needs with a land cover of ∼2.4%, and projecting the future energy demand assuming various growth-rate scenarios, we assess the detectability with an 8 m HWO-like telescope. Assuming the most favorable viewing orientation, and focusing on the strong absorption edge in the UV-VIS (0.34–0.52 μm), we find that several hundreds of hours of observation time are needed to reach a signal-to-noise ratio of 5 for an Earth-like planet around a Sun-like star at 10 pc, even with a solar panel coverage of ∼23% land coverage of a future Earth. We discuss the necessity of concepts like Kardeshev Type I/II civilizations and Dyson spheres, which would aim to harness vast amounts of energy. Even with much larger populations than today, the total energy use of human civilization would be orders of magnitude below the threshold for causing direct thermal heating or reaching the scale of a Kardashev Type I civilization. Any extraterrestrial civilization that likewise achieves sustainable population levels may also find a limit on its need to expand, which suggests that a galaxy-spanning civilization as imagined in the Fermi paradox may not exist.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -106,10 +100,8 @@ In this work, we assess the potential detectability of solar panels made of sili
 本研究通过对ICMEs和太阳风中He2+、C5+、O6+和Fe10+的离子-质子差速进行统计研究，发现太阳风中Vip随着距离太阳的减小而增加，而在ICMEs中保持不变。因此，通过1天文单位附近的原位丰度推断日冕源的绝对丰度可能存在问题。然而，高兴的是，氧离子（O6+）的差速（Vio）在ICMEs和太阳风中都可以忽略不计，这意味着各种重离子总是以相同的速度流动，它们在1天文单位附近的相对丰度可以代表ICMEs和太阳风的日冕丰度。 <div>
 The elemental abundance of interplanetary coronal mass ejections (ICMEs) and solar wind near 1 au is often adopted to represent the abundance in the corresponding coronal sources. However, the absolute abundance of heavy ions (relative to hydrogen) near 1 au might be different from the coronal abundance due to the ion–proton differential speed (Vip). To illustrate the Vip characteristics and explore whether it influences the absolute abundance analysis for ICMEs and solar wind, we perform a statistical study on the Vip for He2+, C5+, O6+, and Fe10+ in both ICMEs and solar wind based on measurements of Advanced Composition Explorer. The results show that the Vip is negligible within ICMEs and slow solar wind (< 400 km s−1), while obvious in the intermediate (400–600 km s−1) and fast wind (> 600 km s−1). Previous studies showed that the Vip in ICMEs keeps negligible during propagation from 0.3 to 5 au, but in solar wind it increases with the decreasing heliocentric distance. Therefore, it might be questionable to infer the absolute abundance of coronal sources through in situ abundance near 1 au for solar wind. Fortunately, the ion–oxygen (O6+) differential speed (Vio) is negligible for He2+, C5+, and Fe10+ within both ICMEs and solar wind, and previous studies suggested that the Vio does not vary significantly with the heliocentric distance. This indicates that various heavy ions always flow at the same bulk speed and their relative abundance (relative to oxygen) near 1 au can represent the coronal abundance for both ICMEs and solar wind.
 ]]></content:encoded>
-
 <pubDate>2024-05-23T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Kinematic Age of the β-Pictoris Moving Group</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3cd9</link>
@@ -11152,103 +11144,6 @@ We report new analyses of spectra of the 3.2–3.3 μm absorption feature observ
 总结:
 本研究训练了一组基于1D辐射传输代码TARDIS的深度神经网络，用于模拟超新星爆炸后10至40天内的Ia型超新星（SNe Ia）的光学光谱。这些神经网络被应用于推导一组124个观测良好的SNe Ia样本中的速度范围在光球以上的56Ni质量。一部分SNe具有多时相观测数据，可以用56Ni的衰变来定量测试AIAI。采用观测光谱数据进行的AIAI推导的56Ni质量与56Ni的放射性衰变速率相吻合。AIAI揭示了与Ni ii 4067Å线相关的3890Å附近的光谱特征，而从AIAI中推导的56Ni质量与SNe Ia的光变曲线形状相关联，光度曲线较宽的SNe Ia在光球以上的外壳中显示出更大的56Ni质量。AIAI使得SNe的光谱数据可以在基于明确定义的物理假设的理论框架下进行定量分析。 <div>
 Following our previous study of Artificial Intelligence Assisted Inversion (AIAI) of supernova analyses, we train a set of deep neural networks based on the 1D radiative transfer code TARDIS to simulate the optical spectra of Type Ia supernovae (SNe Ia) between 10 and 40 days after the explosion. The neural networks are applied to derive the mass of 56Ni in velocity ranges above the photosphere for a sample of 124 well-observed SNe Ia in the TARDIS model context. A subset of the SNe have multi-epoch observations for which the decay of the radioactive 56Ni can be used to test the AIAI quantitatively. The 56Ni mass derived from AIAI using the observed spectra as inputs for this subset agrees with the radioactive decay rate of 56Ni. AIAI reveals that a spectral signature near 3890 Å is related to the Ni ii 4067Å line, and the 56Ni mass deduced from AIAI is found to be correlated with the light-curve shapes of SNe Ia, with SNe Ia with broader light curves showing larger 56Ni mass in the envelope above the photosphere. AIAI enables spectral data of SNe to be quantitatively analyzed under theoretical frameworks based on well-defined physical assumptions.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The JWST Advanced Deep Extragalactic Survey: Discovery of an Extreme Galaxy Overdensity at z = 5.4 with JWST/NIRCam in GOODS-S</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0da7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0da7</guid>
-<content:encoded><![CDATA[
-<div> JWST, galaxy overdensity, z = 5.4, photometric redshifts, stellar populations<br />
-<br />这篇文章报告了在GOODS-S场中使用JWST/NIRCam成像和FRESCO进行的广角狭缝光谱仪成像发现了一个在z = 5.4处的极端星系过密度。通过使用λ = 0.4–5.0 μm的哈勃空间望远镜+JWST光度测定确定了过密度潜在成员。随后通过JWST狭缝光谱仪在λ = 3.9–5.0 μm范围内对Hα进行了目标线搜索，确认了5.2 < z < 5.5处81个星系，其中42个在场内，39个在密度约为随机体积的10倍的区域内。从光度测定中推断这些星系的恒星群，并构建了星系的主序，发现原星团成员相对于场内星系拥有更大的质量和更早的星形成。根据经验恒星质量到暗物质晕的关系，估计了这一大尺度结构的总暗物质质量，但由于不完整性，这可能是一个低估。我们的发现展示了JWST在非常早期的宇宙时期约束暗物质晕组装和星系形成的能力。 <br /><br />总结: 该研究使用JWST探测到了z = 5.4处的星系过密度，通过光度测定和狭缝光谱仪确认了81个星系，并研究了它们的恒星群，发现了这一大尺度结构的重要特征，展示了JWST在非常早期宇宙时期的强大能力。 <div>
-We report the discovery of an extreme galaxy overdensity at z = 5.4 in the GOODS-S field using James Webb Space Telescope (JWST)/NIRCam imaging from JADES and JEMS alongside JWST/NIRCam wide-field slitless spectroscopy from FRESCO. We identified potential members of the overdensity using Hubble Space Telescope+JWST photometry spanning λ = 0.4–5.0 μm. These data provide accurate and well-constrained photometric redshifts down to m ≈ 29–30 mag. We subsequently confirmed N = 81 galaxies at 5.2 < z < 5.5 using JWST slitless spectroscopy over λ = 3.9–5.0 μm through a targeted line search for Hα around the best-fit photometric redshift. We verified that N = 42 of these galaxies reside in the field, while N = 39 galaxies reside in a density around ∼10 times that of a random volume. Stellar populations for these galaxies were inferred from the photometry and used to construct the star-forming main sequence, where protocluster members appeared more massive and exhibited earlier star formation (and thus older stellar populations) when compared to their field galaxy counterparts. We estimate the total halo mass of this large-scale structure to be using an empirical stellar mass to halo mass relation, which is likely an underestimate as a result of incompleteness. Our discovery demonstrates the power of JWST at constraining dark matter halo assembly and galaxy formation at very early cosmic times.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Nine New Cataclysmic Variable Stars with Negative Superhumps</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f1c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0f1c</guid>
-<content:encoded><![CDATA[
-<div> cataclysmic variable stars, negative superhumps, TESS photometry, disk instability model (DIM), superorbital signal (SOR) periods<br />
-总结:<br />
-这篇文章报道了使用TESS光度测量发现了九颗新的超新星变星，它们具有负超黄短周期信号。其中三颗星在矮新星爆发期间仍具有负超黄信号，并且该信号的振幅会随着爆发的变化而变化。另外六颗星的研究较少，这是首次确定它们的轨道周期、负超黄信号和超轨道信号周期。研究还发现其中两颗星的负超黄周期和振幅会随着超轨道信号周期的变化而变化。文章指出，负超黄振幅随着爆发的变化可以成为研究负超黄来源和改进盘不稳定模型的重要依据。同时，文章也认为单一倾斜盘角度的变化不能完全解释超轨道信号的观测结果，需要考虑其他因素。 <div>
-Negative superhumps (NSHs) are signals a few percent shorter than the orbital period of a binary star and are considered to originate from the reverse precession of the tilted disk. Based on TESS photometry, we find nine new cataclysmic variable stars with NSHs. Three (ASAS J1420, TZ Per, and V392 Hya) of these stars similar to AH Her still have NSHs during dwarf nova outbursts, and the NSH amplitude varies with the outburst. The variation in the radius of the accretion disk partially explains this phenomenon. However, it does not explain the rebound of the NSH amplitude after the peak of the outburst and the fact that the NSH amplitude of the quiescence is sometimes not the largest, and it is necessary to include the disk instability model (DIM) and add other ingredients. Therefore, we suggest that the variation of NSH amplitude with outburst can be an important basis for studying the origin of NSHs and improving the DIM. The six (ASASSN-V J1137, ASASSN-V J0611, 2MASS J0715, LAMOST J0925, ASASSN-17qj, and ZTF 18acakuxo) remaining stars have been poorly studied, and for the first time we determine their orbital periods, NSHs, and superorbital signal (SOR) periods. The NSH periods and amplitudes of ASASSN-V J1137 and ASASSN-17qj vary with the SOR, and based on the comparison of the observations with the theory, we suggest that a single change in tilted disk angle does not explain the observations of the SOR and that other ingredients need to be considered as well.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Physical Properties of Changing-look Blazars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad0fdf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad0fdf</guid>
-<content:encoded><![CDATA[
-<div> Changing-look AGNs, CLBs, Gaussian mixture modeling, FSRQs, BL Lacs
-<br />
-通过对105个CLBs进行高斯混合模型分析，发现它们在参数分布上介于FSRQs和BL Lacs之间。这表明CLBs可能是由于吸积过程改变而产生的过渡类型，与其他changing-look AGNs类似。这项研究为理解CLBs的物理特性提供了新的线索。我们的结果强调了CLBs的重要性，并为进一步研究提供了方向。
-<br /><br />总结: Changing-look AGNs是一类特殊的活动星系核，其物理特性介于FSRQs和BL Lacs之间。通过高斯混合模型分析，研究发现CLBs可能是由于吸积过程改变而产生的过渡类型，对理解CLBs的物理特性具有重要意义。 <div>
-Changing-look active galactic nuclei (AGNs) are a special class of AGNs that change their spectral type from type 1 to type 2 or vice versa. In recent years, a number of changing-look blazars (CLBs) were also reported, which transition between flat-spectrum radio quasars and BL Lacs. The physical properties of CLBs are still unclear. Using the mclust R package for Gaussian mixture modeling, we performed a clustering analysis for a sample of 105 CLBs selected from the literature. Three kinds of analysis found that CLBs lie in between the parameter distributions of FSRQs and BL Lacs: (i) univariate analysis; (ii) bivariate analysis; and (iii) multivariate analysis, carried out with a dimension reduction approach of the physical properties of the three types of blazars. Our results suggest that CLBs belong to a transition type between FSRQs and BL Lacs, which may be regulated by the change of accretion process and may be similar to other changing-look AGNs.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraining the Existence of Axion Clouds in M87* with Closure Trace Analyses</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad13f4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad13f4</guid>
-<content:encoded><![CDATA[
-<div> 超旋转辐射；超大质量黑洞；脱标模型粒子；尘埃云；事件视界望远镜<br />
-<br />
-超大质量黑洞能够通过旋转超辐射放大入射的玻色子波，诱导超轻量玻色子围绕它们形成束缚态。这种现象有潜力限制新玻色子的参数空间。轴子和轴子样粒子（ALP）是候选的超标准模型粒子，它们可以在超大质量黑洞（SMBH）周围形成这样的尘埃云，并通过轴子-光子耦合对偏振信号产生类似法拉第旋转的影响。之前的努力利用事件视界望远镜（EHT）M87 2017年观测的偏振图像来限制无量纲轴子-光子耦合到以前未曾探索的区域。然而，借助新的校准不敏感量、闭合迹和共轭闭合迹积，可以约束轴子云的存在，同时避免系统误差的主要来源，例如站点增益和极化泄漏。我们利用M87*的偏振图的简单几何模型，通过模拟和实际数据集拟合模型参数，并在M87中达到了可比较的排除轴子云的精度水平。我们的方法的未来应用包括事件视界望远镜和下一代事件视界望远镜对M87*和Sgr A*的观测，预计将在更广泛的轴子和ALP质量范围内产生更强的约束。由于它不需要成像，闭合迹分析可以应用于成像边缘的目标活动星系核，大大扩展了可以从中得到轴子限制的超大质量黑洞的数量。 <br /><br />总结:黑洞可以通过超旋转辐射放大入射的玻色子波，诱导围绕它们形成束缚态。轴子和轴子样粒子可以形成尘埃云并影响偏振信号。利用闭合迹分析可以约束轴子云的存在，避免系统误差。未来的观测预计会产生更强的约束，扩展了限制轴子的超大质量黑洞的范围。 <div>
-Black holes can amplify incoming bosonic waves via rotational superradiance, inducing bound states of ultralight bosons around them. This phenomenon has the potential to confine the parameter spaces of new bosons. Axions and axion-like particles (ALPs) are candidate beyond-standard-model particles that can form such clouds around supermassive black holes (SMBHs) and impact the polarization signal in a similar fashion to Faraday rotation via axion–photon coupling. Prior efforts have used polarized images from the Event Horizon Telescope (EHT) M87 2017 observations to limit the dimensionless axion–photon coupling to previously unexplored regions. However, with the novel calibration-insensitive quantities, closure traces, and conjugate closure trace products, it is possible to constrain the existence of axion clouds while avoiding the dominant sources of systematic uncertainties, e.g., station gains and polarization leakages. We utilize a simple geometric model for the polarization map of M87* to fit the model parameters with both simulated and real data sets and reach a comparable level of constraint in the accuracy with which an axion cloud may be excluded in M87. Future applications of our approach include subsequent M87* and Sgr A* observations by EHT and the next-generation EHT that are expected to produce stronger constraints across a wider range of axion and ALP masses. Because it does not require imaging, closure trace analyses may be applied to target active galactic nuclei for which imaging is marginal, extending the number of SMBHs from which axion limits may be obtained significantly.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Galactic Eclipse: The Small Magellanic Cloud Is Forming Stars in Two Superimposed Systems</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1591</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1591</guid>
-<content:encoded><![CDATA[
-<div> 星际介质、小麦哲伦云、新模型、年轻恒星、天体物理学<br />
-总结:<br />
-本研究通过比较年轻、大质量恒星的动力学与银河澳大利亚广域阵列路径探测器调查的中性原子氢高分辨率观测来建立了小麦哲伦云的新模型。研究发现小麦哲伦云由两种结构组成，具有不同的恒星和气体化学成分。模型成功地再现了观测结果，并显示小麦哲伦云的星际介质被排列成两个叠加的、具有相似气体质量的、沿视线分隔约5千秒差距的星际系统。 <div>
-The structure and dynamics of the star-forming disk of the Small Magellanic Cloud (SMC) have long confounded us. The SMC is widely used as a prototype for galactic physics at low metallicity, and yet we fundamentally lack an understanding of the structure of its interstellar medium (ISM). In this work, we present a new model for the SMC by comparing the kinematics of young, massive stars with the structure of the ISM traced by high-resolution observations of neutral atomic hydrogen (H i) from the Galactic Australian Square Kilometre Array Pathfinder survey. Specifically, we identify thousands of young, massive stars with precise radial velocity constraints from the Gaia and APOGEE surveys and match these stars to the ISM structures in which they likely formed. By comparing the average dust extinction toward these stars, we find evidence that the SMC is composed of two structures with distinct stellar and gaseous chemical compositions. We construct a simple model that successfully reproduces the observations and shows that the ISM of the SMC is arranged into two superimposed, star-forming systems with similar gas mass separated by ∼5 kpc along the line of sight.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Diverse Molecular Gas Excitations in Quasar Host Galaxies at z ∼ 6</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1754</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1754</guid>
-<content:encoded><![CDATA[
-<div> NOEMA, CO, H2O, quasars, excitation
-总结:
-本研究使用NOEMA对两个红移约为6的类星体进行了观测，发现它们的CO谱线能量分布（SLED）分别显示出最高和最低的激发水平。对P215−16进行的辐射传输建模表明，由活动星系核加热的分子气体可能是高CO激发的合理来源。而对J1429+5447的CO SLED分析显示，来自单个光解区的成分可以解释这个射电明亮类星体中的CO激发。这项工作突显了CO SLED在揭示红移最高的年轻类星体-星爆系统中的星际介质属性方面的实用性。CO SLED的多样性揭示了这些早期演化阶段的气体条件和激发机制的复杂性。 <div>
-We present observations using the Northern Extended Millimetre Array (NOEMA) of CO and H2O emission lines and the underlying dust continuum in two quasars at z ∼ 6, i.e., P215−16 at z = 5.78 and J1429+5447 at z = 6.18. Notably, among all published CO spectral line energy distributions (SLEDs) of quasars at z ∼ 6, the two systems reveal the highest and the lowest CO levels of excitation, respectively. Our radiative transfer modeling of the CO SLED of P215−16 suggests that the molecular gas heated by active galactic nuclei could be a plausible origin for the high CO excitation. For J1429+5447, we obtain the first well-sampled CO SLED (from transitions from 2−1 to 10−9) of a radio-loud quasar at z ≳ 6. Analysis of the CO SLED suggests that a component from a single photodissociation region could explain the CO excitation in the radio-loud quasar J1429+5447. This work highlights the utility of the CO SLED in uncovering the properties of the interstellar medium in these young quasar–starburst systems at the highest redshift. The diversity of the CO SLEDs reveals the complexities in gas conditions and excitation mechanisms at their early evolutionary stage.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Does the νmax Scaling Relation Depend on Metallicity? Insights from 3D Convection Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1834</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1834</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳式振荡，恒星质量，金属丰度，三维模拟，尺度关系<br />
-总结: <br />
-该研究利用现代空间任务探测到的太阳式振荡，对成千上万颗恒星的质量和年龄进行测量，并应用于银河考古学研究。研究表明，尺度关系并非只与有效温度和表面重力成正比，而是受金属丰度影响。通过进行三维近表面对流模拟，研究发现振荡频率与金属丰度呈负相关，与之前使用一维模型得出的正相关结果矛盾。此外，研究对振动速度进行理论估计，结果表明在太阳的有效温度和表面重力下，并不呈现出与金属丰度的相关性。这一研究提出了一个令人兴奋的前景，即通过真实的三维流体动力学恒星模型来测试天体测震尺度关系。 <br /> <div>
-Solar-like oscillations have been detected in thousands of stars thanks to modern space missions. These oscillations have been used to measure stellar masses and ages, which have been widely applied in Galactic archeology. One of the pillars of such applications is the scaling relation: the frequency of maximum power , assumed to be proportional to the acoustic cutoff frequency, νac, scales with effective temperature and surface gravity. However, the theoretical basis of the scaling relation is uncertain, and there is an ongoing debate about whether it can be applied to metal-poor stars. We investigate the metallicity dependence of the scaling relation by carrying out 3D near-surface convection simulations for solar-type stars with [Fe/H] between −3 and 0.5 dex. First, we found a negative correlation between νac and metallicity from the 3D models. This is in tension with the positive correlation identified by studies using 1D models. Second, we estimated theoretical values using velocity amplitudes determined from first principles, by quantifying the mode excitation and damping rates with methods validated in our previous works. We found that does not show correlation with metallicity at solar effective temperature and surface gravity. This study opens an exciting prospect of testing the asteroseismic scaling relations against realistic 3D hydrodynamical stellar models.
-]]></content:encoded>
-<pubDate>2024-02-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiwavelength Analysis of the Supernova-associated Low-luminosity GRB 171205A</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad18a8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad18a8</guid>
-<content:encoded><![CDATA[
-<div> 关键词: SN-associated GRB, multiwavelength properties, afterglow, central engine, top-hat jet model
-
-总结:
-本研究深入探讨了附近超新星（SN）相关的低亮度伽马射线暴（GRB）171205A的多波段特性，以综合限制其物理起源。我们发现脉冲宽度与能量呈幂律关系，这与其他SN/GRBs的指数一致，但大于长GRBs的指数。分析预警伽马射线和X射线平台的总体光变曲线后，推断早期X射线和伽马射线应反映了中心发动机的活动，而晚期X射线可能受外部冲击与周围物质的相互作用的影响。此外，我们发现GRB 171205A的宿主无线电流量和偏移与其他附近低亮度GRB的情况相似。采用九个带有测定偏移的SN/GRB建立了峰值光度（Lγ,p）与谱滞后（τ）之间的关系，得到Lγ,p ∝ τ−1.91±0.33。发现12个SN/GRB和10个长寿命超新星相关的GRB的峰值光度和投影物理偏移之间有适度的相关性，暗示它们具有不同的祖先。通过顶帽形射流模型拟合的多波段余辉表明，GRB 171205A的射流半展开角和视角分别约为34.°4和41.°8，暗示正面以外的发射受到外周囊层的主导，而不是射流核心。 <div>
-Multiwavelength properties of the nearby supernova (SN)-associated low-luminosity GRB 171205A are investigated in depth to constrain its physical origin synthetically. The pulse width is found to be correlated with energy with a power-law index of −0.24 ± 0.07, which is consistent with the indices of other SN-associated gamma-ray bursts (SN/GRBs) but larger than those of long GRBs. By analyzing the overall light curve of its prompt gamma rays and X-ray plateaus simultaneously, we infer that the early X-rays together with the gamma-rays should reflect the activities of the central engine, while the late X-rays may be dominated by the interaction of external shocks with circumburst material. In addition, we find that the host radio flux and offset of GRB 171205A are similar to those of other nearby low-luminosity GRBs. We adopt nine SN/GRBs with measured offset to build a relation between peak luminosity (Lγ,p) and spectral lag (τ) as Lγ,p ∝ τ−1.91±0.33. The peak luminosity and the projected physical offset of 12 SN/GRBs and 10 kilonova-associated GRBs are found to be moderately correlated, suggesting their different progenitors. The multiwavelength afterglow fitted with a top-hat jet model indicates that the jet half-opening angle and the viewing angle of GRB 171205A are ∼34.°4 and 41.°8, respectively, which implies that the off-axis emissions are dominated by the peripheral cocoon rather than the jet core.
 ]]></content:encoded>
 <pubDate>2024-02-13T00:00:00Z</pubDate>
 </item>
