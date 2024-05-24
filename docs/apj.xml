@@ -4,6 +4,111 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Toward Cosmological Simulations of the Magnetized Intracluster Medium with Resolved Coulomb Collision Scale</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad39ee</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad39ee</guid>
+<content:encoded><![CDATA[
+<div> 高分辨率模拟, 磁流体力学, 宇宙学, 星系团, 磁场结构
+
+这篇文章报告了一项关于质量为2.0×1015太阳质量的大型星系团的高分辨率磁流体力学宇宙学模拟的初步结果。采用4×10^5太阳质量的质量分辨率，并在星系团中心区域实现了约250pc的最大空间分辨率。研究表明，在红移4之前，星系团中心区域内存在一个小尺度湍流动力学过程放大磁场的详细过程，直到红移2之后，磁场增长呈现弱化的趋势。磁场能量在系统接近红移零时略有下降，符合绝热膨胀的预测。磁场结构在中心区域呈高度湍流状态，并在几十千秒差距的尺度上显示出磁场反转和径向、角向分量的反相关性，这是由小尺度湍流动力学作用所引起的。在兆秒差距尺度上，大尺度磁场几乎是各向同性的，这表明大规模星系团形成过程抑制了初始磁场配置和湍流动力学放大形态的记忆。此外，研究还证明了能够同时揭示星际介质中小尺度磁场结构的极高分辨率模拟的可行性，这对于模拟宇宙射线的注入和输运过程具有重要意义。这项工作对于具有实时宇宙射线处理的后续研究，以及详细建模电子同步辐射和伽马射线发射过程都具有重要意义。
+
+<br><br>总结:
+本文报道了对质量2.0×1015太阳质量的大型星系团进行高分辨率磁流体力学宇宙学模拟的初步结果。研究显示，在星系团中心区域存在小尺度的湍流动力学过程放大磁场，并且磁场结构呈现高度湍流状态。随着红移的接近，磁场能量略有下降，符合绝热膨胀的趋势。此外，研究还证明了高分辨率模拟揭示小尺度磁场结构的可行性，对于宇宙射线注入和输运过程的模拟具有重要意义。 <div>
+We present the first results of one extremely high-resolution, nonradiative magnetohydrodynamical cosmological zoom-in simulation of a massive cluster with a virial mass of Mvir = 2.0 × 1015 solar masses. We adopt a mass resolution of 4 × 105M⊙ with a maximum spatial resolution of around 250 pc in the central regions of the cluster. We follow the detailed amplification process in a resolved small-scale turbulent dynamo in the intracluster medium (ICM) with strong exponential growth until redshift 4, after which the field grows weakly in the adiabatic compression limit until redshift 2. The energy in the field is slightly reduced as the system approaches redshift zero in agreement with adiabatic decompression. The field structure is highly turbulent in the center and shows field reversals on a length scale of a few tens of kiloparsecs and an anticorrelation between the radial and angular field components in the central region that is ordered by small-scale turbulent dynamo action. The large-scale field on megaparsec scales is almost isotropic, indicating that the structure formation process in massive galaxy cluster formation suppresses any memory of both the initial field configuration and the amplified morphology via the turbulent dynamo. We demonstrate that extremely high-resolution simulations of the magnetized ICM are within reach that can simultaneously resolve the small-scale magnetic field structure, which is of major importance for the injection of and transport of cosmic rays in the ICM. This work is a major cornerstone for follow-up studies with an on-the-fly treatment of cosmic rays to model in detail electron-synchrotron and gamma-ray emissions.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Planet Formation by Gas-assisted Accretion of Small Solids</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bae</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3bae</guid>
+<content:encoded><![CDATA[
+<div> 小固体，行星形成，气态盘，固体吸积效率，质量通量<br>
+这篇文章研究了小固体颗粒在嵌入气态盘的行星表面的吸积效率。研究发现，1cm ≤ Rs ≤ 100cm颗粒的最大吸积效率通常≲10％，而10m颗粒往往能够高效吸积或者排列在行星轨道之外。此外，研究还发现小行星核心的吸积效率近似于行星质量的一个指数函数。通过代表性的盘模型，估计得到的固体吸积速率在1-1.5百万年后下降至小于10^(-6) M⊕ yr^(-1)。最后，文章还应用得到的吸积速率进行了行星形成计算，结果显示，形成的行星种类各异，从主要由重元素组成的几倍地球质量的行星到巨行星都有。在固体吸积的时期，行星的峰值光度范围大约为10^(-7)到10^(-6)个太阳光度。<br><br>总结:本文研究了小固体颗粒在气态盘中对行星形成的影响，发现不同尺寸的固体颗粒在行星吸积过程中的效率不同，还发现小行星核心的吸积效率与行星质量成正比，最后应用得到的吸积速率进行了行星形成计算，结果显示行星形成过程中可能出现多种结果。 <div>
+We compute the accretion efficiency of small solids, with radii 1 cm ≤ Rs ≤ 10 m, on planets embedded in gaseous disks. Planets have masses 3 ≤ Mp ≤ 20 Earth masses (M⊕) and orbit within 10 au of a solar mass star. Disk thermodynamics is modeled via 3D radiation-hydrodynamics calculations that typically resolve the planetary envelopes. Both icy and rocky solids are considered, explicitly modeling their thermodynamic evolution. The maximum efficiencies of 1 ≤ Rs ≤ 100 cm particles are generally ≲10%, whereas 10 m solids tend to accrete efficiently or be segregated beyond the planet’s orbit. A simplified approach is applied to compute the accretion efficiency of small cores, with masses Mp ≤ 1 M⊕ and without envelopes, for which efficiencies are approximately proportional to . The mass flux of solids, estimated from unperturbed drag-induced drift velocities, provides typical accretion rates dMp/dt ≲ 10−5M⊕ yr−1. In representative disk models with an initial gas-to-dust mass ratio of 70–100 and total mass of 0.05–0.06 M⊙, the solids’ accretion falls below 10−6M⊕ yr−1 after 1–1.5 Myr. The derived accretion rates, as functions of time and planet mass, are applied to formation calculations that compute dust opacity self-consistently with the delivery of solids to the envelope. Assuming dust-to-solid coagulation times of ≈0.3 Myr and disk lifetimes of ≈3.5 Myr, heavy-element inventories in the range 3–7 M⊕ require that ≈90–150 M⊕ of solids cross the planet’s orbit. The formation calculations encompass a variety of outcomes, from planets a few times M⊕, predominantly composed of heavy elements, to giant planets. The peak luminosities during the epoch of the solids’ accretion range from ≈10−7 to ≈10−6L⊙.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Massive and Distant Clusters of WISE Survey 2: Equatorial First Data Release</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3c44</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3c44</guid>
+<content:encoded><![CDATA[
+<div> 光学和红外数据，MaDCoWS2，Galaxy cluster candidates, Detection algorithm, Redshift probability distribution functions<br>
+总结:<br>
+MaDCoWS2是原MaDCoWS调查的后继者，使用更深入的光学和红外数据以及更强大的检测算法(PZWav)。利用DECaLS和CatWISE2020目录的光度数据，得出宽场红外巡天探测器(WISE)选择的星系的光度红移的全概率分布函数。利用PZWav算法检测三维星系密度过度，得到了22,970个星系团候选者的目录，跨越0.1 < z < 2的红移范围。与其他调查相比，MaDCoWS2重新发现了60%–92%的星团，且偏差较小。研究了信噪比和富度之间的关系表现出较小的散布。 <div>
+The Massive and Distant Clusters of WISE Survey 2 (MaDCoWS2) is a new survey designed as the successor of the original MaDCoWS survey. MaDCoWS2 improves upon its predecessor by using deeper optical and infrared data and a more powerful detection algorithm (PZWav). As input to the search, we use grz photometry from the DECam Legacy Survey (DECaLS) in combination with W1 and W2 photometry from the CatWISE2020 catalog to derive the photometric redshifts with full redshift probability distribution functions for Wide-field Infrared Survey Explorer (WISE)-selected galaxies. Cluster candidates are then detected using the PZWav algorithm to find three-dimensional galaxy overdensities from the sky positions and photometric redshifts. This paper provides the first MaDCoWS2 data release, covering 1461 (1838 without masking) deg2 centered on the Hyper-SuprimeCam Subaru Strategic Program equatorial fields. Within this region, we derive a catalog of 22,970 galaxy cluster candidates detected at a signal-to-noise ratio (S/N) > 5. These clusters span the redshift range 0.1 < z < 2, including 1312 candidates at z > 1.5. We compare MaDCoWS2 to six existing catalogs in the area. We rediscover 60%–92% of the clusters in these surveys at S/N > 5. The medians of the absolute redshift offset are <0.02 relative to these surveys, while the standard deviations are less than 0.06. The median offsets between the detection position from MaDCoWS2 and other surveys are less than 0.25 Mpc. We quantify the relation between S/N and gas mass, total mass, luminosity, and richness from other surveys using a redshift-dependent power law relation. We find that the S/N-richness relation exhibits the lowest scatter.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Spectroscopic Survey of Faint Planetary-nebula Nuclei. IV. The A35-type Central Star of Pa 27*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df9</guid>
+<content:encoded><![CDATA[
+<div> 中心星；行星状星云；光谱学；双星系统；恒星旋转<br>
+总结:<br>
+本文报道了利用Hobby-Eberly望远镜的低分辨率光谱仪对行星状星云Patchick 27（Pa 27）的中心星进行的光学光谱观测。光谱显示Pa 27为K0 III红巨星，但同时在近紫外波段也检测到了一个热的双星成分。研究还发现Pa 27表现出低幅度的7.36天正弦变化，可能是由于旋转和磁活跃的冷巨星表面出现恒星黑子导致的。Pa 27属于“A35型中心星”这一稀有类别，由一个有斑点的晚型恒星和一个热的白矮星前体组成。最后，研究提出了一些有用的后续观测建议。 <div>
+We present optical spectroscopy of the 12th-magnitude central star of the planetary nebula (PN) Patchick 27 (Pa 27), obtained during a survey of faint PN nuclei (PNNs) with the Low-Resolution Spectrograph of the Hobby–Eberly Telescope. The optical spectrum of Pa 27 is that of a K0 III red giant with rotationally broadened lines. However, the star is detected in the near-ultraviolet (near-UV) with GALEX, showing that a hot binary component is also present. The spectral-energy distribution from the near-UV to the mid-infrared can be fitted with a combination of the K0 III giant and a hot PNN with an effective temperature of about 50,000 K. Photometric observations of Pa 27, both ground-based and from TESS, show a low-amplitude sinusoidal variation with a period of 7.36 days, probably due to starspots on a rotating and magnetically active cool giant. Pa 27 is a new member of the rare class of “A35-type central stars,” which are binary PNNs consisting of a spotted late-type star and a hot pre–white dwarf. They are likely the result of a situation where an asymptotic-giant-branch (AGB) star ejects its outer layers in a dense wind, part of which is captured by a distant companion, spinning up its rotation by accretion of material and angular momentum. We suggest several useful follow-up observations.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Mercury’s Chaotic Secular Evolution as a Subdiffusive Process</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e5f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e5f</guid>
+<content:encoded><![CDATA[
+<div> Mercury, orbit, destabilize, subdiffusive, solar system
+Summary: 
+水星的轨道可能变得不稳定，导致与金星或太阳的碰撞。先前的工作将g1的变化近似为随机扩散，建立出一个可以在长达10亿年以上的时间尺度上复现水星不稳定统计的现象学模型。然而，新的研究表明，随机扩散模型在5亿年以下的时间尺度上显著低估了水星不稳定的概率。为了更好地模拟短时间尺度上的变化，研究人员建立了一个新的亚扩散现象学模型。他们选择了模型参数，使其能够在1到40亿年的时间尺度内复现水星的不稳定统计。这项工作引发了太阳系动力学领域的一些基本问题：为什么亚扩散更好地近似了g1的变化？为什么g1有一个上限，而没有阻止它达到g5的下限？<br><br>总结: <br>水星可能与金星或太阳碰撞；现有的扩散模型无法准确预测水星不稳定性；新的亚扩散模型能够更好地模拟短时间尺度上的变化；这项工作引发了太阳系动力学领域的一些基本问题。 <div>
+Mercury’s orbit can destabilize, generally resulting in a collision with either Venus or the Sun. Chaotic evolution can cause g1 to decrease to the approximately constant value of g5 and create a resonance. Previous work has approximated the variation in g1 as stochastic diffusion, which leads to a phenomological model that can reproduce the Mercury instability statistics of secular and N-body models on timescales longer than 10 Gyr. Here we show that the diffusive model significantly underpredicts the Mercury instability probability on timescales less than 5 Gyr, the remaining lifespan of the solar system. This is because g1 exhibits larger variations on short timescales than the diffusive model would suggest. To better model the variations on short timescales, we build a new subdiffusive phenomological model for g1. Subdiffusion is similar to diffusion but exhibits larger displacements on short timescales and smaller displacements on long timescales. We choose model parameters based on the behavior of the g1 trajectories in the N-body simulations, leading to a tuned model that can reproduce Mercury instability statistics from 1–40 Gyr. This work motivates fundamental questions in solar system dynamics: why does subdiffusion better approximate the variation in g1 than standard diffusion? Why is there an upper bound on g1, but not a lower bound that would prevent it from reaching g5?
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Resolving Red Giant Winds with the Hubble Space Telescope*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad401f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad401f</guid>
+<content:encoded><![CDATA[
+<div> 红巨星，光谱观测，太空望远镜，Hubble Space Telescope，质量流失率
+<br>总结:
+研究使用哈勃空间望远镜上的STIS仪器对红巨星进行了光谱观测，发现早期K到中期M巨星主要表现为温暖的色球风。利用H i Lyα线的观察结果估算了红巨星的质量流失率，其中M巨星的流失率为M⊙ yr−1，而检测到流失吸收的K巨星具有较弱的流失率。此外，在观测两颗红巨星的光谱数据时发现了空间延展的Lyα发射，估算了可检测发射的极限范围。同时，也发现了Fe ii、Mg ii、Mg i、O i和C ii等线的空间特征。整体而言，M巨星的空间特征更为明显，与Lyα分析结果一致。 <div>
+We describe recent spectroscopic observations of red giant stars made by the Space Telescope Imaging Spectrograph (STIS) instrument on board the Hubble Space Telescope, which has provided spatially resolved observations of the warm chromospheric winds that predominate for early K to mid-M giants. The H i Lyα lines of a set of 11 red giants observed with the STIS/E140M echelle grating are first analyzed to ascertain wind H i column densities and total wind mass-loss rates. The M giants have estimated mass-loss rates of M⊙ yr−1, while the K giants with detected wind absorption have weaker winds with M⊙ yr−1. We use long-slit spectra of H i Lyα for two particular red giants, α Tau (K5 III) and γ Cru (M3.5 III), to study the spatial extent of the Lyα emission. From these data we estimate limits for the extent of detectable emission, which are r = 193 R* for γ Cru and r = 44 R* for α Tau. The cross-dispersion emission profiles in the STIS echelle spectra of the larger sample of red giants also show evidence for spatial resolution, not only for H i Lyα but for other lines with visible wind absorption, such as Fe ii, Mg ii, Mg i, O i, and C ii. We characterize the nature of these spatial signatures. The spatial extent is far more apparent for the M giants than for the K giants, consistent with the stronger winds found for the M giants from the Lyα analysis.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Detectability of Solar Panels as a Technosignature</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43d7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43d7</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳能电池，Habitable Worlds Observatory，技术标志，外星文明，能源利用<br>
+总结: 本研究评估了类地外行星上由硅制成的太阳能电池作为潜在技术标志的可能性。通过对近红外和可见光范围内的高反射特性进行评估，发现使用类似Habitable Worlds Observatory telescop的8米望远镜需要数百个小时的观测时间才能在10光年外的类太阳恒星附近的地球样行星上达到一定的信噪比。此外，论文还讨论了Kardeshev Type I/II文明和戴森球等概念在能源利用方面的作用，最后指出，即使是未来的人类文明也不太可能发展成为银河系范围的文明，因为能源需求存在一定的限制。 <br> <div>
+In this work, we assess the potential detectability of solar panels made of silicon on an Earth-like exoplanet as a potential technosignature. Silicon-based photovoltaic cells have high reflectance in the ultraviolet-to-visible (UV-VIS) and in the near-infrared, within the wavelength range of a space-based flagship mission concept like the Habitable Worlds Observatory (HWO). Assuming that only solar energy is used to provide the 2022 human energy needs with a land cover of ∼2.4%, and projecting the future energy demand assuming various growth-rate scenarios, we assess the detectability with an 8 m HWO-like telescope. Assuming the most favorable viewing orientation, and focusing on the strong absorption edge in the UV-VIS (0.34–0.52 μm), we find that several hundreds of hours of observation time are needed to reach a signal-to-noise ratio of 5 for an Earth-like planet around a Sun-like star at 10 pc, even with a solar panel coverage of ∼23% land coverage of a future Earth. We discuss the necessity of concepts like Kardeshev Type I/II civilizations and Dyson spheres, which would aim to harness vast amounts of energy. Even with much larger populations than today, the total energy use of human civilization would be orders of magnitude below the threshold for causing direct thermal heating or reaching the scale of a Kardashev Type I civilization. Any extraterrestrial civilization that likewise achieves sustainable population levels may also find a limit on its need to expand, which suggests that a galaxy-spanning civilization as imagined in the Fermi paradox may not exist.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Comparison of Ion–Proton Differential Speed between Interplanetary Coronal Mass Ejections and Solar Wind near 1 au</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad46f7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad46f7</guid>
+<content:encoded><![CDATA[
+<div> ICMEs, solar wind, Vip, heavy ions, coronal abundance
+总结:
+本研究通过对ICMEs和太阳风中He2+、C5+、O6+和Fe10+的离子-质子差速进行统计研究，发现太阳风中Vip随着距离太阳的减小而增加，而在ICMEs中保持不变。因此，通过1天文单位附近的原位丰度推断日冕源的绝对丰度可能存在问题。然而，高兴的是，氧离子（O6+）的差速（Vio）在ICMEs和太阳风中都可以忽略不计，这意味着各种重离子总是以相同的速度流动，它们在1天文单位附近的相对丰度可以代表ICMEs和太阳风的日冕丰度。 <div>
+The elemental abundance of interplanetary coronal mass ejections (ICMEs) and solar wind near 1 au is often adopted to represent the abundance in the corresponding coronal sources. However, the absolute abundance of heavy ions (relative to hydrogen) near 1 au might be different from the coronal abundance due to the ion–proton differential speed (Vip). To illustrate the Vip characteristics and explore whether it influences the absolute abundance analysis for ICMEs and solar wind, we perform a statistical study on the Vip for He2+, C5+, O6+, and Fe10+ in both ICMEs and solar wind based on measurements of Advanced Composition Explorer. The results show that the Vip is negligible within ICMEs and slow solar wind (< 400 km s−1), while obvious in the intermediate (400–600 km s−1) and fast wind (> 600 km s−1). Previous studies showed that the Vip in ICMEs keeps negligible during propagation from 0.3 to 5 au, but in solar wind it increases with the decreasing heliocentric distance. Therefore, it might be questionable to infer the absolute abundance of coronal sources through in situ abundance near 1 au for solar wind. Fortunately, the ion–oxygen (O6+) differential speed (Vio) is negligible for He2+, C5+, and Fe10+ within both ICMEs and solar wind, and previous studies suggested that the Vio does not vary significantly with the heliocentric distance. This indicates that various heavy ions always flow at the same bulk speed and their relative abundance (relative to oxygen) near 1 au can represent the coronal abundance for both ICMEs and solar wind.
+]]></content:encoded>
+
+<pubDate>2024-05-23T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Kinematic Age of the β-Pictoris Moving Group</title>
