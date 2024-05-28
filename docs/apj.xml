@@ -5,15 +5,41 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Magnetic Helicity Signs and Flaring Propensity: Comparing the Force-free Parameter with the Helicity Signs of Hα Filaments and X-Ray Sigmoids</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad38c1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad38c1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Sigmoids, Filament chirality, Coronal magnetic connectivity, Eruptive events, Helicity
+
+总结:<br><br>这篇研究比较了日冕结构sigmoid的手征性和其中的丝状物的旋性，发现它们并非总是具有相同的螺旋性。另外，通过对具有sigmoid的区域下方的光球矢量磁图进行非线性自由力近似，得出了力自由参数的加权平均值，并将其与丝状物的旋性和观察到的日冕sigmoid的手性进行了相关性分析。研究表明，那些具有不同螺旋性标志的区域产生喷发事件的概率约为同螺旋性区域的3.5倍。此外，还对NOAA AR 12473的磁能量/螺旋性演变进行了案例研究。 <div>
+Sigmoids produce strong eruptive events. Earlier studies have shown that the ICME axial magnetic field Bz can be predicted with some credibility by observing the corresponding filament or the polarity inversion line in the region of eruption and deriving the magnetic field direction from that. Sigmoids are coronal structures often associated with filaments in the sigmoidal region. In this study, we compare filament chirality with sigmoid handedness to observe their correlation. Second, we perform nonlinear force-free approximations of the coronal magnetic connectivity using photospheric vector magnetograms underneath sigmoids to obtain a weighted-average value of the force-free parameter and to correlate it with filament chirality and the observed coronal sigmoid handedness. Importantly, we find that the sigmoids and their filament counterparts do not always have the same helicity signs. Production of eruptive events by regions that do not have the same signs of helicities is ∼3.5 times higher than when they do. A case study of magnetic energy/ helicity evolution in NOAA AR 12473 is also presented.
+]]></content:encoded>
+
+<pubDate>2024-05-27T23:00:00Z</pubDate>
+</item>
+<item>
+<title>FRECKLL: Full and Reduced Exoplanet Chemical Kinetics DistiLLed</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dee</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dee</guid>
+<content:encoded><![CDATA[
+<div> Python, FRECKLL, 化学动力学, 天体物理学, 反应速率
+
+FRECKLL是一个新的Python 1D化学动力学代码，用于有效地演化大型化学网络。它使用“蒸馏”计算反应速率，最大限度地减少了误差边界直到双精度值允许的最小值（ϵ≤10−15）。与传统的算法（如成对求和）相比，蒸馏为全网络和简化网络的求解器时间提供了十倍的减少。FRECKLL中包含完整和简化的Venot2020网络，以及用于前向建模和外推行星大气的TauREx 3.1插件。我们展示了使用完整和简化的Venot2020化学网络在模拟的HD 189733b JWST光谱上执行的TauREx外推，并证明了总不平衡化学外推的可行性以及JWST探测不平衡过程的能力。<br><br>总结: FRECKLL是一个用于天体物理学研究的Python化学动力学代码，通过蒸馏计算反应速率，大大提高了效率并减少了误差；该代码还包括了完整和简化的化学网络，以及适用于前向建模和外推行星大气的TauREx 3.1插件。研究表明，JWST可以探测不平衡化学过程，对于我们理解外行星大气非常重要。 <div>
+We introduce a new Python 1D chemical kinetic code, Full and Reduced Exoplanet Chemical Kinetics distiLLed (FRECKLL), to evolve large chemical networks efficiently. FRECKLL employs “distillation” in computing the reaction rates, which minimizes the error bounds to the minimum allowed by double precision values (ϵ ≤ 10−15). Compared to summation of rates with traditional algorithms like pairwise summation, distillation provides a tenfold reduction in solver time for both full and reduced networks. Both the full and reduced Venot2020 networks are packaged in FRECKLL as well as a TauREx 3.1 plug-in for usage in forward modeling and retrievals of exoplanet atmospheres. We present TauREx retrievals performed on a simulated HD 189733b JWST spectra using the full and reduced Venot2020 chemical networks and demonstrate the viability of total disequilibrium chemistry retrievals and the ability for JWST to detect disequilibrium processes.
+]]></content:encoded>
+
+<pubDate>2024-05-27T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Hidden Gems on a Ring: Infant Massive Clusters and Their Formation Timeline Unveiled by ALMA, HST, and JWST in NGC 3351</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de6</guid>
 <content:encoded><![CDATA[
 <div> ALMA, HST, JWST, NGC 3351, young massive clusters (YMCs)
-总结: 本研究利用ALMA、HST和JWST进行了对NGC 3351中心星暴环内的幼年大质量星团的研究。利用ALMA数据发现了18个明亮而紧凑的（亚）毫米连续源，其中8个在JWST图像中有对应物，只有6个在HST图像中有对应物。根据ALMA连续体和分子线数据，以及HST和JWST对应物的辅助测量，确定了14个具有高恒星和/或气体质量（~105M⊙）、小半径（≲ 5 pc）、大逃逸速度（6-10 km s−1）和短自由落体时间（0.5-1 Myr）的幼年星团。它们的多波段性质表明它们可分为四类，可能对应着从无星凝块到裸露的H ii区-星团复合体四个演化阶段。利用同一区域HST识别的星团的年龄估计，推断了一个演化时间线，从星团形成前约1-2百万年作为无星凝块，到形成后约4-6百万年呈裸露的H ii区-星团复合体。最后，我们发现幼年大质量星团构成了环的大部分新星形成，展现出非均匀的方位分布，没有非常连续的演化趋势，并且能够驱动大规模的气体流出。 <br><br> <div>
+总结: 本研究利用ALMA、HST和JWST进行了对NGC 3351中心星暴环内的幼年大质量星团的研究。利用ALMA数据发现了18个明亮而紧凑的（亚）毫米连续源，其中8个在JWST图像中有对应物，只有6个在HST图像中有对应物。根据ALMA连续体和分子线数据，以及HST和JWST对应物的辅助测量，确定了14个具有高恒星和/或气体质量（~105M⊙）、小半径（≲ 5 pc）、大逃逸速度（6-10 km s−1）和短自由落体时间（0.5-1 Myr）的幼年星团。它们的多波段性质表明它们可分为四类，可能对应着从无星凝块到裸露的H ii区-星团复合体四个演化阶段。利用同一区域HST识别的星团的年龄估计，推断了一个演化时间线，从星团形成前约1-2百万年作为无星凝块，到形成后约4-6百万年呈裸露的H ii区-星团复合体。最后，我们发现幼年大质量星团构成了环的大部分新星形成，展现出非均匀的方位分布，没有非常连续的演化趋势，并且能够驱动大规模的气体流出。 <br /><br /> <div>
 We use 0.1″ observations from the Atacama Large Millimeter Array (ALMA), Hubble Space Telescope (HST), and JWST to study young massive clusters (YMCs) in their embedded “infant” phase across the central starburst ring in NGC 3351. Our new ALMA data reveal 18 bright and compact (sub-)millimeter continuum sources, of which 8 have counterparts in JWST images and only 6 have counterparts in HST images. Based on the ALMA continuum and molecular line data, as well as ancillary measurements for the HST and JWST counterparts, we identify 14 sources as infant star clusters with high stellar and/or gas masses (∼105M⊙), small radii (≲ 5 pc), large escape velocities (6–10 km s−1), and short freefall times (0.5–1 Myr). Their multiwavelength properties motivate us to divide them into four categories, likely corresponding to four evolutionary stages from starless clumps to exposed H ii region–cluster complexes. Leveraging age estimates for HST-identified clusters in the same region, we infer an evolutionary timeline, ranging from ∼1–2 Myr before cluster formation as starless clumps, to ∼4–6 Myr after as exposed H ii region–cluster complexes. Finally, we show that the YMCs make up a substantial fraction of recent star formation across the ring, exhibit a nonuniform azimuthal distribution without a very coherent evolutionary trend along the ring, and are capable of driving large-scale gas outflows.
 ]]></content:encoded>
-
 <pubDate>2024-05-27T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,13 +48,11 @@ We use 0.1″ observations from the Atacama Large Millimeter Array (ALMA), Hubbl
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e0</guid>
 <content:encoded><![CDATA[
 <div> SGR J1935+2154, X-ray burst, fast radio burst, 分布, 磁场拓扑
-SGR J1550-5418是一颗类似SGR J1935+2154的活跃磁星。研究发现，SGR J1550-5418的最小变化时间尺度(MVT)遵循对数正态分布函数，平均值为6.4 ± 0.4毫秒。值得注意的是，MVT的平均值在2008年10月大约比2009年的平均值大3倍，这表明辐射区域可能存在变化，这可能归因于磁场拓扑的变化。此外，并未发现MVT与持续时间或能量之间存在显著相关性，也没有发现在不同能量范围内SGR J1550-5418和SGR J1935+2154的MVT分布存在显著差异，支持它们有着共同的物理起源。<br><br>总结: 本研究对两颗活跃磁星SGR J1550-5418和SGR J1935+2154的X-ray burst进行了详细分析，发现它们的MVT遵循对数正态分布函数，且存在时间尺度的演化，但与持续时间和能量没有显著相关性，这一发现支持它们有着共同的物理起源。 <div>
+SGR J1550-5418是一颗类似SGR J1935+2154的活跃磁星。研究发现，SGR J1550-5418的最小变化时间尺度(MVT)遵循对数正态分布函数，平均值为6.4 ± 0.4毫秒。值得注意的是，MVT的平均值在2008年10月大约比2009年的平均值大3倍，这表明辐射区域可能存在变化，这可能归因于磁场拓扑的变化。此外，并未发现MVT与持续时间或能量之间存在显著相关性，也没有发现在不同能量范围内SGR J1550-5418和SGR J1935+2154的MVT分布存在显著差异，支持它们有着共同的物理起源。<br /><br />总结: 本研究对两颗活跃磁星SGR J1550-5418和SGR J1935+2154的X-ray burst进行了详细分析，发现它们的MVT遵循对数正态分布函数，且存在时间尺度的演化，但与持续时间和能量没有显著相关性，这一发现支持它们有着共同的物理起源。 <div>
 The major observation of the X-ray burst (XRB) in association with the fast radio burst (FRB) FRB 200428 originating from SGR J1935+2154 on 2020 April 28 substantiates magnetars as one of the origins of FRBs. However, it is still unclear why only a few XRBs in association with FRBs have been observed solely in this magnetar. In this study, we investigate the minimum variation timescales (MVTs) of XRBs from SGR J1550-5418, an active magnetar similar to SGR J1935+2154, and conduct a comprehensive comparison of their MVT properties. Our analysis reveals that the distribution of the MVT for SGR J1550-5418 follows a lognormal Gaussian function with the mean 6.4 ± 0.4 ms. Interestingly, we detect an evolution in the MVTs, i.e., the fitted mean of the MVT distribution in 2008 October is about 3 times larger than that in 2009, indicating potential variations in radiation regions possibly attributed to changes in magnetic field topology. Besides, we do not find a significant correlation between the MVT and either duration or energy. Finally, there is no significant difference between the MVT distributions across different energy ranges for SGR J1550-5418 and SGR J1935+2154, which supports a common physical origin.
 ]]></content:encoded>
-
 <pubDate>2024-05-27T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Tearing-mediated Reconnection in Magnetohydrodynamic Poorly Ionized Plasmas. I. Onset and Linear Evolution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad35c0</link>
@@ -11149,30 +11173,6 @@ We report 850 μm continuum polarization observations toward the filamentary hig
 
 <br /><br />总结:研究表明，MAD状态下黑洞自旋与盘和喷流特性之间存在复杂而非线性的关系，具体表现为喷流通过Maxwell应力以及质量吸积率和MAD参数的时间导数呈负相关。此外，不同自旋情况下磁场构成的不同，对于负自旋喷流更窄波动更强，而非旋转黑洞的喷流最宽波动最弱。 <div>
 The study of magnetically arrested disks (MAD) has attracted strong interest in recent years because these disk configurations were found to generate strong jets, as observed in many accreting systems. Here, we present the results of 14 general relativistic magnetohydrodynamic simulations of advection-dominated accretion flow in the MAD state across black hole (BH) spins, carried out with cuHARM. Our main findings are as follows. (i) The jets transport a significant amount of angular momentum to infinity in the form of Maxwell stresses. For positive, high spin, the rate of angular momentum transport is about five times higher than for negative spin. This contribution is nearly absent for a nonrotating BH. (ii) The mass accretion rate and the MAD parameter, both calculated at the horizon, are not correlated. However, their time derivatives are anticorrelated for every spin. (iii) For zero spin, the contribution of the toroidal component of the magnetic field to the magnetic pressure is negligible, while for a fast-spinning BH, it is on the same order as the contribution of the radial magnetic component. For high positive spin, the toroidal component even dominates. (iv) For negative spins, the jets are narrower than their positive-spin counterparts, while their fluctuations are stronger. The weak jet from the nonrotating BH is the widest with the weakest fluctuations. Our results highlight the complex nonlinear connection between the black hole spin and the resulting disk and jet properties in the MAD regime.
-]]></content:encoded>
-<pubDate>2024-02-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Radio Continuum and Water Maser Observations of the High-mass Protostar IRAS 19035+0641 A</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad182f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad182f</guid>
-<content:encoded><![CDATA[
-<div> IRAS 19035+0641 A, Very Large Array, 1.3 cm continuum, 22.2 GHz H2O maser, high-mass protostellar object
-总结:
-利用Very Large Array进行了针对IRAS 19035+0641 A的1.3 cm连续波和22.2 GHz H2O激射观测。发现了一个在尺度≲500 au的延长的双极性1.3 cm连续波结构，与上升的带内谱指数一起，强烈暗示指向IRAS 19035+0641 A的射流是电离的。此外，还确定了8个水激射点，它们与射流轴线很好地对齐。最亮的H2O激射线Stokes V谱显示可能的泽曼分裂，并且可以用拟合到Stokes I谱形的两个高斯成分的导数很好地表示。测得的Blos分别为123 (±27)和156 (±8) mG，相应的预激震磁场约为7 mG。后续的观测证实了泽曼分裂，并且发现了所有水激射点的强烈变化，其中最亮的激射完全消失。在1年的时间尺度内观察到的变化可能是一个吸积事件的结果。这些发现加强了对IRAS 19035+0641 A作为处于早期吸积/流出演化阶段的高质量原恒星的解释。 <div>
-We present Very Large Array 1.3 cm continuum and 22.2 GHz H2O maser observations of the high-mass protostellar object IRAS 19035+0641 A. Our observations unveil an elongated bipolar 1.3 cm continuum structure at scales ≲500 au, which, together with a rising in-band spectral index, strongly suggests that the radio emission toward IRAS 19035+0641 A arises from an ionized jet. In addition, eight individual water maser spots well aligned with the jet axis were identified. The Stokes V spectrum of the brightest H2O maser line (∼100 Jy) shows a possible Zeeman splitting and is well represented by the derivatives of two Gaussian components fitted to the Stokes I profile. The measured Blos are 123 (±27) and 156 (±8) mG, translating to a preshock magnetic field of ≈7 mG. Subsequent observations to confirm the Zeeman splitting showed intense variability in all the water maser spots, with the brightest maser completely disappearing. The observed variability in a 1 yr timescale could be the result of an accretion event. These findings strengthen our interpretation of IRAS 19035+0641 A as a high-mass protostar in an early accretion/outflow evolutionary phase.
-]]></content:encoded>
-<pubDate>2024-02-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Tracing the Layers of Photodissociated Gas in the Trifid Nebula</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad19cb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad19cb</guid>
-<content:encoded><![CDATA[
-<div> photodissociated gas, Trifid Nebula, kinematics, PDRs, H ii region
-<br /><br />总结:
-本文分析了年轻的三叉戟星云的运动学特征，基于远红外[C ii] 158μm和[O i] 63μm的速度分辨观测。PDR的分布呈现出质量为516 M⊙的红移和蓝移PDR壳层，动能约为1047 erg。观测到的PDR壳层的动量低于理论计算预测的，这提示M20星云由于周围气体被传播的电离前沿所吹散而发生了显著的质量丢失。总体来说，文章揭示了H ii区的热能以及HD 169442A的恒星风流明度对M20星云的动力学演化造成的影响。 <div>
-Photodissociated gas bears the signature of the dynamical evolution of the ambient interstellar medium impacted by the mechanical and radiative feedback from an expanding H ii region. Here we present an analysis of the kinematics of the young Trifid Nebula, based on velocity-resolved observations of the far-infrared fine structure lines of [C ii] at 158 μm and [O i] at 63 μm. The distribution of the photodissociated regions (PDRs) surrounding the nebula is consistent with a shell-like structure created by the H ii region expanding at a velocity of 5 km s−1. Comparison of ratios of [C ii] and [O i]63 μm intensities for identical velocity components with PDR models indicate a density of 104 cm−3. The redshifted and blueshifted PDR shells with a combined mass of 516 M⊙ have a kinetic energy of ∼1047 erg. This is consistent with the thermal energy of the H ii region as well as with the energy deposited by the stellar wind luminosity from HD 169442A, an O7 V star, over the 0.5 Myr lifetime of the star. The observed momentum of the PDR shell is lower than what theoretical calculations predict for the radial momentum due to the shell being swept up by an expanding H ii region, which suggests that significant mass loss has occurred in M20 due to the dispersal of the surrounding gas by the advancing ionization front.
 ]]></content:encoded>
 <pubDate>2024-02-14T00:00:00Z</pubDate>
 </item>
