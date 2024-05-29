@@ -4,6 +4,72 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Katachi (形): Decoding the Imprints of Past Star Formation on Present-day Morphology in Galaxies with Interpretable CNNs*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3b95</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3b95</guid>
+<content:encoded><![CDATA[
+<div> 星系形态，星系形成，星系熄灭，神经网络，SDSS-IV MaNGA DR17<br>
+总结:<br>
+这篇文章介绍了一种名为Katachi的卷积神经网络框架，该框架学习了影响星系在不同空间和时间尺度上的星形成的因素之间的联系。通过对SDSS-IV MaNGA DR17样本中的9904个星系进行训练，Katachi能够预测星系的恒星质量、当前星形成率和半质量时间，并且能够从图像中重建每个星系的非参数化星形成史。使用SHAP来量化形态特征对星形成史预测的影响，发现了与恒星质量增长相关的星系球状体的预期趋势，以及与螺旋臂和其他星形成区域相关的星形成率趋势。此外，发现D4000的SHAP图可能比恒星质量和星形成率的更为复杂，而星系形态与半质量时间的相关性即使在质量和星形成率固定时也是存在的。Katachi可用于从大型成像调查中预测星系性质，包括Rubin、Roman和Euclid，并且可以处理高信噪比成像和有限光度波段的大数据集。 <div>
+The physical processes responsible for shaping how galaxies form and quench over time leave imprints on both the spatial (galaxy morphology) and temporal (star formation history; SFH) tracers that we use to study galaxies. While the morphology–SFR connection is well studied, the correlation with past star formation activity is not as well understood. To quantify this, we present Katachi (形), an interpretable convolutional neural network framework that learns the connection between the factors regulating star formation in galaxies on different spatial and temporal scales. Katachi is trained on 9904 galaxies at 0.02 < z < 0.1 in the SDSS-IV MaNGA DR17 sample to predict stellar mass (M*; root mean square error (RSME) 0.22 dex), current star formation rate (SFR; RMSE 0.31 dex), and half-mass time (t50; RMSE 0.23 dex). This information allows us to reconstruct nonparametric SFHs for each galaxy from gri imaging alone. To quantify the morphological features informing the SFH predictions, we use SHAP (SHapley Additive exPlanations). We recover the expected trends of M* governed by the growth of galaxy bulges, as well as those of SFR correlating with spiral arms and other star-forming regions. We also find that the SHAP maps of D4000 are more complex than those of M* and SFR, and that morphology is correlated with t50 even at fixed mass and SFR. Katachi serves as a scalable public framework to predict galaxy properties from large imaging surveys including Rubin, Roman, and Euclid, with large data sets of high signal-to-noise ratio imaging across limited photometric bands.
+]]></content:encoded>
+
+<pubDate>2024-05-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>GRBs from Collapse of Thorne–Żytkow–like Objects as the Aftermath of WD-NS Coalescence</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3ba6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3ba6</guid>
+<content:encoded><![CDATA[
+<div> Thorne–Żytkow–like objects, collapsar models, gamma-ray burst, Neutron star, White dwarf
+<br>
+TZlO由中子星和致密白矮星组成，可以解释GRB的特征。GRB 211211A可能是由引擎驱动的巨新星，而GRB 200826A的超新星颠簸可能是由喷射物与盘风壳的碰撞引起的。这项研究挑战了传统的collapsar模型，提出了新的理论解释，并与观测结果相一致。总结：<br> 这项研究提出了Thorne–Żytkow–like objects (TZlO) 的模型来解释两种类型的伽马射线暴事件，给出了关于GRB 211211A和GRB 200826A的观测解释，并对传统的collapsar模型进行了挑战。 <div>
+The Type II gamma-ray burst (GRB) 200826A challenges collapsar models by questioning how they can generate a genuinely short-duration event. The other Type I GRB 211211A confused us with a kilonova signature observed in the afterglow of a long burst. Here, we propose a comprehensive model in which both bursts are the results of the collapse of Thorne–Żytkow–like objects (TZlOs). The TZlO consists of a central neutron star (NS), with a dense white dwarf (WD) material envelope, which is formed as the aftermath of a WD-NS coalescence. We find that the characteristics of the resultant GRBs depend on whether the TZlO collapses immediately following the WD-NS merger or not. Additionally, the observational properties of the consequent GRBs manifest variations contingent upon whether the collapse of the TZlO results in a magnetar or a black hole. We also show that our model is consistent with the observations of GRB 211211A and GRB 200826A. Specifically, the optical excess in GRB 211211A can be attributed to an engine-fed kilonova, while the supernova bump in GRB 200826A is likely due to the collision between the ejecta and the disk wind shell.
+]]></content:encoded>
+
+<pubDate>2024-05-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Enhancing Pulsar Candidate Identification with Self-tuning Pseudolabeling Semisupervised Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e7f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e7f</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 天文学, 机器学习, 无标签数据, 半监督学习, 脉冲星
+
+总结:<br>
+本研究提出并验证了一种自我调节伪标签半监督学习方法，有效提高了分类器性能，实现了从传统的全监督学习方法向更高效的射电脉冲星检测策略的过渡。实验结果表明，即使训练集仅包含100个已标记的脉冲星候选对象，该方法的召回率可达92.35%，F1得分为93.89%。当标记示例数量增加到800时，性能进一步提高，召回率达到97.50%，F1得分达到97.16%。半监督学习方法即使在标记数据量有限的情况下也能有效发现脉冲星候选对象。这突显了我们方法在促进早期脉冲星调查方面的潜力，并强调了其在标记数据短缺情况下产生实质性结果的能力。 <div>
+In the field of astronomy, machine-learning technologies are becoming increasingly crucial for identifying radio pulsars. However, the process of acquiring labeled data, which is both time-consuming and potentially biased, poses a significant limitation to current methodologies. In response to these challenges, this study proposes and validates a self-tuning pseudolabeling semisupervised learning approach. This approach synthesizes a vast unlabeled data set with a considerably smaller set of labeled data, markedly enhancing classifier performance and effectuating a transition from traditional fully supervised learning methods to more efficient radio pulsar detection strategies. Our experimental outcomes demonstrate that even with a training set comprised of only 100 labeled pulsar candidates, this method can attain a recall rate of 92.35% and an F1 score of 93.89%. When the number of labeled examples is increased to 800, we observe a further improvement in performance, with the recall rate rising to 97.50% and the F1 score reaching 97.16%. The utility of the semisupervised learning approach is evident even with minimal labeled data, which is a common scenario in the search for pulsars, including in environments like globular clusters. What stands out is the method’s capacity to detect pulsar candidates effectively with only a limited number of labeled examples. This emphasizes the robust potential of our approach to facilitate early-stage pulsar surveys and highlights its capability to yield substantial results even when labeled data are in short supply.
+]]></content:encoded>
+
+<pubDate>2024-05-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Modified Temperature–Redshift Relation and Ultra-high-energy Cosmic Ray Propagation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4037</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4037</guid>
+<content:encoded><![CDATA[
+<div> UHECRs, photons, CMB, SU(2)CMB, cosmogenic neutrinos
+<br>总结:
+作者重新审视了超高能宇宙射线（UHECRs）与宇宙微波背景（CMB）光子的相互作用，探讨了改变的温度-红移关系T(z)。该改变的温度-红移关系是根据将热化和各向同性的光子气体（如CMB）置于SU(2)而不是U(1)规范群的假设提出的。这种ΛCDM的修改被称为SU(2)CMB，其中一些宇宙学参数似乎与相同量的局部测量结果更加吻合，特别是H0和S8。在本研究中，我们将SU(2)CMB下的减少的CMB光子密度应用于UHECRs的传播。这导致在宇宙射线谱线ankle以下的地方有更高的UHECR通量，在其他条件相等的情况下，宇宙成因中微子也会略微增多。最突出的是，在硬注入谱线和不考虑磁场效应的情况下，脉冲通量在ankle以下（5×1018 eV）显著增加了。CMB光子密度的减少也有利于较佳适合ΛCDM的宇宙射线源演化的减少。因此，似乎SU(2)CMB更有利于像恒星形成率这样的源的演化，例如恒星爆发星系和伽马射线暴，而不是活跃星系核作为UHECRs的起源。我们得出结论，CMB的温度-红移关系的假设直接影响了UHECRs的主要来源的性质。 <div>
+We reexamine the interactions of ultra-high-energy cosmic rays (UHECRs) with photons from the cosmic microwave background (CMB) under a changed, locally nonlinear temperature–redshift relation T(z). This changed temperature–redshift relation has recently been suggested by the postulate of subjecting thermalized and isotropic photon gases such as the CMB to an SU(2) rather than a U(1) gauge group. This modification of ΛCDM is called SU(2)CMB, and some cosmological parameters obtained by SU(2)CMB seem to be in better agreement with local measurements of the same quantities, in particular H0 and S8. In this work, we apply the reduced CMB photon density under SU(2)CMB to the propagation of UHECRs. This leads to a higher UHECR flux just below the ankle in the cosmic ray spectrum and slightly more cosmogenic neutrinos under otherwise equal conditions for emission and propagation. Most prominently, the proton flux is significantly increased below the ankle (5 × 1018 eV) for hard injection spectra and without considering the effects of magnetic fields. The reduction in CMB photon density also favors a decreased cosmic ray source evolution than the best fit using ΛCDM. In consequence, it seems that SU(2)CMB favors sources that evolve like the star formation rate, such as starburst galaxies and gamma-ray bursts, over active galactic nuclei as origins of UHECRs. We conclude that the question about the nature of primary sources of UHECRs is directly affected by the assumed temperature–redshift relation of the CMB.
+]]></content:encoded>
+
+<pubDate>2024-05-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Two Repeated Transient Quasiperiodic Oscillations in the γ-Ray Emission from the Blazar 3C 279</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad409e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad409e</guid>
+<content:encoded><![CDATA[
+<div> 重要关键词: 3C 279, QPO, γ-ray light curve, 二元黑洞, 双喷流
+
+这项研究首次报道了TeV类星体3C 279的γ射线光变曲线中出现的两次重复的瞬变准周期振荡（QPO）。研究使用加权小波Z变换、Lomb–Scargle周期图和REDFIT技术在光变曲线中搜索周期性，并评估其置信水平。主要结果如下：（1）在2009年6月至11月的117天内的耀斑期间（MJD 55008–55125），发现了一个约33天的QPO（＞2.5σ），有趣的是，相同的QPO（约39天）在MJD 59430至59585的持续耀斑期间重新出现，置信水平＞4σ；（2）在2019年2月至2020年5月的455天内的一段时间（MJD 58430–58985），发现了另一个约91天的瞬变QPO，显著性＞3.8σ。考虑到文献中报道的QPO，约40天的QPO出现了三次，约91天的QPO出现了两次。我们讨论了一些可以解释这个类星体QPO的物理模型。研究可能表明，这两种QPO源自3C 279中心的双黑洞的双喷流。相似尺度的QPO的重复出现强烈支持一个在喷流内部螺旋运动的斑块的几何情景。此外，喷流中的外层也可能是解释光变曲线中观察到的重复γ射线耀斑模式的潜在解释。 <br><br>总结: 首次报道了TeV类星体3C 279的γ射线光变曲线中出现的两次重复的瞬变准周期振荡（QPO）。这些QPO出现在不同时间段内，且重复出现，可能与双喷流的二元黑洞有关。对于这类光变现象的物理模型有了新的解释和理解。 <div>
+In this work, we report for the first time two repeated transient quasiperiodic oscillations (QPOs) in the γ-ray light curve of the TeV blazar 3C 279. We search for the periodicity in the light curve and estimate its confidence level using the weighted wavelet Z-transform, the Lomb–Scargle periodogram, and the REDFIT techniques. The main results are as follows: (1) a QPO of ∼33 days (>2.5σ) is found during the flare of 117 days (MJD 55008–55125) from 2009 June to November. Interestingly, the same QPO (∼39 days) reappeared in the flaring duration from MJD 59430 to 59585, with the confidence level of >4σ. (2) Another transient QPO of ∼91 days with a significance of >3.8σ is found during a period with 455 days (MJD 58430–58985) from 2019 February to 2020 May. Under the premise of considering the QPOs reported in the literature, the QPO of ∼40 days is repeated three times and the QPO of ∼91 days is repeated twice. We discuss several physical models explaining the QPOs of this blazar. Our study may suggest that the two QPOs originate from the twin jets of the binary black holes at the center of 3C 279. The repeated occurrence of QPOs of a similar scale strongly supports the geometric scenario of a blob spiraling within the jet. Furthermore, the hypothesis of a sheath in the jet may also be a potential explanation for the repetitive γ-ray flare patterns observed in the light curve.
+]]></content:encoded>
+
+<pubDate>2024-05-28T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Collective Neutrino Oscillations and Heavy-element Nucleosynthesis in Supernovae: Exploring Potential Effects of Many-body Neutrino Correlations</title>
