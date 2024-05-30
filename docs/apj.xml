@@ -4,6 +4,181 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>The Highest-redshift Balmer Breaks as a Test of ΛCDM</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3afb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3afb</guid>
+<content:encoded><![CDATA[
+<div> 关键词: luminous galaxies, high-redshift, Balmer breaks, baryonic minihalos, ΛCDM cosmological model
+
+总结:
+该研究报告了在标准宇宙学模型预测的暗物质晕的质量函数和存在于明亮的高红移星系之间存在紧张关系。研究提出了一种改进的测试方法，利用高红移巴尔默跃迁来探测早期104-105M⊙的重子迷你暗物质晕的形成。与先前的测试不同，这不依赖于质量与光度比，并且仅在很小程度上依赖于金属丰度、恒星初始质量函数和星形成历史，这些在高红移处的约束都较弱。研究表明，在最简单的ΛCDM宇宙学模型下，允许在z=9时的最强巴尔默跃迁的D4000约为1.26，在包括真实反馈模型的情况下D4000≤1.14。由于当前对JWST源的光度学模板拟合推断出在z≳11时存在更强的巴尔默跃迁，即将进行的光谱学后续研究将证明这些模板在高红移处无效，或者暗示“纯正”ΛCDM之外的新物理。 <div>
+Recent studies have reported tension between the presence of luminous, high-redshift galaxies and the halo mass functions predicted by standard cosmology. Here, an improved test is proposed using the presence of high-redshift Balmer breaks to probe the formation of early 104–105M⊙ baryonic minihalos. Unlike previous tests, this does not depend upon the mass-to-light ratio and has only a slight dependence upon the metallicity, stellar initial mass function, and star formation history, which are all weakly constrained at high redshift. We show that the strongest Balmer breaks allowed at z = 9 using the simplest ΛCDM cosmological model would allow a D4000 as high as 1.26 under idealized circumstances and D4000 ≤ 1.14 including realistic feedback models. Since current photometric template fitting to JWST sources infers the existence of stronger Balmer breaks out to z ≳ 11, upcoming spectroscopic follow-up will either demonstrate those templates are invalid at high redshift or imply new physics beyond “vanilla” ΛCDM.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Keck Primary Mirror Closed-loop Segment Control Using a Vector-Zernike Wavefront Sensor</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3b99</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3b99</guid>
+<content:encoded><![CDATA[
+<div> Keck II telescope, Zernike wavefront sensor, segmented primary mirror, closed-loop piston control, NIRC2 science camera
+<br><br>总结:
+本文介绍了在Keck II望远镜上安装Zernike波前传感器（ZWFS）进行分段主镜闭环距离控制的研究。分段主镜的协同误差是Keck望远镜对比度限制的主要贡献因素，也是必须纠正的问题，特别是对于下一代太空任务和基于地面的超大型望远镜。ZWFS的目标是在科学观测中监测和纠正主镜协同误差。该研究使用的ZWFS是非常适合测量相位不连续性的传感器，并且对此非常敏感，但动态范围有限。Keck的向量型ZWFS在自适应光学校正波前上工作，并且采用了一个超表面焦平面掩模，在点扩散函数的核心上施加了两种不同的相位移动，产生两个正交的瞳像。这种设计扩展了动态范围，相对于标量ZWFS而言。通过ZWFS，通过闭环控制主镜分段的距离，能够将NIRC2科学相机的Strehl比提高10个百分点。我们分析了闭环测试的性能，对NIRC2科学数据的影响，并讨论了ZWFS测量的结果。 <div>
+We present the first on-sky segmented primary mirror closed-loop piston control using a Zernike wavefront sensor (ZWFS) installed on the Keck II telescope. Segment cophasing errors are a primary contributor to contrast limits on Keck and will be necessary to correct for the next generation of space missions and ground-based extremely large telescopes, which will all have segmented primary mirrors. The goal of the ZWFS installed on Keck is to monitor and correct primary mirror cophasing errors in parallel with science observations. The ZWFS is ideal for measuring phase discontinuities such as segment cophasing errors and is one of the most sensitive WFSs, but has limited dynamic range. The vector-ZWFS at Keck works on the adaptive-optics-corrected wavefront and consists of a metasurface focal plane mask that imposes two different phase shifts on the core of the point-spread function to two orthogonal light polarizations, producing two pupil images. This design extends the dynamic range compared with the scalar ZWFS. The primary mirror segment pistons were controlled in closed loop using the ZWFS, improving the Strehl ratio on the NIRC2 science camera by up to 10 percentage points. We analyze the performance of the closed-loop tests, the impact on NIRC2 science data, and discuss the ZWFS measurements.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Detecting the Early Optical Flashes of Gamma-Ray Bursts with Small Telescope Arrays</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3ba5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3ba5</guid>
+<content:encoded><![CDATA[
+<div> Large Array Survey Telescope, observational approach, early optical emission, long gamma-ray bursts, machine-learning classifier
+<br>
+通过使用Large Array Survey Telescope (LAST)进行观测，独立探测长时间伽马射线暴 (GRBs) 的早期光学发射。该方法利用小型光学望远镜组成的阵列，可以扫描广泛的天空区域，并在需要时集中于较小的视场以提高灵敏度。阵列的模块化结构便于快速切换望远镜指向，从而显著增加了对短时间尺度内盲目调查的有效天空覆盖面积。通过对伽马射线对应事件的早期数据的补充，可以为高能观测提供宝贵的信息。即使没有伽马射线关联，探测也可能用于探索与GRBs相关的各种现象，如孤立余辉、污染火球和窒息喷流。我们模拟了一组GRBs及其早期光学信号，考虑动态采样率后，将光变曲线输入到一个机器学习分类器中，用于识别天文现象。通过将LAST阵列的一半用于盲目搜索，预计每年可以独立检测7-11个GRBs，相当于每年大约0.12deg-2的内在事件率。
+<br><br>总结: 通过使用LAST阵列，可以探测到GRBs的早期光学发射。这种方法利用小型望远镜阵列的模块化结构，可以对天空进行快速高效的观测，为GRBs研究提供了新的途径。模拟结果表明，采用机器学习分类器的方法可以识别并独立检测出GRBs，并为研究员提供有价值的数据。 <div>
+We present an observational approach for the independent detection of the early optical emission of long gamma-ray bursts (GRBs). For this purpose, we explore the potential of the Large Array Survey Telescope (LAST). This array of small optical telescopes can be used to scan a wide region of the sky, and to focus on a smaller field of view with increased sensitivity, as needed. The modularity of the array facilitates dynamic scanning of multiple fields, by shifting telescope pointing directions with high cadence. This can significantly increase the effective sky-coverage of a blind survey on short timescales. For events associated with gamma-ray counterparts, the valuable early time data can supplement high-energy observations. Regardless of gamma-ray association, detections can potentially be used to explore various phenomena associated with GRBs, such as orphan afterglows; dirty fireballs; and choked jets. We simulate a sample of GRBs and their respective optical signals at early times. After accounting for dynamic cadence, the light curves are given as input to a machine-learning classifier, used to identify astrophysical transients. We find that, by dedicating half of an LAST array to a blind search, one would expect to independently detect 7–11 GRBs yr–1, corresponding to an approximate intrinsic event rate of 0.12 deg–2 yr–1.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>SAUNAS. I. Searching for Low Surface Brightness X-Ray Emission with Chandra/ACIS</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3c37</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3c37</guid>
+<content:encoded><![CDATA[
+<div> Chandra X-ray Observatory, SAUNAS, diffuse X-ray emission, pipeline, performance tests<br>
+SAUNAS是一个用于检测Chandra X-ray Observatory的ACIS数据中弥散X射线辐射的流程。它通过查询Chandra档案中的观察数据，并进行光度校准、点扩散函数建模和反卷积、点源去除、自适应平滑和背景校正等步骤。SAUNAS通过多个质量性能测试来表征其性能，并利用两个已知显示X射线发射结构的星系展示了SAUNAS的广泛应用和能力。SAUNAS成功检测到NGC 3079的30 kpc X射线超风，并在UGC 5101的领域中发现了一个扩展的低表面亮度源。SAUNAS证明了其在Chandra/ACIS的档案数据中恢复先前未检测到的结构的能力，扩展了对低表面亮度X射线宇宙的探索。<br><br>总结: Chandra X-ray Observatory 的 SAUNAS 流程能够检测到弥散 X 射线辐射，同时具有良好的性能，并成功在两个星系中检测到 X 射线发射结构。 <div>
+We present Selective Amplification of Ultra Noisy Astronomical Signal (SAUNAS), a pipeline designed for detecting diffuse X-ray emission in the data obtained with the Advanced CCD Imaging Spectrometer (ACIS) of the Chandra X-ray Observatory. SAUNAS queries the available observations in the Chandra archive and performs photometric calibration, point-spread function modeling and deconvolution, point-source removal, adaptive smoothing, and background correction. This pipeline builds on existing and well-tested software including CIAO, VorBin, and LIRA. We characterize the performance of SAUNAS through several quality performance tests and demonstrate the broad applications and capabilities of SAUNAS using two galaxies already known to show X-ray-emitting structures. SAUNAS successfully detects the 30 kpc X-ray superwind of NGC 3079 using Chandra/ACIS data sets, matching the spatial distribution detected with more sensitive XMM-Newton observations. The analysis performed by SAUNAS reveals an extended low surface brightness source in the field of UGC 5101 in the 0.3–1.0 keV and 1.0–2.0 keV bands. This source is potentially a background galaxy cluster or a hot gas plume associated with UGC 5101. SAUNAS demonstrates its ability to recover previously undetected structures in archival data, expanding exploration into the low surface brightness X-ray Universe with Chandra/ACIS.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>PROJECT-J: JWST Observations of HH46 IRS and Its Outflow. Overview and First Results</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d5a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d5a</guid>
+<content:encoded><![CDATA[
+<div> HH46 IRS, JWST,  spectroscopy, outflow, shock-excited
+
+JWST 的 PROJECT-J 计划使用 NIRSpec 和 MIRI 光谱技术研究了 HH46 IRS 和其流出物。数据显示了前所未有的射线、分子流和空腔细节。首次探测到源头附近约90天文单位处的红移射流。观测到了数十条受激禁忌线，包括[Ne iii] 15.5 μm等高度电离的物质，表明气体受到高速冲击（>80 km/s）在相对高密度介质中的激发。H2线的图像展示了复杂的分子流动，明亮的空腔、分子壳和喷流驱动的弓形冲击与周围条件相互作用并受其塑造。NIRCam 2 μm 图像解析了 HH46 IRS 大约110天文单位的二元系统，并表明在射流和H2广角发射之间观察到的巨大不对称可能是由两个不同的喷流驱动的。未解析二元系统的光谱显示深的冰带和吸收中的大量气体线，可能源自冷包层或盘。总之，JWST 首次揭示了 HH46 IRS 复杂的流出物的起源，证明了其对于研究年轻恒星周围的嵌入区域，即使在近红外波长下依然神秘的能力。<br><br>总结: <div>
+We present the first results of the JWST program PROJECT-J (PROtostellar JEts Cradle Tested with JWST), designed to study the Class I source HH46 IRS and its outflow through NIRSpec and MIRI spectroscopy (1.66–28 μm). The data provide line images (∼6.″6 in length with NIRSpec, and up to ∼20″ with MIRI) revealing unprecedented details within the jet, the molecular outflow, and the cavity. We detect, for the first time, the redshifted jet within ∼90 au from the source. Dozens of shock-excited forbidden lines are observed, including highly ionized species such as [Ne iii] 15.5 μm, suggesting that the gas is excited by high velocity (>80 km s−1) shocks in a relatively high-density medium. Images of H2 lines at different excitations outline a complex molecular flow, where a bright cavity, molecular shells, and a jet-driven bow shock interact with and are shaped by the ambient conditions. Additional NIRCam 2 μm images resolve the HH46 IRS ∼110 au binary system and suggest that the large asymmetries observed between the jet and the H2 wide-angle emission could be due to two separate outflows being driven by the two sources. The spectra of the unresolved binary show deep ice bands and plenty of gaseous lines in absorption, likely originating in a cold envelope or disk. In conclusion, JWST has unraveled for the first time the origin of the HH46 IRS complex outflow demonstrating its capability to investigate embedded regions around young stars, which remain elusive even at near-IR wavelengths.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Fallback Rates in Partial Tidal Disruptions of White Dwarfs by Intermediate-mass Black Holes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dfa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dfa</guid>
+<content:encoded><![CDATA[
+<div> 部分潮汐破坏，中间质量黑洞，平滑粒子流体动力学，回落率，恒星残骸
+
+这篇论文利用平滑粒子流体动力学方法，对恒星部分潮汐破坏后的回落现象进行了全面的数值分析。研究了单个太阳质量的白矮星在抛物线轨道上被一个质量为103太阳质量的非自旋中间质量黑洞部分潮汐破坏的数值模拟，并确定了碎片回落到黑洞内的核心质量分数和回落率。对于超大质量黑洞，在完全破坏过程中，已知延迟时间的回落率遵循t−5/3的幂律，而近期有推测称部分潮汐破坏的回落率在后期会饱和为更陡的t−9/4幂律，与遗留的核心质量无关。然而，本文表明，对于中间质量黑洞，部分破坏显著改变了这一结论。也就是说，后期的回落率并不会渐近于t−9/4的幂律，而且这一率还强烈依赖于核心质量。我们推导了一个关于后期回落率的稳健公式，作为核心质量分数的函数，与白矮星的质量无关，我们通过对其进行多次数值验证进行了验证。 <br><br>总结: 本文利用平滑粒子流体动力学方法对中间质量黑洞部分潮汐破坏后的回落现象进行了数值分析，并发现后期的回落率不会趋近于t−9/4的幂律，且这一率也极大地依赖于核心质量。研究结果对进一步理解中间质量黑洞的特征具有重要意义。 <div>
+The fallback rate of debris after the partial tidal disruption of a star by an intermediate-mass black hole (IMBH) might provide important signatures of such black holes rather than supermassive ones. Here using smoothed particle hydrodynamics methods, we provide a comprehensive numerical analysis of this phenomenon. We perform numerical simulations of single partial tidal disruptions of solar-mass white dwarfs in parabolic orbits, with a nonspinning 103 M⊙ IMBH for various values of the impact parameter, and determine the core mass fractions and fallback rates of debris into the IMBH. For supermassive black holes, in full disruption processes, it is known that the late-time fallback rate follows a power law t−5/3, whereas for partial disruptions, such a rate has recently been conjectured to saturate at a steeper power law t−9/4, independent of the mass of the remnant core. We show here that for IMBHs, partial disruptions significantly alter this conclusion. That is, the fallback rate at late times does not asymptote to a t−9/4 power law, and this rate is also a strong function of the core mass. We derive a robust formula for the late-time fallback rate as a function of the core mass fraction, which is independent of the mass of the white dwarf, as we verify numerically by varying it.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Measuring White Dwarf Variability from Sparsely Sampled Gaia DR3 Multi-epoch Photometry</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e60</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e60</guid>
+<content:encoded><![CDATA[
+<div> 白矮星，星变周期，Gaia数据，短周期，新发现
+
+该研究利用Gaia、Zwicky Transiting Facility和Transiting Exoplanet Survey Satellite的多次观测数据对一组高可信的白矮星进行表征。结果显示，Gaia数据能够独立准确地测量白矮星的变化周期，包括少于1000秒的极短周期。研究团队发现了86个新的白矮星系统，其中包括脉动、斑点和双星系统。他们还发现了一个新的68.4分钟的日食型灾变变星。这些结果表明，Gaia时代光度测量能够准确测量短期变化周期，即使观测数据稀疏，绝对光度变化的中位数幅度为1.4%。这些发现有助于更深入地了解低质量恒星演化的最终阶段。 <br><br>总结: 本研究利用Gaia等多个天文观测数据对白矮星进行了表征和发现，独立测量了其变化周期，包括极短周期的发现；在105个目标样本中，发现了86个新的白矮星系统，包括不同类型的白矮星，以及一个新的日食型灾变变星；Gaia时代光度测量能够准确测量短期变化周期，即使观测数据稀疏，绝对光度变化的中位数幅度为1.4%。这些结果对于理解低质量恒星演化的最终阶段具有重要意义。 <div>
+White dwarf stars are ubiquitous in the Galaxy, and are essential to understanding stellar evolution. While most white dwarfs are photometrically stable and reliable flux standards, some can be highly variable, which can reveal unique details about the endpoints of low-mass stellar evolution. In this study, we characterize a sample of high-confidence white dwarfs with multi-epoch photometry from Gaia Data Release 3. We compare these Gaia light curves with light curves from the Zwicky Transiting Facility and the Transiting Exoplanet Survey Satellite to see when Gaia data independently can accurately measure periods of variability. From this sample, 105 objects have variability periods measured from the Gaia light curves independently, with periods as long as roughly 9.5 days and as short as 256.2 s (roughly 4 minutes), including seven systems with periods shorter than 1000 s. We discover 86 new objects from the 105 target samples, including pulsating, spotted, and binary white dwarfs, and even a new 68.4 minute eclipsing cataclysmic variable. The median amplitude of the absolute photometric variability we confirm from Gaia independently is 1.4%, demonstrating that Gaia epoch photometry is capable of measuring short-term periods even when observations are sparse.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Low-mass Stellar Initial Mass Function in Nearby Ultrafaint Dwarf Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4020</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4020</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 初始质量函数, 星际数, 超微型矮星系, 太空望远镜, 星际物质
+
+这篇文章利用哈勃太空望远镜成像数据对四个超微型矮星系进行了低质量恒星初始质量函数(IMF)的研究。研究采用了Kolmogorov-Smirnov检验来确定观测到的明度分布是否能够排除给定的IMF参数和二元分数。针对Reticulum II和Ursa Major II两个系统还确定了最佳拟合参数值，并发现Reticulum II的IMF与银河系的类似，而Ursa Major II的IMF更偏重底部。但Ursa Major II的结果可能存在来自两个已知背景星系团的污染。总结:本研究利用哈勃太空望远镜数据对超微型矮星系进行了低质量恒星初始质量函数(IMF)的研究，发现这些星系排除了多种IMF，未能排除的IMF与银河系的相似。对Reticulum II和Ursa Major II两个系统确定了最佳拟合参数值，但Ursa Major II的结果可能存在污染。 <div>
+The stellar initial mass function (IMF) describes the distribution of stellar masses that form in a given star formation event. The long main-sequence lifetimes of low-mass stars mean that the IMF in this regime (below ∼ 1 M⊙) can be investigated through star counts. Ultrafaint dwarf galaxies are low-luminosity systems with ancient, metal-poor stellar populations. We investigate the low-mass IMF in four such systems (Reticulum II, Ursa Major II, Triangulum II, and Segue 1), using Hubble Space Telescope imaging data that reaches to ≲ 0.2 M⊙ in each galaxy. The analysis techniques that we adopt depend on the number of low-mass stars in each sample. We use Kolmogorov–Smirnov tests for all four galaxies to determine whether their observed apparent magnitude distributions can reject a given combination of IMF parameters and binary fraction for the underlying population. We forward model 1000 synthetic populations for each combination of parameters, and reject those parameters only if each of the 1000 realizations reject the null hypothesis. We find that all four galaxies reject a variety of IMFs, and the IMFs that they cannot reject include those that are identical, or similar, to that of the stellar populations of the Milky Way. We determine the best-fit parameter values for the IMF in Reticulum II and Ursa Major II and find that the IMF in Reticulum II is generally consistent with that of the Milky Way, while the IMF in Ursa Major II is more bottom heavy. The interpretation of the results for Ursa Major II is complicated by possible contamination from two known background galaxy clusters.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Maser Activity of Organic Molecules toward Sgr B2(N)</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4094</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4094</guid>
+<content:encoded><![CDATA[
+<div> Galactic Center, Sgr B2, maser emission, radiative transfer models, spatial distribution<br>
+总结:<br>
+该研究对银河中心的Sgr B2北部进行了映射研究，首次在84 GHz检测到了Class I 甲醇(CH3OH)激光以及首次对5.29 GHz的甲醛(CH2NH)激光进行了干涉图。使用非LTE辐射传输模型和马尔可夫蒙特卡洛方法进行贝叶斯分析，以定量评估观察到的光谱轮廓。结果表明，对于低连续背景辐射区域，采用两链块模型来解释强烈的CH3OH Class I激光辐射。通过比较几种分子物种的激光辐射的空间起源和范围，发现5.29 GHz的CH2NH激光与84 GHz的CH3OH Class I激光有密切的空间关系，这提供了观测证据，暗示了这些激光跃迁具有相似的碰撞泵浦机制。 <div>
+At centimeter wavelengths, single-dish observations have suggested that the Sagittarius (Sgr) B2 molecular cloud at the Galactic Center hosts weak maser emission from several organic molecules, including CH2NH, HNCNH, and HCOOCH3. However, the lack of spatial distribution information on these new maser species has prevented us from assessing the excitation conditions of the maser emission as well as their pumping mechanisms. Here, we present a mapping study toward Sgr B2 north (N) to locate the region where the complex maser emission originates. We report the first detection of the Class I methanol (CH3OH) maser at 84 GHz and the first interferometric map of the methanimine (CH2NH) maser at 5.29 GHz toward this region. In addition, we present a tool for modeling and fitting the unsaturated molecular maser signals with non-LTE radiative transfer models and Bayesian analysis using the Markov Chain Monte Carlo approach. These enable us to quantitatively assess the observed spectral profiles. The results suggest a two-chain-clump model for explaining the intense CH3OH Class I maser emission toward a region with low continuum background radiation. By comparing the spatial origin and extent of maser emission from several molecular species, we find that the 5.29 GHz CH2NH maser has a close spatial relationship with the 84 GHz CH3OH Class I masers. This relationship serves as observational evidence to suggest a similar collisional pumping mechanism for these maser transitions.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Mass–Radius Relationships and Contraction of Condensed Planets by Cooling or Despinning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4113</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4113</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 行星、温度、密度、压力、旋转
+总结:
+本文研究了行星如何随着温度和旋转率的变化而改变大小。研究表明，行星的半径主要取决于表面密度、重力和表面不可压缩性。小行星的半径会随温度变化而变化，而大行星则不会受到温度的影响。同样地，行星的半径还会受到其旋转率的影响。综合来看，地球和类地行星的半径在温度和旋转率方面处于一个中等状态。 <div>
+Condensed planets contract or expand as their temperature changes. With the exception of the effect of phase changes, this phenomenon is generally interpreted as being solely related to the thermal expansivity of the planet’s components. However, changes in density affect pressure and gravity and, consequently, the planet’s compressibility. A planet’s radius is also linked to its rate of rotation. Here again, changes in pressure, gravity, and compressibility are coupled. In this article we clarify how the radius of a condensed planet changes with temperature and rotation, using a simple and rigorous thermodynamic model. We consider condensed materials to obey a simple equation of state which generalizes a polytopic EoS as temperature varies. Using this equation, we build simple models of condensed planet’s interiors including exoplanets, derive their mass–radius relationships, and study the dependence of their radius on temperature and rotation rate. We show that it depends crucially on the value of ρsgR/Ks (ρs being surface density, g gravity, R radius, Ks surface incompressibility). This nondimensional number is also the ratio of the dissipation number which appears in compressible convection and the Gruneïsen mineralogic parameter. While the radius of small planets depends on temperature, this is not the case for large planets with large dissipation numbers; Earth and a super-Earth like CoRoT-7b are in something of an intermediate state, with a moderately temperature-dependent radius. Similarly, while the radius of these two planets is a function of their rotation rates, this is not the case for smaller or larger planets.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Global Coronal Plasma Diagnostics Based on Multislit Extreme-ultraviolet Spectroscopy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4114</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4114</guid>
+<content:encoded><![CDATA[
+
+Full-disk spectroscopic observations of the solar corona are highly desired to forecast solar eruptions and their impact on planets and to uncover the origin of solar wind. In this paper, we introduce a new multislit design (five slits) to obtain extreme-ultraviolet (EUV) spectra simultaneously. The selected spectrometer wavelength range (184–197 Å) contains several bright EUV lines that can be used for spectral diagnostics. The multislit approach offers an unprecedented way to efficiently obtain the global spectral data but the ambiguity from different slits should be resolved. Using a numerical simulation of the global corona, we primarily concentrate on the optimization of the disambiguation process, with the objective of extracting decomposed spectral information of six primary lines. This subsequently facilitates a comprehensive series of plasma diagnostics, including density (Fe xii 195.12/186.89 Å), Doppler velocity (Fe xii 193.51 Å), line width (Fe xii 193.51 Å), and temperature diagnostics (Fe viii 185.21 Å, Fe x 184.54 Å, Fe xi 188.22 Å, and Fe xii 193.51 Å). We find a good agreement between the forward modeling parameters and the inverted results at the initial eruption stage of a coronal mass ejection, indicating the robustness of the decomposition method and its immense potential for global monitoring of the solar corona.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Discovery and Characterization of Two Ultrafaint Dwarfs outside the Halo of the Milky Way: Leo M and Leo K</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad429b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad429b</guid>
+<content:encoded><![CDATA[
+
+We report the discovery of two ultrafaint dwarf galaxies, Leo M and Leo K, that lie outside the halo of the Milky Way (MW). Using Hubble Space Telescope imaging of the resolved stars, we create color–magnitude diagrams reaching the oldest main-sequence turnoff of each system and (i) fit for structural parameters of the galaxies; (ii) measure their distances using the luminosity of the horizontal branch stars; (iii) estimate integrated magnitudes and stellar masses; and (iv) reconstruct the star formation histories. Based on their location in the Local Group, neither galaxy is currently within the halo of the MW although Leo K is located ∼26 kpc from the low-mass galaxy Leo T and these two systems may have had a past interaction. Leo M and Leo K have stellar masses of M⊙ and 1.2 ± 0.2 × 104M⊙, and were quenched Gyr and Gyr ago, respectively. Given that the galaxies are at farther distances from the MW, it is unlikely that they were quenched by environmental processing. Instead, given their low stellar masses, their early quenching timescales are consistent with the scenario that a combination of reionization and stellar feedback shut down star formation at early cosmic times.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Is the Compact Object Associated with HESS J1731-347 a Strange Quark Star? A Possible Astrophysical Scenario for Its Formation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad445b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad445b</guid>
+<content:encoded><![CDATA[
+
+The analysis of the central compact object within the supernova (SN) remnant HESS J1731-347 suggests that it has a small radius and, even more interestingly, a mass of the order or smaller than 1 M⊙. This raises the question of which astrophysical process could lead to such a small mass, since the analysis of various types of SN explosions indicate that is it not possible to produce a neutron star with a mass smaller than about 1.17 M⊙. Here we show that masses of the order or smaller than 1 M⊙ can be obtained in the case of strange quark stars and that it is possible to build a coherent model explaining not only the mass and the radius of that object, but also its slow cooling suggested in various analyses. We also show that an astrophysical path exists, which leads to the formation of such an object, and we discuss the role played in that scenario by strangelets assumed to constitute the dark matter.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
+<item>
+<title>High Mass Inner Regions Found in Five Outbursting Sources</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a5a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a5a</guid>
+<content:encoded><![CDATA[
+
+Young stellar objects are thought to commonly undergo sudden accretion events that result in a rise in bolometric luminosity. These outbursts likely coincide with the onset of planet formation and could impact the formation of planets. The reason behind this dramatic enhancement of accretion is an active area of research, and the mass of the system is a critical parameter. Using the Northern Extended Millimeter Array, we survey five outbursting sources (three FU Ori, one EX Or, and one “peculiar” source) with the primary goal of determining the system’s mass using an optically thin line of CO. We estimate the mass of a central region for each object that using both continuum emission and C17O J = 2-1. The C17O emission likely includes both disk and inner envelope material, thus acts as an upper limit on the disk mass, ranging from 0.33 to 3.4 M⊙ for our sources. These derived masses suggest that the inner ∼1000 au contains enough mass along the line of sight for these sources to be gravitationally unstable.
+]]></content:encoded>
+
+<pubDate>2024-05-29T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Thermal Structure and Millimeter Emission from a Protoplanetary Disk with Embedded Protoplanets from Radiative Transfer Modeling</title>
