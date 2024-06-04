@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>What Is the Nature of Little Red Dots and what Is Not, MIRI SMILES Edition</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad38bb</link>
@@ -15,10 +16,8 @@
 本研究对31个小红点（LRD）进行了研究，发现它们主要由恒星辐射组成，能够快速估算恒星质量。红移中值和四分位数为55%的光谱测量提供了重要信息。LRD的数量密度为10^-4.0±0.1 Mpc^-3，占全球类似红移和质量的星系总数的14% ± 3%。在红移平均值附近的近红外/中红外（2-4μm）光谱斜率显示出大量暖尘。研究还发现LRD的自然多样性，但许多最佳拟合模型对应于极其强烈和紧凑的恒星形成星系，其全局能量输出主要由OB恒星的直接（在平坦的静止波段紫外光和光谱范围中）和尘埃再循环辐射组成，同时也有一些来自红外线的暗藏AGN的贡献。 <div>
 We study 31 little red dots (LRD) detected by JADES/NIRCam and covered by the SMILES/MIRI survey, of which ∼70% are detected in the two bluest MIRI bands and 40% in redder MIRI filters. The median/quartiles redshifts are (55% spectroscopic). The spectral slopes flatten in the rest-frame near-infrared, consistent with a 1.6 μm stellar bump but bluer than direct pure emission from active galactic nuclei (AGN) tori. The apparent dominance of stellar emission at these wavelengths for many LRDs expedites stellar mass estimation: the median/quartiles are . The number density of LRDs is 10−4.0±0.1 Mpc−3, accounting for 14% ± 3% of the global population of galaxies with similar redshifts and masses. The rest-frame near-/mid-infrared (2–4 μm) spectral slope reveals significant amounts of warm dust (bolometric attenuation ∼3–4 mag). Our spectral energy distribution modeling implies the presence of <0.4 kpc diameter knots, heated by either dust-enshrouded OB stars or an AGN producing a similar radiation field, obscured by A(V) > 10 mag. We find a wide variety in the nature of LRDs. However, the best-fitting models for many of them correspond to extremely intense and compact starburst galaxies with mass-weighted ages 5–10 Myr, very efficient in producing dust, with their global energy output dominated by the direct (in the flat rest-frame ultraviolet and optical spectral range) and dust-recycled emission from OB stars with some contribution from an obscured AGN (in the infrared).
 ]]></content:encoded>
-
 <pubDate>2024-06-03T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>An ALMA Search for Substructure and Fragmentation in Starless Cores in Orion B North</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d56</link>
@@ -11146,18 +11145,6 @@ We used the stream-aligned magnetohydrodynamics (SA-MHD) model to simulate Carri
 Numerous structures conducive to magnetic reconnection are frequently observed in the turbulent regions at quasi-parallel shocks. In this work, we use a particle-in-cell simulation to study 3D magnetic reconnection in shock turbulence. We identify and characterize magnetic null points, and focus on reconnection along the separator between them. We identify a reconnection region with strong parallel current, a finite parallel potential, and counterrotating electron flows. Electrons are shown to be accelerated by the parallel electric field before being scattered at the null.
 ]]></content:encoded>
 <pubDate>2024-02-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Robust Study of High-redshift Galaxies: Unsupervised Machine Learning for Characterizing Morphology with JWST up to z ∼ 8</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad17b8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad17b8</guid>
-<content:encoded><![CDATA[
-<div> JWST/NIRCam, feature extraction, galaxy morphologies, high-redshift, variational autoencoders
-<br /><br />总结:
-本文利用JWST/NIRCam数据对红移大于2的星系进行特征提取，样本包括6869个星系，其中255个红移大于5。在消除了星系定向和背景干扰后，利用变分自动编码器构建了一个具有物理意义的特征空间。研究发现红移增加时，球状星系的存在逐渐减少，早期宇宙中盘状星系占据主导地位。传统的目视分类系统在高红移形态分类中不够精确，因此提出了一种基于机器提取特征的更精细分类方案，并展示了这些提取的簇与测定参数的对齐情况，相较于传统方法有着更大的物理相关性。 <div>
-Galaxy morphologies provide valuable insights into their formation processes, tracing the spatial distribution of ongoing star formation and encoding signatures of dynamical interactions. While such information has been extensively investigated at low redshift, it is crucial to develop a robust system for characterizing galaxy morphologies at earlier cosmic epochs. Relying solely on nomenclature established for low-redshift galaxies risks introducing biases that hinder our understanding of this new regime. In this paper, we employ variational autoencoders to perform feature extraction on galaxies at z > 2 using JWST/NIRCam data. Our sample comprises 6869 galaxies at z > 2, including 255 galaxies at z > 5, which have been detected in both the Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey Hubble Space Telescope fields and the Cosmic Evolution Early Release Science Survey done with JWST, ensuring reliable measurements of redshift, mass, and star formation rates. To address potential biases, we eliminate galaxy orientation and background sources prior to encoding the galaxy features, thereby constructing a physically meaningful feature space. We identify 11 distinct morphological classes that exhibit clear separation in various structural parameters, such as the concentration, asymmetry, and smoothness (CAS) metric and M20, Sérsic indices, specific star formation rates, and axis ratios. We observe a decline in the presence of spheroidal-type galaxies with increasing redshift, indicating the dominance of disk-like galaxies in the early Universe. We demonstrate that conventional visual classification systems are inadequate for high-redshift morphology classification and advocate the need for a more detailed and refined classification scheme. Leveraging machine-extracted features, we propose a solution to this challenge and illustrate how our extracted clusters align with measured parameters, offering greater physical relevance compared to traditional methods.
-]]></content:encoded>
-<pubDate>2024-02-19T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
