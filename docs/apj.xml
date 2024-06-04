@@ -4,19 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Zooming by in the CARPoolGP Lane: New CAMELS-TNG Simulations of Zoomed-in Massive Halos</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d4a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d4a</guid>
 <content:encoded><![CDATA[
-<div> 高维参数空间; 宇宙结构; 模拟; 星系形成; 机器学习 <br>
+<div> 高维参数空间; 宇宙结构; 模拟; 星系形成; 机器学习 <br />
 CARPoolGP方法; 增强了对哈罗质量范围的模拟; 揭示了宇宙结构性质和星系群体的参数趋势; 发布了模拟套件和CARPoolGP软件包
 
-<br><br>总结:
+<br /><br />总结:
 这项研究发展了一种新的采样和降低方差的回归方法CARPoolGP，用于探索高维参数空间，并生成对概要统计的低方差模拟。研究利用这一方法扩展了包括768个宇宙结构模拟在内的套件，探索了IllustrisTNG模型中的28维参数空间中哈罗质量范围为1013–1014.5M⊙h−1的模拟。利用这些模拟和CARPoolGP模拟方法，研究了Compton Y–M、黑洞质量–哈罗质量和金属丰度–质量关系的参数趋势，以及卫星星系的热力学特性和沉寂分数。研究利用大质量哈罗的Y–M关系的模拟进行了未来Sunyaev–Zeldovich观测的Fisher预测，并发现了显著的预测约束改进。研究公开发布了模拟套件和CARPoolGP软件包。 <div>
 Galaxy formation models within cosmological hydrodynamical simulations contain numerous parameters with nontrivial influences over the resulting properties of simulated cosmic structures and galaxy populations. It is computationally challenging to sample these high dimensional parameter spaces with simulations, in particular for halos in the high-mass end of the mass function. In this work, we develop a novel sampling and reduced variance regression method, CARPoolGP, which leverages built-in correlations between samples in different locations of high dimensional parameter spaces to provide an efficient way to explore parameter space and generate low-variance emulations of summary statistics. We use this method to extend the Cosmology and Astrophysics with machinE Learning Simulations to include a set of 768 zoom-in simulations of halos in the mass range of 1013–1014.5M⊙h−1 that span a 28-dimensional parameter space in the IllustrisTNG model. With these simulations and the CARPoolGP emulation method, we explore parameter trends in the Compton Y–M, black hole mass–halo mass, and metallicity–mass relations, as well as thermodynamic profiles and quenched fractions of satellite galaxies. We use these emulations to provide a physical picture of the complex interplay between supernova and active galactic nuclei feedback. We then use emulations of the Y–M relation of massive halos to perform Fisher forecasts on astrophysical parameters for future Sunyaev–Zeldovich observations and find a significant improvement in forecasted constraints. We publicly release both the simulation suite and CARPoolGP software package.
 ]]></content:encoded>
-
 <pubDate>2024-06-03T23:00:00Z</pubDate>
 </item>
 <item>
@@ -26,13 +26,11 @@ Galaxy formation models within cosmological hydrodynamical simulations contain n
 <content:encoded><![CDATA[
 <div> microwave, hard X-ray, flux peaks, Fokker–Planck, energetic electrons
 总结:
-这篇文章讨论了SOL2023-05-09T03:54M6.5的耀斑事件，通过微波和硬X射线仪器记录到了六个流量峰值。研究发现，微波源起源于耀斑环的顶部，并随着频率变化呈现出空间分散的趋势。观测到的微波光谱表明，耀斑事件的电子加速区域较为集中，这对电子加速和耀斑间歇性重连接过程提供了新的约束。 <br><br> <div>
+这篇文章讨论了SOL2023-05-09T03:54M6.5的耀斑事件，通过微波和硬X射线仪器记录到了六个流量峰值。研究发现，微波源起源于耀斑环的顶部，并随着频率变化呈现出空间分散的趋势。观测到的微波光谱表明，耀斑事件的电子加速区域较为集中，这对电子加速和耀斑间歇性重连接过程提供了新的约束。 <br /><br /> <div>
 The origin of multiple peaks in light curves of various wavelengths remains illusive during flares. Here we discuss the flare of SOL2023-05-09T03:54M6.5 with six flux peaks as recorded by a tandem of new microwave and hard X-ray (HXR) instruments. According to its microwave spectra, the flare represents a high-turnover-frequency (>15 GHz) event. The rather-complete microwave and HXR spectral coverage provides a rare opportunity to uncover the origin of such an event together with simultaneous EUV images. We concluded that (1) the microwave sources originates around the top section of the flaring loops with a trend of source spatial dispersion with frequency; (2) the visible movement of the microwave source from peak to peak originates from the process of new flaring loops appearing sequentially along the magnetic neutral line; (3) the optically thin microwave spectra are hard with the indices (αtn) varying from ∼−1.2 to −0.4, and the turnover frequency always exceeds 15 GHz; (4) higher turnover/peak frequency corresponds to stronger peak intensity and harder optically thin spectra. Using the Fokker–Planck and GX Simulator codes we obtained a good fit to the observed microwave spectra and spatial distribution of the sources at all peaks, if assuming the radiating energetic electrons have the same spatial distribution and single-power-law spectra but with the number density varying in a range of ∼30%. We conclude that the particle acceleration in this flare happens in a compact region nearing the loop-top. These results provide new constraints on the acceleration of energetic electrons and the underlying flare intermittent reconnection process.
 ]]></content:encoded>
-
 <pubDate>2024-06-03T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>What Is the Nature of Little Red Dots and what Is Not, MIRI SMILES Edition</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad38bb</link>
@@ -11153,24 +11151,6 @@ We study the pulsar energy-dependent γ-ray light curves and spectra from curvat
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2065</guid>
 <content:encoded><![CDATA[
 By measuring photoelectron tracks, the gas pixel detectors of the Imaging X-ray Polarimetry Explorer satellite provide estimates of the photon detection location and its electric vector position angle (EVPA). However, imperfections in reconstructing event positions blur the image, and EVPA-position correlations result in artificial polarized halos around bright sources. We introduce a new model describing this “polarization leakage” and use it to recover the on-orbit telescope point-spread functions, useful for faint-source detection and image reconstruction. These point-spread functions are more accurate than previous approximations or ground-calibrated products (Δχ2 ≈ 3 × 104 and 4 × 104 respectively for a bright 106-count source). We also define an algorithm for polarization leakage correction substantially more accurate than existing prescriptions (Δχ2 ≈ 1 × 103). These corrections depend on the reconstruction method, and we supply prescriptions for the mission-standard “Moments” methods as well as for “Neural Net” event reconstruction. Finally, we present a method to isolate leakage contributions to polarization observations of extended sources and show that an accurate PSF allows the extraction of sub-PSF-scale polarization patterns.
-]]></content:encoded>
-<pubDate>2024-02-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Simulating Compressive Stream Interaction Regions during Parker Solar Probe’s First Perihelion Using Stream-aligned Magnetohydrodynamics</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad21fd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad21fd</guid>
-<content:encoded><![CDATA[
-We used the stream-aligned magnetohydrodynamics (SA-MHD) model to simulate Carrington rotation 2210, which contains Parker Solar Probe’s (PSP) first perihelion at 36.5 R⊙ on 2018 November 6, to provide context to the in situ PSP observations by FIELDS and SWEAP. The SA-MHD model aligns the magnetic field with the velocity vector at each point, thereby allowing for clear connectivity between the spacecraft and the source regions on the Sun, without unphysical magnetic field structures. During this Carrington rotation, two stream interaction regions (SIRs) form, due to the deep solar minimum. We include the energy partitioning of the parallel and perpendicular ions and the isotropic electrons to investigate the temperature anisotropy through the compression regions to better understand the wave energy amplification and proton thermal energy partitioning in a global context. Overall, we found good agreement in all in situ plasma parameters between the SA-MHD results and the observations at PSP, STEREO-A, and Earth, including at PSP’s perihelion and through the compression region of the SIRs. In the typical solar wind, the parallel proton temperature is preferentially heated, except in the SIR, where there is an enhancement in the perpendicular proton temperature. This is further showcased in the ion cyclotron relaxation time, which shows a distinct decrease through the SIR compression regions. This work demonstrates the success of the Alfvén wave turbulence theory for predicting interplanetary magnetic turbulence levels, while self-consistently reproducing solar wind speeds, densities, and overall temperatures, including at small heliocentric distances and through SIR compression regions.
-]]></content:encoded>
-<pubDate>2024-02-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Reconnection along a Separator in Shock Turbulence</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2204</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2204</guid>
-<content:encoded><![CDATA[
-Numerous structures conducive to magnetic reconnection are frequently observed in the turbulent regions at quasi-parallel shocks. In this work, we use a particle-in-cell simulation to study 3D magnetic reconnection in shock turbulence. We identify and characterize magnetic null points, and focus on reconnection along the separator between them. We identify a reconnection region with strong parallel current, a finite parallel potential, and counterrotating electron flows. Electrons are shown to be accelerated by the parallel electric field before being scattered at the null.
 ]]></content:encoded>
 <pubDate>2024-02-20T00:00:00Z</pubDate>
 </item>
