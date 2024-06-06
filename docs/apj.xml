@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A Simple but Powerful Method to Reduce Background Noise in Celestial Gamma-Ray Images</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a4</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 关键词：背景噪音、伽玛射线天文数据、去噪算法、局部密度取样、点源检测
 
-总结：<br><br>本研究介绍了一种针对伽玛射线天文数据的新型去噪算法，利用局部密度取样技术。该算法优先放大局部密度高的区域，减弱低密度区域的影响。这种选择性增强显著增强了聚类算法在定位点源方面的性能，有效地减少了被误认为真实源的高密度噪音的干扰。我们已经在费米大面积望远镜数据上实施了该算法，结果显示聚类算法在丢弃虚假源方面取得了显著进展。 <div>
+总结：<br /><br />本研究介绍了一种针对伽玛射线天文数据的新型去噪算法，利用局部密度取样技术。该算法优先放大局部密度高的区域，减弱低密度区域的影响。这种选择性增强显著增强了聚类算法在定位点源方面的性能，有效地减少了被误认为真实源的高密度噪音的干扰。我们已经在费米大面积望远镜数据上实施了该算法，结果显示聚类算法在丢弃虚假源方面取得了显著进展。 <div>
 Reducing background noise is essential for clear data analysis and signal detection. In this study, we introduce a novel denoising algorithm tailored for gamma-ray astronomical data, utilizing local density sampling techniques. The proposed algorithm preferentially amplifies regions of high local density, which are indicative of potential sources, while diminishing the influence of low-density areas. This selective enhancement significantly bolsters the performance of clustering algorithms in pinpointing point sources, effectively minimizing the interference of high-density noise that could be mistaken for genuine sources. We have implemented this algorithm on Fermi Large Area Telescope data, and our results showcase a marked advancement in the clustering algorithm's capacity to discard false sources.
 ]]></content:encoded>
-
 <pubDate>2024-06-05T23:00:00Z</pubDate>
 </item>
 <item>
@@ -28,10 +28,8 @@ Reducing background noise is essential for clear data analysis and signal detect
 通过动力学粒子在电磁场模拟中，我们可以观察到在电子-质子冲击波的上游区域存在着不同的过程。在远上游区域，电流主要由非热质子驱动，产生静电模式并产生超热电子，进入上游无穷远处。接近冲击波（在前趋区），电流密度和束流的动量通量增加，导致电磁流动不稳定性，有助于超热电子的热化。在冲击波脚附近，这些电子暴露在冲击波反射质子中，导致了双流不稳定性。这些发现对于理解磁场的放大以及可能导致超热电子进入扩散冲击加速过程的过程非常重要。 <div>
 Collisionless shocks tend to send charged particles into the upstream, driving electric currents through the plasma. Using kinetic particle-in-cell simulations, we investigate how the background thermal plasma neutralizes such currents in the upstream of quasi-parallel non-relativistic electron–proton shocks. We observe distinct processes in different regions: the far upstream, the shock precursor, and the shock foot. In the far upstream, the current is carried by nonthermal protons, which drive electrostatic modes and produce suprathermal electrons that move toward upstream infinity. Closer to the shock (in the precursor), both the current density and the momentum flux of the beam increase, which leads to electromagnetic streaming instabilities that contribute to the thermalization of suprathermal electrons. At the shock foot, these electrons are exposed to shock-reflected protons, resulting in a two-stream type instability. We analyze these processes and the resulting heating through particle tracking and controlled simulations. In particular, we show that the instability at the shock foot can make the effective thermal speed of electrons comparable to the drift speed of the reflected protons. These findings are important for understanding both the magnetic field amplification and the processes that may lead to the injection of suprathermal electrons into diffusive shock acceleration.
 ]]></content:encoded>
-
 <pubDate>2024-06-04T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Escape Velocity Mass of A1063</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de3</link>
@@ -11188,31 +11186,6 @@ Multi-messenger astrophysics has produced a wealth of data with much more to com
 <div> 高红移星系，JWST观测，光度选择，尺寸-星团质量关系，星系结构演化。<br /><br />总结:
 本研究利用JWST的观测数据，在高红移星系中鉴定了341个星系，并在文献中找到109个星系的光谱红移测量。研究发现，这些高红移星系的UV大小-恒星质量关系与z∼3的星系相似，但整体尺寸要小约0.7 dex。此外，发现这些星系的平均大小演化速率比已有文献中的推测值更缓慢。一部分星系呈现出较小的尺寸，但具有极高的星团形成表面密度，这与当地星系样本中的特征不同。此外，观测表明这些星系中没有超大质量黑洞的持续吸积。最后发现，这些高红移星系的UV和光学尺寸相当。这些结果表明早期星系可能是从内向外构建结构，尚未表现出低红移时期明显的颜色梯度。 <div>
 We present a comprehensive search and analysis of high-redshift galaxies in a suite of nine public JWST extragalactic fields taken in Cycle 1, covering a total effective search area of . Through conservative (8σ) photometric selection, we identify 341 galaxies at 5 < z < 14, with 109 having spectroscopic redshift measurements from the literature, including recent JWST NIRSpec observations. Our regression analysis reveals that the rest-frame UV size–stellar mass relation follows , similar to that of star-forming galaxies at z ∼ 3, but scaled down in size by ∼0.7 dex. We find a much slower rate for the average size evolution over the redshift range, Reff ∝ (1 + z)−0.4±0.2, than that derived in the literature. A fraction (∼13%) of our sample galaxies are marginally resolved even in the NIRCam imaging (≲100 pc), located at ≳1.5σ below the derived size–mass slope. These compact sources exhibit a high star formation surface density ΣSFR > 10 M⊙ yr−1 kpc−2, a range in which only <0.01% of the local star-forming galaxy sample is found. For those with available NIRSpec data, no evidence of ongoing supermassive black hole accretion is observed. A potential explanation for the observed high [O iii]-to-Hβ ratios could be high shock velocities, likely originating within intense star-forming regions characterized by high ΣSFR. Lastly, we find that the rest-frame UV and optical sizes of our sample are comparable. Our results are consistent with these early galaxies building up their structures inside out and being yet to exhibit the strong color gradient seen at lower redshift.
-]]></content:encoded>
-<pubDate>2024-02-21T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Extreme Variability Quasars in Their Various States. II. Spectral Variation Revealed with Multiepoch Spectra</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad17cb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad17cb</guid>
-<content:encoded><![CDATA[
-<div> EVQs, spectral fitting, multiepoch SDSS spectra, Baldwin effect, changing-look quasars
-
-EVQs是极端变异类星系核，研究了它们的光谱特性，发现了“亮时更蓝”的趋势，表明EVQs的光谱变化与普通类星体和活动星系核相一致。此外，在EVQs的Mg ii和C iv谱线中检测到了明显的内在Baldwin效应（即在各个活跃星系核中，在较高的连续光流下，线等效宽度较小）。然而，在宽Hβ线上并未发现系统的内在Baldwin效应，可能是由于较长波长处强烈的宿主污染。此外，通过比较EVQs的iBeff斜率与文献中的变样类星体，发现变样类星体很可能是EVQs的一个偏倚子群，而不是一个截然不同的星系核种群。最后，发现Hβ、Mg ii和C iv的宽线呼吸没有显著的变化，表明类星体的宽线呼吸可能会在较长时间尺度（约3000天）内消失。<br /><br />总结:EVQs的光谱显示出“亮时更蓝”的趋势，同时在Mg ii和C iv谱线中检测到了内在的Baldwin效应。变样类星体很可能是EVQs的一个偏斜子群。此外，在较长时间尺度内，类星体的宽线呼吸可能会消失。 <div>
-We previously built a sample of 14,012 extremely variable quasars (EVQs) based on Sloan Digital Sky Survey (SDSS) and Pan-STARRS1 photometric observations. In this work we present the spectral fitting to their SDSS spectra and study the spectral variation in 1259 EVQs with multiepoch SDSS spectra (after prudently excluding spectra with potentially unreliable spectroscopic photometry). We find a clear “bluer-when-brighter” trend in EVQs, consistent with previous findings of normal quasars and active galactic nuclei. We detect significant intrinsic Baldwin effect (iBeff, i.e., smaller line equivalent width at higher continuum flux in individual active galactic nuclei) in the broad Mg ii and C iv lines of EVQs. Meanwhile, no systematical iBeff is found for the broad Hβ line, which could be attributed to strong host contamination at longer wavelengths. Remarkably, by comparing the iBeff slope of EVQs with archived changing-look quasars, we show that the changing-look quasars identified in the literature are most likely a biased (due to its definition) subpopulation of EVQs, rather than a distinct population of quasars. We also found no significant broad line breathing of Hβ, Mg ii, or C iv, suggesting the broad line breathing in quasars may disappear at longer timescales (∼3000 days).
-]]></content:encoded>
-<pubDate>2024-02-21T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Discovery of Kiloparsec-scale Semirelativistic Fe Kα Complex Emission in NGC 5728</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad18b3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad18b3</guid>
-<content:encoded><![CDATA[
-<div> NGC 5728, Chandra ACIS-S, extended narrow-line region, Fe Kα complex, high-velocity outflow
-<br /><br />
-NGC 5728是一个Compton-thick活动星系核的主星系，研究使用Chandra ACIS-S成像光谱观测到了其扩展的硬X射线发射。研究发现，Fe Kα复合物中红移和蓝移的特征在扩展窄线区二叶的区域内被解析为光谱和空间特征。经过对一系列物理上一致的模型拟合，证实了红翼的重要性。对比Chandra ACIS-S点扩散函数，发现红蓝翼是沿着光学双锥轴向外延伸的。如果翼发射仅由红移和蓝移的高速度中性Fe Kα引起，那么暗示的视向速度约为+/-0.1c，并且它们的流量是相等的。对称的高速流可能是一个合理的解释，这种流的去投影速度约为光的100倍，可能主导动力反馈功率。 
-<br />总结: NGC 5728是一个Compton-thick活动星系核的主星系，研究使用Chandra ACIS-S观测到了其扩展的硬X射线发射。研究发现Fe Kα复合物中红移和蓝移的特征在扩展窄线区二叶的区域内被解析为光谱和空间特征。红翼的重要性得到了证实，而红蓝翼是沿着光学双锥轴向外延伸的。高速流可能是一个合理的解释，这种流的去投影速度约为光的100倍，可能主导动力反馈功率。 <div>
-We present Chandra ACIS-S imaging spectroscopy results of the extended (1.″5–8″, 300–1600 pc) hard X-ray emission of NGC 5728, the host galaxy of a Compton-thick active galactic nucleus. We find spectrally and spatially resolved features in the Fe Kα complex (5.0–7.5 keV) redward and blueward of the neutral Fe line at 6.4 keV in the extended narrow-line region bicone. A simple phenomenological fit of a power law plus Gaussians gives a significance of 5.4σ and 3.7σ for the red and blue wings, respectively. Fits to a suite of physically consistent models confirm a significance of ≥3σ for the red wing. The significance of the blue wing may be diminished by the presence of rest-frame highly ionized Fe xxv and Fe xxvi lines (1.4σ–3.7σ range). A detailed investigation of the Chandra ACIS-S point-spread function and comparison with the observed morphology demonstrates that these red and blue wings are radially extended (∼5″, ∼1 kpc) along the optical bicone axis. If the wing emission is due solely to redshifted and blueshifted high-velocity neutral Fe Kα, then the implied line-of-sight velocities are +/− ∼0.1c, and their fluxes are consistent with being equal. A symmetric high-velocity outflow is then a viable explanation. This outflow has deprojected velocities ∼100 times larger than the outflows detected in optical spectroscopic studies, potentially dominating the kinetic feedback power.
 ]]></content:encoded>
 <pubDate>2024-02-21T00:00:00Z</pubDate>
 </item>
