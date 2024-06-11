@@ -4,6 +4,204 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Atmospheric Limitations for High-frequency Ground-based Very Long Baseline Interferometry</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3961</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3961</guid>
+<content:encoded><![CDATA[
+<div> VLBI, highest-resolution images, high-frequency observations, ngehtsim, EHT
+
+在这篇论文中，作者使用一个名为ngehtsim的新工具来探索高频VLBI观测的限制。他们使用历史大气模型来模拟观测条件，并通过启发式能见度检测标准来模拟单频和多频VLBI校准策略。作者展示了ngehtsim的预测的准确性，并通过与EHT现有的230 GHz数据的对比来验证其方法。在345 GHz的观测中，预测到EHT的性能会大大降低，M87*的观测可能达不到成像的水平，预计检测率约为20%。通过扩大带宽和/或延长积分时间来提高阵列灵敏度，例如，下一代EHT设想的同时多频升级，可以改善345 GHz的观测前景，并获得与230 GHz相媲美的检测水平。在460 GHz的大气窗口中进行的M87*和Sgr A*观测可能会在长基线上定期获得多次检测，但在690和875 GHz进行的类似观测几乎完全没有检测到。 <br><br>总结: 高频VLBI观测的限制是由于大气噪声增加导致的灵敏度下降，模拟结果表明，在345 GHz的观测中，EHT的性能可能大大降低，但通过提高阵列灵敏度和观测技术升级，未来仍有望提高观测前景。 <div>
+Very long baseline interferometry (VLBI) provides the highest-resolution images in astronomy. The sharpest resolution is nominally achieved at the highest frequencies, but as the observing frequency increases, so too does the atmospheric contribution to the system noise, degrading the sensitivity of the array and hampering detection. In this paper, we explore the limits of high-frequency VLBI observations using ngehtsim, a new tool for generating realistic synthetic data. ngehtsim uses detailed historical atmospheric models to simulate observing conditions, and it employs heuristic visibility detection criteria that emulate single- and multifrequency VLBI calibration strategies. We demonstrate the fidelity of ngehtsim’s predictions using a comparison with existing 230 GHz data taken by the Event Horizon Telescope (EHT), and we simulate the expected performance of EHT observations at 345 GHz. Though the EHT achieves a nearly 100% detection rate at 230 GHz, our simulations indicate that it should expect substantially poorer performance at 345 GHz; in particular, observations of M87* at 345 GHz are predicted to achieve detection rates of ≲20% that may preclude imaging. Increasing the array sensitivity through wider bandwidths and/or longer integration times—as enabled through, e.g., the simultaneous multifrequency upgrades envisioned for the next-generation EHT—can improve the 345 GHz prospects and yield detection levels that are comparable to those at 230 GHz. M87* and Sgr A* observations carried out in the atmospheric window around 460 GHz could expect to regularly achieve multiple detections on long baselines, but analogous observations at 690 and 875 GHz consistently obtain almost no detections at all.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Rotational Evolution of Classical T Tauri Stars: Models and Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3a6b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3a6b</guid>
+<content:encoded><![CDATA[
+<div> CTTS, stellar rotation, magnetospheric ejections, stellar wind, TESS data
+<br>
+该研究开发了一套用于低质量和太阳型经典T Tauri恒星（CTTS; 0.3M⊙ < M* < 1.2M⊙）的恒星自旋模型。这些模型结合了恒星-盘相互作用和磁层喷射，以研究恒星自旋速率随恒星质量M*、磁场(B*)和恒星风( )的演变。该研究收集和确定了208颗CTTS的恒星参数，如投影自转速度、质量吸积率、恒星质量M*、年龄，并利用Transiting Exoplanet Survey Satellite(TESS)数据估计了其自转周期。我们还利用[O i] λ 6300谱线估计了样本的代表性质量流失率。研究结果证实了在吸积驱动的恒星风模型中CTTS的自转速率与观测一致。此外，还利用近似贝叶斯计算技术探索了模型参数与CTTS观测特性之间的联系。研究发现，随着年龄的演变,可能会受到B*强度和吸积流在磁风中喷射的分数的变化的调节。我们的样本中最年轻的恒星（∼1 Myr）显示了一个中值分支比和中值B*∼2000 G，而年龄≳3 Myr的恒星的值分别约为∼0.01和1000 G。 
+<br><br>总结: 该研究开发了一套用于低质量和太阳型经典T Tauri恒星的自旋模型，探讨了恒星自转速率与恒星质量、磁场和恒星风的演变关系。研究确认了模型与观测数据的一致性，并发现恒星自转速率的演变可能受到磁场强度和吸积流喷射磁风的影响。最年轻的恒星显示出较大的分支比和更强的磁场，而年龄大的恒星则相反。 <div>
+We developed a grid of stellar rotation models for low-mass and solar-type classical T Tauri stars (CTTS; 0.3M⊙ < M* < 1.2M⊙). These models incorporate the star–disk interaction and magnetospheric ejections to investigate the evolution of the stellar rotation rate as a function of the mass of the star M*, the magnetic field (B*), and stellar wind ( ). We compiled and determined stellar parameters for 208 CTTS, such as projected rotational velocity , mass accretion rate , stellar mass M*, ages, and estimated rotational periods using Transiting Exoplanet Survey Satellite (TESS) data. We also estimated a representative value of the mass-loss rate for our sample using the [O i] λ 6300 spectral line. Our results confirm that measurements in CTTS agree with the rotation rates provided by our spin models in the accretion-powered stellar winds picture. In addition, we used the approximate Bayesian computation technique to explore the connection between the model parameters and the observational properties of CTTS. We find that the evolution of with age might be regulated by variations in (1) the intensity of B* and (2) the fraction of the accretion flow ejected in magnetic winds, removing angular momentum from these systems. The youngest stars in our sample (∼1 Myr) show a median branching ratio and median B* ∼ 2000 G, in contrast to ∼0.01 and 1000 G, respectively, for stars with ages ≳3 Myr.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Chandra X-Ray Observations of PSR J1849-0001, Its Pulsar Wind Nebula, and the TeV Source HESS J1849-000</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e6d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e6d</guid>
+<content:encoded><![CDATA[
+<div> 关键词: PSR J1849-0001, Chandra X-ray Observatory, pulsar wind nebula, TeV source, MeV pulsars
+总结: 
+PSR J1849-0001和其脉冲星风星云(PSR J1849-000)与TeV源HESS J1849-000重合。研究通过分析新旧CXO数据，解析了脉冲星和PWN，探索了PWN的形态并测量了不同区域的光谱。脉冲星和内部PWN的光谱均呈硬态。PWN具有相对较低的亮度，缺乏γ射线脉冲，观测结果表明脉冲星的自旋和磁偶极轴之间的角度较小，与一些MeV脉冲星具有相似特性。尽管联合X射线和TeV能谱的单一区模型可以描述，但得到的磁场值不切实际，更合理的场景是存在一个遗迹星风星云，不再通过同步辐射发出X射线，但仍通过逆Compton散射在TeV波段辐射。此外，还偶然检测到一个非常明亮的广泛双星X射线辐射。 <br><br> <div>
+We obtained a 108 ks Chandra X-ray Observatory (CXO) observation of PSR J1849-0001 and its pulsar wind nebula (PWN) coincident with the TeV source HESS J1849-000. By analyzing the new and old (archival) CXO data, we resolved the pulsar from the PWN, explored the PWN morphology on arcsecond and arcminute scales, and measured the spectra of different regions of the PWN. Both the pulsar and the compact inner PWN spectra are hard with power-law photon indices of 1.20 ± 0.07 and 1.49 ± 0.20, respectively. The jet-dominated PWN has a relatively low luminosity, lack of γ-ray pulsations, relatively hard and nonthermal spectrum of the pulsar, and sine-like pulse profile, which indicates a relatively small angle between the pulsar’s spin and magnetic dipole axis. In this respect, it shares similar properties with a few other so-called MeV pulsars. Although the joint X-ray and TeV spectral energy distribution can be roughly described by a single-zone model, the obtained magnetic field value is unrealistically low. A more realistic scenario is the presence of a relic PWN, no longer emitting synchrotron X-rays but still radiating in TeV via inverse-Compton upscattering. We also serendipitously detected surprisingly bright X-ray emission from a very wide binary whose components should not be interacting.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Diversity of Early Kilonova with the Realistic Opacities of Highly Ionized Heavy Elements</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4029</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4029</guid>
+<content:encoded><![CDATA[
+<div> 关键词: kilonova, neutron star merger, opacities, lanthanides, bolometric luminosity
+总结:<br><br>本研究通过推导离子化至V-XI态的La至Ra元素（Z = 57-88）的原子不透明度，研究了中子星合并早期（t < 1天）的kilonova现象。结果显示，具有开放f-壳层的元素的高温下光学厚度异常高，而相同温度和波长下具有开放d-、p-和s-壳层的元素的光学厚度分别为0.1和0.01 cm2 g−1。研究发现，富含镧系元素的喷射物的全波段光度显示出明显的特征，并且比不含镧系元素的喷射物要暗淡。早期光度受薄外层存在的影响而受到抑制。研究还指出，能够复制有或无镧系元素的全波段光曲线的灰色不透明度分别为1-10和0.8 cm2 g−1。研究结果表明，这样的kilonova现象是未来紫外卫星和巡天项目的理想观测目标。 <div>
+We investigate early (t < 1 day) kilonova from a neutron star merger by deriving atomic opacities for all the elements from La to Ra (Z = 57–88) ionized to the states V–XI. The opacities at high temperatures for the elements with open f-shells (e.g., lanthanides) are exceptionally high, reaching at λ ≤ 1000 Å at T ∼ 70,000 K, whereas the opacities at the same temperature and wavelengths for the elements with open d-, p-, and s-shells reach , 0.1, and 0.01 cm2 g−1, respectively. Using the new opacity data set, we derive early kilonovae for various compositions and density structures expected for neutron star merger ejecta. The bolometric luminosity of the lanthanide-rich ejecta shows distinct signatures and is fainter than that of the lanthanide-free ejecta. Early luminosity is suppressed by the presence of a thin outer layer, agreeing with the results of Kasen et al. and Banerjee et al. The early brightness in the Swift UVOT filters and in the optical g, r, i, and z filters for a source at 100 Mpc are about ∼22–19.5 and ∼21–20 mag, respectively, at t ∼ 0.1 day. Such kilonovae are ideal targets for the upcoming UV satellites, such as ULTRASAT, UVEX, and DORADO, and the upcoming surveys, e.g., the Vera Rubin Observatory. We suggest that the gray opacities that reproduce the bolometric light curves with and without lanthanides are ∼1–10 and ∼0.8 cm2 g−1.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Delivery of Dust Particles from Protoplanetary Disks onto Circumplanetary Disks of Giant Planets</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4035</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4035</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 卫星形成, 环行行星盘, 气体巨行星, 固体颗粒, 彗星核<br>
+总结: 该研究通过对围绕行星的原行星盘中固体颗粒轨道积分的模拟，研究了这些颗粒被加速到环行行星盘的过程。研究发现了行星质量对颗粒俘获位置和速率的影响，还对颗粒在环行行星盘中的保留程度进行了研究。结果表明，对于较大质量的行星，颗粒可以与垂直加速的气体结合在一起，这有助于进一步理解气体巨行星的卫星形成过程。 <br><br>总结: <div>
+The principal regular satellites of gas giants are thought to be formed by the accumulation of solid materials in circumplanetary disks (CPDs). While there has been significant progress in the study of satellite formation in CPDs, details of the supply of satellite building blocks to CPDs remain unclear. We perform the orbital integration of solid particles in the protoplanetary disk (PPD) approaching a planet, considering the gas drag force by using the results of three-dimensional hydrodynamical simulations of a local region around the planet. We investigate the planetary mass dependence of the capture positions and the capture rates of dust particles accreting onto the CPD. We also examine the degree of dust retention in the accreting gas onto the CPD, which is important for determining the ratio of the dust-to-gas inflow rates, a key parameter in satellite formation. We find that the degree of dust retention increases with increasing planetary mass for a given dust scale height in the PPD. In the case of a small planet (Mp = 0.2MJup), most particles with insufficient initial altitudes in the PPD are isolated from the gas in the accreting region. On the other hand, in the case of a massive planet (Mp = 1MJup), dust particles can be coupled to the vertically accreting gas, even when the dust scale height is about 10%–30% of the gas scale height. The results of this study can be used for models of dust delivery and satellite formation in the CPDs of gas giants of various masses, including exoplanets.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Self-consistent Treatment of the Line-driving Radiation Force for Active Galactic Nuclei Outflows: New Prescriptions for Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad409f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad409f</guid>
+<content:encoded><![CDATA[
+<div> 光子驱动力、辐射力、原子光谱线、活跃星系核、辐射力计算
+总结:<br><br>这篇文章讨论了对于理解活跃星系核等系统中的外流和吸积盘至关重要的辐射力的定量描述。研究提供了计算AGN环境中无因次谱线力乘数的范例，并明确计算了在吸积盘上方提议的风向区域的光电离平衡，计算了气体的谱线驱动力的强度，并重新确定并形式化了常用的电离参量ξ在最终确定谱线驱动力中的作用。研究表明，虽然电离参量很有用，但它并不能完全描述外流材料的整体电离状态。文章提出了一种使用X射线光谱指数ΓX和电离参量计算辐射线驱动力强度的更新方法。 <div>
+Flows driven by photons have been studied for almost a century, and a quantitative description of the radiative forces on atoms and ions is important for understanding a wide variety of systems with outflows and accretion disks, such as active galactic nuclei (AGN). Quantifying the associated forces is crucial to determining how these outflows enable interactive mechanisms within these environments, such as AGN feedback. The total number of spectral lines in any given ion of the outflow material must be tabulated in order to give a complete characterization of this force. Here, we provide calculations of the dimensionless line force multiplier for AGN environments. For a wide array of representative AGN sources, we explicitly calculate the photoionization balance at the proposed wind-launching region above the accretion disk, compute the strength of the line-driving force on the gas, and revisit and formalize the role of the commonly used ionization parameter ξ in ultimately determining the line-driving force. We perform these computations and analyses for a variety of AGN central source properties, such as black hole mass, initial wind velocity, and number density. We find that, while useful, the ionization parameter provides an incomplete description of the overall ionization state of the outflow material. We use these findings to provide an updated method for calculating the strength of the radiative line-driving using both the X-ray spectral index ΓX and the ionization parameter.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Polarization Properties of 128 Nonrepeating Fast Radio Bursts from the First CHIME/FRB Baseband Catalog</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad40aa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad40aa</guid>
+<content:encoded><![CDATA[
+<div> CHIME/FRB, polarization, Faraday rotation measure, position angle, redshift<br>
+FRB观测研究了128个非重复快速射电暴的偏振特性，发现89个具有线偏振检测，29个无线偏振，10个受到仪器偏振的影响；对于线偏振的FRB，发现RM在0.5–1160 rad m−2范围内，大部分与银河系类似；FRB的偏振位置角分为四种类型；未发现整体频率相关消偏振的证据，因此线偏振分布差异可能源于FRB的发射机制；提出了一种新方法用于判断偏振FRB的红移下限。 <br><br>总结: <div>
+We present a 400–800 MHz polarimetric analysis of 128 nonrepeating fast radio bursts (FRBs) from the first CHIME/FRB baseband catalog, increasing the total number of FRB sources with polarization properties by a factor of ∼3. A total of 89 FRBs have >6σ linearly polarized detections, 29 FRBs fall below this significance threshold and are deemed linearly unpolarized, and for 10 FRBs, the polarization data are contaminated by instrumental polarization. For the 89 polarized FRBs, we find Faraday rotation measure (RM) amplitudes, after subtracting approximate Milky Way contributions, in the range 0.5–1160 rad m−2 with a median of 53.8 rad m−2. Most nonrepeating FRBs in our sample have RMs consistent with Milky Way–like host galaxies, and their linear polarization fractions range from ≤10% to 100% with a median of 63%. We see marginal evidence that nonrepeating FRBs have more constraining lower limits than repeating FRBs for the host electron-density-weighted line of sight magnetic field strength. We classify the nonrepeating FRB polarization position angle (PA) profiles into four archetypes: (i) single component with constant PA (57% of the sample), (ii) single component with variable PA (10%), (iii) multiple components with a single-constant PA (22%), and (iv) multiple components with different or variable PAs (11%). We see no evidence for population-wide frequency-dependent depolarization, and, therefore, the spread in the distribution of fractional linear polarization is likely intrinsic to the FRB emission mechanism. Finally, we present a novel method to derive redshift lower limits for polarized FRBs without host galaxy identification and test this method on 20 FRBs with independently measured redshifts.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Investigation of [KSF2015] 1381-19L, a WC9-type Star in the High-extinction Galactic Region</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4131</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4131</guid>
+<content:encoded><![CDATA[
+<div> Wolf–Rayet star, multiwavelength study, CMFGEN, Galactic WC9-dusty, interstellar dust<br>
+<br>
+这篇文章研究了位于银河系中太阳金属丰度地区的Wolf–Rayet星[KSF2015] 1381-19L。作者使用CMFGEN对光学和近红外波段观测到的光谱发射线进行拟合，详细表征了恒星大气。最佳拟合的光谱模型表明，这颗恒星是一个高光度（105.89L⊙）、半径较大（15 R⊙）的恒星，其有效温度、风速末端速度和化学组成与银河系WC9-dusty（WC9d）型恒星相似。大气电离结构显示不同元素的共存电离态，同时影响着光学厚度和热电子平衡。光谱能量数据拟合表明存在高的星际光学消光（AV = 8.87），而红外消光则相对较低。作者未在近红外波长检测到由尘埃引起的过量辐射。通过与GENEVA单星演化模型（Z = 0.014）的比较，作者确定了最可能的祖先星（一个质量为67 M⊙的自转星和一个质量为90 M⊙的不自转星）。<br><br>总结: 这项研究通过多波段观测对Wolf–Rayet星进行了详细研究，揭示了其大气特性和星际尘埃消光。研究结果有助于对恒星演化和宇宙化学的理解。 <div>
+We report on a multiwavelength study of the Wolf–Rayet star [KSF2015] 1381-19L, which is located in the solar metallicity region (Z = 0.014) of the Milky Way, strongly obscured by interstellar dust. We perform a detailed characterization of the stellar atmosphere by fitting the spectral emission lines observed in the optical and near-infrared (NIR) bands, using CMFGEN. The best-fitted spectroscopic model indicates a highly luminous (105.89L⊙) star with a large radius (15 R⊙) and effective temperature, wind terminal velocity, and chemical composition similar to those of Galactic WC9-dusty (WC9d)-type stars. The atmospheric ionization structure shows coexisting ionization states of different elements, simultaneously affecting the opacity and thermal electron balance. Fitting of the spectral energy data reveals high interstellar optical extinction (AV = 8.87), while the IR extinction is found to be comparatively lower ( ). We do not detect any excess emission at NIR wavelengths due to dust. Upon comparison of our results with the GENEVA single-star evolutionary models (Z = 0.014), we identify the best possible progenitors (a rotating star of 67 M⊙ and a nonrotating star of 90 M⊙).
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Effects of an Explicit Time-dependent Radiation Pressure Force on Trajectories of Primary Neutral Hydrogen in the Heliosphere</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4155</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4155</guid>
+<content:encoded><![CDATA[
+<div> 太阳辐射压力，中性氢原子，时间相关辐射压力力，Maxwell分布，探测器探测。
+
+总结:
+1. 该研究使用2D代码追踪从距离太阳1天文单位处发射的中性氢原子在典型太阳周期内的路径，并考虑了太阳辐射压力和光电离速率函数随时间的变化。
+2. 通过计算在目标点的相空间数据，分析了时间相关力环境对直接和间接Maxwellian成分的影响。
+3. 分析中忽略了力对径向粒子速度的依赖，侧重于太阳紫外强度随太阳周期的变化对粒子的影响。
+4. 观察到由于这种力环境导致的伪束缚轨道，评估了它们对探测器探测的潜在影响。
+5. 研究结论对了解太阳辐射压力对中性氢原子运动和探测器测量的影响具有重要意义。 <div>
+Radiation pressure exerted by solar photon output is salient to the motion of primary neutral hydrogen atoms streaming into the inner heliosphere directly from the local interstellar medium. The action of a time-dependent radiation pressure force, when coupled with the usual gravitational force, changes the characteristic velocities, and therefore energies, of the atoms when they reach regions in which explorer probes are present. A study is presented that uses a 2D code to backtrace neutral hydrogen trajectories from representative target points located 1 au from the Sun. It makes use of both a radiation pressure function and a function for the photoionization rate at 1 au that both oscillate with time based on measurements over a typical solar cycle, as well as a time-independent charge exchange ionization rate at 1 au. Assuming a Maxwellian distribution in the distant upwind direction, phase space data is calculated at the target points, at different moments in time. The dependence of the force on the radial particle velocity has been omitted in the analysis, such that the emphasis is on the effects of the global solar UV intensity variations through the solar cycle. This process allows for the analysis of direct and indirect Maxwellian components through time and space in the time-dependent force environment. Additionally, pseudo-bound orbits caused by energy losses associated with this force environment are observed, and their properties are evaluated with the aim of determining their effects on potential measurements by explorer probes.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring the Properties of Photosphere and Emission Lines for Tidal Disruption Events Based on the Global Solution of Slim Disk and Winds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad434b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad434b</guid>
+<content:encoded><![CDATA[
+<div> TDEs, super-Eddington accretion, slim-disk model, radiation-driven disk wind, Cloudy modeling<br> 
+
+总结:<br>本文探讨了来自潮汐破坏事件形成的包层的演化，通过解决slim-disk模型的全局解。我们的模型能大致再现TDEs的典型温度、亮度和光球大小。通过Cloudy建模，我们发现仅考虑辐射驱动的盘风时，发射线亮度通常远低于典型的观测结果，这是由于包层外部的有限大气层质量所致。我们提出了通过星体碎片围绕过程中的自碰撞所产生的喷流推出盘风光球外部足够的物质。我们计算的光谱能够大致再现几种典型发射线（如Hα，Hβ和He ii）的主要性质，这在TDE候选AT2018dyb上得到了很好的应用。 <div>
+The theoretical debris supply rate from a tidal disruption of stars can exceed about 100 times of Eddington accretion rate for a 106−7M⊙ supermassive black hole. It is believed that a strong wind will be launched from the disk surface due to the radiation pressure in the case of super-Eddington accretion, which may be one of the mechanisms for the formation of the envelope, as observed in tidal disruption events (TDEs). In this work, we explore the evolution of the envelope that formed from the optical thick winds by solving the global solution of the slim-disk model. Our model can roughly reproduce the typical temperature, luminosity, and size of the photosphere for TDEs. Based on Cloudy modeling, we find that, if only considering the radiation-driven disk wind, the emission line luminosities are normally much lower than the typical observational results, due to the limited atmosphere mass outside the envelope. We propose that the ejection of the outflow from the self-collision of the stellar debris during the circularization may provide enough matter outside the disk-wind photosphere. Our calculated spectra can roughly reproduce the main properties of several typical emission lines (e.g., Hα, Hβ, and He ii), which was applied well to a TDE candidate AT2018dyb.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>An Expanded Set of Los Alamos OPLIB Tables in MESA: Type-1 Rosseland-mean Opacities and Solar Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4355</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4355</guid>
+<content:encoded><![CDATA[
+
+We present a set of 1194 Type-1 Rosseland-mean opacity tables for four different metallicity mixtures. These new Los Alamos OPLIB atomic radiative opacity tables are an order of magnitude larger in number than any previous opacity table release, and span regimes where previous opacity tables have not existed. For example, the new set of opacity tables expands the metallicity range to Z = 10−6 to Z = 0.2, which allows improved accuracy of opacities at low and high metallicity, increases the table density in the metallicity range Z = 10−4 to Z = 0.1 to enhance the accuracy of opacities drawn from interpolations across neighboring metallicities, and adds entries for hydrogen mass fractions between X = 0 and X = 0.1 including X = 10−2, 10−3, 10−4, 10−5, 10−6 that can improve stellar models of hydrogen deficient stars. We implement these new OPLIB radiative opacity tables in MESA and find that calibrated solar models agree broadly with previously published helioseismic and solar neutrino results. We find differences between using the new 1194 OPLIB opacity tables and the 126 OPAL opacity tables range from ≈20% to 80% across individual chemical mixtures, up to ≈8% and ≈15% at the bottom and top of the solar convection zone respectively, and ≈7% in the solar core. We also find differences between standard solar models using different opacity table sources that are on par with altering the initial abundance mixture. We conclude that this new, open-access set of OPLIB opacity tables does not solve the solar modeling problem, and suggest the investigation of physical mechanisms other than the atomic radiative opacity.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Spectropolarimetric Radio Imaging of Faint Gyrosynchrotron Emission from a CME: A Possible Indication of the Insufficiency of Homogeneous Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e9</guid>
+<content:encoded><![CDATA[
+
+The geo-effectiveness of coronal mass ejections (CMEs) is determined primarily by their magnetic fields. Modeling of gyrosynchrotron (GS) emission is a promising remote sensing technique to measure the CME magnetic field at coronal heights. However, faint GS emission from CME flux ropes is hard to detect in the presence of bright solar emission from the solar corona. With high dynamic-range spectropolarimetric meter wavelength solar images provided by the Murchison Widefield Array, we have detected faint GS emission from a CME out to ∼8.3 R⊙, the largest heliocentric distance reported to date. High-fidelity polarimetric calibration also allowed us to robustly detect circularly polarized emission from GS emission. For the first time in the literature, Stokes V detection has jointly been used with Stokes I spectra to constrain GS models. One expects that the inclusion of polarimetric measurement will provide tighter constraints on the GS model parameters. Instead, we found that homogeneous GS models, which have been used in all prior works, are unable to model both the total intensity and circular polarized emission simultaneously. This strongly suggests the need for using inhomogeneous GS models to robustly estimate the CME magnetic field and plasma parameters.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Equator to Pole Solar Chromospheric Differential Rotation Using Ca-K Features Derived from Kodaikanal Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4992</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4992</guid>
+<content:encoded><![CDATA[
+
+Differential rotation is one of the basic characteristics of the Sun, and it plays an important role in generating the magnetic fields and its activities. We investigated rotation rate using chromospheric features such as plages, enhanced network (EN), active network (AN), and quiet network (QN) separately (for the first time). The digitized Ca-K images from Kodaikanal Observatory for 1907–1996 are used to study rotation over 0°–80° latitudes at an interval of 10°. We find that plages and all types of networks exhibit the differential rotation of the chromosphere. Furthermore, the rotation rate shows a decreasing pattern as one move from the equator to the higher polar latitudes for all the features used in the study. At the equator the rotation rate (rotation period) is obtained to be ∼13.98° day−1 (25.74 days), ∼13.91° day−1 (25.88 days), ∼13.99° day−1 (25.74 days), and ∼14.11° day−1 (25.51 days) for plage, EN, AN, and QN areas, respectively. By analyzing how the area of chromospheric features varies over time, we can effectively map the Sun’s rotation rate at all latitudes, including the polar regions. Interestingly, both plages and small-scale networks exhibit a similar differential rotation rate. This suggests these features likely rooted at the same layer below the visible surface of the Sun. Therefore, the long-term Ca-K data is very useful for studying the solar rotation rate at all latitudes including the polar regions.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Properties of Galactic B[e] Supergiants. X. Refined Orbit and Fundamental Parameters of the HD 327083 Binary System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a63</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a63</guid>
+<content:encoded><![CDATA[
+
+HD 327083 is a binary system that consists of two supergiant components and exhibits the B[e] phenomenon. In this paper, we report the determination of a new set of the system’s fundamental parameters using a combination of photometric and spectroscopic data as well as the Gaia EDR3 distance. We found that the orbital period of the system is 107.68 ± 0.02 days. The spectral line content implies the effective temperatures of ≈7000 K and 25,400 ± 1400 K, while the photometric variations are consistent with the radii of ≈106 R⊙ and ≈10 R⊙ for the cool and hot components, respectively. The absorption lines of the cool component show a radial velocity semiamplitude of 48.3 ± 1.7 km s−1, similar to that of the emission lines that originate around the hot component. The inclination of the system to the line of sight is °. Modeling of the system's evolutionary history suggests that the components have masses of ∼12.5 M⊙ and currently undergo mass transfer between them. This configuration, which takes in heating of the surface of the cool component by the radiation from the hot one, can reproduce the photometric and spectroscopic data and is in agreement with previous infrared observations of the circumbinary disk. The results of this study further confirm the hypothesis that the reason for the presence of the B[e] phenomenon in most objects is a consequence of the evolution of various binary systems.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Investigating the Ultracompact X-Ray Binary Candidate SLX 1735-269 with NICER and NuSTAR</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a78</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a78</guid>
+<content:encoded><![CDATA[
+
+We present two simultaneous NICER and NuSTAR observations of the ultracompact X-ray binary (UCXB) candidate SLX 1735−269 while the source was in two different spectral states. Using various reflection modeling techniques, we find that xillverCO, a model used for fitting X-ray spectra of UCXBs with high carbon and oxygen abundances is an improvement over relxill or relxillNS, which instead contains solar-like chemical abundances. This provides indirect evidence in support of the source being ultracompact. We also use this reflection model to get a preliminary measurement of the inclination of the system, degrees. This is consistent with our timing analysis, where a lack of eclipses indicates an inclination of i < 80°. The timing analysis is otherwise inconclusive, and we cannot confidently measure the orbital period of the system.
+]]></content:encoded>
+
+<pubDate>2024-06-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Relation between the Cool-core Radius and the Host Galaxy Clusters: Thermodynamic Properties and Cluster Mass</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4298</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4298</guid>
+<content:encoded><![CDATA[
+
+We present a detailed study of cool-core systems in a sample of four galaxy clusters (RXCJ1504.1-0248, A3112, A4059, and A478) using archival X-ray data from the Chandra X-ray Observatory. Cool cores are frequently observed at the centers of galaxy clusters and are considered to be formed by radiative cooling of the intracluster medium (ICM). Cool cores are characterized by a significant drop in the ICM temperature toward the cluster center. We extract and analyze X-ray spectra of the ICM to measure the radial profiles of the ICM thermodynamic properties, including temperature, density, pressure, entropy, and radiative cooling time. We define the cool-core radius as the turnover radius in the ICM temperature profile and investigate the relation between the cool-core radius and the properties of the host galaxy clusters. In our sample, we observe that the radiative cooling time of the ICM at the cool-core radius exceeds 10 Gyr, with RXCJ1504.1-0248 exhibiting a radiative cooling time of Gyr at its cool-core radius. These results indicate that not only radiative cooling but also additional mechanisms, such as gas sloshing, may play an important role in determining the size of cool cores. Additionally, we might find that the best-fit relation between the cool-core radius and the cluster mass (M500) is consistent with a linear relation. Our findings may suggest that cool cores are linked to the evolution of their host galaxy clusters.
+]]></content:encoded>
+
+<pubDate>2024-06-09T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Understanding Solar Activity after the Maunder Minimum: Sunspot Records by Rost and Alischer</title>
