@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Devouring the Centaurus A Satellites: Modeling Dwarf Galaxies with Galacticus</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3924</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3924</guid>
 <content:encoded><![CDATA[
 <div> Centaurus A, dwarf galaxies, Galacticus model, star formation physics, host environment
-<br><br>
+<br /><br />
 该研究使用半解析模型Galacticus模拟了Centaurus A附近700kpc范围内的矮星系。通过预测了Centaurus A矮星系的可观测性质，包括累积亮度函数、亮度-金属丰度和亮度-半光半径关系，并提供了速度分散和星团的星族史的预测。研究表明，我们成功地预测了Centaurus A矮星系的星族史，并且揭示了矮星系的星族物理性质以及其对宿主环境的依赖关系。总结: <div>
 For the first time, systematic studies of dwarf galaxies are being conducted throughout the Local Volume, including the dwarf satellites of the nearby giant elliptical galaxy Centaurus A (NGC 5128). Given Centaurus A's mass (roughly 10 times larger than that of the Milky Way), AGN activity, and recent major mergers, investigating the dwarf galaxies of Centaurus A and their star formation physics is imperative. However, simulating the faintest dwarfs around a galaxy of Centaurus A's mass with sufficient resolution in a hydrodynamic simulation is computationally expensive and currently infeasible. In this study, we seek to reproduce the properties of Centaurus A dwarfs using the semianalytic model Galacticus to model dwarfs within a 700 kpc region around Centaurus A, corresponding approximately to its splashback radius. We investigate the effects of host halo mass and environment and predict observable properties of Centaurus A dwarfs using astrophysical prescriptions and parameters previously tuned to match properties of the Milky Way’s satellite galaxies. This approach allows us to approximately replicate cumulative luminosity functions, and luminosity–metallicity and luminosity–half-light-radii relations observed in the Centaurus A satellites. We provide predictions for the velocity dispersions, and star formation histories of Centaurus A dwarfs. The agreement between our predicted star formation histories for Centaurus A dwarfs and those of the Milky Way dwarfs implies the presence of universal processes governing star formation in dwarf galaxies. Overall, our findings shed light on the star formation physics of dwarf galaxies in the Centaurus A system, revealing insights into their properties and dependence on the host environment.
 ]]></content:encoded>
-
 <pubDate>2024-06-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,7 +27,6 @@ For the first time, systematic studies of dwarf galaxies are being conducted thr
 本研究提出了一种新的三维磁流体动力学模型和一种新的三维高能粒子输运模型。磁流体动力学模型使用松弛总变差减小方案数值求解理想MHD方程。在磁流体动力学模拟中，使用了高速流的简单边界条件，清晰地识别了一个具有前向冲击波和反向冲击波特征的日冕相互作用区（CIR）。高能粒子输运模型使用Fokker-Planck输运方程求解太阳高能粒子，利用了磁场和太阳风速场的MHD结果。我们的模拟结果表明，压缩磁场区域可以作为散射高能粒子的屏障，并且粒子可能在强磁场区域扩散困难。这一结果可用于复制航天器观测到的异常各向异性现象。 <div>
 We present a new three-dimensional (3D) magnetohydrodynamic (MHD) model and a new 3D energetic particle transport (EPT) model. The 3D MHD model numerically solves the ideal MHD equations using the relaxing total variation diminishing scheme. In the 3D MHD simulations, we use simple boundary conditions with a high-speed flow, and we can clearly identify a corotating interaction region (CIR) with the characteristics of forward shock and reverse shock. The 3D EPT model solves the Fokker–Planck transport equation for the solar energetic particles (SEPs) using backward stochastic processes, with the magnetic field and solar wind velocity field from MHD results. For comparison, the 3D EPT model results with Parker fields are also obtained. We investigate the transport of SEPs with particle sources and observers in different positions in MHD fields with a CIR, and we compare the results with those in the Parker fields. Our simulation results show that the compression region with local enhancement of the magnetic field, i.e., CIR, can act as a barrier to scatter energetic particles back, and particles can struggle to diffuse through the strong magnetic field regions. Usually, a normal anisotropy profile is commonly present in SEP simulation results with Parker fields, and it is also typically present in that with MHD fields. However, because of the compression region of the magnetic field, energetic particles may exhibit anomalous anisotropy. This result may be used to replicate the spacecraft observation phenomena of the anomalous anisotropy.
 ]]></content:encoded>
-
 <pubDate>2024-06-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,7 +39,6 @@ We present a new three-dimensional (3D) magnetohydrodynamic (MHD) model and a ne
 多探测方法对星系团并合提供了重要信息，但是观测到的信号复杂且难以解释。ICM-SHOX框架以系统性的方式利用多种观测方法，并通过与模拟观测数据的比较得出星系团并合的各项参数。研究结果表明MACS J0018.5+1626的并合在近地点通过后约0-60百万年，观测角度离并合轴线倾斜约27°-40°。影响参数约为250千秒差距，质量比约为1.5-3.0，初次相对速度约在1700-3000km/s。同时发现DM和气体成分在速度空间上分离，这与并合的历史、几何结构和观测角度相关。 <div>
 Galaxy cluster mergers are rich sources of information to test cluster astrophysics and cosmology. However, cluster mergers produce complex projected signals that are difficult to interpret physically from individual observational probes. Multi-probe constraints on the gas and dark matter (DM) cluster components are necessary to infer merger parameters that are otherwise degenerate. We present Improved Constraints on Mergers with SZ, Hydrodynamical simulations, Optical, and X-ray (ICM-SHOX), a systematic framework to jointly infer multiple merger parameters quantitatively via a pipeline that directly compares a novel combination of multi-probe observables to mock observables derived from hydrodynamical simulations. We report a first application of the ICM-SHOX pipeline to MACS J0018.5+1626, wherein we systematically examine simulated snapshots characterized by a wide range of initial parameters to constrain the MACS J0018.5+1626 merger geometry. We constrain the epoch of MACS J0018.5+1626 to the range 0–60 Myr post-pericenter passage, and the viewing angle is inclined ≈27°–40° from the merger axis. We obtain constraints for the impact parameter (≲250 kpc), mass ratio (≈1.5–3.0), and initial relative velocity when the clusters are separated by 3 Mpc (≈1700–3000 km s−1). The primary and secondary clusters initially (at 3 Mpc) have gas distributions that are moderately and strongly disturbed, respectively. We discover a velocity space decoupling of the DM and gas distributions in MACS J0018.5+1626, traced by cluster-member galaxy velocities and the kinematic Sunyaev–Zel'dovich effect, respectively. Our simulations indicate this decoupling is dependent on the different collisional properties of the two distributions for particular merger epochs, geometries, and viewing angles.
 ]]></content:encoded>
-
 <pubDate>2024-06-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -48,12 +46,11 @@ Galaxy cluster mergers are rich sources of information to test cluster astrophys
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4154</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4154</guid>
 <content:encoded><![CDATA[
-<div> 太阳辐射，密度波动，频率扩散，离子声波，阿尔文波<br>
-总结:<br>
+<div> 太阳辐射，密度波动，频率扩散，离子声波，阿尔文波<br />
+总结:<br />
 文章讨论了太阳辐射通过太阳冕层和太阳风传播时受到的影响，提出了一种新的密度波动模型，并推断了等离子体速度以解释观测到的信号频率扩散。推断的速度与太阳风的主导运动一致，但较小尺度范围内的频率扩展需要额外的径向和/或横向速度。推断的径向速度与声速或质子热速度一致，而垂直径向方向的速度与解释为阿尔文波动的冠层多普勒线展宽测量的非热运动一致。文章还讨论了离子声波阻尼的兰道阻尼，提出了质子加热率的估算，以及能量转移的相关内容。 <div>
 Radio signals propagating via the solar corona and solar wind are significantly affected by compressive waves, impacting the properties of solar bursts as well as sources viewed through the turbulent solar atmosphere. While static fluctuations scatter radio waves elastically, moving, turbulent, or oscillating density irregularities act to broaden the frequency of the scattered waves. Using a new anisotropic density fluctuation model from the kinetic scattering theory for solar radio bursts, we deduce the plasma velocities required to explain observations of spacecraft signal frequency broadening. The inferred velocities are consistent with motions that are dominated by the solar wind at distances ≳10 R⊙, but the levels of frequency broadening for ≲10 R⊙ require additional radial speeds ∼(100–300) km s−1 and/or transverse speeds ∼(20–70) km s−1. The inferred radial velocities also appear consistent with the sound or proton thermal speeds, while the speeds perpendicular to the radial direction are consistent with nonthermal motions measured via coronal Doppler-line broadening, interpreted as Alfvénic fluctuations. Landau damping of parallel propagating ion-sound (slow MHD) waves allows an estimate of the proton heating rate. The energy deposition rates due to ion-sound wave damping peak at a heliocentric distance of ∼(1–3) R⊙ are comparable to the rates available from a turbulent cascade of Alfvénic waves at large scales, suggesting a coherent picture of energy transfer, via the cascade or/and parametric decay of Alfvén waves to the small scales where heating takes place.
 ]]></content:encoded>
-
 <pubDate>2024-06-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -62,10 +59,9 @@ Radio signals propagating via the solar corona and solar wind are significantly 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4292</guid>
 <content:encoded><![CDATA[
 <div> BL Lacs, FSRQs, optical variability, γ-ray luminosity, accretion disk
-<br><br>总结: 本研究使用Tomo-e Gozen北天移动天体调查的数据，对241个BL Lacertae (BL Lacs)和83个平谱射线类星体(FSRQs)进行了光学变异性研究，平均每个类星体进行了约50次的观测。研究排除了由于宿主星系光度影响而低估光学变异性的类星体。研究发现，γ射线光子指数高于2.6的FSRQs表现出非常低的光学变异性，并且它们的光度标准差分布与其他FSRQs明显不同。在任何特定的宇宙时期，具有较低γ射线光度的类星体往往具有较低的光学变异性。此外，高γ射线光子指数的FSRQs的结构函数振幅显著低于低γ射线光子指数的FSRQs。这表明高γ射线光子指数的FSRQs的光学组分可能受主星系的影响。 <div>
+<br /><br />总结: 本研究使用Tomo-e Gozen北天移动天体调查的数据，对241个BL Lacertae (BL Lacs)和83个平谱射线类星体(FSRQs)进行了光学变异性研究，平均每个类星体进行了约50次的观测。研究排除了由于宿主星系光度影响而低估光学变异性的类星体。研究发现，γ射线光子指数高于2.6的FSRQs表现出非常低的光学变异性，并且它们的光度标准差分布与其他FSRQs明显不同。在任何特定的宇宙时期，具有较低γ射线光度的类星体往往具有较低的光学变异性。此外，高γ射线光子指数的FSRQs的结构函数振幅显著低于低γ射线光子指数的FSRQs。这表明高γ射线光子指数的FSRQs的光学组分可能受主星系的影响。 <div>
 We studied the optical variability of 241 BL Lacertae (BL Lacs) and 83 flat-spectrum radio quasars (FSRQs) from the 4LAC catalog using data from the Tomo-e Gozen Northern Sky Transient Survey, with ∼50 epochs per blazar on average. We excluded blazars whose optical variability may be underestimated due to the influence of their host galaxy based on their optical luminosity (LO). FSRQs with γ-ray photon index greater than 2.6 exhibit very low optical variability, and their distribution of standard deviation of repeated photometry is significantly different from that of the other FSRQs (Kolmogorov–Smirnov test p-value equal to 5 × 10−6). Among a sample of blazars at any particular cosmological epoch, those with lower γ-ray luminosity (Lγ) tend to have lower optical variability, and those FSRQs with a γ-ray photon index greater than 2.6 tend to have low Lγ. We also measured the structure function of optical variability and found that the amplitude of the structure function for FSRQs is higher than previously measured and higher than that of BL Lacs at multiple time lags. Additionally, the amplitude of the structure function of FSRQs with high γ-ray photon index is significantly lower than that of FSRQs with low γ-ray photon index. The structure function of FSRQs of high γ-ray photon index shows a characteristic timescale of more than 10 days, which may be the variability timescale of the accretion disk. In summary, we infer that the optical component of FSRQs with high γ-ray photon index may be dominated by the accretion disk.
 ]]></content:encoded>
-
 <pubDate>2024-06-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -74,14 +70,12 @@ We studied the optical variability of 241 BL Lacertae (BL Lacs) and 83 flat-spec
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad435a</guid>
 <content:encoded><![CDATA[
 <div> AGN, X射线, 星系核, 吸收, 宇宙风
-<br><br>总结:
+<br /><br />总结:
 本文讨论了活动星系核（AGN）的X射线遮挡，提出了大尺度盘风的Compton-thick层可能导致UV吸收和X射线遮挡的观点。通过物理模型和辐射传输计算，展示了扩展的盘风在特定条件下可以与UV/X射线观测一致地产生足够的遮挡现象。研究还预测了UV/X射线相关性，并说明了在这种场景下风的可变空间尺度。 <div>
 X-ray obscuration of active galactic nuclei (AGNs) is considered in the context of ionized winds of stratified structure launched from accretion disks. We argue that a Compton-thick layer of a large-scale disk wind can obscure continuum X-rays and also lead to broad UV absorption, such as in the blue wing of C iv; the former originates from the inner wind and the latter from the outer wind, as a dual role. Motivated by a number of lines of observational evidence showing strong AGN obscuration phenomena in Seyfert 1 AGNs such as NGC 5548, we demonstrate in this work, by utilizing a physically motivated wind model coupled to post-process radiative transfer calculations, that an extended disk wind under certain physical conditions (e.g., morphology and density) could naturally cause a sufficient obscuration qualitatively consistent with UV/X-ray observations. Predicted UV/X-ray correlation is also presented as a consequence of variable spatial size of the wind in this scenario.
 ]]></content:encoded>
-
 <pubDate>2024-06-11T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Thermodynamics of Pickup Ions in the Heliosphere</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e79</link>
@@ -11189,67 +11183,6 @@ Understanding the high-energy emission processes and variability patterns are tw
 Voyager 1 and 2 are only the two spacecraft that have arrived and passed through the heliospheric boundaries. Based on the plasma data from the Voyager 2 spacecraft, the electron quasi-thermal noise (QTN) is investigated by using of the electron population model consisting of a core with Maxwellian distribution and a halo with kappa distribution. The power spectra of the electron QTN is calculated at different heliocentric distances from 1 to 110 au. The parametric dependence of the QTN power spectra and the effective Debye length on the model parameters, such as the density ratio and temperature ratio of the halo to the core, kappa index and the antenna length, are discussed further. The results show that the electron QTN spectrum consists of a plateau in the low frequency band f < fpt, a prominent peak at the plasma frequency fpt, and a rapid decreasing part in the high frequency band f > fpt. The QTN plateau level basically falls down outwards until the termination shock crossing at about 84 au, after which the plateau rebounds a little near the heliopause. Although the model parameters can be very variable, the QTN plateau level does not present more than the double change in a fairly wide range of the model parameters. The presented results can be useful for future deep-space explorations in the heliosphere and can provide valuable references for the design of onboard detectors.
 ]]></content:encoded>
 <pubDate>2024-02-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Cosmic Reionization on Computers: Statistics, Physical Properties, and Environments of Lyman Limit Systems at z ∼ 6</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2269</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2269</guid>
-<content:encoded><![CDATA[
-Lyman limit systems (LLSs) are dense hydrogen clouds with high enough H i column densities to absorb Lyman continuum photons emitted from distant quasars. Their high column densities imply an origin in dense environments; however, the statistics and distribution of LLSs at high redshifts still remain uncertain. In this paper, we use self-consistent radiative transfer cosmological simulations from the Cosmic Reionization on Computers (CROC) project to study the physical properties of LLSs at the tail end of cosmic reionization at z ∼ 6. We generate 3000 synthetic quasar sight lines to obtain a large number of LLS samples in the simulations. In addition, with the high physical fidelity and resolution of CROC, we are able to quantify the association between these LLS samples and nearby galaxies. Our results show that the fraction of LLSs spatially associated with nearby galaxies increases with H i column density. Moreover, we find that LLSs that are not near any galaxy typically reside in filamentary structures connecting neighboring galaxies in the intergalactic medium (IGM). This quantification of the distribution and association of LLSs to large-scale structure informs our understanding of the IGM–galaxy connection during the “Epoch of Reionization,” and provides a theoretical basis for interpreting future observations.
-]]></content:encoded>
-<pubDate>2024-02-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>COOL-LAMPS. VI. Lens Model and New Constraints on the Properties of COOL J1241+2219, a Bright z = 5 Lyman Break Galaxy and its z = 1 Cluster Lens</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad22de</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad22de</guid>
-<content:encoded><![CDATA[
-We present a strong lensing analysis of COOL J1241+2219, the brightest known gravitationally lensed galaxy at z ≥ 5, based on new multiband Hubble Space Telescope (HST) imaging data. The lensed galaxy has a redshift of z = 5.043, placing it shortly after the end of the “Epoch of Reionization,” and an AB magnitude zAB = 20.47 mag (Khullar et al.). As such, it serves as a touchstone for future research of that epoch. The high spatial resolution of HST reveals internal structure in the giant arc, from which we identify 15 constraints and construct a robust lens model. We use the lens model to extract the cluster mass and lensing magnification. We find that the mass enclosed within the Einstein radius of the z = 1.001 cluster lens is , significantly lower than other known strong lensing clusters at its redshift. The average magnification of the giant arc is 〈μarc〉 = , a factor of greater than previously estimated from ground-based data; the flux-weighted average magnification is 〈μarc〉 = . We update the current measurements of the stellar mass and star formation rate (SFR) of the source for the revised magnification to 9.7 ± 0.3 and SFR = M⊙ yr−1, respectively. The powerful lensing magnification acting upon COOL J1241+2219 resolves the source and enables future studies of the properties of its star formation on a clump-by-clump basis. The lensing analysis presented here will support upcoming multiwavelength characterization with HST and JWST data of the stellar mass assembly and physical properties of this high-redshift lensed galaxy.
-]]></content:encoded>
-<pubDate>2024-02-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Possibility of an Upper Limit on Magnetically Induced Radius Inflation in Low-mass Stars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad234e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad234e</guid>
-<content:encoded><![CDATA[
-The radii of low-mass stars are observed to be inflated above standard model predictions, especially in magnetically active stars. Typically, the empirical relative radius inflations ΔR/R are ≤10% but in (rare) cases may be ≥20%. Our magneto-convective stellar models have already replicated many empirical ΔR/R values. Here, we ask: is there any theoretical upper limit on the amount of such inflation? We use our magneto-convective model to compute ΔR/R using empirically plausible values of the surface field strength parameter δ. Inside each model, the maximum internal field is set to a particular value: Bceil = 10, or 100 kG, or 1 MG. When Bceil = 10 kG, peak inflation with ΔR/R ≈ 90% occurs in stars with masses of 0.7 M⊙. With Bceil = 100 kG, peak inflation with ΔR/R ≈ 140% occurs in stars with M ≈ 0.5 M⊙. But with Bceil = 1 MG, we find no peak in ΔR/R as a function of δ; instead, the larger δ is, the larger ΔR/R becomes, reaching 300%–350% in the case of the largest δ considered. Thus, magneto-convective modeling can accommodate ΔR/R values which are considerably larger than any reported empirical inflations. We find that a maximum occurs in ΔR/R as a function of δ only in model stars where the field reaches its maximum strength Bceil inside the convective envelope. Moreover, our models of completely convective stars undergo smaller amounts of relative radius inflation than models with radiative cores, a result consistent with some previous reports.
-]]></content:encoded>
-<pubDate>2024-02-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Transition Discovered in the Subcritical Regime of 1A 0535+262</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad23cd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad23cd</guid>
-<content:encoded><![CDATA[
-We present NICER observations of the accreting X-ray pulsar 1A 0535+262 during its faint state (≲6 × 1036 erg s−1), observed in several type I and type II outbursts. We discovered a transition of temporal and spectral properties around the luminosity Lt = 3.3 × 1035 erg s−1, below which spectra are relatively soft and the pulse profiles have only a narrow peak. The spectra are harder and a secondary hump gradually appears in the pulse profiles when L ≳ Lt. We discuss possible physical mechanisms for this transition, including different Comptonization seed photons, the disappearance of gas shocks on the neutron star surface, and the combination of plasma and vacuum polarization effects.
-]]></content:encoded>
-<pubDate>2024-02-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Global Chemical Transport on Hot Jupiters: Insights from the 2D VULCAN Photochemical Model</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1600</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1600</guid>
-<content:encoded><![CDATA[
-<div> VULCAN 2D, atmospheric dynamics, hot Jupiters, photochemical transport models, global circulation
-<br /><br />
-研究热木星的大气动力学时，了解全球环流和化学之间的相互作用非常重要。本文介绍了二维光化学运输模型VULCAN 2D，该模型通过允许非均匀纬向风改进了伪二维方法。我们对VULCAN 2D进行了广泛的验证，并应用到HD 189733 b和HD 209458 b，揭示了混合机制的转变。针对先前推断的富碳大气，我们发现超太阳C/O比的HD 209458 b在早晨边缘呈现出明显的C2H4吸收，而在晚上边缘则没有，这归因于来自夜侧的水平运输。最后，我们用合成光谱展示了水平运输在透射观测中的影响及其对晨晚边缘不对称性的影响，强调在解释外行星大气时考虑全球运输的必要性。 
-<br /><br />总结: 这篇文章介绍了VULCAN 2D模型，并讨论了热木星的大气动力学以及其对化学的影响。研究发现水平运输在下层主导，而在高空垂直混合更为重要。针对HD 209458 b的观测发现，考虑全球运输对解释大气现象非常重要。 <div>
-The atmospheric dynamics of tidally locked hot Jupiters is characterized by strong equatorial winds. Understanding the interaction between global circulation and chemistry is crucial in atmospheric studies and interpreting observations. Two-dimensional (2D) photochemical transport models shed light on how the atmospheric composition depends on circulation. In this paper, we introduce the 2D photochemical (horizontal and vertical) transport model, VULCAN 2D, which improves on the pseudo-2D approaches by allowing for nonuniform zonal winds. We extensively validate our VULCAN 2D with analytical solutions and benchmark comparisons. Applications to HD 189733 b and HD 209458 b reveal a transition in mixing regimes: horizontal transport predominates below ∼0.1 mbar, while vertical mixing is more important at higher altitudes above 0.1 mbar. Motivated by the previously inferred carbon-rich atmosphere, we find that HD 209458 b with supersolar carbon-to-oxygen ratio (C/O) exhibits pronounced C2H4 absorption on the morning limb but not on the evening limb, due to horizontal transport from the nightside. We discuss when a pseudo-2D approach is a valid assumption and its inherent limitations. Finally, we demonstrate the effect of horizontal transport in transmission observations and its impact on the morning−evening limb asymmetry with synthetic spectra, highlighting the need to consider global transport when interpreting exoplanet atmospheres.
-]]></content:encoded>
-<pubDate>2024-02-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Deconstructing Photospheric Spectral Lines in Solar and Stellar Flares</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad16da</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad16da</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳耀斑，光谱线，大气层，辐射传递，速度场
-
-总结: 太阳耀斑期间，光谱线的形成受到上层区域的影响，表现出复合的出射强度曲线。通过辐射-流体动力学和辐射传递计算模拟了太阳/恒星大气对电子束加热的响应，合成了铁离子的光谱线并研究了通过多普勒频移得到的视线速度场信息。研究发现，光谱线变化主要由色球层的变化引起，该区域的上升气流能够在线心产生蓝移或伪红移，取决于与光球层相比的相对贡献。在极端太阳和恒星耀斑情景中，爆炸性的色球凝结物也可以主导轮廓形状的暂时性红移，需要考虑三元分量才能完全表征。因此，深层形成的光谱线需要多组分的理解和处理，光谱线的不同区域对大气速度流动的探测都是有用的。 <div>
-During solar flares, spectral lines formed in the photosphere have been shown to exhibit changes to their profiles despite the challenges of energy transfer to these depths. Recent work has shown that deep-forming spectral lines are subject to significant contributions from regions above the photosphere throughout the flaring period, resulting in a composite emergent intensity profile from multiple layers of the atmosphere. We employ radiative–hydrodynamic and radiative transfer calculations to simulate the response of the solar/stellar atmosphere to electron beam heating and synthesize spectral lines of Fe i to investigate the line-of-sight velocity fields information available from Doppler shifts of the emergent intensity profile. By utilizing the contribution function to deconstruct the line profile shape into its constituent sources, we show that variations in the line profiles are primarily caused by changes in the chromosphere. Up-flows in this region were found to create blueshifts or false redshifts in the line core dependent on the relative contribution of the chromosphere compared to the photosphere. In extreme solar and stellar flare scenarios featuring explosive chromospheric condensations, redshifted transient components can dominate the temporal evolution of the profile shape, requiring a tertiary component consideration to fully characterize. We conclude that deep-forming lines require a multicomponent understanding and treatment, with different regions of the spectral line being useful for probing individual regions of the atmosphere’s velocity flows.
-]]></content:encoded>
-<pubDate>2024-02-27T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
