@@ -4,6 +4,83 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Devouring the Centaurus A Satellites: Modeling Dwarf Galaxies with Galacticus</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3924</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3924</guid>
+<content:encoded><![CDATA[
+<div> Centaurus A, dwarf galaxies, Galacticus model, star formation physics, host environment
+<br><br>
+该研究使用半解析模型Galacticus模拟了Centaurus A附近700kpc范围内的矮星系。通过预测了Centaurus A矮星系的可观测性质，包括累积亮度函数、亮度-金属丰度和亮度-半光半径关系，并提供了速度分散和星团的星族史的预测。研究表明，我们成功地预测了Centaurus A矮星系的星族史，并且揭示了矮星系的星族物理性质以及其对宿主环境的依赖关系。总结: <div>
+For the first time, systematic studies of dwarf galaxies are being conducted throughout the Local Volume, including the dwarf satellites of the nearby giant elliptical galaxy Centaurus A (NGC 5128). Given Centaurus A's mass (roughly 10 times larger than that of the Milky Way), AGN activity, and recent major mergers, investigating the dwarf galaxies of Centaurus A and their star formation physics is imperative. However, simulating the faintest dwarfs around a galaxy of Centaurus A's mass with sufficient resolution in a hydrodynamic simulation is computationally expensive and currently infeasible. In this study, we seek to reproduce the properties of Centaurus A dwarfs using the semianalytic model Galacticus to model dwarfs within a 700 kpc region around Centaurus A, corresponding approximately to its splashback radius. We investigate the effects of host halo mass and environment and predict observable properties of Centaurus A dwarfs using astrophysical prescriptions and parameters previously tuned to match properties of the Milky Way’s satellite galaxies. This approach allows us to approximately replicate cumulative luminosity functions, and luminosity–metallicity and luminosity–half-light-radii relations observed in the Centaurus A satellites. We provide predictions for the velocity dispersions, and star formation histories of Centaurus A dwarfs. The agreement between our predicted star formation histories for Centaurus A dwarfs and those of the Milky Way dwarfs implies the presence of universal processes governing star formation in dwarf galaxies. Overall, our findings shed light on the star formation physics of dwarf galaxies in the Centaurus A system, revealing insights into their properties and dependence on the host environment.
+]]></content:encoded>
+
+<pubDate>2024-06-11T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling the Transport of Solar Energetic Particles in a Corotating Interaction Region</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3fb0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3fb0</guid>
+<content:encoded><![CDATA[
+<div> 3D磁流体动力学模型, 高能粒子输运模型, CIR, 压缩磁场区域, 异常各向异性
+总结:
+本研究提出了一种新的三维磁流体动力学模型和一种新的三维高能粒子输运模型。磁流体动力学模型使用松弛总变差减小方案数值求解理想MHD方程。在磁流体动力学模拟中，使用了高速流的简单边界条件，清晰地识别了一个具有前向冲击波和反向冲击波特征的日冕相互作用区（CIR）。高能粒子输运模型使用Fokker-Planck输运方程求解太阳高能粒子，利用了磁场和太阳风速场的MHD结果。我们的模拟结果表明，压缩磁场区域可以作为散射高能粒子的屏障，并且粒子可能在强磁场区域扩散困难。这一结果可用于复制航天器观测到的异常各向异性现象。 <div>
+We present a new three-dimensional (3D) magnetohydrodynamic (MHD) model and a new 3D energetic particle transport (EPT) model. The 3D MHD model numerically solves the ideal MHD equations using the relaxing total variation diminishing scheme. In the 3D MHD simulations, we use simple boundary conditions with a high-speed flow, and we can clearly identify a corotating interaction region (CIR) with the characteristics of forward shock and reverse shock. The 3D EPT model solves the Fokker–Planck transport equation for the solar energetic particles (SEPs) using backward stochastic processes, with the magnetic field and solar wind velocity field from MHD results. For comparison, the 3D EPT model results with Parker fields are also obtained. We investigate the transport of SEPs with particle sources and observers in different positions in MHD fields with a CIR, and we compare the results with those in the Parker fields. Our simulation results show that the compression region with local enhancement of the magnetic field, i.e., CIR, can act as a barrier to scatter energetic particles back, and particles can struggle to diffuse through the strong magnetic field regions. Usually, a normal anisotropy profile is commonly present in SEP simulation results with Parker fields, and it is also typically present in that with MHD fields. However, because of the compression region of the magnetic field, energetic particles may exhibit anomalous anisotropy. This result may be used to replicate the spacecraft observation phenomena of the anomalous anisotropy.
+]]></content:encoded>
+
+<pubDate>2024-06-11T23:00:00Z</pubDate>
+</item>
+<item>
+<title>ICM-SHOX. I. Methodology Overview and Discovery of a Gas–Dark Matter Velocity Decoupling in the MACS J0018.5+1626 Merger</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3fb5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3fb5</guid>
+<content:encoded><![CDATA[
+<div> 多探测、星系团、并合、天体物理、暗物质
+总结: 
+多探测方法对星系团并合提供了重要信息，但是观测到的信号复杂且难以解释。ICM-SHOX框架以系统性的方式利用多种观测方法，并通过与模拟观测数据的比较得出星系团并合的各项参数。研究结果表明MACS J0018.5+1626的并合在近地点通过后约0-60百万年，观测角度离并合轴线倾斜约27°-40°。影响参数约为250千秒差距，质量比约为1.5-3.0，初次相对速度约在1700-3000km/s。同时发现DM和气体成分在速度空间上分离，这与并合的历史、几何结构和观测角度相关。 <div>
+Galaxy cluster mergers are rich sources of information to test cluster astrophysics and cosmology. However, cluster mergers produce complex projected signals that are difficult to interpret physically from individual observational probes. Multi-probe constraints on the gas and dark matter (DM) cluster components are necessary to infer merger parameters that are otherwise degenerate. We present Improved Constraints on Mergers with SZ, Hydrodynamical simulations, Optical, and X-ray (ICM-SHOX), a systematic framework to jointly infer multiple merger parameters quantitatively via a pipeline that directly compares a novel combination of multi-probe observables to mock observables derived from hydrodynamical simulations. We report a first application of the ICM-SHOX pipeline to MACS J0018.5+1626, wherein we systematically examine simulated snapshots characterized by a wide range of initial parameters to constrain the MACS J0018.5+1626 merger geometry. We constrain the epoch of MACS J0018.5+1626 to the range 0–60 Myr post-pericenter passage, and the viewing angle is inclined ≈27°–40° from the merger axis. We obtain constraints for the impact parameter (≲250 kpc), mass ratio (≈1.5–3.0), and initial relative velocity when the clusters are separated by 3 Mpc (≈1700–3000 km s−1). The primary and secondary clusters initially (at 3 Mpc) have gas distributions that are moderately and strongly disturbed, respectively. We discover a velocity space decoupling of the DM and gas distributions in MACS J0018.5+1626, traced by cluster-member galaxy velocities and the kinematic Sunyaev–Zel'dovich effect, respectively. Our simulations indicate this decoupling is dependent on the different collisional properties of the two distributions for particular merger epochs, geometries, and viewing angles.
+]]></content:encoded>
+
+<pubDate>2024-06-11T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Plasma Motions and Compressive Wave Energetics in the Solar Corona and Solar Wind from Radio Wave Scattering Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4154</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4154</guid>
+<content:encoded><![CDATA[
+<div> 太阳辐射，密度波动，频率扩散，离子声波，阿尔文波<br>
+总结:<br>
+文章讨论了太阳辐射通过太阳冕层和太阳风传播时受到的影响，提出了一种新的密度波动模型，并推断了等离子体速度以解释观测到的信号频率扩散。推断的速度与太阳风的主导运动一致，但较小尺度范围内的频率扩展需要额外的径向和/或横向速度。推断的径向速度与声速或质子热速度一致，而垂直径向方向的速度与解释为阿尔文波动的冠层多普勒线展宽测量的非热运动一致。文章还讨论了离子声波阻尼的兰道阻尼，提出了质子加热率的估算，以及能量转移的相关内容。 <div>
+Radio signals propagating via the solar corona and solar wind are significantly affected by compressive waves, impacting the properties of solar bursts as well as sources viewed through the turbulent solar atmosphere. While static fluctuations scatter radio waves elastically, moving, turbulent, or oscillating density irregularities act to broaden the frequency of the scattered waves. Using a new anisotropic density fluctuation model from the kinetic scattering theory for solar radio bursts, we deduce the plasma velocities required to explain observations of spacecraft signal frequency broadening. The inferred velocities are consistent with motions that are dominated by the solar wind at distances ≳10 R⊙, but the levels of frequency broadening for ≲10 R⊙ require additional radial speeds ∼(100–300) km s−1 and/or transverse speeds ∼(20–70) km s−1. The inferred radial velocities also appear consistent with the sound or proton thermal speeds, while the speeds perpendicular to the radial direction are consistent with nonthermal motions measured via coronal Doppler-line broadening, interpreted as Alfvénic fluctuations. Landau damping of parallel propagating ion-sound (slow MHD) waves allows an estimate of the proton heating rate. The energy deposition rates due to ion-sound wave damping peak at a heliocentric distance of ∼(1–3) R⊙ are comparable to the rates available from a turbulent cascade of Alfvénic waves at large scales, suggesting a coherent picture of energy transfer, via the cascade or/and parametric decay of Alfvén waves to the small scales where heating takes place.
+]]></content:encoded>
+
+<pubDate>2024-06-11T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Optical Variability of Blazars in the Tomo-e Gozen Northern Sky Transient Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4292</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4292</guid>
+<content:encoded><![CDATA[
+<div> BL Lacs, FSRQs, optical variability, γ-ray luminosity, accretion disk
+<br><br>总结: 本研究使用Tomo-e Gozen北天移动天体调查的数据，对241个BL Lacertae (BL Lacs)和83个平谱射线类星体(FSRQs)进行了光学变异性研究，平均每个类星体进行了约50次的观测。研究排除了由于宿主星系光度影响而低估光学变异性的类星体。研究发现，γ射线光子指数高于2.6的FSRQs表现出非常低的光学变异性，并且它们的光度标准差分布与其他FSRQs明显不同。在任何特定的宇宙时期，具有较低γ射线光度的类星体往往具有较低的光学变异性。此外，高γ射线光子指数的FSRQs的结构函数振幅显著低于低γ射线光子指数的FSRQs。这表明高γ射线光子指数的FSRQs的光学组分可能受主星系的影响。 <div>
+We studied the optical variability of 241 BL Lacertae (BL Lacs) and 83 flat-spectrum radio quasars (FSRQs) from the 4LAC catalog using data from the Tomo-e Gozen Northern Sky Transient Survey, with ∼50 epochs per blazar on average. We excluded blazars whose optical variability may be underestimated due to the influence of their host galaxy based on their optical luminosity (LO). FSRQs with γ-ray photon index greater than 2.6 exhibit very low optical variability, and their distribution of standard deviation of repeated photometry is significantly different from that of the other FSRQs (Kolmogorov–Smirnov test p-value equal to 5 × 10−6). Among a sample of blazars at any particular cosmological epoch, those with lower γ-ray luminosity (Lγ) tend to have lower optical variability, and those FSRQs with a γ-ray photon index greater than 2.6 tend to have low Lγ. We also measured the structure function of optical variability and found that the amplitude of the structure function for FSRQs is higher than previously measured and higher than that of BL Lacs at multiple time lags. Additionally, the amplitude of the structure function of FSRQs with high γ-ray photon index is significantly lower than that of FSRQs with low γ-ray photon index. The structure function of FSRQs of high γ-ray photon index shows a characteristic timescale of more than 10 days, which may be the variability timescale of the accretion disk. In summary, we infer that the optical component of FSRQs with high γ-ray photon index may be dominated by the accretion disk.
+]]></content:encoded>
+
+<pubDate>2024-06-11T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dual Role of Accretion Disk Winds as X-Ray Obscurers and UV Line Absorbers in AGN</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad435a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad435a</guid>
+<content:encoded><![CDATA[
+<div> AGN, X射线, 星系核, 吸收, 宇宙风
+<br><br>总结:
+本文讨论了活动星系核（AGN）的X射线遮挡，提出了大尺度盘风的Compton-thick层可能导致UV吸收和X射线遮挡的观点。通过物理模型和辐射传输计算，展示了扩展的盘风在特定条件下可以与UV/X射线观测一致地产生足够的遮挡现象。研究还预测了UV/X射线相关性，并说明了在这种场景下风的可变空间尺度。 <div>
+X-ray obscuration of active galactic nuclei (AGNs) is considered in the context of ionized winds of stratified structure launched from accretion disks. We argue that a Compton-thick layer of a large-scale disk wind can obscure continuum X-rays and also lead to broad UV absorption, such as in the blue wing of C iv; the former originates from the inner wind and the latter from the outer wind, as a dual role. Motivated by a number of lines of observational evidence showing strong AGN obscuration phenomena in Seyfert 1 AGNs such as NGC 5548, we demonstrate in this work, by utilizing a physically motivated wind model coupled to post-process radiative transfer calculations, that an extended disk wind under certain physical conditions (e.g., morphology and density) could naturally cause a sufficient obscuration qualitatively consistent with UV/X-ray observations. Predicted UV/X-ray correlation is also presented as a consequence of variable spatial size of the wind in this scenario.
+]]></content:encoded>
+
+<pubDate>2024-06-11T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Thermodynamics of Pickup Ions in the Heliosphere</title>
