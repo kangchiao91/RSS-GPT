@@ -4,6 +4,45 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>HaloFlow. I. Neural Inference of Halo Mass from Galaxy Photometry and Morphology</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4344</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4344</guid>
+<content:encoded><![CDATA[
+<div> photometry, morphology, dark matter halos, machine-learning, Bayesian inference
+
+总结: 
+该研究提出了HaloFlow，这是一种新的机器学习方法，可以从星系的光度和形态推断出宿主暗物质晕的质量Mh。该方法利用基于模拟的推断和正态流进行严格的贝叶斯推断。它在Bottrell等人的最新合成星系图像上进行训练，这些图像是基于IllustrisTNG宇宙大尺度模拟构建的，并包括了Subaru战略计划的Hyper Suprime-Cam观测的实际影响。通过研究发现，HaloFlow能够准确且无偏地推断出Mh的后验分布，还能够量化光度观测在限制Mh方面的全部信息内容。包括形态特征在内显著提高了Mh约束的精确性，并且卫星总亮度也能产生类似的效果。与使用恒星-暗物质晕质量关系的标准方法相比，HaloFlow能够改善Mh的约束力约40%。在接下来的研究中，他们将利用真实观测数据的星系-星系透镜测量来验证和校准HaloFlow。 <div>
+We present HaloFlow, a new machine-learning approach for inferring the mass of host dark matter halos, Mh, from the photometry and morphology of galaxies (https://github.com/changhoonhahn/haloflow/). HaloFlow uses simulation-based inference with normalizing flows to conduct rigorous Bayesian inference. It is trained on state-of-the-art synthetic galaxy images from Bottrell et al. that are constructed from the IllustrisTNG hydrodynamic simulation and include realistic effects of the Hyper Suprime-Cam Subaru Strategy Program observations. We design HaloFlow to infer Mh and stellar mass, M*, using grizy band magnitudes, morphological properties quantifying characteristic size, concentration and asymmetry, total measured satellite luminosity, and number of satellites. We demonstrate that HaloFlow infers accurate and unbiased posteriors of Mh. Furthermore, we quantify the full information content in the photometric observations of galaxies in constraining Mh. With magnitudes alone, we infer Mh with and 0.182 dex for field and group galaxies. Including morphological properties significantly improves the precision of Mh constraints, as does total satellite luminosity: and 0.132 dex. Compared to the standard approach using the stellar-to-halo mass relation, we improve Mh constraints by ∼40%. In subsequent papers, we will validate and calibrate HaloFlow with galaxy–galaxy lensing measurements on real observational data.
+]]></content:encoded>
+
+<pubDate>2024-06-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>VODKA-JWST: A 3.8 kpc Dual Quasar at Cosmic Noon in a Powerful Starburst Galaxy with JWST/MIRI Integral Field Unit</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4798</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4798</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 双类星系、宇宙正午、星体形成率、中红外光谱、星际有机分子<br>
+总结: 这项研究通过JWST/MIRI中红外积分场光谱观测了一个红移为z=2.17的双类类星系J074922.96+225511.7。研究发现，该星系中存在着广泛的星际有机分子和Fe ii发射，星体形成率为103.0±0.2M⊙ yr−1，比对红移为z∼2的星系使用红外光度函数的结果高出5倍。虽然星体形成率与同红移下的星系相当，但这个星系的分子气体含量却低于预期。研究也未观测到任何由类星体驱动的影响星系内PAH和Fe ii的流出现象。这项研究凸显了J0749+2255的极端富含星尘特性，暗示了双类类星体的阶段与强烈的星体形成活动之间可能存在联系。 <br><br> <div>
+Dual quasars—two active supermassive black holes at galactic scales—represent crucial objects for studying the impact of galaxy mergers and quasar activity on the star formation rate (SFR) within their host galaxies, particularly at cosmic noon when SFR peaks. We present JWST/MIRI mid-infrared integral field spectroscopy of J074922.96+225511.7, a dual quasar with a projected separation of 3.8 kpc at a redshift z = 2.17. We detect spatially extended [Fe ii] 5.34 μm and polycyclic aromatic hydrocarbon (PAH) 3.3 μm emissions from the star formation activity in its host galaxy. We derive the SFR of 103.0±0.2M⊙ yr−1 using PAH 3.3 μm, which is 5 times higher than that derived from the knee of the infrared luminosity function for galaxies at z ∼ 2. While the SFR of J0749+2255 agrees with that of star-forming galaxies of comparable stellar mass at the same redshifts, its molecular gas content falls short of expectations based on the molecular Kennicutt–Schmidt law. This discrepancy may result from molecular gas depletion due to the longer elevated stage of star formation, even after the molecular gas reservoir is depleted. We do not observe any quasar-driven outflow that impacts PAH and [Fe ii] in the host galaxy based on the spatially resolved maps. From the expected flux in PAH-based star formation, the [Fe ii] line likely originates from the star-forming regions in the host galaxy. Our study highlights the extreme stardust nature of J0749+2255, indicating a potential connection between the dual quasar phase and intense star formation activities.
+]]></content:encoded>
+
+<pubDate>2024-06-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Star Formation Rates in [Ne V] 3426 Å Selected Active Galactic Nuclei: Evidence for a Decrease along the Main Sequence?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47bb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47bb</guid>
+<content:encoded><![CDATA[
+<div> AGN, [Ne v], sSFR, main sequence, star formation
+总结:
+本研究选择了1215个AGN样本，通过检测高电离[Ne v] 3426 Å发射线来研究它们在星系主序列上的行为。我们发现由于AGN的贡献，基于发射线的sSFR值并不可靠。因此，我们使用来自SED的sSFR值来研究主序列。我们发现[Ne v]样本中sSFR沿主序列下降的证据，这与Burst Alert望远镜AGN样本的结果一致。尽管我们没有发现与AGN活动抑制星形成的证据，但我们的结果支持AGN宿主星系的气体分数较星形星系低。如果气体的减少和因此抑制星形成是由于AGN活动引起的，那么这种现象必须发生在先前的时期。 <div>
+Studying the behavior along the galaxy main sequence is key in furthering our understanding of the possible connection between active galactic nucleus (AGN) activity and star formation. We select a sample of 1215 AGN from the catalog of Sloan Digital Sky Survey galaxy properties from the Portsmouth group by detection of the high-ionization [Ne v] 3426 Å emission line. Our sample extends from 1040 to 1042.5 erg s−1 in [Ne v] luminosity in a redshift range z = 0.17 to 0.57. We compare the specific star formation rates (sSFRs; SFR scaled by galaxy mass) obtained from the corrected [O ii] and Hα luminosities, and the spectral energy distribution (SED)–determined values from Portsmouth. We find that the emission-line-based sSFR values are unreliable for the [Ne v] sample due to the AGN contribution, and proceed with the SED sSFRs for our study of the main sequence. We find evidence for a decrease in sSFR along the main sequence in the [Ne v] sample, which is consistent with results from the hard X-ray Burst Alert Telescope AGN sample, which extends to lower redshifts than our [Ne v] sample. Although we do not find evidence that the concurrent AGN activity is suppressing star formation, our results are consistent with a lower gas fraction in the host galaxies of the AGN as compared to that of the star-forming galaxies. If the evacuation of gas, and therefore suppression of star formation, is due to AGN activity, it must have occurred in a previous epoch.
+]]></content:encoded>
+
+<pubDate>2024-06-13T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>CLASSY. IX. The Chemical Evolution of the Ne, S, Cl, and Ar Elements</title>
