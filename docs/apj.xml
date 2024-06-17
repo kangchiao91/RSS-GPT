@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>HaloFlow. I. Neural Inference of Halo Mass from Galaxy Photometry and Morphology</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4344</link>
@@ -15,7 +16,6 @@
 该研究提出了HaloFlow，这是一种新的机器学习方法，可以从星系的光度和形态推断出宿主暗物质晕的质量Mh。该方法利用基于模拟的推断和正态流进行严格的贝叶斯推断。它在Bottrell等人的最新合成星系图像上进行训练，这些图像是基于IllustrisTNG宇宙大尺度模拟构建的，并包括了Subaru战略计划的Hyper Suprime-Cam观测的实际影响。通过研究发现，HaloFlow能够准确且无偏地推断出Mh的后验分布，还能够量化光度观测在限制Mh方面的全部信息内容。包括形态特征在内显著提高了Mh约束的精确性，并且卫星总亮度也能产生类似的效果。与使用恒星-暗物质晕质量关系的标准方法相比，HaloFlow能够改善Mh的约束力约40%。在接下来的研究中，他们将利用真实观测数据的星系-星系透镜测量来验证和校准HaloFlow。 <div>
 We present HaloFlow, a new machine-learning approach for inferring the mass of host dark matter halos, Mh, from the photometry and morphology of galaxies (https://github.com/changhoonhahn/haloflow/). HaloFlow uses simulation-based inference with normalizing flows to conduct rigorous Bayesian inference. It is trained on state-of-the-art synthetic galaxy images from Bottrell et al. that are constructed from the IllustrisTNG hydrodynamic simulation and include realistic effects of the Hyper Suprime-Cam Subaru Strategy Program observations. We design HaloFlow to infer Mh and stellar mass, M*, using grizy band magnitudes, morphological properties quantifying characteristic size, concentration and asymmetry, total measured satellite luminosity, and number of satellites. We demonstrate that HaloFlow infers accurate and unbiased posteriors of Mh. Furthermore, we quantify the full information content in the photometric observations of galaxies in constraining Mh. With magnitudes alone, we infer Mh with and 0.182 dex for field and group galaxies. Including morphological properties significantly improves the precision of Mh constraints, as does total satellite luminosity: and 0.132 dex. Compared to the standard approach using the stellar-to-halo mass relation, we improve Mh constraints by ∼40%. In subsequent papers, we will validate and calibrate HaloFlow with galaxy–galaxy lensing measurements on real observational data.
 ]]></content:encoded>
-
 <pubDate>2024-06-13T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,11 +23,10 @@ We present HaloFlow, a new machine-learning approach for inferring the mass of h
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4798</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4798</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 双类星系、宇宙正午、星体形成率、中红外光谱、星际有机分子<br>
-总结: 这项研究通过JWST/MIRI中红外积分场光谱观测了一个红移为z=2.17的双类类星系J074922.96+225511.7。研究发现，该星系中存在着广泛的星际有机分子和Fe ii发射，星体形成率为103.0±0.2M⊙ yr−1，比对红移为z∼2的星系使用红外光度函数的结果高出5倍。虽然星体形成率与同红移下的星系相当，但这个星系的分子气体含量却低于预期。研究也未观测到任何由类星体驱动的影响星系内PAH和Fe ii的流出现象。这项研究凸显了J0749+2255的极端富含星尘特性，暗示了双类类星体的阶段与强烈的星体形成活动之间可能存在联系。 <br><br> <div>
+<div> 关键词: 双类星系、宇宙正午、星体形成率、中红外光谱、星际有机分子<br />
+总结: 这项研究通过JWST/MIRI中红外积分场光谱观测了一个红移为z=2.17的双类类星系J074922.96+225511.7。研究发现，该星系中存在着广泛的星际有机分子和Fe ii发射，星体形成率为103.0±0.2M⊙ yr−1，比对红移为z∼2的星系使用红外光度函数的结果高出5倍。虽然星体形成率与同红移下的星系相当，但这个星系的分子气体含量却低于预期。研究也未观测到任何由类星体驱动的影响星系内PAH和Fe ii的流出现象。这项研究凸显了J0749+2255的极端富含星尘特性，暗示了双类类星体的阶段与强烈的星体形成活动之间可能存在联系。 <br /><br /> <div>
 Dual quasars—two active supermassive black holes at galactic scales—represent crucial objects for studying the impact of galaxy mergers and quasar activity on the star formation rate (SFR) within their host galaxies, particularly at cosmic noon when SFR peaks. We present JWST/MIRI mid-infrared integral field spectroscopy of J074922.96+225511.7, a dual quasar with a projected separation of 3.8 kpc at a redshift z = 2.17. We detect spatially extended [Fe ii] 5.34 μm and polycyclic aromatic hydrocarbon (PAH) 3.3 μm emissions from the star formation activity in its host galaxy. We derive the SFR of 103.0±0.2M⊙ yr−1 using PAH 3.3 μm, which is 5 times higher than that derived from the knee of the infrared luminosity function for galaxies at z ∼ 2. While the SFR of J0749+2255 agrees with that of star-forming galaxies of comparable stellar mass at the same redshifts, its molecular gas content falls short of expectations based on the molecular Kennicutt–Schmidt law. This discrepancy may result from molecular gas depletion due to the longer elevated stage of star formation, even after the molecular gas reservoir is depleted. We do not observe any quasar-driven outflow that impacts PAH and [Fe ii] in the host galaxy based on the spatially resolved maps. From the expected flux in PAH-based star formation, the [Fe ii] line likely originates from the star-forming regions in the host galaxy. Our study highlights the extreme stardust nature of J0749+2255, indicating a potential connection between the dual quasar phase and intense star formation activities.
 ]]></content:encoded>
-
 <pubDate>2024-06-13T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,10 +39,8 @@ Dual quasars—two active supermassive black holes at galactic scales—represen
 本研究选择了1215个AGN样本，通过检测高电离[Ne v] 3426 Å发射线来研究它们在星系主序列上的行为。我们发现由于AGN的贡献，基于发射线的sSFR值并不可靠。因此，我们使用来自SED的sSFR值来研究主序列。我们发现[Ne v]样本中sSFR沿主序列下降的证据，这与Burst Alert望远镜AGN样本的结果一致。尽管我们没有发现与AGN活动抑制星形成的证据，但我们的结果支持AGN宿主星系的气体分数较星形星系低。如果气体的减少和因此抑制星形成是由于AGN活动引起的，那么这种现象必须发生在先前的时期。 <div>
 Studying the behavior along the galaxy main sequence is key in furthering our understanding of the possible connection between active galactic nucleus (AGN) activity and star formation. We select a sample of 1215 AGN from the catalog of Sloan Digital Sky Survey galaxy properties from the Portsmouth group by detection of the high-ionization [Ne v] 3426 Å emission line. Our sample extends from 1040 to 1042.5 erg s−1 in [Ne v] luminosity in a redshift range z = 0.17 to 0.57. We compare the specific star formation rates (sSFRs; SFR scaled by galaxy mass) obtained from the corrected [O ii] and Hα luminosities, and the spectral energy distribution (SED)–determined values from Portsmouth. We find that the emission-line-based sSFR values are unreliable for the [Ne v] sample due to the AGN contribution, and proceed with the SED sSFRs for our study of the main sequence. We find evidence for a decrease in sSFR along the main sequence in the [Ne v] sample, which is consistent with results from the hard X-ray Burst Alert Telescope AGN sample, which extends to lower redshifts than our [Ne v] sample. Although we do not find evidence that the concurrent AGN activity is suppressing star formation, our results are consistent with a lower gas fraction in the host galaxies of the AGN as compared to that of the star-forming galaxies. If the evacuation of gas, and therefore suppression of star formation, is due to AGN activity, it must have occurred in a previous epoch.
 ]]></content:encoded>
-
 <pubDate>2024-06-13T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>CLASSY. IX. The Chemical Evolution of the Ne, S, Cl, and Ar Elements</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad34cf</link>
@@ -11223,38 +11220,6 @@ An important aspect of solar energetic particle (SEP) events is their source pop
 
 研究利用Bayesian推断从2016年10月14日获得的Coronal Multichannel Polarimeter的多普勒速度和密度数据，以获取太阳冠层的全球磁场图。两个密度先验，高斯分布和均匀分布，用于推断磁场强度的概率分布。结果表明，简单反演得到的值并不总是与Bayesian推断得到的最大后验估计相匹配。研究发现，推断得到的值遵循冠层磁场径向变化的幂律函数，简单反演和Bayesian推断的幂律指数相似。这项研究对于理解太阳冠层中不同时间尺度和空间尺度下发生的不同物理过程具有重要意义。<br /><br />总结: Bayesian推断用于从Coronal Multichannel Polarimeter数据中获取太阳冠层磁场的全球图，发现磁场值遵循幂律函数变化。 Simple inversion方法得到的值与Bayesian推断的最大后验估计不总是匹配。太阳冠层磁场的推断对于了解不同物理过程具有重要意义。 <div>
 Estimating the magnetic field strength in the solar corona is crucial for understanding different physical processes happening over diverse spatiotemporal scales. However, the high temperatures and low density of the solar corona make this task challenging. The coronal magnetic field is too weak to produce a measurable splitting of the spectral lines using the Zeeman effect, and high temperature causes spectral lines to become weak and broad, making it difficult to detect the small Zeeman splitting. Coronal magneto-seismology, which combines the theoretical and observed properties of magnetohydrodynamic waves, can be used to infer the magnetic field strength of oscillating structures in the solar corona, which are otherwise difficult to estimate. In this work, we use the Doppler velocity and density data obtained from the Coronal Multichannel Polarimeter on 2016 October 14 to obtain the global map of the coronal magnetic field using Bayesian inference. Two priors are used for plasma density, viz Gaussian and uniform distributions. Bayesian inference provides us with the probability distribution for the magnetic field strength at each location from 1.05 to 1.35 R⊙. A comparison between the magnetic field obtained using simple inversion and Bayesian inference is also drawn. We find that the values obtained using simple inversion do not always match the maximum posterior estimates obtained using Bayesian inference. We find that the inferred values follow a power-law function for the radial variation of the coronal magnetic field, with the power-law indices for simple and Bayesian inversion being similar.
-]]></content:encoded>
-<pubDate>2024-02-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Self-consistent Conditions for 26Al Injection into a Protosolar Disk from a Nearby Supernova</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e62</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e62</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 早期太阳系，26Al，超新星，原行星盘，太阳系起源<br />
-总结: 早期太阳系含有一种短寿命放射性核素26Al，据信它的衰变能控制了小行星的热演化，可能也影响了行星的水含量。一种可能的假设是“盘注入情形”，即在原行星盘形成后，附近(<1 pc)的超新星将放射性物质直接注入盘中。然而，研究发现需要超新星产生的26Al量很大，且注入后会改变盘的温度，这与太阳系的实际情况不符。因此，推测早期太阳系中的新鲜26Al可能以其他方式合成/注入。 <div>
-The early solar system contained a short-lived radionuclide, 26Al (its half-life time t1/2 = 0.7 Myr). The decay energy of 26Al is thought to have controlled the thermal evolution of planetesimals and, possibly, the water contents of planets. Many hypotheses have been proposed for the origin of 26Al in the solar system. One of the possible hypotheses is the “disk injection scenario”: when the protoplanetary disk of the solar system had already formed, a nearby (<1 pc) supernova injected radioactive material directly into the disk. Such a 26Al injection hypothesis has been tested so far with limited setups for disk structure and supernova distance, which have treated disk disruption and 26Al injection separately. Here, we revisit this problem, to investigate whether there are self-consistent conditions under which the surviving disk radius can receive enough 26Al to account for the abundance in the early solar system. We also consider a range of disk masses and structures, 26Al yields from supernova, and a large dust mass fraction ηd. We find that 26Al yields of supernova are required as , which are challenging to achieve with the known possible 26Al ejection and dust mass fraction ranges. Furthermore, we find that even if the above conditions are met, the supernova flow changes the disk temperature, which may not be consistent with the solar system record. Our results place a strong constraint on the disk injection scenario. Rather, we suggest that the fresh 26Al of the early solar system must have been synthesized/injected in other ways.
-]]></content:encoded>
-<pubDate>2024-02-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f6d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1f6d</guid>
-<content:encoded><![CDATA[
-<div> 伴星棕矮星，化学分析，原型星，质量平衡，凝结序列
-
-理论化学分析了一组伴随原型型F、G或K型恒星的标杆伴星棕矮星样本，称为“组成基准”，以了解棕矮星化学成分和凝结物形成。通过质量平衡和化学计算，利用已发表的太阳附近恒星丰度预测了棕矮星大气中的氧消耗中位数。此外，我们预测了硅酸盐凝结序列，即具有Mg/Si≲0.9的大气将形成榍石（MgSiO3）和石英（SiO2）云，而具有Mg/Si≳0.9的大气将形成榍石和橄榄石（Mg2SiO4）云。讨论了这些结果对次恒星质量物体中C/O比率趋势的影响以及这些预测在未来建模工作中的实用性。 <br /><br />总结: 本研究进行了一项理论化学分析，预测了伴星棕矮星大气中的氧消耗以及硅酸盐凝结序列。通过质量平衡和化学计算，得出了有关棕矮星化学成分和凝结物形成的重要预测，对于理解次恒星质量物体中C/O比率趋势具有重要意义，并可用于未来建模工作中。 <div>
-We present results from conducting a theoretical chemical analysis of a sample of benchmark companion brown dwarfs whose primary star is of type F, G, or K. We summarize the entire known sample of these types of companion systems, termed “compositional benchmarks,” that are present in the literature or recently published as key systems of study in order to best understand brown dwarf chemistry and condensate formation. Via mass balance and stoichiometric calculations, we predict a median brown dwarf atmospheric oxygen sink of by utilizing published stellar abundances in the local solar neighborhood. Additionally, we predict a silicate condensation sequence such that atmospheres with bulk Mg/Si ≲0.9 will form enstatite (MgSiO3) and quartz (SiO2) clouds, and atmospheres with bulk Mg/Si ≳0.9 will form enstatite and forsterite (Mg2SiO4) clouds. The implications of these results on C/O ratio trends in substellar-mass objects and the utility of these predictions in future modeling work are discussed.
-]]></content:encoded>
-<pubDate>2024-02-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>AT2022cmc: A Tidal Disruption Event with a Two-component Jet in a Bondi-profile Circumnuclear Medium</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad20f3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad20f3</guid>
-<content:encoded><![CDATA[
-A supermassive black hole can launch a relativistic jet when it violently disrupts a star that passes too close. Such jetted tidal disruption events (TDEs) are rare and unique tools to investigate quiescent supermassive black holes, jet physics, and circumnuclear environments at high redshift. The newly discovered TDE AT2022cmc (z ∼ 1.193), providing rich multiband (X-ray, UV, optical, submillimeter, and radio) data, has been interpreted as the fourth on-axis jetted TDE. In this work, we constrain the circumnuclear medium (CNM) density profile with both a closure relation test and detailed forward shock model fit with a Markov Chain Monte Carlo approach to the multiband (optical, submillimeter, and radio) data of AT2022cmc. We find that the CNM density profile of AT2022cmc is n ∝ R−k with k ∼ 1.68, implying a Bondi accretion in history. Furthermore, our model fit result suggests a two-component jet in AT2022cmc, indicating similar jet physics to well-studied jetted TDE Sw J1644+57.
 ]]></content:encoded>
 <pubDate>2024-02-29T00:00:00Z</pubDate>
 </item>
