@@ -4,6 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>The AGORA High-resolution Galaxy Simulations Comparison Project. IV. Halo and Galaxy Mass Assembly in a Cosmological Zoom-in Simulation at z ≤ 2</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43de</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43de</guid>
+<content:encoded><![CDATA[
+<div> 关键词: AGORA Collaboration, Milky Way mass galaxy, hydrodynamic simulation codes, redshift, cosmological zoom-in simulations
+
+总结: 本研究通过CosmoRun套件模拟了一个银河系质量星系的演化至红移z = 2以下的过程，并与同样的八个暗物质模拟进行了比较。研究了星系在z = 4和3时的一般性质以及最后一次主要并合之前的演化过程，重点关注了旋转支持的盘的形成、质量-金属丰度关系、特定星形成速率、气体的金属丰度梯度以及恒星盘中的非轴对称结构。研究发现，大多数模拟代码在低红移时期都发展出了旋转支持的结构，大多数模拟结果在高和中红移都与观测结果符合较好，并且复现了来自解析模型和低红移观测得到的气体金属丰度梯度。研究还发现模拟代码之间的差异主要是由于控制重力求解器时间步进策略的代码相关参数的变化导致的，早期恒星反馈的变化也会导致低红移并合的时间差异。所有至z = 2的模拟数据和辅助数据将被公开发布。 <br><br>总结: 本研究通过模拟了一个银河系质量星系的演化至红移z = 2以下的过程，并与同样的八个暗物质模拟进行了比较。研究了星系在z = 4和3时的一般性质以及最后一次主要并合之前的演化过程，重点关注了旋转支持的盘的形成、质量-金属丰度关系、特定星形成速率、气体的金属丰度梯度以及恒星盘中的非轴对称结构。研究发现，大多数模拟代码在低红移时期都发展出了旋转支持的结构，大多数模拟结果在高和中红移都与观测结果符合较好，并且复现了来自解析模型和低红移观测得到的气体金属丰度梯度。 <div>
+In this fourth paper from the AGORA Collaboration, we study the evolution down to redshift z = 2 and below of a set of cosmological zoom-in simulations of a Milky Way mass galaxy by eight of the leading hydrodynamic simulation codes. We also compare this CosmoRun suite of simulations with dark matter-only simulations by the same eight codes. We analyze general properties of the halo and galaxy at z = 4 and 3, and before the last major merger, focusing on the formation of well-defined rotationally supported disks, the mass–metallicity relation, the specific star formation rate, the gas metallicity gradients, and the nonaxisymmetric structures in the stellar disks. Codes generally converge well to the stellar-to-halo mass ratios predicted by semianalytic models at z ∼ 2. We see that almost all the hydro codes develop rotationally supported structures at low redshifts. Most agree within 0.5 dex with the observed mass–metallicity relation at high and intermediate redshifts, and reproduce the gas metallicity gradients obtained from analytical models and low-redshift observations. We confirm that the intercode differences in the halo assembly history reported in the first paper of the collaboration also exist in CosmoRun, making the code-to-code comparison more difficult. We show that such differences are mainly due to variations in code-dependent parameters that control the time stepping strategy of the gravity solver. We find that variations in the early stellar feedback can also result in differences in the timing of the low-redshift mergers. All the simulation data down to z = 2 and the auxiliary data will be made publicly available.
+]]></content:encoded>
+
+<pubDate>2024-06-19T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Multicomponent Fitting to the Star Formation Histories in the TNG Simulation</title>
