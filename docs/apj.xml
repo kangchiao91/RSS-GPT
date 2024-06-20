@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The AGORA High-resolution Galaxy Simulations Comparison Project. IV. Halo and Galaxy Mass Assembly in a Cosmological Zoom-in Simulation at z ≤ 2</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43de</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: AGORA Collaboration, Milky Way mass galaxy, hydrodynamic simulation codes, redshift, cosmological zoom-in simulations
 
-总结: 本研究通过CosmoRun套件模拟了一个银河系质量星系的演化至红移z = 2以下的过程，并与同样的八个暗物质模拟进行了比较。研究了星系在z = 4和3时的一般性质以及最后一次主要并合之前的演化过程，重点关注了旋转支持的盘的形成、质量-金属丰度关系、特定星形成速率、气体的金属丰度梯度以及恒星盘中的非轴对称结构。研究发现，大多数模拟代码在低红移时期都发展出了旋转支持的结构，大多数模拟结果在高和中红移都与观测结果符合较好，并且复现了来自解析模型和低红移观测得到的气体金属丰度梯度。研究还发现模拟代码之间的差异主要是由于控制重力求解器时间步进策略的代码相关参数的变化导致的，早期恒星反馈的变化也会导致低红移并合的时间差异。所有至z = 2的模拟数据和辅助数据将被公开发布。 <br><br>总结: 本研究通过模拟了一个银河系质量星系的演化至红移z = 2以下的过程，并与同样的八个暗物质模拟进行了比较。研究了星系在z = 4和3时的一般性质以及最后一次主要并合之前的演化过程，重点关注了旋转支持的盘的形成、质量-金属丰度关系、特定星形成速率、气体的金属丰度梯度以及恒星盘中的非轴对称结构。研究发现，大多数模拟代码在低红移时期都发展出了旋转支持的结构，大多数模拟结果在高和中红移都与观测结果符合较好，并且复现了来自解析模型和低红移观测得到的气体金属丰度梯度。 <div>
+总结: 本研究通过CosmoRun套件模拟了一个银河系质量星系的演化至红移z = 2以下的过程，并与同样的八个暗物质模拟进行了比较。研究了星系在z = 4和3时的一般性质以及最后一次主要并合之前的演化过程，重点关注了旋转支持的盘的形成、质量-金属丰度关系、特定星形成速率、气体的金属丰度梯度以及恒星盘中的非轴对称结构。研究发现，大多数模拟代码在低红移时期都发展出了旋转支持的结构，大多数模拟结果在高和中红移都与观测结果符合较好，并且复现了来自解析模型和低红移观测得到的气体金属丰度梯度。研究还发现模拟代码之间的差异主要是由于控制重力求解器时间步进策略的代码相关参数的变化导致的，早期恒星反馈的变化也会导致低红移并合的时间差异。所有至z = 2的模拟数据和辅助数据将被公开发布。 <br /><br />总结: 本研究通过模拟了一个银河系质量星系的演化至红移z = 2以下的过程，并与同样的八个暗物质模拟进行了比较。研究了星系在z = 4和3时的一般性质以及最后一次主要并合之前的演化过程，重点关注了旋转支持的盘的形成、质量-金属丰度关系、特定星形成速率、气体的金属丰度梯度以及恒星盘中的非轴对称结构。研究发现，大多数模拟代码在低红移时期都发展出了旋转支持的结构，大多数模拟结果在高和中红移都与观测结果符合较好，并且复现了来自解析模型和低红移观测得到的气体金属丰度梯度。 <div>
 In this fourth paper from the AGORA Collaboration, we study the evolution down to redshift z = 2 and below of a set of cosmological zoom-in simulations of a Milky Way mass galaxy by eight of the leading hydrodynamic simulation codes. We also compare this CosmoRun suite of simulations with dark matter-only simulations by the same eight codes. We analyze general properties of the halo and galaxy at z = 4 and 3, and before the last major merger, focusing on the formation of well-defined rotationally supported disks, the mass–metallicity relation, the specific star formation rate, the gas metallicity gradients, and the nonaxisymmetric structures in the stellar disks. Codes generally converge well to the stellar-to-halo mass ratios predicted by semianalytic models at z ∼ 2. We see that almost all the hydro codes develop rotationally supported structures at low redshifts. Most agree within 0.5 dex with the observed mass–metallicity relation at high and intermediate redshifts, and reproduce the gas metallicity gradients obtained from analytical models and low-redshift observations. We confirm that the intercode differences in the halo assembly history reported in the first paper of the collaboration also exist in CosmoRun, making the code-to-code comparison more difficult. We show that such differences are mainly due to variations in code-dependent parameters that control the time stepping strategy of the gravity solver. We find that variations in the early stellar feedback can also result in differences in the timing of the low-redshift mergers. All the simulation data down to z = 2 and the auxiliary data will be made publicly available.
 ]]></content:encoded>
-
 <pubDate>2024-06-19T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Multicomponent Fitting to the Star Formation Histories in the TNG Simulation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad402f</link>
@@ -11235,18 +11234,6 @@ Gamma-ray bursts produce afterglows that can be observed across the electromagne
 <content:encoded><![CDATA[
 <div> 星系，微波辐射，MALATANG，亮度，恒星形成<br />总结:<br />本研究利用韩国VLBI网络进行了单天线观测，以探寻附近星系中的异常微波辐射。研究选择了来自James Clerk Maxwell望远镜的遗产调查项目“Mapping the dense molecular gas in the strongest star-forming galaxies”（MALATANG）中的目标星系。通过与其他数据的结合，研究了5个星系的无线电-红外谱能分布（SED），并在其中的NGC 2903星系中明显探测到了AME信号。而NGC 2146和M82星系中的AME信号则较弱。NGC 1068和Arp 299星系中未观测到明显的AME信号，研究给出了AME的上限。最拟合的SED显示出AME成分在频率更高且峰值流量更强的局部峰值，这暗示AME的起源可能是分子云或光解离区这样的密集环境，而非常见的暖中性/电离介质。此外，AME被发现更喜欢具有更高特定恒星形成速率的目标星系，而不是AGN宿主。因此，这可能暗示AGN对微尘来说是过于恶劣的环境。 <div>
 We present the results of the single-dish observations using the Korean VLBI Network to search for anomalous microwave emission (AME) in nearby galaxies. The targets were selected from ‘Mapping the dense molecular gas in the strongest star-forming galaxies' (MALATANG), a legacy survey project of the James Clerk Maxwell Telescope. The MALATANG galaxies are good representatives of local galaxies with enhanced nuclear activity associated with star formation and/or active galactic nuclei (AGNs), providing IR-bright galaxy samples; thus, they are good candidates for AME hosts. Combining with ancillary data, we investigated the radio–IR spectral energy distribution (SED), while searching for AME signals in five galaxies. The AME in NGC 2903 was well detected at a significant confidence level, whereas that in NGC 2146 and M82 was marginal. NGC 1068 and Arp 299 indicated no significant hints, and we provide upper limits for the AME. The best-fit SED exhibited local peaks of the AME components at higher frequencies and with stronger peak fluxes than those in previous studies. This suggested that AME originates from denser environments such as molecular clouds or photodissociation regions rather than warm neutral/ionized medium as commonly suggested by previous studies. Further, our AME-detected targets were observed to exhibit higher specific star formation rates than the other extragalactic AME hosts. Furthermore, AME favored starburst galaxies among our sample rather than AGN hosts. Consequently, this might imply that AGNs are excessively harsh environments for tiny dust to survive.
-]]></content:encoded>
-<pubDate>2024-03-01T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Complex K: Supernova Origin of Anomalous-velocity H i Structure</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bd4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bd4</guid>
-<content:encoded><![CDATA[
-<div> 高速云，λ-21厘米中性氢EBHIS调查，扩展壳体，超新星爆炸，第三个盖亚数据发布，二进制系统
-
-扩展壳体的负速度可以归因于老超新星的气体，但膨胀壳体的推移对应物在哪里？通过λ-21厘米银河中性氢EBHIS调查的数据显示，接近的和远离的氢气壳体形成了复杂K的一部分。高蓝移速度来自于氢气进入低密度的星际空间环境。数据还显示远离的边缘的特征，表明了壳体的远离排放。如果做出壳体均匀且球对称的简化假设，那么爆炸约在3 × 105年前发生。动量p ∼ 7 × 104M⊙ km s−1，与近期模型估计的超新星演化相吻合。第三次盖亚数据发布识别的几个双星系统可能是复杂K中异常速度H i气体的超新星爆炸来源。通过几个带有中子星候选者的双星系统确定了讨论中H i特征的距离。 <br /><br />总结:这篇文章探讨了高速云的一个悬而未决的谜团，通过对观测数据的分析，发现了远离和接近壳体的特征，揭示了超新星爆炸可能是导致复杂K中异常速度氢气的原因，并通过多种观测数据和模型估计得出了有关爆炸发生的时间和动量的信息。 <div>
-We address one of the lingering mysteries of high-velocity clouds: If the anomalous negative velocities are the result of the approaching gas from old supernovae, then where are the receding counterparts of the expanding shells? Data from the λ-21 cm Galactic neutral hydrogen EBHIS survey (Winkel et al.) show multiple signatures of the expanding shells. The near-side (approaching) H i shells form part of Complex K. The high blueshifted velocities result from the H i moving into the low-density environment of inter-arm space. The H i data also show a distinctive, bow-shaped feature, the signature of the far-side (receding) emission of an expanding shell. The low redshifted velocity results from the gas expanding into volumes of space with a higher density. If we make the simplifying assumptions that the expansion of the shells is uniform and spherically symmetric, then the explosions took place about ⪅3 × 105 yr ago. The momentum, p ∼ 7 × 104M⊙ km s−1, agrees with recent model estimates for supernova evolution. Supernova explosions attributed to the unseen companion in several binary systems identified by the Third Gaia Data Release may be responsible for anomalous-velocity H i gas in Complex K. Four binary star systems with neutron-star candidates are located at the edge of the Sagittarius spiral arm and used to determine the distance to the H i features discussed here.
 ]]></content:encoded>
 <pubDate>2024-03-01T00:00:00Z</pubDate>
 </item>
