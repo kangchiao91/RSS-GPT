@@ -5,6 +5,32 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Electron Cyclotron Maser Emission and the Brightest Solar Radio Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4640</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4640</guid>
+<content:encoded><![CDATA[
+<div> solar radio bursts, coherent emission, Nobeyama Radio Polarimeters, electron cyclotron maser (ECM) emission, gyrosynchrotron flare emission
+<br><br>总结: 本论文研究了太阳射电爆发中相干辐射的发生率，使用了1988年至2023年Nobeyama射电偏振计观测到的3800个太阳射电爆发的修订目录。重点关注1.0和2.0 GHz数据，观察到了达到10^10 Jy数量级的射电流量。之前的研究表明，这些爆发是由电子回旋脉塞（ECM）辐射引起的。根据射电波谱，可以区分1 GHz的相干辐射和传统的不相干回旋辐射。对于超过100 sfu的爆发，发现四分之三的1 GHz爆发和一半的2 GHz爆发具有主导的相干辐射成分，假设为ECM。在1 GHz的大多数非常明亮的爆发中，极化度很高，与相干辐射机制一致，但并非总是100%极化。1至2 GHz的频率范围被广泛用于地球应用，这些结果对理解可能影响这些应用的极端流量水平是相关的，并且为与其他恒星和潜在外行星上的ECM辐射研究进行比较提供了参考。 <div>
+This paper investigates the incidence of coherent emission in solar radio bursts, using a revised catalog of 3800 solar radio bursts observed by the Nobeyama Radio Polarimeters from 1988 to 2023. We focus on the 1.0 and 2.0 GHz data, where radio fluxes of order 1010 Jy have been observed. Previous work has suggested that these bursts are due to electron cyclotron maser (ECM) emission. In at least one well-studied case, the bright emission at 1 GHz consists of narrowband spikes of millisecond duration. Coherent emission at 1 GHz can be distinguished from traditional incoherent gyrosynchrotron flare emission based on the radio spectrum: Gyrosynchrotron emission at 1 GHz usually has a spectrum rising with frequency, so bursts in which 1 GHz is stronger than higher-frequency measurements are unlikely to be incoherent gyrosynchrotron. Based on this criterion, it is found that for bursts exceeding 100 sfu, three-quarters of all bursts at 1 GHz and half of all 2 GHz bursts have a dominant coherent emission component, assumed to be ECM. The majority of the very bright bursts at 1 GHz are highly circularly polarized, consistent with a coherent emission mechanism, but not always 100% polarized. The frequency range from 1 to 2 GHz is heavily utilized for terrestrial applications, and these results are relevant for understanding the extreme flux levels that may impact such applications. Further, they provide a reference for comparison with the study of ECM emission from other stars and potentially exoplanets.
+]]></content:encoded>
+
+<pubDate>2024-06-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Cross-correlation Techniques to Mitigate the Interloper Contamination for Line Intensity Mapping Experiments</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a29</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a29</guid>
+<content:encoded><![CDATA[
+<div> LIM, spectral line emissions, redshift, interloping lines, cross-correlations
+总结: 
+LIM是天体物理学中的一种重要探测方法，通过对远距离星系的积分谱线发射进行统计分析。文章介绍了一种新的方法LIM-LLX来量化线-线交叉相关，用于研究目标信号和干扰信号。研究发现，在特定红移下，使用CO(6-5)线与C ii 158进行交叉相关可以得到较高的信噪比，并且较少偏差。通过利用不同的CO跃迁线来探测低红移的宇宙，还展示了交叉相关的广泛能力。最后，将低频通道整合到实验中，可以最大限度地减少仪器噪声和干扰信号引入的偏差。 <div>
+Line intensity mapping (LIM) serves as a potent probe in astrophysics, relying on the statistical analysis of integrated spectral line emissions originating from distant star-forming galaxies. While LIM observations hold the promise of achieving a broad spectrum of scientific objectives, a significant hurdle for future experiments lies in distinguishing the targeted spectral line emitted at a specific redshift from undesired line emissions originating at different redshifts. The presence of these interloping lines poses a challenge to the accuracy of cosmological analyses. In this study, we introduce a novel approach to quantify line–line cross-correlations (LIM-LLX), enabling us to investigate the target signal amid instrumental noise and interloping emissions. For example, at a redshift of z ∼ 3.7, we observed that the measured auto-power spectrum of C ii 158 exhibited substantial bias, from interloping line emission. However, cross-correlating C ii 158 with CO(6–5) lines using an FYST-like experiment yielded a promising result, with a signal-to-noise ratio of ∼10. This measurement is notably unbiased. Additionally, we explore the extensive capabilities of cross-correlation by leveraging various CO transitions to probe the tomographic Universe at lower redshifts through LIM-LLX. We further demonstrate that incorporating low-frequency channels, such as 90 and 150 GHz, into FYST’s EoR-Spec-like experiment can maximize the potential for cross-correlation studies, effectively reducing the bias introduced by instrumental noise and interlopers.
+]]></content:encoded>
+
+<pubDate>2024-06-20T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Two-dimensional Models of Microphysical Clouds on Hot Jupiters. I. Cloud Properties</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de4</guid>
@@ -15,7 +41,6 @@
 本研究提出了一个新的热木星大气中云的两维微物理模型，考虑了纵向气体和云的输运效应。通过对平衡温度从1000到2100 K范围内的一系列热木星进行模拟，预测了云粒子大小分布与行星经度和大气高度的关系。结果表明，在二维模型中，某些云物种能够在热木星的白昼侧被输运并存活，这在一维模型中是无法预测的。此外，我们发现凝结性气体物种的耗尽程度随着经度和大气高度的变化而变化，进而影响了气相化学反应。最后，我们讨论了各种模型敏感度，包括云属性对微物理参数的敏感度相对较小，而对大气热结构以及冷凝物质的水平和垂直输运的敏感度更大。 <div>
 We present a new two-dimensional, bin-scheme microphysical model of cloud formation in the atmospheres of hot Jupiters that includes the effects of longitudinal gas and cloud transport. We predict cloud particle size distributions as a function of planetary longitude and atmospheric height for a grid of hot Jupiters with equilibrium temperatures ranging from 1000 to 2100 K. The predicted 2D cloud distributions vary significantly from models that do not consider horizontal cloud transport and we discuss the microphysical and transport timescales that give rise to the differences in 2D versus 1D models. We find that the horizontal advection of cloud particles increases the cloud formation efficiency for nearly all cloud species and homogenizes cloud distributions across the planets in our model grid. In 2D models, certain cloud species are able to be transported and survive on the daysides of hot Jupiters in cases where 1D models would not predict the existence of clouds. We demonstrate that the depletion of condensible gas species varies as a function of longitude and atmospheric height across the planet, which impacts the resultant gas-phase chemistry. Finally, we discuss various model sensitivities including the sensitivity of cloud properties to microphysical parameters, which we find to be substantially less than the sensitivity to the atmospheric thermal structure and horizontal and vertical transport of condensible material.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,11 +49,10 @@ We present a new two-dimensional, bin-scheme microphysical model of cloud format
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4117</guid>
 <content:encoded><![CDATA[
 <div> TNG50, morphological indicators, observational effects, JWST/NIRCam, galaxies
-<br><br>
-该研究利用TNG50模拟的832个星系样本，研究了噪声较少和高分辨率的TNG50图像以及模拟图像对非参数形态指标（C、A、Gini、M20、AO和DO）的影响。研究发现，在波长小于1μm时，形态指标随观测波长的演化显著，而在波长大于1μm时变化不明显。星系的形态指标受到星等波长的影响，星体活跃星系（SFGs）和平静星系（QGs）的形态存在显著差异，QGs的形态对星等波长的敏感性更高。此外，QGs的形态随红移和恒星质量的变化较大。与JWST观测相比，TNG50模拟有效地再现了我们测量的形态指标，但必须考虑尘埃衰减的影响。<br><br>总结: 该研究利用TNG50模拟了832个星系样本，研究了形态指标与观测效应之间的关系，发现星系的形态指标受到观测波长的影响，QGs的形态对星等波长的敏感性更高。此外，QGs的形态随红移和恒星质量的变化较大，TNG50模拟有效地再现了我们测量的形态指标，但必须考虑尘埃衰减的影响。 <div>
+<br /><br />
+该研究利用TNG50模拟的832个星系样本，研究了噪声较少和高分辨率的TNG50图像以及模拟图像对非参数形态指标（C、A、Gini、M20、AO和DO）的影响。研究发现，在波长小于1μm时，形态指标随观测波长的演化显著，而在波长大于1μm时变化不明显。星系的形态指标受到星等波长的影响，星体活跃星系（SFGs）和平静星系（QGs）的形态存在显著差异，QGs的形态对星等波长的敏感性更高。此外，QGs的形态随红移和恒星质量的变化较大。与JWST观测相比，TNG50模拟有效地再现了我们测量的形态指标，但必须考虑尘埃衰减的影响。<br /><br />总结: 该研究利用TNG50模拟了832个星系样本，研究了形态指标与观测效应之间的关系，发现星系的形态指标受到观测波长的影响，QGs的形态对星等波长的敏感性更高。此外，QGs的形态随红移和恒星质量的变化较大，TNG50模拟有效地再现了我们测量的形态指标，但必须考虑尘埃衰减的影响。 <div>
 The measurements of morphological indicators of galaxies are often influenced by a series of observational effects. In this study, we utilize a sample of 832 TNG50 simulated galaxies with log(M*/M⊙)> 9 at 0.5 < z < 3 to investigate the differences in nonparametric morphological indicators (C, A, Gini, M20, AO, and DO) derived from noise-free and high-resolution TNG50 images and mock images simulated to have the same observational conditions as JWST/NIRCam. We quantify the relationship between intrinsic and observed values of the morphological indicators and accordingly apply this calibration to 4733 galaxies in the same stellar mass and redshift ranges observed in JWST CEERS and JADES surveys. We find a significant evolution of morphological indicators with rest-frame wavelength (λrf) at λrf < 1 μm, while essentially no obvious variations occur at λrf > 1 μm. The morphological indicators of star-forming galaxies (SFGs) and quiescent galaxies (QGs) are significantly different. The morphologies of QGs exhibit a higher sensitivity to rest-frame wavelength than SFGs. After analyzing the evolution of morphological indicators in the rest-frame V band (0.5–0.7 μm) and rest-frame J band (1.1–1.4 μm), we find that the morphologies of QGs evolve substantially with both redshift and stellar mass. For SFGs, the C, Gini, and M20 show a rapid evolution with stellar mass at log(M*/M⊙) ≥ 10.5, while the AO, DO, and A evolve with both redshift and stellar mass. Our comparison shows that TNG50 simulations effectively reproduce the morphological indicators we measured from JWST observations when the impact of dust attenuation is considered.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,11 +61,10 @@ The measurements of morphological indicators of galaxies are often influenced by
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4147</guid>
 <content:encoded><![CDATA[
 <div> Hubble eXtreme Deep Field, JWST/MIRI, 强Hα发射体, 宇宙再电离, 离子化光子产生效率
-<br><br>
+<br /><br />
 总结: 本研究利用JWST/MIRI在Hubble eXtreme Deep Field的超深图像，在z≃7-8时限制了强Hα发射体（HAEs）在“宇宙再电离”中的作用。样本包括年轻（<35 Myr）低质量（≲109M⊙）的星系，它们的紫外线连续光谱坡度（β）范围广，与星等质量有关。计算结果表明这些发射体对周围星系间介质进行再电离仅需较小的逸出分数（fesc，rel）为6%至15%。与同一红移范围内的非HAE星系相比，强、年轻、低质量的发射体可能在宇宙再电离中发挥了重要作用。 <div>
 By using an ultradeep JWST/MIRI image at 5.6 μm in the Hubble eXtreme Deep Field, we constrain the role of strong Hα emitters (HAEs) during “cosmic reionization” at z ≃ 7–8. Our sample of HAEs is comprised of young (<35 Myr) galaxies, except for one single galaxy (≈300 Myr), with low stellar masses (≲109M⊙). These HAEs show a wide range of rest-frame UV continuum slopes (β), with a median value of β = −2.15 ± 0.21, which broadly correlates with stellar mass. We estimate the ionizing photon production efficiency (ξion,0) of these sources (assuming fesc,LyC = 0%), which yields a median value . We show that ξion,0 positively correlates with Hα equivalent width and specific star formation rate. Instead ξion,0 weakly anticorrelates with stellar mass and β. Based on the β values, we predict , which results in . Considering this and related findings from the literature, we find a mild evolution of ξion with redshift. Additionally, our results suggest that these HAEs require only modest escape fractions (fesc,rel) of 6%–15% to reionize their surrounding intergalactic medium. By only considering the contribution of these HAEs, we estimated their total ionizing emissivity ( ) as . When comparing their with non-HAE galaxies across the same redshift range, we find that that strong, young, and low-mass emitters may have played an important role during cosmic reionization.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,13 +73,12 @@ By using an ultradeep JWST/MIRI image at 5.6 μm in the Hubble eXtreme Deep Fiel
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad414c</guid>
 <content:encoded><![CDATA[
 <div> 超大质量黑洞，活动星系核，超高红移，BH-星系质量比，BH成长路径
-<br>
+<br />
 这项研究使用变化选择的活动星系核样本（iAB ≤ 25.9 and z ≤ 4.5）进行了超大质量黑洞（SMBHs）和宿主星系之间关系的研究。他们基于单次测量维里定律方法估计了黑洞质量（MBH = 10^5.5−10M⊙），并通过谱能分布拟合将总星质量（Mstar = 10^10−12M⊙）与AGN组件分离。研究发现 BH-星系质量比（MBH/Mstar）的红移演化取决于MBH，这是由于MBH与Mstar之间没有明显的相关性。在1.5 < z < 3的低红移变化AGNs中，具有庞大SMBHs（MBH > 10^9M⊙）的对象显示出明显更高的BH-星系质量比（> ∼1%），这意味着庞大SMBHs存在一种典型的成长路径，比目前观察到的局部宇宙中具有相同BH范围的BH-星系球比（MBH/Mbulge）更快。另一方面，在0.5 < z < 3的小质量SMBHs（MBH < 10^8M⊙）中，变化AGNs显示出与局部对象相似的BH-星系质量比（∼0.1%），但比观察到的z > 4时的小些。我们解释说，在中红移时期，宿主星系中的小质量SMBHs已经获得足够的恒星质量，尽管高红移星系相对于中/局部宇宙的星系仍处于星系形成的早期阶段。 
-<br><br>总结: 
+<br /><br />总结: 
 超大质量黑洞与宿主星系的关系研究发现，BH-星系质量比的红移演化取决于黑洞质量，大质量SMBHs的成长速度比星系中恒星球成分的形成速度更快，而小质量SMBHs的情况与局部宇宙的类似，但高于高红移时期。这说明在中红移时期，宿主星系中的小质量SMBHs已经获得足够的恒星质量，而高红移星系相对于中/局部宇宙的星系仍处于星系形成的早期阶段。 <div>
 We present the study on the relationship between supermassive black holes (SMBHs) and their host galaxies using our variability-selected active galactic nuclei (AGNs) sample (iAB ≤ 25.9 and z ≤ 4.5) constructed from the Hyper Suprime-Cam Subaru Strategic Program Ultradeep survey in the COSMOS field. We estimated the black hole (BH) mass (MBH = 105.5−10M⊙) based on the single-epoch virial method and the total stellar mass (Mstar = 1010−12M⊙) by separating the AGN component with spectral energy distribution fitting. We found that the redshift evolution of the BH–stellar mass ratio (MBH/Mstar) depends on the MBH, which is caused by no significant correlation between MBH and Mstar. Variable AGNs with massive SMBHs (MBH > 109M⊙) at 1.5 < z < 3 show considerably higher BH–stellar mass ratios (> ∼1%) than the BH–bulge ratios (MBH/Mbulge) observed in the local Universe for the same BH range. This implies that there is a typical growth path of massive SMBHs, which is faster than the formation of the bulge component as final products seen in the present day. For the low-mass SMBHs (MBH < 108M⊙) at 0.5 < z < 3, on the other hand, variable AGNs show similar BH–stellar mass ratios with the local objects (∼0.1%), but smaller than those observed at z > 4. We interpret that host galaxies harboring less massive SMBHs at intermediate redshift have already acquired sufficient stellar mass, although high-z galaxies are still in the early stage of galaxy formation relative to those at the intermediate/local Universe.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -66,10 +88,9 @@ We present the study on the relationship between supermassive black holes (SMBHs
 <content:encoded><![CDATA[
 <div> 白矮星，结晶驱动对流，混合长度理论，热扩散，热和成分通量
 
-在这篇论文中，研究人员调查了碳氧白矮星中的结晶驱动对流现象。他们提出了一种混合长度理论的版本，其中自洽地包括了热扩散和成分梯度的影响，并根据局部热量和成分通量提供了对流参数的解决方案。他们的公式能够在低Peclet数时平稳过渡到缓慢的热盐对流状态，在大Peclet数时呈现快速绝热对流状态。该公式还允许热驱动和成分驱动的对流，并能正确考虑在热稳定背景下成分驱动对流的热传输方向。他们使用MESA恒星演化代码计算了不同模型的冷却白矮星在结晶过程中的成分和热通量，并确定了对流状态和对流速度。他们发现，在恒星冷却历史的大部分时间里，对流发生在缓慢的热盐对流状态下。然而，在结晶开始时，成分通量足够大，能够在短时间内驱动快速翻转对流（约10百万年）。他们估计了这两个阶段的对流速度，并讨论了用结晶驱动的涡流解释观测到的白矮星磁场的影响。<br><br>总结: 白矮星中的结晶驱动对流现象得到了研究。研究人员提出了一种混合长度理论，并使用MESA代码进行了模拟计算。他们发现，在白矮星的冷却历史中，对流主要发生在缓慢的热盐对流状态下，但在结晶开始阶段会出现快速翻转对流。对此，他们估算了对流速度，并探讨了结晶驱动的涡流对观测到的白矮星磁场的影响。 <div>
+在这篇论文中，研究人员调查了碳氧白矮星中的结晶驱动对流现象。他们提出了一种混合长度理论的版本，其中自洽地包括了热扩散和成分梯度的影响，并根据局部热量和成分通量提供了对流参数的解决方案。他们的公式能够在低Peclet数时平稳过渡到缓慢的热盐对流状态，在大Peclet数时呈现快速绝热对流状态。该公式还允许热驱动和成分驱动的对流，并能正确考虑在热稳定背景下成分驱动对流的热传输方向。他们使用MESA恒星演化代码计算了不同模型的冷却白矮星在结晶过程中的成分和热通量，并确定了对流状态和对流速度。他们发现，在恒星冷却历史的大部分时间里，对流发生在缓慢的热盐对流状态下。然而，在结晶开始时，成分通量足够大，能够在短时间内驱动快速翻转对流（约10百万年）。他们估计了这两个阶段的对流速度，并讨论了用结晶驱动的涡流解释观测到的白矮星磁场的影响。<br /><br />总结: 白矮星中的结晶驱动对流现象得到了研究。研究人员提出了一种混合长度理论，并使用MESA代码进行了模拟计算。他们发现，在白矮星的冷却历史中，对流主要发生在缓慢的热盐对流状态下，但在结晶开始阶段会出现快速翻转对流。对此，他们估算了对流速度，并探讨了结晶驱动的涡流对观测到的白矮星磁场的影响。 <div>
 We investigate crystallization-driven convection in carbon–oxygen white dwarfs. We present a version of the mixing length theory that self-consistently includes the effects of thermal diffusion and composition gradients, and provides solutions for the convective parameters based on the local heat and composition fluxes. Our formulation smoothly transitions between the regimes of fast adiabatic convection at large Peclet number and slow thermohaline convection at low Peclet number. It also allows for both thermally driven and compositionally driven convection, including correctly accounting for the direction of heat transport for compositionally driven convection in a thermally stable background. We use the MESA stellar evolution code to calculate the composition and heat fluxes during crystallization in different models of cooling white dwarfs, and determine the regime of convection and the convective velocity. We find that convection occurs in the regime of slow thermohaline convection during most of the cooling history of the star. However, at the onset of crystallization, the composition flux is large enough to drive fast overturning convection for a short time (∼10 Myr). We estimate the convective velocities in both of these phases and discuss the implications for explaining observed white dwarf magnetic fields with crystallization-driven dynamos.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -77,12 +98,11 @@ We investigate crystallization-driven convection in carbon–oxygen white dwarfs
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 脉冲星, 源, 伽马射线, X射线, 扩展辐射<br>
-总结: <br>
+<div> 关键词: 脉冲星, 源, 伽马射线, X射线, 扩展辐射<br />
+总结: <br />
 本文介绍了脉冲星周围扩展的伽马射线源，即TeV halo的发现和特性。研究指出，这些源的伽马射线是由脉冲星风星云的逃逸电子/正电子与背景辐射场发生逆康普顿散射产生的。目前存在三种不同的粒子输运机制模型，分别是各向同性的、抑制扩散模型；各向同性的、不受抑制扩散模型以及各向异性扩散模型。这三种模型对宇宙射线输运机制和星际磁场的性质有着不同的影响。研究还计算了这些模型下脉冲星halo的X射线发射，发现这些逃逸电子/正电子的同步辐射可以产生相应的X射线halo，并且在三种模型下预期的表面亮度轮廓有所不同。由此可见，敏感的X射线探测器对于理解脉冲星halo的形成机制至关重要，也可以作为星际湍流性质的探测器。 <div>
 Pulsar halos (also termed “TeV halos”) are a new class of γ-ray sources in the Galaxy, which manifest as extended γ-ray emission around middle-aged pulsars, as discovered around the Geminga pulsar, the Monogem pulsar, and PSR J0622+3749 by the High-Altitude Water Cherenkov Observatory and the Large High-Altitude Air Shower Observatory. A consensus has been reached that the teraelectronvolt emission comes from the inverse Compton scattering of escaping electrons/positrons from the pulsar wind nebula of the soft background radiation field, while the particle transport mechanism in the halo is still in dispute. Currently, there are mainly three interpretations: the isotropic, suppressed diffusion model; the isotropic, unsuppressed diffusion model that considers the ballistic propagation of newly injected particles; and the anisotropic diffusion model. While the predicted γ-ray surface brightness profiles of all three models can be more or less consistent with the observations, the implications of the three models for cosmic-ray transport mechanisms and the properties of the interstellar magnetic field are quite different. In this study, we calculate the anticipated X-ray emission of pulsar halos under the three models. We show that the synchrotron radiation of these escaping electrons/positrons can produce a corresponding X-ray halo around the pulsar and that the expected surface brightness profiles are distinct in the three models. We suggest that sensitive X-ray detectors of a large field of view (such as eROSITA and the Einstein Probe) with a reasonably long exposure time are crucial to understanding the formation mechanism of pulsar halos and can serve as a probe of the properties of interstellar turbulence.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -92,10 +112,9 @@ Pulsar halos (also termed “TeV halos”) are a new class of γ-ray sources in 
 <content:encoded><![CDATA[
 <div> 关键词: WRLOF, 星际二进制, MESA, 观测数据, 质量转移
 总结:
-WRLOF是一种质量转移机制，通过在MESA中进行参数研究，发现在大多数模型中，接受者被加速到临界旋转速率。然后假设恒星发展了增强的风，以有效减少角动量，从而保持亚临界旋转。质量转移效率明显低于忽略接受者旋转的先前研究。研究结果与M67中蓝色窥视者的观测资料相比，表明WRLOF机制能够定性解释它们快速旋转的起源、在H-R图上的位置以及它们的轨道周期。 <br><br> <div>
+WRLOF是一种质量转移机制，通过在MESA中进行参数研究，发现在大多数模型中，接受者被加速到临界旋转速率。然后假设恒星发展了增强的风，以有效减少角动量，从而保持亚临界旋转。质量转移效率明显低于忽略接受者旋转的先前研究。研究结果与M67中蓝色窥视者的观测资料相比，表明WRLOF机制能够定性解释它们快速旋转的起源、在H-R图上的位置以及它们的轨道周期。 <br /><br /> <div>
 Wind Roche-lobe overflow (WRLOF) is a mass-transfer mechanism proposed by Mohamed and Podsiadlowski for stellar binaries wherein the wind acceleration zone of the donor star exceeds its Roche-lobe radius, allowing stellar wind material to be transferred to the accretor at enhanced rates. WRLOF may explain characteristics observed in blue lurkers and blue stragglers. While WRLOF has been implemented in rapid population synthesis codes, it has yet to be explored thoroughly in detailed binary models such as MESA (a 1D stellar evolution code), and over a wide range of initial binary configurations. We incorporate WRLOF accretion in MESA to investigate wide low-mass binaries at solar metallicity. We perform a parameter study over the initial orbital periods and stellar masses. In most of the models where we consider angular momentum transfer during accretion, the accretor is spun up to the critical (or breakup) rotation rate. Then we assume the star develops a boosted wind to efficiently reduce the angular momentum so that it could maintain subcritical rotation. Balanced by boosted wind loss, the accretor only gains ∼2% of its total mass, but can maintain a near-critical rotation rate during WRLOF. Notably, the mass-transfer efficiency is significantly smaller than in previous studies in which the rotation of the accretor is ignored. We compare our results to observational data of blue lurkers in M67 and find that the WRLOF mechanism can qualitatively explain the origin of their rapid rotation, their location on the H-R diagram, and their orbital periods.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -106,10 +125,9 @@ Wind Roche-lobe overflow (WRLOF) is a mass-transfer mechanism proposed by Mohame
 <div> 关键词: massive stars, 1D models, convective envelopes, common envelope, binary population synthesis
 
 总结: 
-这篇文章研究了大质量星星的演化，使用了1D模型并提出了对其对流包层质量和结合能的解析拟合公式，这些公式与总质量、金属丰度和表面温度（作为演化阶段的代理）有关。这使得在快速双星群体合成框架中应用了两阶段共同包层（CE）形式主义成为可能。他们估计CE喷射后轨道硬化程度跨度达6个数量级，并且与吸积者质量以及在较小程度上与捐赠者演化阶段有很强的关系。 <br><br>总结: 这篇文章研究了大质量星星的演化，提出了对其对流包层质量和结合能的解析公式，这为双星群体合成提供了重要的理论基础。同时，他们估计了CE喷射后轨道硬化程度与吸积者质量、捐赠者演化阶段之间的关系。 <div>
+这篇文章研究了大质量星星的演化，使用了1D模型并提出了对其对流包层质量和结合能的解析拟合公式，这些公式与总质量、金属丰度和表面温度（作为演化阶段的代理）有关。这使得在快速双星群体合成框架中应用了两阶段共同包层（CE）形式主义成为可能。他们估计CE喷射后轨道硬化程度跨度达6个数量级，并且与吸积者质量以及在较小程度上与捐赠者演化阶段有很强的关系。 <br /><br />总结: 这篇文章研究了大质量星星的演化，提出了对其对流包层质量和结合能的解析公式，这为双星群体合成提供了重要的理论基础。同时，他们估计了CE喷射后轨道硬化程度与吸积者质量、捐赠者演化阶段之间的关系。 <div>
 We explore the evolution of massive stars (>8 M⊙) with 1D models and present analytical fits to the masses and binding energies of the convective portions of their envelopes. These fits are given as functions of total mass, metallicity, and surface temperature (used as a proxy for evolutionary phase). They enable the application of the two-stage common envelope (CE) formalism in rapid binary population synthesis frameworks. We estimate that the degree of orbital hardening following CE ejection spans 6 orders of magnitude and is a very strong function of the accretor mass, and, to a lesser extent, donor evolutionary phase.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -122,7 +140,6 @@ We explore the evolution of massive stars (>8 M⊙) with 1D models and present a
 本文研究了氢氯化物和分子氢之间的碰撞跨截面和速率系数，用于模拟HCl的振转光谱。研究结果可帮助更准确地测定星际介质中的HCl丰度，限制恒星核合成模型，并改善对星际氯化学的理解。通过一种非热力学平衡辐射传输模型，展示了新速率系数在观测星周壳层中HCl振转跃迁中的实用性。 <div>
 Hydrogen chloride (HCl) is a key repository of chlorine in the interstellar medium. Accurate determinations of its abundance are critical to assessing the chlorine elemental abundance and constraining stellar nucleosynthesis models. To aid in modeling recent and future observations of HCl rovibrational spectra, we present cross sections and rate coefficients for collisions between HCl and molecular hydrogen. Transitions between rovibrational states of HCl are considered for temperatures ranging from 10 to 3000 K. Cross sections are computed using a full dimensional quantum close-coupling (CC) method and a reduced dimensionality coupled-states (CS) approach. The CS results, benchmarked against the CC results, are used with a recoupling approach to calculate hyperfine-resolved rate coefficients for rovibrational transitions of HCl induced by H2. The rate coefficients will allow for a better determination of the HCl abundance in the interstellar medium and an improved understanding of interstellar chlorine chemistry. We demonstrate the utility of the new rate coefficients in a nonthermodynamic equilibrium radiative transfer model applied to observations of HCl rovibrational transitions in a circumstellar shell.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
 <item>
@@ -130,15 +147,13 @@ Hydrogen chloride (HCl) is a key repository of chlorine in the interstellar medi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f83</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f83</guid>
 <content:encoded><![CDATA[
-<div> Cygnus region, Galactic neutrino source, LHAASO, ultrahigh-energy γ-ray bubble, IceCube Neutrino Observatory<br>
-<br>
-研究人员通过IceCube Neutrino Observatory对Cygnus Bubble附近的中微子信号进行搜索，使用LHAASO的γ射线观测为模板。他们发现在7年的观测中并未发现任何显著的信号。最终，他们得出了Cygnus Bubble的中微子发射上限，为5 TeV时为5.7 × 10^(-13) TeV^(-1) cm^(-2) s^(-1)。<br><br>总结: Cygnus区域被认为是一个有希望的银河中微子源，研究人员利用LHAASO的观测结果，通过IceCube Neutrino Observatory对Cygnus Bubble附近的中微子信号进行搜索，结果显示未发现显著的信号。同时，他们还得出了Cygnus Bubble的中微子发射上限。 <div>
+<div> Cygnus region, Galactic neutrino source, LHAASO, ultrahigh-energy γ-ray bubble, IceCube Neutrino Observatory<br />
+<br />
+研究人员通过IceCube Neutrino Observatory对Cygnus Bubble附近的中微子信号进行搜索，使用LHAASO的γ射线观测为模板。他们发现在7年的观测中并未发现任何显著的信号。最终，他们得出了Cygnus Bubble的中微子发射上限，为5 TeV时为5.7 × 10^(-13) TeV^(-1) cm^(-2) s^(-1)。<br /><br />总结: Cygnus区域被认为是一个有希望的银河中微子源，研究人员利用LHAASO的观测结果，通过IceCube Neutrino Observatory对Cygnus Bubble附近的中微子信号进行搜索，结果显示未发现显著的信号。同时，他们还得出了Cygnus Bubble的中微子发射上限。 <div>
 The Cygnus region, which contains massive molecular and atomic clouds and young stars, is a promising Galactic neutrino source candidate. Cosmic-ray transport in the region can produce neutrinos and γ-rays. Recently, the Large High Altitude Air Shower Observatory (LHAASO) detected an ultrahigh-energy γ-ray bubble (Cygnus Bubble) in this region. Using publicly available track events detected by the IceCube Neutrino Observatory in 7 yr of full detector operation, we conduct searches for correlated neutrino signals from the Cygnus Bubble with neutrino emission templates based on LHAASO γ-ray observations. No significant signals were found for any employed templates. With the 7 TeV γ-ray flux template, we set a flux upper limit of 90% confidence level for the neutrino emission from the Cygnus Bubble to be 5.7 × 10−13 TeV−1 cm−2 s−1 at 5 TeV.
 ]]></content:encoded>
-
 <pubDate>2024-06-20T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Detection of Accretion Shelves Out to the Virial Radius of a Low-mass Galaxy with JWST</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad414a</link>
@@ -11242,126 +11257,6 @@ The angular momentum of molecular cloud cores plays a key role in the star forma
 On 2022 February 15, an impressive filament eruption was observed off the solar eastern limb from three remote-sensing viewpoints, namely, Earth, STEREO-A, and Solar Orbiter. In addition to representing the most-distant observed filament at extreme ultraviolet wavelengths—captured by Solar Orbiter's field of view extending to above 6 R⊙—this event was also associated with the release of a fast (∼2200 km s−1) coronal mass ejection (CME) that was directed toward BepiColombo and Parker Solar Probe. These two probes were separated by 2° in latitude, 4° in longitude, and 0.03 au in radial distance around the time of the CME-driven shock arrival in situ. The relative proximity of the two probes to each other and the Sun (∼0.35 au) allows us to study the mesoscale structure of CMEs at Mercury's orbit for the first time. We analyze similarities and differences in the main CME-related structures measured at the two locations, namely, the interplanetary shock, the sheath region, and the magnetic ejecta. We find that, despite the separation between the two spacecraft being well within the typical uncertainties associated with determination of CME geometric parameters from remote-sensing observations, the two sets of in situ measurements display some profound differences that make understanding the overall 3D CME structure particularly challenging. Finally, we discuss our findings within the context of space weather at Mercury's distance and in terms of the need to investigate solar transients via spacecraft constellations with small separations, which has been gaining significant attention during recent years.
 ]]></content:encoded>
 <pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Morphology of the Asteroidal Dust around White Dwarf Stars: Optical and Near-infrared Pulsations in G29-38</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bd0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bd0</guid>
-<content:encoded><![CDATA[
-<div> White dwarf, Circumstellar dust, Optical photometry, Infrared spectroscopy, Stellar pulsations
-
-白矮星，周恒星尘埃，光度测定，红外光谱，恒星脉动
-
-该研究利用光学波段的恒星脉动作为尘埃的可变照明源，结合红外光谱，以约束发出尘埃的几何分布。从实验中发现，脉动振幅随波长增加而减小，但在2微米以上则出现非线性组合频率的增加。结合这些结果，研究者认为这些是来自具有相同ℓ值的主要模式的组合模式，从而讨论了对暖尘埃形态的影响。同时，研究者还指出了一些理论预期与实验结果之间的不一致之处。该研究为理解尘埃的动力起源和进化提供了重要的信息。
-
-<br /><br />总结: <br />该研究利用光学波段的恒星脉动作为尘埃的可变照明源，结合红外光谱，以约束发出尘埃的几何分布。从实验中发现，脉动振幅随波长增加而减小，但在2微米以上则出现非线性组合频率的增加。结合这些结果，研究者认为这些是来自具有相同ℓ值的主要模式的组合模式，从而讨论了对暖尘埃形态的影响。同时，研究者还指出了一些理论预期与实验结果之间的不一致之处。该研究为理解尘埃的动力起源和进化提供了重要的信息。 <div>
-More than 36 yr have passed since the discovery of the infrared excess from circumstellar dust orbiting the white dwarf G29-38, which at 17.5 pc it is the nearest and brightest of its class. The precise morphology of the orbiting dust remains only marginally constrained by existing data, subject to model-dependent inferences, and thus fundamental questions of its dynamical origin and evolution persist. This study presents a means to constrain the geometric distribution of the emitting dust using stellar pulsations measured at optical wavelengths as a variable illumination source of the dust, which reradiates primarily in the infrared. By combining optical photometry from the Whole Earth Telescope with 0.7–2.5 μm spectroscopy obtained with SpeX at NASA’s Infrared Telescope Facility, we detect luminosity variations at all observed wavelengths, with variations at most wavelengths corresponding to the behavior of the pulsating stellar photosphere, but toward the longest wavelengths the light curves probe the corresponding time variability of the circumstellar dust. In addition to developing methodology, we find the pulsation amplitudes decrease with increasing wavelength for principal pulsation modes, yet increase beyond ≈2 μm for nonlinear combination frequencies. We interpret these results as combination modes derived from the principal modes of identical ℓ values and discuss the implications for the morphology of the warm dust. We also draw attention to some discrepancies between our findings and theoretical expectations for the results of the nonlinearity imposed by the surface convection zone on mode–mode interactions and on the behavior of the first harmonic of the highest-amplitude pulsation mode.
-]]></content:encoded>
-<pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Significant Cocoon Emission and Photosphere Duration Stretching in GRB 211211A: A Burst from a Neutron Star−Black Hole Merger</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bd7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1bd7</guid>
-<content:encoded><![CDATA[
-<div> 研究, 辐射机制, 长俄时间, 结构化射流, NS-BH合并<br />
-这篇论文探讨了伽马射线暴的辐射机制和祖源的争论，发现GRB 211211A的特殊特征与通常NS-BH合并产生的短俄伽马射线暴不符合。研究发现，通过概率光球模型和结构化射流，可以满意地解释这种异常的长俄时间，并且发现了大量NS-BH合并的证据。此外，还提出了X射线余辉平台的新解释。总结:<br />这篇论文探讨了伽马射线暴的辐射机制和祖源的争论，发现GRB 211211A的特殊特征与通常NS-BH合并产生的短俄伽马射线暴不符合。研究发现，通过概率光球模型和结构化射流，可以满意地解释这种异常的长俄时间，并且发现了大量NS-BH合并的证据。此外，还提出了X射线余辉平台的新解释。 <div>
-The radiation mechanism (thermal photosphere or magnetic synchrotron) and the progenitor of gamma-ray bursts (GRBs) are under hot debate. Recently discovered, the prompt long-duration (∼10 s, normally from the collapse of massive stars) property of GRB 211211A strongly conflicts with its association with a kilonova (normally from the merger of two compact objects, NS–NS, NS–BH, or NS–WD, duration ≲2 s). In this paper, we find that the probability photosphere model with a structured jet can satisfactorily explain this peculiar long duration, through the duration stretching effect (∼3 times) on the intrinsic longer (∼3 s) duration of an NS–BH merger, the observed empirical 2SBPL spectrum (with soft low-energy index α of ∼−1), and its evolution. In addition, much evidence of the NS–BH merger origin is found, especially the good fit of the afterglow-subtracted optical−near-IR light curves by the significant thermal cocoon emission and the sole thermal “red” kilonova component. Finally, a convincing new explanation for the X-ray afterglow plateau is revealed.
-]]></content:encoded>
-<pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Testing Cosmic-Ray Propagation Scenarios with AMS-02 and Voyager Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ce8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ce8</guid>
-<content:encoded><![CDATA[
-<div> cosmic rays, AMS-02, Voyager, propagation scenarios, measurements
-
-这篇文章讨论了国际空间站上的AMS-02和航海者号探测器对宇宙射线的精确测量，以及对各种宇宙射线传播场景的测试和修订。研究发现，在所有宇宙射线物种的整个能量范围内，存在一些能够重现航海者号和AMS-02数据的参数。在几个GV以上的能量范围内，氦和碳的注射光谱指数相似，而氦比氢更硬。一些之前不受青睐的情景现在受到重新考虑。此外，根据模型，反电子在约1 GeV处的数量级可达到一位数，而反质子在几个GV处的数量级可达到2的倍数。该研究证实了所有情景中反质子谱中的约10 GeV过量。此外，所有情景中，反电子的调制应该比核素更强，而重新加速模型需要更大的调制。<br /><br />总结: 这篇文章研究了AMS-02和航海者号对宇宙射线的测量，以及对不同宇宙射线传播情景的测试和修订。研究发现一些情景可以重现航海者号和AMS-02数据，并且发现了一些意想不到的结果，如纯扩散情景不需要在低能量处出现扩散系数的上升。另外，不同的情景会对反物质产生不同的模型谱，为未来的宇宙射线传播研究提供了重要参考。 <div>
-AMS-02 on board the International Space Station provides precise measurements of cosmic rays (CR) near Earth, while Voyager measures CRs in the local interstellar medium, beyond the effects of solar modulation. Based on these data, we test and revise various CR propagation scenarios under standard assumptions: pure diffusion, diffusion with convection, diffusion with reacceleration, and diffusion with reacceleration and convection. We report on the scenarios’ performance against CR measurements, aiming to limit the number of model parameters as much as possible. For each scenario, we find parameters that are able to reproduce Voyager and AMS-02 data for the entire energy band for all the CR species tested. Above several GV, we observe a similar injection spectral index for He and C, with He harder than H. Some scenarios previously disfavored are now reconsidered. For example, contrary to usual assumptions, we find that the pure diffusion scenario does not need an upturn in the diffusion coefficient at low energy, while it needs the same number of low-energy breaks in the injection spectrum as diffusive-reacceleration scenarios. We show that scenarios differ in modeled spectra of one order of magnitude for positrons at ∼1 GeV and of a factor of 2 for antiprotons at several GV. The force-field approximation describes well the AMS-02 and Voyager spectra analyzed, except antiprotons. We confirm the ∼10 GeV excess in the antiproton spectrum for all scenarios. Also, for all scenarios, the resulting modulation should be stronger for positrons than for nuclei, with reacceleration models requiring much larger modulation.
-]]></content:encoded>
-<pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Total r-process Yields of Milky Way Neutron Star Mergers</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e52</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e52</guid>
-<content:encoded><![CDATA[
-<div> 双中子星融合，重元素合成，银河系，化学演化模型，天体物理<br />
-<br />双中子星融合现在被认为是大量产生重元素的过程，但是否是唯一或主要的快速中子俘获核生成过程的地点尚不清楚。双中子星的发生率、延迟时间和银河环境将影响它们对太阳系和银河中元素丰度的总贡献。另外，双中子星融合的预期元素产量可能取决于融合参数本身，例如它们的恒星质量和半径，这在许多银河化学演化模型中尚未考虑。通过观察 Milky Way 中的双中子星系统样本的特征，我们预测了双中子星群体在融合时产生的预期核合成产物，并将其核合成特征与太阳系元素的重元素丰度模式进行了比较。我们发现，根据当前的模型，目前的双中子星群体更有利于产生较轻的 r-过程元素，而相对于太阳系来说产生了较轻的元素。这种不一致可能意味着存在额外的重元素产生地点或者一个与目前观察到的双中子星群体相差很大的群体。 <br /><br />总结:双中子星融合是重元素产生的重要过程，但它们对于重元素丰度的贡献可能被低估。当前的模型显示，双中子星更有可能产生轻型 r-过程元素，而相对于太阳系来说产生了较少的重元素。这可能意味着存在其他产生重元素的地点或者目前观察到的双中子星群体有所不同。 <div>
-While it is now known that the mergers of double neutron star binary systems (NSMs) are copious producers of heavy elements, there remains much speculation about whether they are the sole or even principal site of rapid neutron-capture (r-process) nucleosynthesis, one of the primary ways in which heavy elements are produced. The occurrence rates, delay times, and galactic environments of NSMs hold sway over estimating their total contribution to the elemental abundances in the solar system and the Galaxy. Furthermore, the expected elemental yields of NSMs may depend on the merger parameters themselves—such as their stellar masses and radii—which are not currently considered in many galactic chemical evolution models. Using the characteristics of the observed sample of double neutron star (DNS) systems in the Milky Way as a guide, we predict the expected nucleosynthetic yields that a population of DNSs would produce upon merger, and we compare that nucleosynthetic signature to the heavy-element abundance pattern of solar system elements. We find that with our current models, the present DNS population favors the production of lighter r-process elements, while underproducing the heaviest elements relative to the solar system. This inconsistency could imply an additional site for the heaviest elements or a population of DNSs much different from that observed today.
-]]></content:encoded>
-<pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The DESI One-percent Survey: Evidence for Assembly Bias from Low-redshift Counts-in-cylinders Measurements</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ffd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ffd</guid>
-<content:encoded><![CDATA[
-<div> 关键词: DESI, 明亮星系调查, 暗物质, 模型, 统计分析
-
-总结: 
-DESI早期数据释放，使用SV3数据对z=0.1到0.3的HOD进行建模，其中包括CiC测量。使用galtab软件包对HOD模型进行快速精确的CiC预测，加速并提高了HOD参数的约束。通过HOD拟合，对特征暗物质质量和组装偏差进行了约束，并提供了各个阈值样本的特征暗物质质量、组装偏差等参数的数据。未来DESI数据预计会进一步缩小这些约束范围，因为数据范围将是SV3的100倍。 <div>
-We explore the galaxy-halo connection information that is available in low-redshift samples from the early data release of the Dark Energy Spectroscopic Instrument (DESI). We model the halo occupation distribution (HOD) from z = 0.1 to 0.3 using Survey Validation 3 (SV3; a.k.a., the One-Percent Survey) data of the DESI Bright Galaxy Survey. In addition to more commonly used metrics, we incorporate counts-in-cylinders (CiC) measurements, which drastically tighten HOD constraints. Our analysis is aided by the Python package, galtab, which enables the rapid, precise prediction of CiC for any HOD model available in halotools. This methodology allows our Markov chains to converge with much fewer trial points, and enables even more drastic speedups due to its GPU portability. Our HOD fits constrain characteristic halo masses tightly and provide statistical evidence for assembly bias, especially at lower luminosity thresholds: the HOD of central galaxies in z ∼ 0.15 samples with limiting absolute magnitude Mr < −20.0 and Mr < −20.5 samples is positively correlated with halo concentration with a significance of 99.9% and 99.5%, respectively. Our models also favor positive central assembly bias for the brighter Mr < −21.0 sample at z ∼ 0.25 (94.8% significance), but there is no significant evidence for assembly bias with the same luminosity threshold at z ∼ 0.15. We provide our constraints for each threshold sample’s characteristic halo masses, assembly bias, and other HOD parameters. These constraints are expected to be significantly tightened with future DESI data, which will span an area 100 times larger than that of SV3.
-]]></content:encoded>
-<pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Detectable Ultra-high-energy Cosmic-Ray Outburst from GRB 221009A</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2352</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2352</guid>
-<content:encoded><![CDATA[
-Gamma-ray bursts (GRBs) have been proposed as one of the promising sources of ultra-high-energy cosmic rays (UHECRs), but observational evidence is still lacking. The nearby brightest of all time GRB 221009A, a once in 1000 yr event, is able to accelerate protons to ∼103 EeV, and then generate extremly energetic neutrons via the photomeson production interaction. Protons arriving at the Milky Way are dominated by neutron-decay-induced protons. The intergalactic magnetic fields would not yield a sizable delay of the ≥10 EeV cosmic rays if its strength is ≲10−13 G, while Galactic magnetic fields would cause a significant time delay. We predict that a UHECR burst from GRB 221009A would be detectable by the Pierre Auger Observatory and the TA×4, within ∼10 yr. The detection of such a UHECR outburst will provide the direct evidence for UHECR acceleration in GRBs.
-]]></content:encoded>
-<pubDate>2024-03-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Binary Interaction Can Yield a Diversity of Circumstellar Media around Type II Supernova Progenitors</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1829</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1829</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 超新星、恒星演化、密集星周介质、双星、CSM
-总结:
-超新星观测表明部分大质量恒星在核心崩塌时存在密集的星周介质。本研究使用MESA进行大质量恒星的双星演化模拟，并通过PLUTO进行流体动力学模拟，探讨了双星演化对星周介质形成的影响。研究发现，在双星系统中，质量传递率可能在Roche波效应开始时增加，与爆炸前CSM的结构有关。此外，不同轨道周期的双星系统会形成不同密度结构的CSM，包括壳状和悬崖状结构。这些特征结构的长度尺度约为10^17厘米，若CSM速度较慢（约10 km/s），长期超新星观测可能揭示这些结构。研究结果强调了双星相互作用在再现CSM结构多样性方面的重要性。 <div>
-Recent observations of supernovae (SNe) have indicated that a fraction of massive stars possess dense circumstellar medium (CSM) at the moment of their core collapses. They suggest the presence of additional activities of the SN progenitor driving the enhancement of the mass-loss rate, and some physical processes attributing to a single star’s activities have been considered. In this study, we carry out binary evolutionary simulations of massive stars by MESA and investigate effects on the subsequent CSM formation through hydrodynamical simulations by PLUTO. We show that the mass transfer rate in a binary can increase at the beginning of the Roche lobe overflow, and this enhancement would be associated with the structure of the CSM before the explosion. We also illustrate that, depending on the orbital period of the binary, the density structure of the CSM can have a diverse distribution, including shell-like and cliff-like structures. These characteristic structures appear within the length scale of ∼1017 cm and could be traced by long-term observations of SNe, if the slow velocity of the CSM is assumed (∼10 km s−1). Our results highlight the importance of binary interaction in the aspect of reproducing the diversity of the CSM configuration.
-]]></content:encoded>
-<pubDate>2024-03-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Dust Polarization of Prestellar and Protostellar Sources in OMC-3</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad182d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad182d</guid>
-<content:encoded><![CDATA[
-<div> 线偏振，Orion Molecular Cloud 3，ALMA观测，尘埃盘，CO流
-
-线偏振ALMA观测显示了Orion Molecular Cloud 3区域内七个恒星形成源的尘埃盘状结构和CO流的特征。尘埃盘的直径从16到97天文单位不等，其中一些源的极化强度占据了整个Stokes I峰值的10%至20%。其中一些源的极化方向与尘埃盘的短轴对齐，而一些源的极化强度出现了向盘的近侧移动，支持了极化辐射源于自相散射的观点。文章还对极化辐射的来源进行了讨论，包括自相散射和磁场对尘埃排列的影响。 <div>
-We present the Atacama Large Millimeter/submillimeter Array observations of linearly polarized 1.1 mm continuum emission at ∼0.″14 (55 au) resolution and CO (J = 2−1) emission at ∼1.″5 (590 au) resolution toward one prestellar (MMS 4), four Class 0 (MMS 1, MMS 3, MMS 5, and MMS 6), one Class I (MMS 7), and one flat-spectrum (MMS 2) sources in the Orion Molecular Cloud 3 region. The dust disk-like structures and clear CO outflows are detected toward all sources except for MMS 4. The diameters of these disk-like structures, ranging from 16 to 97 au, are estimated based on the deconvolved full width half maximum (FWHM) values obtained from the multi-Gaussian fitting. Polarized emissions are detected toward MMS 2, MMS 5, MMS 6, and MMS 7, while no polarized emission is detected toward MMS 1, MMS 3, and MMS 4. MMS 2, MMS 5, and MMS 7 show organized polarization vectors aligned with the minor axes of the disk-like structures, with mean polarization fractions ranging from 0.6% to 1.2%. The strongest millimeter source, MMS 6, exhibits complex polarization orientations and a remarkably high polarization fraction of ∼10% around the Stokes I peak, and 15%–20% on the arm-like structure, as reported by Takahashi et al. (2019). The origins of the polarized emission, such as self-scattering and dust alignment due to the magnetic field or radiative torque, are discussed for individual sources. Some disk-like sources exhibit a polarized intensity peak shift toward the nearside of the disk, which supports that the polarized emission originates from self-scattering.
-]]></content:encoded>
-<pubDate>2024-03-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The ALMA View of Positive Black Hole Feedback in the Dwarf Galaxy Henize 2–10</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b62</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b62</guid>
-<content:encoded><![CDATA[
-<div> 黑洞，星系，分子气体，星形成，ALMA<br />
-总结:<br />
-Henize 2–10 是一个矮星爆发星系，其中含有一个大约10^6太阳质量的黑洞，它正在驱动电离流，并在星系中心的约100光年范围内触发星形成。研究使用ALMA进行了射电和分子谱线观测，发现黑洞的谱能量分布在1.4至340 GHz范围内由同步辐射主导。分析了分子气体数据，并确定了黑洞周围的分子气体结构，其物理尺度约为130光年×30光年，分子气体质量约为10^6太阳质量。值得注意的是，黑洞的位置与分子气体的峰值强度有显著偏移，这可能解释了为什么黑洞的Eddington比例非常低。对CO J = 3–2和J = 1–0的空间分辨率线比的分析表明，黑洞附近的CO气体受到了极高的激发，特别是在黑洞喷流和触发星形成区域的交界处。这暗示着冷的分子气体受到了黑洞的双极喷流的冲击，支持了积极的黑洞反馈的观点。 <div>
-Henize 2–10 is a dwarf starburst galaxy hosting a ∼106M⊙ black hole (BH) that is driving an ionized outflow and triggering star formation within the central ∼100 pc of the galaxy. Here, we present Atacama Large Millimeter/submillimeter Array continuum observations from 99 to 340 GHz, as well as spectral line observations of the molecules CO (1–0, 3–2), HCN (1–0, 3–2), and HCO+ (1–0, 3–2), with a focus on the BH and its vicinity. Incorporating centimeter-wave radio measurements from the literature, we show that the spectral energy distribution of the BH is dominated by synchrotron emission from 1.4 to 340 GHz, with a spectral index of α ≈ − 0.5. We analyze the spectral line data and identify an elongated molecular gas structure around the BH with a velocity distinct from the surrounding regions. The physical extent of this molecular gas structure is ≈130 pc × 30 pc and the molecular gas mass is ∼106M⊙. Despite an abundance of molecular gas in this general region, the position of the BH is significantly offset from the peak intensity, which may explain why the BH is radiating at a very low Eddington ratio. Our analysis of the spatially resolved line ratio between CO J = 3–2 and J = 1–0 implies that the CO gas in the vicinity of the BH is highly excited, particularly at the interface between the BH outflow and the regions of triggered star formation. This suggests that the cold molecular gas is being shocked by the bipolar outflow from the BH, supporting the case for positive BH feedback.
-]]></content:encoded>
-<pubDate>2024-03-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Do Faculae Affect Autocorrelation Rotation Periods in Sun-like Stars?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e59</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e59</guid>
-<content:encoded><![CDATA[
-<div> 光变特性，自相关函数，恒星活动，观测窗口，恒星倾斜
-
-这篇文章总结了对与太阳光度相似的恒星利用自相关函数（ACF）技术推导出的旋转周期的困难。研究了影响这些测量精度的各种因素，包括观测窗口和噪声的影响、恒星活动和倾斜、光谱通带以及相邻分段的分离规范化。验证了faculae造成的光度变化非常周期性，但星斑是太阳类星上差异变化的主要来源。量化了使类太阳光变周期足够强以进行可靠测量的faculae相对贡献的强度，以及使纯星斑光变周期足够强的星斑寿命需要多长。通常来说，观测窗口越长，即使没有faculae存在，ACF测量也更加准确。由于增强了faculae相对贡献，观测中倾斜度中等的恒星、活动极小期间的观测和/或通过更蓝的通带观测均会加强光变曲线的周期性。我们还在太阳类恒星的宽带光度中寻找了faculae的其他表现形式，并得出结论：在没有绝对光通量测量或限制为更短波长的通带时，差分光变曲线对于faculae没有信息量。<br /><br />总结: 光变特性的测量利用ACF技术困难，主要受到恒星活动、观测窗口和恒星倾斜等因素影响。Faculae引起的光度变化非常周期性，而星斑是主要光变源。观测窗口越长，测量越准确。通过增强faculae相对贡献、恒星倾斜度中等的观测和更蓝的通带观测可以加强光变曲线的周期性。在宽带光度中差分光变曲线对于faculae没有信息量。 <div>
-Rotational periods derived from autocorrelation function (ACF) techniques on stars photometrically similar to the Sun in Kepler data have proven difficult to reliably determine. We investigate various instrumental and astrophysical factors affecting the accuracy of these measurements, including the effects of observational windows and noise, stellar activity and inclination, spectral passbands, and the separate normalization of contiguous segments. We validate that the flux variations due to faculae are very periodic, but starspots are the dominant source of bolometric and visible differential variability in Sun-like stars on rotational timescales. We quantify how much stronger the relative contribution of faculae would have to be to render Sun-like light curves periodic enough to reliably measure with autocorrelation methods. We also quantify how long starspot lifetimes need to be to render pure spot light curves periodic enough. In general, longer observational windows yield more accurate ACF measurements, even when faculae are not present. Due to the enhancement of the relative contribution of faculae, observing stars with intermediate inclinations, during activity minima, and/or through bluer passbands has the effect of strengthening the periodicity of the light curve. We search for other manifestations of faculae in broadband photometry of Sun-like stars and conclude that without absolute flux measurements or restriction to shorter-wavelength passbands, differential light curves are uninformative about faculae.
-]]></content:encoded>
-<pubDate>2024-03-04T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
