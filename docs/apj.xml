@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Artificial Greenhouse Gases as Exoplanet Technosignatures</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce8</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 热带行星，人造温室气体，远程检测，大规模干涉仪，行星表征。
 
-总结:<br><br>这篇文章研究了人造温室气体作为远程可检测的大气技术标记气体的潜力。提出人造温室气体可能是有意改变行星气候的产物，且具有低毒性和长寿命。文章指出这些气体在热红外窗口和近红外波段都有较强的吸收特征，因此可以在行星表征观测中被轻松检测到。通过模拟计算，发现利用现有的望远镜和大规模干涉仪，即可检测到不同浓度的人造温室气体，而且检测这些气体不需要额外的观测成本。 <div>
+总结:<br /><br />这篇文章研究了人造温室气体作为远程可检测的大气技术标记气体的潜力。提出人造温室气体可能是有意改变行星气候的产物，且具有低毒性和长寿命。文章指出这些气体在热红外窗口和近红外波段都有较强的吸收特征，因此可以在行星表征观测中被轻松检测到。通过模拟计算，发现利用现有的望远镜和大规模干涉仪，即可检测到不同浓度的人造温室气体，而且检测这些气体不需要额外的观测成本。 <div>
 Atmospheric pollutants such as chlorofluorocarbons and NO2 have been proposed as potential remotely detectable atmospheric technosignature gases. Here we investigate the potential for artificial greenhouse gases including CF4, C2F6, C3F8, SF6, and NF3 to generate detectable atmospheric signatures. In contrast to passive incidental by-products of industrial processes, artificial greenhouse gases would represent an intentional effort to change the climate of a planet with long-lived, low-toxicity gases and would possess low false positive potential. An extraterrestrial civilization may be motivated to undertake such an effort to arrest a predicted snowball state on their home world or to terraform an otherwise uninhabitable terrestrial planet within their system. Because artificial greenhouse gases strongly absorb in the thermal mid-infrared window of temperate atmospheres, a terraformed planet will logically possess strong absorption features from these gases at mid-infrared wavelengths (∼8–12 μm), possibly accompanied by diagnostic features in the near-infrared. As a proof of concept, we calculate the needed observation time to detect 1 [10](100) ppm of C2F6/C3F8/SF6 on TRAPPIST-1 f with JWST MIRI’s Low Resolution Spectrometer (LRS) and NIRSpec. We find that a combination of 1[10](100) ppm each of C2F6, C3F8, and SF6 can be detected with a signal-to-noise ratio ≧ 5 in as few as 25[10](5) transits with MIRI/LRS. We further explore mid-infrared direct-imaging scenarios with the Large Interferometer for Exoplanets mission concept and find these gases are more detectable than standard biosignatures at these concentrations. Consequently, artificial greenhouse gases can be readily detected (or excluded) during normal planetary characterization observations with no additional overhead.
 ]]></content:encoded>
-
 <pubDate>2024-06-24T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>How Switchbacks Can Maintain a Longer Time in the Interplanetary Space</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4b18</link>
@@ -11236,17 +11235,6 @@ We present infrared aperture-masking interferometry (AMI) observations of newly 
 总结: 
 Hα发射，代表着年轻的超新星残骸（SNR），通过积分视场光谱学研究，19个区域符合要求，其中四个位置与先前发现的超新星相匹配，推测这些物体是由超新星喷发物与周围密集物质相互作用而形成的年轻SNR。这些SNR候选的恒星年龄普遍比核心坍缩（CC）超新星的位置年龄低约0.5 dex，表明它们的原型星可能寿命更短、质量更大。这项工作的方法为用积分视场光谱学研究附近的超新星打开了新的研究窗口。 <div>
 We present results from a systematic search for broad (≥ 400 km s−1) Hα emission in integral field spectroscopy data cubes of ∼1200 nearby galaxies obtained with PMAS and MUSE. We found 19 unique regions that pass our quality cuts, four of which match the locations of previously discovered supernovae (SNe): one Type IIP and three Type IIn, including the well-known SN 2005ip. We suggest that these objects are young Supernova remnants (SNRs), with bright and broad Hα emission powered by the interaction between the SN ejecta and dense circumstellar material. The stellar ages measured at the locations of these SNR candidates are systematically lower by about 0.5 dex than those measured at the locations of core-collapse (CC) SNe, implying that their progenitors might be shorter lived and therefore more massive than a typical CCSN progenitor. The methods laid out in this work open a new window into the study of nearby SNe with integral field spectroscopy.
-]]></content:encoded>
-<pubDate>2024-03-06T00:00:00Z</pubDate>
-</item>
-<item>
-<title>AGN STORM 2. V. Anomalous Behavior of the C iv Light Curve of Mrk 817*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1be4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1be4</guid>
-<content:encoded><![CDATA[
-<div> Seyfert 1 galaxy, Mrk 817, reverberation mapping, UV emission lines, Hubble Space Telescope <br />
-时间尺度为60天的强烈余辉映射活动显示，著名的紫外发射线对连续发射的波动有显著变化。在14个月的观测过程中，UV发射线的响应表现出不同的时间延迟，需要包括每条发射线的缓慢变化背景才能进行一维回声映射模型拟合。这些变化在C iv光线曲线中更为明显，这是Mrk 817中受固有吸收影响最小且不太与相邻发射线混合的光谱线。我们确定了五个具有明显发射线响应的时间窗口，并测量了它们对应的时间延迟，范围为2至13天。这些时间窗口可能与同一时间段内发生的UV和X射线遮挡的变化有关。最短的时间延迟出现在遮挡减弱的时期，而最长的延迟出现在遮挡增加的时期。我们认为遮挡出流屏蔽了广泛的UV线，免受电离的连续发射。由此产生的离子连续发射的光谱能量分布的变化，被远离核心的云所观察，这是造成线响应变化的原因。 <br /><br />总结: 该研究利用哈勃空间望远镜对Seyfert 1星系Mrk 817进行了密集的余辉映射活动，发现UV发射线对连续辐射的响应有显著变化，随着时间的推移呈现出不同的时间延迟。研究指出，这些时间延迟与UV和X射线遮挡的变化有关，最短的时间延迟出现在遮挡减弱的时期，而最长的延迟出现在遮挡增加的时期。此外，研究还提出了遮挡出流屏蔽了广泛的UV线的假设，并解释了因此导致的线响应变化。 <div>
-An intensive reverberation mapping campaign of the Seyfert 1 galaxy Mrk 817 using the Cosmic Origins Spectrograph on the Hubble Space Telescope revealed significant variations in the response of broad UV emission lines to fluctuations in the continuum emission. The response of the prominent UV emission lines changes over an ∼60 day duration, resulting in distinctly different time lags in the various segments of the light curve over the 14 month observing campaign. One-dimensional echo-mapping models fit these variations if a slowly varying background is included for each emission line. These variations are more evident in the C iv light curve, which is the line least affected by intrinsic absorption in Mrk 817 and least blended with neighboring emission lines. We identify five temporal windows with a distinct emission-line response, and measure their corresponding time delays, which range from 2 to 13 days. These temporal windows are plausibly linked to changes in the UV and X-ray obscuration occurring during these same intervals. The shortest time lags occur during periods with diminishing obscuration, whereas the longest lags occur during periods with rising obscuration. We propose that the obscuring outflow shields the broad UV lines from the ionizing continuum. The resulting change in the spectral energy distribution of the ionizing continuum, as seen by clouds at a range of distances from the nucleus, is responsible for the changes in the line response.
 ]]></content:encoded>
 <pubDate>2024-03-06T00:00:00Z</pubDate>
 </item>
