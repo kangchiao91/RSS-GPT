@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Physical and Chemical Properties of Galactic Molecular Gas toward QSO J1851+0035</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d5b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d5b</guid>
 <content:encoded><![CDATA[
 <div> ALMA, absorption lines, Galactic molecular gas, velocity components, chemical models
-<br>总结:
+<br />总结:
 该研究利用ALMA对QSO J1851+0035进行了观测，发现了17种分子，并对18种进行了上限设定。研究识别出20个独立的速度组分，推测具有τ≲1的组分对应于弥散云或云外缘。CO J = 1–0和J = 2–1吸收线的多高斯拟合显示这些组分由窄线和宽线组成。通过高HCN/HNC异构体比值推断的动力学温度达到了≳40 K，对应的热宽度解释了窄线组分的线宽。CN类分子和碳氢化合物之间有着密切和线性的相关性。CO/HCO+丰度比显示出数量级差距，较小的比值出现在较小的N(HCO+)（或较低的AV）范围内。一些速度组分在单天线CO发射和ALMA HCO+吸收中被探测到，但没有相应的ALMA CO吸收。这可能可以通过未能分辨的∼1 pc天线波束中的凝聚CO发射体混合周围具有极低CO/HCO+丰度比（即CO贫富）的扩展组分来解释。 <div>
 Atacama Large Millimeter/submillimeter Array (ALMA) data toward QSO J1851+0035 (l = 33.°498, b = +0.°194) were used to study absorption lines by Galactic molecular gas. We detected 17 species (CO, 13CO, C18O, HCO+, H13CO+, HCO, H2CO, C2H, c-C3H, c-C3H2, CN, HCN, HNC, CS, SO, SiO, and C) and set upper limits to 18 species as reference values for chemical models. About 20 independent velocity components at 4.7–10.9 kpc from the Galactic center were identified. Their column density and excitation temperature estimated from the absorption study, as well as the CO intensity distributions obtained from the FUGIN survey, indicate that the components with τ ≲1 correspond to diffuse clouds or cloud outer edges. Simultaneous multiple-Gaussian fitting of CO J = 1–0 and J = 2–1 absorption lines shows that these are composed of narrow- and broad-line components. The kinetic temperature empirically expected from the high HCN/HNC isomer ratio (≳4) reaches ≳40 K and the corresponding thermal width accounts for the line widths of the narrow-line components. CN-bearing molecules and hydrocarbons have tight and linear correlations within the groups. The CO/HCO+ abundance ratio showed a dispersion as large as 3 orders of magnitude with a smaller ratio in a smaller N(HCO+) (or lower AV) range. Some of the velocity components are detected in single-dish CO emission and ALMA HCO+ absorption but without corresponding ALMA CO absorption. This may be explained by the mixture of clumpy CO emitters not resolved with the ∼1 pc single-dish beam surrounded by extended components with a very low CO/HCO+ abundance ratio (i.e., CO-poor gas).
 ]]></content:encoded>
-
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,10 +23,9 @@ Atacama Large Millimeter/submillimeter Array (ALMA) data toward QSO J1851+0035 (
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad444f</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 加热分配，湍流能量，黑洞吸积盘，磁流体力学，剪切流
-总结: <br><br>这篇论文讨论了湍流加热在黑洞吸积盘中对离子和电子的分配问题，指出了宏观和微观尺度之间的挑战性差距。研究发现，能量注入慢波和阿尔芬波级联之间的分配取决于受控于Maxwell和Reynolds应力张量的角动量传输、剪切速率和平均磁场方向。通过磁流体力学剪切盒模拟，得出了由磁旋不稳定引起的湍流应力张量的数值结果，并推导出慢波和阿尔芬波级联之间的注入功率比。最后，提出了一个基于宏观特征的局部子网格模型，用于计算离子与电子加热比。 <div>
+总结: <br /><br />这篇论文讨论了湍流加热在黑洞吸积盘中对离子和电子的分配问题，指出了宏观和微观尺度之间的挑战性差距。研究发现，能量注入慢波和阿尔芬波级联之间的分配取决于受控于Maxwell和Reynolds应力张量的角动量传输、剪切速率和平均磁场方向。通过磁流体力学剪切盒模拟，得出了由磁旋不稳定引起的湍流应力张量的数值结果，并推导出慢波和阿尔芬波级联之间的注入功率比。最后，提出了一个基于宏观特征的局部子网格模型，用于计算离子与电子加热比。 <div>
 The partition of turbulent heating between ions and electrons in radiatively inefficient accretion flows plays a crucial role in determining the observational appearance of accreting black holes. Modeling this partition is, however, a challenging problem because of the large scale-separation between the macroscopic scales at which energy is injected by turbulence and the microscopic ones at which it is dissipated into heat. Recent studies of particle heating from collisionless damping of turbulent energy have shown that the partition of energy between ions and electrons is dictated by the ratio of the energy injected into the slow and Alfvén wave cascades as well as the plasma β parameter. In this paper, we study the mechanism of the injection of turbulent energy into slow- and Alfvén-wave cascades in magnetized shear flows. We show that this ratio depends on the particular (rϕ) components of the Maxwell and Reynolds stress tensors that cause the transport of angular momentum, the shearing rate, and the orientation of the mean magnetic field with respect to the shear. We then use numerical magnetohydrodynamic shearing-box simulations with background conditions relevant to black hole accretion disks to compute the magnitudes of the stress tensors for turbulence driven by the magneto-rotational instability and derive the injection power ratio between slow and Alfvén wave cascades. We use these results to formulate a local subgrid model for the ion-to-electron heating ratio that depends on the macroscopic characteristics of the accretion flow.
 ]]></content:encoded>
-
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -35,10 +34,9 @@ The partition of turbulent heating between ions and electrons in radiatively ine
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4530</guid>
 <content:encoded><![CDATA[
 <div> IC 3599, Seyfert 1.9, X-ray outburst, accretion-disk instability, Swift mission
-<br>总结: 研究报告了对Seyfert 1.9星系IC 3599的跟踪观察，包括两次X射线爆发的发现和相关解释。第一次X射线爆发是在1990年由ROSAT发现的，第二次是在2010年由Swift发现的。有人假设IC 3599的爆发是由于重复的部分潮汐剥离引起的，预测了2019/2020年的再次爆发；另一种解释认为观察到的事件是由于吸积盘不稳定引起的，这意味着大爆发之间的时间间隔要长得多。Swift的持续监测不支持2019/2020年再次剧烈爆发的假设，而支持吸积盘不稳定的情景。此外，IC 3599的长期X射线光变曲线显示持续的强变化，2022年12月出现了X射线的小闪焰，随后X射线谱呈现出特殊的硬化。 <div>
+<br />总结: 研究报告了对Seyfert 1.9星系IC 3599的跟踪观察，包括两次X射线爆发的发现和相关解释。第一次X射线爆发是在1990年由ROSAT发现的，第二次是在2010年由Swift发现的。有人假设IC 3599的爆发是由于重复的部分潮汐剥离引起的，预测了2019/2020年的再次爆发；另一种解释认为观察到的事件是由于吸积盘不稳定引起的，这意味着大爆发之间的时间间隔要长得多。Swift的持续监测不支持2019/2020年再次剧烈爆发的假设，而支持吸积盘不稳定的情景。此外，IC 3599的长期X射线光变曲线显示持续的强变化，2022年12月出现了X射线的小闪焰，随后X射线谱呈现出特殊的硬化。 <div>
 We report on follow-up observations of the Seyfert 1.9 galaxy IC 3599 with the NASA Neil Gehrels Swift mission. The detection of a second X-ray outburst in 2010 by Swift after the first discovery of a bright X-ray outburst in 1990 by ROSAT led to the suggestion of two very different explanations. The first one assumed that IC 3599 exhibits outbursts due to repeated partial tidal stripping of a star, predicting another outburst of IC 3599 in 2019/2020. The second, alternative scenario assumed that the event observed in X-rays is due to an accretion-disk instability, which would suggest a much longer period between the large outbursts. Our continued monitoring campaign by Swift allowed us to test the first scenario that predicted a repetition of high-amplitude flaring activity in 2019/2020. We do not find any evidence of dramatic flaring activity with factors of 100 since the last X-ray outburst seen in 2010. These observations support the accretion-disk scenario. Further, while IC 3599 remains in low-emission states, the long-term X-ray light curve of IC 3599 reveals ongoing strong variability of a factor of a few. The most remarkable event is a miniflare of a factor of 10 in X-rays in 2022 December. After that flare, the otherwise supersoft X-ray spectrum shows an exceptional hardening, reminiscent of a temporary corona formation.
 ]]></content:encoded>
-
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -46,11 +44,10 @@ We report on follow-up observations of the Seyfert 1.9 galaxy IC 3599 with the N
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47f9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47f9</guid>
 <content:encoded><![CDATA[
-<div> 磁流体扭结、能量转换、电流片、几何结构、磁场重构<br>
-<br>总结:<br>本研究通过对磁流体扭结和电流片的多重动态能量转换以及二维几何结构进行研究，发现在磁流体扭结中存在着不同的能量转换方式，主要是能量动力机在FR1和FR5中占主导地位，而在FR2-4中主要是能量耗散。在磁流体扭结周围观察到电磁场和等离子体之间的动态能量交换，以及薄电流片周围的能量动力机和能量耗散现象。通过磁场重构得出六个磁流体扭结的估计长宽比，以及薄电流片的厚度。研究结果表明，FR4是一个合并的磁流体扭结，其磁场图显示了明显的能量耗散现象。这一发现与之前的多个岛屿合并的模拟研究结果相符。 <div>
+<div> 磁流体扭结、能量转换、电流片、几何结构、磁场重构<br />
+<br />总结:<br />本研究通过对磁流体扭结和电流片的多重动态能量转换以及二维几何结构进行研究，发现在磁流体扭结中存在着不同的能量转换方式，主要是能量动力机在FR1和FR5中占主导地位，而在FR2-4中主要是能量耗散。在磁流体扭结周围观察到电磁场和等离子体之间的动态能量交换，以及薄电流片周围的能量动力机和能量耗散现象。通过磁场重构得出六个磁流体扭结的估计长宽比，以及薄电流片的厚度。研究结果表明，FR4是一个合并的磁流体扭结，其磁场图显示了明显的能量耗散现象。这一发现与之前的多个岛屿合并的模拟研究结果相符。 <div>
 A series of six ion-scale magnetic flux ropes (FR1–6) and a thin current sheet, encountered by Magnetospheric Multiscale spacecraft in the magnetosheath side of the dayside magnetopause boundary layer, are studied for multiple flux rope dynamics in terms of energy conversion and two-dimensional geometry structure. The thin current sheet is identified in between FR1 and FR2. The energy exchange between electromagnetic fields and plasmas is dynamic in FR1–5 and also surrounding the flux ropes, while a low-energy conversion rate is seen in FR6. Different energy conversions exist in the flux ropes: energy dynamo is predominant in FR1 and FR5, while energy dissipation is dominated in FR2–4. Both the energy dynamo and dissipation primarily result from j∥E∥. Strong dissipation, surrounded by an energy dynamo, happens at the thin current sheet and is accompanied by ion agyrotropic behavior. From the reconstructed magnetic field maps, the estimated aspect ratios of the six flux ropes are 0.78, 0.16, 0.66, 0.11, 0.40, and 0.46 in order, and the thickness of the thin current sheet is ∼63 km (∼1.8 ion inertial length). Evidently, the magnetic field map shows that FR4 is a coalescing flux rope where a pronounced dissipation is present. The overall finding agrees with the previous simulation studies of multiple island coalescence.
 ]]></content:encoded>
-
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,10 +58,9 @@ A series of six ion-scale magnetic flux ropes (FR1–6) and a thin current sheet
 <div> 关键词: 初始质量函数, 星际环境, 星际介质, 星际物质, 恒星形成
 
 总结:
-本研究分析了在不同观测方法下，矮星系和大质量星系中低质量恒星初始质量函数(IMF)的银河级别变化。尽管不同方法存在系统性差异，但一个具有金属依赖斜率的低质量恒星IMF模型与大多数观测结果一致，表明宇宙中的恒星形成过程具有高度一致性。我们还强调了对低质量IMF变化的更全面理解的必要性，考虑到测量偏差和金属以外的因素。 <br><br> <div>
+本研究分析了在不同观测方法下，矮星系和大质量星系中低质量恒星初始质量函数(IMF)的银河级别变化。尽管不同方法存在系统性差异，但一个具有金属依赖斜率的低质量恒星IMF模型与大多数观测结果一致，表明宇宙中的恒星形成过程具有高度一致性。我们还强调了对低质量IMF变化的更全面理解的必要性，考虑到测量偏差和金属以外的因素。 <br /><br /> <div>
 The stellar initial mass function (IMF) characterizes the mass distribution of newly formed stars in various cosmic environments, serving as a fundamental assumption in astrophysical research. Recent findings challenge the prevalent notion of a universal and static IMF, proposing instead that the IMF’s shape is contingent upon the star formation environment. In this study, we analyze the galaxy-wide variation in the IMF for low-mass stars in both dwarf and massive galaxies with diverse observational methods. Despite systematic discrepancies between different approaches, an IMF model with a metallicity-dependent slope for the low-mass stars aligns with the majority of observations, indicating a high degree of uniformity in the star formation processes across the Universe. We also emphasize the need for a more comprehensive understanding of the variation in the low-mass IMF, considering measurement biases and factors beyond metallicity.
 ]]></content:encoded>
-
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -73,15 +69,13 @@ The stellar initial mass function (IMF) characterizes the mass distribution of n
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5008</guid>
 <content:encoded><![CDATA[
 <div> Supersonic, Isothermal, Turbulence, Energy, Astrophysical Systems
-<br>
+<br />
 这篇论文探讨了宇宙物理系统中常见的超音速等温湍流过程的能量。研究表明，守恒能量是动能（K）和Helmholtz自由能（F）的总和。研究人员预测了自由能P（F）和动能P（K）的概率分布，以及它们非平凡的联合分布P（F，K）。他们通过一系列驱动湍流模拟验证了这些预测，发现结果与预测非常吻合。模拟湍流的马赫数范围从1到8，并有三种驱动模式：纯螺旋型、纯压缩型和混合型。研究发现P（F）在F = 0处不连续，不连续性随着马赫数和压缩驱动而增加。P（K）类似于负偏态的对数正态分布。联合分布P（F，K）显示出双峰分布，气体要么存在于高F和高K，要么存在于低F和低K。 
-<br><br>总结: 这项研究探讨了超音速等温湍流的能量分布规律，提出了动能和Helmholtz自由能的概率分布，并通过模拟验证了这些预测。研究结果表明，湍流的能量分布在不同条件下存在不同的特征，为理解宇宙中湍流运动提供了重要参考。 <div>
+<br /><br />总结: 这项研究探讨了超音速等温湍流的能量分布规律，提出了动能和Helmholtz自由能的概率分布，并通过模拟验证了这些预测。研究结果表明，湍流的能量分布在不同条件下存在不同的特征，为理解宇宙中湍流运动提供了重要参考。 <div>
 Supersonic isothermal turbulence is a common process in astrophysical systems. In this work, we explore the energy in such systems. We show that the conserved energy is the sum of the kinetic energy (K) and Helmholtz free energy (F). We develop analytic predictions for the probability distributions, P(F) and P(K), as well as their nontrivial joint distribution, P(F, K). We verify these predictions with a suite of driven turbulence simulations, finding excellent agreement. The turbulence simulations were performed at Mach numbers ranging from 1 to 8, and three modes of driving: purely solenoidal, purely compressive, and mixed. We find that P(F) is discontinuous at F = 0, with the discontinuity increasing with Mach number and compressive driving. P(K) resembles a lognormal with a negative skew. The joint distribution, P(F, K), shows a bimodal distribution, with gas either existing at high F and high K or at low F and low K.
 ]]></content:encoded>
-
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Constraining the Low-mass End of the Black Hole Mass Function and the Active Fraction of the Intermediate-mass Black Holes</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4966</link>
@@ -11324,60 +11318,6 @@ Understanding the magnetic fields of the Sun is essential for unraveling the und
 Breathing pulses are mixing episodes that could develop during the core helium-burning phase of low- and intermediate-mass stars. The occurrence of breathing pulses is expected to bear consequences on the formation and evolution of white dwarfs, particularly on the core chemical structure, which can be probed by asteroseismology. We aim to explore the consequences of breathing pulses on the chemical profiles and pulsational properties of variable white dwarf stars with hydrogen-rich envelopes, known as ZZ Ceti stars. We compute stellar models with masses of 1.0M⊙ and 2.5M⊙ in the zero-age main sequence and evolve them through the core helium-burning phase to the thermal pulses on the asymptotic giant branch, and finally to advanced stages of white dwarf cooling. We compare the chemical structure of the core of white dwarfs whose progenitors have experienced breathing pulses during the core helium-burning phase with the case in which breathing pulses have not occurred. We find that when breathing pulses occur, the white dwarf cores are larger and the central abundances of oxygen are higher than for the case in which the breathing pulses are suppressed, in line with previous studies. However, the occurrence of breathing pulses is not sufficient to explain the large cores and the excessive oxygen abundances that characterize recently derived asteroseismological models of pulsating white dwarfs. We find absolute differences of up to ∼30 s when we compare pulsation periods of white dwarfs coming from progenitors that have experienced breathing pulses with the case in which the progenitors have not suffered breathing pulses.
 ]]></content:encoded>
 <pubDate>2024-03-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Relationships between Active Galactic Nucleus Power and Molecular Gas Mass within 500 pc of the Center of Elliptical Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c0</guid>
-<content:encoded><![CDATA[
-The physical quantity that directly controls the feedback of active galactic nuclei (AGNs) in elliptical galaxies remains to be determined. The discovery of molecular gas around the AGNs suggests that the gas is fueling the AGNs. Therefore, we analyze Atacama Large Millimeter/submillimeter Array data for the CO line (J = 1–0, 2–1, 3–2) emission and estimate the mass of molecular gas within 500 pc of the center of 12 noncentral elliptical galaxies (NCEGs) and 10 of the brightest cluster galaxies. We find that the mass (Mmol ∼ 105–109M☉) is correlated with the jet power of their AGNs, which is represented by , although NCEGs alone do not show the correlation. We also find that Mmol is correlated with the AGN continuum luminosities at ∼1.4 GHz (L1.4) and ∼100–300 GHz (Lcon). Since Pcav reflects galactic-scale, long-term AGN activity, while the continuum luminosities reflect local (≲500 pc), short-term AGN activity, our results suggest that AGN activity depends on the amount of gas, regardless of its timescale. On the other hand, we cannot find a clear correlation between the mass of the black holes in the AGNs (MBH) and Pcav. This suggests that Mmol, rather than MBH, is the main factor controlling AGN activity. We confirm that the origin of the continuum emission from the AGNs at ∼1.4–300 GHz is mostly synchrotron radiation.
-]]></content:encoded>
-<pubDate>2024-03-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Galactic Diffuse Emission from Radio to Ultra-high-energy γ-Rays in Light of Up-to-date Cosmic-Ray Measurements</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a4e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a4e</guid>
-<content:encoded><![CDATA[
-Cosmic rays (CRs) travel throughout the Galaxy, leaving traces from radio to ultra-high-energy γ-rays due to interactions with the interstellar gas, radiation field, and magnetic field. Therefore, it is necessary to utilize multiwavelength investigations on the Galactic diffuse emission to shed light on the physics of CR production and propagation. In this work, we present a spatially dependent propagation scenario, taking account of a local source contribution, while making allowances for an additional CR component freshly accelerated near their sources. In this picture, after reproducing the particle measurements at the solar system, we calculated the intensity and compared the spectral energy distribution to observations from Fermi-LAT and LHAASO-KM2A in the γ-ray band, and from WMAP and Planck among other radio surveys at lower energies. Multiband data considered in conjunction, the former comparison exhibits sufficiently good consistency in favor of our model, while the latter calls for improvement in data subtraction and processing. From this standpoint, there remains potential for advanced observations at energies from milli-eVs to MeVs toward the Galactic plane, in order to evaluate our model further and more comprehensively in the future.
-]]></content:encoded>
-<pubDate>2024-03-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Aperture and Resolution Effects on Ultraviolet Star-forming Properties: Insights from Local Galaxies and Implications for High-redshift Observations*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1dde</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1dde</guid>
-<content:encoded><![CDATA[
-We present an analysis of the effects of spectral resolution and aperture scale on derived galaxy properties using far-ultraviolet (FUV) spectra of local star-forming galaxies from the International Ultraviolet Explorer (R ∼ 250, field of view (FOV) ∼ 10″ × 20″) and Cosmic Origins Spectrograph on the Hubble Space Telescope (R ∼ 15,000, FOV ∼ 2.″5). Using these spectra, we measured FUV luminosities, spectral slopes, dust attenuation, and equivalent widths. We find that galaxies with one dominant stellar cluster have FUV properties that are independent of aperture size, while galaxies with multiple bright clusters are sensitive to the total light fraction captured by the aperture. Additionally, we find significant correlations between the strength of stellar and interstellar absorption lines and metallicity, indicating metallicity-dependent line-driven stellar winds and interstellar macroscopic gas flows shape stellar and interstellar spectral lines, respectively. The observed line strength versus metallicity relation of stellar-wind lines agrees with the prediction of population synthesis models for young starbursts. In particular, measurements of the strong stellar C ivλλ1548, 1550 line provide an opportunity to determine stellar abundances as a complement to gas-phase abundances. We provide a relation between the equivalent width of the C iv line and the oxygen abundance of the galaxy. We discuss this relation in terms of the stellar-wind properties of massive stars. As the driving lines in stellar winds are mostly ionized iron species, the C iv line may eventually offer a method to probe α-element-to-iron ratios in star-forming galaxies once consistent models with nonsolar abundance ratios are available. These results have important implications for the galaxy-scale, low-resolution observations of high-redshift galaxies from JWST (R ∼ 100–3500).
-]]></content:encoded>
-<pubDate>2024-03-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Vacuum Ultraviolet Single Photon Ionization and Decomposition of 2-Aminopropionitrile in Astrophysical Objects</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1522</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1522</guid>
-<content:encoded><![CDATA[
-The molecule 2-aminopropionitrile (2-APN; H3CCH(NH2)CN) is a chiral precursor of the amino acid alanine and could play an important role in the emergence of the homochirality of life. To date, 2-APN has not yet been detected in the interstellar medium. To address the question of its absence, possibly through destruction by vacuum ultraviolet radiation in astrophysical media, we studied its photoionization and dissociative photoionization in the 9–14 eV (89–137 nm) energy range using photoelectron–photoion coincidence spectroscopy with velocity map imaging. Density functional theory calculations were performed at the PBE0/aug-cc-pVTZ level to determine structures for the various cationic fragments identified experimentally. Their appearance energies were calculated. The adiabatic ionization energy (AIE) of 2-APN is AIE = (9.85±0.01) eV and the appearance energy (AE) of the major fragment ion N≡CC(H)NH2+ is AE = (10.57±0.01) eV. Both ions, 2-APN+ and N≡CC(H)NH2+, make up more than 90% of the formed ions. N≡CC(H)NH2+, an isomer of the protonated HCN dimer, is also formed with high yield in the dissociative photoionization of aminoacetonitrile (NH2CH2CN), another α-aminonitrile observed in Sgr B2(N). Photoion yield spectra have been calibrated to absolute ionization cross sections. From these, we derive photoionization rates in several typical radiation fields relevant to different astrophysical objects. The rates show that, under almost all explored radiation fields, dissociative ionization is the dominant pathway for photoionization, leading to the loss of a methyl group (CH3) to form the planar thermodynamically stable amino cyano methylidynium ion N≡CC(H)NH2+. The observed absence of 2-APN in Sgr B2 could thus be due to dominant dissociative photoionization.
-]]></content:encoded>
-<pubDate>2024-03-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>ALMA-LEGUS. II. The Influence of Subgalactic Environments on Molecular Cloud Properties</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad198a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad198a</guid>
-<content:encoded><![CDATA[
-We compare the molecular cloud properties in subgalactic regions of two galaxies, barred spiral NGC 1313, which is forming many massive clusters, and flocculent spiral NGC 7793, which is forming significantly fewer massive clusters despite having a similar star formation rate to NGC 1313. We find that there are larger variations in cloud properties between different regions within each galaxy than there are between the galaxies on a global scale, especially for NGC 1313. There are higher masses, line widths, pressures, and virial parameters in the arms of NGC 1313 and the center of NGC 7793 than in the interarm and outer regions of the galaxies. The massive cluster formation of NGC 1313 may be driven by its greater variation in environment, allowing more clouds with the necessary conditions to emerge, although no one parameter seems primarily responsible for the difference in star formation. Meanwhile NGC 7793 has clouds that are as massive and have as much kinetic energy as the clouds in the arms of NGC 1313, but have densities and pressures more similar to those in the interarm regions and so are less inclined to collapse and form stars. The cloud properties in NGC 1313 and NGC 7793 suggest that spiral arms, bars, interarm regions, and flocculent spirals each represent distinct environments with regard to molecular cloud populations. We see surprisingly little difference in surface density between the regions, suggesting that the differences in surface densities frequently seen between arm and interarm regions in lower-resolution studies are indicative of the sparsity of molecular clouds, rather than differences in their true surface density.
-]]></content:encoded>
-<pubDate>2024-03-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>ALMA-LEGUS. I. The Influence of Galaxy Morphology on Molecular Cloud Properties</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1eec</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1eec</guid>
-<content:encoded><![CDATA[
-We present a comparative study of the molecular gas in two galaxies from the Legacy ExtraGalactic UV Survey (LEGUS) sample: barred spiral NGC 1313 and flocculent spiral NGC 7793. These two galaxies have similar masses, metallicities, and star formation rates, but NGC 1313 is forming significantly more massive star clusters than NGC 7793, especially young massive clusters (<10 Myr, >104M⊙). Using Atacama Large Millimeter/submillimeter Array (ALMA) CO(2–1) observations of the two galaxies with the same sensitivity and resolution (13 pc), we directly compare the molecular gas in these two similar galaxies to determine the physical conditions responsible for their large disparity in cluster formation. By fitting size–line width relations for the clouds in each galaxy, we find that NGC 1313 has a higher intercept than NGC 7793, implying that its clouds have higher kinetic energies at a given size scale. NGC 1313 also has more clouds near virial equilibrium than NGC 7793, which may be connected to its higher rate of massive cluster formation. However, these virially bound clouds do not show a stronger correlation with young clusters than with the general cloud population. We find surprisingly small differences between the distributions of molecular cloud populations in the two galaxies, though the largest of those differences is that NGC 1313 has higher surface densities and lower freefall times.
-]]></content:encoded>
-<pubDate>2024-03-12T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
