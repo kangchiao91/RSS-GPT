@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Time-dependent Stellar Flare Models of Deep Atmospheric Heating</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4148</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: 光学闪耀，恒星，辐射动力学，电子束加热，大气模型
 
-总结:<br><br>本文使用RADYN代码计算了一系列1D辐射-动力学恒星耀斑模型，这些模型受到电子束加热的短脉冲驱动。模型表明高能电子束耀斑的全球通量比趋势，光谱匹配以及氢巴尔默γ线的形成均得到了良好的解释。研究发现，压力展宽和光学深度解释了白光恒星耀斑中氢巴尔默γ线的宽组分。该研究结果还揭示了高能电子束加热如何从冲击阶段演变到逐渐衰减阶段。这一研究建立了一个公开的模型库，并探讨了可能的应用。 <div>
+总结:<br /><br />本文使用RADYN代码计算了一系列1D辐射-动力学恒星耀斑模型，这些模型受到电子束加热的短脉冲驱动。模型表明高能电子束耀斑的全球通量比趋势，光谱匹配以及氢巴尔默γ线的形成均得到了良好的解释。研究发现，压力展宽和光学深度解释了白光恒星耀斑中氢巴尔默γ线的宽组分。该研究结果还揭示了高能电子束加热如何从冲击阶段演变到逐渐衰减阶段。这一研究建立了一个公开的模型库，并探讨了可能的应用。 <div>
 Optical flares have been observed from magnetically active stars for many decades; unsurprisingly, the spectra and temporal evolution are complicated. For example, the shortcomings of optically thin, static slab models have long been recognized when confronted with the observations. A less incorrect—but equally simple—phenomenological T ≈ 9000 K blackbody model has instead been widely adopted in the absence of realistic (i.e., observationally tested) time-dependent, atmospheric models that are readily available. We use the RADYN code to calculate a grid of 1D radiative-hydrodynamic stellar flare models that are driven by short pulses of electron-beam heating. The flare heating rates in the low atmosphere vary over many orders of magnitude in the grid, and we show that the models with high-energy electron beams compare well to the global trends in flux ratios from impulsive-phase stellar flare, optical spectra. The models also match detailed spectral line-shape properties. We find that the pressure broadening and optical depths account for the broad components of the hydrogen Balmer γ lines in a powerful flare with echelle spectra. The self-consistent formation of the wings and nearby continuum level provides insight into how high-energy electron-beam heating evolves from the impulsive to the gradual decay phase in white-light stellar flares. The grid is publicly available, and we discuss possible applications.
 ]]></content:encoded>
-
 <pubDate>2024-07-04T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@ Optical flares have been observed from magnetically active stars for many decade
 <content:encoded><![CDATA[
 <div> Keywords: sunspot cycle, deep learning, Solar Cycle 25, Solar Cycle 26, hemispheric activity
 
-总结: <br><br>该研究使用Informer模型分别预测了太阳25和26周期的活动水平。结果表明，这两个周期的活动水平将继续保持较弱至中等强度，且与24周期相比更强。还观察到了Gnevyshev峰值，表明大型太阳黑子群的数量将比小型黑子群多。此外，预测表明在25周期期间，南半球的活动水平将比北半球更强，表明两个半球之间存在显著的不对称和异步性。该研究结果显示如果针对每个半球单独进行预测，太阳周期预测可以变得更加准确。此外，与基于前兆和基于模型的预测方法相一致，太阳25和26周期很可能是弱至中等强度的周期。 <div>
+总结: <br /><br />该研究使用Informer模型分别预测了太阳25和26周期的活动水平。结果表明，这两个周期的活动水平将继续保持较弱至中等强度，且与24周期相比更强。还观察到了Gnevyshev峰值，表明大型太阳黑子群的数量将比小型黑子群多。此外，预测表明在25周期期间，南半球的活动水平将比北半球更强，表明两个半球之间存在显著的不对称和异步性。该研究结果显示如果针对每个半球单独进行预测，太阳周期预测可以变得更加准确。此外，与基于前兆和基于模型的预测方法相一致，太阳25和26周期很可能是弱至中等强度的周期。 <div>
 Forecasting the amplitude and timing of the sunspot cycle is highly important for solar physics and space weather applications, but high-precision prediction of solar magnetic activity has remained an outstanding challenge. The Informer model, as the most advanced deep learning technique, is an ideal approach for predicting solar activity cycle. Using the whole-disk sunspot numbers (SSNs) between 1749 and 2023 and the hemispheric SSNs between 1992 and 2023, the amplitudes and timings of Solar Cycles 25 and 26 are predicted by the Informer model. The main results are the following: (1) the activity levels of Solar Cycles 25 and 26 continue being weak-moderate cycles with their strengths stronger than Solar Cycle 24, implying that the long-term solar variability is significantly modulated in length and magnitude by the Gleissberg century cycle; (2) the Gnevyshev peaks of Solar Cycles 25 and 26 are clearly observed with a higher value in the second peak, suggesting that the numbers of the large sunspot groups are greater compared to the small sunspot groups in these two cycles; and (3) during Solar Cycle 25, the activity level in the southern hemisphere is predicted to be stronger than that in the northern one, revealing significant asymmetry and asynchronization between the two hemispheres. Our analysis results show that solar cycle predictions can be made more accurate if performed separately for each hemisphere. Furthermore, Solar Cycles 25 and 26 are likely to be weak-moderate cycles, in agreement with the precursor-based and model-based prediction methods.
 ]]></content:encoded>
-
 <pubDate>2024-07-04T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,10 +39,8 @@ Forecasting the amplitude and timing of the sunspot cycle is highly important fo
 总结: 本文介绍了Green Bank Telescope进行的820 MHz脉冲星调查，发现了六颗新的脉冲星并发现了一颗脉冲星的共同发现。其中一颗脉冲星处于短周期（4.5小时）的双星轨道上，并对脉冲星质量进行了初步测量。调查数据还用于估计调查的灵敏度，并测量了20个检测到的源的脉冲宽度和流量。对于在350 MHz的Green Bank北天幕调查中也被探测到的源，测量了散射参数并与该地区的预期进行了比较。最后，文章指出了Typical Galactic electron density模型在调查区域中电离度测量的显然低估，并讨论了未来的观测策略。 <div>
 The Green Bank 820 MHz pulsar survey covers ≃173 deg2 in the Cygnus X region of the Galaxy, centered on l = 84.°5 and b = 1.°5. Significant star formation is present in this region, and lines of sight pass through three arms of the Galaxy (Orion–Cygnus, Perseus, and an outer arm). Using the Green Bank Telescope, we recorded 200 MHz of bandwidth for 4.5 minutes at 81.92 μs resolution for each of 3457 observed survey pointings during 2016 and 2017, covering about two-thirds of the total area. We searched these data for pulsars and report the discovery of six new pulsars—PSRs J2016+3820, J2016+4231, J2019+3810, J2035+3538, J2035+3655, and J2041+4551—and the codiscovery of PSR J2057+4701. PSR J2035+3655 is in a short (4.5 hr) binary orbit; we report the full binary solution and weakly constrain the mass of the pulsar via a marginal (2σ) detection of the Shapiro delay. We also searched the survey data for known pulsars to estimate the survey’s sensitivity and measured 820 MHz pulse widths and flux density for 20 detected sources. For sources that were also detected in the Green Bank North Celestial Cap survey at 350 MHz, we measure scattering parameters and compare to expectations for the region. With these results, we revisit the population estimates that motivated this survey and consider the impact of the survey’s yield on their underlying models. We note an apparent underestimate in dispersion measure predictions from typical Galactic electron density models in the survey region, and discuss future observation strategies.
 ]]></content:encoded>
-
 <pubDate>2024-07-04T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A Dynamical Model for IRAS 00500+6713: The Remnant of a Type Iax Supernova SN 1181 Hosting a Double Degenerate Merger Product WD J005311</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d99</link>
@@ -11385,33 +11382,6 @@ The initial–final mass relation (IFMR) plays a crucial role in understanding s
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2167</guid>
 <content:encoded><![CDATA[
 Young protostars that undergo episodic accretion can provide insight into the impact on their circumstellar environments while matter is accreted from the disk onto the protostar. IRAS 22343+7501 is a four-component protostar system with one of those being a fading outbursting protostar, which was obseved with the Karl G. Jansky Very Large Array (VLA) and is referred to as L1251 VLA 6. Given the rarity of young stellar objects undergoing this type of accretion, L1251 VLA 6 can elucidate the fading phase of the post-outburst process. Here, we examine structure in the disk around L1251 VLA 6 at frequencies of 10 and 33 GHz with the VLA. We model the disk structure using Markov Chain Monte Carlo (MCMC). This method is then combined with a parametric ray-tracing code to generate synthetic model images of an axisymmetric disk, allowing us to characterize the radial distribution of dust in the system. The results of our MCMC fit show that the most probable values for the mass and radius are consistent with values typical of Class I objects. We find that the total mass of the disk is and investigate the conditions that could cause the accretion outburst. We conclude that the eruption is not caused by gravitational instability and consider alternative explanations and trigger mechanisms.
-]]></content:encoded>
-<pubDate>2024-03-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Origins of Gas Accreted by Supermassive Black Holes: The Importance of Recycled Gas</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad245a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad245a</guid>
-<content:encoded><![CDATA[
-We investigate the fueling mechanisms of supermassive black holes (SMBHs) by analyzing 10 zoom-in cosmological simulations of massive galaxies, with stellar masses 1011–12M⊙ and SMBH masses 108.9–9.7M⊙ at z = 0, featuring various major and minor merger events. By tracing the gas history in these simulations, we categorize the gas accreted by the central SMBHs based on its origin. Gas that belonged to a different galaxy before accretion onto the BH is labeled as (i) “external,” while smoothly accreted cosmic gas is classified as (ii) “smooth.” Gas produced within the primary halo through stellar evolution and subsequently accreted by the SMBH is classified as (iii) “recycled.” Our analysis, which includes stellar feedback, reveals that the primary fuel source for SMBHs is the recycled gas from dying stars. This recycled gas from stars in the inner region of the galaxy readily collapses toward the center, triggering starbursts and simultaneously fueling the SMBH. Galaxy mergers also play a crucial role in fueling SMBHs in massive galaxies, as SMBHs in massive halos tend to accrete a higher fraction of external gas from mergers compared to smoothly accreted gas. However, on average, it takes approximately 1.85 Gyr for external gas to enter the main galaxy and accrete onto the SMBH. Considering the presence of various other gas triggers for active galactic nucleus (AGN) activity alongside this time delay, the association between AGNs and mergers may not always be obvious.
-]]></content:encoded>
-<pubDate>2024-03-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Metallicity–Electron Temperature Relationship in H ii Regions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2458</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2458</guid>
-<content:encoded><![CDATA[
-H ii region heavy-element abundances throughout the Galactic disk provide important constraints to theories of the formation and evolution of the Milky Way. In LTE, radio recombination line (RRL) emission and free–free continuum emission are accurate extinction-free tracers of the H ii region electron temperature. Since metals act as coolants in H ii regions via the emission of collisionally excited lines, the electron temperature is a proxy for metallicity. Shaver et al. found a linear relationship between metallicity and electron temperature with little scatter. Here we use CLOUDY H ii region simulations to (1) investigate the accuracy of using RRLs to measure the electron temperature and (2) explore the metallicity–electron temperature relationship. We model 135 H ii regions with different ionizing radiation fields, densities, and metallicities. We find that electron temperatures derived under the assumption of LTE are about 20% systematically higher owing to non-LTE effects, but overall LTE is a good assumption for centimeter-wavelength RRLs. Our CLOUDY simulations are consistent with the Shaver et al. metallicity–electron temperature relationship, but there is significant scatter since earlier spectral types or higher electron densities yield higher electron temperatures. Using RRLs to derive electron temperatures assuming LTE yields errors in the predicted metallicity as large as 10%. We derive correction factors for log(O/H) + 12 in each CLOUDY simulation. For lower metallicities the correction factor depends primarily on the spectral type of the ionizing star and ranges from 0.95 to 1.10, whereas for higher metallicities the correction factor depends on the density and is between 0.97 and 1.05.
-]]></content:encoded>
-<pubDate>2024-03-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Disk-induced Binary Precession: Implications for Dynamics and Multimessenger Observations of Black Hole Binaries</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2613</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2613</guid>
-<content:encoded><![CDATA[
-Many studies have recently documented the orbital response of eccentric binaries accreting from thin circumbinary disks, characterizing the change in the binary semimajor axis and eccentricity. We extend these calculations to include the precession of the binary’s longitude of periapse induced by the circumbinary disk, and we characterize this precession continuously with binary eccentricity eb for equal mass components. This disk-induced apsidal precession is prograde with a weak dependence on the binary eccentricity when eb ≲ 0.4 and decreases approximately linearly for eb ≳ 0.4; yet at all eb binary precession is faster than the rates of change to the semimajor axis and eccentricity by an order of magnitude. We estimate that such precession effects are likely most important for subparsec separated binaries with masses ≲107 M⊙, like LISA precursors. We find that accreting, equal-mass LISA binaries with M < 106 M⊙ (and the most massive M ∼ 107 M⊙ binaries out to z ∼ 3) may acquire a detectable phase offset due to the disk-induced precession. Moreover, disk-induced precession can compete with general relativistic precession in a vacuum, making it important for observer-dependent electromagnetic searches for accreting massive binaries—like Doppler boost and binary self-lensing models—after potentially only a few orbital periods.
 ]]></content:encoded>
 <pubDate>2024-03-14T00:00:00Z</pubDate>
 </item>
