@@ -4,20 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Type Ia Supernova Progenitor Properties and their Host Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4702</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4702</guid>
 <content:encoded><![CDATA[
 <div> SNe Ia, eigenfunction method, LC stretch, progenitor white dwarf, delayed-detonation scenario
-<br>总结:
+<br />总结:
 本文提出了一种使用特征函数方法分析恒星爆炸光学曲线的方法，该方法基于延迟引爆模型并利用 LC stretch、前体白矮星的主序质量、中心密度等三个参数。研究表明，SNe Ia具有不同的特征和宿主星系相关性，其中根据恒星进化速度可以将其分为快速和缓慢两组。同时，对于91T型的SNe Ia来说，其光学曲线非常相似，且与恒星形成区域相关，有望成为早期宇宙中至 z≈4-11 的恒星形成追踪物。对于超亮型和亚亮型的SNe Ia，有约6%的异常数据可以归因于宿主的活跃恒星形成。最后，研究表明对于SNe Ia的多次爆发场景以及未来的调查具有重要意义。 <div>
 We present an eigenfunction method to analyze 161 visual light curves (LCs) of Type Ia supernovae (SNe Ia) obtained by the Carnegie Supernova Project to characterize their diversity and host-galaxy correlations. The eigenfunctions are based on the delayed-detonation (DD) scenario using three parameters: the LC stretch s determined by the amount of deflagration burning governing the 56Ni production, the main-sequence mass MMS of the progenitor white dwarf controlling the explosion energy, and its central density ρc shifting the 56Ni distribution. Our analysis tool (Supernova Parameter Analysis Tool) extracts the parameters from observations and projects them into physical space using their allowed ranges (MMS ≤ 8 M⊙, ρc ≤ 7–8 × 109 g cm−3). The residuals between fits and individual LC points are ≈1%–3% for ≈92% of objects. We find two distinct MMS groups corresponding to a fast (≈4–65 Myr) and a slow(≈200–500 Myr) stellar evolution. Most underluminous SNe Ia have hosts with low star formation but high MMS, suggesting slow evolution times of the progenitor system. 91T-like SNe show very similar LCs and high MMS and are correlated to star formation regions, making them potentially important tracers of star formation in the early Universe out to z ≈ 4–11. Some ∼6% outliers with nonphysical parameters using DD scenarios can be attributed to superluminous SNe Ia and subluminous SNe Ia with hosts of active star formation. For deciphering the SNe Ia diversity and high-precision SNe Ia cosmology, the importance is shown for LCs covering out to ≈60 days past maximum. Finally, our method and results are discussed within the framework of multiple explosion scenarios, and in light of upcoming surveys.
 ]]></content:encoded>
-
 <pubDate>2024-07-04T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Time-dependent Stellar Flare Models of Deep Atmospheric Heating</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4148</link>
@@ -11386,15 +11385,6 @@ We report the results of the CO J = 1–0 and SiO J = 2–1 mapping observations
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2067</guid>
 <content:encoded><![CDATA[
 The initial–final mass relation (IFMR) plays a crucial role in understanding stellar structure and evolution by linking a star’s initial mass to the mass of the resulting white dwarf. This study explores the IFMR in the initial mass range 0.8 ≤ Mini/M⊙ ≤ 4 using full PARSEC evolutionary calculations supplemented with COLIBRI computations to complete the ejection of the envelope and obtain the final core mass. Recent works have shown that the supposed monotonicity of the IFMR is interrupted by a kink in the initial mass range Mini ≈ 1.65–2.10 M⊙, due to the interaction between recurrent dredge-up episodes and stellar winds in carbon stars evolving on the thermally pulsing asymptotic giant branch phase. To reproduce the IFMR nonmonotonic behavior we investigate the role of convective overshooting efficiency applied to the base of the convective envelope (fenv) and to the borders of the pulse-driven convective zone (fpdcz), as well as its interplay with mass loss. We compare our models to observational data and find that fenv must vary with initial mass in order to accurately reproduce the IFMR’s observed kink and slopes. We find some degeneracy between the overshooting parameters when only the IFMR information is used. Nonetheless, this analysis provides valuable insights into the internal mixing processes during the TP-AGB phase.
-]]></content:encoded>
-<pubDate>2024-03-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>An Outbursting Protostar: The Environment of L1251 VLA 6</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2167</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2167</guid>
-<content:encoded><![CDATA[
-Young protostars that undergo episodic accretion can provide insight into the impact on their circumstellar environments while matter is accreted from the disk onto the protostar. IRAS 22343+7501 is a four-component protostar system with one of those being a fading outbursting protostar, which was obseved with the Karl G. Jansky Very Large Array (VLA) and is referred to as L1251 VLA 6. Given the rarity of young stellar objects undergoing this type of accretion, L1251 VLA 6 can elucidate the fading phase of the post-outburst process. Here, we examine structure in the disk around L1251 VLA 6 at frequencies of 10 and 33 GHz with the VLA. We model the disk structure using Markov Chain Monte Carlo (MCMC). This method is then combined with a parametric ray-tracing code to generate synthetic model images of an axisymmetric disk, allowing us to characterize the radial distribution of dust in the system. The results of our MCMC fit show that the most probable values for the mass and radius are consistent with values typical of Class I objects. We find that the total mass of the disk is and investigate the conditions that could cause the accretion outburst. We conclude that the eruption is not caused by gravitational instability and consider alternative explanations and trigger mechanisms.
 ]]></content:encoded>
 <pubDate>2024-03-14T00:00:00Z</pubDate>
 </item>
