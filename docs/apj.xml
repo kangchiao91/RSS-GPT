@@ -4,6 +4,44 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>MACE: A Machine-learning Approach to Chemistry Emulation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47a1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47a1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 化学动力学, 3D模拟, 机器学习, AGB喷流, PyTorch 
+总结:<br><br>这篇文章讨论了天体物理环境的化学特性和动力学之间的密切关系，强调了对这些环境进行3D建模的必要性。然而，在3D流体动力学模拟中解决化学动力学是计算上不可行的。作者提出了一种名为mace的机器学习方法来模拟动态环境中的化学反应，通过使用自动编码器和一组潜在的常微分方程来降低化学网络的维度并对其进行时间演化。通过在PyTorch中高效实现，mace的性能优于传统方法约26倍，并且在计算上具有次线性的可扩展性。这种方法对于包括AGB喷流在内的天体物理环境的3D化学动力学模拟具有重要的应用潜力。 <div>
+The chemistry of an astrophysical environment is closely coupled to its dynamics, the latter often found to be complex. Hence, to properly model these environments a 3D context is necessary. However, solving chemical kinetics within a 3D hydro simulation is computationally infeasible for even a modest parameter study. In order to develop a feasible 3D hydro-chemical simulation, the classical chemical approach needs to be replaced by a faster alternative. We present mace, a Machine-learning Approach to Chemistry Emulation, as a proof-of-concept work on emulating chemistry in a dynamical environment. Using the context of AGB outflows, we have developed an architecture that combines the use of an autoencoder (to reduce the dimensionality of the chemical network) and a set of latent ordinary differential equations (that are solved to perform the temporal evolution of the reduced features). Training this architecture with an integrated scheme makes it possible to successfully reproduce a full chemical pathway in a dynamical environment. mace outperforms its classical analog on average by a factor of 26. Furthermore, its efficient implementation in PyTorch results in a sublinear scaling with respect to the number of hydrodynamical simulation particles.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>SOFIA/HAWC+ Far-infrared Polarimetric Large-area CMZ Exploration Survey. III. Full Survey Data Set</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4462</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4462</guid>
+<content:encoded><![CDATA[
+<div> FIREPLACE survey, DR2, polarization pseudovectors, magnetic field orientations, CMZ <br>
+<br>
+FIREPLACE调查的第二个数据发布（DR2）覆盖了中分子区域（CMZ）的热极化尘埃发射观测结果，发现磁场取向呈双峰分布，并观察到磁场取向与分子云的总强度形态有关。受恒星风和潮汐力的影响，磁场结构呈现出明显的空间变化。总结：<br>该调查利用高分辨率机载宽带相机在214微米波段观测了CMZ区域的热极化尘埃发射。通过对DR2和DR1数据进行处理，获得了约64,000个极化伪矢量，发现磁场取向呈双峰分布，且与其他研究结果相似。同时观察到磁场取向与分子云的总强度形态有关，且受到恒星风和潮汐力的影响。 <div>
+We present the second data release (DR2) of the Far-InfraREd Polarimetric Large-Area CMZ Exploration (FIREPLACE) survey. This survey utilized the Stratospheric Observatory for Infrared Astronomy High-resolution Airborne Wideband Camera plus instrument at 214 μm (E band) at a resolution of 19.″6 to observe thermal polarized dust emission throughout the Central Molecular Zone (CMZ). DR2 consists of observations obtained in 2022 covering the region of the CMZ extending from the Brick to the Sgr C molecular clouds (corresponding to a 1° × 0.°75 region of the sky). We combine DR2 with the first FIREPLACE data release (DR1) to obtain full coverage of the CMZ (a 1.°5 × 0.°75 region of the sky). After applying total and polarized intensity significance cuts on the full FIREPLACE data set, we obtain ∼64,000 Nyquist-sampled polarization pseudovectors. The distribution of polarization pseudovectors confirms a bimodal distribution in the CMZ magnetic field orientations, recovering field components that are oriented predominantly parallel or perpendicular to the Galactic plane. This distribution of orientations is similar to what was observed in DR1 and other studies. We also inspect the magnetic fields toward a set of prominent CMZ molecular clouds (the Brick, Three Little Pigs, 50 and 20 km s−1 clouds, circumnuclear disk, CO 0.02-0.02, and Sgr C), revealing spatially varying magnetic fields having orientations that generally trace the total intensity morphologies of the clouds. We find evidence that compression from stellar winds and shear from tidal forces are prominent mechanisms influencing the structure of the magnetic fields.
+]]></content:encoded>
+
+<pubDate>2024-07-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Photons from Neutrinos: The Gamma-Ray Echo of a Supernova Neutrino Burst</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4546</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4546</guid>
+<content:encoded><![CDATA[
+<div> 星体, 核心坍缩, 中微子, 伽马射线, 探测器
+
+在星体的核心坍缩过程中，释放出大量的能量，产生持续约10秒钟的各种中微子的爆发。恒星的氢包层中发生的逆贝塔衰变会产生电磁级联，最终在0.511 MeV的特征能量处引发伽马射线的闪耀，成为中微子爆发的“回音”。它的光度曲线具有快速上升、同样快速的下降，以及之间持续约一分钟或一小时的平台。对于近地球的恒星（距离D≲1 kpc），回音将可以在未来的伽马射线望远镜上观测到，只要其有效面积达到103 cm2或更大。其观测将为我们提供关于包层大小和成分的信息。与直接探测到的中微子爆发结合起来，还可以提供有关离开视线的中微子发射的信息，并进行恒星表面至地球之间中微子传播效应的检测。<br><br>总结:本研究分析了恒星核心坍缩产生的中微子爆发引发的伽马射线闪耀现象。通过观测这一现象，可以获取有关恒星包层大小和成分的信息，并对中微子在恒星表面至地球之间的传播效应进行测试。 <div>
+When a star undergoes core collapse, a vast amount of energy is released in a ∼10 s long burst of neutrinos of all species. Inverse beta decay in the star’s hydrogen envelope causes an electromagnetic cascade that ultimately results in a flare of gamma rays—an “echo” of the neutrino burst—at the characteristic energy of 0.511 MeV. We study the phenomenology and detectability of this flare. Its luminosity curve is characterized by a fast, seconds-long rise and an equally fast decline, with a minute- or hour-long plateau in between. For a near-Earth star (distance D ≲ 1 kpc) the echo will be observable at near future gamma-ray telescopes with an effective area of 103 cm2 or larger. Its observation will inform us on the envelope size and composition. In conjunction with the direct detection of the neutrino burst, it will also give information on the neutrino emission away from the line of sight and will enable tests of neutrino propagation effects between the stellar surface and Earth.
+]]></content:encoded>
+
+<pubDate>2024-07-08T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Erratum: “Hubble Space Telescope Snapshot Survey for Resolved Companions of Galactic Cepheids: Final Results” (2020, ApJ, 905, 81)</title>
