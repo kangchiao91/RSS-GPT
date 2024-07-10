@@ -5,15 +5,131 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Jittering Jets Explosion Mechanism in Electron Capture Supernovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad487f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad487f</guid>
+<content:encoded><![CDATA[
+<div> 恒星演化模拟, 核心坍缩, 电子俘获, 角动量, 恒星爆炸
+<br>
+该研究通过对初始质量为8.8-9.45太阳质量的恒星进行一维恒星演化模拟，发现在核心坍缩阶段，对流区可以提供所需的随机角动量波动，从而在微扰喷流爆炸机制的框架下引发电子俘获超新星爆发。根据他们的标准，对流比角动量和喷流发射时的吸积质量Macc约为0.001-0.01太阳质量，发现可以引发爆炸的对流层位于富含氦的区域。取决于模型，这一爆炸层在核心坍缩后大约一分钟到几小时被吸积，远远短于爆炸冲击波跨越恒星所需的时间。最终的中子星遗迹（引力）质量在1.25-1.43太阳质量的范围内。 
+<br><br>总结: 该研究通过一维恒星演化模拟发现，在恒星的核心坍缩阶段，对流区可以提供所需的随机角动量波动，从而引发电子俘获超新星爆炸。发现可以引发爆炸的对流层位于富含氦的区域，并在核心坍缩后短时间内被吸积。最终的中子星遗迹（引力）质量在1.25-1.43太阳质量的范围内。 <div>
+We conduct one-dimensional stellar-evolution simulations of stars with zero-age main-sequence (ZAMS) masses of MZAMS = 8.8 − 9.45 M⊙ toward core collapse by electron capture and find that the convective zone of the precollapse core can supply the required stochastic angular momentum fluctuations to set a jet-driven electron capture supernova explosion in the frame of the jittering jets explosion mechanism. By our assumed criteria of a minimum convective specific angular momentum and an accreted mass during jet launching of Macc ≃ 0.001−0.01 M⊙, the layer in the convective zone that when accreted launches the exploding jittering jets resides in the helium-rich zone. Depending on the model, this exploding layer is accreted at about a minute to a few hours after core collapse occurs, much shorter than the time the exploding shock crosses the star. The final (gravitational) mass of the neutron star (NS) remnant is in the range of MNS = 1.25−1.43 M⊙.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Chronicling the Reionization History at 6 ≲ z ≲ 7 with Emergent Quasar Damping Wings</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4888</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4888</guid>
+<content:encoded><![CDATA[
+<div> 高红移类星体、光谱、中性气体分数、神经网络、仿真模型
+总结:
+在这项研究中，研究人员使用了18个红移在6.0 < z < 7.1的类星体光谱来填补6 ≲ z ≲ 7之间的中性气体分数空白。他们运用神经网络重构类星体的连续辐射，对光谱进行规范化处理，然后将这些规范化后的光谱分为三个红移区间进行叠加。通过比较两种流体动力学模拟（ATON和CROC）中的模型，他们测量了平均中性气体分数，并同时拟合了每个叠加光谱的平均类星体寿命。他们发现中性气体分数在不同红移区间发生了变化，而平均类星体寿命约为7百万年，这与先前的研究结果相吻合。 <div>
+The spectra of high-redshift (z ≳ 6) quasars contain valuable information on the progression of the Epoch of Reionization. At redshifts z < 6, the observed Lyman-series forest shows that the intergalactic medium is nearly ionized, while at z > 7 the observed quasar damping wings indicate high neutral gas fractions. However, there remains a gap in neutral gas fraction constraints at 6 ≲ z ≲ 7 where the Lyman-series forest becomes saturated but damping wings have yet to fully emerge. In this work, we use a sample of 18 quasar spectra at redshifts 6.0 < z < 7.1 to close this gap. We apply neural networks to reconstruct the quasars’ continuum emission around the partially absorbed Lyα line to normalize their spectra, and stack these continuum-normalized spectra in three redshift bins. To increase the robustness of our results, we compare the stacks to a grid of models from two hydrodynamical simulations, ATON and CROC, and we measure the volume-averaged neutral gas fraction, , while jointly fitting for the mean quasar lifetime, tQ, for each stacked spectrum. We chronicle the evolution of neutral gas fraction using the ATON (CROC) models as follows: ( ) at 〈z〉 = 6.10, ( ) at 〈z〉 = 6.46, and ( ) at 〈z〉 = 6.87. At the same time, we constrain the average quasar lifetime to be tQ ≲ 7 Myr across all redshift bins, in good agreement with previous studies.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Neutrino Fluxes from Different Classes of Galactic Sources</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4960</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4960</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 中微子通量, 星系源, IceCube, KM3NeT, 南半球
+总结: 
+本研究估计了不同类型星系源的中微子通量，并将其与IceCube最近探测到的弥散中微子通量进行了比较。研究发现，这些源产生的通量可能为IceCube中微子通量的约20%。大多数所选择的源都位于南半球，因此像KM3NeT这样的探测器可能有助于解析观测到的星系弥散中微子通量中的源。<br><br> <div>
+We estimate the neutrino flux from different kinds of galactic sources and compare it with the recent diffuse neutrino flux detected by IceCube. We find that the flux from these sources may contribute to ∼20% of the IceCube neutrino flux. Most of the sources selected in this work populate the southern hemisphere, therefore a detector like KM3NeT could help in resolving the sources out of the observed diffused galactic neutrino flux.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Population Synthesis of Wolf–Rayet Stars Involving Binary Merger Channels</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da8</guid>
+<content:encoded><![CDATA[
+<div> Wolf-Rayet stars, massive stars, binary merger, formation channels, population synthesis
+<br><br>总结:
+Wolf-Rayet（W-R）星是非常重要的大质量恒星。通过模拟，我们发现双星合并是W-R恒星形成的重要途径，能够解释观测到的W-R恒星总体比例。我们的模型大致能够复现银河系W-R恒星的观测分布，但对大麦哲伦星云的观测分布解释不足。进行解释时，我们考虑了在双星合并过程中可能低估了质量损失率。 <div>
+Wolf–Rayet (W-R) stars are very important massive stars. However, their origin and the observed binary fraction within the entire W-R population are still debated. We investigate some possible merger channels for the formation of W-R stars, including main sequence (MS)/Hertzsprung gap (HG) + MS, He + HG/giant branch (GB). We find that many products produced via binary merger can evolve into W-R stars, the MS/HG + MS merger channel can explain W-R stars with luminosities higher than ∼105.4L⊙, while the He + HG/GB merger channel can explain low-luminosity W-R stars in the range of 104.7L⊙ ∼ 105.5L⊙. In the population synthesis analysis of W-R stars, we assume an initial binary fraction (fini,bin) of 50% and 100% for massive stars. We also assume that MS/HG + MS merger products are nonrotating or rapidly rotating (ω/ωcrit = 0.8). In different cases, the calculated single fractions of W-R stars range from 22.2%–60.6% in the Milky Way (MW) and from 8.3%–70.9% in the Large Magellanic Cloud (LMC). The current observations fall within the range of our calculations. When the merger product of MS/HG + MS rotates rapidly, we estimate that there are approximately 1015–1396 W-R stars in the MW and 128–204 W-R stars in the LMC. Our model also roughly reproduces the observed single-peak luminosity distribution of W-R stars in the MW. However, the weak bimodal luminosity distribution observed in the LMC is not reproduced in our model. We assess that this may be due to the model underestimating the mass-loss rate in the LMC. In conclusion, we consider that the binary merger is a significant formation channel for W-R formation, and can explain the observed high fraction of the single W-R stars in the total population.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of Giant Planets by Gas Disk Gravitational Instability on Wide Orbits around Protostars with Varied Masses. II. Quadrupled Spatial Resolution and Beta Cooling</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed4</guid>
+<content:encoded><![CDATA[
+<div> 关键词: exoplanet demographics, planet formation, gas disk gravitational instability (GDGI), protostars, eccentric orbits
+总结:<br><br>这篇文章讨论了外行星的形成理论，指出核心和鹅卵石聚集对岩石和冰行星的形成有影响，但还需要考虑气盘引力不稳定对M-矮星巨行星和远距离行星的影响。新模型提高了空间分辨率和采用了β冷却逼近，发现GDGI可以解释在离心轨道上（离心率小于0.2）形成距离约30到50天文单位的巨行星。随着原恒星质量减少至0.1太阳质量，形成的数量降至0。 <div>
+Exoplanet demographics are sufficiently advanced to provide important constraints on theories of planet formation. While core and pebble accretion are preferred for rocky and icy planets, there appears to be a need for gas disk gravitational instability (GDGI) to play a role in the formation of M-dwarf gas giants and those orbiting at large distances. Here we present GDGI models that go beyond those presented by Boss (2011) dealing with the formation of wide-orbit gas giants. The new models use quadrupled spatial resolution, in both the radial and azimuthal directions, to reduce the effects of finite spatial resolution. The new models also employ the β cooling approximation, instead of the diffusion approximation used by Boss (2011), in order to push the models further in time. As in Boss (2011), the central protostars have masses of 0.1, 0.5, 1.0, 1.5, or 2.0 M⊙, surrounded by disks with masses ranging from 0.019 M⊙ to 0.21 M⊙. For each case, two models are computed, one with an initial minimum Toomre Q stability value ranging from 1.1 to 1.7, and one with a higher initial disk temperature, resulting in the initial minimum Q ranging from 2.2 to 3.4. These new models continue to show that GDGI can explain the formation of gas giants at distances of ∼30 to ∼50 au on eccentric orbits (e less than ∼0.2), though the number formed drops to 0 as the protostar mass decreases to 0.1 M⊙.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Effects of Including Farside Observations on In Situ Predictions of Heliospheric Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5187</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5187</guid>
+<content:encoded><![CDATA[
+<div> 关键词: heliospheric models, farside observations, He ii 304 Å emission, STEREO, in situ measurements
+
+总结: 
+本文讨论了太阳圈模型面临的重要挑战，即缺乏对太阳全面观测的数据。文章提出了利用STEREO观测到的He ii 304 Å发射来获得太阳背面磁通量的新技术。研究通过比较模型预测的原位测量值与实际测量值发现，尽管存在一些数量上的差异，但这些差异远远小于太阳圈模型与实际观测数据之间的总体差异。然而，结果表明，那些显著改变开放通量与闭合通量以及总通量比值的活跃区域将对预测的原位测量结果产生最大的影响。 <br><br> <div>
+A significant challenge facing heliospheric models is the lack of full Sun observational coverage. The lack of information about the farside photospheric magnetic field necessitates the use of various techniques to approximate the structure and appearance of this field. However, a recently developed technique that uses He ii 304 Å emission observed by the Solar Terrestrial Relations Observatory (STEREO) enables developing a magnetic flux proxy by imaging of active regions on the far side of the Sun. Incorporating information about these active regions on the far side of the Sun may have the potential to drastically improve heliospheric models. In this work, we run multiple heliospheric models with and without farside information obtained from STEREO observations of He ii 304 Å emission and compare the predicted in situ measurements from the models with real in situ data from STEREO and Earth. We find that although there are noticeable quantitative differences between the in situ predictions from the two models, they are dwarfed by the overall disagreement between the heliospheric model and the actual in situ data. Nevertheless, our results indicate that active regions that significantly change the ratio of open-to-closed and open-to-total flux create the biggest change in the predicted in situ measurements.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>An Atypical Low-frequency Quasiperiodic Oscillation Detected in the Hard State of MAXI J1348–630 with Insight-HXMT</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58d1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58d1</guid>
+<content:encoded><![CDATA[
+<div> 黑洞X射线双星，Insight-HXMT，LFQPO，MAXI J1348−630，频率<br>该研究利用Insight-HXMT的档案数据，在黑洞X射线双星MAXI J1348−630中探测到一个新的非典型低频准周期振荡（LFQPO）。这个LFQPO在Insight-HXMT的三个仪器中都被检测到，结合显著性达到了3σ–5σ，覆盖了1–100 keV的宽能量范围。其分数rms似乎随能量减少。它只出现在硬态期间的主要和小暴发期间，X射线强度范围变化了10倍，硬度范围非常窄。这种新类型LFQPO的频率相当稳定，介于0.08–0.15赫兹之间。研究讨论了LFQPO的不同模型，发现没有一个可以解释这种新类型LFQPO的观测属性。<br><br>总结: 该研究利用Insight-HXMT的数据在黑洞X射线双星MAXI J1348−630中发现了一种新的非典型低频准周期振荡（LFQPO）。这种LFQPO在宽能量范围内被观测到，只出现在特定的硬态期间。它的频率相当稳定，但现有的模型都无法解释这种新型LFQPO的观测特性。 <div>
+Based on the Insight-HXMT archival data, we have detected a new atypical low-frequency quasiperiodic oscillation (LFQPO) in the black hole X-ray binary MAXI J1348−630. The new LFQPO is detected in all three instruments of Insight-HXMT with a combined significance of 3σ–5σ, covering a wide energy range of 1–100 keV. The fractional rms seems to decrease with energy. It exclusively appears in the hard state during both the main and mini outburst, spanning an X-ray intensity range by a factor of 10, and a very narrow hardness range. The frequency of this new type of LFQPO is moderately stable, in the range of 0.08–0.15 Hz. We discussed different models for the LFQPO, and found none can explain the observed properties of this new type of LFQPO.
+]]></content:encoded>
+
+<pubDate>2024-07-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Updating the First CHIME/FRB Catalog of Fast Radio Bursts with Baseband Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad464b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad464b</guid>
+<content:encoded><![CDATA[
+<div> CHIME/FRB Collaboration, fast radio bursts (FRBs), CHIME, baseband data, polarization information
+<br><br>总结:
+2021年，加拿大氢强度映射实验（CHIME）无线电望远镜探测到536个快速无线电爆发（FRBs），并发布了一份目录。文章介绍了对其中140个FRBs的结果更新，其中包括了基带数据的分析和波形研究。可以通过望远镜的天线测量电压来最大化望远镜对主波束内任何方向的灵敏度，称为“波束成形”。通过这种方法，可以提高信噪比，将FRBs定位到次角分辨率，并校正仪器的波束响应。此外，本次更新还提供了极化信息以及数据集的基带数据。这些数据增加了对FRB极化特性的研究。 <div>
+In 2021, a catalog of 536 fast radio bursts (FRBs) detected with the Canadian Hydrogen Intensity Mapping Experiment (CHIME) radio telescope was released by the CHIME/FRB Collaboration. This large collection of bursts, observed with a single instrument and uniform selection effects, has advanced our understanding of the FRB population. Here we update the results for 140 of these FRBs for which channelized raw voltage (“baseband”) data are available. With the voltages measured by the telescope’s antennas, it is possible to maximize the telescope sensitivity in any direction within the primary beam, an operation called “beamforming.” This allows us to increase the signal-to-noise ratios of the bursts and to localize them to subarcminute precision. The improved localizations are also used to correct the beam response of the instrument and to measure fluxes and fluences with an ∼10% uncertainty. Additionally, the time resolution is increased by 3 orders of magnitude relative to that in the first CHIME/FRB catalog, and, applying coherent dedispersion, burst morphologies can be studied in detail. Polarization information is also available for the full sample of 140 FRBs, providing an unprecedented data set to study the polarization properties of the population. We release the baseband data beamformed to the most probable position of each FRB. These data are analyzed in detail in a series of accompanying papers.
+]]></content:encoded>
+
+<pubDate>2024-07-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Studying Magnetic Reconnection with Synchrotron Polarization Statistics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed1</guid>
+<content:encoded><![CDATA[
+<div> 关键词：磁重连接，磁能释放，磁扰动，辐射同步辐射极化统计，数值模拟<br>
+总结:<br>
+这篇文章研究了磁扰动对磁重连接过程的影响。通过观察辐射同步辐射极化统计的方式，研究了在不同方向上的视线如何影响磁层的性质。研究发现极化密度统计可以揭示磁重连接扰动的谱特性，从而为理解磁重连接过程开辟了新的途径。 <div>
+Magnetic reconnection is a fundamental process for releasing magnetic energy in space physics and astrophysics. At present, the usual way to investigate the reconnection process is through analytical studies or first-principle numerical simulations. This paper is the first to understand the turbulent magnetic reconnection process by exploring the nature of magnetic turbulence. From the perspective of radio synchrotron polarization statistics, we study how to recover the properties of the turbulent magnetic field by considering the line of sight along different directions of the reconnection layer. We find that polarization intensity statistics can reveal the spectral properties of reconnection turbulence. This work opens up a new way of understanding turbulent magnetic reconnection.
+]]></content:encoded>
+
+<pubDate>2024-07-08T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>MACE: A Machine-learning Approach to Chemistry Emulation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47a1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47a1</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 化学动力学, 3D模拟, 机器学习, AGB喷流, PyTorch 
-总结:<br><br>这篇文章讨论了天体物理环境的化学特性和动力学之间的密切关系，强调了对这些环境进行3D建模的必要性。然而，在3D流体动力学模拟中解决化学动力学是计算上不可行的。作者提出了一种名为mace的机器学习方法来模拟动态环境中的化学反应，通过使用自动编码器和一组潜在的常微分方程来降低化学网络的维度并对其进行时间演化。通过在PyTorch中高效实现，mace的性能优于传统方法约26倍，并且在计算上具有次线性的可扩展性。这种方法对于包括AGB喷流在内的天体物理环境的3D化学动力学模拟具有重要的应用潜力。 <div>
+总结:<br /><br />这篇文章讨论了天体物理环境的化学特性和动力学之间的密切关系，强调了对这些环境进行3D建模的必要性。然而，在3D流体动力学模拟中解决化学动力学是计算上不可行的。作者提出了一种名为mace的机器学习方法来模拟动态环境中的化学反应，通过使用自动编码器和一组潜在的常微分方程来降低化学网络的维度并对其进行时间演化。通过在PyTorch中高效实现，mace的性能优于传统方法约26倍，并且在计算上具有次线性的可扩展性。这种方法对于包括AGB喷流在内的天体物理环境的3D化学动力学模拟具有重要的应用潜力。 <div>
 The chemistry of an astrophysical environment is closely coupled to its dynamics, the latter often found to be complex. Hence, to properly model these environments a 3D context is necessary. However, solving chemical kinetics within a 3D hydro simulation is computationally infeasible for even a modest parameter study. In order to develop a feasible 3D hydro-chemical simulation, the classical chemical approach needs to be replaced by a faster alternative. We present mace, a Machine-learning Approach to Chemistry Emulation, as a proof-of-concept work on emulating chemistry in a dynamical environment. Using the context of AGB outflows, we have developed an architecture that combines the use of an autoencoder (to reduce the dimensionality of the chemical network) and a set of latent ordinary differential equations (that are solved to perform the temporal evolution of the reduced features). Training this architecture with an integrated scheme makes it possible to successfully reproduce a full chemical pathway in a dynamical environment. mace outperforms its classical analog on average by a factor of 26. Furthermore, its efficient implementation in PyTorch results in a sublinear scaling with respect to the number of hydrodynamical simulation particles.
 ]]></content:encoded>
-
 <pubDate>2024-07-09T23:00:00Z</pubDate>
 </item>
 <item>
@@ -21,12 +137,11 @@ The chemistry of an astrophysical environment is closely coupled to its dynamics
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4462</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4462</guid>
 <content:encoded><![CDATA[
-<div> FIREPLACE survey, DR2, polarization pseudovectors, magnetic field orientations, CMZ <br>
-<br>
-FIREPLACE调查的第二个数据发布（DR2）覆盖了中分子区域（CMZ）的热极化尘埃发射观测结果，发现磁场取向呈双峰分布，并观察到磁场取向与分子云的总强度形态有关。受恒星风和潮汐力的影响，磁场结构呈现出明显的空间变化。总结：<br>该调查利用高分辨率机载宽带相机在214微米波段观测了CMZ区域的热极化尘埃发射。通过对DR2和DR1数据进行处理，获得了约64,000个极化伪矢量，发现磁场取向呈双峰分布，且与其他研究结果相似。同时观察到磁场取向与分子云的总强度形态有关，且受到恒星风和潮汐力的影响。 <div>
+<div> FIREPLACE survey, DR2, polarization pseudovectors, magnetic field orientations, CMZ <br />
+<br />
+FIREPLACE调查的第二个数据发布（DR2）覆盖了中分子区域（CMZ）的热极化尘埃发射观测结果，发现磁场取向呈双峰分布，并观察到磁场取向与分子云的总强度形态有关。受恒星风和潮汐力的影响，磁场结构呈现出明显的空间变化。总结：<br />该调查利用高分辨率机载宽带相机在214微米波段观测了CMZ区域的热极化尘埃发射。通过对DR2和DR1数据进行处理，获得了约64,000个极化伪矢量，发现磁场取向呈双峰分布，且与其他研究结果相似。同时观察到磁场取向与分子云的总强度形态有关，且受到恒星风和潮汐力的影响。 <div>
 We present the second data release (DR2) of the Far-InfraREd Polarimetric Large-Area CMZ Exploration (FIREPLACE) survey. This survey utilized the Stratospheric Observatory for Infrared Astronomy High-resolution Airborne Wideband Camera plus instrument at 214 μm (E band) at a resolution of 19.″6 to observe thermal polarized dust emission throughout the Central Molecular Zone (CMZ). DR2 consists of observations obtained in 2022 covering the region of the CMZ extending from the Brick to the Sgr C molecular clouds (corresponding to a 1° × 0.°75 region of the sky). We combine DR2 with the first FIREPLACE data release (DR1) to obtain full coverage of the CMZ (a 1.°5 × 0.°75 region of the sky). After applying total and polarized intensity significance cuts on the full FIREPLACE data set, we obtain ∼64,000 Nyquist-sampled polarization pseudovectors. The distribution of polarization pseudovectors confirms a bimodal distribution in the CMZ magnetic field orientations, recovering field components that are oriented predominantly parallel or perpendicular to the Galactic plane. This distribution of orientations is similar to what was observed in DR1 and other studies. We also inspect the magnetic fields toward a set of prominent CMZ molecular clouds (the Brick, Three Little Pigs, 50 and 20 km s−1 clouds, circumnuclear disk, CO 0.02-0.02, and Sgr C), revealing spatially varying magnetic fields having orientations that generally trace the total intensity morphologies of the clouds. We find evidence that compression from stellar winds and shear from tidal forces are prominent mechanisms influencing the structure of the magnetic fields.
 ]]></content:encoded>
-
 <pubDate>2024-07-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -36,13 +151,11 @@ We present the second data release (DR2) of the Far-InfraREd Polarimetric Large-
 <content:encoded><![CDATA[
 <div> 星体, 核心坍缩, 中微子, 伽马射线, 探测器
 
-在星体的核心坍缩过程中，释放出大量的能量，产生持续约10秒钟的各种中微子的爆发。恒星的氢包层中发生的逆贝塔衰变会产生电磁级联，最终在0.511 MeV的特征能量处引发伽马射线的闪耀，成为中微子爆发的“回音”。它的光度曲线具有快速上升、同样快速的下降，以及之间持续约一分钟或一小时的平台。对于近地球的恒星（距离D≲1 kpc），回音将可以在未来的伽马射线望远镜上观测到，只要其有效面积达到103 cm2或更大。其观测将为我们提供关于包层大小和成分的信息。与直接探测到的中微子爆发结合起来，还可以提供有关离开视线的中微子发射的信息，并进行恒星表面至地球之间中微子传播效应的检测。<br><br>总结:本研究分析了恒星核心坍缩产生的中微子爆发引发的伽马射线闪耀现象。通过观测这一现象，可以获取有关恒星包层大小和成分的信息，并对中微子在恒星表面至地球之间的传播效应进行测试。 <div>
+在星体的核心坍缩过程中，释放出大量的能量，产生持续约10秒钟的各种中微子的爆发。恒星的氢包层中发生的逆贝塔衰变会产生电磁级联，最终在0.511 MeV的特征能量处引发伽马射线的闪耀，成为中微子爆发的“回音”。它的光度曲线具有快速上升、同样快速的下降，以及之间持续约一分钟或一小时的平台。对于近地球的恒星（距离D≲1 kpc），回音将可以在未来的伽马射线望远镜上观测到，只要其有效面积达到103 cm2或更大。其观测将为我们提供关于包层大小和成分的信息。与直接探测到的中微子爆发结合起来，还可以提供有关离开视线的中微子发射的信息，并进行恒星表面至地球之间中微子传播效应的检测。<br /><br />总结:本研究分析了恒星核心坍缩产生的中微子爆发引发的伽马射线闪耀现象。通过观测这一现象，可以获取有关恒星包层大小和成分的信息，并对中微子在恒星表面至地球之间的传播效应进行测试。 <div>
 When a star undergoes core collapse, a vast amount of energy is released in a ∼10 s long burst of neutrinos of all species. Inverse beta decay in the star’s hydrogen envelope causes an electromagnetic cascade that ultimately results in a flare of gamma rays—an “echo” of the neutrino burst—at the characteristic energy of 0.511 MeV. We study the phenomenology and detectability of this flare. Its luminosity curve is characterized by a fast, seconds-long rise and an equally fast decline, with a minute- or hour-long plateau in between. For a near-Earth star (distance D ≲ 1 kpc) the echo will be observable at near future gamma-ray telescopes with an effective area of 103 cm2 or larger. Its observation will inform us on the envelope size and composition. In conjunction with the direct detection of the neutrino burst, it will also give information on the neutrino emission away from the line of sight and will enable tests of neutrino propagation effects between the stellar surface and Earth.
 ]]></content:encoded>
-
 <pubDate>2024-07-08T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Erratum: “Hubble Space Telescope Snapshot Survey for Resolved Companions of Galactic Cepheids: Final Results” (2020, ApJ, 905, 81)</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a8f</link>
@@ -11511,33 +11624,6 @@ We identify a molecular bubble, and study the star formation and its feedback in
 <br />
 ESA-Solar Orbiter任务的多通道Metis冠状仪首次观察到了太阳冠质量抛射（CME）后冠区的演变。可见光（VL）图像显示，在3.0至5.4 R⊙范围内形成了一条明亮的纵向电流片（CS），被解释为CME后的CS。VL和紫外线图像的独特组合首次实现了对CS区域内外多个等离子体物理参数的二维映射。CS电子温度达到了超过1 MK的峰值，是周围太阳冠高温的两倍以上。在13小时的观测期间，观察到了一个纵向扩散区域，其热压力明显高于磁压，缓慢向外传播。在这个区域内，阿尔芬马赫数约为MA≃0.02–0.11，等离子体β接近于1，湍流水平高于周围太阳冠，但随时间缓慢减少。所有这些结果提供了关于这些特征的最完整的图片，并支持了磁重连与湍流相耦合的概念，从而实现了局部等离子体的显著加热，尽管所涉及的太阳冠磁场在考虑的高度范围内很弱。<br /><br />总结:ESA-Solar Orbiter任务的Metis冠状仪首次观察到了CME后CS的演变，并实现了对CS区域内外多个等离子体物理参数的二维映射。CS内的电子温度达到了高峰值，纵向扩散区域具有较高的热压力和较低的磁压，阿尔芬马赫数约为MA≃0.02–0.11，等离子体β接近于1，湍流水平高于周围太阳冠，但随时间减少。这些结果支持了磁重连与湍流相耦合的概念，从而实现了局部等离子体的显著加热。 <div>
 For the first time the evolution of the coronal reconfiguration after a coronal mass ejection (CME) was observed by the multichannel Metis Coronagraph on board the ESA–Solar Orbiter mission. The images acquired in visible light (VL) between 3.0 and 5.4 R⊙ show the formation after a CME of a bright elongated radial feature interpreted as a post-CME current sheet (CS). The unique combination of VL and UV images allowed the time evolution of multiple plasma physical parameters inside and outside the CS region to be mapped in 2D for the first time. The CS electron temperature reached peak values higher than 1 MK, more than twice as high as the surrounding corona. An elongated vertical diffusion region, characterized as a region of much higher thermal pressure and lower magnetic pressure, is observed to slowly propagate outward during 13 hr of observations. Inside this region the Alfvénic Mach number is of the order of MA ≃ 0.02–0.11, the plasma β is close to unity, and the level of turbulence is higher than in the surrounding corona, but decreases slowly with time. All these results provide one of the most complete pictures of these features, and support the idea of a magnetic reconnection coupled with turbulence, thus allowing significant heating of the local plasma, despite the weakness of involved coronal magnetic fields in the considered altitude range.
-]]></content:encoded>
-<pubDate>2024-03-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>How Population III Supernovae Determined the Properties of the First Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2684</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2684</guid>
-<content:encoded><![CDATA[
-Massive Population III stars can die as energetic supernovae that enrich the early Universe with metals and determine the properties of the first galaxies. With masses of about 109M⊙ at z ≳ 10, these galaxies are believed to be the ancestors of the Milky Way. This paper investigates the impact of Population III supernova remnants (SNRs) from both Salpeter-like and top-heavy initial mass functions (IMFs) on the formation of first galaxies with high-resolution radiation-hydrodynamical simulations with the ENZO code. Our findings indicate that SNRs from a top-heavy Population III IMF produce more metals, leading to more efficient gas cooling and earlier Population II star formation in the first galaxies. From a few hundred to a few thousand Population II stars can form in the central regions of these galaxies. These stars have metallicities of 10−3–10−2, Z⊙, greater than those of extremely metal-poor (EMP) stars. Their mass function follows a power-law distribution with , where M* is stellar mass, and α = 2.66–5.83 and is steeper for a top-heavy IMF. We thus find that EMP stars were not typical of most primitive galaxies.
-]]></content:encoded>
-<pubDate>2024-03-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Undermassive Host Galaxies of Five z ∼ 6 Luminous Quasars Detected with JWST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a57</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a57</guid>
-<content:encoded><![CDATA[
-We measure host galaxy stellar masses for a sample of five luminous quasars at z ∼ 5–7. Using JWST/NIRCam medium-band images of nearby point-spread function reference stars, we carefully subtract the contribution from the quasar light to place upper and lower limits on the flux of each host galaxy. We find that the members of our sample of quasar host galaxies have mass upper limits of 109.7–1010.8 M⊙, significantly less than expected from their supermassive black hole (SMBH) masses and the local MBH–M* relation. We additionally obtain JWST/NIRSpec integral field unit spectra of three of our quasars to calculate black hole masses, which we find are consistent with those in the literature, and to search for the presence of bright but compact galaxies via a Balmer break, for which we do not find evidence. We discuss the potential effects of dust extinction on our measured fluxes and the impact of selection effects on high-redshift quasar samples. We conclude that the masses of the SMBHs relative to the host galaxy stellar masses have a much larger scatter than locally, large enough that these selection effects cannot be responsible. This result is reinforced by other studies. Finally, we explore the potential implications of these results on the picture of SMBH–galaxy coeval growth in the early Universe.
-]]></content:encoded>
-<pubDate>2024-03-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Comprehensive 3D Modeling of the Radiation Environment of Proxima Centauri b: A New Constraint on Habitability?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ade</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ade</guid>
-<content:encoded><![CDATA[
-The combined influence of stellar energetic particles and galactic cosmic rays (GCRs) on the radiation environment, and hence potential habitability, of Earth-like exoplanets is relatively unknown. The present study, for the first time, comprehensively models the transport of these particles in a physics-first manner, using a unique suite of numerical models applied to the astrosphere of Proxima Centauri. The astrospheric plasma environment is modeled magnetohydrodynamically, while particle transport is modeled using a 3D ab initio GCR modulation code, as opposed to previous 1D approaches to this problem. StEP intensities are also calculated using observed stellar event profiles for Proxima Centauri as inputs. Computed intensities are then used to calculate possible atmospheric ionization effects and dose rates. We demonstrate that the contribution of GCRs to these quantities is indeed significant, contrary to the conclusions of previous studies. Furthermore, we propose a novel potential constraint on exoplanetary habitability, namely the rotational period of the host star, based on the unique 3D modeling approach presented here.
 ]]></content:encoded>
 <pubDate>2024-03-20T00:00:00Z</pubDate>
 </item>
