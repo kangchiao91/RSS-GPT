@@ -5,6 +5,21 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star Formation Rate Density 300 Myr after the Big Bang</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad463d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad463d</guid>
+<content:encoded><![CDATA[
+<div> JADES Origins Field, JWST, galaxy population, photometric redshifts, luminosity function
+<br>
+这篇文章利用JWST拍摄的JADES Origins Field中最早期的星系群体进行了表征。研究使用了哈勃空间望远镜光学图像和JWST图像，在超深度堆叠图像中检测到了8个可能的星系候选体，并推断了它们的性质。通过模拟推断，发现星系群体的 UV 光度密度在 z = 12 到 z = 14 之间下降了大约 2.5 倍。文章讨论了这些结果在暗物质晕体质量函数演化理论模型中的可能影响。 
+<br><br>总结：该研究利用JWST观测到的JADES Origins Field中的早期星系群体，推断了这些星系的红移和性质，并研究了它们的发光函数在不同红移下的变化。通过这些研究可以更好地理解宇宙早期星系的演化和性质。 <div>
+We characterize the earliest galaxy population in the JADES Origins Field, the deepest imaging field observed with JWST. We make use of ancillary Hubble Space Telescope optical images (five filters spanning 0.4–0.9 μm) and novel JWST images with 14 filters spanning 0.8−5 μm, including seven medium-band filters, and reaching total exposure times of up to 46 hr per filter. We combine all our data at >2.3 μm to construct an ultradeep image, reaching as deep as ≈31.4 AB mag in the stack and 30.3–31.0 AB mag (5σ, r = 0.″1 circular aperture) in individual filters. We measure photometric redshifts and use robust selection criteria to identify a sample of eight galaxy candidates at redshifts z = 11.5−15. These objects show compact half-light radii of R1/2 ∼ 50−200 pc, stellar masses of M⋆ ∼ 107−108 M☉, and star formation rates ∼ 0.1−1 M☉ yr−1. Our search finds no candidates at 15 < z < 20, placing upper limits at these redshifts. We develop a forward-modeling approach to infer the properties of the evolving luminosity function without binning in redshift or luminosity that marginalizes over the photometric redshift uncertainty of our candidate galaxies and incorporates the impact of nondetections. We find a z = 12 luminosity function in good agreement with prior results, and that the luminosity function normalization and UV luminosity density decline by a factor of ∼2.5 from z = 12 to z = 14. We discuss the possible implications of our results in the context of theoretical models for evolution of the dark matter halo mass function.
+]]></content:encoded>
+
+<pubDate>2024-07-11T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Stagger Code for Accurate and Efficient, Radiation-coupled Magnetohydrodynamic Simulations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4706</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4706</guid>
@@ -15,7 +30,6 @@
 Stagger code是一个能够模拟磁流体力学系统的模块化代码，包含多个物理模块，可以用于运行多种模拟，包括深层恒星大气、太阳黑子形成、恒星色球和日冕、原恒星盘、巨分子云中的恒星形成以及星系形成。该代码高度并行化，能高效地处理大范围的空间和时间尺度。文章描述了代码的方法论，介绍了最重要的物理模块、输入和输出变量，并展示了多个标准MHD测试的结果，以便与其他类似代码进行比较。此外，文章提供了针对太阳观测的一系列测试的概述，包括光谱线形、光谱通量分布、边暗、颗粒运动的强度和速度分布，以及地震功率谱和p模的激发。Stagger code已被证明是一个高保真的代码，具有广泛的用途。 <div>
 We describe the Stagger code for simulations of magnetohydrodynamic (MHD) systems. This is a modular code with a variety of physics modules that will let the user run simulations of deep stellar atmospheres, sunspot formation, stellar chromospheres and coronae, proto-stellar disks, star formation from giant molecular clouds, and even galaxy formation. The Stagger code is efficiently and highly parallelizable, enabling such simulations with large ranges of both spatial and temporal scales. We describe the methodology of the code and present the most important of the physics modules, as well as its input and output variables. We show results of a number of standard MHD tests to enable comparison with other, similar codes. In addition, we provide an overview of tests that have been carried out against solar observations, ranging from spectral line shapes, spectral flux distribution, limb darkening, intensity and velocity distributions of granulation, to seismic power spectra and the excitation of p-modes. The Stagger code has proven to be a high-fidelity code with a large range of uses.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,14 +37,12 @@ We describe the Stagger code for simulations of magnetohydrodynamic (MHD) system
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a73</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a73</guid>
 <content:encoded><![CDATA[
-<div> LIRGs, AGN, morphological analysis, 16 μm flux-density, star formation<br>
+<div> LIRGs, AGN, morphological analysis, 16 μm flux-density, star formation<br />
 总结: 本文对0.8 < z < 1.3的16 μm流量密度限制的星系样本进行了形态学分析。研究发现，在目标红移处，16 μm发射对应于来自强烈恒星形成的多环芳烃特征，或者活跃星系核加热的尘埃。样本中67%为LIRGs，主要分为AGN主导型、星形成主导型、复合型和蓝色紧凑星系。大部分样本（71%）呈盘状形态，少数AGN主导星系比星形成主导型和复合型星系更偏向球状。ULIRGs子样本遵循陡峭的大小-质量关系，与早期星系更为接近。此外，随着4.5 μm亮度过剩（AGN强度的代理）的增加，样本呈现更多的球状特征。根据特定恒星形成率和紧凑性图，大部分LIRG主导的星系样本沿着渐进演化轨迹发展，与任何并合活动无关。样本中的16个ULIRGs中有6个紧凑并且具有强烈AGN贡献，可能沿着更激烈活动的快速轨迹演化。 <div>
 We present a morphological analysis of the 16 μm flux-density-limited galaxy sample at 0.8 < z < 1.3 from Huang et al. (2021). At the targeted redshift, the 16 μm emission corresponds to the polycyclic aromatic hydrocarbon feature from intense star formation, or dust heated by active galactic nuclei (AGN). Our sample of 479 galaxies are dominated by luminous infrared galaxies (LIRGs; 67%) in three CANDLES fields (Extended Groth Strip, Great Observatories Origins Deep Survey North and South fields), and are further divided into AGN-dominated, star-forming dominated, composite, and blue compact galaxies by their spectral energy distribution types. The majority of our sample (71%) have disk morphologies, with the few AGN-dominated galaxies being more bulge-dominated than the star-forming-dominated and composite galaxies. The distribution of our sample on the Gini versus M20 plane is consistent with previous studies, where the Sérsic index n shows an increasing trend toward the smaller M20 and higher Gini region below the dividing line for mergers. The subsample of ultraluminous infrared galaxies (ULIRGs) follows a steep size–mass relation that is closer to the early-type galaxies. In addition, as the 4.5 μm luminosity excess ( , proxy for AGN strength) increases, our sample appears to be more bulge dominated (i.e., higher n). Based on the specific star formation rate and compactness ( ) diagram, the majority of our LIRG-dominated galaxy sample follows a secular evolution track, and their distribution can be explained without involving any merging activities. Out of the 16 ULIRGs in our sample, six are compact with strong AGN contributions, likely evolving along the fast track from more violent activities.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Decay Timescales of Chromospheric Condensations in Solar Flare Footpoints</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dfb</link>
@@ -11496,30 +11508,6 @@ Some high-z active galactic nuclei (AGNs) are found to reside in extreme star-fo
 <br /><br />总结: 
 低质量星系的观测和宇宙学模拟比较得出观测到的星系动力学特性与理论预测的暗物质星系的运动学特性接近，测量的普通物质质量与Tully-Fisher关系也得到了验证。暗示了低质量星系的Tully-Fisher关系在宇宙学模拟中的预期表现。 <div>
 Testing the standard cosmological model (ΛCDM) at small scales is challenging. Galaxies that inhabit low-mass dark matter halos provide an ideal test bed for dark matter models by linking observational properties of galaxies at small scales (low mass, low velocity) to low-mass dark matter halos. However, the observed kinematics of these galaxies do not align with the kinematics of the dark matter halos predicted to host them, obscuring our understanding of the low-mass end of the galaxy–halo connection. We use deep H i observations of low-mass galaxies at high spectral resolution in combination with cosmological simulations of dwarf galaxies to better understand the connection between dwarf galaxy kinematics and low-mass halos. Specifically, we use H i line widths to directly compare to the maximum velocities in a dark matter halo and find that each deeper measurement approaches the expected one-to-one relationship between the observed kinematics and the predicted kinematics in ΛCDM. We also measure baryonic masses and place these on the baryonic Tully–Fisher relation (BTFR). Again, our deepest measurements approach the theoretical predictions for the low-mass end of this relation, a significant improvement on similar measurements based on line widths measured at 50% and 20% of the peak. Our data also hint at the rollover in the BTFR predicted by hydrodynamical simulations of ΛCDM for low-mass galaxies.
-]]></content:encoded>
-<pubDate>2024-03-26T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Angular Momentum Transport in Binary Star Formation: The Enhancement of Magnetorotational Instability and Role of Outflows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25ee</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25ee</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 二元星，磁场，涡旋臂，磁旋不稳定性，角动量传输
-
-总结:<br /><br />本研究通过3D数值模拟模拟了通过环绕双星盘的双星吸积过程，考虑了垂直于盘面的磁场和一个向内坠落的包层。模拟结果表明：(1)存在与环绕星盘相关的螺旋臂；(2)磁旋不稳定性诱发了环绕双星盘中的湍流；(3)每个星周盘发射了一个快速的射流；和(4)环绕双星盘产生了一个缓慢的射流。二元模型显示出比相应的单星模型更高的 α 参数，表明双星增强了磁旋不稳定性的湍流。此外，一个向内坠落的包层也增强了湍流，导致高的α 参数。螺旋臂促进了径向流动，在环绕双星盘内传递了质量和角动量，而磁旋不稳定性和射流是降低系统特定角动量的主要驱动因素。 <div>
-The formation of binary stars is highly influenced by magnetic fields, which play a crucial role in transporting angular momentum. We conducted 3D numerical simulations of binary star accretion via a circumbinary disk, taking into account a magnetic field perpendicular to the disk and an infalling envelope. Our simulations reproduce the following phenomena: (1) the spiral arms associated with circumstellar disks; (2) the turbulence in the circumbinary disk, induced by magnetorotational instability (MRI); (3) a fast outflow launched from each circumstellar disk; and (4) a slow outflow from the circumbinary disk. The binary models exhibit a higher α-parameter than the corresponding single-star models, indicating that the binary stars enhance the MRI turbulence. Moreover, an infalling envelope also enhances the turbulence, leading to a high α-parameter. While the spiral arms promote radial flow, causing the transfer of mass and angular momentum within the circumbinary disk, the MRI turbulence and outflows are the main drivers of angular momentum transfer to reduce the specific angular momentum of the system.
-]]></content:encoded>
-<pubDate>2024-03-26T00:00:00Z</pubDate>
-</item>
-<item>
-<title>2FHL J1745.1–3035: A Newly Discovered, Powerful Pulsar Wind Nebula Candidate</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2614</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2614</guid>
-<content:encoded><![CDATA[
-<div> 2FHL J1745.1–3035, X-ray analysis, multi-epoch, Galactic Center, pulsar wind nebula<br />
-<br />
-这篇文章报告了对2FHL J1745.1–3035进行的多时期、多天文台的X射线分析。该源在50 GeV以上具有非常硬的γ射线光子指数，Γγ = 1.2 ± 0.4，并被Fermi-LAT发现为TeV辐射体。通过联合XMM-Newton、Chandra和NuSTAR观测，使用超过20年的存档XMM-Newton观测，研究了2FHL J1745.1–3035的X射线光谱特性。联合X射线光谱显示最佳拟合为带有断裂功率定律模型，断裂能量Eb∼7keV：在10keV以下的能量范围内，该源非常硬，Γ1∼0.6，在NuSTAR测量的更高能量范围内显著变软，Γ2∼1.9。通过Chandra进行了空间分辨的X射线分析，发现了边缘延展的证据（最多达到角尺寸r∼5″），这一结果支持了紧凑脉冲星风星云的情形。根据X射线和γ射线特性，2FHL J1745.1–3035是一个有力的脉冲星风星云候选体。由于其作为极端TeV辐射体的特性，进一步得到了HESS J1745-303的TeV延展源的探测支持，2FHL J1745.1–3035是未来使用切伦科夫望远镜阵的理想候选体。 <br /><br />总结: 多时期的X射线分析显示2FHL J1745.1–3035具有极端的γ射线光子指数和TeV发射特性；X射线光谱表明其可能是一个脉冲星风星云候选体；同时与TeV延展源HESS J1745-303的探测结果相吻合，值得进一步使用切伦科夫望远镜阵进行跟踪观测。 <div>
-We present a multi-epoch, multi-observatory X-ray analysis for 2FHL J1745.1–3035, a newly discovered very high-energy Galactic source detected by the Fermi Large Area Telescope (LAT) located in close proximity to the Galactic Center (l = 358.°5319; b = −0.°7760). The source shows a very hard γ-ray photon index above 50 GeV, Γγ = 1.2 ± 0.4, and is found to be a TeV emitter by the Fermi–LAT. We conduct a joint XMM-Newton, Chandra, and NuSTAR observing campaign, combining archival XMM-Newton observations, to study the X-ray spectral properties of 2FHL J1745.1–3035 over a time span of over 20 yr. The joint X-ray spectrum is best fitted as a broken-power-law model with break energy Eb ∼ 7 keV: the source is very hard at energies below 10 keV, with Γ1 ∼ 0.6, and significantly softer in the higher energy range measured by NuSTAR with Γ2 ∼ 1.9. We also perform a spatially resolved X-ray analysis with Chandra, finding evidence for marginal extension (up to an angular size r ∼ 5″), a result that supports a compact pulsar wind nebula scenario. Based on the X-ray and γ-ray properties, 2FHL J1745.1–3035 is a powerful pulsar wind nebula candidate. Given its nature as an extreme TeV emitter, further supported by the detection of a coincident TeV extended source HESS J1745-303, 2FHL J1745.1–3035 is an ideal candidate for a follow up with the upcoming Cherenkov Telescope Array.
 ]]></content:encoded>
 <pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
