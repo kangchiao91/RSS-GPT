@@ -5,16 +5,42 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Stagger Code for Accurate and Efficient, Radiation-coupled Magnetohydrodynamic Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4706</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4706</guid>
+<content:encoded><![CDATA[
+<div> 模拟，磁流体力学，Stagger code，太阳观测，物理模块
+
+总结:
+Stagger code是一个能够模拟磁流体力学系统的模块化代码，包含多个物理模块，可以用于运行多种模拟，包括深层恒星大气、太阳黑子形成、恒星色球和日冕、原恒星盘、巨分子云中的恒星形成以及星系形成。该代码高度并行化，能高效地处理大范围的空间和时间尺度。文章描述了代码的方法论，介绍了最重要的物理模块、输入和输出变量，并展示了多个标准MHD测试的结果，以便与其他类似代码进行比较。此外，文章提供了针对太阳观测的一系列测试的概述，包括光谱线形、光谱通量分布、边暗、颗粒运动的强度和速度分布，以及地震功率谱和p模的激发。Stagger code已被证明是一个高保真的代码，具有广泛的用途。 <div>
+We describe the Stagger code for simulations of magnetohydrodynamic (MHD) systems. This is a modular code with a variety of physics modules that will let the user run simulations of deep stellar atmospheres, sunspot formation, stellar chromospheres and coronae, proto-stellar disks, star formation from giant molecular clouds, and even galaxy formation. The Stagger code is efficiently and highly parallelizable, enabling such simulations with large ranges of both spatial and temporal scales. We describe the methodology of the code and present the most important of the physics modules, as well as its input and output variables. We show results of a number of standard MHD tests to enable comparison with other, similar codes. In addition, we provide an overview of tests that have been carried out against solar observations, ranging from spectral line shapes, spectral flux distribution, limb darkening, intensity and velocity distributions of granulation, to seismic power spectra and the excitation of p-modes. The Stagger code has proven to be a high-fidelity code with a large range of uses.
+]]></content:encoded>
+
+<pubDate>2024-07-11T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Complete 16 μm Selected Galaxy Sample at z ∼ 1. II. Morphological Analysis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a73</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a73</guid>
+<content:encoded><![CDATA[
+<div> LIRGs, AGN, morphological analysis, 16 μm flux-density, star formation<br>
+总结: 本文对0.8 < z < 1.3的16 μm流量密度限制的星系样本进行了形态学分析。研究发现，在目标红移处，16 μm发射对应于来自强烈恒星形成的多环芳烃特征，或者活跃星系核加热的尘埃。样本中67%为LIRGs，主要分为AGN主导型、星形成主导型、复合型和蓝色紧凑星系。大部分样本（71%）呈盘状形态，少数AGN主导星系比星形成主导型和复合型星系更偏向球状。ULIRGs子样本遵循陡峭的大小-质量关系，与早期星系更为接近。此外，随着4.5 μm亮度过剩（AGN强度的代理）的增加，样本呈现更多的球状特征。根据特定恒星形成率和紧凑性图，大部分LIRG主导的星系样本沿着渐进演化轨迹发展，与任何并合活动无关。样本中的16个ULIRGs中有6个紧凑并且具有强烈AGN贡献，可能沿着更激烈活动的快速轨迹演化。 <div>
+We present a morphological analysis of the 16 μm flux-density-limited galaxy sample at 0.8 < z < 1.3 from Huang et al. (2021). At the targeted redshift, the 16 μm emission corresponds to the polycyclic aromatic hydrocarbon feature from intense star formation, or dust heated by active galactic nuclei (AGN). Our sample of 479 galaxies are dominated by luminous infrared galaxies (LIRGs; 67%) in three CANDLES fields (Extended Groth Strip, Great Observatories Origins Deep Survey North and South fields), and are further divided into AGN-dominated, star-forming dominated, composite, and blue compact galaxies by their spectral energy distribution types. The majority of our sample (71%) have disk morphologies, with the few AGN-dominated galaxies being more bulge-dominated than the star-forming-dominated and composite galaxies. The distribution of our sample on the Gini versus M20 plane is consistent with previous studies, where the Sérsic index n shows an increasing trend toward the smaller M20 and higher Gini region below the dividing line for mergers. The subsample of ultraluminous infrared galaxies (ULIRGs) follows a steep size–mass relation that is closer to the early-type galaxies. In addition, as the 4.5 μm luminosity excess ( , proxy for AGN strength) increases, our sample appears to be more bulge dominated (i.e., higher n). Based on the specific star formation rate and compactness ( ) diagram, the majority of our LIRG-dominated galaxy sample follows a secular evolution track, and their distribution can be explained without involving any merging activities. Out of the 16 ULIRGs in our sample, six are compact with strong AGN contributions, likely evolving along the fast track from more violent activities.
+]]></content:encoded>
+
+<pubDate>2024-07-11T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Decay Timescales of Chromospheric Condensations in Solar Flare Footpoints</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dfb</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dfb</guid>
 <content:encoded><![CDATA[
 <div> IRIS, chromospheric condensations, Doppler shifts, flare footpoint heating, flare models
-<br>
-使用IRIS观测的太阳耀斑数据显示，色球凝聚（CCs）的形成与演化时间尺度和速度与之前的理论模型存在较大差异。研究发现，CCs的寿命平均为1分钟，且随最大速度（vmax）的增加而延长。这表明太阳耀斑的大气层和加热场景可能比Fisher最初假设的要复杂。此外，约90%的样本显示存在可观测的加速阶段，这些加速阶段不仅可作为耀斑模型的诊断指标，还可以用来计算其他模型诊断，如初始加速质量。总结: <br><br> <div>
+<br />
+使用IRIS观测的太阳耀斑数据显示，色球凝聚（CCs）的形成与演化时间尺度和速度与之前的理论模型存在较大差异。研究发现，CCs的寿命平均为1分钟，且随最大速度（vmax）的增加而延长。这表明太阳耀斑的大气层和加热场景可能比Fisher最初假设的要复杂。此外，约90%的样本显示存在可观测的加速阶段，这些加速阶段不仅可作为耀斑模型的诊断指标，还可以用来计算其他模型诊断，如初始加速质量。总结: <br /><br /> <div>
 Chromospheric condensations (CCs) are a prominent feature of flare footpoint heating in the solar flare standard model, yet their timescales and velocities are not well understood. Fisher derived several important analytical relationships, which have rarely been examined with modern spectral observations. The Interface Region Imaging Spectrograph (IRIS) provides a wealth of flare data with a high enough cadence to sufficiently capture CC evolution. We analyzed Doppler shifts in Mg ii 2791 and Fe ii 2814 from a sample of flare footpoint pixels observed by IRIS to compare with Fisher's analytics and recent flare models. We found a detection lifetime of 1 minute occurs in 50% of the sample, with Mg ii showing several pixels with longer values and Fe ii almost categorically shorter, and both growing with the maximum velocity, vmax. The shifts’ half-life is commonly <40 s and is inversely related to vmax, indicating that the first half of the CC evolution has more efficient kinetic energy loss. The lifetime’s wide range and growth with vmax indicate that the footpoint atmospherics and heating scenarios can vary more widely than first postulated in Fisher. Around 90% of the sample had observable acceleration periods, lasting an average of 38 and 32 s for Mg ii and Fe ii, respectively. These acceleration periods, as well as serving as flare model diagnostics themselves, could potentially be used to calculate other model diagnostics such as the initially accelerated mass.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -28,7 +54,6 @@ Chromospheric condensations (CCs) are a prominent feature of flare footpoint hea
 行星的大气CO2分压对气候稳定有重要影响，特别是在行星太阳辐射较低的外部Habitable Zone范围内。研究表明，在这种情况下，随着大气CO2分压和温度的增加，全球蒸发和降水会减少，导致硅酸盐风化减少，从而可能导致CO2累积或CO2耗尽，进而导致气候失稳和可能的“雪球地球”情况。这暗示着在HZ的外部范围内，硅酸盐风化可能无法维持适宜的气候条件。 <div>
 Implicit in the definition of the classical circumstellar habitable zone (HZ) is the hypothesis that the carbonate-silicate cycle can maintain clement climates on exoplanets with land and surface water across a range of instellations by adjusting atmospheric CO2 partial pressure (pCO2). This hypothesis is made by analogy to the Earth system, but it is an open question whether silicate weathering can stabilize climate on planets in the outer reaches of the HZ, where instellations are lower than those received by even the Archean Earth and CO2 is thought likely to dominate atmospheres. Since weathering products are carried from land to ocean by the action of water, silicate weathering is intimately coupled to the hydrologic cycle, which intensifies with hotter temperatures under Earth-like conditions. Here, we use global climate model simulations to demonstrate that the hydrologic cycle responds counterintuitively to changes in climate on planets with CO2-H2O atmospheres at low instellations and high pCO2, with global evaporation and precipitation decreasing as pCO2 and temperatures increase at a given instellation. Within the Maher & Chamberlain (or MAC) weathering formulation, weathering then decreases with increasing pCO2 for a range of instellations and pCO2 typical of the outer reaches of the HZ, resulting in an unstable carbon cycle that may lead to either runaway CO2 accumulation or depletion of CO2 to colder (possibly snowball) conditions. While the behavior of the system has not been completely mapped out, the results suggest that silicate weathering could fail to maintain habitable conditions in the outer reaches of the nominal HZ.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -38,10 +63,9 @@ Implicit in the definition of the classical circumstellar habitable zone (HZ) is
 <content:encoded><![CDATA[
 <div> 关键词: 赛光铥(Tm ii), 超精细结构, 磁偶极超精细结构常数, 空洞阴极放电灯, 傅立叶变换光谱仪
 
-总结:<br><br>本研究利用傅立叶变换光谱仪对赛光铥(Tm ii)的发射光谱进行了超精细结构分析，范围从335纳米到2345纳米。首次确定了27个Tm ii的精细结构能级的磁偶极超精细结构常数A。此外，还发现了文献中两个磁偶极超精细结构常数A的数值是错误的，并给出了修正后的数值。这项研究对于深入了解Tm ii的光谱特性具有重要意义。 <div>
+总结:<br /><br />本研究利用傅立叶变换光谱仪对赛光铥(Tm ii)的发射光谱进行了超精细结构分析，范围从335纳米到2345纳米。首次确定了27个Tm ii的精细结构能级的磁偶极超精细结构常数A。此外，还发现了文献中两个磁偶极超精细结构常数A的数值是错误的，并给出了修正后的数值。这项研究对于深入了解Tm ii的光谱特性具有重要意义。 <div>
 The hyperfine structure of 40 spectral lines of singly ionized thulium (Tm ii) in emission spectra from a hollow cathode discharge lamp measured with a Fourier transform spectrometer in the wavelength range from 335 to 2345 nm has been investigated. As a result of the analysis, the magnetic dipole hyperfine structure constants A for 27 fine structure levels of Tm ii were determined for the first time. In addition, the values of two magnetic dipole hyperfine structure constants A from the literature were declared incorrect, and the corrected values were given.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,12 +74,11 @@ The hyperfine structure of 40 spectral lines of singly ionized thulium (Tm ii) i
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4965</guid>
 <content:encoded><![CDATA[
 <div> gravitationally lensed, MACS J0717_Az9, molecular gas, PDR models, star-forming galaxy
-<br>
+<br />
 这篇文章报告了MACS J0717_Az9，一个被引力透镜的星系，其分子气体含量和星际介质条件。该星系具有异常高（约80%）的星形成比例，发现了CO（4-3）和[N ii] 205 μm。分子气体质量较低，且PDR条件与本地星系相似。利用3D-Barolo模型拟合了CO（4-3）的运动学特性，发现其中心运动受到旋转的控制。Az9可能代表了一个被现有毫米波调查漏掉的更为普遍的星系群。通过研究这一现象，我们可以更好地理解红移为z∼4的低质量星系的尘埃遮挡情况和分子气体含量。
-<br><br>总结: 挖掘到了一个被引力透镜的星系MACS J0717_Az9，发现其分子气体含量较低，PDR模型表明其条件与本地星系相似，运动受到旋转的控制。这一发现可能代表被现有调查漏掉的更为普遍的星系群。 <div>
+<br /><br />总结: 挖掘到了一个被引力透镜的星系MACS J0717_Az9，发现其分子气体含量较低，PDR模型表明其条件与本地星系相似，运动受到旋转的控制。这一发现可能代表被现有调查漏掉的更为普遍的星系群。 <div>
 We present the molecular gas content and interstellar medium conditions of MACS J0717_Az9, a strong gravitationally lensed z = 4.273, M* ≃ 2 × 109 M⊙ star-forming galaxy with an unusually high (∼80%) obscured star formation fraction. We detect CO (4–3) in two independent lensed images, as well as [N ii] 205 μm, with the Atacama Large Millimeter Array. We derive a molecular gas mass of log , making it moderately deficient in molecular gas compared to the lower-redshift gas fraction scaling relation. Leveraging photodissociation region (PDR) models, we combine our CO (4–3) measurements with existing measurements of the [C ii] 158 μm line and total infrared luminosity to model the PDR conditions. We find PDR conditions similar to those in local star-forming galaxies, with a mean hydrogen density log10[nH cm−3] = 4.80 ± 0.39 and a mean radiation field strength log10[G0 Habing] = 2.83 ± 0.26. Based on Band 3 continuum data, we derive an upper limit on the intrinsic dust mass of log10[Mdust(M⊙)] < 7.73, consistent with existing estimates. We use the 3D tilted-ring model fitting code 3D-Barolo to determine the kinematic properties of the CO (4–3) emitting gas. We find that it is rotationally dominated, with a V/σ = 4.6 ± 1.7, consistent with the kinematics of the [C ii]. With PDR conditions remarkably similar to those in normal dusty star-forming galaxies at z < 0.2 and a stable molecular disk, our observations of Az9 suggest that the dust-obscured phase for a low-mass galaxy at z ∼ 4 is relatively long. Thus, Az9 may be representative of a more widespread population that has been missed owing to insufficiently deep existing millimeter surveys.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -64,12 +87,11 @@ We present the molecular gas content and interstellar medium conditions of MACS 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d88</guid>
 <content:encoded><![CDATA[
 <div> CH3OH, deuterium fractionation, protostar, B335, ALMA
-<br>
+<br />
 这篇文章利用ALMA探测到了CH3OH和其三种重氘化物质在低质量原恒星源B335附近的光谱线发射。它们在24天文单位的范围内呈环状分布，在连续谱峰处出现了强度减小。研究得出了这些物质在盘/包层系统中六个位置以及连续谱峰的柱密度和丰度比。CH3OH的D/H比率约为0.03-0.13，[CHD2OH]/[CH2DOH]比值更高，约为0.14-0.29。而[CH2DOH]/[CH3OD]比值约为4.9-15，高于统计比值3，并与其他低质量源报道的比值相当。通过分析CH3OH和HCOOH的线发射，研究了B335内数个天文单位尺度上的物理结构，发现了合理的入射旋转运动速度结构。得出B335具有小型盘结构的年轻原恒星和原恒星质量约为0.03-0.07太阳质量，离心力障的上限小于7天文单位。这种年轻的原恒星可能与相对较高的[CH2DOH]/[CH3OH]比值有关。
-<br><br>总结: 该研究利用ALMA探测了CH3OH和其三种重氘化物质在低质量原恒星源B335附近的光谱线发射，讨论了它们的分布和性质。通过分析这些物质在盘/包层系统中的柱密度和丰度比，研究了B335的物理结构，并推断出其具有小型盘结构的年轻原恒星。 <div>
+<br /><br />总结: 该研究利用ALMA探测了CH3OH和其三种重氘化物质在低质量原恒星源B335附近的光谱线发射，讨论了它们的分布和性质。通过分析这些物质在盘/包层系统中的柱密度和丰度比，研究了B335的物理结构，并推断出其具有小型盘结构的年轻原恒星。 <div>
 Deuterium fractionation in the closest vicinity of a protostar is important in understanding its potential heritage to a planetary system. Here, we have detected the spectral line emission of CH3OH and its three deuterated species, CH2DOH, CHD2OH, and CH3OD, toward the low-mass protostellar source B335 at a resolution of 0.″03 (5 au) with Atacama Large Millimeter/submillimeter Array. They have a ring distribution within the radius of 24 au with the intensity depression at the continuum peak. We derive the column densities and abundance ratios of the above species at six positions in the disk/envelope system as well as the continuum peak. The D/H ratio of CH3OH is ∼[0.03–0.13], which is derived by correcting the statistical weight of 3 for CH2DOH. The [CHD2OH]/[CH2DOH] ratio is derived to be higher ([0.14–0.29]). On the other hand, the [CH2DOH]/[CH3OD] ratio ([4.9–15]) is higher than the statistical ratio of 3 and is comparable to those reported for other low-mass sources. We study the physical structure on a few astronomical unit scales in B335 by analyzing the CH3OH (183,15 − 182,16, A) and HCOOH (120,12 − 110,11) line emission. Velocity structures of these lines are reasonably explained as the infalling-rotating motion. The protostellar mass and the upper limit to the centrifugal barrier are thus derived to be 0.03–0.07 M⊙ and <7 au, respectively, showing that B335 harbors a young protostar with a tiny disk structure. Such youth of the protostar may be related to the relatively high [CH2DOH]/[CH3OH] ratio.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -77,12 +99,11 @@ Deuterium fractionation in the closest vicinity of a protostar is important in u
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4edc</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4edc</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 白矮星，脉动，氢层厚度，质量-半径关系，Gaia<br>
-<br>
-这篇文章利用Kepler、TESS和Gaia等空间任务获得的数据来研究脉动的白矮星，主要关注白矮星中薄氢层和厚氢层的比例，提供了碳氧核、氢大气白矮星的质量-半径关系。选择了九颗脉动白矮星进行研究，从脉动光谱中推导出渐近周期间距，进而确定了模型的氢和氦包层的厚度。结果显示大多数白矮星的氢层较厚，并确定了氦层基部位置的上限。研究还证实了之前利用质量-半径关系和Gaia数据确定白矮星有效温度的发现，显示Gaia数据指向的白矮星有效温度比光谱测量结果要低。研究结果也支持了白矮星中氢层较厚的数量比氢层较薄的数量更多的假设。<br><br>总结: 本研究利用Kepler、TESS和Gaia等空间任务获得的数据，研究了脉动的白矮星，主要关注白矮星中薄氢层和厚氢层的比例，提供了碳氧核、氢大气白矮星的质量-半径关系。选择了九颗脉动白矮星进行研究，结果显示大多数白矮星的氢层较厚，并确定了氦层基部位置的上限。研究还证实了之前利用质量-半径关系和Gaia数据确定白矮星有效温度的发现，显示Gaia数据指向的白矮星有效温度比光谱测量结果要低。研究结果也支持了白矮星中氢层较厚的数量比氢层较薄的数量更多的假设。 <div>
+<div> 关键词: 白矮星，脉动，氢层厚度，质量-半径关系，Gaia<br />
+<br />
+这篇文章利用Kepler、TESS和Gaia等空间任务获得的数据来研究脉动的白矮星，主要关注白矮星中薄氢层和厚氢层的比例，提供了碳氧核、氢大气白矮星的质量-半径关系。选择了九颗脉动白矮星进行研究，从脉动光谱中推导出渐近周期间距，进而确定了模型的氢和氦包层的厚度。结果显示大多数白矮星的氢层较厚，并确定了氦层基部位置的上限。研究还证实了之前利用质量-半径关系和Gaia数据确定白矮星有效温度的发现，显示Gaia数据指向的白矮星有效温度比光谱测量结果要低。研究结果也支持了白矮星中氢层较厚的数量比氢层较薄的数量更多的假设。<br /><br />总结: 本研究利用Kepler、TESS和Gaia等空间任务获得的数据，研究了脉动的白矮星，主要关注白矮星中薄氢层和厚氢层的比例，提供了碳氧核、氢大气白矮星的质量-半径关系。选择了九颗脉动白矮星进行研究，结果显示大多数白矮星的氢层较厚，并确定了氦层基部位置的上限。研究还证实了之前利用质量-半径关系和Gaia数据确定白矮星有效温度的发现，显示Gaia数据指向的白矮星有效温度比光谱测量结果要低。研究结果也支持了白矮星中氢层较厚的数量比氢层较薄的数量更多的假设。 <div>
 With space missions such as Kepler, TESS, and Gaia, we have a wealth of data on pulsating white dwarfs that can be leveraged in white dwarf asteroseismology. We address the question of the proportion of white dwarfs with thin hydrogen layers versus those with thick hydrogen layers. We also provide a mass–radius relation for carbon–oxygen-core, hydrogen-atmosphere white dwarfs. Such a relationship can be used in conjunction with magnitudes and distance measurements to constrain the mass and effective temperature of the white dwarfs. We select nine hydrogen-atmosphere pulsating white dwarfs for their rich pulsation spectra. From such pulsation spectra, we can derive the asymptotic period spacing, which in turn allows us to determine the thickness of the hydrogen and helium envelope of the models, without having to perform period-by-period fitting. We find that the majority of the white dwarfs have thicker hydrogen layers and we determine an upper limit of Mr = 1–10−2.2 for the location of the base of the helium layer, in accordance with stellar evolution models. We confirm a finding from earlier studies that used a mass–radius relation and Gaia data to determine the effective temperatures of white dwarfs. The Gaia data systematically point to white dwarfs of lower effective temperature than indicated by the spectroscopy. Our results also support the hypothesis that white dwarfs with thicker hydrogen layers are more common than those with thinner layers.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -95,7 +116,6 @@ With space missions such as Kepler, TESS, and Gaia, we have a wealth of data on 
 HCO+的重氧同位素对于天体物理学的研究非常重要，实验室记录了HC18O+、DC18O+、HC17O+和DC17O+的基态旋转谱，通过频率调制亚毫米波谱仪进行吸收光谱记录，进行了高水平的从头算计算以获取分子参数和碰撞效应的理论估计，并提供了DC17O+的首批实验旋转数据。这些结果支持当前和未来的天文学研究，为Atacama大型毫米/亚毫米波阵列观测对象的分析提供了更新的基准频率数据，HC18O+示踪剂的推导数据集达到了1.5 THz的精确度为数十亿分之几。 <div>
 Heavy oxygen isotopic species of HCO+ are important optically thin astrophysical tracers. The ground-state rotational spectrum of HC18O+, DC18O+, HC17O+, and DC17O+ has been recorded in the laboratory in the frequency range from 85 GHz to 1.3 THz. The ions have been produced in the negative column of a glow-discharge plasma, and their spectrum has been recorded in absorption using a frequency-modulation submillimeter-wave spectrometer. Various sources of systematic error have been carefully accounted for in order to obtain highly accurate line-position measurements. Theoretical estimates of the molecular parameters and of the collision effects on the line shape have been obtained by high-level ab initio calculations. The analysis yielded much improved rotational and centrifugal distortion constants, thus bringing the spectroscopic characterization of these rare isotopic variants to the same level of the parent species. Also, the first experimental rotational data for DC17O+ have been provided. These results allow for the calculation of an updated set of rest frequencies to support current and future astrophysical studies. The derived data set for the widely used HC18O+ tracer reaches an accuracy of a few parts in 109 up to 1.5 THz. Such accuracy is important for the analysis of astrophysical objects targeted by Atacama Large Millimeter/submillimeter Array observations at the submillimeter regime.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
 <item>
@@ -104,14 +124,12 @@ Heavy oxygen isotopic species of HCO+ are important optically thin astrophysical
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5553</guid>
 <content:encoded><![CDATA[
 <div> ALMA, protoplanetary disk, T Tauri stars, magnetized disk wind, DM Tau
-<br><br>总结:
+<br /><br />总结:
 ALMA观测了200多个原行星盘系统，大部分显示有行星存在。过渡盘中的尘埃间隙被认为是巨行星在合适的盘粘度下雕刻气体和尘埃的证据。然而，许多托瑞星系中的过渡盘具有异常高的吸积速率，挑战了这一理论。最近的理论进展挑战了传统的盘间隙形成理论和粘度驱动的吸积模型，提出了有磁化的盘风模型。研究表明，在磁化盘风占主导的吸积模式下，DM Tau系统内可能存在着一个中等质量的行星。这意味着DM Tau可能并不像想象中的那么湍动。然而，盘内粘度也应该对维持盘稳定性起到一定的湍动贡献。 <div>
 Over 200 protoplanetary disk systems have been resolved by the Atacama Large Millimeter/submillimeter Array (ALMA), and the vast majority suggest the presence of planets. The dust gaps in transition disks are considered evidence of giant planets sculpting gas and dust under appropriate disk viscosity. However, the unusually high accretion rates in many T Tauri stars hosting transition disks challenge this theory. As the only disk currently observed with high turbulence, the high accretion rate (∼10−8.3 M⊙ yr−1) observed in DM Tau indicates the presence of strong turbulence within the system. Considering the recent theoretical advancements in magnetized disk winds are challenging the traditional gap-opening theories and viscosity-driven accretion models, our study presents a pioneering simulation incorporating a simplified magnetized disk wind model to explain the observed features in DM Tau. Employing multifluid simulations with an embedded medium mass planet, we successfully replicate the gap formation and asymmetric structures evident in ALMA Band 6 and the recent Karl G. Jansky Very Large Array 7 mm observations. Our results suggest that when magnetized disk wind dominates the accretion mode of the system, it is entirely possible for a planet with a medium mass to exist within the gap inside 20 au of DM Tau. This means that DM Tau may not be as turbulent as imagined. However, viscosity within the disk should also contribute a little turbulence to maintain disk stability.
 ]]></content:encoded>
-
 <pubDate>2024-07-11T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>HSTPROMO Internal Proper-motion Kinematics of Dwarf Spheroidal Galaxies. I. Velocity Anisotropy and Dark Matter Cusp Slope of Draco</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad571c</link>
@@ -11504,100 +11522,6 @@ The formation of binary stars is highly influenced by magnetic fields, which pla
 We present a multi-epoch, multi-observatory X-ray analysis for 2FHL J1745.1–3035, a newly discovered very high-energy Galactic source detected by the Fermi Large Area Telescope (LAT) located in close proximity to the Galactic Center (l = 358.°5319; b = −0.°7760). The source shows a very hard γ-ray photon index above 50 GeV, Γγ = 1.2 ± 0.4, and is found to be a TeV emitter by the Fermi–LAT. We conduct a joint XMM-Newton, Chandra, and NuSTAR observing campaign, combining archival XMM-Newton observations, to study the X-ray spectral properties of 2FHL J1745.1–3035 over a time span of over 20 yr. The joint X-ray spectrum is best fitted as a broken-power-law model with break energy Eb ∼ 7 keV: the source is very hard at energies below 10 keV, with Γ1 ∼ 0.6, and significantly softer in the higher energy range measured by NuSTAR with Γ2 ∼ 1.9. We also perform a spatially resolved X-ray analysis with Chandra, finding evidence for marginal extension (up to an angular size r ∼ 5″), a result that supports a compact pulsar wind nebula scenario. Based on the X-ray and γ-ray properties, 2FHL J1745.1–3035 is a powerful pulsar wind nebula candidate. Given its nature as an extreme TeV emitter, further supported by the detection of a coincident TeV extended source HESS J1745-303, 2FHL J1745.1–3035 is an ideal candidate for a follow up with the upcoming Cherenkov Telescope Array.
 ]]></content:encoded>
 <pubDate>2024-03-26T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Deep Synoptic Array Science: Polarimetry of 25 New Fast Radio Bursts Provides Insights into Their Origins</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad275e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad275e</guid>
-<content:encoded><![CDATA[
-<div> FRBs, polarization analysis, DSA-110, Faraday rotation measures, Galactic pulsars
-<br /><br />总结:
-该研究报道了对25个尚未重复的快速无线电爆发（FRBs）进行的全极化分析，这些FRB是在1.4 GHz上由110天线深度综合阵列（DSA-110）在委托观测期间检测到的。文章介绍了针对这一新型设备开发的数据降噪、校准和分析程序的细节。研究结果显示，20个FRBs在±106 rad m−2范围内具有法拉第旋转测量值（RMs），其中15个FRBs与100%极化一致，10个具有高（≥70%）线偏极化分数，2个具有高（≥30%）圆偏极化分数。结果不支持多路径RM散射作为主要解极化机制。与先前发表的FRB极化测量相结合后，研究比较了FRB子种群和银河脉冲星的极化特性。研究支持了一种情况，即FRB发射本质上是高度线偏极化的，传播效应可以导致圆偏极化和解极化。年轻的脉冲星发射和磁层传播几何形态可能对FRB极化的起源形成有用的类比。 <div>
-We report on a full-polarization analysis of the first 25 as yet nonrepeating fast radio bursts (FRBs) detected at 1.4 GHz by the 110-antenna Deep Synoptic Array (DSA-110) during commissioning observations. We present details of the data-reduction, calibration, and analysis procedures developed for this novel instrument. Faraday rotation measures (RMs) are searched between ±106 rad m−2 and detected for 20 FRBs, with magnitudes ranging from 4 to 4670 rad m−2. Fifteen out of 25 FRBs are consistent with 100% polarization, 10 of which have high (≥70%) linear-polarization fractions and two of which have high (≥30%) circular-polarization fractions. Our results disfavor multipath RM scattering as a dominant depolarization mechanism. Polarization-state and possible RM variations are observed in the four FRBs with multiple subcomponents. We combine the DSA-110 sample with polarimetry of previously published FRBs, and compare the polarization properties of FRB subpopulations and FRBs with Galactic pulsars. Although FRB polarization fractions are typically higher than those of Galactic pulsars, and cover a wider range than those of pulsar single pulses, they resemble those of the youngest (characteristic ages <105 yr) pulsars. Our results support a scenario wherein FRB emission is intrinsically highly linearly polarized, and propagation effects can result in conversion to circular polarization and depolarization. Young pulsar emission and magnetospheric propagation geometries may form a useful analogy for the origin of FRB polarization.
-]]></content:encoded>
-<pubDate>2024-03-26T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Fate of the Interstellar Medium in Early-type Galaxies. III. The Mechanism of Interstellar Medium Removal and the Quenching of Star Formation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b52</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1b52</guid>
-<content:encoded><![CDATA[
-<div> ETGs, quenching, cold ISM, star formation, SFE
-<br /><br />总结:
-本研究探讨了早期星系（ETGs）中恒星形成的抑制机制。研究发现，ETGs中冷间星介质（ISM）的减少速度与尘埃、分子和原子气体的减少速度相似，排除了一系列潜在的ISM消除机制，表明低质量恒星的电离和/或超新星引起的电离/流出可能是主要机制。此外，研究还提供了内部产生的ISM的证据，并发现星系中恒星形成的抑制不能仅通过气体量的减少来解释，因为SFR的下降速度比冷气体的减少速度更快，而星系的SFE低于恒星形成星系的SFE，可能是由于气体的稳定性增强。 <div>
-Understanding how galaxies quench their star formation is crucial for studies of galaxy evolution. Quenching is related to a decrease of cold gas. In the first paper we showed that the dust removal timescale in early-type galaxies (ETGs) is about 2.5 Gyr. Here we present carbon monoxide and 21 cm hydrogen line observations of these galaxies and measure the timescale of removal of the cold interstellar medium (ISM). We find that all the cold ISM components (dust and molecular and atomic gas) decline at similar rates. This allows us to rule out a wide range of potential ISM-removal mechanisms (including starburst-driven outflows, astration, or a decline in the number of asymptotic giant branch stars), and artificial effects like the stellar mass–age correlation, environmental influence, mergers, and selection bias, leaving ionization by evolved low-mass stars and ionization/outflows by Type Ia supernovae or active galactic nuclei as viable mechanisms. We also provide evidence for an internal origin of the detected ISMs. Moreover, we find that the quenching of star formation in these galaxies cannot be explained by a reduction in the gas amount alone, because the star formation rates (SFRs) decrease faster (on a timescale of about 1.8 Gyr) than the amount of cold gas. Furthermore, the star formation efficiency (SFE) of the ETGs ( ) is lower than that of star-forming galaxies, whereas their gas mass fractions ( ) are normal. This may be explained by the stabilization of gas against fragmentation, for example due to morphological quenching, turbulence, or magnetic fields.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Algorithmic Pulsar Timer for Binaries</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ce9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ce9</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Pulsar timing, algorithm, binary pulsars, Green Bank Telescope, Terzan 5
-
-总结:<br /><br />这篇文章介绍了一个自动化的脉冲星定时算法，用于测量脉冲星的旋转频率、位置、双星参数等信息。通过应用统计F-检验和减少的χ2在最小值附近的二次依赖关系，可以高效而系统地确定脉冲星的全局旋转计数。作者使用这个算法在Terzan 5球状星团的两颗新发现的双星脉冲星PSR J1748−2446aq和J1748−2446at上建立了定时解决方案，利用了过去13年的约70次Green Bank Telescope观测。 <div>
-Pulsar timing is a powerful tool that, by accounting for every rotation of a pulsar, precisely measures the spin frequency, spin frequency derivatives, astrometric position, binary parameters when applicable, properties of the interstellar medium, and potentially general relativistic effects. Typically, this process demands fairly stringent scheduling requirements for monitoring observations as well as deep domain knowledge to “phase connect” the timing data. We present an algorithm that automates the pulsar-timing process for binary pulsars, whose timing solutions have an additional level of complexity, although the algorithm works for isolated pulsars as well. Using the statistical F-test and the quadratic dependence of the reduced χ2 near a minimum, the global rotation count of a pulsar can be determined efficiently and systematically. We have used our algorithm to establish timing solutions for two newly discovered binary pulsars, PSRs J1748−2446aq and J1748−2446at, in the globular cluster Terzan 5, using ∼70 Green Bank Telescope observations from the last 13 yr.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Search for 10–1000 GeV Neutrinos from Gamma-Ray Bursts with IceCube</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad220b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad220b</guid>
-<content:encoded><![CDATA[
-<div> 关键词: neutrinos, gamma-ray bursts, IceCube-DeepCore, sub-photospheric collision, baryon loading
-总结:<br /><br /> 这项研究使用IceCube-DeepCore数据对2268次伽马射线暴（GRBs）进行了8年的中微子探测，探索了光球以下的爆发物理过程。研究发现没有发现中微子的证据，但对GRB 221009A的分析提供了对重子装载的最具约束力的限制。相比于IceCube在太子到拍他子电子伏特能量范围内的观测，本文给出的中微子限制是一个有益的补充。 <div>
-We present the results of a search for 10–1000 GeV neutrinos from 2268 gamma-ray bursts (GRBs) over 8 yr of IceCube-DeepCore data. This work probes burst physics below the photosphere where electromagnetic radiation cannot escape. Neutrinos of tens of giga electronvolts are predicted in sub-photospheric collision of free-streaming neutrons with bulk-jet protons. In a first analysis, we searched for the most significant neutrino-GRB coincidence using six overlapping time windows centered on the prompt phase of each GRB. In a second analysis, we conducted a search for a group of GRBs, each individually too weak to be detectable, but potentially significant when combined. No evidence of neutrino emission is found for either analysis. The most significant neutrino coincidence is for Fermi-GBM GRB bn 140807500, with a p-value of 0.097 corrected for all trials. The binomial test used to search for a group of GRBs had a p-value of 0.65 after all trial corrections. The binomial test found a group consisting only of GRB bn 140807500 and no additional GRBs. The neutrino limits of this work complement those obtained by IceCube at tera electronvolt to peta electronvolt energies. We compare our findings for the large set of GRBs as well as GRB 221009A to the sub-photospheric neutron-proton collision model and find that GRB 221009A provides the most constraining limit on baryon loading. For a jet Lorentz factor of 300 (800), the baryon loading on GRB 221009A is lower than 3.85 (2.13) at a 90% confidence level.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Double-decker Pair of Flux Ropes Formed by Two Successive Tether-cutting Eruptions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2349</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2349</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳观测, 磁流体力线, 日冕磁场, 太阳爆发, 太阳动力学<br />
-总结: 本研究利用高时空分辨率的观测仪器观察到了双层磁流体力线的形成过程，发现双重爆发引发了两个磁通绳系统。观测结果表明，第一个磁通绳的爆发经历了短暂的停顿后成功喷发，而第二个磁通绳则是失败的喷发。这表明新形成的磁通绳在较高高度达到了新的平衡状态，可以被视为一个临时的双层磁通绳系统。研究结果支持了系留剪切模型，并提出了当背景日冕磁场在高度上呈现鞍状磁衰减指数分布时，两次连续的受限系留剪切喷发会自然产生双层磁通绳系统的假设。 <div>
-Double-decker filaments and their eruptions have been widely observed in recent years, but their physical formation mechanism is still unclear. Using high spatiotemporal resolution, multi-wavelength observations taken by the New Vacuum Solar Telescope and the Solar Dynamics Observatory, we show the formation of a double-decker pair of flux rope system by two successive tether-cutting eruptions in a bipolar active region. Due to the combined effect of photospheric shearing and convergence motions around the active region’s polarity inversion line (PIL), the arms of two overlapping inverse-S-shaped short filaments reconnected at their intersection, which created a simultaneous upward-moving magnetic flux rope (MFR) and a downward-moving post-flare-loop (PFL) system striding the PIL. Meanwhile, four bright flare ribbons appeared at the footpoints of the newly formed MFR and the PFL. As the MFR rose, two elongated flare ribbons connected by a relatively larger PFL appeared on either side of the PIL. After a few minutes, another MFR formed in the same way at the same location and then erupted in the same direction as the first one. Detailed observational results suggest that the eruption of the first MFR might experienced a short pause before its successful eruption, while the second MFR was a failed eruption. This implies that the two newly formed MFRs might reach a new equilibrium at relatively higher heights for a while, which can be regarded as a transient double-decker flux rope system. The observations can well be explained by the tether-cutting model, and we propose that two successive confined tether-cutting eruptions can naturally produce a double-decker flux rope system, especially when the background coronal magnetic field has a saddle-like distribution of magnetic decay index profile in height.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Self-consistent Atmosphere Representation and Interaction in Photon Monte Carlo Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad23cb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad23cb</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 大气层模拟, 光与大气的相互作用, 光子Monte Carlo方法, 气象分布, 大气影响
-
-总结:
-大气层模拟包括了光与大气的相互作用，使用光子Monte Carlo方法实现。气象分布基于历史数据编译全球气候分布，垂直热力学量的自洽垂直剖面，云量和云覆盖的空间模型，以及四种气溶胶的全球分布。通过物理第一原理实现物理交互，从而产生出包括差分星差测量和椭圆点扩散函数在内的新兴图像特性。使用共同的大气层表示框架通过模拟单个光子来自洽地模拟所有现象。文章还总结了一些微妙的相关性，包括温度与背景和差分星差测量的反相关性，湿度与月背景的相关性，PSF翼与云深度的相关性，背景与云深度的反相关性，以及月背景与云深度的相关性。 <div>
-We present a self-consistent representation of the atmosphere and implement the interactions of light with the atmosphere using a photon Monte Carlo approach. We compile global climate distributions based on historical data, self-consistent vertical profiles of thermodynamic quantities, spatial models of cloud variation and cover, and global distributions of four kinds of aerosols. We then implement refraction, Rayleigh scattering, molecular interactions, and Tyndall–Mie scattering to all photons emitted from astronomical sources and various background components using physics first principles. This results in emergent image properties that include: differential astrometry and elliptical point spread functions (PSFs) predicted completely to the horizon, arcminute-scale spatial-dependent photometry variations at 20 mmag for short exposures, excess background spatial variations at 0.2% due to the atmosphere, and a PSF wing due to water droplets. We use a common atmosphere representation framework to self-consistently model all phenomena by simulating individual photons. We reproduce the well-known correlations in image characteristics: correlations in altitude with absolute photometry (overall transmission) and relative photometry (spectrally dependent transmission), anticorrelations of altitude with differential astrometry (nonideal astrometric patterns) and background levels, and an anticorrelation in absolute photometry with cloud depth. However, we also find further subtle correlations including an anticorrelation of temperature with background and differential astrometry, a correlation of temperature with absolute and relative photometry, an anticorrelation of absolute photometry with humidity, a correlation of humidity with lunar background, a significant correlation of PSF wing with cloud depth, an anticorrelation of background with cloud depth, and a correlation of lunar background with cloud depth.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The AGORA High-resolution Galaxy Simulations Comparison Project. V. Satellite Galaxy Populations in a Cosmological Zoom-in Simulation of a Milky Way–Mass Halo</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad245b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad245b</guid>
-<content:encoded><![CDATA[
-<div> AGORA High-resolution Galaxy Simulations, z ∼ 2, satellite halo populations, missing satellite problem, baryonic physics<br />
-<br />这篇研究对比了在z∼2时刻的卫星暗物质晕的种群，通过在八种不同的天体物理模拟代码上进行模拟，发现每个暗物质晕对应的余辉星系较其暗物质晕要小。同时发现在所有参与的模拟代码中，包含星陨粒子的星系数量显著少于暗物质晕的数量，并且与银河系或M31附近的卫星星系数量相当。在AGORA项目中，通过采用共同的天体物理学和各个代码中常用的恒星反馈法，结合足够的数值分辨率(≲100 proper pc at z = 2)，就可以完全解决所谓的“缺失卫星问题”。同时也比较了其他性质，如恒星质量-暗物质晕质量关系和质量-金属丰度关系。我们的研究突显了AGORA等比较研究的价值，通过这种方式可以同时在多个数值平台上研究星系形成理论中的突出问题。<br /><br />总结: AGORA项目通过比较多个数值平台上的研究，解决了星系形成理论中的缺失卫星问题；在z∼2时刻的卫星暗物质种群中，发现暗物质晕对应的余辉星系较其暗物质晕要小；通过采用共同的天体物理学和各代码中常用的恒星反馈法，并结合足够的数值分辨率，可以解决这一问题。 <div>
-We analyze and compare the satellite halo populations at z ∼ 2 in the high-resolution cosmological zoom-in simulations of a 1012M⊙ target halo (z = 0 mass) carried out on eight widely used astrophysical simulation codes (Art-I, Enzo, Ramses, Changa, Gadget-3, Gear, Arepo-t, and Gizmo) for the AGORA High-resolution Galaxy Simulations Comparison Project. We use slightly different redshift epochs near z = 2 for each code (hereafter “z ∼ 2”) at which the eight simulations are in the same stage in the target halo’s merger history. After identifying the matched pairs of halos between the CosmoRun simulations and the DMO simulations, we discover that each CosmoRun halo tends to be less massive than its DMO counterpart. When we consider only the halos containing stellar particles at z ∼ 2, the number of satellite galaxies is significantly fewer than that of dark matter halos in all participating AGORA simulations and is comparable to the number of present-day satellites near the Milky Way or M31. The so-called “missing satellite problem” is fully resolved across all participating codes simply by implementing the common baryonic physics adopted in AGORA and the stellar feedback prescription commonly used in each code, with sufficient numerical resolution (≲100 proper pc at z = 2). We also compare other properties such as the stellar mass–halo mass relation and the mass–metallicity relation. Our work highlights the value of comparison studies such as AGORA, where outstanding problems in galaxy formation theory are studied simultaneously on multiple numerical platforms.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Kerr-scalaron Metric and Astronomical Consequences near the Galactic Center Black Hole</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f0</guid>
-<content:encoded><![CDATA[
-<div> 黑洞，红移，万有引力常数，引力透镜效应，施瓦西半径<br />
-总结:<br />
-本研究使用了Newman-Janis算法构建了在f(R) scalaron引力理论中的一个轴对称渐近平坦度量，即Kerr-scalaron度量。通过使用紧凑型恒星轨道和黑洞影子来研究新度量的天文学后果。研究发现，质量在10^-17 - 10^-16 eV范围内的scalaron与观测到的发射环尺寸相符。新度量能够复制S2等星体轨道的Schwarzschild极近点位移，并且scalaron对于小于45天文单位的轨道具有支配性的Schwarzschild进动。新度量下的Lense-Thirring(LT)进动在S2轨道内的幅度为(12.25-24.5) μas yr^-1，并且进动时间尺度与S星体的年龄非常接近。 <div>
-Astronomical tests of spacetime metric and gravitation theory near the Galactic center (GC) black hole, Sgr A*, have gained momentum with the observations of compact stellar orbits near the black hole and measurement of the black hole shadow. Deviation from the Kerr metric is a potential signature of modified gravity theory. In this work, we use the Newman–Janis algorithm to construct an axially symmetric and asymptotically flat metric in f(R) scalaron gravity theory. We call it the Kerr-scalaron metric. To study the astronomical consequences of the new metric, we use the compact stellar orbits and the black hole shadow. We use the observed size of the emission ring of the GC black hole shadow for estimating the deviation of the new metric from general relativity. It has been found that scalarons with masses within 10−17–10−16 eV are compatible with the observed emission ring size for a black hole spin of χ = 0.9. The Schwarzschild limit of the pericenter shift is estimated for compact stellar orbits near the black hole. General relativistic pericenter shift in wider orbits, including S stars such as S4716 and S2, has been reproduced with these scalarons. The parameter fSP measuring the deviation from Schwarzschild pericenter shift has been found to be fSP = 1.00–1.04 within stellar orbits with semimajor axes of 45–100 au. Scalarons have the capability to dominate Schwarzschild precession for orbits with semimajor axes much smaller than 45 au. Lense–Thirring (LT) precession with the new metric is estimated for the compact orbits. The massive scalarons produce LT precession with magnitude (12.25–24.5) μas yr−1 in the orbit of S2. The LT precession timescale is within 0.1% of the age of the S stars.
-]]></content:encoded>
-<pubDate>2024-03-22T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
