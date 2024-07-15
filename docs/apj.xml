@@ -4,6 +4,44 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Evidence for Spatially Distinct Galactic Dust Populations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad46f6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad46f6</guid>
+<content:encoded><![CDATA[
+<div> 高斯混合模型，哈密尔顿蒙特卡洛，银河尘埃，频谱能量分布，黑体函数 <br>
+银河尘埃分析，通过哈密尔顿蒙特卡洛技术实现了贝叶斯混合模型，研究银河尘埃的空间分离情况。我们发现了空间变化的两种尘埃模型，每种尘埃模型都有单一组分的频谱能量分布，并且能够适应小的变化。这些不同的尘埃种群在βd与Td平面上存在2.5σ的温度与谱指数的差异。这些结果对于常用的宇宙微波背景分离技术有重要意义。总结：<br>本研究利用哈密尔顿蒙特卡洛技术实现了贝叶斯混合模型，发现了在空间上呈现强烈相关结构的两种不同的银河尘埃种群。这些种群在频谱能量分布和温度方面存在显著差异，对于宇宙微波背景的分离技术有重要意义。 <div>
+We present an implementation of a Bayesian mixture model using Hamiltonian Monte Carlo techniques to search for the spatial separation of Galactic dust populations. Utilizing intensity measurements from the Planck High Frequency Instrument, we apply this model to high-latitude Galactic dust emission. Our analysis reveals a strong preference for a spatially varying two-population dust model over a one-population dust model, when the latter must capture the total variance in the sky. Each dust population is well characterized by a single-component spectral energy distribution (SED) and accommodates small variations. These populations could signify two distinct components or may originate from a one-component model with different temperatures resulting in different SED scalings. While no spatial information is built into the likelihood, our investigation unveils large-scale spatially coherent structures with high significance, pointing to a physical origin for the observed spatial variation. These results are robust to our choice of likelihood and input data. Furthermore, this spatially varying two-population model is the most favored from Bayesian evidence calculations. Incorporating IRAS 100 μm to constrain the Wein side of the blackbody function, we find the dust populations differ at the 2.5σ level in the spectral index (βd) versus temperature (Td) plane. The presence of multiple dust populations has implications for component separation techniques frequently employed in the recovery of the cosmic microwave background.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Detectability of Axisymmetric Magnetic Fields from the Core to the Surface of Oscillating Post-main-sequence Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4708</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4708</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 磁场, 恒星内部, 频率分裂, 磁场强度, 恒星演化
+总结: 
+恒星内部的磁场对太阳类恒星的核自转速率有重要影响。研究利用频谱的频率分裂得出了24个红巨星内氢燃烧壳附近径向磁场振幅的估计结果。通过Lorentz应力核函数，研究了超太阳金属丰度1.3M⊙恒星从中亚巨星到晚亚巨星再到红巨星的演化过程中，近表面磁场的探测潜力。将红巨星和亚巨星分成不同区域进行分解，并提出了关于关键层中磁场强度的下限。这项理论方案为恒星磁场的逆问题提供了首次形式化方法，并可以无缝应用于慢自转的恒星。<br><br> <div>
+Magnetic fields in the stellar interiors are key candidates to explain observed core rotation rates inside solar-like stars along their evolution. Recently, asteroseismic estimates of radial magnetic field amplitudes near the hydrogen-burning shell (H-shell) inside about 24 red giants (RGs) have been obtained by measuring frequency splittings from their power spectra. Using general Lorentz-stress (magnetic) kernels, we investigated the potential for detectability of near-surface magnetism in a 1.3 M⊙ star of supersolar metallicity as it evolves from a mid subgiant to a late subgiant into an RG. Based on these sensitivity kernels, we decompose an RG into three zones—deep core, H-shell, and near-surface. The subgiants instead required decomposition into an inner core, an outer core, and a near-surface layer. Additionally, we find that for a low-frequency g-dominated dipolar mode in the presence of a typical stable magnetic field, ∼25% of the frequency shift comes from the H-shell and the remaining from deeper layers. The ratio of the subsurface tangential field to the radial field in the H-burning shell decides if subsurface fields may be potentially detectable. For p-dominated dipole modes close to , this ratio is around two orders of magnitude smaller in subgiant phases than the corresponding RG. Further, with the availability of magnetic kernels, we propose lower limits of field strengths in crucial layers in our stellar model during its evolutionary phases. The theoretical prescription outlined here provides the first formal way to devise inverse problems for stellar magnetism and can be seamlessly employed for slow rotators.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Multiphase Black Hole Feedback and a Bright [C ii] Halo in a LoBAL Quasar at z ∼ 6.6</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a77</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a77</guid>
+<content:encoded><![CDATA[
+<div> quasar, outflow, feedback, ALMA, black hole
+<br><br>总结:
+研究团队对 z ∼ 6.6 类星体 J0923+0402 的黑洞驱动流进行了多尺度和多相特征化，并评估了这些气流对冷气体储库的影响。他们发现在约210 pc的尺度上存在一个强劲的电离气流，并且ALMA观测发现了高速度的[C ii]发射，可能与主宇宙体内含的冷中性气体有关，以及一个大小约15 kpc的[C ii]光晕。该研究首次准确限制了离子化和原子中性气体相的气流能量学特征，发现这种特征与高效反馈机制相一致，并且可能存在排出和预防性反馈模式。离子化气流和原子气流的尺度和能量特征表明它们可能与不同的类星体吸积事件相关联。该研究结果表明在 z ≳ 6 处的类星体中存在强烈的黑洞反馈作用，很可能塑造了冷气体储库的性质，直至周银河范围。 <div>
+Although the mass growth of supermassive black holes during the epoch of reionization is expected to play a role in shaping the concurrent growth of their host galaxies, observational evidence of feedback at z ≳ 6 is still sparse. We perform the first multiscale and multiphase characterization of black-hole-driven outflows in the z ∼ 6.6 quasar J0923+0402 and assess how these winds impact the cold gas reservoir. We employ the SimBAL spectral synthesis to fit broad absorption line features and find a powerful ionized outflow on a ≲210 pc scale, with a kinetic power ∼2%–100% of the quasar luminosity. Atacama Large Millimeter/submillimeter Array (ALMA) observations of [C ii] emission allow us to study the morphology and kinematics of the cold gas. We detect high-velocity [C ii] emission, likely associated with a cold neutral outflow at ∼0.5−2 kpc scale in the host galaxy, and a bright extended [C ii] halo with a size of ∼15 kpc. For the first time at such an early epoch, we accurately constrain the outflow energetics in both the ionized and the atomic neutral gas phases. We find such energetics to be consistent with expectations for an efficient feedback mechanism, and both ejective and preventative feedback modes are likely at play. The scales and energetics of the ionized and atomic outflows suggest that they might be associated with different quasar accretion episodes. The results of this work indicate that strong black hole feedback is occurring in quasars at z ≳ 6 and is likely responsible for shaping the properties of the cold gas reservoir up to circumgalactic scales.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Cholla-MHD: An Exascale-capable Magnetohydrodynamic Extension to the Cholla Astrophysical Simulation Code</title>
