@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Evidence for Spatially Distinct Galactic Dust Populations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad46f6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad46f6</guid>
 <content:encoded><![CDATA[
-<div> 高斯混合模型，哈密尔顿蒙特卡洛，银河尘埃，频谱能量分布，黑体函数 <br>
-银河尘埃分析，通过哈密尔顿蒙特卡洛技术实现了贝叶斯混合模型，研究银河尘埃的空间分离情况。我们发现了空间变化的两种尘埃模型，每种尘埃模型都有单一组分的频谱能量分布，并且能够适应小的变化。这些不同的尘埃种群在βd与Td平面上存在2.5σ的温度与谱指数的差异。这些结果对于常用的宇宙微波背景分离技术有重要意义。总结：<br>本研究利用哈密尔顿蒙特卡洛技术实现了贝叶斯混合模型，发现了在空间上呈现强烈相关结构的两种不同的银河尘埃种群。这些种群在频谱能量分布和温度方面存在显著差异，对于宇宙微波背景的分离技术有重要意义。 <div>
+<div> 高斯混合模型，哈密尔顿蒙特卡洛，银河尘埃，频谱能量分布，黑体函数 <br />
+银河尘埃分析，通过哈密尔顿蒙特卡洛技术实现了贝叶斯混合模型，研究银河尘埃的空间分离情况。我们发现了空间变化的两种尘埃模型，每种尘埃模型都有单一组分的频谱能量分布，并且能够适应小的变化。这些不同的尘埃种群在βd与Td平面上存在2.5σ的温度与谱指数的差异。这些结果对于常用的宇宙微波背景分离技术有重要意义。总结：<br />本研究利用哈密尔顿蒙特卡洛技术实现了贝叶斯混合模型，发现了在空间上呈现强烈相关结构的两种不同的银河尘埃种群。这些种群在频谱能量分布和温度方面存在显著差异，对于宇宙微波背景的分离技术有重要意义。 <div>
 We present an implementation of a Bayesian mixture model using Hamiltonian Monte Carlo techniques to search for the spatial separation of Galactic dust populations. Utilizing intensity measurements from the Planck High Frequency Instrument, we apply this model to high-latitude Galactic dust emission. Our analysis reveals a strong preference for a spatially varying two-population dust model over a one-population dust model, when the latter must capture the total variance in the sky. Each dust population is well characterized by a single-component spectral energy distribution (SED) and accommodates small variations. These populations could signify two distinct components or may originate from a one-component model with different temperatures resulting in different SED scalings. While no spatial information is built into the likelihood, our investigation unveils large-scale spatially coherent structures with high significance, pointing to a physical origin for the observed spatial variation. These results are robust to our choice of likelihood and input data. Furthermore, this spatially varying two-population model is the most favored from Bayesian evidence calculations. Incorporating IRAS 100 μm to constrain the Wein side of the blackbody function, we find the dust populations differ at the 2.5σ level in the spectral index (βd) versus temperature (Td) plane. The presence of multiple dust populations has implications for component separation techniques frequently employed in the recovery of the cosmic microwave background.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,10 +23,9 @@ We present an implementation of a Bayesian mixture model using Hamiltonian Monte
 <content:encoded><![CDATA[
 <div> 关键词: 磁场, 恒星内部, 频率分裂, 磁场强度, 恒星演化
 总结: 
-恒星内部的磁场对太阳类恒星的核自转速率有重要影响。研究利用频谱的频率分裂得出了24个红巨星内氢燃烧壳附近径向磁场振幅的估计结果。通过Lorentz应力核函数，研究了超太阳金属丰度1.3M⊙恒星从中亚巨星到晚亚巨星再到红巨星的演化过程中，近表面磁场的探测潜力。将红巨星和亚巨星分成不同区域进行分解，并提出了关于关键层中磁场强度的下限。这项理论方案为恒星磁场的逆问题提供了首次形式化方法，并可以无缝应用于慢自转的恒星。<br><br> <div>
+恒星内部的磁场对太阳类恒星的核自转速率有重要影响。研究利用频谱的频率分裂得出了24个红巨星内氢燃烧壳附近径向磁场振幅的估计结果。通过Lorentz应力核函数，研究了超太阳金属丰度1.3M⊙恒星从中亚巨星到晚亚巨星再到红巨星的演化过程中，近表面磁场的探测潜力。将红巨星和亚巨星分成不同区域进行分解，并提出了关于关键层中磁场强度的下限。这项理论方案为恒星磁场的逆问题提供了首次形式化方法，并可以无缝应用于慢自转的恒星。<br /><br /> <div>
 Magnetic fields in the stellar interiors are key candidates to explain observed core rotation rates inside solar-like stars along their evolution. Recently, asteroseismic estimates of radial magnetic field amplitudes near the hydrogen-burning shell (H-shell) inside about 24 red giants (RGs) have been obtained by measuring frequency splittings from their power spectra. Using general Lorentz-stress (magnetic) kernels, we investigated the potential for detectability of near-surface magnetism in a 1.3 M⊙ star of supersolar metallicity as it evolves from a mid subgiant to a late subgiant into an RG. Based on these sensitivity kernels, we decompose an RG into three zones—deep core, H-shell, and near-surface. The subgiants instead required decomposition into an inner core, an outer core, and a near-surface layer. Additionally, we find that for a low-frequency g-dominated dipolar mode in the presence of a typical stable magnetic field, ∼25% of the frequency shift comes from the H-shell and the remaining from deeper layers. The ratio of the subsurface tangential field to the radial field in the H-burning shell decides if subsurface fields may be potentially detectable. For p-dominated dipole modes close to , this ratio is around two orders of magnitude smaller in subgiant phases than the corresponding RG. Further, with the availability of magnetic kernels, we propose lower limits of field strengths in crucial layers in our stellar model during its evolutionary phases. The theoretical prescription outlined here provides the first formal way to devise inverse problems for stellar magnetism and can be seamlessly employed for slow rotators.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -35,14 +34,12 @@ Magnetic fields in the stellar interiors are key candidates to explain observed 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a77</guid>
 <content:encoded><![CDATA[
 <div> quasar, outflow, feedback, ALMA, black hole
-<br><br>总结:
+<br /><br />总结:
 研究团队对 z ∼ 6.6 类星体 J0923+0402 的黑洞驱动流进行了多尺度和多相特征化，并评估了这些气流对冷气体储库的影响。他们发现在约210 pc的尺度上存在一个强劲的电离气流，并且ALMA观测发现了高速度的[C ii]发射，可能与主宇宙体内含的冷中性气体有关，以及一个大小约15 kpc的[C ii]光晕。该研究首次准确限制了离子化和原子中性气体相的气流能量学特征，发现这种特征与高效反馈机制相一致，并且可能存在排出和预防性反馈模式。离子化气流和原子气流的尺度和能量特征表明它们可能与不同的类星体吸积事件相关联。该研究结果表明在 z ≳ 6 处的类星体中存在强烈的黑洞反馈作用，很可能塑造了冷气体储库的性质，直至周银河范围。 <div>
 Although the mass growth of supermassive black holes during the epoch of reionization is expected to play a role in shaping the concurrent growth of their host galaxies, observational evidence of feedback at z ≳ 6 is still sparse. We perform the first multiscale and multiphase characterization of black-hole-driven outflows in the z ∼ 6.6 quasar J0923+0402 and assess how these winds impact the cold gas reservoir. We employ the SimBAL spectral synthesis to fit broad absorption line features and find a powerful ionized outflow on a ≲210 pc scale, with a kinetic power ∼2%–100% of the quasar luminosity. Atacama Large Millimeter/submillimeter Array (ALMA) observations of [C ii] emission allow us to study the morphology and kinematics of the cold gas. We detect high-velocity [C ii] emission, likely associated with a cold neutral outflow at ∼0.5−2 kpc scale in the host galaxy, and a bright extended [C ii] halo with a size of ∼15 kpc. For the first time at such an early epoch, we accurately constrain the outflow energetics in both the ionized and the atomic neutral gas phases. We find such energetics to be consistent with expectations for an efficient feedback mechanism, and both ejective and preventative feedback modes are likely at play. The scales and energetics of the ionized and atomic outflows suggest that they might be associated with different quasar accretion episodes. The results of this work indicate that strong black hole feedback is occurring in quasars at z ≳ 6 and is likely responsible for shaping the properties of the cold gas reservoir up to circumgalactic scales.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Cholla-MHD: An Exascale-capable Magnetohydrodynamic Extension to the Cholla Astrophysical Simulation Code</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad464a</link>
@@ -11496,43 +11493,6 @@ We present Atacama Large Millimeter/submillimeter Array (ALMA) deep spectroscopy
 
 研究通过天体模拟核心坍缩超新星，探讨了高重子密度下一级强子-夸克物质相变的发生，以利用来自这类宇宙事件的中微子来揭示密集物质态方程的尚未完全理解的性质。发现释放出非标准的第二中微子爆发，以电子反中微子为主导的信号不仅可以用来衡量解离夸克物质的出现，还可以揭示超新星内部极端条件下物态的信息。为此，研究了大量球对称超新星模型，研究了对物态方程和恒星祖先的依赖关系。采用了广义相对论中微子辐射流体动力学，采用了三味波尔兹曼中微子输运和微观强子-夸克混合物态方程。因此，采用了DD2相对论平均场强子模型以及它的几种变种，并使用了用于描述解离夸克物质的string-flip模型。由此得到的混合模型涵盖了相变的起始密度和潜热的代表性范围，便于直接将中微子信号的固有特征与物态方程的性质联系起来。特别地，已经经验性地发现了一组线性关系。如果在1秒左右或更短的时间内出现毫秒级电子反中微子爆发，这些关系可能为未来对下一个银河中心坍缩超新星的中微子观测提供了一种约束，用于可能的QCD相变的起始密度。 <br /><br />总结: 研究探讨了核心坍缩超新星中一级强子-夸克物质相变的发生及其对应的中微子信号特征，提出了一组线性关系用于约束可能的QCD相变的起始密度。 <div>
 The occurrence of a first-order hadron–quark matter phase transition at high baryon densities is investigated in astrophysical simulations of core-collapse supernovae, to decipher yet incompletely understood properties of the dense matter equation of state (EOS) using neutrinos from such cosmic events. It is found that the emission of a nonstandard second neutrino burst, dominated by electron antineutrinos, is not only a measurable signal for the appearance of deconfined quark matter but also reveals information about the state of matter at extreme conditions encountered at the supernova (SN) interior. To this end, a large set of spherically symmetric SN models is investigated, studying the dependence on the EOS and the stellar progenitor. General relativistic neutrino-radiation hydrodynamics is employed featuring three-flavor Boltzmann neutrino transport and a microscopic hadron-quark hybrid matter EOS class. Therefore, the DD2 relativistic mean-field hadronic model is employed, and several variations of it, and the string-flip model for the description of deconfined quark matter. The resulting hybrid model covers a representative range of onset densities for the phase transition and latent heats. This facilitates the direct connection between intrinsic signatures of the neutrino signal and properties of the EOS. In particular, a set of linear relations has been found empirically. These potentially provide a constraint for the onset density of a possible QCD phase transition from the future neutrino observation of the next galactic core-collapse SN, if a millisecond electron anti-neutrino burst is present around or less than 1 s.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Cracking the Relation between Mass and 1P Star Fraction of Globular Clusters. I. Present-day Cluster Masses as a First Tool</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27db</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27db</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 多星群, 恒星群, 星际, 星级, 恒星质量<br />
-总结:<br />
-文章研究了巨大球状星团中多重恒星群的现象，发现第一种恒星群在球状星团中所占比例随着星团质量的增加而减少。通过假设固定的恒星质量阈值、星团质量与第一种恒星群比例之间的幂律关系以及第一种恒星群比例随时间保持不变等假设，对第一种恒星群比例随星团质量的关系进行了详细解析，并推论出在演化开始时具有至少4·105M⊙的最低质量阈值。这一高质量阈值严重限制了从演化星团中流失的第二种恒星群的数量，与银河星系晕的低第二种恒星群比例相吻合。根据假设的第一种恒星群比例恒定，推断了第二种恒星群不一定是在中心区域形成。 Magellanic Clouds集群在（质量，第一种恒星群比例）空间的位置与预期的中间时代集群在温和潮汐场中演化时一致。内外模型星团的分布与观测到的也一致。总的来说，该研究对球状星团中多重恒星群的现象进行了深入的研究和推断。 <div>
-The phenomenon of multiple stellar populations is exacerbated in massive globular clusters, with the fraction of first-population (1P) stars a decreasing function of the cluster present-day mass. We decipher this relation in far greater detail than has been done so far. We assume (i) a fixed stellar mass threshold for the formation of second-population (2P) stars, (ii) a power-law scaling between the mass mecl of newly formed clusters and their 1P star fraction F1P, and (iii) a constant F1P over time. The F1P(mecl) relation is then evolved up to an age of 12 Gyr for tidal field strengths representative of the entire Galactic halo. The 12 Gyr old model tracks cover the present-day distribution of Galactic globular clusters in the (mass, F1P) space extremely well. The distribution is curtailed on its top right side by the scarcity of clusters at large Galactocentric distances and on its bottom left side by the initial scarcity of very high-mass clusters and dynamical friction. Given their distinct dissolution rates, “inner” and “outer” model clusters are offset from each other, as observed. The locus of Magellanic Clouds clusters in the (mass, F1P) space is as expected for intermediate-age clusters evolving in a gentle tidal field. Given the assumed constancy of F1P, we conclude that 2P stars do not necessarily form centrally concentrated. We infer a minimum mass of 4 · 105M⊙ for multiple-population clusters at secular evolution onset. This high-mass threshold severely limits the number of 2P stars lost from evolving clusters, thereby fitting the low 2P star fraction of the Galactic halo field.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>First Direct Imaging of a Kelvin–Helmholtz Instability by PSP/WISPR</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2208</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2208</guid>
-<content:encoded><![CDATA[
-<div> 关键词: WISPR, Parker Solar Probe, Kelvin-Helmholtz instability, Coronal Mass Ejection, solar corona
-
-总结: <br /><br />研究使用WISPR观察到小尺度特征，推测为Kelvin–Helmholtz不稳定性，这些特征出现在Parker Solar Probe在7.5 R⊙和9.5 R⊙之间的日冕质量抛射尾部附近，持续约30分钟。通过分析涡旋的尺寸和边界层的厚度，以及估计的线性增长率，支持了KHI的候选性。研究强调了PSP/WISPR在观察太阳低层和中层日冕中此类现象的独特能力，尤其是当PSP的近日点距离太阳更近时。 <div>
-We present a comprehensive analysis aimed at proving the hypothesis that a train of small-scale features observed by the Wide-field Imager (WISPR) onboard the Parker Solar Probe (PSP) are the signature of a Kelvin–Helmholtz instability (KHI). These features were seen near the flank of a Coronal Mass Ejection (CME) wake between 7.5 R⊙ and 9.5 R⊙, lasting for about 30 minutes. The CME was a slow event, associated with a streamer blowout. We analyzed the size of the eddies and found growth during their evolution while maintaining separation distances and alignment typical of Kelvin–Helmholtz vortexes. We then assessed the magnetic field conditions that would make the observation of such an instability plausible. Two methods were used to cross-check our findings. The measured thickness of the boundary layer supports KHI candidacy, and the estimated linear growth rate suggests nonlinear saturation within the expected timescale. We conclude that a KHI is a plausible explanation for the observed features, and therefore that such instabilities might exist in the low and middle solar corona (within ∼15 R⊙) and can be detected in white light observations. Their observation, however, might be rare due to stringent conditions like the observer’s proximity, suitable viewing circumstances, magnetic field topology, and flow properties. This study highlights the unique capability of PSP/WISPR in observing such phenomena, especially as PSP perihelia reach closer distances to the Sun.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Unified Model for Bipolar Outflows from Young Stars: Kinematic and Mixing Structures in HH 30</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2355</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2355</guid>
-<content:encoded><![CDATA[
-<div> Hubble Space Telescope, HH 30, Atacama Large Millimeter/submillimeter Array, optical jet, ionic 
-
-总结:<br /><br />
-文章介绍了年轻恒星源HH 30的特点和结构。通过Hubble Space Telescope观测到HH 30的离子光学喷流，同时Atacama Large Millimeter/submillimeter Array观测到了12CO的残余包层。光学喷流具有窄的外观、基部较大的线宽和高温度。通过位置-速度图可以识别三种主要结构：具有大谱线宽度的极高速宽角风组分、12CO中观测到的极低速环境介质、以及与主要风和周围环境介质在速度和位置上都有嵌套的12CO跟踪的低速区域。在光学喷流周围形成了多层空腔结构，由内部盘区域起源的原子气体通过禁闭线发出明亮的光学喷流，宽角部分扩展形成低密度腔体。12CO纤维环绕着风腔混合并通过磁场相互作用向内部运动。HH 30系统是Shang等人提出的统一风模型的理想表现，通过其中区分的原子和分子物种混合以及环绕的寒冷分子环境物质。 <div>
-The young stellar source HH 30 is a textbook example of an ionic optical jet originating from a disk in an edge-on system shown by the Hubble Space Telescope. It has a remnant envelope in 12CO observed by the Atacama Large Millimeter/submillimeter Array. The optical jet is characterized by its narrow appearance, large line width at the base, and high temperature inferred from line diagnostics. Three featured structures can be identified, most evident in the transverse position–velocity diagrams: an extremely-high-velocity wide-angle wind component with large spectral widths in the optical, a very-low-velocity ambient surrounding medium seen in 12CO, and a low-velocity region traced by 12CO nested both in velocity and location between the primary wind and ambient environment. A layered cavity with multiple shells forms nested morphological and kinematic structures around the optical jet. The atomic gas originating from the innermost region of the disk attains a sufficient temperature and ionization to emit brightly in forbidden lines as an optical jet. The wide-angle portion expands, forming a low-density cavity. The filamentary 12CO encompassing the wind cavity is mixed and advected inward through the action of the magnetic interplay of the wide-angle wind with the molecular ambient medium. The magnetic interplay results in the layered shells penetrating deeply into the vast cavity of tenuous atomic wind material. The HH 30 system is an ideal manifestation of the unified wind model of Shang et al. (2020, 2023), with clearly distinguishable atomic and molecular species mixed through the atomic lightly ionized magnetized wind and the surrounding cold molecular ambient material.
 ]]></content:encoded>
 <pubDate>2024-03-27T00:00:00Z</pubDate>
 </item>
