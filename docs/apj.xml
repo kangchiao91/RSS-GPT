@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Cholla-MHD: An Exascale-capable Magnetohydrodynamic Extension to the Cholla Astrophysical Simulation Code</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad464a</link>
@@ -15,7 +16,6 @@
 Cholla是一种GPU原生的天体物理流体动力学代码，现在扩展到了磁流体动力学（MHD）模拟。该代码利用GPU并行计算，在NVIDIA A100上的表现非常出色，可以实现极大规模的模拟。磁流体动力学模块经过测试，保持了高精度和可靠性。同时，引入了新的测试和CI工具，提高了开发的鲁棒性和准确性。 <div>
 We present an extension of the massively parallel, GPU native, astrophysical hydrodynamics code Cholla to magnetohydrodynamics (MHD). Cholla solves the ideal MHD equations in their Eulerian form on a static Cartesian mesh utilizing the Van Leer + constrained transport integrator, the HLLD Riemann solver, and reconstruction methods at second and third order. Cholla’s MHD module can perform ≈260 million cell updates per GPU-second on an NVIDIA A100 while using the HLLD Riemann solver and second order reconstruction. The inherently parallel nature of GPUs combined with increased memory in new hardware allows Cholla’s MHD module to perform simulations with resolutions ∼5003 cells on a single high-end GPU (e.g., an NVIDIA A100 with 80 GB of memory). We employ GPU direct Message Passing Interface to attain excellent weak scaling on the exascale supercomputer Frontier, while using 74,088 GPUs and simulating a total grid size of over 7.2 trillion cells. A suite of test problems highlights the accuracy of Cholla’s MHD module and demonstrates that zero magnetic divergence in solutions is maintained to round off error. We also present new testing and CI tools using GoogleTest, GitHub Actions, and Jenkins that have made development more robust and accurate and ensure reliability in the future.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -25,10 +25,9 @@ We present an extension of the massively parallel, GPU native, astrophysical hyd
 <content:encoded><![CDATA[
 <div> 磁流体动力学, 恒星形成, 盘形成, 磁性制动, 螺旋结构
 
-长期模拟研究恒星和盘的形成过程，采用三维非理想磁流体动力学。模拟从原恒星云开始，经过盘的长期演化，最终距离原恒星形成约1.5x10^5年。主要的磁力制动和磁驱动的流出作用导致主要的吸积阶段盘的大小约为50天文单位并且主要没有次级结构。当流出突破云层时，导致包层质量迅速减少，主要吸积阶段结束。流出在质量吸积率减小的同时也减弱。盘的包层吸积结束后，盘逐渐增长并出现瞬时的螺旋结构，这是由于引力不稳定性导致的。当包层吸积结束后，盘变得稳定并且达到约300天文单位大小。此外，约30%的初始云质量被流出排斥。研究的一个重要发现是，包层消散后，流出出现再次活跃，盘表面有质量排出，这种排出（或盘风）是因为此时磁压显著支配了盘的上下方面的动压和热压。利用估计的角动量通量和质量损失率，估算盘消散的时间尺度约为10^6年。 <br><br>总结: 本研究使用三维非理想磁流体动力学模拟了恒星和盘的形成过程。模拟表明，磁性制动和磁驱动的流出在主要的吸积阶段起到重要作用。当主要吸积阶段结束后，盘逐渐增长并发展出临时的螺旋结构，最终盘变得稳定并且达到较大规模。研究还发现，包层消散后，盘表面出现质量排出，推测盘的消散时间尺度约为10^6年。 <div>
+长期模拟研究恒星和盘的形成过程，采用三维非理想磁流体动力学。模拟从原恒星云开始，经过盘的长期演化，最终距离原恒星形成约1.5x10^5年。主要的磁力制动和磁驱动的流出作用导致主要的吸积阶段盘的大小约为50天文单位并且主要没有次级结构。当流出突破云层时，导致包层质量迅速减少，主要吸积阶段结束。流出在质量吸积率减小的同时也减弱。盘的包层吸积结束后，盘逐渐增长并出现瞬时的螺旋结构，这是由于引力不稳定性导致的。当包层吸积结束后，盘变得稳定并且达到约300天文单位大小。此外，约30%的初始云质量被流出排斥。研究的一个重要发现是，包层消散后，流出出现再次活跃，盘表面有质量排出，这种排出（或盘风）是因为此时磁压显著支配了盘的上下方面的动压和热压。利用估计的角动量通量和质量损失率，估算盘消散的时间尺度约为10^6年。 <br /><br />总结: 本研究使用三维非理想磁流体动力学模拟了恒星和盘的形成过程。模拟表明，磁性制动和磁驱动的流出在主要的吸积阶段起到重要作用。当主要吸积阶段结束后，盘逐渐增长并发展出临时的螺旋结构，最终盘变得稳定并且达到较大规模。研究还发现，包层消散后，盘表面出现质量排出，推测盘的消散时间尺度约为10^6年。 <div>
 We perform a long-term simulation of star and disk formation using three-dimensional nonideal magnetohydrodynamics. The simulation starts from a prestellar cloud and proceeds through the long-term evolution of the circumstellar disk until ∼1.5 × 105 yr after protostar formation. The disk has size ≲50 au and little substructure in the main accretion phase because of the action of magnetic braking and the magnetically driven outflow to remove angular momentum. The main accretion phase ends when the outflow breaks out of the cloud, causing the envelope mass to decrease rapidly. The outflow subsequently weakens as the mass accretion rate also weakens. While the envelope-to-disk accretion continues, the disk grows gradually and develops transient spiral structures, due to gravitational instability. When the envelope-to-disk accretion ends, the disk becomes stable and reaches a size ≳300 au. In addition, about 30% of the initial cloud mass has been ejected by the outflow. A significant finding of this work is that after the envelope dissipates a revitalization of the wind occurs, and there is mass ejection from the disk surface that lasts until the end of the simulation. This mass ejection (or disk wind) is generated because the magnetic pressure significantly dominates both the ram pressure and thermal pressure above and below the disk at this stage. Using the angular momentum flux and mass-loss rate estimated from the disk wind, the disk dissipation timescale is estimated to be ∼106 yr.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -38,10 +37,9 @@ We perform a long-term simulation of star and disk formation using three-dimensi
 <content:encoded><![CDATA[
 <div> 高分辨率宇宙学模拟，超微弱矮星系，星体形成历史，次网格超新星反馈模型，暗物质核心。
 
-核心形成与星体质量分数相关，次网格超新星模型在较高质量处产生突发的星体形成历史，可预测核心形成，低质量矮星系的暗物质密度轮廓与观测不符，连续的星体形成和反馈可在较高质量处形成暗物质核心。超泡和冲击波反馈模型产生的星体形成历史的爆发性程度不同，对暗物质核心的形成影响较大。总结：<br><br>高分辨率宇宙学模拟对研究超微弱矮星系的结构和演化具有重要意义。次网格超新星反馈模型可以预测暗物质核心的形成，但在低质量矮星系中存在一些不足。星体的形成历史对暗物质核心的形成有重要影响。 <div>
+核心形成与星体质量分数相关，次网格超新星模型在较高质量处产生突发的星体形成历史，可预测核心形成，低质量矮星系的暗物质密度轮廓与观测不符，连续的星体形成和反馈可在较高质量处形成暗物质核心。超泡和冲击波反馈模型产生的星体形成历史的爆发性程度不同，对暗物质核心的形成影响较大。总结：<br /><br />高分辨率宇宙学模拟对研究超微弱矮星系的结构和演化具有重要意义。次网格超新星反馈模型可以预测暗物质核心的形成，但在低质量矮星系中存在一些不足。星体的形成历史对暗物质核心的形成有重要影响。 <div>
 Due to their inability to self-regulate, ultrafaint dwarfs are sensitive to prescriptions in subgrid physics models that converge and regulate at higher masses. We use high-resolution cosmological simulations to compare the effect of bursty star formation histories (SFHs) on dwarf galaxy structure for two different subgrid supernova (SN) feedback models, superbubble and blastwave, in dwarf galaxies with stellar masses from 5000 < M*/M⊙ < 109. We find that in the “MARVEL-ous Dwarfs” suite both feedback models produce cored galaxies and reproduce observed scaling relations for luminosity, mass, and size. Our sample accurately predicts the average stellar metallicity at higher masses, however low-mass dwarfs are metal poor relative to observed galaxies in the Local Group. We show that continuous bursty star formation and the resulting stellar feedback are able to create dark matter (DM) cores in the higher dwarf galaxy mass regime, while the majority of ultrafaint and classical dwarfs retain cuspy central DM density profiles. We find that the effective core formation peaks at M*/Mhalo ≃ 5 × 10−3 for both feedback models. Both subgrid SN models yield bursty SFHs at higher masses; however, galaxies simulated with superbubble feedback reach maximum mean burstiness values at lower stellar mass fractions relative to blastwave feedback. As a result, core formation may be better predicted by stellar mass fraction than the burstiness of SFHs.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -51,10 +49,9 @@ Due to their inability to self-regulate, ultrafaint dwarfs are sensitive to pres
 <content:encoded><![CDATA[
 <div> 关键词: 星冕, 低第一电离能元素, FIP效应, 逆FIP效应, 磁重连
 总结:
-本研究使用Chintzoglou & Zhang的3D可视化技术结合11504太阳活动区星冕中的局部逆FIP效应观测，确定了磁重连的潜在位置以及在太阳大气中可能产生的后果。我们在太阳黑子光桥之间的磁通管内观察到了周期性加热和重连流的微妙迹象。此外，在光桥的两侧，我们观察到了小的反平行水平磁场分量，支持了我们观测到逆FIP等离子体的重连可能发生的地方。当这些微妙迹象与逆FIP效应观测结果结合在一起时，这为太阳色球分层下重连的间接观测证据提供了有力支持，然而直接证据仍然难以获得。 <br><br> <div>
+本研究使用Chintzoglou & Zhang的3D可视化技术结合11504太阳活动区星冕中的局部逆FIP效应观测，确定了磁重连的潜在位置以及在太阳大气中可能产生的后果。我们在太阳黑子光桥之间的磁通管内观察到了周期性加热和重连流的微妙迹象。此外，在光桥的两侧，我们观察到了小的反平行水平磁场分量，支持了我们观测到逆FIP等离子体的重连可能发生的地方。当这些微妙迹象与逆FIP效应观测结果结合在一起时，这为太阳色球分层下重连的间接观测证据提供了有力支持，然而直接证据仍然难以获得。 <br /><br /> <div>
 Within the coronae of stars, abundances of those elements with low first ionization potential (FIP) often differ from their photospheric values. The coronae of the Sun and solar-type stars mostly show enhancements of low-FIP elements (the FIP effect) while more active stars such as M dwarfs have coronae generally characterized by the inverse-FIP (I-FIP) effect. Highly localized regions of I-FIP effect solar plasma have been observed by Hinode's EUV Imaging Spectrometer in a number of highly complex active regions (ARs), usually around strong light bridges of the umbrae of coalescing/merging sunspots. These observations can be interpreted in the context of the ponderomotive force fractionation model, which predicts that plasma with I-FIP effect composition is created by the refraction of waves coming from below the plasma fractionation region in the chromosphere. A plausible source of these waves is thought to be reconnection in the (high-plasma-β) subchromospheric magnetic field. In this study, we use the 3D visualization technique of Chintzoglou & Zhang combined with observations of localized I-FIP effect in the corona of AR 11504 to identify potential sites of such reconnection and its possible consequences in the solar atmosphere. We found subtle signatures of episodic heating and reconnection outflows in the expected places, in between magnetic flux tubes forming a light bridge, within the photosphere of the AR. Furthermore, on either side of the light bridge, we observed small antiparallel horizontal magnetic field components, supporting the possibility of reconnection occurring where we observe I-FIP plasma. When taken together with the I-FIP effect observations, these subtle signatures provide a compelling case for indirect observational evidence of reconnection below the fractionation layer of the chromosphere, however direct evidence remains elusive.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -62,15 +59,13 @@ Within the coronae of stars, abundances of those elements with low first ionizat
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d87</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d87</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 太阳丰度问题, 太阳表面实验, 太阳模型, 中微子流量, 核反应因子 <br>
-<br>
-太阳丰度问题是太阳模型中的持续争论话题。研究人员构建了旋转太阳模型，并分析了不同丰度尺度对模型的影响。他们发现，使用Magg的丰度尺度的模型具有更好的声速和密度轮廓，能够复制观测到的频率分离比例r02和r13，以及与地震推断的表面氦丰度和对流区深度相匹配。此外，模拟的中微子流量与检测到的中微子流量一致。研究人员还发现，核反应会对中微子流量和密度轮廓产生影响，可以用于诊断天体物理S因子。利用更新的中微子流量和地震推断结果所偏爱的S因子可能会显著改善太阳模型。 <br><br>总结: 太阳丰度问题是太阳模型中的持续争论话题。研究人员发现使用Magg的丰度尺度的模型在多个方面具有优势，并对S因子的研究有所启发。 <div>
+<div> 关键词: 太阳丰度问题, 太阳表面实验, 太阳模型, 中微子流量, 核反应因子 <br />
+<br />
+太阳丰度问题是太阳模型中的持续争论话题。研究人员构建了旋转太阳模型，并分析了不同丰度尺度对模型的影响。他们发现，使用Magg的丰度尺度的模型具有更好的声速和密度轮廓，能够复制观测到的频率分离比例r02和r13，以及与地震推断的表面氦丰度和对流区深度相匹配。此外，模拟的中微子流量与检测到的中微子流量一致。研究人员还发现，核反应会对中微子流量和密度轮廓产生影响，可以用于诊断天体物理S因子。利用更新的中微子流量和地震推断结果所偏爱的S因子可能会显著改善太阳模型。 <br /><br />总结: 太阳丰度问题是太阳模型中的持续争论话题。研究人员发现使用Magg的丰度尺度的模型在多个方面具有优势，并对S因子的研究有所启发。 <div>
 The ratio of metal abundance to hydrogen abundance of the solar photosphere, (Z/X)s, has been revised several times. Standard solar models, based on these revised solar abundances, are in disagreement with seismically inferred results. Recently, Magg et al. introduced a new value for (Z/X)s, which is still under debate in the community. The solar abundance problem or solar modeling problem remains a topic of ongoing debate. We constructed rotating solar models in accordance with various abundance scales where the effects of convection overshoot and enhanced diffusion were included. Among these models, those utilizing Magg’s abundance scale exhibit superior sound speed and density profiles compared to models using other abundance scales. Additionally, they reproduce the observed frequency separation ratios r02 and r13. These models also match the seismically inferred surface helium abundance and convection zone depth within the 1σ level. Furthermore, the calculated neutrino fluxes from these models agree with detected ones at the level of 1σ. We found that neutrino fluxes and density profile are influenced by nuclear reactions, allowing us to use the combination of detected neutrino fluxes and seismically inferred density for diagnosing astrophysical S-factors. This diagnostic approach shows that S11 may be underestimated by 2%, while S33 may be overestimated by about 3% in previous determinations. The S-factors favored by updated neutrino fluxes and helioseismic results can lead to significant improvements in solar models.
 ]]></content:encoded>
-
 <pubDate>2024-07-14T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Mid-term Periodicity of Coronal Mass Ejections during the Time Interval 1996–2022</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d9f</link>
@@ -11502,64 +11497,6 @@ We present a comprehensive analysis aimed at proving the hypothesis that a train
 The young stellar source HH 30 is a textbook example of an ionic optical jet originating from a disk in an edge-on system shown by the Hubble Space Telescope. It has a remnant envelope in 12CO observed by the Atacama Large Millimeter/submillimeter Array. The optical jet is characterized by its narrow appearance, large line width at the base, and high temperature inferred from line diagnostics. Three featured structures can be identified, most evident in the transverse position–velocity diagrams: an extremely-high-velocity wide-angle wind component with large spectral widths in the optical, a very-low-velocity ambient surrounding medium seen in 12CO, and a low-velocity region traced by 12CO nested both in velocity and location between the primary wind and ambient environment. A layered cavity with multiple shells forms nested morphological and kinematic structures around the optical jet. The atomic gas originating from the innermost region of the disk attains a sufficient temperature and ionization to emit brightly in forbidden lines as an optical jet. The wide-angle portion expands, forming a low-density cavity. The filamentary 12CO encompassing the wind cavity is mixed and advected inward through the action of the magnetic interplay of the wide-angle wind with the molecular ambient medium. The magnetic interplay results in the layered shells penetrating deeply into the vast cavity of tenuous atomic wind material. The HH 30 system is an ideal manifestation of the unified wind model of Shang et al. (2020, 2023), with clearly distinguishable atomic and molecular species mixed through the atomic lightly ionized magnetized wind and the surrounding cold molecular ambient material.
 ]]></content:encoded>
 <pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Modeling Investigation for Solar Flare X-Ray Stereoscopy with Solar Orbiter/STIX and Earth-orbiting Missions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad236f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad236f</guid>
-<content:encoded><![CDATA[
-<div> 关键词: STIX, Solar Orbiter, X-ray observations, HXR directivity, electron angular distribution
-总结:
-本文介绍了Solar Orbiter上的Spectrometer/Telescope for Imaging X-rays (STIX)提供了进行太阳耀斑立体X射线观测的独特机会，该观测与当前和未来的地球X射线任务进行比较。这些观测将产生几十年来第一次可靠的硬X射线（HXR）直接度量，提供耀斑加速电子的一个新的诊断，并有助于限制耀斑中加速电子的过程。文章展示了HXR直接度量如何随着不同的电子和耀斑特性而变化，并展示了建模可以如何从数据中提取这些通常未知的特性。最后，文章展示了通过与本文建模的比较如何提取HXR直接度量，并呈现了两个耀斑的初步HXR直接度分析，证明了这样的观测的可行性和挑战，以及如何通过与此处展示的建模比较来提取HXR直接度量。 <div>
-The Spectrometer/Telescope for Imaging X-rays (STIX) on board Solar Orbiter (SolO) provides a unique opportunity to systematically perform stereoscopic X-ray observations of solar flares with current and upcoming X-ray missions at Earth. These observations will produce the first reliable measurements of hard X-ray (HXR) directivity in decades, providing a new diagnostic of the flare-accelerated electron angular distribution and helping to constrain the processes that accelerate electrons in flares. However, such observations must be compared to modeling, taking into account electron and X-ray transport effects and realistic plasma conditions, all of which can change the properties of the measured HXR directivity. Here, we show how HXR directivity, defined as the ratio of X-ray spectra at different spacecraft viewing angles, varies with different electron and flare properties (e.g., electron angular distribution, highest-energy electrons, and magnetic configuration), and how modeling can be used to extract these typically unknown properties from the data. Finally, we present a preliminary HXR directivity analysis of two flares, observed by the Fermi Gamma-ray Burst Monitor and SolO/STIX, demonstrating the feasibility and challenges associated with such observations, and how HXR directivity can be extracted by comparison with the modeling presented here.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Conditions for Relativistic Magnetic Reconnection under the Presence of Shear Flow and Guide Field</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24e8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24e8</guid>
-<content:encoded><![CDATA[
-<div> relativistic reconnection, shear flows, guide fields, Alfvén velocity, particle-in-cell simulations
-<br /><br />总结:
-本文研究了相对论性再连接流速度的缩放，同时考虑了沿着重新连接磁场的剪切流和指向重新连接平面外的引导场。在非相对论性再连接中，已发现超阿尔文剪切流会抑制再连接。我们将这一现象的分析模型扩展到相对论情况，并发现了类似的行为，这得到了粒子在单元模拟的证实。与非相对论极限不同的是，引导场的加入降低了平面内的阿尔文速度，导致了更慢的流出喷流以及在强磁化等离子体中更有效地抑制了再连接。 <div>
-The scaling of the relativistic reconnection outflow speed is studied in the presence of both shear flows parallel to the reconnecting magnetic fields and guide fields pointing out of the reconnection plane. In nonrelativistic reconnection, super-Alfvénic shear flows have been found to suppress reconnection. We extend the analytical model of this phenomenon to the relativistic regime and find similar behavior, which is confirmed by particle-in-cell simulations. Unlike the nonrelativistic limit, the addition of a guide field lowers the in-plane Alfvén velocity, contributing to slower outflow jets and the more efficient suppression of reconnection in strongly magnetized plasmas.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Relative Yield of Thermal and Nonthermal Emission during Weak Flares Observed by STIX during 2021 September 20–25</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2518</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2518</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳耀斑, 多波段观测, 热-非热能量, 等离子体参数, 太阳飞行器<br />
-总结: <br />本研究分析了2021年9月20日至25日期间太阳飞行器接收到的来自近距离观测的约200次较弱耀斑的多波段辐射数据。通过关联硬X射线通量和软X射线通量，并结合耀斑峰值软X射线通量，确定了强非热耀斑。对20次强非热弱耀斑的多波段观测结果表明硬X射线通量与辐射度存在反比关系，而与等离子体温度呈正相关。这表明在得到非热能量输入后，低密度环路中的等离子体温度比高密度环路中的温度更高。同时，研究结果进一步表明太阳耀斑最初阶段的等离子体参数对热-非热能量分配起着决定性作用。 <div>
-The disparate nature of the thermal–nonthermal energy partition during flares, particularly during weak flares, is still an open issue. Following the Neupert effect, quantifying the relative yield of X-ray emission in different energy bands can enable the inferring of the underlying energy release mechanism. During 2021 September 20–25, the Solar Orbiter mission—being closer to the Sun (∼0.6 au) and having a moderate separation angle (<40°) from the Sun–Earth line—offered a unique opportunity to analyze multiwavelength emission from ∼200 (mostly weak) flares, commonly observed by the Spectrometer Telescope for Imaging X-rays (STIX), STEREO-A, GOES, and the Solar Dynamics Observatory. Associating the quotient (qf) of hard X-ray fluence (12–20 keV) and soft X-ray flux (4–10 keV) with the peak soft X-ray flux enabled us to identify strongly nonthermal flares. A multiwavelength investigation of spectral and imaging-mode observations of the 20 strongly nonthermal weak flares reveals an inverse relationship of qf with the emission measure (and density), and a positive relationship with the flare plasma temperature. This indicates that the plasma in tenuous loops attains higher temperatures compared to that in the denser loops, in response to nonthermal energy deposition. This is in agreement with the plasma parameters of the coronal loops, as derived by applying the one-dimensional Palermo–Harvard hydrodynamical code to coronal loop plasma with different initial coronal loop base pressures when subjected to similar heating inputs. Our investigation, therefore, indicates that the plasma parameters of the flaring loop in the initial phase have a decisive role in the thermal–nonthermal energy partitioning.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Different Dependence of Narrow Hα Line Luminosity on Optical Continuum Luminosity between Star-forming Galaxies and Type 2 Active Galactic Nuclei: Globally Negative AGN Feedback in Local Type 2 AGN?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d0</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 活动星系核（AGN），Sloan数字化天空测量（SDSS），Hα谱线，星形成，负反馈<br />
-总结:<br />这篇手稿提供了支持低红移Sloan数字化天空测量（SDSS）Type 2 AGN宿主星系中全球负面活动星系核（AGN）反馈的线索，基于窄Hα发射线光度LHα和光学连续光度λLcont之间的不同依赖关系。研究发现，在Type 2 AGN中，λLcont和LHα的相关性显著低于星形成星系，即Type 2 AGN中的窄Hα发射线光度明显较低。此外，Dn（4000）和HδA的属性也提供了间接证据，支持Type 2 AGN中全球负面AGN反馈。本研究不仅支持局部Type 2 AGN中全球负面AGN反馈的存在，还展示了对全球负面AGN反馈对星形成抑制的量化。 <div>
-In this manuscript, clues are provided to support globally negative active galactic nuclei (AGN) feedback on star formation in the host galaxies of the local low-redshift Sloan Digital Sky Survey (SDSS) Type 2 AGN, based on the different dependence of narrow Hα line luminosity LHα on optical continuum luminosity λLcont between star-forming galaxies and Type 2 AGN. Through the measured LHα and λLcont in SDSS star-forming galaxies, there is a strong linear correlation between λLcont and LHα, accepted as a standard correlation without the effects of AGN activity. Meanwhile, considering the apparent contribution of AGN activity to the narrow Hα line emissions in Type 2 AGN, the correlation between λLcont and LHα in the SDSS Type 2 AGN leads to a statistically lower LHα in Type 2 AGN than in star-forming galaxies, with a significance level higher than 5σ, even after considering necessary effects (including effects of host galaxy properties), leading to the accepted conclusion on the globally negative AGN feedback in the local Type 2 AGN. Meanwhile, the properties of Dn(4000) and HδA can provide indirect clues to support the globally negative AGN feedback in local Type 2 AGN, due to older stellar ages in Type 2 AGN. Moreover, it is interesting to expect more than 50% narrow Hα emissions globally suppressed in the host galaxies of Type 2 AGN relative to the star-forming galaxies. The results not only support globally negative AGN feedback in local Type 2 AGN, but also show further clues on the quantification of suppressions of star formation by the globally negative AGN feedback.
-]]></content:encoded>
-<pubDate>2024-03-27T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad251d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad251d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Redshift measurements, host galaxies, SNe Ia, Dark Energy Survey 5 Yr, simulation <br />
-<br />
-该研究评估了主宇宙中心星系不匹配率以及来自Dark Energy Survey 5 Yr（DES-SN5YR）光度样本模拟的宇宙学参数偏差。他们发现1.7%的SNe匹配到错误的主星系，这导致了红移的错误。采用他们的分析流程，他们发现由于包括了匹配错误的SNe，暗能量状态参数（Δw）的偏差很小，远小于来自DES-SN5YR样本的不确定性。他们鼓励进一步的研究，通过更好的主星系匹配算法或选择性剔除来减小这种偏差。<br /><br />总结: 评估了SNe Ia的主星系匹配率和其对宇宙学参数的偏差；发现偏差远小于样本不确定性；鼓励进一步研究改进匹配算法。 <div>
-Redshift measurements, primarily obtained from host galaxies, are essential for inferring cosmological parameters from type Ia supernovae (SNe Ia). Matching SNe to host galaxies using images is nontrivial, resulting in a subset of SNe with mismatched hosts and thus incorrect redshifts. We evaluate the host galaxy mismatch rate and resulting biases on cosmological parameters from simulations modeled after the Dark Energy Survey 5 Yr (DES-SN5YR) photometric sample. For both DES-SN5YR data and simulations, we employ the directional light radius method for host galaxy matching. In our SN Ia simulations, we find that 1.7% of SNe are matched to the wrong host galaxy, with redshift differences between the true and matched hosts of up to 0.6. Using our analysis pipeline, we determine the shift in the dark energy equation of state parameter (Δw) due to including SNe with incorrect host galaxy matches. For SN Ia–only simulations, we find Δw = 0.0013 ± 0.0026 with constraints from the cosmic microwave background. Including core-collapse SNe and peculiar SNe Ia in the simulation, we find that Δw ranges from 0.0009 to 0.0032, depending on the photometric classifier used. This bias is an order of magnitude smaller than the expected total uncertainty on w from the DES-SN5YR sample of ∼0.03. We conclude that the bias on w from host galaxy mismatch is much smaller than the uncertainties expected from the DES-SN5YR sample, but we encourage further studies to reduce this bias through better host-matching algorithms or selection cuts.
-]]></content:encoded>
-<pubDate>2024-03-26T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
