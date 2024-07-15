@@ -4,6 +4,72 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Cholla-MHD: An Exascale-capable Magnetohydrodynamic Extension to the Cholla Astrophysical Simulation Code</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad464a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad464a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Cholla, MHD, GPU, exascale supercomputer, simulation
+
+总结:
+Cholla是一种GPU原生的天体物理流体动力学代码，现在扩展到了磁流体动力学（MHD）模拟。该代码利用GPU并行计算，在NVIDIA A100上的表现非常出色，可以实现极大规模的模拟。磁流体动力学模块经过测试，保持了高精度和可靠性。同时，引入了新的测试和CI工具，提高了开发的鲁棒性和准确性。 <div>
+We present an extension of the massively parallel, GPU native, astrophysical hydrodynamics code Cholla to magnetohydrodynamics (MHD). Cholla solves the ideal MHD equations in their Eulerian form on a static Cartesian mesh utilizing the Van Leer + constrained transport integrator, the HLLD Riemann solver, and reconstruction methods at second and third order. Cholla’s MHD module can perform ≈260 million cell updates per GPU-second on an NVIDIA A100 while using the HLLD Riemann solver and second order reconstruction. The inherently parallel nature of GPUs combined with increased memory in new hardware allows Cholla’s MHD module to perform simulations with resolutions ∼5003 cells on a single high-end GPU (e.g., an NVIDIA A100 with 80 GB of memory). We employ GPU direct Message Passing Interface to attain excellent weak scaling on the exascale supercomputer Frontier, while using 74,088 GPUs and simulating a total grid size of over 7.2 trillion cells. A suite of test problems highlights the accuracy of Cholla’s MHD module and demonstrates that zero magnetic divergence in solutions is maintained to round off error. We also present new testing and CI tools using GoogleTest, GitHub Actions, and Jenkins that have made development more robust and accurate and ensure reliability in the future.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Cloud Dissipation and Disk Wind in the Late Phase of Star Formation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4997</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4997</guid>
+<content:encoded><![CDATA[
+<div> 磁流体动力学, 恒星形成, 盘形成, 磁性制动, 螺旋结构
+
+长期模拟研究恒星和盘的形成过程，采用三维非理想磁流体动力学。模拟从原恒星云开始，经过盘的长期演化，最终距离原恒星形成约1.5x10^5年。主要的磁力制动和磁驱动的流出作用导致主要的吸积阶段盘的大小约为50天文单位并且主要没有次级结构。当流出突破云层时，导致包层质量迅速减少，主要吸积阶段结束。流出在质量吸积率减小的同时也减弱。盘的包层吸积结束后，盘逐渐增长并出现瞬时的螺旋结构，这是由于引力不稳定性导致的。当包层吸积结束后，盘变得稳定并且达到约300天文单位大小。此外，约30%的初始云质量被流出排斥。研究的一个重要发现是，包层消散后，流出出现再次活跃，盘表面有质量排出，这种排出（或盘风）是因为此时磁压显著支配了盘的上下方面的动压和热压。利用估计的角动量通量和质量损失率，估算盘消散的时间尺度约为10^6年。 <br><br>总结: 本研究使用三维非理想磁流体动力学模拟了恒星和盘的形成过程。模拟表明，磁性制动和磁驱动的流出在主要的吸积阶段起到重要作用。当主要吸积阶段结束后，盘逐渐增长并发展出临时的螺旋结构，最终盘变得稳定并且达到较大规模。研究还发现，包层消散后，盘表面出现质量排出，推测盘的消散时间尺度约为10^6年。 <div>
+We perform a long-term simulation of star and disk formation using three-dimensional nonideal magnetohydrodynamics. The simulation starts from a prestellar cloud and proceeds through the long-term evolution of the circumstellar disk until ∼1.5 × 105 yr after protostar formation. The disk has size ≲50 au and little substructure in the main accretion phase because of the action of magnetic braking and the magnetically driven outflow to remove angular momentum. The main accretion phase ends when the outflow breaks out of the cloud, causing the envelope mass to decrease rapidly. The outflow subsequently weakens as the mass accretion rate also weakens. While the envelope-to-disk accretion continues, the disk grows gradually and develops transient spiral structures, due to gravitational instability. When the envelope-to-disk accretion ends, the disk becomes stable and reaches a size ≳300 au. In addition, about 30% of the initial cloud mass has been ejected by the outflow. A significant finding of this work is that after the envelope dissipates a revitalization of the wind occurs, and there is mass ejection from the disk surface that lasts until the end of the simulation. This mass ejection (or disk wind) is generated because the magnetic pressure significantly dominates both the ram pressure and thermal pressure above and below the disk at this stage. Using the angular momentum flux and mass-loss rate estimated from the disk wind, the disk dissipation timescale is estimated to be ∼106 yr.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Bursting with Feedback: The Relationship between Feedback Model and Bursty Star Formation Histories in Dwarf Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a5</guid>
+<content:encoded><![CDATA[
+<div> 高分辨率宇宙学模拟，超微弱矮星系，星体形成历史，次网格超新星反馈模型，暗物质核心。
+
+核心形成与星体质量分数相关，次网格超新星模型在较高质量处产生突发的星体形成历史，可预测核心形成，低质量矮星系的暗物质密度轮廓与观测不符，连续的星体形成和反馈可在较高质量处形成暗物质核心。超泡和冲击波反馈模型产生的星体形成历史的爆发性程度不同，对暗物质核心的形成影响较大。总结：<br><br>高分辨率宇宙学模拟对研究超微弱矮星系的结构和演化具有重要意义。次网格超新星反馈模型可以预测暗物质核心的形成，但在低质量矮星系中存在一些不足。星体的形成历史对暗物质核心的形成有重要影响。 <div>
+Due to their inability to self-regulate, ultrafaint dwarfs are sensitive to prescriptions in subgrid physics models that converge and regulate at higher masses. We use high-resolution cosmological simulations to compare the effect of bursty star formation histories (SFHs) on dwarf galaxy structure for two different subgrid supernova (SN) feedback models, superbubble and blastwave, in dwarf galaxies with stellar masses from 5000 < M*/M⊙ < 109. We find that in the “MARVEL-ous Dwarfs” suite both feedback models produce cored galaxies and reproduce observed scaling relations for luminosity, mass, and size. Our sample accurately predicts the average stellar metallicity at higher masses, however low-mass dwarfs are metal poor relative to observed galaxies in the Local Group. We show that continuous bursty star formation and the resulting stellar feedback are able to create dark matter (DM) cores in the higher dwarf galaxy mass regime, while the majority of ultrafaint and classical dwarfs retain cuspy central DM density profiles. We find that the effective core formation peaks at M*/Mhalo ≃ 5 × 10−3 for both feedback models. Both subgrid SN models yield bursty SFHs at higher masses; however, galaxies simulated with superbubble feedback reach maximum mean burstiness values at lower stellar mass fractions relative to blastwave feedback. As a result, core formation may be better predicted by stellar mass fraction than the burstiness of SFHs.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Searching for Evidence of Subchromospheric Magnetic Reconnection on the Sun</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a6e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a6e</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 星冕, 低第一电离能元素, FIP效应, 逆FIP效应, 磁重连
+总结:
+本研究使用Chintzoglou & Zhang的3D可视化技术结合11504太阳活动区星冕中的局部逆FIP效应观测，确定了磁重连的潜在位置以及在太阳大气中可能产生的后果。我们在太阳黑子光桥之间的磁通管内观察到了周期性加热和重连流的微妙迹象。此外，在光桥的两侧，我们观察到了小的反平行水平磁场分量，支持了我们观测到逆FIP等离子体的重连可能发生的地方。当这些微妙迹象与逆FIP效应观测结果结合在一起时，这为太阳色球分层下重连的间接观测证据提供了有力支持，然而直接证据仍然难以获得。 <br><br> <div>
+Within the coronae of stars, abundances of those elements with low first ionization potential (FIP) often differ from their photospheric values. The coronae of the Sun and solar-type stars mostly show enhancements of low-FIP elements (the FIP effect) while more active stars such as M dwarfs have coronae generally characterized by the inverse-FIP (I-FIP) effect. Highly localized regions of I-FIP effect solar plasma have been observed by Hinode's EUV Imaging Spectrometer in a number of highly complex active regions (ARs), usually around strong light bridges of the umbrae of coalescing/merging sunspots. These observations can be interpreted in the context of the ponderomotive force fractionation model, which predicts that plasma with I-FIP effect composition is created by the refraction of waves coming from below the plasma fractionation region in the chromosphere. A plausible source of these waves is thought to be reconnection in the (high-plasma-β) subchromospheric magnetic field. In this study, we use the 3D visualization technique of Chintzoglou & Zhang combined with observations of localized I-FIP effect in the corona of AR 11504 to identify potential sites of such reconnection and its possible consequences in the solar atmosphere. We found subtle signatures of episodic heating and reconnection outflows in the expected places, in between magnetic flux tubes forming a light bridge, within the photosphere of the AR. Furthermore, on either side of the light bridge, we observed small antiparallel horizontal magnetic field components, supporting the possibility of reconnection occurring where we observe I-FIP plasma. When taken together with the I-FIP effect observations, these subtle signatures provide a compelling case for indirect observational evidence of reconnection below the fractionation layer of the chromosphere, however direct evidence remains elusive.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Solar Models and Astrophysical S-factors Constrained by Helioseismic Results and Updated Neutrino Fluxes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d87</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d87</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳丰度问题, 太阳表面实验, 太阳模型, 中微子流量, 核反应因子 <br>
+<br>
+太阳丰度问题是太阳模型中的持续争论话题。研究人员构建了旋转太阳模型，并分析了不同丰度尺度对模型的影响。他们发现，使用Magg的丰度尺度的模型具有更好的声速和密度轮廓，能够复制观测到的频率分离比例r02和r13，以及与地震推断的表面氦丰度和对流区深度相匹配。此外，模拟的中微子流量与检测到的中微子流量一致。研究人员还发现，核反应会对中微子流量和密度轮廓产生影响，可以用于诊断天体物理S因子。利用更新的中微子流量和地震推断结果所偏爱的S因子可能会显著改善太阳模型。 <br><br>总结: 太阳丰度问题是太阳模型中的持续争论话题。研究人员发现使用Magg的丰度尺度的模型在多个方面具有优势，并对S因子的研究有所启发。 <div>
+The ratio of metal abundance to hydrogen abundance of the solar photosphere, (Z/X)s, has been revised several times. Standard solar models, based on these revised solar abundances, are in disagreement with seismically inferred results. Recently, Magg et al. introduced a new value for (Z/X)s, which is still under debate in the community. The solar abundance problem or solar modeling problem remains a topic of ongoing debate. We constructed rotating solar models in accordance with various abundance scales where the effects of convection overshoot and enhanced diffusion were included. Among these models, those utilizing Magg’s abundance scale exhibit superior sound speed and density profiles compared to models using other abundance scales. Additionally, they reproduce the observed frequency separation ratios r02 and r13. These models also match the seismically inferred surface helium abundance and convection zone depth within the 1σ level. Furthermore, the calculated neutrino fluxes from these models agree with detected ones at the level of 1σ. We found that neutrino fluxes and density profile are influenced by nuclear reactions, allowing us to use the combination of detected neutrino fluxes and seismically inferred density for diagnosing astrophysical S-factors. This diagnostic approach shows that S11 may be underestimated by 2%, while S33 may be overestimated by about 3% in previous determinations. The S-factors favored by updated neutrino fluxes and helioseismic results can lead to significant improvements in solar models.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Mid-term Periodicity of Coronal Mass Ejections during the Time Interval 1996–2022</title>
