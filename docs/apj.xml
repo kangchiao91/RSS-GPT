@@ -4,6 +4,56 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Mid-term Periodicity of Coronal Mass Ejections during the Time Interval 1996–2022</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d9f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d9f</guid>
+<content:encoded><![CDATA[
+<div> 关键词: CMEs, 连续小波变换方法, 太阳圈层天文台, 太阳周期, 太阳极向<br>
+<br>
+CMEs是太阳大气事件的关键组成部分，其周期性变化对于理解太阳大尺度磁场的循环演化至关重要。本文利用太阳和日球际观测卫星的CDAW目录，采用连续小波变换方法，对CME的速度和加速度进行分析。研究结果发现，不同速度的CME在时间上的分布存在明显差异，出现了Rieger型周期和准二年振荡的CME。这两种周期信号在太阳23和24周期中有显著差异。此外，北半球和南半球的周期性模式也存在差异。文章对结果进行了潜在机制和解释的讨论。<br><br>总结: CME是太阳大气事件的关键组成部分，其周期性变化对于理解太阳大尺度磁场的循环演化至关重要。文章利用CDAW目录和连续小波变换方法对CME进行了分析，发现了不同速度CME的时间分布差异、Rieger型周期和准二年振荡的CME等现象，并讨论了太阳23和24周期中的差异以及北半球和南半球的周期性模式差异。 <div>
+Coronal mass ejections (CMEs) exhibit a wide range of quasiperiodic variations and are crucial for our understanding of the cyclical evolution of large-scale magnetic fields. However, the mid-term periodicities of different types of CMEs associated with different processes at the source location need to be clearly understood. Based on the CDAW catalog released by the Large Angle and Spectroscopic Coronagraph mission on the Solar and Heliospheric Observatory, we investigated the period of CMEs based on the speeds and accelerations using the continuous wavelet transformation method. Our results revealed that the distribution of CMEs over time is quite distinctly different for different speeds, and there are Rieger-type periods and quasi-biennial oscillations of the CMEs. The two types of periodic signals show significant differences in solar cycles 23 and 24. Furthermore, the periodicity patterns for the northern hemisphere differ from those in the southern hemisphere. The potential mechanisms and explanations of the results are also discussed.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The JWST Resolved Stellar Populations Early Release Science Program. VII. Stress Testing the NIRCam Exposure Time Calculator</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4e2f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4e2f</guid>
+<content:encoded><![CDATA[
+<div> 观测，James Webb Space Telescope, NIRCam, 信噪比，观测数据，测光精度
+总结:
+观测了局部星系目标的解析星的数据，使用 James Webb Space Telescope NIRCam Exposure Time Calculator (ETC) v3.0 进行了实证评估。对于明亮的恒星，发现ETC和观测之间的纯泊松估计的信噪比一致良好，但非理想效应是目前可以达到的光度精度的限制因素。对于暗淡的恒星，发现ETC的信噪比估计受到光度精度影响的选择，可以影响曝光时间的估计长达5倍。最后，还量化了拥挤对信噪比的影响，并提供了估计ETC预测拥挤效应的指导方针。 <div>
+We empirically assess estimates from v3.0 of the James Webb Space Telescope NIRCam Exposure Time Calculator (ETC) using observations of resolved stars in Local Group targets taken as part of the Resolved Stellar Populations Early Release Science (ERS) Program. For bright stars, we find that (i) purely Poissonian estimates of the signal-to-noise ratio (SNR) are in good agreement between the ETC and observations, but nonideal effects (e.g., flat-field uncertainties) are the current limiting factor in the photometric precision that can be achieved; (ii) source position offsets, relative to the detector pixels, have a large impact on the ETC saturation predictions and introducing subpixel dithers in the observation design can improve the saturation limits by up to ∼1 mag. For faint stars, for which the sky dominates the error budget, we find that the choice in the ETC extraction strategy (e.g., aperture size relative to point-spread function size) can affect the exposure time estimates by up to a factor of 5. We provide guidelines for configuring the ETC aperture photometry to produce SNR predictions in line with the ERS data. Finally, we quantify the effects of crowding on the SNRs over a large dynamic range in stellar density and provide guidelines for approximating the effects of crowding on SNRs predicted by the ETC.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Quantitative Comparisons between WSA Implementations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50c9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50c9</guid>
+<content:encoded><![CDATA[
+<div> solar coronal magnetic field, WSA model, spherical harmonic expansion, finite-difference potential field solutions, side-by-side comparisons<br>总结:<br>该论文比较了传统的基于球谐展开的WSA模型实现和最近开源的有限差分代码POT3D所产生的WSA模型。比较了模型的末端太阳风速度和磁场，观察了在计算过程、参数和输入微小扰动的情况下WSA模型的变化。同时比较了外边界处磁场线的足点和模型中开放磁场的位置。研究发现，追踪的磁场线足点显示出显著的一致性，在磁中性线和极区存在最大差异。 <div>
+The Wang–Sheeley–Arge (WSA) model has been in use for decades and remains a popular, economical approach to modeling the solar coronal magnetic field and forecasting conditions in the inner heliosphere. Given its usefulness, it is unsurprising that a number of WSA implementations have been developed by various groups with different computational approaches. While the WSA magnetic field model has traditionally been calculated using a spherical harmonic expansion of the solar magnetic field, finite-difference potential field solutions can offer speed and/or accuracy advantages. However, the creation of new versions of WSA requires that we ensure the solutions from these new models are consistent with established versions and that we quantify for the user community to what degree and in what ways they differ. In this paper, we present side-by-side comparisons of WSA models produced using the traditional, spherical harmonic–based implementation developed by Wang, Sheeley, and Arge with WSA models produced using a recently open-sourced finite-difference code from the CORHEL modeling suite called POT3D. We present comparisons of the terminal solar wind speed and magnetic field at the outer boundaries of the models, weighing these against the variation of the WSA model in the presence of small perturbations in the computational procedure, parameters, and inputs. We also compare the footpoints of magnetic field lines traced from the outer boundaries and the locations of open field in the models. We find that the traced field-line footpoints show remarkable agreement, with the greatest differences near the magnetic neutral line and in the polar regions.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Disk Assembly of the Milky Way Suggested from the Time-resolved Chemical Abundance</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5952</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5952</guid>
+<content:encoded><![CDATA[
+<div> 星系盘、气体流入、恒星形成、化学丰度、银河系<br>
+总结:<br>
+研究发现，银河系的形成与宇宙中其他星系的盘形成具有密切联系。星系盘的组装受到同一平面内的气体流入、平面外的气体流出以及盘内恒星形成的相互影响。最新的光谱和光度调查表明，银河系的镁丰度和星形成速率在不同的回顾时间内呈现出不同的径向分布。这些结果与"泄漏式吸积盘"模型的预测相吻合，支持了银河系的组装是符合该模型的。另外，银河系的有效产出约束与恒星化学演化模型的理论预测也基本一致。这些结果将我们对银河系盘的形成贯穿到了宇宙中其他星系盘形成的大局之中。 <div>
+Both simulations and observations suggest that the disk assembly of galaxies is governed by the interplay between coplanar gas inflow, ex-planar gas outflow, and in situ star formation on the disk, known as the leaky accretion disk. This scenario predicts a strong connection between radial distributions of star formation and chemical abundances. The Milky Way, being the sole Galaxy where we can reliably measure star formation histories and the corresponding temporally resolved chemical abundances with individual stars, provides a unique opportunity to scrutinize this scenario. Based on the recent large spectroscopic and photometric surveys of Milky Way stars, we obtain the radial profiles of magnesium abundance ([Mg/H]) and star formation rate surface density at different lookback times. We find the radial profiles of [Mg/H] can be well-reproduced using the leaky accretion disk model with only two free parameters for stars formed within 4 Gyr, as well as the flattening at large radii of metallicity profiles traced by H ii regions and Cepheids. Furthermore, the constraint effective yield of the Milky Way and nearby galaxies shows broad consistency with the theoretical predictions from the stellar chemical evolution model with a mass-loading factor of 0–2. These results support that the recent assembly of the Milky Way adheres to the leaky accretion disk scenario, bridging the disk formation of our home Galaxy to the big picture of disk formation in the Universe.
+]]></content:encoded>
+
+<pubDate>2024-07-14T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Earliest Galaxies in the JADES Origins Field: Luminosity Function and Cosmic Star Formation Rate Density 300 Myr after the Big Bang</title>
