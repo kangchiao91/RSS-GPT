@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>AGEL: Is the Conflict Real? Investigating Galaxy Evolution Models Using Strong Lensing at 0.3 < z < 0.9</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce3</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: 总质量分布, 强引力透镜, 透镜建模, 红移, 动力学观测
 
-总结: 本文介绍了对AGEL调查中七个星系尺度透镜的透镜模型。利用HST/WFC3-F140W图像和GLEE软件进行建模，测量了折射器星系的总密度分布和γ-z关系。通过比较观测和模型预测的速度离散度，验证了透镜模型；得出平均密度梯度斜率为-1.95±0.09和γ-z关系在z<1时不随红移变化的结论。文章指出观测和模拟之间的冲突可能是由于透镜和动力学模型中的系统误差，观测与模拟之间的比较难度，以及假定总质量分布为简单的幂律。AGEL调查将提供更多zdefl>0.5的透镜，为当前理论模型预测的质量分布随红移演化提供更强的约束。<br><br> <div>
+总结: 本文介绍了对AGEL调查中七个星系尺度透镜的透镜模型。利用HST/WFC3-F140W图像和GLEE软件进行建模，测量了折射器星系的总密度分布和γ-z关系。通过比较观测和模型预测的速度离散度，验证了透镜模型；得出平均密度梯度斜率为-1.95±0.09和γ-z关系在z<1时不随红移变化的结论。文章指出观测和模拟之间的冲突可能是由于透镜和动力学模型中的系统误差，观测与模拟之间的比较难度，以及假定总质量分布为简单的幂律。AGEL调查将提供更多zdefl>0.5的透镜，为当前理论模型预测的质量分布随红移演化提供更强的约束。<br /><br /> <div>
 Observed evolution of the total mass distribution with redshift is crucial to testing galaxy evolution theories. To measure the total mass distribution, strong gravitational lenses complement the resolved dynamical observations that are currently limited to z ≲ 0.5. Here we present the lens models for a pilot sample of seven galaxy-scale lenses from the ASTRO3D Galaxy Evolution with Lenses (AGEL) survey. The AGEL lenses, modeled using HST/WFC3-F140W images with Gravitational Lens Efficient Explorer (GLEE) software, have deflector redshifts in the range 0.3 < zdefl < 0.9. Assuming a power-law density profile with slope γ, we measure the total density profile for the deflector galaxies via lens modeling. We also measure the stellar velocity dispersions (σobs) for four lenses and obtain σobs from SDSS-BOSS for the remaining lenses to test our lens models by comparing observed and model-predicted velocity dispersions. For the seven AGEL lenses, we measure an average density profile slope of −1.95 ± 0.09 and a γ–z relation that does not evolve with redshift at z < 1. Although our result is consistent with some observations and simulations, it differs from other studies at z < 1 that suggest the γ–z relation evolves with redshift. The apparent conflicts among observations and simulations may be due to a combination of (1) systematics in the lensing and dynamical modeling; (2) challenges in comparing observations with simulations; and (3) assuming a simple power law for the total mass distribution. By providing more lenses at zdefl > 0.5, the AGEL survey will provide stronger constraints on whether the mass profiles evolve with redshift as predicted by current theoretical models.
 ]]></content:encoded>
-
 <pubDate>2024-07-17T23:00:00Z</pubDate>
 </item>
 <item>
@@ -26,11 +26,10 @@ Observed evolution of the total mass distribution with redshift is crucial to te
 
 这篇文章研究了小尺度动力机的特性，其中假设速度场的相关时间为零。然后使用不为零的相关时间模型来研究动力机性能的影响。文章假设速度场为不可压缩的高斯随机场，并在傅里叶空间中推导了磁场的两点相关的演化方程的最低阶修正。然后得到了在非螺旋紊流中磁场的纵向相关函数（ML）的演化方程，该方程适用于任意的普朗特尔数。在高普朗特尔数的极限下进一步简化了这个方程，并发现磁场能量的增长率比先前报道的要小得多。尽管如此，磁场功率谱仍然在高普朗特尔数下保留了 Kazantsev形式。 
 
-<br><br>总结: 
+<br /><br />总结: 
 本文研究了小尺度动力机的特性，使用了不同的相关时间模型，并得到了磁场的演化方程。在高普朗特尔数的极限下发现磁场能量的增长率较先前报道的要小，但磁场功率谱仍保留了Kazantsev形式。 <div>
 The small-scale dynamo is typically studied by assuming that the correlation time of the velocity field is zero. Some authors have used a smooth renovating flow model to study how the properties of the dynamo are affected by the correlation time being nonzero. Here, we assume the velocity is an incompressible Gaussian random field (which need not be smooth), and derive the lowest-order corrections to the evolution equation for the two-point correlation of the magnetic field in Fourier space. Using this, we obtain the evolution equation for the longitudinal correlation function of the magnetic field (ML) in nonhelical turbulence, valid for arbitrary Prandtl number. The nonresistive terms of this equation do not contain spatial derivatives of ML of order greater than 2. We further simplify this equation in the limit of high Prandtl number, and find that the growth rate of the magnetic energy is much smaller than previously reported. Nevertheless, the magnetic power spectrum still retains the Kazantsev form at high Prandtl number.
 ]]></content:encoded>
-
 <pubDate>2024-07-16T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,13 +39,11 @@ The small-scale dynamo is typically studied by assuming that the correlation tim
 <content:encoded><![CDATA[
 <div> 关键词: 宇宙学，暗能量，宇宙扩张，宇宙学参数，MCMC分析
 
-总结:<br><br>本文介绍了通过宇宙学参数对扩展的平面引力模型进行限制的方法。研究人员使用了马尔可夫链蒙特卡洛分析来处理包括宇宙年代测量、重子声学振荡和Pantheon+SH0ES在内的三个数据集，以获得受限制的结果。然后，他们将这些结果与各种宇宙参数进行比较和验证，并与三个知名模型做出比较。该研究表明，宇宙学参数是限制宇宙学模型的有力工具，对于更好地理解宇宙的动力学和暗能量等方面具有重要意义。 <div>
+总结:<br /><br />本文介绍了通过宇宙学参数对扩展的平面引力模型进行限制的方法。研究人员使用了马尔可夫链蒙特卡洛分析来处理包括宇宙年代测量、重子声学振荡和Pantheon+SH0ES在内的三个数据集，以获得受限制的结果。然后，他们将这些结果与各种宇宙参数进行比较和验证，并与三个知名模型做出比较。该研究表明，宇宙学参数是限制宇宙学模型的有力工具，对于更好地理解宇宙的动力学和暗能量等方面具有重要意义。 <div>
 As a classical approach, the dynamics of the Universe, influenced by its dark components, are unveiled through prior modifications of Einstein’s equations. Cosmography, on the other hand, is a highly efficient tool for reconstructing any modified theory in a model-independent manner. By employing kinematic variables, it offers a profound explanation for cosmic expansion. Although the cosmographical approach has been highly successful in several geometric theories in recent years, it has not been extensively explored in coupled gravities. With this in mind, we intend to constrain an extended teleparallel gravity model, , through cosmographic parameters. We utilize Taylor series expansion, assuming a minimally coupled form, to constrain the unknowns involved in the series. To achieve this, we conduct a Markov Chain Monte Carlo (MCMC) analysis using three different data sets (cosmic chronometers, baryon acoustic oscillations, and Pantheon+SH0ES). The constrained results obtained from MCMC are then compared and verified using various cosmological parameters. Finally, we compare the resulting models with three well-known models.
 ]]></content:encoded>
-
 <pubDate>2024-07-16T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>VLBA Astrometry of the Galactic Double Neutron Stars PSR J0509+3801 and PSR J1930–1852: A Preliminary Transverse Velocity Distribution of Double Neutron Stars and its Implications</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4883</link>
@@ -11546,43 +11543,6 @@ The ever-growing sample of observed supernovae (SNe) enhances our capacity for c
 <br /><br />总结:
 本研究探讨了引力波和星系调查之间的协同作用，以共同限制宇宙学和引力波种群参数。研究引入了CHIMERA，这是一种新颖的引力波宇宙学代码，结合了紧凑双子融合体的种群特性和星系目录的信息。研究发现，在LIGO-Virgo-KAGRA O4和O5观测运行的代表性情景中，利用光谱或光度红移测量的星系目录，可以实现对H0的百分之一级测量。此外，文章还强调了未来获得光谱星系目录的重要性，以最大化引力波宇宙学的科学收益。 <div>
 With the growing number of gravitational wave (GW) detections and the advent of large galaxy redshift surveys, a new era in cosmology is emerging. This study explores the synergies between GWs and galaxy surveys to jointly constrain cosmological and GW population parameters. We introduce CHIMERA, a novel code for GW cosmology combining information from the population properties of compact binary mergers and galaxy catalogs. We study constraints for scenarios representative of the LIGO-Virgo-KAGRA O4 and O5 observing runs, assuming to have a complete catalog of potential host galaxies with either spectroscopic or photometric redshift measurements. We find that a percent-level measurement of H0 could be achieved with the best 100 binary black holes (BBHs) in O5 using a spectroscopic galaxy catalog. In this case, the intrinsic correlation that exists between H0 and the BBH population mass scales is broken. Instead, by using a photometric catalog the accuracy is degraded up to a factor of ∼9, leaving a significant correlation between H0 and the mass scales that must be carefully modeled to avoid bias. Interestingly, we find that using spectroscopic redshift measurements in the O4 configuration yields a better constraint on H0 compared to the O5 configuration with photometric measurements. In view of the wealth of GW data that will be available in the future, we argue the importance of obtaining spectroscopic galaxy catalogs to maximize the scientific return of GW cosmology.
-]]></content:encoded>
-<pubDate>2024-03-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24d2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24d2</guid>
-<content:encoded><![CDATA[
-<div> PDS 70, massive planets, protoplanetary disk, CO isotopologue, gas structure
-
-PDS 70是一个拥有两颗质量巨大的行星的原行星盘，其倾斜的盘面结构为直接探测行星盘垂直气体结构提供了独特的机会。采用高空间分辨率观测了一系列CO同位素线和HCO+J = 4−3，从盘面气体结构(由12CO描绘)到接近盘面(由含量较少的同位素和HCO+描绘)绘制了完整的二维（r，z）盘面结构。在PDS 70盘面上，12CO追踪高度z/r约为0.3，13CO位于z/r约为0.1，C18O起源于盘面或附近。HCO+的表面出现在z/r约为0.2，是为数不多的在盘上得到高保真度约束的非CO发射表面之一。在12CO J = 3−2线中，我们解析了一个在空洞壁上高度的垂直下降和急剧上升，使得PDS 70成为第一个直接在发射线高度上看到这种效应的过渡盘。在外盘中，PDS 70的CO发射高度似乎对其恒星质量和盘尺寸来说是典型的，并且并不受到两个内部嵌入的行星的实质性改变。通过结合CO同位素和HCO+线，我们得出了二维气体温度结构，并估算出一个约为56-85天文单位的盘面CO雪线。这意味着PDS 70b和70c都位于CO雪线内部，并且很可能正在吸积具有高C/O比约为1.0的气体，这为未来从JWST（詹姆斯·韦伯太空望远镜）等方面测量行星大气和正确地建模它们的形成历史提供了背景。 <br /><br />总结: PDS 70拥有两颗质量巨大的行星而且其盘面结构倾斜，通过CO同位素和HCO+线观测得出了该行星盘的二维气体温度结构，估算出了盘面CO雪线的位置，在盘中心拥有高C/O比的气体，这为未来行星大气测量和形成历史建模提供了重要背景。 <div>
-PDS 70 hosts two massive, still-accreting planets and the inclined orientation of its protoplanetary disk presents a unique opportunity to directly probe the vertical gas structure of a planet-hosting disk. Here, we use high-spatial-resolution (≈0.″1; 10 au) observations in a set of CO isotopologue lines and HCO+J = 4−3 to map the full 2D (r, z) disk structure from the disk atmosphere, as traced by 12CO, to closer to the midplane, as probed by less abundant isotopologues and HCO+. In the PDS 70 disk, 12CO traces a height of z/r ≈ 0.3, 13CO is found at z/r ≈ 0.1, and C18O originates at, or near, the midplane. The HCO+ surface arises from z/r ≈ 0.2 and is one of the few non-CO emission surfaces constrained with high-fidelity in disks to date. In the 12CO J = 3−2 line, we resolve a vertical dip and steep rise in height at the cavity wall, making PDS 70 the first transition disk where this effect is directly seen in line-emitting heights. In the outer disk, the CO emission heights of PDS 70 appear typical for its stellar mass and disk size and are not substantially altered by the two inner embedded planets. By combining CO isotopologue and HCO+ lines, we derive the 2D gas temperature structure and estimate a midplane CO snowline of ≈ 56–85 au. This implies that both PDS 70b and 70c are located interior to the CO snowline and are likely accreting gas with a high C/O ratio of ≈ 1.0, which provides context for future planetary atmospheric measurements from, e.g., JWST, and for properly modeling their formation histories.
-]]></content:encoded>
-<pubDate>2024-03-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Multiwavelength Study of the Hard and Soft States of MAXI J1820+070 During Its 2018 Outburst</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24ef</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24ef</guid>
-<content:encoded><![CDATA[
-<div> AstroSat, MAXI J1820+070 outburst, multiwavelength spectral analysis, BH spin parameter, hard state optical/UV excess
-<br />
-<br />
-MAXI J1820+070在2018年爆发期间进行了多波段光谱分析，利用AstroSat远紫外、软X射线和硬X射线数据，以及Las Cumbres Observatory和NICER的（准）同时光学和X射线数据。在软态中，研究发现软X射线和UV/光学存在过量成分，而硬态中光学/UV也有显著过量成分，表明外圆盘中存在更强的重新辐射。通过具体的光谱拟合，确定了BH自旋参数以及盘的密度和内盘结构。硬态中还观察到了两个成分的冕，并分析了它们所产生的反射特征。<br /><br />总结: <div>
-We present a comprehensive multiwavelength spectral analysis of the black hole (BH) X-ray binary MAXI J1820+070 during its 2018 outburst, utilizing AstroSat far-UV, soft X-ray, and hard X-ray data, along with (quasi-)simultaneous optical and X-ray data from the Las Cumbres Observatory and NICER, respectively. In the soft state, we detect soft X-ray and UV/optical excess components over and above the intrinsic accretion disk emission (kTin ∼ 0.58 keV) and a steep X-ray power-law component. The soft X-ray excess is consistent with a high-temperature blackbody (kT ∼ 0.79 keV), while the UV/optical excess is described by UV emission lines and two low-temperature blackbody components (kT ∼ 3.87 and ∼0.75 eV). Employing continuum spectral fitting, we determine the BH spin parameter (a = 0.77 ± 0.21), using the jet inclination angle of 64° ± 5° and a mass spanning 5–10 M☉. In the hard state (HS), we observe a significantly enhanced optical/UV excess component, indicating a stronger reprocessed emission in the outer disk. Broadband X-ray spectroscopy in the HS reveals a two-component corona, each associated with its reflection component, in addition to the disk emission (kTin ∼ 0.19 keV). The softer coronal component dominates the bolometric X-ray luminosity and produces broader relativistic reflection features, while the harder component gets reflected far from the inner disk, yielding narrow reflection features. Furthermore, our analysis in the HS suggests a substantial truncation of the inner disk (≳51 gravitational radii) and a high disk density (∼1020 cm−3).
-]]></content:encoded>
-<pubDate>2024-03-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Size–Stellar Mass Relation and Morphology of Quiescent Galaxies at z ≥ 3 in Public JWST Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2512</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2512</guid>
-<content:encoded><![CDATA[
-<div> quiescent galaxies, JWST, size, stellar mass, redshift
-总结:
-本研究利用James Webb太空望远镜(NIRCam)对z ≥ 3的静止星系的光学形态进行了系统研究。通过UVJ颜色或NUVUVJ颜色选择样本，重点关注了26个zphot介于2.8和4.6之间的静止星系，利用NIRCam图像拟合Sérsic模型约束它们的大小。我们发现观测波长与大小之间呈负相关，并通过多波段的大小测量推导了它们在0.5微米处的大小。在z ≥ 3时期，我们的静止星系表现出了在0.5微米处的大小与恒星质量之间显著的相关性。我们的分析结果显示，相较于较低红移时期，我们的大小-恒星质量关系较低，当M⋆ = 5 × 1010M⊙时振幅约为0.6千秒差距。样本主要包括具有类似球状结构的星系，其平均Sérsic指数和轴比分别约为n ∼ 3-4和q ∼ 0.6-0.8。另一方面，我们观察到低Sérsic指数星系的比例随着红移的增加而增加，这表明3 < z < 5可能是形态转变开始的时期，出现了一定比例的非常明显的扁盘状已停止形成星系。 <div>
-We present the results of a systematic study of the rest-frame optical morphology of quiescent galaxies at z ≥ 3 using the Near-Infrared Camera (NIRCam) on board the James Webb Space Telescope (JWST). Based on a sample selected by UVJ color or NUVUVJ color, we focus on 26 quiescent galaxies with at 2.8 < zphot < 4.6 with publicly available JWST data. Their sizes are constrained by fitting the Sérsic profile to all available NIRCam images. We see a negative correlation between the observed wavelength and the size and derive their size at the rest frame 0.5 μm using size measurements in multiple bands. Our quiescent galaxies show a significant correlation between the rest-frame 0.5 μm size and the stellar mass at z ≥ 3. The analytical fit for them at implies that our size–stellar mass relations are below those at lower redshifts, with the amplitude of ∼0.6 kpc at M⋆ = 5 × 1010M⊙. This value agrees with the extrapolation of the size evolution of quiescent galaxies at z < 3 in the literature, implying that the size of quiescent galaxies increases monotonically from z ∼ 3–5. Our sample mainly comprises galaxies with bulge-like structures according to their median Sérsic index and axis ratio of n ∼ 3–4 and q ∼ 0.6–0.8, respectively. On the other hand, there is a trend of increasing fraction of galaxies with low Sérsic index at higher redshift, suggesting 3 < z < 5 might be the epoch of onset of morphological transformation with a fraction of very notable disky quenched galaxies.
 ]]></content:encoded>
 <pubDate>2024-03-29T00:00:00Z</pubDate>
 </item>
