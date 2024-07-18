@@ -4,6 +4,48 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>AGEL: Is the Conflict Real? Investigating Galaxy Evolution Models Using Strong Lensing at 0.3 < z < 0.9</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 总质量分布, 强引力透镜, 透镜建模, 红移, 动力学观测
+
+总结: 本文介绍了对AGEL调查中七个星系尺度透镜的透镜模型。利用HST/WFC3-F140W图像和GLEE软件进行建模，测量了折射器星系的总密度分布和γ-z关系。通过比较观测和模型预测的速度离散度，验证了透镜模型；得出平均密度梯度斜率为-1.95±0.09和γ-z关系在z<1时不随红移变化的结论。文章指出观测和模拟之间的冲突可能是由于透镜和动力学模型中的系统误差，观测与模拟之间的比较难度，以及假定总质量分布为简单的幂律。AGEL调查将提供更多zdefl>0.5的透镜，为当前理论模型预测的质量分布随红移演化提供更强的约束。<br><br> <div>
+Observed evolution of the total mass distribution with redshift is crucial to testing galaxy evolution theories. To measure the total mass distribution, strong gravitational lenses complement the resolved dynamical observations that are currently limited to z ≲ 0.5. Here we present the lens models for a pilot sample of seven galaxy-scale lenses from the ASTRO3D Galaxy Evolution with Lenses (AGEL) survey. The AGEL lenses, modeled using HST/WFC3-F140W images with Gravitational Lens Efficient Explorer (GLEE) software, have deflector redshifts in the range 0.3 < zdefl < 0.9. Assuming a power-law density profile with slope γ, we measure the total density profile for the deflector galaxies via lens modeling. We also measure the stellar velocity dispersions (σobs) for four lenses and obtain σobs from SDSS-BOSS for the remaining lenses to test our lens models by comparing observed and model-predicted velocity dispersions. For the seven AGEL lenses, we measure an average density profile slope of −1.95 ± 0.09 and a γ–z relation that does not evolve with redshift at z < 1. Although our result is consistent with some observations and simulations, it differs from other studies at z < 1 that suggest the γ–z relation evolves with redshift. The apparent conflicts among observations and simulations may be due to a combination of (1) systematics in the lensing and dynamical modeling; (2) challenges in comparing observations with simulations; and (3) assuming a simple power law for the total mass distribution. By providing more lenses at zdefl > 0.5, the AGEL survey will provide stronger constraints on whether the mass profiles evolve with redshift as predicted by current theoretical models.
+]]></content:encoded>
+
+<pubDate>2024-07-17T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Small-scale Dynamo with Nonzero Correlation Time</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee4</guid>
+<content:encoded><![CDATA[
+<div> 关键词: small-scale dynamo, correlation time, incompressible Gaussian random field, Fourier space, Prandtl number
+
+这篇文章研究了小尺度动力机的特性，其中假设速度场的相关时间为零。然后使用不为零的相关时间模型来研究动力机性能的影响。文章假设速度场为不可压缩的高斯随机场，并在傅里叶空间中推导了磁场的两点相关的演化方程的最低阶修正。然后得到了在非螺旋紊流中磁场的纵向相关函数（ML）的演化方程，该方程适用于任意的普朗特尔数。在高普朗特尔数的极限下进一步简化了这个方程，并发现磁场能量的增长率比先前报道的要小得多。尽管如此，磁场功率谱仍然在高普朗特尔数下保留了 Kazantsev形式。 
+
+<br><br>总结: 
+本文研究了小尺度动力机的特性，使用了不同的相关时间模型，并得到了磁场的演化方程。在高普朗特尔数的极限下发现磁场能量的增长率较先前报道的要小，但磁场功率谱仍保留了Kazantsev形式。 <div>
+The small-scale dynamo is typically studied by assuming that the correlation time of the velocity field is zero. Some authors have used a smooth renovating flow model to study how the properties of the dynamo are affected by the correlation time being nonzero. Here, we assume the velocity is an incompressible Gaussian random field (which need not be smooth), and derive the lowest-order corrections to the evolution equation for the two-point correlation of the magnetic field in Fourier space. Using this, we obtain the evolution equation for the longitudinal correlation function of the magnetic field (ML) in nonhelical turbulence, valid for arbitrary Prandtl number. The nonresistive terms of this equation do not contain spatial derivatives of ML of order greater than 2. We further simplify this equation in the limit of high Prandtl number, and find that the growth rate of the magnetic energy is much smaller than previously reported. Nevertheless, the magnetic power spectrum still retains the Kazantsev form at high Prandtl number.
+]]></content:encoded>
+
+<pubDate>2024-07-16T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraining Extended Teleparallel Gravity via Cosmography: A Model-independent Approach</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5555</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5555</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 宇宙学，暗能量，宇宙扩张，宇宙学参数，MCMC分析
+
+总结:<br><br>本文介绍了通过宇宙学参数对扩展的平面引力模型进行限制的方法。研究人员使用了马尔可夫链蒙特卡洛分析来处理包括宇宙年代测量、重子声学振荡和Pantheon+SH0ES在内的三个数据集，以获得受限制的结果。然后，他们将这些结果与各种宇宙参数进行比较和验证，并与三个知名模型做出比较。该研究表明，宇宙学参数是限制宇宙学模型的有力工具，对于更好地理解宇宙的动力学和暗能量等方面具有重要意义。 <div>
+As a classical approach, the dynamics of the Universe, influenced by its dark components, are unveiled through prior modifications of Einstein’s equations. Cosmography, on the other hand, is a highly efficient tool for reconstructing any modified theory in a model-independent manner. By employing kinematic variables, it offers a profound explanation for cosmic expansion. Although the cosmographical approach has been highly successful in several geometric theories in recent years, it has not been extensively explored in coupled gravities. With this in mind, we intend to constrain an extended teleparallel gravity model, , through cosmographic parameters. We utilize Taylor series expansion, assuming a minimally coupled form, to constrain the unknowns involved in the series. To achieve this, we conduct a Markov Chain Monte Carlo (MCMC) analysis using three different data sets (cosmic chronometers, baryon acoustic oscillations, and Pantheon+SH0ES). The constrained results obtained from MCMC are then compared and verified using various cosmological parameters. Finally, we compare the resulting models with three well-known models.
+]]></content:encoded>
+
+<pubDate>2024-07-16T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>VLBA Astrometry of the Galactic Double Neutron Stars PSR J0509+3801 and PSR J1930–1852: A Preliminary Transverse Velocity Distribution of Double Neutron Stars and its Implications</title>
