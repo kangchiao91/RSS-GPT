@@ -4,19 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Mapping the Milky Way in 5D with 170 Million Stars</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b62</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b62</guid>
 <content:encoded><![CDATA[
 <div> 距离、消光、恒星参数、星表、天文学
-总结:<br><br>本研究介绍了Augustus星表，该表基于Pan-STARRS、2MASS、UKIDSS和unWISE的光学至近红外光度测量以及Gaia DR2和3D尘埃消光地图的视差测量，对1.7亿颗恒星进行了距离、消光和恒星参数的估计。经过质量筛选后，有1.25亿个目标具有高质量的后验概率，恒星类型确定后的统计距离不确定性约为10%。研究结果显示，该星表能够准确重现去除消光效应后的Gaia颜色-星等图，并且能够清晰地检测到包括Monoceros环和人马座流在内的大型、动力学上连贯的亚结构。研究结果已公开可用，并附有交互式可视化工具。 <div>
+总结:<br /><br />本研究介绍了Augustus星表，该表基于Pan-STARRS、2MASS、UKIDSS和unWISE的光学至近红外光度测量以及Gaia DR2和3D尘埃消光地图的视差测量，对1.7亿颗恒星进行了距离、消光和恒星参数的估计。经过质量筛选后，有1.25亿个目标具有高质量的后验概率，恒星类型确定后的统计距离不确定性约为10%。研究结果显示，该星表能够准确重现去除消光效应后的Gaia颜色-星等图，并且能够清晰地检测到包括Monoceros环和人马座流在内的大型、动力学上连贯的亚结构。研究结果已公开可用，并附有交互式可视化工具。 <div>
 We present Augustus, a catalog of distance, extinction, and stellar parameter estimates for 170 million stars from 14 mag < r < 20 mag and with ∣b∣ > 10° drawing on a combination of optical to near-infrared photometry from Pan-STARRS, 2MASS, UKIDSS, and unWISE along with parallax measurements from Gaia DR2 and 3D dust extinction maps. After applying quality cuts, we find 125 million objects have “high-quality” posteriors with statistical distance uncertainties of ≲10% for objects with well-constrained stellar types. This is a substantial improvement over the distance estimates derived from Gaia parallaxes alone and in line with the recent results from Anders et al. We find the fits are able to reproduce the dereddened Gaia color–magnitude diagram accurately, which serves as a useful consistency check of our results. We show that we are able to detect large, kinematically coherent substructures in our data clearly relative to the input priors, including the Monoceros Ring and the Sagittarius Stream, attesting to the quality of the catalog. Our results are publicly available at doi:10.7910/DVN/WYMSXV. An accompanying interactive visualization can be found at http://allsky.s3-website.us-east-2.amazonaws.com.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Extraction of Sunspots from Chinese Sunspot Drawings Based on Semisupervised Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4865</link>
@@ -11586,15 +11585,6 @@ Direct observations of solar wind are mostly limited to the vicinity of the ecli
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a59</guid>
 <content:encoded><![CDATA[
 The far-infrared (FIR) opacity of dust in dark clouds within the Ophiuchus molecular cloud is investigated through multiwavelength infrared observations from UKIDSS, Spitzer, and Herschel. Employing the infrared color excess technique with both near-infrared and mid-infrared photometric data, a high-resolution extinction map in the K band (AK) is constructed for three dark clouds: L1689, L1709, and L1712. The derived extinction map has a resolution of and reaches a depth of AK ∼ 3 mag. The FIR optical depths τ250 at a reference wavelength of 250 μm are obtained by fitting the Herschel PACS and SPIRE continuum data at 100, 160, 250, 350, and 500 μm using a modified blackbody model. The average dust opacity per unit gas mass at 250 μm, rκ250, is determined through a pixel-by-pixel correlation of τ250 with AK, yielding a value of approximately 0.09 cm2 g−1, which is about 2–3 times higher than the typical value in the diffuse interstellar medium. Additionally, an independent analysis across 16 subregions within the Ophiuchus cloud indicates spatial variations in dust opacity, with values ranging from 0.07 to 0.12 cm2 g−1. Although the observed trend of increasing dust opacity with higher extinction implies grain growth, our findings indicate that rapid grain growth has clearly not yet occurred in the dark clouds studied in this work.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Revision of the GeV γ-Ray Emission in the Region of HESS J1813-178 with Fermi-LAT</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae1</guid>
-<content:encoded><![CDATA[
-HESS J1813-178 is one of the brightest and most compact TeV γ-ray sources, and whether its γ-ray emission is associated with supernova remnant (SNR), pulsar wind nebula (PWN), or young stellar cluster (YSC) is still under debate. By analyzing the GeV γ-ray data in the field of HESS J1813-178 using 14 yr of PASS 8 data recorded by the Fermi Large Area Telescope (Fermi-LAT), we report the discovery of three different sources with different spectra in this region. The hard source with a PL spectral index of 2.11 ± 0.08 has a small size extension, which is spatially and spectrally coincident with the TeV γ-ray emission from HESS J1813-178. CO observations display the dense molecular clouds surrounding HESS J1813-178 in the velocity range of 45–60 km s−1. The possible origins of the γ-ray emission from HESS J1813-178 are discussed, including SNR G12.820.02, the PWN driven by the energetic X-ray pulsar PSR J1813-1749 and YSC Cl 1813-178. However, none of them can be ruled out clearly. Note that the maximum energy of protons in the hadronic model should exceed a few hundred TeV, which makes HESS J1813-178 a promising PeVatron. A detailed LHAASO data analysis about the morphology and spectrum would be helpful to investigate the origin of the γ-ray emission in this region and test its PeVatron nature.
 ]]></content:encoded>
 <pubDate>2024-04-01T23:00:00Z</pubDate>
 </item>
