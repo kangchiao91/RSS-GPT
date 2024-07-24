@@ -4,6 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Mapping the Milky Way in 5D with 170 Million Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b62</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b62</guid>
+<content:encoded><![CDATA[
+<div> 距离、消光、恒星参数、星表、天文学
+总结:<br><br>本研究介绍了Augustus星表，该表基于Pan-STARRS、2MASS、UKIDSS和unWISE的光学至近红外光度测量以及Gaia DR2和3D尘埃消光地图的视差测量，对1.7亿颗恒星进行了距离、消光和恒星参数的估计。经过质量筛选后，有1.25亿个目标具有高质量的后验概率，恒星类型确定后的统计距离不确定性约为10%。研究结果显示，该星表能够准确重现去除消光效应后的Gaia颜色-星等图，并且能够清晰地检测到包括Monoceros环和人马座流在内的大型、动力学上连贯的亚结构。研究结果已公开可用，并附有交互式可视化工具。 <div>
+We present Augustus, a catalog of distance, extinction, and stellar parameter estimates for 170 million stars from 14 mag < r < 20 mag and with ∣b∣ > 10° drawing on a combination of optical to near-infrared photometry from Pan-STARRS, 2MASS, UKIDSS, and unWISE along with parallax measurements from Gaia DR2 and 3D dust extinction maps. After applying quality cuts, we find 125 million objects have “high-quality” posteriors with statistical distance uncertainties of ≲10% for objects with well-constrained stellar types. This is a substantial improvement over the distance estimates derived from Gaia parallaxes alone and in line with the recent results from Anders et al. We find the fits are able to reproduce the dereddened Gaia color–magnitude diagram accurately, which serves as a useful consistency check of our results. We show that we are able to detect large, kinematically coherent substructures in our data clearly relative to the input priors, including the Monoceros Ring and the Sagittarius Stream, attesting to the quality of the catalog. Our results are publicly available at doi:10.7910/DVN/WYMSXV. An accompanying interactive visualization can be found at http://allsky.s3-website.us-east-2.amazonaws.com.
+]]></content:encoded>
+
+<pubDate>2024-07-23T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Extraction of Sunspots from Chinese Sunspot Drawings Based on Semisupervised Learning</title>
