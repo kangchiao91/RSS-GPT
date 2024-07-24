@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Extraction of Sunspots from Chinese Sunspot Drawings Based on Semisupervised Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4865</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: 中国观测站, 太阳黑子, 语义分割, 半监督学习, 太阳活动周期
 
-总结: <br><br>这篇论文提出了一种新的半监督学习方法，结合了一种名为动态相互训练（DMT）边界引导语义分割（BGSeg）的语义分割方法，即DMT_BGSeg，以充分利用来自紫金山天文台（PMO）的标记数据和其他五个观测站的未标记数据，来检测和分割中国六个观测站的所有太阳黑子图纸中的太阳黑子组件。该方法有效地检测和分割了中国太阳黑子图纸中的太阳黑子，测试结果显示PMO，YNAO，BJP，NJU，QDOS和SSOS的平均IoU值分别为85.29，72.65，73.82，64.28，62.26和60.07。结果比较还表明DMT_BGSeg在中国太阳黑子图纸中检测和分割太阳黑子方面是有效的。太阳黑子的数量和面积被分别测量，所有详细数据都在中国虚拟天文台上公开分享，这将促进全球历史太阳黑子数据库的全面增加，并进一步促进对长期太阳活动周期和太阳动力学的理解。 <div>
+总结: <br /><br />这篇论文提出了一种新的半监督学习方法，结合了一种名为动态相互训练（DMT）边界引导语义分割（BGSeg）的语义分割方法，即DMT_BGSeg，以充分利用来自紫金山天文台（PMO）的标记数据和其他五个观测站的未标记数据，来检测和分割中国六个观测站的所有太阳黑子图纸中的太阳黑子组件。该方法有效地检测和分割了中国太阳黑子图纸中的太阳黑子，测试结果显示PMO，YNAO，BJP，NJU，QDOS和SSOS的平均IoU值分别为85.29，72.65，73.82，64.28，62.26和60.07。结果比较还表明DMT_BGSeg在中国太阳黑子图纸中检测和分割太阳黑子方面是有效的。太阳黑子的数量和面积被分别测量，所有详细数据都在中国虚拟天文台上公开分享，这将促进全球历史太阳黑子数据库的全面增加，并进一步促进对长期太阳活动周期和太阳动力学的理解。 <div>
 China has six observing stations, providing over 52,000 handwritten sunspot drawings from 1947–2016. The observing stations are the Purple Mountain Astronomical Observatory (PMO), Yunnan Astronomical Observatory (YNAO), Qingdao Observatory Station (QDOS), Sheshan Observatory Station (SSOS), Beijing Planetarium (BJP), and Nanjing University (NJU). In this paper, we propose a new cotraining semisupervised learning method combining a semantic segmentation method named dynamic mutual training (DMT) boundary-guided semantic segmentation (BGSeg), i.e., DMT_BGSeg, which makes full use of the labeled data from PMO and the unlabeled data from the other five stations to detect and segment sunspot components in all sunspot drawings of the six Chinese stations. The sunspot is detected and segmented. Additionally, each sunspot is split into four types of components: pore, spot, umbra, and hole. The testing results show the mIoU values of PMO, YNAO, BJP, NJU, QDOS and SSOS are 85.29, 72.65, 73.82, 64.28, 62.26, and 60.07, respectively. The results of the comparison also show that DMT_BGSeg is effective in detecting and segmenting sunspots in Chinese sunspot drawings. The numbers and areas of sunspot components are measured separately. All of the detailed data are publicly shared on China-VO, which will advance the comprehensive augmentation of the global historical sunspot database and further the understanding of the long-term solar activity cycle and solar dynamo.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,11 +22,10 @@ China has six observing stations, providing over 52,000 handwritten sunspot draw
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4886</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4886</guid>
 <content:encoded><![CDATA[
-<div> 光回波, 超新星, 光谱分析, 模型, 改进 <br>
+<div> 光回波, 超新星, 光谱分析, 模型, 改进 <br />
 总结: 本文提出了一种改进的方法来模拟光回波光谱分析，相比以往的方法，能够更准确地估计瞬变事件每个阶段对观测光谱的真实相对贡献。作者讨论了他们的方法的逻辑，相比以往方法的优势及进一步改进的前景。最后，作者展示了新方法如何改进了对泰科超新星（SN 1572）回波的分析。  <div>
 Light echoes give us a unique perspective on the nature of supernovae and nonterminal stellar explosions. Spectroscopy of light echoes can reveal details on the kinematics of the ejecta, probe asymmetry, and reveal details of ejecta interaction with circumstellar matter, thus expanding our understanding of these transient events. However, the spectral features arise from a complex interplay between the source photons, the reflecting dust geometry, and the instrumental setup and observing conditions. In this work, we present an improved method for modeling these effects in light echo spectra, one that relaxes the simplifying assumption of a light-curve-weighted sum, and instead estimates the true relative contribution of each phase of a transient event to the observed spectrum. We discuss our logic, the gains we obtain over light echo analysis methods used in the past, and prospects for further improvements. Lastly, we show how the new method improves our analysis of echoes from Tycho’s supernova (SN 1572) as an example.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -34,11 +33,10 @@ Light echoes give us a unique perspective on the nature of supernovae and nonter
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a62</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a62</guid>
 <content:encoded><![CDATA[
-<div> CTTS, mass accretion processes, multiwavelength monitoring, Hubble Space Telescope, accretion shock modeling <br>
-CTTS阶段是恒星和行星形成过程中的重要阶段。一个跨越2021年和2022/2023年的多时期、多波长的光度计和光谱监测活动，作为Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra项目的一部分，对四个CTTSs（TW Hya，RU Lup，BP Tau和GM Aur）进行了监测。重点关注了Hubble Space Telescope (HST) UV光谱，发现所有目标都表现出不同程度的的质量吸积变化，尽管在每个目标内部，质量吸积形态基本保持一致。此外，测试了质量吸积率与UV光度之间的经验关系，并发现了明显的差异，这表明这些关系不应该用于估计单个目标的质量吸积率。我们的工作强调了未来跨时期和同时多波长研究在低质量恒星形成过程中对于质量吸积过程理解的重要性。 <br><br>总结: CTTS阶段是恒星和行星形成过程中的关键阶段。通过多时期、多波长的光度计和光谱监测，发现了质量吸积率在不同目标间和不同时期间的变化。此外，发现了质量吸积率与UV光度之间的经验关系存在显著差异，未来需要进行更多的多时期和同时多波长的研究来加深对低质量恒星形成过程中质量吸积过程的理解。 <div>
+<div> CTTS, mass accretion processes, multiwavelength monitoring, Hubble Space Telescope, accretion shock modeling <br />
+CTTS阶段是恒星和行星形成过程中的重要阶段。一个跨越2021年和2022/2023年的多时期、多波长的光度计和光谱监测活动，作为Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra项目的一部分，对四个CTTSs（TW Hya，RU Lup，BP Tau和GM Aur）进行了监测。重点关注了Hubble Space Telescope (HST) UV光谱，发现所有目标都表现出不同程度的的质量吸积变化，尽管在每个目标内部，质量吸积形态基本保持一致。此外，测试了质量吸积率与UV光度之间的经验关系，并发现了明显的差异，这表明这些关系不应该用于估计单个目标的质量吸积率。我们的工作强调了未来跨时期和同时多波长研究在低质量恒星形成过程中对于质量吸积过程理解的重要性。 <br /><br />总结: CTTS阶段是恒星和行星形成过程中的关键阶段。通过多时期、多波长的光度计和光谱监测，发现了质量吸积率在不同目标间和不同时期间的变化。此外，发现了质量吸积率与UV光度之间的经验关系存在显著差异，未来需要进行更多的多时期和同时多波长的研究来加深对低质量恒星形成过程中质量吸积过程的理解。 <div>
 The classical T Tauri star (CTTS) stage is a critical phase of the star and planet formation process. In an effort to better understand the mass accretion processes, which can dictate future stellar evolution and planet formation, a multiepoch, multiwavelength photometric and spectroscopic monitoring campaign of four CTTSs (TW Hya, RU Lup, BP Tau, and GM Aur) was carried out in 2021 and 2022/2023 as part of the Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra program. Here we focus on the Hubble Space Telescope (HST) UV spectra obtained by the HST Director’s Discretionary Time UV Legacy Library of Young Stars as Essential Standards (ULLYSES) program. Using accretion shock modeling, we find that all targets exhibit accretion variability, varying from short increases in accretion rate by up to a factor of 3 within 48 hr to longer decreases in accretion rate by a factor of 2.5 over the course of 1 yr. This is despite the generally consistent accretion morphology within each target. Additionally, we test empirical relationships between accretion rate and UV luminosity and find stark differences, showing that these relationships should not be used to estimate the accretion rate for an individual target. Our work reinforces that future multiepoch and simultaneous multiwavelength studies are critical in our understanding of the accretion process in low-mass star formation.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -46,12 +44,11 @@ The classical T Tauri star (CTTS) stage is a critical phase of the star and plan
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da3</guid>
 <content:encoded><![CDATA[
-<div> Tidal disruption event, AT2018fyk, black hole binary, accretion, X-ray emissions<br>
-<br>
-TDE AT2018fyk被解释为与质量黑洞双星相关的一次性TDE。X射线，紫外线和光学光谱显示出不同于一般的特点，且在约600天后衰减，之后再次增强，并在1200天左右再次衰减。这种行为发生在一个黑洞中断了碎片再次回落到另一个黑洞时，自然地呈现出了t-5/3幂律的陡峭下降。黑洞质量M•从X射线光谱拟合和早期紫外/光学光谱拟合中得出，比从M•-σ*宿主星系关系预测的M•要小两个数量级，这表明碎片被吸积到了辅助黑洞上，而主黑洞则停止了回落。再者，如果增亮是与主黑洞相关的话，它应该在5000天左右而不是观察到的1200天左右发生。次要的质量和无量纲自旋都表明了一个中等质量的次要黑洞，这与观察到的紫外/光学光谱衰减一致，即次要黑洞的外部吸积盘过于微弱而无法产生可检测的辐射底线。第一次吸积中断的时间限制了二进制系统的间隔为(6.7±1.2)×10−3 pc。X射线光谱拟合和时间分析表明，硬X射线来自于次要黑洞盘上方的辐射区域。早期的紫外/光学辐射，暗示次要黑洞的超Eddington阶段，可能起源于碎片轨道化产生的激波。 <br><br>总结: AT2018fyk是一次与大质量黑洞双星相关的潮撕裂事件。其X射线，紫外线和光学光谱显示出特殊的特点，这被解释为主黑洞中断了碎片再次回落到辅助黑洞所致。辅助黑洞的质量和维度自旋表明其为中等质量黑洞。X射线和早期紫外/光学辐射的分析显示了黑洞之间的二进制系统间隔。同时，X射线来自于次要黑洞盘上方的辐射区域，而早期的紫外/光学辐射可能源自于碎片轨道化产生的激波。 <div>
+<div> Tidal disruption event, AT2018fyk, black hole binary, accretion, X-ray emissions<br />
+<br />
+TDE AT2018fyk被解释为与质量黑洞双星相关的一次性TDE。X射线，紫外线和光学光谱显示出不同于一般的特点，且在约600天后衰减，之后再次增强，并在1200天左右再次衰减。这种行为发生在一个黑洞中断了碎片再次回落到另一个黑洞时，自然地呈现出了t-5/3幂律的陡峭下降。黑洞质量M•从X射线光谱拟合和早期紫外/光学光谱拟合中得出，比从M•-σ*宿主星系关系预测的M•要小两个数量级，这表明碎片被吸积到了辅助黑洞上，而主黑洞则停止了回落。再者，如果增亮是与主黑洞相关的话，它应该在5000天左右而不是观察到的1200天左右发生。次要的质量和无量纲自旋都表明了一个中等质量的次要黑洞，这与观察到的紫外/光学光谱衰减一致，即次要黑洞的外部吸积盘过于微弱而无法产生可检测的辐射底线。第一次吸积中断的时间限制了二进制系统的间隔为(6.7±1.2)×10−3 pc。X射线光谱拟合和时间分析表明，硬X射线来自于次要黑洞盘上方的辐射区域。早期的紫外/光学辐射，暗示次要黑洞的超Eddington阶段，可能起源于碎片轨道化产生的激波。 <br /><br />总结: AT2018fyk是一次与大质量黑洞双星相关的潮撕裂事件。其X射线，紫外线和光学光谱显示出特殊的特点，这被解释为主黑洞中断了碎片再次回落到辅助黑洞所致。辅助黑洞的质量和维度自旋表明其为中等质量黑洞。X射线和早期紫外/光学辐射的分析显示了黑洞之间的二进制系统间隔。同时，X射线来自于次要黑洞盘上方的辐射区域，而早期的紫外/光学辐射可能源自于碎片轨道化产生的激波。 <div>
 The tidal disruption event (TDE) AT2018fyk has unusual X-ray, UV, and optical light curves that decay over the first ∼600 days, rebrighten, and decay again around 1200 days. We explain this behavior as a one-off TDE associated with a massive black hole (BH) binary. The sharp drop-offs from t−5/3 power laws at around 600 days naturally arise when one BH interrupts the debris fallback onto the other BH. The BH mass M• derived from fitting X-ray spectra with a slim disk accretion model and, independently, from fitting the early UV/optical light curves, is smaller by 2 orders of magnitude than predicted from the M•–σ* host galaxy relation, suggesting that the debris is accreted onto the secondary, with the fallback cut off by the primary. Furthermore, if the rebrightening were associated with the primary, it should occur around 5000 days, not the observed 1200 days. The secondary’s mass and dimensionless spin is and a•,s > 0.3 (X-ray spectral fitting), while the primary’s mass is M•,p = 107.7±0.4M⊙ (M•–σ* relation). An intermediate mass BH secondary is consistent with the observed UV/optical light-curve decay, i.e., the secondary’s outer accretion disk is too faint to produce a detectable emission floor. The time of the first accretion cutoff constrains the binary separation to be (6.7 ± 1.2) × 10−3 pc. X-ray spectral fitting and timing analyses indicate that the hard X-rays arise from a corona above the secondary’s disk. The early UV/optical emission, suggesting a super-Eddington phase for the secondary, possibly originates from shocks arising from debris circularization.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,13 +58,11 @@ The tidal disruption event (TDE) AT2018fyk has unusual X-ray, UV, and optical li
 <content:encoded><![CDATA[
 <div> Hubble Space Telescope, COS/G160M, C IV, circumgalactic medium (CGM), supermassive black holes (SMBH)
 
-对Hubble Space Telescope进行的COS/G160M观测研究了8个红移为z∼0、光度约为L⋆的星系的内部环星系介质（CGM）中的C IV，并与紫外明亮的类星体配对，它们的冲击参数（Rproj）在25到130千秒差距之间。这些星系的质量控制样本（log10M⋆/M⊙∼10.2–10.9 M⊙）中的恒星黑洞的质量经过动力学测量，范围在log10MBH/M⊙∼6.8–8.4之间；这使得我们能够将结果与模型进行比较，这些模型中，恒星黑洞的综合反馈历史改变了长时间尺度上的CGM。我们发现C IV柱密度测量（NC IV;平均log10NC IV,CH=13.94±0.09 cm−2）在很大程度上与其他调查中CGM中NC IV的现有测量（平均log10NC IV,Lit=13.90±0.08 cm−2）一致，但不会因为SMBH质量的函数而明显变化。相比之下，特定星形成率（sSFR）与CGM中的电离物质含量高度相关。对于具有log10MBH/M⊙>7.0的星系，我们发现sSFR存在较大的分散，其中CGM的C IV含量与星系的sSFR明显相关，但与MBH无关。我们的结果不表明CGM中C IV与星系SMBH质量存在明显的因果关系；然而，通过与EAGLE、Romulus25和IllustrisTNG模拟的比较，我们发现我们的样本可能太小，无法限制这样的因果关系。<br><br>总结:该研究利用Hubble Space Telescope对C IV进行了研究，发现星系的C IV含量与SMBH质量无明显因果关系，但与特定星形成率相关。然而，研究也指出样本可能太小，无法排除因果关系。 <div>
+对Hubble Space Telescope进行的COS/G160M观测研究了8个红移为z∼0、光度约为L⋆的星系的内部环星系介质（CGM）中的C IV，并与紫外明亮的类星体配对，它们的冲击参数（Rproj）在25到130千秒差距之间。这些星系的质量控制样本（log10M⋆/M⊙∼10.2–10.9 M⊙）中的恒星黑洞的质量经过动力学测量，范围在log10MBH/M⊙∼6.8–8.4之间；这使得我们能够将结果与模型进行比较，这些模型中，恒星黑洞的综合反馈历史改变了长时间尺度上的CGM。我们发现C IV柱密度测量（NC IV;平均log10NC IV,CH=13.94±0.09 cm−2）在很大程度上与其他调查中CGM中NC IV的现有测量（平均log10NC IV,Lit=13.90±0.08 cm−2）一致，但不会因为SMBH质量的函数而明显变化。相比之下，特定星形成率（sSFR）与CGM中的电离物质含量高度相关。对于具有log10MBH/M⊙>7.0的星系，我们发现sSFR存在较大的分散，其中CGM的C IV含量与星系的sSFR明显相关，但与MBH无关。我们的结果不表明CGM中C IV与星系SMBH质量存在明显的因果关系；然而，通过与EAGLE、Romulus25和IllustrisTNG模拟的比较，我们发现我们的样本可能太小，无法限制这样的因果关系。<br /><br />总结:该研究利用Hubble Space Telescope对C IV进行了研究，发现星系的C IV含量与SMBH质量无明显因果关系，但与特定星形成率相关。然而，研究也指出样本可能太小，无法排除因果关系。 <div>
 We present an analysis of Hubble Space Telescope COS/G160M observations of C IV in the inner circumgalactic medium (CGM) of a novel sample of eight z ∼ 0, L ≈ L⋆ galaxies, paired with UV-bright QSOs at impact parameters (Rproj) between 25 and 130 kpc. The galaxies in this stellar-mass-controlled sample (log10M⋆/M⊙ ∼ 10.2–10.9 M⊙) host supermassive black holes (SMBHs) with dynamically measured masses spanning log10MBH/M⊙ ∼ 6.8–8.4; this allows us to compare our results with models of galaxy formation where the integrated feedback history from the SMBH alters the CGM over long timescales. We find that the C IV column density measurements (NC IV; average log10NC IV,CH = 13.94 ± 0.09 cm−2) are largely consistent with existing measurements from other surveys of NC IV in the CGM (average log10NC IV,Lit = 13.90 ± 0.08 cm−2), but do not show obvious variation as a function of the SMBH mass. By contrast, specific star formation rate (sSFR) is highly correlated with the ionized content of the CGM. We find a large spread in sSFR for galaxies with log10MBH/M⊙ > 7.0, where the CGM C IV content shows a clear dependence on galaxy sSFR but not MBH. Our results do not indicate an obvious causal link between CGM C IV and the mass of the galaxy’s SMBH; however, through comparisons to the EAGLE, Romulus25, and IllustrisTNG simulations, we find that our sample is likely too small to constrain such causality.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Evidence of Grain Alignment by Magnetically Enhanced Radiative Torques from Multiwavelength Dust Polarization Modeling of HL Tau</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f74</link>
@@ -11588,51 +11583,6 @@ The far-infrared (FIR) opacity of dust in dark clouds within the Ophiuchus molec
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae1</guid>
 <content:encoded><![CDATA[
 HESS J1813-178 is one of the brightest and most compact TeV γ-ray sources, and whether its γ-ray emission is associated with supernova remnant (SNR), pulsar wind nebula (PWN), or young stellar cluster (YSC) is still under debate. By analyzing the GeV γ-ray data in the field of HESS J1813-178 using 14 yr of PASS 8 data recorded by the Fermi Large Area Telescope (Fermi-LAT), we report the discovery of three different sources with different spectra in this region. The hard source with a PL spectral index of 2.11 ± 0.08 has a small size extension, which is spatially and spectrally coincident with the TeV γ-ray emission from HESS J1813-178. CO observations display the dense molecular clouds surrounding HESS J1813-178 in the velocity range of 45–60 km s−1. The possible origins of the γ-ray emission from HESS J1813-178 are discussed, including SNR G12.820.02, the PWN driven by the energetic X-ray pulsar PSR J1813-1749 and YSC Cl 1813-178. However, none of them can be ruled out clearly. Note that the maximum energy of protons in the hadronic model should exceed a few hundred TeV, which makes HESS J1813-178 a promising PeVatron. A detailed LHAASO data analysis about the morphology and spectrum would be helpful to investigate the origin of the γ-ray emission in this region and test its PeVatron nature.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Relativistic Alfvén Turbulence at Kinetic Scales</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e02</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e02</guid>
-<content:encoded><![CDATA[
-In a strongly magnetized, magnetically dominated relativistic plasma, Alfvénic turbulence can extend to scales much smaller than the particle inertial scales. It leads to an energy cascade somewhat analogous to inertial- or kinetic-Alfvén turbulent cascades existing in nonrelativistic space and astrophysical plasmas. Based on phenomenological modeling and particle-in-cell numerical simulations, we propose that the energy spectrum of such relativistic kinetic-scale Alfvénic turbulence is close to k−3 or slightly steeper than that due to intermittency corrections or Landau damping. We note the analogy of this spectrum with the Kraichnan spectrum corresponding to the enstrophy cascade in 2D incompressible fluid turbulence. Such turbulence strongly energizes particles in the direction parallel to the background magnetic field, leading to nearly one-dimensional particle momentum distributions. We find that these distributions have universal log-normal statistics.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Search for GeV Gamma-Ray Emission from Possible TeV-bright Red Dwarfs with Fermi-LAT</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e91</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e91</guid>
-<content:encoded><![CDATA[
-Red dwarfs have been suggested to be among the possible astrophysical species accelerating particles and emitting TeV γ-rays. In an effort to search for the GeV γ-ray counterparts of the suggested TeV emission from eight red dwarfs, we analyze the 0.2–500 GeV γ-ray emission of the regions covering them, exploiting the ∼13.6 yr Pass 8 data from the Fermi Large Area Telescope (LAT). A GeV γ-ray emission excess with a significance of 3.8σ is detected in the direction of the red dwarf V962 Tau. This emission contains V962 Tau in a 1σ error radius and is independent of the catalog source. However, the stellar flare scenario can hardly explain the total energy and lightcurve (LC) derived from the γ-ray emission in view of the spectral analysis. We also analyze the LCs in the positions of the eight red dwarfs, and no time bin with a significance >5σ is found. Therefore, no significant emission from the red dwarfs could be concluded to have been detected by Fermi-LAT.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Dwarf Pulses of 10 Pulsars Detected by FAST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e9c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e9c</guid>
-<content:encoded><![CDATA[
-How pulsars radiate is a long-standing problem. Detailed polarization measurements of individual pulses shed light on currently unknown emission processes. Recently, based on supersensitive observations, dwarf pulses have been recognized as weak narrow pulses often appearing during the nulling state. In this study, we report the detection of dwarf pulses from 10 pulsars, PSRs B0525+21, B1237+25, J1538+2345, J1824−0127, J1851−0053, B1901+10, J1939+10, B1944+17, B2000+40, and J2112+4058, based on observations conducted with the Five-hundred-meter Aperture Spherical radio Telescope. Dwarf pulses of five pulsars are clearly discernible in the two-dimensional distribution of pulse intensity and pulse width. For the other five pulsars, PSRs J1538+2345, J1824−0127, J1939+10, B2000+40, and J2112+4058, only a few dwarf pulses are detected from pulse stacks. The dwarf pulses can emerge in both cone and core emission components for PSR B1237+25, and the polarization angles of these dwarf pulses are mostly in the orthogonal polarization mode of normal pulses for PSR B1944+17. In general, pulsars with detected dwarf pulses tend to be located within the “death valley” region of the distribution of pulsar periods and period derivatives.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Petrogenesis of Erg Chech 002 Achondrite and Implications for an Altered Magma Ocean</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ea7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ea7</guid>
-<content:encoded><![CDATA[
-This study conducts mineralogical and chemical investigations on the oldest achondrite, Erg Chech 002 (∼4565 million yr old). This meteorite exhibits a disequilibrium igneous texture characterized by high-Mg-number (atomic Mg/(Mg + Fe2+)) orthopyroxene xenocrysts (Mg number = 60–80) embedded in an andesitic groundmass. Our research reveals that these xenocrysts were early formed crystals, loosely accumulated or scattered in the short-period magma ocean on the parent body. Subsequently, these crystals underwent agitation due to the influx of external materials. The assimilation of these materials enriched the 16O component of the magma ocean and induced a relatively reduced state. Furthermore, this process significantly cooled the magma ocean and inhibited the evaporation of alkali elements, leading to elevated concentrations of Na and K within the meteorite. Our findings suggest that the introduced materials are probably sourced from the reservoirs of CR clan meteorites, indicating extensive transport and mixing of materials within the early solar system.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Giant Biconical Dust Filaments in the Starburst Galaxy NGC 1808</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2eab</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2eab</guid>
-<content:encoded><![CDATA[
-We present the results from an analysis of multiwavelength archival data on the multiphase outflow in the starburst galaxy NGC 1808. We report the detection at 70 and 100 μm of dust filaments that extend up to ∼13 kpc from the galactic midplane and trace an edge-brightened biconical structure along the minor axis of the galaxy. The inner filaments are roughly cospatial with previously identified optical dust filaments, extraplanar polycyclic aromatic hydrocarbon emission, and neutral and ionized gaseous outflows. The 70/160 μm flux ratio, a proxy for the dust temperature, is elevated along the edges of the cones, indicating that the dusty medium has been driven out of the central regions of these cones and is possibly shock-heated by a large-scale outflow. We establish lower limits on the extraplanar dust mass and mean height above the stellar disk of and ∣ z ∣ ∼ 5 kpc. The energy requirement of (5.1–9.6) × 1056 erg needed to lift the dusty material, assuming a Milky Way–like dust-to-gas ratio, can be supplied by the current starburst, with a measured star formation rate of 3.5–5.4 M⊙ yr−1 over a timescale of (4–26) ξ−1 Myr, where ξ is the efficiency of energy transfer. We conclude that a starburst-driven outflow is the most likely mechanism by which the dust features were formed.
 ]]></content:encoded>
 <pubDate>2024-04-01T23:00:00Z</pubDate>
 </item>
