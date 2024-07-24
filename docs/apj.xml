@@ -5,14 +5,77 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Extraction of Sunspots from Chinese Sunspot Drawings Based on Semisupervised Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4865</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4865</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 中国观测站, 太阳黑子, 语义分割, 半监督学习, 太阳活动周期
+
+总结: <br><br>这篇论文提出了一种新的半监督学习方法，结合了一种名为动态相互训练（DMT）边界引导语义分割（BGSeg）的语义分割方法，即DMT_BGSeg，以充分利用来自紫金山天文台（PMO）的标记数据和其他五个观测站的未标记数据，来检测和分割中国六个观测站的所有太阳黑子图纸中的太阳黑子组件。该方法有效地检测和分割了中国太阳黑子图纸中的太阳黑子，测试结果显示PMO，YNAO，BJP，NJU，QDOS和SSOS的平均IoU值分别为85.29，72.65，73.82，64.28，62.26和60.07。结果比较还表明DMT_BGSeg在中国太阳黑子图纸中检测和分割太阳黑子方面是有效的。太阳黑子的数量和面积被分别测量，所有详细数据都在中国虚拟天文台上公开分享，这将促进全球历史太阳黑子数据库的全面增加，并进一步促进对长期太阳活动周期和太阳动力学的理解。 <div>
+China has six observing stations, providing over 52,000 handwritten sunspot drawings from 1947–2016. The observing stations are the Purple Mountain Astronomical Observatory (PMO), Yunnan Astronomical Observatory (YNAO), Qingdao Observatory Station (QDOS), Sheshan Observatory Station (SSOS), Beijing Planetarium (BJP), and Nanjing University (NJU). In this paper, we propose a new cotraining semisupervised learning method combining a semantic segmentation method named dynamic mutual training (DMT) boundary-guided semantic segmentation (BGSeg), i.e., DMT_BGSeg, which makes full use of the labeled data from PMO and the unlabeled data from the other five stations to detect and segment sunspot components in all sunspot drawings of the six Chinese stations. The sunspot is detected and segmented. Additionally, each sunspot is split into four types of components: pore, spot, umbra, and hole. The testing results show the mIoU values of PMO, YNAO, BJP, NJU, QDOS and SSOS are 85.29, 72.65, 73.82, 64.28, 62.26, and 60.07, respectively. The results of the comparison also show that DMT_BGSeg is effective in detecting and segmenting sunspots in Chinese sunspot drawings. The numbers and areas of sunspot components are measured separately. All of the detailed data are publicly shared on China-VO, which will advance the comprehensive augmentation of the global historical sunspot database and further the understanding of the long-term solar activity cycle and solar dynamo.
+]]></content:encoded>
+
+<pubDate>2024-07-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>SpectAcLE: An Improved Method for Modeling Light Echo Spectra</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4886</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4886</guid>
+<content:encoded><![CDATA[
+<div> 光回波, 超新星, 光谱分析, 模型, 改进 <br>
+总结: 本文提出了一种改进的方法来模拟光回波光谱分析，相比以往的方法，能够更准确地估计瞬变事件每个阶段对观测光谱的真实相对贡献。作者讨论了他们的方法的逻辑，相比以往方法的优势及进一步改进的前景。最后，作者展示了新方法如何改进了对泰科超新星（SN 1572）回波的分析。  <div>
+Light echoes give us a unique perspective on the nature of supernovae and nonterminal stellar explosions. Spectroscopy of light echoes can reveal details on the kinematics of the ejecta, probe asymmetry, and reveal details of ejecta interaction with circumstellar matter, thus expanding our understanding of these transient events. However, the spectral features arise from a complex interplay between the source photons, the reflecting dust geometry, and the instrumental setup and observing conditions. In this work, we present an improved method for modeling these effects in light echo spectra, one that relaxes the simplifying assumption of a light-curve-weighted sum, and instead estimates the true relative contribution of each phase of a transient event to the observed spectrum. We discuss our logic, the gains we obtain over light echo analysis methods used in the past, and prospects for further improvements. Lastly, we show how the new method improves our analysis of echoes from Tycho’s supernova (SN 1572) as an example.
+]]></content:encoded>
+
+<pubDate>2024-07-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Multiwavelength, Multiepoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. I. HST Far-UV and Near-UV Spectra</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a62</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a62</guid>
+<content:encoded><![CDATA[
+<div> CTTS, mass accretion processes, multiwavelength monitoring, Hubble Space Telescope, accretion shock modeling <br>
+CTTS阶段是恒星和行星形成过程中的重要阶段。一个跨越2021年和2022/2023年的多时期、多波长的光度计和光谱监测活动，作为Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra项目的一部分，对四个CTTSs（TW Hya，RU Lup，BP Tau和GM Aur）进行了监测。重点关注了Hubble Space Telescope (HST) UV光谱，发现所有目标都表现出不同程度的的质量吸积变化，尽管在每个目标内部，质量吸积形态基本保持一致。此外，测试了质量吸积率与UV光度之间的经验关系，并发现了明显的差异，这表明这些关系不应该用于估计单个目标的质量吸积率。我们的工作强调了未来跨时期和同时多波长研究在低质量恒星形成过程中对于质量吸积过程理解的重要性。 <br><br>总结: CTTS阶段是恒星和行星形成过程中的关键阶段。通过多时期、多波长的光度计和光谱监测，发现了质量吸积率在不同目标间和不同时期间的变化。此外，发现了质量吸积率与UV光度之间的经验关系存在显著差异，未来需要进行更多的多时期和同时多波长的研究来加深对低质量恒星形成过程中质量吸积过程的理解。 <div>
+The classical T Tauri star (CTTS) stage is a critical phase of the star and planet formation process. In an effort to better understand the mass accretion processes, which can dictate future stellar evolution and planet formation, a multiepoch, multiwavelength photometric and spectroscopic monitoring campaign of four CTTSs (TW Hya, RU Lup, BP Tau, and GM Aur) was carried out in 2021 and 2022/2023 as part of the Outflows and Disks around Young Stars: Synergies for the Exploration of ULLYSES Spectra program. Here we focus on the Hubble Space Telescope (HST) UV spectra obtained by the HST Director’s Discretionary Time UV Legacy Library of Young Stars as Essential Standards (ULLYSES) program. Using accretion shock modeling, we find that all targets exhibit accretion variability, varying from short increases in accretion rate by up to a factor of 3 within 48 hr to longer decreases in accretion rate by a factor of 2.5 over the course of 1 yr. This is despite the generally consistent accretion morphology within each target. Additionally, we test empirical relationships between accretion rate and UV luminosity and find stark differences, showing that these relationships should not be used to estimate the accretion rate for an individual target. Our work reinforces that future multiepoch and simultaneous multiwavelength studies are critical in our understanding of the accretion process in low-mass star formation.
+]]></content:encoded>
+
+<pubDate>2024-07-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>AT2018fyk: Candidate Tidal Disruption Event by a (Super)Massive Black Hole Binary</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da3</guid>
+<content:encoded><![CDATA[
+<div> Tidal disruption event, AT2018fyk, black hole binary, accretion, X-ray emissions<br>
+<br>
+TDE AT2018fyk被解释为与质量黑洞双星相关的一次性TDE。X射线，紫外线和光学光谱显示出不同于一般的特点，且在约600天后衰减，之后再次增强，并在1200天左右再次衰减。这种行为发生在一个黑洞中断了碎片再次回落到另一个黑洞时，自然地呈现出了t-5/3幂律的陡峭下降。黑洞质量M•从X射线光谱拟合和早期紫外/光学光谱拟合中得出，比从M•-σ*宿主星系关系预测的M•要小两个数量级，这表明碎片被吸积到了辅助黑洞上，而主黑洞则停止了回落。再者，如果增亮是与主黑洞相关的话，它应该在5000天左右而不是观察到的1200天左右发生。次要的质量和无量纲自旋都表明了一个中等质量的次要黑洞，这与观察到的紫外/光学光谱衰减一致，即次要黑洞的外部吸积盘过于微弱而无法产生可检测的辐射底线。第一次吸积中断的时间限制了二进制系统的间隔为(6.7±1.2)×10−3 pc。X射线光谱拟合和时间分析表明，硬X射线来自于次要黑洞盘上方的辐射区域。早期的紫外/光学辐射，暗示次要黑洞的超Eddington阶段，可能起源于碎片轨道化产生的激波。 <br><br>总结: AT2018fyk是一次与大质量黑洞双星相关的潮撕裂事件。其X射线，紫外线和光学光谱显示出特殊的特点，这被解释为主黑洞中断了碎片再次回落到辅助黑洞所致。辅助黑洞的质量和维度自旋表明其为中等质量黑洞。X射线和早期紫外/光学辐射的分析显示了黑洞之间的二进制系统间隔。同时，X射线来自于次要黑洞盘上方的辐射区域，而早期的紫外/光学辐射可能源自于碎片轨道化产生的激波。 <div>
+The tidal disruption event (TDE) AT2018fyk has unusual X-ray, UV, and optical light curves that decay over the first ∼600 days, rebrighten, and decay again around 1200 days. We explain this behavior as a one-off TDE associated with a massive black hole (BH) binary. The sharp drop-offs from t−5/3 power laws at around 600 days naturally arise when one BH interrupts the debris fallback onto the other BH. The BH mass M• derived from fitting X-ray spectra with a slim disk accretion model and, independently, from fitting the early UV/optical light curves, is smaller by 2 orders of magnitude than predicted from the M•–σ* host galaxy relation, suggesting that the debris is accreted onto the secondary, with the fallback cut off by the primary. Furthermore, if the rebrightening were associated with the primary, it should occur around 5000 days, not the observed 1200 days. The secondary’s mass and dimensionless spin is and a•,s > 0.3 (X-ray spectral fitting), while the primary’s mass is M•,p = 107.7±0.4M⊙ (M•–σ* relation). An intermediate mass BH secondary is consistent with the observed UV/optical light-curve decay, i.e., the secondary’s outer accretion disk is too faint to produce a detectable emission floor. The time of the first accretion cutoff constrains the binary separation to be (6.7 ± 1.2) × 10−3 pc. X-ray spectral fitting and timing analyses indicate that the hard X-rays arise from a corona above the secondary’s disk. The early UV/optical emission, suggesting a super-Eddington phase for the secondary, possibly originates from shocks arising from debris circularization.
+]]></content:encoded>
+
+<pubDate>2024-07-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The COS-Holes Survey: Connecting Galaxy Black Hole Mass with the State of the CGM</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ecc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ecc</guid>
+<content:encoded><![CDATA[
+<div> Hubble Space Telescope, COS/G160M, C IV, circumgalactic medium (CGM), supermassive black holes (SMBH)
+
+对Hubble Space Telescope进行的COS/G160M观测研究了8个红移为z∼0、光度约为L⋆的星系的内部环星系介质（CGM）中的C IV，并与紫外明亮的类星体配对，它们的冲击参数（Rproj）在25到130千秒差距之间。这些星系的质量控制样本（log10M⋆/M⊙∼10.2–10.9 M⊙）中的恒星黑洞的质量经过动力学测量，范围在log10MBH/M⊙∼6.8–8.4之间；这使得我们能够将结果与模型进行比较，这些模型中，恒星黑洞的综合反馈历史改变了长时间尺度上的CGM。我们发现C IV柱密度测量（NC IV;平均log10NC IV,CH=13.94±0.09 cm−2）在很大程度上与其他调查中CGM中NC IV的现有测量（平均log10NC IV,Lit=13.90±0.08 cm−2）一致，但不会因为SMBH质量的函数而明显变化。相比之下，特定星形成率（sSFR）与CGM中的电离物质含量高度相关。对于具有log10MBH/M⊙>7.0的星系，我们发现sSFR存在较大的分散，其中CGM的C IV含量与星系的sSFR明显相关，但与MBH无关。我们的结果不表明CGM中C IV与星系SMBH质量存在明显的因果关系；然而，通过与EAGLE、Romulus25和IllustrisTNG模拟的比较，我们发现我们的样本可能太小，无法限制这样的因果关系。<br><br>总结:该研究利用Hubble Space Telescope对C IV进行了研究，发现星系的C IV含量与SMBH质量无明显因果关系，但与特定星形成率相关。然而，研究也指出样本可能太小，无法排除因果关系。 <div>
+We present an analysis of Hubble Space Telescope COS/G160M observations of C IV in the inner circumgalactic medium (CGM) of a novel sample of eight z ∼ 0, L ≈ L⋆ galaxies, paired with UV-bright QSOs at impact parameters (Rproj) between 25 and 130 kpc. The galaxies in this stellar-mass-controlled sample (log10M⋆/M⊙ ∼ 10.2–10.9 M⊙) host supermassive black holes (SMBHs) with dynamically measured masses spanning log10MBH/M⊙ ∼ 6.8–8.4; this allows us to compare our results with models of galaxy formation where the integrated feedback history from the SMBH alters the CGM over long timescales. We find that the C IV column density measurements (NC IV; average log10NC IV,CH = 13.94 ± 0.09 cm−2) are largely consistent with existing measurements from other surveys of NC IV in the CGM (average log10NC IV,Lit = 13.90 ± 0.08 cm−2), but do not show obvious variation as a function of the SMBH mass. By contrast, specific star formation rate (sSFR) is highly correlated with the ionized content of the CGM. We find a large spread in sSFR for galaxies with log10MBH/M⊙ > 7.0, where the CGM C IV content shows a clear dependence on galaxy sSFR but not MBH. Our results do not indicate an obvious causal link between CGM C IV and the mass of the galaxy’s SMBH; however, through comparisons to the EAGLE, Romulus25, and IllustrisTNG simulations, we find that our sample is likely too small to constrain such causality.
+]]></content:encoded>
+
+<pubDate>2024-07-23T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Evidence of Grain Alignment by Magnetically Enhanced Radiative Torques from Multiwavelength Dust Polarization Modeling of HL Tau</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f74</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f74</guid>
 <content:encoded><![CDATA[
-<div> Atacama Large Millimeter/Submillimeter Array, dust polarization, protoplanetary disks, grain alignment, POLARIS code, iron inclusions<br><br>总结:<br>该研究利用更新的POLARIS代码，对HL Tau在0.87、1.3和3.1毫米三个波长的观测进行了数值建模，结果表明只有当大颗粒内嵌含铁并且具有错误的内部排列时（即颗粒的长轴平行于其角动量），才能复现观测到的多波段偏振现象。铁的丰度被限制为≳16%，每个团簇中的铁原子数为Ncl∼9×102。在波长为λ=0.87、1.3和3.1毫米时，探测到的最大颗粒尺寸分别被限制为∼60、80和90μm。 <div>
+<div> Atacama Large Millimeter/Submillimeter Array, dust polarization, protoplanetary disks, grain alignment, POLARIS code, iron inclusions<br /><br />总结:<br />该研究利用更新的POLARIS代码，对HL Tau在0.87、1.3和3.1毫米三个波长的观测进行了数值建模，结果表明只有当大颗粒内嵌含铁并且具有错误的内部排列时（即颗粒的长轴平行于其角动量），才能复现观测到的多波段偏振现象。铁的丰度被限制为≳16%，每个团簇中的铁原子数为Ncl∼9×102。在波长为λ=0.87、1.3和3.1毫米时，探测到的最大颗粒尺寸分别被限制为∼60、80和90μm。 <div>
 The Atacama Large Millimeter/Submillimeter Array has revolutionized the field of dust polarization in protoplanetary disks across multiple wavelengths. Previous observations and empirical modeling have suggested multiple mechanisms of dust polarization toward HL Tau, including grain alignment and dust scattering. However, a detailed modeling of dust polarization based on grain alignment physics is not yet available. Here, using an updated POLARIS code, we perform numerical modeling of dust polarization arising from both grain alignment by the magnetically enhanced radiative torque mechanism and self-scattering to reproduce the HL Tau polarization observed at three wavelengths of 0.87, 1.3, and 3.1 mm. Our modeling results show that the observed multiwavelength polarization could be reproduced only when large grains contain embedded iron inclusions and those with slow internal relaxation must have wrong internal alignment (i.e., the grain’s major axis parallel to its angular momentum). The abundance of iron embedded inside grains in the form of clusters is constrained to be ≳16%, and the number of iron atoms per cluster is Ncl ∼ 9 × 102. Maximum grain sizes probed at wavelengths of λ = 0.87, 1.3, and 3.1 mm are constrained at ∼60, 80, and 90 μm, respectively.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -21,10 +84,9 @@ The Atacama Large Millimeter/Submillimeter Array has revolutionized the field of
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad500f</guid>
 <content:encoded><![CDATA[
 <div> 关键词: Hα emission, Be stars, NGC 330, Magellanic Clouds, stellar population
-总结:<br><br>这篇文章介绍了利用Hα发射来评估年轻开放星团中经典Be星(CBe)的种群。通过使用SAMI进行多波段成像，研究了NGC 330的恒星种群。研究发现，在NGC 330中Hα发射体的总比例为4.4%，而在较高质量星体中高达32.8%。此外，发现了质量分层结构，表明NGC 330内存在明显的质量分层。这些发现突出了当前观察对于在NGC 330提供CBe星群的完整图片的重要性。 <div>
+总结:<br /><br />这篇文章介绍了利用Hα发射来评估年轻开放星团中经典Be星(CBe)的种群。通过使用SAMI进行多波段成像，研究了NGC 330的恒星种群。研究发现，在NGC 330中Hα发射体的总比例为4.4%，而在较高质量星体中高达32.8%。此外，发现了质量分层结构，表明NGC 330内存在明显的质量分层。这些发现突出了当前观察对于在NGC 330提供CBe星群的完整图片的重要性。 <div>
 Hα emission is a clear indicator of circumstellar activity in Be stars, historically employed to assess the classical Be star (CBe) population in young open clusters (YOCs). The YOC NGC 330 in the Small Magellanic Cloud exhibits a large known fraction of CBe stars and was selected for a pilot study to establish a comprehensive methodology for identifying Hα emitters in the Magellanic Clouds, encompassing the entire B-type spectral range. Using the SOAR Adaptive Module Imager (SAMI), we investigated the stellar population of NGC 330 using multiband BVRI+Hα imaging. We identified Hα emitters within the entire V-band range covered by SAMI/SOAR observations (V ≲ 22), comprising the complete B-type stellar population and offering a unique opportunity to explore the Be phenomenon across all spectral subclasses. The stellar radial distribution shows a clear bimodal pattern between the most massive (B5 or earlier) and the lower mass main-sequence objects (later than B6) within the cluster. The former is concentrated toward the cluster center (showing a dispersion of σ = 4.26 ± 0.20 pc), whereas the latter extends across larger radii (σ = 10.83 ± 0.65 pc), indicating mass stratification within NGC 330. The total fraction of emitters is 4.4% ± 0.5%, notably smaller than previous estimates from flux- or seeing-limited observations. However, a higher fraction of Hα emitters is observed among higher mass stars (32.8% ± 3.4%) than within lower mass (4.4% ± 0.9%). Consequently, the putative CBe population exhibits distinct dynamical characteristics compared to the bulk of the stellar population in NGC 330. These findings highlight the significance of the current observations in providing a complete picture of the CBe population in NGC 330.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -32,12 +94,11 @@ Hα emission is a clear indicator of circumstellar activity in Be stars, histori
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5185</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5185</guid>
 <content:encoded><![CDATA[
-<div> gravitational scattering, three-body binary formation, unequal masses, wide-binary formation, energy dissipation<br>
-总结:<br>
+<div> gravitational scattering, three-body binary formation, unequal masses, wide-binary formation, energy dissipation<br />
+总结:<br />
 本研究探讨了三体双星形成问题，考虑了质量不相等、有限大小和后牛顿效应等因素。研究发现，三体双星形成多通过非共振相互作用实现，并且偏好形成宽双星。在宽双星中，三体双星形成时偏心率较高，这或许有助于解释天文观测中观测到的偏心率较高的宽双星。相比之下，硬双星形成相对较少，且具有热力学偏心率分布。能量耗散通过引力辐射导致从三个最初无关联体系中形成绑定的分级三体系统的概率较小。总的来说，本研究揭示了三体双星形成的一些重要特征和概率分布。 <div>
 We explore three-body binary formation (3BBF), the formation of a bound system via gravitational scattering of three initially unbound bodies (3UB), using direct numerical integrations. For the first time, we consider systems with unequal masses, as well as finite-size and post-Newtonian effects. Our analytically derived encounter rates and numerical scattering results reproduce the 3BBF rate predicted by Goodman & Hut for hard binaries in dense star clusters. We find that 3BBF occurs overwhelmingly through nonresonant encounters and that the two most-massive bodies are never the most likely to bind. Instead, 3BBF favors pairing the two least-massive bodies (for wide binaries) or the most- plus least-massive bodies (for hard binaries). 3BBF overwhelmingly favors wide-binary formation with superthermal eccentricities, perhaps helping to explain the eccentric wide binaries observed by Gaia. Hard-binary formation is far rarer, but with a thermal eccentricity distribution. The semimajor axis distribution scales cumulatively as a3 for hard and slightly wider binaries. Although mergers are rare between black holes when including relativistic effects, direct collisions occur frequently between main-sequence stars—more often than hard 3BBF. Yet, these collisions do not significantly suppress hard 3BBF at the low-velocity dispersions typical of open or globular clusters. Energy dissipation through gravitational radiation leads to a small probability of a bound, hierarchical triple system forming directly from 3UB.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -45,11 +106,10 @@ We explore three-body binary formation (3BBF), the formation of a bound system v
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad51de</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad51de</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 大尺度结构, 宇宙学参数, 旋转, 演化, 引力波<br>
-<br>这篇文章研究了附近非均匀性对观测者对哈勃常数推断的影响。大尺度结构引起了宇宙学参数对观察者位置的依赖性，以及这些参数在观察者视野中的各向异性方差。作者使用数值相对论模拟的大尺度结构和光线追踪相结合，生成了合成目录，模仿低红移Pantheon超新星数据集。数据包含模拟中测地线上距离和红移的广义相对论贡献。他们使用这些合成观测来约束一组随机位置的观察者的H0。研究了观察者位置的依赖性以及旋转SNe样本对观察者的天空的影响。他们发现当观察者使用各向同性样本时，H0在不同观察者之间有1%–2%的变化。然而，他们发现当观察者简单地在天空上旋转他们的Pantheon数据集时，推断的H0值可能会变化高达3%–6%。尽管我们发现的方差低于“哈勃张力”的水平，但我们的结果可能表明，如果能够正确考虑扩张的各向异性，张力的重要性可能会减少。<br><br>总结: 本文研究了大尺度结构对观测者哈勃常数推断的影响，发现观察者位置和超新星样本旋转会对H0的推断产生1%–6%的变化。这可能暗示着在正确考虑扩张的各向异性情况下，哈勃张力的重要性可能会减少。 <div>
+<div> 关键词: 大尺度结构, 宇宙学参数, 旋转, 演化, 引力波<br />
+<br />这篇文章研究了附近非均匀性对观测者对哈勃常数推断的影响。大尺度结构引起了宇宙学参数对观察者位置的依赖性，以及这些参数在观察者视野中的各向异性方差。作者使用数值相对论模拟的大尺度结构和光线追踪相结合，生成了合成目录，模仿低红移Pantheon超新星数据集。数据包含模拟中测地线上距离和红移的广义相对论贡献。他们使用这些合成观测来约束一组随机位置的观察者的H0。研究了观察者位置的依赖性以及旋转SNe样本对观察者的天空的影响。他们发现当观察者使用各向同性样本时，H0在不同观察者之间有1%–2%的变化。然而，他们发现当观察者简单地在天空上旋转他们的Pantheon数据集时，推断的H0值可能会变化高达3%–6%。尽管我们发现的方差低于“哈勃张力”的水平，但我们的结果可能表明，如果能够正确考虑扩张的各向异性，张力的重要性可能会减少。<br /><br />总结: 本文研究了大尺度结构对观测者哈勃常数推断的影响，发现观察者位置和超新星样本旋转会对H0的推断产生1%–6%的变化。这可能暗示着在正确考虑扩张的各向异性情况下，哈勃张力的重要性可能会减少。 <div>
 We study the impact of nearby inhomogeneities on an observer’s inference of the Hubble constant. Large-scale structures induce a dependence of cosmological parameters on observer position as well as an anisotropic variance of those parameters across an observer’s sky. While the former has been explored quite thoroughly, the latter has not. Incomplete sampling of an anisotropic sky could introduce a bias in our cosmological inference if we assume an isotropic expansion law. In this work, we use numerical relativity simulations of large-scale structure combined with ray tracing to produce synthetic catalogs mimicking the low-redshift Pantheon supernova (SN) data set. Our data contain all general-relativistic contributions to fluctuations in the distances and redshifts along geodesics in the simulation. We use these synthetic observations to constrain H0 for a set of randomly positioned observers. We study both the dependence on observer position as well as the impact of rotating the sample of SNe on the observer’s sky. We find a 1%–2% variance in H0 between observers when they use an isotropic sample of objects. However, we find the inferred value of H0 can change by up to 3%–6% when observers simply rotate their Pantheon data set on the sky. While the variances we find are below the level of the “Hubble tension,” our results may suggest a reduction in the significance of the tension if anisotropy of expansion can be correctly accounted for.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
 <item>
@@ -57,14 +117,12 @@ We study the impact of nearby inhomogeneities on an observer’s inference of th
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b8</guid>
 <content:encoded><![CDATA[
-<div> 磁圈, 气泡, 日冕物质抛射, Hα观测, 磁拓扑<br>
-气泡形成的原因有两种分类：Type-I气泡是相对稳定的，持续几小时，表明存在准稳定的磁场拓扑；而Type-II气泡生长和崩溃迅速，在1小时内不稳定。观察发现Type-II气泡伴随着喷射小丝的迅速出现和扩展，与气泡边界相撞后崩溃，形成向上的大型喷流。这种崩溃的气泡形成与喷射小丝与上方日冕物质的相互作用有关。<br><br>总结: <br>通过Hα观测发现气泡可分为稳定的Type-I和不稳定的Type-II两种。Type-II气泡伴随喷射小丝的迅速扩展，与气泡边界相撞后崩溃，形成向上的大型喷流。这种崩溃的气泡形成与喷射小丝与上方日冕物质的相互作用有关。 <div>
+<div> 磁圈, 气泡, 日冕物质抛射, Hα观测, 磁拓扑<br />
+气泡形成的原因有两种分类：Type-I气泡是相对稳定的，持续几小时，表明存在准稳定的磁场拓扑；而Type-II气泡生长和崩溃迅速，在1小时内不稳定。观察发现Type-II气泡伴随着喷射小丝的迅速出现和扩展，与气泡边界相撞后崩溃，形成向上的大型喷流。这种崩溃的气泡形成与喷射小丝与上方日冕物质的相互作用有关。<br /><br />总结: <br />通过Hα观测发现气泡可分为稳定的Type-I和不稳定的Type-II两种。Type-II气泡伴随喷射小丝的迅速扩展，与气泡边界相撞后崩溃，形成向上的大型喷流。这种崩溃的气泡形成与喷射小丝与上方日冕物质的相互作用有关。 <div>
 Prominence bubbles, the dark arch-shaped voids below quiescent prominences, are generally believed to be caused by the interaction between the prominences and the slowly emerging or quasi-stable underlying magnetic loops. However, this scenario could not explain some short-lived bubbles with extremely dynamic properties of evolution. Based on high-resolution Hα observations, here we propose that bubbles should be classified into two categories according to their dynamic properties: quasi-steady Type-I bubbles and transient Type-II bubbles. Type-I bubbles could remain relatively stable and last for several hours, indicating the existence of a quasi-stable magnetic topology, while Type-II bubbles grow and collapse quickly within 1 hr without stability duration, which are usually associated with erupting minifilaments. Analysis of several typical Type-II bubbles from different views, especially including an on-disk event, reveals that Type-II bubbles quickly appear and expand at a velocity of ∼5–25 km s−1 accompanied by an erupting minifilament below. The minifilament’s rising velocity is slightly larger than that of the Type-II bubbles’ boundary, which will lead to the collision with each other in a short time, subsequent collapse of Type-II bubbles, and formation of a large plume into the above prominence. We also speculate that only if the angle between the axis of the erupting minifilament and the line of sight is large enough, the interaction between the erupting minifilament and the overlying prominence could trigger a Type-II bubble with a typical arch-shaped but quickly expanding bright boundary.
 ]]></content:encoded>
-
 <pubDate>2024-07-23T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Infrared Spectroscopic and Physical Properties of Methanol Ices—Reconciling the Conflicting Published Band Strengths of an Important Interstellar Solid</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47a5</link>
@@ -11577,63 +11635,6 @@ This study conducts mineralogical and chemical investigations on the oldest acho
 We present the results from an analysis of multiwavelength archival data on the multiphase outflow in the starburst galaxy NGC 1808. We report the detection at 70 and 100 μm of dust filaments that extend up to ∼13 kpc from the galactic midplane and trace an edge-brightened biconical structure along the minor axis of the galaxy. The inner filaments are roughly cospatial with previously identified optical dust filaments, extraplanar polycyclic aromatic hydrocarbon emission, and neutral and ionized gaseous outflows. The 70/160 μm flux ratio, a proxy for the dust temperature, is elevated along the edges of the cones, indicating that the dusty medium has been driven out of the central regions of these cones and is possibly shock-heated by a large-scale outflow. We establish lower limits on the extraplanar dust mass and mean height above the stellar disk of and ∣ z ∣ ∼ 5 kpc. The energy requirement of (5.1–9.6) × 1056 erg needed to lift the dusty material, assuming a Milky Way–like dust-to-gas ratio, can be supplied by the current starburst, with a measured star formation rate of 3.5–5.4 M⊙ yr−1 over a timescale of (4–26) ξ−1 Myr, where ξ is the efficiency of energy transfer. We conclude that a starburst-driven outflow is the most likely mechanism by which the dust features were formed.
 ]]></content:encoded>
 <pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Young Star Clusters Dominate the Production of Detached Black Hole–Star Binaries</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2c</guid>
-<content:encoded><![CDATA[
-The recent discovery of two detached black hole–star (BH–star) binaries from Gaia’s third data release has sparked interest in understanding the formation mechanisms of these systems. We investigate the formation of these systems by dynamical processes in young star clusters (SCs) and via isolated binary (IB) evolution, using a combination of direct N-body and population synthesis simulations. We find that dynamical formation in SCs is nearly 50 times more efficient per unit of star formation at producing BH–star binaries than IB evolution. We expand this analysis to the full Milky Way (MW) using a FIRE-2 hydrodynamical simulation of an MW-mass galaxy. Even assuming that only 10% of star formation goes into SCs, we find that approximately four out of every five BH–star systems are formed dynamically, and that the MW contains a total of ∼2 × 105 BH–star systems. Many of these dynamically formed systems have longer orbital periods, greater eccentricities, and greater black hole masses than their isolated counterparts. For binaries older than 100 Myr, we show that any detectable system with e ≳ 0.5 or MBH ≳ 10 M⊙ can only be formed through dynamical processes. Our MW model predicts between 64 and 215 such detections from the complete DR4 Gaia catalog, with the majority of systems being dynamically formed in massive and metal-rich SCs. Finally, we compare our populations to the recently discovered Gaia BH1 and Gaia BH2, and conclude that the dynamical scenario is the most favorable formation pathway for both systems.
-]]></content:encoded>
-<pubDate>2024-04-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing Dark Energy and Modifications of Gravity with Ground-based millimeter-wavelength Line Intensity Mapping</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2078</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2078</guid>
-<content:encoded><![CDATA[
-<div> Line intensity mapping, LIM, ground-based millimeter-wavelength surveys, dark energy, theory of gravity
-总结: 
-本文研究了下一代地基毫米波波长LIM调查在约束ΛCDM以外的几种模型方面的潜力。研究考虑了CO旋转线的自相关谱和[C ii]精细结构线的测量，在红移范围为0.25< z <12。作者针对约旦-布朗斯-迪克和轴子驱动的早期暗能量模型以及基于宇宙尺度的引力有效描述的三个现象模型进行了深入研究。研究表明，未来十年内可部署的LIM调查具有显著改善所有考虑模型的潜力，提高水平从几倍到一个数量级。 <div>
-Line intensity mapping (LIM) can provide a powerful means to constrain the theory of gravity and the nature of dark energy at low and high redshifts by mapping the large-scale structure over many redshift epochs. In this paper, we investigate the potential of the next generation ground-based millimeter-wavelength LIM surveys in constraining several models beyond ΛCDM, involving either a dynamic dark energy component or modifications of the theory of gravity. Limiting ourselves to two-point clustering statistics, we consider the measurements of auto-spectra of several CO rotational lines (from J = 2−1 to J = 6−5) and the [C ii] fine structure line in the redshift range of 0.25 < z < 12. We consider different models beyond ΛCDM, each one with different signatures and peculiarities. Among them, we focus on Jordan–Brans–Dicke and axion-driven early dark energy models as examples of well-studied scalar-tensor theories acting at late and early times, respectively. Additionally, we consider three phenomenological models based on an effective description of gravity at cosmological scales. We show that LIM surveys deployable within a decade (with ∼108 spectrometer hours) have the potential to improve upon the current bounds on all considered models significantly. The level of improvements range from a factor of a few to an order of magnitude.
-]]></content:encoded>
-<pubDate>2024-03-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Pulsed Iron Line Emission from the First Galactic Ultraluminous X-Ray Pulsar Swift J0243.6+6124</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad24f8</guid>
-<content:encoded><![CDATA[
-<div> 关键词: PULX, Swift J0243.6+6124, Insight-HXMT, 铁线, 脉冲特征<br />
-总结: <br />
-本研究报告了第一个银河脉冲超亮X射线源 (PULX) Swift J0243.6+6124 的相位分辨光谱结果，利用由硬X射线调制望远镜 (Insight-HXMT) 收集的数据对其2017年至2018年的突发峰值进行建模。Insight-HXMT的广泛能量覆盖范围使我们能够获得更精确的光谱连续体，以减少广铁线轮廓与其他组件之间的耦合。我们使用三种不同的连续体光谱模型，但得到类似的铁线结果。首次在PULX中检测到广铁线的脉冲特征。该铁线宽度和强度的变化，σ约为1.2-1.5keV，其相位偏移约为脉冲相位的0.25。我们推测内部厚盘不均匀的受加速柱的辐射产生了广铁线的调制变化。此外，非脉冲窄线被认为来自外部盘区域。 <div>
-We report the phase-resolved spectral results of the first Galactic pulsating ultraluminous X-ray source (PULX) Swift J0243.6+6124, modeling its 2017–2018 outburst peak using data collected by the Hard X-ray Modulation Telescope (Insight-HXMT). The broad energy coverage of Insight-HXMT allows us to obtain a more accurate spectral continuum to reduce the coupling of broad iron line profiles with other components. We use three different continuum spectrum models but obtain similar iron line results. For the first time, we detect the pulse characteristics of the broad iron line in a PULX. The variation in the width and intensity of this iron line with σ ∼ 1.2–1.5 keV has a phase offset of about 0.25 from the pulse phase. We suggest that the uneven irradiation of the thick inner disk by the accretion column produces the modulated variation of the broad iron line. In addition, the nonpulsed narrow line is suggested to come from the outer disk region.
-]]></content:encoded>
-<pubDate>2024-03-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Optical- and UV-continuum Morphologies of Compact Radio Source Hosts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2513</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2513</guid>
-<content:encoded><![CDATA[
-<div> CSS galaxies, AGN feedback, UV emission, jet-induced star formation, Hubble Space Telescope
-
-总结:<br /><br />本文首次系统搜索紧凑陡峭谱（CSS）射电星系中来自射电源驱动的活跃星系核（AGN）反馈的紫外线特征。通过对7个强大的CSS星系进行观察，发现其中6个存在延伸的紫外线连续发射，与射电喷流轴向共同存在的紫外线结。这表明射电诱导的恒星形成可能是原因。此外，观察结果与演化综合模型一致，显示出最近约1-8百万年内的星形成活动可能是由当前或较早期的射电发射引发的，或者是由于受到周围密集环境的限制，射电源增长受挫。虽然需要进一步观测来限制观察到的紫外线中的活动相关成分，但检测到的射流诱导恒星形成确认了射流反馈模型的一个重要预测。 <div>
-We present the first systematic search for UV signatures from radio source-driven active galactic nuclei (AGN) feedback in Compact Steep Spectrum (CSS) radio galaxies. Owing to their characteristic sub-galactic jets (1–20 kpc projected linear sizes), CSS hosts are excellent laboratories for probing galaxy scale feedback via jet-triggered star formation. The sample consists of seven powerful CSS galaxies, and two galaxies host to radio sources >20 kpc as the control, at low to intermediate redshifts (z < 0.6). Our new Hubble Space Telescope images show extended UV continuum emission in six out of seven CSS galaxies, with five CSS hosts exhibiting UV knots cospatial and aligned along the radio-jet axis. Young (≲ 10 Myr), massive (≳ 5 M⊙) stellar populations are likely to be the dominant source of the blue excess emission in radio galaxies at these redshifts. Hence, the radio-aligned UV regions could be attributed to jet-induced starbursts. Lower near-UV star formation rates compared to other indicators suggest low scattered AGN light contribution to the observed UV. Dust attenuation of UV emission appears unlikely from high internal extinction correction estimates in most sources. Comparison with evolutionary synthesis models shows that our observations are consistent with recent (∼1−8 Myr old) star-forming activity likely triggered by current or an earlier episode of radio emission, or by a confined radio source that has frustrated growth, due to a dense environment. While follow-up spectroscopic and polarized light observations are needed to constrain the activity-related components in the observed UV, the detection of jet-induced star formation is a confirmation of an important prediction of the jet feedback paradigm.
-]]></content:encoded>
-<pubDate>2024-03-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Inferring Fundamental Properties of the Flare Current Sheet Using Flare Ribbons: Oscillations in the Reconnection Flux Rates</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25f4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25f4</guid>
-<content:encoded><![CDATA[
-<div> 磁重联、太阳耀斑、观测约束、磁重联通量、磁重联速率
-
-总结:本研究关注太阳耀斑中的磁重联过程，通过研究后重联场线的演变和太阳黑子区域的磁场等特征来估计磁重联通量和速率，发现在73次耀斑中存在准周期脉动现象，脉动周期在1至4分钟之间，同时还发现硬X射线辐射存在几乎同时的爆发。研究结论指出，当前张中的等离子体团可能解释了磁重联速率和硬X射线辐射中准周期现象的存在。 <div>
-Magnetic reconnection is understood to be the main physical process that facilitates the transformation of magnetic energy into heat, motion, and particle acceleration during solar eruptions. Yet, observational constraints on reconnection region properties and dynamics are limited due to a lack of high-cadence and high-spatial-resolution observations. By studying the evolution and morphology of postreconnected field-lines footpoints, or flare ribbons and vector photospheric magnetic field, we estimate the magnetic reconnection flux and its rate of change with time to study the flare reconnection process and dynamics of the current sheet above. We compare high-resolution imaging data to study the evolution of the fine structure in flare ribbons as ribbons spread away from the polarity inversion line. Using data from two illustrative events (one M- and X-class flare), we explore the relationship between the ribbon-front fine structure and the temporal development of bursts in the reconnection region. Additionally, we use the RibbonDB database to perform statistical analysis of 73 (C- to X-class) flares and identify quasiperiodic pulsation (QPP) properties using the Wavelet Transform. Our main finding is the discovery of QPP signatures in the derived magnetic reconnection rates in both example events and the large flare sample. We find that the oscillation periods range from 1 to 4 minutes. Furthermore, we find nearly cotemporal bursts in Hard X-ray (HXR) emission profiles. We discuss how dynamical processes in the current sheet involving plasmoids can explain the nearly cotemporal signatures of quasiperiodicity in the reconnection rates and HXR emission.
-]]></content:encoded>
-<pubDate>2024-03-31T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
