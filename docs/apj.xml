@@ -5,19 +5,125 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Position-dependent Radiation Fields near Accretion Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a70</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a70</guid>
+<content:encoded><![CDATA[
+<div> 关键词：盘风模型，活动星系核，辐射力，离子化，平均强度。
+
+总结:
+盘风模型用于研究活动星系核的外流，其中高能辐射会导致离子化问题。研究发现，辐射场属性依赖于位置，但不同场量的依赖性并不相同。平均强度的位置依赖性影响了气体的光学厚度，从而减轻了过度离子化问题。另外，对于垂直加速流动，由于辐射力的几何加权和平均强度的位置依赖性，导致辐射力不与辐射通量平行。这些发现为理解活动星系核的能量传输和气体动力学提供了重要线索。 <div>
+In disk-wind models for active galactic nuclei outflows, high-energy radiation poses a significant problem wherein the gas can become overionized, effectively disabling what is often inferred to be the largest force acting on the gas: the radiation force due to spectral line opacity. Calculations of this radiation force depend on the magnitude of ionizing radiation, which can strongly depend on the position above a disk where the radiation is anisotropic. As our first step to quantify the position and direction dependence of the radiation field, we assumed free streaming of photons and computed energy distributions of the mean intensity and components of flux as well as energy-integrated quantities such as mean photon energy. We find a significant dependence of radiation-field properties on position, but this dependence is not necessarily the same for different field quantities. A key example is that the mean intensity is much softer than the radial flux at many points near the disk. Because the mean intensity largely controls ionization, this softening decreases the severity of the overionization problem. The position dependence of mean intensity implies the position dependence of gas opacity, which we illustrate by computing the radiation force a fluid element feels in an accelerating wind. We find that in a vertical accelerating flow, the force due to radiation is not parallel to the radiation flux. This misalignment is due to the force’s geometric weighting by both the velocity field’s directionality and the position dependence of the mean intensity.
+]]></content:encoded>
+
+<pubDate>2024-07-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Why Observations at Mid-infrared Wavelengths Partially Mitigate M Dwarf Star Host Stellar Activity Contamination in Exoplanet Transmission Spectroscopy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad509a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad509a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: exoplanet, M dwarf stars, transmission spectroscopy, infrared wavelengths, stellar contamination
+
+总结: 
+本文讨论了围绕M矮星运转的外行星大气透射光谱学面临的挑战，特别是来自恒星磁特征（如斑和光斑）的污染。作者指出，在红外波长下进行观测可以部分减轻恒星污染的影响，因为在这些波长下，温度对光强度的敏感度减弱，从而减少了斑和光斑对光谱的影响。此外，作者还指出，在红外波长下，恒星的光谱特征会减弱，这是由于普朗克函数随温度呈线性变化的结果。外行星大气透射光谱特征的深度则主要由行星大气垂直尺度决定，并不会随波长基本变化。因此，在中红外波长下，恒星污染会减弱几倍，但是否足以规避恒星污染最终取决于斑点覆盖区域的大小。尽管如此，红外波长下热发射光谱特征的平坦化是普遍存在的。 <br><br> <div>
+Exoplanet atmosphere transmission spectroscopy for planets orbiting M dwarf stars faces significant challenges due to contamination from stellar magnetic features, i.e., spots and faculae. These features make the stellar surface inhomogeneous and introduce wavelength-dependent signals in the transmission spectrum that complicate its analysis. We identify and explain why using observations at infrared wavelengths greater than a few microns partially mitigates stellar contamination. At these wavelengths the intensity sensitivity to temperature weakens, with two significant consequences. First, the contribution of spots and faculae has a diminished effect because their flux contrast to the quiet-star regions lessens. Second, the star’s spectral features compress in magnitude, an outcome of spectral features being shaped by the star’s photospheric vertical temperature gradient. Both factors are due to the Planck function moving from exponential to linear in temperature toward mid-infrared (mid-IR) wavelengths (the “Rayleigh–Jeans tail”). In contrast to stellar spectra, the depth of the transmission spectroscopy features does not fundamentally vary with wavelength as it is primarily determined by the planet’s atmospheric scale height. The magnitude of reduction in stellar contamination is a factor of a few to several at mid-IR versus near-IR wavelengths, but whether or not this is enough to bypass stellar contamination ultimately depends on the spot coverage area. Nonetheless, the flattening of thermal emission spectral features at IR wavelengths is universal.
+]]></content:encoded>
+
+<pubDate>2024-07-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Going Beyond the MHD Approximation: Physics-based Numerical Solution of the CGL Equations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50a4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50a4</guid>
+<content:encoded><![CDATA[
+<div> Chew-Goldberger-Low系统, numerical model, bi-Maxwellian plasma, 磁场, 数值模拟<br>
+<br>
+Chew-Goldberger-Low系统描述了磁场中的双Maxwell等离子体，在太阳圈层和地球空间环境中经常观察到呈各向异性状态，具有明显不同的平行和垂直压力分量。CGL系统代表了对常见各向同性MHD模型的最简单的一阶修正，该模型仍允许融合后者的最理想特性。然而，CGL系统存在一些数值挑战：系统不是守恒形式，源项僵硬，并且与MHD不同，如果平行和垂直压力变得过于不同，它容易失去双曲性。通常的方法是使平行和垂直压力彼此靠近，但这通常是以一种临时的方式完成的。文章提出了一种基于偏角散射思想的压力松弛的物理资讯方法，该方法保持了数值系统的双曲性，并在等离子体β非常大的极限下自然地导致各向同性。因此，基于CGL方程的数值代码可以在任何磁场强度下牢固地运行，包括磁场接近零的极限。我们使用了几个严格的测试问题来演示我们的新算法的功能，这些问题提供了在弱碰撞和强碰撞极限下CGL方程的比较。这包括一个模拟冲击波与2D磁层环境相互作用的测试问题。<br><br>总结: Chew-Goldberger-Low系统描述了具有各向异性的等离子体，该系统引入了一种基于偏角散射的物理资讯方法来解决数值挑战，保持系统的双曲性，并在等离子体β非常大的极限下自然地导致各向同性。作者使用了几个严格的测试问题来演示新算法的功能。 <div>
+We present a new numerical model for solving the Chew–Goldberger–Low system of equations describing a bi-Maxwellian plasma in a magnetic field. Heliospheric and geospace environments are often observed to be in an anisotropic state with distinctly different parallel and perpendicular pressure components. The Chew–Goldberger–Low (CGL) system represents the simplest leading order correction to the common isotropic MHD model that still allows the incorporation of the latter’s most desirable features. However, the CGL system presents several numerical challenges: the system is not in conservation form, the source terms are stiff, and unlike MHD, it is prone to a loss of hyperbolicity if the parallel and perpendicular pressures become too different. The usual cure is to bring the parallel and perpendicular pressures closer to one another, but that has usually been done in an ad hoc manner. We present a physics-informed method of pressure relaxation based on the idea of pitch-angle scattering that keeps the numerical system hyperbolic and naturally leads to zero anisotropy in the limit of very large plasma beta. Numerical codes based on the CGL equations can, therefore, be made to function robustly for any magnetic field strength, including the limit where the magnetic field approaches zero. The capabilities of our new algorithm are demonstrated using several stringent test problems that provide a comparison of the CGL equations in the weakly and strongly collisional limits. This includes a test problem that mimics the interaction of a shock with a magnetospheric environment in 2D.
+]]></content:encoded>
+
+<pubDate>2024-07-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling the Progenitor Stars of Observed Type IIP Supernovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50c6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50c6</guid>
+<content:encoded><![CDATA[
+<div> 关键词：SNe IIP, 爆发星, 星际金属, 星体质量, 星体旋转<br>
+<br>
+这篇文章使用一维恒星演化代码MESA，对SNe IIP和它们的原恒星进行了全面研究。他们发现更大质量的恒星展现出更长的平顶期，而更高的金属丰度导致了更高的不透明度和原恒星的质量损失。高速旋转影响了内部恒星结构，增强了对流混合和质量损失，潜在地影响了平顶期的亮度和持续时间。更高的爆发能量导致更明亮但持续时间更短的平顶期，而56Ni的质量影响着后期的亮度和持续时间。由此，他们得出了SNe IIP和其原恒星参数之间的关系。这些研究成果有助于更好地理解SNe IIP的起源和演化过程。<br><br>总结: 这篇文章使用MESA代码对SNe IIP和其原恒星进行了研究。通过比较光变曲线，发现了恒星质量、金属丰度、旋转速率、爆发能量和56Ni质量对SNe IIP的影响。研究结果有助于更好地理解SNe IIP的起源和演化过程。 <div>
+Type IIP supernovae (SNe IIP) are thought to originate from the explosion of massive stars >10 M⊙. Their luminosity is primarily powered by the explosion energy and the radioactive decay energy of 56Co, with the photosphere location regulated by hydrogen recombination. However, the physical connections between SNe IIP and their progenitor stars remain unclear. This paper presents a comprehensive study of SNe IIP and their progenitor stars by using the one-dimensional stellar evolution code, MESA. Our model grids consider the effects of stellar metallicity, mass, and rotation in the evolution of massive stars, as well as the explosion energy and 56Ni production in modeling supernovae. To elucidate the observed SNe IIP and their origins, we compare their light curves (LCs) with our models. Furthermore, we investigate the impact of stellar parameters on LCs by considering stellar mass, metallicity, rotation, explosion energy, and 56Ni production. We find that more massive stars exhibit longer plateaus due to increased photon diffusion time caused by massive ejecta. Higher metallicity leads to increased opacity and mass loss of progenitor stars. Rapid rotation affects internal stellar structures, enhancing convective mixing and mass loss, potentially affecting the plateau’s brightness and duration. Higher explosion energy results in brighter but shorter plateaus due to faster-moving ejecta. 56Ni mass affects late-time luminosity and plateau duration, with larger masses leading to slower declines.
+]]></content:encoded>
+
+<pubDate>2024-07-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Solar Coronal Heating by Kinetic Alfvén Waves</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bdc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bdc</guid>
+<content:encoded><![CDATA[
+<div> Cairns distribution, nonthermal attributes, space plasmas, kinetic Alfvén waves, solar corona
+<br><br>总结:
+本文介绍了在太空等离子体中利用Cairns分布对非热属性进行表征的重要性。文章提到，传统上非热波动被认为是在Maxwellian分布等离子体中的回旋半径修正项，但作者介绍了一种基于动力学理论和Cairns分布的创新视角。研究重点是在太阳冠中基于Cairns分布函数的动能阿尔夫文波的扰动电磁场比和Poynting流的比率。此外，文章还探讨了垂直分量和平行归一化Poynting流的功率率的细微评估。研究发现，相比于Maxwellian分布，大值的Λ表现出更有利的属性，特别是在沿环境磁场线延伸的距离上对等离子体的充能过程有显著影响。这些分析结果在理解太阳大气中的现象、尤其是在观测到的加热过程中非热粒子所起的重要作用上具有实际应用意义。 <div>
+The utilization of the Cairns distribution serves as a vital tool for characterizing the nonthermal attributes commonly observed in space plasmas. In these intricate plasma environments, extensive measurements have been conducted to monitor the fluctuations inherent in the perturbed electromagnetic (EM) field and the associated Poynting flux, specifically concerning kinetic Alfvén waves (KAWs). Traditionally, these fluctuations have been attributed to gyroradius correction terms within the framework of Maxwellian distributed plasmas. However, our study introduces an innovative perspective grounded in kinetic theory coupled with the Cairns distribution, adept at encapsulating the nonthermal nuances characterized by the index parameter Λ. Within the domain of the solar corona, our investigation centers on the perturbed EM field ratios and the Poynting flux of KAWs, with a foundation in the Cairns distribution function. It is noteworthy that the perpendicular components, although deemed less significant due to the dominance of k⊥ over k∥, remain unquantified regarding their relative insignificance. Similarly, the exploration of the imaginary part of the normalized EM field ratio has been a relatively understudied domain. Furthermore, we delve into the nuanced assessment of the power rate Ix/Iz characterizing the perpendicular and parallel normalized Poynting fluxes (Sx and Sz). Intriguingly, we discern that large values of Λ, compared to their Maxwellian counterparts, manifest advantageous attributes, particularly concerning the energization of the plasma over extended distances along the ambient magnetic field lines. The analytical insights gleaned from this study find practical application in understanding phenomena within the solar atmosphere, particularly shedding light on the significant role played by nonthermal particles in the observed heating processes.
+]]></content:encoded>
+
+<pubDate>2024-07-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Galaxy Ages with Redshift z = 2–4: Stellar Population Synthesis for Candidates in FourStar Galaxy Evolution Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce4</guid>
+<content:encoded><![CDATA[
+<div> 高红移、大质量星系、恒星形成、SED拟合、宇宙学
+
+这项研究使用了FourStar Galaxy Evolution Survey目录中的200个V形光谱能量分布非活动星系的数据，通过对它们的SED进行拟合，得出了它们的平均年龄。研究发现，在红移较高的星系中，它们的平均年龄较年轻，但在红移大于2.5的星系中，平均年龄并没有显著的变化，大多数星系的平均年龄在1到2亿年之间。此外，研究还发现，大质量星系的年龄较大，通常在10亿年以上，并且比较小质量星系的形成时间更早。这些发现有助于对标准宇宙学中的星系形成模型进行讨论。 <br><br>总结: 这项研究利用星系的SED数据，发现高红移星系的平均年龄较年轻，但随着红移的增加，星系的平均年龄并没有显著变化，大质量星系的年龄较大且形成较早。这些发现对于讨论标准宇宙学中的星系形成模型具有重要意义。 <div>
+Observations of large amounts of massive galaxies with relatively old populations found at high redshifts are challenging galaxy formation scenarios within the standard cosmology. Precise determinations of the average age of these galaxies would be useful for the discussion of this problem. Here we carry out a better constraint of the age of 200 V-shaped spectral energy distribution (SED) nonactive galactic nucleus galaxies at redshifts 2 < z < 4 of the catalog of the FourStar Galaxy Evolution Survey, identified by the V shape in their SED with a Lyman and a Balmer break. The SED fitting includes a main stellar population in addition to a residual younger population and extinction. The galaxies are younger at a higher redshift on average. However, for the galaxies with z > 2.5, we do not see a significant evolution of their average age, with all average ages of the galaxies mostly remaining between 1 and 2 Gyr. Our research finds that most massive galaxies (∼1010M⊙) are older (typically > ∼1 Gyr old) and formed earlier than less massive galaxies in our sample.
+]]></content:encoded>
+
+<pubDate>2024-07-25T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Formation of Filaments and Dense Cores in the Cocoon Nebula (IC 5146)</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f85</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f85</guid>
+<content:encoded><![CDATA[
+<div> 线偏振、C18O、13CO分子线、磁场、丝状星云
+
+总结:
+850μm线偏振和C18O (3 − 2)以及13CO (3 − 2)分子线观测表明，Cocoon星云(IC 5146)中的F13和F13S丝状结构是热过临界的，其中有识别出沿其顶部的密集核心。磁场向量在核心尺度上倾向于与丝状结构平行，但在高密度区域会受到扰动。通过Davis–Chandrasekhar–Fermi方法测量的磁场强度为58 ± 31μG和40 ± 9μG，表明这些丝状结构是次临界的和次Alfvén速度的，强调了磁场在Cocoon星云中的重要性。此外，通过观测到的C18O (3 − 2)速度和密度分布以及13CO (3 − 2)数据的大尺度速度场，我们提出了F13和F13S的形成和演化情景。辐射冲击波产生于大约1.4百万年前与类B星发生碰撞，丝状结构成为热过临界，随后通过重力分割形成了密集核心，同时伴随着磁场的扰动。 <div>
+We present 850 μm linear polarization and C18O (3 − 2) and 13CO (3 − 2) molecular line observations toward the filaments (F13 and F13S) in the Cocoon Nebula (IC 5146) using the JCMT POL-2 and Heterodyne Array Receiver Program instruments. F13 and F13S are found to be thermally supercritical with identified dense cores along their crests. Our findings include that the polarization fraction decreases in denser regions, indicating reduced dust grain alignment efficiency. The magnetic field vectors at core scales tend to be parallel to the filaments, but disturbed at the high density regions. Magnetic field strengths measured using the Davis–Chandrasekhar–Fermi method are 58 ± 31 and 40 ± 9 μG for F13 and F13S, respectively, and it reveals subcritical and sub-Alfvénic filaments, emphasizing the importance of magnetic fields in the Cocoon region. Sinusoidal C18O (3 − 2) velocity and density distributions are observed along the filaments’ skeletons, and their variations are mostly displaced by ∼1/4 × the wavelength of the sinusoid, indicating core formation occurred through the fragmentation of a gravitationally unstable filament, but with shorter core spacings than predicted. Large-scale velocity fields of F13 and F13S, studied using 13CO (3 − 2) data, present a V-shape transverse velocity structure. We propose a scenario for the formation and evolution of F13 and F13S, along with the dense cores within them. A radiation shock front generated by a B-type star collided with a sheet-like cloud about 1.4 Myr ago. The filaments became thermally critical due to mass infall through self-gravity ∼1 Myr ago, and subsequently, dense cores formed through gravitational fragmentation, accompanied by the disturbance of the magnetic field.
+]]></content:encoded>
+
+<pubDate>2024-07-24T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Magnetic Spectra Comparison for Kappa-distributed Whistler Electron Fluctuations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad500d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad500d</guid>
+<content:encoded><![CDATA[
+<div> kappa distributions, plasma, electromagnetic fluctuations, magnetized plasma, electron cyclotron whistler mode fluctuations
+<br>总结:
+本文研究了在内太阳圈中的kappa分布等离子体，在这种分布中，等离子体会自发地发出电磁波动。 当超热电子参与其中时，这些自发辐射会得到增强。此外，文章还通过比较磁谱对电子回旋骚扰模式波动进行了系统的定量比较。结果表明，磁场波动的能量水平随着β值的增加和κ值的减小而增加。另外，对于kappa分布而言，当κ值减小时，磁场波动的总能量会减少。 <div>
+In the inner heliosphere, space measurements have revealed that plasma is well described by the kappa distributions, which are characterized by the value of the κ parameter. This parameter indicates how far plasma is from the ideal Maxwell–Boltzmann equilibrium distribution and gives the distribution a typical high-energy power-law tail. In these quasi-equilibrium conditions, the plasma spontaneously emits electromagnetic fluctuations. When suprathermal electrons are involved, these spontaneous emissions get enhanced, and the kappa distributions improve the description of the related nonthermal effects by taking into account the contribution of these high-energy electrons. Nevertheless, the kappa distributions describe different scenarios in which the velocity distribution may obey a power-law decay. Here, we present a systematic and quantitative comparison of kappa-distributed magnetized plasma through a comparison of magnetic spectra for electron cyclotron whistler mode fluctuations. Our results show that for a kappa distribution with a thermal speed equal to the one obtained in thermal equilibrium, the magnetic field fluctuations exhibit higher energy levels that scale with increasing values of β and decreasing values of κ, even though the same thermal speed is considered for all studied cases. Conversely, for a kappa distribution with a kappa-dependent thermal speed, the magnetic field fluctuations tend to exhibit less total energy with lower kappa values, even when compared to the Maxwellian distribution equilibrium results in the same range of parameters.
+]]></content:encoded>
+
+<pubDate>2024-07-24T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Statistical Analysis of Pulsar Flux Density Distribution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5001</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5001</guid>
 <content:encoded><![CDATA[
 <div> Millisecond pulsars, spectral properties, frequency range, spectral models, correlations
-<br><br>总结:
+<br /><br />总结:
 这项研究对886颗脉冲星的光谱特性进行了广泛分析，发现大多数脉冲星的光谱呈现幂律行为。研究采用了五种不同的光谱模型，其中发现简单幂律模型的平均谱指数为-1.64 ± 0.80。此外，在毫秒脉冲星中观察到了光谱指数与特征参数之间的显著相关性，同时在正常脉冲星中并没有观察到强相关性。各种模型显示出与光谱指数相关的最显著特征参数的变化，表明毫秒脉冲星中存在多种主导辐射机制。最后，基于Akaike信息准则，该研究首次确定了22颗呈现千兆赫峰谱类型的脉冲星。 <div>
 This study presents a comprehensive analysis of the spectral properties of 886 pulsars across a wide frequency range from 20 MHz–343.5 GHz, including a total of 86 millisecond pulsars (MSPs). The majority of the pulsars exhibit power-law behavior in their spectra, although some exceptions are observed. Five different spectral models, namely, simple power law, broken power law, low-frequency turnover, high-frequency cutoff, and double turnover, were employed to explore the spectral behaviors. The average spectral index for pulsars modeled with a simple power law is found to be −1.64 ± 0.80, consistent with previous studies. Additionally, significant correlations between the spectral index and characteristic parameters are observed, particularly in MSPs, while no strong correlation is observed in normal pulsars. Different models show variations in the most influential characteristic parameters associated with the spectral index, indicating diverse dominant radiation mechanisms in MSPs. Finally, this study identifies 22 pulsars of the gigahertz-peaked spectra type for the first time based on the Akaike information criterion.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Magnetic Fields beneath Active Region Coronal Loops</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5098</link>
@@ -11589,19 +11695,6 @@ Using general relativistic magnetohydrodynamic simulations, it has been suggeste
 总结:
 水分子在硅酸盐表面上的捕获现象对各种天体物理环境具有重要意义，实验结果表明，这种捕获现象取决于表面的性质和组成。硅酸盐表面的亲水性使得水分子可以被有效捕获，而捕获的性质是物理吸附而非化学吸附。此外，研究还表明，在高达470K的温度下仍然可以捕获水分子，这说明在行星形成盘中可能存在着湿润的硅酸盐颗粒。对于已捕获的水的热稳定性和紫外线稳定性的研究结果表明，在漫射的星际介质中检测到了被捕获的水分子，说明水分子有高效的持续形成。最后，研究还探讨了这些结果对一些基础科学问题的意义，比如氧的消耗问题、地球上水的起源以及岩石行星的形成。 <div>
 The existence of strongly bound water molecules on silicate surfaces, above the desorption temperature of water ice, was first predicted by computational studies and has recently been demonstrated by laboratory experiments. Such trapped water may be present in various astrophysical environments and there is now evidence for its presence in the diffuse interstellar medium (ISM) and in extraterrestrial particles. We present here new results of a laboratory study of the phenomenon of trapping (strong bonding) of water molecules by silicates. We show that the efficiency of the trapping is strongly dependent on the properties and composition of the surface. Our results point out that the presence of trapped water should be due to the hydrophilic properties of the silicate surface and that the nature of the trapping is physical (physisorption rather than chemisorption). We demonstrate that water can be trapped on silicates up to temperatures of about 470 K, which speaks for the presence of wet silicate grains in the terrestrial planet formation zone in planet-forming disks. Studying the thermal and UV stability of trapped water, we conclude that the detection of trapped water in the diffuse ISM speaks for its efficient continuous formation. We discuss our results as relevant to fundamental scientific questions, such as the oxygen depletion problem, the origin of water on Earth, and the formation of rocky planets.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Correlations between Ca ii H and K Emission and the Gaia M Dwarf Gap</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e8c</guid>
-<content:encoded><![CDATA[
-<div> Gaia Data Release 2, M dwarf gap, convective transition mass, Hα emission, Ca ii H and K activity
-
-总结:
-Gaia Data Release 2中发现了M矮星间隙现象，也称为Jao Gap，它表现为主序线上在与对流转变质量（约0.35 M⊙）附近的一小段明度范围内，星体密度减少了17%。之前的研究表明，太阳附近的恒星在Jao Gap的G亮度附近存在Hα发射的缺乏现象。作者推测，这一现象可能是由于Jao Gap特征形成和恒星辐射性转变区的破坏所导致的恒星磁拓扑的复杂变化。本研究还观察到Ca ii H和K活动与Hα在Jao Gap附近表现出类似的异常行为，活动的恒星间变化增加。研究提出了一个恒星磁场演化的玩具模型，表明这种增加可能是由于Jao Gap形成所驱动的周期混合事件引起的磁场随机破坏。 <div>
-The Gaia M dwarf gap, also known as the Jao Gap, is a novel feature discovered in the Gaia Data Release 2 G versus BP-RP color–magnitude diagram. This gap represents a 17% decrease in stellar density in a thin magnitude band around the convective transition mass (∼0.35 M⊙) on the main sequence. Previous work has demonstrated a paucity of Hα emission coincident with the G magnitude of the Jao Gap in the solar neighborhood. The exact mechanism that results in this paucity is as of yet unknown; however, the authors of the originating paper suggest that it may be the result of complex variations to a star’s magnetic topology driven by the Jao Gap’s characteristic formation and breakdown of stars’ radiative transition zones. We present a follow-up investigating another widely used magnetic activity metric, Calcium ii H and K emission. Ca ii H and K activity appears to share a similar anomalous behavior as Hα does near the Jao Gap magnitude. We observe an increase in star-to-star variation of magnetic activity near the Jao Gap. We present a toy model of a star’s magnetic field evolution, which demonstrates that this increase may be due to stochastic disruptions to the magnetic field originating from the periodic-mixing events characteristic of the convective kissing instabilities that drive the formation of the Jao Gap.
 ]]></content:encoded>
 <pubDate>2024-04-03T23:00:00Z</pubDate>
 </item>
