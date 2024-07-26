@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Position-dependent Radiation Fields near Accretion Disks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a70</link>
@@ -15,7 +16,6 @@
 盘风模型用于研究活动星系核的外流，其中高能辐射会导致离子化问题。研究发现，辐射场属性依赖于位置，但不同场量的依赖性并不相同。平均强度的位置依赖性影响了气体的光学厚度，从而减轻了过度离子化问题。另外，对于垂直加速流动，由于辐射力的几何加权和平均强度的位置依赖性，导致辐射力不与辐射通量平行。这些发现为理解活动星系核的能量传输和气体动力学提供了重要线索。 <div>
 In disk-wind models for active galactic nuclei outflows, high-energy radiation poses a significant problem wherein the gas can become overionized, effectively disabling what is often inferred to be the largest force acting on the gas: the radiation force due to spectral line opacity. Calculations of this radiation force depend on the magnitude of ionizing radiation, which can strongly depend on the position above a disk where the radiation is anisotropic. As our first step to quantify the position and direction dependence of the radiation field, we assumed free streaming of photons and computed energy distributions of the mean intensity and components of flux as well as energy-integrated quantities such as mean photon energy. We find a significant dependence of radiation-field properties on position, but this dependence is not necessarily the same for different field quantities. A key example is that the mean intensity is much softer than the radial flux at many points near the disk. Because the mean intensity largely controls ionization, this softening decreases the severity of the overionization problem. The position dependence of mean intensity implies the position dependence of gas opacity, which we illustrate by computing the radiation force a fluid element feels in an accelerating wind. We find that in a vertical accelerating flow, the force due to radiation is not parallel to the radiation flux. This misalignment is due to the force’s geometric weighting by both the velocity field’s directionality and the position dependence of the mean intensity.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -26,10 +26,9 @@ In disk-wind models for active galactic nuclei outflows, high-energy radiation p
 <div> 关键词: exoplanet, M dwarf stars, transmission spectroscopy, infrared wavelengths, stellar contamination
 
 总结: 
-本文讨论了围绕M矮星运转的外行星大气透射光谱学面临的挑战，特别是来自恒星磁特征（如斑和光斑）的污染。作者指出，在红外波长下进行观测可以部分减轻恒星污染的影响，因为在这些波长下，温度对光强度的敏感度减弱，从而减少了斑和光斑对光谱的影响。此外，作者还指出，在红外波长下，恒星的光谱特征会减弱，这是由于普朗克函数随温度呈线性变化的结果。外行星大气透射光谱特征的深度则主要由行星大气垂直尺度决定，并不会随波长基本变化。因此，在中红外波长下，恒星污染会减弱几倍，但是否足以规避恒星污染最终取决于斑点覆盖区域的大小。尽管如此，红外波长下热发射光谱特征的平坦化是普遍存在的。 <br><br> <div>
+本文讨论了围绕M矮星运转的外行星大气透射光谱学面临的挑战，特别是来自恒星磁特征（如斑和光斑）的污染。作者指出，在红外波长下进行观测可以部分减轻恒星污染的影响，因为在这些波长下，温度对光强度的敏感度减弱，从而减少了斑和光斑对光谱的影响。此外，作者还指出，在红外波长下，恒星的光谱特征会减弱，这是由于普朗克函数随温度呈线性变化的结果。外行星大气透射光谱特征的深度则主要由行星大气垂直尺度决定，并不会随波长基本变化。因此，在中红外波长下，恒星污染会减弱几倍，但是否足以规避恒星污染最终取决于斑点覆盖区域的大小。尽管如此，红外波长下热发射光谱特征的平坦化是普遍存在的。 <br /><br /> <div>
 Exoplanet atmosphere transmission spectroscopy for planets orbiting M dwarf stars faces significant challenges due to contamination from stellar magnetic features, i.e., spots and faculae. These features make the stellar surface inhomogeneous and introduce wavelength-dependent signals in the transmission spectrum that complicate its analysis. We identify and explain why using observations at infrared wavelengths greater than a few microns partially mitigates stellar contamination. At these wavelengths the intensity sensitivity to temperature weakens, with two significant consequences. First, the contribution of spots and faculae has a diminished effect because their flux contrast to the quiet-star regions lessens. Second, the star’s spectral features compress in magnitude, an outcome of spectral features being shaped by the star’s photospheric vertical temperature gradient. Both factors are due to the Planck function moving from exponential to linear in temperature toward mid-infrared (mid-IR) wavelengths (the “Rayleigh–Jeans tail”). In contrast to stellar spectra, the depth of the transmission spectroscopy features does not fundamentally vary with wavelength as it is primarily determined by the planet’s atmospheric scale height. The magnitude of reduction in stellar contamination is a factor of a few to several at mid-IR versus near-IR wavelengths, but whether or not this is enough to bypass stellar contamination ultimately depends on the spot coverage area. Nonetheless, the flattening of thermal emission spectral features at IR wavelengths is universal.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,12 +36,11 @@ Exoplanet atmosphere transmission spectroscopy for planets orbiting M dwarf star
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50a4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50a4</guid>
 <content:encoded><![CDATA[
-<div> Chew-Goldberger-Low系统, numerical model, bi-Maxwellian plasma, 磁场, 数值模拟<br>
-<br>
-Chew-Goldberger-Low系统描述了磁场中的双Maxwell等离子体，在太阳圈层和地球空间环境中经常观察到呈各向异性状态，具有明显不同的平行和垂直压力分量。CGL系统代表了对常见各向同性MHD模型的最简单的一阶修正，该模型仍允许融合后者的最理想特性。然而，CGL系统存在一些数值挑战：系统不是守恒形式，源项僵硬，并且与MHD不同，如果平行和垂直压力变得过于不同，它容易失去双曲性。通常的方法是使平行和垂直压力彼此靠近，但这通常是以一种临时的方式完成的。文章提出了一种基于偏角散射思想的压力松弛的物理资讯方法，该方法保持了数值系统的双曲性，并在等离子体β非常大的极限下自然地导致各向同性。因此，基于CGL方程的数值代码可以在任何磁场强度下牢固地运行，包括磁场接近零的极限。我们使用了几个严格的测试问题来演示我们的新算法的功能，这些问题提供了在弱碰撞和强碰撞极限下CGL方程的比较。这包括一个模拟冲击波与2D磁层环境相互作用的测试问题。<br><br>总结: Chew-Goldberger-Low系统描述了具有各向异性的等离子体，该系统引入了一种基于偏角散射的物理资讯方法来解决数值挑战，保持系统的双曲性，并在等离子体β非常大的极限下自然地导致各向同性。作者使用了几个严格的测试问题来演示新算法的功能。 <div>
+<div> Chew-Goldberger-Low系统, numerical model, bi-Maxwellian plasma, 磁场, 数值模拟<br />
+<br />
+Chew-Goldberger-Low系统描述了磁场中的双Maxwell等离子体，在太阳圈层和地球空间环境中经常观察到呈各向异性状态，具有明显不同的平行和垂直压力分量。CGL系统代表了对常见各向同性MHD模型的最简单的一阶修正，该模型仍允许融合后者的最理想特性。然而，CGL系统存在一些数值挑战：系统不是守恒形式，源项僵硬，并且与MHD不同，如果平行和垂直压力变得过于不同，它容易失去双曲性。通常的方法是使平行和垂直压力彼此靠近，但这通常是以一种临时的方式完成的。文章提出了一种基于偏角散射思想的压力松弛的物理资讯方法，该方法保持了数值系统的双曲性，并在等离子体β非常大的极限下自然地导致各向同性。因此，基于CGL方程的数值代码可以在任何磁场强度下牢固地运行，包括磁场接近零的极限。我们使用了几个严格的测试问题来演示我们的新算法的功能，这些问题提供了在弱碰撞和强碰撞极限下CGL方程的比较。这包括一个模拟冲击波与2D磁层环境相互作用的测试问题。<br /><br />总结: Chew-Goldberger-Low系统描述了具有各向异性的等离子体，该系统引入了一种基于偏角散射的物理资讯方法来解决数值挑战，保持系统的双曲性，并在等离子体β非常大的极限下自然地导致各向同性。作者使用了几个严格的测试问题来演示新算法的功能。 <div>
 We present a new numerical model for solving the Chew–Goldberger–Low system of equations describing a bi-Maxwellian plasma in a magnetic field. Heliospheric and geospace environments are often observed to be in an anisotropic state with distinctly different parallel and perpendicular pressure components. The Chew–Goldberger–Low (CGL) system represents the simplest leading order correction to the common isotropic MHD model that still allows the incorporation of the latter’s most desirable features. However, the CGL system presents several numerical challenges: the system is not in conservation form, the source terms are stiff, and unlike MHD, it is prone to a loss of hyperbolicity if the parallel and perpendicular pressures become too different. The usual cure is to bring the parallel and perpendicular pressures closer to one another, but that has usually been done in an ad hoc manner. We present a physics-informed method of pressure relaxation based on the idea of pitch-angle scattering that keeps the numerical system hyperbolic and naturally leads to zero anisotropy in the limit of very large plasma beta. Numerical codes based on the CGL equations can, therefore, be made to function robustly for any magnetic field strength, including the limit where the magnetic field approaches zero. The capabilities of our new algorithm are demonstrated using several stringent test problems that provide a comparison of the CGL equations in the weakly and strongly collisional limits. This includes a test problem that mimics the interaction of a shock with a magnetospheric environment in 2D.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,12 +48,11 @@ We present a new numerical model for solving the Chew–Goldberger–Low system 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50c6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50c6</guid>
 <content:encoded><![CDATA[
-<div> 关键词：SNe IIP, 爆发星, 星际金属, 星体质量, 星体旋转<br>
-<br>
-这篇文章使用一维恒星演化代码MESA，对SNe IIP和它们的原恒星进行了全面研究。他们发现更大质量的恒星展现出更长的平顶期，而更高的金属丰度导致了更高的不透明度和原恒星的质量损失。高速旋转影响了内部恒星结构，增强了对流混合和质量损失，潜在地影响了平顶期的亮度和持续时间。更高的爆发能量导致更明亮但持续时间更短的平顶期，而56Ni的质量影响着后期的亮度和持续时间。由此，他们得出了SNe IIP和其原恒星参数之间的关系。这些研究成果有助于更好地理解SNe IIP的起源和演化过程。<br><br>总结: 这篇文章使用MESA代码对SNe IIP和其原恒星进行了研究。通过比较光变曲线，发现了恒星质量、金属丰度、旋转速率、爆发能量和56Ni质量对SNe IIP的影响。研究结果有助于更好地理解SNe IIP的起源和演化过程。 <div>
+<div> 关键词：SNe IIP, 爆发星, 星际金属, 星体质量, 星体旋转<br />
+<br />
+这篇文章使用一维恒星演化代码MESA，对SNe IIP和它们的原恒星进行了全面研究。他们发现更大质量的恒星展现出更长的平顶期，而更高的金属丰度导致了更高的不透明度和原恒星的质量损失。高速旋转影响了内部恒星结构，增强了对流混合和质量损失，潜在地影响了平顶期的亮度和持续时间。更高的爆发能量导致更明亮但持续时间更短的平顶期，而56Ni的质量影响着后期的亮度和持续时间。由此，他们得出了SNe IIP和其原恒星参数之间的关系。这些研究成果有助于更好地理解SNe IIP的起源和演化过程。<br /><br />总结: 这篇文章使用MESA代码对SNe IIP和其原恒星进行了研究。通过比较光变曲线，发现了恒星质量、金属丰度、旋转速率、爆发能量和56Ni质量对SNe IIP的影响。研究结果有助于更好地理解SNe IIP的起源和演化过程。 <div>
 Type IIP supernovae (SNe IIP) are thought to originate from the explosion of massive stars >10 M⊙. Their luminosity is primarily powered by the explosion energy and the radioactive decay energy of 56Co, with the photosphere location regulated by hydrogen recombination. However, the physical connections between SNe IIP and their progenitor stars remain unclear. This paper presents a comprehensive study of SNe IIP and their progenitor stars by using the one-dimensional stellar evolution code, MESA. Our model grids consider the effects of stellar metallicity, mass, and rotation in the evolution of massive stars, as well as the explosion energy and 56Ni production in modeling supernovae. To elucidate the observed SNe IIP and their origins, we compare their light curves (LCs) with our models. Furthermore, we investigate the impact of stellar parameters on LCs by considering stellar mass, metallicity, rotation, explosion energy, and 56Ni production. We find that more massive stars exhibit longer plateaus due to increased photon diffusion time caused by massive ejecta. Higher metallicity leads to increased opacity and mass loss of progenitor stars. Rapid rotation affects internal stellar structures, enhancing convective mixing and mass loss, potentially affecting the plateau’s brightness and duration. Higher explosion energy results in brighter but shorter plateaus due to faster-moving ejecta. 56Ni mass affects late-time luminosity and plateau duration, with larger masses leading to slower declines.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -64,11 +61,10 @@ Type IIP supernovae (SNe IIP) are thought to originate from the explosion of mas
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bdc</guid>
 <content:encoded><![CDATA[
 <div> Cairns distribution, nonthermal attributes, space plasmas, kinetic Alfvén waves, solar corona
-<br><br>总结:
+<br /><br />总结:
 本文介绍了在太空等离子体中利用Cairns分布对非热属性进行表征的重要性。文章提到，传统上非热波动被认为是在Maxwellian分布等离子体中的回旋半径修正项，但作者介绍了一种基于动力学理论和Cairns分布的创新视角。研究重点是在太阳冠中基于Cairns分布函数的动能阿尔夫文波的扰动电磁场比和Poynting流的比率。此外，文章还探讨了垂直分量和平行归一化Poynting流的功率率的细微评估。研究发现，相比于Maxwellian分布，大值的Λ表现出更有利的属性，特别是在沿环境磁场线延伸的距离上对等离子体的充能过程有显著影响。这些分析结果在理解太阳大气中的现象、尤其是在观测到的加热过程中非热粒子所起的重要作用上具有实际应用意义。 <div>
 The utilization of the Cairns distribution serves as a vital tool for characterizing the nonthermal attributes commonly observed in space plasmas. In these intricate plasma environments, extensive measurements have been conducted to monitor the fluctuations inherent in the perturbed electromagnetic (EM) field and the associated Poynting flux, specifically concerning kinetic Alfvén waves (KAWs). Traditionally, these fluctuations have been attributed to gyroradius correction terms within the framework of Maxwellian distributed plasmas. However, our study introduces an innovative perspective grounded in kinetic theory coupled with the Cairns distribution, adept at encapsulating the nonthermal nuances characterized by the index parameter Λ. Within the domain of the solar corona, our investigation centers on the perturbed EM field ratios and the Poynting flux of KAWs, with a foundation in the Cairns distribution function. It is noteworthy that the perpendicular components, although deemed less significant due to the dominance of k⊥ over k∥, remain unquantified regarding their relative insignificance. Similarly, the exploration of the imaginary part of the normalized EM field ratio has been a relatively understudied domain. Furthermore, we delve into the nuanced assessment of the power rate Ix/Iz characterizing the perpendicular and parallel normalized Poynting fluxes (Sx and Sz). Intriguingly, we discern that large values of Λ, compared to their Maxwellian counterparts, manifest advantageous attributes, particularly concerning the energization of the plasma over extended distances along the ambient magnetic field lines. The analytical insights gleaned from this study find practical application in understanding phenomena within the solar atmosphere, particularly shedding light on the significant role played by nonthermal particles in the observed heating processes.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -78,10 +74,9 @@ The utilization of the Cairns distribution serves as a vital tool for characteri
 <content:encoded><![CDATA[
 <div> 高红移、大质量星系、恒星形成、SED拟合、宇宙学
 
-这项研究使用了FourStar Galaxy Evolution Survey目录中的200个V形光谱能量分布非活动星系的数据，通过对它们的SED进行拟合，得出了它们的平均年龄。研究发现，在红移较高的星系中，它们的平均年龄较年轻，但在红移大于2.5的星系中，平均年龄并没有显著的变化，大多数星系的平均年龄在1到2亿年之间。此外，研究还发现，大质量星系的年龄较大，通常在10亿年以上，并且比较小质量星系的形成时间更早。这些发现有助于对标准宇宙学中的星系形成模型进行讨论。 <br><br>总结: 这项研究利用星系的SED数据，发现高红移星系的平均年龄较年轻，但随着红移的增加，星系的平均年龄并没有显著变化，大质量星系的年龄较大且形成较早。这些发现对于讨论标准宇宙学中的星系形成模型具有重要意义。 <div>
+这项研究使用了FourStar Galaxy Evolution Survey目录中的200个V形光谱能量分布非活动星系的数据，通过对它们的SED进行拟合，得出了它们的平均年龄。研究发现，在红移较高的星系中，它们的平均年龄较年轻，但在红移大于2.5的星系中，平均年龄并没有显著的变化，大多数星系的平均年龄在1到2亿年之间。此外，研究还发现，大质量星系的年龄较大，通常在10亿年以上，并且比较小质量星系的形成时间更早。这些发现有助于对标准宇宙学中的星系形成模型进行讨论。 <br /><br />总结: 这项研究利用星系的SED数据，发现高红移星系的平均年龄较年轻，但随着红移的增加，星系的平均年龄并没有显著变化，大质量星系的年龄较大且形成较早。这些发现对于讨论标准宇宙学中的星系形成模型具有重要意义。 <div>
 Observations of large amounts of massive galaxies with relatively old populations found at high redshifts are challenging galaxy formation scenarios within the standard cosmology. Precise determinations of the average age of these galaxies would be useful for the discussion of this problem. Here we carry out a better constraint of the age of 200 V-shaped spectral energy distribution (SED) nonactive galactic nucleus galaxies at redshifts 2 < z < 4 of the catalog of the FourStar Galaxy Evolution Survey, identified by the V shape in their SED with a Lyman and a Balmer break. The SED fitting includes a main stellar population in addition to a residual younger population and extinction. The galaxies are younger at a higher redshift on average. However, for the galaxies with z > 2.5, we do not see a significant evolution of their average age, with all average ages of the galaxies mostly remaining between 1 and 2 Gyr. Our research finds that most massive galaxies (∼1010M⊙) are older (typically > ∼1 Gyr old) and formed earlier than less massive galaxies in our sample.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -95,7 +90,6 @@ Observations of large amounts of massive galaxies with relatively old population
 850μm线偏振和C18O (3 − 2)以及13CO (3 − 2)分子线观测表明，Cocoon星云(IC 5146)中的F13和F13S丝状结构是热过临界的，其中有识别出沿其顶部的密集核心。磁场向量在核心尺度上倾向于与丝状结构平行，但在高密度区域会受到扰动。通过Davis–Chandrasekhar–Fermi方法测量的磁场强度为58 ± 31μG和40 ± 9μG，表明这些丝状结构是次临界的和次Alfvén速度的，强调了磁场在Cocoon星云中的重要性。此外，通过观测到的C18O (3 − 2)速度和密度分布以及13CO (3 − 2)数据的大尺度速度场，我们提出了F13和F13S的形成和演化情景。辐射冲击波产生于大约1.4百万年前与类B星发生碰撞，丝状结构成为热过临界，随后通过重力分割形成了密集核心，同时伴随着磁场的扰动。 <div>
 We present 850 μm linear polarization and C18O (3 − 2) and 13CO (3 − 2) molecular line observations toward the filaments (F13 and F13S) in the Cocoon Nebula (IC 5146) using the JCMT POL-2 and Heterodyne Array Receiver Program instruments. F13 and F13S are found to be thermally supercritical with identified dense cores along their crests. Our findings include that the polarization fraction decreases in denser regions, indicating reduced dust grain alignment efficiency. The magnetic field vectors at core scales tend to be parallel to the filaments, but disturbed at the high density regions. Magnetic field strengths measured using the Davis–Chandrasekhar–Fermi method are 58 ± 31 and 40 ± 9 μG for F13 and F13S, respectively, and it reveals subcritical and sub-Alfvénic filaments, emphasizing the importance of magnetic fields in the Cocoon region. Sinusoidal C18O (3 − 2) velocity and density distributions are observed along the filaments’ skeletons, and their variations are mostly displaced by ∼1/4 × the wavelength of the sinusoid, indicating core formation occurred through the fragmentation of a gravitationally unstable filament, but with shorter core spacings than predicted. Large-scale velocity fields of F13 and F13S, studied using 13CO (3 − 2) data, present a V-shape transverse velocity structure. We propose a scenario for the formation and evolution of F13 and F13S, along with the dense cores within them. A radiation shock front generated by a B-type star collided with a sheet-like cloud about 1.4 Myr ago. The filaments became thermally critical due to mass infall through self-gravity ∼1 Myr ago, and subsequently, dense cores formed through gravitational fragmentation, accompanied by the disturbance of the magnetic field.
 ]]></content:encoded>
-
 <pubDate>2024-07-24T23:00:00Z</pubDate>
 </item>
 <item>
@@ -104,14 +98,12 @@ We present 850 μm linear polarization and C18O (3 − 2) and 13CO (3 − 2) mol
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad500d</guid>
 <content:encoded><![CDATA[
 <div> kappa distributions, plasma, electromagnetic fluctuations, magnetized plasma, electron cyclotron whistler mode fluctuations
-<br>总结:
+<br />总结:
 本文研究了在内太阳圈中的kappa分布等离子体，在这种分布中，等离子体会自发地发出电磁波动。 当超热电子参与其中时，这些自发辐射会得到增强。此外，文章还通过比较磁谱对电子回旋骚扰模式波动进行了系统的定量比较。结果表明，磁场波动的能量水平随着β值的增加和κ值的减小而增加。另外，对于kappa分布而言，当κ值减小时，磁场波动的总能量会减少。 <div>
 In the inner heliosphere, space measurements have revealed that plasma is well described by the kappa distributions, which are characterized by the value of the κ parameter. This parameter indicates how far plasma is from the ideal Maxwell–Boltzmann equilibrium distribution and gives the distribution a typical high-energy power-law tail. In these quasi-equilibrium conditions, the plasma spontaneously emits electromagnetic fluctuations. When suprathermal electrons are involved, these spontaneous emissions get enhanced, and the kappa distributions improve the description of the related nonthermal effects by taking into account the contribution of these high-energy electrons. Nevertheless, the kappa distributions describe different scenarios in which the velocity distribution may obey a power-law decay. Here, we present a systematic and quantitative comparison of kappa-distributed magnetized plasma through a comparison of magnetic spectra for electron cyclotron whistler mode fluctuations. Our results show that for a kappa distribution with a thermal speed equal to the one obtained in thermal equilibrium, the magnetic field fluctuations exhibit higher energy levels that scale with increasing values of β and decreasing values of κ, even though the same thermal speed is considered for all studied cases. Conversely, for a kappa distribution with a kappa-dependent thermal speed, the magnetic field fluctuations tend to exhibit less total energy with lower kappa values, even when compared to the Maxwellian distribution equilibrium results in the same range of parameters.
 ]]></content:encoded>
-
 <pubDate>2024-07-24T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Statistical Analysis of Pulsar Flux Density Distribution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5001</link>
@@ -11597,104 +11589,6 @@ Magnetic fields are ubiquitous in the interstellar medium, including extended ob
 总结:<br />
 研究使用Mn-Cr方法测定了龙宫粒子的水改造年龄，得出了形成Ca-Al富集体(CAI)后4.13 + 0.62/−0.55百万年的年龄。这个年龄相当于4563.17 + 0.60/−0.67百万年前。龙宫样本的55Mn/52Cr，ε54Cr和初始ε53Cr值高于任何碳质球粒陨石样本，暗示其母本体是由原始盘的外部区域最少热加工的前体物质形成。尽管龙宫等含水小行星与太阳的距离不同，它们在有限的时间内（在CAI之后的3.8±1.8百万年）经历了水改造。这些年龄与碳质无球粒陨石NWA 6704/6693的结晶年龄误差相同。龙宫和NWA 6704/6693的ε54Cr和初始ε53Cr值相同，但它们显示出不同的Δ'17O值。这表明形成龙宫和NWA 6703/6693母体的前体物质是在原始太阳星盘中的相邻位置形成，并经历了类似程度的热加工，但龙宫的母本体由较高的冰/尘埃比率在原始星盘的外部区域形成。 <div>
 The analysis of samples returned from the C-type asteroid Ryugu has drastically advanced our knowledge of the evolution of early solar system materials. However, no consensus has been obtained on the chronological data, which is important for understanding the evolution of the asteroid Ryugu. Here, the aqueous alteration age of Ryugu particles was determined by the Mn–Cr method using bulk samples, yielding an age of 4.13 + 0.62/−0.55 Myr after the formation of Ca–Al-rich inclusions (CAI). The age corresponds to 4563.17 + 0.60/−0.67 Myr ago. The higher 55Mn/52Cr, ε54Cr, and initial ε53Cr values of the Ryugu samples relative to any carbonaceous chondrite samples implies that its progenitor body formed from the least thermally processed precursors in the outermost region of the protoplanetary disk. Despite accreting at different distances from the Sun, the hydrous asteroids (Ryugu and the parent bodies of CI, CM, CR, and ungrouped C2 meteorites) underwent aqueous alteration during a period of limited duration (3.8 ± 1.8 Myr after CAI). These ages are identical to the crystallization age of the carbonaceous achondirtes NWA 6704/6693 within the error. The ε54Cr and initial ε53Cr values of Ryugu and NWA 6704/6693 are also identical, while they show distinct Δ'17O values. This suggests that the precursors that formed the progenitor bodies of Ryugu and NWA 6703/6693 were formed in close proximity and experienced a similar degree of thermal processing in the protosolar nebula. However, the progenitor body of Ryugu was formed by a higher ice/dust ratio, than NWA6703/6693, in the outer region of the protoplanetary disk.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Likely Common Coronal Source of Solar Wind and 3He-enriched Energetic Particles: Uncoupled Transport from the Low Corona to 0.2 au</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2467</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2467</guid>
-<content:encoded><![CDATA[
-<div> Parker Solar Probe, observations, dispersive event, solar energetic particle events, acceleration mechanism<br />
-<br />
-Parker Solar Probe在2022年2月27日和28日观察到了一个小的分散事件，表明在低日冕和35个太阳半径以上之间，无散射传播是主要的传输机制。该事件发生在PSP遇到过多次的特定通量管沿特定轨道条件下。PSP轨道的这一部分相对于旋转的太阳表面具有几乎静止的角运动，使得PSP的运动在旋转参考系中基本呈径向运动。这一事件的时间离散通常出现在脉冲太阳能粒子事件中，并且速度包括核心太阳风离子的速度。特别是在事件开始时，3He含量远大于通常在∼100keV到数MeV的能量范围内观察到的氦的太阳能粒子丰度。事件后期，铁增加。组成特征表明这是一个加速机制的例子，用于在SEP事件中产生所需的种子能粒子，以解释这些事件中各种物种的富集高于太阳丰度。对PSP任务中类似轨道条件的初步搜索尚未发现其他类似事件，尽管所需的有利条件（孤立的脉冲加速和与最小磁场波动的良好有序磁场连接）很少实现，鉴于满足这些观测条件的PSP轨迹的小部分。 <br /><br />总结: Parker Solar Probe在2022年2月观察到了一个小的分散事件，揭示了无散射传播作为主要传输机制。通过特定轨道条件，该事件提供了关于脉冲太阳能粒子事件的时间离散以及关于氦和铁等成分的重要信息。这对于理解SEP事件中的加速机制具有重要意义，而在PSP任务中类似的轨道条件较少发现。 <div>
-Parker Solar Probe (PSP) observations of a small dispersive event on 2022 February 27 and 28 indicate scatter-free propagation as the dominant transport mechanism between the low corona and greater than 35 solar radii. The event occurred during unique orbital conditions that prevailed along specific flux tubes that PSP encountered repeatedly between 25 and 35 Rs during outbound orbit 11. This segment of the PSP orbit exhibits almost stationary angular motion relative to the rotating solar surface, such that in the rotating frame, PSP’s motion is essentially radial. The time dispersion often observed in impulsive solar energetic particle (SEP) events continues in this case down to velocities including the core solar-wind ion velocities. Especially at the onset of this event, the 3He content is much larger than the usual SEP abundances seen in the energy range from ∼100 keV to several MeV for helium. Later in the event, iron is enhanced. The compositional signatures suggest this to be an example of an acceleration mechanism for generating the seed energetic particles required by shock (or compression) acceleration models in SEP events to account for the enrichment of various species above solar abundances in such events. A preliminary search of similar orbital conditions over the PSP mission has not revealed additional such events, although favorable conditions (isolated impulsive acceleration and well-ordered magnetic field connection with minimal magnetic field fluctuation) that would be required are infrequently realized, given the small fraction of the PSP trajectory that meets these observation conditions.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>JWST MIRI Imager Observations of Supernova SN 1987A</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2770</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2770</guid>
-<content:encoded><![CDATA[
-<div> 关键词: mid-infrared, SN 1987A, James Webb Space Telescope, temperature maps, circumstellar medium
-总结: 
-本文使用James Webb Space Telescope的Mid-InfraRed Instrument对SN 1987A进行了首次成像观测，建立了温度图，讨论了新生超新星遗迹的形态。结果显示赤道环的温度不均匀，可能是由于该环的某些部分存在尘埃破坏。此外，红外辐射延伸到赤道环之外，表明冲击波已经影响到更大范围的星周介质。值得注意的是，尽管亚毫米波阿塔卡马大型毫米阵列观测已经暗示了SN 1987A紧凑遗迹的位置，但我们的MIRI数据没有发现这样的迹象。<br /><br />总结: 本文利用James Webb Space Telescope的Mid-InfraRed Instrument对SN 1987A进行了观测，发现赤道环的温度不均匀，而且红外辐射延伸到了更大范围的星周介质。另外，虽然之前的亚毫米波观测表明了遗迹的位置，但MIRI数据没有找到相应的证据。 <div>
-There exist very few mid-infrared (IR) observations of supernovae (SNe) in general. Therefore, SN 1987A, the closest visible SN in 400 yr, gives us the opportunity to explore the mid-IR properties of SNe, the dust in their ejecta, and the surrounding medium and to witness the birth of an SN remnant (SNR). The James Webb Space Telescope, with its high spatial resolution and extreme sensitivity, gives a new view on these issues. We report on the first imaging observations obtained with the Mid-InfraRed Instrument (MIRI). We build temperature maps and discuss the morphology of the nascent SNR. Our results show that the temperatures in the equatorial ring (ER) are quite nonuniform. This could be due to dust destruction in some parts of the ring, as had been assumed in some previous works. We show that the IR emission extends beyond the ER, illustrating the fact that the shock wave has now passed through this ring to affect the circumstellar medium on a larger scale. Finally, while submillimeter Atacama Large Millimeter Array observations have hinted at the location of the compact remnant of SN 1987A, we note that our MIRI data have found no such evidence.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Multiwavelength Light-curve Model of the Classical Nova V339 Del: A Mechanism for the Coexistence of Dust Dip and Supersoft X-Rays</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a45</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a45</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 新星V339 Del 2013, 光度曲线, 尘埃壳形成, 硬X射线, 白矮星质量<br />
-总结: <br />
-这篇文章讨论了2013年新发现的经典新星V339 Del的特点，该新星的V光度曲线出现1.5等星的明显下降，因为形成了一个尘埃壳，与此同时还存在着软X射线的辐射。作者提出了一个多波段光度曲线模型，成功地复现了y和V光度曲线以及伽马射线和X射线光度曲线。在模型中，光度曲线下降后出现了强烈的激波，尘埃壳的形成抑制了[O iii]的辐射，导致V光度曲线下降，之后又逐渐恢复。白矮星的质量被确定为1.25 ± 0.05 M☉，V波段的距离模数为(m − M)V = 12.2 ± 0.2；考虑到消光作用，距离为d = 2.1 ± 0.2 kpc，E(B − V) = 0.18。 <div>
-The classical nova V339 Del 2013 is characterized by a 1.5 mag dip of the V light curve owing to a dust shell formation, with which soft X-ray emissions coexist. We present a Strömgren y-band light curve, which represents continuum emission, not influenced by strong [O iii] emission lines. The y light curve monotonically decreases in marked contrast to the V light curve that shows a 1.5 mag dip. We propose a multiwavelength light-curve model that reproduces the y and V light curves as well as the gamma-ray and X-ray light curves. In our model, a strong shock arises far outside the photosphere after optical maximum, because later ejected matter collides with earlier ejected gas. Our shocked shell model explains optical emission lines, Hα, hard X-ray, and gamma-ray fluxes. A dust shell forms behind the shock that suppresses [O iii]. This low flux of [O iii] shapes a 1.5 mag drop in the V light curve. Then, the V flux recovers with an increasing contribution from [O iii] lines, while the y flux does not. However, the optical depth of the dust shell is too small to absorb the photospheric (X-ray) emission of the white dwarf. This is the reason that a dust shell and soft X-ray radiation coexist. We determined the white dwarf mass to be MWD = 1.25 ± 0.05 M☉ and the distance modulus in the V band to be (m − M)V = 12.2 ± 0.2; the distance is d = 2.1 ± 0.2 kpc for the reddening of E(B − V) = 0.18.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Linear Model for Inertial Modes in a Differentially Rotating Sun</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad226c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad226c</guid>
-<content:encoded><![CDATA[
-<div> sectoral inertial modes, solar interior, differential rotation, eigenvalue solver, equatorial Rossby modes
-<br /><br />
-这篇文章研究了太阳内部的惯性波模式，发现在高方位阶数下，这些模式似乎与薄壳Rossby-Haurwitz模型有所偏离。研究采用了谱特征值求解器计算了差异旋转条件下的太阳惯性模式的谱。特别是关注赤道Rossby模式，发现计算得到的模式频率与观测的太阳模式频率非常接近，但n=0的模式明显向后偏转。这表明太阳的测量结果可能与n较高的模式相对应。此外，数值得到的特征函数似乎位于对流区内部，与太阳观测有显著差异，使推断变得更加复杂。 
-<br /><br />总结: 挖掘了太阳内部的惯性波模式特性，发现了高方位阶数下模式的偏离及差异旋转影响，对赤道Rossby模式进行了重点研究，发现了模式频率的相似之处以及n=0模式的偏转，也指出了数值计算得到的特征函数的深层位置与太阳观测存在的差异。 <div>
-Inertial wave modes in the Sun are of interest owing to their potential to reveal new insight into the solar interior. These predominantly retrograde-propagating modes in the solar subsurface appear to deviate from the thin-shell Rossby–Haurwitz model at high azimuthal orders. We present new measurements of sectoral inertial modes at m > 15 where the modes appear to become progressively less retrograde compared to the canonical Rossby–Haurwitz dispersion relation in a corotating frame. We use a spectral eigenvalue solver to compute the spectrum of solar inertial modes in the presence of differential rotation. Focussing specifically on equatorial Rossby modes, we find that the numerically obtained mode frequencies lie along distinct ridges, one of which lies strikingly close to the observed mode frequencies in the Sun. We also find that the n = 0 ridge is deflected strongly in the retrograde direction. This suggests that the solar measurements may not correspond to the fundamental n = 0 Rossby–Haurwitz solutions as was initially suspected, but to those for a higher n. The numerically obtained eigenfunctions also appear to sit deep within the convection zone—unlike those for the n = 0 modes—which differs substantially from solar measurements and complicates inference.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Modeling of Condensations in Coronal Loops Produced by Impulsive Heating with Variable Frequencies and Locations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad25fc</guid>
-<content:encoded><![CDATA[
-<div> 模型、脉冲加热、等离子体、磁环、冷凝<br />
-研究使用1D流体力学自适应细化Godunov求解器代码模拟了冲动加热的日冕环。通过在循环中离散能量脉冲模拟脉冲加热事件（称为纳米耀斑）。研究了由于稳定加热导致的等效热非平衡在环中出现冷凝的情况，以及其对纳米耀斑的定时、强度和位置的依赖性，包括纳米耀斑的随机分布。发现随机分布纳米耀斑（无论是时间/强度还是位置上）较之具有相同平均特性的规律发生纳米耀斑的情况下，减少了冷凝发生的可能性。对于随机分布的纳米耀斑，通常的加热靠近环脚点且频率高的标准更为严格，而且冷凝在环中停留的时间更短。然而，在一些情况下，即使参数的平均值（频率或位置）超过了相应稳定的非随机化值的临界限制，冷凝仍可能发生。这些由随机加热导致的冷凝特性可用于未来研究日冕加热机制的诊断。<br /><br />总结:模型使用1维流体动力学求解器模拟了冲动加热的日冕环，研究了纳米耀斑对冷凝的影响，发现随机分布的纳米耀斑减少了冷凝的可能性，且对冷凝的触发条件更为严格。这些特性对于研究日冕加热机制的诊断具有重要意义。 <div>
-We present the results of models of impulsively heated coronal loops using the 1D hydrodynamic Adaptively Refined Godunov Solver code. The impulsive heating events (which we refer to as nanoflares) are modeled by discrete pulses of energy along the loop. We explore the occurrence of cold condensations due to the effective equivalent of thermal nonequilibrium in loops with steady heating, and examine its dependence on nanoflare timing and intensity and also nanoflare location along the loop, including randomized distributions of nanoflares. We find that randomizing the distribution of nanoflares, both in time/intensity and location, diminishes the likelihood of condensation occurring as compared to distributions with regularly occurring nanoflares with the same average properties. The usual criteria that condensation is favored for heating near loop footpoints and with high cadences are more strict for randomized (as opposed to regular) nanoflare distributions, and for randomized distributions the condensations stay in the loop for a shorter amount of time. That said, condensation can sometimes occur in cases where the average values of parameters (frequency or location) are beyond the critical limits above which condensation does not occur for corresponding steady, non-randomized values of those parameters. These properties of condensation occurring due to randomized heating can be used in the future to investigate the diagnostics of coronal heating mechanisms.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Measuring the Variance of the Macquart Relation in Redshift–Extragalactic Dispersion Measure Modeling</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2705</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2705</guid>
-<content:encoded><![CDATA[
-<div> FRBs, Macquart relation, dispersion measure, Hubble constant, fluctuation parameter
-<br />
-FRB的色散测量与宿主星系的红移之间存在相关性，这种相关性敏感于星系间介质中的重子分布，而这些重子可能通过反馈过程从星系暗物质晕中喷射出来。研究利用78个FRB的数据对波动参数F进行了新的测量，其中21个FRB已被定位于宿主星系。分析同时拟合哈勃常数H0和FRB宿主星系导致的DM分布。研究发现，波动参数与这些参数存在退化关系，尤其是H0。使用100个定位FRB的合成样本，对波动参数的约束提高了约2倍。将F的测量结果与宇宙学模拟（IllustrisTNG）中的预测进行比较，发现在红移0.4 < z和z < 2.0时存在一致性。然而，在z < 0.4时，模拟结果低估了F，这被归因于低红移时快速变化的宇宙间余量分布。 
-<br /><br />总结: FRB的色散测量与宿主星系红移之间的Macquart关系受到星系间介质中的重子分布的影响，这项研究采用了78个FRB并发现了影响参数F的新测量结果，同时发现该参数与哈勃常数H0存在退化关系。通过与宇宙模拟进行比较，得出了F的预测结果与观测结果的一致性，并指出了低红移时宇宙间余量分布的快速变化。 <div>
-The Macquart relation describes the correlation between the dispersion measure (DM) of fast radio bursts (FRBs) and the redshift z of their host galaxies. The scatter of the Macquart relation is sensitive to the distribution of baryons in the intergalactic medium including those ejected from galactic halos through feedback processes. The variance of the distribution in DMs from the cosmic web (DMcosmic) is parameterized by a fluctuation parameter F. In this work, we present a new measurement of F using 78 FRBs of which 21 have been localized to host galaxies. Our analysis simultaneously fits for the Hubble constant H0 and the DM distribution due to the FRB host galaxy. We find that the fluctuation parameter is degenerate with these parameters, most notably H0, and use a uniform prior on H0 to measure at the 3σ confidence interval and a new constraint on the Hubble constant . Using a synthetic sample of 100 localized FRBs, the constraint on the fluctuation parameter is improved by a factor of ∼2. Comparing our F measurement to simulated predictions from cosmological simulation (IllustrisTNG), we find agreement between redshifts 0.4 < z and z < 2.0. However, at z < 0.4, the simulations underpredict F, which we attribute to the rapidly changing extragalactic DM excess distribution at low redshift.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Formation of Limb-brightened Radio Jets by Angle-dependent Energy Extraction from Rapidly Rotating Black Holes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad28c7</guid>
-<content:encoded><![CDATA[
-<div> 黑洞，磁流体动力学模拟，喷流，视角，聚类
-总结:
-这篇文章通过广义相对论磁流体动力学模拟研究发现，黑洞的旋转能量会优先沿着穿过视界的磁场线提取，同时还展示了在不同视角观测下，喷流呈现出明显的边缘亮度结构。研究还发现，喷流在高度聚类时横向宽度会从圆锥形逐渐变为抛物线形，并在M87喷流中展示了聚类在距离黑洞100个Schwarzschild半径内发生的情况。 <div>
-Using general relativistic magnetohydrodynamic simulations, it has been suggested that the rotational energy of a rapidly rotating black hole (BH) is preferentially extracted along the magnetic field lines threading the event horizon in the middle and lower latitudes. Applying this angle-dependent Poynting flux to the jet downstream, we demonstrate that the jets exhibit limb-brightened structures at various viewing angles, as observed from Mrk 501, M87, and Cyg A between 5° and 75°, and that the limb brightening is enhanced when the jet is collimated strongly. It is also found that the jet width perpendicular to the propagation direction shrinks at the projected distance of the altitude where the jet collimates from a conical shape (near the BH) to a parabolic one (in the jet). Comparing with Very Long Baseline Interferometry observations, we show that this collimation takes place within the deprojected altitude of 100 Schwarzschild radii from the BH in the case of the M87 jet.
-]]></content:encoded>
-<pubDate>2024-04-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Trapped Water on Silicates in the Laboratory and in Astrophysical Environments</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c07</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c07</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 水分子，硅酸盐表面，天体物理环境，陷阱，地球形成
-
-总结:
-水分子在硅酸盐表面上的捕获现象对各种天体物理环境具有重要意义，实验结果表明，这种捕获现象取决于表面的性质和组成。硅酸盐表面的亲水性使得水分子可以被有效捕获，而捕获的性质是物理吸附而非化学吸附。此外，研究还表明，在高达470K的温度下仍然可以捕获水分子，这说明在行星形成盘中可能存在着湿润的硅酸盐颗粒。对于已捕获的水的热稳定性和紫外线稳定性的研究结果表明，在漫射的星际介质中检测到了被捕获的水分子，说明水分子有高效的持续形成。最后，研究还探讨了这些结果对一些基础科学问题的意义，比如氧的消耗问题、地球上水的起源以及岩石行星的形成。 <div>
-The existence of strongly bound water molecules on silicate surfaces, above the desorption temperature of water ice, was first predicted by computational studies and has recently been demonstrated by laboratory experiments. Such trapped water may be present in various astrophysical environments and there is now evidence for its presence in the diffuse interstellar medium (ISM) and in extraterrestrial particles. We present here new results of a laboratory study of the phenomenon of trapping (strong bonding) of water molecules by silicates. We show that the efficiency of the trapping is strongly dependent on the properties and composition of the surface. Our results point out that the presence of trapped water should be due to the hydrophilic properties of the silicate surface and that the nature of the trapping is physical (physisorption rather than chemisorption). We demonstrate that water can be trapped on silicates up to temperatures of about 470 K, which speaks for the presence of wet silicate grains in the terrestrial planet formation zone in planet-forming disks. Studying the thermal and UV stability of trapped water, we conclude that the detection of trapped water in the diffuse ISM speaks for its efficient continuous formation. We discuss our results as relevant to fundamental scientific questions, such as the oxygen depletion problem, the origin of water on Earth, and the formation of rocky planets.
 ]]></content:encoded>
 <pubDate>2024-04-03T23:00:00Z</pubDate>
 </item>
