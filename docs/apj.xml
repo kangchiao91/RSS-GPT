@@ -4,6 +4,138 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Primordial Black Hole Dark Matter Simulations Using PopSyCLE</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df0</guid>
+<content:encoded><![CDATA[
+<div> Primordial black holes, dark matter, microlensing, PopSyCLE, simulations
+<br><br>
+PopSyCLE是一种模拟代码，可以用于模拟微透镜调查，是第一种同时包括光度和天文测量微透镜效应的代码。研究人员修改了PopSyCLE以包括由原始黑洞组成的暗物质晕，展示了在OGLE-IV和Roman微透镜调查中的原始黑洞微透镜事件的估算结果。他们发现原始黑洞微透镜事件数量约为恒星演化黑洞事件的3.6倍，平均峰值爱因斯坦穿越时间约为91.5天，估计在8年的OGLE-IV调查中将观测到约102个原始黑洞事件，并估计Roman在其计划的微透镜调查中将观测到约1000个原始黑洞微透镜事件。这些估算结果基于许多简化假设，但为原始黑洞的加入PopSyCLE提供了概念验证。 
+<br><br>总结: PopSyCLE模拟代码具有预测原始黑洞微透镜事件的潜力，估算了其在OGLE-IV和Roman调查中的观测数量，并提出了初步分析结果。 <div>
+Primordial black holes (PBHs), theorized to have originated in the early Universe, are speculated to be a viable form of dark matter. If they exist, they should be detectable through photometric and astrometric signals resulting from gravitational microlensing of stars in the Milky Way. Population Synthesis for Compact-object Lensing Events, or PopSyCLE, is a simulation code that enables users to simulate microlensing surveys, and is the first of its kind to include both photometric and astrometric microlensing effects, which are important for potential PBH detection and characterization. To estimate the number of observable PBH microlensing events, we modify PopSyCLE to include a dark matter halo consisting of PBHs. We detail our PBH population model, and demonstrate our PopSyCLE + PBH results through simulations of the Optical Gravitational Lensing Experiment-IV (OGLE-IV) and Nancy Grace Roman Space Telescope (Roman) microlensing surveys. We provide a proof-of-concept analysis for adding PBHs into PopSyCLE, and thus include many simplifying assumptions, such as fDM, the fraction of dark matter composed of PBHs, and , mean PBH mass. Assuming M⊙, we find ∼3.6fDM times as many PBH microlensing events than stellar evolved black hole events, a PBH average peak Einstein crossing time of ∼91.5 days, estimate on order of 102fDM PBH events within the 8 yr OGLE-IV results, and estimate Roman to detect ∼1000fDM PBH microlensing events throughout its planned microlensing survey.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>SuperSynthIA: Physics-ready Full-disk Vector Magnetograms from HMI, Hinode, and Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad41e3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad41e3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳磁场, 数据分析, 磁力线, 学习方法, 太阳观测
+
+总结: 
+太阳光球的磁力线磁图是太阳物理研究的重要基础，本文介绍了一种名为SuperSynthIA的学习方法，该方法利用SDO/HMI的Stokes偏振图像作为输入，模拟Hinode/SOT-SP管道的反演和消歧输出。与之前的方法相比，SuperSynthIA提供了物理上可用的矢量磁图，并减轻了不合理的角度喜好和SynthIA中的带状伪影。SuperSynthIA数据在低信号区域噪声更少，并且显示出与SDO/HMI记录的磁场演变一致。文章还讨论了SuperSynthIA的局限性和已知伪影，并展示了一系列评估来测试SuperSynthIA，表明其输出已经可以供社区使用，同时学习方法适用于物理上可用的磁图。 <div>
+Vector magnetograms of the Sun’s photosphere are cornerstones for much of solar physics research. These data are often produced by data-analysis pipelines combining per-pixel Stokes polarization vector inversion with a disambiguation that resolves an intrinsic 180° ambiguity. We introduce a learning-based method, SuperSynthIA, that produces full-disk vector magnetograms from Stokes vector observations. As input, SuperSynthIA uses Stokes polarization images from Solar Dynamics Observatory (SDO)/Helioseismic and Magnetic Imager (HMI). As output, SuperSynthIA simultaneously emulates the inversion and disambiguation outputs from the Hinode/Solar Optical Telescope-Spectro-Polarimeter (SOT-SP) pipeline. Our method extends our previous approach SynthIA with heliographic outputs as well as using an improved data set and inference method. SuperSynthIA provides a new tool for improved magnetic fields from full-disk SDO/HMI observations using information derived from the enhanced capabilities of Hinode/SOT-SP. Compared to our previous SynthIA, SuperSynthIA provides physics-ready vector magnetograms and mitigates unphysical angle preferences and banding artifacts in SynthIA. SuperSynthIA data are substantially more temporally consistent than those from the SDO/HMI pipeline, most notably seen in, e.g., evolving active regions. SuperSynthIA substantially reduces noise in low-signal areas, resulting in less center-to-limb bias outside of strong-signal areas. We show that outputs from SuperSynthIA track the SDO/HMI-recorded evolution of the magnetic field. We discuss the limitations of SuperSynthIA that the user must understand, and we demonstrate a broad set of evaluations to test SuperSynthIA and discuss remaining known artifacts. Our tests provide both methodology and evidence that SuperSynthIA outputs are ready for use by the community, and that learning-based approaches are suitable for physics-ready magnetograms.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A NuSTAR Census of the X-Ray Binary Population of the M31 Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da4</guid>
+<content:encoded><![CDATA[
+<div> Neutron stars, Black holes, X-ray binaries, M31, NuSTAR
+<br><br>总结:
+使用NuSTAR进行硬X射线（E > 10 keV）观测，可以区分M31中X射线双星系统中的黑洞和中子星的星体类型。在M31盘的10次中等深度（20-50ks）观测中，检测到20个源，其中14个被认为是X射线双星系统。通过色-强度和色-色图分离出9个源，确定其中3个为黑洞，6个为中子星。此外，创建了X射线光度函数，并发现和之前的模型存在一致性。总体而言，这项研究提供了对M31中X射线双星系统的深入了解，显示出了它们的光度函数和星体类型之间的差异。 <div>
+Using hard (E > 10 keV) X-ray observations with NuSTAR, we are able to differentiate between the accretion states, and thus compact object types, of neutron stars (NSs) and black holes (BHs) in X-ray binaries (XRBs) in M31, our nearest Milky Way–type neighbor. Using 10 moderate-depth (20–50 ks) observations of the disk of M31 covering a total of ∼0.45 deg2, we detect 20 sources at 2σ in the 4–25 keV bandpass, 14 of which we consider to be XRB candidates. This complements an existing, deeper (100–400 ks) survey covering ∼0.2 deg2 of the bulge and the northeastern disk. We make tentative classifications of nine of these sources with the use of diagnostic color–intensity and color–color diagrams, which separate sources into various NS and BH regimes, identifying three BHs and six NSs. In addition, we create X-ray luminosity functions (XLFs) for both the full (4–25 keV) and hard (12–25 keV) bands, as well as subpopulations of the full band based on compact object type and association with globular clusters. Our best-fit globular cluster XLF is shallower than the field XLF, and preliminary BH and NS XLFs suggest a difference in shape based on compact object type. We find that the cumulative disk XLFs in the full and hard band are best fit by power laws with indices of 1.32 and 1.28, respectively. This is consistent with models of the Milky Way XLF from Grimm et al., Voss & Ajello, and Doroshenko et al.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A New Asteroseismic Kepler Benchmark Constrains the Onset of Weakened Magnetic Braking in Mature Sun-like Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4eb1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4eb1</guid>
+<content:encoded><![CDATA[
+<div> 星体演化，Kepler Mission，asteroseismic benchmark star，solar-type stars，gyrochronology<br>
+<br>
+在这篇论文中，作者利用重新处理的Kepler短周期数据发现了一个新的星体演化的基准星Papayu，并对其进行了分析。Papayu是一颗明亮的太阳型星，具有良好测量的自转周期，并且结合了天体地震学和光谱学等方法，得出了其温度、金属丰度、质量、半径和年龄等参数。研究发现Papayu处于传统和磁场效应削弱的自转速率模型分歧的转折点上。与类似零龄主序温度的恒星进行比较支持之前的研究结果，即削弱的自转速率模型可以解释老年太阳型恒星的年龄和自转周期。 <br><br>总结: <div>
+Stellar spin down is a critical yet poorly understood component of stellar evolution. In particular, results from the Kepler Mission imply that mature age, solar-type stars have inefficient magnetic braking, resulting in a stalled spin-down rate. However, a large number of precise asteroseismic ages are needed for mature (≥3 Gyr) stars in order to probe the regime where traditional and stalled spin-down models differ. In this paper, we present a new asteroseismic benchmark star for gyrochronology discovered using reprocessed Kepler short cadence data. KIC 11029516 (Papayu) is a bright (Kp = 9.6 mag) solar-type star with a well-measured rotation period (21.1 ± 0.8 days) from spot modulation using 4 yr of Kepler long-cadence data. We combine asteroseismology and spectroscopy to obtain Teff = 5888 ± 100 K, [Fe/H] = 0.30 ± 0.06 dex, M = 1.24 ± 0.05 M⊙, R = 1.34 ± 0.02 R⊙, and age of 4.0 ± 0.4 Gyr, making Papayu one of the most similar stars to the Sun in terms of temperature and radius with an asteroseismic age and a rotation period measured from spot modulation. We find that Papayu sits at the transition of where traditional and weakened spin-down models diverge. A comparison with stars of similar zero-age main-sequence temperatures supports previous findings that weakened spin-down models are required to explain the ages and rotation periods of old solar-type stars.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>New Observational Recipes for Measuring Dynamical States of Galaxy Clusters</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f80</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f80</guid>
+<content:encoded><![CDATA[
+<div> cosmological simulations, cluster assembly, dynamical state indicators, merger stages, observations
+
+总结:<br>
+研究尝试通过宇宙学模拟推导改进的配方，用于观测中对星团的动力学状态进行分类。利用星团暗物质的质量和次星团的质量来计算五个独立的动力学状态指标。实验结果表明，星团的动力学状态可以通过结合不同的指标来检测特定的合并阶段，如最近和古老的合并。研究使用旋转矩阵方法在多指标参数空间中绘制合并星团和放松星团的控制样本，以确定最佳的分离合并星团的方法。成功的配方通过合并和控制直方图在新旋转的x轴上的重叠百分比和成功率来量化。我们的研究结果表明，应用于观测时，我们的结果与文献中关于星团动力学状态的数值很好地一致。<br><br> <div>
+During cluster assembly, a cluster’s virialization process leaves behind signatures that can provide information on its dynamical state. However, no clear consensus yet exists on the best way to achieve this. Therefore, we attempt to derive improved recipes for classifying the dynamical states of clusters in observations using cosmological simulations. The cluster halo mass and their subhalos’ mass are used to 1014 M⊙ h−1 and 1010 M⊙ h−1 to calculate five independent dynamical state indicators. We experiment with recipes by combining two to four indicators for detecting specific merger stages, like recent and ancient mergers. These recipes are made by plotting merging clusters and a control sample of relaxed clusters in multiple-indicator parameter space, then applying a rotation matrix method to derive the best way to separate mergers from the control sample. The success of the recipe is quantified using the success rate and overlap percentage of the merger and control histograms along the newly rotated x-axis. This provides us with recipes using different numbers of combined indicators and for different merger stages. Among the recipes, the stellar mass gap and center offset are the first and second most dominant of the indicators, and using more indicators improves the effectiveness of the recipe. When applied to observations, our results show good agreement with literature values of cluster dynamical states.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Spectroscopic Survey of Faint Planetary-nebula Nuclei. V. The EGB 6-type Central Star of Abell 57*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f84</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f84</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Abell 57, EGB 6-type, 紧凑发射结, 星际物质, Hubble Space Telescope<br>
+<br>
+这篇论文报道了对Abell 57核心区域的研究发现。研究发现Abell 57属于稀有的“EGB 6型”行星状星云，具有密集的发射核心。相比于周围星云，紧凑发射结的透射更加显著，密度高，半径小。此外，核心区域还表现出近红外过剩，推测是由一个温度约1800K的尘埃伴星所致。这篇论文从宇宙飞马座57的研究入手，提出了未来对它的观测将有助于揭示其神秘之处。总结：<br><br>Abell 57属于“EGB 6型”行星状星云，具有密集的发射核心。核心区域还表现出近红外过剩，推测是由一个温度约1800K的尘埃伴星所致。未来对它的观测将有助于揭示其神秘之处。 <div>
+During our spectroscopic survey of central stars of faint planetary nebulae (PNe), we found that the nucleus of Abell 57 exhibits strong nebular emission lines. Using synthetic narrowband images, we show that the emission arises from an unresolved compact emission knot (CEK) coinciding with the hot (90,000 K) central star. Thus Abell 57 belongs to the rare class of “EGB 6-type” PNe, characterized by dense emission cores. Photometric data show that the nucleus exhibits a near-infrared excess, due to a dusty companion body with the luminosity of an M0 dwarf but a temperature of ∼1800 K. Emission-line analysis reveals that the CEK is remarkably dense (electron density ∼ 1.6 × 107 cm−3), and has a radius of only ∼4.5 au. The CEK suffers considerably more reddening than the central star, which itself is more reddened than the surrounding PN. These puzzles may suggest an interaction between the knot and central star; however, Hubble Space Telescope imaging of EGB 6 itself shows that its CEK lies more than ∼125 au from the PN nucleus. We discuss a scenario in which a portion of the asymptotic giant branch wind that created the PN was captured into a dust cloud around a distant stellar companion; this cloud has survived to the present epoch, and has an atmosphere photoionized by radiation from the hot central star. However, in this picture EGB 6-type nuclei should be relatively common, yet they are actually extremely rare; thus they may arise from a different transitory phenomenon. We suggest future observations of Abell 57 that may help unravel its mysteries.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Robust Light-curve Diagnostic for Electron-capture Supernovae and Low-mass Fe-core-collapse Supernovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50cb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50cb</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Core-collapse supernovae, massive stars, electron-capture supernovae, synthetic light curves, stellar evolution theory 
+
+总结: 
+核心坍缩超新星是大质量恒星的终结爆炸现象。其中，电子俘获超新星是略小质量恒星的爆炸现象，对于恒星演化理论的完善具有重要意义。研究发现，基于合适的爆发能量和星周介质分布，电子俘获超新星的合成光变曲线在图像上比铁核坍缩超新星更短、更亮、更蓝。通过采用多色观测方法，可以确定电子俘获超新星的特征。研究人员基于这一方法确定了SN 2018zd为电子俘获超新星，这被认为是利用现代观测技术发现的第一个电子俘获超新星。 <br><br> <div>
+Core-collapse supernovae (CCSNe) are the terminal explosions of massive stars. While most massive stars explode as iron-core-collapse supernovae (FeCCSNe), slightly less massive stars explode as electron-capture supernovae (ECSNe), shaping the low-mass end of CCSNe. ECSNe were proposed ∼40 yr ago and first-principles simulations also predict their successful explosions. Observational identification and investigation of ECSNe are important for the completion of stellar evolution theory. To date, only one promising candidate has been proposed, SN 2018zd, other than the historical progenitor of the Crab Nebula, SN 1054. We present representative synthetic light curves of low-mass FeCCSNe and ECSNe, i.e., with theoretically or observationally plausible explosion energies and distributions of circumstellar media (CSM). The ECSNe have shorter, brighter, and bluer plateaus than the FeCCSNe. To investigate the robustness of their intrinsic differences, we also calculated light curves of ECSNe and low-mass FeCCSNe adopting various explosion energies and CSM. Although they may have similar bolometric light-curve plateaus, ECSNe are bluer than FeCCSNe in the absence of strong CSM interaction, illustrating that multicolor observations are essential to identify ECSNe. This provides a robust indicator of ECSNe because the bluer plateaus stem from the low-density envelopes of their super-asymptotic-giant-branch progenitors. We propose a distance-independent method to identify ECSNe: , i.e., blue g – r at the middle of the plateau , where tPT is the transition epoch from plateau to tail. Using this method, we identified SN 2018zd as an ECSN, which we believe to be the first ECSN identified with modern observing techniques.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Temporal Evolution of Nonneutralized Electric Currents and the Complexity of Solar Active Regions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fb</guid>
+<content:encoded><![CDATA[
+<div> 磁通量、太阳活跃区、电流演化、磁极性、自动侦测算法
+<br>总结:
+该研究分析了59个太阳活跃区的磁极性倒转线上未中和电流的总量，并观察到总未中和电流INN,tot的时间序列呈现出明显的峰谷结构。与垂直电流Iz的时间序列相比，INN,tot呈现出更为复杂的结构。具有δ-斑的活跃区表现出更高的磁通量出现速率和INN,tot增加率。开发了自动检测算法来确定非中和电流的注入事件，发现随着活跃区复杂度的增加，注入速率和持续时间均增加，δ-斑的活跃区表现出最强和最长的事件。这些事件并不一定与磁通量的增加同时发生，尽管它们存在适度的相关性。研究得出结论，电流在磁通量出现过程中被注入，但也受到活跃区演化的极大影响。 <div>
+We study the evolution of electric currents during the emergence of magnetic flux in the solar photosphere and the differences exhibited between solar active regions of different Hale complexity classes. A sample of 59 active regions was analyzed using a method based on image segmentation and error analysis to determine the total amount of nonneutralized electric current along their magnetic polarity inversion lines. The time series of the total unsigned nonneutralized electric current, INN,tot, exhibit intricate structure in the form of distinct peaks and valleys. This information is largely missing in the respective time series of the total unsigned vertical electric current Iz. Active regions with δ-spots stand out, exhibiting a 1.9 times higher flux emergence rate and 2.6 times higher INN,tot increase. The median value of their peak INN,tot is equal to 3.6 × 1012 A, which is more than three times higher than that of the other regions of the sample. An automated detection algorithm was also developed to pinpoint the injection events of nonneutralized electric current. The injection rates and duration of these events were higher with increasing complexity of active regions, with regions containing δ-spots exhibiting the strongest and longest events. These events do not necessarily coincide with increasing magnetic flux, although they exhibit moderate correlation. We conclude that net electric currents are injected during flux emergence but are also shaped drastically by the incurred photospheric evolution as active regions grow and evolve.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Simulating the Arrival of the Southern Substructure in the Galaxy Cluster Abell 1758</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5350</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5350</guid>
+<content:encoded><![CDATA[
+<div> Abell 1758, galaxy cluster, N-body hydrodynamical simulations, orbital configuration, bridge connection
+总结:<br><br>Abell 1758是一个由两个结构A1758N和A1758S组成的星系团，它们之间存在一个未被发现的桥梁。文章通过N体流体动力学模拟探讨了不同的轨道探测方式，并发现了轨道接近的模拟方案与观测数据相吻合。其中，切向接近的方案表现出最佳匹配。模拟结果在X射线图像中显示出可检测的桥梁，但过估了X射线过量。这项研究的结论对理解星系团之间的相互作用具有重要意义。 <div>
+Abell 1758 (z ∼ 0.278) is a galaxy cluster composed of two structures, A1758N and A1758S, separated by ∼2.2 Mpc. The northern cluster is itself a dissociative merging cluster that has already been modeled by dedicated simulations. Recent radio observations revealed the existence of a previously undetected bridge connecting A1758N and A1758S. New simulations are now needed to take into account the presence of A1758S. We wish to evaluate which orbital configuration would be compatible with a bridge between the clusters. Using N-body hydrodynamical simulations that build upon the previous model, we explore different scenarios that could have led to the current observed configuration. Five types of orbital approaches were tested: radial, tangential, vertical, postapocentric, and outgoing. We found that the incoming simulated scenarios are generally consistent with mild enhancements of gas density between the approaching clusters. The mock X-ray images exhibit a detectable bridge in all cases. Compared to measurements of Chandra data, the amplitude of the X-ray excess is overestimated by a factor of ∼2–3 in the best simulations. The scenario of tangential approach proved to be the one that best matches the properties of the profiles of X-ray surface brightness. The scenarios of radial approach of vertical approach are also marginally compatible.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Can We Constrain Warm Dark Matter Masses with Individual Galaxies?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b6</guid>
+<content:encoded><![CDATA[
+<div> 暗暗物质，宇宙模拟，星系性质，正常流，相互信息<br>
+这项研究使用大量宇宙模拟数据，探讨了暗暗物质质量对星系内部性质的影响。通过训练正常流模型学习参数后发现，即使给定宇宙学和天体物理参数的值，模型仍无法推断出暗暗物质质量的值。而模型可以从星系性质中推断出Ωm的值，精度约为10％，而对于暗暗物质质量与星系性质之间的相互信息几乎没有显著的依赖关系。<br><br>总结: 暗暗物质质量对星系性质影响有限，正常流模型无法推断暗暗物质质量，但可以从星系性质中推断Ωm的值。 <div>
+We study the impact of warm dark matter (WDM) mass on the internal properties of individual galaxies using a large suite of 1024 state-of-the-art cosmological hydrodynamic simulations from the DREAMS project. We take individual galaxies’ properties from the simulations, which have different cosmologies, astrophysics, and WDM masses, and train normalizing flows to learn the posterior of the parameters. We find that our models cannot infer the value of the WDM mass, even when the values of the cosmological and astrophysical parameters are given explicitly. This result holds for galaxies with stellar mass larger than 2 × 108M⊙h−1 at both low and high redshifts. We calculate the mutual information and find no significant dependence between the WDM mass and galaxy properties. On the other hand, our models can infer the value of Ωm with a ∼10% accuracy from the properties of individual galaxies while marginalizing astrophysics and WDM masses.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Santa Barbara Binary−disk Code Comparison</title>
