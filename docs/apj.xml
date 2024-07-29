@@ -5,15 +5,28 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Santa Barbara Binary−disk Code Comparison</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a7e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a7e</guid>
+<content:encoded><![CDATA[
+<div> 数值计算，二进制交互，气体盘，数值方法，收敛解<br>
+总结：<br>
+这项研究的目标是确定是否所有代码在数值上都能达成一致的解，并确定收敛所需的分辨率以及必须计算的二进制轨道数，以达到二进制-盘系统的一致放松状态。研究发现，多数代码在二进制组件附近需要大约二进制间距的1%才能达到对盘对二进制施加的力矩的收敛测量。对于我们的盘模型达到放松状态，代码必须至少运行200个二进制轨道，这相当于我们参数的一个粘性时间，即0.2(a^2ΩB/ν)个二进制轨道，其中ν为动力粘度。代码之间出现的最大差异来自设置的维度（3D与2D盘）。研究发现，在代码之间总扭矩上存在较好的一致性，尽管这种扭矩在引力扭矩、轨道吸积扭矩和自旋吸积扭矩之间的分配取决于采用的sink处方。与先前的研究相一致，我们发现2D和3D盘模型之间的扭矩和吸积变化方面存在适度差异。我们发现凹陷进动速率在3D中比在2D中明显更快。 <div>
+We have performed numerical calculations of a binary interacting with a gas disk, using 11 different numerical methods and a standard binary−disk setup. The goal of this study is to determine whether all codes agree on a numerically converged solution and to determine the necessary resolution for convergence and the number of binary orbits that must be computed to reach an agreed-upon relaxed state of the binary−disk system. We find that all codes can agree on a converged solution (depending on the diagnostic being measured). The zone spacing required for most codes to reach a converged measurement of the torques applied to the binary by the disk is roughly 1% of the binary separation in the vicinity of the binary components. For our disk model to reach a relaxed state, codes must be run for at least 200 binary orbits, corresponding to about a viscous time for our parameters, 0.2(a2ΩB/ν) binary orbits, where ν is the kinematic viscosity. The largest discrepancies between codes resulted from the dimensionality of the setup (3D vs. 2D disks). We find good agreement in the total torque on the binary between codes, although the partition of this torque between the gravitational torque, orbital accretion torque, and spin accretion torque depends sensitively on the sink prescriptions employed. In agreement with previous studies, we find a modest difference in torques and accretion variability between 2D and 3D disk models. We find cavity precession rates to be appreciably faster in 3D than in 2D.
+]]></content:encoded>
+
+<pubDate>2024-07-28T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Galaxy–Galaxy Strong Lensing Cross Section and the Internal Distribution of Matter in ΛCDM Substructure</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fd</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 强引力透镜、暗物质、ΛCDM 模型、质量重分布、弱引力镜像
-总结: 强引力透镜提供了研究透镜中物质分布的重要手段，观测到的巨大星系团对暗物质的亚结构进行了研究，发现与ΛCDM模型不符，对透镜中的质量进行了重分布以解决这一差异，但重分布为解决这一差异提供了有限的帮助，建议需要更加细致地探索其他暗物质模型。 <br><br>总结: <div>
+总结: 强引力透镜提供了研究透镜中物质分布的重要手段，观测到的巨大星系团对暗物质的亚结构进行了研究，发现与ΛCDM模型不符，对透镜中的质量进行了重分布以解决这一差异，但重分布为解决这一差异提供了有限的帮助，建议需要更加细致地探索其他暗物质模型。 <br /><br />总结: <div>
 Strong gravitational lensing offers a powerful probe of the detailed distribution of matter in lenses, while magnifying and bringing faint background sources into view. Observed strong lensing by massive galaxy clusters, which are often in complex dynamical states, has also been used to map their dark matter (DM) substructures on smaller scales. Deep high-resolution imaging has revealed the presence of strong lensing events associated with these substructures, namely galaxy-scale sub-halos. However, an inventory of these observed galaxy–galaxy strong lensing (GGSL) events is noted to be discrepant with state-of-the-art ΛCDM simulations. Cluster sub-halos appear to be over-concentrated compared to their simulated counterparts yielding an order-of-magnitude higher value of GGSL. In this paper, we explore the possibility of resolving this observed discrepancy by redistributing the mass within observed cluster sub-halos in ways that are consistent within the ΛCDM paradigm of structure formation. Lensing mass reconstructions from data provide constraints on the mass enclosed within apertures and are agnostic to the detailed mass profile within them. Therefore, as the detailed density profile within cluster sub-halos currently remains unconstrained by data, we are afforded the freedom to redistribute the enclosed mass. We investigate if rearranging the mass to a more centrally concentrated density profile helps alleviate the GGSL discrepancy. We report that refitting cluster sub-halos to the ubiquitous ΛCDM-motivated Navarro–Frenk–White profile, and further modifying them to include significant baryonic components, does not resolve this tension. A resolution to this persisting GGSL discrepancy may require more careful exploration of alternative DM models.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -21,12 +34,11 @@ Strong gravitational lensing offers a powerful probe of the detailed distributio
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5285</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5285</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 控制注入实验, 星周盘, 光谱线数据, 气体质量, 表面密度<br>
-<br>
-这篇文章介绍了一种分析方法，通过控制注入和恢复实验，评估了解决(二氧化碳)光谱线数据的星周盘气体质量测量的方法。在数据质量足够的情况下，该方法对于大质量的盘( Md/M* = 0.1)表现良好，并能够恢复出真实值，且偏差小(≲20%)，不确定性在两倍标准差范围内。该方法还被用于阿塔卡马大型毫米/亚毫米阵列观测的MWC 480盘，测量得到了气体质量，并识别出与表面密度间隙相一致的动力学亚结构。这项研究表示这些动力学测量提供了足够精确和准确的新约束，以量化Md/M*分布的高端气体质量和表面密度，因此可以成为详细热化学模拟的关键基准。文章也讨论了未来工作的一些展望、各种警示和限制。 <br><br>总结: 本研究介绍了一种通过控制注入和恢复实验评估解决光谱线数据的星周盘气体质量测量的方法，针对大质量盘(Md/M* = 0.1)的数据质量良好，且方法也被应用于实际观测，并展示了测量结果的准确性和对动力学的约束力。文章还讨论了未来工作的展望和一些限制。 <div>
+<div> 关键词: 控制注入实验, 星周盘, 光谱线数据, 气体质量, 表面密度<br />
+<br />
+这篇文章介绍了一种分析方法，通过控制注入和恢复实验，评估了解决(二氧化碳)光谱线数据的星周盘气体质量测量的方法。在数据质量足够的情况下，该方法对于大质量的盘( Md/M* = 0.1)表现良好，并能够恢复出真实值，且偏差小(≲20%)，不确定性在两倍标准差范围内。该方法还被用于阿塔卡马大型毫米/亚毫米阵列观测的MWC 480盘，测量得到了气体质量，并识别出与表面密度间隙相一致的动力学亚结构。这项研究表示这些动力学测量提供了足够精确和准确的新约束，以量化Md/M*分布的高端气体质量和表面密度，因此可以成为详细热化学模拟的关键基准。文章也讨论了未来工作的一些展望、各种警示和限制。 <br /><br />总结: 本研究介绍了一种通过控制注入和恢复实验评估解决光谱线数据的星周盘气体质量测量的方法，针对大质量盘(Md/M* = 0.1)的数据质量良好，且方法也被应用于实际观测，并展示了测量结果的准确性和对动力学的约束力。文章还讨论了未来工作的展望和一些限制。 <div>
 Using controlled injection and recovery experiments, we devised an analysis prescription to assess the quality of dynamical measurements of protoplanetary disk gas masses based on resolved (CO) spectral line data, given observational limitations (resolution, sampling, noise), measurement bias, and ambiguities in the geometry and physical conditions. With sufficient data quality, this approach performed well for massive disks (Md/M* = 0.1): we inferred Md posteriors that recovered the true values with little bias (≲20%) and uncertainties within a factor of two (2σ). The gas surface density profiles for such cases are recovered with remarkable fidelity. Some experimentation indicates that this approach becomes insensitive when Md/M* ≲ 5%, due primarily to degeneracies in the surface density profile parameters. Including multiple lines that probe different vertical layers, along with some improvements in the associated tools, might push that practical boundary down by another factor of ∼two in ideal scenarios. We also demonstrated this analysis approach using archival Atacama Large Millimeter/Submillimeter Array observations of the MWC 480 disk: we measured (corresponding to Md/M* = 7% ± 1%) and identified kinematic substructures consistent with surface density gaps around 65 and 135 au. Overall, this (and similar work) suggests that these dynamical measurements offer powerful new constraints with sufficient accuracy and precision to quantify gas masses and surface densities at the high end of the Md/M* distribution, and therefore can serve as key benchmarks for detailed thermo-chemical modeling. We address some prospects for improvements, and discuss various caveats and limitations to guide future work.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,13 +49,11 @@ Using controlled injection and recovery experiments, we devised an analysis pres
 <div> 关键词: ω Centauri, Milky Way, globular cluster, Multi-Unit Spectroscopic Explorer, Hubble Space Telescope
 
 总结:
-ω Centauri是银河系中最大质量的球状星团，被怀疑是一颗侵入银河系的矮星系的剥离核心。研究使用了新的Multi-Unit Spectroscopic Explorer光谱和哈勃空间望远镜光度目录来调查该星团内部金属丰度分布及其空间变化。文章基于11,050颗成员星，发现[M/H]分布的中位数为(−1.614 ± 0.003) dex，分布范围约为1.37 dex，最金属丰富为−0.67 dex，最金属贫为−2.04 dex。此外，文章展示了该星团的染色体图，将红巨星分支星分为不同亚群，并分析了金属贫最组分的亚群。最后，文章发现在半光半径内没有金属丰度梯度，不同亚群混合程度较高。<br><br> <div>
+ω Centauri是银河系中最大质量的球状星团，被怀疑是一颗侵入银河系的矮星系的剥离核心。研究使用了新的Multi-Unit Spectroscopic Explorer光谱和哈勃空间望远镜光度目录来调查该星团内部金属丰度分布及其空间变化。文章基于11,050颗成员星，发现[M/H]分布的中位数为(−1.614 ± 0.003) dex，分布范围约为1.37 dex，最金属丰富为−0.67 dex，最金属贫为−2.04 dex。此外，文章展示了该星团的染色体图，将红巨星分支星分为不同亚群，并分析了金属贫最组分的亚群。最后，文章发现在半光半径内没有金属丰度梯度，不同亚群混合程度较高。<br /><br /> <div>
 ω Centauri, the most massive globular cluster in the Milky Way, has long been suspected to be the stripped nucleus of a dwarf galaxy that fell into the Galaxy a long time ago. There is considerable evidence for this scenario including a large spread in metallicity and an unusually large number of distinct subpopulations seen in photometric studies. In this work, we use new Multi-Unit Spectroscopic Explorer spectroscopic and Hubble Space Telescope photometric catalogs to investigate the underlying metallicity distributions as well as the spatial variations of the populations within the cluster up to its half-light radius. Based on 11,050 member stars, the [M/H] distribution has a median of (−1.614 ± 0.003) dex and a large spread of ∼1.37 dex, reaching from −0.67 to −2.04 dex for 99.7% of the stars. In addition, we show the chromosome map of the cluster, which separates the red giant branch stars into different subpopulations, and analyze the subpopulations of the most metal-poor component. Finally, we do not find any metallicity gradient within the half-light radius, and the different subpopulations are well mixed.
 ]]></content:encoded>
-
 <pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Galaxy and Mass Assembly (GAMA): Stellar-to-dynamical Mass Relation. II. Peculiar Velocities</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce2</link>
@@ -11603,33 +11613,6 @@ The composition of the solar corona differs from that of the photosphere, with t
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3240</guid>
 <content:encoded><![CDATA[
 Based on the LAMOST DR9 Medium Resolution Spectra (MRS) catalog, combined with astrometries from Gaia DR3, we conducted an investigation into the substructures in the stellar halo to obtain their chemical and kinematic information. We employed the HDBSCAN algorithm in the (Lz, E, Lxy) space for clustering and utilized Mahalanobis distance to merge the clustering results. Ultimately, within the LAMOST DR9 MRS catalog, we identified members of Gaia–Sausage–Enceladus (GSE), Helmi streams, and the high-α disk and in situ halo. Additionally, there are three clusters that cannot be correlated with known substructures. Based on their angular momentum (Lz) characteristics, we have tentatively named two of them High-Lz-Cluster-1 (HLC-1) and High-Lz-Cluster-2 (HLC-2), both exhibiting high angular momentum (Lz) features. The third cluster, owing to its extremely low Lz, is termed the Low-Lz-Cluster. Then detailed analysis about those substructures are executed including member stars’ identification and kinematic and chemical distribution. The resulting GSE member stars exhibit a well-defined metallicity distribution function with its peak at [Fe/H] ∼ −1.2, consistent with previous findings, and we found there appear to be some differences in the distribution on the Vtotal–rgal plane between GSE and its included Splash component. Regarding Helmi streams, in the [Mg/Fe]–[Fe/H] plane we detected potential traces of the α-knee phenomenon at [Fe/H] ∼ −1.53. Finally, we tentatively provide the possible origin for the HLC-1 and HLC-2.
-]]></content:encoded>
-<pubDate>2024-04-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Parallel Diffusion Coefficient of Energetic Charged Particles in the Inner Heliosphere from the Turbulent Magnetic Fields Measured by Parker Solar Probe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad33c3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad33c3</guid>
-<content:encoded><![CDATA[
-Diffusion coefficients of energetic charged particles in turbulent magnetic fields are a fundamental aspect of diffusive transport theory but remain incompletely understood. In this work, we use quasi-linear theory to evaluate the spatial variation of the parallel diffusion coefficient κ∥ from the measured magnetic turbulence power spectra in the inner heliosphere. We consider the magnetic field and plasma velocity measurements from Parker Solar Probe made during Orbits 5–13. The parallel diffusion coefficient is calculated as a function of radial distance from 0.062 to 0.8 au, and the particle energy from 100 keV to 1 GeV. We find that κ∥ increases exponentially with both heliocentric distance and energy of particles. The fluctuations in κ∥ are related to the episodes of large-scale magnetic structures in the solar wind. By fitting the results, we also provide an empirical formula of κ∥ = (5.16 ± 1.22) × 1018r1.17±0.08E0.71±0.02 (cm2 s−1) in the inner heliosphere, which can be used as a reference in studying the transport and acceleration of solar energetic particles as well as the modulation of cosmic rays.
-]]></content:encoded>
-<pubDate>2024-04-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Suppression of Star Formation in Galaxy Pairs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad343e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad343e</guid>
-<content:encoded><![CDATA[
-We investigate the suppression of star formation in galaxy pairs based on the isolated galaxy pair sample derived from the Sloan Digital Sky Survey survey. By comparing the star formation rate between late-type galaxies (LTGs) in galaxy pairs and those in the isolated environment, we detect a signal of the suppression of star formation in galaxy pairs at dp < 100 kpc and 200 kpc < dp < 350 kpc. The occurrence of the suppression of star formation in these LTGs requires their companion galaxies to have an early-type morphology (ns > 2.5). The suppression of star formation in wide galaxy pairs at 200 kpc < dp < 350 kpc mainly occurs in massive LTGs, while in close galaxy pairs at dp < 100 kpc, it only appears in LTGs with a massive companion ( ), nearly independent of their own stellar mass. Based on these findings, we infer that the suppression of star formation in wide galaxy pairs is actually a result of galaxy conformity, while in close galaxy pairs, it stems from the influence of hot circumgalactic medium surrounding companion galaxies.
-]]></content:encoded>
-<pubDate>2024-04-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Resonant Absorption of Magnetohydrodynamic Body Modes under Photospheric Conditions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3450</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3450</guid>
-<content:encoded><![CDATA[
-Observations reveal that surface and body modes exist in solar pores under photospheric conditions. While the effects of resonant absorption on photospheric surface modes are well established, its effect on body modes is not known yet. In this paper, we investigate resonant absorption for the body modes under photospheric conditions. We numerically solve the dispersion relation induced by thin boundary approximation and obtain the wave dispersion curves and damping rates of three arbitrarily chosen body modes for sausage and kink waves, respectively. The results show that resonant absorption for the body modes is weaker than for the slow surface modes in both cusp and Alfvén continua. The damping behavior of body modes is similar to slow surface modes while the higher body mode has stronger resonant absorption.
 ]]></content:encoded>
 <pubDate>2024-04-07T23:00:00Z</pubDate>
 </item>
