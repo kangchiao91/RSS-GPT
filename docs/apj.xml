@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Klein–Nishina Corrections to the Spectra and Light Curves of Gamma-Ray Burst Afterglows</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4e37</link>
@@ -15,10 +16,8 @@
 本文介绍了使用同步辐射自康普顿冷却（SSC）以及Klein-Nishina（KN）修正进行伽马射线暴（GRB）余辉建模的方法。通过提供一个公开可用的Python代码来计算康普顿Y参数并计算出KN修正后的余辉光谱和光变曲线，我们展示了新的光谱形态和其观测意义。此外，还讨论了KN修正如何解释一些GRB X射线余辉中观测到的硬谱和衰减速率较缓的现象。这一框架的目标是简化将SSC+KN修正引入相对论性爆发的多波段建模。 <div>
 Multiwavelength modeling of the synchrotron radiation from relativistic transients such as gamma-ray burst (GRB) afterglows is a powerful means of exploring the physics of relativistic shocks and of deriving properties of the explosion, such as the kinetic energy of the associated relativistic outflows. Capturing the location and evolution of the synchrotron cooling break is critical to break parameter degeneracies associated with such modeling. However, the shape of the spectrum above the cooling break, as well as the location and evolution of the break itself can be significantly altered by synchrotron self-Compton (SSC) cooling. We present an observer’s guide to applying SSC cooling with and without Klein–Nishina (KN) corrections to GRB afterglow modeling. We provide a publicly available Python code to calculate the Compton Y-parameter as a function of electron Lorentz factor, from which we compute changes to the electron distribution, along with KN-corrected afterglow spectra and light curves. In this framework, the canonical synchrotron spectral shapes split into multiple subregimes. We summarize each new spectral shape and describe its observational significance. We discuss how KN corrections can account for harder spectra and shallower decline rates observed in some GRB X-ray afterglows. Our overall aim is to provide an easy application of SSC+KN corrections into analytical multiwavelength modeling frameworks for relativistic transients.
 ]]></content:encoded>
-
 <pubDate>2024-07-28T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Primordial Black Hole Dark Matter Simulations Using PopSyCLE</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3df0</link>
@@ -11608,19 +11607,6 @@ Recent Imaging X-ray Polarimetry Explorer (IXPE) observations of blazars tend to
 总结:
 NGC 4138是一个低光度活动星系核(AGN)宿主，研究了其内部的PAH辐射发射。研究发现，星系内的PAH带比值随半径变化显著。使用新的PAH光谱模型，研究了AGN对PAH颗粒大小分布的影响。独立模拟了NGC 4138内部辐射场的变化，并用模型预测了PAH发射光谱的相关变化。结果表明，星火环中的星光混合度对PAH带比值的趋势有显著影响，辐射模型预测了这些趋势的形状。AGN的小颗粒截断和PAH电离分数的变化可能解释了较短波段的行为，但无法解释较长波段的情况。另外，研究发现在离中心约270pc的地方，PAH带比值略有增加，这表明AGN可能直接影响该区域的PAH发射。<br /><br /> <div>
 We present a focused study of radially resolved varying PAH emission in the low-luminosity active galactic nucleus (AGN)-host NGC 4138 using deep Spitzer/infrared spectrograph spectral maps. Using new model PAH spectra, we investigate whether these variations could be associated with changes to the PAH grain size distribution due to photodestruction by the AGN. Separately, we model the effects of the varying radiation field within NGC 4138, and we use this model to predict the corresponding changes in the PAH emission spectrum. We find that PAH band ratios are strongly variable with radius in this galaxy with short-to-long wavelength band ratios peaking in the starburst ring. The changing mix of starlight appears to have a considerable effect on the trends in these band ratios, and our radiation model predicts the shapes of these trends. However, the amplitude of observed variation is ∼2.5 × larger than predicted for some ratios. A cutoff of small grains in the PAH size distribution, as has been suggested for AGN, together with changes in PAH ionization fraction could explain the behavior of the shorter bands, but this model fails to reproduce longer band behaviors. Additionally, we find that short-to-long wavelength PAH band ratios increase slightly within ∼270 pc of the center, suggesting that the AGN may directly influence PAH emission there.
-]]></content:encoded>
-<pubDate>2024-04-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Evolution of Magnetic Field of the Quasar 1604+159 at parsec Scale</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad251a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad251a</guid>
-<content:encoded><![CDATA[
-<div> 关键词：quasar 1604+159, VLBA, polarization, magnetic field, RM
-
-总结: 
-研究以美国超长基线阵列（VLBA）观测的夸萨尔1604+159为对象，对其视差尺度下的总强度、谱指数、线偏振和旋转测度分布进行了分析。在2002年以5.0、8.4和15.4 GHz和2020年以4.6、5.1、6.0、7.8、12.2、15.2和43.9 GHz进行了观测。研究发现了核心-喷流结构，喷流延伸至距核心约25mas的范围。通过线偏振分布，将源结构划分为中央区和喷流区，发现喷流区的线偏振随时间变化。核心偏移指数kr表明核心在2002年接近均衡状态，而2020年已偏离。在核心检测到了横向RM梯度，为螺旋磁场的证据。通过15 GHz观测，发现RM随频率呈幂律增加，表明介质中的快速电子密度下降。总体而言，该研究对夸萨尔1604+159的磁场结构和偏振变化进行了全面的研究。 <div>
-We have analyzed the total intensity, spectral index, linear polarization, and rotation measure (RM) distributions at the parsec scale for the quasar 1604+159. The source was observed at 5.0, 8.4, and 15.4 GHz in 2002 and 4.6, 5.1, 6.0, 7.8, 12.2, 15.2, and 43.9 GHz in 2020 with the American Very Long Baseline Array (VLBA). Combining the polarization results of Monitoring of Jets in Active Galactic Nuclei with VLBA Experiments at 15 GHz from 2009 to 2013, we studied the evolution of magnetic field at the parsec scale for the source. We detected a core-jet structure. The jet extends to the distance of ∼25 mas from the core at a direction of ∼66° north by east. The shape of the jet derived from 15 GHz data varies slightly with time and could be described by a straight line. Based on the linear polarization distribution in 2002, we divided the source structure into the central region and the jet region. In the jet region, we find the polarized emission varies with time. The flatter spectral index values and electric vector position angle direction indicate the possible existence of shocks, contributing to the variation of polarization in the jet with time. In the central region, the derived core shift index kr values indicate that the core in 2002 is close to the equipartition case, while it deviated from the case in 2020. The measured magnetic field strength in 2020 is 2 orders of magnitude lower than that in 2002. We detected transverse RM gradients, evidence of a helical magnetic field, in the core. The polarized emission orients in general toward the jet direction in the core. At 15 GHz, in the place close to the jet base, the polarization direction changes significantly with time from perpendicular to parallel to the jet direction. The evolution of RM and magnetic field structure are potential reasons for the observed polarization change. The core ∣RM∣ in 2020 increases with frequency following a power law with index a = 2.7 ± 0.5, suggesting a fast electron density falloff in the medium with distance from the jet base.
 ]]></content:encoded>
 <pubDate>2024-04-07T23:00:00Z</pubDate>
 </item>
