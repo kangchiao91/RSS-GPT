@@ -4,20 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Santa Barbara Binary−disk Code Comparison</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a7e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a7e</guid>
 <content:encoded><![CDATA[
-<div> 数值计算，二进制交互，气体盘，数值方法，收敛解<br>
-总结：<br>
+<div> 数值计算，二进制交互，气体盘，数值方法，收敛解<br />
+总结：<br />
 这项研究的目标是确定是否所有代码在数值上都能达成一致的解，并确定收敛所需的分辨率以及必须计算的二进制轨道数，以达到二进制-盘系统的一致放松状态。研究发现，多数代码在二进制组件附近需要大约二进制间距的1%才能达到对盘对二进制施加的力矩的收敛测量。对于我们的盘模型达到放松状态，代码必须至少运行200个二进制轨道，这相当于我们参数的一个粘性时间，即0.2(a^2ΩB/ν)个二进制轨道，其中ν为动力粘度。代码之间出现的最大差异来自设置的维度（3D与2D盘）。研究发现，在代码之间总扭矩上存在较好的一致性，尽管这种扭矩在引力扭矩、轨道吸积扭矩和自旋吸积扭矩之间的分配取决于采用的sink处方。与先前的研究相一致，我们发现2D和3D盘模型之间的扭矩和吸积变化方面存在适度差异。我们发现凹陷进动速率在3D中比在2D中明显更快。 <div>
 We have performed numerical calculations of a binary interacting with a gas disk, using 11 different numerical methods and a standard binary−disk setup. The goal of this study is to determine whether all codes agree on a numerically converged solution and to determine the necessary resolution for convergence and the number of binary orbits that must be computed to reach an agreed-upon relaxed state of the binary−disk system. We find that all codes can agree on a converged solution (depending on the diagnostic being measured). The zone spacing required for most codes to reach a converged measurement of the torques applied to the binary by the disk is roughly 1% of the binary separation in the vicinity of the binary components. For our disk model to reach a relaxed state, codes must be run for at least 200 binary orbits, corresponding to about a viscous time for our parameters, 0.2(a2ΩB/ν) binary orbits, where ν is the kinematic viscosity. The largest discrepancies between codes resulted from the dimensionality of the setup (3D vs. 2D disks). We find good agreement in the total torque on the binary between codes, although the partition of this torque between the gravitational torque, orbital accretion torque, and spin accretion torque depends sensitively on the sink prescriptions employed. In agreement with previous studies, we find a modest difference in torques and accretion variability between 2D and 3D disk models. We find cavity precession rates to be appreciably faster in 3D than in 2D.
 ]]></content:encoded>
-
 <pubDate>2024-07-28T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Galaxy–Galaxy Strong Lensing Cross Section and the Internal Distribution of Matter in ΛCDM Substructure</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fd</link>
@@ -11604,15 +11603,6 @@ We present a timing solution for the 5.31 ms spider millisecond pulsar (MSP) J12
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3234</guid>
 <content:encoded><![CDATA[
 The composition of the solar corona differs from that of the photosphere, with the plasma thought to fractionate in the solar chromosphere according to the first ionization potential (FIP) of the different elements. This produces a FIP bias, wherein elements with a low FIP are preferentially enhanced in the corona compared to their photospheric abundance, but direct observations of this process remain elusive. Here, we use a series of spectroscopic observations of active region AR 12759 as it transited the solar disk over a period of 6 days from 2020 April 2–7 taken using the Hinode Extreme ultraviolet Imaging Spectrometer and Interface Region Imaging Spectrograph (IRIS) instruments to look for signatures of plasma fractionation in the solar chromosphere. Using the Si x/S x and Ca xiv/Ar xiv diagnostics, we find distinct differences between the FIP bias of the leading and following polarities of the active region. The widths of the IRIS Si iv lines exhibited clear differences between the leading and following polarity regions, indicating increased unresolved wave activity in the following polarity region compared to the leading polarity region, with the chromospheric velocities derived using the Mg ii lines exhibiting comparable, albeit much weaker, behavior. These results are consistent with plasma fractionation via resonant/nonresonant waves at different locations in the solar chromosphere following the ponderomotive force model, and indicate that IRIS could be used to further study this fundamental physical process.
-]]></content:encoded>
-<pubDate>2024-04-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Visit Nearby Halo Substructures Using LAMOST DR9 MRS Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3240</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3240</guid>
-<content:encoded><![CDATA[
-Based on the LAMOST DR9 Medium Resolution Spectra (MRS) catalog, combined with astrometries from Gaia DR3, we conducted an investigation into the substructures in the stellar halo to obtain their chemical and kinematic information. We employed the HDBSCAN algorithm in the (Lz, E, Lxy) space for clustering and utilized Mahalanobis distance to merge the clustering results. Ultimately, within the LAMOST DR9 MRS catalog, we identified members of Gaia–Sausage–Enceladus (GSE), Helmi streams, and the high-α disk and in situ halo. Additionally, there are three clusters that cannot be correlated with known substructures. Based on their angular momentum (Lz) characteristics, we have tentatively named two of them High-Lz-Cluster-1 (HLC-1) and High-Lz-Cluster-2 (HLC-2), both exhibiting high angular momentum (Lz) features. The third cluster, owing to its extremely low Lz, is termed the Low-Lz-Cluster. Then detailed analysis about those substructures are executed including member stars’ identification and kinematic and chemical distribution. The resulting GSE member stars exhibit a well-defined metallicity distribution function with its peak at [Fe/H] ∼ −1.2, consistent with previous findings, and we found there appear to be some differences in the distribution on the Vtotal–rgal plane between GSE and its included Splash component. Regarding Helmi streams, in the [Mg/Fe]–[Fe/H] plane we detected potential traces of the α-knee phenomenon at [Fe/H] ∼ −1.53. Finally, we tentatively provide the possible origin for the HLC-1 and HLC-2.
 ]]></content:encoded>
 <pubDate>2024-04-07T23:00:00Z</pubDate>
 </item>
