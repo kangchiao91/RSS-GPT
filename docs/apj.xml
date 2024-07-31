@@ -5,15 +5,44 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>WIYN Open Cluster Study. XC. Barium Surface Abundances of Blue Straggler Stars in the Open Clusters NGC 7789 and M67</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad534b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad534b</guid>
+<content:encoded><![CDATA[
+<div> NGC 7789, M67, blue straggler stars, barium abundances, asymptotic-giant-branch mass transfer
+<br>
+这项研究调查了NGC 7789（年龄1.6亿年）和M67（年龄4亿年）两个开放星团中蓝跳巨星中钡（Ba）的丰度，作为巨星分支的质量转移的标志。研究结合了之前对NGC 6819（年龄2.5亿年）和NGC 188（年龄7亿年）的钡丰度分析。在研究的35颗BSSs中，43% ± 11%的星体富集了钡，而NGC 188中的BSSs没有富集钡。富集了钡的BSSs的丰度与星团的年龄呈反相关，从NGC 7789中的钡富集约为[Ba/Fe]∼+1.5 dex到M67中的约为[Ba/Fe]∼+1.0 dex。富集了钡的BSSs都位于H-R图的相同区域，而与星团的年龄或距离主序转折点的距离无关。数据表明了AGB捐赠者质量和BSSs质量转移效率之间的关联，较小质量的AGB捐赠者倾向于进行更保守的质量转移。40% ± 16%的富集了钡的BSSs是具有小于5000天轨道周期的长周期光谱双星。那些表现出径向速度变化的富集了钡的BSSs表明通过风质量转移或风罗奇波溢出在宽双星中进行AGB质量转移。考虑到M67和NGC 188中BSSs的长轨道周期的普遍性以及在NGC 7789、NGC 6819和M67中富集了钡的频率，AGB质量转移可能是1亿年以上的开放星团中BSS形成的主要机制。 
+<br>
+总结: NGC 7789和M67中发现43%的蓝跳巨星富集了钡，这与星团年龄呈反相关。AGB捐赠者的质量与BSSs质量转移的效率呈关联，而40%的富集了钡的BSSs是长周期光谱双星。AGB质量转移可能是1亿年以上开放星团中BSS形成的主要机制。 <div>
+We investigate barium (Ba) abundances in blue straggler stars (BSSs) in two open clusters, NGC 7789 (1.6 Gyr) and M67 (4 Gyr), as signatures of asymptotic-giant-branch (AGB) mass transfer. We combine our findings with previous Ba abundance analyses of NGC 6819 (2.5 Gyr) and NGC 188 (7 Gyr). Out of 35 BSSs studied in NGC 7789, NGC 6819, and M67, 15 (43% ± 11%) are Ba enriched; no BSSs in NGC 188 are Ba enriched. The Ba abundances of enriched BSSs show an anticorrelation with cluster age, ranging from an enrichment of [Ba/Fe] ∼ +1.5 dex in NGC 7789 to [Ba/Fe] ∼ +1.0 dex in M67. The Ba-enriched BSSs all lie in the same region of the H-R diagram, irrespective of cluster age or distance from the main-sequence turnoff. Our data suggest a link between AGB donor mass and mass-transfer efficiency in BSSs, in that less massive AGB donors tend to undergo more conservative mass transfer. We find that 40% ± 16% of the Ba-enriched BSSs are in longer-period spectroscopic binaries with orbital periods less than 5000 days. Those Ba-enriched BSSs that do not exhibit radial-velocity variability suggest AGB mass transfer in wide binaries by either wind mass transfer or wind Roche-lobe overflow. Given the preponderance of long orbital periods in the BSSs of M67 and NGC 188 and the frequency of Ba enrichment in NGC 7789, NGC 6819, and M67, it may be that AGB mass transfer is the dominant mechanism of BSS formation in open clusters older than 1 Gyr.
+]]></content:encoded>
+
+<pubDate>2024-07-30T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Hunting for Polluted White Dwarfs and Other Treasures with Gaia XP Spectra and Unsupervised Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d6e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d6e</guid>
+<content:encoded><![CDATA[
+<div> 白矮星，污染，外行星物质，光谱，机器学习
+<br>
+这篇论文介绍了利用机器学习技术来增加具有多种金属元素的白矮星的数量。研究使用了来自Gaia DR3 BP/RP (XP)光谱的96,134颗白矮星，通过应用一种名为均匀流形近似和投影（UMAP）的无监督机器学习技术，将这些白矮星组织成可识别的光谱区域的2D地图。污染的白矮星是在地图中被识别出来的一个明显的光谱群体。研究表明，这种选择方法有潜力将已知白矮星大气中五种或更多金属物质的数量增加一个数量级。这些系统对于表征外行星的多样性和地质学是至关重要的。 
+<br><br>总结：本文介绍了利用机器学习技术增加白矮星的数量，通过分析96,134颗白矮星的光谱，并使用UMAP技术得出一个2D地图，将污染的白矮星从其他光谱区域中区分开来，这种选择方法有望将已知白矮星大气中五种或更多金属物质的数量增加一个数量级。 <div>
+White dwarfs (WDs) polluted by exoplanetary material provide the unprecedented opportunity to directly observe the interiors of exoplanets. However, spectroscopic surveys are often limited by brightness constraints, and WDs tend to be very faint, making detections of large populations of polluted WDs difficult. In this paper, we aim to increase considerably the number of WDs with multiple metals in their atmospheres. Using 96,134 WDs with Gaia DR3 BP/RP (XP) spectra, we constructed a 2D map using an unsupervised machine-learning technique called Uniform Manifold Approximation and Projection (UMAP) to organize the WDs into identifiable spectral regions. The polluted WDs are among the distinct spectral groups identified in our map. We have shown that this selection method could potentially increase the number of known WDs with five or more metal species in their atmospheres by an order of magnitude. Such systems are essential for characterizing exoplanet diversity and geology.
+]]></content:encoded>
+
+<pubDate>2024-07-30T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Search for Gravitational-lensing Signatures in the Full Third Observing Run of the LIGO–Virgo Network</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e83</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e83</guid>
 <content:encoded><![CDATA[
-<div> LIGO-Virgo, Gravitational lensing, Binary black hole events, Search for lensing signatures, Constraints on lensing rate<br>
-<br>总结:<br>本研究对LIGO-Virgo网络第三次观测期间的所有双黑洞事件进行了引力透镜特征的搜索，并采用多种方法进行了分析。通过针对亚阈信号的有针对性搜索、对信号的内在参数和天空位置的重叠度计算、对信号的频谱图相似性的比较以及考虑选择效应和天体物理知识的双信号贝叶斯分析等方式进行搜索，虽未发现明显的引力透镜迹象。最终，研究利用未发现引力波透镜效应对透镜率进行了限制，基于最新的合并率估计和暗物质由致密物体构成的分数。 <div>
+<div> LIGO-Virgo, Gravitational lensing, Binary black hole events, Search for lensing signatures, Constraints on lensing rate<br />
+<br />总结:<br />本研究对LIGO-Virgo网络第三次观测期间的所有双黑洞事件进行了引力透镜特征的搜索，并采用多种方法进行了分析。通过针对亚阈信号的有针对性搜索、对信号的内在参数和天空位置的重叠度计算、对信号的频谱图相似性的比较以及考虑选择效应和天体物理知识的双信号贝叶斯分析等方式进行搜索，虽未发现明显的引力透镜迹象。最终，研究利用未发现引力波透镜效应对透镜率进行了限制，基于最新的合并率估计和暗物质由致密物体构成的分数。 <div>
 Gravitational lensing by massive objects along the line of sight to the source causes distortions to gravitational wave (GW) signals; such distortions may reveal information about fundamental physics, cosmology, and astrophysics. In this work, we have extended the search for lensing signatures to all binary black hole events from the third observing run of the LIGO-Virgo network. We search for repeated signals from strong lensing by (1) performing targeted searches for subthreshold signals, (2) calculating the degree of overlap among the intrinsic parameters and sky location of pairs of signals, (3) comparing the similarities of the spectrograms among pairs of signals, and (4) performing dual-signal Bayesian analysis that takes into account selection effects and astrophysical knowledge. We also search for distortions to the gravitational waveform caused by (1) frequency-independent phase shifts in strongly lensed images, and (2) frequency-dependent modulation of the amplitude and phase due to point masses. None of these searches yields significant evidence for lensing. Finally, we use the nondetection of GW lensing to constrain the lensing rate based on the latest merger-rate estimates and the fraction of dark matter composed of compact objects.
 ]]></content:encoded>
-
 <pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,10 +52,9 @@ Gravitational lensing by massive objects along the line of sight to the source c
 <content:encoded><![CDATA[
 <div> UVCANDELS, disk-like galaxies, rest-frame UV, rest-frame optical, stellar mass-size relation
 
-在这项研究中，研究人员利用UVCANDELS对0.5≤z≤3范围内约16,000个类似盘状星系的半光半径进行了测量。他们发现，在整个红移范围内，盘状星系的恒星质量-大小关系在紫外光学和光学区域的斜率不同，主要受到质量较大的星系（≳1010M⊙）的影响，这些星系也隶属于最富含尘埃的星系之一。研究结果与已有的文献一致，一般被解释为星系内部的先内后外增长。然而，他们还指出这可能是因为质量较大的星系中心区域的遮挡作用更强。通过对VELA模拟组中z=2的星系进行建模和选择，研究人员表明，仅仅是尘埃的影响就能解释在z=2时所测得的大小差异。这表明在不同波长下，大小差异和恒星质量-大小关系的不同斜率并不构成星系内部先内后外增长的证据。<br><br>总结: 这项研究利用UVCANDELS对类似盘状星系的大小进行测量，发现在不同波长下的大小差异以及恒星质量-大小关系的不同斜率并不构成星系内部先内后外增长的证据。这些差异可能仅仅是由尘埃的影响造成的。 <div>
+在这项研究中，研究人员利用UVCANDELS对0.5≤z≤3范围内约16,000个类似盘状星系的半光半径进行了测量。他们发现，在整个红移范围内，盘状星系的恒星质量-大小关系在紫外光学和光学区域的斜率不同，主要受到质量较大的星系（≳1010M⊙）的影响，这些星系也隶属于最富含尘埃的星系之一。研究结果与已有的文献一致，一般被解释为星系内部的先内后外增长。然而，他们还指出这可能是因为质量较大的星系中心区域的遮挡作用更强。通过对VELA模拟组中z=2的星系进行建模和选择，研究人员表明，仅仅是尘埃的影响就能解释在z=2时所测得的大小差异。这表明在不同波长下，大小差异和恒星质量-大小关系的不同斜率并不构成星系内部先内后外增长的证据。<br /><br />总结: 这项研究利用UVCANDELS对类似盘状星系的大小进行测量，发现在不同波长下的大小差异以及恒星质量-大小关系的不同斜率并不构成星系内部先内后外增长的证据。这些差异可能仅仅是由尘埃的影响造成的。 <div>
 We use the Ultraviolet Imaging of the Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey fields (UVCANDELS) to measure half-light radii in the rest-frame far-UV for ∼16,000 disk-like galaxies over 0.5 ≤ z ≤ 3. We compare these results to rest-frame optical sizes that we measure in a self-consistent way and find that the stellar mass–size relation of disk galaxies is steeper in the rest-frame UV than in the optical across our entire redshift range. We show that this is mainly driven by massive galaxies (≳1010M⊙), which we find to also be among the most dusty. Our results are consistent with the literature and have commonly been interpreted as evidence of inside-out growth wherein galaxies form their central structures first. However, they could also suggest that the centers of massive galaxies are more heavily attenuated than their outskirts. We distinguish between these scenarios by modeling and selecting galaxies at z = 2 from the VELA simulation suite in a way that is consistent with UVCANDELS. We show that the effects of dust alone can account for the size differences we measure at z = 2. This indicates that, at different wavelengths, size differences and the different slopes of the stellar mass–size relation do not constitute evidence for inside-out growth.
 ]]></content:encoded>
-
 <pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 <item>
@@ -34,11 +62,10 @@ We use the Ultraviolet Imaging of the Cosmic Assembly Near-infrared Deep Extraga
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad554b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad554b</guid>
 <content:encoded><![CDATA[
-<div> 高红移、γ射线、类星体、PKS 0201+113、射电爆发 <br>
-在这项研究中，Fermi-LAT数据的分析揭示了一个重要的(5σ)、光谱软(Γ≃3.0)的γ射线源，持续了4个月，与PKS 0201+113 (z=3.64)的位置一致。但从2008年到2023年，通过奥文斯谷射电天文台40米望远镜对PKS 0201+113进行的15GHz监测显示了一个显著的射电爆发，主导了射电光变曲线。射电爆发的最大值与γ射线爆发同时，强烈暗示了γ射线和射电源之间的联系。这是发现第三个红移大于3.5的γ射线类星体，也是通过检测准同时的γ射线和射电爆发而首次发现这样的目标。研究了这个特殊类星体的喷流特性，并提出了适合宽带谱能分布的两区电子模型的详细研究。另外也简要讨论了另一种情景。 <br><br>总结: 这项研究发现了一个高红移的γ射线类星体PKS 0201+113，通过Fermi-LAT数据分析和射电观测，发现了其在γ射线和射电波段的爆发现象，并进行了喷流特性和能谱分布模型的研究。 <div>
+<div> 高红移、γ射线、类星体、PKS 0201+113、射电爆发 <br />
+在这项研究中，Fermi-LAT数据的分析揭示了一个重要的(5σ)、光谱软(Γ≃3.0)的γ射线源，持续了4个月，与PKS 0201+113 (z=3.64)的位置一致。但从2008年到2023年，通过奥文斯谷射电天文台40米望远镜对PKS 0201+113进行的15GHz监测显示了一个显著的射电爆发，主导了射电光变曲线。射电爆发的最大值与γ射线爆发同时，强烈暗示了γ射线和射电源之间的联系。这是发现第三个红移大于3.5的γ射线类星体，也是通过检测准同时的γ射线和射电爆发而首次发现这样的目标。研究了这个特殊类星体的喷流特性，并提出了适合宽带谱能分布的两区电子模型的详细研究。另外也简要讨论了另一种情景。 <br /><br />总结: 这项研究发现了一个高红移的γ射线类星体PKS 0201+113，通过Fermi-LAT数据分析和射电观测，发现了其在γ射线和射电波段的爆发现象，并进行了喷流特性和能谱分布模型的研究。 <div>
 High-redshift (z > 3) γ-ray blazars are rare, but they are crucial for our understanding of jet evolution, γ-ray production and propagation, and the growth of supermassive black holes in the early Universe. A new analysis of Fermi-LAT data reveals a significant (5σ), spectrally soft (Γ ≃ 3.0) γ-ray source in a specific 4 month epoch, cospatial with PKS 0201+113 (z = 3.64). Monitoring of PKS 0201+113 at 15 GHz by the Owens Valley Radio Observatory 40 m telescope from 2008 to 2023 shows a prominent flare that dominates the radio light curve. The maximum of the radio flare coincides with the γ-ray flare, strongly suggesting an association (p-value = 0.023) between the γ-ray and the radio sources. PKS 0201+113 is only the third γ-ray blazar to be identified with z > 3.5, and it is the first such object to be identified by the detection of quasi-simultaneous γ-ray and radio flares. The jet properties of this peculiar blazar have been investigated. A detailed study of a two-zone leptonic model is presented that fits the broadband spectral energy distribution. An alternative scenario is also briefly discussed.
 ]]></content:encoded>
-
 <pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 <item>
@@ -46,12 +73,11 @@ High-redshift (z > 3) γ-ray blazars are rare, but they are crucial for our unde
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad59a9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad59a9</guid>
 <content:encoded><![CDATA[
-<div> 星团 NGC 3201, 绝对年龄, 蒙特卡洛模拟, 恒星演化参数, 赫斯图法<br>
-<br>
-通过蒙特卡洛模拟以及三种不同的方法分析数据，确定了NGC 3201星团的绝对年龄为11.85 ± 0.74 Gyr。蒙特卡洛模拟考虑了恒星演化参数的不确定性，适应了三个离散的双星系统，并利用两种不同的Hess图拟合方法对赫斯勒太空望远镜的光度数据进行了校正。三种方法分析结果相差不超过1σ，结果一致。变量重要性分析表明，距离是光度学方法中不确定性的主要来源，而总金属丰度、氦丰度、α元素丰度、混合长度和氦扩散处理方法是所有三种方法的重要不确定性来源。<br><br>总结: 通过蒙特卡洛模拟和多种分析方法确定了NGC 3201星团的绝对年龄为11.85 ± 0.74 Gyr。在这一过程中，考虑了恒星演化参数的不确定性，充分考虑了数据分析中的各种误差来源。 <div>
+<div> 星团 NGC 3201, 绝对年龄, 蒙特卡洛模拟, 恒星演化参数, 赫斯图法<br />
+<br />
+通过蒙特卡洛模拟以及三种不同的方法分析数据，确定了NGC 3201星团的绝对年龄为11.85 ± 0.74 Gyr。蒙特卡洛模拟考虑了恒星演化参数的不确定性，适应了三个离散的双星系统，并利用两种不同的Hess图拟合方法对赫斯勒太空望远镜的光度数据进行了校正。三种方法分析结果相差不超过1σ，结果一致。变量重要性分析表明，距离是光度学方法中不确定性的主要来源，而总金属丰度、氦丰度、α元素丰度、混合长度和氦扩散处理方法是所有三种方法的重要不确定性来源。<br /><br />总结: 通过蒙特卡洛模拟和多种分析方法确定了NGC 3201星团的绝对年龄为11.85 ± 0.74 Gyr。在这一过程中，考虑了恒星演化参数的不确定性，充分考虑了数据分析中的各种误差来源。 <div>
 We estimate the absolute age of the globular cluster NGC 3201 using 10,000 sets of theoretical isochrones constructed through Monte Carlo simulation using the Dartmouth Stellar Evolution Program. These isochrones take into consideration the uncertainty introduced by the choice of stellar evolution parameters. We fit isochrones with three detached eclipsing binaries and obtained an age independent of distance. We also fit isochrones with differential reddening corrected Hubble Space Telescope photometry data utilizing two different Hess diagram-based fitting methods. Results from three different methods analyzing two different types of data agree to within 1σ, and we find the absolute age of NGC 3201 = 11.85 ± 0.74 Gyr. We also perform a variable importance analysis to study the uncertainty contribution from individual parameters, and we find the distance is the dominant source of uncertainty in photometry-based analysis, while total metallicity, helium abundance, α-element abundance, mixing length, and treatment of helium diffusion are an important source of uncertainties for all three methods.
 ]]></content:encoded>
-
 <pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 <item>
@@ -60,11 +86,10 @@ We estimate the absolute age of the globular cluster NGC 3201 using 10,000 sets 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad61e2</guid>
 <content:encoded><![CDATA[
 <div> Hinode observations, meridional flow, magnetic flux density, polar magnetic fields, surface flux transport model
-<br>总结:
+<br />总结:
 太阳极区的经向流动对太阳的磁场结构和强度以及太阳活动周期起着重要作用。然而，关于太阳极区的经向流动仍不清楚。Hinode观测显示，极区的磁通量密度从较低的纬度向极点减小。使用表面磁通输运模型，我们模拟了全球径向磁场，以探索导致观测到的极区磁分布模式的物理过程。首次使用Hinode直接观测到的极区磁场高分辨率数据来约束模拟结果。我们的模拟重现了观测到的极区磁场的特性，表明太阳极区存在一个反向的经向流，其最大振幅约为3 m/s。 <div>
 As a large-scale motion on the Sun, the meridional flow plays an important role in determining magnetic structure and strength and solar cycle. However, the meridional flow near the solar poles is still unclear. The Hinode observations show that the magnetic flux density in polar caps decreases from the lower latitudes to the poles. Using a surface flux transport model, we simulate the global radial magnetic field to explore the physical process leading to the observed polar magnetic distribution pattern. For the first time, the high-resolution observations of the polar magnetic fields observed by Hinode are used to directly constrain the simulation. Our simulation reproduces the observed properties of the polar magnetic fields, suggesting the existence of a counter-cell meridional flow in the solar polar caps with a maximum amplitude of about 3 m s−1.
 ]]></content:encoded>
-
 <pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 <item>
@@ -73,10 +98,9 @@ As a large-scale motion on the Sun, the meridional flow plays an important role 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad625f</guid>
 <content:encoded><![CDATA[
 <div> 关键词: Hinode/Extreme Ultraviolet Imaging Spectrometer, CME, differential emission measure, plasma components, solar corona
-总结: 该研究报道了Hinode/极紫外成像光谱仪首次观测到的CME的时间依赖光谱图谱，观测到2008年4月9日09:30-10:00 UT的Cartwheel CME，并捕捉到包含突起物质的明亮核心通过狭缝视场的情况。测量得出的差分发射度量（DEM）表明观测捕获了两个等离子体成分，一个是在Log T ≈ 6.05 K的日冕成分，另一个是在Log T ≈ 5.30 K的冷成分，被解释为CME核心中的突起物质。研究利用这个DEM为四个包含CME物质以及事件前后的EIS光谱制作了光谱图谱。这些观测为研究低太阳日冕中的CME等离子体演化提供了基础，并指导了目前和即将到来的光谱仪的观测，包括Solar Orbiter/SPICE，Solar-C/EUVST和MUSE，这些将推动我们对CME等离子体演化的理解。 <br><br>总结: Hinode/极紫外成像光谱仪首次观测到CME的时间依赖光谱图谱; 观测到了Cartwheel CME的情况，包括明亮核心和突起物质; 测量得出了两个等离子体成分，一个是日冕成分，另一个是冷成分; 利用这个差分发射度量制作了光谱图谱; 这些观测为研究CME等离子体演化提供了基础，也指导了未来观测的方向。 <div>
+总结: 该研究报道了Hinode/极紫外成像光谱仪首次观测到的CME的时间依赖光谱图谱，观测到2008年4月9日09:30-10:00 UT的Cartwheel CME，并捕捉到包含突起物质的明亮核心通过狭缝视场的情况。测量得出的差分发射度量（DEM）表明观测捕获了两个等离子体成分，一个是在Log T ≈ 6.05 K的日冕成分，另一个是在Log T ≈ 5.30 K的冷成分，被解释为CME核心中的突起物质。研究利用这个DEM为四个包含CME物质以及事件前后的EIS光谱制作了光谱图谱。这些观测为研究低太阳日冕中的CME等离子体演化提供了基础，并指导了目前和即将到来的光谱仪的观测，包括Solar Orbiter/SPICE，Solar-C/EUVST和MUSE，这些将推动我们对CME等离子体演化的理解。 <br /><br />总结: Hinode/极紫外成像光谱仪首次观测到CME的时间依赖光谱图谱; 观测到了Cartwheel CME的情况，包括明亮核心和突起物质; 测量得出了两个等离子体成分，一个是日冕成分，另一个是冷成分; 利用这个差分发射度量制作了光谱图谱; 这些观测为研究CME等离子体演化提供了基础，也指导了未来观测的方向。 <div>
 We report the first time-dependent spectral atlas of a coronal mass ejection (CME) observed by the Hinode/Extreme Ultraviolet Imaging Spectrometer (EIS). EIS observed the Cartwheel CME on 2008 April 9 at 09:30–10:00 UT in its full wavelength range and captured the bright core containing prominence material as it passed across the slit field of view. The measurement of the differential emission measure (DEM) showed that the observation captured two plasma components, a coronal component at Log T ≈ 6.05 K and a cold component at Log T ≈ 5.30 K, which we interpret as the prominence material in the CME core. We used this DEM to develop a spectral atlas for the four EIS spectra containing the CME material and the pre- and postevent spectra. These observations provide the basis for studying CME plasma evolution in the low solar corona, as well as guide observations from the current and upcoming spectrometers, including Solar Orbiter/SPICE, Solar-C/EUVST, and MUSE, which will advance our understanding of CME plasma evolution.
 ]]></content:encoded>
-
 <pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 <item>
@@ -90,7 +114,6 @@ We report the first time-dependent spectral atlas of a coronal mass ejection (CM
 ΛCDM理论意味着对亚星团种群特性的实际预测存在着困难，新的Symfind粒子跟踪亚星团发现者可以追踪亚星团到数量级较低的质量。相比常用的Rockstar和consistent-trees方法，Symfind可以发现更多的亚星团并且在分辨率提高时亚星团数量也增加。实验结果显示Rockstar在小亚星团计数上似乎已经收敛。此外，研究还发现Rockstar对于亚星团质量函数、径向分布和破裂质量存在假解。Symfind可以追踪已解决的亚星团直至典型星系破裂点，而无需后期孤儿模型。作者还公开发布了Symfind在Symphony模拟套件中的目录和粒子数据。  <div>
 A major question in ΛCDM is what this theory actually predicts for the properties of subhalo populations. Subhalos are difficult to accurately simulate and to find within simulations, and this propagates into uncertainty in theoretical predictions for satellite galaxies. We present Symfind, a new particle-tracking-based subhalo finder, and demonstrate that it can track subhalos to orders-of-magnitude lower masses than commonly used halo-finding tools, with a focus on Rockstar and consistent-trees. These longer survival times mean that at a fixed peak subhalo mass, we find ≈ 15%–40% more subhalos within the virial radius, Rvir, and ≈35%–120% more subhalos within Rvir/4 in the Symphony dark-matter-only simulation suite. More subhalos are found as the resolution is increased, in contrast to the Rockstar halo finder, which appears to be converged at smaller subhalo counts. We perform extensive numerical testing. In agreement with idealized simulations, we show that the , the maximum circular velocity, is systematically biased low until high resolutions (npeak ≳ 3 × 104) are achieved, but that mass loss itself can be resolved at much more modest resolutions (npeak ≳ 4 × 103). We show that Rockstar converges to false solutions for the mass function, radial distribution, and disruption masses of subhalos. We argue that our new method can trace resolved subhalos until the point of typical galaxy disruption without invoking post hoc orphan modeling. We outline a concrete set of steps for determining whether other subhalo finders meet the same criteria. We publicly release Symfind catalogs and particle data for the Symphony simulation suite at http://web.stanford.edu/group/gfc/symphony.
 ]]></content:encoded>
-
 <pubDate>2024-07-29T23:00:00Z</pubDate>
 </item>
 <item>
@@ -98,14 +121,12 @@ A major question in ΛCDM is what this theory actually predicts for the properti
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50d5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50d5</guid>
 <content:encoded><![CDATA[
-<div> 关键词: spicules, space-time plots, multithermal nature, chromosphere, transition region<br>
-总结: 研究发现太阳辐射中存在薄的细胞样结构spicules，通过多波段观测证实着这些spicules是多温性质，一些向上流动的spicules温度达到对应的过渡区和日冕温度，而向下流动的spicules显示日冕到色球温度的等离子运动。同时还观察到了轨迹呈抛物线状的序列上流和下流运动，以及相同空间位置上同时存在上行和下行运动。此外，利用协调的接口区成像光谱仪(IRIS)观测结果表明，在过渡区和色球存在红移/下流的时空分布，暗示观测到的一部分强红移/下流是由于日球上空流的等离子体的返回。<br> <div>
+<div> 关键词: spicules, space-time plots, multithermal nature, chromosphere, transition region<br />
+总结: 研究发现太阳辐射中存在薄的细胞样结构spicules，通过多波段观测证实着这些spicules是多温性质，一些向上流动的spicules温度达到对应的过渡区和日冕温度，而向下流动的spicules显示日冕到色球温度的等离子运动。同时还观察到了轨迹呈抛物线状的序列上流和下流运动，以及相同空间位置上同时存在上行和下行运动。此外，利用协调的接口区成像光谱仪(IRIS)观测结果表明，在过渡区和色球存在红移/下流的时空分布，暗示观测到的一部分强红移/下流是由于日球上空流的等离子体的返回。<br /> <div>
 Spicules are the thin hair/grass-like structures that are prominently observed at the chromospheric solar limb. It is believed that fibrils and rapid blueshifted and redshifted excursions (RBEs and RREs; collectively referred to as REs) correspond to on-disk counterparts of type I spicules and type II spicules, respectively. Our investigation focuses on observing the response of these REs alongside similar spectral features in the chromosphere, transition region (TR), and corona, utilizing space–time plots derived from coordinated observations from the Swedish 1 m Solar Telescope/Hα, Interface Region Imaging Spectrograph (IRIS), and Solar Dynamics Observatory. Our analysis reveals upflowing REs, promptly reaching temperatures characteristic of the TR and corona, indicating a multithermal nature. Similarly, downflowing features exhibiting similar spectral signatures over the disk display plasma motion from the corona to chromospheric temperatures, demonstrating a multithermal nature. In addition to distinct upflows and downflows, we observe sequential upflow and downflow along the same path, depicting a distinctive parabolic trajectory in space–time plots of observations sampling TR and various coronal passbands. Similar to isolated upflows and downflows, these REs also exhibit a multithermal nature throughout their trajectory. Furthermore, our results reveal a more intricate motion of the REs in which both upflow and downflow coexist at the same spatial location. On a different note, our analysis, utilizing coordinated IRIS spectral observations, shows spatiotemporal redshifts/downflows in both the TR and chromosphere, suggesting that at least subsets of the strong redshifts/downflows observed in TR temperature spectra result from the return from the upper atmosphere flow of plasma in the form of bundles of spicules or features exhibiting similar spectra.
 ]]></content:encoded>
-
 <pubDate>2024-07-29T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Filaments of the Slime Mold Cosmic Web and How They Affect Galaxy Evolution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee2</link>
@@ -11613,108 +11634,6 @@ We present a new study of the cluster populations in the blue compact dwarf gala
 The nearby type II supernova, SN 2023ixf in M101 exhibits signatures of early time interaction with circumstellar material in the first week postexplosion. This material may be the consequence of prior mass loss suffered by the progenitor, which possibly manifested in the form of a detectable presupernova outburst. We present an analysis of long-baseline preexplosion photometric data in the g, w, r, i, z, and y filters from Pan-STARRS as part of the Young Supernova Experiment, spanning ∼5000 days. We find no significant detections in the Pan-STARRS preexplosion light curves. We train a multilayer perceptron neural network to classify presupernova outbursts. We find no evidence of eruptive presupernova activity to a limiting absolute magnitude of −7 mag. The limiting magnitudes from the full set of gwrizy (average absolute magnitude ≈ −8 mag) data are consistent with previous preexplosion studies. We use deep photometry from the literature to constrain the progenitor of SN 2023ixf, finding that these data are consistent with a dusty red supergiant progenitor with luminosity ≈ 5.12 and temperature ≈ 3950 K, corresponding to a mass of 14–20 M⊙.
 ]]></content:encoded>
 <pubDate>2024-04-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>MHD Inertial and Energy-containing Range Turbulence Anisotropy in the Young Solar Wind</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fc4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fc4</guid>
-<content:encoded><![CDATA[
-<div> Parker Solar Probe, solar wind turbulence, anisotropy, magnetic energy, kinetic energy
-<br />
-研究太阳探测器帕克太阳探测器(PSP)在接近太阳时的太阳风湍流各向异性。使用Adhikari等人的方法，导出了理论方程，计算了在惯性范围内的二维和板条磁能量、动能的波动比率以及向外/向内的Elsässer能量。在能量含量范围内，我们假设波数k−1的幂律关系。在惯性范围内，磁场波动和向外/向内的Elsässer能量，我们考虑(1)二维和板条波动都服从k−5/3的幂律，以及(2)二维和板条波动分别服从k−5/3和k−3/2的幂律。对于速度波动，我们假设二维和板条成分都服从k−3/2的幂律。我们将惯性范围内的理论方差各向异性与PSP测得的观测值进行比较，发现二维波动的能量密度大于板条波动。而在关于二维和板条湍流之间的k−5/3和k−3/2幂率的理论方差各向异性方面，显示出比假设相同的k−5/3幂率更小的值。最后，PSP测得的湍流能量在能量含量范围内与几乎不可压缩/板条湍流描述的理论结果相似。
-<br /><br />总结: 本研究使用PSP接近太阳进行的遇到数据，对太阳风湍流的各向异性进行了研究。通过理论推导和观测比较，得出了二维波动的能量密度大于板条波动的结论。此外，在磁场波动的幂率方面，采用k−5/3和k−3/2的理论值得出的理论结果更小。最后，实测的湍流能量与几乎不可压缩/板条湍流描述的理论结果相似。 <div>
-We study solar wind turbulence anisotropy in the inertial and energy-containing ranges in the inbound and outbound directions during encounters 1–9 by the Parker Solar Probe (PSP) for distances between ∼21 and 65 R⊙. Using the Adhikari et al. approach, we derive theoretical equations to calculate the ratio between the 2D and slab fluctuating magnetic energy, fluctuating kinetic energy, and the outward/inward Elsässer energy in the inertial range. For this, in the energy-containing range, we assume a wavenumber k−1 power law. In the inertial range, for the magnetic field fluctuations and the outward/inward Elsässer energy, we consider that (i) both 2D and slab fluctuations follow a power law of k−5/3, and (ii) the 2D and slab fluctuations follow the power laws with k−5/3 and k−3/2, respectively. For the velocity fluctuations, we assume that both the 2D and slab components follow a k−3/2 power law. We compare the theoretical results of the variance anisotropy in the inertial range with the derived observational values measured by PSP, and find that the energy density of 2D fluctuations is larger than that of the slab fluctuations. The theoretical variance anisotropy in the inertial range relating to the k−5/3 and k−3/2 power laws between 2D and slab turbulence exhibits a smaller value in comparison to assuming the same power law k−5/3 between 2D and slab turbulence. Finally, the observed turbulence energy measured by PSP in the energy-containing range is found to be similar to the theoretical result of a nearly incompressible/slab turbulence description.
-]]></content:encoded>
-<pubDate>2024-04-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Binary Broadening Function</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad306e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad306e</guid>
-<content:encoded><![CDATA[
-<div> 二进制BF，光谱展宽函数，光谱二进制星系统，二进制星系统，巴黎银行队列<br />
-总结：<br />
-本文提出了一种基于块矩阵乘法规则的光谱展宽函数（BF）的扩展形式，称为二进制BF（BBF）。该方法可以使用两个光谱模板为二进制星系统的各个组成部分产生分解的BF，并用于推导单个组分的精确旋转剖面和径向速度。通过对模拟光谱和实际观测光谱进行测试，证明了该方法在光谱双星系统上是可行的，即使两个恒星组分的光谱线严重重叠。我们还通过模拟实施了使用BBF进行“勾画”（成像）食双星行星的能力。此外，我们还讨论了实施问题，例如BBF随偏差模板的变化，BBF的利弊以及不适用该方法的情况。 <div>
-We propose an extended formalism for the spectral broadening function (BF) based on the multiplication rule of block matrices. The formalism, which we named the binary BF (BBF), can produce decomposed BFs for individual components of a binary star system by using two spectral templates. The decomposed BFs can be used to derive precise rotational profiles and radial velocities for individual components. We test the BBF on simulated spectra and actual observational spectra to show that the method is feasible on spectroscopic binaries, even when the spectral lines of two stellar components are heavily blended. To demonstrate the capability of the method, we conduct a simulation of “sketching” (imaging) a transiting circumbinary exoplanet using the BBF. We also discuss issues of implementation such as the variation of BBF with biased templates, the pros and cons of BBF, and cases when the method is not applicable.
-]]></content:encoded>
-<pubDate>2024-04-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Supernova Burst and Diffuse Supernova Neutrino Background Simulator for Water Cherenkov Detectors</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad344e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad344e</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Galactic core-collapse supernova, neutrino signals, Super-Kamiokande, supernova event simulator, diffuse supernova neutrino background
-
-总结:
-本文介绍了针对未来银河系核心坍缩超新星爆炸事件的快速预警方法，利用中微子信号迅速确定超新星的方向，以便进行光学观测。同时，预期观测到漫射超新星中微子背景将在不久的将来带来新的发现。作者开发了针对水切伦科夫中微子探测器的新型超新星事件模拟器，该模拟器可以计算水中的中微子相互作用，用于模拟个别核心坍缩超新星爆发和漫射超新星中微子背景。通过该模拟器，可以评估确定超新星位置的精度，并估计在Super-Kamiokande中与漫射超新星中微子背景有关的事件数量。 <div>
-If a Galactic core-collapse supernova explosion occurs in the future, it will be critical to rapidly alert the community to the direction of the supernova by utilizing neutrino signals in order to enable the initiation of follow-up optical observations. In addition, there is anticipation that observation of the diffuse supernova neutrino background will yield discoveries in the near future, given that experimental upper limits are approaching theoretical predictions. We have developed a new supernova event simulator for water Cherenkov neutrino detectors, such as the highly sensitive Super-Kamiokande. This simulator calculates the neutrino interaction in water for two simulation purposes, individual core-collapse supernova bursts and diffuse supernova neutrino background. Based on this simulator, we can evaluate the precision in determining the location of supernovae and estimate the expected number of events related to the diffuse supernova neutrino background in Super-Kamiokande. In this paper, we describe the basic structure of the simulator and its demonstration.
-]]></content:encoded>
-<pubDate>2024-04-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Evaluating the Consistency of Cosmological Distances Using Supernova Siblings in the Near-infrared</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ff5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1ff5</guid>
-<content:encoded><![CDATA[
-<div> Type Ia SN, supernova siblings, near-infrared, light curves, calibration
-<br /><br />总结:
-本研究首次使用仅近红外数据对超新星同胞进行分析。通过对已发表的近红外光度数据进行校准，并使用SALT3-NIR和SNooPy模型拟合光度曲线，发现同胞之间绝对视星等差异中位数为0.248和0.186等级。通过模拟实验估计了这些差异的不确定性，并发现统计上，在近红外波段不存在内在散射的可能性。与仅使用光学数据相比，同一组超新星同胞之间的绝对视星等差异中位数为0.177等级。目前尚不清楚这些结果是由于统计数据不足还是近红外数据质量不佳，这些问题都将在南希·格雷斯·罗曼空间望远镜的使用中得到改善。 <div>
-The study of supernova (SN) siblings, supernovae with the same host galaxy, is an important avenue for understanding and measuring the properties of Type Ia SN Ia light curves (LCs). Thus far, sibling analyses have mainly focused on optical LC data. Considering that LCs in the near-infrared (NIR) are expected to be better standard candles than those in the optical, we carry out the first analysis compiling SN siblings with only NIR data. We perform an extensive literature search of all SN siblings and find six sets of siblings with published NIR photometry. We calibrate each set of siblings ensuring they are on homogeneous photometric systems, fit the LCs with the SALT3-NIR and SNooPy models, and find median absolute differences in μ values between siblings of 0.248 and 0.186 mag, respectively. To evaluate the significance of these differences beyond measurement noise, we run simulations that mimic these LCs and provide an estimate for uncertainty on these median absolute differences of ∼0.052 mag, and we find that, statistically, our analysis rules out the nonexistence of intrinsic scatter in the NIR at the 99% level. When comparing the same sets of SN siblings, we observe a median absolute difference in μ values between siblings of 0.177 mag when using optical data alone as compared to 0.186 mag when using NIR data alone. It is unclear if these results may be due to limited statistics or poor quality NIR data, all of which will be improved with the Nancy Grace Roman Space Telescope.
-]]></content:encoded>
-<pubDate>2024-04-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Interpretable Machine Learning for Finding Intermediate-mass Black Holes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2261</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2261</guid>
-<content:encoded><![CDATA[
-<div> 关键词: globular clusters, intermediate-mass black holes, machine-learning, interpretability, real data<br />
-<br />
-总结:<br />
-本文介绍了使用机器学习模型预测球状星团（GCs）中的中等质量黑洞（IMBHs）的方法及其局限性。作者使用 anchors 方法和 Certifiably Optimal RulE ListS (CORELS) 在解释性和可解释性方面进行了研究，以解决模型的不透明性问题。他们还通过测量模拟数据的真实性来评估模型的偏见，以减轻模型在外推时产生偏见预测的风险。最后，他们将这些分类器应用于真实GC数据，得到了预测的分类、预测置信度、异常值检测等信息。文章提出了对于GC中IMBH的预测方法，并对模型的解释性和泛化能力进行了深入探讨。 <div>
-Definitive evidence that globular clusters (GCs) host intermediate-mass black holes (IMBHs) is elusive. Machine-learning (ML) models trained on GC simulations can in principle predict IMBH host candidates based on observable features. This approach has two limitations: first, an accurate ML model is expected to be a black box due to complexity; second, despite our efforts to simulate GCs realistically, the simulation physics or initial conditions may fail to reflect reality fully. Therefore our training data may be biased, leading to a failure in generalization to observational data. Both the first issue—explainability/interpretability—and the second—out of distribution generalization and fairness—are active areas of research in ML. Here we employ techniques from these fields to address them: we use the anchors method to explain an Extreme Gradient Boosting (XGBoost) classifier; we also independently train a natively interpretable model using Certifiably Optimal RulE ListS (CORELS). The resulting model has a clear physical meaning, but loses some performance with respect to XGBoost. We evaluate potential candidates in real data based not only on classifier predictions but also on their similarity to the training data, measured by the likelihood of a kernel density estimation model. This measures the realism of our simulated data and mitigates the risk that our models may produce biased predictions by working in extrapolation. We apply our classifiers to real GCs, obtaining a predicted classification, a measure of the confidence of the prediction, an out-of-distribution flag, a local rule explaining the prediction of XGBoost, and a global rule from CORELS.
-]]></content:encoded>
-<pubDate>2024-04-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Magnetic Field of Gas Giant Exoplanets and Its Influence on the Retention of Their Exomoons</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2843</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2843</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 磁场演化, 太阳系外行星, 潮汐相互作用, 卫星保留, 辐射功率
-
-总结:
-本文研究了气态巨行星与其母恒星和它的系外卫星之间的磁性和潮汐相互作用，重点关注它们的保留情况。首先，讨论了行星地核生成的标度定律，然后根据维里定理构建了行星磁场的演化规律，并发现初始熵对高质量行星的磁场演化非常重要。在估计了星-行星和行星-卫星磁相互作用引起的磁力矩后，发现它可以补偿潮汐力，并绕过动力潮汐响应无效的频谷。对于卫星的保留，考虑了两种情况。在存在环绕行星的盘的情况下，通过比较盘的内外半径，发现磁场过强或与母恒星距离过近的行星很难容纳卫星。在后续的无盘演化中，通过比较行星的减速和卫星迁移的时间尺度，发现几天周期的热木星不太可能保留大型卫星，尽管它们可以被来自被潮汐瓦解的卫星碎片形成的环围绕。与此相反，围绕温暖或寒冷木星形成的卫星可以被保留。最后，我们估算了由星-行星和行星-卫星磁相互作用导致的射电功率和流量密度，并给出了通过FAST探测的上限距离。 <div>
-We study the magnetic and tidal interactions of a gas-giant exoplanet with its host star and with its exomoons, and focus on their retention. We briefly revisit the scaling law for planetary dynamo in terms of its mass, radius, and luminosity. Based on the virial theorem, we construct an evolution law for planetary magnetic field and find that its initial entropy is important for the field evolution of a high-mass planet. We estimate the magnetic torques on orbit arising from the star–planet and planet–moon magnetic interactions, and find that it can compensate tidal torques and bypass frequency valleys where dynamical-tide response is ineffective. For exomoon’s retention, we consider two situations. In the presence of a circumplanetary disk (CPD), by comparison between CPD’s inner and outer radii, we find that planets with too strong magnetic fields or too small distance from its host star tend not to host exomoons. During the subsequent CPD-free evolution, we find, by comparison between a planet’s spin-down and a moon’s migration timescales, that hot Jupiters with periods of several days are unlikely to retain large exomoons, albeit they could be surrounded by rings from the debris of tidally disrupted moons. In contrast, moons, if formed around warm or cold Jupiters, can be preserved. Finally, we estimate the radio power and flux density due to the star–planet and planet–moon magnetic interactions and give the upper limit of detection distance by FAST.
-]]></content:encoded>
-<pubDate>2024-04-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>An X-Ray and Radio View of the 2022 Reactivation of the Magnetar SGR J1935+2154</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad293b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad293b</guid>
-<content:encoded><![CDATA[
-<div> 磁星，SGR J1935+2154，X射线，射电暴，脉冲  
-
-该研究对磁星SGR J1935+2154在2022年10月10日爆发后的X射线持续和爆发辐射特性进行了观测。结果显示，持续辐射谱符合吸收黑体加幂律模型，在能量约25 keV时表现良好。在两个观测时段中，黑体温度（kTBB约为0.4 keV）和辐射半径（RBB约为1.9 km）没有显着变化，但幂律参数有轻微变化。此外，观测到X射线脉冲，并得出自旋周期导数为s s−1。这一数值较2014年首次爆发后测得的数值高3.8倍。同时，进行了射电观测未发现任何射电暴或周期性辐射。<br /><br />总结：该研究描述了SGR J1935+2154磁星持续和爆发X射线辐射的特性，观测结果显示持续辐射谱符合黑体加幂律模型，且没有显着变化。此外，还观测到X射线脉冲，并发现自旋周期导数有显著变化。射电观测未发现射电暴或周期性辐射。 <div>
-Recently, the Galactic magnetar SGR J1935+2154 has garnered attention due to its emission of an extremely luminous radio burst, reminiscent of fast radio bursts (FRBs). SGR J1935+2154 is one of the most active magnetars, displaying flaring events nearly every year, including outbursts as well as short and intermediate bursts. Here, we present our results on the properties of the persistent and bursting X-ray emission from SGR J1935+2154 during the initial weeks following its outburst on 2022 October 10. The source was observed with XMM-Newton and NuSTAR (quasi-)simultaneously during two epochs, separated by ∼5 days. The persistent emission spectrum is well described by an absorbed blackbody plus power-law model up to an energy of ∼25 keV. No significant changes were observed in the blackbody temperature (kTBB ∼ 0.4 keV) and emitting radius (RBB ∼ 1.9 km) between the two epochs. However, we observed a slight variation in the power-law parameters. Moreover, we detected X-ray pulsations in all the data sets and derived a spin-period derivative of s s−1. This is 3.8 times larger than the value measured after the first recorded outburst in 2014. Additionally, we performed quasi-simultaneous radio observations using three 25–32 m class radio telescopes for a total of 92.5 hr to search for FRB-like radio bursts and pulsed emission. However, our analysis did not reveal any radio bursts or periodic emission.
-]]></content:encoded>
-<pubDate>2024-04-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Time-lapse Very Long Baseline Interferometry Imaging of the Close Active Binary HR 1099</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad29fb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad29fb</guid>
-<content:encoded><![CDATA[
-<div> HR 1099, astrometric, very long baseline interferometry, radio positions, coronal mass ejections
-<br /><br />
-HR 1099是一个活跃的双星系统，通过进行多周期的天文测量和射电定位，发现射电位置在共动参考系中定义了一个椭圆轨道。射电重心在所有阶段都偏离了双星质心，排除了来自双星区域的辐射。在测量速度时发现，大多数阶段测得的速度并不显著，但在一个耀斑期间，检测到了与观测到的太阳日冕物质抛射平均速度相当的速度。这些发现有助于我们更好地了解这个活跃的双星系统的性质。 
-<br />
-总结: <br /> HR 1099是一个活跃的双星系统，通过进行多周期的天文测量和射电定位，发现射电位置在共动参考系中定义了一个椭圆轨道。射电重心在所有阶段都偏离了双星质心，排除了来自双星区域的辐射。在测量速度时发现，大多数阶段测得的速度并不显著，但在一个耀斑期间，检测到了与观测到的太阳日冕物质抛射平均速度相当的速度。 <div>
-We report multiepoch astrometric very long baseline interferometry observations of the chromospherically active binary HR 1099 (V711 Tau, HD 22468) at six epochs over 63 days using the Very Long Baseline Array at 22.2 GHz. We determined hourly radio positions at each epoch with a positional uncertainty significantly smaller than the component separation. The aggregate radio positions at all epochs define an ellipse in the comoving reference frame with an inclination and longitude of ascending node Ω = 212° ± 22°. The ellipse center is offset from the Third Gaia Celestial Reference Frame position by Δα = , Δδ = mas. All radio centroids are well displaced from the binary center of mass at all epochs, ruling out emission from the interbinary region. We examined the motion of the radio centroids within each epoch by comparing hourly positions over several hours. The measured speeds were not statistically significant for five of the six epochs, with 2σ upper limits in the range 200–1000 km s−1. However, for one flaring epoch, there was a 3σ detection v⊥ = 228 ± 85 km s−1. This speed is comparable to the mean speed of observed coronal mass ejections on the Sun.
-]]></content:encoded>
-<pubDate>2024-04-08T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
