@@ -5,16 +5,29 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Star Formation, Nebulae, and Active Galactic Nuclei in CLASH Brightest Cluster Galaxies. I. Dependence on Core Entropy of Intracluster Medium</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5293</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5293</guid>
+<content:encoded><![CDATA[
+<div> 星系聚集、亮度最高星系、星形成、发射线星云、活跃星系核<br>
+总结:<br>
+这篇文章主要是关于对于星系聚集中心的亮度最高星系（BCGs）的星系形成、发射线星云和活跃星系核（AGN）与星系聚集介质（ICM）的热力学关系的重新评估。作者在CLASH计划中对25个星系聚集进行了观测，并且研究了它们的BCGs的属性以及ICM的热力学特性。他们发现，BCGs的星系形成和星云的存在与ICM的“过剩核熵”K0有关，而不是与熵值地板有关。并且发现ICM熵越低，BCGs越有可能显示星系形成、星云和更具辐射亮的AGNs。几乎所有的BCGs都有检测到的AGNs，这表明它们的供能路径有多种。 <div>
+We set the stage for reassessing how star formation, emission-line nebulae, and active galactic nuclei (AGNs) in brightest cluster galaxies (BCGs) depend on the thermodynamics of the intracluster medium (ICM). Our work is based on the 25 clusters observed in the CLASH program for which the aforementioned attributes in their BCGs can be well scrutinized, as has the thermodynamics of their ICM. Nine of these BCGs display complex UV morphologies tracing recent star formation, whereas the remaining 16 are characterized by a relatively compact central UV enhancement. Here, we show definitively that three of the latter BCGs also display star formation, whereas the diffuse UV of the remaining 13 is entirely consistent with old low-mass stars. The overall results support the previously established dependence of star formation and nebulae in BCGs on an “excess core entropy,” K0, for the ICM: all 11 clusters with K0 ≤ 24 keV cm2 (but only one of 14 clusters with K0 ≥ 42 keV cm2) host star-forming BCGs that almost if not always possess nebulae. Instead of an entropy floor, we show that K0 reflects the degree to which the radial entropy profile decreases inward within ∼100 kpc rather than (except perhaps at large K0) actually flattening: clusters with lower ICM entropies and hence shorter cooling times at their cores preferentially host BCGs displaying star formation, nebulae, and more radio-luminous AGNs. Nearly all BCGs possess detectable AGNs, however, indicating multiple pathways for fuelling their AGNs.
+]]></content:encoded>
+
+<pubDate>2024-08-04T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Coronal Models and Detection of the Open Magnetic Field</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5155</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5155</guid>
 <content:encoded><![CDATA[
 <div> 磁场拓扑, 太阳物理, 边界条件, 数值模拟, 模型比较
-<br>
-在这篇论文中，作者们使用了多种模型来重建日冕磁场拓扑并估算开放磁通。研究发现，模型与观测存在较大的差异，特别是在开放磁场的区域。他们发现这种模型和观测之间的不匹配可能是导致开放磁通问题的原因之一。通过对模型的输出进行评估，他们发现不同的初始化条件和模型设置对模拟输出的影响不大。研究对比了观测得到的日冕空洞边界数据和模型得到的结果，发现它们之间存在明显的不一致。通过这项研究，他们对模型和观测数据之间的不一致性进行了深入的分析。总结: <br>这篇论文研究了日冕磁场拓扑模型与实际观测的差异，并探讨了不同因素对模型输出的影响。研究发现模型与观测存在较大的差异，尤其是在开放磁场的区域，这可能是导致开放磁通问题的原因之一。研究结果有助于深入了解模型和观测数据之间的差异性。 <div>
+<br />
+在这篇论文中，作者们使用了多种模型来重建日冕磁场拓扑并估算开放磁通。研究发现，模型与观测存在较大的差异，特别是在开放磁场的区域。他们发现这种模型和观测之间的不匹配可能是导致开放磁通问题的原因之一。通过对模型的输出进行评估，他们发现不同的初始化条件和模型设置对模拟输出的影响不大。研究对比了观测得到的日冕空洞边界数据和模型得到的结果，发现它们之间存在明显的不一致。通过这项研究，他们对模型和观测数据之间的不一致性进行了深入的分析。总结: <br />这篇论文研究了日冕磁场拓扑模型与实际观测的差异，并探讨了不同因素对模型输出的影响。研究发现模型与观测存在较大的差异，尤其是在开放磁场的区域，这可能是导致开放磁通问题的原因之一。研究结果有助于深入了解模型和观测数据之间的差异性。 <div>
 A plethora of coronal models, from empirical to more complex magnetohydrodynamic (MHD) ones, are being used for reconstructing the coronal magnetic field topology and estimating the open magnetic flux. However, no individual solution fully agrees with coronal hole observations and in situ measurements of open flux at 1 au, as there is a strong deficit between the model and observations contributing to the known problem of the missing open flux. In this paper, we investigate the possible origin of the discrepancy between modeled and observed magnetic field topology by assessing the effect on the simulation output by the choice of the input boundary conditions and the simulation setup, including the choice of numerical schemes and the parameter initialization. In the frame of this work, we considered four potential field source surface-based models and one fully MHD model, different types of global magnetic field maps, and model initiation parameters. After assessing the model outputs using a variety of metrics, we conclude that they are highly comparable regardless of the differences set at initiation. When comparing all models to coronal hole boundaries extracted by extreme-ultraviolet filtergrams, we find that they do not compare well. This mismatch between observed and modeled regions of the open field is a candidate contributing to the open flux problem.
 ]]></content:encoded>
-
 <pubDate>2024-08-04T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,13 +37,11 @@ A plethora of coronal models, from empirical to more complex magnetohydrodynamic
 <content:encoded><![CDATA[
 <div> 关键词: 等离子大气, 中子星, 磁流体动力学, 涡旋, X射线辐射
 
-这篇文章分析了中子星的等离子大气和库仑液态海洋的结构和动力学特性，并确定了显著的动力学参数，并估计了磁流体动力学方程的控制集合的值。中子星的大气和海洋呈强烈的分层状态，并且，取决于旋转周期，包含众多长期存在的涡旋（斑点）和/或窄的纬向急流（自由剪切区），处于大等离子体贝塔（即 βp ≫ 1，属于流体力学区域）。相反，当 βp ≲ 1（磁流体力学区域），流动受到全局固定磁岛（等离子体块）的支配，并没有任何急流。理解中子星动态大气和海洋的时空变化对解释它们的X射线辐射观测至关重要。<br><br>总结: 本文分析了中子星的等离子大气和磁流体动力学特性以及它们在大等离子体贝塔和磁流体力学区域的动态变化。文中提到了动力学参数的重要性，以及它们对X射线辐射观测的解释意义。 <div>
+这篇文章分析了中子星的等离子大气和库仑液态海洋的结构和动力学特性，并确定了显著的动力学参数，并估计了磁流体动力学方程的控制集合的值。中子星的大气和海洋呈强烈的分层状态，并且，取决于旋转周期，包含众多长期存在的涡旋（斑点）和/或窄的纬向急流（自由剪切区），处于大等离子体贝塔（即 βp ≫ 1，属于流体力学区域）。相反，当 βp ≲ 1（磁流体力学区域），流动受到全局固定磁岛（等离子体块）的支配，并没有任何急流。理解中子星动态大气和海洋的时空变化对解释它们的X射线辐射观测至关重要。<br /><br />总结: 本文分析了中子星的等离子大气和磁流体动力学特性以及它们在大等离子体贝塔和磁流体力学区域的动态变化。文中提到了动力学参数的重要性，以及它们对X射线辐射观测的解释意义。 <div>
 We analyze the structure and dynamics of the plasma atmospheres and Coulomb-liquid oceans on neutron stars. Salient dynamical parameters are identified and their values estimated for the governing set of magnetohydrodynamics equations. Neutron star atmospheres and oceans are strongly stratified and, depending on the rotation period, contain a multitude of long-lived vortices (spots) and/or narrow zonal jets (free-shear zones) in the large plasma-beta regime—i.e., βp ≫ 1 (hydrodynamic regime). In contrast, when βp ≲ 1 (magnetohydrodynamic regime), the flow is dominated by a global lattice of effectively fixed magnetic islands (plasmoids) without any jets. Understanding the spatiotemporal variability of dynamic atmospheres and oceans on neutron stars is crucial for interpreting observations of their X-ray emissions.
 ]]></content:encoded>
-
 <pubDate>2024-08-04T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>An Expanding Accretion Disk and a Warm Disk Wind as Seen in the Spectral Evolution of HBC 722</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5286</link>
@@ -11649,24 +11660,6 @@ We investigate the group-scale environment of 15 luminous quasars (luminosity L3
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fb5</guid>
 <content:encoded><![CDATA[
 The intergalactic medium (IGM) contains >50% of the baryonic mass of the Universe, yet the mechanisms responsible for keeping the IGM ionized have not been fully explained. Hence, we investigate ion abundances from the largest blind QSO absorption catalog for clouds that show C iv, N v, and O vi simultaneously. The wavelength range of present UV spectrographs, however, makes it possible to probe C iv and O vi only over a small range of redshift (z ≈ 0.12–0.15). As a result, we only have five IGM absorbing clouds, yet these provide a powerful and representative tool to probe the IGM ionization state. We found one cloud to be in collisional ionization equilibrium while three of the five showed signs of being produced by nonequilibrium processes, specifically conductive interfaces and turbulent mixing layers. None of the models we explore here were able to reproduce the ionization state of the remaining system. Energetic processes, such as galactic feedback from star formation and active galactic nucleus winds, would be excellent candidates that can cause such widespread ionization.
-]]></content:encoded>
-<pubDate>2024-04-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Low-mass Population III Star Formation due to the HD Cooling Induced by Weak Lyman–Werner Radiation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fc9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fc9</guid>
-<content:encoded><![CDATA[
-Lyman–Werner (LW) radiation photodissociating molecular hydrogen (H2) influences the thermal and dynamical evolution of the Population III (Pop III) star-forming gas cloud. The effect of powerful LW radiation has been well investigated in the context of supermassive black hole formation in the early Universe. However, the average intensity in the early Universe is several orders of magnitude lower. For a comprehensive study, we investigate the effects of LW radiation at 18 different intensities, ranging from JLW/J21 = 0 (no radiation) to 30 (H-cooling cloud), on the primordial star-forming gas cloud obtained from a three-dimensional cosmological simulation. The overall trend with increasing radiation intensity is a gradual increase in the gas cloud temperature, consistent with previous works. Due to the HD cooling, however, the dependence of gas cloud temperature on JLW deviates from the aforementioned increasing trend for a specific range of intensities (JLW/J21 = 0.025–0.09). In HD-cooling clouds, the temperature remained below 200 K during 105 yr after the first formation of the high-density region, maintaining a low accretion rate. Finally, the HD-cooling clouds have only a low-mass dense core (above 108 cm−3) with about 1–16 M⊙, inside of which a low-mass Pop III star with ≤0.8 M⊙ (a so-called “surviving star”) could form. The upper limit of star formation efficiency significantly decreases from 10−3 to 10−5 as HD cooling becomes effective. This tendency indicates that, whereas the total gas mass in the host halo increases with the LW radiation intensity, the total Pop III stellar mass does not increase similarly.
-]]></content:encoded>
-<pubDate>2024-04-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Radio Polarization of Millisecond Pulsars with Multipolar Magnetic Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fcf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fcf</guid>
-<content:encoded><![CDATA[
-NICER has observed a few millisecond pulsars where the geometry of the X-ray-emitting hotspots on the neutron star have been analyzed in order to constrain the mass and radius from X-ray light-curve modeling. One example, PSR J0030 + 0451, has been shown to possibly have significant multipolar magnetic fields at the stellar surface. Using force-free simulations of the magnetosphere structure, it has been shown that the radio, X-ray, and γ-ray light curves can be modeled simultaneously with an appropriate field configuration. An even more stringent test is to compare predictions of the force-free magnetosphere model with observations of radio polarization. This paper attempts to reproduce the radio polarization of PSR J0030 + 0451 using a force-free magnetospheric solution. As a result of our modeling, we can reproduce certain features of the polarization well.
 ]]></content:encoded>
 <pubDate>2024-04-15T23:00:00Z</pubDate>
 </item>
