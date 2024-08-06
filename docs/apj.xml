@@ -4,6 +4,85 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>On the Determination of Stellar Mass and Binary Fraction of Open Clusters within 500 pc from the Sun</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5344</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5344</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 星团, 星等函数, 双星分数, 质量分离, 大气动演化<br>
+总结: <br>
+本研究利用Gaia DR3的高精度光度数据对114个附近的敞开星团(OCs)进行了研究，估算了成员星的质量并分析了双星质量比(q)。研究发现，大多数星团的现今质量函数(PDMF)符合双阶段幂律分布。同时，通过分析星团中不同质量星的径向数量分布，发现了质量分离现象。此外，还估算了双星分数，并提供了114个星团的属性目录，包括总质量、双星分数、PDMF和动力学状态信息。这些结果对于我们更好地了解星团的形成和演化具有重要意义。<br> <div>
+We investigated the stellar mass function and the binary fraction of 114 nearby open clusters (OCs) using the high-precision photometric data from Gaia Data Release 3 (Gaia DR3). We estimated the mass of member stars by using a ridge line that is better in line with the observed color–magnitude diagram, thus obtaining more accurate stellar mass and binary mass ratio (q) at the low-mass region. By analyzing the present-day mass function (PDMF) of star clusters, we found that 108 OCs follow a two-stage power-law distribution, whereas six OCs present a single power-law PDMF. Subsequently, we fitted the high(low)-mass index of PDMF ( ), denoted as αh(αl), and segmentation point mc. For our cluster sample, the median values of αh and αl are 2.65 and 0.95, respectively, which are approximately consistent with the initial mass function results provided by Kroupa. We utilized the cumulative radial number distribution of stars with different masses to quantify the degree of mass segregation. We found a significant positive correlation between the state of dynamical evolution and mass segregation in OCs. We also estimated the fraction of binary stars with q ≥ 0.5, ranging from 6% to 34% with a median of 17%. Finally, we provided a catalog of 114 nearby cluster properties, including the total mass, the binary fraction, the PDMF, and the dynamical state.
+]]></content:encoded>
+
+<pubDate>2024-08-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dark Matter Distribution in Milky Way analog Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c8</guid>
+<content:encoded><![CDATA[
+<div> VLA Imaging, THINGS, 3D-BAROLO, Milky Way, DM distribution
+总结:
+本研究利用VLA Imaging和THINGS选取了五个类似于银河系的星系作为样本，通过3D-BAROLO模型分析其旋转曲线，将旋转曲线分解为星体和气体的贡献并隔离暗物质成分。通过Markov Chain Monte Carlo方法推导出在这些星系中的太阳邻域的暗物质密度范围，结果与文献中银河系本地暗物质密度的数值一致。 <div>
+Our current understanding of how dark matter (DM) is distributed within the Milky Way (MW) halo, particularly in the solar neighborhood, is based on either careful studies of the local stellar orbits, model assumptions on the global shape of the MW halo, or from direct acceleration measurements. In this work, we undertake a study of external galaxies, with the intent of providing insight into the DM distribution in MW-analog galaxies. For this, we carefully select a sample of galaxies similar to the MW, based on maximum atomic hydrogen (H i) rotational velocity ( km s−1) and morphological type (Sab–Sbc) criteria. With a need for deep, highly resolved H i, our resulting sample is composed of five galaxies from the VLA Imaging of Virgo in Atomic Gas (VIVA) survey and The H i Nearby Galaxy Survey (THINGS). To perform our baryonic analysis, we use deep mid-IR images at 3.6 and 4.5 μm from the Spitzer Survey of Stellar Structures in Galaxies (S4G). Based on the dynamical three-dimensional modeling software 3D-Based Analysis of Rotating Objects via Line Observations (3D-BAROLO), we construct rotation curves (RCs) and derive the gas and stellar contributions from the galaxy's gaseous and stellar disks' mass surface density profiles. Through a careful decomposition of their RCs into their baryonic (stars, gas) and DM components, we isolate the DM contribution by using a Markov Chain Monte Carlo-based approach. Based on the Sun's location and the MW’s R25, we define the corresponding location of the solar neighborhood in these systems. We put forward a window for the DM density (ρdm = 0.21–0.55 GeV cm−3) at these galactocentric distances in our MW analog sample, consistent with the values found for the MW’s local DM density, based on more traditional approaches found in the literature.
+]]></content:encoded>
+
+<pubDate>2024-08-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Active Dwarf Galaxy Database. I. Overlap between Active Galactic Nuclei Selected by Different Techniques</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5442</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5442</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 矮星系、活动星系核、AGN 选择技术、恒星质量、光谱学数据
+
+总结: 这篇文章研究了733个矮星系中具有活动星系核的情况，并探讨了不同AGN选择技术之间的交叉点。研究采用光谱学、X射线、红外颜色和光学光变等方法来识别AGN，发现任何单一选择方法仅能捕获不超过总AGN人口的一半，并且在这一恒星质量范围内，各种AGN选择方法存在普遍不一致。最大的重叠发生在两种方法都使用光学光谱数据的情况下。相反，当比较使用不同波长光度数据的方法时，AGN的种群交叉最少。这些结果可以用来更好地约束矮星系中的活跃分数，这对于黑洞种子形成模型来说是一个重要的约束条件。在随后的论文中，我们将探索每种选择技术的有效性与宿主星系属性之间的联系。 <br><br> <div>
+We assemble a sample of 733 dwarf galaxies (M* ≤ 109.5M⊙) with signatures of active galactic nuclei (AGN) and explore the intersection between different AGN-selection techniques. Objects in our database are compiled from previous studies that identify AGN in dwarf galaxies through spectroscopy, X-ray emission, infrared colors, and optical photometric variability. We apply a uniform set of AGN diagnostic tools to the database using archival data. We find that any single selection method captures no more than half of the overall AGN population, and there is a general disagreement among the AGN-selection methods in this stellar-mass regime. The largest overlap between methods is found when both methods use optical spectroscopic data. In contrast, the populations of AGN intersect the least when comparing those methods that use photometric data at different wavelengths. These results can be used to better constrain the active fraction in dwarf galaxies, which is in turn an important constraint for black hole seed formation models. In a follow-up paper, we will explore links between the effectiveness of each selection technique and host galaxy properties.
+]]></content:encoded>
+
+<pubDate>2024-08-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dead or Alive? How Bursty Star Formation and Patchy Dust Can Cause Temporary Quiescence in High-redshift Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58e2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58e2</guid>
+<content:encoded><![CDATA[
+<div> early Universe, galaxy, star formation, dust attenuation, JWST spectroscopy
+<br>
+这篇文章探讨了在 z = 7.3 时发现的一个星系，其光学发射线不明显以及蓝色紫外光到光学连续谱比例的意外情况。作者提出了两种可能的解释：一是恒星形成历史的随机变化，二是空间上变化的尘埃衰减对测量的发射线和连续光谱性质的影响。他们指出，这两种情况可能同时发生并放大效应。研究还表明，快速变化的恒星形成模型可以产生类似的观测特性，而蓝色紫外光谱和缺乏发射线可以通过蓝+红组合光谱来解释。未来进一步的远红外观测将有助于阐明后一种情况。 
+<br><br>总结: 提出了在早期宇宙中发现的星系可能存在的两种物理解释，即恒星形成历史的随机变化和空间上变化的尘埃衰减对测量的发射线和连续光谱性质的影响。并指出进一步的观测将有助于阐明这两种可能性。 <div>
+The recent discovery of a galaxy at z = 7.3 with undetected optical emission lines and a blue UV-to-optical continuum ratio in JWST spectroscopy is surprising and needs to be explained physically. Here, we explore two possibilities that could cause such a seemingly quiescent ∼5 × 108M⊙ galaxy in the early Universe: (i) stochastic variations in the star formation history (SFH) and (ii) the effect of spatially varying dust attenuation on the measured line and continuum emission properties. Both scenarios can play out at the same time to amplify the effect. A stochastic star formation model (similar to realistic SFHs from hydrodynamical simulations of similar-mass galaxies) can create such observed properties if star formation is fast-varying with a correlation time of <150 Myr given a reasonable burst amplitude of ∼0.6 dex. The total time spent in this state is less than 20 Myr, and the likelihood of such a state to occur over 500 Myr at z = 7 is ∼50% (consistent with current observations). On the other hand, we show that a spectrum with blue UV continuum and lack of emission lines can be reproduced by a blue+red composite spectrum. The UV continuum is emitted from dust-free density-bounded H ii regions (blue component), while the red component is a dust-obscured starburst with weakened emission lines due to strong differential dust attenuation between stellar and nebular emission. Future resolving far-infrared observations with the Atacama Large Millimeter/submillimeter Array will shed light on the latter scenario.
+]]></content:encoded>
+
+<pubDate>2024-08-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Impact of Stellar Radiative Feedback on Formation of Young Massive Clusters via Fast H i Gas Collisions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a05</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a05</guid>
+<content:encoded><![CDATA[
+<div> 形成机制，磁流体动力学模拟，离子化反馈，星团形成，气体碰撞<br>
+总结:<br>
+本研究通过磁流体动力学模拟发现，高速氢气碰撞可以形成具有大质量和足够致密度的气体团块，这些团块经受离子化反馈后仍能保持足够的逃逸速度，促进内部高效星团形成，并最终演化为年轻巨大星团。此外，研究还发现低速气体碰撞并不会导致分子云的形成，而需要较长的时间尺度来形成年轻巨大星团，这表明了宇宙间相互作用驱动的气体碰撞可能更有利于年轻巨大星团的形成。 <div>
+Young massive clusters (YMCs) are dense aggregates of young stars and are often speculated as potential precursors to globular clusters. However, the formation mechanism of massive and compact gas clumps that precede YMCs remains unknown. In this paper, we study the formation of such massive clumps via fast H i gas collisions (∼100 km s−1) as suggested by recent observations and their subsequent evolution into YMCs by using three-dimensional magnetohydrodynamics simulations involving self-gravity and detailed thermal/chemical processes. In particular, the impact of ionization feedback from stellar radiation is included in an approximate fashion where the temperature within the H ii regions is elevated to 10,000 K, while supernova feedback is not included. We examine whether the resulting massive clumps can survive this ionization feedback and evolve into YMCs. Our simulations reveal the emergence of gas clumps that not only possess substantial mass (∼105M⊙) but also sufficient compactness (∼5 pc). Notably, these clumps exhibit significantly higher escape velocities compared to the sound speed of the H ii region, indicating effective gravitational retention of gas against feedback-induced evaporation. Consequently, these conditions foster efficient star formation within the massive gas clumps, ultimately leading to their evolution into YMCs. We also perform simulations involving lower-velocity gas collisions, approximately 15 km s−1, typical shock velocities induced by galactic superbubbles. In contrast to the high-velocity collisions, we find that molecular cloud formation does not occur in the case of 1 cm−3 gas collision, while YMC formation is observed in the presence of denser gas of 10 cm−3. However, the formation of YMCs requires compression periods exceeding 10 Myr in these cases, indicating a potential preference for gas collisions driven by intergalactic interactions rather than galactic superbubbles for YMC formation.
+]]></content:encoded>
+
+<pubDate>2024-08-05T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Diagnostics of Magnetohydrodynamic Modes in the Interstellar Medium through Synchrotron Polarization Statistics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5af5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5af5</guid>
+<content:encoded><![CDATA[
+<div> Magnetohydrodynamic Turbulence, Stokes Parameters, Synchrotron Polarization Analysis, Plasma Modes, Statistical Properties
+<br><br>总结:
+本文提出了一种通过系统性分析Stokes参数的统计特性来识别等离子体模式的方法。研究在理论上从MHD湍流的基本统计出发，通过对MHD模式的投影来识别在合成的同步辐射偏振观测中占主导能量分数的模式。通过3D理想MHD模拟获得合成同步辐射偏振观测，提出了一种修改后的模式识别方法，并建立了一种基于新的SPA+拟合过程的分类标准来区分Alfvén模式和可压缩/慢模式主导的湍流。还提出了一种通过分析SPA+特征的不对称性来识别快模式的方法，并建立了一种新的不对称参数来检测快模式湍流的存在。另外，通过数值测试证实了对可压缩和快模式的识别不受前景和发射等离子体中法拉第旋转的影响。 <div>
+One of the biggest challenges in understanding magnetohydrodynamic (MHD) turbulence is identifying the plasma mode components from observational data. Previous studies on synchrotron polarization from the interstellar medium (ISM) suggest that the dominant MHD modes can be identified via statistics of Stokes parameters, which would be crucial for studying various ISM processes such as the scattering and acceleration of cosmic rays, star formation, and dynamo. In this paper, we present a numerical study of the synchrotron polarization analysis (SPA) method through systematic investigation of the statistical properties of the Stokes parameters. We derive the theoretical basis for our method from the fundamental statistics of MHD turbulence, recognizing that the projection of the MHD modes allows us to identify the modes dominating the energy fraction from synchrotron observations. Based on the discovery, we revise the SPA method using synthetic synchrotron polarization observations obtained from 3D ideal MHD simulations with a wide range of plasma parameters and driving mechanisms, and present a modified recipe for mode identification. We propose a classification criterion based on a new SPA+ fitting procedure, which allows us to distinguish between Alfvén mode and compressible/slow mode dominated turbulence. We further propose a new method to identify fast modes by analyzing the asymmetry of the SPA+ signature and establish a new asymmetry parameter to detect the presence of fast mode turbulence. Additionally, we confirm through numerical tests that the identification of the compressible and fast modes is not affected by Faraday rotation in both the emitting plasma and the foreground.
+]]></content:encoded>
+
+<pubDate>2024-08-05T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Multiwavelength Observations of Sgr A*. II. 2019 July 21 and 26</title>
