@@ -4,6 +4,96 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Energetic Electrons Accelerated and Trapped in a Magnetic Bottle above a Solar Flare Arcade</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad531a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad531a</guid>
+<content:encoded><![CDATA[
+<div> 磁瓶结构，带电粒子，太阳耀斑，多波段观测，宏观磁流体和粒子建模
+
+总结:<br><br>本研究通过多波段观测和数据驱动的宏观磁流体和粒子建模，揭示了在真实的耀斑几何结构中存在磁瓶结构。观测结果显示，磁瓶结构不仅具有磁场强度的局部最小值，还引起了等离子体的急剧减速。这一结构与上方环顶区域紧凑的硬X射线源和横跨耀斑拱的扩展微波源位置吻合。空间分辨谱分析表明，非热电子高度聚集在这一区域。模型还返回了与观测相匹配的合成发射特征。研究结果表明，由于湍流的作用，高能电子受困在磁瓶区域内，只有很小一部分得以逃逸。这些电子主要通过等离子体压缩加速，并通过费米机制在快模终止激波加速。我们的结果为磁瓶结构成为耀斑中主要的电子加速场提供了坚实的依据。同时，它还为理解早前报道的进入星际空间的小型耀斑加速电子群体提供了新的见解。 <div>
+Where and how flares efficiently accelerate charged particles remains an unresolved question. Recent studies revealed that a “magnetic bottle” structure, which forms near the bottom of a large-scale reconnection current sheet above the flare arcade, is an excellent candidate for confining and accelerating charged particles. However, further understanding its role requires linking the various observational signatures to the underlying coupled plasma and particle processes. Here we present the first study combining multiwavelength observations with data-informed macroscopic magnetohydrodynamics and particle modeling in a realistic eruptive flare geometry. The presence of an above-the-loop-top magnetic bottle structure is strongly supported by the observations, which feature not only a local minimum of magnetic field strength but also abruptly slowing plasma downflows. It also coincides with a compact above-the-loop-top hard X-ray source and an extended microwave source that bestrides the flare arcade. Spatially resolved spectral analysis suggests that nonthermal electrons are highly concentrated in this region. Our model returns synthetic emission signatures that are well matched to the observations. The results suggest that the energetic electrons are strongly trapped in the magnetic bottle region due to turbulence, with only a small fraction managing to escape. The electrons are primarily accelerated by plasma compression and facilitated by a fast-mode termination shock via the Fermi mechanism. Our results provide concrete support for the magnetic bottle as the primary electron acceleration site in eruptive solar flares. They also offer new insights into understanding the previously reported small population of flare-accelerated electrons entering interplanetary space.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Kilonova Spectral Inverse Modelling with Simulation-based Inference: An Amortized Neural Posterior Estimation Analysis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c7</guid>
+<content:encoded><![CDATA[
+<div> 推断方法, 模拟, 神经网络, 合并天体, 天体物理学<br>
+<br> 
+推断方法的复杂性及计算成本是对后验近似的可靠性和统计可靠性的挑战。本文介绍了一种新颖的方法，使用KilonovaNet生成的模拟数据进行基于模拟的推断。我们的方法利用了ANPE的准即时推断时间，通过覆盖诊断和后验预测检查工具来验证后验近似的可靠性。我们还通过AT 2017gfo的真实观测数据进行了测试，证明了与之前基于似然方法的结果一致，同时将推断时间缩短到几秒钟。ANPE产生的推断结果似乎是保守和可靠的，为可测试和更高效的合并天体参数推断铺平了道路。 <br><br>总结: 推断方法挑战，新方法使用模拟数据进行推断，验证了可靠性，测试结果一致且高效。 <div>
+Kilonovae represent a category of astrophysical transients, identifiable as the electromagnetic (EM) counterparts associated with the coalescence events of binary systems comprising neutron stars and neutron star–black hole pairs. They act as probes for heavy-element nucleosynthesis in astrophysical environments. These studies rely on an inference of the physical parameters (e.g., ejecta mass, velocity, composition) that describe kilonovae-based on EM observations. This is a complex inverse problem typically addressed with sampling-based methods such as Markov Chain Monte Carlo or nested sampling algorithms. However, repeated inferences can be computationally expensive, due to the sequential nature of these methods. This poses a significant challenge to ensuring the reliability and statistical validity of the posterior approximations and, thus, the inferred kilonova parameters themselves. We present a novel approach: simulation-based inference using simulations produced by KilonovaNet. Our method employs an ensemble of amortized neural posterior estimation (ANPE) with an embedding network to directly predict posterior distributions from simulated spectral energy distributions. We take advantage of the quasi-instantaneous inference time of ANPE to demonstrate the reliability of our posterior approximations using diagnostics tools, including coverage diagnostic and posterior predictive checks. We further test our model with real observations from AT 2017gfo, the only kilonova with multimessenger data, demonstrating agreement with previous likelihood-based methods while reducing inference time down to a few seconds. The inference results produced by ANPE appear to be conservative and reliable, paving the way for testable and more efficient kilonova parameter inference.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Milky Way-est: Cosmological Zoom-in Simulations with Large Magellanic Cloud and Gaia–Sausage–Enceladus Analogs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad554c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad554c</guid>
+<content:encoded><![CDATA[
+<div> Milky Way-est, simulations, dark matter, subhalos, LMC orbit
+<br><br>总结:
+本研究通过20个类似于银河系的宿主暗物质的冷暗物质缩放模拟，筛选出符合银河系暗物质质量、浓度、近期和早期进入的分支星系大麦哲伦云和Gaia–Sausage–Enceladus的宿主系统。这些宿主系统比未包含大麦哲伦云和Gaia–Sausage–Enceladus分支星系的系统有着更多的次星系，尤其是在内部区域。同时，研究发现Gaia–Sausage–Enceladus分支星系对目前的银河系次星系数量贡献不大。这些结果有助于我们更好地理解银河系的暗物质结构和次星系数量，并对目前仅能在银河系中测量的一系列数据进行解释。 <div>
+We present Milky Way-est, a suite of 20 cosmological cold-dark-matter-only zoom-in simulations of Milky Way (MW)-like host halos. Milky Way-est hosts are selected such that they (i) are consistent with the MW’s measured halo mass and concentration, (ii) accrete a Large Magellanic Cloud (LMC)-like (≈1011M⊙) subhalo within the last 2 Gyr on a realistic orbit, placing them near 50 kpc from the host center at z ≈ 0, and (iii) undergo a >1:5 sub-to-host halo mass ratio merger with a Gaia–Sausage–Enceladus (GSE)-like system at early times (0.67 < z < 3). Hosts satisfying these LMC and GSE constraints constitute <1% of all halos in the MW’s mass range, and their total masses grow rapidly at late times due to LMC analog accretion. Compared to hosts of a similar final halo mass that are not selected to include LMC and GSE analogs, Milky Way-est hosts contain 22% more subhalos with present-day virial masses above 108M⊙ throughout the virial radius, on average. This enhancement reaches ≈80% in the inner 100 kpc and is largely, if not entirely, due to LMC-associated subhalos. These systems also induce spatial anisotropy in Milky Way-est subhalo populations, with ≈60% of the total subhalo population within 100 kpc found in the current direction of the LMC. Meanwhile, we find that GSE-associated subhalos do not significantly contribute to present-day Milky Way-est subhalo populations. These results provide context for our Galaxy’s dark matter structure and subhalo population and will help interpret a range of measurements that are currently only possible in the MW.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Laboratory Benchmark of n ≥ 4 Dielectronic Recombination Satellites of Fe xvii</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad571d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad571d</guid>
+<content:encoded><![CDATA[
+<div> Fe xvii, dielectronic recombination, cross sections, electron-impact excitation, experimental benchmark
+
+这篇论文研究了Fe xvii的双电子复合(DR)卫星线的截面，并将预测结果与在电子束离子阱中单能量激发的Fe xvii共振的实验截面进行了基准计算。同时还扩展了实验数据集中所有已解析的DR和直接电子撞击激发(DE)通道的基准计算范围，特别是Fe xvii的n ≥ 4 DR共振，补充了以前对n = 3通道的研究。在使用与以前研究中相同的方法时，我们发现对于较高n复合物的DR和DE绝对截面的预测与实验结果有相当大的出入。然而，通过一种方法，我们将预测的截面与电子束能量的扩展和实验的光子能量分辨率双重卷积，实现了与实验结果约10%的一致性。然后，我们从实验和理论截面计算了速率系数，发现与OPEN-ADAS原子数据库中的速率在2σ内有一般一致性。 <br><br>总结: Fe xvii的DR卫星线和DE通道的截面进行了实验和理论基准计算，通过双重卷积方法取得了与实验结果约10%的一致性，并且从实验和理论截面计算的速率系数与OPEN-ADAS原子数据库中的速率大致一致。 <div>
+We calculated cross sections for the dielectronic recombination (DR) satellite lines of Fe xvii and benchmarked our predictions with experimental cross sections of Fe xvii resonances that were monoenergetically excited in an electron-beam ion trap. We extend the benchmark to all resolved DR and direct electron-impact excitation (DE) channels in the experimental data set, specifically the n ≥ 4 DR resonances of Fe xvii, complementing earlier investigations of n = 3 channels. Our predictions for the DR and DE absolute cross sections for the higher n complexes disagree considerably with experimental results when using the same methods as in previous works. However, we achieve agreement within ∼10% of the experimental results by an approach whereby we doubly convolve the predicted cross sections with both the spread of the electron-beam energy and the photon energy resolution of our experiment. We then calculated rate coefficients from the experimental and theoretical cross sections, finding general agreement within 2σ with the rates found in the OPEN-ADAS atomic database.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Shoulder of Dust Rings Formed by Planet–Disk Interactions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be2</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 毫米波, 原行星盘, 模拟, 辐射传输, 过滤效应
+
+这项工作结合了三维多流体流体动力学模拟和辐射传输计算，以解释尘肩的形成。研究发现，环-肩对可以是由于大质量、开口的行星与盘的三维相互作用造成的。关键驱动因素是由于行星驱动的气体向外流动在局部压力最大处引起的尘埃过滤效应。我们的工作为最近关于阿塔卡马大毫米/亚毫米阵列观测的超分辨率分析中外部尘肩提供了可能的解释。它还为PDS 70盘中内部尘肩的形成提供了见解，并突显了三维效应在行星-盘相互作用研究中的作用。<br><br>总结: 通过模拟和计算，研究揭示了由于大质量行星与原行星盘的相互作用引起的尘肩的形成机制，并解释了最近观测中发现的尘肩现象。这项工作为我们理解行星与盘相互作用提供了新的见解，特别突出了三维效应的重要性。 <div>
+Recent analyses of millimeter-wavelength protoplanetary disk observations have revealed several emission excesses on the previously identified dust rings, referred to as dust shoulders. The prevalence of dust shoulders suggests that they trace a common but unclear mechanism. In this work, we combine 3D, multifluid hydrodynamic simulations with radiative transfer calculations to explain the formation of dust shoulders. We find that the ring-shoulder pairs can result from the 3D planet–disk interactions with massive, gap-opening planets. The key driver is the dust filtration effect at the local pressure maximum due to planet-driven outward gas flows. Our work provides a possible explanation for the outer dust shoulders in recent super-resolution analyses of Atacama Large Millimeter/submillimeter Array observations. It also provides insights into the formation of the inner dust shoulder in the PDS 70 disk and highlights the role of 3D effects in planet–disk interaction studies.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Cosmic Reionization in the JWST Era: Back to AGNs?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce8</guid>
+<content:encoded><![CDATA[
+<div> 关键词: James Webb Space Telescope (JWST), active galactic nuclei (AGNs), reionization, Lyman-continuum (LyC) radiation, cosmic microwave background anisotropy
+总结:
+James Webb Space Telescope (JWST)的深度调查揭示了在4≲z≲13范围内出现了由早期大质量黑洞的吸积过程驱动的中等亮度、宽线活跃星系核(AGNs)的新群体。这些AGNs显示出很高的光子泄漏率和大量的氢、氦LyC辐射产生效率，这使得重新评估AGNs是否是宇宙氢/氦再电离过程中的唯一驱动因素。研究假设了一些前提条件，并且提出了模型来解释氢再电离的进程，得到了一些与宇宙微波背景各向异性数据一致的结果。研究结果表明，在JWST探测到的丰富AGN群体不会违反对未解析的X射线背景的限制。 <div>
+Deep surveys with the James Webb Space Telescope (JWST) have revealed an emergent population of moderate-luminosity, broad-line active galactic nuclei (AGNs) at 4 ≲ z ≲ 13 powered by accretion onto early massive black holes. The high number densities reported, together with the large Lyman-continuum (LyC) production efficiency and leakiness into the intergalactic medium that are typical of UV-selected AGNs, lead us to reassess a scenario where AGNs are the sole drivers of the cosmic hydrogen/helium reionization process. Our approach is based on the assumptions, grounded in recent observations, that (a) the fraction of broad-line AGNs among galaxies is around 10%–15%; (b) the mean escape fraction of hydrogen LyC radiation is high, at ≳80%, in AGN hosts and is negligible otherwise; and (c) internal absorption at 4 ryd or a steep ionizing EUV spectrum delay full reionization of He ii until z ≃ 2.8–3.0, in agreement with observations of the He ii Lyα forest. In our fiducial models, (1) hydrogen reionization is 99% completed by redshift z ≃ 5.3–5.5 and reaches its midpoint at z ≃ 6.5–6.7; (2) the integrated Thomson scattering optical depth to reionization is ≃0.05, consistent with constraints from cosmic microwave background anisotropy data; and (3) the abundant AGN population detected by JWST does not violate constraints on the unresolved X-ray background.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Polar Orbits around the Newly Formed Earth–Moon Binary System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fa</guid>
+<content:encoded><![CDATA[
+<div> Earth-Moon binary, circumbinary orbits, stability, polar orbits, Kozai-Lidov oscillations <br>
+通过研究地月双星系统的环绕二进制粒子的动力学和稳定性，发现在当前日半长轴处不存在稳定的极轨道，但在月球形成初期以及半长轴达到约10倍地球半径时，极轨道是稳定的。文章讨论了极轨道对地月系统演化的影响，以及在外行星-卫星双星系统中存在可能的极轨道卫星。 <br> <br>总结: 通过研究地月双星系统，发现极轨道在不同阶段的稳定性变化，对地月系统的演化具有重要影响，并可能存在着极轨道卫星在外行星-卫星双星系统中的存在。 <div>
+We examine the dynamics and stability of circumbinary particles orbiting around the Earth–Moon binary system. The moon formed close to the Earth (semimajor axis aEM ≈ 3 R⊕) and expanded through tides to its current day semimajor axis (aEM = 60 R⊕). Circumbinary orbits that are polar or highly inclined to the Earth–Moon orbit are subject to two competing effects: (i) nodal precession about the Earth–Moon eccentricity vector and (ii) Kozai–Lidov oscillations of eccentricity and inclination driven by the Sun. While we find that there are no stable polar orbits around the Earth–Moon orbit with the current day semimajor axis, polar orbits were stable immediately after the formation of the Moon, at the time when there was a lot of debris around the system, up to when the semimajor axis reached about aEM ≈ 10 R⊕. We discuss implications of polar orbits on the evolution of the Earth–Moon system and the possibility of polar orbiting moons around exoplanet–moon binaries.
+]]></content:encoded>
+
+<pubDate>2024-08-06T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>On the Determination of Stellar Mass and Binary Fraction of Open Clusters within 500 pc from the Sun</title>
