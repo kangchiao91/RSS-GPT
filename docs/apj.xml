@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A Catalog of Broad Hα and Hβ Active Galactic Nuclei in MaNGA</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c68</link>
@@ -12,10 +13,9 @@
 <div> 关键词: Hα, Hβ, MaNGA, AGN, merger
 
 总结:
-本研究利用斯隆数字化天空勘测的Mapping Nearby Galaxies at Apache Point Observatory (MaNGA)目录，发现301个具有广Hα发射线的星系和801个具有广Hβ发射线的星系。在总计1042个独特的广发射线星系中，60个同时具有广Hα和广Hβ发射线。研究显示，广发射线区域的半径范围在0.01到46 lt-days之间，其中广Hβ样本的中值半径为0.1 lt-days（0.02 pc）。此外，研究还发现，与MaNGA星系全样本（26%）相比，广Hα样本和广Hβ样本都具有更高的星系合并比例（分别为44%和43%），这表明星系合并推动的燃料补给在我们的样本中非常活跃。<br><br> <div>
+本研究利用斯隆数字化天空勘测的Mapping Nearby Galaxies at Apache Point Observatory (MaNGA)目录，发现301个具有广Hα发射线的星系和801个具有广Hβ发射线的星系。在总计1042个独特的广发射线星系中，60个同时具有广Hα和广Hβ发射线。研究显示，广发射线区域的半径范围在0.01到46 lt-days之间，其中广Hβ样本的中值半径为0.1 lt-days（0.02 pc）。此外，研究还发现，与MaNGA星系全样本（26%）相比，广Hα样本和广Hβ样本都具有更高的星系合并比例（分别为44%和43%），这表明星系合并推动的燃料补给在我们的样本中非常活跃。<br /><br /> <div>
 Broad Hα and Hβ emission lines (FWHM > 1000 km s−1) are incredibly efficient tracers of the high-velocity clouds encircling active galactic nuclei (AGNs). As a result, we search for these broad-line AGN in the Sloan Digital Sky Survey’s Mapping Nearby Galaxies at Apache Point Observatory (MaNGA) catalog. We identify 301 broad-line Hα galaxies and 801 broad-line Hβ galaxies in the catalog. In total, we detect 1042 unique broad-line galaxies with luminosities between 1037 and 1043 erg s−1; 60 feature both broad Hα and broad Hβ emission. We also determine that the broad-line region radius ranges between 0.01 and 46 lt-days, with a median radius of 0.1 lt-days (0.02 pc) for our broad Hβ sample. In addition, we find that both samples feature a higher fraction of galaxy mergers (44% for the broad Hα sample and 43% for the broad Hβ sample), compared to the full MaNGA galaxy sample (26%), which suggests that merger-driven fueling is strongly active in our sample.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,13 +23,12 @@ Broad Hα and Hβ emission lines (FWHM > 1000 km s−1) are incredibly efficient
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c6e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c6e</guid>
 <content:encoded><![CDATA[
-<div> 矩阵方法，线性响应理论，相空间分布，动力学平衡，暗物质子系统<br>
-<br>
-总结:<br>
+<div> 矩阵方法，线性响应理论，相空间分布，动力学平衡，暗物质子系统<br />
+<br />
+总结:<br />
 本研究使用矩阵方法和线性响应理论研究了被略微置于动态平衡之外的孤立恒星系统的松弛过程。研究表明，最终的平衡状态的全相空间分布可以直接从非平衡的初始条件中恢复，无需计算系统的时间演化，从而减少了计算的复杂性。此外，还开发了工具来模拟系统在线性近似下的完整时间演化，尤其是表明可以利用广义矩矩阵高效地计算速度分布的矩。研究应用线性方法对能量截断的Hernquist球体进行了松弛过程的研究，模拟了一个具有等离子体的暗物质次哈洛的潮汐剥离。与受控的孤立N体模拟进行比较显示，在预期会出现线性对扰动相响应的部分，线性预测与实际结果一致。研究结果发现，尽管初始的非平衡状态具有各向同性的运动学特性，但是松弛会在中间区域生成切向速度各向异性。结果还加强了松弛过程会消减密度尖峰幅度，但不会影响其渐近斜率的观点。最后，将线性理论与椭圆轨道潮汐剥离的N体模拟进行比较，验证了该理论仍然准确预测了系统大部分区域的密度和速度分散特性。 <div>
 Placed slightly out of dynamical equilibrium, an isolated stellar system quickly returns toward a steady virialized state. We study this process of collisionless relaxation using the matrix method of linear response theory. We show that the full phase-space distribution of the final virialized state can be recovered directly from the disequilibrium initial conditions, without the need to compute the time evolution of the system. This shortcut allows us to determine the final virialized configuration with minimal computational effort. Complementing this result, we develop tools to model the system's full time evolution in the linear approximation. In particular, we show that moments of the velocity distribution can be efficiently computed using a generalized moment matrix. We apply our linear methods to study the relaxation of energy-truncated Hernquist spheres, mimicking the tidal stripping of a cuspy dark matter subhalo. Comparison of our linear predictions against controlled, isolated N-body simulations shows agreement at percent level for the parts of the system where a linear response to the perturbation is expected. We find that relaxation generates a tangential velocity anisotropy in the intermediate regions, despite the initial disequilibrium state having isotropic kinematics. Our results also strengthen the case for relaxation depleting the amplitude of the density cusp, without affecting its asymptotic slope. Finally, we compare the linear theory against an N-body simulation of tidal stripping on a radial orbit, confirming that the theory still accurately predicts density and velocity dispersion profiles for most of the system.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,10 +39,9 @@ Placed slightly out of dynamical equilibrium, an isolated stellar system quickly
 <div> 关键词: 太阳风、MHD等离子体、Park Solar Probe、时标结构、阿尔文涡
 
 总结: 
-文章研究了太阳风湍流中的间歇性相干结构，利用Park Solar Probe的数据，跨越了从MHD到动力学等离子体尺度的范围，首次在物理空间中应用了多尺度分析。研究发现在MHD尺度范围内，存在电流片和阿尔芬涡等结构，而在这些事件中嵌入了更小尺度的结构，通常是离子尺度的阿尔芬涡和亚离子尺度的可压缩涡旋。观察到的结构数量随着尺度的减小而增多，在MHD尺度约为200个事件，在离子尺度约为103个，在亚离子尺度约为104个。通过统计分析，结果显示阿尔芬涡在各个尺度上占据主导地位，这与以往普遍认为电流片占主导地位的观点有所不同，这表明阿尔芬涡是太阳风湍流中重要的构建模块。 <br><br> <div>
+文章研究了太阳风湍流中的间歇性相干结构，利用Park Solar Probe的数据，跨越了从MHD到动力学等离子体尺度的范围，首次在物理空间中应用了多尺度分析。研究发现在MHD尺度范围内，存在电流片和阿尔芬涡等结构，而在这些事件中嵌入了更小尺度的结构，通常是离子尺度的阿尔芬涡和亚离子尺度的可压缩涡旋。观察到的结构数量随着尺度的减小而增多，在MHD尺度约为200个事件，在离子尺度约为103个，在亚离子尺度约为104个。通过统计分析，结果显示阿尔芬涡在各个尺度上占据主导地位，这与以往普遍认为电流片占主导地位的观点有所不同，这表明阿尔芬涡是太阳风湍流中重要的构建模块。 <br /><br /> <div>
 We study intermittent coherent structures in solar wind turbulence from MHD to kinetic plasma scales using Parker Solar Probe data during its first perihelion (at 0.17 au) in the highly Alfvénic slow solar wind. We detect coherent structures using Morlet wavelets. For the first time, we apply a multiscale analysis in physical space. At MHD scales within the inertial range, times scales τ ∈ (1, 102) s, we find (i) current sheets including switchback boundaries and (ii) Alfvén vortices. Within these events are embedded structures at smaller scales: typically Alfvén vortices at ion scales, τ ∈ (0.08, 1) s, and compressible vortices at sub-ion scales, τ ∈ 8(10−3, 10−2) s. The number of coherent structures grows toward smaller scales: we observe ∼200 events during a 5 hr time interval at MHD scales, ∼103 at ion scales, and ∼104 at sub-ion scales. In general, there are multiple structures of ion and sub-ion scales embedded within one MHD structure. There are also examples of ion and sub-ion scale structures outside MHD structures. To quantify the relative importance of different types of structures, we do a statistical comparison of the observed structures with the expectations of models of the current sheets and vortices. The results show the dominance of Alfvén vortices at all scales in contrast to the widespread view of the dominance of current sheets. This means that Alfvén vortices are important building blocks of Alfvénic solar wind turbulence.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -56,7 +54,6 @@ We study intermittent coherent structures in solar wind turbulence from MHD to k
 实验在加利福尼亚大学洛杉矶分校的大型等离子体装置中进行，首次实验性地探测到了在类似日冕空洞条件下的Alfvén速度梯度上发生的Alfvén波的反射现象。实验测量了反射系数与波的不均匀参数的依赖关系，即入射波波长与梯度长度尺度的比值。通过使用Gkeyll代码进行的两流体模拟与实验结果在定性上达成一致并予以支持。实验结果支持依赖于在低高度处从光滑Alfvén速度梯度处发生波反射以引发湍流的波加热模型。 <div>
 We report the first experimental detection of a reflected Alfvén wave from an Alfvén-speed gradient under conditions similar to those in coronal holes. The experiments were conducted in the Large Plasma Device at the University of California, Los Angeles. We present the experimentally measured dependence of the coefficient of reflection versus the wave inhomogeneity parameter, i.e., the ratio of the wavelength of the incident wave to the length scale of the gradient. Two-fluid simulations using the Gkeyll code qualitatively agree with and support the experimental findings. Our experimental results support models of wave heating that rely on wave reflection at low heights from a smooth Alfvén-speed gradient to drive turbulence.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -66,10 +63,9 @@ We report the first experimental detection of a reflected Alfvén wave from an A
 <content:encoded><![CDATA[
 <div> H ii regions, M101, FUV spectra, nebular properties, WR stars
 总结:
-本研究对漩涡星系M101中的九个H ii区的恒星和星云特性进行了调查，使用了远紫外（FUV; ∼900–2000 Å）和光学（∼3200–10,000 Å）光谱。我们检测到了7个区域中显著的C iii] λλ1907,1909星云发射，但只在最低金属丰度的区域中发现了O iii] λ1666。我们提出了关于金属丰度的碳离子化校正因子的新解析函数，以进行初步的C/O丰度分析。FUV光谱还包含了大量的恒星发射和P-Cygni特征，我们用单次爆发的Starburst99和BPASS模型的辐射加权组合对其进行拟合。我们发现，最佳拟合的Starburst99模型与观察到的非常高电离P-Cygni特征很好地匹配，需要非常炽热、年轻(≲3百万年)、金属丰度高的大质量恒星。最年轻的恒星群体与宽He ii发射、氮Wolf–Rayet（WR）FUV和光学光谱特征以及增强的N/O气体丰度密切相关。因此，短寿命的WR相可能在几个N P-Cygni风特征（λ955, λ991, λ1720）中驱动多余的发射，导致了对较高金属丰度的恒星连续体拟合与气相金属丰度的偏差。精确表征这些H ii区需要在恒星群体合成模型中进一步包含WR恒星。我们的FUV光谱证明了∼900–1200 Å FUV可以为未来WR大气和进化模型提供强有力的试验基础。<br><br> <div>
+本研究对漩涡星系M101中的九个H ii区的恒星和星云特性进行了调查，使用了远紫外（FUV; ∼900–2000 Å）和光学（∼3200–10,000 Å）光谱。我们检测到了7个区域中显著的C iii] λλ1907,1909星云发射，但只在最低金属丰度的区域中发现了O iii] λ1666。我们提出了关于金属丰度的碳离子化校正因子的新解析函数，以进行初步的C/O丰度分析。FUV光谱还包含了大量的恒星发射和P-Cygni特征，我们用单次爆发的Starburst99和BPASS模型的辐射加权组合对其进行拟合。我们发现，最佳拟合的Starburst99模型与观察到的非常高电离P-Cygni特征很好地匹配，需要非常炽热、年轻(≲3百万年)、金属丰度高的大质量恒星。最年轻的恒星群体与宽He ii发射、氮Wolf–Rayet（WR）FUV和光学光谱特征以及增强的N/O气体丰度密切相关。因此，短寿命的WR相可能在几个N P-Cygni风特征（λ955, λ991, λ1720）中驱动多余的发射，导致了对较高金属丰度的恒星连续体拟合与气相金属丰度的偏差。精确表征这些H ii区需要在恒星群体合成模型中进一步包含WR恒星。我们的FUV光谱证明了∼900–1200 Å FUV可以为未来WR大气和进化模型提供强有力的试验基础。<br /><br /> <div>
 We investigate the stellar and nebular properties of nine H ii regions in the spiral galaxy M101 with far-ultraviolet (FUV; ∼900–2000 Å) and optical (∼3200–10,000 Å) spectra. We detect significant C iii] λλ1907,1909 nebular emission in seven regions, but O iii] λ1666 only in the lowest-metallicity region. We produce new analytic functions of the carbon ionization correction factors as a function of metallicity in order to perform a preliminary C/O abundance analysis. The FUV spectra also contain numerous stellar emission and P-Cygni features that we fit with luminosity-weighted combinations of single-burst Starburst99 and BPASS models. We find that the best-fit Starburst99 models closely match the observed very-high-ionization P-Cygni features, requiring very hot, young (≲3 Myr), metal-enriched massive stars. The youngest stellar populations are strongly correlated with broad He ii emission, nitrogen Wolf–Rayet (WR) FUV and optical spectral features, and enhanced N/O gas abundances. Thus, the short-lived WR phase may be driving excess emission in several N P-Cygni wind features (λ955, λ991, λ1720) that bias the stellar continuum fits to higher metallicities relative to the gas-phase metallicities. Accurate characterization of these H ii regions requires additional inclusion of WR stars in the stellar population synthesis models. Our FUV spectra demonstrate that the ∼900–1200 Å FUV can provide a strong test bed for future WR atmosphere and evolution models.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -77,12 +73,11 @@ We investigate the stellar and nebular properties of nine H ii regions in the sp
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5315</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5315</guid>
 <content:encoded><![CDATA[
-<div> 关键词: DH type IV bursts, 太阳活动, 太阳风暴, 日冕物质抛射, 電波观测<br>
-<br>总结: 
+<div> 关键词: DH type IV bursts, 太阳活动, 太阳风暴, 日冕物质抛射, 電波观测<br />
+<br />总结: 
 本研究提供了1996年11月至2023年5月期间在Wind和Solar TErrestrial RElations Observatory飞船上观察到的139个DH类型IV爆发的全面目录。其中73％与快速（> 900 km/s）和宽泛（> 60°）的CME相关联，平均CME速度为1301 km/s。所有DH类型IV爆发均与白光CME相关，其中78％与光晕CME相关。CME源纬度在±45°范围内。77个事件有多颗卫星不同位置的观测数据，发现观测角度对动态光谱的影响。观察到的爆发在±60°的视线范围内效果最佳。持续时间超过120分钟的爆发在±60°的经度范围内。这些结果确认了类型IV辐射的固有定向性。此外，该目录形成了一个以太阳为星的DH类型IV爆发数据库。 <div>
 Decameter hectometric (DH; 1–14 MHz) type IV radio bursts are produced by flare-accelerated electrons trapped in postflare loops or the moving magnetic structures associated with the coronal mass ejections (CMEs). From a space weather perspective, it is important to systematically compile these bursts, explore their spectrotemporal characteristics, and study the associated CMEs. We present a comprehensive catalog of DH type IV bursts observed by the Radio and Plasma Wave Investigation instruments on board the Wind and Solar TErrestrial RElations Observatory spacecraft covering the period of white-light CME observations by the Large Angle and Spectrometric Coronagraph on board the Solar and Heliospheric Observatory mission between 1996 November and 2023 May. The catalog has 139 bursts, of which 73% are associated with a fast (>900 km s−1) and wide (>60°) CME, with a mean CME speed of 1301 km s−1. All DH type IV bursts are white-light CME-associated, with 78% of the events associated with halo CMEs. The CME source latitudes are within ±45°. Seventy-seven events had multiple-vantage-point observations from different spacecraft, letting us explore the impact of the line of sight on the dynamic spectra. For 48 of the 77 events, there were good data from at least two spacecraft. We find that, unless occulted by nearby plasma structures, a type IV burst is best viewed when observed within a ±60° line of sight. Also, bursts with a duration above 120 minutes have source longitudes within ±60°. Our inferences confirm the inherent directivity in the type IV emission. Additionally, the catalog forms a Sun-as-a-star DH type IV burst database.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -95,7 +90,6 @@ Decameter hectometric (DH; 1–14 MHz) type IV radio bursts are produced by flar
 Parker Solar Probe观测在最近的太阳活动极小期间，使用Wang-Sheeley-Arge (WSA)日冕模型进行校准，该模型是欧洲日球层预报信息资源(EUHFORIA)的一部分。通过PSP观测，校准了WSA模型的四个常数，并将更新后的WSA边界条件同PSP观测进行对比，并在整个日球层中传播这些条件。通过对地球的预测结果来评估模型的性能，发现接近太阳的模型配置与提供更好地球预测的配置不同。原因可能是PSP记录的快速太阳风速度的稀缺性，并且还可能与EUHFORIA的日球层中缺少的物理过程以及WSA关系与日球层MHD域耦合可能需要全面重新制定有关。 <div>
 We employ Parker Solar Probe (PSP) observations during the latest solar minimum period (years 2018–2021) to calibrate the version of the Wang–Sheeley–Arge (WSA) coronal model used in the European Heliospheric Forecasting Information Asset (EUHFORIA). WSA provides a set of boundary conditions at 0.1 au necessary to initiate the heliospheric part of EUHFORIA, namely, the domain extending beyond the solar Alfvénic point. To calibrate WSA, we observationally constrain four constants in the WSA semiempirical formula based on PSP observations. We show how the updated (after the calibration) WSA boundary conditions at 0.1 au are compared to PSP observations at similar distances, and we further propagate these conditions in the heliosphere according to EUHFORIA’s magnetohydrodynamic (MHD) approach. We assess the predictions at Earth based on the dynamic time-warping technique. Our findings suggest that, for the period of interest, the WSA configurations that resembled optimally the PSP observations close to the Sun were different from the ones needed to provide better predictions at Earth. One reason for this discrepancy can be attributed to the scarcity of fast solar wind velocities recorded by PSP. The calibration of the model was performed based on unexpectedly slow velocities that did not allow us to achieve generally and globally improved solar wind predictions compared to older studies. Other reasons can be attributed to missing physical processes from the heliospheric part of EUHFORIA but also the fact that the currently employed WSA relationship, as coupled to the heliospheric MHD domain, may need a global reformulation beyond that of just updating the four constant factors that were taken into account in this study.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -103,12 +97,11 @@ We employ Parker Solar Probe (PSP) observations during the latest solar minimum 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5443</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5443</guid>
 <content:encoded><![CDATA[
-<div> 电子加速，粒子模拟，伽马射线暴余辉，热电子，辐射机制<br>
-<br>
-研究发现，伽马射线暴余辉中的电子加速不符合纯幂律分布，还有额外的低能“热”部分占据了相当大的能量比例。通过对热电子对伽马射线暴余辉的影响进行研究，可以深入了解粒子加速机制。研究解决了电子能量空间中的连续方程，推导了多波段余辉，并包含了包括辐射、自吸收、自康普顿散射和伽马-伽马湮灭等过程。首先，由于电子冷却，时间和能谱指数之间存在正相关性。此外，热电子导致多波段上同时出现能谱和时间指数的非单调变化，这些可以被2.5米广域调查望远镜和维拉·鲁宾天文台空间和时间遗产调查单独记录。热电子也可以通过光学（与维拉·鲁宾天文台）和X射线（与微通道X射线望远镜）波段的余辉光谱进行诊断。最后，我们使用蒙特卡洛模拟得到了软和硬X射线峰值通量比（RX）的分布，以及软X射线和光学光曲线峰值时间之间的时间延迟（Δt）的分布。热电子显著提高了RX和Δt的上限。因此，具有热电子的伽马射线暴余辉的分布在RX-Δt平面上更加分散。<br><br>总结: 电子加速不符合幂律分布，热电子对余辉造成影响，同时影响能谱和时间指数，LSST和微通道X射线望远镜可以用于记录这些变化，热电子导致RX和Δt的上限提高。 <div>
+<div> 电子加速，粒子模拟，伽马射线暴余辉，热电子，辐射机制<br />
+<br />
+研究发现，伽马射线暴余辉中的电子加速不符合纯幂律分布，还有额外的低能“热”部分占据了相当大的能量比例。通过对热电子对伽马射线暴余辉的影响进行研究，可以深入了解粒子加速机制。研究解决了电子能量空间中的连续方程，推导了多波段余辉，并包含了包括辐射、自吸收、自康普顿散射和伽马-伽马湮灭等过程。首先，由于电子冷却，时间和能谱指数之间存在正相关性。此外，热电子导致多波段上同时出现能谱和时间指数的非单调变化，这些可以被2.5米广域调查望远镜和维拉·鲁宾天文台空间和时间遗产调查单独记录。热电子也可以通过光学（与维拉·鲁宾天文台）和X射线（与微通道X射线望远镜）波段的余辉光谱进行诊断。最后，我们使用蒙特卡洛模拟得到了软和硬X射线峰值通量比（RX）的分布，以及软X射线和光学光曲线峰值时间之间的时间延迟（Δt）的分布。热电子显著提高了RX和Δt的上限。因此，具有热电子的伽马射线暴余辉的分布在RX-Δt平面上更加分散。<br /><br />总结: 电子加速不符合幂律分布，热电子对余辉造成影响，同时影响能谱和时间指数，LSST和微通道X射线望远镜可以用于记录这些变化，热电子导致RX和Δt的上限提高。 <div>
 Particle-in-cell simulations have unveiled that shock-accelerated electrons do not follow a pure power-law distribution, but have an additional low-energy “thermal” part, which owns a considerable portion of the total energy of the electrons. Investigating the effects of these thermal electrons on gamma-ray burst (GRB) afterglows may provide valuable insights into the particle acceleration mechanisms. We solve the continuity equation of electrons in energy space, from which multiwavelength afterglows are derived by incorporating processes including synchrotron radiation, synchrotron self-absorption, synchrotron self-Compton scattering, and γ–γ annihilation. First, there is an underlying positive correlation between the temporal and spectral indices due to the cooling of electrons. Moreover, thermal electrons result in simultaneous nonmonotonic variations of both the spectral and temporal indices at multiple wavelengths, which could be individually recorded by the 2.5 m Wide Field Survey Telescope and Vera Rubin Observatory Legacy Survey of Space and Time (LSST). The thermal electrons could also be diagnosed using afterglow spectra from synergistic observations in the optical (with LSST) and X-ray (with the Microchannel X-ray Telescope on board the Space Variable Objects Monitor) bands. Finally, we use Monte Carlo simulations to obtain the distribution of the peak flux ratio (RX) between the soft and hard X-rays, and of the time delay (Δt) between the peak times of the soft X-ray and optical light curves. The thermal electrons significantly raise the upper limits of both RX and Δt. Thus, the distribution of GRB afterglows with thermal electrons is more scattered in the RX−Δt plane.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
 <item>
@@ -121,10 +114,8 @@ Particle-in-cell simulations have unveiled that shock-accelerated electrons do n
 受到后质量传递系统中吸积星自转速度测量的启发，我们研究了磁致制动对双星演化过程中各个恒星自转速度减缓的影响。我们首先计算了潮汐力是否足够强大来同步轨道，从而影响了恒星的自转减速和轨道分离。我们应用了四种磁致制动方案来减小整个双星演化模拟中两颗恒星的自转角动量。我们的研究发现，尽管磁致制动导致吸积星持续自转减速，但当捐赠者开始向吸积星传递物质时，吸积星可以快速旋转至临界自转速率。质量传递后，磁致制动对恒星角动量的演化变得更加重要。因此，后质量传递吸积星可以作为观察磁致制动方案如何将恒星从临界自转速率减速的宝贵试验平台。吸积星的自转速度结合其质量，可以提供自质量传递停止后的年龄信息。通过将模型与观测数据进行比较，发现Garraffo等人的磁致制动方案更符合后质量传递吸积星的自转数据。 <div>
 Motivated by measurements of the rotation speed of accretor stars in post-mass-transfer (post-MT) systems, we investigate how magnetic braking affects the spin-down of individual stars during binary evolution with the MESAbinary module. Unlike the conventional assumption of tidal synchronization coupled with magnetic braking in binaries, we first calculate whether tides are strong enough to synchronize the orbit. Subsequently, this influences the spin-down of stars and the orbital separation. In this study, we apply four magnetic braking prescriptions to reduce the spin angular momentum of the two stars throughout the entire binary evolution simulation. Our findings reveal that despite magnetic braking causing continuous spin-down of the accretor, when the donor begins to transfer material onto the accretor, the accretor can rapidly spin up to its critical rotation rate. After MT, magnetic braking becomes more important in affecting the angular momentum evolution of the stars. Post-MT accretor stars thus serve as a valuable test bed for observing how the magnetic braking prescriptions operate in spinning down stars from their critical rotation, including the saturation regimes of the magnetic braking. The rotation rate of the accretor star, combined with its mass, could provide age information since the cessation of MT. By comparing the models against observations, the magnetic braking prescription by Garraffo et al. is found to better align with the rotation data of post-MT accretors.
 ]]></content:encoded>
-
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Energetic Electrons Accelerated and Trapped in a Magnetic Bottle above a Solar Flare Arcade</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad531a</link>
@@ -11668,111 +11659,6 @@ James Webb Space Telescope (JWST) observations have been demonstrated to be effi
 总结:<br />
 使用Stratospheric Observatory for Infrared Astronomy上的upGREAT仪器，从Nessie星云中的一个明亮光解区域（PDR）拍摄了[C ii] 157.74微米和[O i] 63.18微米的线发射。与澳大利亚紧凑射电阵列数据的比较显示经典的PDR结构，从离子化气体到光解气体，再到分子气体的进展。气泡的PDR的[O i]线发射显示自吸收特征。在远红外明亮原恒星附近，[O i]和[C ii]都显示出在−18 km s−1的吸收特征，与无关的前景分子云速度相同。Meudon模型表明，被标准G0 = 1的星际辐射场外部照射的分子云表面可能产生这些过渡的吸收特征。位于Nessie丝状红外暗云被气泡冲击的明亮年轻恒星物体AGAL337.916-00.477与两个冲击示踪物质相关联，表明气泡与丝状物质相互作用引发了星的形成。 <div>
 Using the upGREAT instrument on board the Stratospheric Observatory for Infrared Astronomy, we imaged [C ii] 157.74 and [O i] 63.18 μm line emission from a bright photodissociation region (PDR) associated with an ionized bubble located in the Nessie Nebula, a filamentary infrared dark cloud. A comparison with Australia Telescope Compact Array data reveals a classic photodissociation region (PDR) structure, with a uniform progression from ionized gas, to photodissociated gas, and to molecular gas from the bubble’s interior to its exterior. [O i] line emission from the bubble’s PDR reveals self-absorption features. Toward a far-IR bright protostar, both [O i] and [C ii] show an absorption feature at a velocity of −18 km s−1, the same velocity as an unrelated foreground molecular cloud. Since the gas density in typical molecular clouds is well below the [O i] and [C ii] critical densities, the excitation temperatures for both lines are low (∼20 K). The Meudon models demonstrate that the surface of a molecular cloud, externally illuminated by a standard G0 = 1 interstellar radiation field, can produce absorption features in both transitions. Thus, the commonly observed [O i] and [C ii] self-absorption and absorption features plausibly arise from the subthermally excited, externally illuminated photodissociated envelopes of molecular clouds. The luminous young stellar object AGAL337.916-00.477, located precisely where the expanding bubble strikes the Nessie filament, is associated with two shock tracers: NH3 (3,3) maser emission and SiO 2−1 emission, indicating an interaction between the bubble and the filament. The interaction of the expanding bubble with its parental dense filament has triggered star formation.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing 3D Magnetic Fields Using Thermal Dust Polarization and Grain Alignment Theory</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a56</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2a56</guid>
-<content:encoded><![CDATA[
-<div> 磁场，热尘埃偏振，物理模型，磁流体力学模拟，粒子对齐物理<br />  
-磁场在宇宙中无处不在，对各种天体物理过程起着重要作用。热尘埃颗粒与磁场对齐的偏振被广泛用于测量在天空平面上投影的二维磁场，但其沿视线方向的分量还没有得到约束。本文介绍了一种利用热尘埃偏振和颗粒对齐物理推断三维磁场的新方法。首先，我们利用基于磁场增强辐射力矩对齐理论的现代颗粒对齐理论发展了热尘埃偏振的物理模型。然后，我们利用我们更新的POLARIS代码对具有丝状云的磁流体力学模拟的合成观测进行了测试。结合经过测试的物理偏振模型和合成偏振，我们展示了通过偏振度可以准确限制磁场的倾斜角。与真实的三维磁场相比，基于颗粒对齐物理的方法比假设均匀颗粒对齐的先前方法更准确。这种新技术为利用热尘埃偏振和颗粒对齐理论追踪三维磁场以及限制尘埃特性和颗粒对齐物理铺平了道路。<br /><br />总结: 磁场在宇宙中起着重要作用，新方法利用热尘埃偏振和颗粒对齐物理来推断三维磁场。物理模型和磁流体力学模拟证明了这一方法的有效性。相比之前的方法，新方法更准确。 <div>
-Magnetic fields are ubiquitous in the Universe and are thought to play an important role in various astrophysical processes. Polarization of thermal emission from dust grains aligned with the magnetic field is widely used to measure the 2D magnetic field projected onto the plane of the sky, but its component along the line of sight is not yet constrained. Here, we introduce a new method to infer 3D magnetic fields using thermal dust polarization and grain alignment physics. We first develop a physical model of thermal dust polarization using the modern grain alignment theory based on the magnetically enhanced radiative torque alignment theory. We then test this model with synthetic observations of magnetohydrodynamic simulations of a filamentary cloud with our updated POLARIS code. Combining the tested physical polarization model with synthetic polarization, we show that the B-field inclination angles can be accurately constrained by the polarization degree from synthetic observations. Compared to the true 3D magnetic fields, our method based on grain alignment physics is more accurate than the previous methods that assume uniform grain alignment. This new technique paves the way for tracing 3D B-fields using thermal dust polarization and grain alignment theory and for constraining dust properties and grain alignment physics.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Magnetic Flux in the Sun Emerges Unaffected by Supergranular-scale Surface Flows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae3</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 磁通量涌现, 对太阳磁现象的影响, 深度学习, 等离子流动, 太阳表面的磁浮力<br />
-总结: <br />
-磁通量的涌现对太阳磁现象至关重要。使用深度学习技术改善了信噪比，使得我们可以逐案例进行研究。我们发现涌现引起的流动在不同情况下有所不同，且在宁静的对流背景中频繁发生。我们的分析表明，超粒子尺度的对流流动和磁浮力对磁通量的上升影响减弱。与数值证据一致，我们推测小尺度的表面湍流和/或深层对流过程在推动磁通量涌现方面发挥了巨大作用。 <div>
-Magnetic flux emergence from the convection zone into the photosphere and beyond is a critical component of the behavior of large-scale solar magnetism. Flux rarely emerges amid field-free areas at the surface, but when it does, the interaction between the magnetism and plasma flows can be reliably explored. Prior ensemble studies have identified weak flows forming near emergence locations, but the low signal-to-noise ratio (S/N) required averaging over the entire data set, erasing information about variation across the sample. Here, we apply deep learning to achieve an improved S/N, enabling a case-by-case study. We find that these associated flows are dissimilar across instances of emergence and also occur frequently in the quiet convective background. Our analysis suggests the diminished influence of supergranular-scale convective flows and magnetic buoyancy on flux rise. Consistent with numerical evidence, we speculate that small-scale surface turbulence and/or deep convective processes play an outsized role in driving flux emergence.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Coronal Mass Ejection Impacting Parker Solar Probe at 14 Solar Radii</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b4e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b4e</guid>
-<content:encoded><![CDATA[
-<div> 远程感测，太阳系风暴，宇宙飞船，太阳活动，科学研究<br />
-远程感测和实地探测方法相结合，对2022年6月2日的一次日冕质子风暴进行了相关研究。研究结果显示，两种方法得出的数据结果十分一致，揭示了过去研究中存在的差异更可能与太阳风暴在时间上的演变有关。研究还指出，CME的太阳风磁场在1天文单位处远低于平均太阳风背景值，这可能解释了过去无法识别CME相应地的情况。科学家希望通过继续研究太阳活动和CME的时空演变关系，来加深对这一现象的理解。 <br /><br />总结: 远程感测和实地探测揭示了太阳风暴在时空演变中的一致性，CME的太阳风磁场在1天文单位处远低于平均太阳风背景值。科学家希望进一步研究太阳活动和CME的时空演变关系。 <div>
-The relationship between CME properties in the corona and their interplanetary counterparts is not well understood. Until recently, a wide spatial gap existed between the two regions, which prevented us from disentangling the spatial and temporal evolution of CMEs. NASA’s Parker Solar Probe (PSP) has imaged multiple CMEs since its launch in 2018, but these events either intercepted the spacecraft far from the corona or completely missed it. Here we describe one of the first CMEs observed simultaneously by remote sensing and in situ instruments, and compare the corresponding measured properties, such as orientation, cross section diameter, density, and speed. The CME encounter occurred on 2022 June 2, while PSP was around 14 solar radii from the Sun center. We reconstruct the CME with forward modeling and determine its morphology and kinematics. The reconstruction suggests that PSP misses the CME apex but encounters its flank. The encounter time matches the period when the PSP in situ measurements indicate the passage of a CME. We also reconstruct the flux rope diameter and orientation using the in situ magnetic field measurements. The results are consistent with the CME reconstruction from imaging data. The close agreement between remote sensing and in situ analyses suggests that discrepancies found in past studies are more likely associated with the CME temporal evolution. We also find that the magnetic field of the CME flank extrapolated to 1 au is well below the average solar wind background and likely indistinguishable from it. This point could explain past events where the CMEs' interplanetary counterparts were not identified.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>PEARLS: NuSTAR and XMM-Newton Extragalactic Survey of the JWST North Ecliptic Pole Time-domain Field II</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b61</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2b61</guid>
-<content:encoded><![CDATA[
-<div> 关键词: NuSTAR, XMM-Newton, NEP-TDF survey, hard X-ray number counts, heavily obscured sources<br />
-<br />
-这篇文章介绍了第二次NuSTAR和XMM-Newton对JWST北黄道极（NEP）时间域场（TDF）的观测。该调查对硬X射线数量进行了考量，并发现了一些高度遮蔽的源。此外，XMM-Newton观测提供了软X射线覆盖，并对NuSTAR检测到的源的可靠对应进行了更强有力的确认。总之，这项研究为我们对太空中的天体有了更全面的认识。<br /><br />总结: <br />这项研究利用NuSTAR和XMM-Newton对NEP-TDF进行了第二次观测。通过这次观测，我们获得了迄今为止对NuSTAR外星系调查最敏感的结果，并探测到了60个源。结果显示，约47%的NuSTAR检测到的源具有严重遮挡，而%的源是钔厚的。同时，XMM-Newton观测对可见和红外对应进行了更可靠的鉴定。 <div>
-We present the second NuSTAR and XMM-Newton extragalactic survey of the JWST north ecliptic pole (NEP) time-domain field (TDF). The first NuSTAR NEP-TDF survey had 681 ks total exposure time executed in NuSTAR cycle 5 in 2019 and 2020. This second survey, acquired from 2020 to 2022 in cycle 6, adds 880 ks of NuSTAR exposure time. The overall NuSTAR NEP-TDF survey is the most sensitive NuSTAR extragalactic survey to date, and a total of 60 sources were detected above the 95% reliability threshold. We constrain the hard X-ray number counts, – , down to 1.7 × 10−14 erg cm−2 s−1 at 8–24 keV and detect an excess of hard X-ray sources at the faint end. About 47% of the NuSTAR-detected sources are heavily obscured (NH > 1023 cm−2), and % of the NuSTAR-detected sources are Compton-thick (NH > 1024 cm−2). These fractions are consistent with those measured in other NuSTAR surveys. Four sources presented >2σ variability in the 3 yr survey. In addition to NuSTAR, a total of 62 ks of XMM-Newton observations were taken during NuSTAR cycle 6. The XMM-Newton observations provide soft X-ray (0.5–10 keV) coverage in the same field and enable more robust identification of the visible and infrared counterparts of the NuSTAR-detected sources. A total of 286 soft X-ray sources were detected, out of which 214 XMM-Newton sources have secure counterparts from multiwavelength catalogs.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Latitude-dependent Atmospheric Waves and Long-period Modulations in Luhman 16 B from the Longest Light Curve of an Extrasolar World</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c84</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c84</guid>
-<content:encoded><![CDATA[
-<div> Brown dwarf binaries, photometric monitoring, variability, period range, atmosphere simulation
-<br /><br />
-Luhman 16 AB是一个强烈变化的棕矮双星系统，通过长达1200小时的光度监测，发现其存在数小时至数百小时的±5%变化。研究表明，5小时（k=1波数）和2.5小时（k=2波数）的短周期旋转调制主导了10小时内的变化，而由k=1和k=2波组成的行星尺度波模型能够很好地拟合周期图和光变曲线。此外，通过简单的太阳系巨行星带状模型，提出了潮纹区带风速分布不同导致k=1和k=2波周期范围差异的假设。最后，发现Luhman 16 AB还表现出长周期±5%的变化，周期范围从15小时到100小时不等。这些结果与之前的3D大气模拟一致，表明纬度相关波和缓慢变化的大气特征可能存在于Luhman 16 AB大气中，并且对数百个自转周期的光变有重要贡献。 <div>
-In this work, we present the longest photometric monitoring of up to 1200 hr of the strongly variable brown dwarf binaries Luhman 16 AB and provide evidence of ±5% variability on a timescale of several to hundreds of hours for this object. We show that short-period rotational modulation around 5 hr (k = 1 wavenumber) and 2.5 hr (k = 2 wavenumber) dominate the variability under 10 hr, where the planetary-scale wave model composed of k = 1 and k = 2 waves provides good fits to both the periodograms and light curve. In particular, models consisting of three to four sine waves could explain the variability of the light-curve durations up to 100 hr. We show that the relative range of the k = 2 periods is narrower compared to the k = 1 periods. Using simple models of zonal banding in solar system giants, we suggest that the difference in period range arises from the difference in wind-speed distribution at low and mid-to-high latitudes in the atmosphere. Last, we show that Luhman 16 AB also exhibits long-period ±5% variability, with periods ranging from 15 hr up to 100 hr over the longest monitoring of this object. Our results for the k = 1 and k = 2 waves and long-period evolution are consistent with previous 3D atmosphere simulations, demonstrating that both latitude-dependent waves and slow-varying atmospheric features are potentially present in Luhman 16 AB atmospheres and are a significant contribution to the light-curve modulation over hundreds of rotations.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>TESS Observations of Outbursts on Polars—Superflares</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e95</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e95</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Flare events, TESS data, polars, superflares, accretion behavior
-总结: 本文通过对所有可用的2分钟Tess数据进行目测检查，共识别出185颗极小的恒星中的5颗出现了6次耀斑事件。所有耀斑的辐射能量均超过10^34爱尔格，其中值介于10^35爱尔格左右，因此属于超级耀斑。其中有两次耀斑之后出现了亮度增强，可能表明白矮星发生了由日冕物质抛射引起的吸积突发事件。对探测结果的完整性分析表明，极小恒星的耀斑活动与M型矮星非常相似，这表明白矮星的高磁场对极小恒星的磁活动影响不大。我们估计还有大约20-30颗极小恒星存在磁活跃的辅星，因此鼓励进一步开展对极小恒星耀斑的更深入搜索。 <br /><br /> <div>
-Flare events are magnetic activities on the stellar surface, which can provide us with information about the accretion behavior and evolution of polars. In this paper, we search for flare events on polars from all the available 2 minute cadence TESS data through visual inspection, and identify six flare events on five flaring stars from 185 polars. All the flares have bolometric energies above 1034 erg, with a median of ∼1035 erg, so they are superflares. Among them, two flares are followed by a brightness enhancement, which may suggest an accretion burst on the white dwarf caused by a coronal mass ejection. A completeness analysis of the detections demonstrates that the flare activities on the low-mass red dwarfs of polars are very similar to those on M dwarfs, which indicates that the highly magnetic fields of the white dwarfs have no significant effect on the magnetic activities on polars. We estimate that another ∼20–30 polars include a magnetically active secondary star, and more intensive searching for flares on polars is encouraged in further work.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Impact of Anisotropic Cosmic-Ray Transport on the Gamma-Ray Signatures in the Galactic Center</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ea1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ea1</guid>
-<content:encoded><![CDATA[
-<div> 3D magnetic field, VHE emission, central molecular zone, anisotropic diffusion tensor, cosmic-ray transport equation
-<br /><br />总结:
-本研究利用CRPropa框架解决了3D宇宙射线输运方程，并测试了两种不同的源分布和五种不同的扩散张量各向异性，覆盖了有效地沿磁场线扩散到各向同性扩散的范围。研究发现，在测试的磁场配置中，扩散张量的各向异性接近各向同性情况，并偏好于中央分子区域内的三个点源。未来的任务将需要更详细的3D气体分布和磁场结构。 <div>
-The very high energy (VHE) emission of the central molecular zone (CMZ) is rarely modeled in 3D. Most approaches describe the morphology in 1D or simplify the diffusion to the isotropic case. In this work, we show the impact of a realistic 3D magnetic field configuration and gas distribution on the VHE γ-ray distribution of the CMZ. We solve the 3D cosmic-ray transport equation with an anisotropic diffusion tensor using the approach of stochastic differential equations as implemented in the CRPropa framework. We test two different source distributions for five different anisotropies of the diffusion tensor, covering the range of effectively fieldline-parallel diffusion to isotropic diffusion. Within the tested magnetic field configuration, the anisotropy of the diffusion tensor is close to the isotropic case, and three point sources within the CMZ are favored. Future missions such as the upcoming CTA will reveal more small-scale structures that are not yet included in the model. Therefore, a more detailed 3D gas distribution and magnetic field structure will be needed.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>[C ii] Emission in a Self-regulated Interstellar Medium</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2eac</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2eac</guid>
-<content:encoded><![CDATA[
-<div> [C ii] 157.74 μm, Interstellar medium, ISM, Hydrodynamical simulations, Star formation<br />
-<br />
-[C ii] 157.74 μm是远红外波段中最明亮和研究最充分的发射线之一，产生于星系星际介质(ISM)中。研究发现，[C ii]与H2的转换率与金属丰度呈弱相关，大部分[C ii]来自具有约n∼ 10 cm−3的原子气体。此外，[C ii]的强度与恒星形成速率(SFR)呈正相关，这与观测结果一致。因此，在金属贫穷的环境中，[C ii]是一种良好的SFR追踪器。解析密集(ISM)的多孔结构至关重要，因为它主导了[C ii] 157.74 μm的辐射。与光学薄极限相比，我们发现[C ii]线只有在我们假定的气体表面密度下的超太阳金属丰度时才会变得边缘光学厚。 <br /><br />总结: [C ii] 157.74 μm是星系星际介质中很重要的发射线，其特性与金属丰度相关，可用作SFR追踪器，对解析ISM的结构十分重要。 <div>
-The [C ii] 157.74 μm fine-structure transition is one of the brightest and most well-studied emission lines in the far-infrared, produced in the interstellar medium (ISM) of galaxies. We study its properties in subparsec-resolution hydrodynamical simulations for an ISM patch with gas surface density of Σg = 10 M⊙ pc−2, coupled with time-dependent chemistry, far-ultraviolet dust and gas shielding, star formation, photoionization and supernova feedback, and full line radiative transfer. We find a [C ii]-to-H2 conversion factor that scales weakly with metallicity , where is the normalized metallicity relative to solar. The majority of [C ii] originates from atomic gas with hydrogen number density n ∼ 10 cm−3. The [C ii] line intensity positively correlates with the star formation rate (SFR), with a normalization factor that scales linearly with metallicity. We find that this is broadly consistent with z ∼ 0 observations. As such, [C ii] is a good SFR tracer even in metal-poor environments where molecular lines might be undetectable. Resolving the clumpy structure of the dense (n = 10−103 cm−3) ISM is important, as it dominates [C ii] 157.74 μm emission. We compare our full radiative transfer computation with the optically thin limit and find that the [C ii] line becomes marginally optically thick only at supersolar metallicity for our assumed gas surface density.
-]]></content:encoded>
-<pubDate>2024-04-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Radiation Process in Relativistic MHD Waves: The Case of Circularly Polarized Alfvén Waves</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f9c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f9c</guid>
-<content:encoded><![CDATA[
-<div> 高磁等离子体湍流，相对论性湍流，电场影响，非热电子辐射，阿尔文波<br />
-<br />
-相对论性湍流中的湍流可以诱导出与背景磁场相当的电场，这种强电场会影响非热电子的辐射过程。研究表明，在相对论性的圆偏振阿尔文波中，电场会提升低能电子的平均能量，但由于其旋转轨道变长，导致了其辐射能力被抑制；而高能电子的轨迹则受到小尺度电场的影响，辐射能力增强。此外，阿尔文波中的能量注入形式可以产生凹形光子谱，这类似于伽玛暴光谱中观测到的GeV额外成分。如果湍流电场负责伽玛暴中的GeV额外成分，那么典型电子能量和磁场的估计值需做较大改变。 <br /><br />总结: 高磁等离子体湍流可以诱导出相对论性湍流，影响非热电子辐射过程；在相对论性圆偏振阿尔文波中，低能电子的辐射能力被抑制而高能电子的辐射能力增强；阿尔文波中的能量注入形式可以产生凹形光子谱，类似于伽玛暴光谱中观测到的GeV额外成分。 如果湍流电场负责伽玛暴中的GeV额外成分，那么典型电子能量和磁场的估计值需做较大改变。 <div>
-Turbulence in highly magnetized plasma can be relativistic and induce an electric field comparable to the background magnetic field. Such a strong electric field can affect the emission process of nonthermal electrons. As the first step toward elucidating the emission process in relativistic turbulence, we study the radiation process of electrons in relativistic circularly polarized Alfvén waves. While the induced electric field boosts the average energy of low-energy electrons with a Larmor radius smaller than the wavelength, the emissivity for such electrons is suppressed because of the elongated gyromotion trajectory. The trajectory of high-energy electrons is shaken by the small-scale electric field, which enhances the emissivity. Since the effective Lorentz factor of E × B drift is in the circularly polarized Alfvén waves, the deviation from the standard synchrotron emission is not so prominent. However, a power-law energy injection in the waves can produce a concave photon spectrum, which is similar to the GeV extra component seen in GRB spectra. If the turbulence electric field is responsible for the GeV extra component in GRBs, the estimates of the typical electron energy and magnetic field should be largely altered.
 ]]></content:encoded>
 <pubDate>2024-04-17T23:00:00Z</pubDate>
 </item>
