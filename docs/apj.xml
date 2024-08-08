@@ -4,6 +4,31 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Constraining the Selection-corrected Luminosity Function and Total Pulse Count for Radio Transients</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c5</guid>
+<content:encoded><![CDATA[
+<div> 关键词: RRATs, LuNfit, intrinsic luminosity distribution, Bayes ratio, pulsar nulling fractions
+总结:
+本研究介绍了一种名为LuNfit的新算法，旨在校正源自望远镜和检测管道的选择偏差，估计脉冲星发射的单脉冲固有光度分布和nulling fraction。LuNfit依赖于贝叶斯嵌套抽样，可以完全探索参数空间。研究还发现，传统方法通过“放大”未检测到的射电暂现现象的部分可能不可靠。最后，讨论了LuNfit目前的实施限制，同时深入探讨了潜在的增强措施，使LuNfit能够应用于具有复杂脉冲形态的源。 <div>
+Studying transient phenomena, such as individual pulses from pulsars, has garnered considerable attention in the era of astronomical big data. Of specific interest to this study are rotating radio transients (RRATs), nulling, and intermittent pulsars. This study introduces a new algorithm named LuNfit, tailored to correct the selection biases originating from the telescope and detection pipelines. Ultimately LuNfit estimates the intrinsic luminosity distribution and nulling fraction of the single pulses emitted by pulsars. LuNfit relies on Bayesian nested sampling so that the parameter space can be fully explored. Bayesian nested sampling also provides the additional benefit of simplifying model comparisons through the Bayes ratio. The robustness of LuNfit is shown through simulations and applying LuNfit onto pulsars with known nulling fractions. LuNfit is then applied to three RRATs, J0012+5431, J1538+1523, and J2355+1523, extracting their intrinsic luminosity distribution and burst rates. We find that their nulling fractions are 0.4(2), 0.749(5), and 0.995(2), respectively. We further find that a log-normal distribution likely describes the single pulse luminosity distribution of J0012+5431 and J1538+1523, while the Bayes ratio for J2355+1523 slightly favors an exponential distribution. We show the conventional method of correcting selection effects by “scaling up” the missed fraction of radio transients can be unreliable when the mean luminosity of the source is faint relative to the telescope sensitivity. Finally, we discuss the limitations of the current implementation of LuNfit while also delving into potential enhancements that would enable LuNfit to be applied to sources with complex pulse morphologies.
+]]></content:encoded>
+
+<pubDate>2024-08-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>APPLE: An Evolution Code for Modeling Giant Planets</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad57c3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad57c3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 苹果, 行星演化, 气态巨行星, 巨行星, 模型<br>
+总结: 苹果是一个专门设计用于研究气态巨行星和木星型行星演化的新型行星演化代码,其中包含了氢、氦、冰和岩石的最新状态方程，以及处理气态包层中的冰/岩石核和金属的高级功能；同时还包括液态氦沉淀和氢/氦不相溶的模型；详细的大气边界表，提供自洽的反照率和光谱；以及处理包层金属梯度和稳定分层区域的选项。我们希望苹果的这些特色可以帮助催生下一代的巨行星和木星型行星演化模型的发展。 <br> <div>
+We introduce APPLE, a novel planetary evolution code designed specifically for the study of giant exoplanet and Jovian planet evolution in the era of Galileo, Juno, and Cassini. With APPLE, state-of-the-art equations of state for hydrogen, helium, ice, and rock are integrated with advanced features to treat ice/rock cores and metals in the gaseous envelope; models for helium rain and hydrogen/helium immiscibility; detailed atmosphere boundary tables that also provide self-consistent albedos and spectra; and options to address envelope metal gradients and stably stratified regions. Our hope is that these purpose-built features of APPLE will help catalyze the development of the next generation of giant exoplanet and Jovian planet evolutionary models.
+]]></content:encoded>
+
+<pubDate>2024-08-07T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Possible Additional Formation Pathway for the Interstellar Diatomic SiS</title>
