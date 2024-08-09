@@ -4,6 +4,32 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>JWST-FEAST: Feedback in Emerging extrAgalactic Star clusTers: Calibration of Star Formation Rates in the Mid-infrared with NGC 628</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c0</guid>
+<content:encoded><![CDATA[
+<div> 关键词: JWST, NGC 628, 星形成率, 红外成像, 空间尺度
+总结:
+JWST-FEAST项目利用JWST近红外和中红外成像来校准星系NGC 628的21 μm发射作为星形成率的指标，同时使用Paα (1.8756 μm)氢再组合发射线作为参考星形成率指标。研究发现，21 μm发射与星云线发射密切相关，使用模型分析表明星形成在星系中分布不均匀，使用混合SFR指标需要先了解主导尘埃加热的恒星年龄的平均值，这使得它们的应用变得不确定。与此相反，仅使用L(24)的非线性SFR校准更加稳健，从H ii区到星系的整个L(24)亮度范围内的变化小于2.5倍。<br><br> <div>
+New JWST near-infrared imaging of the nearby galaxy NGC 628 from the JWST Cycle 1 program Feedback in Emerging extrAgalactic Star clusTers (JWST-FEAST) is combined with archival JWST mid-infrared imaging to calibrate the 21 μm emission as a star formation rate (SFR) indicator at ∼120 pc scales. The Paα (1.8756 μm) hydrogen recombination emission line targeted by FEAST provides a reference SFR indicator that is relatively insensitive to dust attenuation, as demonstrated by combining this tracer with Hubble Space Telescope Hα imaging. Our analysis is restricted to regions that appear compact in nebular line emission and are sufficiently bright to mitigate effects of both age and stochastic sampling of the stellar initial mass function. We find that the 21 μm emission closely correlates with the nebular line emission, with a power law with exponent = 1.07 ± 0.01, in agreement with past results. We calibrate a hybrid SFR indicator using a combination of Hα and 24 μm (extrapolated from 21 μm) tracers and derive the proportionality constant between the two tracers, b = 0.095 ± 0.007, which is ∼3–5 times larger than previous derivations using large regions/entire galaxies. We model these discrepancies as an increasing contribution to the dust heating by progressively older stellar populations for increasing spatial scale, in agreement with earlier findings that star formation is hierarchically distributed in galaxies. Thus, the use of hybrid SFR indicators requires prior knowledge of the mean age of the stellar populations dominating the dust heating, which makes their application uncertain. Conversely, nonlinear calibrations of SFRs from L(24) alone are more robust, with a factor ≲ 2.5 variation across the entire range of L(24) luminosities from H ii regions to galaxies.
+]]></content:encoded>
+
+<pubDate>2024-08-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Feedback in Emerging Extragalactic Star Clusters, FEAST: The Relation between 3.3 μm Polycyclic Aromatic Hydrocarbon Emission and Star Formation Rate Traced by Ionized Gas in NGC 628</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b4</guid>
+<content:encoded><![CDATA[
+<div> ionized gas, PAH emission, star formation rate, JWST/NIRCam, NGC 628
+<br><br>总结:
+这篇文章报告了利用JWST/NIRCam数据对NGC 628中离子化气体（用Paα和Brα追踪）、以及3.3μm多环芳烃（PAH）发射进行地图绘制的研究成果。研究探究并校准了3.3μm PAH发射和星形成率（SFR）之间的关系，发现在尺度约为40 pc的尺度下，3.3μm PAH光度面密度与由Brα追踪的SFR之间存在着密切的、次线性的关系。研究表明，关系的散布与局部星际介质金属丰度的变化不太相关，而可能是由于恒星初始质量函数（IMF）的随机采样和PAH加热、来源年龄的变化所致。研究结果经过各种连续谱减去技术的测试，并发现它们在导出的斜率和截距上仍然是稳健的，只有轻微差异。研究还发现氢再组合线（Paα与Brα；Hα与Brα）之间存在意外的差异。 <div>
+We present maps of ionized gas (traced by Paα and Brα) and 3.3 μm polycyclic aromatic hydrocarbon (PAH) emission in the nearby spiral galaxy NGC 628, derived from new JWST/NIRCam data from the Feedback in Emerging extrAgalactic Star clusTers (FEAST) survey. With this data, we investigate and calibrate the relation between 3.3 μm PAH emission and star formation rate (SFR) in and around emerging young star clusters (eYSCs) on a scale of ∼40 pc. We find a tight (correlation coefficient ρ ∼ 0.9) sublinear (power-law exponent α ∼ 0.75) relation between the 3.3 μm PAH luminosity surface density and SFR traced by Brα for compact, cospatial (within 0.″16 or ∼7 pc) peaks in Paα, Brα, and 3.3 μm (eYSC–I). The scatter in the relationship does not correlate well with variations in local interstellar medium metallicity, due to a radial metallicity gradient, but rather is likely due to stochastic sampling of the stellar initial mass function (IMF) and variations in the PAH heating and age of our sources. The deviation from a linear relation may be explained by PAH destruction in more intense ionizing environments, variations in age, and IMF stochasticity at intermediate to low luminosities. We test our results with various continuum subtraction techniques using combinations of NIRCam bands and find that they remain robust with only minor differences in the derived slope and intercept. An unexpected discrepancy is identified between the relations of hydrogen recombination lines (Paα versus Brα; Hα versus Brα).
+]]></content:encoded>
+
+<pubDate>2024-08-08T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Measuring the Conditional Luminosity and Stellar Mass Functions of Galaxies by Combining the Dark Energy Spectroscopic Instrument Legacy Imaging Surveys Data Release 9, Survey Validation 3, and Year 1 Data</title>
