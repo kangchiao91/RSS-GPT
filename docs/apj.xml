@@ -5,19 +5,31 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Circumstellar Interaction Signatures in the Low-luminosity Type II SN 2021gmj</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d55</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d55</guid>
+<content:encoded><![CDATA[
+<div> 光学观测, SN 2021gmj, 超新星, 红外线, 远距离
+
+SN 2021gmj是一颗低亮度的II型超新星，通过扩张光球方法确定了其距离，从尾部光谱曲线推导了放射性镍质量，提出了环绕星际物质的存在，并通过光谱特征和辐射动力学模拟发现了类似的低亮度II型超新星可能存在的高密度物质。总结: 该研究通过观测和模拟分析了低亮度II型超新星SN 2021gmj的光学特性和物理特征，推测了其距离、放射性镍质量和环绕星际物质的存在，为研究相似超新星提供了重要信息和参考。 <div>
+We present comprehensive optical observations of SN 2021gmj, a Type II supernova (SN II) discovered within a day of explosion by the Distance Less Than 40 Mpc survey. Follow-up observations show that SN 2021gmj is a low-luminosity SN II (LL SN II), with a peak magnitude MV = −15.45 and an Fe ii velocity of ∼1800 km s−1 at 50 days past explosion. Using the expanding photosphere method, we derive a distance of Mpc. From the tail of the light curve we obtain a radioactive nickel mass of = 0.014 ± 0.001 M⊙. The presence of circumstellar material (CSM) is suggested by the early-time light curve, early spectra, and high-velocity Hα in absorption. Analytical shock-cooling models of the light curve cannot reproduce the fast rise, supporting the idea that the early-time emission is partially powered by the interaction of the SN ejecta and CSM. The inferred low CSM mass of 0.025 M⊙ in our hydrodynamic-modeling light-curve analysis is also consistent with our spectroscopy. We observe a broad feature near 4600 Å, which may be high-ionization lines of C, N, or/and He ii. This feature is reproduced by radiation-hydrodynamic simulations of red supergiants with extended atmospheres. Several LL SNe II show similar spectral features, implying that high-density material around the progenitor may be common among them.
+]]></content:encoded>
+
+<pubDate>2024-08-12T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A New Field Line Tracer for the Study of Coronal Magnetic Topologies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55ca</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55ca</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 磁场线追踪, 太阳日冕, 万氏日冕速度模型, 磁场仿真, 太阳活动周期
 总结:
-研究介绍了一种用于太阳日冕磁场线追踪和相关数量计算的新代码——Universal Fieldline Tracer (UFiT)。该代码具有开放源代码，可以直接从四个已建立的日冕模型中获取输入，并计划在将来直接获取更多模型。该软件包含工具，可利用大规模三维磁场线图来计算容积数量，例如太阳日冕的总体积，或者映射到太阳表面附近某一距离的日冕空洞边界的部分比例。这对于太阳风速度的现象模型（如万氏日冕速度模型）可能是相关的。此外，该软件包还可以快速生成合成日冕观测图。研究者们后处理了长期磁力摩擦仿真结果，证明分离线网在太阳活动极大期间占据日冕的比例较太阳活动极小期间更大。<br><br> <div>
+研究介绍了一种用于太阳日冕磁场线追踪和相关数量计算的新代码——Universal Fieldline Tracer (UFiT)。该代码具有开放源代码，可以直接从四个已建立的日冕模型中获取输入，并计划在将来直接获取更多模型。该软件包含工具，可利用大规模三维磁场线图来计算容积数量，例如太阳日冕的总体积，或者映射到太阳表面附近某一距离的日冕空洞边界的部分比例。这对于太阳风速度的现象模型（如万氏日冕速度模型）可能是相关的。此外，该软件包还可以快速生成合成日冕观测图。研究者们后处理了长期磁力摩擦仿真结果，证明分离线网在太阳活动极大期间占据日冕的比例较太阳活动极小期间更大。<br /><br /> <div>
 We present a new code for the tracing of magnetic field lines and calculation of related quantities such as the squashing factor in the solar corona. The Universal Fieldline Tracer (UFiT) is an open-source package that can currently take inputs directly from four well-established coronal models, with additional models planned to be made directly accessible in the future. This package contains tools to make use of large-scale three-dimensional field line maps to calculate volumetric quantities, such as the total volume of the open corona, or the fraction that maps to regions on the solar surface within some distance of a coronal hole boundary, which may be relevant to phenomenological models of solar wind speed such as the Wang–Sheeley–Arge model. Synthetic coronagraphs can also be produced rapidly by this package. We have postprocessed long-term magnetofrictional simulations to demonstrate that the separatrix web occupies a larger fraction of the corona during solar maximum than solar minimum.
 ]]></content:encoded>
-
 <pubDate>2024-08-12T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Constraining the Abundance of Spinning Deformed Galactic Compact Objects with Continuous Gravitational Waves</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad583f</link>
@@ -11690,15 +11702,6 @@ To investigate the effects of stellar feedback on the gravitational state of gia
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3208</guid>
 <content:encoded><![CDATA[
 Galactic cosmic rays (GCRs) are charged particles that reach the heliosphere almost isotropically in a wide energy range. In the inner heliosphere, the GCR flux is modulated by solar activity so that only energetic GCRs reach the lower layers of the solar atmosphere. In this work, we propose that high-energy GCRs can be used to explore the solar magnetic fields at low coronal altitudes. We used GCR data collected by the High-Altitude Water Cherenkov observatory to construct maps of GCR flux coming from the Sun’s sky direction and studied the observed GCR deficit, known as Sun shadow (SS), over a 6 yr period (2016–2021) with a time cadence of 27.3 days. We confirm that the SS is correlated with sunspot number, but we focus on the relationship between the photospheric solar magnetic field measured at different heliolatitudes and the relative GCR deficit at different energies. We found a linear relationship between the relative deficit of GCRs represented by the depth of the SS and the solar magnetic field. This relationship is evident in the observed energy range of 2.5–226 TeV, but is strongest in the range of 12.4 33.4 TeV, which implies that this is the best energy range to study the evolution of magnetic fields in the low solar atmosphere.
-]]></content:encoded>
-<pubDate>2024-04-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing the Stellar Populations and Star Formation History of Early-type Galaxies at 0 < z < 1.1 in the Rest-frame Ultraviolet</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3209</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3209</guid>
-<content:encoded><![CDATA[
-We measure the evolution of the rest-frame near-ultraviolet (NUV)−V colors for early-type galaxies in clusters at 0 < z < 1.1 using data from the Hyper Suprime-Cam Subaru Strategic Program, CFHT Large Area U-band Deep Survey, and local Sloan Digital Sky Survey clusters observed with Galaxy Evolution Explorer. Our results show that there is an excess in the ultraviolet spectrum in most quiescent galaxies (compared to the expectations from models fitting their optical/infrared colors and spectra) below z ∼ 0.6, beyond which the excess UV emission fades rapidly. This evolution of the UV color is only consistent with the presence of a highly evolved, hot horizontal branch subpopulation in these galaxies (among the majority of cool and optically bright stars), comprising on average 10% of the total stellar mass and forming at z > 3. The blue UV colors of early-type galaxies at low–intermediate redshifts are likely driven by this subpopulation being enriched in helium up to ∼44%. At z > 0.8 (when the extra UV component has not yet appeared) the data allow us to constrain the star formation histories of galaxies by fitting models to the evolution of their UV colors: we find that the epoch at which the stellar populations formed lies in the range 3 < zform < 10 (corresponding to 0.5–2.2 Gyr after the Big Bang) with a star formation e-folding timescale of τ = 0.35–0.7 Gyr, suggesting that these galaxies formed the majority of stars at very high redshift, with a brief yet intense burst of star formation activity. The star formation history and chemical evolution of early-type galaxies resemble those of globular clusters, albeit on much larger scales.
 ]]></content:encoded>
 <pubDate>2024-04-24T23:00:00Z</pubDate>
 </item>
