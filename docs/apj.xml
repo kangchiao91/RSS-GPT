@@ -5,19 +5,31 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>A New Field Line Tracer for the Study of Coronal Magnetic Topologies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55ca</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55ca</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 磁场线追踪, 太阳日冕, 万氏日冕速度模型, 磁场仿真, 太阳活动周期
+总结:
+研究介绍了一种用于太阳日冕磁场线追踪和相关数量计算的新代码——Universal Fieldline Tracer (UFiT)。该代码具有开放源代码，可以直接从四个已建立的日冕模型中获取输入，并计划在将来直接获取更多模型。该软件包含工具，可利用大规模三维磁场线图来计算容积数量，例如太阳日冕的总体积，或者映射到太阳表面附近某一距离的日冕空洞边界的部分比例。这对于太阳风速度的现象模型（如万氏日冕速度模型）可能是相关的。此外，该软件包还可以快速生成合成日冕观测图。研究者们后处理了长期磁力摩擦仿真结果，证明分离线网在太阳活动极大期间占据日冕的比例较太阳活动极小期间更大。<br><br> <div>
+We present a new code for the tracing of magnetic field lines and calculation of related quantities such as the squashing factor in the solar corona. The Universal Fieldline Tracer (UFiT) is an open-source package that can currently take inputs directly from four well-established coronal models, with additional models planned to be made directly accessible in the future. This package contains tools to make use of large-scale three-dimensional field line maps to calculate volumetric quantities, such as the total volume of the open corona, or the fraction that maps to regions on the solar surface within some distance of a coronal hole boundary, which may be relevant to phenomenological models of solar wind speed such as the Wang–Sheeley–Arge model. Synthetic coronagraphs can also be produced rapidly by this package. We have postprocessed long-term magnetofrictional simulations to demonstrate that the separatrix web occupies a larger fraction of the corona during solar maximum than solar minimum.
+]]></content:encoded>
+
+<pubDate>2024-08-12T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Constraining the Abundance of Spinning Deformed Galactic Compact Objects with Continuous Gravitational Waves</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad583f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad583f</guid>
 <content:encoded><![CDATA[
 <div> 连续引力波，紧凑天体，非椭圆形，贝叶斯框架，银河系
 
-内容概要：这篇文章讨论了银河系中可能存在的具有非零椭圆度的紧凑天体（COs）产生连续引力波的可能性。作者使用贝叶斯框架对高度变形的银河系eCOs的总数量Ntot进行了限制。他们将约束分为两类：一种是基于CGW频率和椭圆度网格的“不可知”上限，另一种是基于频率分布先验信息的上限。研究发现，椭圆度ϵ≳10−5的COs在90%置信度下的数量上限为，而ϵ≳10−6的COs的数量上限为。此外，作者还根据不同丰度Ntot的空间分布选择，给出了银河系COs的椭度上限。 <br><br>总结: 本研究讨论了银河系中产生连续引力波的紧凑天体可能性，使用贝叶斯框架对其数量进行了限制。作者发现对于椭圆度大于10^-5的天体的数量限制，以及椭圆度大于10^-6的天体的数量限制，并根据空间分布选择给出了银河系COs的椭度上限。 <div>
+内容概要：这篇文章讨论了银河系中可能存在的具有非零椭圆度的紧凑天体（COs）产生连续引力波的可能性。作者使用贝叶斯框架对高度变形的银河系eCOs的总数量Ntot进行了限制。他们将约束分为两类：一种是基于CGW频率和椭圆度网格的“不可知”上限，另一种是基于频率分布先验信息的上限。研究发现，椭圆度ϵ≳10−5的COs在90%置信度下的数量上限为，而ϵ≳10−6的COs的数量上限为。此外，作者还根据不同丰度Ntot的空间分布选择，给出了银河系COs的椭度上限。 <br /><br />总结: 本研究讨论了银河系中产生连续引力波的紧凑天体可能性，使用贝叶斯框架对其数量进行了限制。作者发现对于椭圆度大于10^-5的天体的数量限制，以及椭圆度大于10^-6的天体的数量限制，并根据空间分布选择给出了银河系COs的椭度上限。 <div>
 Galactic spinning compact objects (COs) with nonzero ellipticity are expected to be sources of continuous gravitational waves (CGWs). Certain classes of hypothetical COs, such as neutron stars with quark cores (hybrid stars) and quark stars, are thought to be capable of sustaining large ellipticities from theoretical considerations. Such exotic COs (eCOs) with large ellipticities and spins should produce CGWs detectable by the current LIGO-Virgo-KAGRA GW detector network. Since no detections for CGWs from searches in LIGO-Virgo data have so far been reported, we place constraints on the abundance of highly elliptical, rapidly spinning eCOs in our Galaxy. We formulate a Bayesian framework to place upper limits on the number count Ntot of highly deformed Galactic eCOs. We divide our constraints into two classes: an “agnostic” set of upper limits on Ntot evaluated on a CGW frequency and ellipticity grid that depend only on the choice of spatial distribution of COs; and a model-dependent set that additionally assumes prior information on the distribution of frequencies. We find that COs with ellipticities ϵ ≳ 10−5 have abundance upper limits at 90% confidence, of , and those with ϵ ≳ 10−6 have . We additionally place upper limits on the ellipticity of Galactic COs informed by our choices of spatial distributions, given different abundances Ntot.
 ]]></content:encoded>
-
 <pubDate>2024-08-12T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>DAVOS: Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds: Properties of Variability-selected Active Galactic Nuclei in the COSMOS Field and Expectations for the Rubin Observatory</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54ca</link>
@@ -11687,15 +11699,6 @@ Galactic cosmic rays (GCRs) are charged particles that reach the heliosphere alm
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3209</guid>
 <content:encoded><![CDATA[
 We measure the evolution of the rest-frame near-ultraviolet (NUV)−V colors for early-type galaxies in clusters at 0 < z < 1.1 using data from the Hyper Suprime-Cam Subaru Strategic Program, CFHT Large Area U-band Deep Survey, and local Sloan Digital Sky Survey clusters observed with Galaxy Evolution Explorer. Our results show that there is an excess in the ultraviolet spectrum in most quiescent galaxies (compared to the expectations from models fitting their optical/infrared colors and spectra) below z ∼ 0.6, beyond which the excess UV emission fades rapidly. This evolution of the UV color is only consistent with the presence of a highly evolved, hot horizontal branch subpopulation in these galaxies (among the majority of cool and optically bright stars), comprising on average 10% of the total stellar mass and forming at z > 3. The blue UV colors of early-type galaxies at low–intermediate redshifts are likely driven by this subpopulation being enriched in helium up to ∼44%. At z > 0.8 (when the extra UV component has not yet appeared) the data allow us to constrain the star formation histories of galaxies by fitting models to the evolution of their UV colors: we find that the epoch at which the stellar populations formed lies in the range 3 < zform < 10 (corresponding to 0.5–2.2 Gyr after the Big Bang) with a star formation e-folding timescale of τ = 0.35–0.7 Gyr, suggesting that these galaxies formed the majority of stars at very high redshift, with a brief yet intense burst of star formation activity. The star formation history and chemical evolution of early-type galaxies resemble those of globular clusters, albeit on much larger scales.
-]]></content:encoded>
-<pubDate>2024-04-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3249</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3249</guid>
-<content:encoded><![CDATA[
-Galaxy cluster mergers that exhibit clear dissociation between their dark matter, intracluster gas, and stellar components are great laboratories for probing dark matter properties. Mergers that are binary and in the plane of the sky have the additional advantage of being simpler to model, allowing for a better understanding of the merger dynamics. We report the discovery of a galaxy cluster merger with all these characteristics and present a multiwavelength analysis of the system, which was found via a search in the redMaPPer optical cluster catalog. We perform a galaxy redshift survey to confirm the two subclusters are at the same redshift (0.541, with 368 ± 519 km s−1 line-of-sight velocity difference between them). The X-ray morphology shows two surface brightness peaks between the brightest cluster galaxies (BCGs). We construct weak-lensing mass maps that reveal a mass peak associated with each subcluster. Fitting Navarro–Frenk–White profiles to the lensing data, we find masses of M200c = 36 ± 11 × 1013 and 38 ± 11 × 1013M⊙h−1 for the southern and northern subclusters, respectively. From the mass maps, we infer that the two mass peaks are separated by kpc along the merger axis, whereas the two BCGs are separated by 697 kpc. We also present deep GMRT 650 MHz data to search for a radio relic or halo and find none. Using the observed merger parameters, we find analog systems in cosmological n-body simulations and infer that this system is observed between 96 and 236 Myr after pericenter, with the merger axis within 28° of the plane of the sky.
 ]]></content:encoded>
 <pubDate>2024-04-24T23:00:00Z</pubDate>
 </item>
