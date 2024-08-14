@@ -4,6 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>C3NN: Cosmological Correlator Convolutional Neural Network an Interpretable Machine-learning Framework for Cosmological Analyses</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad582e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad582e</guid>
+<content:encoded><![CDATA[
+<div> CNN, large-scale structure, machine learning, cosmological parameter inference, N-point correlation functions
+
+总结:<br><br>这篇文章介绍了一个新的机器学习应用——宇宙学相关卷积神经网络（C3NN），它结合了CNN架构和宇宙学N点相关函数（NPCFs）。作者指出很多基于CNN的模型被批评为“黑匣子”，因为很难直观和定量地将它们的输出与研究中的宇宙学领域联系起来。他们展示了C3NN的输出可以明确地用可分析的NPCFs表示。此外，他们还表明了C3NN在分类任务中能够定量地对不同阶的可解释输出进行排名。通过应用到高斯和对数正态随机场的二元分类任务以及利用N体模拟的弱引力透镜收敛图来区分不同的暗能量场景，作者展示了C3NN将机器学习架构的先进方面与宇宙学NPCFs的框架结合在一起，从而成为从观测数据中提取稳健和可解释的物理洞见的激动人心的工具。 <div>
+Modern cosmological research in large-scale structure has witnessed an increasing number of machine-learning applications. Among them, convolutional neural networks (CNNs) have received substantial attention due to their outstanding performance in image classification, cosmological parameter inference, and various other tasks. However, many models based on CNNs are criticized as "black boxes" due to the difficulties in relating their outputs intuitively and quantitatively to the cosmological fields under investigation. To overcome this challenge, we present the Cosmological Correlator Convolutional Neural Network (C3NN)—a fusion of CNN architecture and cosmological N-point correlation functions (NPCFs). We demonstrate that its output can be expressed explicitly in terms of the analytically tractable NPCFs. Together with other auxiliary algorithms, we can open the "black box" by quantitatively ranking different orders of the interpretable outputs based on their contribution to classification tasks. As a proof of concept, we demonstrate this by applying our framework to a series of binary classification tasks using Gaussian and log-normal random fields and relating its outputs to the NPCFs describing the two fields. Furthermore, we exhibit the model's ability to distinguish different dark energy scenarios (w0 = −0.95 and −1.05) using N-body simulated weak-lensing convergence maps and discuss the physical implications coming from their interpretability. With these tests, we show that C3NN combines advanced aspects of machine learning architectures with the framework of cosmological NPCFs, thereby making it an exciting tool to extract physical insights in a robust and explainable way from observational data.
+]]></content:encoded>
+
+<pubDate>2024-08-13T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Wind-line Variability and Intrinsic Errors in Observational Mass-loss Rates</title>
