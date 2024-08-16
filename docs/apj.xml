@@ -5,17 +5,30 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Fraction of Dust Mass in the Form of Polycyclic Aromatic Hydrocarbons on 10–50 pc Scales in Nearby Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bd</guid>
+<content:encoded><![CDATA[
+<div> PHANGS survey, PAH fraction, JWST, interstellar medium, MIRI filters
+<br><br>总结:
+研究使用JWST的MIR观测19个邻近星系，发现PAH的分数在H ii区域急剧下降，显示了这些小颗粒在电离气体区域的破坏。而在H ii区域之外，PHANGS样本中的RPAH呈均匀分布，平均值为3.43 ± 0.98，对应于照射辐射强度为太阳邻域的2-5倍，PAH的值为3%-6%。 <div>
+Polycyclic aromatic hydrocarbons (PAHs) are a ubiquitous component of the interstellar medium (ISM) in z ∼ 0 massive, star-forming galaxies and play key roles in ISM energy balance, chemistry, and shielding. Wide field-of-view, high-resolution mid-infrared (MIR) images from JWST provide the ability to map the fraction of dust in the form of PAHs and the properties of these key dust grains at 10–50 pc resolution in galaxies outside the Local Group. We use MIR JWST photometric observations of a sample of 19 nearby galaxies from the Physics at High Angular Resolution in Nearby GalaxieS (PHANGS) survey to investigate the variations of the PAH fraction. By comparison to lower-resolution far-infrared mapping, we show that a combination of the MIRI filters (RPAH = [F770W+F1130W]/F2100W) traces the fraction of dust by mass in the form of PAHs (i.e., the PAH fraction, or qPAH). Mapping RPAH across the 19 PHANGS galaxies, we find that the PAH fraction steeply decreases in H ii regions, revealing the destruction of these small grains in regions of ionized gas. Outside H ii regions, we find RPAH is constant across the PHANGS sample with an average value of 3.43 ± 0.98, which, for an illuminating radiation field of intensity 2–5 times that of the radiation field in the solar neighborhood, corresponds to qPAH values of 3%–6%.
+]]></content:encoded>
+
+<pubDate>2024-08-15T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A Multiwavelength Machine-learning Approach to Classifying X-Ray Sources in the Fields of Unidentified 4FGL-DR4 Sources</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad543e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad543e</guid>
 <content:encoded><![CDATA[
 <div> Fermi-LAT, 机器学习, X射线, 天体物理, Chandra Source Catalog 2.0
-<br>
+<br />
 在第四版Fermi-LAT 14年目录中，大部分的射电源仍未被识别。研究人员通过改进机器学习管道，成功对1206个具有信噪比大于3的X射线源进行分类，并在光学上对73个未被识别的Fermi-LAT 14年目录中的源进行了分类。他们对X射线源进行了八种天体物理类别的分类。作者还提出了未来的观测策略和管道改进，以实现更准确的分类。研究人员在光学数据中确定了42个GeV源的103个可靠X射线对应物。他们还发现2个GeV源可能是孤立的中子星候选体，16个可能是活跃星系核候选体，七个与星系的形成区相关，还有八个模糊的案例。最后，他们提出了管道的进一步改进以及可能导致更准确分类的观测策略。 
-<br><br>总结: <div>
+<br /><br />总结: <div>
 A large fraction of Fermi-Large Area Telescope (LAT) sources in the fourth Fermi-LAT 14 yr catalog (4FGL) still remain unidentified (unIDed). We continued to improve our machine-learning pipeline and used it to classify 1206 X-ray sources with signal-to-noise ratios >3 located within the extent of 73 unIDed 4FGL sources with Chandra X-ray Observatory observations included in the Chandra Source Catalog 2.0. Recent improvements to our pipeline include astrometric corrections, probabilistic cross-matching to lower-frequency counterparts, and a more realistic oversampling method. X-ray sources are classified into eight broad predetermined astrophysical classes defined in the updated training data set, which we also release. We present details of the machine-learning classification, describe the pipeline improvements, and perform an additional spectral and variability analysis for brighter sources. The classifications give 103 plausible X-ray counterparts to 42 GeV sources. We identify 2 GeV sources as isolated neutron star candidates, 16 as active galactic nucleus candidates, seven as sources associated with star-forming regions, and eight as ambiguous cases. For the remaining 40 unIDed 4FGL sources, we could not identify any plausible counterpart in X-rays, or they are too close to the Galactic Center. Finally, we outline the observational strategies and further improvements in the pipeline that can lead to more accurate classifications.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +37,9 @@ A large fraction of Fermi-Large Area Telescope (LAT) sources in the fourth Fermi
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bc</guid>
 <content:encoded><![CDATA[
 <div> 关键词: Solar Orbiter, turbulence, wave packets, coherent structures, PDFs
-总结:<br><br>这篇文章总结了Solar Orbiter（SO）任务的观测结果，研究了太阳风湍流的演变过程。通过对九个均匀湍流的扩展时间段的观测分析，确定了磁场涨落的波包和相干结构的特征。研究使用了两种小波进行分解，分别是能够解析波包和不连续性的Daubechies 10（Db10）和Haar小波。结果显示，在小尺度上，湍流涨落的概率分布函数（PDFs）呈现出伸展的尾部，在级联的外尺度处变为高斯分布。对小波涨落的PDFs进行直方图和Q-Q图比较，揭示了三个不同的行为阶段。研究还发现了在惯性范围和动能范围内，小波涨落的PDFs存在差异，并确定了波包和相干结构的物理特性在不同尺度范围内发生了交叉。这些结果为认识湍流级联过程中的不同物理机制提供了新的见解。 <div>
+总结:<br /><br />这篇文章总结了Solar Orbiter（SO）任务的观测结果，研究了太阳风湍流的演变过程。通过对九个均匀湍流的扩展时间段的观测分析，确定了磁场涨落的波包和相干结构的特征。研究使用了两种小波进行分解，分别是能够解析波包和不连续性的Daubechies 10（Db10）和Haar小波。结果显示，在小尺度上，湍流涨落的概率分布函数（PDFs）呈现出伸展的尾部，在级联的外尺度处变为高斯分布。对小波涨落的PDFs进行直方图和Q-Q图比较，揭示了三个不同的行为阶段。研究还发现了在惯性范围和动能范围内，小波涨落的PDFs存在差异，并确定了波包和相干结构的物理特性在不同尺度范围内发生了交叉。这些结果为认识湍流级联过程中的不同物理机制提供了新的见解。 <div>
 The Solar Orbiter (SO) mission provides the opportunity to study the evolution of solar wind turbulence. We use SO observations of nine extended intervals of homogeneous turbulence to determine when turbulent magnetic field fluctuations may be characterized as: (i) wave packets and (ii) coherent structures (CSs). We perform the first systematic scale-by-scale decomposition of the magnetic field using two wavelets known to resolve wave packets and discontinuities, the Daubechies 10 (Db10) and Haar, respectively. The probability distribution functions (PDFs) of turbulent fluctuations on small scales exhibit stretched tails, becoming Gaussian at the outer scale of the cascade. Using quantile–quantile plots, we directly compare the wavelet fluctuations PDFs, revealing three distinct regimes of behavior. Deep within the inertial range (IR) both decompositions give essentially the same fluctuation PDFs. Deep within the kinetic range (KR) the PDFs are distinct as the Haar decompositions have larger variance and more extended tails. On intermediate scales, spanning the IR–KR break, the PDF is composed of two populations: a core of common functional form containing ∼97% of fluctuations, and tails that are more extended for the Haar decompositions than the Db10 decompositions. This establishes a crossover between wave-packet (core) and CS (tail) phenomenology in the IR and KR, respectively. The range of scales where the PDFs are two-component is narrow at 0.9 au (4–16 s) and broader (0.5–8 s) at 0.4 au. As CS and wave–wave interactions are both candidates to mediate the turbulent cascade, these results offer new insights into the distinct physics of the IR and KR.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -35,12 +47,11 @@ The Solar Orbiter (SO) mission provides the opportunity to study the evolution o
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c4</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 太阳风等离子体, 威斯勒波, 太阳探测器, 太阳辐射, 磁场波动<br>
-<br>
-总结:<br>本研究利用帕克太阳探测器(FIELDS)仪器持续采集的谱数据，确定了威斯勒波的传播方向，并验证了技术的准确性。研究发现在25到35太阳半径范围内增强的威斯勒波主要是由于朝向太阳传播的波与磁场波动相关的磁场减小有关。在30到40太阳半径之间观察到逆向传播的情况，而在40到50太阳半径之间，朝向太阳和逆向传播的威斯勒波出现率相当。50太阳半径以上几乎没有观察到向太阳或逆向传播的威斯勒波。这些发现有助于更好地了解太阳风等离子体中威斯勒波的性质和行为。 <div>
+<div> 关键词: 太阳风等离子体, 威斯勒波, 太阳探测器, 太阳辐射, 磁场波动<br />
+<br />
+总结:<br />本研究利用帕克太阳探测器(FIELDS)仪器持续采集的谱数据，确定了威斯勒波的传播方向，并验证了技术的准确性。研究发现在25到35太阳半径范围内增强的威斯勒波主要是由于朝向太阳传播的波与磁场波动相关的磁场减小有关。在30到40太阳半径之间观察到逆向传播的情况，而在40到50太阳半径之间，朝向太阳和逆向传播的威斯勒波出现率相当。50太阳半径以上几乎没有观察到向太阳或逆向传播的威斯勒波。这些发现有助于更好地了解太阳风等离子体中威斯勒波的性质和行为。 <div>
 In the interplanetary space solar wind plasma, whistler waves are observed in a wide range of heliocentric distances (from ∼20 solar radii (RS) to Jupiter’s orbit). They are known to interact with solar wind suprathermal electrons (strahl and halo) and to regulate the solar wind heat flux through scattering the strahl electrons. We present the results of applying the technique to determine the whistler wave propagation directions to the spectral data continuously collected by the FIELDS instruments on board Parker Solar Probe (PSP). The technique was validated based on the results obtained from burst mode magnetic and electric field waveform data collected during Encounter 1. We estimated the effective length of the PSP electric field antennas for a variety of solar wind conditions in the whistler wave frequency range and utilized these estimates for determining the whistler wave properties during PSP Encounters 1–11. Our findings show that (1) the enhancement of the whistler wave occurrence rate and wave amplitudes observed between 25 and 35 RS is predominantly due to the sunward-propagating whistler wave population associated with the switchback-related magnetic dips; (2) the antisunward or counterpropagating cases are observed at 30–40 RS; (3) between 40 and 50 RS, sunward and antisunward whistlers are observed with comparable occurrence rates; and (4) almost no sunward or counterpropagating whistlers were observed at heliocentric distances above 50 RS.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,10 +61,9 @@ In the interplanetary space solar wind plasma, whistler waves are observed in a 
 <content:encoded><![CDATA[
 <div> 关键词: CO emission, αCO, Atacama Large Millimeter/submillimeter Array, Antennae, GMC
 
-总结: CO排放已被广泛用作分子气体质量的示踪剂。文章通过Atacama Large Millimeter/submillimeter Array的观测数据，首次展示了对星暴星系中αCO建模结果的研究。研究发现，在Antennae星暴星系中，GMCs的αCO值约为普遍采用的银河系值的四分之一。此外，13CO/CO线比和GMC速度离散度可以用来推断星暴区域的αCO。研究还表明，Antennae星暴星系中的GMCs比普通螺旋星系中的GMCs更少地受到引力束缚。在千秒差距尺度上，建模出的αCO值比GMC尺度上的值小40％，这可能是由于包含了具有较低αCO值的弥散气体组分。对于千秒差距尺度上的αCO和CO强度之间存在着类似的相关性。<br><br> <div>
+总结: CO排放已被广泛用作分子气体质量的示踪剂。文章通过Atacama Large Millimeter/submillimeter Array的观测数据，首次展示了对星暴星系中αCO建模结果的研究。研究发现，在Antennae星暴星系中，GMCs的αCO值约为普遍采用的银河系值的四分之一。此外，13CO/CO线比和GMC速度离散度可以用来推断星暴区域的αCO。研究还表明，Antennae星暴星系中的GMCs比普通螺旋星系中的GMCs更少地受到引力束缚。在千秒差距尺度上，建模出的αCO值比GMC尺度上的值小40％，这可能是由于包含了具有较低αCO值的弥散气体组分。对于千秒差距尺度上的αCO和CO强度之间存在着类似的相关性。<br /><br /> <div>
 CO emission has been widely used as a tracer of molecular gas mass. However, it is a long-standing issue to accurately constrain the CO-to-H2 conversion factor (αCO) that converts CO luminosity to molecular gas mass, especially in starburst galaxies. We present the first resolved αCO modeling results with multiple Atacama Large Millimeter/submillimeter Array CO and 13CO transition observations at both giant molecular cloud (GMC) scale at 150 pc and kiloparsec scale for one of the closest starburst mergers, the Antennae. By combining our CO modeling results and measurements of 350 GHz dust continuum, we find that most GMCs in the Antennae have αCO values approximately four times smaller than the commonly adopted Milky Way value (4.3). We find that αCO at GMC scales shows a strong dependence on CO intensity, 13CO/CO ratio, and GMC velocity dispersion, which is consistent with various theoretical and simulation predictions. Specifically, we suggest that the 13CO/CO line ratio and the velocity dispersion can be used to infer αCO in starburst regions. By applying our modeled αCO in GMC analyses, we find that GMCs in the Antennae are less gravitationally bound than in normal spiral galaxies, which is more consistent with what is predicted by merger simulations. At kiloparsec scale, we find that our modeled αCO values are smaller than the modeled αCO at GMC scale by 40%, which can be due to inclusion of a diffuse gas component with lower αCO values. We find a similar correlation of αCO and CO intensity at kiloparsec scales to that at GMC scales.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,12 +71,11 @@ CO emission has been widely used as a tracer of molecular gas mass. However, it 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58d4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58d4</guid>
 <content:encoded><![CDATA[
-<div> tREXS, suborbital, X射线, 分光仪, 光谱发射<br>
-总结:<br>
+<div> tREXS, suborbital, X射线, 分光仪, 光谱发射<br />
+总结:<br />
 tREXS是一系列用于收集软X射线天文源光谱发射的亚轨道火箭有效载荷。分光仪利用机械束形成模块和反射光栅 passively 聚焦和分散入射X射线，并对其进行分析。设计达到适度的光谱分辨率，并对软X射线波段的关键离子种类进行灵敏度分析。 通过模拟对天鹅座环超新星遗迹和软X射线背景中的一些区域的观测，讨论其重要性和预期性能。 <div>
 The Rockets for Extended-source X-ray Spectroscopy (tREXS) are a series of suborbital rocket payloads designed to collect spectral emission from extended astronomical sources of soft X-rays. The tREXS spectrograph uses mechanical beam-shaping modules and reflection gratings to passively focus and then disperse incident X-rays to an array of Teledyne/e2v CIS 113 CMOS X-ray sensors. Designed to achieve a moderate spectral resolution, R ⪆ 50, from ≈15 to 40 Å over a large field of view (>10 deg2), the tREXS instrument is sensitive to line emission from key ion species over the soft-X-ray band. Here we present the complete end-to-end design of the tREXS spectrograph and discuss its significance and expected performance, using simulated observations of the Cygnus Loop supernova remnant and an enhanced region in the soft X-ray background.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -76,10 +85,9 @@ The Rockets for Extended-source X-ray Spectroscopy (tREXS) are a series of subor
 <content:encoded><![CDATA[
 <div> 关键词: 银河系, 恒星年龄, 星周围, 化学元素, 运动轨道
 总结: 
-本文报告了对120颗高径向轨道的亚巨星星周围恒星的发表年龄，这些星星可能属于盖亚-恒河/香肠(GES)星系的残骸。这些星系中大部分恒星年龄较老，中位数为11.6亿年，16分位数为10.5亿年和84分位数为12.7亿年。然而，分布呈偏态，存在一些年龄较轻的星星，它们的年龄范围在6-9亿年左右。所有高径向轨道的星周围恒星具有与GES残骸相关的化学和运动/轨道特性。初步结果表明，这些中间年龄的星星并非来自质量转移和/或恒星并合，这可能会降低它们的年龄确定。如果未来的光谱光度学研究证实了这一结论，那么这些星星的存在将对限制GES并购的性质和银河系的吸积历史构成重要挑战。 <br><br> <div>
+本文报告了对120颗高径向轨道的亚巨星星周围恒星的发表年龄，这些星星可能属于盖亚-恒河/香肠(GES)星系的残骸。这些星系中大部分恒星年龄较老，中位数为11.6亿年，16分位数为10.5亿年和84分位数为12.7亿年。然而，分布呈偏态，存在一些年龄较轻的星星，它们的年龄范围在6-9亿年左右。所有高径向轨道的星周围恒星具有与GES残骸相关的化学和运动/轨道特性。初步结果表明，这些中间年龄的星星并非来自质量转移和/或恒星并合，这可能会降低它们的年龄确定。如果未来的光谱光度学研究证实了这一结论，那么这些星星的存在将对限制GES并购的性质和银河系的吸积历史构成重要挑战。 <br /><br /> <div>
 Reconstructing the mass assembly history of the Milky Way relies on obtaining detailed measurements of the properties of many stars in the galaxy, especially in the stellar halo. One of the most constraining quantities is stellar age, as it can shed light on the accretion time and quenching of star formation in merging satellites. However, obtaining reliable age estimates for large samples of halo stars is difficult. We report published ages of 120 subgiant halo stars with highly radial orbits that likely belong to the debris of the Gaia-Enceladus/Sausage (GES) galaxy. The majority of these halo stars are old, with an age distribution characterized by a median of 11.6 Gyr and a 16th (84th) percentile of 10.5 (12.7) Gyr. However, the distribution is skewed, with a tail of younger stars that span ages down to ∼6–9 Gyr. All highly radial halo stars have chemical and kinematic/orbital quantities that associate them with the GES debris. Initial results suggest that these intermediate-age stars are not a product of mass transfer and/or stellar mergers, which can bias their age determination low. If this conclusion is upheld by upcoming spectrophotometric studies, then the presence of these stars will pose an important challenge for constraining the properties of the GES merger and the accretion history of the galaxy.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -89,10 +97,9 @@ Reconstructing the mass assembly history of the Milky Way relies on obtaining de
 <content:encoded><![CDATA[
 <div> 星系密度；恒星质量函数；过密环境；Elentári proto-supercluster；融合率
 
-总结：<br><br>本研究分析了在COSMOS领域中，恒星质量函数（SMF）随恒星质量的数量密度变化，比较了过密环境和同期场域中的SMF。研究区域包括Elentári proto-supercluster，其中包含六个延伸的过密区域，每边约70 cMpc。研究发现，过密区域的高质量星系相对于低质量星系的比例增加，表明在过密环境中恒星质量的积累速度较快。尽管过密区域和场域在z∼3.3时的SMF存在差异，但这一结果与对z∼1时的星系团的分析是一致的，表明过密环境可能通过增加融合率来促进成员星系的演化。然而，是否这种增进是在原生星系团环境中开始，甚至更早的群环境中开始，仍不清楚。研究发现，过密环境与场域之间测得的静止星系比例差异不大，暗示这种恒星质量的增进是持续进行的，并且由融合活动引发的星暴尚未熄灭。需要更多良好表征的过密区域样本才能得出更广泛的结论。 <div>
+总结：<br /><br />本研究分析了在COSMOS领域中，恒星质量函数（SMF）随恒星质量的数量密度变化，比较了过密环境和同期场域中的SMF。研究区域包括Elentári proto-supercluster，其中包含六个延伸的过密区域，每边约70 cMpc。研究发现，过密区域的高质量星系相对于低质量星系的比例增加，表明在过密环境中恒星质量的积累速度较快。尽管过密区域和场域在z∼3.3时的SMF存在差异，但这一结果与对z∼1时的星系团的分析是一致的，表明过密环境可能通过增加融合率来促进成员星系的演化。然而，是否这种增进是在原生星系团环境中开始，甚至更早的群环境中开始，仍不清楚。研究发现，过密环境与场域之间测得的静止星系比例差异不大，暗示这种恒星质量的增进是持续进行的，并且由融合活动引发的星暴尚未熄灭。需要更多良好表征的过密区域样本才能得出更广泛的结论。 <div>
 We present an analysis of the number density of galaxies as a function of stellar mass (i.e., the stellar mass function (SMF)) in the COSMOS field at z ∼ 3.3, making a comparison between the SMF in overdense environments and the SMF in the coeval field. In particular, this region contains the Elentári proto-supercluster, a system of six extended overdensities spanning ∼70 cMpc on a side. A clear difference is seen in the high-mass slope of these SMFs, with overdense regions showing an increase in the ratio of high-mass galaxies to low-mass galaxies relative to the field, indicating a more rapid buildup of stellar mass in overdense environments. This result qualitatively agrees with analyses of clusters at z ∼ 1, though the differences between protocluster and field SMFs at z ∼ 3.3 are smaller. While this is consistent with overdensities enhancing the evolution of their member galaxies, potentially through increased merger rates, whether this enhancement begins in protocluster environments or even earlier in group environments is still unclear. Though the measured fractions of quiescent galaxies between the field and overdense environments do not vary significantly, implying that this stellar mass enhancement is ongoing and any starbursts triggered by merger activity have not yet quenched, we note that spectroscopic observations are biased toward star-forming populations, particularly for low-mass galaxies. If mergers are indeed responsible, high-resolution imaging of Elentári and similar structures at these early epochs should then reveal increased merger rates relative to the field. Larger samples of well-characterized overdensities are necessary to draw broader conclusions in these areas.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -100,11 +107,10 @@ We present an analysis of the number density of galaxies as a function of stella
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6302</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6302</guid>
 <content:encoded><![CDATA[
-<div> protonated fullerenes, CH stretch frequencies, anharmonic frequency calculations, empirical scaling factors, interstellar medium <br>
-<br>总结: 该研究报告了质子化富勒烯C60H+和C70H+的CH伸缩频率的实验数值。研究使用B3LYP/6-31G水平的非谐波频率计算，独立于经验缩放因子，将实验值准确复现至约5 cm−1。将理论谐波频率按多环芳烃推导的因子进行缩放，与实验测得的频率存在显著偏差。研究指出，这一偏差归因于不寻常的碳氢化合物结构，影响了CH伸缩的非谐度。研究提出了一个特殊的缩放因子0.9524，用于修正使用B3LYP/6-311 + G(d,p)水平计算得到的质子化富勒烯的CH伸缩谐波频率。质子化富勒烯CH伸缩带的特殊光谱位置使其成为探测星际介质中质子化富勒烯的诊断标志。 <div>
+<div> protonated fullerenes, CH stretch frequencies, anharmonic frequency calculations, empirical scaling factors, interstellar medium <br />
+<br />总结: 该研究报告了质子化富勒烯C60H+和C70H+的CH伸缩频率的实验数值。研究使用B3LYP/6-31G水平的非谐波频率计算，独立于经验缩放因子，将实验值准确复现至约5 cm−1。将理论谐波频率按多环芳烃推导的因子进行缩放，与实验测得的频率存在显著偏差。研究指出，这一偏差归因于不寻常的碳氢化合物结构，影响了CH伸缩的非谐度。研究提出了一个特殊的缩放因子0.9524，用于修正使用B3LYP/6-311 + G(d,p)水平计算得到的质子化富勒烯的CH伸缩谐波频率。质子化富勒烯CH伸缩带的特殊光谱位置使其成为探测星际介质中质子化富勒烯的诊断标志。 <div>
 We report experimental values for the CH stretch frequencies of the protonated fullerenes C60H+ and C70H+. Anharmonic frequency calculations at the B3LYP/6-31G level of theory, which are independent of empirical scaling factors, reproduce the experimental values to within approximately 5 cm−1. Scaling theoretical harmonic frequencies by applying factors derived for polycyclic aromatic hydrocarbons deviate significantly from the experimentally measured frequency. We attribute this deviation to the unusual hydrocarbon structure that affects the degree of anharmonicity of the CH stretch. This result allows us to propose an original, specific scaling factor of 0.9524 to correct harmonic frequencies of CH stretches of protonated fullerenes calculated at the B3LYP/6-311 + G(d,p) level of theory. The special spectral position of the protonated fullerene CH stretch bands makes it a diagnostic marker that may aid in their detection in the interstellar medium.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -118,10 +124,8 @@ We report experimental values for the CH stretch frequencies of the protonated f
 Radcliffe wave (RW)的运动信息对于确定其存在以及获取关于其起源和演化的洞察是至关重要的。本文利用径向速度（RV）测量，通过两种方法准确测量了RW的垂直速度（VZ），这是先前被忽略的关键信息。首先，利用年轻恒星的RV测量和Gaia DR3的天体运动测量，测量了朝向年轻恒星的速度。其次，将云的RV测量与关联年轻恒星物体的天体运动测量相结合，确定了云的垂直速度。结果显示，VZ的振荡与垂直坐标Z不同步，与先前研究的结论不同。相反，我们发现VZ沿着RW呈现出每千秒5公里的梯度，呈现出一个偶极子的模式。因此，这种运动的排列与空间排列不相一致，这对RW模型提出了质疑。 <div>
 The kinematic information of the Radcliffe wave (RW) is essential for determining its existence and gaining insights into its origin and evolution. In this work, we present an accurate measurement of the vertical velocity (VZ) of the RW by incorporating the radial velocity (RV) measures through two methods, which is crucial but was neglected previously. First, the velocities are measured toward young stars, using their RV measurements from APOGEE-2 and proper motion measurements from Gaia DR3. Second, we combine RV measurements toward clouds with proper motion measurements of associated young stellar objects to determine the vertical velocities of the clouds. The results reveal that the oscillations in VZ are not synchronous with the vertical coordinate Z, which differs from the conclusions of previous studies. Instead, we find a 5 km s−1 kpc−1 gradient in VZ along the RW, exhibiting a dipole-like pattern. Consequently, the kinematic arrangement does not show a corresponding coherence with the spatial arrangement, bringing the RW model into question.
 ]]></content:encoded>
-
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>C3NN: Cosmological Correlator Convolutional Neural Network an Interpretable Machine-learning Framework for Cosmological Analyses</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad582e</link>
@@ -11689,109 +11693,6 @@ Dark-matter-deficient galaxies (DMDGs) discovered in the survey of ultra-diffuse
 
 总结：本研究通过Voyager 2号探测器的磁场测量数据，在1到33天文单位的距离范围内研究了惯性范围太阳风等离子体湍流的径向演化和各向异性。研究发现，垂直和迹向磁场功率谱密度仍然遵循科尔莫哥洛夫谱直至33天文单位。与此同时，平行磁场功率谱密度在穿越10天文单位时从-2的幂律指数过渡到-5/3。在20天文单位后，频率在0.01赫兹到0.2赫兹范围内的功率谱密度逐渐变平，逼近f^(-1)谱。在频率低于0.01赫兹时，由于传播角度小于20°的波能级增强，功率谱密度随传播角度减小而减小。这种增强可能来源于离子加速的波能量注入背景湍流级联中，并且注入的波能量在各个尺度间传递，没有留下局部的功率密度或功率谱密度增强。 <br /><br /> <div>
 We study the radial evolution of the inertial-range solar wind plasma turbulence and its anisotropy in the outer heliosphere. We use magnetic field (B) measurements from the Voyager 2 spacecraft for heliocentric distances R from 1 to 33 au. We find that the perpendicular and trace power spectral densities (PSDs) of the magnetic field ( and ) still follow a Kolmogorov-like spectrum until 33 au. The parallel magnetic field PSD, , transits from a power-law index of −2 to −5/3 as the distance crosses R ∼ 10 au. The PSD at frequencies 0.01 Hz < f < 0.2 Hz flattens at R > 20 au, gradually approaching an f−1 spectrum, probably due to instrument noise. At 0.002 Hz < f < 0.1 Hz, quasi-parallel propagation dominates at 1 au < R < 7 au, with quasi-perpendicular propagation gradually emerging at R > 5 au. For R > 7 au, oblique propagation becomes the primary mode of propagation. At smaller frequencies of f < 0.01 Hz, increases with propagation angle at 1 au < R < 5 au, and in contrast decreases with propagation angle at R > 5 au due to the enhanced power level at propagation angles smaller than 20°. Such enhancement may derive from the injection of wave energy from the pickup ion source into the background turbulent cascade, and the injected wave energy is transferred across scales without leaving local enhancements in or .
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Physical Properties of Low-redshift FeLoBAL Quasars. IV. Optical–Near-IR Spectral Energy Distributions and Near-IR Variability Properties</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2a</guid>
-<content:encoded><![CDATA[
-<div> FeLoBALQs, spectral energy distributions, near-infrared variability, reddening, accretion rate<br />总结:
-这篇文章研究了30个低红移的低离子化铁吸收发射线类星体（FeLoBALQs），并与LoBALQs和未吸收类星体进行了比较。研究发现未吸收比较样本中的光谱性质与促成率指标之间存在显著的相关性，而FeLoBAL类星体中由于一定范围的泛红可能抑制了这些相关性。还发现光学波段的红化与外流位置有关，表明外流与尘埃之间存在连接。WISE变化性分析显示变化幅度与推断的连续发射区域尺寸之间存在反相关关系，这解释了类星体中变化幅度与亮度之间的反相关关系。LoBALQ的光学发射线和其他参数更类似于未吸收连续谱样本对象，而FeLoBAL类星体则是一个特殊的对象群。根据促成率场景，解释了FeLoBAL类星体的结果，即高促成率的FeLoBAL类星体辐射强大到足以产生厚重、高速的外流，而中等促成率的类星体可能存在外流，但不足以包含Fe ii吸收，低促成率的FeLoBAL外流来自于一个失败的环状结构吸收，无法再将辐射转换成近红外光。 <div>
-We present the optical–near-infrared spectral energy distributions (SED) and near-infrared variability properties of 30 low-redshift iron low-ionization Broad Absorption Line quasars (FeLoBALQs) and matched samples of LoBALQs and unabsorbed quasars. Significant correlations between the SED properties and accretion rate indicators found among the unabsorbed comparison sample objects suggest an intrinsic origin for SED differences. A range of reddening likely mutes these correlations among the FeLoBAL quasars. The rest-frame optical-band reddening is correlated with the location of the outflow, suggesting a link between the outflows and the presence of dust. We analyzed the WISE variability and provide a correction for photometry uncertainties in an appendix. We found an anticorrelation between the variability amplitude and inferred continuum emission region size, and we suggest that as the origin of the anticorrelation between variability amplitude and luminosity typically observed in quasars. We found that the LoBALQ Optical Emission-line and other parameters are more similar to those of the unabsorbed continuum sample objects than the FeLoBALQs. Thus, FeLoBAL quasars are a special population of objects. We interpret the results using an accretion-rate scenario for FeLoBAL quasars. The high-accretion-rate FeLoBAL quasars are radiating powerfully enough to drive a thick, high-velocity outflow. Quasars with intermediate accretion rates may have an outflow, but it is not sufficiently thick to include Fe ii absorption. Low-accretion-rate FeLoBAL outflows originate in absorption in a failing torus, no longer optically thick enough to reprocess radiation into the near-IR.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>AB Dor: Coronal Imaging and Activity Cycles</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f2e</guid>
-<content:encoded><![CDATA[
-<div> 关键词: AB Dor, X射线观测, coronal imaging, 长期周期性, flip-flop cycle
-
-总结:
-AB Dor是一个超快自转的活跃恒星，X射线观测显示其存在频繁的耀斑事件，耀斑事件占据了观测时间的大部分。在没有耀斑的X射线光变曲线中，显示了旋转调制的特征，表明恒星的日冕中存在高度活跃的区域。通过日冕成像发现了两个不同亮度的活跃区域，并观察到它们在经度上的变化和亮度上的变化。长期X射线数据分析发现存在多个周期性，包括一个类似太阳的长期模式和可能与翻转循环相关的周期。需要进一步的长期观测来确认X射线翻转循环的存在。 <br /><br /> <div>
-Using long-term X-ray observations, we present short-term and long-term X-ray variability analysis of the ultrafast rotating active star AB Dor. Flaring events are common in X-ray observations of AB Dor and occupy a substantial portion of the total observation time, averaging at around 57% ± 23%. The flare-free X-ray light curves show rotational modulation, indicating the presence of highly active regions in the star's corona. We have developed a light-curve inversion code to image the corona of active fast rotating stars. The results of coronal imaging reveal the presence of two active regions of different brightness that are separated by ∼180° in longitude. These active regions are also found to migrate along the longitude and also show variation in their brightness. Our analysis of long-term X-ray data spanning from 1979 to 2022 shows multiple periodicities. The existence of a ∼19.2 yr cycle and its first harmonic indicates the presence of a solar-like, long-term pattern. In comparison, the periodicities of ∼3.6 and ∼5.4 yr are possibly due to the presence of a flip-flop cycle in the X-rays, which is also supported by findings for similar periods from the optical data in earlier studies. Further confirmation of the existence of the X-ray flip-flop cycle requires long-term observations at regular intervals in the quiescent state.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Exploring Changing-look Active Galactic Nuclei with the Sloan Digital Sky Survey V: First Year Results</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f30</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f30</guid>
-<content:encoded><![CDATA[
-<div> 关键词: CL-AGNs, Sloan Digital Sky Survey V, 超大质量黑洞, 光谱变化, Eddington比率<br />
-总结: <br />这篇文章报告了关于"Changing-look" active galactic nuclei (CL-AGNs)的研究成果，通过对近29,000个已知活跃星系核的多次光谱观测和跟踪，发现了116个CL-AGN案例，并对其进行了分析。研究发现，CL事件在低Eddington比率系统中更常见，并且发现了广泛的Mg ii发射线变化较小的趋势。这个研究样本是迄今为止报道的最大的CL-AGN样本，对于研究极端AGN变化和物理学具有重要意义。 <br /> <div>
-“Changing-look” active galactic nuclei (CL-AGNs) challenge our basic ideas about the physics of accretion flows and circumnuclear gas around supermassive black holes. Using first-year Sloan Digital Sky Survey V (SDSS-V) repeated spectroscopy of nearly 29,000 previously known active galactic nuclei (AGNs), combined with dedicated follow-up spectroscopy, and publicly available optical light curves, we have identified 116 CL-AGNs where (at least) one broad emission line has essentially (dis-)appeared, as well as 88 other extremely variable systems. Our CL-AGN sample, with 107 newly identified cases, is the largest reported to date, and includes ∼0.4% of the AGNs reobserved in first-year SDSS-V operations. Among our CL-AGNs, 67% exhibit dimming while 33% exhibit brightening. Our sample probes extreme AGN spectral variability on months to decades timescales, including some cases of recurring transitions on surprisingly short timescales (≲2 months in the rest frame). We find that CL events are preferentially found in lower-Eddington-ratio (fEdd) systems: Our CL-AGNs have a fEdd distribution that significantly differs from that of a carefully constructed, redshift- and luminosity-matched control sample (Anderson–Darling test yielding pAD ≈ 6 × 10−5; median fEdd ≈ 0.025 versus 0.043). This preference for low fEdd strengthens previous findings of higher CL-AGN incidence at lower fEdd, found in smaller samples. Finally, we show that the broad Mg ii emission line in our CL-AGN sample tends to vary significantly less than the broad Hβ emission line. Our large CL-AGN sample demonstrates the advantages and challenges in using multi-epoch spectroscopy from large surveys to study extreme AGN variability and physics.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraints on UHECR Sources and Extragalactic Magnetic Fields from Directional Anisotropies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f3f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2f3f</guid>
-<content:encoded><![CDATA[
-<div> UHECR, dipole anisotropy, extragalactic magnetic field, number density, CosmicFlows-2<br />
-总结: 该研究确认了超高能宇宙射线到达方向的偶极各向异性，并对小尺度各向异性进行了限制，进而制约了外星系磁场和UHECR源的数量密度。研究表明UHECR源的偏好分布与外星系物质的密度分布关系不大。通过对局部宇宙的密度分布进行处理，并考虑了宇宙射线在传播过程中的相互作用和能量损失以及银河磁场的影响，得到了良好的模拟结果。 <div>
-A dipole anisotropy in ultra–high-energy cosmic ray (UHECR) arrival directions, of extragalactic origin, is now firmly established at energies E > 8 EeV. Furthermore, the UHECR angular power spectrum shows no power at smaller angular scales than the dipole, apart from hints of possible individual hot or warm spots for energy thresholds ≳40 EeV. Here we exploit the magnitude of the dipole and the limits on smaller-scale anisotropies to place constraints on two quantities: the extragalactic magnetic field (EGMF) and the number density of UHECR sources or the volumetric event rate if UHECR sources are transient. We also vary the bias between the extragalactic matter and the UHECR source densities, reflecting whether UHECR sources are preferentially found in over- or underdense regions, and find that little or no bias is favored. We follow Ding et al. (2021) in using the CosmicFlows-2 density distribution of the local universe as our baseline distribution of UHECR sources, but we improve and extend that work by employing an accurate and self-consistent treatment of interactions and energy losses during propagation. Deflections in the Galactic magnetic field are treated using either the full JF12 magnetic field model, with both random and coherent components, or just the coherent part, to bracket the impact of the GMF on the dipole anisotropy. This large-scale structure model gives good agreement with both the direction and magnitude of the measured dipole anisotropy and forms the basis for simulations of discrete sources and the inclusion of EGMF effects.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Molecular Gas Tracers in Young and Old Protoplanetary Disks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fa2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fa2</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 分子排放，原行星盘，相关性，分子通量，星际化学<br />
-总结: 该研究分析了N2H+、HCO+、HCN和C18O等分子在20个原行星盘中的排放情况，并发现了这些分子通量与盘尘质量和半径之间存在着正相关关系。此外，不同分子种类的通量之间也存在着较强的正相关性。然而，一些盘可能在这些分子通量上表现出明显的差异，甚至在同一星际成形区域内也有所不同。这表明了类似年龄和形成环境的系统可能拥有不同范围内的盘质量和化学成分。未来需要更全面和统一的样本来寻找与形成环境或年龄相关的趋势。 <br /><br />  
-总结: <div>
-Molecular emission is used to investigate both the physical and chemical properties of protoplanetary disks. Therefore, to derive disk properties accurately, we need a thorough understanding of the behavior of the molecular probes upon which we rely. Here we investigate how the molecular line emission of N2H+, HCO+, HCN, and C18O compare to other measured quantities in a set of 20 protoplanetary disks. Overall, we find positive correlations between multiple line fluxes and the disk dust mass and radius. We also generally find strong positive correlations between the line fluxes of different molecular species. However, some disks do show noticeable differences in the relative fluxes of N2H+, HCO+, HCN, and C18O. These differences occur even within a single star-forming region. This results in a potentially large range of different disk masses and chemical compositions for systems of similar age and birth environment. While we make preliminary comparisons of molecular fluxes across different star-forming regions, more complete and uniform samples are needed in the future to search for trends with birth environment or age.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A New Window for Studying Intermediate Polars and Tilted Accretion Disk Precession</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fc2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2fc2</guid>
-<content:encoded><![CDATA[
-<div> TV Col, eclipsing intermediate polar, NSH amplitude, disk precession, periodic variations
-<br /><br />
-TV Col是一个长周期的淡变型中间极光星，研究了TESS光度测量数据。发现NSH振幅和日食深度都有周期性变化，NSH振幅的周期与日食极小的周期非常接近，这进一步证实了NSH的形成与倾斜盘进动有关。同时发现日食深度存在双周期性变化，可能与倾斜盘的进动有关。这一发现为研究中间极光星和倾斜盘的进动提供了新的视角。 
-<br />总结: TV Col是一个长周期的淡变型中间极光星，NSH振幅和日食深度都有周期性变化，与倾斜盘进动有关。同时发现日食深度存在双周期性变化，可能与倾斜盘的进动有关。 <div>
-TV Col is a long-period eclipsing intermediate polar (IP) prototype star for the negative superhump (NSH) system. We investigate the eclipse minima, eclipse depth, and NSH amplitude based on TESS photometry. Using the same analytical method as for SDSS J081256.85+191157.8, we find periodic variations of O − C for eclipse minima and NSH amplitudes with periods of 3.939(25) days and 3.907(30) days, respectively. The periodic variation of the NSH amplitude of TV Col confirms that periodic changes in NSH amplitude in response to the tilted disk precession may be universal, which is further evidence that the origin of the NSHs is related to the tilted disk precession. We suggest that the variation in NSH amplitude may be similar to the superorbital signal, coming from the periodic change in visual brightness of the energy released by streams touching the tilted disk with tilted disk precession. Finally, we find for the first time that the eclipse depth exhibits biperiodic variations with periods of P1 = 3.905(11) days and P2 = 1.953(4) days, respectively. P2 is about half of P1 and the disk precession period (P1 ≈ Pprec ≈ 2 × P2). We suggest that P1 may come from the periodic change in the brightness of the eclipse center due to tilted disk precession, while P2 may come from two accretion curtains precessing together with the tilted disk, but more verification and discussion are necessary. The discovery of biperiodic variations in eclipse depth provides a new window for studying IPs and tilted disk precession.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Exploring the Jet Formation in Binary Systems Applying 3D MHD Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3072</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3072</guid>
-<content:encoded><![CDATA[
-<div> 磁化喷流, 盘面, 三维MHD模拟, 伴星, 潮汐效应<br />
-<br />
-研究团队进行了磁化喷流的模拟实验，首先在二维MHD模拟中观察到了稳定的喷流形成。随后他们将模型扩展到三维，并加入了伴星，发现在喷流横截面的密度图中观察到了弧状结构，这被归因于潮汐效应。这表明伴星对喷流动力学的影响是显著的，尤其是在洛希圆周附近和朝向次星的方向。总结: 该研究通过二维和三维MHD模拟研究了磁化喷流的形成和动力学特性，发现伴星的存在会对喷流产生显著影响，特别是通过直接潮汐效应产生的变形结构。 <div>
-We investigate the formation of an ideal magnetized jet that originates from a disk acting as a boundary by conducting axisymmetric MHD simulations. Our simulations demonstrate that the magnetized jet is consistently launched and reaches a stable state. To further advance our study, we extended the model setup to three dimensions and performed 3D MHD simulations of the jet launched from a disk surface, achieving a stable and appropriate model setup. Additionally, we expanded our study by incorporating the companion star and examining the influence of the Roche potential on the jet material. Specifically, we investigate whether including the companion star in the model significantly affects the dynamical evolution of the jet. Our findings reveal the formation of an arc-like structure in the density map of the jet cross section, which is attributed to the direct tidal effects. This implies that while the primary physical effects and characteristics of the outflow on a larger scale are attributed to the host accretion disk, the direct tidal effects on the jet dynamics have a substantial impact, particularly in the vicinity of the Roche lobe and toward the secondary star.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>How Does the Structure of Rarefaction Regions Develop?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3074</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3074</guid>
-<content:encoded><![CDATA[
-<div> 关键词：稀疏化区域，太阳风，质子参数，α参数，太阳风界面
-总结：<br /><br />本研究通过对稀疏化区域进行超级对应时段分析，观察了质子和α粒子参数的渐进演化。稀疏化区域内并没有找到明显的快慢太阳风的边界，大多数观测表明大部分的稀疏化区域等离子体对应于快速太阳风；只有α-质子漂移速度从稀疏化区域开始有所减小。我们研究了它在星际空间内减小的不同方式，并表明这一特征很可能与多组分太阳风的镜像有关。然而，考虑到观测到的太阳风特性和质子参数之间的相互关系，我们定义了在α相对丰度和α-质子温度比急剧变化为典型快速太阳风向慢速太阳风值的组成边界。这一边界是可能的太阳风界面的最有可能的候选者。基于这些发现，我们推测稀疏化区域的形成已经在太阳附近开始，并提出了两种可能的情景。 <div>
-A rarefaction region (RR) occurs at the trailing edge of the fast solar wind stream. It comes from an area of small longitudinal extent on the solar surface and exhibits a fine and complex structure. In our study, we did a superposed epoch analysis of the proton and α parameters across the RR and observed their gradual evolution. We did not find any clear boundary between the fast and slow solar winds inside the RR because a majority of our observations show that most of the RR plasma corresponds to the fast solar wind; only the α–proton drift velocity decreases from the beginning of the RR. We investigate different ways of its reduction in interplanetary space and show that this feature is likely associated with the mirroring of the multicomponent solar wind. Nevertheless, considering the observed solar wind characteristics and taking into account the mutual relations between the proton and α parameters, we define the composition boundary where the α relative abundance and α–proton temperature ratio change abruptly from the values typical for the fast wind toward slow wind values. This boundary is the most probable candidate for the stream interface. Based on these findings, we speculate that the RR formation starts already near the Sun and formulate two possible scenarios.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>METAL-Z: Measuring Dust Depletion in Low-metallicity Dwarf Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad307b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad307b</guid>
-<content:encoded><![CDATA[
-The cycling of metals between interstellar gas and dust is a critical aspect of the baryon cycle of galaxies, yet our understanding of this process is limited. This study focuses on understanding dust depletion effects in the low-metallicity regime (<20% Z⊙) typical of cosmic noon. Using medium-resolution UV spectroscopy from the Cosmic Origins Spectrograph on board the Hubble Space Telescope, gas-phase abundances and depletions of iron and sulfur were derived toward 18 sight lines in local dwarf galaxies IC 1613 and Sextans A. The results show that the depletion of Fe and S is consistent with that found in the Milky Way (MW), LMC, and SMC. The depletion level of Fe increases with gas column density, indicating dust growth in the interstellar medium. The level of Fe depletion decreases with decreasing metallicity, resulting in the fraction of iron in gas ranging from 3% in the MW to 9% in IC 1613 and ∼19% in Sextans A. The dust-to-gas and dust-to-metal ratios (D/G, D/M) for these dwarf galaxies were estimated based on the MW relations between the depletion of Fe and other elements. The study finds that D/G decreases only slightly sublinearly with metallicity, with D/M decreasing from 0.41 ± 0.05 in the MW to 0.11 ± 0.11 at 0.10 Z⊙ (at log N(H) = 21 cm−2). The trend of D/G versus metallicity using depletion in local systems is similar to that inferred in Damped Lyα systems from abundance ratios but lies higher than the trend inferred from far-IR measurements in nearby galaxies.
 ]]></content:encoded>
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
