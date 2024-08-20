@@ -5,20 +5,109 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Ionized and Cold Gas Components in Low Surface Brightness Galaxy AGC 102004</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6848</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6848</guid>
+<title>High-resolution Study of the Outflow Activity and Chemical Environment of Chamaeleon-MMS1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5182</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5182</guid>
 <content:encoded><![CDATA[
-<div> PCWI, ionized gas, AGC 102004, metallicity, CO(2–1)
+<div> FHSC, Chamaeleon-MMS1, outflow activity, low-mass star formation, protostellar core
+总结: 
+该研究描述了与Chamaeleon-MMS1候选FHSC（首个静力核）相关的局部（∼4000天文单位）流出活动及其对周围物质的影响，以确定这个年轻的低质量源的演化状态。观测结果显示Chamaeleon-MMS1存在低能流出，流出物质对周围气体的影响并推断其旋转温度。通过分析分子示踪物质，结果表明Chamaeleon-MMS1虽然不是FHSC，但其流出的能量较其他0级天体要小，并且其物理特性与其他低光度原恒星的范围相符。推测Chamaeleon-MMS1是已知最年轻的星源之一。 <br><br> <div>
+The earliest stages of low-mass star formation are unclear, with the first hydrostatic core (FHSC) as the transition stage between a prestellar and protostellar core. This work describes the local (∼4000 au) outflow activity associated with candidate FHSC Chamaeleon-MMS1 and its effect on the surrounding material to determine the evolutionary state of this young low-mass source. We observed Chamaeleon-MMS1 with the Atacama Large Millimeter/submillimeter Array at 220 GHz at high spatial (∼75 au) and spectral resolutions (0.1–0.3 km s−1). A low-energy outflow is detected, consisting of two components, a broad spectral feature (Δv ∼ 8 km s−1) to the northeast and narrow spectral features (Δv ∼ 1 km s−1) to both the northeast and southwest. The molecular tracers CS, formaldehyde (H2CO), and methanol (CH3OH) were used to analyze the effect of the outflows on the surrounding gas and determine its rotational temperature. The rotational temperature of H2CO is 40 K toward the continuum source with similarly low temperatures (10–75 K) toward clumps affected by the outflow. CH3OH is only detected toward gas clumps located away from the continuum source, where the methanol is expected to have been released by the energy of the outflow through ice sputtering. While molecular emission and high outflow speeds rule Cha-MMS1 out as an FHSC, its outflow is less energetic than those of other Class 0 objects and its physical properties are within the range covered by other low-luminosity protostars. The inferred gas temperatures toward the continuum source are also relatively low, indicating that Cha-MMS1 is one of the youngest known sources.
+]]></content:encoded>
+
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Stellar Evolution in Real Time. II. R Hydrae and an Open-Source Grid of >3000 Seismic TP-AGB Models Computed with MESA</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad534a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad534a</guid>
+<content:encoded><![CDATA[
+<div> TP-AGB, R Hya, MESA, GYRE, mode driving<br>
+<br>Evolutionary and asteroseismic features of the evolved thermally pulsing asymptotic giant branch (TP-AGB) star R Hya are studied using theoretical pulse spectra computed with MESA and oscillation spectra with GYRE. The star is found to be most likely driven by the fundamental mode and currently in the "power-down" phase of an intermediate pulse. The pulsation period is predicted to continue to shorten for millennia. The analysis suggests that R Hya has undergone third dredge-up in its most recent pulse. The MESA + GYRE model grid used in this study is the first publicly available grid of TP-AGB models with seismology and includes exact solutions to the linear, adiabatic equations of stellar oscillation for the first 10 radial-order pressure modes for every time step in every evolutionary track. The grid is open source and packaged with a data visualization application.<br><br>总结: <br>通过MESA和GYRE计算了R Hya的脉动光谱和振荡光谱，并确定其可能由基频模式驱动，并处于中级脉冲的“功率下降”阶段。预测其脉动周期将在千年内继续缩短。分析表明，R Hya最近的脉冲中很可能经历了第三次深度混合。使用MESA + GYRE模型网格是首个包含来自MESA的TP-AGB模型和地震学数据的公开网格，该网格包括针对每个演化轨道的每个时间步长的前10个径向压力模式的线性绝热方程的确切解。 <div>
+We present a comprehensive characterization of the evolved thermally pulsing asymptotic giant branch (TP-AGB) star R Hydrae (R Hya), building on the techniques applied in Stellar Evolution in Real Time I (Molnár et al.) to T Ursae Minoris. We compute over 3000 theoretical TP-AGB pulse spectra using MESA and the corresponding oscillation spectra with GYRE. We combine these with classical observational constraints and nearly 400 years of measurements of R Hya’s period evolution to fit R Hya’s evolutionary and asteroseismic features. Two hypotheses for the mode driving R Hya’s period are considered. Solutions that identify this as the fundamental mode (FM) as well as the first overtone are consistent with observations. Using a variety of statistical tests, we find that R Hya is most likely driven by the FM and currently occupies the “power-down” phase of an intermediate pulse (TP ∼ 9–16). We predict that its pulsation period will continue to shorten for millennia. Supported by calculations from the Monash stellar evolution code, we find that R Hya has most likely undergone third dredge-up in its most recent pulse. The MESA + GYRE model grid used in this analysis includes exact solutions to the linear, adiabatic equations of stellar oscillation for the first 10 radial-order pressure modes for every time step in every evolutionary track. The grid is fully open source and packaged with a data visualization application. This is the first publicly available grid of TP-AGB models with seismology produced with MESA.
+]]></content:encoded>
+
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Ubiquitous Late Radio Emission from Tidal Disruption Events</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5541</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5541</guid>
+<content:encoded><![CDATA[
+<div> TDEs, radio observations, late-time brightening, delayed launch, radio emission<br>
 <br>
-利用PCWI观测了AGC 102004的离子化气体(Hα和[N II])，并使用JCMT接收机进行了深入的CO(2–1)观测。Hα的速度场显示出北西部盘的异常分布，其谱线以两个高斯分量进行良好拟合，其中弱高斯分量由北西盘的异常Hα主导。Hα发射的高斯拟合中心偏离了+24.2 km s−1，得到的系统速度与H i发射的系统速度不符。我们利用[N II]λ6583/Hα比值作为代理推导了气相金属丰度12+log(O/H)，整个星系的平均值为8.30 ± 0.19。外部盘的金属丰度低至探测限7.72，表明AGC 102004存在金属丰度梯度。我们推测北西盘可能发生了次要/微小并合事件。AGC 102004中的CO(2–1)发射未探测到，噪声水平为0.33 mK，经过30 km s−1平滑。AGC 102004中的分子气体质量上限为2.1 × 107M⊙，XCO = 3.02 × 1020 cm−2 (K km s−1)−1。AGC 102004的M_gas/L_B比值低于0.0037，低于正常星系。 
-<br><br>总结: 这篇文章使用PCWI和JCMT观测了AGC 102004的离子化气体和CO(2–1)。发现Hα速度场异常分布，气相金属丰度呈梯度分布。通过分析推测了北西盘可能存在次要/微小并合事件。CO(2–1)发射未被探测到，M_gas/L_B比值低于正常星系。 <div>
-We present the integral field spectroscopic observations of ionized gas (Hα and [N II]) using the PCWI, along with deep CO(2–1) observations by the receiver on JCMT for AGC 102004. The velocity field of Hα shows an anomalous distribution in the northwestern (NW) disk. The Hα spectrum is well-fitted by two Gaussian components, and the weak Gaussian component is dominated by the anomalous Hα in the NW disk. The Gaussian fit center of Hα emission is offset by +24.2 km s−1 from the systemic velocity obtained from the H i emission. We derive the gas-phase metallicity, 12+log(O/H), using [N II]λ6583/Hα ratio as a proxy. The mean value of 12+log(O/H) is 8.30 ± 0.19 over the whole galaxy. The metallicity in the outer disk is lower than the detection limit of 7.72, indicating the metallicity gradient exists in AGC 102004. We speculate a minor/mini-merger event could have happened to the NW disk. CO(2–1) emission has nondetection in AGC 102004, reaching a noise level of 0.33 mK smoothed to 30 km s−1. The upper limit of molecular gas mass in AGC 102004 is 2.1 × 107M⊙ with XCO = 3.02 × 1020 cm−2 (K km s−1)−1. The /M of AGC 102004 is lower than 0.0037 and lower than that of normal galaxies.
+这篇文章报道了对23个光学发现的潮汐撕裂事件（TDEs）进行的射电观测结果。研究发现9个TDEs在较早时期没有检测到射电发射的现象，但在数百至2300天之后出现了迟来的明亮现象。另外还有7个TDEs的射电发射的起源不明确，可能归因于宿主星系或活动星系核。同时，报告了一个TDE在之前射电观测到约103天后出现了新的上升成分。有些TDE的射电发射在约2-4年内达到峰值，但超过一半的样本仍在上升阶段。数据显示大约40%的光学TDE会在发现后数百到数千天之后在射电波段被探测到，这可能比在约102天时出现的早期射电发射更为普遍。利用等离子体平衡分析，研究发现射电发射喷流可能存在延迟启动现象，延迟时间约为500-2000天，推测速度为0.02-0.15c，动能约为1047-1049 erg。该研究排除了非轴向相对论性喷流的可能性，得出延迟的流出可能是更可能的解释，可能是由于延迟的盘形成。最后得出结论，晚期射电发射标志着TDE演化的一个相当普遍但迄今被忽视的阶段。<br><br>总结: TDE中存在晚期射电亮度增幅现象，可能由延迟启动的射电喷流产生，而非相对论性喷流，暗示了TDE演化的一个普遍但被忽视的阶段。 <div>
+We present radio observations of 23 optically discovered tidal disruption events (TDEs) on timescales of ∼500–3200 days postdiscovery. We detect nine new TDEs that did not have detectable radio emission at earlier times, indicating a late-time brightening after several hundred (and up to 2300) days; an additional seven TDEs exhibit radio emission whose origin is ambiguous or may be attributed to the host galaxy or an active galactic nucleus. We also report a new rising component in one TDE previously detected in the radio at ∼103 days. While the radio emission in some of the detected TDEs peaked on a timescale ≈2–4 yr, over half of the sample still show rising emission. The range of luminosities for the sample is ∼1037–1039 erg s−1, about 2 orders of magnitude below the radio luminosity of the relativistic TDE Sw J1644+57. Our data set indicates ∼40% of all optical TDEs are detected in radio hundreds to thousands of days after discovery, and that this is probably more common than early radio emission peaking at ∼102 days. Using an equipartition analysis, we find evidence for a delayed launch of the radio-emitting outflows, with delay timescales of ∼500–2000 days, inferred velocities of ≈0.02–0.15c, and kinetic energies of ∼1047–1049 erg. We rule out off-axis relativistic jets as a viable explanation for this population, and conclude delayed outflows are a more likely explanation, possibly from delayed disk formation. We conclude late radio emission marks a fairly ubiquitous but heretofore overlooked phase of TDE evolution.
+]]></content:encoded>
+
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
+<item>
+<title>On the Doublet Flux Ratio of Mg ii Resonance Lines in and Around Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58bd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58bd</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 双线发射, Mg ii, 共振散射, 球对称, 线比
+
+总结:<br>
+这项研究探讨了共振散射对Mg ii双线及恒星连续谱在球形和圆柱形几何中的影响。研究结果表明，在特定情况下，共振散射可导致双线流量比和逃逸流超出球形介质中期望的水平。在球对称且带尘埃的散射介质中，双线比一贯低于固有比值。然而，如果散射介质呈盘状，如正对盘状星系，并且被正对观察到，则预计双线比将高于2。同时还指出，在球形模型中，纯尘埃衰减无法解释紧凑星形成星系中观察到的双线比低于1.5的现象，除非灰尘不透明度明显偏离我们银河系的灰尘与Mg+气体比。讨论了连续泵浦发射线和膨胀介质对观测方面的重要性，包括双线流量比可能低于1.5或高于2，以及对称或不对称的线型。还讨论了扩散的温暖中性介质可能是Mg ii发射的重要来源。这些结果为理解遥远、空间未解析星系的形状和方向的复杂性提供了见解。 <div>
+Observations of metallic doublet emission lines, particularly Mg iiλλ2796, 2803, provide crucial information for understanding galaxies and their circumgalactic medium. This study explores the effects of resonant scattering on the Mg ii doublet lines and the stellar continuum in spherical and cylindrical geometries. Our findings show that under certain circumstances, resonance scattering can cause an increase in the doublet flux ratio and the escaping flux of the lines beyond what is expected in optically thin spherical media. As expected, the doublet ratio is consistently lower than the intrinsic ratio when the scattering medium is spherically symmetric and dusty. However, if the scattering medium has a disk shape, such as face-on disk galaxies, and is viewed face-on, the doublet ratio is predicted to be higher than 2. It is also shown that doublet ratios as low as those observed in compact star-forming galaxies cannot be explained solely by pure dust attenuation of intrinsic Mg ii emission lines in spherical models unless dust opacity deviates markedly from that expected based on the dust-to-Mg+ gas ratio of our Galaxy. The importance of the continuum-pumped emission lines and expanding media is discussed to understand observational aspects, including doublet flux ratios, which can be lower than 1.5 or higher than 2, as well as symmetric or asymmetric line profiles. It is also discussed that the diffuse warm neutral medium may be an important source of Mg ii emission. These results provide insight into the complexity of the shape and orientation of distant, spatially unresolved galaxies.
+]]></content:encoded>
+
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Resonant Absorption of Standing Magnetohydrodynamic Waves in Coronal Loops in the Absence of Directional Symmetry: The Effect of Plasma Flow</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce6</guid>
+<content:encoded><![CDATA[
+<div> Magnetohydrodynamic, Standing Waves, Coronal Loops, Plasma Flow, Damping Rate
+<br><br>总结:
+本文研究了日冕回路中静止磁流体动力学（MHD）波的振荡特性。研究模型将日冕回路建模为一个纯粹纵向磁场和沿磁场方向的等离子体流动的直筒。该模型包括一个不均匀的过渡层，导致波的谐振衰减。研究的目的是确定在流动回路中的静止MHD波的阻尼率，其中由于等离子体流动的存在，回路的方向对称性被破坏。为了解决这个问题，在采用的摄动方法中，我们让振荡频率和阻尼率都受到摄动。随着流速的增加，静止波的振荡频率减小，但阻尼率增加。因此，静止波的振荡频率与阻尼率的比值成为流速的一个更为下降的函数。流动是决定谐振吸收效果的重要因素。在流动回路中，即使是在薄的过渡层的情况下，谐振吸收也可以导致阻尼率达到周期时间的量级，这与观测结果一致。 <div>
+The oscillation properties of standing magnetohydrodynamic (MHD) waves in coronal loops have been investigated. The coronal loop is modeled as a straight cylinder with a purely longitudinal magnetic field and a field-aligned plasma flow. The loop model includes an inhomogeneous transitional layer that causes the wave to be resonantly damped. Our aim is to determine the damping rate of the standing MHD waves in flowing loops, in which the directional symmetry of the loop has been broken due to the presence of plasma flow. To do this, the standing wave has been considered as the superposition of two propagating waves with opposite directions of propagation but the same oscillation frequency and damping rate. Due to the absence of directional symmetry in the loop, it seems that the propagating components of the standing wave cannot have the same oscillation frequency and damping rate. To overcome this problem, in the perturbation method employed, we let both the oscillation frequency and damping rate be perturbed. As the flow speed increases the oscillation frequency of the standing wave decreases but its damping rate increases. As a result, the ratio of the oscillation frequency to the damping rate of the standing wave becomes a more decreasing function of the flow speed. The flow is an important quantity in determining the effectiveness of resonant absorption. In flowing loops even in the case of a thin transitional layer, resonant absorption can result in a damping rate on the order of the period time, which is in agreement with observations.
+]]></content:encoded>
+
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Influence of Different Phases of a Solar Flare on Changes in the Total Electron Content in the Earth’s Ionosphere</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad631d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad631d</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳耀斑, 电离层, X射线, 极端紫外线, 电子浓度
+总结:
+太阳耀斑发出的X射线和极端紫外辐射会导致地球电离层中电子浓度显著增加。过去的研究已经对太阳耀斑的冲击阶段对总电子含量（TEC）的影响进行了充分的研究，但最近的研究表明，大部分X级耀斑都会有一个强烈的“EUV晚期”辐射峰，其对电离层层化的影响尚不清楚。通过对2011年11月3日发生的X2.9太阳耀斑的冲击、逐渐和晚期阶段的太阳辐射及其引起的TEC变化进行综合分析，得出了较弱的Fe xv 28.4 nm太阳辐射在EUV晚期的高地球效应。研究发现，相对较弱的EUV晚期辐射对X2.9太阳耀斑的电离层反应几乎相当于冲击阶段的TEC增加的三分之一。 <div>
+Variations in X-ray and extreme ultraviolet (EUV) irradiance during solar flares lead to a noticeable increase in the electron concentration in the illuminated part of the Earth’s ionosphere. Due to the large amount of experimental data accumulated by global navigation satellite systems, the total electron content (TEC) response to the impulsive phase of a solar flare has been studied quite well. However, recent studies have shown that a large fraction of X-class flares have a second strong peak of warm coronal emission (which is called “EUV late phase”), whose influence on the ionization of ionospheric layers is not yet clear. A combined analysis of successive solar emissions and the caused TEC changes made it possible to numerically estimate the ionospheric response to the impulsive, gradual, and late phases of the X2.9 solar flare that occurred on 2011 November 3 and demonstrate the high geoeffectiveness of the rather weak Fe xv 28.4 nm solar emission during the EUV late phase. It was found that the ionospheric response to the relatively weak emissions of the EUV late phase of the X2.9 solar flare amounted to almost a third of the TEC increase during the impulsive phase.
+]]></content:encoded>
+
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Merger Shocks Enhance Quenching in Local Galaxy Clusters</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d0</guid>
+<content:encoded><![CDATA[
+<div> 低红移，星系团，射电遗迹，熄灭，环境熄灭
+总结:<br><br>这项研究报告了有关低红移星系团中承载射电遗迹的增强熄灭现象的证据。这种影响在低质量星系中最为显著，并且与恒星形成的快速熄灭一致。这些结果暗示了星系团内的并合激波在驱动环境熄灭中发挥了作用，我们认为这是由于这些干扰系统中的拉伸压力增加所致。 <div>
+We report evidence for enhanced quenching in low-redshift galaxy clusters hosting radio relics. This effect is strongest for low-mass galaxies and is consistent with a rapid quenching of star formation. These results imply that merger shocks in the intracluster medium play a role in driving environmental quenching, which we argue is due to elevated ram pressure in these disturbed systems.
 ]]></content:encoded>
 
 <pubDate>2024-08-19T23:00:00Z</pubDate>
 </item>
 
+<item>
+<title>Ionized and Cold Gas Components in Low Surface Brightness Galaxy AGC 102004</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6848</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6848</guid>
+<content:encoded><![CDATA[
+<div> PCWI, ionized gas, AGC 102004, metallicity, CO(2–1)
+<br />
+利用PCWI观测了AGC 102004的离子化气体(Hα和[N II])，并使用JCMT接收机进行了深入的CO(2–1)观测。Hα的速度场显示出北西部盘的异常分布，其谱线以两个高斯分量进行良好拟合，其中弱高斯分量由北西盘的异常Hα主导。Hα发射的高斯拟合中心偏离了+24.2 km s−1，得到的系统速度与H i发射的系统速度不符。我们利用[N II]λ6583/Hα比值作为代理推导了气相金属丰度12+log(O/H)，整个星系的平均值为8.30 ± 0.19。外部盘的金属丰度低至探测限7.72，表明AGC 102004存在金属丰度梯度。我们推测北西盘可能发生了次要/微小并合事件。AGC 102004中的CO(2–1)发射未探测到，噪声水平为0.33 mK，经过30 km s−1平滑。AGC 102004中的分子气体质量上限为2.1 × 107M⊙，XCO = 3.02 × 1020 cm−2 (K km s−1)−1。AGC 102004的M_gas/L_B比值低于0.0037，低于正常星系。 
+<br /><br />总结: 这篇文章使用PCWI和JCMT观测了AGC 102004的离子化气体和CO(2–1)。发现Hα速度场异常分布，气相金属丰度呈梯度分布。通过分析推测了北西盘可能存在次要/微小并合事件。CO(2–1)发射未被探测到，M_gas/L_B比值低于正常星系。 <div>
+We present the integral field spectroscopic observations of ionized gas (Hα and [N II]) using the PCWI, along with deep CO(2–1) observations by the receiver on JCMT for AGC 102004. The velocity field of Hα shows an anomalous distribution in the northwestern (NW) disk. The Hα spectrum is well-fitted by two Gaussian components, and the weak Gaussian component is dominated by the anomalous Hα in the NW disk. The Gaussian fit center of Hα emission is offset by +24.2 km s−1 from the systemic velocity obtained from the H i emission. We derive the gas-phase metallicity, 12+log(O/H), using [N II]λ6583/Hα ratio as a proxy. The mean value of 12+log(O/H) is 8.30 ± 0.19 over the whole galaxy. The metallicity in the outer disk is lower than the detection limit of 7.72, indicating the metallicity gradient exists in AGC 102004. We speculate a minor/mini-merger event could have happened to the NW disk. CO(2–1) emission has nondetection in AGC 102004, reaching a noise level of 0.33 mK smoothed to 30 km s−1. The upper limit of molecular gas mass in AGC 102004 is 2.1 × 107M⊙ with XCO = 3.02 × 1020 cm−2 (K km s−1)−1. The /M of AGC 102004 is lower than 0.0037 and lower than that of normal galaxies.
+]]></content:encoded>
+<pubDate>2024-08-19T23:00:00Z</pubDate>
+</item>
 <item>
 <title>Constraints on the Lyman Continuum Escape from Low-mass Lensed Galaxies at 1.3 ≤ z ≤ 3.0</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad554d</link>
@@ -11683,18 +11772,6 @@ Sun-like stars are thought to accrete most of their final mass during the protos
 
 总结:<br /><br />本文讨论了原行星盘湍流的理论，并探讨了一个广泛采用的假设，即最大湍流涡的周转频率ΩL等于局部开普勒频率ΩK的假设。文章指出这种假设不适用于数值强迫湍流或由自然过程驱动的情况。作者提出了更一般的情况，并研究了当ΩL ≥ ΩK时的特征长度和速度比例。文章还提到了在这种情况下的影响，对粒子碰撞动力学、成长以及行星形成等方面产生了重要影响。文章的研究有助于解释近期对边缘盘的观测，并对观测结果有着更一般的影响。 <div>
 In the theory of protoplanetary disk turbulence, a widely adopted ansatz, or assumption, is that the turnover frequency of the largest turbulent eddy, ΩL, is the local Keplerian frequency ΩK. In terms of the standard dimensionless Shakura–Sunyaev α parameter that quantifies turbulent viscosity or diffusivity, this assumption leads to characteristic length and velocity scales given respectively by and , in which H and c are the local gas scale height and sound speed. However, this assumption is not applicable in cases when turbulence is forced numerically or driven by some natural processes such as vertical shear instability. Here, we explore the more general case where ΩL ≥ ΩK and show that, under these conditions, the characteristic length and velocity scales are respectively and , where is twice the Rossby number. It follows that , where is the root-mean-square average of the turbulent velocities. Properly allowing for this effect naturally explains the reduced particle scale heights produced in shearing box simulations of particles in forced turbulence, and it may help with interpreting recent edge-on disk observations; more general implications for observations are also presented. For , the effective particle Stokes numbers are increased, which has implications for particle collision dynamics and growth, as well as for planetesimal formation.
-]]></content:encoded>
-<pubDate>2024-04-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Tip of the Red Giant Branch Distances with JWST: An Absolute Calibration in NGC 4258 and First Applications to Type Ia Supernova Hosts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e0a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e0a</guid>
-<content:encoded><![CDATA[
-<div> 红巨星分支、JWST、F090W、NGC 4258、银河系距离测量
-总结:
-红巨星分支（TRGB）是利用低质量红巨星在氦闪之前的最亮上升来测量邻近星系精确距离的技术。JWST的出现使得该技术可以测量至少50 Mpc的星系距离，大大超过HST的20 Mpc的范围。使用F090W滤光片的绝对校准提供了TRGB测量的绝对参考。NGC 4258的图像数据提供了直接的几何距离测量，利用几种测量技术，得到了金属贫乏TRGB为-4.362 ± 0.033 (stat) ± 0.045 (sys)等级（vega）的结果。对NGC 1559和NGC 5584进行的TRGB测量与以前用Cepheids方法测得的距离结果一致。此外，还意外发现了NGC 5584附近的一个微弱的矮星系。 <div>
-The tip of the red giant branch (TRGB) allows for the measurement of precise and accurate distances to nearby galaxies based on the brightest ascent of low-mass red giant branch stars before they undergo the helium flash. With the advent of JWST, there is great promise to utilize the technique to measure galaxy distances out to at least 50 Mpc, significantly further than the Hubble Space Telescope's (HST's) reach of 20 Mpc. However, with any standard candle, it is first necessary to provide an absolute reference. Here, we use Cycle 1 data to provide an absolute calibration in the F090W filter. F090W is most similar to the F814W filter commonly used for TRGB measurements with HST, which had been adopted by the community due to its minimal dependence on the underlying metallicities and ages of stars. The imaging we use was taken in the outskirts of NGC 4258, which has a direct geometrical distance measurement from the Keplerian motion of its water megamaser. Utilizing several measurement techniques, we find = −4.362 ± 0.033 (stat) ± 0.045 (sys) mag (Vega) for the metal-poor TRGB. We also perform measurements of the TRGB in two Type Ia supernova hosts, NGC 1559 and NGC 5584. We find good agreement between our TRGB distances and previous determinations of distances to these galaxies from Cepheids (Δ = 0.01 ± 0.06 mag), with these differences being too small to explain the Hubble tension (∼0.17 mag). In addition, we showcase the serendipitous discovery of a faint dwarf galaxy near NGC 5584.
 ]]></content:encoded>
 <pubDate>2024-04-25T23:00:00Z</pubDate>
 </item>
