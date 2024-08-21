@@ -4,6 +4,112 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Concurrent Particle Acceleration and Pitch-angle Anisotropy Driven by Magnetic Reconnection: Ion-electron Plasmas</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fe</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fe</guid>
+<content:encoded><![CDATA[
+<div> 磁重联，粒子加速，偏角各向异性，离子-电子等离子体，粒子动力学<br>
+总结：<br>
+本文研究了高度磁化离子-电子等离子体中磁重联产生的粒子加速和偏角各向异性。通过全粒子动力学模拟，我们证明磁重联产生了各向异性粒子分布，其特征是在粒子能量谱中呈现出破裂的幂律分布fs(ε) ∝ ε−p和偏角。这些分布的特征由磁场的导向和重联分量（Bg/B0）的相对强度以及等离子体磁化（σ0）决定。在注入断裂能量ε0以下，无论Bg/B0和σ0均≳ 1，离子和电子能谱都非常硬（p< ≲ 1），而在ε0以上，谱指数变陡（p> ≳ 2），对Bg/B0和σ0显示出很高的敏感性。偏角呈现出具有负斜率（m<）的幂律范围，在ε0以下且具有正斜率（m>）的幂律范围，在ε0以上，并且随着Bg/B0和σ0的增加而变陡。偏角各向异性还引起温度各向异性，并减缓了同步辐射冷却，同时产生了与磁场对齐的射束辐射，这可能是频率快速变化的原因。磁场的重分布还导致了光学薄的同步辐射功率谱Fν(ν) ∝ ν(2−2p+m)/(4+m)和线偏振度Πlin = (p + 1)/(p + 7/3 + m/3)。 <div>
+Particle acceleration and pitch-angle anisotropy resulting from magnetic reconnection are investigated in highly magnetized ion-electron plasmas. By means of fully kinetic particle-in-cell simulations, we demonstrate that magnetic reconnection generates anisotropic particle distributions , characterized by broken power laws in the particle energy spectrum fs(ε) ∝ ε−p and pitch angle . The characteristics of these distributions are determined by the relative strengths of the magnetic field’s guide and reconnecting components (Bg/B0) and the plasma magnetization (σ0). Below the injection break energy ε0, ion and electron energy spectra are extremely hard (p< ≲ 1) for any Bg/B0 and σ0 ≳ 1, while above ε0 the spectral index steepens (p> ≳ 2), displaying high sensitivity to both Bg/B0 and σ0. The pitch angle displays power-law ranges with negative slopes (m<) below and positive slopes (m>) above , steepening with increasing Bg/B0 and σ0. The ratio Bg/B0 regulates the redistribution of magnetic energy between ions (ΔEi) and electrons (ΔEe), with ΔEi ≫ ΔEe for Bg/B0 ≪ 1, ΔEi ∼ ΔEe for Bg/B0 ∼ 1, and ΔEi ≪ ΔEe for Bg/B0 ≫ 1, with ΔEi/ΔEe approaching unity when σ0 ≫ 1. The anisotropic distribution of accelerated particles results in an optically thin synchrotron power spectrum Fν(ν) ∝ ν(2−2p+m)/(4+m) and a linear polarization degree Πlin = (p + 1)/(p + 7/3 + m/3) for a uniform magnetic field. Pitch-angle anisotropy also induces temperature anisotropy and eases synchrotron cooling, along with producing beamed radiation aligned with the magnetic field, which is potentially responsible for rapid frequency-dependent variability.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Ultraviolet Luminosity Function at 0.6 < z < 1 from UVCANDELS</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5540</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5540</guid>
+<content:encoded><![CDATA[
+<div> 关键词: UVCANDELS, Hubble Space Telescope, UV imaging, photometric redshift, luminosity function
+总结: 
+UVCANDELS是哈勃空间望远镜授予的研究项目，通过对四个CANDELS领域进行紫外线和光学成像，覆盖面积约为426平方弧分，比之前深空紫外线数据覆盖面积大约多2.7倍。研究团队采用了新的光度测定方法，识别了5810个红移在0.6 < z < 1之间的星系，并进行了UV LF的分析。研究发现在z ∼ 0.8时的最佳拟合斜率，同时观察到在红移上可能发生的演化。最后得到了在MUV < −10时的UV光度密度。UVCANDELS的新光度目录已经公开发布在巴巴拉·米库尔斯基空间望远镜存档中。<br><br> <div>
+UVCANDELS is a Hubble Space Telescope Cycle-26 Treasury Program awarded 164 orbits of primary ultraviolet (UV) F275W imaging and coordinated parallel optical F435W imaging in four CANDELS fields—GOODS-N, GOODS-S, EGS, and COSMOS—covering a total area of ∼426 arcmin2. This is ∼2.7 times larger than the area covered by previous deep-field space UV data combined, reaching a depth of about 27 and 28 ABmag (5σ in 0.”2 apertures) for F275W and F435W, respectively. Along with new photometric catalogs, we present an analysis of the rest-frame UV luminosity function (LF), relying on our UV-optimized aperture photometry method, yielding a factor of 1.5 increase over H-isophot aperture photometry in the signal-to-noise ratios of galaxies in our F275W imaging. Using well-tested photometric redshift measurements, we identify 5810 galaxies at redshifts 0.6 < z < 1, down to an absolute magnitude of MUV = −14.2. In order to minimize the effect of uncertainties in estimating the completeness function, especially at the faint end, we restrict our analysis to sources above 30% completeness, which provides a final sample of 4726 galaxies at −21.5 < MUV < −15.5. We performed a maximum likelihood estimate to derive the best-fit parameters of the UV LF. We report a best-fit faint-end slope of at z ∼ 0.8. Creating subsamples at z ∼ 0.7 and z ∼ 0.9, we observe a possible evolution of α with redshift. The unobscured UV luminosity density at MUV < −10 is derived as using our best-fit LF parameters. The new F275W and F435 photometric catalogs from UVCANDELS have been made publicly available on the Barbara A. Mikulski Archive for Space Telescopes.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Flaring Stars in a Nontargeted Millimeter-wave Survey with SPT-3G</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58db</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58db</guid>
+<content:encoded><![CDATA[
+<div> 星等，南极望远镜，毫米波，耀斑星，事件<br>
+总结:<br>
+这篇文章介绍了南极望远镜进行的毫米波观测数据，通过短暂持续时间的过渡性搜寻发现了111次耀斑事件来自66颗恒星，扩大了之前 SPT-3G 数据发布中检测到的耀斑事件和耀斑星数量的数量级。研究人员提供了与Gaia DR3的匹配，并与第二个ROSAT全天巡天中发现的X射线点源进行了匹配。他们还发现了各种类型的耀斑星，包括主序星和演化恒星，这些星大多都在附近，距离为10-1000 pc。耀斑事件的时间尺度范围从几分钟到几小时不等，而峰值νLν光度在SPT-3G频段为10^27到10^31 erg s^−1。 <div>
+We present a flare star catalog from 4 yr of nontargeted millimeter-wave survey data from the South Pole Telescope (SPT). The data were taken with the SPT-3G camera and cover a 1500 deg2 region of the sky from 20h40m0s to 3h20m0s in right ascension and from −42° to −70° in declination. This region was observed on a nearly daily cadence from 2019 to 2022 and chosen to avoid the plane of the galaxy. A short-duration transient search of this survey yields 111 flaring events from 66 stars, increasing the number of both flaring events and detected flare stars by an order of magnitude from the previous SPT-3G data release. We provide cross-matching to Gaia DR3, as well as matches to X-ray point sources found in the second ROSAT all-sky survey. We have detected flaring stars across the main sequence, from early-type A stars to M dwarfs, as well as a large population of evolved stars. These stars are mostly nearby, spanning 10–1000 pc in distance. Most of the flare spectral indices are constant or gently rising as a function of frequency at 95/150/220 GHz. The timescale of these events can range from minutes to hours, and the peak νLν luminosities range from 1027 to 1031 erg s−1 in the SPT-3G frequency bands.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Why Are (Almost) All the Protostellar Outflows Aligned in Serpens Main?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a02</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a02</guid>
+<content:encoded><![CDATA[
+<div> 关键词: JWST-NIRCam, Serpens Main, protostellar outflows, alignment, filament
+
+JWST-NIRCam（詹姆斯·韦伯太空望远镜-近红外相机）使用深度1.4–4.8μm波段拍摄了Serpens Main恒星形成区的图像，识别出20个候选原恒星喷流，大多具有双极结构，并确定了驱动源。喷流的位置角（PA）强相关，并且与Serpens小丝的主轴±24°内对齐。这些方向进一步与该区域两个盘阴影的角动量矢量对齐。通过估算发现，如果采样自均匀PA分布，这么多年轻恒星对齐的概率为10^-4。这表明，这些对齐的原恒星，根据其喷流动力学，似乎处于类似的演化阶段，是在类似时间内形成，并且继承了一个局部云小丝的类似自旋。此外，还有初步证据表明，西北部和东南部星团的平均PA之间存在系统性变化，以及东南部原恒星的PA散度增加。Serpens Main的SOFIA-HAWC+存档尘埃偏振观测数据显示，在特别是西北地区，与主导的喷流方向垂直。我们测量并定位了所有喷流的冲击节点和边缘，并提供了一个识别目录。我们推测Serpens Main是一个从孤立小丝形成的星团，由于其年轻性保留了其原始喷流对齐性。 <br><br>总结: 本研究利用JWST-NIRCam深度观测了Serpens Main星形成区，并发现了20个候选原恒星喷流，并确定了它们的驱动源。研究发现这些喷流的位置角呈现强相关，并与该区域的小丝主轴对齐。这表明这些对齐的原恒星可能是在相似时间内形成，并继承自局部云小丝的类似自旋。此外，还发现了对北西和东南星团的平均PA存在系统性变化，以及东南部原恒星的PA散度增加。SOIA-HAWC+存档的观测数据也显示了垂直于主导喷流方向的情况。 <div>
+We present deep 1.4–4.8 μm JWST-NIRCam imaging of the Serpens Main star-forming region and identify 20 candidate protostellar outflows, most with bipolar structure and identified driving sources. The outflow position angles (PAs) are strongly correlated, and they are aligned within ±24° of the major axis of the Serpens filament. These orientations are further aligned with the angular momentum vectors of the two disk shadows in this region. We estimate that the probability of this number of young stars being coaligned if sampled from a uniform PA distribution is 10−4. This in turn suggests that the aligned protostars, which seem to be at similar evolutionary stages based on their outflow dynamics, formed at similar times with a similar spin inherited from a local cloud filament. Further, there is tentative evidence for a systematic change in average PA between the northwestern and southeastern cluster, as well as increased scatter in the PAs of the southeastern protostars. SOFIA-HAWC+ archival dust polarization observations of Serpens Main at 154 and 214 μm are perpendicular to the dominant jet orientation in the northwestern region in particular. We measure and locate shock knots and edges for all of the outflows and provide an identifying catalog. We suggest that Serpens main is a cluster that formed from an isolated filament and due to its youth retains its primordial outflow alignment.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Closing the Net on Transient Sources of Ultrahigh-energy Cosmic Rays</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a11</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a11</guid>
+<content:encoded><![CDATA[
+<div> UHECRs, cosmic magnetism, Local Sheet, transient emissions, gamma-ray bursts
+<br><br>总结:
+本研究基于UHECRs的到达方向和射线强度提供了瞬变源的证据，并将光学和红外调查得到的三维物质分布作为UHECRs源的密度模型。研究发现，本地薄片是地球观测者所观察到的UHECR爆发的磁化结构，并且还提出了磁场的湍流振幅必须在0.5-20 nG范围内，换言之，UHECRs的爆发率密度必须在50-5000 Gpc^-3 yr^-1的范围内才能合理解释观测到的UHECRs。最后，研究表明，唯一符合加速UHECRs能谱要求的星际瞬变事件是长持续时间的伽玛射线暴。 <div>
+The arrival directions of ultrahigh-energy cosmic rays (UHECRs) observed above 4 × 1019 eV provide evidence of localized excesses that are key to identifying their sources. We leverage the 3D matter distribution from optical and infrared surveys as a density model of UHECR sources, which are considered to be transient. Agreement of the sky model with UHECR data imposes constraints on both the emission rate per unit matter and the time spread induced by encountered turbulent magnetic fields. Based on radio measurements of cosmic magnetism, we identify the Local Sheet as the magnetized structure responsible for the kiloyear duration of UHECR bursts for an observer on Earth and find that the turbulence amplitude must be within 0.5–20 nG for a coherence length of 10 kpc. At the same time, the burst-rate density must be above 50 Gpc−3 yr−1 for Local Sheet galaxies to reproduce the UHECR excesses and below 5000 Gpc−3 yr−1 (30,000 Gpc−3 yr−1) for the Milky Way (Local Group galaxies) not to outshine other galaxies. For the transient emissions of protons and nuclei to match the energy spectra of UHECRs, the kinetic energy of the outflows responsible for UHECR acceleration must be below 4 × 1054 erg and above 5 × 1050 erg (2 × 1049 erg) if we consider the Milky Way (or not). The only stellar-sized transients that satisfy both Hillas’ and our criteria are long-duration gamma-ray bursts.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A High-resolution Imaging Survey of Massive Young Stellar Objects in the Magellanic Clouds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bd9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bd9</guid>
+<content:encoded><![CDATA[
+<div> 关键词: mYSOs, 大麦哲伦星云, 小麦哲伦星云, 宽双星, 金属丰度
+
+总结:
+该研究对大麦哲伦星云和小麦哲伦星云内34个mYSOs进行了观测，发现在大麦哲伦星云中宽双星的比例为9% ± 5%，而在小麦哲伦星云中则低于5%。研究排除了大麦哲伦星云和小麦哲伦星云中宽双星比例高于35%和38%的可能性。相比之下，据文献报道，银河系中mYSOs的宽双星比例约为15%–60%。研究认为金属丰度和环境因素可能影响了大质量恒星宽双星的形成。未来需要更大规模的低金属丰度环境下的高质量系统样本，以确认或反驳该观点。<br><br> <div>
+Constraints on the binary fraction of massive young stellar objects (mYSOs) are important for binary and massive star formation theory. Here, we present speckle imaging of 34 mYSOs located in the Large Magellanic Cloud (1/2 Z⊙) and Small Magellanic Cloud (∼1/5 Z⊙), probing projected separations in the 2000 to 20,000 au (at angular scales of 0.″02–0.″2) range, for stars above 8 M⊙. We find two wide binaries in the Large Magellanic Cloud (from a sample of 23 targets), but none in a sample of 11 in the Small Magellanic Cloud, leading us to adopt a wide binary fraction of 9% ± 5% and <5%, respectively. We rule out a wide binary fraction greater than 35% in the Large Magellanic Cloud and 38% in the Small Magellanic Cloud at the 99% confidence level. This is in contrast to the wide binary fraction of mYSOs in the Milky Way (presumed to be 1 Z⊙), which within the physical parameter space probed by this study is ∼15%–60% from the literature. We argue that while selection effects could be responsible for the lower binary fraction observed, it is more likely that there are underlying physical mechanisms responsible for the observed properties. This indicates that metallicity and environmental effects may influence the formation of wide binaries among massive stars. Future larger, more statistically significant samples of high-mass systems in low-metallicity environments for comparison to the Milky Way, are essential to confirm or repudiate our claim.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Time Profile Study of Type III Solar Radio Bursts Using Parker Solar Probe</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e77</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e77</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Solar type III radio bursts, Parker Solar Probe, electron activity, frequency, burst duration
+
+总结:
+太阳III型射电爆发是太阳冕层和星际空间中高能电子活动的重要指标。本研究分析了帕克太阳探测器在05至11次接触期间记录的43次星际III型射电爆发，观察频率范围在19-0.5 MHz之间的时间特征。研究结果显示，这些射电爆发的持续时间、速度、带宽和漂移速率均与频率有关。电子束的速度与爆发持续时间呈负相关，速度越快，持续时间越短。此外，爆发持续时间与上升、峰值和衰减时间呈现出明显的相关性，说明整个时间轮廓共同影响事件持续时间。这些复杂的发现揭示了影响爆发动态的物理机制，揭示了电子束特性与观测到的III型太阳射电爆发的时间和频谱特性之间错综复杂的相互作用。 <br><br> <div>
+Solar type III radio bursts are crucial indicators of energetic electron activity in the solar corona and interplanetary space. Our assessment of 43 interplanetary type III bursts, recorded by the FIELDS instrument on board the Parker Solar Probe during Encounters 05 to 11, has led to significant and complex findings. We have analyzed time profile features across a frequency range of 19–0.5 MHz, revealing dependencies on frequency and providing insights into duration, burst speeds, bandwidths, and drift rates. This novel analysis has unveiled a spectral index of −0.63 ± 0.04 for rise, −0.69 ± 0.03 for decay time, and −0.68 ± 0.03 for the total duration. We have determined the average electron beam velocities for front, middle, and back as 0.15c, 0.13c, and 0.08c, respectively. Our findings show that faster electron beams generate emissions with shorter duration. The average ratio of the front-to-back velocity is 1.87, and the ratio of front-to-middle velocity is 1.23. We have also discovered a strong relationship between burst duration with rise, peak, and decay times, particularly pronounced with decay time (correlation coefficient = 0.95). This indicates that the entire temporal profile, including rise, peak, and decay phases, collectively contributes to event duration and is not solely influenced by external factors like plasma conditions or electron beam dynamics but also by internal burst processes. These complex findings shed light on the physical mechanisms governing burst dynamics, revealing intricate interactions between electron beam characteristics and observed temporal and spectral traits of type III solar radio bursts.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Magnetization Factors of Gamma-Ray Burst Jets Revealed by a Systematic Analysis of the Fermi Sample</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f91</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f91</guid>
+<content:encoded><![CDATA[
+<div> Fermi GRBs, jets, magnetization, σ0, spectrum
+总结:
+本研究通过对所有已知红移的Fermi GRB的时间分辨光谱进行广泛分析，通过对比热辐射和非热辐射组分，诊断了每个时间段的σ0。结果表明，大多数GRB射流可能包含显著的磁能量组分，可能具有磁化因子σ0 ≥ 10。σ0的值在同一个GRB内似乎变化显著。未来的研究将通过更多样本的实验，特别是那些覆盖更低能光谱信息的实验，进一步验证我们的结果。 <div>
+The composition of gamma-ray burst (GRB) jets remained a mystery until recently. In practice, we usually characterize the magnetization of the GRB jets (σ0) through the ratio between the Poynting flux and matter (baryonic) flux. With the increasing value of σ0, magnetic energy gradually takes on a dominant role in the acceleration and energy dissipation of the jet, causing the proportion of thermal component in the prompt-emission spectrum of GRBs to gradually decrease or even be completely suppressed. In this work, we conducted an extensive analysis of the time-resolved spectrum for all Fermi GRBs with known redshift, and we diagnose σ0 for each time bin by contrasting the thermal and nonthermal radiation components. Our results suggest that most GRB jets should contain a significant magnetic energy component, likely with magnetization factors σ0 ≥ 10. The value of σ0 seems to vary significantly within the same GRB. Future studies with more samples, especially those with lower-energy spectral information coverage, will further verify our results.
+]]></content:encoded>
+
+<pubDate>2024-08-20T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Erratum: “Search for sub-TeV Neutrino Emission from Novae with IceCube-DeepCore” (2023, ApJ, 953, 160)</title>
