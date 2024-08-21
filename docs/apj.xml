@@ -4,19 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Zwicky Transient Facility Bright Transient Survey. III. BTSbot: Automated Identification and Follow-up of Bright Transients with Deep Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5666</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5666</guid>
 <content:encoded><![CDATA[
-<div> 联接扫描, 多模态卷积神经网络, 光谱跟踪, 可视化检查, 明亮暂变天文现象<br>
-BTSbot是一种多模态卷积神经网络，利用图像数据和25个提取特征为ZTF检测结果提供明亮的瞬变分数。该技术不需要日常人工扫描，能够自动识别并请求光谱跟踪观测新的明亮瞬变候选目标。BTSbot不受任何数据偏移的影响，在测试样本中表现出色。BTSbot已整合到Fritz和Kowalski中，并能够实时发送光谱跟踪请求，大大减少了人工扫描所需的时间。 在2023年12月至2024年5月期间，BTSbot实时选择了609个来源，其中96%是真实的外星暂现现象。通过BTSbot和其他自动化工具，BTS的工作流程已经实现了第一个完全自动化的暂变现象的发现和分类，这代表了人工扫描所需时间的显著减少。 <br><br>总结: <br> 多模态卷积神经网络BTSbot能够自动识别并请求光谱跟踪观测新的明亮瞬变候选目标。BTSbot不受任何数据偏移的影响，在测试样本中表现出色。BTSbot已整合到Fritz和Kowalski中，并能够实时发送光谱跟踪请求，大大减少了人工扫描所需的时间。BTS的工作流程已经实现了第一个完全自动化的暂变现象的发现和分类，这代表了人工扫描所需时间的显著减少。 <div>
+<div> 联接扫描, 多模态卷积神经网络, 光谱跟踪, 可视化检查, 明亮暂变天文现象<br />
+BTSbot是一种多模态卷积神经网络，利用图像数据和25个提取特征为ZTF检测结果提供明亮的瞬变分数。该技术不需要日常人工扫描，能够自动识别并请求光谱跟踪观测新的明亮瞬变候选目标。BTSbot不受任何数据偏移的影响，在测试样本中表现出色。BTSbot已整合到Fritz和Kowalski中，并能够实时发送光谱跟踪请求，大大减少了人工扫描所需的时间。 在2023年12月至2024年5月期间，BTSbot实时选择了609个来源，其中96%是真实的外星暂现现象。通过BTSbot和其他自动化工具，BTS的工作流程已经实现了第一个完全自动化的暂变现象的发现和分类，这代表了人工扫描所需时间的显著减少。 <br /><br />总结: <br /> 多模态卷积神经网络BTSbot能够自动识别并请求光谱跟踪观测新的明亮瞬变候选目标。BTSbot不受任何数据偏移的影响，在测试样本中表现出色。BTSbot已整合到Fritz和Kowalski中，并能够实时发送光谱跟踪请求，大大减少了人工扫描所需的时间。BTS的工作流程已经实现了第一个完全自动化的暂变现象的发现和分类，这代表了人工扫描所需时间的显著减少。 <div>
 The Bright Transient Survey (BTS) aims to obtain a classification spectrum for all bright (mpeak ≤ 18.5 mag) extragalactic transients found in the Zwicky Transient Facility (ZTF) public survey. BTS critically relies on visual inspection (“scanning”) to select targets for spectroscopic follow-up, which, while effective, has required a significant time investment over the past ∼5 yr of ZTF operations. We present BTSbot, a multimodal convolutional neural network, which provides a bright transient score to individual ZTF detections using their image data and 25 extracted features. BTSbot is able to eliminate the need for daily human scanning by automatically identifying and requesting spectroscopic follow-up observations of new bright transient candidates. BTSbot recovers all bright transients in our test split and performs on par with scanners in terms of identification speed (on average, ∼1 hr quicker than scanners). We also find that BTSbot is not significantly impacted by any data shift by comparing performance across a concealed test split and a sample of very recent BTS candidates. BTSbot has been integrated into Fritz and Kowalski, ZTF’s first-party marshal and alert broker, and now sends automatic spectroscopic follow-up requests for the new transients it identifies. Between 2023 December and 2024 May, BTSbot selected 609 sources in real time, 96% of which were real extragalactic transients. With BTSbot and other automation tools, the BTS workflow has produced the first fully automatic end-to-end discovery and classification of a transient, representing a significant reduction in the human time needed to scan.
 ]]></content:encoded>
-
 <pubDate>2024-08-20T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Robust r-process Nucleosynthesis beyond Lanthanides in the Common Envelop Jet Supernovae</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f8e</link>
@@ -11727,18 +11726,6 @@ GRB 221009A has posed a significant challenge to our current understanding of th
 
 研究利用HR5模拟预测了在宇宙的早期（10≳z≳4）星系的盘状形态在ΛCDM宇宙中占主导地位，这种形态是由物质初始波动中的潮汐力所驱动的。通过在公开发布的领域中利用深度JWST/NIRCam图像，识别了约19,000个JWST星系，并对其进行了对比观测，结果表明在各个红移范围下盘状星系占比60%-70%，但在高质量星系中，球状形态成为主导类型。这意味着星系的质量增长伴随着从盘状到球状的形态过渡。总体而言，星系的形态分布与HR5模拟得出的结果高度一致。这些结果进一步证实了在宇宙早期和正午时盘状星系占主导地位。 <br /><br />总结: <br />红移、宇宙早期、星系形态、JWST望远镜、HR5模拟。 <div>
 A recent study from the Horizon Run 5 (HR5) cosmological simulation has predicted that galaxies with in the cosmic morning (10 ≳ z ≳ 4) dominantly have disk-like morphology in the ΛCDM universe, which is driven by the tidal torque in the initial fluctuations of matter. For a direct comparison with observation we identify a total of about 19,000 James Webb Space Telescope (JWST) galaxies with at z = 0.6–8.0 utilizing deep JWST/NIRCam images of publicly released fields, including North Ecliptic Pole Time-Domain Fields, Next Generation Deep Extragalactic Exploratory Public survey, Cosmic Evolution Early Release Science Survey, Cosmic Evolution Survey, UltraDeep Survey, and SMACS J0723-7327. We estimate their stellar masses and photometric redshifts with the redshift dispersion of σNMAD = 0.009 and an outlier fraction of only about 6%. We classify galaxies into three morphological types, disks,spheroids, and irregulars, applying the same criteria used in the HR5 study. The morphological distribution of the JWST galaxies shows that disk galaxies account for 60%–70% at all redshift ranges. However, in the high-mass regime ( ), spheroidal morphology becomes the dominant type. This implies that the mass growth of galaxies is accompanied by a morphological transition from disks to spheroids. The fraction of irregulars is about 20% or less at all masses and redshifts. All the trends in the morphology distribution are consistently found in the six JWST fields. These results are in close agreement with the results from the HR5 simulation, particularly confirming the prevalence of disk galaxies at small masses in the cosmic morning and noon.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Impact of Helium ii Resonant Absorption on the Ultraviolet Background Modeled in Three Dimensions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad34d2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad34d2</guid>
-<content:encoded><![CDATA[
-<div> He ii absorption, reemission, UVB, cosmological simulations, reionization
-<br /><br />总结:
-本研究通过在宇宙学模拟中实施He ii吸收和再发射处理，研究其对三维宇宙超紫外背景（UVB）的影响。通过比较具有和没有He ii再处理的模拟，我们发现在He ii Lyman系列共振发生的3.5到4Ryd区间内，UVB平均值在z=10-5之间减弱了约3 dex。在过密区域，整体UVB幅度较高，He ii再处理的影响较小，表明在星系附近He ii再电离的早期开始。将我们的模拟与两种流行的一维UV模型进行比较，发现在z = 5时，能量高达3Ryd以上时，我们的模拟显示出更大的He ii吸收。H i和He ii再电离历史几乎不受He ii再处理的影响，尽管宇宙星系形成率密度受到了高达4%的改变。当考虑He ii时，C iv的宇宙质量密度减少了约2 dex，而Si iv、C ii、Mg ii、Si ii和O i则没有受到影响。 <div>
-We implement a treatment of helium ii absorption and reemission into the Technicolor Dawn cosmological simulations to study its impact on the metagalactic ultraviolet background (UVB) in three dimensions. By comparing simulations with and without He ii reprocessing, we show that it weakens the mean UVB by ∼3 dex from z = 10–5 between 3.5 and 4 Ryd, where the He ii Lyman series resonance occurs. In overdense regions, the overall UVB amplitude is higher, and the impact of He ii reprocessing is weaker, qualitatively indicating an early start to He ii reionization near galaxies. Comparing our simulations to two popular one-dimensional UV models, we find good agreement up to 3 Ryd at z = 5. At higher energies, our simulation shows significantly greater He ii absorption because it accounts for He ii arising both in diffuse regions and in Lyman limit systems. By contrast, the comparison models account only for He ii in Lyman limit systems, which are subdominant prior to the completion of He ii reionization. The H i and He ii reionization histories are nearly unaffected by He ii reprocessing, although the cosmic star formation rate density is altered by up to 4%. The cosmic mass density of C iv is reduced by ∼2 dex when He ii is accounted for, while Si iv, C ii, Mg ii, Si ii, and O i are unaffected.
 ]]></content:encoded>
 <pubDate>2024-04-28T23:00:00Z</pubDate>
 </item>
