@@ -5,6 +5,21 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Massive and Distant Clusters of WISE Survey 2: A Stacking Analysis Investigating the Evolution of Star Formation Rates and Stellar Masses in Groups and Clusters</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5545</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5545</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 银河系演化, 大质量星团, 群团环境, 恒星形成, 光谱能量分布拟合
+
+总结:
+银河系的演化取决于它们的质量和局部环境，研究环境抑制开始操作的时间和方式仍然是一个挑战。研究高红移区域的工作受限于大质量星团成员，这在灵敏度限制或场景范围小时存在偏见。在这项工作中，我们使用堆叠技术研究了来自WISE巨大和遥远星团调查Ⅱ的10,000多个星团的平均恒星形成历史。我们的分析涵盖了近紫外线到远红外波长的星系过密度，处于0.5 ≲ z ≲ 2.54。我们使用光谱能量分布拟合来测量具有半径在0到1000千秒差距之间的四个环形孔径中的比星形成率（sSFR）。在z≳1.6时，平均sSFR在核心和星团外围的演化与领域内一致。在和之间，核心中的sSFR急剧下降，并且在较低红移时继续相对于领域sSFR下降。我们解释这一变化是环境抑制的影响在z∼1.5时显著增加的证据，转变的短时间跨度表明在这个红移上占主导地位的环境抑制机制具有快速的时间尺度。我们发现迹象表明sSFR可能随着母体暗物质哈洛质量的增加而下降，但需要比信噪比更低的质量示踪器来确认这种关系。 <br><br> <div>
+The evolution of galaxies depends on their masses and local environments; understanding when and how environmental quenching starts to operate remains a challenge. Furthermore, studies of the high-redshift regime have been limited to massive cluster members, owing to sensitivity limits or small fields of view when the sensitivity is sufficient, intrinsically biasing the picture of cluster evolution. In this work, we use stacking to investigate the average star formation history of more than 10,000 groups and clusters drawn from the Massive and Distant Clusters of WISE Survey 2. Our analysis covers near-ultraviolet to far-infrared wavelengths, for galaxy overdensities at 0.5 ≲ z ≲ 2.54. We employ spectral energy distribution fitting to measure the specific star formation rates (sSFRs) in four annular apertures with radii between 0 and 1000 kpc. At z ≳ 1.6, the average sSFR evolves similarly to the field in both the core and the cluster outskirts. Between and , the sSFR in the core drops sharply, and it continues to fall relative to the field sSFR at lower redshifts. We interpret this change as evidence that the impact of environmental quenching dramatically increases at z ∼ 1.5, with the short time span of the transition suggesting that the environmental quenching mechanism dominant at this redshift operates on a rapid timescale. We find indications that the sSFR may decrease with increasing host halo mass, but lower-scatter mass tracers than the signal-to-noise ratio are needed to confirm this relationship.
+]]></content:encoded>
+
+<pubDate>2024-08-21T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Radiation RMHD Accretion Flows around Spinning AGNs: A Comparative Study of MAD and SANE State</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a8a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a8a</guid>
@@ -13,10 +28,8 @@
 总结: 该研究主要通过数值模拟研究了围绕旋转超大质量黑洞的二维辐射、相对论性、磁流体力学吸积流。首先构建了一个初始平衡的磁场嵌入扭转圆环，其内部包含初始磁场。通过比较磁致凝固盘和标准演化状态的研究，发现较高的初始磁场强度会导致磁致凝固盘状态。采用自洽的双温度模型评估了模型的总发光度和能谱。发现总发光度主要由自由电子辐射发光而非同步辐射发光所主导。同时通过功率密度谱分析发现了相似的准周期振荡。最后指出，磁致凝固盘状态适用于顺行和逆行吸积流。 <div>
 In our study, we examine a 2D radiation, relativistic, magnetohydrodynamics accretion flow around a spinning supermassive black hole. We begin by setting an initial equilibrium torus around the black hole, with an embedded initial magnetic field inside the torus. The strength of the initial magnetic field is determined by the plasma beta parameter, which is the ratio of the gas pressure to the magnetic pressure. In this paper, we perform a comparative study of the magnetically arrested disc (MAD) and standard and normal evolution (SANE) states. We observe that the MAD state is possible for comparatively high initial magnetic field strength flow. Additionally, we also adopt a self-consistent two-temperature model to evaluate the luminosity and energy spectrum for our model. We observe that the total luminosity is mostly dominated by bremsstrahlung luminosity compared to the synchrotron luminosity due to the presence of a highly dense torus. We also identify similar quasi-periodic oscillations for both MAD and SANE states based on power-density spectrum analysis. Furthermore, our comparative study of the energy spectrum does not reveal any characteristic differences between MAD and SANE states. Last, we note that the MAD state is possible for both prograde and retrograde accretion flow.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Reconstruction of the Dark Energy Scalar Field Potential by Gaussian Process</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fef</link>
@@ -11735,15 +11748,6 @@ Debris disks or exo-Kuiper belts, detected through their thermal or scattered em
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad33b9</guid>
 <content:encoded><![CDATA[
 The computational fluid dynamics on a sphere is relevant to global simulations of geophysical fluid dynamics. Using the conventional spherical–polar (or lat–lon) grid results in a singularity at the poles, with orders-of-magnitude-smaller cell sizes at the poles in comparison to the equator. To address this problem, we developed a general circulation model (dynamic core) with a gnomonic equiangular cubed-sphere configuration. This model is developed based on the Simulating Nonhydrostatic Atmospheres on Planets model, using a finite-volume numerical scheme with a Riemann-solver-based dynamic core and the vertical implicit correction scheme. This change of the horizontal configuration gives a 20-time acceleration of global simulations compared to the lat–lon grid with a similar number of cells at medium resolution. We presented standard tests ranging from 2D shallow-water models to 3D general circulation tests, including Earth-like planets and shallow hot Jupiters, to validate the accuracy of the model. The method described in this article is generic to transform any existing finite-volume hydrodynamic model in the Cartesian geometry to the spherical geometry.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Spectroscopic Observations of the Solar Corona during the 2017 August 21 Total Solar Eclipse: Comparison of Spectral Line Widths and Doppler Shifts between Open and Closed Magnetic Structures</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3424</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3424</guid>
-<content:encoded><![CDATA[
-The spectroscopic observations presented here were acquired during the 2017 August 21 total solar eclipse (TSE) with a three-channel partially multiplexed imaging spectrometer operating at extremely high orders (>50). The 4 R⊙ extent of the slit in the north–south direction scanned the corona starting from the central meridian out to approximately 1.0 R⊙ off the east limb throughout totality. The line widths and Doppler shifts of the Fe x (637.4 nm) and Fe xiv (530.3 nm) emission lines, characteristic of 1.1 × 106 K and 1.8 × 106 K electron temperatures, respectively, varied across the different coronal structures intercepted by the slit. Fe xiv was the dominant emission in the closed fields of an active region and the base of a streamer, with relatively constant 20–30 km s−1 line widths independent of the height. In contrast, Fe x emission exhibited broader (>40 km s−1) line widths in open fields, which increased with height, in particular in the polar coronal hole. Inferences of line widths and Doppler shifts were consistent with extreme ultraviolet (EUV) observations from the Hinode/EUV Imaging Spectrograph, as well as with the near-infrared Fe xiii 1074 nm line observed by Coronal Multichannel Polarimeter. The differences in the spectral line widths between distinct coronal structures are interpreted as an indication of the predominance of wave heating in open structures versus localized heating in closed structures. This study underscores the unparalleled advantages and the enormous potential of TSE spectroscopy in measuring line widths simultaneously in open and closed fields at high altitudes, with minimal exposure times, stray light levels, and instrumental widths.
 ]]></content:encoded>
 <pubDate>2024-04-29T23:00:00Z</pubDate>
 </item>
