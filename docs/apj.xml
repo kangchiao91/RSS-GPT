@@ -5,16 +5,29 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Reconstruction of the Dark Energy Scalar Field Potential by Gaussian Process</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fef</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fef</guid>
+<content:encoded><![CDATA[
+<div> dark energy, scalar field potential, Hubble parameter, Gaussian process analysis, Power Law, Free Field
+
+这篇论文通过高斯过程分析重建了暗能量标量场势V(ϕ)，并使用多个H(z)数据集和先验研究了暗能量。研究发现，先验选择和H(z)数据集的选择明显影响了重建的V(ϕ)。文章比较了两种模型，Power Law和Free Field，通过计算减小的卡方来评估这两种模型与重建势的一致性。结果表明，除了观测到的H(z)数据与Planck 18先验外，两种模型通常在3σ置信区间内与重建势一致。此外，我们还模拟了H(z)数据以衡量增加数据点数量对重建V(ϕ)准确性的影响。发现将H(z)数据点数量翻倍可以将重建V(ϕ)的准确率提高5%–30%。 <br><br>总结: 本文通过高斯过程分析重建了暗能量标量场势V(ϕ)，并研究了暗能量的多个方面，包括先验选择、H(z)数据集的选择以及数据点数量对重建V(ϕ)准确性的影响。比较了两种模型，并提出了重建V(ϕ)准确率的提高方式。 <div>
+Dark energy is believed to be responsible for the acceleration of the Universe. In this paper, we reconstruct the dark energy scalar field potential V(ϕ) using the Hubble parameter H(z) through Gaussian process analysis. Our goal is to investigate dark energy using various H(z) data sets and priors. We find that the selection of the prior and the H(z) data set significantly affects the reconstructed V(ϕ). We compare two models, Power Law and Free Field, to the reconstructed V(ϕ) by computing the reduced chi-square. The results suggest that the models are generally in agreement with the reconstructed potential within a 3σ confidence interval, except in the case of Observational H(z) data with the Planck 18 prior. Additionally, we simulate H(z) data to measure the effect of increasing the number of data points on the accuracy of reconstructed V(ϕ). We find that doubling the number of H(z) data points can improve the accuracy rate of reconstructed V(ϕ) by 5%–30%.
+]]></content:encoded>
+
+<pubDate>2024-08-21T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Planck Dust Polarization Power Spectra Are Consistent with Strongly Supersonic Turbulence</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad571b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad571b</guid>
 <content:encoded><![CDATA[
-<div> cosmic microwave background, polarization, turbulent ISM, power spectra, Planck<br>
-<br>
-这篇文章讨论了宇宙微波背景的偏振数据，以及由于银河系星际介质的前景辐射所遮蔽的问题。研究者通过模拟驱动、磁化、湍流的星际介质模型，测量了密度、速度、磁场、总投影强度以及偶极偏振和奇极偏振的功率谱。他们发现所有六种参数的斜率随声速马赫数增加而增加。大多数参数随磁场马赫数增加而增加，而磁场谱随声速马赫数增加而陡峭。通过比较E和B的谱斜率与Planck观测到的值，他们推断星际介质的典型参数。随着流体速度增加，BB功率与EE功率的比值逼近了Planck观测到的值。研究者还考虑了投影数量之间的相关系数，发现rTE约为0.3，与Planck观测一致，并提出了偶极偏振和奇极偏振之间的相关系数。<br><br>总结: 本文主要研究了宇宙微波背景的偏振数据以及与星际介质的相互关系，通过模拟驱动、磁化、湍流的星际介质模型，测量了各种参数的功率谱，并推断了一些典型的参数值。结果表明各参数的斜率随声速马赫数和磁场马赫数的增加而变化，与Planck观测结果相吻合，为我们理解宇宙微波背景偏振提供了重要信息。 <div>
+<div> cosmic microwave background, polarization, turbulent ISM, power spectra, Planck<br />
+<br />
+这篇文章讨论了宇宙微波背景的偏振数据，以及由于银河系星际介质的前景辐射所遮蔽的问题。研究者通过模拟驱动、磁化、湍流的星际介质模型，测量了密度、速度、磁场、总投影强度以及偶极偏振和奇极偏振的功率谱。他们发现所有六种参数的斜率随声速马赫数增加而增加。大多数参数随磁场马赫数增加而增加，而磁场谱随声速马赫数增加而陡峭。通过比较E和B的谱斜率与Planck观测到的值，他们推断星际介质的典型参数。随着流体速度增加，BB功率与EE功率的比值逼近了Planck观测到的值。研究者还考虑了投影数量之间的相关系数，发现rTE约为0.3，与Planck观测一致，并提出了偶极偏振和奇极偏振之间的相关系数。<br /><br />总结: 本文主要研究了宇宙微波背景的偏振数据以及与星际介质的相互关系，通过模拟驱动、磁化、湍流的星际介质模型，测量了各种参数的功率谱，并推断了一些典型的参数值。结果表明各参数的斜率随声速马赫数和磁场马赫数的增加而变化，与Planck观测结果相吻合，为我们理解宇宙微波背景偏振提供了重要信息。 <div>
 The polarization of the cosmic microwave background is rich in information but obscured by foreground emission from the Milky Way’s interstellar medium (ISM). To uncover relationships between the underlying turbulent ISM and the foreground power spectra, we simulated a suite of driven, magnetized, turbulent models of the ISM, varying the fluid properties via the sonic Mach number, , and magnetic (Alfvén) Mach number, . We measure the power spectra of density (ρ), velocity (v), magnetic field (H), total projected intensity (T), parity-even polarization (E), and parity-odd polarization (B). We find that the slopes of all six quantities increase with . Most increase with , while the magnetic field spectrum steepens with . By comparing spectral slopes of E and B to those measured by Planck, we infer typical values of and for the ISM. As the fluid velocity increases, , the ratio of BB power to EE power increases to approach a constant value near the Planck-observed value of ∼0.5, regardless of the magnetic field strength. We also examine correlation coefficients between projected quantities, and find that rTE ≈ 0.3, in agreement with Planck, for appropriate combinations of and . Finally, we consider parity-violating correlations rTB and rEB.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,11 +36,10 @@ The polarization of the cosmic microwave background is rich in information but o
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58bc</guid>
 <content:encoded><![CDATA[
 <div> universal rotation curve, disk galaxies, neural network, accuracy, baryonic effects
-<br><br>总结:
+<br /><br />总结:
 本研究探讨了关于盘状星系的URC，并使用来自PROBES-I、PROBES-II和MaNGA数据库的大量空间分辨旋转曲线（RCs），配合DESI-LIS和Wide-Field Infrared Survey Explorer调查的多色面亮度剖面。研究发现常见的URC公式无法以足够的准确度预测RC的形状和幅度。他们开发了用于预测更高准确度的URC的神经网络（NN）等价物，表明URC的不准确性并非是由于不足的数据，而是非最佳的表述或采样效应。最新的URC处方及其在对称RCs的579个盘状星系子样本上训练得到的NN等效物表现与在完整数据样本上训练得到的URC/NN相似。他们得出结论，具有所有半径上可接受水平准确度（ΔVcirc ≲ 15%）的URC将需要详细建模星系的中心区域和外围（例如，对导致暗物质晕受到收缩或膨胀的重子效应）。 <div>
 The universal rotation curve (URC) of disk galaxies was originally proposed to predict the shape and amplitude of any rotation curve (RC) based solely on photometric data. Here, the URC is investigated with an extensive set of spatially resolved RCs drawn from the PROBES-I, PROBES-II, and MaNGA databases with matching multiband surface brightness profiles from the DESI-LIS and Wide-Field Infrared Survey Explorer surveys for 3846 disk galaxies. Common URC formulations fail to achieve an adequate level of accuracy to qualify as truly universal over fully sampled RCs. We develop neural network (NN) equivalents for the proposed URCs that predict RCs with higher accuracy, showing that URC inaccuracies are not due to insufficient data but rather nonoptimal formulations or sampling effects. This conclusion remains even if the total RC sample is pruned for symmetry. The latest URC prescriptions and their NN equivalents trained on our subsample of 579 disk galaxies with symmetric RCs perform similarly to the URC/NN trained on the complete data sample. We conclude that a URC with an acceptable level of accuracy (ΔVcirc ≲ 15%) at all radii would require a detailed modeling of a galaxy’s central regions and outskirts (e.g., for baryonic effects leading to contraction or expansion of any dark-matter-only halo).
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,7 +52,6 @@ The universal rotation curve (URC) of disk galaxies was originally proposed to p
 研究分析了朱诺号航天器在其前31次轨道飞行过程中，使用的观测设备和实验发现了木星等离子体片的一些性质。木星等离子体片内的等离子数密度和压力随着径向距离的增加呈现出不同的变化趋势。与磁压相比，等离子压力在等离子体片内是相当的。在木星等离子体片中，氢离子的密度和压力相对恒定，而重离子的压力与密度的比率在中心和边缘之间有一个数量级的差异。这些发现有助于更全面地了解朱诺号获取的木星等离子体片的等离子体性质。 <div>
 The Jovian plasma sheet is a key region of the Jovian magnetosphere populated by a mix of warm and hot plasma. It is the main channel for radial transport of mass and energy in the Jovian magnetosphere and provides a favorable environment for magnetic reconnection and wave–particle interactions although the understanding of its plasma properties is incomplete. This study combines observations from the Jovian Auroral Distributions Experiment and Juno Energetic Particle Detector Instrument on board the Juno spacecraft during its first 31 orbits to analyze the plasma properties of the Jovian plasma sheet from 20 RJ to 100 RJ. Our results indicate that the plasma number density decreases from 1 cm−3 at 20 RJ to 0.005 cm−3 at 100 RJ, while the plasma pressure decreases from 2 nPa at 20 RJ to 0.02 nPa at 100 RJ. The plasma pressure inside the plasma sheet is comparable to the magnetic pressure in the lobe region, suggesting a rough balance between the two. In the plasma sheet with r > 70 RJ, the H+ density and pressure remain relatively constant, likely due to other plasma sources such as the solar wind. Additionally, we find that the pressure (density) ratios for heavy ions between the center and the edge of the plasma sheet are generally an order of magnitude, while that for H+ decreases with radial distance. These findings contribute to a more comprehensive understanding of the plasma properties of the Jovian plasma sheet.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -50,10 +61,9 @@ The Jovian plasma sheet is a key region of the Jovian magnetosphere populated by
 <content:encoded><![CDATA[
 <div> T Tauri stars, UVIT/AstroSat, spectral energy distribution, mass accretion, CTTS, WTTS, UV excess, Hα line emission
 
-总结:<br><br>这项研究使用UVIT/AstroSat对Taurus分子云中的T Tauri恒星进行了远紫外和近紫外观测，发现经典T Tauri星（CTTSs）在FUV至IR波段的发射比弱线T Tauri星（WTTSs）显著更高。CTTSs显示了更高的等效黑体温度和更强的FUV和NUV波段超出辐射。通过UV超出辐射，还将两个WTTSs（BS Tau和V836 Tau）重新分类为CTTSs，这得到了喜马拉雅钱德拉望远镜的光学光谱研究的支持。此外，发现UV光度（质量吸积的主要指示器）和Hα光度（质量吸积的次要指示器）之间存在线性相关。 <div>
+总结:<br /><br />这项研究使用UVIT/AstroSat对Taurus分子云中的T Tauri恒星进行了远紫外和近紫外观测，发现经典T Tauri星（CTTSs）在FUV至IR波段的发射比弱线T Tauri星（WTTSs）显著更高。CTTSs显示了更高的等效黑体温度和更强的FUV和NUV波段超出辐射。通过UV超出辐射，还将两个WTTSs（BS Tau和V836 Tau）重新分类为CTTSs，这得到了喜马拉雅钱德拉望远镜的光学光谱研究的支持。此外，发现UV光度（质量吸积的主要指示器）和Hα光度（质量吸积的次要指示器）之间存在线性相关。 <div>
 We present results from simultaneous far-ultraviolet (FUV) and near-ultraviolet (NUV) observations of T Tauri stars (TTSs) in the Taurus molecular cloud with UVIT/AstroSat. This is the very first UVIT study of TTSs. From the spectral energy distribution of TTSs from FUV to IR, we show that classical TTSs (CTTSs) emit significantly higher UV excess compared to weak-line TTSs (WTTSs). The equivalent blackbody temperatures corresponding to the UV excess in CTTSs (>104 K) are also found to be relatively higher than those in WTTSs (<9250 K). From the UV excess, we have reclassified two WTTSs (BS Tau and V836 Tau) as CTTSs, which has been supported by the follow-up optical spectroscopic study using the Himalayan Chandra Telescope, showing strong Hα line emission. We find that CTTSs show strong excess emission in both the FUV (>107) and NUV (>103) bands, while WTTSs show strong excess only in the FUV (≲105), suggesting that excess emission in the NUV can be used as a tool to classify the TTSs. We also find a linear correlation between UV luminosity (a primary indicator of mass accretion) and Hα luminosity (a secondary indicator of mass accretion) with a slope of 1.20 ± 0.22 and intercept of 2.16 ± 0.70.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,12 +71,11 @@ We present results from simultaneous far-ultraviolet (FUV) and near-ultraviolet 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a9b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a9b</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 磁场梯度技术, 磁流体力学, 合成同步辐射, 353 GHz极化测量, GALFA-H i 探测<br>
+<div> 关键词: 磁场梯度技术, 磁流体力学, 合成同步辐射, 353 GHz极化测量, GALFA-H i 探测<br />
 总结: 
-磁场梯度技术是一种新的追踪磁场的工具，基于磁流体力学湍流和磁重新连接的特性。研究表明，在缺乏低空间频率时，GT追踪磁场的准确性得到了改善。通过将低空间频率滤波器应用到GALFA-H i调查中选择的扩散中性氢区域，结果显示GT推断的磁场与Planck 353 GHz极化测量之间的对齐度增加。这项研究对探测天体物理环境中的磁场具有重要意义。 <br> <div>
+磁场梯度技术是一种新的追踪磁场的工具，基于磁流体力学湍流和磁重新连接的特性。研究表明，在缺乏低空间频率时，GT追踪磁场的准确性得到了改善。通过将低空间频率滤波器应用到GALFA-H i调查中选择的扩散中性氢区域，结果显示GT推断的磁场与Planck 353 GHz极化测量之间的对齐度增加。这项研究对探测天体物理环境中的磁场具有重要意义。 <br /> <div>
 Probing magnetic fields in astrophysical environments is both important and challenging. The Gradient Technique (GT) is a new tool for tracing magnetic fields, rooted in the properties of magnetohydrodynamic (MHD) turbulence and turbulent magnetic reconnection. In this work, we examine the performance of GT when applied to synthetic synchrotron emission and spectroscopic data obtained from sub-Alfvénic and trans-Alfvénic MHD simulations. We demonstrate the improved accuracy of GT in tracing magnetic fields in the absence of low spatial frequencies. Additionally, we apply a low-spatial-frequency filter to a diffuse neutral hydrogen region selected from the GALFA-H i survey. Our results show an increased alignment between the magnetic fields inferred from GT and the Planck 353 GHz polarization measurements.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -74,12 +83,11 @@ Probing magnetic fields in astrophysical environments is both important and chal
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5aea</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5aea</guid>
 <content:encoded><![CDATA[
-<div> Sgr B2, magnetic field, polarization, supercritical condition, star formation<br>
-<br>
-Sgr B2是一个微小星爆复合体，通过极向观测揭示了该区域三个密集核心Sgr B2 N(orth), M(ain),和S(outh)的磁场形态。推测这些核心的总面磁场强度分别为4.3–10.0 mG，6.2–14.7 mG 和1.9–4.5 mG。结合来自大气成分探测望远镜的解析尺度为等级的偏振数据分析，发现Sgr B2在云层尺度(约10 pc)到核心尺度(约0.2 pc)上存在磁超临界条件，这与该区域星形成活动的爆发一致，这很可能是由云到密集核心的多尺度重力坍缩引起的。<br><br>总结: Sgr B2是一个微小星爆复合体，研究发现了其核心的磁场形态和强度，并指出了区域内存在的磁超临界条件，这与多尺度重力坍缩引起的星形成活动一致。 <div>
+<div> Sgr B2, magnetic field, polarization, supercritical condition, star formation<br />
+<br />
+Sgr B2是一个微小星爆复合体，通过极向观测揭示了该区域三个密集核心Sgr B2 N(orth), M(ain),和S(outh)的磁场形态。推测这些核心的总面磁场强度分别为4.3–10.0 mG，6.2–14.7 mG 和1.9–4.5 mG。结合来自大气成分探测望远镜的解析尺度为等级的偏振数据分析，发现Sgr B2在云层尺度(约10 pc)到核心尺度(约0.2 pc)上存在磁超临界条件，这与该区域星形成活动的爆发一致，这很可能是由云到密集核心的多尺度重力坍缩引起的。<br /><br />总结: Sgr B2是一个微小星爆复合体，研究发现了其核心的磁场形态和强度，并指出了区域内存在的磁超临界条件，这与多尺度重力坍缩引起的星形成活动一致。 <div>
 We report the first arcsecond-resolution observations of the magnetic field in the ministarburst complex Sgr B2. SMA polarization observations revealed magnetic field morphology in three dense cores of Sgr B2 N(orth), M(ain), and S(outh). The total plane-of-sky magnetic field strengths in these cores are estimated to be 4.3–10.0 mG, 6.2–14.7 mG, and 1.9–4.5 mG derived from the angular dispersion function method after applying the correction factors of 0.21 and 0.5. Combining with analyses of the parsec-scale polarization data from Stratospheric Observatory for Infrared Astronomy, we found that a magnetically supercritical condition is present from the cloud scale (∼10 pc) to core scale (∼0.2 pc) in Sgr B2, which is consistent with the burst of star formation activities in the region likely resulting from a multiscale gravitational collapse from the cloud to dense cores.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -89,10 +97,9 @@ We report the first arcsecond-resolution observations of the magnetic field in t
 <content:encoded><![CDATA[
 <div> 高频分辨率分析, 循环光谱学, 毫秒脉冲星, 散射特征, 射电观测
 
-循环光谱学用于对PSR B1937+21毫秒脉冲星进行高频率分辨率分析。通过测量散射带宽和时间尺度，获取了散射带宽和时间尺度的内部时代估计。利用高频分辨率和窄小尺度的脉冲星，在次级谱中解析出散射弧，观察到在更高频率下明显的弧特征变暗，可能是由于流量密度减小以及星际介质的折射率频率依赖性。一些结果与Stinebring等人预测的弧曲率频率依赖性相吻合。循环光谱学提供的频率分辨率改进显示了未来毫秒脉冲星的研究潜力，特别是对于脉冲星定时阵列，这种技术可以在不损害重力波探测所需的定时分辨率的前提下，允许对高度散射的脉冲星的星际介质进行详细研究。<br><br>总结: 本研究使用循环光谱学对毫秒脉冲星进行了高频率分辨率分析，在多个频带和观测波段内获得了散射特征的详细信息。通过实验结果观察到了频率依赖的弧特征变暗等现象，并得出了与一些预测相吻合的结论。这表明循环光谱学为未来毫秒脉冲星的研究提供了强大的潜力，特别对于重力波探测等方面有重要意义。 <div>
+循环光谱学用于对PSR B1937+21毫秒脉冲星进行高频率分辨率分析。通过测量散射带宽和时间尺度，获取了散射带宽和时间尺度的内部时代估计。利用高频分辨率和窄小尺度的脉冲星，在次级谱中解析出散射弧，观察到在更高频率下明显的弧特征变暗，可能是由于流量密度减小以及星际介质的折射率频率依赖性。一些结果与Stinebring等人预测的弧曲率频率依赖性相吻合。循环光谱学提供的频率分辨率改进显示了未来毫秒脉冲星的研究潜力，特别是对于脉冲星定时阵列，这种技术可以在不损害重力波探测所需的定时分辨率的前提下，允许对高度散射的脉冲星的星际介质进行详细研究。<br /><br />总结: 本研究使用循环光谱学对毫秒脉冲星进行了高频率分辨率分析，在多个频带和观测波段内获得了散射特征的详细信息。通过实验结果观察到了频率依赖的弧特征变暗等现象，并得出了与一些预测相吻合的结论。这表明循环光谱学为未来毫秒脉冲星的研究提供了强大的潜力，特别对于重力波探测等方面有重要意义。 <div>
 We use cyclic spectroscopy to perform high-frequency resolution analyses of multihour baseband Arecibo observations of the millisecond pulsar PSR B1937+21. This technique allows for the examination of scintillation features in far greater detail than is otherwise possible under most pulsar timing array observing setups. We measure scintillation bandwidths and timescales in each of eight subbands across a 200 MHz observing band in each observation. Through these measurements we obtain intra-epoch estimates of the frequency scalings for scintillation bandwidth and timescale. Thanks to our high-frequency resolution and the narrow scintles of this pulsar, we resolve scintillation arcs in the secondary spectra due to the increased Nyquist limit, which would not have been resolved at the same observing frequency with a traditional filterbank spectrum using NANOGrav’s current time and frequency resolutions, and the frequency-dependent evolution of scintillation arc features within individual observations. We observe the dimming of prominent arc features at higher frequencies, possibly due to a combination of decreasing flux density and the frequency dependence of the plasma refractive index of the interstellar medium. We also find agreement with arc curvature frequency dependence predicted by Stinebring et al. in some epochs. Thanks to the frequency-resolution improvement provided by cyclic spectroscopy, these results show strong promise for future such analyses with millisecond pulsars, particularly for pulsar timing arrays, where such techniques can allow for detailed studies of the interstellar medium in highly scattered pulsars without sacrificing the timing resolution that is crucial to their gravitational-wave detection efforts.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -105,7 +112,6 @@ We use cyclic spectroscopy to perform high-frequency resolution analyses of mult
 本研究提出了一种新的方法来确定X射线双星Hercules X-1中的等离子体数密度。通过对Hercules X-1的脉冲分辨分析，直接检测到了风的响应，确认风密度至少为1012cm-3。最后，我们模拟了对Hercules X-1的XRISM观测，并展示了它们将允许我们准确地测量离流的不同位置的数密度。使用XRISM，我们将排除约3个数量级的密度参数空间，约束风的质量流出率、能量学和其发射机制。 <div>
 X-ray binaries are known to launch powerful accretion disk winds that can have a significant impact on the binary systems and their surroundings. To quantify the impact and determine the launching mechanisms of these outflows, we need to measure the wind plasma number density, an important ingredient in the theoretical disk wind models. While X-ray spectroscopy is a crucial tool for understanding the wind properties, such as their velocity and ionization, in nearly all cases, we lack the signal-to-noise ratio to constrain the plasma number density, weakening the constraints on the outflow location and mass outflow rate. We present a new approach to determining this number density in the X-ray binary Hercules X-1, by measuring the speed of the wind ionization response to the time-variable illuminating continuum. Hercules X-1 is powered by a highly magnetized neutron star, pulsating with a period of 1.24 s. We show that the wind number density in Hercules X-1 is sufficiently high to respond to these pulsations by modeling the ionization response with the time-dependent photoionization model tpho. We then perform a pulse-resolved analysis of the best-quality XMM-Newton observation of Hercules X-1 and directly detect the wind response, confirming that the wind density is at least 1012 cm−3. Finally, we simulate XRISM observations of Hercules X-1 and show that they will allow us to accurately measure the number density at different locations within the outflow. With XRISM, we will rule out ∼3 orders of magnitude in density parameter space, constraining the wind mass outflow rate, energetics, and its launching mechanism.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -115,10 +121,9 @@ X-ray binaries are known to launch powerful accretion disk winds that can have a
 <content:encoded><![CDATA[
 <div> 关键词: 偏振角度旋转, 伽马射线暴, 磁场配置, 磁星中心引擎, 多个发射壳体
 总结:
-本研究探讨了伽马射线暴（GRBs）的偏振角度（PA）在快速阶段观察到两次90°的突然旋转现象，提出了多个发射壳体模型解决这一难题。针对发射壳体中大尺度有序磁场的构型，考虑了环形和对齐两种情况。研究发现，通过多壳体对齐磁场配置（MFC）可以很好地解释GRB 170114A和GRB 160821A中观测到的两次90°的PA旋转现象。数值计算还表明，多个发射壳体采用环形MFC无法解释观测到的两次90°的PA旋转。对齐MFC通常意味着磁星中心引擎的偏好，而环形磁场配置通常与中心黑洞相关。因此，两个GRBs的磁星中心引擎的可能性更大。<br><br> <div>
+本研究探讨了伽马射线暴（GRBs）的偏振角度（PA）在快速阶段观察到两次90°的突然旋转现象，提出了多个发射壳体模型解决这一难题。针对发射壳体中大尺度有序磁场的构型，考虑了环形和对齐两种情况。研究发现，通过多壳体对齐磁场配置（MFC）可以很好地解释GRB 170114A和GRB 160821A中观测到的两次90°的PA旋转现象。数值计算还表明，多个发射壳体采用环形MFC无法解释观测到的两次90°的PA旋转。对齐MFC通常意味着磁星中心引擎的偏好，而环形磁场配置通常与中心黑洞相关。因此，两个GRBs的磁星中心引擎的可能性更大。<br /><br /> <div>
 The observed abrupt twice-90° rotations of the polarization angle (PA) in the prompt phase of gamma-ray bursts (GRBs) are difficult to understand within the current one-emitting-shell models. Here, we apply a model with multiple emitting shells to solve this new challenging problem. Two configurations of large-scale ordered magnetic fields in the shells are considered: toroidal and aligned. Together with the light curves and the spectral peak energy evolutions, the twice-90° PA rotations in GRB 170114A and GRB 160821A could be well interpreted with the multishell aligned magnetic field configuration (MFC). Our numerical calculations also show that the multiple shells with the toroidal MFC could not explain the observed twice-90° PA rotations. An aligned MFC in the GRB outflow usually indicates the preference of a magnetar central engine, while a toroidal field configuration is typically related to a central black hole. Therefore, the magnetar central engines for the two GRBs are favored.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -127,13 +132,12 @@ The observed abrupt twice-90° rotations of the polarization angle (PA) in the p
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cee</guid>
 <content:encoded><![CDATA[
 <div> ΩM, σ8, galaxy cluster, cosmic shear, splashback radius
-<br>
+<br />
 该研究通过宇宙学模拟发现，星系团周围的溅飞回半径随着ΩM或σ8值的变化而变化，从而打破了S8参数带来的ΩM和σ8的退化关系。研究还指出，这种变化在原则上是可以通过观测来测量的，因为溅飞回半径可以通过弱引力透镜分析来确定。这种新方法可以加强对宇宙学参数的低红移限制，可以利用现有数据或即将到来的欧几里德和大型巡天望远镜（LSST）的数据来实现。 
-<br>
+<br />
 总结: 该研究发现星系团的溅飞回半径可以作为一个重要的观测指标，能够帮助打破ΩM和σ8之间的退化关系，从而加强对宇宙学参数的约束。通过宇宙学模拟和观测数据的对比，研究揭示了这一现象并指出了进一步的研究方向。Euclid和LSST等未来的观测数据有望进一步验证这一发现。 <div>
 Cosmological parameters such as ΩM and σ8 can be measured indirectly using various methods, including galaxy cluster abundance and cosmic shear. These measurements constrain the composite parameter S8, leading to degeneracy between ΩM and σ8. However, some structural properties of galaxy clusters also correlate with cosmological parameters, due to their dependence on a cluster’s accretion history. In this work, we focus on the splashback radius, an observable cluster feature that represents a boundary between a cluster and the surrounding Universe. Using a suite of cosmological simulations with a range of values for ΩM and σ8, we show that the position of the splashback radius around cluster-mass halos is greater in cosmologies with smaller values of ΩM or larger values of σ8. This variation breaks the degeneracy between ΩM and σ8 that comes from measurements of the S8 parameter. We also show that this variation is, in principle, measurable in observations. As the splashback radius can be determined from the same weak lensing analysis already used to estimate S8, this new approach can tighten low-redshift constraints on cosmological parameters, either using existing data, or using upcoming data such as that from Euclid and LSST.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -141,10 +145,8 @@ Cosmological parameters such as ΩM and σ8 can be measured indirectly using var
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad631a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad631a</guid>
 <content:encoded><![CDATA[
-
 KV Vel is a noneclipsing short-period (P = 0.3571 days) close binary containing a very hot subdwarf primary (77,000 K) and a cool low-mass secondary star (3400 K) that is located at the center of the planetary nebula DS 1. The changes in the orbital period of the close binary were analyzed based on 262 new times of light maximum together with those compiled from the literature. It is discovered that the O − C curve shows a small-amplitude (0.ͩ0034) cyclic period variation with a period of 29.55 yr. The explanation by the solar-type magnetic activity cycles of the cool component is ruled out because the required energies are much larger than the total radiant energy of this component in a whole cycle. Therefore, the cyclic variation was plausibly explained as the light-travel time effect via the presence of a tertiary component, which is supported by the periodic changes of the O − C curve and the rather symmetric and stable light curves obtained by the Transiting Exoplanet Survey Satellite. The mass of the tertiary companion is determined to be M⊙. If the third body is coplanar with the central binary (i.e., ), the mass of the tertiary component is computed as M3 ∼ 0.068 M⊙, and thus it would be below the stable hydrogen-burning limit and is a brown dwarf. The orbital separation is shorter than 9.35 au. KV Vel together with its surrounding planetary nebula and the brown-dwarf companion may be formed through the common-envelope evolution after the primary filled its Roche lobe during the early asymptotic giant branch stage.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -152,10 +154,8 @@ KV Vel is a noneclipsing short-period (P = 0.3571 days) close binary containing 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad643e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad643e</guid>
 <content:encoded><![CDATA[
-
 The extreme-ultraviolet emission line (424 Å) of the intercombination 1s22s21S0–1s22s2p3P1 transition of Ar xv can potentially characterize the electron temperature of astrophysical plasma. Various theoretical studies have investigated the intercombination transition rate, which is essential for the plasma diagnostics; however, experimental difficulties have prevented its measurement. We present here measurement of the lifetime of the 3P1 excited state of Ar xv, providing the experimental value of the intercombination transition rate. Employing time-resolved plasma-assisted laser spectroscopy, a method we recently demonstrated, enables us to measure this submicrosecond lifetime. The experimental result exhibits a 25%–43% higher transition rate than theoretical predictions.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -163,10 +163,8 @@ The extreme-ultraviolet emission line (424 Å) of the intercombination 1s22s21S0
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad656c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad656c</guid>
 <content:encoded><![CDATA[
-
 SN2018ibb is a recently observed hydrogen-poor superluminous supernova that appears to be powered by the decay of 30 M⊙ of radioactive nickel. This supernova has been suggested to show hybrid signatures of a pair-instability supernova and an interacting supernova. In a previous paper, we found that rotating, metal-enriched pair-instability supernova progenitors appeared to check both of these boxes. In this paper, we model the lightcurves of the pair-instability supernovae using STELLA. We find that the STELLA models can explain the overall shape of the bolometric lightcurve of SN2018ibb, though not specific morphological features such as the luminosity peak or the bump at roughly 300 days after the peak. We also estimate the contribution from interaction and find that with relatively low wind velocities, the circumstellar medium originating from the stellar winds is consistent with the evidence for interaction in the spectra. The observed values of the photosphere velocity in the 100 days after peak luminosity are similar to the STELLA models, but the deceleration is lower. This leads to the biggest inconsistency, which is the blackbody temperature of SN2018ibb being much hotter than any of the STELLA models. We note that this high temperature (and the flat velocity) may be difficult to reconcile with the long rise time of SN2018ibb, but nevertheless conclude that if it is accurate, this discrepancy represents a challenge for SN2018ibb being a robust PISN candidate. This result is noteworthy given the lack of other scenarios for this supernova.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -174,13 +172,10 @@ SN2018ibb is a recently observed hydrogen-poor superluminous supernova that appe
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad68fe</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad68fe</guid>
 <content:encoded><![CDATA[
-
 Dipolarization fronts (DFs), earthward-propagating magnetic transients with a strong magnetic field, are important regions favorable for energetic electron acceleration in the magnetotail. The DF-driven electron acceleration usually generates coherent pitch angle distributions (PADs) inside flux pileup regions (FPRs), i.e., strong magnetic field regions behind the DFs, such as pancake, butterfly, and cigar distributions, which dominate at different tail regions and often occur separately. Here we present unique observations of electron PAD evolution inside the FPR, showing that electron PAD underwent local transition from cigar distribution, to butterfly distribution, then toward pancake distribution, forming a U-shaped distribution. During the local transition, electron perpendicular flux (relative to the local magnetic field) is anticorrelated with magnetic field strength, contrary to traditional expectation. The unexpected feature of the electron U-shaped distribution is associated with multiple physical processes at different scales, including local expansion of flux tubes and pitch angle variation near the neutral sheet. These atypical observations can advance our current understanding of electron acceleration and transport in the magnetosphere.
 ]]></content:encoded>
-
 <pubDate>2024-08-21T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Zwicky Transient Facility Bright Transient Survey. III. BTSbot: Automated Identification and Follow-up of Bright Transients with Deep Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5666</link>
@@ -11749,161 +11744,6 @@ The spectroscopic observations presented here were acquired during the 2017 Augu
 The surface brightness fluctuation (SBF) method is a robust and efficient way of measuring distances to galaxies containing evolved stellar populations. Although many recent applications of the method have used space-based imaging, SBF remains a powerful technique for ground-based telescopes. Deep, wide-field imaging surveys with subarcsecond seeing enable SBF measurements for numerous nearby galaxies. Using a preliminary calibration, Cantiello et al. presented SBF distances for 89 bright, mainly early-type galaxies observed in the Next Generation Virgo Cluster Survey. Here we present a refined calibration and SBF distances for 278 galaxies extending several magnitudes fainter than in previous work. The derived distances have uncertainties of 5%–12% depending on the properties of the individual galaxies, and our sample is more than 3 times larger than any previous SBF study of this region. Virgo has a famously complex structure with numerous subclusters, clouds, and groups; we associate individual galaxies with the various substructures and map their three-dimensional spatial distribution. Curiously, subcluster A, centered around M87, appears to have two peaks in distance: the main peak at ∼16.5 Mpc, and a smaller one at ∼19.4 Mpc. Subclusters B and C have distances of ∼15.8 Mpc. The W and W groups form a filament-like structure, extending more than 15 Mpc behind the cluster with a commensurate velocity increase of ∼1000 km s−1 along its length. These measurements are a valuable resource for future studies of the relationship between galaxy properties and local environment within a dynamic and evolving region.
 ]]></content:encoded>
 <pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Photon Rings and Shadow Size for General Axisymmetric and Stationary Integrable Spacetimes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad37fa</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad37fa</guid>
-<content:encoded><![CDATA[
-There are now multiple direct probes of the region near black hole horizons, including direct imaging with the Event Horizon Telescope (EHT). As a result, it is now of considerable interest to identify what aspects of the underlying spacetime are constrained by these observations. For this purpose, we present a new formulation of an existing broad class of integrable, axisymmetric, stationary spinning black hole spacetimes, specified by four free radial functions, that makes manifest which functions are responsible for setting the location and morphology of the event horizon and ergosphere. We explore the size of the black hole shadow and higher-order photon rings for polar observers, approximately appropriate for the EHT observations of M87*, finding analogous expressions to those for general spherical spacetimes. Of particular interest, we find that these are independent of the properties of the ergosphere, but do directly probe the free function that defines the event horizon. Based on those expressions, we extend the nonperturbative, nonparametric characterization of the gravitational implications of various near-horizon measurements to spinning spacetimes. Finally, we demonstrate this characterization for a handful of explicit alternative spacetimes.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Narrow Uniform Core with a Wide Structured Wing: Modeling the TeV and Multiwavelength Afterglows of GRB 221009A</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3949</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3949</guid>
-<content:encoded><![CDATA[
-The TeV afterglow of the BOAT GRB 221009A was interpreted as arising from a narrow jet, while the radio-to-X-ray afterglows were interpreted as arising from a wide structured jet. However, there is no model explaining the TeV and lower-energy multiwavelength afterglows simultaneously. We here investigate a two-component jet model, including a narrow uniform core with a wide structured wing, to explain both the multiwavelength afterglows that last up to 100 days. We find that to explain the early TeV afterglow with the inverse-Compton process, we need a circumburst density higher than ≳0.1 cm−3, while the radio afterglow and the H.E.S.S. upper limit combine to constrain the density to be lower at larger radii. Thus, a decreasing density profile with radius is favored. Considering that the rising TeV light curve during the afterglow onset favors a constant-density medium, we invoke a stratified density profile, including a constant-density profile at small radii and a wind density profile at large radii. We find that the two-component jet model with such a stratified density profile can explain the TeV, X-ray, and optical afterglows of GRB 221009A, although the radio fluxes exceed the observed ones by a factor of 2 at later epochs. The discrepancy in the radio afterglow could be resolved by invoking some nonstandard assumption about the microphysics of afterglow shocks. The total kinetic energy of the two components in our model is ≲1052 erg, significantly smaller than that in the single structured jet models.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Determining Cosmological-model-independent H 0 with Gravitationally Lensed Supernova Refsdal</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d5d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d5d</guid>
-<content:encoded><![CDATA[
-The reappearance of supernova Refsdal with detailed modeling of the lens cluster allows us to measure the time-delay distance, which serves as a powerful tool to determine the Hubble constant (H0). We give a cosmological-model-independent method to estimate H0 through Gaussian process regression, using time-delay measurements from this lensed supernova in combination with supernova data from the Pantheon+ sample. Using eight mass models for the lens cluster, we infer , and using two cluster models most consistent with the observations, we infer . Our estimates of the value of H0 are in 1σ agreement with the results assuming a flat ΛCDM model and the uncertainties are comparable. Our constraint results on H0 from the eight lens models and the two lens models indicate 2σ and 1.8σ tensions with that estimated by Supernova H0 for the Equation of State, respectively. However, our median values of H0 from the two sets of lens models show good consistency with H0 inferred from Planck cosmic microwave background observations assuming a ΛCDM model within 1σ. We also find that our results for H0 indicate 2σ deviations and 1.7σ deviations from the constraint results of H0 using six time-delay quasars by H0LiCOW with the same analysis method.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Analysis of BMR Tilt from AutoTAB Catalog: Hinting toward the Thin Flux Tube Model?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad34b8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad34b8</guid>
-<content:encoded><![CDATA[
-One of the intriguing mechanisms of the Sun is the formation of bipolar magnetic regions (BMRs) in the solar convection zone (CZ), which are observed as regions of concentrated magnetic fields of opposite polarity on the photosphere. These BMRs are tilted with respect to the equatorial line, which statistically increases with latitude. The thin flux tube model, employing the rise of magnetically buoyant flux loops and their twist by Coriolis force, is a popular paradigm for explaining the formation of tilted BMRs. In this study, we assess the validity of the thin flux tube model by analyzing the tracked BMR data obtained through the Automatic Tracking Algorithm for BMRs. Our observations reveal that the tracked BMRs exhibit the expected collective behaviors. We find that the polarity separation of BMRs increases over their normalized lifetime, supporting the assumption of a rising flux tube from the CZ. Moreover, we observe an increasing trend of the tilt with the flux of the BMR, suggesting that rising flux tubes associated with lower flux regions are primarily influenced by drag force and Coriolis force, while in higher flux regions, magnetic buoyancy dominates. Furthermore, we observe Joy’s law dependence for emerging BMRs from their first detection, indicating that at least a portion of the tilt observed in BMRs can be attributed to the Coriolis force. Notably, lower flux regions exhibit a higher amount of fluctuations associated with their tilt measurement compared to stronger flux regions, suggesting that lower flux regions are more susceptible to turbulent convection.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Bottom’s Dream and the Amplification of Filamentary Gas Structures and Stellar Spiral Arms</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad12c5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad12c5</guid>
-<content:encoded><![CDATA[
-<div> 密度波，螺旋结构，剪切波，螺旋增强，银河系
-
-总结:
-本文将螺旋结构的两种类型整合为一个统一的描述，包括了密度波在紧密螺旋极限之外的剪切和非稳定开放螺旋的情况。这一剪切波场景新颖地捕捉到了螺旋增强，使得结构形成超过了传统的Q阈值。然而，它也突出了对螺旋作用在增幅过程中的基本作用，不论波是剪切的还是不剪切的。因此，它通过Lynden-Bell＆Kalnajs所描述的驴效应捕捉了共振和非共振模式的增长，关键是当驴行为不再被允许时增长的停止。我们的计算预测，仅在Jeans长度之上，后螺旋结构会增长，螺旋结构的突出特性是其跨越一系列取向，随着臂的重复次数的减少而增加，以及增长最快的临界方向对于两种模式和物质模式相同。预测的结构与高度规则，高重复次数的气体跨度特征和螺旋和条状体上间距接近Jeans尺度的长丝相一致。应用于恒星盘时，条件有利于低重复次数（m < 5）的开放后螺旋，其螺距角在观测范围10° < ip < 50°内。这项工作的结果作为描述螺旋的一个统一的瞬态波类的基础，丰富刺激，但根据当地条件进行增长的严格选择。 <div>
-Theories of spiral structure traditionally separate into tight-winding Lin–Shu spiral density waves and the swing-amplified material patterns of Goldreich & Lynden-Bell and Julian & Toomre. In this paper we consolidate these two types of spirals into a unified description, treating density waves beyond the tight-winding limit, in the regime of shearing and nonsteady open spirals. This shearing wave scenario novelly captures swing amplification that enables structure formation above conventional Q thresholds. However, it also highlights the fundamental role of spiral forcing on the amplification process in general, whether the wave is shearing or not. Thus it captures resonant and nonresonant mode growth through the donkey effect described by Lynden-Bell & Kalnajs and, critically, the cessation of growth when donkey behavior is no longer permitted. Our calculations predict growth exclusive to trailing spirals above the Jeans length, the prominence of spirals across a range of orientations that increases with decreasing arm multiplicity, and a critical orientation where growth is fastest that is the same for both modes and material patterns. Predicted structures are consistent with highly regular, high-multiplicity gaseous spur features and long filaments spaced close to the Jeans scale in spirals and bars. Applied to stellar disks, conditions favor low multiplicity (m < 5) open trailing spirals with pitch angles in the observed range 10° < ip < 50°. The results of this work serve as a basis for describing spirals as a unified class of transient waves, abundantly stimulated but narrowly selected for growth depending on local conditions.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Dark Dragon Breaks Magnetic Chain: Dynamical Substructures of IRDC G28.34 Form in Supported Environments</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3105</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3105</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 红外暗云、磁场、星云、引力、湍流
-总结: 
-红外暗云G28.34的磁场与星云尺度的关系复杂，大尺度上磁场对引力有一定抵抗作用，但在小尺度上会被星云的引力扭曲，并受恒星形成活动的影响。通过多种分析方法，发现G28.34处于次阿尔文环境，磁场有效地阻止了大尺度弥散气体的引力坍缩，但在星云内部受引力影响，且受恒星形成活动的影响。考虑了热、磁、湍流支撑后发现，G28.34环境气体处于超维里状态，红外暗云可能处于接近平衡状态，而核心MM4-core4则处于次维里状态。综上所述，磁场在大尺度上主导了云的形成和演化过程，导致云的形成和演化过程相对缓慢。在云内部，引力可能克服了磁场和湍流的作用，促使局部动力学恒星形成的发生。 <div>
-We have comprehensively studied the multiscale physical properties of the massive infrared dark cloud G28.34 (the Dragon cloud) with dust polarization and molecular line data from Planck, FCRAO-14 m, James Clerk Maxwell Telescope, and Atacama Large Millimeter/submillimeter Array. We find that the averaged magnetic fields of clumps tend to be either parallel with or perpendicular to the cloud-scale magnetic fields, while the cores in clump MM4 tend to have magnetic fields aligned with the clump fields. Implementing the relative orientation analysis (for magnetic fields, column density gradients, and local gravity), velocity gradient technique, and modified Davis–Chandrasekhar–Fermi analysis, we find that G28.34 is located in a trans-to-sub-Alfvénic environment; the magnetic field is effectively resisting gravitational collapse in large-scale diffuse gas, but is distorted by gravity within the cloud and affected by star formation activities in high-density regions, and the normalized mass-to-flux ratio tends to increase with increasing density and decreasing radius. Considering the thermal, magnetic, and turbulent supports, we find that the environmental gas of G28.34 is in a supervirial (supported) state, the infrared dark clumps may be in a near-equilibrium state, and core MM4-core4 is in a subvirial (gravity-dominant) state. In summary, we suggest that magnetic fields dominate gravity and turbulence in the cloud environment at large scales, resulting in relatively slow cloud formation and evolution processes. Within the cloud, gravity could overwhelm both magnetic fields and turbulence, allowing local dynamical star formation to happen.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>ALMA Spectral Survey of an Eruptive Young Star, V883 Ori (ASSAY). I. What Triggered the Current Episode of Eruption?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3106</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3106</guid>
-<content:encoded><![CDATA[
-<div> 关键词: V883 Ori, 巨大红移吸收, 分子发射, 星风, 爆发事件<br />
-<br />
-研究使用Atacama大型毫米/亚毫米阵列对V883 Ori进行无偏光谱调查。检测到的分子发射线揭示了Keplerian盘和向内坠落包络的形态/运动学特征。在CO、HCO+、HCN、HNC和H2CO中检测到了直接向内坠落的特征，即红移吸收。HCO+和SO显示大型类似臂的结构，可能连接向内坠落的包络和盘。HCN和H2CO显示内外盘之间的明显边界和可能的螺旋结构，连接外盘和内盘。HNC显示一个由于高温下其化学转变为HCN而产生的大型中心发射空洞（r∼0.″3）。检测到了HDO发射，这是水升华区域的直接追踪者。复杂有机分子的分子发射受限于HDO发射边界，HCO+在其分布中有一个发射空洞，这是由于其被水分解造成的。所有这些特征表明V883 Ori当前的喷发可能是由从包络向外盘的向内坠落触发的，从而产生一股向内传播的螺旋波，极大地增强了对中心恒星的吸积。<br /><br />总结: 该研究使用阿塔卡马大型毫米/亚毫米阵列对V883 Ori进行了光谱调查。观测到了从分子中心向外向内坠落的特征，还发现了大量分子发射和向内坠落包络与盘的连接结构。研究结果揭示了星风活动、爆发事件的触发机制，并有助于了解这一年轻恒星的形成和发展过程。 <div>
-An unbiased spectral survey of V883 Ori, an eruptive young star, was carried out with the Atacama Large Millimeter/submillimeter Array in Band 6. The detected line emission from various molecules reveals morphological/kinematical features in both the Keplerian disk and the infalling envelope. A direct infall signature, redshifted absorption against the continuum, has been detected in CO, HCO+, HCN, HNC, and H2CO. HCO+ and SO show large armlike structures that probably connect the infalling envelope to the disk. HCN and H2CO reveal a distinct boundary between the inner and outer disks and tentative spiral structures connecting the outer disk to the inner disk. HNC shows a large central emission hole (r ∼ 0.″3) due to its chemical conversion to HCN at high temperatures. HDO emission, a direct tracer of the water sublimation region, has been detected in the disk. Molecular emission from complex organic molecules is confined within the HDO emission boundary, and HCO+ has an emission hole in its distribution due to its destruction by water. Together, these features suggest that the current episode of eruption in V883 Ori may be triggered by the infall from the envelope to the outer disk, generating a spiral wave that propagates inward and greatly enhances the accretion onto the central star.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Discovery of an Accretion Streamer and a Slow Wide-angle Outflow around FU Orionis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad31a1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad31a1</guid>
-<content:encoded><![CDATA[
-<div> FU Orionis, ALMA, accretion streamer, outflow, kinematic modeling
-
-总结:<br /><br />这篇文章介绍了对FU Orionis爆发系统的观测结果，使用了ALMA的12m、7m和全功率阵列观测数据，涵盖了160到25,000天文单位的空间尺度。高分辨率的干涉数据揭示了一个纵向的12CO(2–1)特征，这个特征被认为是一个进食串流，供给了双星系统。观测到的串流质量流速远低于典型的恒星吸积速率，提示这个串流本身不足以维持典型的爆发类型的增强吸积速率。此外，文章还观测到一个巨大的、缓慢移动的二氧化碳分子流，这个分子流被认为是不与当前的爆发有关的被扫描材料，类似于其他FUor和I类原恒星物体周围观测到的缓慢分子流。 <div>
-We present Atacama Large Millimeter/submillimeter Array 12-m, 7-m, and Total Power Array observations of the FU Orionis outbursting system, covering spatial scales ranging from 160 to 25,000 au. The high-resolution interferometric data reveal an elongated 12CO(2–1) feature previously observed at lower resolution in 12CO(3–2). Kinematic modeling indicates that this feature can be interpreted as an accretion streamer feeding the binary system. The mass infall rate provided by the streamer is significantly lower than the typical stellar accretion rates (even in quiescent states), suggesting that this streamer alone is not massive enough to sustain the enhanced accretion rates characteristic of the outbursting class prototype. The observed streamer may not be directly linked to the current outburst, but rather a remnant of a previous, more massive streamer that may have contributed enough to the disk mass to render it unstable and trigger the FU Orionis outburst. The new data detect, for the first time, a vast, slow-moving carbon monoxide molecular outflow emerging from this object. To accurately assess the outflow properties (mass, momentum, and kinetic energy), we employ 13CO(2–1) data to correct for optical depth effects. The analysis indicates that the outflow corresponds to swept-up material not associated with the current outburst, similar to the slow molecular outflows observed around other FUor and Class I protostellar objects.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Survey of Coronal Mass Ejections Measured In Situ by Parker Solar Probe during 2018–2022</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad320c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad320c</guid>
-<content:encoded><![CDATA[
-<div> 关键词: ICMEs, 磁场, 太阳风, ME, 太阳探测器<br />
-<br />总结: 通过对ICMEs的统计调查，研究者们发现了一些有趣的结果。首先，他们发现靠近太阳处更容易观测到相干的ICME配置，而在较远处更容易观测到更复杂的配置。其次，他们通过多元鲁棒回归推导出了1 au内磁性喷射物（ME）的扩展速率比先前的统计估计要慢。此外，他们还发现ICME鞘内的磁场波动与日风到ME的相对磁场强度梯度强烈耦合。第三，他们认为ME的扩展是鞘形成中的一个重要因素。最后，他们确定了畸变参数（DiP），发现ME的整体不对称性较低，而且即使对于扩展的ME，样本ME的持续时间与DiP值没有相关性，表明老化效应不是观察到的ME不对称性的唯一贡献因素。 <div>
-We present a statistical investigation of the radial evolution of 28 interplanetary coronal mass ejections (ICMEs), measured in situ by the Parker Solar Probe spacecraft from 2018 October to 2022 August. First, by analyzing the radial distribution of ICME classification based on magnetic hodograms, we find that coherent configurations are more likely to be observed close to the Sun. By contrast, more complex configurations are observed farther out. We also notice that the post-ICME magnetic field is more impacted following an ICME passage at larger heliocentric distances. Second, with a multilinear robust regression, we derive a slower magnetic ejecta (ME) expansion rate within 1 au compared to previous statistical estimates. Then, investigating the magnetic field fluctuations within ICME sheaths, we see that these fluctuations are strongly coupled to the relative magnetic field strength gradient from the upstream solar wind to the ME. Third, we identify ME expansion as an important factor in the formation of sheaths. Finally, we determine the distortion parameter (DiP), which is a measure of magnetic field asymmetry in an ME. We discover lower overall asymmetries within MEs. We reveal that even for expanding MEs, the time duration over which an ME is sampled does not correlate with DiP values, indicating that the aging effect is not the sole contributor to the observed ME asymmetries.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Disk Wind Feedback from High-mass Protostars. III. Synthetic CO Line Emission</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3211</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3211</guid>
-<content:encoded><![CDATA[
-<div> 关键词: massive star formation, molecular line radiative transfer, 3D magnetohydrodynamic simulations, ALMA observations, protostellar evolutionary tracks
-
-总结: <br /><br />研究目的是通过比较观测系统和理论模型的预测结果来测试大质量恒星形成的理论模型。通过进行CO分子线辐射传递后处理来生成不同转变的12CO、13CO和C18O发射的合成位置-位置-速度立方体。对这些辐射进行模拟ALMA观测，并对从分子线中得到的质量、动量和动能估计与真实值进行比较。结果发现质量和动量的估计可能有高达4倍的不确定性，而动能估计更为低估。此外，还对合成光谱中得到的质量和动量流出速率与真实值进行比较。最后，将合成光谱与ALMA观测到的原恒星进行比较，并计算质量和动量流出速率，发现两者与理论恒星演化轨迹相吻合。 <div>
-To test theoretical models of massive star formation it is important to compare their predictions with observed systems. To this end, we conduct CO molecular line radiative transfer post-processing of 3D magnetohydrodynamic simulations of various stages in the evolutionary sequence of a massive protostellar core, including its infall envelope and disk wind outflow. Synthetic position–position–velocity cubes of various transitions of 12CO, 13CO, and C18O emission are generated. We also carry out simulated Atacama Large Millimeter/submillimeter Array (ALMA) observations of this emission. We compare the mass, momentum, and kinetic energy estimates obtained from molecular lines to the true values, finding that the mass and momentum estimates can have uncertainties of up to a factor of 4. However, the kinetic energy estimated from molecular lines is more significantly underestimated. Additionally, we compare the mass outflow rate and momentum outflow rate obtained from the synthetic spectra with the true values. Finally, we compare the synthetic spectra with real examples of ALMA-observed protostars and determine the best-fitting protostellar masses and outflow inclination angles. We then calculate the mass outflow rate and momentum outflow rate for these sources, finding that both rates agree with theoretical protostellar evolutionary tracks.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Investigating Model Dependencies for Obscured Active Galactic Nuclei: A Case Study of NGC 3982</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3235</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3235</guid>
-<content:encoded><![CDATA[
-<div> NGC 3982, obscured AGN, X-ray spectroscopy, parameter inference, High Energy X-ray Probe
-
-总结:<br /><br />本研究以NGC 3982为案例，使用五种唯一的遮挡模型拟合了相同的XMM-Newton+NuSTAR光谱，并为每个模型生成了参数后验分布。穿越完整的先验定义的参数空间，准确再现了复杂的后验形状和参数之间的相互关联。各模型对于视线方向的柱密度的后验分布基本一致，预测的Compton厚NH > 1.5 × 1024 cm−2在3σ置信水平上。然而，每个模型对于内在X射线光度的后验分布差异较大，分别在log L2–10 keV/ erg s−1 = 40.9–42.1的范围内。此外，我们还展示了各模型的后验分布在各自多维参数空间中占据其独特区域，这种差异可能会传播到中心引擎的推断属性中。最后，展示了高能X射线探测器在参数推断方面的改进。 <div>
-X-ray spectroscopy of heavily obscured active galactic nuclei (AGN) offers a unique opportunity to study the circumnuclear environment of accreting supermassive black holes. However, individual models describing the obscurer have unique parameter spaces that give distinct parameter posterior distributions when fit to the same data. To assess the impact of model-specific parameter dependencies, we present a case study of the nearby heavily obscured low-luminosity AGN NGC 3982, which has a variety of column density estimations reported in the literature. We fit the same broadband XMM-Newton+NuSTAR spectra of the source with five unique obscuration models and generate posterior parameter distributions for each. By using global parameter exploration, we traverse the full prior-defined parameter space to accurately reproduce complex posterior shapes and inter-parameter degeneracies. The unique model posteriors for the line-of-sight column density are broadly consistent, predicting Compton-thick NH > 1.5 × 1024 cm−2 at the 3σ confidence level. The posterior median intrinsic X-ray luminosity in the 2–10 keV band was found to differ substantially, however, with values in the range log L2–10 keV/ erg s−1 = 40.9–42.1 for the individual models. We additionally show that the posterior distributions for each model occupy unique regions of their respective multidimensional parameter spaces and how such differences can propagate into the inferred properties of the central engine. We conclude by showcasing the improvement in parameter inference attainable with the High Energy X-ray Probe, with its uniquely broad, simultaneous, and high-sensitivity bandpass of 0.2–80 keV.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Narrowly Banded Spectra with Peak Frequency around 1 GHz of FRB 20201124A: Implications for Energy Function and Radiation Physics</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3354</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3354</guid>
-<content:encoded><![CDATA[
-<div> FAST, FRB, spectral peak frequency, intrinsic burst energies, Monte Carlo simulation analysis
-总结: 本文研究了快速无线电爆发（FRBs）的辐射物理，发现FRB 20201124A的窄带爆发在0.4–2 GHz活跃，并且其光谱峰频率主要集中在约1 GHz。通过FAST探测到的1268次FRB 20201124A爆发，研究表明约71.4%的事件的1σ光谱范围在FAST频段内。通过高斯函数拟合光谱曲线，很好地测量了固有爆发能量和光谱宽度。蒙特卡洛模拟分析推断了其固有峰频率分布和固有能量函数，并将结果与典型的重复FRB 20121102A和20190520B进行了比较。作者认为FRB 20201124A可能发生在一个精密调谐的等离子体中，这种等离子体能够产生窄频段的激射辐射，而FRB 20121102A和FRB 20190520B可能涉及多团块的等离子体条件，在广泛范围内产生几个特定频率的激射辐射。 <div>
-The radiation physics of fast radio bursts (FRBs) remains an open question. Current observations have discovered that narrowly banded bursts of FRB 20201124A are active in 0.4–2 GHz, and their spectral peak frequency ( ) is mostly toward ∼1 GHz. Utilizing a sample of 1268 bursts of FRB 20201124A detected with the Five-hundred-meter Aperture Spherical radio Telescope (FAST), we show that the 1σ spectral regime of 71.4% of the events (in-band bursts) is within the FAST bandpass. The intrinsic burst energies ( ) and spectral widths ( ) are well measured by fitting the spectral profile with a Gaussian function. The derived and distributions are lognormal and centered at and . Our Monte Carlo simulation analysis infers its intrinsic νp distribution as a normal function centered at νp,c = 1.16 GHz (σ = 0.22) and its intrinsic energy function as with Ec = 9.49 × 1037 erg. We compare these results with that of typical repeating FRBs 20121102A and 20190520B, which are active over a broad frequency range at several specific frequencies, and discuss possible observational biases on the estimation of the event rate and energy function. Based on these results, we argue that FRB 20201124A likely occurs in a fine-tuned plasma for maser radiation at a narrow frequency range, while FRB 20121102A and FRB 20190520B could involve clumpy plasma conditions that make maser emission around several specific frequencies in a broad range.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>GRB 221009A: Spectral Signatures Based on ALPs Candidates</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3445</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3445</guid>
-<content:encoded><![CDATA[
-<div> TeV photons, gamma-ray bursts, Klein–Nishina effect, extragalactic background light, axion-like particles
-
-总结:<br /><br />这篇文章讨论了GRB 221009A对目前我们对产生TeV光子的机制的理解提出的重大挑战。作者提出了大量的想法和假设，包括逆康普顿散射的Klein-Nishina效应导致高能电子的能量损失不够有效，以及外星际背景光的吸收效应等。他们还研究了TeV光子转化为轴子样粒子(ALPs)的可能性，并进行了参数空间的研究。此外，作者还考虑了EBL模型的不同假设，并给出了ALPs候选者的质量范围。这篇文章提出了一种探讨GRB中TeV光子产生机制的新思路，为相关研究领域提供了有益的信息。 <div>
-GRB 221009A has posed a significant challenge to our current understanding of the mechanisms that produce TeV photons in gamma-ray bursts (GRBs). On one hand, the Klein–Nishina (KN) effect of the inverse Compton scattering leads to less efficient energy losses of high-energy electrons. On the other hand, at a redshift of 0.151, the TeV spectrum of GRB 221009A undergoes significant absorption by the extragalactic background light (EBL). Therefore, the observation of a 13 TeV photon in this event implies the presence of enormous photon fluxes at the source, which the synchrotron self-Compton mechanism in external shocks cannot easily generate. As an alternative, some authors have suggested the possibility of converting the TeV photons into axion-like particles (ALPs) at the host galaxy, in order to avoid the effects of EBL absorption, and then reconverting them into photons within the Milky Way. While this solution relaxes the requirement of very high photon fluxes, the KN effect still poses a challenge. Previously, we have shown that the injections of ALPs could explain the observation of 13 TeV photons. Here, we include the energy dependence of the probability of survival and the amount of energy carried to determine the ALP candidates, which could potentially explain the TeV photons observed by the Large High Altitude Air Shower Observatory and their hard spectrum. We found that the allowed candidates are generally clustered around masses of 10−7 eV. We also considered different EBL models, for the one predicting larger attenuation tends to reject ALP candidates with the lowest coupling factor. For some hypotheses of the EBL model, these candidates are found below a region of the parameter space in which, if detected, ALPs could account for all of the cold dark matter in the Universe.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Morphology of Galaxies in JWST Fields: Initial Distribution and Evolution of Galaxy Morphology</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3448</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3448</guid>
-<content:encoded><![CDATA[
-<div> 红移、宇宙早期、星系形态、JWST望远镜、HR5模拟<br />  
-
-研究利用HR5模拟预测了在宇宙的早期（10≳z≳4）星系的盘状形态在ΛCDM宇宙中占主导地位，这种形态是由物质初始波动中的潮汐力所驱动的。通过在公开发布的领域中利用深度JWST/NIRCam图像，识别了约19,000个JWST星系，并对其进行了对比观测，结果表明在各个红移范围下盘状星系占比60%-70%，但在高质量星系中，球状形态成为主导类型。这意味着星系的质量增长伴随着从盘状到球状的形态过渡。总体而言，星系的形态分布与HR5模拟得出的结果高度一致。这些结果进一步证实了在宇宙早期和正午时盘状星系占主导地位。 <br /><br />总结: <br />红移、宇宙早期、星系形态、JWST望远镜、HR5模拟。 <div>
-A recent study from the Horizon Run 5 (HR5) cosmological simulation has predicted that galaxies with in the cosmic morning (10 ≳ z ≳ 4) dominantly have disk-like morphology in the ΛCDM universe, which is driven by the tidal torque in the initial fluctuations of matter. For a direct comparison with observation we identify a total of about 19,000 James Webb Space Telescope (JWST) galaxies with at z = 0.6–8.0 utilizing deep JWST/NIRCam images of publicly released fields, including North Ecliptic Pole Time-Domain Fields, Next Generation Deep Extragalactic Exploratory Public survey, Cosmic Evolution Early Release Science Survey, Cosmic Evolution Survey, UltraDeep Survey, and SMACS J0723-7327. We estimate their stellar masses and photometric redshifts with the redshift dispersion of σNMAD = 0.009 and an outlier fraction of only about 6%. We classify galaxies into three morphological types, disks,spheroids, and irregulars, applying the same criteria used in the HR5 study. The morphological distribution of the JWST galaxies shows that disk galaxies account for 60%–70% at all redshift ranges. However, in the high-mass regime ( ), spheroidal morphology becomes the dominant type. This implies that the mass growth of galaxies is accompanied by a morphological transition from disks to spheroids. The fraction of irregulars is about 20% or less at all masses and redshifts. All the trends in the morphology distribution are consistently found in the six JWST fields. These results are in close agreement with the results from the HR5 simulation, particularly confirming the prevalence of disk galaxies at small masses in the cosmic morning and noon.
-]]></content:encoded>
-<pubDate>2024-04-28T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
