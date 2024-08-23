@@ -5,16 +5,154 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>GWSkyNet. II. A Refined Machine-learning Pipeline for Real-time Classification of Public Gravitational Wave Alerts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad496a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad496a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 电磁波跟踪、引力波事件、机器学习分类器、LVK第四次观测、实时评估<br>
+<br>
+引力波事件的电磁波跟踪对于新型天体物理瞬变现象具有重要科学意义。然而，实时搜索引力波候选事件存在一定的误报率。研究人员通过GWSkyNet机器学习分类器提高了事件来源的识别准确性，并将其纳入LVK的低延迟基础设施，实现了对引力波警报的自动评估。经过LVK模拟数据挑战活动的测试，结果表明通过GWSkyNet评分阈值设定，可以有效地拒绝伪装成天体来源的噪音，并正确识别大多数真实的天体信号。 <br><br>总结: 研究人员通过机器学习分类器提高了引力波事件来源的识别准确性，并将其纳入LVK的低延迟基础设施，以实现对引力波警报的自动评估。经过测试，结果表明可以有效地拒绝伪装成天体来源的噪音，并正确识别大多数真实的天体信号。 <div>
+Electromagnetic follow-up observations of gravitational wave events offer critical insights and provide significant scientific gain from this new class of astrophysical transients. Accurate identification of gravitational wave candidates and rapid release of sky localization information are crucial for the success of these electromagnetic follow-up observations. However, searches for gravitational wave candidates in real time suffer from a nonnegligible false alarm rate. By leveraging the sky localization information and other metadata associated with gravitational wave candidates, GWSkyNet, a machine-learning classifier developed by Cabero et al., demonstrated promising accuracy for the identification of the origin of event candidates. We improve the performance of the classifier for LIGO–Virgo–KAGRA's (LVK) fourth observing run by reviewing and updating the architecture and features used as inputs by the algorithm. We also retrain and fine-tune the classifier with data from the third observing run. To improve the prospect of electromagnetic follow-up observations, we incorporate GWSkyNet into LVK's low-latency infrastructure as an automatic pipeline for the evaluation of gravitational wave alerts in real time. We test the readiness of the algorithm on an LVK mock data challenge campaign. The results show that by thresholding on the GWSkyNet score, noise masquerading as astrophysical sources can be rejected efficiently and the majority of true astrophysical signals can be correctly identified.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The NANOGrav 15 yr Data Set: Chromatic Gaussian Process Noise Models for Six Pulsars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5291</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5291</guid>
+<content:encoded><![CDATA[
+<div> Pulsar timing arrays, low-frequency gravitational waves, chromatic noise models, NANOGrav, EPTA <br>
+脉冲星定时阵列（PTAs）旨在检测低频引力波（GWs）。GWs在PTA数据中引起无色散信号，意味着定时延迟不依赖于射电频率。然而，脉冲到达时间也受到射频相关的“色散噪声”的影响。为了更好地理解这种影响，我们评估了不同色散噪声模型如何影响每颗脉冲星的无色散噪声特性。我们发现色散噪声模型的选择明显影响了几颗脉冲星的无色散噪声特性。此外，我们还比较了每颗脉冲星的噪声特性与EPTA DR2推断的噪声特性之间的差异，并识别了可以改进噪声模型的潜在领域。这些结果突显了定制的色散噪声模型提高PTA对GWs的灵敏度的潜力。<br><br>总结: 该研究评估了不同色散噪声模型对PTA数据的影响，发现其明显影响了脉冲星的无色散噪声特性，尤其是PSR J1713+0747。同时，与EPTA DR2推断的噪声特性存在差异，为改进噪声模型提供了方向。这表明了定制的色散噪声模型可以提高PTA对GWs的探测灵敏度。 <div>
+Pulsar timing arrays (PTAs) are designed to detect low-frequency gravitational waves (GWs). GWs induce achromatic signals in PTA data, meaning that the timing delays do not depend on radio frequency. However, pulse arrival times are also affected by radio-frequency-dependent “chromatic” noise from sources such as dispersion measure (DM) and scattering delay variations. Furthermore, the characterization of GW signals may be influenced by the choice of chromatic noise model for each pulsar. To better understand this effect, we assess if and how different chromatic noise models affect the achromatic noise properties in each pulsar. The models we compare include existing DM models used by the North American Nanohertz Observatory for Gravitational waves (NANOGrav) and noise models used for the European PTA Data Release 2 (EPTA DR2). We perform this comparison using a subsample of six pulsars from the NANOGrav 15 yr data set, selecting the same six pulsars as from the EPTA DR2 six-pulsar data set. We find that the choice of chromatic noise model noticeably affects the achromatic noise properties of several pulsars. This is most dramatic for PSR J1713+0747, where the amplitude of its achromatic red noise lowers from to , and the spectral index broadens from to . We also compare each pulsar's noise properties with those inferred from the EPTA DR2, using the same models. From the discrepancies, we identify potential areas where the noise models could be improved. These results highlight the potential for custom chromatic noise models to improve PTA sensitivity to GWs.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Unraveling the Origins of an Extreme Solar Eruptive Event with Hard X-Ray Imaging Spectroscopy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad57b7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad57b7</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Hard X-ray observations, solar eruptive events, extreme ultraviolet imaging, Solar Orbiter, flare energy release<br>
+总结: <br>
+1. 本研究利用太阳探测器和太阳轨道飞行器的数据，展示了高能X射线成像在太阳活动爆发事件中的重要性。<br>
+2. 文章指出，在缺乏高频极紫外成像的情况下，高频HXR成像对于理解太阳活动爆发结构的演变至关重要。<br>
+3. 研究通过STIX提供的高频成像数据，揭示了这次爆发事件的能量释放特征、粒子加速时机和加速效率的演变。<br>
+4. 文章发现这是一个两阶段的爆发事件，而非先前认为的两次独立的喷发。<br>
+5. 该研究结果表明，高频HXR成像光谱学对于理解强烈且与太空天气相关的喷发现象至关重要。 <br> <div>
+Hard X-ray (HXR) observations are crucial for understanding the initiation and evolution of solar eruptive events, as they provide a key signature of flare-accelerated electrons and heated plasma. The potential of high-cadence HXR imaging for deciphering the erupting structure, however, has not received adequate attention in an era of extreme ultraviolet (EUV) imaging abundance. An extreme solar eruptive event on 2022 September 5 observed on the solar far side by both Parker Solar Probe and Solar Orbiter provides the opportunity to showcase the power of HXR imaging in the absence of high-cadence EUV imaging. We investigate the evolution of flare energy release through HXR timing, imaging, and spectral analyses using data from the Spectrometer/Telescope for Imaging X-rays (STIX) on board Solar Orbiter. STIX provides the highest cadence imaging of the energy release sites for this far-side event and offers crucial insight into the nature of energy release, timing of flare particle acceleration, and evolution of the acceleration efficiency. We find that this is a two-phase eruptive event, rather than two distinct eruptions, as has been previously suggested. The eruption begins with an initial peak in flare emission on one side of the active region (AR), marking the rise/destabilization of a loop system followed by notable episodes of energy release across the AR and an eruptive phase associated with a very fast coronal mass ejection, type III radio bursts, and solar energetic particles. We demonstrate that high-cadence HXR imaging spectroscopy is indispensable for understanding the formation of powerful, space-weather relevant eruptions.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Deeper, Sharper, Faster: Application of Efficient Transformer to Galaxy Image Restoration</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5954</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5954</guid>
+<content:encoded><![CDATA[
+<div> Transformer, deep learning, astronomical images, deconvolution, denoising
+
+总结:<br><br> 本文介绍了Transformer架构在深度学习领域的应用，重点是在天文图像处理中进行去卷积和去噪。实验结果表明，采用深度学习模型后，能够显著恢复光度、结构和形态信息。与James Webb Space Telescope图像相比，修复后的Hubble Space Telescope图像在等光度测量、Sérsic指数和半光半径方面的散射减少了4.4、3.6和4.7倍，皮尔逊相关系数接近于1。然而，在输入图像存在相关噪声、点状源、以及伪影的情况下，性能表现会下降。预计这一深度学习模型将在精密光度测量、形态分析和剪切校准等科学应用中发挥重要作用。 <div>
+The Transformer architecture has revolutionized the field of deep learning over the past several years in diverse areas, including natural language processing, code generation, image recognition, and time-series forecasting. We propose to apply Zamir et al.'s efficient transformer to perform deconvolution and denoising to enhance astronomical images. We conducted experiments using pairs of high-quality images and their degraded versions, and our deep learning model demonstrates exceptional restoration of photometric, structural, and morphological information. When compared with the ground-truth James Webb Space Telescope images, the enhanced versions of our Hubble Space Telescope–quality images reduce the scatter of isophotal photometry, Sérsic index, and half-light radius by factors of 4.4, 3.6, and 4.7, respectively, with Pearson correlation coefficients approaching unity. The performance is observed to degrade when input images exhibit correlated noise, point-like sources, and artifacts. We anticipate that this deep learning model will prove valuable for a number of scientific applications, including precision photometry, morphological analysis, and shear calibration.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Revealing the Production Mechanism of High-energy Neutrinos from NGC 1068</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a04</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a04</guid>
+<content:encoded><![CDATA[
+<div> NGC 1068, neutrino signals, multimessenger constraints, cosmic rays, black holes
+总结:<br><br>
+研究NGC 1068的高能中微子信号提供了研究超大质量黑洞中非热过程的机会。使用IceCube和最新的Fermi-LAT数据，研究人员提出了有关宇宙射线能量和中微子发射区域尺寸的一般性多信使约束。结果表明，在光子带电子场景中，所需的宇宙射线能量应大于Eddington光度的1%–10%，发射半径应在低β等离子体中小于15RS，在高β等离子体中小于3RS。而在电子场景中，所需的γ射线光度远大于Eddington光度，超出了NuSTAR或Fermi-LAT数据。而在β衰变场景中，不仅在能量上违反要求，而且在γ射线约束方面也不成立。这些结果几乎是无偏见的，支持了磁场驱动冠层中的强子机制，排除了电子和β衰变场景。 <div>
+The detection of high-energy neutrino signals from the nearby Seyfert galaxy NGC 1068 provides us with an opportunity to study nonthermal processes near the center of supermassive black holes. Using the IceCube and latest Fermi-LAT data, we present general multimessenger constraints on the energetics of cosmic rays and the size of neutrino emission regions. In the photohadronic scenario, the required cosmic-ray luminosity should be larger than ∼1%−10% of the Eddington luminosity and the emission radius should be ≲15RS in low-β plasma and ≲3RS in high-β plasma. The leptonic scenario overshoots the NuSTAR or Fermi-LAT data for any emission radii we consider, and the required gamma-ray luminosity is much larger than the Eddington luminosity. The beta-decay scenario also violates not only the energetics requirement but also gamma-ray constraints, especially when the Bethe–Heitler and photomeson production processes are consistently considered. Our results rule out the leptonic and beta-decay scenarios in a nearly model-independent manner and support hadronic mechanisms in magnetically powered coronae if NGC 1068 is a source of high-energy neutrinos.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Lyα Emission Line Profiles of Extreme [O iii]- emitting Galaxies at z ≳ 2: Implications for Lyα Visibility in the Reionization Era</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ae0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ae0</guid>
+<content:encoded><![CDATA[
+<div> JWST, observations, Lyα velocity profile, galaxies, reionization<br>
+JWST的观测开始提供z > 6的Lyα速度剖面测量的样本，打开对再电离过程的新窗口。通过解决z ≳ 6线剖面的现有局限性，我们得到了42个类似于z > 6的星系，解析（R ∼ 3900）光谱。我们的光谱揭示了z ≃ 2–3星系的新特征，包括大量的Lyα流量以及极端的[O iii]发射体。我们研究了IGM对这些固有线剖面的影响，发现核心峰的Lyα辐射在z ≳ 5时会受到强烈的衰减。这些线剖面对来自降落的IGM的谐振散射尤为敏感，即使IGM在z ≃ 5时已高度电离，它们也可能受到严重的衰减。我们将这些预期与JWST/NIRSpec测量的z ≳ 6.5星系的新数据库进行了比较。 <br><br>总结: JWST观测提供了z > 6的Lyα速度剖面测量样本，解析出类似于z > 6的星系的特征。这些星系显示出在一些低质量星系中产生低密度中性氢通道的能力，并对再电离时期IGM的影响进行了研究。 <div>
+JWST observations have recently begun delivering the first samples of Lyα velocity profile measurements at z > 6, opening a new window into the reionization process. Interpretation of z ≳ 6 line profiles is currently stunted by limitations in our knowledge of the intrinsic Lyα profile (before encountering the intergalactic medium (IGM)) of the galaxies that are common at z ≳ 6. To overcome this shortcoming, we have obtained resolved (R ∼ 3900) Lyα spectroscopy of 42 galaxies at z = 2.1–3.4 with similar properties as are seen at z > 6. We quantify a variety of Lyα profile statistics as a function of [O iii]+Hβ equivalent width (EW). Our spectra reveal a new population of z ≃ 2–3 galaxies with large [O iii]+Hβ EWs (>1200 Å) and a large fraction of Lyα flux emerging near the systemic redshift (peak velocity ≃0 km s−1). These spectra indicate that low-density neutral hydrogen channels are able to form in a subset of low-mass galaxies (≲1 × 108M⊙) that experience a burst of star formation (sSFR > 100 Gyr−1). Other extreme [O iii] emitters show weaker Lyα that is shifted to higher velocities (≃240 km s−1) with little emission near the line center. We investigate the impact the IGM is likely to have on these intrinsic line profiles in the reionization era, finding that the centrally peaked Lyα emitters should be strongly attenuated at z ≳ 5. We show that these line profiles are particularly sensitive to the impact of resonant scattering from infalling IGM and can be strongly attenuated even when the IGM is highly ionized at z ≃ 5. We compare these expectations against a new database of z ≳ 6.5 galaxies with robust velocity profiles measured with JWST/NIRSpec.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>GRMHD Simulations of Accretion Structures with Different Angular Momentum Profiles</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bdd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5bdd</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 黑洞、吸积盘、磁流体力学、相对论、轨道运动<br>
+总结:<br>
+本文研究了环绕球对称黑洞的吸积结构动力学，比较了三种具有不同角动量分布的吸积盘模型：(i) 几何薄的开普勒吸积盘，(ii) Fishbone-Moncrief环形托盘；和(iii) 波兰面包圈。利用高精度相对论磁流体力学模拟，我们研究了这三个模型，考虑了磁场对吸积盘角动量重分布的影响。我们表明磁场是影响吸积盘结构的关键因素，特别是在质量密度较低的区域。我们的研究验证了一个既定事实，即磁场的存在显著影响了吸积速率及其时间变化。 <div>
+In this article, we explore the dynamics of accretion structures encircling spherically symmetric black holes, comparing three accretion disk models with distinct angular momentum profiles: (i) the geometrically thin Keplerian disk, (ii) the Fishbone–Moncrief torus; and (iii) the Polish Doughnut. Employing general relativistic magnetohydrodynamics simulations with the High Accuracy Relativistic Magnetohydrodynamics code, we investigate these three models, considering the magnetic field’s influence on the accretion disk angular momentum redistribution. We show that the magnetic field is a key factor in accretion disk structures, especially in regions with lower mass density. Our investigation verifies the well-established fact that the presence of a magnetic field significantly influences the accretion rate and its temporal variability.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Differences in the Origination and Properties of the Near-Earth Solar Wind between Solar Cycles 23 and 24</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳风, 太阳黑子周期，日冕洞，活动区，地球附近
+
+总结: 
+太阳黑子周期对地球附近太阳风的来源和特性产生重要影响。研究利用改进的“两步”映射程序追踪了1999年至2020年的太阳风，覆盖了太阳黑子周期23和24。结果发现，在太阳黑子周期23期间，日冕洞和活动区生成的太阳风比例较高，而静谧太阳生成的太阳风比例较低。在太阳黑子周期23的太阳极大期和衰减期，所有三种太阳风的磁场强度、速度、氦丰度和电荷状态普遍高于太阳黑子周期24。在太阳黑子周期的极小期，这些参数普遍低于太阳黑子周期24。太阳黑子周期23的太阳风的电荷状态在极小期有显著下降。这些统计结果表明，太阳黑子周期振幅影响着太阳风的来源和特性。活动区、静谧太阳和日冕洞区的温度在低高度有显著差异，而在高高度几乎是均匀的。 <div>
+The dependence of the sources and properties of the near-Earth solar wind on solar cycle activity is an important issue in solar and space physics. We use the improved “two-step” mapping procedure that takes into account the initial acceleration processes to trace the near-Earth solar winds back to their source regions from 1999–2020, covering solar cycles (SCs) 23 and 24. Then, the solar wind is categorized into coronal hole (CH), active region (AR), and quiet Sun (QS) solar wind based on the source region type. We find that the proportions of CH and AR (QS) wind during SC 23 are higher (lower) than those during SC 24. During solar maximum and declining phases, the magnetic field strength, speed, helium abundance (AHe), and charge states of all three types of solar wind during SC 23 are generally higher than those during SC 24. During solar minimum, these parameters of solar wind are generally lower during SC 23 than those during SC 24. There is a significant decrease in the charge states of all three types of solar wind during the solar minimum of SC 23. The present statistical results demonstrate that the sources and properties of the solar wind are both influenced by solar cycle amplitude. The temperatures of AR, QS, and CH regions exhibit significant differences at low altitudes, whereas they are almost uniform at high altitudes.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Evaluating the Geoeffectiveness of Interplanetary Coronal Mass Ejections: Insights from a Support Vector Machine Approach with SHAP Value Analysis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad61d7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad61d7</guid>
+<content:encoded><![CDATA[
+<div> ICME, RBF-SVM, 阈值, 精度, 飞行学<br>
+总结:<br>
+该研究总结了1996年至2023年间510个行星际日冕物质抛射（ICME）事件的数据集，并训练了一个径向基函数支持向量机（RBF-SVM）模型，以研究ICME的地磁效应及其对观测在1天文单位处的太阳风条件的依赖性。模型展示了在特定扰动风暴时间阈值下对地磁风暴强度的分类、评估ICME的地磁效应方面的高性能。模型的输出使用了精度、召回率、F1分数和真实技能统计（TSS）进行评估，并通过分层k折交叉验证进行了鲁棒性检验。在-50 nT阈值下，该模型实现了分别为0.84和0.93的精度，0.94和0.82的召回率，以及相应的0.89和0.87的F1分数，总体准确率为0.88，TSS为0.76。尽管在-100 nT阈值处存在数据集不平衡和样本有限的挑战，但该模型仍然保持了0.87的总体准确率，TSS为0.69，表明了该模型有效处理不平衡数据的能力。通过SHapley Additive exPlanations（SHAP）值分析，模型解释获得了物理见解，指出了南向磁场分量在触发地磁风暴中的作用，以及冲击-ICME组合在加剧这些风暴中的关键影响。使用SVM模型和SHAP值分析的有效应用提供了一种理解和预测ICME地磁效应的方法，并突显了相对简单的机器学习模型在预测空间天气并揭示潜在物理机制方面的能力。 <div>
+In this study, we compiled a data set of 510 interplanetary coronal mass ejections (ICME) events from 1996–2023 and trained a radial basis function support vector machine (RBF-SVM) model to investigate the geoeffectiveness of ICMEs and its dependence on the solar wind conditions observed at 1 au. The model demonstrates high performance in classifying geomagnetic storm intensities at specific Disturbance Storm Time thresholds and evaluating the geoeffectiveness of ICMEs. The model’s output was assessed using precision, recall, F1 score, and true skill statistics (TSS), complemented by stratified k-folds cross-validation for robustness. At the −50 nT threshold, the model achieves precisions of 0.84 and 0.93, recalls of 0.94 and 0.82, and corresponding F1 scores of 0.89 and 0.87 for the categories separated by this threshold, respectively. Overall accuracy is noted at 0.88, with a TSS of 0.76. Despite challenges at the −100 nT threshold due to data set imbalance and limited samples, the model maintains an overall accuracy of 0.87, with a TSS of 0.69, demonstrating the model’s ability to effectively handle imbalanced data. Physical insights were gained through model explanation with a SHapley Additive exPlanations (SHAP) value analysis, pinpointing the role of the southward magnetic field component in triggering geomagnetic storms, as well as the critical impact of shock-ICME combinations in intensifying these storms. The effective application of an SVM model with SHAP value analysis offers a way to understand and predict the geoeffectiveness of ICMEs. It also underscores the capability of a relatively simple machine learning model in predicting space weather and revealing the underlying physical mechanisms.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Lyα Imaging around the Hyperluminous Dust-obscured Quasar W2246–0526 at z = 4.6</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65da</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65da</guid>
+<content:encoded><![CDATA[
+<div> 热尘埃遮蔽的星系（hot DOGs）、高红移、超亮、极度遮蔽的类星体，通过广域红外测量探测到。这些星系的增长可能是由星系合并所驱动。先前的环境研究统计显示，热DOGs可能存在于密集区域。研究使用大型望远镜窄带和宽带成像来搜索Lyα发射体（LAEs），发现在W2246-0526（最远的热DOGs）的领域中有比空白领域更多的LAEs。这直接证据表明，这个最遥远的热DOGs处于Mpc尺度上的过密环境中，结果与热DOGs的合并起源相关。
+
+<br><br>总结:
+关键词: 热尘埃遮蔽的星系、类星体、红移、合并、过密环境
+
+- 热尘埃遮蔽的星系是一类超亮、极度遮蔽的类星体，通过广域红外测量被探测到。
+- 研究通过大型望远镜寻找Lyα发射体（LAEs），发现W2246-0526的领域中存在着比空白领域更多的LAEs，这表明这个最遥远的热DOGs处于Mpc尺度上的过密环境中。
+- 热DOGs的增长可能是由星系合并所驱动，这项研究结果与热DOGs的合并起源相关。 <div>
+Hot dust-obscured galaxies (hot DOGs) are a population of hyperluminous, heavily obscured quasars discovered by the Wide-field Infrared Survey Explorer all-sky survey at high redshift. Observations suggested the growth of these galaxies may be driven by mergers. Previous environmental studies have statistically shown hot DOGs may reside in dense regions. Here we use the Very Large Telescope narrowband and broadband imaging to search for Lyα emitters (LAEs) in the field of the hot DOG W2246−0526 at z = 4.6. W2246−0526 is the most distant hot DOG. We find that there is an overdensity of LAEs in the W2246−0526 field compared with the blank fields. This is direct evidence that this most distant hot DOG is in an overdense environment on the Mpc scale, and the result relates to the merger origin of hot DOGs.
+]]></content:encoded>
+
+<pubDate>2024-08-22T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Timing and Scintillation Studies of Pulsars in Globular Cluster M3 (NGC 5272) with FAST</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a82</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a82</guid>
 <content:encoded><![CDATA[
 <div> PSRs, M3, timing solutions, scintillation, Chandra images
-<br><br>总结:
+<br /><br />总结:
 本文报道了M3球状星团内5颗脉冲星的相位连接定时解决方案，发现M3E和F具有低质量伴星，并处于分别为7.1和3.0天的圆形轨道上。未在所有41次观测中检测到M3C的信号，未在Chandra图像中发现这些脉冲星的X射线对应物。从M3A和M3B的动态谱的自相关函数分析中，发现了强烈的闪烁现象，散射介质是各向异性的。从次级谱中，只捕捉到M3B的一个弯曲度为649±23 m^-1 mHz^-2的闪烁弧。 <div>
 We present the phase-connected timing solutions of all five pulsars in globular cluster M3 (NGC 5272), namely PSRs M3A to F (PSRs J1342+2822A to F), with the exception of PSR M3C, from FAST archival data. In these timing solutions, those of PSRs M3E and F are obtained for the first time. We find that PSRs M3E and F have low-mass companions and are in circular orbits with periods of 7.1 and 3.0 days, respectively. For PSR M3C, we have not detected its signal in all 41 observations. We found no X-ray counterparts for these pulsars in archival Chandra images in the band of 0.2–20 keV. From the autocorrelation function analysis of M3A and M3B’s dynamic spectra, the scintillation timescale ranges from 7.0 ± 0.3 to 60.0 ± 0.6 minutes, and the scintillation bandwidth ranges from 4.6 ± 0.2 to 57.1 ± 1.1 MHz. The measured scintillation bandwidths from the dynamic spectra indicate strong scintillation, and the scattering medium is anisotropic. From the secondary spectra, we captured a scintillation arc only for PSR M3B with a curvature of 649 ± 23 m−1 mHz−2.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
 <item>
@@ -28,7 +166,6 @@ We present the phase-connected timing solutions of all five pulsars in globular 
 多波长观测表明，一些星系团中的介质包含冷丝，但其形成机制尚存争议。作者利用流体动力学模拟表明，冷丝可能自然凝结出热气体射流所产生的气泡所带起的热气体尾流之中。模拟结果与观测一致，显示冷丝可延伸到星系团中心几十千帕秒之远，质量典型为10^8–10^9太阳质量，与典型活动星系核输出能量10^60爱尔格相符。冷丝具有平滑的速度梯度，从内部流入到外部流出，速度分散约数百公里/秒。冷丝的性质对射流特性有显著影响。与动能占主导的射流相比，热能占主导的射流更容易产生质量大、延伸较长的冷丝。射流早期启动、低基础速度或非常高功率的AGN射流往往会使星系团中心过热，并产生需要相对较长时间才能凝结出的短冷丝。 <div>
 Multiwavelength observations indicate that the intracluster medium in some galaxy clusters contains cold filaments, while their formation mechanism remains debated. Using hydrodynamic simulations, we show that cold filaments could naturally condense out of the hot gaseous wake flows uplifted by jet-inflated active galactic nucleus (AGN) bubbles. Consistent with observations, the simulated filaments extend to tens of kiloparsecs from the cluster center, with a representative mass of 108–109M⊙ for a typical AGN outburst energy of 1060 erg. They show smooth velocity gradients, stretching typically from inner inflows to outer outflows with velocity dispersions of several hundred kilometers per second. The properties of cold filaments are affected substantially by the jet properties. Compared to kinetic-energy-dominated jets, it is easier for thermal-energy-dominated jets to produce long cold filaments with large masses, as observed. AGN jets with an early turn-on time, a low jet base, or a very high power tend to overheat the cluster center and produce short cold filaments that take a relatively long time to condense out.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,11 +174,10 @@ Multiwavelength observations indicate that the intracluster medium in some galax
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ced</guid>
 <content:encoded><![CDATA[
 <div> AGNs, jet cores, edge brightening, Lorentz factor, Monte Carlo simulations
-<br><br>总结:
+<br /><br />总结:
 AGN中的喷流核心呈现出边缘增亮的结构，这种现象可以通过喷流洛伦兹因子的角度依赖性来解释。喷流沿着其轴线具有较高的洛伦兹因子，沿着极角呈幂律下降。这导致观测者在喷流轴线附近看到较低的光学深度，而在较外部区域观测者看到较高的光学深度。通过蒙特卡洛模拟得到的分析和数值结果证实了边缘增亮现象。这项研究为通过观测到的喷流核心确定喷流结构和相关参数提供了独特的工具。这项研究为未来探索具有结构化洛伦兹因子的光学厚核心的谱特性铺平了道路。 <div>
 The jet cores in active galactic nuclei (AGNs) are resolved and found to harbor an edge-brightened structure where the jet base appears extended at the sides compared to its propagation axis. This peculiar phenomenon invites various explanations. We show that the photosphere of an optically thick jet base in AGNs is observed edge brightened if the jet Lorentz factor harbors an angular dependence. The jet assumes a higher Lorentz factor along the jet axis and decreases following a power law along its polar angle. For an observer near the jet axis, the jet has a lower optical depth along its propagation axis compared to off-axis regions. Higher optical depth at the outer region makes the jet photosphere appear to extend to larger radii compared to a deeper photosphere along its propagation axis. We tackle the problem both analytically and numerically, confirming the edge brightening through Monte Carlo simulations. Other than the edge brightening, the outcomes are significant as they provide a unique tool to determine the jet structure and associated parameters by their resolved observed cores. The study paves the way to explore the spectral properties of optically thick cores with structured Lorentz factors in the future.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
 <item>
@@ -51,10 +187,9 @@ The jet cores in active galactic nuclei (AGNs) are resolved and found to harbor 
 <content:encoded><![CDATA[
 <div> 关键词: 低频声波, 光球, 光球-色球界面, 非消散性, 太阳大气
 
-总结: 本研究利用印度乌代浦太阳天文台的观测数据，对太阳光球和光球-色球界面区域的低频（ν < 5.0 mHz）声波的相位移和相位传播时间进行了估计和讨论。结果表明，在绝对视向磁场小于10 G的区域内，低频声波在光球和光球-色球界面区域均表现出非消散性特征，而且相位传播时间显示出非零值。此外，观测还揭示了高频声波向下传播的现象，表明它们在太阳大气的高层发生了折射。这些发现有助于深入了解太阳大气不同层次内声波的复杂动力学，揭示了声波的非消散性和向下传播特性。<br><br> <div>
+总结: 本研究利用印度乌代浦太阳天文台的观测数据，对太阳光球和光球-色球界面区域的低频（ν < 5.0 mHz）声波的相位移和相位传播时间进行了估计和讨论。结果表明，在绝对视向磁场小于10 G的区域内，低频声波在光球和光球-色球界面区域均表现出非消散性特征，而且相位传播时间显示出非零值。此外，观测还揭示了高频声波向下传播的现象，表明它们在太阳大气的高层发生了折射。这些发现有助于深入了解太阳大气不同层次内声波的复杂动力学，揭示了声波的非消散性和向下传播特性。<br /><br /> <div>
 We report and discuss the phase shift and phase travel time of low-frequency (ν < 5.0 mHz) acoustic waves estimated within the photosphere and photosphere–chromosphere interface regions, utilizing multiheight velocities in the quiet Sun. The bisector method has been employed to estimate seven height velocities in the photosphere within the Fe i 6173 Å line scan, while nine height velocities are estimated from the chromospheric Ca ii 8542 Å line scan observations obtained from the narrowband imager instrument installed on the Multi-Application Solar Telescope operational at the Udaipur Solar Observatory, India. Utilizing a fast Fourier transform at each pixel over the full field of view, phase shift and coherence have been estimated. The frequency and height-dependent phase shift integrated over the regions having an absolute line-of-sight magnetic field of less than 10 G indicates the nonevanescent nature of low-frequency acoustic waves within the photosphere and photosphere–chromosphere interface regions. Phase travel time estimated within the photosphere shows nonzero values, aligning with previous simulations and observations. Further, we report that the nonevanescent nature persists beyond the photosphere, encompassing the photospheric–chromospheric height range. We discuss possible factors contributing to the nonevanescent nature of low-frequency acoustic waves. Additionally, our observations reveal a downward propagation of high-frequency acoustic waves indicating refraction from higher layers in the solar atmosphere. This study contributes valuable insights into the understanding of the complex dynamics of acoustic waves within different lower solar atmospheric layers, shedding light on the nonevanescent nature and downward propagation of the acoustic waves.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
 <item>
@@ -63,11 +198,10 @@ We report and discuss the phase shift and phase travel time of low-frequency (ν
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6318</guid>
 <content:encoded><![CDATA[
 <div> 磁环弯曲环流对横波和振荡的影响，磁环弯曲环流的Kelvin-Helmholtz (KH)不稳定性，流速对FSW+和FSW-频率的影响，磁环横波的极化特性，柯朗物理现象观测案例
-<br><br>总结:
+<br /><br />总结:
 本研究分析了磁环弯曲环流对横波和振荡的影响。在模型中发现，在准垂直传播极限下，模型支持两种快速表面模式：一个频率较高的模式（FSW+）和一个频率较低的模式（FSW-）。弱流速时，随着流速增加，FSW+（FSW-）的频率在传播和准驻波区域都会增加（减少）。我们展示了FSW+和FSW-受Kelvin-Helmholtz（KH）不稳定性的影响，并且对于FSW+（FSW-），临界流速大于（小于）内阿尔文速度。流体流动的存在导致了基本谐波与第一次超音波谐波的周期比P1/2P2小于（大于）1的情况，该影响在直线波导限制下退化。亚阿尔文流动可以阻止丝状模式的共振吸收，当FSW+和FSW-的频率脱离阿尔文连续的范围时。同时还表明，在静态情况和弱流动情况下，FSW+（FSW-）可解释为垂直（水平）极化的扭曲模式，而对于中等流动，两种模式都具有倾斜极化。我们将所开发的理论应用于解释具有虹吸流和沿环形磁结构引发的KH不稳定性爆发喷流的皇冠环中扭曲振荡的观测情况。 <div>
 The effect of plasma flow in curved arcade loops on transverse waves and oscillations is examined analytically. The model under study is a semicircular magnetic slab with finite transverse extensions and a mass flow inside, in the zero-β plasma approximation. It is found that in the quasi-perpendicular propagation limit, the model supports two fast surface modes: one with higher (FSW+) and another with lower (FSW−) frequency. For a weak flow, the frequency of the FSW+ (FSW−) increases (decreases) as the flow speed grows in both propagating and quasi-standing wave regimes. We show that the FSW+ and FSW− are subjected to the Kelvin–Helmholtz (KH) instability, and the threshold flow is greater (less than) the internal Alfvén speed for the FSW+ (FSW−). The presence of plasma flow results in modifying the period ratio P1/2P2 of the fundamental harmonic to the first overtone with P1/2P2 less (more) than 1 for the FSW+ (FSW−), and this effect degenerates in the straight waveguide limit. The sub-Alfvénic flow can prohibit resonant absorption of kink modes when the frequencies of the FSW+ and FSW− become out of the Alfvén continuum. It is also shown that in the static case and for a weak flow case, the FSW+ (FSW−) is interpreted as a vertically (horizontally) polarized kink mode, while for moderate flow, both modes have oblique polarization. We apply the developed theory to interpret the observational cases of kink oscillations in coronal loops with signatures of a siphon flow and the onset of KH instability induced by the blowout jet along a loop-shaped magnetic structure.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
 <item>
@@ -76,11 +210,10 @@ The effect of plasma flow in curved arcade loops on transverse waves and oscilla
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6603</guid>
 <content:encoded><![CDATA[
 <div> Al2O, photochemistry, interstellar medium, theoretical investigations, UV range
-<br><br>总结:
+<br /><br />总结:
 本研究重点关注Al2O的光化学反应，在VY-CMa恒星中揭示AlO和Al的产生机制。通过先进的理论方法，探索了Al2O的最低电子态，发现在近紫外-可见光区域Al2O具有低概率的光解和光转化，可能会发生荧光和磷光现象。计算结果还发现UV区域有三个显著的峰值。最终预测Al2O是光稳定的，不可能是二元AlO的母分子，也不是原子铝的天体化学库。这些结果有助于改进模拟星际介质中铝化学反应的天文模型。 <div>
 The chemistry within the interstellar medium (ISM) is notably influenced by the interplay between kinetics and photochemical processes, which play significant roles in both the formation and destruction of molecular species. This study focuses on theoretical investigations of Al2O photochemistry, aiming to elucidate the mechanisms underlying the production of AlO and Al in the VY-CMa star. Utilizing advanced theoretical methodologies, we explore the lowest electronic states with singlet and triplet spin multiplicities in linear Al2O. We investigated the photostability of Al2O in the near UV‒Vis region, revealing the low likelihood of photodissociation and photoconversion while suggesting the plausibility of fluorescence and phosphorescence phenomena. Calculations also identify three prominent peaks in the UV range at 261.5, 206.2, and 199 nm. Finally, Al2O is predicted to be photostable and cannot be the parent molecule of the diatomic AlO or even the astrochemical reservoir of atomic aluminum. These results contribute to improving the astronomical models in simulating aluminum chemistry in the ISM.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
 <item>
@@ -89,14 +222,12 @@ The chemistry within the interstellar medium (ISM) is notably influenced by the 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0e</guid>
 <content:encoded><![CDATA[
 <div> CVs, cyclical period changes, third-body hypothesis, mass loss, magnetic activity
-<br><br>总结:
+<br /><br />总结:
 这篇文章报告了对爆发变星（CVs）的周期性变化进行统计研究的结果。研究假设第三体假说是导致周期变化的原因，估算了21个CVs的第三体质量m3和其与二元系统的分离距离a3。推断的a3值与二元轨道周期Porb无关，而m3值随着Porb增加一个数量级，从最短周期（最老）到最长周期（最年轻）的系统中，意味着第三体的显著质量损失。三体系统的时间演化模型无法同时解释观测到的m3(Porb)和a3(Porb)分布的行为，因为从二元系统和第三体的联合质量损失要求随着二元系统朝着更短的Porb发展，轨道分离增加约140倍，与观测到的分布明显不符。我们得出结论，第三体假说在统计上不一致，不能用来解释CVs中观察到的周期性变化。另一方面，周期变化振幅图与太阳型捐赠者恒星的磁活动所致的候选假说以及CVs的标准演化情景是一致的。 <div>
 We report the results of a statistical study of cyclical period changes in cataclysmic variables (CVs). Assuming the third-body hypothesis as the cause of period changes, we estimate the third-body mass, m3, and its separation from the binary, a3, for 21 CVs showing cyclical period changes from well-sampled observed-minus-calculated diagrams covering more than a decade of observations. The inferred a3 values are independent of the binary orbital period, Porb, whereas the m3 values increase with Porb by 1 order of magnitude from the shortest period (oldest) to the longest period (youngest) systems, implying significant mass loss from the third body with time. A model for the time evolution of the triple system is not able to simultaneously explain the observed behavior of the m3(Porb) and a3(Porb) distributions because the combined mass loss from the binary and the third body demands an increase in orbital separation by factors ∼140 as the binary evolves toward shorter Porb's, in clear disagreement with the observed distribution. We conclude that the third-body hypothesis is statistically inconsistent and cannot be used to explain cyclical period changes observed in CVs. On the other hand, the diagram of the amplitude of the period change versus the CV donor-star mass is consistent both with the alternative hypothesis that the observed cyclical period changes are a consequence of magnetic activity in the solar-type donor star, and with the standard evolutionary scenario for CVs.
 ]]></content:encoded>
-
 <pubDate>2024-08-22T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>On the Formation and Detectability of H2CNCN and Its Progenitors</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad685c</link>
@@ -11757,89 +11888,6 @@ On 2022 September 5, Parker Solar Probe (Parker) observed a large solar energeti
 Based on our Chandra imaging-spectroscopic observations, we present the latest evolution of the X-ray remnant of SN 1987A. Recent changes in the electron temperatures and volume emission measures suggest that the blast wave in SN 1987A is moving out of the dense inner ring structure, also called the equatorial ring (ER). The 0.5–2.0 keV X-ray light curve shows a linearly declining trend (by ∼4.5% yr−1) between 2016 and 2020 as the blast wave heats the hitherto unknown circumstellar medium (CSM) outside the ER. While the peak X-ray emission in the latest 0.3–8.0 keV image is still within the ER, the radial expansion rate in the 3.0–8.0 keV images suggests an increasing contribution of the X-ray emission from less dense CSM since 2012, at least partly from beyond the ER. It is remarkable that, since 2020, the declining soft X-ray flux has stabilized around ∼7 × 10−12 erg s−1 cm−2, which may signal a contribution from the reverse-shocked outer layers of ejecta as predicted by the three-dimensional magnetohydrodynamic models. In the latest ACIS spectrum of supernova remnant 1987A in 2022 we report a significant detection of the Fe K line at ∼6.7 keV, which may be due to changing thermal conditions of the X-ray emitting CSM and/or the onset of reverse shock interactions with the Fe ejecta.
 ]]></content:encoded>
 <pubDate>2024-05-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Stability of C59 Knockout Fragments from Femtoseconds to Infinity</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3930</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3930</guid>
-<content:encoded><![CDATA[
-We have studied the stability of C59 anions as a function of time, from their formation on femtosecond timescales to their stabilization on second timescales and beyond, using a combination of theory and experiments. The fragments were produced in collisions between C60 fullerene anions and neutral helium gas at a velocity of 90 km s−1 (corresponding to a collision energy of 166 eV in the center-of-mass frame). The fragments were then stored in a cryogenic ion beam storage ring at the DESIREE facility, where they were followed for up to 1 minute. Classical molecular dynamics simulations were used to determine the reaction cross section and the excitation energy distributions of the products formed in these collisions. We find that about 15% of the ions initially stored in the ring are intact after about 100 ms and that this population then remains intact indefinitely. This means that C60 fullerenes exposed to energetic atoms and ions, such as stellar winds and shock waves, will produce stable, highly reactive products, like C59, that are fed into interstellar chemical reaction networks.
-]]></content:encoded>
-<pubDate>2024-05-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>ASASSN-18ap: A Dusty Tidal Disruption Event Candidate with an Early Bump in the Light Curve</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2ae4</guid>
-<content:encoded><![CDATA[
-<div> TDE, ASASSN-18ap, supernova, infrared outburst, coronal emission lines
-<br /><br />
-ASASSN-18ap最初被识别为超新星，但随后的现象表明它更可能是发生在尘埃环境中的潮汐撕裂事件。红外暴增的总能量远高于光至紫外范围的能量，暗示存在大量尘埃遮蔽、额外的极紫外成分或非均向的连续辐射。在明亮的起始阶段光变曲线出现了不规则的特征，这可能会提供关于光学发射的起源的见解。这些新发现有助于重新评估ASASSN-18ap的分类。
-<br /><br />总结: ASASSN-18ap最可能是潮汐撕裂事件而非超新星，观测到了红外暴增和冕发射线，光变曲线的不规则特征为我们提供了新的见解。 <div>
-We reexamined the classification of the optical transient ASASSN-18ap, which was initially identified as a supernova (SN) upon its discovery. Based on newly emerged phenomena, such as a delayed luminous infrared outburst and the emergence of luminous coronal emission lines, we suggest that ASASSN-18ap is more likely a tidal disruption event (TDE) in a dusty environment, rather than an SN. The total energy in the infrared outburst is 3.1 × 1051 erg, which is an order of magnitude higher than the total energy in the optical-to-UV range, indicating a large dust extinction, an extra-extreme ultraviolet component, or anisotropic continuum emission. A bumpy feature appeared in the optical light curve at the start of brightening, which was reported in a couple of TDEs very recently. This early bump may have been overlooked in the past, due to the lack of sufficient sampling of the light curves of most TDEs during their ascending phase, and it could provide insight into the origin of optical emission.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Atacama Cosmology Telescope: Mitigating the Impact of Extragalactic Foregrounds for the DR6 Cosmic Microwave Background Lensing Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2610</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2610</guid>
-<content:encoded><![CDATA[
-<div> CMB lensing, extragalactic foregrounds, ACT DR6, mitigation strategies, microwave sky simulations
-<br />总结:
-本文研究了ACT天文望远镜数据释放6版（DR6）数据的宇宙微波背景（CMB）透镜功率谱分析中外星系前景的影响和缓解方法。通过两个独立的微波天空模拟来测试一系列缓解策略。研究表明，找到并减去点源、找到并减去团簇模型，以及使用最大限度减小剖面偏差的透镜估计器，可以将偏差降低到远远低于统计误差，透镜幅度Alens的推断偏差小于0.2σ。另外，我们还展示了另一种方法，即反投影宇宙红外背景（CIB）贡献模型并包含来自Planck的高频数据，其表现类似。其他清理频率的选项效果不佳，要么造成较大的噪声成本，要么导致透镜光谱的偏差恢复。除了这些基于模拟的测试外，我们还对ACT DR6数据进行了零测试，以检验我们的透镜谱估计对两个ACT使用的频率之间的前景水平差异的敏感性，同时取消CMB透镜信号。这些测试无论是在地图级别还是在波段功率级别进行了空化，均通过了测试。在DR6数据上执行的CIB反投影测量与我们的基线测量一致，表明CIB的污染不太可能显著偏离DR6透镜谱。这些测试的集合确保ACT DR6透镜测量和伴随论文中提出的宇宙学约束对外星系前景是健壮的。 <div>
-We investigate the impact and mitigation of extragalactic foregrounds for the cosmic microwave background (CMB) lensing power spectrum analysis of Atacama Cosmology Telescope (ACT) data release 6 (DR6) data. Two independent microwave sky simulations are used to test a range of mitigation strategies. We demonstrate that finding and then subtracting point sources, finding and then subtracting models of clusters, and using a profile bias-hardened lensing estimator together reduce the fractional biases to well below statistical uncertainties, with the inferred lensing amplitude, Alens, biased by less than 0.2σ. We also show that another method where a model for the cosmic infrared background (CIB) contribution is deprojected and high-frequency data from Planck is included has similar performance. Other frequency-cleaned options do not perform as well, either incurring a large noise cost or resulting in biased recovery of the lensing spectrum. In addition to these simulation-based tests, we also present null tests on the ACT DR6 data for sensitivity of our lensing spectrum estimation to differences in foreground levels between the two ACT frequencies used, while nulling the CMB lensing signal. These tests pass whether the nulling is performed at the map or bandpower level. The CIB-deprojected measurement performed on the DR6 data is consistent with our baseline measurement, implying that contamination from the CIB is unlikely to significantly bias the DR6 lensing spectrum. This collection of tests gives confidence that the ACT DR6 lensing measurements and cosmological constraints presented in companion papers to this work are robust to extragalactic foregrounds.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Search for Gravitational-wave Transients Associated with Magnetar Bursts in Advanced LIGO and Advanced Virgo Data from the Third Observing Run</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad27d3</guid>
-<content:encoded><![CDATA[
-<div> 磁星，引力波，磁体星爆发，上限，能量<br />
-总结:<br />
-这篇文章报告了关于磁体星短暂爆发的引力波探测结果。研究通过对13次磁体星爆发事件的Advanced LIGO、Advanced Virgo和KAGRA第三次观测运行期间进行搜索，未发现任何与这些爆发事件相关的引力波。得到的上限值为短时搜索时在100Hz时达到3.6 × 10−23，长时搜索时在450Hz时达到1.1 × 10−22。根据磁体星的估计距离，推导出短时和长时搜索时引力波能量的上限。假设电磁辐射能量的各向同性发射，推断出来自SGR 1935+2154的引力波能量与电磁能量之比的最低值为4.5 × 103。 <div>
-Gravitational waves are expected to be produced from neutron star oscillations associated with magnetar giant flares and short bursts. We present the results of a search for short-duration (milliseconds to seconds) and long-duration (∼100 s) transient gravitational waves from 13 magnetar short bursts observed during Advanced LIGO, Advanced Virgo, and KAGRA’s third observation run. These 13 bursts come from two magnetars, SGR 1935+2154 and Swift J1818.0−1607. We also include three other electromagnetic burst events detected by Fermi-GBM which were identified as likely coming from one or more magnetars, but they have no association with a known magnetar. No magnetar giant flares were detected during the analysis period. We find no evidence of gravitational waves associated with any of these 16 bursts. We place upper limits on the rms of the integrated incident gravitational-wave strain that reach 3.6 × 10−23 at 100 Hz for the short-duration search and 1.1 × 10−22 at 450 Hz for the long-duration search. For a ringdown signal at 1590 Hz targeted by the short-duration search the limit is set to 2.3 × 10−22 . Using the estimated distance to each magnetar, we derive upper limits on the emitted gravitational-wave energy of 1.5 × 1044 erg (1.0 × 1044 erg) for SGR 1935+2154 and 9.4 × 1043 erg (1.3 × 1044 erg) for Swift J1818.0−1607, for the short-duration (long-duration) search. Assuming isotropic emission of electromagnetic radiation of the burst fluences, we constrain the ratio of gravitational-wave energy to electromagnetic energy for bursts from SGR 1935+2154 with the available fluence information. The lowest of these ratios is 4.5 × 103.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Ground-based and JWST Observations of SN 2022pul. II. Evidence from Nebular Spectroscopy for a Violent Merger in a Peculiar Type Ia Supernova</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c0d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2c0d</guid>
-<content:encoded><![CDATA[
-<div> SN 2022pul, JWST observations, 03fg-like, Type Ia supernova, violent merger<br />
-总结:<br />
-本文分析了 SN 2022pul 的地基和 JWST 观测结果，该超新星属于“03fg-like”类型，处于338天的星云相。与普通的 SN Ia 2021aefx 相比，SN 2022pul 的平均电离态较低，具有不对称的发射线轮廓，较强的中等质量元素（IME）氩和钙发射，较弱的铁族元素（IGE）发射，以及 SN Ia 的第一个明确检测到的氖。作者对现有模型进行了修改，添加了块状喷射来更好地重现光学铁发射线，同时在内部区域（<2000 km/s）增加了质量来解释观测到的窄 [O i] λλ6300, 6364 发射线。这些观察结果支持了暴力白矮星（WD）合并的模型解释，有利于解释 03fg-like 类型 SNe Ia 的子类。 <div>
-We present an analysis of ground-based and JWST observations of SN 2022pul, a peculiar “03fg-like” (or “super-Chandrasekhar”) Type Ia supernova (SN Ia), in the nebular phase at 338 days postexplosion. Our combined spectrum continuously covers 0.4–14 μm and includes the first mid-infrared spectrum of a 03fg-like SN Ia. Compared to normal SN Ia 2021aefx, SN 2022pul exhibits a lower mean ionization state, asymmetric emission-line profiles, stronger emission from the intermediate-mass elements (IMEs) argon and calcium, weaker emission from iron-group elements (IGEs), and the first unambiguous detection of neon in a SN Ia. A strong, broad, centrally peaked [Ne ii] line at 12.81 μm was previously predicted as a hallmark of “violent merger” SN Ia models, where dynamical interaction between two sub-MCh white dwarfs (WDs) causes disruption of the lower-mass WD and detonation of the other. The violent merger scenario was already a leading hypothesis for 03fg-like SNe Ia; in SN 2022pul it can explain the large-scale ejecta asymmetries seen between the IMEs and IGEs and the central location of narrow oxygen and broad neon. We modify extant models to add clumping of the ejecta to reproduce the optical iron emission better, and add mass in the innermost region (<2000 km s−1) to account for the observed narrow [O i] λλ6300, 6364 emission. A violent WD–WD merger explains many of the observations of SN 2022pul, and our results favor this model interpretation for the subclass of 03fg-like SNe Ia.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Identifying H i Emission and UV Absorber Associations near the Magellanic Stream</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2def</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2def</guid>
-<content:encoded><![CDATA[
-<div> 关键词: H i emission, Magellanic Stream, ultraviolet absorbers, Wasserstein distance, ionized gas
-
-总结: 
-本文介绍了一种新技术，用于识别麦哲伦星流(MS)中的H i发射与附近92个QSO视线处的紫外线吸收体之间的关联。他们使用Wasserstein距离模型量化了H i元素与星流主体之间的关联程度，推导了MS中H i发射的特征空间和动力学距离。通过应用基于发射的模型，他们进一步开发了一个比较指标，用于确定UV吸收体与MS及附近星系的主要关联。研究发现，对于由C ii, C iv, Si ii, Si iii, Si iv探测的与MS相关的电离气体，其离子柱密度一般比不相关的高约0.5 dex，并且在MS尾部，气体更加电离，这体现在C ii/C iv比率的空间趋势上。他们还发现了与M33和NGC 300星系周星际介质相关的潜在新吸收体，并确认了与IC 1613和Wolf–Lundmark–Mellote星系的关联。对于M31，他们发现了与冲击参数的柱密度梯度，并且M31的银河半径外具有更高柱密度的吸收体更有可能与MS相关。他们的分析还揭示了MS和云之间连续且混合的弥散电离气体。这项技术可以应用于未来对复杂气态结构内部的关联的研究。 <br /><br /> <div>
-We present a new technique to identify associations of H i emission in the Magellanic Stream (MS) and ultraviolet (UV) absorbers from 92 QSO sight lines near the MS. We quantify the level of associations of individual H i elements to the main H i body of the Stream using Wasserstein distance-based models, and derive characteristic spatial and kinematic distances of the H i emission in the MS. With the emission-based model, we further develop a comparison metric, which identifies the dominant associations of individual UV absorbers with respect to the MS and nearby galaxies. For ionized gas associated with the MS probed by C ii, C iv, Si ii, Si iii, Si iv, we find that the ion column densities are generally ∼0.5 dex higher than those that are not associated, and that the gas is more ionized toward the tail of the MS as indicated by the spatial trend of the C ii/C iv ratios. For nearby galaxies, we identify potential new absorbers associated with the circumgalactic medium of M33 and NGC 300, and affirm the associations of absorbers with IC 1613 and the Wolf–Lundmark–Mellote galaxy. For M31, we find the previously identified gradient in column densities as a function of the impact parameter, and that absorbers with higher column densities beyond M31's virial radius are more likely to be associated with the MS. Our analysis of absorbers associated with the Magellanic Clouds reveals the presence of continuous and blended diffuse ionized gas between the Stream and the Clouds. Our technique can be applied to future applications of identifying associations within physically complex gaseous structures.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraints on the z ∼ 5 Star-forming Galaxy Luminosity Function From Hubble Space Telescope Imaging of an Unbiased and Complete Sample of Long Gamma-Ray Burst Host Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e93</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad2e93</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 长时域伽马射线暴，宇宙红移，紫外光度函数，大小-光度关系，恒星形成。  
-总结:  
-本研究利用哈勃太空望远镜对23个红移在4至6之间的长时域伽马射线暴宿主星系进行了紫外光度和大小-光度关系的研究。研究发现，这些伽马射线暴宿主星系在红移z∼5时的性质与同一红移处的Lyman-break星系相似，证实了它们代表同一种类星系的预期。此外，本研究发现，有大约68%的大小-光度测量结果在或低于红移z∼4的Lyman-break星系的相同关系内。研究还表明，伽马射线暴能够作为探测高红移宇宙中隐藏星形成的有效方法。研究还发现，假设伽马射线暴能够无偏地追踪红移z∼5的星形成，那么我们的样本中未检测到的比例7/23与星系光度在我们检测限制M1600Å≈ −18.3 mag之下的一致性在95%的置信水平上是一致的，这表明了约13%–53%的红移z∼5的星形成发生在比我们的检测限制暗的星系中。 <div>
-We present rest-frame UV Hubble Space Telescope imaging of the largest and most complete sample of 23 long-duration gamma-ray burst (GRB) host galaxies between redshifts 4 and 6. Of these 23, we present new WFC3/F110W imaging for 19 of the hosts, which we combine with archival WFC3/F110W and WFC3/F140W imaging for the remaining four. We use the photometry of the host galaxies from this sample to characterize both the rest-frame UV luminosity function (LF) and the size–luminosity relation of the sample. We find that when assuming the standard Schechter-function parameterization for the UV LF, the GRB host sample is best fit with and mag, which are consistent with results based on z ∼ 5 Lyman-break galaxies. We find that ∼68% of our size–luminosity measurements fall within or below the same relation for Lyman-break galaxies at z ∼ 4. This study observationally confirms expectations that at z ∼ 5 Lyman-break and GRB host galaxies should trace the same population and demonstrates the utility of GRBs as probes of hidden star formation in the high-redshift Universe. Under the assumption that GRBs unbiasedly trace star formation at this redshift, our nondetection fraction of 7/23 is consistent at the 95% confidence level with 13%–53% of star formation at redshift z ∼ 5 occurring in galaxies fainter than our detection limit of M1600Å ≈ −18.3 mag.
-]]></content:encoded>
-<pubDate>2024-04-29T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
