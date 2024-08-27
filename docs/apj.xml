@@ -5,16 +5,42 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Effects of Radiative Transfer on the Observed Anisotropy in Magnetohydrodynamic Turbulent Molecular Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad57c8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad57c8</guid>
+<content:encoded><![CDATA[
+<div> CO分子线，合成观测，辐射传输，速度质心，集成强度<br>
+<br>这篇文章研究了合成观测中速度质心和集成强度图的各向异性。研究进行了辐射传输的后处理，包括在Hernández-Padilla等人未涵盖的光学厚重区域。考虑了各种CO分子线的发射，从光学薄到光学厚的范围（12CO、13CO、C18O和C17O）。速度质心的结果与光学薄情况类似。例如，观测到的各向异性可以归因于Alfvén模式，在这种模式下，当视线与平均磁场的倾斜度较高时，该模式主导了慢模和快模。在具有较高光学厚度的模型中出现了一些差异，其中一些依赖声速马赫数的情况变得显现。与光学薄情况相反，光学厚线的集成强度图变得更加各向异性。在这种情况下，由于吸收作用，探测到的尺度受到限制，这些尺度已知更加各向异性。我们讨论了声速马赫数如何影响后一结果，高超声速情况下表现出较低程度的各向异性。<br><br>总结: 本研究通过合成观测研究了速度质心和集成强度图的各向异性，包括了辐射传输的后处理和各种CO分子线的发射。结果表明，光学厚线的集成强度图变得更加各向异性，高超声速情况下表现出较低程度的各向异性。 <div>
+We study the anisotropy of centroid and integrated intensity maps with synthetic observations. We perform postprocess radiative transfer including the optically thick regime that was not covered in Hernández-Padilla et al. We consider the emission in various CO molecular lines that range from optically thin to optically thick (12CO, 13CO, C18O, and C17O). The results for the velocity centroids are similar to those in the optically thin case. For instance, the anisotropy observed can be attributed to the Alfvén mode, which dominates over the slow and fast modes when the line of sight is at a high inclination with respect to the mean magnetic field. A few differences arise in the models with higher opacity, where some dependence on the sonic Mach number becomes evident. In contrast to the optically thin case, maps of integrated intensity become more anisotropic in optically thick lines. In this situation the scales probed are restricted, due to absorption, to smaller scales, which are known to be more anisotropic. We discuss how the sonic Mach number can affect the latter results, with highly supersonic cases exhibiting a lower degree of anisotropy.
+]]></content:encoded>
+
+<pubDate>2024-08-26T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Census of the Deep Radio Sky with the VLA. I. 10 GHz Survey of the GOODS-N Field*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5b5c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5b5c</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 10 GHz survey, GOODS-N field, radio continuum, VLA, Monte Carlo simulations
+
+总结: 
+本文介绍了使用Karl G. Jansky非常大阵列(VLA)对GOODS-N区域进行了首次高分辨率、高频率的射电连续波测量。使用X波段(8-12 GHz)接收器，共耗时380小时观测，获得了平均rms噪声为671 nJy beam−1，角分辨率为0.″22的10 GHz图。同时也生成了角分辨率为1.″0，rms噪声为968 nJy beam−1的低分辨率图。目录中包含了256个射电源的检测信息，其中假源比例为0.75%。通过蒙特卡洛模拟得出了目录的完整性修正。研究发现，在GOODS-N区域的10 GHz射电源计数与数值模拟/模型的预测以及1.4和3 GHz的射电源计数预期大体一致。 <div>
+We present the first high-resolution, high-frequency radio continuum survey that fully maps an extragalactic deep field: the 10 GHz survey of the Great Observatories Origins Deep Survey-North (GOODS-N) field. This is a Large Program of the Karl G. Jansky Very Large Array (VLA) that allocated 380 hr of observations using the X-band (8–12 GHz) receivers, leading to a 10 GHz mosaic of the GOODS-N field with an average rms noise σn = 671 nJy beam−1 and angular resolution θ1/2 = 0.″22 across 297 arcmin2. To maximize the brightness sensitivity we also produce a low-resolution mosaic with θ1/2 = 1.″0 and σn = 968 nJy beam−1, from which we derive our master catalog containing 256 radio sources detected with peak signal-to-noise ratio ≥ 5. Radio source size and flux density estimates from the high-resolution mosaic are provided in the master catalog as well. The total fraction of spurious sources in the catalog is 0.75%. Monte Carlo simulations are performed to derive completeness corrections of the catalog. We find that the 10 GHz radio source counts in the GOODS-N field agree, in general, with predictions from numerical simulations/models and expectations from 1.4 and 3 GHz radio counts.
+]]></content:encoded>
+
+<pubDate>2024-08-26T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Measurement of Anisotropies in Supernova Remnant Observations and Their Interpretation Using Numerical Models</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5daa</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5daa</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 超新星遗迹，各向异性，功率谱，X射线图像，密度估计<br>
-总结:<br>
+<div> 关键词: 超新星遗迹，各向异性，功率谱，X射线图像，密度估计<br />
+总结:<br />
 本研究提出了一种通过计算高分辨率图像的功率谱来测量超新星遗迹中各向异性的技术。研究团队通过开发3D流体动力学模型生成合成X射线图像，并从中提取功率谱。这些功率谱展现出在早期时期的小尺度长度上的激增，表明了一种不符合Kolmogorov湍流的趋势，但在后期转变为Kolmogorov湍流。对Tycho超新星遗迹的观测确认了模型的功率谱，并且提供了该遗迹周围气体密度的估计和外部喷射物密度分布的估计。此外，还观察到了大尺度上额外的功率，这可能为爆炸机制本身提供了重要线索。 <div>
 Supernova remnants (SNRs) exhibit varying degrees of anisotropy, which have been extensively modeled using numerical methods. We implement a technique to measure anisotropies in SNRs by calculating power spectra from their high-resolution images. To test this technique, we develop 3D hydrodynamical models of SNRs and generate synthetic X-ray images from them. Power spectra extracted from both the 3D models and the synthetic images exhibit the same dominant angular scale, which separates large-scale features from small-scale features due to hydrodynamic instabilities. The angular power spectrum at small length scales during relatively early times is too steep to be consistent with Kolmogorov turbulence, but it transitions to Kolmogorov turbulence at late times. As an example of how this technique can be applied to observations, we extract a power spectrum from a Chandra observation of Tycho’s SNR and compare with our models. Our predicted power spectrum picks out the angular scale of Tycho’s fleecelike structures and also agrees with the small-scale power seen in Tycho. We use this to extract an estimate for the density of the circumstellar gas (n ∼ 0.28 cm−3), consistent with previous measurements of this density by other means. The power spectrum also provides an estimate of the density profile of the outermost ejecta. Moreover, we observe additional power at large scales, which may provide important clues about the explosion mechanism itself.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,11 +48,10 @@ Supernova remnants (SNRs) exhibit varying degrees of anisotropy, which have been
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d7</guid>
 <content:encoded><![CDATA[
-<div> 关键词: quasars, density environments, U-dropout galaxies, halo evolutionary model, UV radiation<br>
-<br>总结: 该研究利用超级姬巨大望远镜(HSC)和加拿大-法国-夏威夷望远镜大面积U波段深度调查的成像数据结合史隆数字天空调查(SDSS)中的U-dropout星系，研究了红移为z∼3的67个类星体周围的局部密度环境。研究发现，类星体周围的密度分布与U-dropout星系基本一致，有三个类星体与原团块候选体相关。根据宇宙演化模型的研究结果表明，这一时期的类星体位于 typcial mass 的暗物质晕中。此外，研究还调查了当地星系过密度与紫外线亮度、黑洞质量和类星体邻近区域尺寸之间的相关性，但没有发现显著的相关性。最后，研究发现在距离类星体0.51±0.05物理Mpc的地方，暗U-dropout星系的局部密度低于明亮U-dropout星系，其中类星体紫外辐射强度是背景紫外辐射的30倍。研究论证了在紫外辐射强烈的短距离处可能会抑制星系形成，即使是在大质量暗物质晕中也是如此。 <br> <div>
+<div> 关键词: quasars, density environments, U-dropout galaxies, halo evolutionary model, UV radiation<br />
+<br />总结: 该研究利用超级姬巨大望远镜(HSC)和加拿大-法国-夏威夷望远镜大面积U波段深度调查的成像数据结合史隆数字天空调查(SDSS)中的U-dropout星系，研究了红移为z∼3的67个类星体周围的局部密度环境。研究发现，类星体周围的密度分布与U-dropout星系基本一致，有三个类星体与原团块候选体相关。根据宇宙演化模型的研究结果表明，这一时期的类星体位于 typcial mass 的暗物质晕中。此外，研究还调查了当地星系过密度与紫外线亮度、黑洞质量和类星体邻近区域尺寸之间的相关性，但没有发现显著的相关性。最后，研究发现在距离类星体0.51±0.05物理Mpc的地方，暗U-dropout星系的局部密度低于明亮U-dropout星系，其中类星体紫外辐射强度是背景紫外辐射的30倍。研究论证了在紫外辐射强烈的短距离处可能会抑制星系形成，即使是在大质量暗物质晕中也是如此。 <br /> <div>
 We examine the local density environments around 67 quasars at z ∼ 3 by combining the imaging data of Hyper Suprime-Cam Subaru Strategic Program and Canada–France–Hawaii Telescope Large Area U-band Deep Survey over about 20 deg2. Our measurements exploit U-dropout galaxies in the vicinities of quasars taken from the Sloan Digital Sky Survey. We find that the quasars have an indistinguishable surrounding density distribution from the U-dropout galaxies and that three quasars are associated with protocluster candidates within a projected separation of 3′. According to a halo evolutionary model, our results suggest that quasars at this epoch occupy haloes with a typical mass of . We also investigate the dependence of the local galaxy overdensity on ultraviolet (UV) luminosities, black hole masses, and proximity zone sizes of the quasars, but no statistically significant correlation was found. Finally, we find that the local density of faint U-dropout galaxies are lower than that of bright U-dropout galaxies within a projected distance of 0.51 ± 0.05 physical Mpc, where the quasar UV radiation is 30 times more intense than background UV radiation. We argue that photoevaporation may suppress galaxy formation at short distances where the quasar UV intensity is strong, even in massive haloes.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -36,10 +61,9 @@ We examine the local density environments around 67 quasars at z ∼ 3 by combin
 <content:encoded><![CDATA[
 <div> 关键词: 磁场测量, 恒星旋转, CoRoT 空间任务, 星斑特征, 差分旋转
 
-总结:<br><br>这项研究使用 CoRoT 空间任务观测了六颗光谱类型为 F 到 M 的恒星，分析了它们的星斑特征和旋转动力学。研究发现，这些恒星的星斑特征与太阳型恒星相似，而且它们的差分旋转随着平均恒星自转周期的增加而减小，这意味着随着恒星老化，其差分旋转减小。此外，这六颗恒星根据星斑通量的不同分为两类，提供了对恒星磁活动的新线索。 <div>
+总结:<br /><br />这项研究使用 CoRoT 空间任务观测了六颗光谱类型为 F 到 M 的恒星，分析了它们的星斑特征和旋转动力学。研究发现，这些恒星的星斑特征与太阳型恒星相似，而且它们的差分旋转随着平均恒星自转周期的增加而减小，这意味着随着恒星老化，其差分旋转减小。此外，这六颗恒星根据星斑通量的不同分为两类，提供了对恒星磁活动的新线索。 <div>
 While direct magnetic field measurements are rare for slowly rotating stars, spots observed during planetary transits provide a potential indicator of magnetic activity on stellar surfaces. Moreover, the rotation of the stellar surface can be probed by monitoring the spots’ position with time in subsequent transits. This study investigates the dynamic interplay of rotational shear and stellar rotation rate in six stars of spectral types F to M, all hosting exoplanets observed by the CoRoT space mission, except for one binary star from Kepler. The analysis, facilitated by the ECLIPSE code, unveils the physical properties of stellar spots, including radius, intensity, temperature, and position. The five CoRoT stars exhibit spot characteristics consistent with those observed in solar type stars. The determination of a spot longitude during different transits allows for the inference of the star’s differential rotation profile, revealing a decreasing trend of rotational shear with the mean stellar rotation period, given by . This implies that, at least for slow rotators (mean rotation period >5 days), as stars age, their differential rotation decreases. Additionally, the six stars analyzed here seem to fall into two categories, according to their spot flux deficit: those with ΔFspot > 0.005 and those with ΔFspot < 0.002.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -47,7 +71,7 @@ While direct magnetic field measurements are rare for slowly rotating stars, spo
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a16</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a16</guid>
 <content:encoded><![CDATA[
-<div> 高质量X射线双星，LS I+61°303，由一个质量巨大的Be星和一个快速旋转的中子星组成。它的光谱能量分布横跨多个波长，被归类为γ射线双星系统。通过对Fermi大面积望远镜观测LS I+61°303的分析，科学家们确认了先前多波段观测中观测到的轨道、超轨道和轨道-超轨道拍频的三个周期性信号，并且发现了一个额外的周期信号。这个新发现的信号表现出大约26.3天的周期，在大约7σ的置信水平下。此外，新信号的功率谱峰随能量范围0.1-0.3、0.3-1.0和1.0-500.0 GeV的增加而逐渐减小。有趣的是，在奥文斯谷无线电天文台40米望远镜的数据中也发现了一个类似周期的信号。研究人员认为，新发现的周期信号可能源自轨道周期和逆行恒星岁差周期之间的耦合关系。<br><br>总结:
+<div> 高质量X射线双星，LS I+61°303，由一个质量巨大的Be星和一个快速旋转的中子星组成。它的光谱能量分布横跨多个波长，被归类为γ射线双星系统。通过对Fermi大面积望远镜观测LS I+61°303的分析，科学家们确认了先前多波段观测中观测到的轨道、超轨道和轨道-超轨道拍频的三个周期性信号，并且发现了一个额外的周期信号。这个新发现的信号表现出大约26.3天的周期，在大约7σ的置信水平下。此外，新信号的功率谱峰随能量范围0.1-0.3、0.3-1.0和1.0-500.0 GeV的增加而逐渐减小。有趣的是，在奥文斯谷无线电天文台40米望远镜的数据中也发现了一个类似周期的信号。研究人员认为，新发现的周期信号可能源自轨道周期和逆行恒星岁差周期之间的耦合关系。<br /><br />总结:
 1. LS I+61°303是一个高质量X射线双星系统
 2. Fermi大面积望远镜观测确认了多个周期性信号
 3. 新发现的周期信号具有26.3天周期，且在不同能量范围内表现出不同的功率谱特征
@@ -55,10 +79,8 @@ While direct magnetic field measurements are rare for slowly rotating stars, spo
 5. 科学家认为新周期信号可能来自轨道周期和恒星岁差周期的耦合 <div>
 LS I+61°303 is a high-mass X-ray binary system comprising a massive Be star and a rapidly rotating neutron star. Its spectral energy distribution across multiwavelengths categorizes it as a γ-ray binary system. In our analysis of LS I+61°303 using Fermi Large Area Telescope observations, we not only confirmed the three previously discussed periodicities of orbital, superorbital, and orbital–superorbital beat periods observed in multiwavelength observations, but also identified an additional periodic signal. This newly discovered signal exhibits a period of ∼26.3 days at a ∼7σ confidence level. Moreover, the power spectrum peak of the new signal gradually decreases as the energy increases across the energy ranges of 0.1–0.3, 0.3–1.0, and 1.0–500.0 GeV. Interestingly, a potential signal with a similar period was found in data obtained from the Owens Valley Radio Observatory 40 m telescope. We suggest that the newly discovered periodic signal may originate from a coupling between the orbital period and the retrograde stellar precession period.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Automatic Detection of Large-scale Flux Ropes and Their Geoeffectiveness with a Machine-learning Approach</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</link>
@@ -11746,53 +11768,6 @@ In this study, we present the analysis of six solar flare events that occurred i
 Differentially rotating stars and planets transport angular momentum (AM) internally due to turbulence at rates that have long been a challenge to predict reliably. We develop a self-consistent saturation theory, using a statistical closure approximation, for hydrodynamic turbulence driven by the axisymmetric Goldreich–Schubert–Fricke instability at the stellar equator with radial differential rotation. This instability arises when fast thermal diffusion eliminates the stabilizing effects of buoyancy forces in a system where a stabilizing entropy gradient dominates over the destabilizing AM gradient. Our turbulence closure invokes a dominant three-wave coupling between pairs of linearly unstable eigenmodes and a near-zero frequency, viscously damped eigenmode that features latitudinal jets. We derive turbulent transport rates of momentum and heat and provide them in analytic forms. Such formulae, free of tunable model parameters, are tested against direct numerical simulations; the comparison shows good agreement. They improve upon prior quasi-linear or “parasitic saturation” models containing a free parameter. Given model correspondences, we also extend this theory to heat and compositional transport for axisymmetric thermohaline-instability-driven turbulence in certain regimes.
 ]]></content:encoded>
 <pubDate>2024-05-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Artificial Broadcasts as Galactic Populations. II. Comparing Individualist and Collective Bounds on Broadcast Populations in Single Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad11f1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad11f1</guid>
-<content:encoded><![CDATA[
-<div> 搜索外星智能，人工广播，单独搜索，混淆效应，集体约束<br />
-总结：<br />
-这篇文章讨论了搜索外星智能的方法，包括对其他星系中人工广播的限制。先前的方法使用个体主义方法，搜索信噪比高的单一广播，但这种方法限于非常明亮的广播，并且容易受到混淆的影响。因此作者提出了一种集体约束的新方法，通过评估混淆对个体主义搜索的影响，并比较了单独搜索和集体方法在银河系、M31和Virgo星系团中椭圆星系的广播。研究发现，集体约束对广播种群参数空间有很强的约束力，甚至对遥远星系的广播也有限制，并对最近的星系中的伽马射线、中微子和引力波广播也施加约束。 <div>
-The search for extraterrestrial intelligence includes efforts to constrain populations of artificial broadcasts in other galaxies. Previous efforts use individualist methods, searching for single broadcasts with high signal-to-noise ratio. These would be detected as observables with extreme values. This approach is limited to very bright broadcasts and also is subject to confusion, where a large number of broadcasts blend together to form a noise continuum. The mean value of the total emission provides an additional collective bound: the luminosity of the transmitters is no higher than the galaxy’s observed luminosity. Using the framework developed in Paper I, I evaluate how confusion affects individualist searches. I then compare individualist and collective approaches for radio broadcasts from the Milky Way, M31, and three Virgo Cluster elliptical galaxies. For current observations, confusion blurs narrowband radio broadcasts together in the Virgo ellipticals when there is one broadcast per gigahertz per 1000 stars. The collective bound implies fewer than L-band broadcasts per star per gigahertz in the Milky Way wideband and is about 10 and 400 times stronger in M31 and M59, respectively. Applying the collective bound to the far-infrared–radio correlation yields constraints on radio broadcast populations in star-forming galaxies throughout the Universe. The collective bound allows us to rule out large regions of broadcast population parameter space even for distant galaxies. It also imposes constraints on gamma-ray, neutrino, and gravitational-wave broadcasts in the nearest galaxies.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Artificial Broadcasts as Galactic Populations. I. A Point Process Formalism for Extraterrestrial Intelligences and Their Broadcasts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad11f2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad11f2</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 外星智慧生命，天体现象，概率形式主义，随机点过程，Drake方程<br />
-总结:<br />
-这篇文章讨论了假设类外智慧生命的假设性广播现象，提出了一种概率形式主义来描述它们的共同历史和性质分布。通过随机点过程在参数超空间中建模各种外星社会和其广播的分布，并且利用复合泊松随机变量来模拟可观测量。文章还重新推导了Drake方程，指出在没有扩张的情况下，探测到的广播数量可能与恒星质量呈二次关系，建议寻找大星系来进行搜索。 <div>
-Artificial broadcasts from extraterrestrial intelligences are a hypothetical class of celestial phenomena. Unlike known astrophysical objects, the societies that generate them may be able to replicate on galactic scales through interstellar travel. Different galaxies could thus have drastically different populations, with variations in abundance of many orders of magnitude. I present a probabilistic formalism to treat this shared history, in which societies and their broadcasts are described by distributions over basic properties like lifespan and energy released. The framework contains a hierarchy of objects related by a tree structure. Discrete societies, the sources of broadcasts, are organized into potentially interstellar metasocieties. The population of each type of object is represented by a random point process in an abstract parameter hyperspace, a haystack. When a selection like an observation draws a sample, the point process is thinned. Given assumptions of interchangeability and independence, observables are modeled with compound Poisson random variables. I present an example of how selection bias can favor sampling longer-lived objects. I rederive the Drake equation for societies in the limit of no expansion. When interstellar replication is present, however, the mean number of detected broadcasts can depend quadratically on stellar mass, suggesting a search strategy favoring large galaxies.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Resolving the Mechanical and Radiative Feedback in J1044+0353 with Keck Cosmic Web Imager Spectral Mapping</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad34ac</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad34ac</guid>
-<content:encoded><![CDATA[
-<div> 关键词: J1044+0353, 低金属度星系, 全息场光谱, [O iii]发射线, 平面O32流量比<br />
-<br />
-在这篇论文中，研究人员进行了对J1044+0353周围的全息场光谱观测。他们发现该星系是一个低金属度快速增长的星系，产生了极端的[O iii]发射线。新的O32流量比图揭示了一个从星爆中心出现的密度边界的电离锥。氢电离辐射与星暴之前通过星系流出开凿的空腔相互作用，决定了全局莱曼连续辐射的逃逸路径。研究人员还发现，距离年轻的星暴中心几百秒差距的区域显示出超泡突破和吹出对[O iii]发射线的不同成分的贡献，分别为宽和非常宽的发射线翼。他们指出，宽组分的大量[O iii]发光来自光电电离的超泡壳，而不是通常假设的星系风。他们还观察到了空间分辨的He iiλ4686星云，显示出被年轻星团光电离的特征。这些星团的恒星风发射激发了He ii线的线翼。这种较宽的He ii成分显示出缓慢的恒星风，与J1044+0353的金属丰度下增加的恒星旋转（和有效逃逸速度降低）一致。至少在J1044+0353中，最近的星形成历史在产生莱曼连续辐射的全局路径上起着关键作用，这种非均向逃逸很可能被对莱曼连续辐射的直接观测所忽略。<br /><br />总结: 本论文通过全息场光谱对J1044+0353进行了研究，发现了低金属度星系的特点，揭示了氢电离辐射与星系流动相互作用的全局逃逸路径，以及He ii星云的特征和恒星风的影响。 <div>
-We present integral field spectroscopy toward and around J1044+0353, a rapidly growing, low-metallicity galaxy that produces extreme [O iii] line emission. A new map of the O32 flux ratio reveals a density-bounded ionization cone emerging from the starburst. The interaction of the hydrogen-ionizing radiation, produced by the very young starburst, with a cavity previously carved out by a galactic outflow, whose apex lies well outside the starburst region, determines the pathway for global Lyman continuum (LyC) escape. In the region within a few hundred parsecs of the young starburst, we demonstrate that superbubble breakthrough and blowout contribute distinct components to the [O iii] line profile: broad and very broad emission line wings, respectively. We draw attention to the large [O iii] luminosity of the broad component and argue that this emission comes from photoionized, superbubble shells rather than a galactic wind as is often assumed. The spatially resolved He iiλ4686 nebula appears to be photoionized by young star clusters. Stellar wind emission from these stars is likely the source of line wings detected on the He ii line profile. This broader He ii component indicates slow stellar winds, consistent with an increase in stellar rotation (and a decrease in effective escape speed) at the metallicity of J1044+0353. At least in J1044+0353, the recent star formation history plays a critical role in generating a global pathway for LyC escape, and the anisotropic escape would likely be missed by direct observations of the LyC.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiple Outflows around a Single Protostar IRAS 15398−3359</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad34b7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad34b7</guid>
-<content:encoded><![CDATA[
-<div> Class 0 protostar, Atacama Compact Array, CO J=2-1 line, outflow, Hubble-law-like velocity structures<br /> 
-该研究使用Atacama Compact Array对IRAS 15398−3359进行了观测，发现了第三个与原恒星相关的流出并且检测到北西方向的新红移组分。这些发现表明，流出的发射方向可能随时间发生了显著变化。研究人员认为这可能是因为旋转轴和磁场不对齐或者密集核心湍流所致。与数值模拟结果的比较支持了这一假设。总之，这些发现为我们提供了关于IRAS 15398−3359的多个流出的重要信息，为我们理解类星体的形成和演化提供了有益的线索。<br /><br />总结: Class 0原恒星在CO J=2-1线观测中发现了多个流出，其中一些流出与之前观测的主要和次要流出不同向。研究人员认为这可能是流出发射方向随时间发生显著变化的结果。与数值模拟结果的比较支持了这一假设。 <div>
-We present the results of our mosaic observations of a single Class 0 protostar IRAS 15398−3359 with the Atacama Compact Array in the CO J = 2–1 line. The new observations covering a square region reveal elongated redshifted and blueshifted components, which are located at distances of ∼30″–75″ on the northern and southern sides of the protostar, respectively, in addition to the previously observed primary and secondary outflows. These elongated components exhibit Hubble-law-like velocity structures, i.e., an increase of velocity with increasing distance from the protostar, suggesting that they comprise the third outflow associated with the protostar. Besides, a new redshifted component is detected at radii of ∼40″–75″ on the northwestern side of the protostar. This redshifted component also exhibits a Hubble-law-like velocity profile, which could be a counterpart of the secondary outflow mostly detected at blueshifted velocities in a previous study. The three outflows are all misaligned by ∼20°–90°, and the dynamical timescale of the primary outflow is shorter than those of the other outflows, approximately by an order of magnitude. These facts hint that the outflow launch direction has significantly changed with time. The outflow direction may change if the rotational axis and the magnetic field are misaligned or if the dense core is turbulent. We favor the second scenario as the origin of the multiple outflows in IRAS 15398−3359, based on a comparison between the observational results and numerical simulations.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
