@@ -5,16 +5,42 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Automatic Detection of Large-scale Flux Ropes and Their Geoeffectiveness with a Machine-learning Approach</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</guid>
+<content:encoded><![CDATA[
+<div> 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测<br>
+<br>
+自动检测大规模磁流绳以及评估它们的地球效应至关重要，因为它们可能引发严重的太空天气。研究提出了一种利用太阳风磁性特性训练的两个监督二元分类机器学习模型的流水线，用于自动检测大规模磁流绳并确定它们的地球效应。第一个模型用于生成自动检测到的磁流绳列表，第二模型利用南向磁场的性质确定磁流绳的地球效应。我们的方法能够在1天内自动识别出1 AU处90%左右的大型ICMEs，并获得88%的准确率来评估磁流绳的地球效应。因此，在L1点的空间天气预测中，我们的流水线可以提供大规模磁流绳及其地球效应的一级检测。 <br><br>总结: <br>关键词: 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测。<br>要点:提出使用机器学习模型自动检测大规模磁流绳，并评估其地球效应；利用两个监督分类模型对太阳风磁性特征进行训练；对1 AU处的大型ICMEs进行了有效识别和地球效应评估；在空间天气预测中具有重要应用价值。 <div>
+Detecting large-scale flux ropes (FRs) embedded in interplanetary coronal mass ejections (ICMEs) and assessing their geoeffectiveness are essential, since they can drive severe space weather. At 1 au, these FRs have an average duration of 1 day. Their most common magnetic features are large, smoothly rotating magnetic fields. Their manual detection has become a relatively common practice over decades, although visual detection can be time-consuming and subject to observer bias. Our study proposes a pipeline that utilizes two supervised binary classification machine-learning models trained with solar wind magnetic properties to automatically detect large-scale FRs and additionally determine their geoeffectiveness. The first model is used to generate a list of autodetected FRs. Using the properties of the southward magnetic field, the second model determines the geoeffectiveness of FRs. Our method identifies 88.6% and 80% of large-scale ICMEs (duration ≥ 1 day) observed at 1 au by the Wind and the Solar TErrestrial RElations Observatory missions, respectively. While testing with continuous solar wind data obtained from Wind, our pipeline detected 56 of the 64 large-scale ICMEs during the 2008–2014 period (recall = 0.875), but also many false positives (precision = 0.56), as we do not take into account any additional solar wind properties other than the magnetic properties. We find an accuracy of 0.88 when estimating the geoeffectiveness of the autodetected FRs using our method. Thus, in space-weather nowcasting and forecasting at L1 or any planetary missions, our pipeline can be utilized to offer a first-order detection of large-scale FRs and their geoeffectiveness.
+]]></content:encoded>
+
+<pubDate>2024-08-26T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Multivariate Predictors of Lyman Continuum Escape. I. A Survival Analysis of the Low-redshift Lyman Continuum Survey*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b9</guid>
+<content:encoded><![CDATA[
+<div> 关键词: galaxies, reionization, Lyman continuum photons, fesc, multivariate predictors<br>
+总结: <br>
+这篇文章研究了银河系是如何对宇宙进行再电离的，通过开发和分析了对逸出分数（fesc）的新的多变量预测模型，使用了Cox比例风险模型进行预测，发现最重要的预测变量是Lyman系列吸收线的等效宽度（EW）和紫外线尘埃衰减。文章还强调了H i吸收的重要性，特别是对最强的LyC发射体来说。预测模型对于高红移也具有适用性，证实了ΣSFR和[O iii]/[O ii]在预测fesc方面的重要性。总体来说，这些多变量模型为在高红移时预测fesc提供了一个有希望的工具。 <div>
+To understand how galaxies reionized the Universe, we must determine how the escape fraction of Lyman continuum (LyC) photons (fesc) depends on galaxy properties. Using the z ∼ 0.3 Low-redshift Lyman Continuum Survey (LzLCS), we develop and analyze new multivariate predictors of fesc. These predictions use the Cox proportional hazards model, a survival analysis technique that incorporates both detections and upper limits. Our best model predicts the LzLCS fesc detections with an rms scatter of 0.31 dex, better than single-variable correlations. According to ranking techniques, the most important predictors of fesc are the equivalent width (EW) of Lyman-series absorption lines and the UV dust attenuation, which track line-of-sight absorption due to H i and dust. The H i absorption EW is uniquely crucial for predicting fesc for the strongest LyC emitters, which show properties similar to weaker LyC emitters and whose high fesc may therefore result from favorable orientation. In the absence of H i information, star formation rate surface density (ΣSFR) and [O iii]/[O ii] ratio are the most predictive variables and highlight the connection between feedback and fesc. We generate a model suitable for z > 6, which uses only the UV slope, ΣSFR, and [O iii]/[O ii]. We find that ΣSFR is more important in predicting fesc at higher stellar masses, whereas [O iii]/[O ii] plays a greater role at lower masses. We also analyze predictions for other parameters, such as the ionizing-to-nonionizing flux ratio and Lyα escape fraction. These multivariate models represent a promising tool for predicting fesc at high redshift.
+]]></content:encoded>
+
+<pubDate>2024-08-26T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Probing Presupernova Mass Loss in Double-peaked Type Ibc Supernovae from the Zwicky Transient Facility</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad595f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad595f</guid>
 <content:encoded><![CDATA[
-<div> 关键词: massive stars, supernova, mass loss, Type Ibc SNe, observational signature<br>
-<br>
-这篇论文系统地研究了475颗Type Ibc SNe中的14颗双峰型SNe。研究发现第一个峰值和第二个峰值之间存在较强的相关性。对样本的光度和光谱特性进行了综合分析，发现其中6颗SNe的喷射物质质量小于1.5太阳质量，推测其原恒星质量小于约12太阳质量，可能经历了晚期双星质量传递。其余的SNe具有更高的原恒星质量，表明可能符合波驱动质量丢失或脉动 - 成对不稳定性驱动质量丢失的模拟。这些结果有助于我们对大质量恒星爆发前质量丢失的理解。 <br><br>总结: 14颗双峰型Type Ibc SNe中第一个峰值和第二个峰值之间存在较强的相关性，6颗SNe的喷射物质质量小于1.5太阳质量，可能经历了晚期双星质量传递，其余SNe具有更高的原恒星质量，可能符合波驱动质量丢失或脉动 - 成对不稳定性驱动质量丢失的模拟。 <div>
+<div> 关键词: massive stars, supernova, mass loss, Type Ibc SNe, observational signature<br />
+<br />
+这篇论文系统地研究了475颗Type Ibc SNe中的14颗双峰型SNe。研究发现第一个峰值和第二个峰值之间存在较强的相关性。对样本的光度和光谱特性进行了综合分析，发现其中6颗SNe的喷射物质质量小于1.5太阳质量，推测其原恒星质量小于约12太阳质量，可能经历了晚期双星质量传递。其余的SNe具有更高的原恒星质量，表明可能符合波驱动质量丢失或脉动 - 成对不稳定性驱动质量丢失的模拟。这些结果有助于我们对大质量恒星爆发前质量丢失的理解。 <br /><br />总结: 14颗双峰型Type Ibc SNe中第一个峰值和第二个峰值之间存在较强的相关性，6颗SNe的喷射物质质量小于1.5太阳质量，可能经历了晚期双星质量传递，其余SNe具有更高的原恒星质量，可能符合波驱动质量丢失或脉动 - 成对不稳定性驱动质量丢失的模拟。 <div>
 Eruptive mass loss of massive stars prior to supernova (SN) explosion is key to understanding their evolution and end fate. An observational signature of pre-SN mass loss is the detection of an early, short-lived peak prior to the radioactive-powered peak in the lightcurve of the SN. This is usually attributed to the SN shock passing through an extended envelope or circumstellar medium. Such an early peak is common for double-peaked Type IIb SNe with an extended hydrogen envelope but uncommon for normal Type Ibc SNe with very compact progenitors. In this paper, we systematically study a sample of 14 double-peaked Type Ibc SNe out of 475 Type Ibc SNe detected by the Zwicky Transient Facility. The rate of these events is ∼3%–9% of Type Ibc SNe. A strong correlation is seen between the peak brightness of the first and the second peak. We perform a holistic analysis of this sample’s photometric and spectroscopic properties. We find that six SNe have ejecta mass less than 1.5 M⊙. Based on the nebular spectra and lightcurve properties, we estimate that the progenitor masses for these are less than ∼12 M⊙. The rest have an ejecta mass >2.4 M⊙ and a higher progenitor mass. This sample suggests that the SNe with low progenitor masses undergo late-time binary mass transfer. Meanwhile, the SNe with higher progenitor masses are consistent with wave-driven mass loss or pulsation-pair instability-driven mass-loss simulations.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,11 +48,10 @@ Eruptive mass loss of massive stars prior to supernova (SN) explosion is key to 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a87</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a87</guid>
 <content:encoded><![CDATA[
-<div> 模型, 电场仪器, 离子, 电子, 行星探测器 <br>
+<div> 模型, 电场仪器, 离子, 电子, 行星探测器 <br />
 总结: 该论文提出了一种COMSOL模型，用于理解尘埃冲击产生的等离子体云的扩展特性。模型还可以分析不同参数的尘埃冲击信号的预期波形，如飞船电压和环境等离子体温度。结果显示，在弱飞船电位时，约50%的离子和电子被收集，而在VSC > 0 V时，一部分离子仍被收集，而不是全部流向冲击位置。该模型还证实，在扩展的等离子体云中，离子呈喷流状，而电子呈各向同性扩散。 <div>
 Signals generated by dust impacting spacecraft can be detected by electric field instruments. These signals have been simulated by numerous models. However, few models can accurately characterize the expansion of the plasma cloud generated by dust impact. The COMSOL model presented in this paper provides a way to understand the expansion properties of ions and electrons. The model can also be used to analyze the various expected waveforms of dust impact signals as a function of different parameters, such as the spacecraft voltage and the ambient plasma temperature. The results show that close to 50% of ions and electrons in the impact plasma cloud are collected by spacecraft at weak spacecraft potentials and that a fraction of the ions is still collected rather than all of them streaming away from the impact location at VSC > 0 V. The model also confirms that in the expanding plasma cloud, ions are in the form of plumes, while electrons diffuse in an isotropic manner.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -34,12 +59,11 @@ Signals generated by dust impacting spacecraft can be detected by electric field
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5c67</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5c67</guid>
 <content:encoded><![CDATA[
-<div> 离子化驱动，原行星盘，天体化学，观测数据，模型比对<br>
-离子化驱动是原行星盘中重要的化学和动力学过程，对了解盘的演化和行星形成至关重要。文章利用ALMA观测数据和二维模型得出DM Tau盘中的离子化约束条件，发现它们与宇宙射线离子化率和硬X射线光谱有关联。研究还揭示了离子化复杂性和对高分辨率多线观测的需求。总结: <br>
+<div> 离子化驱动，原行星盘，天体化学，观测数据，模型比对<br />
+离子化驱动是原行星盘中重要的化学和动力学过程，对了解盘的演化和行星形成至关重要。文章利用ALMA观测数据和二维模型得出DM Tau盘中的离子化约束条件，发现它们与宇宙射线离子化率和硬X射线光谱有关联。研究还揭示了离子化复杂性和对高分辨率多线观测的需求。总结: <br />
 离子化驱动是盘中化学和动力学的重要过程；ALMA观测和二维模型揭示了DM Tau盘的离子化情况；发现与宇宙射线离子化率和硬X射线光谱相关；揭示了离子化的复杂性和对高分辨率多线观测的需求。 <div>
 Ionization drives important chemical and dynamical processes within protoplanetary disks, including the formation of organics and water in the cold midplane and the transportation of material via accretion and magnetohydrodynamic flows. Understanding these ionization-driven processes is crucial for understanding disk evolution and planet formation. We use new and archival Atacama Large Millimeter/submillimeter Array observations of HCO+, H13CO+, and N2H+ to produce the first forward-modeled 2D ionization constraints for the DM Tau protoplanetary disk. We include ionization from multiple sources and explore the disk chemistry under a range of ionizing conditions. Abundances from our 2D chemical models are postprocessed using non-LTE radiative transfer, visibility sampling, and imaging, and are compared directly to the observed radial emission profiles. The observations are best fit by a modestly reduced cosmic-ray ionization rate (ζCR ∼10−18 s−1) and a hard X-ray spectrum (hardness ratio = 0.3), which we associate with stellar flaring conditions. Our best-fit model underproduces emission in the inner disk, suggesting that there may be an additional mechanism enhancing ionization in DM Tau’s inner disk. Overall, our findings highlight the complexity of ionization in protoplanetary disks and the need for high-resolution multiline studies.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -49,10 +73,9 @@ Ionization drives important chemical and dynamical processes within protoplaneta
 <content:encoded><![CDATA[
 <div> 关键词: Kelvin-Helmholtz波，月球磁层边界, 太阳风, 磁场, 统计结果
 
-总结: <br><br>这项研究分析了在月球磁层边界出现Kelvin-Helmholtz不稳定性（KHI）的情况，通过对ARTEMIS卫星观测数据的分析发现，KHI的发生率约为15％，低于侧磁层边界的发生率。研究还发现，KHI的发生率随着磁声马赫数、阿尔芬马赫数、太阳风速度和动压的增加而减少，仅与太阳风密度略微正相关。与白昼侧磁层边界不同，在月球距离磁层边界，KHI的发生率随太阳风速度增加而减少。此外，KHI的发生率也随着磁场的振幅减少，并受到磁场方向的影响。根据磁场钟角度的变化，KHI的发生率在钟角度为零时达到最大值，约为24％。这些统计结果基本与目前接受的KHI线性理论一致，为理解磁层边界KHI的激发和演化、尾部磁层边界等离子体输运过程做出了贡献。 <div>
+总结: <br /><br />这项研究分析了在月球磁层边界出现Kelvin-Helmholtz不稳定性（KHI）的情况，通过对ARTEMIS卫星观测数据的分析发现，KHI的发生率约为15％，低于侧磁层边界的发生率。研究还发现，KHI的发生率随着磁声马赫数、阿尔芬马赫数、太阳风速度和动压的增加而减少，仅与太阳风密度略微正相关。与白昼侧磁层边界不同，在月球距离磁层边界，KHI的发生率随太阳风速度增加而减少。此外，KHI的发生率也随着磁场的振幅减少，并受到磁场方向的影响。根据磁场钟角度的变化，KHI的发生率在钟角度为零时达到最大值，约为24％。这些统计结果基本与目前接受的KHI线性理论一致，为理解磁层边界KHI的激发和演化、尾部磁层边界等离子体输运过程做出了贡献。 <div>
 Kelvin–Helmholtz waves can be observed frequently at the near-Earth magnetopause and play an important role in the transport of particles, momentum, and energy from the solar wind to the magnetosphere. This work analyzes the occurrence of Kelvin–Helmholtz instability (KHI) at lunar distance magnetopause, which has not been thoroughly studied currently based on Acceleration, Reconnection, Turbulence, and Electrodynamics of the Moon's Interaction with the Sun satellite observations, and it also investigates the effect of the upstream solar wind and interplanetary magnetic field (IMF). Statistical results show that (1) the occurrence rate is about 15% of the time at lunar distance, lower than at the flank magnetopause, and (2) the occurrence rate decreases with the magnetoacoustic Mach number, Alfvén Mach number, solar wind velocity, and dynamic pressure but only shows a slightly positive correlation with solar wind density. Unlike at the dayside magnetopause, the occurrence rate of KHI diminishes as the solar wind velocity increases at the lunar distance magnetopause, and (3) the occurrence rate decreases with IMF amplitude and is influenced by IMF orientation. As a function of the IMF clock angle, the occurrence rate reaches its maximum at ∼24% when the clock angle is zero. The statistical results are basically consistent with the currently accepted linear theory of KHI, except for a lower rate for higher-speed solar wind. This work contributes to understanding the excitation and evolution of KHI along the magnetopause and plasma transport process in the tail magnetopause.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -60,11 +83,10 @@ Kelvin–Helmholtz waves can be observed frequently at the near-Earth magnetopau
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6440</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6440</guid>
 <content:encoded><![CDATA[
-<div> Fermi Large Area Telescope, Cyg X-3, γ-ray, orbital modulation, anisotropic Compton scattering<br>
-<br>研究团队利用Fermi Large Area Telescope对Cyg X-3的γ射线数据进行建模分析。他们发现该系统的γ射线在高通量时表现出明显的轨道调制特征，这种调制与先前的模型相吻合，可以解释为由喷流中的相对论电子对供体黑体辐射进行非均向康普顿散射所致。然而，他们发现如果喷流与旋转黑洞的自旋轴对齐，将会发生geodetic precession，其周期约为50年，但这一现象在γ和无线电数据中未被观测到。因此，研究团队提出另一种模型，认为喷流的平均方向虽然与轨道对齐，但受到供体恒星风的推力而弯曲，并以轨道周期进行进动。最终的γ射线调制现象则可以解释为自发辐射的多普勒增强效应。尽管该模型也能很好地拟合数据，但拟合的弯曲角却远大于基于当前已知的双星和恒星风参数的理论值。因此，当前的理论模型存在不足之处，需要进一步研究以找到正确的模型。 <br><br>总结: Fermi Large Area Telescope对Cyg X-3的γ射线数据进行模型分析，发现γ射线表现出轨道调制特征，提出两种模型解释，但存在理论不足，需要进一步研究。 <div>
+<div> Fermi Large Area Telescope, Cyg X-3, γ-ray, orbital modulation, anisotropic Compton scattering<br />
+<br />研究团队利用Fermi Large Area Telescope对Cyg X-3的γ射线数据进行建模分析。他们发现该系统的γ射线在高通量时表现出明显的轨道调制特征，这种调制与先前的模型相吻合，可以解释为由喷流中的相对论电子对供体黑体辐射进行非均向康普顿散射所致。然而，他们发现如果喷流与旋转黑洞的自旋轴对齐，将会发生geodetic precession，其周期约为50年，但这一现象在γ和无线电数据中未被观测到。因此，研究团队提出另一种模型，认为喷流的平均方向虽然与轨道对齐，但受到供体恒星风的推力而弯曲，并以轨道周期进行进动。最终的γ射线调制现象则可以解释为自发辐射的多普勒增强效应。尽管该模型也能很好地拟合数据，但拟合的弯曲角却远大于基于当前已知的双星和恒星风参数的理论值。因此，当前的理论模型存在不足之处，需要进一步研究以找到正确的模型。 <br /><br />总结: Fermi Large Area Telescope对Cyg X-3的γ射线数据进行模型分析，发现γ射线表现出轨道调制特征，提出两种模型解释，但存在理论不足，需要进一步研究。 <div>
 We model the currently available γ-ray data on Cyg X-3 from the Fermi Large Area Telescope. Thanks to Cyg X-3’s very strong γ-ray activity during 2018–2021, the data quality has significantly improved. We study the strong orbital modulation of the γ-rays observed at high γ-ray fluxes. The modulation, as found earlier, is well modeled by anisotropic Compton scattering of the donor blackbody emission by relativistic electrons in a jet strongly misaligned with respect to the orbital axis. We confirm that this model fits well both the average γ-ray modulation light curve and the spectrum. However, we find that if the jet were aligned with the spin axis of a rotating black hole, it would undergo geodetic precession with a period of ∼50 yr. However, its presence is ruled out by both the γ-ray and radio data. Therefore, we consider an alternative model in which the average jet direction is aligned, but it is bent outside the orbit owing to the thrust of the donor stellar wind, and thus precesses at the orbital period. The γ-ray modulation then appears as a result of the variable Doppler boosting of synchrotron self-Compton jet emission. This model also fits the data well. However, the fitted bending angle is much larger than the theoretical one based on the binary and wind parameters as currently known. Thus, both models disagree with important aspects of our current theoretical understanding of the system. We discuss possible ways to find the correct model.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -73,11 +95,10 @@ We model the currently available γ-ray data on Cyg X-3 from the Fermi Large Are
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6563</guid>
 <content:encoded><![CDATA[
 <div> PSR J1849-0001, pulsar wind nebula, Fermi Large Area Telescope, GeV γ-ray emissions, spectral energy distribution
-<br><br>总结:
+<br /><br />总结:
 这项研究报告了来自脉冲星PSR J1849-0001的脉冲星风星云（PWN）G32.64+0.53可能的GeV γ射线发射。研究利用了Fermi大面积望远镜Pass 8约14.7年的数据进行分析。研究发现，源的位置和光谱与X射线和TeV能量段的相匹配，因此我们认为GeV γ射线源表明了PWN G32.64+0.53。我们使用一个基于时间的单区模型解释了宽频谱能量分布（SED），假设目标源的多波段非热发射是通过电子/正电子的同步辐射和反康普顿散射（ICS）产生的。我们的发现表明，该模型在很大程度上阐明了观测到的SED。这些结果支持了γ射线源源自由PSR J1849-0001推动的PWN G32.64+0.53的假设。此外，TeV能带中的γ射线可能是通过星云内的电子/正电子通过ICS产生的。 <div>
 In this study, we report the likely GeV γ-ray emissions originating from the pulsar PSR J1849-0001's pulsar wind nebula (PWN) G32.64+0.53. Our analysis covers approximately 14.7 yr of data from the Fermi Large Area Telescope Pass 8. The position of the source and its spectrum matches those in X-ray and TeV energy bands, so we propose that the GeV γ-ray source is indicative of PWN G32.64+0.53. We interpret the broadband spectral energy distribution (SED) using a time-dependent one-zone model, which assumes that the multiband nonthermal emission of the target source can be generated by synchrotron radiation and inverse Compton scattering (ICS) of the electrons/positrons. Our findings demonstrate that the model substantially elucidates the observed SED. These results lend support to the hypothesis that the γ-ray source originates from the PWN G32.64+0.53 powered by PSR J1849-0001. Furthermore, the γ-rays in TeV bands are likely generated by electrons/positrons within the nebula through ICS.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -88,13 +109,11 @@ In this study, we report the likely GeV γ-ray emissions originating from the pu
 <div> 关键词: Fermi gamma-ray bursts, spectral evolution, single-pulse morphology, citizen science, internal/external shocks
 
 总结: 
-Fermi伽玛射线暴的光谱演化得以研究，发展了一种新算法来测试单脉冲形态，开展了公民科学测试以评估光度曲线形态和光谱演化。研究发现，单峰暴往往具有持续衰减的峰能量或硬到软的光谱演化，而多峰暴则有非单调下降的峰频率。这一发现与内部/外部冲击模型一致，并表明一些单脉冲暴与特别高密度的环境有关。<br><br> <div>
+Fermi伽玛射线暴的光谱演化得以研究，发展了一种新算法来测试单脉冲形态，开展了公民科学测试以评估光度曲线形态和光谱演化。研究发现，单峰暴往往具有持续衰减的峰能量或硬到软的光谱演化，而多峰暴则有非单调下降的峰频率。这一发现与内部/外部冲击模型一致，并表明一些单脉冲暴与特别高密度的环境有关。<br /><br /> <div>
 We analyze the spectral evolution of 62 bright Fermi gamma-ray bursts with large enough signal-to-noise to allow for time-resolved spectral analysis. We develop a new algorithm to test for single-pulse morphology that is insensitive to the specific shape of pulses. Instead, it only checks whether or not there are multiple, isolated, or statistical significant peaks in the light curve. In addition, we carry out a citizen science test to assess light-curve morphology and spectral evolution. We find that, no matter the adopted assessment method, bursts characterized by single-peaked prompt emission light curves have a greater tendency to also have a consistently decaying peak energy or hard-to-soft spectral evolution. This contrasts with the behavior of multipeaked bursts, for which the tendency is to have a peak frequency that is not monotonically decreasing. We discuss this finding in the theoretical framework of internal/external shocks and find it to be consistent with at least some single-pulse bursts associated with particularly high-density environments.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Observations of Low and Intermediate Spectral Peak Blazars with the Imaging X-Ray Polarimetry Explorer</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5671</link>
@@ -11747,89 +11766,6 @@ With the advent of JWST and the spectroscopic characterization of exoplanet atmo
 We have conducted a systematic search around the Milky Way (MW) analog NGC 253 (D = 3.5 Mpc), as a part of the Panoramic Imaging Survey of Centaurus and Sculptor (PISCeS)—a Magellan+Megacam survey to identify dwarfs and other substructures in resolved stellar light around MW-mass galaxies outside of the Local Group. In total, NGC 253 has five satellites identified by PISCeS within 100 kpc with an absolute V-band magnitude of MV < −7. We have additionally obtained deep Hubble Space Telescope imaging of four reported candidates beyond the survey footprint: Do III, Do IV, and dw0036m2828 are confirmed to be satellites of NGC 253, while SculptorSR is found to be a background galaxy. We find no convincing evidence for the presence of a plane of satellites surrounding NGC 253. We construct its satellite luminosity function, which is complete down to MV ≲ −8 out to 100 kpc and MV ≲ −9 out to 300 kpc, and compare it to those calculated for other Local Volume galaxies. Exploring trends in satellite counts and star-forming fractions among satellite systems, we find relationships with host stellar mass, environment, and morphology, pointing to a complex picture of satellite formation, and a successful model has to reproduce all of these trends.
 ]]></content:encoded>
 <pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Statistical Investigation of Wave Propagation in the Quiet-Sun Using IRIS Spectroscopic Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad36ca</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad36ca</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 光谱观测, 太阳大气层, 振荡周期, 多普勒速度, 光谱线<br />
-总结: 该研究利用IRIS仪器对太阳安静区域进行光谱观测，研究了波的传播。分析了不同大气层中形成的各种光谱线，如光球层、色球层和过渡区。通过对安静太阳不同位置的多普勒速度时间序列进行统计分析，得出了主导的振荡周期。结果显示，光球层主要以5分钟周期为主，而色球层主要与3分钟振荡周期相关。在过渡区，观察到多种振荡周期，其中以3、8和12分钟为主。通过推断不同温度下形成的不同大气层中光谱线对的多普勒速度时间序列之间的相位差，我们估计了截止频率。结果显示，在过渡区有3分钟周期与光球层振荡有显著相关性，表明这些振荡可能是从光球层向过渡区传播的。此外，分析了色球层振荡和光球层振荡之间的相位差，表明只有3分钟的振荡向上传播。根据统计分析结果，我们提出了太阳大气中存在磁声波，其中一些是从下向上传播，而另一些是向下传播。过渡区包含了在此处产生的长周期振荡和一些能够从下方到达的光球振动。<br /><br /> <div>
-In this analysis, we use spectroscopic observations of the quiet Sun made by the IRIS instrument and investigate wave propagation. We analyze various spectral lines formed in different atmospheric layers, such as the photosphere, chromosphere, and transition region. We examine the Doppler velocity time series at various locations in the quiet Sun to determine the dominant oscillation periods. Our results executing statistical analysis resemble those of the classical physical scenario, indicating that the photosphere is mainly characterized by the dominant 5 minute period, while the chromosphere is primarily associated with the 3 minute oscillation period. In the transition region, we observe a variety of oscillation periods, with dominant periods of 3, 8, and 12 minutes. We estimate the cutoff frequency by deducing the phase difference between two Doppler velocity time series obtained from spectral line pairs in different atmospheric layers formed at different temperatures. This reveals a significant correlation between 3 minute periods in the transition region and photospheric oscillations, suggesting that these oscillations in the transition region might propagate from the photosphere. Additionally, we analyze the phase difference between chromospheric oscillations and photospheric oscillations, demonstrating that only the 3 minute oscillations propagate upward. Based on the statistical analyses, we suggest the presence of magnetoacoustic waves in the solar atmosphere, some of which are propagating from the lower solar atmosphere upward, while some others are propagating downward. The transition region carries both long-period oscillations generated in situ and some photospheric oscillations that are also able to reach there from below.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Floor of Cosmogenic Neutrino Fluxes above 1017 eV</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad372a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad372a</guid>
-<content:encoded><![CDATA[
-<div> 关键词：中微子，宇宙射线，能量通量，银河系，实验测定
-总结:
-本文讨论了对能量大于1017 eV的中微子进行搜索的活跃追求。提到了银河系气体与超银河宇宙射线的相互作用确保了能量通量的保底水平为1018 eV。同时，作者还提出了宇宙射线产生的中微子通量的普遍估计，这一通量通常超过保底水平。然而，要想探测到能量大于1018 eV的中微子仍具有挑战性，除非质子加速到最高能量是在某些次要的宇宙射线源中发生，或者存在某些新的物理现象。 <div>
-The search for neutrinos with energies greater than 1017 eV is being actively pursued. Although normalization of the dominant neutrino flux is highly uncertain, a floor level is guaranteed by the interactions of extragalactic cosmic rays with milky Way gas. We estimate that this floor level gives an energy flux of at 1018 eV, where uncertainties arise from the modeling of the gas distribution and the experimental determination of the mass composition of ultra–high-energy cosmic rays on Earth. Based on a minimal model of cosmic-ray production to explain the mass-discriminated energy spectra observed on Earth above 5 × 1018 eV, we also present generic estimates of the neutrino fluxes expected from extragalactic production that generally exceed the aforementioned guaranteed floor. The prospects for detecting neutrinos above 1018 eV remain challenging, however, unless proton acceleration to the highest energies is at play in a subdominant population of cosmic-ray sources or new physical phenomena are at work.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Where Are the Water Worlds? Identifying Exo-water-worlds Using Models of Planet Formation and Atmospheric Evolution</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3802</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3802</guid>
-<content:encoded><![CDATA[
-<div> 小行星、冰层、形成模型、观测、水世界
-<br /><br />总结:
-本文研究了小行星形成模型，发现从原行星盘的雪线外迁移的小行星可能含有富含水冰的核心，也就是所谓的水世界。观测结果提示存在这样的水世界，但无法确认行星核心的具体组成。研究者使用不同的形成模型和大气逸失模型来模拟与观测结果一致的行星系统，并发现大约10%的裸行星（即没有原始H/He大气的行星）可能在G型恒星周围富含水冰，而在M型恒星周围可能达到20%。然而，大多数水世界被预测位于10天以上的轨道周期上。这意味着通过径向速度和透射光谱学识别水世界可能在针对具有更长轨道周期的行星时更有成功的可能性。 <div>
-Planet formation models suggest that the small exoplanets that migrate from beyond the snowline of the protoplanetary disk likely contain water-ice-rich cores (∼50% by mass), also known as water worlds. While the observed radius valley of the Kepler planets is well explained by the atmospheric dichotomy of the rocky planets, precise measurements of the mass and radius of the transiting planets hint at the existence of these water worlds. However, observations cannot confirm the core compositions of those planets, owing to the degeneracy between the density of a bare water-ice-rich planet and the bulk density of a rocky planet with a thin atmosphere. We combine different formation models from the Genesis library with atmospheric escape models, such as photoevaporation and impact stripping, to simulate planetary systems consistent with the observed radius valley. We then explore the possibility of water worlds being present in the currently observed sample by comparing them with simulated planets in the mass–radius–orbital period space. We find that the migration models suggest ≳10% and ≳20% of the bare planets, i.e., planets without primordial H/He atmospheres, to be water-ice-rich around G- and M-type host stars, respectively, consistent with the mass–radius distributions of the observed planets. However, most of the water worlds are predicted to be outside a period of 10 days. A unique identification of water worlds through radial velocity and transmission spectroscopy is likely to be more successful when targeting such planets with longer orbital periods.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Gas-phase Condensation of Carbonated Silicate Grains</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad381d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad381d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 碳酸盐，行星状星云，原恒星，非热力学平衡，激光消融<br />
-<br />
-这篇文章报告了实验室研究，通过在氧气和二氧化碳气体中脉冲激光消融镁硅靶，报道了非热力学平衡条件下的气相凝结，产生了无定形碳化镁硅尘。该研究表明，这种尘埃可能在进化恒星和行星状星云的星风和外流中形成，如果硅酸盐凝结过程中存在碳原子。此外，研究还发现Lyα辐射会解离碳化硅酸盐颗粒表面的碳酸盐基团，并估计了对应的光解离截面。因此，光解离会限制在发射真空紫外光子的恒星的星风和外流中颗粒上碳酸盐基团的形成，而在原恒星中观察到的碳酸盐并非由气相凝结产生。 <br /><br />总结: 实验表明在非热力学平衡条件下可以产生无定形碳化镁硅尘，而光解离会限制星风和外流中碳酸盐基团的形成。 <div>
-Reports on the detection of carbonates in planetary nebulae (PNe) and protostars have suggested the existence of a mechanism that produces these compounds in stellar winds and outflows. A subsequent laboratory study has reported a possible mechanism by presenting the non-thermodynamic-equilibrium (TE), gas-phase condensation of amorphous silicate grains with amorphous calcium carbonate inclusions. The authors concluded that water vapor was necessary for the formation of the carbonates. We present a laboratory study with pulsed laser ablation of a MgSi target in O2 and CO2 gases and report, in the absence of water vapor, the non-TE, gas-phase condensation of amorphous carbonated magnesium silicate dust. It consists of amorphous silicate grains with the formula MgSiO3, which comprise carbonate groups homogeneously dispersed in their structure. The IR spectra of the grains show the characteristic bands of amorphous silicates and two bands at ∼6.3 and ∼7.0 μm, which we assign to the carbonate groups. The silicate bands are not significantly affected at an estimated Si:C ratio of 9:1–9:2. Such grains could form in winds and outflows of evolved stars and PNe if C atoms are present during silicate condensation. Additionally, we find that Lyα radiation dissociates the carbonate groups at the surface of the carbonated silicate grains and we estimate the corresponding photodissociation cross section of (0.04 ± 0.02) ×10−16 cm2. Therefore, photodissociation would limit the formation of carbonate groups on grains in winds and outflows of stars emitting vacuum ultraviolet photons, and the carbonates observed in protostars have not formed by gas-phase condensation.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Decoding Rotating Neutron Stars: Role of the Symmetry Energy Slope</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad391e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad391e</guid>
-<content:encoded><![CDATA[
-<div> 对称能斜率，毫秒脉冲星，静态中子星，旋转中子星，质量半径关系
-
-研究表明，不同的对称能斜率值会影响静态和缓慢旋转中子星的性质。对于相同的角速度，对称能斜率会影响最大质量的增加，典型的1.4太阳质量中子星的半径和偏心率，以及2.01太阳质量中子星的这些参数。研究结果表明，不同的斜率值不仅影响绝对数值，还影响相对数值。事实上，不同的斜率值预测了偏心率的不同数值，而这并不取决于中子星半径的绝对值。因此，偏心率可以成为约束对称能斜率的有力工具。
-
-<br /><br />总结: 对称能斜率的不同数值影响静态和缓慢旋转中子星的性质，包括最大质量增加、典型中子星的1.4太阳质量和2.01太阳质量的半径和偏心率。这些研究结果表明，偏心率可以成为约束对称能斜率的有力工具。 <div>
-In 2023 December, the Fermi Large Area Telescope Catalog announced the discovery of 33 new millisecond pulsars. Motivated by that, in this work, I study how different values of the symmetry energy slope (L) affect the properties of static and slowly rotating neutron stars. For fixed values of angular velocity, I study how the slope influences the increase of the maximum mass, the radii of the canonical 1.4 M⊙, its eccentricity, as well the same quantities for the 2.01 M⊙ stars. I show that different slope values cause different variations not only in the absolute quantities but also in relative ones. Indeed, different slope values predict different values for the eccentricity, which does not depend on the absolute value of the neutron stars’ radii. Therefore, this quantity can be a powerful tool to constrain the symmetry energy slope.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Taming the TuRMoiL: The Temperature Dependence of Turbulence in Cloud–Wind Interactions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e51</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad1e51</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 涡动辐射混合层, 天体物理, 气体云, 湍流, 辐射冷却
-总结: <br /><br />在天体物理中，涡动辐射混合层在气体云和炽热气流相互作用中扮演重要角色。研究发现，涡动速度与温度呈现明显的关联，随着时间的推移，涡动速度稳定在一定数值。同时，云与风的相对速度会导致涡动速度快速增长，之后逐渐下降并稳定在大约一半的最大数值。此外，涡动速度的大小与热相声传播时间与最小冷却时间的比值成正比。最后，研究还发现有关解决湍流的长度尺度存在着一些初步的证据。未能解决这一尺度可能导致云的大尺度形态特性发生变化。 <div>
-Turbulent radiative mixing layers play an important role in many astrophysical contexts where cool (≲104 K) clouds interact with hot flows (e.g., galactic winds, high-velocity clouds, infalling satellites in halos and clusters). The fate of these clouds (as well as many of their observable properties) is dictated by the competition between turbulence and radiative cooling; however, turbulence in these multiphase flows remains poorly understood. We have investigated the emergent turbulence arising in the interaction between clouds and supersonic winds in hydrodynamic enzo-e simulations. In order to obtain robust results, we employed multiple metrics to characterize the turbulent velocity, vturb. We find four primary results when cooling is sufficient for cloud survival. First, vturb manifests clear temperature dependence. Initially, vturb roughly matches the scaling of sound speed on temperature. In gas hotter than the temperature where cooling peaks, this dependence weakens with time until vturb is constant. Second, the relative velocity between the cloud and wind initially drives rapid growth of vturb. As it drops (from entrainment), vturb starts to decay before it stabilizes at roughly half its maximum. At late times, cooling flows appear to support turbulence. Third, the magnitude of vturb scales with the ratio between the hot phase sound-crossing time and the minimum cooling time. Finally, we find tentative evidence for a length scale associated with resolving turbulence. Underresolving this scale may cause violent shattering and affect the cloud’s large-scale morphological properties.
-]]></content:encoded>
-<pubDate>2024-05-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Tidal Synchronization Trapping in Stars and Planets with Convective Envelopes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad344d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad344d</guid>
-<content:encoded><![CDATA[
-<div> Tidal torques, spins, rotating systems, synchronization traps, inertial waves
-<br /><br />总结: 本文讨论了潮汐力对于星体和行星自转的影响，特别是在偏心轨道系统中。在这种系统中，潮汐力驱动惯性振荡，导致了一系列稳定的“同步陷阱”，使得自转周期与轨道周期的比值偏离了传统的假同步预期。这一机制类似于潮汐共振锁定，但不需要推动振荡模式的非线性增长。同步陷阱可能会解释观测到的自转速率与假同步或同步预期不符的低质量恒星和热木星现象。 <div>
-Tidal torques can alter the spins of tidally interacting stars and planets, usually over shorter timescales than the tidal damping of orbital separations or eccentricities. Simple tidal models predict that, in eccentric binary or planetary systems, rotation periods will evolve toward a “pseudosynchronous” ratio with the orbital period. However, this prediction does not account for “inertial” waves that are present in stars or gaseous planets with (i) convective envelopes and (ii) even very slow rotation. We demonstrate that tidal driving of inertial oscillations in eccentric systems generically produces a network of stable “synchronization traps” at ratios of orbital to rotation period that are simple to predict but can deviate significantly from pseudosynchronization. The mechanism underlying spin synchronization trapping is similar to tidal resonance locking, involving a balance between torques that is maintained automatically by the scaling of inertial mode frequencies with the rotation rate. In contrast with many resonance locking scenarios, however, the torque balance required for synchronization trapping need not drive mode amplitudes to nonlinearity. Synchronization traps may provide an explanation for low-mass stars and hot Jupiters with observed rotation rates that deviate from pseudosynchronous or synchronous expectations.
-]]></content:encoded>
-<pubDate>2024-05-05T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
