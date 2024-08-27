@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Effects of Radiative Transfer on the Observed Anisotropy in Magnetohydrodynamic Turbulent Molecular Simulations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad57c8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad57c8</guid>
 <content:encoded><![CDATA[
-<div> CO分子线，合成观测，辐射传输，速度质心，集成强度<br>
-<br>这篇文章研究了合成观测中速度质心和集成强度图的各向异性。研究进行了辐射传输的后处理，包括在Hernández-Padilla等人未涵盖的光学厚重区域。考虑了各种CO分子线的发射，从光学薄到光学厚的范围（12CO、13CO、C18O和C17O）。速度质心的结果与光学薄情况类似。例如，观测到的各向异性可以归因于Alfvén模式，在这种模式下，当视线与平均磁场的倾斜度较高时，该模式主导了慢模和快模。在具有较高光学厚度的模型中出现了一些差异，其中一些依赖声速马赫数的情况变得显现。与光学薄情况相反，光学厚线的集成强度图变得更加各向异性。在这种情况下，由于吸收作用，探测到的尺度受到限制，这些尺度已知更加各向异性。我们讨论了声速马赫数如何影响后一结果，高超声速情况下表现出较低程度的各向异性。<br><br>总结: 本研究通过合成观测研究了速度质心和集成强度图的各向异性，包括了辐射传输的后处理和各种CO分子线的发射。结果表明，光学厚线的集成强度图变得更加各向异性，高超声速情况下表现出较低程度的各向异性。 <div>
+<div> CO分子线，合成观测，辐射传输，速度质心，集成强度<br />
+<br />这篇文章研究了合成观测中速度质心和集成强度图的各向异性。研究进行了辐射传输的后处理，包括在Hernández-Padilla等人未涵盖的光学厚重区域。考虑了各种CO分子线的发射，从光学薄到光学厚的范围（12CO、13CO、C18O和C17O）。速度质心的结果与光学薄情况类似。例如，观测到的各向异性可以归因于Alfvén模式，在这种模式下，当视线与平均磁场的倾斜度较高时，该模式主导了慢模和快模。在具有较高光学厚度的模型中出现了一些差异，其中一些依赖声速马赫数的情况变得显现。与光学薄情况相反，光学厚线的集成强度图变得更加各向异性。在这种情况下，由于吸收作用，探测到的尺度受到限制，这些尺度已知更加各向异性。我们讨论了声速马赫数如何影响后一结果，高超声速情况下表现出较低程度的各向异性。<br /><br />总结: 本研究通过合成观测研究了速度质心和集成强度图的各向异性，包括了辐射传输的后处理和各种CO分子线的发射。结果表明，光学厚线的集成强度图变得更加各向异性，高超声速情况下表现出较低程度的各向异性。 <div>
 We study the anisotropy of centroid and integrated intensity maps with synthetic observations. We perform postprocess radiative transfer including the optically thick regime that was not covered in Hernández-Padilla et al. We consider the emission in various CO molecular lines that range from optically thin to optically thick (12CO, 13CO, C18O, and C17O). The results for the velocity centroids are similar to those in the optically thin case. For instance, the anisotropy observed can be attributed to the Alfvén mode, which dominates over the slow and fast modes when the line of sight is at a high inclination with respect to the mean magnetic field. A few differences arise in the models with higher opacity, where some dependence on the sonic Mach number becomes evident. In contrast to the optically thin case, maps of integrated intensity become more anisotropic in optically thick lines. In this situation the scales probed are restricted, due to absorption, to smaller scales, which are known to be more anisotropic. We discuss how the sonic Mach number can affect the latter results, with highly supersonic cases exhibiting a lower degree of anisotropy.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,10 +27,8 @@ We study the anisotropy of centroid and integrated intensity maps with synthetic
 本文介绍了使用Karl G. Jansky非常大阵列(VLA)对GOODS-N区域进行了首次高分辨率、高频率的射电连续波测量。使用X波段(8-12 GHz)接收器，共耗时380小时观测，获得了平均rms噪声为671 nJy beam−1，角分辨率为0.″22的10 GHz图。同时也生成了角分辨率为1.″0，rms噪声为968 nJy beam−1的低分辨率图。目录中包含了256个射电源的检测信息，其中假源比例为0.75%。通过蒙特卡洛模拟得出了目录的完整性修正。研究发现，在GOODS-N区域的10 GHz射电源计数与数值模拟/模型的预测以及1.4和3 GHz的射电源计数预期大体一致。 <div>
 We present the first high-resolution, high-frequency radio continuum survey that fully maps an extragalactic deep field: the 10 GHz survey of the Great Observatories Origins Deep Survey-North (GOODS-N) field. This is a Large Program of the Karl G. Jansky Very Large Array (VLA) that allocated 380 hr of observations using the X-band (8–12 GHz) receivers, leading to a 10 GHz mosaic of the GOODS-N field with an average rms noise σn = 671 nJy beam−1 and angular resolution θ1/2 = 0.″22 across 297 arcmin2. To maximize the brightness sensitivity we also produce a low-resolution mosaic with θ1/2 = 1.″0 and σn = 968 nJy beam−1, from which we derive our master catalog containing 256 radio sources detected with peak signal-to-noise ratio ≥ 5. Radio source size and flux density estimates from the high-resolution mosaic are provided in the master catalog as well. The total fraction of spurious sources in the catalog is 0.75%. Monte Carlo simulations are performed to derive completeness corrections of the catalog. We find that the 10 GHz radio source counts in the GOODS-N field agree, in general, with predictions from numerical simulations/models and expectations from 1.4 and 3 GHz radio counts.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Measurement of Anisotropies in Supernova Remnant Observations and Their Interpretation Using Numerical Models</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5daa</link>
@@ -11743,29 +11741,6 @@ We perform a comprehensive CO study toward the Monoceros OB1 (Mon OB1) region ba
 
 总结：<br /><br />本文讨论了三个属于紧缩对称天体（CSO）类别的射电喧哗活动星系核（AGN），它们具有检测到的窄Fe Kα线。文章使用Chandra X射线天文台和亚毫米阵列（SMA）的新观测数据，分析了J1407+2827、J1511+0518和J2022+6137的射电至γ射线光谱。新的Chandra数据排除了大于1.″5尺度的扩展X射线发射成分的存在。SMA数据揭示了射电叶子中电子分布的谱指数与NH之间的关联，这可以解释高度阻塞CSOs的γ射线安静特性。文章认为，紧缩射电叶子的逆康普顿辐射可能解释了所有这些源的固有X射线连续谱。此外，文章提出观察到的铁线可能是由周围冷尘的紧缩射电叶子连续谱的反射产生的。 <div>
 X-ray continuum emission of active galactic nuclei (AGNs) may be reflected by circumnuclear dusty tori, producing prominent fluorescence iron lines at X-ray frequencies. Here, we discuss the broadband emission of three radio-loud AGNs belonging to the class of compact symmetric objects (CSOs), with detected narrow Fe Kα lines. CSOs have newly born radio jets, forming compact radio lobes with projected linear sizes of the order of a few to hundreds of parsecs. We model the radio-to-γ-ray spectra of compact lobes in J1407+2827, J1511+0518, and J2022+6137, which are among the nearest and the youngest CSOs known to date, and are characterized by an intrinsic X-ray absorbing column density of NH > 1023 cm−2. In addition to the archival data, we analyze the newly acquired Chandra X-ray Observatory and Submillimeter Array (SMA) observations, and also refine the γ-ray upper limits from Fermi Large Area Telescope monitoring. The new Chandra data exclude the presence of the extended X-ray emission components on scales larger than 1.″5. The SMA data unveil a correlation between the spectral index of the electron distribution in the lobes and NH, which can explain the γ-ray quietness of heavily obscured CSOs. Based on our modeling, we argue that the inverse-Compton emission of compact radio lobes may account for the intrinsic X-ray continuum in all these sources. Furthermore, we propose that the observed iron lines may be produced by a reflection of the lobes’ continuum from the surrounding cold dust.
-]]></content:encoded>
-<pubDate>2024-05-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Investigating the Soft X-Ray Spectra of Solar Flare Onsets</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad37f6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad37f6</guid>
-<content:encoded><![CDATA[
-<div> 关键词：太阳耀斑、第三代微型X射线太阳光谱仪、DAXSS、等离子体温度、日冕环结构
-总结:<br /><br />本研究利用第三代微型X射线太阳光谱仪DAXSS对2022年发生的六次太阳耀斑事件进行了分析。重点关注了耀斑的起始阶段，利用DAXSS光谱数据拟合宇宙等离子体发射代码模型，分析了耀斑起始阶段的等离子体温度、发射量和元素丰度因子的时间演化。研究结果表明，耀斑起始阶段的等离子体已经处于较高温度，伴随温度的上升、下降和再次上升。元素丰度因子在起始阶段低于耀斑前的值，在冲动阶段之前有所恢复。同时，利用大气成像组织的193埃通道图像分析耀斑起始阶段的日冕环结构的形成或变亮。DAXSS和AIA观测均表明，耀斑起始阶段展现出类似于冲动阶段的热日冕等离子体特性，暗示了起始阶段可能对某些耀斑具有预处理效应。 <div>
-In this study, we present the analysis of six solar flare events that occurred in 2022, using new data from the third-generation Miniature X-Ray Solar Spectrometer, also known as the Dual-zone Aperture X-ray Solar Spectrometer (DAXSS). The primary focus of this study is on the flare’s onset phase, which is characterized by elevated soft X-ray emissions even before the flare’s impulsive phase. We analyze the temporal evolution of plasma temperature, emission measure, and elemental abundance factors during the flare onset phase by fitting the DAXSS spectra with the Astrophysical Plasma Emission Code model. The model fitting results indicate that the flaring plasma is already at a high temperature (10–15 MK) during the onset period. The temperature rises during the onset phase, followed by a decrease and subsequent increase during the impulsive phase. Elemental abundance factors show a trend of falling below preflare values during the onset phase, with some recovery before the impulsive phase. During the impulsive phase, the abundance factors decrease from elevated coronal values to about photospheric values. We also analyze images from the 193 Å channel of the Atmospheric Imaging Assembly (AIA), highlighting the formation or brightening of coronal loop structures during the onset phase. Two distinct onset loop configurations are observed, which are referred to as one-loop and two-loop onsets. Both DAXSS and AIA observations indicate that the flare onset phase exhibits hot coronal plasma properties similar to those of the impulsive phase, suggesting that the onset phase may act as a preconditioning effect for some flares.
-]]></content:encoded>
-<pubDate>2024-05-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Predicting the Slowing of Stellar Differential Rotation by Instability-driven Turbulence</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad38c3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad38c3</guid>
-<content:encoded><![CDATA[
-<div> 关键词：差异旋转，角动量，涡动，Goldreich-Schubert-Fricke不稳定性，自洽饱和理论
-
-总结：<br /><br />这篇文章提出了关于差异旋转恒星赤道处的涡动的自洽饱和理论。文章阐述了Goldreich-Schubert-Fricke不稳定性的驱动机制，并提出了一个统计闭合近似，以解释这种涡动的形成和发展过程。研究者推导了动量和热量的涡动传输速率，并提供了解析形式的公式。这些理论模型经过直接数值模拟的测试，结果显示良好的一致性。该理论还扩展到了热量和组分输运的研究，并在某些情况下取得了一致的结果。 <div>
-Differentially rotating stars and planets transport angular momentum (AM) internally due to turbulence at rates that have long been a challenge to predict reliably. We develop a self-consistent saturation theory, using a statistical closure approximation, for hydrodynamic turbulence driven by the axisymmetric Goldreich–Schubert–Fricke instability at the stellar equator with radial differential rotation. This instability arises when fast thermal diffusion eliminates the stabilizing effects of buoyancy forces in a system where a stabilizing entropy gradient dominates over the destabilizing AM gradient. Our turbulence closure invokes a dominant three-wave coupling between pairs of linearly unstable eigenmodes and a near-zero frequency, viscously damped eigenmode that features latitudinal jets. We derive turbulent transport rates of momentum and heat and provide them in analytic forms. Such formulae, free of tunable model parameters, are tested against direct numerical simulations; the comparison shows good agreement. They improve upon prior quasi-linear or “parasitic saturation” models containing a free parameter. Given model correspondences, we also extend this theory to heat and compositional transport for axisymmetric thermohaline-instability-driven turbulence in certain regimes.
 ]]></content:encoded>
 <pubDate>2024-05-07T23:00:00Z</pubDate>
 </item>
