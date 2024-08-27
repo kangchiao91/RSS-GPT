@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Automatic Detection of Large-scale Flux Ropes and Their Geoeffectiveness with a Machine-learning Approach</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</guid>
 <content:encoded><![CDATA[
-<div> 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测<br>
-<br>
-自动检测大规模磁流绳以及评估它们的地球效应至关重要，因为它们可能引发严重的太空天气。研究提出了一种利用太阳风磁性特性训练的两个监督二元分类机器学习模型的流水线，用于自动检测大规模磁流绳并确定它们的地球效应。第一个模型用于生成自动检测到的磁流绳列表，第二模型利用南向磁场的性质确定磁流绳的地球效应。我们的方法能够在1天内自动识别出1 AU处90%左右的大型ICMEs，并获得88%的准确率来评估磁流绳的地球效应。因此，在L1点的空间天气预测中，我们的流水线可以提供大规模磁流绳及其地球效应的一级检测。 <br><br>总结: <br>关键词: 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测。<br>要点:提出使用机器学习模型自动检测大规模磁流绳，并评估其地球效应；利用两个监督分类模型对太阳风磁性特征进行训练；对1 AU处的大型ICMEs进行了有效识别和地球效应评估；在空间天气预测中具有重要应用价值。 <div>
+<div> 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测<br />
+<br />
+自动检测大规模磁流绳以及评估它们的地球效应至关重要，因为它们可能引发严重的太空天气。研究提出了一种利用太阳风磁性特性训练的两个监督二元分类机器学习模型的流水线，用于自动检测大规模磁流绳并确定它们的地球效应。第一个模型用于生成自动检测到的磁流绳列表，第二模型利用南向磁场的性质确定磁流绳的地球效应。我们的方法能够在1天内自动识别出1 AU处90%左右的大型ICMEs，并获得88%的准确率来评估磁流绳的地球效应。因此，在L1点的空间天气预测中，我们的流水线可以提供大规模磁流绳及其地球效应的一级检测。 <br /><br />总结: <br />关键词: 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测。<br />要点:提出使用机器学习模型自动检测大规模磁流绳，并评估其地球效应；利用两个监督分类模型对太阳风磁性特征进行训练；对1 AU处的大型ICMEs进行了有效识别和地球效应评估；在空间天气预测中具有重要应用价值。 <div>
 Detecting large-scale flux ropes (FRs) embedded in interplanetary coronal mass ejections (ICMEs) and assessing their geoeffectiveness are essential, since they can drive severe space weather. At 1 au, these FRs have an average duration of 1 day. Their most common magnetic features are large, smoothly rotating magnetic fields. Their manual detection has become a relatively common practice over decades, although visual detection can be time-consuming and subject to observer bias. Our study proposes a pipeline that utilizes two supervised binary classification machine-learning models trained with solar wind magnetic properties to automatically detect large-scale FRs and additionally determine their geoeffectiveness. The first model is used to generate a list of autodetected FRs. Using the properties of the southward magnetic field, the second model determines the geoeffectiveness of FRs. Our method identifies 88.6% and 80% of large-scale ICMEs (duration ≥ 1 day) observed at 1 au by the Wind and the Solar TErrestrial RElations Observatory missions, respectively. While testing with continuous solar wind data obtained from Wind, our pipeline detected 56 of the 64 large-scale ICMEs during the 2008–2014 period (recall = 0.875), but also many false positives (precision = 0.56), as we do not take into account any additional solar wind properties other than the magnetic properties. We find an accuracy of 0.88 when estimating the geoeffectiveness of the autodetected FRs using our method. Thus, in space-weather nowcasting and forecasting at L1 or any planetary missions, our pipeline can be utilized to offer a first-order detection of large-scale FRs and their geoeffectiveness.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,15 +22,13 @@ Detecting large-scale flux ropes (FRs) embedded in interplanetary coronal mass e
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b9</guid>
 <content:encoded><![CDATA[
-<div> 关键词: galaxies, reionization, Lyman continuum photons, fesc, multivariate predictors<br>
-总结: <br>
+<div> 关键词: galaxies, reionization, Lyman continuum photons, fesc, multivariate predictors<br />
+总结: <br />
 这篇文章研究了银河系是如何对宇宙进行再电离的，通过开发和分析了对逸出分数（fesc）的新的多变量预测模型，使用了Cox比例风险模型进行预测，发现最重要的预测变量是Lyman系列吸收线的等效宽度（EW）和紫外线尘埃衰减。文章还强调了H i吸收的重要性，特别是对最强的LyC发射体来说。预测模型对于高红移也具有适用性，证实了ΣSFR和[O iii]/[O ii]在预测fesc方面的重要性。总体来说，这些多变量模型为在高红移时预测fesc提供了一个有希望的工具。 <div>
 To understand how galaxies reionized the Universe, we must determine how the escape fraction of Lyman continuum (LyC) photons (fesc) depends on galaxy properties. Using the z ∼ 0.3 Low-redshift Lyman Continuum Survey (LzLCS), we develop and analyze new multivariate predictors of fesc. These predictions use the Cox proportional hazards model, a survival analysis technique that incorporates both detections and upper limits. Our best model predicts the LzLCS fesc detections with an rms scatter of 0.31 dex, better than single-variable correlations. According to ranking techniques, the most important predictors of fesc are the equivalent width (EW) of Lyman-series absorption lines and the UV dust attenuation, which track line-of-sight absorption due to H i and dust. The H i absorption EW is uniquely crucial for predicting fesc for the strongest LyC emitters, which show properties similar to weaker LyC emitters and whose high fesc may therefore result from favorable orientation. In the absence of H i information, star formation rate surface density (ΣSFR) and [O iii]/[O ii] ratio are the most predictive variables and highlight the connection between feedback and fesc. We generate a model suitable for z > 6, which uses only the UV slope, ΣSFR, and [O iii]/[O ii]. We find that ΣSFR is more important in predicting fesc at higher stellar masses, whereas [O iii]/[O ii] plays a greater role at lower masses. We also analyze predictions for other parameters, such as the ionizing-to-nonionizing flux ratio and Lyα escape fraction. These multivariate models represent a promising tool for predicting fesc at high redshift.
 ]]></content:encoded>
-
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Probing Presupernova Mass Loss in Double-peaked Type Ibc Supernovae from the Zwicky Transient Facility</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad595f</link>
@@ -11739,31 +11737,6 @@ We present integral field spectroscopy toward and around J1044+0353, a rapidly g
 <div> Class 0 protostar, Atacama Compact Array, CO J=2-1 line, outflow, Hubble-law-like velocity structures<br /> 
 该研究使用Atacama Compact Array对IRAS 15398−3359进行了观测，发现了第三个与原恒星相关的流出并且检测到北西方向的新红移组分。这些发现表明，流出的发射方向可能随时间发生了显著变化。研究人员认为这可能是因为旋转轴和磁场不对齐或者密集核心湍流所致。与数值模拟结果的比较支持了这一假设。总之，这些发现为我们提供了关于IRAS 15398−3359的多个流出的重要信息，为我们理解类星体的形成和演化提供了有益的线索。<br /><br />总结: Class 0原恒星在CO J=2-1线观测中发现了多个流出，其中一些流出与之前观测的主要和次要流出不同向。研究人员认为这可能是流出发射方向随时间发生显著变化的结果。与数值模拟结果的比较支持了这一假设。 <div>
 We present the results of our mosaic observations of a single Class 0 protostar IRAS 15398−3359 with the Atacama Compact Array in the CO J = 2–1 line. The new observations covering a square region reveal elongated redshifted and blueshifted components, which are located at distances of ∼30″–75″ on the northern and southern sides of the protostar, respectively, in addition to the previously observed primary and secondary outflows. These elongated components exhibit Hubble-law-like velocity structures, i.e., an increase of velocity with increasing distance from the protostar, suggesting that they comprise the third outflow associated with the protostar. Besides, a new redshifted component is detected at radii of ∼40″–75″ on the northwestern side of the protostar. This redshifted component also exhibits a Hubble-law-like velocity profile, which could be a counterpart of the secondary outflow mostly detected at blueshifted velocities in a previous study. The three outflows are all misaligned by ∼20°–90°, and the dynamical timescale of the primary outflow is shorter than those of the other outflows, approximately by an order of magnitude. These facts hint that the outflow launch direction has significantly changed with time. The outflow direction may change if the rotational axis and the magnetic field are misaligned or if the dense core is turbulent. We favor the second scenario as the origin of the multiple outflows in IRAS 15398−3359, based on a comparison between the observational results and numerical simulations.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Automated Chemical Reaction Network Generation and Its Application to Exoplanet Atmospheres</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad35c8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad35c8</guid>
-<content:encoded><![CDATA[
-<div> 关键词: JWST, 化学反应网络, 模型, 外行星大气, 自动化
-
-总结:
-JWST的出现促使对外行星大气进行更加完整的化学和光化学反应的研究需求。传统的手动构建反应网络的方法耗时且容易出错，且适用性有限。本文提出了一种自动化的方法，利用计算机辅助化学反应网络生成器，结合一维光化学动力学传输模型，自动选择反应速率，提高了模型的可靠性，并能够有效模拟不同的化学环境。作者使用WASP-39b和WASP-80b作为例子，证明了他们的方法的有效性，与最近的JWST数据取得了良好的一致性。这种自动化的化学网络生成方法为研究外行星大气提供了一个新颖、高效和精确的框架，是传统建模技术的重大进步。 <div>
-With the advent of JWST and the spectroscopic characterization of exoplanet atmospheres in unprecedented detail, there is a demand for more complete pictures of chemical and photochemical reactions and their impacts on atmospheric composition. Traditionally, building reaction networks for (exo)planetary atmospheres involves manually tracking relevant species and reactions, a time-consuming and error-prone process. This approach’s applicability is also often limited to specific conditions, making it less versatile for different planetary types (i.e., photochemical networks for Jupiters may not be directly applicable to water-rich exoplanets). We introduce an automated approach using a computer-aided chemical reaction network generator, combined with a 1D photochemical kinetic-transport model, offering significant advantages. This approach automatically selects reaction rates through a rate-based iterative algorithm and multiple refinement steps, enhancing model reliability. Also, this approach allows for the efficient simulation of diverse chemical environments, from hydrogen to water, carbon dioxide, and nitrogen-dominated atmospheres. Using WASP-39b and WASP-80b as examples, we demonstrate our approach’s effectiveness, showing good agreement with recent JWST data. Our WASP-39b model aligns with prior studies and JWST observations, capturing photochemically produced sulfur dioxide. The WASP-80b model reveals an atmosphere influenced by deep-interior thermochemistry and vertical mixing, consistent with JWST NIRCam observations. Furthermore, our model identifies a novel initial step for the N2–NH3–HCN pathway that enhances the efficiency of the conversion in high-temperature/high-pressure environments. This automated chemical network generation offers a novel, efficient, and precise framework for studying exoplanetary atmospheres, marking a significant advancement over traditional modeling techniques.
-]]></content:encoded>
-<pubDate>2024-05-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Faint Satellite System of NGC 253: Insights into Low-density Environments and No Satellite Plane*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad36c4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad36c4</guid>
-<content:encoded><![CDATA[
-<div> NGC 253, PISCeS, 银河系模拟, 星系, 衛星<br />
-总结:<br />
-本研究在Magellan+Megacam调查中对NGC 253进行了系统性搜索，发现了5个卫星，其中4个通过深度哈勃空间望远镜成像得到确认。在100kpc范围内，NGC 253的卫星绝对V波段等级MV < -7。在构建卫星亮度函数上，NGC 253的结果与其他局部星系进行了比较。研究还发现了卫星数和星形成比例与宿主恒星质量、环境和形态之间的关系，指向卫星形成的复杂模式。 <div>
-We have conducted a systematic search around the Milky Way (MW) analog NGC 253 (D = 3.5 Mpc), as a part of the Panoramic Imaging Survey of Centaurus and Sculptor (PISCeS)—a Magellan+Megacam survey to identify dwarfs and other substructures in resolved stellar light around MW-mass galaxies outside of the Local Group. In total, NGC 253 has five satellites identified by PISCeS within 100 kpc with an absolute V-band magnitude of MV < −7. We have additionally obtained deep Hubble Space Telescope imaging of four reported candidates beyond the survey footprint: Do III, Do IV, and dw0036m2828 are confirmed to be satellites of NGC 253, while SculptorSR is found to be a background galaxy. We find no convincing evidence for the presence of a plane of satellites surrounding NGC 253. We construct its satellite luminosity function, which is complete down to MV ≲ −8 out to 100 kpc and MV ≲ −9 out to 300 kpc, and compare it to those calculated for other Local Volume galaxies. Exploring trends in satellite counts and star-forming fractions among satellite systems, we find relationships with host stellar mass, environment, and morphology, pointing to a complex picture of satellite formation, and a successful model has to reproduce all of these trends.
 ]]></content:encoded>
 <pubDate>2024-05-06T23:00:00Z</pubDate>
 </item>
