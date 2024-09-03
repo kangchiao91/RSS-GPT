@@ -4,6 +4,45 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>BP3M: Bayesian Positions, Parallaxes, and Proper Motions Derived from the Hubble Space Telescope and Gaia Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5834</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5834</guid>
+<content:encoded><![CDATA[
+<div> Hubble Space Telescope, Gaia, astrometry, Bayesian pipeline, proper motion<br>
+<br>
+该研究提出了一种层次贝叶斯流程BP3M，用于测量Hubble Space Telescope（HST）图像和Gaia之间的跨匹配源的位置、视差和恒星固有运动（PM），甚至对于稀疏的场景（每幅图像的N* < 10）。该技术利用Gaia测量的天文测量作为先验来预测HST图像中源的位置，因此能够在不使用背景星系/QSO的情况下将HST图像放入全局参考框架中。通过在佛莱斯和德拉科矮星系中测试公开可用的代码，我们测量了20.5 < G < 21等级的PM，比Gaia DR3单独测量的PM精度中位数提高了8-13倍。我们能够利用合成数据来探讨BP3M天文测量对观测策略的影响，发现了一种在不增加PM不确定性的情况下改善视差和位置精度的最佳策略。在稀疏的COSMOS场景中使用1619幅HST图像（每幅图像中中位数为九个Gaia源），我们测量了2640个16 < G < 21.5等级范围内独特源的BP3M PM，其中25%没有Gaia PM；20.25 < G < 20.75等级的中位BP3M PM不确定性为0.44 mas yr−1，而Gaia的为1.03 mas yr−1；没有Gaia测量PM的源（20.75 < G < 21.5等级）的中位BP3M PM不确定性为1.16 mas yr−1。支持BP3M流程的统计数据是一种将不同图像、时代和望远镜的位置测量方式进行泛化的方法，这允许信息在调查和档案之间共享，实现比每个目录单独获得的更高天文测量精度。 <br><br>总结: 本研究提出了一种BP3M层次贝叶斯流程，用来测量Hubble Space Telescope（HST）图像和Gaia之间的跨匹配源的位置、视差和恒星固有运动（PM）。该技术在稀疏场景中也能有效工作，并且通过公开可用的代码进行了测试。使用合成数据，发现了一种改善视差和位置精度的最佳策略。在实际场景中的测试证实，BP3M PM的精度要比 Gaia DR3 高出数倍，尤其在一些等级的情况下差异尤为明显。该技术的统计手段可以将不同来源的数据进行统一处理，从而提高了天文测量的精度。 <div>
+We present a hierarchical Bayesian pipeline, BP3M, that measures positions, parallaxes, and proper motions (PMs) for cross-matched sources between Hubble Space Telescope (HST) images and Gaia—even for sparse fields (N* < 10 per image)—expanding from the recent GaiaHub tool. This technique uses Gaia-measured astrometry as priors to predict the locations of sources in HST images, and is therefore able to put the HST images onto a global reference frame without the use of background galaxies/QSOs. Testing our publicly available code in the Fornax and Draco dwarf spheroidal galaxies, we measure PMs that are a median of 8–13 times more precise than Gaia DR3 alone for 20.5 < G < 21 mag. We are able to explore the effect of observation strategies on BP3M astrometry using synthetic data, finding an optimal strategy to improve parallax and position precision at no cost to the PM uncertainty. Using 1619 HST images in the sparse COSMOS field (median nine Gaia sources per HST image), we measure BP3M PMs for 2640 unique sources in the 16 < G < 21.5 mag range, 25% of which have no Gaia PMs; the median BP3M PM uncertainty for 20.25 < G < 20.75 mag sources is 0.44 mas yr−1 compared to 1.03 mas yr−1 from Gaia, while the median BP3M PM uncertainty for sources without Gaia-measured PMs (20.75 < G < 21.5 mag) is 1.16 mas yr−1. The statistics that underpin the BP3M pipeline are a generalized way of combining position measurements from different images, epochs, and telescopes, which allows information to be shared between surveys and archives to achieve higher astrometric precision than that from each catalog alone.
+]]></content:encoded>
+
+<pubDate>2024-09-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>iSHELL K-band Survey of Class I and Flat Spectrum Sources: Magnetic Field Measurements in the Protostellar Phase</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b1</guid>
+<content:encoded><![CDATA[
+<div> Class I, Flat Spectrum sources, magnetic field strength, iSHELL, photospheric lines
+
+这篇文章利用iSHELL进行了Class I和Flat Spectrum源的磁场强度调查。它发现这些源的平均磁场强度与Class II源相似，但平均重力较低。通过恒星演化模型推断，Class I和Flat Spectrum源的年龄较年轻，约为0.6百万年，比Class II星体的约3百万年要年轻。这些结果证实了Class I和Flat Spectrum源在其光球上拥有强磁场，因此很可能通过类似于更进化的T Tauri恒星的磁层吸积盘物质。<br><br>总结: 这项研究使用iSHELL对Class I和Flat Spectrum源进行了磁场强度调查，发现它们的磁场强度与Class II源相似，但重力较低。通过恒星演化模型推断，Class I和Flat Spectrum源的年龄较年轻，约为0.6百万年，比Class II星体的约3百万年要年轻。这些结果证实了Class I和Flat Spectrum源在其光球上拥有强磁场，因此很可能通过类似于更进化的T Tauri恒星的磁层吸积盘物质。 <div>
+We perform the first magnetic field strength survey of Class I and Flat Spectrum (FS) sources using K-band observations with iSHELL. We obtained new observations of 42 Class I and FS sources and additionally included 10 sources from the archive. We detect photospheric lines in 44 of the sources, in addition to Brγ, H2, and CO emission in several objects. We model the photospheric absorption lines of 32 Class I and FS sources and measure their magnetic field strengths, K-band temperatures, gravities, projected rotational velocities, and infrared veiling values. We put the physical properties of Class I and FS sources in context by comparing them to the values derived for a sample of Class II sources. We find that (a) the average magnetic field strength of Class I and FS sources 〈B〉 = 2.0 ± 0.15 kG is consistent with the average magnetic field strength of Class II sources 〈B〉 = 1.8 ± 0.15 kG, and (b) the average gravity of Class I and FS objects is lower than the average gravity of Class II sources , although there is significant overlap between both gravity distributions. Furthermore, using stellar evolutionary models, we deduce that Class I and FS sources have a median age of ∼0.6 Myr, and are, as a group, younger than the Class II stars with a median age of ∼3 Myr. Our results confirm that Class I and FS sources host strong magnetic fields on their photospheres. Thus, it is likely that these sources accrete disk material through a magnetosphere similar to the more evolved T Tauri stars.
+]]></content:encoded>
+
+<pubDate>2024-09-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>CloudFlex: A Flexible Parametric Model for the Small-scale Structure of the Circumgalactic Medium</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5965</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5965</guid>
+<content:encoded><![CDATA[
+<div> 开源工具，吸收线特征，冷气体，模拟研究，吸收线观测
+
+总结:<br><br>CloudFlex是一个开源工具，用于预测星系暗云中冷气体吸收线的特征，可以根据多个参数设置模拟吸收线的质量、大小和速度分布。使用该工具可以预测在星系周围形成的吸收线分布，得出了一些结论，例如随着云团数密度和复杂结构尺寸的减小，具有相同金属丰度的观测视线中等效宽度小于0.3 Å的出现频率显著增加。这个工具还可以帮助详细约束构成光电离星系周围介质的结构大小和速度分布。 <div>
+We present CloudFlex, an open-source tool for predicting absorption-line signatures of cool gas in galaxy halos with small-scale structure. Motivated by analyses of ∼104 K material in hydrodynamical simulations of turbulent, multiphase media, we model cool gas structures as complexes of cloudlets sampled from a power-law distribution of mass with velocities drawn from a turbulent velocity field. The user may specify α, the lower limit of the cloudlet mass distribution ( ), and several other parameters that set the mass, size, and velocity distribution of the complex. This permits investigation of the relation between these parameters and absorption-line observables. As a proof-of-concept, we calculate the Mg iiλ2796 absorption induced by the cloudlets in background quasi-stellar object (QSO) spectra. We demonstrate that, at fixed metallicity, the covering fraction of sight lines with equivalent widths W2796 < 0.3 Å increases significantly with decreasing , cloudlet number density (ncl), and complex size. We then use this framework to predict the halo-scale W2796 distribution around ∼L* galaxies. We show that the observed incidences of W2796 > 0.3 Å sight lines with impact parameters 10 kpc < R⊥ < 50 kpc in projected QSO–galaxy studies are consistent with our model over much of parameter space. However, they are underpredicted by models with and ncl ≥ 0.03 cm−3, in keeping with a picture in which the inner cool circumgalactic medium (CGM) is dominated by numerous low-mass cloudlets (mcl ≲ 100M⊙) with a volume filling factor ≲1%. When used to model absorption-line data sets built from multi-sight line and/or spatially extended background probes, CloudFlex enables detailed constraints on the size and velocity distributions of structures comprising the photoionized CGM.
+]]></content:encoded>
+
+<pubDate>2024-09-02T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Force-free Wave Interaction in Magnetar Magnetospheres: Computational Modeling in Axisymmetry</title>
