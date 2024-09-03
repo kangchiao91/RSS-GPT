@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>BP3M: Bayesian Positions, Parallaxes, and Proper Motions Derived from the Hubble Space Telescope and Gaia Data</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5834</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5834</guid>
 <content:encoded><![CDATA[
-<div> Hubble Space Telescope, Gaia, astrometry, Bayesian pipeline, proper motion<br>
-<br>
-该研究提出了一种层次贝叶斯流程BP3M，用于测量Hubble Space Telescope（HST）图像和Gaia之间的跨匹配源的位置、视差和恒星固有运动（PM），甚至对于稀疏的场景（每幅图像的N* < 10）。该技术利用Gaia测量的天文测量作为先验来预测HST图像中源的位置，因此能够在不使用背景星系/QSO的情况下将HST图像放入全局参考框架中。通过在佛莱斯和德拉科矮星系中测试公开可用的代码，我们测量了20.5 < G < 21等级的PM，比Gaia DR3单独测量的PM精度中位数提高了8-13倍。我们能够利用合成数据来探讨BP3M天文测量对观测策略的影响，发现了一种在不增加PM不确定性的情况下改善视差和位置精度的最佳策略。在稀疏的COSMOS场景中使用1619幅HST图像（每幅图像中中位数为九个Gaia源），我们测量了2640个16 < G < 21.5等级范围内独特源的BP3M PM，其中25%没有Gaia PM；20.25 < G < 20.75等级的中位BP3M PM不确定性为0.44 mas yr−1，而Gaia的为1.03 mas yr−1；没有Gaia测量PM的源（20.75 < G < 21.5等级）的中位BP3M PM不确定性为1.16 mas yr−1。支持BP3M流程的统计数据是一种将不同图像、时代和望远镜的位置测量方式进行泛化的方法，这允许信息在调查和档案之间共享，实现比每个目录单独获得的更高天文测量精度。 <br><br>总结: 本研究提出了一种BP3M层次贝叶斯流程，用来测量Hubble Space Telescope（HST）图像和Gaia之间的跨匹配源的位置、视差和恒星固有运动（PM）。该技术在稀疏场景中也能有效工作，并且通过公开可用的代码进行了测试。使用合成数据，发现了一种改善视差和位置精度的最佳策略。在实际场景中的测试证实，BP3M PM的精度要比 Gaia DR3 高出数倍，尤其在一些等级的情况下差异尤为明显。该技术的统计手段可以将不同来源的数据进行统一处理，从而提高了天文测量的精度。 <div>
+<div> Hubble Space Telescope, Gaia, astrometry, Bayesian pipeline, proper motion<br />
+<br />
+该研究提出了一种层次贝叶斯流程BP3M，用于测量Hubble Space Telescope（HST）图像和Gaia之间的跨匹配源的位置、视差和恒星固有运动（PM），甚至对于稀疏的场景（每幅图像的N* < 10）。该技术利用Gaia测量的天文测量作为先验来预测HST图像中源的位置，因此能够在不使用背景星系/QSO的情况下将HST图像放入全局参考框架中。通过在佛莱斯和德拉科矮星系中测试公开可用的代码，我们测量了20.5 < G < 21等级的PM，比Gaia DR3单独测量的PM精度中位数提高了8-13倍。我们能够利用合成数据来探讨BP3M天文测量对观测策略的影响，发现了一种在不增加PM不确定性的情况下改善视差和位置精度的最佳策略。在稀疏的COSMOS场景中使用1619幅HST图像（每幅图像中中位数为九个Gaia源），我们测量了2640个16 < G < 21.5等级范围内独特源的BP3M PM，其中25%没有Gaia PM；20.25 < G < 20.75等级的中位BP3M PM不确定性为0.44 mas yr−1，而Gaia的为1.03 mas yr−1；没有Gaia测量PM的源（20.75 < G < 21.5等级）的中位BP3M PM不确定性为1.16 mas yr−1。支持BP3M流程的统计数据是一种将不同图像、时代和望远镜的位置测量方式进行泛化的方法，这允许信息在调查和档案之间共享，实现比每个目录单独获得的更高天文测量精度。 <br /><br />总结: 本研究提出了一种BP3M层次贝叶斯流程，用来测量Hubble Space Telescope（HST）图像和Gaia之间的跨匹配源的位置、视差和恒星固有运动（PM）。该技术在稀疏场景中也能有效工作，并且通过公开可用的代码进行了测试。使用合成数据，发现了一种改善视差和位置精度的最佳策略。在实际场景中的测试证实，BP3M PM的精度要比 Gaia DR3 高出数倍，尤其在一些等级的情况下差异尤为明显。该技术的统计手段可以将不同来源的数据进行统一处理，从而提高了天文测量的精度。 <div>
 We present a hierarchical Bayesian pipeline, BP3M, that measures positions, parallaxes, and proper motions (PMs) for cross-matched sources between Hubble Space Telescope (HST) images and Gaia—even for sparse fields (N* < 10 per image)—expanding from the recent GaiaHub tool. This technique uses Gaia-measured astrometry as priors to predict the locations of sources in HST images, and is therefore able to put the HST images onto a global reference frame without the use of background galaxies/QSOs. Testing our publicly available code in the Fornax and Draco dwarf spheroidal galaxies, we measure PMs that are a median of 8–13 times more precise than Gaia DR3 alone for 20.5 < G < 21 mag. We are able to explore the effect of observation strategies on BP3M astrometry using synthetic data, finding an optimal strategy to improve parallax and position precision at no cost to the PM uncertainty. Using 1619 HST images in the sparse COSMOS field (median nine Gaia sources per HST image), we measure BP3M PMs for 2640 unique sources in the 16 < G < 21.5 mag range, 25% of which have no Gaia PMs; the median BP3M PM uncertainty for 20.25 < G < 20.75 mag sources is 0.44 mas yr−1 compared to 1.03 mas yr−1 from Gaia, while the median BP3M PM uncertainty for sources without Gaia-measured PMs (20.75 < G < 21.5 mag) is 1.16 mas yr−1. The statistics that underpin the BP3M pipeline are a generalized way of combining position measurements from different images, epochs, and telescopes, which allows information to be shared between surveys and archives to achieve higher astrometric precision than that from each catalog alone.
 ]]></content:encoded>
-
 <pubDate>2024-09-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@ We present a hierarchical Bayesian pipeline, BP3M, that measures positions, para
 <content:encoded><![CDATA[
 <div> Class I, Flat Spectrum sources, magnetic field strength, iSHELL, photospheric lines
 
-这篇文章利用iSHELL进行了Class I和Flat Spectrum源的磁场强度调查。它发现这些源的平均磁场强度与Class II源相似，但平均重力较低。通过恒星演化模型推断，Class I和Flat Spectrum源的年龄较年轻，约为0.6百万年，比Class II星体的约3百万年要年轻。这些结果证实了Class I和Flat Spectrum源在其光球上拥有强磁场，因此很可能通过类似于更进化的T Tauri恒星的磁层吸积盘物质。<br><br>总结: 这项研究使用iSHELL对Class I和Flat Spectrum源进行了磁场强度调查，发现它们的磁场强度与Class II源相似，但重力较低。通过恒星演化模型推断，Class I和Flat Spectrum源的年龄较年轻，约为0.6百万年，比Class II星体的约3百万年要年轻。这些结果证实了Class I和Flat Spectrum源在其光球上拥有强磁场，因此很可能通过类似于更进化的T Tauri恒星的磁层吸积盘物质。 <div>
+这篇文章利用iSHELL进行了Class I和Flat Spectrum源的磁场强度调查。它发现这些源的平均磁场强度与Class II源相似，但平均重力较低。通过恒星演化模型推断，Class I和Flat Spectrum源的年龄较年轻，约为0.6百万年，比Class II星体的约3百万年要年轻。这些结果证实了Class I和Flat Spectrum源在其光球上拥有强磁场，因此很可能通过类似于更进化的T Tauri恒星的磁层吸积盘物质。<br /><br />总结: 这项研究使用iSHELL对Class I和Flat Spectrum源进行了磁场强度调查，发现它们的磁场强度与Class II源相似，但重力较低。通过恒星演化模型推断，Class I和Flat Spectrum源的年龄较年轻，约为0.6百万年，比Class II星体的约3百万年要年轻。这些结果证实了Class I和Flat Spectrum源在其光球上拥有强磁场，因此很可能通过类似于更进化的T Tauri恒星的磁层吸积盘物质。 <div>
 We perform the first magnetic field strength survey of Class I and Flat Spectrum (FS) sources using K-band observations with iSHELL. We obtained new observations of 42 Class I and FS sources and additionally included 10 sources from the archive. We detect photospheric lines in 44 of the sources, in addition to Brγ, H2, and CO emission in several objects. We model the photospheric absorption lines of 32 Class I and FS sources and measure their magnetic field strengths, K-band temperatures, gravities, projected rotational velocities, and infrared veiling values. We put the physical properties of Class I and FS sources in context by comparing them to the values derived for a sample of Class II sources. We find that (a) the average magnetic field strength of Class I and FS sources 〈B〉 = 2.0 ± 0.15 kG is consistent with the average magnetic field strength of Class II sources 〈B〉 = 1.8 ± 0.15 kG, and (b) the average gravity of Class I and FS objects is lower than the average gravity of Class II sources , although there is significant overlap between both gravity distributions. Furthermore, using stellar evolutionary models, we deduce that Class I and FS sources have a median age of ∼0.6 Myr, and are, as a group, younger than the Class II stars with a median age of ∼3 Myr. Our results confirm that Class I and FS sources host strong magnetic fields on their photospheres. Thus, it is likely that these sources accrete disk material through a magnetosphere similar to the more evolved T Tauri stars.
 ]]></content:encoded>
-
 <pubDate>2024-09-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,13 +36,11 @@ We perform the first magnetic field strength survey of Class I and Flat Spectrum
 <content:encoded><![CDATA[
 <div> 开源工具，吸收线特征，冷气体，模拟研究，吸收线观测
 
-总结:<br><br>CloudFlex是一个开源工具，用于预测星系暗云中冷气体吸收线的特征，可以根据多个参数设置模拟吸收线的质量、大小和速度分布。使用该工具可以预测在星系周围形成的吸收线分布，得出了一些结论，例如随着云团数密度和复杂结构尺寸的减小，具有相同金属丰度的观测视线中等效宽度小于0.3 Å的出现频率显著增加。这个工具还可以帮助详细约束构成光电离星系周围介质的结构大小和速度分布。 <div>
+总结:<br /><br />CloudFlex是一个开源工具，用于预测星系暗云中冷气体吸收线的特征，可以根据多个参数设置模拟吸收线的质量、大小和速度分布。使用该工具可以预测在星系周围形成的吸收线分布，得出了一些结论，例如随着云团数密度和复杂结构尺寸的减小，具有相同金属丰度的观测视线中等效宽度小于0.3 Å的出现频率显著增加。这个工具还可以帮助详细约束构成光电离星系周围介质的结构大小和速度分布。 <div>
 We present CloudFlex, an open-source tool for predicting absorption-line signatures of cool gas in galaxy halos with small-scale structure. Motivated by analyses of ∼104 K material in hydrodynamical simulations of turbulent, multiphase media, we model cool gas structures as complexes of cloudlets sampled from a power-law distribution of mass with velocities drawn from a turbulent velocity field. The user may specify α, the lower limit of the cloudlet mass distribution ( ), and several other parameters that set the mass, size, and velocity distribution of the complex. This permits investigation of the relation between these parameters and absorption-line observables. As a proof-of-concept, we calculate the Mg iiλ2796 absorption induced by the cloudlets in background quasi-stellar object (QSO) spectra. We demonstrate that, at fixed metallicity, the covering fraction of sight lines with equivalent widths W2796 < 0.3 Å increases significantly with decreasing , cloudlet number density (ncl), and complex size. We then use this framework to predict the halo-scale W2796 distribution around ∼L* galaxies. We show that the observed incidences of W2796 > 0.3 Å sight lines with impact parameters 10 kpc < R⊥ < 50 kpc in projected QSO–galaxy studies are consistent with our model over much of parameter space. However, they are underpredicted by models with and ncl ≥ 0.03 cm−3, in keeping with a picture in which the inner cool circumgalactic medium (CGM) is dominated by numerous low-mass cloudlets (mcl ≲ 100M⊙) with a volume filling factor ≲1%. When used to model absorption-line data sets built from multi-sight line and/or spatially extended background probes, CloudFlex enables detailed constraints on the size and velocity distributions of structures comprising the photoionized CGM.
 ]]></content:encoded>
-
 <pubDate>2024-09-02T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Force-free Wave Interaction in Magnetar Magnetospheres: Computational Modeling in Axisymmetry</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c4</link>
@@ -11782,41 +11779,6 @@ An essential factor for determining the characteristics of an accretion flow is 
 <br /><br />总结:
 研究了从纤细盘中喷射出相对论性喷流的机制。在纤细盘中，辐射压力占主导地位，辐射能量沿垂直方向的压力梯度流动。辐射通量的散度告诉我们，从近赤道平面的底层流向上边界面上方的另一层的辐射能量流被吸收。吸收的能量随着物质向内移动而在上层累积，计算表明，当通过上层的流量相对较低时，上层流的比能量在黑洞附近可以达到∼c2。由于比能量∼c2远远大于引力能量，当几乎所有角动量被移除后，上层的最内部部分的高度可能显着增加。因此，上层的最内部部分在几乎所有角动量被移除后的高度可能远远大于黑洞的大小，并且流动可能会在盘的中央轴周围相互碰撞，从轴向反弹，同时沿着轴向扩展。预计流动沿着中央轴向外流，并由于其横截面的改变而变得超音速，最终产生相对论性喷流。 <div>
 A mechanism for the ejection of relativistic jets from slim disks is studied. Since radiation pressure is dominant in the slim disk, radiative energy flows along the pressure gradient in the vertical direction. The divergence of the radiative flux tells us that the flow of radiative energy from a bottom layer near the equatorial plane is absorbed by another layer above the boundary surface. The absorbed energy accumulates in the upper layer as the matter advances inward, and calculations show that the specific energy of the flow in the upper layer can be as large as ∼c2 near the black hole when the accretion rate through the upper layer is relatively low. Since the specific energy ∼c2 is much larger than the gravitational energy, the height of the upper layer could significantly increase then. Hence, the innermost part of the upper layer after almost all the angular momentum has been removed could have a much greater height than the size of the black hole, and the flow could collide with itself around the central axis of the disk, bouncing back from the axis while simultaneously expanding along it. The flow is expected to go outward along the central axis and to become supersonic due to the change in its cross section, finally producing relativistic jets.
-]]></content:encoded>
-<pubDate>2024-05-12T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Oscillating Dark Energy in Light of the Latest Observations and Its Impact on the Hubble Tension</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3963</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3963</guid>
-<content:encoded><![CDATA[
-<div> Dark energy, oscillating models, Metropolis algorithm, Akaike information criterion, Hubble tension
-<br /><br />总结:
-本文通过马尔可夫链蒙特卡洛的Metropolis算法对不同类型的振荡暗能量(DE)模型进行了比较研究。文中考察了八种不同的振荡参数化模型，这些模型已经表现出相当的能力来适应整体宇宙观测，包括Ia型超新星Pantheon样本、宇宙学原初黑体辐射的距离先验等。作者使用了Akaike信息准则和偏差信息准则来比较这些模型与观测数据的一致性。结果表明，这些模型能够解决宇宙巧合问题并缓解哈勃张力。此外，文中还讨论了根据SHoES的测量结果对模型进行修正得到的Hubble常数值的变化。  <div>
-In this paper, we have performed a comparative study of different types of oscillating dark energy (DE) models using the Metropolis algorithm of Markov Chain Monte Carlo. Eight different oscillating parameterizations are examined herein that have demonstrated considerable ability to fit the overall cosmological observations, including the Pantheon sample of Type Ia supernovae, baryon acoustic oscillations, cosmic chronometer Hubble data, and distance priors of the Planck cosmic microwave background. In order to compare the consistency of these models with observations, we have used both the Akaike and deviance information criteria. Although the values of the Akaike information criterion for different models indicate that there is no support for oscillating DE models, the deviance information criterion showed that there is significant support for some of these models. Our results showed that these models are capable of solving the cosmic coincidence problem and alleviating the Hubble tension. Comparing the H0 values obtained for different oscillating scenarios with that of ΛCDM, we observed that our oscillating models led to , which is 0.29 greater than H0,Λ and thus reduces the Hubble tension. Among all of the models, model 1, with H0 = 70.00 ± 0.71, is the most capable of alleviating the H0 tension. Furthermore, we examined our models assuming H0 = 73.0 ± 1.4 from SHoES measurements. We find that adding this data point to our data combination led to a increase in the H0 value for different models.
-]]></content:encoded>
-<pubDate>2024-05-12T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Forming Mercury from Excited Initial Conditions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad39e6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad39e6</guid>
-<content:encoded><![CDATA[
-<div> Mercury, formation, simulations, Solar System, collisions
-总结：<br /><br /> 近期研究发现在水星轨道附近添加额外的胚胎可以更成功地形成类似水星的天体。研究目的是通过模拟太阳系的形成过程，并考虑巨大行星木星和土星的存在来形成水星。研究发现，在模拟过程中，具有核质量分数（CMFs）大于0.4的水星类似物在约10％的模拟中形成，两倍于此数目的水星类似物在形成过程中不稳定并未持续到模拟结束。大部分水星类似物的CMFs低于水星的0.7，这是由于显著的碎片物质吸积所致。研究建议需要更深入地了解碎片物质在碰撞磨粒过程中的流失比例，以便更好地理解水星的形成过程，或者需要其他机制来阻止这些碎片物质的吸积。 <div>
-Mercury is notoriously difficult to form in Solar System simulations, due to its small mass and iron-rich composition. Smooth particle hydrodynamics simulations of collisions have found that a Mercury-like body could be formed by one or multiple giant impacts, but due to the chaotic nature of collisions, it is difficult to create a scenario where such impacts will take place. Recent work has found more success forming Mercury analogues by adding additional embryos near Mercury’s orbit. In this work, we aim to form Mercury by simulating the formation of the Solar System in the presence of the giant planets Jupiter and Saturn. We test out the effect of an inner disk of embryos added on to the commonly used narrow annulus of initial material. We form Mercury analogues with core-mass fractions (CMFs) > 0.4 in ∼10% of our simulations, and twice that number of Mercury analogues form during the formation process but are unstable and do not last to the end of the simulations. Mercury analogues form at similar rates for both disks with and without an inner component, and most of our Mercury analogues have lower CMFs than that of Mercury, ∼0.7, due to significant accretion of debris material. We suggest that a more in-depth understanding of the fraction of debris mass that is lost to collisional grinding is necessary to understand Mercury’s formation, or some additional mechanism is required to stop this debris from accreting.
-]]></content:encoded>
-<pubDate>2024-05-12T23:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Formation of the W-shaped O ii Lines in Spectra of Type I Superluminous Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad39e8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad39e8</guid>
-<content:encoded><![CDATA[
-<div> 关键词: H-poor Type I超明亮超新星, W形O ii线, 合成光谱, 温度, 非热电离率<br />
-<br />总结:
-本研究通过系统计算合成光谱，重现了八颗H-poor Type I超明亮超新星的观测光谱。研究发现，W形O ii线的形成对温度敏感，需要在T ∼ 14,000–16,000 K的范围内才能产生而不需要大的偏离。而W形O ii线的出现对于非热电离率也有约束作用，可以为SLSNe I的能量来源提供独立的约束。因此，SLSNe I的光谱特征可以通过非热电离率对能量来源进行独立约束。 <div>
-H-poor Type I superluminous supernovae (SLSNe I) are characterized by O ii lines around 4000–4500 Å in pre-/near-maximum spectra, the so-called W-shaped O ii lines. As these lines are from relatively high excitation levels, they have been considered a sign of nonthermal processes, which may provide a hint of the power sources of SLSNe I. However, the conditions for these lines to appear have not been well understood. In this work, we systematically calculate synthetic spectra to reproduce the observed spectra of eight SLSNe I, parameterizing departure coefficients from the nebular approximation in the supernova ejecta (expressed as bneb). We find that most of the observed spectra can be well reproduced with bneb ≲ 10, which means that no strong departure is necessary for the formation of the W-shaped O ii lines. We also show that the appearance of the W-shaped O ii lines is sensitive to temperature; only spectra with temperatures in the range of T ∼ 14,000–16,000 K can produce the W-shaped O ii lines without large departures. Based on this, we constrain the nonthermal ionization rate near the photosphere. Our results suggest that spectral features of SLSNe I can give independent constraints on the power source through the nonthermal ionization rates.
 ]]></content:encoded>
 <pubDate>2024-05-12T23:00:00Z</pubDate>
 </item>
