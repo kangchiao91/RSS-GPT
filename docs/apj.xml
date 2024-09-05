@@ -4,6 +4,59 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Probing the Spectrum of the Magnetar 4U 0142+61 with JWST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce5</guid>
+<content:encoded><![CDATA[
+<div> 关键词: JWST, magnetar, MIRI, NIRCam, power-law model<br>
+总结: <br>
+JWST使用MIRI和NIRCam仪器对磁星4U 0142+61进行了观测。结果显示该磁星的光谱可以用吸收功率模型描述，不支持之前基于Spitzer光度提出的被动盘模型。研究者认为这些发现可能是由于非热源和观测时间的变化。另外，JWST的观测结果与NuSTAR的硬X射线光谱比较显示，X射线和红外非热发射可能来自磁星磁层中的不同区域。 <div>
+JWST observed the magnetar 4U 0142+61 with the Mid-Infrared Instrument (MIRI) and Near Infrared Camera (NIRCam) instruments within a 77 minute time interval on 2022 September 20–21. The low-resolution MIRI spectrum and NIRCam photometry show that the spectrum in the wavelength range 1.4–11 μm range can be satisfactorily described by an absorbed power-law (PL) model, fν ∝ ν−α, with a spectral slope α = 0.96 ± 0.02, interstellar extinction AV = 3.9 ± 0.2, and normalization f0 = 59.4 ± 0.5 μJy at λ = 8 μm. These observations do not support the passive disk model proposed in 2006 by Wang, Chakrabarty and Kaplan, based on Spitzer photometry, which was interpreted as evidence for a fallback disk from debris formed during the supernova explosion. We suggest a nonthermal origin for this emission and source variability as the most likely cause of discrepancies between the JWST data and other IR-optical observing campaigns. However, we cannot firmly exclude the presence of a large disk with a different dependence of the effective disk temperature on distance from the magnetar. Comparison with the PL fit to the hard X-ray spectrum above 10 keV, measured by the NuSTAR contemporaneously with JWST, shows that the X-ray spectrum is significantly harder. This may imply that the X-ray and IR nonthermal emission come from different sites in the magnetosphere of the magnetar.
+]]></content:encoded>
+
+<pubDate>2024-09-04T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Gaussian Process Approach for Model-independent Reconstruction of f(Q) Gravity with Direct Hubble Measurements</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf4</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Lagrangian, Gaussian process, Hubble measurements, ΛCDM, f(Q) parameterization
+
+总结: 
+该研究探讨了在引力修正理论中选择Lagrangian函数形式的标准程序的差异增加的问题，并提出了使用高斯过程来消除这一问题的方法。研究使用宇宙年代计和径向宇宙学声学振荡的58个哈勃测量来重建Hubble参数H(z)及其导数和H″(z)，从而在不做任何假设的情况下重建了f(Q)的区域。得到的平均曲线沿着Lambda冷暗物质(ΛCDM)常数在重建区域内呈现二次行为，这促使提出了一个新的f(Q)参数化，即f(Q) = −2Λ + ϵQ2，其中ϵ是一个单一参数，表示与ΛCDM宇宙学的偏差。此外，对比重建区域，探讨了广泛研究的幂律和指数f(Q)模型，并且大大改善了对参数空间的观测分析。此外，直接的哈勃测量以及重建的f(Q)函数使得H0张力得以缓解。 <div>
+The increase of discrepancy in the standard procedure to choose the arbitrary functional form of the Lagrangian f(Q) motivates us to solve this issue in modified theories of gravity. In this regard, we investigate the Gaussian process, which allows us to eliminate this issue in an f(Q) model-independent way. In particular, we use the 58 Hubble measurements coming from cosmic chronometers and the radial Baryon acoustic oscillations to reconstruct H(z) and its derivatives and H″(z), which leads us to reconstruct the region of f(Q), without any assumptions. The obtained mean curve along the Lambda Cold Dark Matter (ΛCDM) constant in the reconstructed region follows a quadratic behavior. This motivates us to propose a new f(Q) parameterization, i.e., f(Q) = −2Λ + ϵQ2, with the single parameter ϵ, which signifies the deviations from ΛCDM cosmology. Further, we probe the widely studied power-law and exponential f(Q) models against the reconstructed region and can improve the parameter spaces significantly compared with observational analysis. In addition, the direct Hubble measurements, along with the reconstructed f(Q) function, allow the H0 tension to be alleviated.
+]]></content:encoded>
+
+<pubDate>2024-09-04T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Retrieving Young Cloudy L Dwarfs: A Nearby Planetary-mass Companion BD+60 1417B and its Isolated Red Twin W0047</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d57</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d57</guid>
+<content:encoded><![CDATA[
+<div> L dwarfs, retrieval analysis, elemental abundance measurements, K-dwarf, cloud model <br>
+总结: 
+这是一篇关于对年轻的、多云的红色L矮星进行大气检索分析的文章。研究使用了Brewster检索框架，并对年轻K矮星进行了首次元素丰度测量。研究发现在存在凝结云物种的复杂多云L矮星区域，只有近红外数据时，检索分析变得更加困难。尽管测试了三种不同的热剖面参数化，我们仍然无法约束可靠的丰度测量，因此无法确定碳氧比。然而，数据强烈支持云模型而不是无云模型。无论检查的数据的信噪比如何（CWISER BD+60 1417B的S/N约为10，W0047的S/N约为40），检索约束的困难依然存在。这项工作为检索年轻、低表面重力多云L矮星提供了宝贵的经验教训。这项研究进一步证明了模型中存在信息缺失的现象，并迫切需要JWST来指导和提供这一区域的检索分析。 <br> <div>
+We present an atmospheric retrieval analysis on a set of young, cloudy, red L dwarfs—CWISER J124332.12+600126.2 (BD+60 1417B) and WISEP J004701.06+680352.1 (W0047)—using the Brewster retrieval framework. We also present the first elemental abundance measurements of the young K-dwarf (K0) host star, BD+60 1417, using high-resolution (R = 50,000) spectra taken with the Potsdam Echelle Polarimetric and Spectroscopic Instrument on the Large Binocular Telescope. In the complex cloudy L-dwarf regime the emergence of condensate cloud species complicates retrieval analysis when only near-infrared data are available. We find that for both L dwarfs in this work, despite testing three different thermal profile parameterizations we are unable to constrain reliable abundance measurements and thus the carbon-to-oxygen ratio. While we cannot conclude what the abundances are, we can conclude that the data strongly favor a cloud model over a cloudless model. We note that the difficulty in retrieval constraints persists regardless of the signal-to-noise ratio of the data examined (S/N ∼ 10 for CWISER BD+60 1417B and 40 for WISEP W0047). The results presented in this work provide valuable lessons about retrieving young, low-surface-gravity cloudy L dwarfs. This work provides continued evidence of missing information in models and the crucial need for JWST to guide and inform retrieval analysis in this regime.
+]]></content:encoded>
+
+<pubDate>2024-09-04T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Multispecies Energetic Particle Acceleration Associated with CIR and ICME-driven Shocks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad614e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad614e</guid>
+<content:encoded><![CDATA[
+<div> CIR, energetic particles, shock, flux enhancement, turbulence power
+<br>
+在这篇文章中，研究了1 AU处的多种能量粒子强度增强事件。识别为一个包括流界面、正反冲击对和嵌入的太阳圈电流片的共旋相互作用区（CIR）结构。文章指出CIR事件的显著特征是：高能（>1 MeV）离子在CIR结构的反波（RW）/冲击处显示了明显的通量增强，这似乎取决于能量。此外，40.5-520 keV能量范围的电子在通过SI和HCS区域后立即加速，并在RW处仅高能电子（约520 keV）显示出明显的局部通量增强。CIR结构后面是由日冕物质抛射（CME）驱动的快速垂直冲击，观察到低能质子和高能电子的通量显著增强。特别地，210-330 keV质子和180-520 keV电子的通量增加了约2个数量级。文章进一步提出，SI和RW处湍流的增加可能是不同物种观察到的通量增强的重要因素。另外，在RW附近存在离子尺度波动，这表明共振波-粒子相互作用可能是高能质子和离子尺度波之间高效的能量转移器。<br><br>总结：本文研究了1 AU处CIR结构引起的能量粒子强度增强事件。主要观察到高能离子在反波/冲击处通量增强，与能量相关；低能电子通过SI和HCS区域后立即加速，RW处仅高能电子显示通量增强；CIR结构后面的ICME驱动冲击显著增加了低能质子和高能电子的通量。文章进一步指出SI和RW处湍流的增加可能是不同物种通量增强的重要因素，同时离子尺度波动可能是高能质子和离子间高效能量转移的关键。 <div>
+A multispecies energetic particle intensity enhancement event at 1 au is analyzed. We identify this event as a corotating interaction region (CIR) structure that includes a stream interface (SI), a forward-reverse shock pair, and an embedded heliospheric current sheet (HCS). The distinct feature of this CIR event is that (1) the high-energy (>1 MeV) ions show significant flux enhancement at the reverse wave (RW)/shock of the CIR structure, following their passage through the SI and HCS. The flux amplification appears to depend on the energy per nucleon. (2) Electrons in the energy range of 40.5–520 keV are accelerated immediately after passing through the SI and HCS regions, and the flux quickly reaches a peak for low-energy electrons. At the RW, only high-energy electrons (∼520 keV) show significant local flux enhancement. The CIR structure is followed by a fast-forward perpendicular shock driven by a coronal mass ejection (CME), and we observed a significant flux enhancement of low-energy protons and high-energy electrons. Specifically, the 210–330 keV proton and 180–520 keV electron fluxes are enhanced by approximately 2 orders of magnitude. This suggests that the later ICME-driven shock may accelerate particles out of the suprathermal pool. In this paper, we further present that for CIR-accelerated particles, the increase in turbulence power at SI and RWs may be an important factor for the observed flux enhancement in different species. The presence of ion-scale waves near the RW, as indicated by the spectral bump near the proton gyrofrequency, suggests that the resonant wave–particle interaction may act as an efficient energy transferrer between energetic protons and ion-scale waves.
+]]></content:encoded>
+
+<pubDate>2024-09-04T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Detailed Time-resolved and Energy-resolved Spectro-polarimetric Study of Bright Gamma-Ray Bursts Detected by AstroSat CZTI in Its First Year of Operation</title>
