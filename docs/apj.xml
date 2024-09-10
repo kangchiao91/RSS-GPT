@@ -4,22 +4,21 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Time Series of Magnetic Field Parameters of Merged MDI and HMI Space-weather Active Region Patches as Potential Tool for Solar Flare Forecasting</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c3</guid>
 <content:encoded><![CDATA[
 <div> Solar flare prediction, Space-Weather MDI, SHARP, combined data, statistical analysis
-<br>
+<br />
 这篇文章介绍了最近利用Space-Weather MDI和Space-Weather HMI的数据来进行太阳耀斑预测的研究。研究将这两种数据进行了合并，进行了初步的统计分析，以扩大它们在太空天气预报中的应用。通过滤波、重新调整和合并SMARP和SHARP参数，得出了一组多变量时间序列数据。通过时间滞后交叉相关分析表明，太阳活动区的某些磁场特性可能领先于耀斑指数。滚动窗口技术的初步结果显示，高相关性的区域通常对应于太阳活动周期的高峰期。这个组合的MDI-HMI数据集对于研究太阳耀斑预测具有重要意义。 
-<br><br>总结: 
+<br /><br />总结: 
 太阳耀斑预测的最新研究使用了Space-Weather MDI和SHARP数据，并将它们合并成一种数据产品。通过时间序列分析发现，太阳活动区的磁场特性可能领先于耀斑指数。研究结果显示，在太阳活动周期的高峰期，太阳活动区的高相关性区域对应于耀斑活动的增加。这对于太阳耀斑的预测具有重要意义。 <div>
 Solar flare prediction studies have been recently conducted with the use of Space-Weather MDI (Michelson Doppler Imager on board Solar and Heliospheric Observatory) Active Region Patches (SMARPs) and Space-Weather HMI (Helioseismic and Magnetic Imager on board Solar Dynamics Observatory) Active Region Patches (SHARPs), which are two currently available data products containing magnetic field characteristics of solar active regions (ARs). The present work is an effort to combine them into one data product, and perform some initial statistical analyses in order to further expand their application in space-weather forecasting. The combined data are derived by filtering, rescaling, and merging the SMARP and SHARP parameters, which can then be spatially reduced to create uniform multivariate time series. The resulting combined MDI–HMI data set currently spans the period between 1996 April 4 and 2022 December 13, and may be extended to a more recent date. This provides an opportunity to correlate and compare it with other space-weather time series, such as the daily solar flare index or the statistical properties of the soft X-ray flux measured by the Geostationary Operational Environmental Satellites. Time-lagged cross correlation indicates that a relationship may exist, where some magnetic field properties of ARs lead the flare index in time. Applying the rolling-window technique makes it possible to see how this leader–follower dynamic varies with time. Preliminary results indicate that areas of high correlation generally correspond to increased flare activity during the peak solar cycle.
 ]]></content:encoded>
-
 <pubDate>2024-09-09T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>GRB 190114C: Fireball Energy Budget and Radiative Efficiency Revisited</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad2511</link>
@@ -11819,18 +11818,6 @@ Modern cosmology presents important challenges such as the Hubble Tension, El Go
 总结:<br />
 这篇文章研究了 Milky Way 大小的盘状星系的热环绕星系介质的气体动力学。通过合成观测，发现热相通常表现为从盘状星系中的反馈过程驱动的流出、近银河平面的径向流入和旋转。而在一些系统中，速度场更加无序和湍流。文章指出，具有约1电子伏的光谱分辨率可以测量快速且炽热的流出（约200-500千米/秒），旋转速度可以通过边缘星系的线偏移来测量（约100-200千米/秒），而缓慢的流入（约50-100千米/秒）则较难在投影中测量，但可以通过多组分光谱拟合来检测。文章还强调了对测量速度的敏感性取决于使用的发射线，指出测量这些流动将限制这些星系中气体演化的理论。 <div>
 The hot, X-ray-emitting phase of the circumgalactic medium of massive galaxies is believed to be the reservoir of baryons from which gas flows onto the central galaxy and into which feedback from active galactic nuclei and stars inject mass, momentum, energy, and metals. These effects shape the velocity fields of the hot gas, which can be observed via the Doppler shifting and broadening of emission lines by X-ray integral field units. In this work, we analyze the gas kinematics of the hot circumgalactic medium of Milky Way–mass disk galaxies from the TNG50 simulation with synthetic observations to determine how future instruments can probe this velocity structure. We find that the hot phase is often characterized by outflows from the disk driven by feedback processes, radial inflows near the galactic plane, and rotation, although in some systems the velocity field is more disorganized and turbulent. With a spectral resolution of ∼1 eV, fast and hot outflows (∼200–500 km s−1) can be measured, depending on the orientation of the galaxy on the sky. The rotation velocity of the hot phase (∼100–200 km s−1) can be measured using line shifts in edge-on galaxies, and is slower than that of colder gas phases but similar to stellar rotation velocities. By contrast, the slow inflows (∼50–100 km s−1) are difficult to measure in projection with these other components, but may be detected in multicomponent spectral fits. We find that the velocity measured is sensitive to which emission lines are used. Measuring these flows will constrain theories of how the gas in these galaxies evolves.
-]]></content:encoded>
-<pubDate>2024-05-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>All-sky Search for Transient Astrophysical Neutrino Emission with 10 Years of IceCube Cascade Events</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3730</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3730</guid>
-<content:encoded><![CDATA[
-<div> IceCube, neutrino flares, data set, upper limits, diffuse astrophysical neutrino flux
-总结:
-IceCube在2011年至2021年5月收集了数据，用于搜索天空中的中微子闪耀现象。数据集包含源自带电电子中微子和τ中微子相互作用以及全味道中微子中性电流相互作用的级联样式事件。这些数据与以前的全部天空搜索中使用的轨迹样式事件数据集在统计上是独立的。虽然角分辨率较低，但由于低背景特性，级联数据集具有竞争力，并且与之前的搜索方法相辅相成。在进行全天扫描时没有观察到明显的中微子发射闪耀现象。针对不同持续时间的中微子闪耀制定了上限。此外，还提出了关于这些闪耀对漫射天体中微子流的贡献的限制，表明多个未解决的瞬变源可能会对漫射天体中微子流做出贡献。 <div>
-Neutrino flares in the sky are searched for in data collected by IceCube between 2011 and 2021 May. This data set contains cascade-like events originating from charged-current electron neutrino and tau neutrino interactions and all-flavor neutral-current interactions. IceCube’s previous all-sky searches for neutrino flares used data sets consisting of track-like events originating from charged-current muon neutrino interactions. The cascade data set is statistically independent of the track data sets, and while inferior in angular resolution, the low-background nature makes it competitive and complementary to previous searches. No statistically significant flare of neutrino emission was observed in an all-sky scan. Upper limits are calculated on neutrino flares of varying duration from 1 hr to 100 days. Furthermore, constraints on the contribution of these flares to the diffuse astrophysical neutrino flux are presented, showing that multiple unresolved transient sources may contribute to the diffuse astrophysical neutrino flux.
 ]]></content:encoded>
 <pubDate>2024-05-15T23:00:00Z</pubDate>
 </item>
