@@ -4,6 +4,21 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Time Series of Magnetic Field Parameters of Merged MDI and HMI Space-weather Active Region Patches as Potential Tool for Solar Flare Forecasting</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c3</guid>
+<content:encoded><![CDATA[
+<div> Solar flare prediction, Space-Weather MDI, SHARP, combined data, statistical analysis
+<br>
+这篇文章介绍了最近利用Space-Weather MDI和Space-Weather HMI的数据来进行太阳耀斑预测的研究。研究将这两种数据进行了合并，进行了初步的统计分析，以扩大它们在太空天气预报中的应用。通过滤波、重新调整和合并SMARP和SHARP参数，得出了一组多变量时间序列数据。通过时间滞后交叉相关分析表明，太阳活动区的某些磁场特性可能领先于耀斑指数。滚动窗口技术的初步结果显示，高相关性的区域通常对应于太阳活动周期的高峰期。这个组合的MDI-HMI数据集对于研究太阳耀斑预测具有重要意义。 
+<br><br>总结: 
+太阳耀斑预测的最新研究使用了Space-Weather MDI和SHARP数据，并将它们合并成一种数据产品。通过时间序列分析发现，太阳活动区的磁场特性可能领先于耀斑指数。研究结果显示，在太阳活动周期的高峰期，太阳活动区的高相关性区域对应于耀斑活动的增加。这对于太阳耀斑的预测具有重要意义。 <div>
+Solar flare prediction studies have been recently conducted with the use of Space-Weather MDI (Michelson Doppler Imager on board Solar and Heliospheric Observatory) Active Region Patches (SMARPs) and Space-Weather HMI (Helioseismic and Magnetic Imager on board Solar Dynamics Observatory) Active Region Patches (SHARPs), which are two currently available data products containing magnetic field characteristics of solar active regions (ARs). The present work is an effort to combine them into one data product, and perform some initial statistical analyses in order to further expand their application in space-weather forecasting. The combined data are derived by filtering, rescaling, and merging the SMARP and SHARP parameters, which can then be spatially reduced to create uniform multivariate time series. The resulting combined MDI–HMI data set currently spans the period between 1996 April 4 and 2022 December 13, and may be extended to a more recent date. This provides an opportunity to correlate and compare it with other space-weather time series, such as the daily solar flare index or the statistical properties of the soft X-ray flux measured by the Geostationary Operational Environmental Satellites. Time-lagged cross correlation indicates that a relationship may exist, where some magnetic field properties of ARs lead the flare index in time. Applying the rolling-window technique makes it possible to see how this leader–follower dynamic varies with time. Preliminary results indicate that areas of high correlation generally correspond to increased flare activity during the peak solar cycle.
+]]></content:encoded>
+
+<pubDate>2024-09-09T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>GRB 190114C: Fireball Energy Budget and Radiative Efficiency Revisited</title>
