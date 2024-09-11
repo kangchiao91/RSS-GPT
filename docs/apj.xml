@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Red Type-1 Quasars after Cosmic Noon and Impact on L UV-related Quasar Statistics</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d5d</link>
@@ -13,14 +14,12 @@
 
 在过去几十年中，近百万个类星体被研究，以阐明超大质量黑洞和星系的演化过程。其中，一型类星体的紫外至光学光谱特别能够揭示它们的黑洞活动情况。然而，最近的发现引发了对红色一型类星体普遍性的质疑，它们的颜色可能是由于尘埃遮挡，并且可能影响类星体的光度相关特性。本文研究了红移范围为0.68 ≤ z < 2.20的一型类星体中红色类星体的比例，应用了斯隆数字化巡天数据第14版的光学至中红外光度数据进行光谱能量分布拟合。大约10%的一型类星体呈现红色，暗示存在尘埃遮挡。我们发现中红外光度与红色一型类星体的比例存在关联，尽管红移进化较小。通过使用SED拟合得到的E(B−V)值，我们获得了红色一型类星体的消光光度，重新评估了类星体光度函数（QLF）和黑洞质量（MBH）的估计。结果显示明亮类星体的数量密度适度增加，与QLF的明亮端坡度更加平缓相关，而MBH的调整则很小。目前的SDSS选择与光学颜色可能忽略了大量严重遮挡的类星体。随着未来MIR（中红外）调查的扩展，如“宇宙历史、再电离时期和冰冰探索者的光谱光度计”，它们可能会揭示足够多的遮挡类星体，促使对基本类星体特性进行更深入的修订。
 
-<br><br>总结:
+<br /><br />总结:
 文章总结了对近百万个一型类星体的研究，探讨了它们对超大质量黑洞和星系演化的揭示。特别关注了红色一型类星体的比例，并通过光度数据和光谱能量分布拟合得到了一些新的结论。同时指出目前的选择方法可能会忽略一些严重遮挡的类星体，未来的调查可能会对基本类星体特性进行更深入的修订。 <div>
 Over the past decades, nearly a million quasars have been explored to shed light on the evolution of supermassive black holes and galaxies. The ultraviolet-to-optical spectra of type-1 quasars particularly offer insights into their black hole activities. Recent findings, however, raise questions about the prevalence of red type-1 quasars of which colors might be due to dust obscuration and their potential influence on luminosity-related properties of quasars. We examine the fraction of red type-1 quasars within the redshift range of 0.68 ≤ z < 2.20, applying a spectral energy distribution (SED) fitting using optical-to-mid-infrared (MIR) photometric data of Sloan Digital Sky Survey Data Release 14 quasars. Approximately 10% of the type-1 quasars exhibit red colors suggestive of dust obscuration. There is an association between the brightness of the MIR luminosity and a higher fraction of red type-1 quasars, albeit with negligible redshift evolution. By employing E(B − V) values from the SED fitting, we obtained dereddened luminosity of the red type-1 quasars and reassess the quasar luminosity function (QLF) and black hole mass (MBH) estimates. Result shows a modest increase in the number density of bright quasars, linking to more flatten bright-end slope of QLFs, while MBH adjustments are minimal. Current SDSS selections with optical colors could miss a significant population of heavily dust-obscured quasars. As future MIR surveys like Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer expand, they may reveal enough obscured quasars to prompt a more profound revision of fundamental quasar properties.
 ]]></content:encoded>
-
 <pubDate>2024-09-10T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Testing the ΛCDM Cosmological Model with Forthcoming Measurements of the Cosmic Microwave Background with SPT-3G</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ff1</link>
@@ -11811,18 +11810,6 @@ The nonresonant streaming instability (Bell instability) plays a pivotal role in
 <div> 黑洞，AGN，磁流体动力学，双黑洞，吸积盘
 <br /><br />通过3D广义相对论磁流体动力学仿真，研究了倾斜轨道上的黑洞与厚的AGN磁性阻尼吸积盘的相互作用。结果显示，次级黑洞会使射流产生2-4倍的非束缚质量流出率，在更大距离后融合为更连续的流出。另外，首次自洽地展示了主黑洞旋转与双黑洞轨道角动量之间的自旋轨道耦合会显著改变吸积盘和射流的方向，长时间内会产生60°-80°的进动。这一现象可能为厚AGN吸积盘持续进动提供了强有力的证据，并且表明如果在这样的系统中观察到这一效应，可能存在次级黑洞伴星。总体上，次级黑洞对盘的时间平均属性和主黑洞的吸积率影响微乎其微，与我们对扰动厚盘的估计一致。需要注意的是，在冷却的薄盘情况下，情况可能会发生显著变化。 <div>
 Perturber objects interacting with supermassive black hole accretion disks are often invoked to explain observed quasiperiodic behavior in active galactic nuclei (AGN). We present global, 3D general relativistic magnetohydrodynamic (GRMHD) simulations of black holes on inclined orbits colliding with magnetically arrested thick AGN disks using a binary black hole spacetime with mass ratio 0.1. We do this by implementing an approximate time-dependent binary black hole metric into the GRMHD Athena++ code. The secondary enhances the unbound mass outflow rate 2–4 times above that provided by the disk in quasiperiodic outbursts, eventually merging into a more continuous outflow at larger distances. We present a simple analytic model that qualitatively agrees well with this result and can be used to extrapolate to unexplored regions of parameter space. We show self-consistently for the first time that spin–orbit coupling between the primary black hole spin and the binary orbital angular momentum causes the accretion disk and jet directions to precess significantly (by 60°–80°) on long timescales (e.g., ∼20 times the binary orbital period). Because this effect may be the only way for thick AGN disks to consistently precess, it could provide strong evidence of a secondary black hole companion if observed in such a system. Besides this new phenomenology, the time-average properties of the disk and accretion rates onto the primary are only marginally altered by the presence of the secondary, consistent with our estimate for a perturbed thick disk. This situation might drastically change in cooled thin disks.
-]]></content:encoded>
-<pubDate>2024-05-19T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Transitory Tidal Heating and Its Impact on Cluster Isochrones</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3cd4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3cd4</guid>
-<content:encoded><![CDATA[
-<div> 主要关键词：潮汐能量，星的内部结构，颜色-等级图，热量注入，M67开放星团。
-
-本文探讨了潮汐流动产生的动能转化为热量后，对恒星内部结构的影响，及其在颜色-等级图上的位置偏移。研究对象为M67开放星团附近主序带质量（1.26 M⊙）的恒星，根据第一原理计算得到的潮汐剪切能耗散速率来获得加热速率。模拟计算表明，潮汐受扰动的恒星在M67颜色-等级图上的位置偏移到比标准模型等高线预测的更高的光度和有效温度，包括与一些蓝变星对应的位置。因为潮汐加热从轨道中取走能量使其变短，蓝变星可能是合并或质量传递的祖先，也可能是这些过程的产物。 <br /><br />总结: 本文研究了潮汐加热对星体内部结构和在颜色-等级图上的位置偏移的影响，特别是在M67星团附近的恒星上的表现，结论指出蓝变星可能是合并或质量传递的前体，也可能是这些过程的产物。 <div>
-The kinetic energy in tidal flows, when converted into heat, can affect the internal structure of a star and shift its location on a color–magnitude diagram from that of standard models. In this paper we explore the impact of injecting heat into stars with masses near the main-sequence turnoff mass (1.26 M⊙) of the open cluster M67. The heating rate is obtained from the tidal shear energy dissipation rate, which is calculated from first principles by simultaneously solving the equations that describe orbital motion and the response of a star’s layers to the gravitational, Coriolis, centrifugal, gas pressure, and viscous forces. The stellar structure models are computed with MESA. We focus on the effects of injecting heat in pulses lasting 0.01 Gyr, a time frame consistent with the synchronization timescale in binary systems. We find that the location of the tidally perturbed stars in the M67 color–magnitude diagram is shifted to significantly higher luminosities and effective temperatures than predicted by the standard model isochrone and includes locations corresponding to some of the blue straggler stars. Because tidal heating takes energy from the orbit, causing it to shrink, blue straggler stars could be merger or mass transfer progenitors, as well as products of these processes.
 ]]></content:encoded>
 <pubDate>2024-05-19T23:00:00Z</pubDate>
 </item>
