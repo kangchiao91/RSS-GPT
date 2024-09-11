@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Studying Binary Formation under Dynamical Friction Using Hill’s Problem</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf2</link>
@@ -14,10 +15,8 @@
 本文主要研究星际气体和星团的动摩擦对黑洞双星形成的影响。首先提出了简单的无量纲摩擦系数来近似描述动摩擦的影响，进行了大量的模拟研究，发现在摩擦较弱时，局部双星形成速率与摩擦系数成线性关系。这些研究结果对于不同尺度上的双星形成具有普遍适用性，如星团中的中等质量黑洞、星际盘中的行星体等。 <div>
 Using the equations of motion from Hill’s problem, with added accelerations for different forms of dynamical friction, we provide the (to-date) broadest scale-free study of friction-driven binary formation in gaseous disks and stellar clusters. We focus mainly on binary formation between stellar-mass black holes in active galactic nuclei (AGNs), considering both gas dynamical friction (GDF) from AGN disks and stellar dynamical friction (SDF) from the nuclear star cluster. We first find simple, dimensionless friction coefficients that approximate the effects of standard models for GDF and SDF. We perform extensive simulations of Hill’s problem under such friction, and we present a picture of binary formation through encounters between single stars on nearby orbits, as a function of friction parameter, eccentricity, and inclination. Notably, we find that the local binary formation rate is a linear function of the friction coefficient so long as the friction is weak. Due to the dimensionless nature of our model problem, our findings are generalizable to binary formation at all scales (e.g., intermediate-mass black holes in a star cluster, planetesimals in a gaseous disk).
 ]]></content:encoded>
-
 <pubDate>2024-09-09T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Optical Variability Properties of Southern TESS Blazars</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f87</link>
@@ -11807,25 +11806,6 @@ We propose a second-order statistic parameter ε, the relative occurrence rate b
 总结:
 本研究使用Subaru Hyper Suprime-Cam选出大约100万个星系团和星系群成员星系，称为CAMIRA星系团，研究了活动星系核（AGN）的统计特性，重点关注AGN功率分数（fAGN）与星系团红移（zcl）以及距离星系团中心的关系。通过使用紫外-中红外波段的多波段数据和CIGALE代码与SKIRTOR AGN模型进行光谱能量分布拟合，确定了fAGN的值。研究发现，CAMIRA星系团中fAGN的值与zcl呈正相关，并且随着距离星系团中心的增加而增加。这些结果表明AGN群体的出现取决于红移和环境，并且高红移时期的星系群和星系团在AGN演化中起着重要作用。此外，研究还表明星系团合并可能会增强特别巨大星系团外围的AGN活动。我们的研究结果与CAMIRA星系团上的AGN数量分数相关的研究结果一致。 <div>
 Herein, we present the statistical properties of active galactic nuclei (AGNs) for approximately 1 million member galaxies of galaxy groups and clusters with 0.1 < cluster redshift (zcl) < 1.4 selected using the Subaru Hyper Suprime-Cam, the so-called CAMIRA clusters. In this research, we focused on the AGN power fraction (fAGN), which is defined as the proportion of the contribution of AGNs to the total infrared (IR) luminosity, LIR (AGN)/LIR, and examined how fAGN depends on (i) zcl and (ii) the distance from the cluster center. We compiled multiwavelength data using the ultraviolet–mid-IR range. Moreover, we performed spectral energy distribution fits to determine fAGN using the CIGALE code with the SKIRTOR AGN model. We found that (i) the value of fAGN in the CAMIRA clusters is positively correlated with zcl, with the correlation slope being steeper than that for field galaxies, and (ii) fAGN exhibits a high value at the cluster outskirts. These results indicate that the emergence of the AGN population depends on the redshift and environment and that galaxy groups and clusters at high redshifts are important in AGN evolution. Additionally, we demonstrated that cluster–cluster mergers may enhance AGN activity at the outskirts of particularly massive galaxy clusters. Our findings are consistent with a related study on the CAMIRA clusters that was based on the AGN number fraction.
-]]></content:encoded>
-<pubDate>2024-05-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Toward Early-type Eclipsing Binaries as Extragalactic Milestones. III. Physical Properties of the O-type Eclipsing Binary OGLE LMC-ECL-21568 in a Quadruple System* , †</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3af0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3af0</guid>
-<content:encoded><![CDATA[
-<div> 关键词: eclipsing O-type binary, multiple system, mass, orbit, spectroscopic orbit
-
-这项研究是关于一颗O型双星系统的复杂研究的结果。该双星系统的轨道周期为3.2254367天，属于一个更高级别的多重系统(A+B)+C。通过研究发现，双星系统的质量分别为19.02和17.50太阳质量，半径分别为7.70和6.64太阳半径，温度分别为34,250和33,750开尔文。通过径向速度分析，发现A在外部A+B系统中的光谱轨道为195.8天。通过光行时间效应对数据进行拟合，获得了第四个组件的质量下限为7.3太阳质量。通过模型光谱与多频带光度的比较，得出了18.59±0.06的距离模数，0.16±0.02的色偏和3.2的RV。这项工作是他们正在进行的项目的一部分，旨在校准早期恒星的表面亮度-颜色关系。
-
-<br /><br />总结: 
-1. 研究了一个O型双星系统的复杂性。
-2. 揭示了双星系统的质量、半径和温度信息。
-3. 发现了双星系统在更高级别多重系统中的轨道。
-4. 通过光行时间效应获得了额外组件的质量下限。
-5. 通过模型光谱与光度数据比较，得出了距离模数、色偏和RV的信息。 <div>
-We present the results from a complex study of an eclipsing O-type binary (Aa+Ab) with the orbital period of PA = 3.2254367 days that forms part of a higher-order multiple system in a configuration of (A+B)+C. We derived masses of the Aa+Ab binary of M1 = 19.02 ± 0.12 and M2 = 17.50 ± 0.13 M ⊙, the radii of R1 = 7.70 ± 0.05 and R2 = 6.64 ± 0.06 R⊙, and temperatures of T1 = 34,250 ± 500 K and T2 = 33,750 ± 500 K. From the analysis of the radial velocities, we found a spectroscopic orbit of A in the outer A+B system with PA+B = 195.8 days (PA+B/PA ≈ 61). In the O − C analysis, we confirmed this orbit and found another component orbiting the A+B system with PAB+C = 2550 days (PAB+C/PA+B ≈ 13). From the total mass of the inner binary and its outer orbit, we estimated the mass of the third object, MB ≳ 10.7 M⊙. From the light travel time effect fit to the O − C data, we obtained the limit for the mass of the fourth component, MC ≳ 7.3 M⊙. These extra components contribute about 20%–30% (increasing with wavelength) to the total system light. From the comparison of model spectra with the multiband photometry, we derived a distance modulus of 18.59 ± 0.06 mag, a reddening of 0.16 ± 0.02 mag, and an RV of 3.2. This work is part of our ongoing project, which aims to calibrate the surface brightness–color relation for early-type stars.
 ]]></content:encoded>
 <pubDate>2024-05-16T23:00:00Z</pubDate>
 </item>
