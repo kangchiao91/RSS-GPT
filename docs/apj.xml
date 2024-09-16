@@ -4,6 +4,60 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Resolving Twin Jets and Twin Disks with JWST and ALMA: The Young WL 20 Multiple System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5da1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5da1</guid>
+<content:encoded><![CDATA[
+<div> [JWST, mid-infrared jets, pre-main-sequence objects, H2 emission, ALMA]
+
+总结:<br><br>这篇文章报道了利用JWST的中红外仪器中分辨率光谱仪在中红外波长发现的预主序物体喷流。喷流仅在[Ni ii]、[Fe ii]、[Ar ii]和[Ne ii]线中观察到。H2发射以完全不同的形态呈现，呈现出围绕喷流轴对称分布的宽角双锥形状。ALMA的观测解析出在双中红外喷流起源处处于边缘的两个相邻边视吸积盘。假设正在研究的年轻多重系统的各成分同时发育，该系统的年龄至少为（2-2.5）× 106年，尽管边视盘源的能谱能量分布所推断的年龄有明显较年轻的矛盾。ALMA的CO（2−1）、13CO（2−1）和C18O（2−1）观测显示没有分子流或残余腔壁的痕迹。因此，观察到的H2结构必须起源于宽角盘风，而没有任何环境中被扫除的气体。在最近对原恒星的研究背景下，我们提出了一个流出演变情景，其中分子气体组件在最年轻的源中占主导地位，而快速离子喷流在最老的源中占主导地位，就像在WL 20系统中发现的双喷流一样。 <div>
+We report the discovery of jets emanating from pre-main-sequence objects exclusively at mid-infrared wavelengths, enabled by the superb sensitivity of JWST’s Mid-Infrared Instrument Medium-Resolution Spectrometer. These jets are observed only in lines of [Ni ii], [Fe ii], [Ar ii], and [Ne ii]. The H2 emission, imaged in eight distinct transitions, has a completely different morphology, exhibiting a wide-angled, biconical shape, symmetrically distributed about the jet axes. Synergistic high-resolution Atacama Large Millimeter/submillimeter Array (ALMA) observations resolve a pair of side-by-side edge-on accretion disks lying at the origin of the twin mid-infrared jets. Assuming coevality of the components of the young multiple system under investigation, the system age is at least (2–2.5) × 106 yr, despite the discrepantly younger age inferred from the spectral energy distribution of the combined edge-on disk sources. The later system evolutionary stage is corroborated by ALMA observations of CO(2−1), 13CO(2−1), and C18O(2−1), which show no traces of molecular outflows or remnant cavity walls. Consequently, the observed H2 structures must have their origins in wide-angled disk winds, in the absence of any ambient, swept-up gas. In the context of recent studies of protostars, we propose an outflow evolutionary scenario in which the molecular gas component dominates in the youngest sources, whereas the fast, ionized jets dominate in the oldest sources, as is the case for the twin jets discovered in the WL 20 system.
+]]></content:encoded>
+
+<pubDate>2024-09-15T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images. II. Application of Solid Harmonic Wavelet Scattering Transform</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ff0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ff0</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 21厘米图像，重离子化，DELFI，卷积神经网络，固体谐波小波散射变换<br>
+<br>
+通过对重离子化时期的三维21厘米图像进行分析，研究人员使用密度估计似然无需推断（DELFI）来进行贝叶斯推断，以探索星际介质如何被天体物理源重离子化的参数。研究人员在之前的研究中使用了经过训练的三维卷积神经网络（CNN）来压缩数据，但本文介绍了一种新的数据压缩方法——固体谐波小波散射变换（WST）。他们发现，使用WST结合DELFI的方法在参数的可信区间方面优于之前的方法。此外，他们还应用了热噪声和残余前景去除等影响，证明了新方法的有效性。最后，研究表明，使用固体谐波WST进行21厘米图像分析的效果优于使用21厘米功率谱分析的方法。这项研究为未来利用WST和基于模拟的推断从21厘米光锥图像数据中获得洞见的潜力提供了一个概念验证。 <br><br>总结: <br>通过对三维21厘米图像进行分析，使用DELFI进行贝叶斯推断以探索重离子化的天体物理源。引入了固体谐波小波散射变换作为数据压缩方法，优于之前的方法。研究还证明了该方法优于使用21厘米功率谱分析。这项研究表明了WST和模拟推断的潜力。 <div>
+The information regarding how the intergalactic medium is reionized by astrophysical sources is contained in the tomographic three-dimensional 21 cm images from the epoch of reionization. In Zhao et al. (“Paper I”), we demonstrated for the first time that density estimation likelihood-free inference (DELFI) can be applied efficiently to perform a Bayesian inference of the reionization parameters from the 21 cm images. Nevertheless, the 3D image data needs to be compressed into informative summaries as the input of DELFI by, e.g., a trained 3D convolutional neural network (CNN) as in Paper I (DELFI-3D CNN). Here in this paper, we introduce an alternative data compressor, the solid harmonic wavelet scattering transform (WST), which has a similar, yet fixed (i.e., no training), architecture to CNN, but we show that this approach (i.e., solid harmonic WST with DELFI) outperforms earlier analyses based on 3D 21 cm images using DELFI-3D CNN in terms of credible regions of parameters. Realistic effects, including thermal noise and residual foreground after removal, are also applied to the mock observations from the Square Kilometre Array. We show that under the same inference strategy using DELFI, the 21 cm image analysis with solid harmonic WST outperforms the 21 cm power spectrum analysis. This research serves as a proof of concept, demonstrating the potential to harness the strengths of WST and simulation-based inference to derive insights from future 21 cm light-cone image data.
+]]></content:encoded>
+
+<pubDate>2024-09-15T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Identifying Halos in Cosmological Simulations with Continuous Wavelet Analysis: The 2D Case</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d1</guid>
+<content:encoded><![CDATA[
+<div> 连续小波分析, 科学工程, 2D 环境, 暗物质, 识别<br>
+<br>
+这项研究介绍了一种基于小波的环形识别方法，并评估了其在二维情景下的可行性。研究首先利用SIMBA暗物质模拟生成了四个伪二维数据集，然后直接计算了连续小波变换（CWT），识别局部最大值代表实际的环形，并对CWT进行分割以勾画环形边界。与传统的朋友-朋友（FOF）方法相比，CWT识别的环形含有的粒子稍少，但在密集区域中具有更光滑的边界和更紧凑的形状。相反，在稀疏区域，CWT方法可以连接更远距离的粒子以形成环形，因为其具有空间分割方案。CWT和FOF环形的空间分布和环形功率谱表明了显著的一致性，验证了CWT在环形检测方面在二维情景下的适用性。虽然该识别方案仅在有限的二维情境下测试，并显示了一些性能限制，但其线性时间复杂度和与FOF方法的一致性表明了其适用于未来分析更大数据集，并有潜力扩展到三维情况。 <br><br>总结: 连续小波分析在二维环境中被用于暗物质环形识别并在稠密区域具有更光滑和紧凑的边界，对比传统方法具有一定优势。虽然在2D环境中表现良好，但也存在一定的性能限制，但具有线性时间复杂度和与传统方法的一致性，适用于分析更大的数据集，并有潜力扩展到3D情况。 <div>
+Continuous wavelet analysis is gaining popularity in science and engineering for its ability to analyze data across both spatial and scale domains simultaneously. In this study, we introduce a wavelet-based method for halo identification and assess its feasibility in two-dimensional (2D) scenarios. We begin by generating four pseudo-2D data sets from the SIMBA dark matter simulation by compressing thin slices of three-dimensional (3D) data into 2D. Subsequently, we calculate the continuous wavelet transform (CWT) directly from the particle distributions, identify local maxima that represent actual halos, and segment the CWT to delineate halo boundaries. A comparison with the traditional friends-of-friends (FOF) method shows that while our CWT-identified halos contain slightly fewer particles, they have smoother boundaries and are more compact in dense regions. In contrast, the CWT method can link particles over greater distances to form halos in sparse regions due to its spatial segmentation scheme. The spatial distribution and halo power spectrum of both CWT and FOF halos demonstrate substantial consistency, validating the 2D applicability of CWT for halo detection. While our identification scheme has been tested solely in a limited 2D context and has shown some performance limitations, its linear time complexity of and consistency with the FOF method suggest its suitability for analyzing significantly larger data sets in the future and its potential to be extended to the 3D case.
+]]></content:encoded>
+
+<pubDate>2024-09-15T23:00:00Z</pubDate>
+</item>
+<item>
+<title>H i Kinematics and the E(B − V)/N(H i) Ratio</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b10</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b10</guid>
+<content:encoded><![CDATA[
+<div> 高银纬度，21厘米H i发射，气尘比，银河盘外物质，低金属量
+
+〈E(B − V)〉 ≲ 0.03 mag，〈N(H i)〉/〈E(B − V)〉，高银纬度，H i高速云，麦哲伦云，红化，气体浓度
+
+总结:<br><br>这篇文章讨论了高银纬度的21厘米H i发射，并指出了它对气尘比的重要性。文章还提到了银河盘外物质的贡献以及其不确定性，以及在小平均红化的视线上它们的存在。文章强调了这些物质对气体浓度和红化的影响，最后得出在高银纬度的合适气体浓度和红化值。 <div>
+The λ21 cm H i emission that is used to trace the gas-to-dust ratio at high Galactic latitudes has contributions from material beyond the Milky Way disk, with uncertain and likely subsolar metallicity and dust content. These contributions can be isolated kinematically and their presence is clear for sightlines with small mean reddening 〈E(B − V)〉 ≲ 0.03 mag, which have mean ratios 〈N(H i)〉/〈E(B − V)〉 that are 20%–50% above the high-latitude Galactic average 〈N(H i)〉/〈E(B − V)〉 = 8.3 × 1021 cm−2 mag−1. By mapping N(H i) and E(B − V) across H i high-velocity cloud complexes and the Magellanic Clouds, we show that the reddening of this kinematically isolated gas is on average 5 times smaller per H i than the high-latitude average. However, the aggregate contribution of this gas is small and 〈N(H i)〉/〈E(B − V)〉 = 8.3 × 1021 cm−2 mag−1 is the appropriate value for Galactic gas seen at high latitude using the H i and reddening measures employed here and in our previous work.
+]]></content:encoded>
+
+<pubDate>2024-09-15T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Small Magellanic Cloud Cepheids Observed with the Hubble Space Telescope Provide a New Anchor for the SH0ES Distance Ladder</title>
