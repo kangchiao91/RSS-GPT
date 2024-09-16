@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Resolving Twin Jets and Twin Disks with JWST and ALMA: The Young WL 20 Multiple System</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5da1</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> [JWST, mid-infrared jets, pre-main-sequence objects, H2 emission, ALMA]
 
-总结:<br><br>这篇文章报道了利用JWST的中红外仪器中分辨率光谱仪在中红外波长发现的预主序物体喷流。喷流仅在[Ni ii]、[Fe ii]、[Ar ii]和[Ne ii]线中观察到。H2发射以完全不同的形态呈现，呈现出围绕喷流轴对称分布的宽角双锥形状。ALMA的观测解析出在双中红外喷流起源处处于边缘的两个相邻边视吸积盘。假设正在研究的年轻多重系统的各成分同时发育，该系统的年龄至少为（2-2.5）× 106年，尽管边视盘源的能谱能量分布所推断的年龄有明显较年轻的矛盾。ALMA的CO（2−1）、13CO（2−1）和C18O（2−1）观测显示没有分子流或残余腔壁的痕迹。因此，观察到的H2结构必须起源于宽角盘风，而没有任何环境中被扫除的气体。在最近对原恒星的研究背景下，我们提出了一个流出演变情景，其中分子气体组件在最年轻的源中占主导地位，而快速离子喷流在最老的源中占主导地位，就像在WL 20系统中发现的双喷流一样。 <div>
+总结:<br /><br />这篇文章报道了利用JWST的中红外仪器中分辨率光谱仪在中红外波长发现的预主序物体喷流。喷流仅在[Ni ii]、[Fe ii]、[Ar ii]和[Ne ii]线中观察到。H2发射以完全不同的形态呈现，呈现出围绕喷流轴对称分布的宽角双锥形状。ALMA的观测解析出在双中红外喷流起源处处于边缘的两个相邻边视吸积盘。假设正在研究的年轻多重系统的各成分同时发育，该系统的年龄至少为（2-2.5）× 106年，尽管边视盘源的能谱能量分布所推断的年龄有明显较年轻的矛盾。ALMA的CO（2−1）、13CO（2−1）和C18O（2−1）观测显示没有分子流或残余腔壁的痕迹。因此，观察到的H2结构必须起源于宽角盘风，而没有任何环境中被扫除的气体。在最近对原恒星的研究背景下，我们提出了一个流出演变情景，其中分子气体组件在最年轻的源中占主导地位，而快速离子喷流在最老的源中占主导地位，就像在WL 20系统中发现的双喷流一样。 <div>
 We report the discovery of jets emanating from pre-main-sequence objects exclusively at mid-infrared wavelengths, enabled by the superb sensitivity of JWST’s Mid-Infrared Instrument Medium-Resolution Spectrometer. These jets are observed only in lines of [Ni ii], [Fe ii], [Ar ii], and [Ne ii]. The H2 emission, imaged in eight distinct transitions, has a completely different morphology, exhibiting a wide-angled, biconical shape, symmetrically distributed about the jet axes. Synergistic high-resolution Atacama Large Millimeter/submillimeter Array (ALMA) observations resolve a pair of side-by-side edge-on accretion disks lying at the origin of the twin mid-infrared jets. Assuming coevality of the components of the young multiple system under investigation, the system age is at least (2–2.5) × 106 yr, despite the discrepantly younger age inferred from the spectral energy distribution of the combined edge-on disk sources. The later system evolutionary stage is corroborated by ALMA observations of CO(2−1), 13CO(2−1), and C18O(2−1), which show no traces of molecular outflows or remnant cavity walls. Consequently, the observed H2 structures must have their origins in wide-angled disk winds, in the absence of any ambient, swept-up gas. In the context of recent studies of protostars, we propose an outflow evolutionary scenario in which the molecular gas component dominates in the youngest sources, whereas the fast, ionized jets dominate in the oldest sources, as is the case for the twin jets discovered in the WL 20 system.
 ]]></content:encoded>
-
 <pubDate>2024-09-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,12 +22,11 @@ We report the discovery of jets emanating from pre-main-sequence objects exclusi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ff0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ff0</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 21厘米图像，重离子化，DELFI，卷积神经网络，固体谐波小波散射变换<br>
-<br>
-通过对重离子化时期的三维21厘米图像进行分析，研究人员使用密度估计似然无需推断（DELFI）来进行贝叶斯推断，以探索星际介质如何被天体物理源重离子化的参数。研究人员在之前的研究中使用了经过训练的三维卷积神经网络（CNN）来压缩数据，但本文介绍了一种新的数据压缩方法——固体谐波小波散射变换（WST）。他们发现，使用WST结合DELFI的方法在参数的可信区间方面优于之前的方法。此外，他们还应用了热噪声和残余前景去除等影响，证明了新方法的有效性。最后，研究表明，使用固体谐波WST进行21厘米图像分析的效果优于使用21厘米功率谱分析的方法。这项研究为未来利用WST和基于模拟的推断从21厘米光锥图像数据中获得洞见的潜力提供了一个概念验证。 <br><br>总结: <br>通过对三维21厘米图像进行分析，使用DELFI进行贝叶斯推断以探索重离子化的天体物理源。引入了固体谐波小波散射变换作为数据压缩方法，优于之前的方法。研究还证明了该方法优于使用21厘米功率谱分析。这项研究表明了WST和模拟推断的潜力。 <div>
+<div> 关键词: 21厘米图像，重离子化，DELFI，卷积神经网络，固体谐波小波散射变换<br />
+<br />
+通过对重离子化时期的三维21厘米图像进行分析，研究人员使用密度估计似然无需推断（DELFI）来进行贝叶斯推断，以探索星际介质如何被天体物理源重离子化的参数。研究人员在之前的研究中使用了经过训练的三维卷积神经网络（CNN）来压缩数据，但本文介绍了一种新的数据压缩方法——固体谐波小波散射变换（WST）。他们发现，使用WST结合DELFI的方法在参数的可信区间方面优于之前的方法。此外，他们还应用了热噪声和残余前景去除等影响，证明了新方法的有效性。最后，研究表明，使用固体谐波WST进行21厘米图像分析的效果优于使用21厘米功率谱分析的方法。这项研究为未来利用WST和基于模拟的推断从21厘米光锥图像数据中获得洞见的潜力提供了一个概念验证。 <br /><br />总结: <br />通过对三维21厘米图像进行分析，使用DELFI进行贝叶斯推断以探索重离子化的天体物理源。引入了固体谐波小波散射变换作为数据压缩方法，优于之前的方法。研究还证明了该方法优于使用21厘米功率谱分析。这项研究表明了WST和模拟推断的潜力。 <div>
 The information regarding how the intergalactic medium is reionized by astrophysical sources is contained in the tomographic three-dimensional 21 cm images from the epoch of reionization. In Zhao et al. (“Paper I”), we demonstrated for the first time that density estimation likelihood-free inference (DELFI) can be applied efficiently to perform a Bayesian inference of the reionization parameters from the 21 cm images. Nevertheless, the 3D image data needs to be compressed into informative summaries as the input of DELFI by, e.g., a trained 3D convolutional neural network (CNN) as in Paper I (DELFI-3D CNN). Here in this paper, we introduce an alternative data compressor, the solid harmonic wavelet scattering transform (WST), which has a similar, yet fixed (i.e., no training), architecture to CNN, but we show that this approach (i.e., solid harmonic WST with DELFI) outperforms earlier analyses based on 3D 21 cm images using DELFI-3D CNN in terms of credible regions of parameters. Realistic effects, including thermal noise and residual foreground after removal, are also applied to the mock observations from the Square Kilometre Array. We show that under the same inference strategy using DELFI, the 21 cm image analysis with solid harmonic WST outperforms the 21 cm power spectrum analysis. This research serves as a proof of concept, demonstrating the potential to harness the strengths of WST and simulation-based inference to derive insights from future 21 cm light-cone image data.
 ]]></content:encoded>
-
 <pubDate>2024-09-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -35,12 +34,11 @@ The information regarding how the intergalactic medium is reionized by astrophys
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d1</guid>
 <content:encoded><![CDATA[
-<div> 连续小波分析, 科学工程, 2D 环境, 暗物质, 识别<br>
-<br>
-这项研究介绍了一种基于小波的环形识别方法，并评估了其在二维情景下的可行性。研究首先利用SIMBA暗物质模拟生成了四个伪二维数据集，然后直接计算了连续小波变换（CWT），识别局部最大值代表实际的环形，并对CWT进行分割以勾画环形边界。与传统的朋友-朋友（FOF）方法相比，CWT识别的环形含有的粒子稍少，但在密集区域中具有更光滑的边界和更紧凑的形状。相反，在稀疏区域，CWT方法可以连接更远距离的粒子以形成环形，因为其具有空间分割方案。CWT和FOF环形的空间分布和环形功率谱表明了显著的一致性，验证了CWT在环形检测方面在二维情景下的适用性。虽然该识别方案仅在有限的二维情境下测试，并显示了一些性能限制，但其线性时间复杂度和与FOF方法的一致性表明了其适用于未来分析更大数据集，并有潜力扩展到三维情况。 <br><br>总结: 连续小波分析在二维环境中被用于暗物质环形识别并在稠密区域具有更光滑和紧凑的边界，对比传统方法具有一定优势。虽然在2D环境中表现良好，但也存在一定的性能限制，但具有线性时间复杂度和与传统方法的一致性，适用于分析更大的数据集，并有潜力扩展到3D情况。 <div>
+<div> 连续小波分析, 科学工程, 2D 环境, 暗物质, 识别<br />
+<br />
+这项研究介绍了一种基于小波的环形识别方法，并评估了其在二维情景下的可行性。研究首先利用SIMBA暗物质模拟生成了四个伪二维数据集，然后直接计算了连续小波变换（CWT），识别局部最大值代表实际的环形，并对CWT进行分割以勾画环形边界。与传统的朋友-朋友（FOF）方法相比，CWT识别的环形含有的粒子稍少，但在密集区域中具有更光滑的边界和更紧凑的形状。相反，在稀疏区域，CWT方法可以连接更远距离的粒子以形成环形，因为其具有空间分割方案。CWT和FOF环形的空间分布和环形功率谱表明了显著的一致性，验证了CWT在环形检测方面在二维情景下的适用性。虽然该识别方案仅在有限的二维情境下测试，并显示了一些性能限制，但其线性时间复杂度和与FOF方法的一致性表明了其适用于未来分析更大数据集，并有潜力扩展到三维情况。 <br /><br />总结: 连续小波分析在二维环境中被用于暗物质环形识别并在稠密区域具有更光滑和紧凑的边界，对比传统方法具有一定优势。虽然在2D环境中表现良好，但也存在一定的性能限制，但具有线性时间复杂度和与传统方法的一致性，适用于分析更大的数据集，并有潜力扩展到3D情况。 <div>
 Continuous wavelet analysis is gaining popularity in science and engineering for its ability to analyze data across both spatial and scale domains simultaneously. In this study, we introduce a wavelet-based method for halo identification and assess its feasibility in two-dimensional (2D) scenarios. We begin by generating four pseudo-2D data sets from the SIMBA dark matter simulation by compressing thin slices of three-dimensional (3D) data into 2D. Subsequently, we calculate the continuous wavelet transform (CWT) directly from the particle distributions, identify local maxima that represent actual halos, and segment the CWT to delineate halo boundaries. A comparison with the traditional friends-of-friends (FOF) method shows that while our CWT-identified halos contain slightly fewer particles, they have smoother boundaries and are more compact in dense regions. In contrast, the CWT method can link particles over greater distances to form halos in sparse regions due to its spatial segmentation scheme. The spatial distribution and halo power spectrum of both CWT and FOF halos demonstrate substantial consistency, validating the 2D applicability of CWT for halo detection. While our identification scheme has been tested solely in a limited 2D context and has shown some performance limitations, its linear time complexity of and consistency with the FOF method suggest its suitability for analyzing significantly larger data sets in the future and its potential to be extended to the 3D case.
 ]]></content:encoded>
-
 <pubDate>2024-09-15T23:00:00Z</pubDate>
 </item>
 <item>
@@ -52,13 +50,11 @@ Continuous wavelet analysis is gaining popularity in science and engineering for
 
 〈E(B − V)〉 ≲ 0.03 mag，〈N(H i)〉/〈E(B − V)〉，高银纬度，H i高速云，麦哲伦云，红化，气体浓度
 
-总结:<br><br>这篇文章讨论了高银纬度的21厘米H i发射，并指出了它对气尘比的重要性。文章还提到了银河盘外物质的贡献以及其不确定性，以及在小平均红化的视线上它们的存在。文章强调了这些物质对气体浓度和红化的影响，最后得出在高银纬度的合适气体浓度和红化值。 <div>
+总结:<br /><br />这篇文章讨论了高银纬度的21厘米H i发射，并指出了它对气尘比的重要性。文章还提到了银河盘外物质的贡献以及其不确定性，以及在小平均红化的视线上它们的存在。文章强调了这些物质对气体浓度和红化的影响，最后得出在高银纬度的合适气体浓度和红化值。 <div>
 The λ21 cm H i emission that is used to trace the gas-to-dust ratio at high Galactic latitudes has contributions from material beyond the Milky Way disk, with uncertain and likely subsolar metallicity and dust content. These contributions can be isolated kinematically and their presence is clear for sightlines with small mean reddening 〈E(B − V)〉 ≲ 0.03 mag, which have mean ratios 〈N(H i)〉/〈E(B − V)〉 that are 20%–50% above the high-latitude Galactic average 〈N(H i)〉/〈E(B − V)〉 = 8.3 × 1021 cm−2 mag−1. By mapping N(H i) and E(B − V) across H i high-velocity cloud complexes and the Magellanic Clouds, we show that the reddening of this kinematically isolated gas is on average 5 times smaller per H i than the high-latitude average. However, the aggregate contribution of this gas is small and 〈N(H i)〉/〈E(B − V)〉 = 8.3 × 1021 cm−2 mag−1 is the appropriate value for Galactic gas seen at high latitude using the H i and reddening measures employed here and in our previous work.
 ]]></content:encoded>
-
 <pubDate>2024-09-15T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Small Magellanic Cloud Cepheids Observed with the Hubble Space Telescope Provide a New Anchor for the SH0ES Distance Ladder</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad630e</link>
@@ -11837,58 +11833,6 @@ The GJ 1148 system has two Saturn-mass planets orbiting around an M dwarf star o
 总结:
 能量均分和喷流能量预算在HBLs的辐射机制中很重要。该研究使用费米卫星的4LAC-DR3目录汇编了348个高频峰值BL Lac对象(HBLs)，并采用JetSet来拟合这些HBLs的光谱能量分布(SEDs)。研究结果表明，HBLs的SEDs可以很好地通过单区电子模型来重现，但无法实现能量均分，且相对论电子能量密度远大于磁场能量密度。大多数HBLs位于tcool < tdyn区域，具有较低的辐射效率，推测可能有光学薄的平流主导吸积流。此外，HBLs的喷流动能大于辐射功率，表明了存在非常低的辐射效率。最后，关系Ue > USyn ∼ UB, Le ∼ Lp > LB ∼ Lrad也被建立，表明HBLs的大部分能量存储在低能电子中。 <div>
 Energy equipartition and the energy budget in the jet are important issues for the radiation mechanism of blazars. Early work predominantly concentrated on flat-spectrum radio quasars and a limited number of BL Lacertae (BL Lac) objects. In this paper, we compile 348 high-frequency peaked BL Lac objects (HBLs) based on the catalog of active galactic nuclei (4LAC-DR3) from Fermi-LAT, and employ JetSet to fit the spectral energy distributions (SEDs) of these HBLs in the framework of the one-zone lepton model. We aim to determine whether the energy budget is reasonable and whether energy equipartition is satisfied in HBLs. The results of the statistical analysis suggest that: (1) SEDs of HBLs can be reproduced well by using the one-zone lepton model; however, it cannot achieve energy equalization, and the relativistic electron energy density is far greater than the magnetic field energy density, Ue ≳ 100UB; (2) the majority of HBLs are located in the tcool < tdyn region (where the horizontal coordinate represents the jet power of electrons, while the ordinate indicates the ratio of the dynamic timescale to the cooling timescale), and the jet kinetic power of HBLs is greater than the jet power of radiation; there is a very low radiation efficiency, we deduce that HBLs may have optically thin advection-dominated accretion flows; (3) of HBLs is less than zero, which indicates that the jet kinetic power of HBLs is not affected by Poynting flux; (4) the relationships Ue > USyn ∼ UB, Le ∼ Lp > LB ∼ Lrad, and are established. These relations indicate that most of the energy of HBLs is stored in the population of low-energy electrons.
-]]></content:encoded>
-<pubDate>2024-05-21T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Variation in Path Lengths of Turbulent Magnetic Field Lines and Solar Energetic Particles</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d58</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3d58</guid>
-<content:encoded><![CDATA[
-<div> 磁场路径长度，太阳活动，太阳粒子，蒙特卡洛模拟，等离子体湍流
-<br />
-这篇文章讨论了太阳活动时太阳能粒子观测中的磁场路径长度的变化对数据拟合和平均自由程的影响，通过蒙特卡洛模拟在二维MHD+板片湍流中追踪了粒子轨道和磁场线轨迹，分析了路径长度统计学，并提出了路径长度变化对太阳能粒子观测数据的影响。研究发现路径长度的变化与湍流拓扑结构有关，并描述了观测者运动与湍流拓扑结构的关系。这对于理解太阳能粒子在太阳附近传播的机制具有重要意义。
-<br /><br />总结: <br />太阳活动引起的太阳能粒子观测中磁场路径长度的变化对数据拟合和平均自由程产生影响。<br />通过蒙特卡洛模拟可以分析路径长度统计学，并发现其与湍流拓扑结构有关。<br />观测者的运动也会影响路径长度的变化，这有助于理解太阳能粒子在太阳附近的传播机制。 <div>
-Modeling of time profiles of solar energetic particle (SEP) observations often considers transport along a large-scale magnetic field with a fixed path length from the source to the observer. Here, we point out that variability in the turbulent field line path length can affect the fits to SEP data and the inferred mean free path and injection profile. To explore such variability, we perform Monte Carlo simulations in representations of homogeneous 2D MHD + slab turbulence adapted to spherical geometry and trace trajectories of field lines and full particle orbits, considering proton injection from a narrow or wide angular region near the Sun, corresponding to an impulsive or gradual solar event, respectively. We analyze our simulation results in terms of field line and particle path length statistics for 1° × 1° pixels in heliolatitude and heliolongitude at 0.35 and 1 au from the Sun, for different values of the turbulence amplitude b/B0 and turbulence geometry as expressed by the slab fraction fs. Maps of the most probable path lengths of field lines and particles at each pixel exhibit systematic patterns that reflect the fluctuation amplitudes experienced by the field lines, which in turn relate to the local topology of 2D turbulence. We describe the effects of such path length variations on SEP time profiles, both in terms of path length variability at specific locations and the motion of the observer with respect to turbulence topology during the course of the observations.
-]]></content:encoded>
-<pubDate>2024-05-21T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Timescales of Star Cluster Emergence: The Case of NGC 4449</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e64</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e64</guid>
-<content:encoded><![CDATA[
-<div> 星团，NGC 4449，恒星反馈，质量依赖，JWST
-<br /><br />该研究使用哈勃空间望远镜获取的紫外-光学-近红外光度数据，研究小星系NGC 4449中年轻星团的性质。他们发现这些星团的质量在102 < M⊙ < 105之间，年龄为1-20百万年，颜色消光E(B-V)范围在0-1.4之间。在选择了质量大于3000 M⊙的星团后，他们发现红外选择的星团具有中位质量约为7 × 10^3 M⊙，并在周围的气体和尘埃中保持5-6百万年。相反，从现有的紫外/光学目录中选择的发射线源具有中位质量约为3.5 × 10^4 M⊙，并在4百万年内清除了周围的环境。研究发现NGC 4449的环境压力过低，无法驱动这些差异。这些发现表明，星团的清除时间尺度与其质量有关，并且存在随机取样的效应。这种效应可能通过减少注入周围介质的能量和动量来增加这些星团的清除时间尺度；目前模型和观测还没有明确探讨过这种依赖性。未来的研究和观测，例如使用JWST，将填补这一空白。
-<br /><br />总结: 该研究通过观测NGC 4449中的年轻星团，发现了星团质量对星团周围环境清除时间尺度的依赖关系，并指出了随机取样效应可能导致这一关联。这为未来的研究和观测提供了方向，以填补现有模型和观测中的空白。 <div>
-We survey the young star cluster population in the dwarf galaxy NGC 4449 with the goal of investigating how stellar feedback may depend on the clusters’ properties. Using ultraviolet (UV)–optical–near-infrared photometry obtained with the Hubble Space Telescope, we have recovered 99 compact sources exhibiting emission in the Paβ hydrogen recombination line. Our analysis reveals these sources possess masses of 102 < M⊙ < 105, ages of 1–20 Myr, and a color excess E(B − V) in the range 0–1.4. After selecting clusters with masses above 3000 M⊙ to mitigate stochastic sampling of the stellar initial mass function, we find that our IR-selected clusters have a median mass ∼ 7 × 103 M⊙ and remain embedded in their surrounding gas and dust for 5–6 Myr. In contrast, line-emitting sources selected from existing UV/optical catalogs have a median mass ∼ 3.5 × 104 M⊙ and have cleared their surroundings by 4 Myr. We further find that the environment in NGC 4449 has too low pressure to drive these differences. We interpret these findings as evidence that the clearing timescale from presupernova and supernova feedback is cluster mass dependent. Even in clusters with masses ∼ 7000 M⊙, stochastic sampling of the upper end of the stellar initial mass function is present, randomly decreasing the number of massive stars available to inject energy and momentum into the surrounding medium. This effect may increase the clearing timescales in these clusters by decreasing the effectiveness of both presupernova and supernova feedback; neither models nor observations have so far explored such dependence explicitly. Future studies and observations with, e.g., the JWST, will fill this gap.
-]]></content:encoded>
-<pubDate>2024-05-21T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Systematic Search for and Study of Short-timescale Flare Structures in BL Lac Object Gamma-Ray Emission</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e68</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e68</guid>
-<content:encoded><![CDATA[
-<div> 高Galactic BL Lac对象，γ射线耀斑，贝叶斯块和HOP算法，耀斑对称性，功率谱密度，流量-光子指数关系
-
-这篇文章对29个高Galactic BL Lac对象进行了14年Fermi大面积望远镜数据的短时间尺度γ射线耀斑的系统性搜索。通过贝叶斯块和HOP算法，发现了来自3个源的七个高质量的轨道时间尺度的耀斑段，以及量化了24个短时间尺度的耀斑结构。主要结果如下：（1）耀斑对称性参数A呈“U”形分布，短时间尺度的耀斑是对称的，而长时间尺度的耀斑是不对称的。快升慢降和慢升快降类型的耀斑数量相等。发现A与峰值/积分流量之间没有相关性，也没有在连续耀斑之间观察到参数演变。观察结果支持了长时间尺度的耀斑来自对称的短时间尺度亚小时耀斑的叠加情景。（2）年度至小时尺度上的PSD采用CARMA过程建模。在较低频率下，PSD遵循典型的破裂幂律形式。PSD的高频区域呈现连续的幂律形状，表明γ射线变异性源自跨越所有探测时间尺度的单一物理过程。（3）流量-光子指数分布显示“亮时更硬”或“亮时更软”的模式，但在达到一定临界流量后变得平坦，即Γ≈2。这种行为不能简单地用两分量或BL Lac序列模型解释，我们推测这可能与电子加速和冷却之间复杂的相互作用有关。
-
-<br /><br />总结:
-本研究首次对高Galactic BL Lac对象进行了长达14年的Fermi大面积望远镜数据的系统性分析，结果发现了短时间尺度的γ射线耀斑的特征及其对称性、功率谱密度的模型及流量-光子指数关系的复杂性。研究表明，长时间尺度的耀斑可能由短时间对称的亚小时耀斑叠加而成，γ射线变异性可能源自跨越所有时间尺度的单一物理过程，而流量-光子指数关系则可能与电子加速和冷却之间的复杂相互作用相关。 <div>
-We present here the first systematic search of short-timescale γ-ray flares from 29 high Galactic latitude BL Lac objects over 14 yr of Fermi Large Area Telescope data. Using a combined Bayesian Blocks and HOP algorithm, we identified seven high-quality orbital timescale flare segments from three sources and quantified 24 short-timescale flare structures. We then performed a comprehensive analysis of flare symmetry, power spectral density (PSD) of variability, and flux–photon index relation. The main results are as follows. (1) The flare symmetry parameter A shows a “U-shaped” distribution. Short-timescale flares are symmetric while long-timescale flares are asymmetric. The number of fast-rise, slow-decay and slow-rise, fast-decay type flares are equal. No correlation is found between A and peak/integral flux. No parameter evolution is seen between consecutive flares, either. The observations support a scenario where longer-timescale flares originate from the superposition of short, symmetric subhour flares. (2) PSD from yearly to hourly timescales is modeled using the CARMA process. At lower frequencies, the PSD follows the typical broken power-law form. The high-frequency region of the PSD exhibits a continuous power-law shape, indicating that γ-ray variability originates from a single physical process across all probed timescales. (3) The flux–photon index distribution shows a pattern of “harder-when-brighter” or “softer-when-brighter,” but becomes flat above a certain critical flux, with Γ ≈ 2. This behavior cannot be simply explained by a two-component or blazar sequence model, and we speculate it may be related to complex interplay between electron acceleration and cooling.
-]]></content:encoded>
-<pubDate>2024-05-21T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Reduced Water Loss due to Photochemistry on Terrestrial Planets in the Runaway Greenhouse Phase around Pre-main-sequence M Dwarfs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e7e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e7e</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 恒星M矮星, 行星, 化学反应, 水的流失, 太阳辐射
-总结:
-本文研究了围绕着前主序M矮星的类地行星大气中水的流失情况。研究发现，由于H2O再生反应的有效性以及O2对紫外线的屏蔽作用，导致水的流失速率显著降低。这意味着目前在M矮星的宜居区内的类地行星更有可能保留地表水。该研究为我们更好地理解M矮星周围的行星的环境条件提供了重要线索。 <div>
-Terrestrial planets currently in the habitable zone around M dwarfs are estimated to have been in runaway greenhouse conditions for up to ∼1 Gyr due to the long-term pre-main-sequence phase of M dwarfs. These planets likely lose a significant portion of water during the pre-main-sequence phase owing to H2O photolysis followed by hydrogen and oxygen loss to space. However, the effects of H2O reproduction reactions and UV shielding by chemical products that reduce photolysis-induced water loss have yet to be estimated. Here, we apply a 1D photochemical model to a H2O-dominated atmosphere of an Earth-like planet around a pre-main-sequence M dwarf to estimate these effects. We find that water loss is suppressed by efficient H2O reproduction reactions and by UV shielding due to O2. The water loss rate decreases by several to several hundred times compared to that in previous studies, with the assumption that the water loss rate is limited by stellar X-ray and extreme-ultraviolet flux or hydrogen diffusion through the atmosphere. Our results imply that terrestrial planets currently in the habitable zone around M dwarfs are more likely to retain surface water than previously estimated.
 ]]></content:encoded>
 <pubDate>2024-05-21T23:00:00Z</pubDate>
 </item>
