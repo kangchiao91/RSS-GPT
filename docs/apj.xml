@@ -4,6 +4,62 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>FAST Survey of H i and OH Absorption toward Extragalactic Radio Sources</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d5c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d5c</guid>
+<content:encoded><![CDATA[
+<div> H i 21 cm, OH-1667 MHz, fueling processes, feedback processes, host galaxies
+<br>
+本研究使用H i 21厘米和OH-1667兆赫的吸收线追踪了活跃星系核的宿主星系中的中性原子氢和分子气体，旨在了解燃料和反馈过程。对40个低至中等射电亮度（∼1023–1026 W Hz−1 at 1.4 GHz）、红色中红外颜色（W2[4.6 μm]–W3[12 μm] > 2.5 mag）、红移高达0.35的射电源进行了H i和OH吸收调查，发现了8个H i吸收源，其中5个是新的探测，说明了与主机星系的星形成历史有关的探测率。此外，H i柱密度与低频谱指数呈负相关。没有探测到OH吸收，但通过叠加光谱，估计了OH柱密度的上限，并通过对七个关联的H i吸收体进行叠加，估计了[OH]/[H i]比率的上限。 
+<br><br>总结: 
+本研究使用H i 21厘米和OH-1667兆赫的吸收线追踪了活跃星系核的宿主星系中的中性原子氢和分子气体，了解了燃料和反馈过程。对40个低至中等射电亮度的射电源进行了调查，发现了8个H i吸收源，结果与主机星系的星形成历史相关。没有探测到OH吸收，但估计了OH柱密度和[OH]/[H i]比率的上限。 <div>
+Neutral atomic hydrogen and molecular gas in the host galaxies of radio active galactic nuclei can be traced using H i 21 cm and OH-1667 MHz absorption lines to understand the fueling and feedback processes. We present the results of an H i and OH absorption survey with the Five-hundred-meter Aperture Spherical radio Telescope toward 40 radio sources of low–intermediate radio luminosity (∼1023–1026 W Hz−1 at 1.4 GHz), red mid-infrared color (W2[4.6 μm]–W3[12 μm] > 2.5 mag), and redshift up to 0.35. From 13 sources with good data at H i observing frequencies, we report the detection of H i absorption toward eight sources, five of which are new detections, including four in the redshift range 0.25–0.35. Our detection rates are consistent with our previous results, with the dependence on the star formation history of the host galaxies reflected in the mid-infrared Wide-field Infrared Survey Explorer W2−W3 colors and the compactness of the radio sources. We find no significant dependence of the detection rates on radio luminosity or redshift. We also find that the H i column densities are anticorrelated with the low-frequency spectral indices ( , Sν ∝ ν−α). We do not have any detections from 23 sources with good data at OH observing frequencies. However, by stacking the spectra, we estimate the 3σ upper limit of the OH column density to be 2.27 × 1014Tex/10 K × 1/fc cm−2. By stacking the OH spectra for seven associated H i absorbers, we get a 3σ upper limit of 3.47 × 1014Tex/10 K × 1/fc cm−2 on the OH column density and 1.78 × 10−7 on the [OH]/[H i] ratio.
+]]></content:encoded>
+
+<pubDate>2024-09-16T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Kinetic-magnetohydrodynamic Model with Adaptive Mesh Refinement for Modeling Heliosphere Neutral-plasma Interaction</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6323</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6323</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 电荷交换，太阳风等离子体，中性粒子，动力学模拟，自适应网格
+
+在这篇文章中，研究了宇宙空间中的电荷交换对太阳风等离子体与星际介质之间相互作用的影响。由于中性离子和中性相互碰撞的平均自由程与太阳圈的大小相当或更大，中性相空间分布可以远离麦克斯韦分布。因此，对中性粒子进行动力学描述对准确建模太阳圈至关重要。为了提高模拟效率，研究人员实施了自适应网格细化以及对中性粒子的粒子分裂和合并算法，从而减少了所需的粒子数量。研究人员设计了一个新的高效的模型，该模型同时具有中性粒子的动力学模型和离子与电子的磁流体力学模型。他们进行了多项测试来验证和展示模型的能力。 <br><br>总结: 本文研究了宇宙空间中电荷交换的重要性，介绍了一种同时具有动力学模型和磁流体力学模型的新型模型，以及自适应网格细化和粒子分裂合并算法的应用。 <div>
+The charge exchange between the interstellar medium and the solar wind plasma is crucial for determining the structures of the heliosphere. Since both the neutral-ion and neutral–neutral collision mean free paths are either comparable to or larger than the size of the heliosphere, the neutral phase space distribution can deviate far away from the Maxwellian distribution. A kinetic description for the neutrals is crucial for accurately modeling the heliosphere. It is computationally challenging to run three-dimensional time-dependent kinetic simulations due to the large number of macroparticles. In this paper, we present the new highly efficient Solar Wind with Hydrogen Ion Exchange and Large-scale Dynamics-2 model with a kinetic model of neutrals and a magnetohydrodynamic model for the ions and electrons. To improve the simulation efficiency, we implement adaptive mesh refinement and particle splitting and merging algorithms for the neutral particles to reduce the particle number that is required for an accurate simulation. We present several tests to verify and demonstrate the capabilities of the model.
+]]></content:encoded>
+
+<pubDate>2024-09-16T23:00:00Z</pubDate>
+</item>
+<item>
+<title>General Relativistic Radiation Magnetohydrodynamics Simulations of Precessing Tilted Super-Eddington Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cd9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cd9</guid>
+<content:encoded><![CDATA[
+<div> 黑洞，磁流体动力学，引力辐射，盘前进，光度变化
+<br><br>
+这篇文章中进行了一个三维的广义相对论辐射磁流体动力学模拟，模拟了一个倾斜的超艾丁顿吸积盘环绕自转黑洞的情况。盘会倾斜和扭曲，并在维持形状的同时进动。气体主要是在外部盘环绕的自转轴向外喷射，而不是在黑洞的自转轴向外喷射。盘的进动会随时间改变气体的喷射方向。辐射能量也在大致相同的方向释放，所以进动会导致观测到的光度产生准周期的时间变化。对于10太阳质量的黑洞和数十个引力半径范围内的盘径，进动的时间尺度约为10秒。这个时间尺度与一些超强X射线源观测到的低频准周期振荡（0.01-1赫兹）的频率是一致的。 
+<br>关键词: 黑洞，磁流体动力学，引力辐射，盘前进，光度变化
+<br>总结: 该研究通过模拟发现，倾斜的超艾丁顿吸积盘环绕自转黑洞，导致气体喷射方向的准周期性变化，也会引起观测到的光度产生时间变化。这对于解释一些超强X射线源观测到的低频准周期振荡提供了可行的机制。 <div>
+We perform a three-dimensional general relativistic radiation magnetohydrodynamics simulation of a tilted super-Eddington accretion disk around a spinning black hole (BH). The disk, which tilts and twists as it approaches the BH, precesses while maintaining its shape. The gas is mainly ejected around the rotation axis of the outer part of the disk rather than around the spin axis of the BH. The disk precession changes the ejection direction of the gas with time. The radiation energy is also released in approximately the same direction as the outflow, so the precession is expected to cause a quasiperiodic time variation of the observed luminosity. The timescale of the precession is about 10 s for a 10 M⊙ BH and for the radial extent of a disk of several tens of gravitational radii, where M⊙ is the solar mass. This timescale is consistent with the frequency of the low-frequency quasiperiodic oscillation (0.01–1 Hz) observed in some ultraluminous X-ray sources.
+]]></content:encoded>
+
+<pubDate>2024-09-16T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring the Small-scale Magnetic Fields in the Atmosphere of HD 49385 by Asteroseismic Analysis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c7</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 红巨星, 磁场, 振荡, 氦核, 恒星参数
+总结:
+红巨星HD 49385内存在小尺度磁场的研究取得了突破，研究人员通过引入修正的Eddington T-τ方程，模拟了磁场对恒星大气中振荡的影响，并推断出磁场约80G的强度，高度约1850km。研究人员还通过将计算频率与观测频率进行对比，选择了两个最佳模型，确认了避免交叉模式与恒星的氦核密切相关，并确定了HD 49385的质量为1.25M⊙，年龄分别为4.1Gyr和4.5Gyr。这些结果提供了关于HD 49385内部结构和恒星参数的重要信息。<br><br> <div>
+Recent asteroseismic studies have shown convincing evidence that magnetic fields may exist in the interior of some pulsating red giants. Inspired by this breakthrough, we explored the effect of small-scale magnetic fields on the p-mode oscillations in an evolved star, HD 49385. We incorporate a modified Eddington T–τ equation that phenomenologically mimics the effect of the magnetic fields in the atmosphere of HD 49385, and calculate the frequencies of p-modes with l = 0, 1, and 2. By comparing the calculated frequencies with the observed ones, we select two best-fit models with either GS98 or A09 chemical composition. Our best-fit models not only fit satisfactorily the observed frequencies but also well reproduce some spectroscopically observed stellar parameters such as effective temperature and log g. Based on the two best-fit models, we have estimated that the small-scale magnetic fields possess a strength of approximately 80 G and spread concentratively at approximately a height of 1850 km in the atmosphere. By selecting the best-fit models with a special requirement on the avoided-crossing mode, we have confirmed that the frequency of the avoided-crossing mode is tightly related to the helium core of the star, and determined the size of the helium core as 0.117 M⊙ in mass and 0.078 R⊙ in radius. Based on the improvements of the previous two sides, we can accurately determine the mass of HD 49385 to be 1.25 ± 0.02 M⊙ with an age of 4.1 Gyr for GS98 composition and 4.5 Gyr for A09 composition.
+]]></content:encoded>
+
+<pubDate>2024-09-16T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Playing with FIRE: A Galactic Feedback-halting Experiment Challenges Star Formation Rate Theories</title>
