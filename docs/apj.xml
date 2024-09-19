@@ -4,19 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A New Deep Learning Model to Detect Gamma-Ray Bursts in the AGILE Anticoincidence System</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64cd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64cd</guid>
 <content:encoded><![CDATA[
 <div> X-ray, gamma-ray, AGILE mission, deep learning, GRBs
-<br><br>
+<br /><br />
 该研究利用AGILE空间任务获取的数据，包括了2019年1月1日至2022年12月31日的ACS反差计数系统数据。该系统旨在通过使用深度学习模型预测AGILE ACS顶部面板的背景计数率，并利用预测和获取的计数率之间的差异来检测伽马射线暴（GRB）。使用卫星轨道参数作为输入，训练模型的背景数据集。在此训练后，模型可以以3.8%的平均重建误差预测ACS计数率。研究人员使用GRBweb目录中列出的GRBs，从AGILE ACS中提取出包含每个GRB的1.024秒的光变曲线，涵盖了GRBs的触发时间。模型检测到39个显著度为σ≥3的GRBs，其中包括四个在AGILE数据中首次探测到的GRBs。
-<br>
+<br />
 总结: 该研究利用AGILE卫星采集的X射线和伽马射线天体物理数据，通过深度学习模型预测背景计数率，并发现了39个GRBs，其中包括四个是AGILE数据中首次探测到的。 <div>
 The AGILE space mission was launched in 2007 to study X-ray and gamma-ray astrophysics. AGILE operated in spinning mode from 2009 until 2024 February 14, when it re-entered the Earth’s atmosphere. This work uses data acquired from the AGILE anticoincidence system (ACS) from 2019 January 1 to 2022 December 31. The ACS is designed to reject charged background particles. It also detects X-ray photons in the 50–200 KeV energy range and saves each panel count rate in the telemetry as ratemeter data, a time series with a resolution of 1.024 s. We developed a method that uses a deep learning model to predict the background count rates of the AGILE ACS top panel (perpendicular to the pointing direction of the payload detectors) using the satellite’s orbital parameters as input. Then, we use the difference between predicted and acquired count rates to detect gamma-ray bursts (GRB). We trained the model with a background-only data set. After the training, the model can predict the ACS count rates with a mean reconstruction error of 3.8%. We used the GRBs listed in the GRBweb catalog to search for significant anomalies in the ACS data. We extracted light curves of 140 bins of 1.024 s for each GRB from the AGILE ACS to cover the trigger time of the GRBs. The model detected 39 GRBs with a significance of σ ≥ 3. The results contain four GRBs detected for the first time in the AGILE data.
 ]]></content:encoded>
-
 <pubDate>2024-09-18T23:00:00Z</pubDate>
 </item>
 <item>
@@ -26,10 +26,9 @@ The AGILE space mission was launched in 2007 to study X-ray and gamma-ray astrop
 <content:encoded><![CDATA[
 <div> 关键词: Gamma-ray bursts, particle acceleration, magnetic reconnection, spectral behaviors, astrophysical sources
 总结: 
-本研究通过对亮度GRB 160625B和GRB 160509A的脉冲特性进行全面分析，首次从能谱Ep和Ecut的演化行为中找到了相对论磁重联加速粒子的证据。同时，磁重联区域内发射粒子的绝热冷却过程产生了能谱指数和通量之间的关系。我们还讨论了能谱能量相关性背后的物理学。最后，我们认为Ecut和Liso之间的反相关性的发现可能为多种天体物理源中粒子加速和辐射物理的诊断开辟了新途径。 <br><br> <div>
+本研究通过对亮度GRB 160625B和GRB 160509A的脉冲特性进行全面分析，首次从能谱Ep和Ecut的演化行为中找到了相对论磁重联加速粒子的证据。同时，磁重联区域内发射粒子的绝热冷却过程产生了能谱指数和通量之间的关系。我们还讨论了能谱能量相关性背后的物理学。最后，我们认为Ecut和Liso之间的反相关性的发现可能为多种天体物理源中粒子加速和辐射物理的诊断开辟了新途径。 <br /><br /> <div>
 Gamma-ray bursts (GRBs) as the most energetic explosions in the modern universe have been studied for over half a century, but the physics of the particle acceleration and radiation responsible for their observed spectral behaviors are still not well understood. Based on the comprehensive analysis of the pulse properties in both bright GRB 160625B and GRB 160509A, for the first time, we identify evidence of particle acceleration by relativistic magnetic reconnection from the evolutionary behavior of the two spectral breaks Ep and Ecut. Meanwhile, the adiabatic cooling process of the emitting particles in the magnetic reconnection regions produces a relation between the spectral index and the flux. We also discuss the physics behind spectral energy correlations. Finally, we argue that the identification of an anticorrelation between Ecut and Liso may open a new avenue for diagnostics of the physics of the particle acceleration and radiation in a variety of astrophysical sources.
 ]]></content:encoded>
-
 <pubDate>2024-09-18T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,14 +36,12 @@ Gamma-ray bursts (GRBs) as the most energetic explosions in the modern universe 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d8</guid>
 <content:encoded><![CDATA[
-<div> 太阳，太阳黑子，磁场，太阳耀斑，等离子体<br>
-太阳色球和日冕之间观察到太阳色球顶芽的等离子喷射，使用Pencil Code解决辐射磁流体动力学方程，使用不同磁场强度进行模拟，发现随着磁场强度增加，太阳色球顶芽的数量密度和最大高度均减小。同时，通过对超过分布75%的高度的太阳色球顶芽的时间-距离曲线进行拟合，找到了太阳色球顶芽尖端减速与磁场强度之间的关系。这些结果揭示了太阳色球顶芽对磁场强度的响应。<br><br>总结: <br>太阳色球顶芽是太阳色球和日冕之间的等离子喷射，研究发现随着磁场强度增加，太阳色球顶芽的数量密度和最大高度均减小。研究还找到了太阳色球顶芽尖端减速与磁场强度之间的关系。 <div>
+<div> 太阳，太阳黑子，磁场，太阳耀斑，等离子体<br />
+太阳色球和日冕之间观察到太阳色球顶芽的等离子喷射，使用Pencil Code解决辐射磁流体动力学方程，使用不同磁场强度进行模拟，发现随着磁场强度增加，太阳色球顶芽的数量密度和最大高度均减小。同时，通过对超过分布75%的高度的太阳色球顶芽的时间-距离曲线进行拟合，找到了太阳色球顶芽尖端减速与磁场强度之间的关系。这些结果揭示了太阳色球顶芽对磁场强度的响应。<br /><br />总结: <br />太阳色球顶芽是太阳色球和日冕之间的等离子喷射，研究发现随着磁场强度增加，太阳色球顶芽的数量密度和最大高度均减小。研究还找到了太阳色球顶芽尖端减速与磁场强度之间的关系。 <div>
 Solar spicules are plasma jets observed in the interface region between the visible solar surface and the corona. At any given time, there is a forest of spicules originating in the chromosphere of the Sun. While various models attempt to elucidate their origin and characteristics, here, we consider the one driven by the magnetoconvection undulations. The radiative magnetohydrodynamic (rMHD) equations are solved using Pencil Code with a spatial resolution of 16 km using various magnetic field strengths. The obtained rMHD simulation data are investigated to unveil the various trends in spicular properties as a function of the applied magnetic fields. The important outcome of this study is the finding of a consistent reduction in both the number density and the maximum height reached by spicules as magnetic field strength increases. We also use parabolic fitting on time–distance curves of spicules that are taller than the 75th percentile in the distribution, in order to find a relation between the deceleration of the spicule tip and the magnetic field strength. Our results offer insights into the response of solar spicules to magnetic field strength.
 ]]></content:encoded>
-
 <pubDate>2024-09-16T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A Data-constrained Analysis for Joule Heating as a Solar Active Region Atmosphere Heating Mechanism. I. Sunspot Umbral Light Bridge</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e75</link>
@@ -11836,40 +11833,6 @@ In high-Lundquist-number plasmas, reconnection proceeds via the onset of tearing
 总结:  
 本研究通过观测超过5500个涡旋星系的Hα发射线速度，比较了其在90%椭圆Petrosian半径R90处的旋转速度与其可见质量所预期速度的比值。我们计算了来自恒星、氢气、H2、重金属和尘埃质量的总可见质量，并将H2质量建立成r带绝对星等的函数。基于统计分析，我们得出结论，在涡旋星系的可见范围内，不能以95%的置信水平排除无暗物质的零假设。此外，我们发现，在考虑所有质量组分时，星系的可见质量与总质量之比随其亮度增加而增加。 <br /> <div>
 We present a study of the ratio of visible mass to total mass in spiral galaxies to better understand the relative amount of dark matter present in galaxies of different masses and evolutionary stages. Using the velocities of the Hα emission line measured in spectroscopic observations from the Sloan Digital Sky Survey (SDSS) MaNGA Data Release 17 (DR 17), we evaluate the rotational velocity of over 5500 disk galaxies at their 90% elliptical Petrosian radii, R90. We compare this to the velocity expected from the total visible mass, which we compute from the stellar, H i, H2, and heavy metals and dust masses. H2 mass measurements are available for only a small subset of galaxies observed in SDSS MaNGA DR17, so we derive a parameterization of the H2 mass as a function of absolute magnitude in the r band using galaxies observed as part of SDSS DR7. With these parameterizations, we calculate the fraction of visible mass within R90 that corresponds to the observed velocity. Based on statistically analyzing the likelihood of this fraction, we conclude that the null hypothesis (no dark matter) cannot be excluded at a confidence level better than 95% within the visible extent of the disk galaxies. We also find that when all mass components are included, the ratio of visible to total mass within the visible extent of star-forming disk galaxies increases with galaxy luminosity.
-]]></content:encoded>
-<pubDate>2024-05-27T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Retrievals of Protoplanetary Disk Parameters Using Thermochemical Models. I. Disk Gas Mass from Hydrogen Deuteride Spectroscopy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e6f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e6f</guid>
-<content:encoded><![CDATA[
-<div> Protoplanetary disks, HD line flux, dust SED, statistical relationships, Monte Carlo<br /> 
-总结: 该研究使用3000个ProDiMo盘模型讨论了原行星盘的质量、氢化二铟(HD)线流和尘埃谱能量分布(SED)之间的统计关系。他们发现质量加权的HD分数丰度几乎是恒定的，尽管紫外线通量变化了几个数量级。通过对物理量和HD流量之间的统计关系的探讨，他们发现低质量(光学薄)盘显示了平均盘气温与HD线流之间的紧密关联，而大质量盘则没有这种关联。研究还证明，中央恒星的光度、盘尺寸、尘埃尺寸分布和HD流量可以用来确定盘气体质量，精度在3倍以内。他们还发现，远红外和亚毫米/毫米波SED以及HD流量可以作为确定盘气体质量的强约束，精度在2倍以内。如果HD线完全光谱分辨(R≳1.5×10^6, Δv=0.2 km s^-1)，那么单独的56和112微米HD线剖面可以将盘气体质量确定在2倍以内。 <div>
-We discuss statistical relationships between the mass of protoplanetary disks, the hydrogen deuteride (HD) line flux, and the dust spectral energy distribution (SED) determined using 3000 ProDiMo disk models. The models have 15 free parameters describing the disk physical properties, the central star, and the local radiation field. The sampling of physical parameters is done using a Monte Carlo approach to evaluate the probability density functions of observables as a function of physical parameters. We find that the mass-averaged HD fractional abundance is almost constant even though the ultraviolet flux varies by several orders of magnitude. Probing the statistical relation between the physical quantities and the HD flux, we find that low-mass (optically thin) disks display a tight correlation between the average disk gas temperature and HD line flux, while massive disks show no such correlation. We demonstrate that the central star luminosity, disk size, dust size distribution, and HD flux may be used to determine the disk gas mass within a factor of 3. We also find that the far-infrared and submillimeter/millimeter SEDs and the HD flux may serve as strong constraints for determining the disk gas mass to within a factor of 2. If the HD lines are fully spectrally resolved (R ≳ 1.5 × 106, Δv = 0.2 km s−1), the 56 and 112 μm HD line profiles alone may constrain the disk gas mass to within a factor of 2.
-]]></content:encoded>
-<pubDate>2024-05-27T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Eruption of a Million-Kelvin Warm Magnetic Flux Rope on the Sun</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3fb3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3fb3</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳，磁通绳，等离子体，耀斑，日冕质量抛射<br />
-<br />
-在这项研究中，研究人员使用来自太阳动力学观测卫星上的大气成像组件和太阳地球关系观测卫星-A上的极紫外成像仪的多波段图像，观察到了一个暖通道的喷发事件。首先观察到了一个高温通道的失败喷发，随后出现了一个暖通道，该暖通道较为稀有，温度在百万开尔文左右。随后暖通道发生喷发并转变成半圆形。与此事件相关联的还有一个耀斑和磁重联的迹象。所有的结果表明，他们对于日冕磁通绳在百万开尔文温度下的清晰观测，填补了日冕磁通绳温度领域的空白。 <br /><br />总结: <div>
-Solar magnetic flux rope (MFR) plays a central role in the physics of coronal mass ejections (CMEs). It mainly includes a cold filament at typical chromospheric temperatures (∼10,000 K) and a hot channel at high coronal temperatures (∼10 MK). The warm MFR at quiescent coronal temperatures of a million Kelvin is, however, rarely reported. In this study, using multiwavelength images from the Atmospheric Imaging Assembly (AIA) on board the Solar Dynamic Observatory and Extreme Ultraviolet Imager (EUVI) on board the Solar Terrestrial Relations Observatory-A, we present an eruption of a warm channel that represents an MFR with quiescent coronal temperatures (∼0.6–2.5 MK). On 2022 May 8, we observed the failed eruption of a hot channel, with the average temperature and emission measure (EM) of 10 MK and 1.1 × 1028 cm−5, using AIA high-temperature images in the active region (AR) 13007. This failed eruption was associated with a C8.2 flare, with no CME. Subsequently, we observed a warm channel that appeared in AIA and EUVI low-temperature images rather than in AIA high-temperature images. It then erupted and transformed into a semicircular shape. An associated C2.1 flare, along with the signatures of magnetic reconnection in AIA high-temperature images, were identified. Additionally, we observed a CME associated with this event. Compared with the hot channel, the warm channel is cooler and rarer with the average temperature and EM of 1.7 (1.6) MK and 2.0 × 1026 (2.3 × 1026) cm−5. All the results suggest an unambiguous observation of the million-Kelvin warm MFR that erupted as a CME and fill a gap in the temperature domain of coronal MFRs.
-]]></content:encoded>
-<pubDate>2024-05-27T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Detection of Simultaneous Quasiperiodic Oscillation Triplets in 4U 1728-34 and Constraining the Neutron Star Mass and Moment of Inertia</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad410c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad410c</guid>
-<content:encoded><![CDATA[
-<div> Neutron star, Quasiperiodic oscillations, AstroSat/LAXPC, 质量, 方程 of state <br />
-该研究使用AstroSat/LAXPC观测到双kHz和约40Hz的准周期振荡，并发现了这些振荡频率之间的相关性。这些结果对中子星的质量和惯性矩与质量比率提出了约1%和5%的粗略估计。使用Tolman–Oppenheimer–Volkoff方程计算不同状态方程的中子星的惯性矩，结果显示更硬的状态方程更符合预期值。研究结果为QPO的本质和中子星内部提供了见解。 <br /><br />总结: <br />该研究观测到双kHz和约40Hz的准周期振荡，并发现了这些振荡频率之间的相关性。研究对中子星的质量和惯性矩与质量比率提出了约1%和5%的粗略估计。根据使用Tolman–Oppenheimer–Volkoff方程计算的不同状态方程的中子星惯性矩，结果显示更硬的状态方程更符合预期值。研究结果为QPO的本质和中子星内部提供了见解。 <div>
-We report simultaneous detection of twin kHz and ∼40 Hz quasiperiodic oscillations (QPOs) in the time-resolved analysis of the AstroSat/LAXPC observation of the neutron star low-mass X-ray binary, 4U 1728-34. The frequencies of the multiple sets of triplets are correlated with each other and are consistent with their identification as the orbital, periastron precession, and twice the nodal precession frequencies. The observed relations, along with the known spin of the neutron star, put constraints on the mass and the ratio of the moment of inertia to the mass of the neutron star to be and under the simplistic assumption that the metric is a Kerr one. We crudely estimate that the mass and moment of inertia values obtained may differ by about 1% and 5%, respectively, if a self-consistent metric is invoked. Using the Tolman–Oppenheimer–Volkoff equations for computing the moment of inertia of a neutron star in slow rotation approximation, having different equations of state, we find that the predicted values of neutron star parameters favor stiffer equations of state. We expect more stringent constraints would be obtained using a more detailed treatment, where the equation of state–dependent metric is used to compute the expected frequencies rather than the Kerr metric used here. The results provide insight into both the nature of these QPOs and the neutron star interior.
 ]]></content:encoded>
 <pubDate>2024-05-27T23:00:00Z</pubDate>
 </item>
