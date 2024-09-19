@@ -4,6 +4,46 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>A New Deep Learning Model to Detect Gamma-Ray Bursts in the AGILE Anticoincidence System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64cd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64cd</guid>
+<content:encoded><![CDATA[
+<div> X-ray, gamma-ray, AGILE mission, deep learning, GRBs
+<br><br>
+该研究利用AGILE空间任务获取的数据，包括了2019年1月1日至2022年12月31日的ACS反差计数系统数据。该系统旨在通过使用深度学习模型预测AGILE ACS顶部面板的背景计数率，并利用预测和获取的计数率之间的差异来检测伽马射线暴（GRB）。使用卫星轨道参数作为输入，训练模型的背景数据集。在此训练后，模型可以以3.8%的平均重建误差预测ACS计数率。研究人员使用GRBweb目录中列出的GRBs，从AGILE ACS中提取出包含每个GRB的1.024秒的光变曲线，涵盖了GRBs的触发时间。模型检测到39个显著度为σ≥3的GRBs，其中包括四个在AGILE数据中首次探测到的GRBs。
+<br>
+总结: 该研究利用AGILE卫星采集的X射线和伽马射线天体物理数据，通过深度学习模型预测背景计数率，并发现了39个GRBs，其中包括四个是AGILE数据中首次探测到的。 <div>
+The AGILE space mission was launched in 2007 to study X-ray and gamma-ray astrophysics. AGILE operated in spinning mode from 2009 until 2024 February 14, when it re-entered the Earth’s atmosphere. This work uses data acquired from the AGILE anticoincidence system (ACS) from 2019 January 1 to 2022 December 31. The ACS is designed to reject charged background particles. It also detects X-ray photons in the 50–200 KeV energy range and saves each panel count rate in the telemetry as ratemeter data, a time series with a resolution of 1.024 s. We developed a method that uses a deep learning model to predict the background count rates of the AGILE ACS top panel (perpendicular to the pointing direction of the payload detectors) using the satellite’s orbital parameters as input. Then, we use the difference between predicted and acquired count rates to detect gamma-ray bursts (GRB). We trained the model with a background-only data set. After the training, the model can predict the ACS count rates with a mean reconstruction error of 3.8%. We used the GRBs listed in the GRBweb catalog to search for significant anomalies in the ACS data. We extracted light curves of 140 bins of 1.024 s for each GRB from the AGILE ACS to cover the trigger time of the GRBs. The model detected 39 GRBs with a significance of σ ≥ 3. The results contain four GRBs detected for the first time in the AGILE data.
+]]></content:encoded>
+
+<pubDate>2024-09-18T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Observational Evidence of Particle Acceleration by Relativistic Magnetic Reconnection in Gamma-Ray Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65d6</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Gamma-ray bursts, particle acceleration, magnetic reconnection, spectral behaviors, astrophysical sources
+总结: 
+本研究通过对亮度GRB 160625B和GRB 160509A的脉冲特性进行全面分析，首次从能谱Ep和Ecut的演化行为中找到了相对论磁重联加速粒子的证据。同时，磁重联区域内发射粒子的绝热冷却过程产生了能谱指数和通量之间的关系。我们还讨论了能谱能量相关性背后的物理学。最后，我们认为Ecut和Liso之间的反相关性的发现可能为多种天体物理源中粒子加速和辐射物理的诊断开辟了新途径。 <br><br> <div>
+Gamma-ray bursts (GRBs) as the most energetic explosions in the modern universe have been studied for over half a century, but the physics of the particle acceleration and radiation responsible for their observed spectral behaviors are still not well understood. Based on the comprehensive analysis of the pulse properties in both bright GRB 160625B and GRB 160509A, for the first time, we identify evidence of particle acceleration by relativistic magnetic reconnection from the evolutionary behavior of the two spectral breaks Ep and Ecut. Meanwhile, the adiabatic cooling process of the emitting particles in the magnetic reconnection regions produces a relation between the spectral index and the flux. We also discuss the physics behind spectral energy correlations. Finally, we argue that the identification of an anticorrelation between Ecut and Liso may open a new avenue for diagnostics of the physics of the particle acceleration and radiation in a variety of astrophysical sources.
+]]></content:encoded>
+
+<pubDate>2024-09-18T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dependence of Spicule Properties on the Magnetic Field—Results from Magnetohydrodynamics Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d8</guid>
+<content:encoded><![CDATA[
+<div> 太阳，太阳黑子，磁场，太阳耀斑，等离子体<br>
+太阳色球和日冕之间观察到太阳色球顶芽的等离子喷射，使用Pencil Code解决辐射磁流体动力学方程，使用不同磁场强度进行模拟，发现随着磁场强度增加，太阳色球顶芽的数量密度和最大高度均减小。同时，通过对超过分布75%的高度的太阳色球顶芽的时间-距离曲线进行拟合，找到了太阳色球顶芽尖端减速与磁场强度之间的关系。这些结果揭示了太阳色球顶芽对磁场强度的响应。<br><br>总结: <br>太阳色球顶芽是太阳色球和日冕之间的等离子喷射，研究发现随着磁场强度增加，太阳色球顶芽的数量密度和最大高度均减小。研究还找到了太阳色球顶芽尖端减速与磁场强度之间的关系。 <div>
+Solar spicules are plasma jets observed in the interface region between the visible solar surface and the corona. At any given time, there is a forest of spicules originating in the chromosphere of the Sun. While various models attempt to elucidate their origin and characteristics, here, we consider the one driven by the magnetoconvection undulations. The radiative magnetohydrodynamic (rMHD) equations are solved using Pencil Code with a spatial resolution of 16 km using various magnetic field strengths. The obtained rMHD simulation data are investigated to unveil the various trends in spicular properties as a function of the applied magnetic fields. The important outcome of this study is the finding of a consistent reduction in both the number density and the maximum height reached by spicules as magnetic field strength increases. We also use parabolic fitting on time–distance curves of spicules that are taller than the 75th percentile in the distribution, in order to find a relation between the deceleration of the spicule tip and the magnetic field strength. Our results offer insights into the response of solar spicules to magnetic field strength.
+]]></content:encoded>
+
+<pubDate>2024-09-16T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Data-constrained Analysis for Joule Heating as a Solar Active Region Atmosphere Heating Mechanism. I. Sunspot Umbral Light Bridge</title>
