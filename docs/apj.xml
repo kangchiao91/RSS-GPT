@@ -4,19 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>SOFIA/FORCAST Galactic Center Source Catalog</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55f2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55f2</guid>
 <content:encoded><![CDATA[
 <div> SOFIA, Galactic Center, Source Catalog, 25 and 37 μm, Astrophysical Studies
-<br><br>总结: 本研究针对银河系中心区域进行了大量观测。文章提供了银河系中心区域内25和37微米的源目录，总共包括了950个源，其中包括点源、紧凑源和扩展源。研究不仅限于未解决的点源，还提供了用于区分源类型的指标。这一研究为银河系中心区域的天体物理学研究提供了重要的数据基础。 <div>
+<br /><br />总结: 本研究针对银河系中心区域进行了大量观测。文章提供了银河系中心区域内25和37微米的源目录，总共包括了950个源，其中包括点源、紧凑源和扩展源。研究不仅限于未解决的点源，还提供了用于区分源类型的指标。这一研究为银河系中心区域的天体物理学研究提供了重要的数据基础。 <div>
 The central regions of the Milky Way constitute a unique laboratory for a wide swath of astrophysical studies; consequently, the inner ∼400 pc have been the target of numerous large surveys at all accessible wavelengths. In this paper, we present a catalog of sources at 25 and 37 μm located within all of the regions observed with the SOFIA/FORCAST instrument in the inner ∼200 pc of the Galaxy. The majority of the observations were obtained as part of the SOFIA Cycle 7 Galactic Center Legacy program survey, which was designed to complement the Spitzer/MIPS 24 μm catalog in regions saturated in the MIPS observations. Due to the wide variety of source types captured by our observations at 25 and 37 μm, we do not limit the FORCAST source catalog to unresolved point sources, or treat all sources as if they are pointlike sources. The catalog includes all detectable sources in the regions, resulting in a catalog of 950 sources, including point sources, compact sources, and extended sources. We also provide the user with metrics to discriminate between the source types.
 ]]></content:encoded>
-
 <pubDate>2024-09-23T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Multivariate Predictors of Lyman Continuum Escape. II. Predicting Lyman Continuum Escape Fractions for High-redshift Galaxies*</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5557</link>
@@ -11833,18 +11832,6 @@ A well-known property of solar wind plasma turbulence is the observed anisotropy
 总结:
 该研究报告了在标准宇宙学模型预测的暗物质晕的质量函数和存在于明亮的高红移星系之间存在紧张关系。研究提出了一种改进的测试方法，利用高红移巴尔默跃迁来探测早期104-105M⊙的重子迷你暗物质晕的形成。与先前的测试不同，这不依赖于质量与光度比，并且仅在很小程度上依赖于金属丰度、恒星初始质量函数和星形成历史，这些在高红移处的约束都较弱。研究表明，在最简单的ΛCDM宇宙学模型下，允许在z=9时的最强巴尔默跃迁的D4000约为1.26，在包括真实反馈模型的情况下D4000≤1.14。由于当前对JWST源的光度学模板拟合推断出在z≳11时存在更强的巴尔默跃迁，即将进行的光谱学后续研究将证明这些模板在高红移处无效，或者暗示“纯正”ΛCDM之外的新物理。 <div>
 Recent studies have reported tension between the presence of luminous, high-redshift galaxies and the halo mass functions predicted by standard cosmology. Here, an improved test is proposed using the presence of high-redshift Balmer breaks to probe the formation of early 104–105M⊙ baryonic minihalos. Unlike previous tests, this does not depend upon the mass-to-light ratio and has only a slight dependence upon the metallicity, stellar initial mass function, and star formation history, which are all weakly constrained at high redshift. We show that the strongest Balmer breaks allowed at z = 9 using the simplest ΛCDM cosmological model would allow a D4000 as high as 1.26 under idealized circumstances and D4000 ≤ 1.14 including realistic feedback models. Since current photometric template fitting to JWST sources infers the existence of stronger Balmer breaks out to z ≳ 11, upcoming spectroscopic follow-up will either demonstrate those templates are invalid at high redshift or imply new physics beyond “vanilla” ΛCDM.
-]]></content:encoded>
-<pubDate>2024-05-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Keck Primary Mirror Closed-loop Segment Control Using a Vector-Zernike Wavefront Sensor</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3b99</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3b99</guid>
-<content:encoded><![CDATA[
-<div> Keck II telescope, Zernike wavefront sensor, segmented primary mirror, closed-loop piston control, NIRC2 science camera
-<br /><br />总结:
-本文介绍了在Keck II望远镜上安装Zernike波前传感器（ZWFS）进行分段主镜闭环距离控制的研究。分段主镜的协同误差是Keck望远镜对比度限制的主要贡献因素，也是必须纠正的问题，特别是对于下一代太空任务和基于地面的超大型望远镜。ZWFS的目标是在科学观测中监测和纠正主镜协同误差。该研究使用的ZWFS是非常适合测量相位不连续性的传感器，并且对此非常敏感，但动态范围有限。Keck的向量型ZWFS在自适应光学校正波前上工作，并且采用了一个超表面焦平面掩模，在点扩散函数的核心上施加了两种不同的相位移动，产生两个正交的瞳像。这种设计扩展了动态范围，相对于标量ZWFS而言。通过ZWFS，通过闭环控制主镜分段的距离，能够将NIRC2科学相机的Strehl比提高10个百分点。我们分析了闭环测试的性能，对NIRC2科学数据的影响，并讨论了ZWFS测量的结果。 <div>
-We present the first on-sky segmented primary mirror closed-loop piston control using a Zernike wavefront sensor (ZWFS) installed on the Keck II telescope. Segment cophasing errors are a primary contributor to contrast limits on Keck and will be necessary to correct for the next generation of space missions and ground-based extremely large telescopes, which will all have segmented primary mirrors. The goal of the ZWFS installed on Keck is to monitor and correct primary mirror cophasing errors in parallel with science observations. The ZWFS is ideal for measuring phase discontinuities such as segment cophasing errors and is one of the most sensitive WFSs, but has limited dynamic range. The vector-ZWFS at Keck works on the adaptive-optics-corrected wavefront and consists of a metasurface focal plane mask that imposes two different phase shifts on the core of the point-spread function to two orthogonal light polarizations, producing two pupil images. This design extends the dynamic range compared with the scalar ZWFS. The primary mirror segment pistons were controlled in closed loop using the ZWFS, improving the Strehl ratio on the NIRC2 science camera by up to 10 percentage points. We analyze the performance of the closed-loop tests, the impact on NIRC2 science data, and discuss the ZWFS measurements.
 ]]></content:encoded>
 <pubDate>2024-05-29T23:00:00Z</pubDate>
 </item>
