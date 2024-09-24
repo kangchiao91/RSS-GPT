@@ -4,19 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Multivariate Predictors of Lyman Continuum Escape. II. Predicting Lyman Continuum Escape Fractions for High-redshift Galaxies*</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5557</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5557</guid>
 <content:encoded><![CDATA[
 <div> 高红移星系、Lyman连续发射、模型、脱逸量、星系性质
-总结:<br><br>本研究利用Cox比例风险模型进行生存分析，开发了新的经验多元预测模型，用于预测Lyman连续发射的脱逸量。通过应用这些模型到高红移星系，发现了预测的脱逸量范围，并鉴定出几个可能的极端泄漏星系。研究还发现多元预测与单变量预测有显著不同，以及高红移星系的预测脱逸量可能会因使用星形率表面密度或半径作为星系形态测量而有显著差异。研究提供了使用这些模型预测高红移星系的所有必要参数。 <div>
+总结:<br /><br />本研究利用Cox比例风险模型进行生存分析，开发了新的经验多元预测模型，用于预测Lyman连续发射的脱逸量。通过应用这些模型到高红移星系，发现了预测的脱逸量范围，并鉴定出几个可能的极端泄漏星系。研究还发现多元预测与单变量预测有显著不同，以及高红移星系的预测脱逸量可能会因使用星形率表面密度或半径作为星系形态测量而有显著差异。研究提供了使用这些模型预测高红移星系的所有必要参数。 <div>
 JWST is uncovering the properties of ever-increasing numbers of galaxies at z > 6, during the epoch of reionization. Connecting these observed populations to the process of reionization requires understanding how efficiently they produce Lyman continuum (LyC) photons and what fraction (fesc) of these photons escape into the intergalactic medium. By applying the Cox proportional hazards model, a survival analysis technique, to the Low-redshift Lyman Continuum Survey (LzLCS), we develop new, empirical, multivariate predictions for fesc. The models developed from the LzLCS reproduce the observed fesc for z ∼ 3 samples, which suggests that LyC emitters may share similar properties at low and high redshift. Our best-performing models for the z ∼ 3 galaxies include information about dust attenuation, ionization, and/or morphology. We then apply these models to z ≳ 6 galaxies. For large photometric samples, we find a median predicted fesc = 0.047–0.14. For smaller spectroscopic samples, which may include stronger emission-line galaxies, we find that ≥33% of the galaxies have fesc > 0.2, and we identify several candidate extreme leakers with fesc ≥ 0.5. The current samples show no strong trend between predicted fesc and UV magnitude, but limited spectroscopic information makes this result uncertain. Multivariate predictions can give significantly different results from single-variable predictions, and the predicted fesc for high-redshift galaxies can differ significantly depending on whether star formation rate surface density or radius is used as a measure of galaxy morphology. We provide all parameters necessary to predict fesc for additional samples of high-redshift galaxies using these models.
 ]]></content:encoded>
-
 <pubDate>2024-09-23T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Detecting and Classifying Flares in High-resolution Solar Spectra with Supervised Machine Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be3</link>
@@ -11834,19 +11833,6 @@ Recent studies have reported tension between the presence of luminous, high-reds
 <br /><br />总结:
 本文介绍了在Keck II望远镜上安装Zernike波前传感器（ZWFS）进行分段主镜闭环距离控制的研究。分段主镜的协同误差是Keck望远镜对比度限制的主要贡献因素，也是必须纠正的问题，特别是对于下一代太空任务和基于地面的超大型望远镜。ZWFS的目标是在科学观测中监测和纠正主镜协同误差。该研究使用的ZWFS是非常适合测量相位不连续性的传感器，并且对此非常敏感，但动态范围有限。Keck的向量型ZWFS在自适应光学校正波前上工作，并且采用了一个超表面焦平面掩模，在点扩散函数的核心上施加了两种不同的相位移动，产生两个正交的瞳像。这种设计扩展了动态范围，相对于标量ZWFS而言。通过ZWFS，通过闭环控制主镜分段的距离，能够将NIRC2科学相机的Strehl比提高10个百分点。我们分析了闭环测试的性能，对NIRC2科学数据的影响，并讨论了ZWFS测量的结果。 <div>
 We present the first on-sky segmented primary mirror closed-loop piston control using a Zernike wavefront sensor (ZWFS) installed on the Keck II telescope. Segment cophasing errors are a primary contributor to contrast limits on Keck and will be necessary to correct for the next generation of space missions and ground-based extremely large telescopes, which will all have segmented primary mirrors. The goal of the ZWFS installed on Keck is to monitor and correct primary mirror cophasing errors in parallel with science observations. The ZWFS is ideal for measuring phase discontinuities such as segment cophasing errors and is one of the most sensitive WFSs, but has limited dynamic range. The vector-ZWFS at Keck works on the adaptive-optics-corrected wavefront and consists of a metasurface focal plane mask that imposes two different phase shifts on the core of the point-spread function to two orthogonal light polarizations, producing two pupil images. This design extends the dynamic range compared with the scalar ZWFS. The primary mirror segment pistons were controlled in closed loop using the ZWFS, improving the Strehl ratio on the NIRC2 science camera by up to 10 percentage points. We analyze the performance of the closed-loop tests, the impact on NIRC2 science data, and discuss the ZWFS measurements.
-]]></content:encoded>
-<pubDate>2024-05-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Detecting the Early Optical Flashes of Gamma-Ray Bursts with Small Telescope Arrays</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3ba5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3ba5</guid>
-<content:encoded><![CDATA[
-<div> Large Array Survey Telescope, observational approach, early optical emission, long gamma-ray bursts, machine-learning classifier
-<br />
-通过使用Large Array Survey Telescope (LAST)进行观测，独立探测长时间伽马射线暴 (GRBs) 的早期光学发射。该方法利用小型光学望远镜组成的阵列，可以扫描广泛的天空区域，并在需要时集中于较小的视场以提高灵敏度。阵列的模块化结构便于快速切换望远镜指向，从而显著增加了对短时间尺度内盲目调查的有效天空覆盖面积。通过对伽马射线对应事件的早期数据的补充，可以为高能观测提供宝贵的信息。即使没有伽马射线关联，探测也可能用于探索与GRBs相关的各种现象，如孤立余辉、污染火球和窒息喷流。我们模拟了一组GRBs及其早期光学信号，考虑动态采样率后，将光变曲线输入到一个机器学习分类器中，用于识别天文现象。通过将LAST阵列的一半用于盲目搜索，预计每年可以独立检测7-11个GRBs，相当于每年大约0.12deg-2的内在事件率。
-<br /><br />总结: 通过使用LAST阵列，可以探测到GRBs的早期光学发射。这种方法利用小型望远镜阵列的模块化结构，可以对天空进行快速高效的观测，为GRBs研究提供了新的途径。模拟结果表明，采用机器学习分类器的方法可以识别并独立检测出GRBs，并为研究员提供有价值的数据。 <div>
-We present an observational approach for the independent detection of the early optical emission of long gamma-ray bursts (GRBs). For this purpose, we explore the potential of the Large Array Survey Telescope (LAST). This array of small optical telescopes can be used to scan a wide region of the sky, and to focus on a smaller field of view with increased sensitivity, as needed. The modularity of the array facilitates dynamic scanning of multiple fields, by shifting telescope pointing directions with high cadence. This can significantly increase the effective sky-coverage of a blind survey on short timescales. For events associated with gamma-ray counterparts, the valuable early time data can supplement high-energy observations. Regardless of gamma-ray association, detections can potentially be used to explore various phenomena associated with GRBs, such as orphan afterglows; dirty fireballs; and choked jets. We simulate a sample of GRBs and their respective optical signals at early times. After accounting for dynamic cadence, the light curves are given as input to a machine-learning classifier, used to identify astrophysical transients. We find that, by dedicating half of an LAST array to a blind search, one would expect to independently detect 7–11 GRBs yr–1, corresponding to an approximate intrinsic event rate of 0.12 deg–2 yr–1.
 ]]></content:encoded>
 <pubDate>2024-05-29T23:00:00Z</pubDate>
 </item>
