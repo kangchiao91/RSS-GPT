@@ -4,6 +4,85 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Detecting and Classifying Flares in High-resolution Solar Spectra with Supervised Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳耀斑, 监督机器学习, 特征分类, 非线性核, 分类准确度<br>
+总结:<br>
+本文介绍了一种使用监督机器学习来分类太阳耀斑的标准化程序。研究使用来自RHESSI任务的耀斑数据和来自HARPS-N仪器的太阳光谱进行训练，并发现表现最好的算法是具有非线性核（特别是径向基函数RBF）的C-支持向量分类（SVC）。最佳训练模型SVC与RBF核的平均综合准确度得分为0.65，对于无耀斑和弱耀斑类别的分类准确度得分分别超过0.70。测试表明该模型能够在不同特征和分布的全新数据中检测和分类太阳耀斑。未来的努力可以集中在提高分类准确度，探索替代模型的有效性（特别是深度学习模型），并加入更多数据集，以扩展该框架在宿主系外行星的恒星上的应用。 <div>
+Flares are a well-studied aspect of the Sun’s magnetic activity. Detecting and classifying solar flares can inform the analysis of contamination caused by stellar flares in exoplanet transmission spectra. In this paper, we present a standardized procedure to classify solar flares with the aid of supervised machine learning. Using flare data from the RHESSI mission and solar spectra from the HARPS-N instrument, we trained several supervised machine-learning models, and found that the best-performing algorithm is C-Support Vector Classification (SVC) with nonlinear kernels, specifically radial basis functions (RBF). The best-trained model, SVC with RBF kernels, achieves an average aggregate accuracy score of 0.65, and categorical accuracy scores of over 0.70 for the no-flare and weak-flare classes, respectively. In comparison, a blind classification algorithm would have an accuracy score of 0.33. Testing showed that the model is able to detect and classify solar flares in entirely new data with different characteristics and distributions from those of the training set. Future efforts could focus on enhancing classification accuracy, investigating the efficacy of alternative models, particularly deep learning models, and incorporating more data sets to extend the application of this framework to stars that host exoplanets.
+]]></content:encoded>
+
+<pubDate>2024-09-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Three-dimensional Simulations of the Magnetorotational Instability in Eccentric Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d5a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d5a</guid>
+<content:encoded><![CDATA[
+<div> 关键词：磁流体力学、离心盘、磁旋不稳定性、垂直重力、MHD湍流
+
+总结：<br><br>本研究探讨了垂直重力对离心磁旋不稳定性所激发的磁流体力学湍流的影响。与无垂直重力的离心盘类似，Maxwell应力与压力之比保持在10^-2左右，而Maxwell应力中的局部反转也持续存在。垂直重力引入了两种新效应：近近心点区域的垂直压缩加剧了重连和耗散，削弱了磁场。磁流体力学应力对角动量传输加速了密度分布的广度，在大约5到10轨道内使质量和离心率的空间分布发生了显著改变。离心碎片中的MHD应力可能在撕裂事件后1年以上的时间里产生辐射。 <div>
+Previously we demonstrated that the magnetorotational instability (MRI) grows vigorously in eccentric disks, much as it does in circular disks, and we investigated the nonlinear development of the eccentric MRI without vertical gravity. Here we explore how vertical gravity influences the magnetohydrodynamic (MHD) turbulence stirred by the eccentric MRI. Similar to eccentric disks without vertical gravity, the ratio of Maxwell stress to pressure, or the Shakura–Sunyaev α parameter, remains ∼10−2, and the local sign flip in the Maxwell stress persists. Vertical gravity also introduces two new effects. Strong vertical compression near pericenter amplifies reconnection and dissipation, weakening the magnetic field. Angular momentum transport by MHD stresses broadens the mass distribution over eccentricity at much faster rates than without vertical gravity; as a result, spatial distributions of mass and eccentricity can be substantially modified in just ∼5 to 10 orbits. MHD stresses in the eccentric debris of tidal disruption events may power emission ≳1 yr after disruption.
+]]></content:encoded>
+
+<pubDate>2024-09-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dynamical and Secular Stability of Mutually Inclined Planetary Systems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad62f9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad62f9</guid>
+<content:encoded><![CDATA[
+<div> 稳定性条件, 两星系统, 初始相互倾角, 椭圆轨道, 非共面配置<br>
+<br>总结: 本研究推导了一个半解析的稳定性条件，适用于具有任意倾角的两星系统，其中内部行星是一个测试粒子。研究使用微扰理论计算了外伴对内部二进制的半长轴的特征分数变化β = δa1/a1，由此可以得出稳定性条件。研究发现，环形轨道下，逆行轨道一般比顺行轨道更稳定；中间相互倾角的系统由于von Ziepel–Lidov–Kozai (vZLK)动力学而不太稳定；平均运动共振可以通过抑制vZLK渐进过程来稳定相互倾角渐进不稳定的区域；共振可以破坏一些动力学稳定区域。这些稳定性条件还可用于约束观测系统的轨道特性和它们的年龄。 <div>
+Multiple analytical, semi-analytical, and empirical stability criteria have been derived in the literature for two-planet systems. But, the dependence of the stability limit on the initial mutual inclination between the inner and outer orbits is not well modeled by previous stability criteria. Here, we derive a semi-analytical stability criteria for two-planet systems, at arbitrary inclinations, in which the inner planet is a test particle. Using perturbation theory we calculate the characteristic fractional change in the semimajor axis of the inner binary β = δa1/a1 caused by perturbations from the companion. Stability criteria can be derived by setting a threshold on β. Focusing initially on circular orbits, we derive an analytical expression for β for coplanar prograde and retrograde orbits. For noncoplanar configurations, we evaluate a semi-analytical expression. We then generalize to orbits with arbitrary eccentricities and account for the secular effects. Our analytical and semi-analytical results are in excellent agreement with direct N-body simulations. In addition, we show that contours of β ∼ 0.01 can serve as criteria for stability. More specifically, we show that (1) retrograde orbits are generally more stable than prograde ones; (2) systems with intermediate mutual inclination are less stable due to von Ziepel–Lidov–Kozai (vZLK) dynamics; and (3) mean motion resonances (MMRs) can stabilize intermediate inclination secularly unstable regions in phase space, by quenching vZLK secular processes (4) MMRs can destabilize some of the dynamically stable regions. We also point out that these stability criteria can be used to constrain the orbital properties of observed systems and their age.
+]]></content:encoded>
+
+<pubDate>2024-09-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Precise Bolometric Luminosities and Effective Temperatures of 23 Late-T and Y Dwarfs Obtained with JWST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6301</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6301</guid>
+<content:encoded><![CDATA[
+<div> late-type T and Y dwarfs, spectral energy distributions, James Webb Space Telescope, infrared, bolometric fluxes
+
+<br><br>总结:
+这篇文章利用詹姆斯·韦伯太空望远镜获取了23个晚型T和Y矮星的红外光谱能量分布。它包括NIRSpec PRISM和MIRI低分辨率光谱仪在λ/Δλ≈100处覆盖了1-12μm波长范围的光谱和15、18和21μm的宽带光度测量。它展示了这些对象常见的吸收特征，包括H2O、CH4、CO、CO2和NH3。文章中还计算出了冷棕矮星的首次准确的辐射通量，并通过Spitzer和哈勃空间望远镜的视差获得了这些冷矮星的首次准确辐射通量。同时使用Sonora Bobcat太阳金属丰度演化模型估计了矮星的半径，得出了有效温度估计，范围从∼1000到350K，中位误差为±20K，几乎比以前的工作提高了一个数量级。文章还讨论了光谱的各个部分在按有效温度排序时是不是都清晰地呈现出一个序列。 <div>
+We present infrared spectral energy distributions of 23 late-type T and Y dwarfs obtained with the James Webb Space Telescope. The spectral energy distributions consist of NIRSpec PRISM and MIRI low-resolution spectrometer spectra covering the ∼1–12 μm wavelength range at λ/Δλ ≈ 100 and broadband photometry at 15, 18, and 21 μm. The spectra exhibit absorption features common to these objects including H2O, CH4, CO, CO2, and NH3. Interestingly, while the spectral morphology changes relatively smoothly with spectral type at λ < 3 μm and λ > 8 μm, it shows no clear trend in the 5 μm region where a large fraction of the flux emerges. The broad-wavelength coverage of the data enables us to compute the first accurate measurements of the bolometric fluxes of cool brown dwarfs. Combining these bolometric fluxes with parallaxes from Spitzer and Hubble Space Telescope, we also obtain the first accurate bolometric luminosities of these cool dwarfs. We then used the Sonora Bobcat solar-metallicity evolutionary models to estimate the radii of the dwarfs, which results in effective temperature estimates ranging from ∼1000 to 350 K with a median uncertainty of ± 20 K, which is nearly an order of magnitude improvement over previous work. We also discuss how various portions of the spectra either do or do not exhibit a clear sequence when ordered by their effective temperatures.
+]]></content:encoded>
+
+<pubDate>2024-09-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Portrait of the Rotation of Ultra-cool Dwarfs Revealed by TESS</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d6</guid>
+<content:encoded><![CDATA[
+<div> Gaia Data Release 3, ultra-cool dwarfs, TESS light curves, rotation signatures, color-magnitude diagram<br>
+总结:<br>
+本研究通过对250颗Gaia Data Release 3超冷矮星（UCDs）进行TESS光变曲线（LCs）的搜索，发现了61颗具有明显周期性和单一行为的旋转标志。另外，还发现了5颗具有双峰特征的UCDs，以及20颗LCs显示出复杂行为。通过颜色-星等图的分布，发现了两个不同的UCD旋转分布模式，表明旋转速度和年龄有关。这一研究结果为未来的研究提供了重要参考，但是样本分隔引起的物理趋势还需要进一步验证。 <div>
+This study presents the results of a search for rotation signatures in 250 Gaia Data Release 3 ultra-cool dwarfs (UCDs) with TESS light curves (LCs). We identified 71 targets with unambiguous periodicities, of which 61 present rotation signatures and a single-source behavior, with periods between 0.133 and 5.81 days. Five UCDs show double-dip features, namely variations with two periods, one approximately double or half the other. The remaining 10 UCDs with unambiguous variability present a likely nonsingle behavior. We also found 20 UCDs showing complex behavior in their LCs, with noticeable fluctuations and irregular structure, with a few exhibiting apparent changes in their temporal structure. The remaining 159 targets show noisy LCs corresponding to low-amplitude signals, whose temporal variation cannot be easily identified. The distribution of the UCDs with rotation signature in a color–magnitude diagram points to a lack of rotating objects within about 11.5 < MG < 12.5 and G–GRP < 1.5, separating them into two regimes, one mainly composed of less massive late-M stars with Prot ≥ 1.0 day, and another mainly composed of more massive early-M stars with Prot < 1.0 day. It is important to emphasize that by separating stars into age intervals, one observes that UCDs with Prot ≥ 1.0 day tend to be located in regions of younger objects, and, in contrast, those with Prot < 1.0 day are mainly concentrated in regions of older objects. Whether this trend of stars contrasting the sample separation is physical or produced by observational biases is a question to be verified in future studies.
+]]></content:encoded>
+
+<pubDate>2024-09-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Time Evolution of the Synchrotron X-Ray Emission in Kepler’s Supernova Remnant: The Effects of Turbulence and Shock Velocity</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6566</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6566</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 超新星遗迹，电子加速，同步辐射，尘埃密集介质，X射线辐射
+
+总结: 
+本研究对Kepler超新星遗迹中的电子加速现象进行了分析。研究表明，在遗迹的北部壳层，电子加速受到周围尘埃密集介质的影响而得到提升。通过对X射线辐射的观测和分析，发现在大多数的细丝结构中，电子加速效率受到了复杂的影响，但在一个特定区域中，电子加速时间超出了同步辐射的时间，导致了非热X射线辐射的明显减弱。这些发现为我们提供了对Kepler超新星遗迹中电子加速现象的深入理解。 <div>
+The maximum energy of electrons in supernova remnant (SNR) shocks is typically limited by radiative losses, where the synchrotron cooling time equals the acceleration time. The low speed of shocks in a dense medium increases the acceleration time, leading to lower maximum electron energies and fainter X-ray emissions. However, in Kepler’s SNR, an enhanced electron acceleration, which proceeds close to the Bohm limit, occurs in the north of its shell, where the shock is slowed by a dense circumstellar medium (CSM). To investigate whether this scenario still holds at smaller scales, we analyzed the temporal evolution of the X-ray synchrotron flux in filamentary structures using the two deepest Chandra/ACIS X-ray observations, performed in 2006 and 2014. We examined spectra from different filaments, measured their proper motion, and calculated the acceleration to synchrotron timescale ratios. The interaction with the turbulent and dense northern CSM induces competing effects on electron acceleration: on one hand, turbulence reduces the electron mean free path enhancing the acceleration efficiency, and on the other hand, lower shock velocities increase the acceleration timescale. In most filaments, these effects compensate each other, but in one region, the acceleration timescale exceeds the synchrotron timescale, resulting in a significant decrease in nonthermal X-ray emission from 2006 to 2014, indicating fading synchrotron emission. Our findings provide a coherent understanding of the different regimes of electron acceleration observed in Kepler’s SNR through various diagnostics.
+]]></content:encoded>
+
+<pubDate>2024-09-23T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Ne viii in the Warm-hot Circumgalactic Medium of FIRE Simulations and in Observations</title>
