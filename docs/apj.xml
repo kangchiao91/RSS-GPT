@@ -4,20 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Navigating Unknowns: Deep Learning Robustness for Gravitational-wave Signal Reconstruction</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6984</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6984</guid>
 <content:encoded><![CDATA[
-<div> 深度学习，引力波信号重建，AWaRe模型，波形重建不确定性估计，GW天体物理学研究。<br>
-总结:<br>
+<div> 深度学习，引力波信号重建，AWaRe模型，波形重建不确定性估计，GW天体物理学研究。<br />
+总结:<br />
 这篇文章介绍了一种快速可靠的基于深度学习的方法，用于从LIGO数据中重建晦涩的通用二进制黑洞合并引力波（GW）信号。作者展示了他们的模型AWaRe能够有效地恢复在训练中未遇到过的具有不同参数的GW信号，包括较大的黑洞质量、附加谐波、离心率和变化的波形系统性，这些特性在波形的幅度和相位中引入了复杂的调制。作者还展示了AWaRe模型对真实GW事件的稳健性，以及其在未知数据中的外推能力，为GW天体物理学和数据分析的各个方面开辟了新的研究途径，包括广义相对论的测试和当前GW搜索方法的增强。 <div>
 We present a rapid and reliable deep-learning-based method for gravitational-wave (GW) signal reconstruction from elusive, generic binary black hole mergers in LIGO data. We demonstrate that our model, AWaRe, effectively recovers GWs with parameters it has not encountered during training. This includes features like higher black hole masses, additional harmonics, eccentricity, and varied waveform systematics, which introduce complex modulations in the waveform’s amplitudes and phases. The accurate reconstructions of these unseen signal characteristics demonstrate AWaRe's ability to handle complex features in the waveforms. By directly incorporating waveform reconstruction uncertainty estimation into the AWaRe framework, we show that for real GW events, the uncertainties in AWaRe's reconstructions align closely with those achieved by benchmark algorithms like BayesWave and coherent WaveBurst. The robustness of our model to real GW events and its ability to extrapolate to unseen data open new avenues for investigations in various aspects of GW astrophysics and data analysis, including tests of general relativity and the enhancement of current GW search methodologies.
 ]]></content:encoded>
-
 <pubDate>2024-09-24T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The JWST Resolved Stellar Populations Early Release Science Program. VI. Identifying Evolved Stars in Nearby Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6449</link>
@@ -11830,18 +11829,6 @@ Synchrotron emissivities, absorptivities, and Faraday rotation and conversion co
 
 总结:<br /><br />这篇文章研究了高Σ1和低Σ1蓝色螺旋星系的空间分辨率星族和星形成特性。研究发现，高Σ1蓝色螺旋星系中心年龄较年轻，α元素增强较低的比例较高，约为55%，而低Σ1蓝色螺旋星系中心年龄较年轻的比例约为30%。年轻中心的星系具有较高的中心特定星形成率，并且遵循基于spaxel的星形成主序关系。同时，研究结果还表明，高Σ1蓝色螺旋星系的年轻化可能与星系的棒状结构或星系间相互作用有关。未被影响的蓝色螺旋星系则符合内向生长的模式。 <div>
 Quiescent galaxies generally possess denser cores than star-forming galaxies with similar mass. As a measurement of the core density, the central stellar mass surface density within a radius of 1 kpc (Σ1) was thus suggested to be closely related to galaxy quenching. Massive star-forming galaxies with high Σ1 do not fit into this picture. To understand the origin of such galaxies, we compare the spatially resolved stellar population and star formation properties of massive (>1010.5M⊙) blue spiral galaxies with high and low Σ1, divided by Σ1 = 109.4M⊙ kpc−2, based on the final release of MaNGA integral field unit data. We find that both high-Σ1 and low-Σ1 blue spirals show large diversities in stellar population and star formation properties. Despite the diversities, high-Σ1 blue spirals are statistically different from the low-Σ1 ones. Specifically, the radial profiles of the luminosity-weighted age and Mgb/〈Fe〉 show that high-Σ1 blue spirals consist of a larger fraction of galaxies with younger and less α-element-enhanced centers than their low-Σ1 counterparts, ∼55% versus ∼30%. The galaxies with younger centers mostly have higher central specific star formation rates, which still follow the spaxel-based star formation main-sequence relation. Examinations of the Hα velocity field and the optical structures suggest that galactic bars or galaxy interactions should be responsible for the rejuvenation of these galaxies. The remaining ∼45% of high-Σ1 blue spirals are consistent with the inside-out growth scenario.
-]]></content:encoded>
-<pubDate>2024-06-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>New Parameters for Star Cluster Dynamics: The Role of Clusters’ Initial Conditions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dec</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3dec</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 球状星团, 形状参数, 模拟, 动力学演化, 黑洞<br />
-<br />
-该研究扩展了对球状星团内部恒星的累积径向分布形状参数的探究，采用了大量的蒙特卡洛模拟球状星团的数据。通过对13亿年时不同演化阶段的模型进行分析，研究发现这三个形状参数可以有效区分处于早期动力学演化阶段的系统和已经经历了核心崩缩的系统。此外，这些参数还有助于区分宿主低质量中等质量黑洞的星团和中心拥有大量暗物质残留的星团。相对于其他动力学指标，这些形状参数的优势在于它们是完全经验性的，并且更容易从观测数据中测量。 <br /><br />总结: 该研究通过模拟球状星团的数据，发现了三个形状参数可用于区分星团的动力学演化阶段，以及区分不同类型的星团。这些参数的经验性特点使其更易于观测数据的测量和分析。 <div>
-We recently introduced three new parameters that describe the shape of the normalized cumulative radial distribution (nCRD) of the innermost stars in globular clusters (GCs) and trace the clusters’ dynamical evolution. Here, we extend our previous investigations to the case of a large set of Monte Carlo simulations of GCs, started from a broad range of initial conditions. All the models are analyzed at the same age of 13 Gyr when they have reached different evolutionary phases. The sample of models is well representative of the structural properties of the observed population of Galactic GCs. We confirm that the three nCRD parameters are powerful tools to distinguish systems in the early stages of dynamical evolution from those that have already experienced core collapse. They might also help disentangle clusters hosting a low-mass intermediate-mass black hole of a few hundred solar masses from cases with large concentrations of dark remnants in their centers. With respect to other dynamical indicators, the nCRD parameters offer the advantage of being fully empirical and easier to measure from observational data.
 ]]></content:encoded>
 <pubDate>2024-06-02T23:00:00Z</pubDate>
 </item>
