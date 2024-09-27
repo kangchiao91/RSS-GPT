@@ -4,6 +4,72 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>A Thermodynamic Criterion for the Formation of Circumplanetary Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad644a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad644a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: circumplanetary disks, giant planet formation, multifluid radiation hydrodynamics simulations, cooling time, specific angular momentum
+
+总结:<br><br>本文利用FARGO3D代码进行了三维全局多流体辐射流体力学模拟，阐明了在Jovian行星的广泛轨道周围形成环绕行星盘的热力学条件。研究发现，冷却时间至少比轨道时间尺度短一个数量级时，气体的比角动量在Hill半径的1/3尺度上几乎是开普勒型的。模拟结果还表明，包括多流体尘埃动力学在内的模型可以促进旋转支持，因为尘埃沉降形成一个向各向异性的辐射分布，有利于快速冷却。此外，研究发现，具有辐射流体力学的模型中，随着时间的推移，具体角动量会减小，符合由于压缩加热形成内部等熵包层的情况。因此，年轻的气态巨行星可能具有球形的等熵包层，而不是环行行星盘。 <div>
+The formation of circumplanetary disks is central to our understanding of giant planet formation, influencing their growth rate during the post-runaway phase and observability while embedded in protoplanetary disks. We use three-dimensional global multifluid radiation hydrodynamics simulations with the FARGO3D code to define the thermodynamic conditions that enable circumplanetary disk formation around Jovian planets on wide orbits. Our simulations include stellar irradiation, viscous heating, static mesh refinement, and active calculation of opacity based on multifluid dust dynamics. We find a necessary condition for the formation of circumplanetary disks in terms of a mean cooling time: When the cooling time is at least 1 order of magnitude shorter than the orbital timescale, the specific angular momentum of the gas is nearly Keplerian at scales of one-third of the Hill radius. We show that the inclusion of multifluid dust dynamics favors rotational support because dust settling produces an anisotropic opacity distribution that favors rapid cooling. In all our models with radiation hydrodynamics, specific angular momentum decreases as time evolves, in agreement with the formation of an inner isentropic envelope due to compressional heating. The isentropic envelope can extend up to one-third of the Hill radius and shows negligible rotational support. Thus, our results imply that young gas giant planets may host spherical isentropic envelopes, rather than circumplanetary disks.
+]]></content:encoded>
+
+<pubDate>2024-09-26T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Dissipation of AGN Jets in a Clumpy Interstellar Medium</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d7</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 超大质量黑洞，宇宙射电源，星系形成，宇宙射线，数值模拟
+总结: 
+本研究探讨了超大质量黑洞喷流与星系周围介质相互作用的物理过程。喷流与星系间介质的相互作用对星系内恒星形成起到了调控作用。研究建立了喷流与光滑介质相互作用模型，包括了稠密云的影响，提出了重要物理量的标度关系。首次得到了介质颗粒度的解析条件，以验证与数值模拟结果。本研究还与实际观测进行了对比，并讨论了对费米/eROSITA泡泡的影响。这项工作也为宇宙射电源在宇宙射线模拟中提出了有效的次网格模型。 <div>
+Accreting supermassive black holes frequently power jets that interact with the interstellar medium (ISM)/circumgalactic medium, regulating star formation in the galaxy. Highly supersonic jets launched by active galactic nuclei (AGN) power a cocoon that confines them and shocks the ambient medium. We build on the models of narrow conical jets interacting with a smooth ambient medium, including the effect of dense clouds, which are an essential ingredient of a multiphase ISM. The key physical ingredient of this model is that the clouds along the supersonic jet beam strongly decelerate the jet head but the subsonic cocoon easily moves around the clouds without much resistance. We propose scalings for important physical quantities—cocoon pressure, head and cocoon speed, and jet radius. For the first time, we obtain the analytic condition on the ambient medium’s clumpiness for the jet to dissipate within the cocoon and verify it with numerical simulations of conical jets interacting with a uniform ISM with embedded spherical clouds. A jet is defined to be dissipated when the cocoon speed exceeds the speed of the jet head. We compare our models with more sophisticated numerical simulations and direct observations of jet–ISM interaction (e.g., quasar J1316+1753), and we discuss implications for the Fermi/eROSITA bubbles. Our work also motivates effective subgrid models for AGN jet feedback in a clumpy ISM unresolved by the present generation of cosmological galaxy formation simulations.
+]]></content:encoded>
+
+<pubDate>2024-09-26T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Reevaluation of the Cosmic-Ray Ionization Rate in Diffuse Clouds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71ce</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71ce</guid>
+<content:encoded><![CDATA[
+<div> cosmic-ray ionization rate, gas density, extinction maps, H2 abundances, 3d-pdr code
+总结:
+本文重新评估了观测中测量漫射云中H2电离率的方法，并发现灰尘消光图可以提供与先前估计不同的气体密度值。使用这些数据，结合3d-pdr代码，得出了H2丰度和CR电离率的新值，发现平均来说，CR电离率比先前估计的值低了约9倍，主要是由于密度的降低。这些结果对所有现有的电离率测量都具有深远的影响。 <div>
+All current estimates of the cosmic-ray (CR) ionization rate rely on assessments of the gas density along the probed sight lines. Until now, these have been based on observations of different tracers, with C2 being the most widely used in diffuse molecular clouds for this purpose. However, dust extinction maps have recently reached sufficient accuracy to give an independent measurement of the gas density on parsec scales. In addition, they allow us to identify the gas clumps along each sight line, thus localizing the regions where CR ionization is probed. We reevaluate observations, which are often considered as the most reliable method to measure the H2 ionization rate in diffuse clouds. The peak density values derived from the extinction maps for 12 analyzed sight lines turn out to be, on average, an order of magnitude lower than the previous estimates and agree with the values obtained from revised analysis of C2 data. We use the extinction maps in combination with the 3d-pdr code to self-consistently compute the and H2 abundances in the identified clumps for different values of . For each sight line, we obtain the optimum value by comparing the simulation results with observations. We show that is systematically reduced with respect to the earlier estimates by a factor of ≈9 on average, to ≈6 × 10−17 s−1, primarily as a result of the density reduction. We emphasize that these results have profound consequences for all available measurements of the ionization rate.
+]]></content:encoded>
+
+<pubDate>2024-09-26T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Densities in Diffuse and Translucent Molecular Clouds: Estimates from Observations of C2 and from Three-dimensional Extinction Maps</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7264</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7264</guid>
+<content:encoded><![CDATA[
+<div> C2, H2, collisional rate coefficients, interstellar gas density, absorption observations
+<br>
+新的C2与H2碰撞激发的碰撞速率系数较之前采用的数值要大得多，这对于星际气体密度的探测非常重要。作者利用这些新的速率系数模拟了46个背景源的C2旋转分布，推测出导致观测到的C2吸收的前景星际云的气体密度比之前估算的要小4-7倍，与相关视线的3D消光图中的峰值密度基本吻合。对于那些还观测到吸收并用于估算宇宙射线离子化率（CRIR）的情况，我们对CRIR的估计也会相应减小，因为丰度是CRIR与气体密度的比值的函数。 
+<br><br>总结: C2与H2碰撞激发的速率系数重新计算，推测前景星际云气体密度减小，与3D消光图吻合，估计的CRIR也减小。 <div>
+Newly computed collisional rate coefficients for the excitation of C2 in collisions with H2, presented recently by Najar & Kalugina, are significantly larger than the values adopted previously in models for the excitation of the C2 molecule, a widely used probe of the interstellar gas density. With these new rate coefficients, we have modeled the C2 rotational distributions inferred from visible and ultraviolet absorption observations of electronic transitions of C2 toward a collection of 46 nearby background sources. The inferred gas densities in the foreground interstellar clouds responsible for the observed C2 absorption are a factor 4–7 smaller than those inferred previously, a direct reflection of the larger collisional rate coefficients computed by Najar & Kalugina. These lower-density estimates are generally in good agreement with the peak densities inferred from 3D extinction maps for the relevant sight lines. In cases where absorption has also been observed and used to estimate the cosmic-ray ionization rate (CRIR), our estimates of the latter will also decrease accordingly because the abundance is a function of the ratio of the CRIR to the gas density.
+]]></content:encoded>
+
+<pubDate>2024-09-26T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Magnetized Accretion onto and Feedback from Supermassive Black Holes in Elliptical Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7</guid>
+<content:encoded><![CDATA[
+<div> 磁气动力学模拟, 超大质量黑洞, 燃料, 星系, 冷却介质
+<br>
+这篇文章报告了对超大质量黑洞（M87*为典型案例）的燃料来自椭圆星系中的湍流冷却介质的三维磁气动力学模拟。研究发现，与类比的流体动力学模拟相比，质量吸积率增加了约10倍。从大约10 pc到10^-3 pc（约10个Schwarzschild半径），质量吸积率呈现出大致的比例关系，且通过视界的吸积率约为10^-2M⊙ yr^-1。在0.03-3 kpc的尺度上，吸积流呈磁化纤维的形式。在约30 pc范围内，冷气体环绕运动形成了一个高度被磁化（β约10^-3）的厚盘，由主要是环状磁场支撑。冷盘受到截断，并在约0.3 pc（10^3个Schwarzschild半径）处转变为湍流的热吸积流。磁场驱动向极端的强流出。通过的能量通量随着吸积体积减小而增加，对于rin=8 rg，能量通量达到约3 × 10^43 erg s^-1；这相当于接近恒定的能量反馈效率η约为0.05-0.1，与吸积体积无关。反馈能量足以平衡M87 / 维尔戈热晕的总冷却，直至约50 kpc。小半径的吸积磁通量类似于磁阻滞盘模型，与M87在视界尺度上形成强大的喷流相一致。我们的结果可以为低分辨率模拟中的吸积提供次网格模型，其中相对于邦迪率，热气体吸积率受到抑制。 <br><br>总结: 这项研究重点讨论了超大质量黑洞在燃料来源、磁场作用和能量输出等方面的模拟结果。其中包括质量吸积率的增加、磁化纤维中的吸积流、冷盘的形成和热吸积流的转变以及强大的磁场驱动的极端流出等。研究结果推动了低分辨率模拟中的吸积次网格模型的发展。 <div>
+We present 3D magnetohydrodynamic simulations of the fueling of supermassive black holes in elliptical galaxies from a turbulent cooling medium on galactic scales, taking M87* as a typical case. We find that the mass accretion rate is increased by a factor of ∼10 compared with analogous hydrodynamic simulations. The scaling of roughly holds from ∼10 pc to ∼10−3 pc (∼10 rg) with the accretion rate through the event horizon being ∼10−2M⊙ yr−1. The accretion flow on scales ∼0.03–3 kpc takes the form of magnetized filaments. Within ∼30 pc, the cold gas circularizes, forming a highly magnetized (β ∼ 10−3) thick disk supported by a primarily toroidal magnetic field. The cold disk is truncated and transitions to a turbulent hot accretion flow at ∼0.3 pc (103rg). There are strong outflows toward the poles driven by the magnetic field. The outflow energy flux increases with smaller accretor size, reaching ∼3 × 1043 erg s−1 for rin = 8 rg; this corresponds to a nearly constant energy feedback efficiency of η ∼ 0.05–0.1 independent of accretor size. The feedback energy is enough to balance the total cooling of the M87/Virgo hot halo out to ∼50 kpc. The accreted magnetic flux at small radii is similar to that in magnetically arrested disk models, consistent with the formation of a powerful jet on horizon scales in M87. Our results motivate a subgrid model for accretion in lower-resolution simulations in which the hot gas accretion rate is suppressed relative to the Bondi rate by .
+]]></content:encoded>
+
+<pubDate>2024-09-25T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>SN 2021dbg: A Luminous Type IIP–IIL Supernova Exploding from a Massive Star with a Layered Shell</title>
