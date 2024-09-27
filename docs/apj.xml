@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Flow-based Generative Emulation of Grids of Stellar Evolutionary Models</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6320</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 流动生成模型, 恒星演化模型, 条件正态化流, 银河系红巨星, 准确性估算
 
-流动生成模型可以通过学习多维概率分布来模拟恒星演化模型，以此来估算银河系红巨星的特性，根据文章展示的方法，可以在大规模上进行推断，推测出大范围内的恒星质量和半径，同时还展示了基于这种方法的贝叶斯估算在准确性估算上的应用，为之前基于修正的天体地震标度关系所得出的凯普勒红巨星质量估算提出了修正意见。总结: <br><br>这篇文章介绍了一种基于流动生成模型的方法，能够通过学习概率分布模拟恒星演化模型，并展示了对红巨星进行质量和半径估算的应用。同时提出了基于贝叶斯估算的方法对之前得出的红巨星质量进行修正。 <div>
+流动生成模型可以通过学习多维概率分布来模拟恒星演化模型，以此来估算银河系红巨星的特性，根据文章展示的方法，可以在大规模上进行推断，推测出大范围内的恒星质量和半径，同时还展示了基于这种方法的贝叶斯估算在准确性估算上的应用，为之前基于修正的天体地震标度关系所得出的凯普勒红巨星质量估算提出了修正意见。总结: <br /><br />这篇文章介绍了一种基于流动生成模型的方法，能够通过学习概率分布模拟恒星演化模型，并展示了对红巨星进行质量和半径估算的应用。同时提出了基于贝叶斯估算的方法对之前得出的红巨星质量进行修正。 <div>
 We present a flow-based generative approach to emulate grids of stellar evolutionary models. By interpreting the input parameters and output properties of these models as multidimensional probability distributions, we train conditional normalizing flows to learn and predict the complex relationships between grid inputs and outputs in the form of conditional joint distributions. Leveraging the expressive power and versatility of these flows, we showcase their ability to emulate a variety of evolutionary tracks and isochrones across a continuous range of input parameters. In addition, we describe a simple Bayesian approach for estimating stellar parameters using these flows and demonstrate its application to asteroseismic data sets of red giants observed by the Kepler mission. By applying this approach to red giants in open clusters NGC 6791 and NGC 6819, we illustrate how large age uncertainties can arise when fitting only to global asteroseismic and spectroscopic parameters without prior information on initial helium abundances and mixing length parameter values. We also conduct inference using the flow at a large scale by determining revised estimates of masses and radii for 15,388 field red giants. These estimates show improved agreement with results from existing grid-based modeling, reveal distinct population-level features in the red clump, and suggest that the masses of Kepler red giants previously determined using the corrected asteroseismic scaling relations have been overestimated by 5%–10%.
 ]]></content:encoded>
-
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Intensive Broadband Reverberation Mapping of Fairall 9 with 1.8 yr of Daily Swift Monitoring</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d4</link>
@@ -11828,19 +11827,6 @@ We present a systematic search for extraplanar X-ray point sources around 19 lat
 
 FRB观测到的射电暴露出了与脉冲星glitch现象的物理联系。研究发现，重复FRB源FRB 20201124A的射电暴的能量、峰值流量、持续时间和等待时间的统计特性符合Tsallis q-Gaussian分布。所得的q值在不同时间间隔尺度下基本稳定，表明重复FRBs具有共同的尺度不变结构。脉冲星PSR B1737–30的glitch现象也呈现出类似的尺度不变性，暗示了重复FRBs与脉冲星glitch现象的潜在关联。这些统计特征可以很好地在自组织临界系统的物理框架内理解。 <br /><br />总结: 本研究表明，重复FRBs和脉冲星glitch现象具有相似的统计特性，显示出共同的尺度不变结构。这暗示了它们可能存在着潜在的物理联系，可以通过自组织临界性系统的框架来解释。 <div>
 The recent discoveries of a remarkable glitch/antiglitch accompanied by fast radio burst (FRB)-like bursts from the Galactic magnetar SGR J1935+2154 have revealed the physical connection between the two. In this work, we study the statistical properties of radio bursts from the hyperactive repeating source FRB 20201124A and of glitches from the pulsar PSR B1737–30. For FRB 20201124A, we confirm that the probability density functions of fluctuations of energy, peak flux, duration, and waiting time well follow the Tsallis q-Gaussian distribution. The derived q values from q-Gaussian distribution keep approximately steady for different temporal interval scales, which indicates that there is a common scale-invariant structure in repeating FRBs. Similar scale-invariant properties can be found in PSR B1737–30's glitches, implying an underlying association between the origins of repeating FRBs and pulsar glitches. These statistical features can be well understood within the same physical framework of self-organized criticality systems.
-]]></content:encoded>
-<pubDate>2024-06-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Galactic Cosmic-Ray Background Deduction Method Based on Empirical Mode Decomposition*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a58</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a58</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 月球表面、伽玛射线、宇宙射线、数据反漲转、空间分布
-
-总结:<br />
-本文介绍了通过伽玛射线谱仪数据的反漲转过程所揭示的月球表面放射性元素的相对含量和空间分布特征的翻转对预测月球表面组成具有重要意义。研究发现，银河宇宙射线在数据的分布图上引起了破坏性的“条纹噪音”，大大妨碍了数据的解释和月球表面信息的提取。提出的方法通过使用经验模态分解法，巧妙地将银河宇宙射线的影响从月球表面的计数率分布图中分离出来，从而精确地推断了嫦娥二号伽玛射线谱仪数据中的银河宇宙射线背景。与前人使用的传统宇宙射线背景推断方法相比，这一模型不需要重复处理大量原始数据。此外，它通过简化的程序和减少的时间投资，准确地推断了宇宙射线背景，因而具有显著的优势。 <div>
-The inversion of the relative content and spatial distribution characteristics of radioactive elements on the lunar surface, as inferred from gamma-ray spectrometer data, holds substantial importance for forecasting lunar surface compositions. During the inversion process of gamma-ray spectrometer data, galactic cosmic rays (GCRs) have engendered disruptive “stripe noise” in the distribution map of radioactive elements. This phenomenon significantly hampers the interpretation of data and the extraction of lunar surface information. The proposed approach adeptly separates the influence of GCR from the counting rate distribution map of the lunar surface by employing the empirical mode decomposition method. It achieves the deduction of GCR background from the Chang’e-2 gamma-ray spectrometer data with precision. Compared to conventional GCR background deduction methods employed by predecessors, this model does not need to process a large amount of original data repeatedly. Moreover, it achieves an accurate deduction of the GCR background without intricate formulaic derivations. The procedural simplicity and reduced time investment make this approach significantly superior.
 ]]></content:encoded>
 <pubDate>2024-06-06T23:00:00Z</pubDate>
 </item>
