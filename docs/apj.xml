@@ -4,6 +4,19 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Flow-based Generative Emulation of Grids of Stellar Evolutionary Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6320</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6320</guid>
+<content:encoded><![CDATA[
+<div> 流动生成模型, 恒星演化模型, 条件正态化流, 银河系红巨星, 准确性估算
+
+流动生成模型可以通过学习多维概率分布来模拟恒星演化模型，以此来估算银河系红巨星的特性，根据文章展示的方法，可以在大规模上进行推断，推测出大范围内的恒星质量和半径，同时还展示了基于这种方法的贝叶斯估算在准确性估算上的应用，为之前基于修正的天体地震标度关系所得出的凯普勒红巨星质量估算提出了修正意见。总结: <br><br>这篇文章介绍了一种基于流动生成模型的方法，能够通过学习概率分布模拟恒星演化模型，并展示了对红巨星进行质量和半径估算的应用。同时提出了基于贝叶斯估算的方法对之前得出的红巨星质量进行修正。 <div>
+We present a flow-based generative approach to emulate grids of stellar evolutionary models. By interpreting the input parameters and output properties of these models as multidimensional probability distributions, we train conditional normalizing flows to learn and predict the complex relationships between grid inputs and outputs in the form of conditional joint distributions. Leveraging the expressive power and versatility of these flows, we showcase their ability to emulate a variety of evolutionary tracks and isochrones across a continuous range of input parameters. In addition, we describe a simple Bayesian approach for estimating stellar parameters using these flows and demonstrate its application to asteroseismic data sets of red giants observed by the Kepler mission. By applying this approach to red giants in open clusters NGC 6791 and NGC 6819, we illustrate how large age uncertainties can arise when fitting only to global asteroseismic and spectroscopic parameters without prior information on initial helium abundances and mixing length parameter values. We also conduct inference using the flow at a large scale by determining revised estimates of masses and radii for 15,388 field red giants. These estimates show improved agreement with results from existing grid-based modeling, reveal distinct population-level features in the red clump, and suggest that the masses of Kepler red giants previously determined using the corrected asteroseismic scaling relations have been overestimated by 5%–10%.
+]]></content:encoded>
+
+<pubDate>2024-09-26T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Intensive Broadband Reverberation Mapping of Fairall 9 with 1.8 yr of Daily Swift Monitoring</title>
