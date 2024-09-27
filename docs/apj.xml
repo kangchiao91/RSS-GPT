@@ -5,16 +5,29 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Intensive Broadband Reverberation Mapping of Fairall 9 with 1.8 yr of Daily Swift Monitoring</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d4</guid>
+<content:encoded><![CDATA[
+<div> 活动星系核；斜盘/灯塔模型；紫外线光学；X射线；时变性
+
+研究通过持续1.8年的Swift望远镜观测明亮、变化剧烈的活动星系核Fairall 9，发现紫外/光学波段内有很好的相关性，而X射线通量变化与紫外/光学波段的相关性较差。数据还表明，紫外/光学滞后的模式在四个时期内保持高度稳定，而X射线对紫外的滞后却不稳定，在不同时期中甚至出现了明显变化。这表明X射线对紫外的关系比通常用于AGN的简单再处理模型更为复杂。此外，文章还提出了一个“碗”模型，该模型表明灯塔照射和黑体辐射在具有陡峭边缘的盘状结构上发生，这个结构的厚度和温度与BLR的内边缘一致。 <br><br>总结: 活动星系核的紫外/光学波段有很好的相关性，X射线通量变化则较不相关。紫外/光学滞后模式稳定，而X射线与紫外的滞后不稳定，且更为复杂。碗状模型指出辐射来源可能与BLR的内边缘有关。 <div>
+We present 1.8 yr of near-daily Swift monitoring of the bright, strongly variable Type 1 active galactic nucleus (AGN) Fairall 9. Totaling 575 successful visits, this is the largest such campaign reported to date. Variations within the UV/optical are well correlated, with longer wavelengths lagging shorter wavelengths in the direction predicted by thin-disk/lamppost models. The correlations are improved by “detrending,” subtracting a second-order polynomial fit to the UV/optical light curves to remove long-term trends that are not of interest to this study. Extensive testing indicates detrending with higher-order polynomials removes too much intrinsic variability signal on reverberation timescales. These data provide the clearest detection to date of interband lags within the UV, indicating that neither emission from a large disk nor diffuse continuum emission from the broad-line region (BLR) can independently explain the full observed lag spectrum. The observed X-ray flux variations are poorly correlated with those in the UV/optical. Further, subdivision of the data into four ∼160 days light curves shows that the UV/optical lag spectrum is highly stable throughout the four periods, but the X-ray to UV lags are unstable, significantly changing magnitude and even direction from one period to the next. This indicates the X-ray to UV relationship is more complex than predicted by the simple reprocessing model often adopted for AGN. A “bowl” model (lamppost irradiation and blackbody reprocessing on a disk with a steep rim) fit suggests the disk thickens at a distance (∼10 lt-day) and temperature (∼8000 K) consistent with the inner edge of the BLR.
+]]></content:encoded>
+
+<pubDate>2024-09-26T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A Thermodynamic Criterion for the Formation of Circumplanetary Disks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad644a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad644a</guid>
 <content:encoded><![CDATA[
 <div> 关键词: circumplanetary disks, giant planet formation, multifluid radiation hydrodynamics simulations, cooling time, specific angular momentum
 
-总结:<br><br>本文利用FARGO3D代码进行了三维全局多流体辐射流体力学模拟，阐明了在Jovian行星的广泛轨道周围形成环绕行星盘的热力学条件。研究发现，冷却时间至少比轨道时间尺度短一个数量级时，气体的比角动量在Hill半径的1/3尺度上几乎是开普勒型的。模拟结果还表明，包括多流体尘埃动力学在内的模型可以促进旋转支持，因为尘埃沉降形成一个向各向异性的辐射分布，有利于快速冷却。此外，研究发现，具有辐射流体力学的模型中，随着时间的推移，具体角动量会减小，符合由于压缩加热形成内部等熵包层的情况。因此，年轻的气态巨行星可能具有球形的等熵包层，而不是环行行星盘。 <div>
+总结:<br /><br />本文利用FARGO3D代码进行了三维全局多流体辐射流体力学模拟，阐明了在Jovian行星的广泛轨道周围形成环绕行星盘的热力学条件。研究发现，冷却时间至少比轨道时间尺度短一个数量级时，气体的比角动量在Hill半径的1/3尺度上几乎是开普勒型的。模拟结果还表明，包括多流体尘埃动力学在内的模型可以促进旋转支持，因为尘埃沉降形成一个向各向异性的辐射分布，有利于快速冷却。此外，研究发现，具有辐射流体力学的模型中，随着时间的推移，具体角动量会减小，符合由于压缩加热形成内部等熵包层的情况。因此，年轻的气态巨行星可能具有球形的等熵包层，而不是环行行星盘。 <div>
 The formation of circumplanetary disks is central to our understanding of giant planet formation, influencing their growth rate during the post-runaway phase and observability while embedded in protoplanetary disks. We use three-dimensional global multifluid radiation hydrodynamics simulations with the FARGO3D code to define the thermodynamic conditions that enable circumplanetary disk formation around Jovian planets on wide orbits. Our simulations include stellar irradiation, viscous heating, static mesh refinement, and active calculation of opacity based on multifluid dust dynamics. We find a necessary condition for the formation of circumplanetary disks in terms of a mean cooling time: When the cooling time is at least 1 order of magnitude shorter than the orbital timescale, the specific angular momentum of the gas is nearly Keplerian at scales of one-third of the Hill radius. We show that the inclusion of multifluid dust dynamics favors rotational support because dust settling produces an anisotropic opacity distribution that favors rapid cooling. In all our models with radiation hydrodynamics, specific angular momentum decreases as time evolves, in agreement with the formation of an inner isentropic envelope due to compressional heating. The isentropic envelope can extend up to one-third of the Hill radius and shows negligible rotational support. Thus, our results imply that young gas giant planets may host spherical isentropic envelopes, rather than circumplanetary disks.
 ]]></content:encoded>
-
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,7 +40,6 @@ The formation of circumplanetary disks is central to our understanding of giant 
 本研究探讨了超大质量黑洞喷流与星系周围介质相互作用的物理过程。喷流与星系间介质的相互作用对星系内恒星形成起到了调控作用。研究建立了喷流与光滑介质相互作用模型，包括了稠密云的影响，提出了重要物理量的标度关系。首次得到了介质颗粒度的解析条件，以验证与数值模拟结果。本研究还与实际观测进行了对比，并讨论了对费米/eROSITA泡泡的影响。这项工作也为宇宙射电源在宇宙射线模拟中提出了有效的次网格模型。 <div>
 Accreting supermassive black holes frequently power jets that interact with the interstellar medium (ISM)/circumgalactic medium, regulating star formation in the galaxy. Highly supersonic jets launched by active galactic nuclei (AGN) power a cocoon that confines them and shocks the ambient medium. We build on the models of narrow conical jets interacting with a smooth ambient medium, including the effect of dense clouds, which are an essential ingredient of a multiphase ISM. The key physical ingredient of this model is that the clouds along the supersonic jet beam strongly decelerate the jet head but the subsonic cocoon easily moves around the clouds without much resistance. We propose scalings for important physical quantities—cocoon pressure, head and cocoon speed, and jet radius. For the first time, we obtain the analytic condition on the ambient medium’s clumpiness for the jet to dissipate within the cocoon and verify it with numerical simulations of conical jets interacting with a uniform ISM with embedded spherical clouds. A jet is defined to be dissipated when the cocoon speed exceeds the speed of the jet head. We compare our models with more sophisticated numerical simulations and direct observations of jet–ISM interaction (e.g., quasar J1316+1753), and we discuss implications for the Fermi/eROSITA bubbles. Our work also motivates effective subgrid models for AGN jet feedback in a clumpy ISM unresolved by the present generation of cosmological galaxy formation simulations.
 ]]></content:encoded>
-
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -40,7 +52,6 @@ Accreting supermassive black holes frequently power jets that interact with the 
 本文重新评估了观测中测量漫射云中H2电离率的方法，并发现灰尘消光图可以提供与先前估计不同的气体密度值。使用这些数据，结合3d-pdr代码，得出了H2丰度和CR电离率的新值，发现平均来说，CR电离率比先前估计的值低了约9倍，主要是由于密度的降低。这些结果对所有现有的电离率测量都具有深远的影响。 <div>
 All current estimates of the cosmic-ray (CR) ionization rate rely on assessments of the gas density along the probed sight lines. Until now, these have been based on observations of different tracers, with C2 being the most widely used in diffuse molecular clouds for this purpose. However, dust extinction maps have recently reached sufficient accuracy to give an independent measurement of the gas density on parsec scales. In addition, they allow us to identify the gas clumps along each sight line, thus localizing the regions where CR ionization is probed. We reevaluate observations, which are often considered as the most reliable method to measure the H2 ionization rate in diffuse clouds. The peak density values derived from the extinction maps for 12 analyzed sight lines turn out to be, on average, an order of magnitude lower than the previous estimates and agree with the values obtained from revised analysis of C2 data. We use the extinction maps in combination with the 3d-pdr code to self-consistently compute the and H2 abundances in the identified clumps for different values of . For each sight line, we obtain the optimum value by comparing the simulation results with observations. We show that is systematically reduced with respect to the earlier estimates by a factor of ≈9 on average, to ≈6 × 10−17 s−1, primarily as a result of the density reduction. We emphasize that these results have profound consequences for all available measurements of the ionization rate.
 ]]></content:encoded>
-
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -49,12 +60,11 @@ All current estimates of the cosmic-ray (CR) ionization rate rely on assessments
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7264</guid>
 <content:encoded><![CDATA[
 <div> C2, H2, collisional rate coefficients, interstellar gas density, absorption observations
-<br>
+<br />
 新的C2与H2碰撞激发的碰撞速率系数较之前采用的数值要大得多，这对于星际气体密度的探测非常重要。作者利用这些新的速率系数模拟了46个背景源的C2旋转分布，推测出导致观测到的C2吸收的前景星际云的气体密度比之前估算的要小4-7倍，与相关视线的3D消光图中的峰值密度基本吻合。对于那些还观测到吸收并用于估算宇宙射线离子化率（CRIR）的情况，我们对CRIR的估计也会相应减小，因为丰度是CRIR与气体密度的比值的函数。 
-<br><br>总结: C2与H2碰撞激发的速率系数重新计算，推测前景星际云气体密度减小，与3D消光图吻合，估计的CRIR也减小。 <div>
+<br /><br />总结: C2与H2碰撞激发的速率系数重新计算，推测前景星际云气体密度减小，与3D消光图吻合，估计的CRIR也减小。 <div>
 Newly computed collisional rate coefficients for the excitation of C2 in collisions with H2, presented recently by Najar & Kalugina, are significantly larger than the values adopted previously in models for the excitation of the C2 molecule, a widely used probe of the interstellar gas density. With these new rate coefficients, we have modeled the C2 rotational distributions inferred from visible and ultraviolet absorption observations of electronic transitions of C2 toward a collection of 46 nearby background sources. The inferred gas densities in the foreground interstellar clouds responsible for the observed C2 absorption are a factor 4–7 smaller than those inferred previously, a direct reflection of the larger collisional rate coefficients computed by Najar & Kalugina. These lower-density estimates are generally in good agreement with the peak densities inferred from 3D extinction maps for the relevant sight lines. In cases where absorption has also been observed and used to estimate the cosmic-ray ionization rate (CRIR), our estimates of the latter will also decrease accordingly because the abundance is a function of the ratio of the CRIR to the gas density.
 ]]></content:encoded>
-
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
 <item>
@@ -63,14 +73,12 @@ Newly computed collisional rate coefficients for the excitation of C2 in collisi
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7</guid>
 <content:encoded><![CDATA[
 <div> 磁气动力学模拟, 超大质量黑洞, 燃料, 星系, 冷却介质
-<br>
-这篇文章报告了对超大质量黑洞（M87*为典型案例）的燃料来自椭圆星系中的湍流冷却介质的三维磁气动力学模拟。研究发现，与类比的流体动力学模拟相比，质量吸积率增加了约10倍。从大约10 pc到10^-3 pc（约10个Schwarzschild半径），质量吸积率呈现出大致的比例关系，且通过视界的吸积率约为10^-2M⊙ yr^-1。在0.03-3 kpc的尺度上，吸积流呈磁化纤维的形式。在约30 pc范围内，冷气体环绕运动形成了一个高度被磁化（β约10^-3）的厚盘，由主要是环状磁场支撑。冷盘受到截断，并在约0.3 pc（10^3个Schwarzschild半径）处转变为湍流的热吸积流。磁场驱动向极端的强流出。通过的能量通量随着吸积体积减小而增加，对于rin=8 rg，能量通量达到约3 × 10^43 erg s^-1；这相当于接近恒定的能量反馈效率η约为0.05-0.1，与吸积体积无关。反馈能量足以平衡M87 / 维尔戈热晕的总冷却，直至约50 kpc。小半径的吸积磁通量类似于磁阻滞盘模型，与M87在视界尺度上形成强大的喷流相一致。我们的结果可以为低分辨率模拟中的吸积提供次网格模型，其中相对于邦迪率，热气体吸积率受到抑制。 <br><br>总结: 这项研究重点讨论了超大质量黑洞在燃料来源、磁场作用和能量输出等方面的模拟结果。其中包括质量吸积率的增加、磁化纤维中的吸积流、冷盘的形成和热吸积流的转变以及强大的磁场驱动的极端流出等。研究结果推动了低分辨率模拟中的吸积次网格模型的发展。 <div>
+<br />
+这篇文章报告了对超大质量黑洞（M87*为典型案例）的燃料来自椭圆星系中的湍流冷却介质的三维磁气动力学模拟。研究发现，与类比的流体动力学模拟相比，质量吸积率增加了约10倍。从大约10 pc到10^-3 pc（约10个Schwarzschild半径），质量吸积率呈现出大致的比例关系，且通过视界的吸积率约为10^-2M⊙ yr^-1。在0.03-3 kpc的尺度上，吸积流呈磁化纤维的形式。在约30 pc范围内，冷气体环绕运动形成了一个高度被磁化（β约10^-3）的厚盘，由主要是环状磁场支撑。冷盘受到截断，并在约0.3 pc（10^3个Schwarzschild半径）处转变为湍流的热吸积流。磁场驱动向极端的强流出。通过的能量通量随着吸积体积减小而增加，对于rin=8 rg，能量通量达到约3 × 10^43 erg s^-1；这相当于接近恒定的能量反馈效率η约为0.05-0.1，与吸积体积无关。反馈能量足以平衡M87 / 维尔戈热晕的总冷却，直至约50 kpc。小半径的吸积磁通量类似于磁阻滞盘模型，与M87在视界尺度上形成强大的喷流相一致。我们的结果可以为低分辨率模拟中的吸积提供次网格模型，其中相对于邦迪率，热气体吸积率受到抑制。 <br /><br />总结: 这项研究重点讨论了超大质量黑洞在燃料来源、磁场作用和能量输出等方面的模拟结果。其中包括质量吸积率的增加、磁化纤维中的吸积流、冷盘的形成和热吸积流的转变以及强大的磁场驱动的极端流出等。研究结果推动了低分辨率模拟中的吸积次网格模型的发展。 <div>
 We present 3D magnetohydrodynamic simulations of the fueling of supermassive black holes in elliptical galaxies from a turbulent cooling medium on galactic scales, taking M87* as a typical case. We find that the mass accretion rate is increased by a factor of ∼10 compared with analogous hydrodynamic simulations. The scaling of roughly holds from ∼10 pc to ∼10−3 pc (∼10 rg) with the accretion rate through the event horizon being ∼10−2M⊙ yr−1. The accretion flow on scales ∼0.03–3 kpc takes the form of magnetized filaments. Within ∼30 pc, the cold gas circularizes, forming a highly magnetized (β ∼ 10−3) thick disk supported by a primarily toroidal magnetic field. The cold disk is truncated and transitions to a turbulent hot accretion flow at ∼0.3 pc (103rg). There are strong outflows toward the poles driven by the magnetic field. The outflow energy flux increases with smaller accretor size, reaching ∼3 × 1043 erg s−1 for rin = 8 rg; this corresponds to a nearly constant energy feedback efficiency of η ∼ 0.05–0.1 independent of accretor size. The feedback energy is enough to balance the total cooling of the M87/Virgo hot halo out to ∼50 kpc. The accreted magnetic flux at small radii is similar to that in magnetically arrested disk models, consistent with the formation of a powerful jet on horizon scales in M87. Our results motivate a subgrid model for accretion in lower-resolution simulations in which the hot gas accretion rate is suppressed relative to the Bondi rate by .
 ]]></content:encoded>
-
 <pubDate>2024-09-25T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>SN 2021dbg: A Luminous Type IIP–IIL Supernova Exploding from a Massive Star with a Layered Shell</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe8</link>
@@ -11833,67 +11841,6 @@ The inversion of the relative content and spatial distribution characteristics o
 <br />
 红移大于3的光学暗淡和极为红的星系在过去的星系普查中被忽略。通过JADES、JEMS和SMILES的深度JWST成像，我们对这些星系进行了表征，发现存在大量含尘、后星暴型的星系，质量低至10的8次方太阳质量，低于Spitzer和ALMA的灵敏度极限。我们发现，在z大于6时，样本中包括大量“小红点”（NIRCam选定的尘埃泛红的活动星系核（AGN）候选体）。此外，我们还发现了5个具有巴尔望线断裂和高质量恒星的证据。这些结果表明，在JWST之前，来自暗淡源的被遮蔽的星形成率密度的贡献可能被低估了。我们还观察到，LRD中的老化恒星成分和高质量恒星量排除了来自热尘发射的主要贡献，这些源物理学上需要进一步的研究。调查测量系统性是探索未来数据的可能。 <br /><br />总结: 通过JWST的深度成像，我们发现了在先前的星系普查中被忽略的高红移星系种类。这些星系对星系总质量和星形成率的贡献被低估，尤其是在z大于6的时候。同时，我们发现了一些具有特殊性质的星系，需要进一步的观测和研究。 <div>
 Using deep JWST imaging from JADES, JEMS, and SMILES, we characterize optically faint and extremely red galaxies at z > 3 that were previously missing from galaxy census estimates. The data indicate the existence of abundant, dusty, and poststarburst-like galaxies down to 108 M⊙, below the sensitivity limit of Spitzer and the Atacama Large Millimeter/submillimeter Array (ALMA). Modeling the NIRCam and Hubble Space Telescope (HST) photometry of these red sources can result in extremely high values for both stellar mass and star formation rate (SFR); however, including seven MIRI filters out to 21 μm results in decreased masses (median 0.6 dex for > 10) and SFRs (median 10× for SFR > 100 M⊙ yr−1). At z > 6, our sample includes a high fraction of “little red dots” (LRDs; NIRCam-selected dust-reddened active galactic nucleus (AGN) candidates). We significantly measure older stellar populations in the LRDs out to rest-frame 3 μm (the stellar bump) and rule out a dominant contribution from hot dust emission, a signature of AGN contamination to stellar population measurements. This allows us to measure their contribution to the cosmic census at z > 3, below the typical detection limits of ALMA (LIR < 1012 L⊙). We find that these sources, which are overwhelmingly missed by HST and ALMA, could effectively double the obscured fraction of the star formation rate density at 4 < z < 6 compared to some estimates, showing that prior to JWST, the obscured contribution from fainter sources could be underestimated. Finally, we identify five sources with evidence for Balmer breaks and high stellar masses at 5.5 < z < 7.7. While spectroscopy is required to determine their nature, we discuss possible measurement systematics to explore with future data.
-]]></content:encoded>
-<pubDate>2024-06-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Photoionization Model for the Infrared Coronal Line Emission in the Classical Nova V1716 Scorpii</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4097</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4097</guid>
-<content:encoded><![CDATA[
-<div> novae, V1716 Scorpii, CLOUDY, photoionization modeling, ejecta<br />
-P（因子为120）和N（因子为248）高丰度，V1716 Sco有碳-氧白矮星，喷发物质中可能有氦氢化合物，CLOUDY模拟为两个组分，喷出物质质量为4.19 × 10−4M⊙，白矮星和附加外壳的混合比例为25%。<br /><br />总结: novae研究V1716 Scorpii的特性，包括其组成和气体喷发模型。CLOUDY模拟显示P和N的高丰度，喷出物质可能含有氦氢化合物。白矮星和外壳混合比例为25%，而不是50%。 <div>
-A near-infrared spectrum of nova V1716 Scorpii (PNV J17224490-4137160), a recent bright ( mag), Fermi-LAT detected γ-ray source, was modeled using the photoionization code CLOUDY. Abundances were estimated for He, C, N, O, Si, Al, Mg, Fe, Ne, S, Ca, and P. Notably, P (a factor of 120) and N (a factor of 248) are highly overabundant. It was necessary to assume the ejecta consist of two components (with a cylindrical geometry): a dense component from which the bulk of the H, He, and neutral O i and N emission arises and a more diffuse component from which most of the coronal lines arise. Some of the coronal lines are found to originate from both the dense and diffuse components. The mass of the ejecta, including neutral and ionized gas, is ≃4.19 × 10−4M⊙. Our analysis indicates that in the case of V1716 Sco (which has a carbon–oxygen white dwarf), a fraction of 25% white dwarf matter rather than 50% is favored for the mixing between a white dwarf and the accreted envelope before the outburst. This mixing ratio is like that found for oxygen–neon novae where a 25% mixing fraction is also indicated. Helium hydride—the first molecule to form after the Big Bang—may have formed in the ejecta of V1716 Sco based on photoionization modeling. This prediction suggests that novae may be potential formation sites of this important molecular ion.
-]]></content:encoded>
-<pubDate>2024-06-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4265</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4265</guid>
-<content:encoded><![CDATA[
-<div> 关键词: James Webb Space Telescope, active galactic nuclei (AGN), supermassive black holes, cosmic reionization, SMBH mass function
-
-总结: 
-詹姆斯·韦伯空间望远镜发现了许多模糊的活跃星系核，它们对我们理解超大质量黑洞的形成、它们与宿主星系的共同演化，以及活跃星系核在宇宙再电离中的作用至关重要。研究人员利用光度颜色和大小测量，在JWST/NIRCam领域内进行了对紧凑红色天体的搜索，并发现了260个红移在4 < zphot < 9的红移星系核候选者。这些天体的模型拟合显示它们中度受尘埃消光（AV ∼ 1.6）, 具有辐射的光度（Lbol = 1044–47 erg s−1）和较暗的紫外光度（MUV ≃ −17 to −22）。另外，研究人员还对灰尘星系核的光度函数进行了估算，发现它们的数量密度比同等光度的紫外选取类星体高100倍。研究还显示这些天体只占了同等红移下所有紫外选取星系的一小部分，但在z ∼ 7时MUV ∼ −22时这个比例上升到约10%。最后，根据一个保守的Eddington速率的引力累积假设，研究人员得出了z ∼ 5时超大质量黑洞质量函数的下限，并发现它与之前的理论和JWST的观测一致。 <br /><br /> <div>
-Observations with the James Webb Space Telescope (JWST) have uncovered numerous faint active galactic nuclei (AGN) at z ∼ 5 and beyond. These objects are key to our understanding of the formation of supermassive black holes (SMBHs), their coevolution with host galaxies, as well as the role of AGN in cosmic reionization. Using photometric colors and size measurements, we perform a search for compact red objects in an array of blank deep JWST/NIRCam fields totaling ∼640 arcmin2. Our careful selection yields 260 reddened AGN candidates at 4 < zphot < 9, dominated by a point-source-like central component (〈reff〉 < 130 pc) and displaying a dichotomy in their rest-frame colors (blue UV and red optical slopes). Quasar model fitting reveals our objects to be moderately dust-extincted (AV ∼ 1.6), which is reflected in their inferred bolometric luminosities of Lbol = 1044–47 erg s−1 and fainter UV magnitudes MUV ≃ −17 to −22. Thanks to the large areas explored, we extend the existing dusty AGN luminosity functions to both fainter and brighter magnitudes, estimating their number densities to be ×100 higher than for UV-selected quasars of similar magnitudes. At the same time, they constitute only a small fraction of all UV-selected galaxies at similar redshifts, but this percentage rises to ∼10% for MUV ∼ − 22 at z ∼ 7. Finally, assuming a conservative case of accretion at the Eddington rate, we place a lower limit on the SMBH mass function at z ∼ 5, finding it to be consistent with both theory and previous JWST observations.
-]]></content:encoded>
-<pubDate>2024-06-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Simple but Powerful Method to Reduce Background Noise in Celestial Gamma-Ray Images</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a4</guid>
-<content:encoded><![CDATA[
-<div> 关键词：背景噪音、伽玛射线天文数据、去噪算法、局部密度取样、点源检测
-
-总结：<br /><br />本研究介绍了一种针对伽玛射线天文数据的新型去噪算法，利用局部密度取样技术。该算法优先放大局部密度高的区域，减弱低密度区域的影响。这种选择性增强显著增强了聚类算法在定位点源方面的性能，有效地减少了被误认为真实源的高密度噪音的干扰。我们已经在费米大面积望远镜数据上实施了该算法，结果显示聚类算法在丢弃虚假源方面取得了显著进展。 <div>
-Reducing background noise is essential for clear data analysis and signal detection. In this study, we introduce a novel denoising algorithm tailored for gamma-ray astronomical data, utilizing local density sampling techniques. The proposed algorithm preferentially amplifies regions of high local density, which are indicative of potential sources, while diminishing the influence of low-density areas. This selective enhancement significantly bolsters the performance of clustering algorithms in pinpointing point sources, effectively minimizing the interference of high-density noise that could be mistaken for genuine sources. We have implemented this algorithm on Fermi Large Area Telescope data, and our results showcase a marked advancement in the clustering algorithm's capacity to discard false sources.
-]]></content:encoded>
-<pubDate>2024-06-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Return Currents in Collisionless Shocks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e75</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e75</guid>
-<content:encoded><![CDATA[
-<div> 电子-质子冲击波，粒子模拟，电流中和，电磁不稳定性，热化过程
-
-总结:
-通过动力学粒子在电磁场模拟中，我们可以观察到在电子-质子冲击波的上游区域存在着不同的过程。在远上游区域，电流主要由非热质子驱动，产生静电模式并产生超热电子，进入上游无穷远处。接近冲击波（在前趋区），电流密度和束流的动量通量增加，导致电磁流动不稳定性，有助于超热电子的热化。在冲击波脚附近，这些电子暴露在冲击波反射质子中，导致了双流不稳定性。这些发现对于理解磁场的放大以及可能导致超热电子进入扩散冲击加速过程的过程非常重要。 <div>
-Collisionless shocks tend to send charged particles into the upstream, driving electric currents through the plasma. Using kinetic particle-in-cell simulations, we investigate how the background thermal plasma neutralizes such currents in the upstream of quasi-parallel non-relativistic electron–proton shocks. We observe distinct processes in different regions: the far upstream, the shock precursor, and the shock foot. In the far upstream, the current is carried by nonthermal protons, which drive electrostatic modes and produce suprathermal electrons that move toward upstream infinity. Closer to the shock (in the precursor), both the current density and the momentum flux of the beam increase, which leads to electromagnetic streaming instabilities that contribute to the thermalization of suprathermal electrons. At the shock foot, these electrons are exposed to shock-reflected protons, resulting in a two-stream type instability. We analyze these processes and the resulting heating through particle tracking and controlled simulations. In particular, we show that the instability at the shock foot can make the effective thermal speed of electrons comparable to the drift speed of the reflected protons. These findings are important for understanding both the magnetic field amplification and the processes that may lead to the injection of suprathermal electrons into diffusive shock acceleration.
-]]></content:encoded>
-<pubDate>2024-06-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Escape Velocity Mass of A1063</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3de3</guid>
-<content:encoded><![CDATA[
-<div> 关键词: A1063, 逃逸速度, 密度模型, 质量估计, 速度离散度<br />
-<br />
-在这篇文章中，研究者利用A1063的星系红移数据，结合宇宙学模型，并考虑干扰因素和采样效应，推断出逃逸速度剖面，进而直接约束了引力势剖面。通过对比三种不同的密度模型，发现它们之间有很好的一致性。对于纳瓦罗-弗兰克-怀特模型，研究者发现log10(M200,crit) = M⊙，与六个最近出版的透镜质量估计结果一致。这种一致性因逃逸技术与透镜技术除了径向分bin之外没有共同系统偏差。这些质量估计结果比利用X射线数据和戈梅兹等人的速度离散度估计结果偏低2-4σ。研究者测量了r200内的1D速度离散度为km/s，结合逃逸速度质量估计值，使A1063的速度离散度首次与流体动力学宇宙模拟保持一致。 <br /><br />总结: 本研究利用星系红移数据推断了A1063的逃逸速度剖面，并利用引力势方程约束了引力势剖面，得到了与透镜质量估计结果一致的质量估计。这些估计结果明显低于利用X射线数据和速度离散度估计的结果。此外，研究还发现A1063的速度离散度与宇宙模拟结果保持一致。 <div>
-We measure the radius–velocity phase-space edge profile of A1063 using galaxy redshifts from Karman et al. and Mercurio et al. Combined with a cosmological model and after accounting for interlopers and sampling effects, we infer the escape velocity profile. Using the Poisson equation, we then directly constrain the gravitational potential profile and find excellent agreement between three different density models. For the Navarro–Frenk–White profile, we find log10(M200,crit) = M⊙, consistent to within 1σ of six recently published lensing masses. We argue that this consistency is due to the fact that the escape technique shares no common systematics with lensing other than radial binning. These masses are 2–4σ lower than estimates made using X-ray data, in addition to the Gómezet al. velocity dispersion estimate. We measure the 1D velocity dispersion within r200 to be km s−1, which combined with our escape velocity mass, brings the dispersion for A1063 in-line with hydrodynamic cosmological simulations for the first time.
 ]]></content:encoded>
 <pubDate>2024-06-05T23:00:00Z</pubDate>
 </item>
