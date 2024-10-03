@@ -5,6 +5,33 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Identifying Pulsar Candidates in Interferometric Radio Images Using Scintillation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e8</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 脉冲星, 干涉测量, 辐射成分, 动态光谱, 广播望远镜<br>
+总结: 
+本文介绍了利用干涉测量来选择脉冲星候选对象的新技术。该技术通过识别闪烁源并测量其闪烁带宽和时间尺度来确定可能的候选对象，从而实现了对脉冲星的高效率、聚焦的时域搜索。脉冲星的闪烁与其定时属性无关，因此能够找到与时域搜索不同的脉冲星。通过升级后的巨型米波射电望远镜（uGMRT）观测PSR B1508+55、PSR J0437−4715和PSR B0031−07等脉冲星的字段，证明了这一技术在区分脉冲星和其他非闪烁点源方面的正确性，同时展示了从uGMRT相控阵波束中提取的脉冲星动态光谱等结果。同时，讨论了处理干扰和仪器效应时的挑战。<br><br> <div>
+Pulsars have been primarily detected by their narrow pulses or periodicity in time domain data. Interferometric surveys for pulsars are challenging due to the trade-off between beam sensitivity and beam size and the corresponding tradeoff between survey sensitivity (depth), sky coverage, and computational efforts. The detection sensitivity of time domain searches for pulsars is affected by dispersion smearing, scattering, and rapid orbital motion of pulsars in binaries. We have developed a new technique to select pulsar candidates in interferometric radio images by identifying scintillating sources and measuring their scintillation bandwidth and timescale. Identifying likely candidates allows sensitive, focused time-domain searches, saving computational effort. Pulsar scintillation is independent of its timing properties and hence offers a different selection of pulsars compared to time-domain searches. Candidates identified from this method could allow us to find hard-to-detect pulsars, such as submillisecond pulsars and pulsars in very compact, highly accelerated binary orbits. We use upgraded Giant Metrewave Radio Telescope (uGMRT) observations in the fields of PSR B1508+55, PSR J0437−4715, and PSR B0031−07 as test cases for our technique. We demonstrate that the technique correctly differentiates between the pulsar and other nonscintillating point sources and show that the extracted dynamic spectrum of the pulsar is equivalent to that extracted from the uGMRT phased array beam. We show the results from our analysis of known pulsar fields and discuss challenges in dealing with interference and instrumental effects.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Braving the Storm: Quantifying Disk-wide Ionized Outflows in the Large Magellanic Cloud with ULLYSES</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d2</guid>
+<content:encoded><![CDATA[
+<div> H ii regions, outflows, LMC, star formation, scaling relation
+<br>
+大麦哲伦星系（LMC）的研究发现在氢、硫、硅和碳等多种气体中存在离子化的外流现象。这些外流的质量明显与LMC的星形成速率表面密度（ΣSFR）相关，外流的质量以及质载因子进一步揭示了这一现象的特点。研究还发现，这些外流与LMC的年轻恒星盘同步转动，并且未受到外部力量的显著影响。因此，文章推测LMC前方存在一个能够屏蔽外流免受来自银河的迎风压力影响的弓形冲击波。总结: 大麦哲伦星系中存在多种气体的离子化外流，与星形成速率相关，与年轻恒星盘同步转动，可能存在屏蔽外流的弓形冲击波。 <div>
+The Large Magellanic Cloud (LMC) is home to many H ii regions, which may lead to significant outflows. We examine the LMC’s multiphase gas (T∼104-5 K) in H i, S ii, Si iv, and C iv using 110 stellar sight lines from the Hubble Space Telescope’s Ultraviolet Legacy Library of Young Stars as Essential Standards program. We develop a continuum fitting algorithm based on the concept of Gaussian process regression and identify reliable LMC interstellar absorption over vhelio = 175–375 km s−1. Our analyses show disk-wide ionized outflows in Si iv and C iv across the LMC with bulk velocities of ∣vout, bulk∣ ∼ 20–60 km s−1, which indicates that most of the outflowing mass is gravitationally bound. The outflows’ column densities correlate with the LMC’s star formation rate surface densities (ΣSFR), and the outflows with higher ΣSFR tend to be more ionized. Considering outflows from both sides of the LMC as traced by C iv, we conservatively estimate a total outflow rate of and a mass-loading factor of η ≳ 0.15. We compare the LMC’s outflows with those detected in starburst galaxies and simulation predictions, and find a universal scaling relation of over a wide range of star-forming conditions (ΣSFR ∼ 10−4.5–102M⊙ yr−1 kpc−2). Lastly, we find that the outflows are corotating with the LMC’s young stellar disk and the velocity field does not seem to be significantly impacted by external forces; we thus speculate on the existence of a bow shock leading the LMC, which may have shielded the outflows from ram pressure as the LMC orbits the Milky Way.
+]]></content:encoded>
+
+<pubDate>2024-09-30T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>JADES Ultrared Flattened Objects: Morphologies and Spatial Gradients in Color and Stellar Populations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64c2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64c2</guid>
@@ -12,10 +39,9 @@
 <div> JWST, galaxies, UFOs, spatially extended, redshifts
 JWST载荷、星系、UFOs、空间扩展、红移
 
-JWST观测首年的一个意外发现是，在光学上看起来被认为是紧凑的光学暗星系（OFG）群体中，存在大量空间扩展的星系（超红扁平物体，或称UFOs）。利用JWST Advanced Deep Extragalactic Survey的深度和调查区域，我们对另外112个天体进行了观测，其中56个在F444W波段分辨率很高，有效尺寸Re > 0.″25，将之前的UFO数量增加了三倍以上。这些星系的红移大约在2 < z < 4之间，具有高质量星系（），并且具有约100-1000M⊙ yr−1的星形成速率。令人惊讶的是，UFOs在整个区域都呈现出红色，空间分辨率分析显示这是由于极高的尘埃衰减（通常在大半径处甚至达到AV > 2 mag）。在形态上，我们的UFO样本大多数倾向于具有较低的Sérsic指数（n∼1），表明这些大型、大质量的OFGs在F444W中几乎没有来自球状物的贡献。此外，大多数的轴比介于0.2 < q < 0.4之间，贝叶斯建模显示它们的本征形状与倾斜的圆盘和近似椭球体的混合相一致，几乎没有来自球状的贡献。虽然动力学约束将需要确定UFOs的真实本征形状，但显而易见的是一个意外的大型、扁平或近圆形物体的群体对OFGs的数量贡献很大。<br><br>总结: JWST观测发现了大量的空间扩展星系（UFOs），它们具有高红移、高质量和高星形成速率。这些星系在整个区域都呈现出红色，并且大多数都具有较低的Sérsic指数，表明它们几乎没有来自球状物的贡献。此外，它们的本征形状可能是倾斜的圆盘和近似椭球体的混合。 <div>
+JWST观测首年的一个意外发现是，在光学上看起来被认为是紧凑的光学暗星系（OFG）群体中，存在大量空间扩展的星系（超红扁平物体，或称UFOs）。利用JWST Advanced Deep Extragalactic Survey的深度和调查区域，我们对另外112个天体进行了观测，其中56个在F444W波段分辨率很高，有效尺寸Re > 0.″25，将之前的UFO数量增加了三倍以上。这些星系的红移大约在2 < z < 4之间，具有高质量星系（），并且具有约100-1000M⊙ yr−1的星形成速率。令人惊讶的是，UFOs在整个区域都呈现出红色，空间分辨率分析显示这是由于极高的尘埃衰减（通常在大半径处甚至达到AV > 2 mag）。在形态上，我们的UFO样本大多数倾向于具有较低的Sérsic指数（n∼1），表明这些大型、大质量的OFGs在F444W中几乎没有来自球状物的贡献。此外，大多数的轴比介于0.2 < q < 0.4之间，贝叶斯建模显示它们的本征形状与倾斜的圆盘和近似椭球体的混合相一致，几乎没有来自球状的贡献。虽然动力学约束将需要确定UFOs的真实本征形状，但显而易见的是一个意外的大型、扁平或近圆形物体的群体对OFGs的数量贡献很大。<br /><br />总结: JWST观测发现了大量的空间扩展星系（UFOs），它们具有高红移、高质量和高星形成速率。这些星系在整个区域都呈现出红色，并且大多数都具有较低的Sérsic指数，表明它们几乎没有来自球状物的贡献。此外，它们的本征形状可能是倾斜的圆盘和近似椭球体的混合。 <div>
 One of the more surprising findings after the first year of JWST observations is the large number of spatially extended galaxies (ultrared flattened objects, or UFOs) among the optically faint galaxy (OFG) population otherwise thought to be compact. Leveraging the depth and survey area of the JWST Advanced Deep Extragalactic Survey, we extend observations of the OFG population to an additional 112 objects, 56 of which are well-resolved in F444W with effective sizes, Re > 0.″25, more than tripling previous UFO counts. These galaxies have redshifts around 2 < z < 4, high stellar masses ( ), and star formation rates around ∼100–1000 M⊙ yr−1. Surprisingly, UFOs are red across their entire extents, which spatially resolved analysis of their stellar populations shows is due to large values of dust attenuation (typically AV > 2 mag even at large radii). Morphologically, the majority of our UFO sample tends to have low Sérsic indices (n ∼ 1) suggesting that these large, massive, OFGs have little contribution from a bulge in F444W. Further, a majority have axis ratios between 0.2 < q < 0.4, which Bayesian modeling suggests that their intrinsic shapes are consistent with being a mixture of inclined disks and prolate objects with little to no contribution from spheroids. While kinematic constraints will be needed to determine the true intrinsic shapes of UFOs, it is clear that an unexpected population of large, disky or prolate objects contributes significantly to the population of OFGs.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -25,11 +51,10 @@ One of the more surprising findings after the first year of JWST observations is
 <content:encoded><![CDATA[
 <div> 核子星；夸克物质；相变；热涨落；核化概率
 
-总结:<br>
+总结:<br />
 本文研究了在核子星内部的极高密度条件下可能形成的夸克物质。作者指出，夸克物质的形成可能是通过一种叫做核化的过程发生的，而热涨落对这一过程起着重要作用。在有限温度下，系统中的热力学量会围绕平均值产生波动。热涨落可能使核化过程在子系统中更容易发生。作者还指出，对于较低的温度，需要的过压已经超过了紧凑星所能达到的最大压力。最后，即使考虑到有限尺寸效应，对于更高的温度，核化过程也可能发生。 <div>
 At the extreme densities reached in the core of neutron stars, it is possible that deconfined quark matter is produced. The formation of this new phase of strongly interacting matter is likely to occur via a first-order phase transition for the typical temperatures reached in astrophysical processes. The first seeds of quark matter would then form through a process of nucleation within the metastable hadronic phase. Here, we address the role of the thermal fluctuations in the hadronic composition on the nucleation of two-flavor quark matter. At finite temperature, the thermodynamic quantities in a system fluctuate around average values. Nucleation being a local process, it is possible that it occurs in a subsystem whose composition makes the nucleation easier. We will consider the total probability of the nucleation as the product between the probability that a subsystem has a certain hadronic composition different from the average in the bulk, and the nucleation probability in that subsystem. We will show how those fluctuations of the hadronic composition can increase the efficiency of nucleation already for temperatures ∼(0.1−1) keV. However, for temperatures ≲(1−10) MeV, the needed overpressure exceeds the maximum pressure reached in compact stars. Finally, for even larger temperatures the process of nucleation can take place, even taking into account finite-size effects.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -39,10 +64,9 @@ At the extreme densities reached in the core of neutron stars, it is possible th
 <content:encoded><![CDATA[
 <div> 核心崩溃超新星，SN 2021wvw，光谱观测，热量，MESA+STELLA，低金属量
 
-该研究报道了罕见的核心崩溃超新星SN 2021wvw的详细多波段光度测量和光谱观测分析，包括达到250天的光度演化和达到100天的光谱覆盖。这一独特事件与IIP型超新星的一般趋势不符，显示出中等亮度，仅有约75天的短暂平台期，然后是非常快的（约10天）过渡到尾相。在速度空间中，与较大的II型样本相比，其速度较低。观测到的峰值绝对星等为r-band中的−16.1等，镍质量被良好地限制为0.020 ± 0.006 M⊙。使用MESA+STELLA进行详细的流体动力学建模表明，这是一个半径紧凑、低金属量、高质量的红超巨星前体（MZAMS=18 M⊙），爆发时释放了约0.2×1051 erg s−1，留下了一个Ejecta mass of Mej≈5 M⊙。与光度曲线特性相一致，前体+爆炸模型显示了显著的后期回落过程。作为迄今为止表面最暗的短暂平台超新星，这一事件增加了在经典的约100天平台型IIP和剥离壳事件之间的过渡事件的多样性。 <br><br>总结：本研究报道了核心崩溃超新星SN 2021wvw的独特特征，其光度和速度特性与常见的IIP型超新星不符合，表现出中等亮度和短暂的平台期。使用MESA+STELLA进行流体动力学建模显示，这颗超新星的前体是一个半径紧凑、低金属量、高质量的红超巨星。研究结果对于增加我们对于不同超新星类型的了解提供了重要的信息。 <div>
+该研究报道了罕见的核心崩溃超新星SN 2021wvw的详细多波段光度测量和光谱观测分析，包括达到250天的光度演化和达到100天的光谱覆盖。这一独特事件与IIP型超新星的一般趋势不符，显示出中等亮度，仅有约75天的短暂平台期，然后是非常快的（约10天）过渡到尾相。在速度空间中，与较大的II型样本相比，其速度较低。观测到的峰值绝对星等为r-band中的−16.1等，镍质量被良好地限制为0.020 ± 0.006 M⊙。使用MESA+STELLA进行详细的流体动力学建模表明，这是一个半径紧凑、低金属量、高质量的红超巨星前体（MZAMS=18 M⊙），爆发时释放了约0.2×1051 erg s−1，留下了一个Ejecta mass of Mej≈5 M⊙。与光度曲线特性相一致，前体+爆炸模型显示了显著的后期回落过程。作为迄今为止表面最暗的短暂平台超新星，这一事件增加了在经典的约100天平台型IIP和剥离壳事件之间的过渡事件的多样性。 <br /><br />总结：本研究报道了核心崩溃超新星SN 2021wvw的独特特征，其光度和速度特性与常见的IIP型超新星不符合，表现出中等亮度和短暂的平台期。使用MESA+STELLA进行流体动力学建模显示，这颗超新星的前体是一个半径紧凑、低金属量、高质量的红超巨星。研究结果对于增加我们对于不同超新星类型的了解提供了重要的信息。 <div>
 We present detailed multiband photometric and spectroscopic observations and analysis of a rare core-collapse supernova, SN 2021wvw, that includes photometric evolution up to 250 days and spectroscopic coverage up to 100 days postexplosion. A unique event that does not fit well within the general trends observed for Type IIP supernovae, SN 2021wvw shows an intermediate luminosity with a short plateau phase of just about 75 days, followed by a very sharp (∼10 days) transition to the tail phase. Even in the velocity space, it lies at a lower velocity compared to a larger Type II sample. The observed peak absolute magnitude is −16.1 mag in r-band, and the nickel mass is well constrained to 0.020 ± 0.006 M⊙. Detailed hydrodynamical modeling using MESA+STELLA suggests a radially compact, low-metallicity, high-mass red supergiant progenitor (MZAMS = 18 M⊙), which exploded with ∼0.2 × 1051 erg s−1 leaving an ejecta mass of Mej ≈ 5 M⊙. Significant late-time fallback during the shock propagation phase is also seen in progenitor+explosion models consistent with the light-curve properties. As the faintest short-plateau supernova characterized to date, this event adds to the growing diversity of transitional events between the canonical ∼100 days plateau Type IIP and stripped-envelope events.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -51,10 +75,9 @@ We present detailed multiband photometric and spectroscopic observations and ana
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67db</guid>
 <content:encoded><![CDATA[
 <div> Gaia Data Release 3, Spectral Classification, The Cannon, Exoplanet Research, Stellar Labels
-<br>总结:<br>文章介绍了利用The Cannon这一数据驱动的模型对Gaia Data Release 3的径向速度光谱仪（RVS）的恒星光谱进行建模，并得出高精度的恒星参数。他们还验证了模型的性能，并提供了用于测试恒星活动、双星性和模型输出可靠性的指标。最后，他们发布了Kepler Input Catalog目标的更新恒星参数和指标。 <div>
+<br />总结:<br />文章介绍了利用The Cannon这一数据驱动的模型对Gaia Data Release 3的径向速度光谱仪（RVS）的恒星光谱进行建模，并得出高精度的恒星参数。他们还验证了模型的性能，并提供了用于测试恒星活动、双星性和模型输出可靠性的指标。最后，他们发布了Kepler Input Catalog目标的更新恒星参数和指标。 <div>
 Precise spectroscopic classification of planet hosts is an important tool of exoplanet research at both the population and individual system level. In the era of large-scale surveys, data-driven methods offer an efficient approach to spectroscopic classification that leverages the fact that a subset of stars in any given survey has stellar properties that are known with high fidelity. Here, we use The Cannon, a data-driven framework for modeling stellar spectra, to train a generative model of spectra from the Gaia Data Release 3 Radial Velocity Spectrometer (RVS). Our model derives stellar labels with precisions of 72 K in Teff, 0.09 dex in logg, 0.06 dex in [Fe/H], 0.05 dex in [α/Fe], and 1.9 km s−1 in vbroad for main-sequence stars observed by Gaia DR3 by transferring GALAH labels, and is publicly available at https://github.com/isabelangelo/gaiaspec. We validate our model performance on planet hosts with available Gaia RVS spectra at SNR>50 by showing that our model is able to recover stellar parameters at ≥20% improved accuracy over the existing Gaia stellar parameter catalogs, measured by the agreement with high-fidelity labels from the Spectroscopic Observations of Cool Stars survey. We also provide metrics to test for stellar activity, binarity, and reliability of our model outputs and provide instructions for interpreting these metrics. Finally, we publish updated stellar labels and metrics that flag suspected binaries and active stars for Kepler Input Catalog objects with published Gaia RVS spectra.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -63,11 +86,10 @@ Precise spectroscopic classification of planet hosts is an important tool of exo
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6867</guid>
 <content:encoded><![CDATA[
 <div> JWST, NIRCam, galaxy overdensities, high-redshift, protocluster candidates
-<br>
-该研究利用JWST/NIRCam进行了高红移星系过密区域的系统搜索，确认了17个重要的星系过密区域，其中包括迄今为止最高红移的两个谱学确认的星系过密区域。研究发现，亮度和颜色较红的星系在更密集的环境中出现，并且被更多的星系邻居包围，暗示了星系的加速演化。根据经验性的星系质量与暗物质晕的质量关系，估算了这些大尺度结构的总暗物质晕质量，但这可能是低估计。这些原星团候选体有望在z=0时演化成质量巨大的星系团。 <br><br>总结: 该研究利用JWST/NIRCam系统搜索了高红移星系过密区域，确认了17个重要的星系过密区域，发现了加速演化和可能的未来演变方向，估算了这些结构的总质量。 <div>
+<br />
+该研究利用JWST/NIRCam进行了高红移星系过密区域的系统搜索，确认了17个重要的星系过密区域，其中包括迄今为止最高红移的两个谱学确认的星系过密区域。研究发现，亮度和颜色较红的星系在更密集的环境中出现，并且被更多的星系邻居包围，暗示了星系的加速演化。根据经验性的星系质量与暗物质晕的质量关系，估算了这些大尺度结构的总暗物质晕质量，但这可能是低估计。这些原星团候选体有望在z=0时演化成质量巨大的星系团。 <br /><br />总结: 该研究利用JWST/NIRCam系统搜索了高红移星系过密区域，确认了17个重要的星系过密区域，发现了加速演化和可能的未来演变方向，估算了这些结构的总质量。 <div>
 We conduct a systematic search for high-redshift galaxy overdensities at 4.9 < zspec < 8.9 in both the Great Observatories Origins Deep Survey (GOODS)-N and GOODS-S fields using James Webb Space Telescope/Near-Infrared Camera (JWST/NIRCam) imaging from the JWST Advanced Deep Extragalactic Survey and JWST Extragalactic Medium-band Survey in addition to JWST/NIRCam wide field slitless spectroscopy from the First Reionization Epoch Spectroscopic Complete Survey. High-redshift galaxy candidates are identified using Hubble Space Telescope + JWST photometry spanning λ = 0.4–5.0 μm. We confirmed the redshifts for roughly a third of these galaxies using JWST spectroscopy over λ = 3.9–5.0 μm through identification of either Hα or around the best-fit photometric redshift. The rest-ultraviolet magnitudes and continuum slopes of these galaxies were inferred from the photometry: the brightest and reddest objects appear in more dense environments and thus are surrounded by more galaxy neighbors than their fainter and bluer counterparts, suggesting accelerated galaxy evolution within overdense environments. We find 17 significant (δgal ≥ 3.04, Ngal ≥ 4) galaxy overdensities across both fields (seven in GOODS-N and 10 in GOODS-S), including the two highest redshift spectroscopically confirmed galaxy overdensities to date at and (representing densities around ∼6 and ∼12 times that of a random volume). We estimate the total halo mass of these large-scale structures to be using an empirical stellar mass-to-halo mass relation, which are likely underestimates as a result of incompleteness. These protocluster candidates are expected to evolve into massive galaxy clusters with by z = 0.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -75,12 +97,11 @@ We conduct a systematic search for high-redshift galaxy overdensities at 4.9 < z
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6982</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6982</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 模拟观测技术, 星系对齐, TNG100-1模拟, 预测与观测一致性, 依赖关系分析<br>
-<br>
-这项研究使用TNG100-1模拟的结果，通过模拟观测技术生成了星系样本，探讨了三种内在对齐形式：最亮星系团星系的定向与其卫星空间分布的对齐，卫星星系的定向与指向其最亮星系的方向的径向对齐，以及最亮星系的定向与其卫星星系的直接对齐。总体而言，星系对齐的预测与观测结果基本一致，尽管存在一些小的差异。对于最亮星系-卫星对齐，模拟观测很好地复制了对齐强度和颜色依赖性趋势。关于径向对齐，信号较弱但可辨识，没有明显的颜色依赖性。至于直接对齐，在模拟中没有检测到信号，也没有颜色依赖性。研究还探讨了对齐依赖于星系团或最亮星系性质以及相邻效应。对于最亮星系-卫星对齐，预测的对齐信号与星系团和最亮星系质量呈正相关，与观测和先前的预测一致。类似的相关性也观察到与最亮星系的年龄和金属丰度，这值得未来观测分析来确认。相邻效应对所有三种对齐类型都有影响，靠近最亮星系的卫星表现出更强的对齐信号。分析了星系定义和形状测定对对齐研究的影响。这项研究强调了使用模拟观测技术进行公平比较预测和观测之间的重要性。<br><br>总结: 本研究通过TNG100-1模拟结果生成了星系样本，研究了三种内在对齐形式，对齐信号在模拟观测中得到了验证，存在一些差异。对齐信号与星系团和最亮星系性质呈正相关，相邻效应对对齐类型有影响。研究强调了模拟观测技术的重要性。 <div>
+<div> 关键词: 模拟观测技术, 星系对齐, TNG100-1模拟, 预测与观测一致性, 依赖关系分析<br />
+<br />
+这项研究使用TNG100-1模拟的结果，通过模拟观测技术生成了星系样本，探讨了三种内在对齐形式：最亮星系团星系的定向与其卫星空间分布的对齐，卫星星系的定向与指向其最亮星系的方向的径向对齐，以及最亮星系的定向与其卫星星系的直接对齐。总体而言，星系对齐的预测与观测结果基本一致，尽管存在一些小的差异。对于最亮星系-卫星对齐，模拟观测很好地复制了对齐强度和颜色依赖性趋势。关于径向对齐，信号较弱但可辨识，没有明显的颜色依赖性。至于直接对齐，在模拟中没有检测到信号，也没有颜色依赖性。研究还探讨了对齐依赖于星系团或最亮星系性质以及相邻效应。对于最亮星系-卫星对齐，预测的对齐信号与星系团和最亮星系质量呈正相关，与观测和先前的预测一致。类似的相关性也观察到与最亮星系的年龄和金属丰度，这值得未来观测分析来确认。相邻效应对所有三种对齐类型都有影响，靠近最亮星系的卫星表现出更强的对齐信号。分析了星系定义和形状测定对对齐研究的影响。这项研究强调了使用模拟观测技术进行公平比较预测和观测之间的重要性。<br /><br />总结: 本研究通过TNG100-1模拟结果生成了星系样本，研究了三种内在对齐形式，对齐信号在模拟观测中得到了验证，存在一些差异。对齐信号与星系团和最亮星系性质呈正相关，相邻效应对对齐类型有影响。研究强调了模拟观测技术的重要性。 <div>
 In this study, galaxy samples have been generated using mock observation techniques based on the results of TNG100-1 simulations to investigate three forms of intrinsic alignment: satellite-central alignment between the orientation of the brightest group galaxies (BGG) and the spatial distribution of their satellites, radial alignment between the satellites’ orientation and the direction toward their BGG, as well as direct alignment between the orientation of BGG and that of its satellites. Overall, the predictions of galaxy alignment generally align with observations, although minor discrepancies have been identified. For satellite-central alignment, the alignment strength and color-dependence trends are well replicated by the mock observations. Regarding radial alignment, the signals are weak but discernible, with no apparent color dependence. As for direct alignment, no signal is detected, nor is there any color dependence. We also investigate the alignment dependencies on halo or the BGG properties, and proximity effect. For satellite-central alignment, the predicted alignment signal shows a positive correlation with halo and BGG mass, consistent with observations and previous predictions. Similar correlations have also been observed with the BGG age and metallicity, which merit future observational analysis for confirmation. Proximity effects have been observed for all three types of alignment, with satellites closer to the BGG exhibiting stronger alignment signals. The influence of galaxy definition and shape determination on alignment studies is also analyzed. This study underscores the importance of employing mock observation techniques for a fair comparison between predictions and observations.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -88,12 +109,11 @@ In this study, galaxy samples have been generated using mock observation techniq
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0c</guid>
 <content:encoded><![CDATA[
-<div> PIC simulations, low-Mach-number shocks, electrostatic waves, wave-particle interactions, astrophysical plasma<br>
-总结:<br>
+<div> PIC simulations, low-Mach-number shocks, electrostatic waves, wave-particle interactions, astrophysical plasma<br />
+总结:<br />
 本文使用PIC模拟研究了低Mach数冲击波中的静电波现象，发现在这样的冲击波中，离子尺度的斜入射哨声波会产生两个热的反向电子流，驱动不稳定的电子声波，并在演化的后期形成静电孤波。通过周期性边界的模拟，显示出电子声波的特性符合线性色散分析。对于实际速度的冲击波，静电孤波的波长将减小到电子皮深度的十分之一，并且静电孤波幅值预计将超过准静态电场的100倍以上。这些理论预测可能解释了PIC模拟和卫星测量之间高频和低频电场波动相对幅度的不一致。 <div>
 Collisionless low-Mach-number shocks are abundant in astrophysical and space plasma environments, exhibiting complex wave activity and wave–particle interactions. In this paper, we present 2D Particle-in-Cell (PIC) simulations of quasi-perpendicular nonrelativistic (vsh ≈ (5500–22000) km s−1) low-Mach-number shocks, with a specific focus on studying electrostatic waves in the shock ramp and precursor regions. In these shocks, an ion-scale oblique whistler wave creates a configuration with two hot counterstreaming electron beams, which drive unstable electron acoustic waves (EAWs) that can turn into electrostatic solitary waves (ESWs) at the late stage of their evolution. By conducting simulations with periodic boundaries, we show that the EAW properties agree with linear dispersion analysis. The characteristics of ESWs in shock simulations, including their wavelength and amplitude, depend on the shock velocity. When extrapolated to shocks with realistic velocities (vsh ≈ 300 km s−1), the ESW wavelength is reduced to one-tenth of the electron skin depth and the ESW amplitude is anticipated to surpass that of the quasi-static electric field by more than a factor of 100. These theoretical predictions may explain a discrepancy, between PIC and satellite measurements, in the relative amplitude of high- and low-frequency electric field fluctuations.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -101,12 +121,11 @@ Collisionless low-Mach-number shocks are abundant in astrophysical and space pla
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b93</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b93</guid>
 <content:encoded><![CDATA[
-<div> 关键词: AGN, NGC 1365, 星体形成, 紫外线, 超大望远镜<br>
-<br>
-AGN反馈对星系演化的重要性；使用AstroSat的UVIT和Very Large Telescope/MUSE的光谱数据研究NGC 1365塞弗特星系；UVIT观测显示环绕核心区域的明亮星体形成结，以及微弱的中心源；经过修正后，发现核周环的星体形成率与其他星暴星系相似，尽管存在AGN流出；AGN流出速度小于逃逸速度，暗示流出气体将重新进入星系；深度UV数据揭示了AGN流出方向的弥散紫外线辐射，结合[O iii]和UV数据得出这种辐射是AGN起源的。<br><br>总结: 本研究利用UVIT和MUSE数据观测NGC 1365塞弗特星系，发现其核周环的星体形成率与其他星暴星系相似，尽管存在AGN流出；同时发现AGN流出速度小于逃逸速度，暗示流出气体将重新进入星系；通过深度UV数据还发现了AGN流出方向的弥散紫外线辐射，并结合其他数据证实了其AGN起源。 <div>
+<div> 关键词: AGN, NGC 1365, 星体形成, 紫外线, 超大望远镜<br />
+<br />
+AGN反馈对星系演化的重要性；使用AstroSat的UVIT和Very Large Telescope/MUSE的光谱数据研究NGC 1365塞弗特星系；UVIT观测显示环绕核心区域的明亮星体形成结，以及微弱的中心源；经过修正后，发现核周环的星体形成率与其他星暴星系相似，尽管存在AGN流出；AGN流出速度小于逃逸速度，暗示流出气体将重新进入星系；深度UV数据揭示了AGN流出方向的弥散紫外线辐射，结合[O iii]和UV数据得出这种辐射是AGN起源的。<br /><br />总结: 本研究利用UVIT和MUSE数据观测NGC 1365塞弗特星系，发现其核周环的星体形成率与其他星暴星系相似，尽管存在AGN流出；同时发现AGN流出速度小于逃逸速度，暗示流出气体将重新进入星系；通过深度UV数据还发现了AGN流出方向的弥散紫外线辐射，并结合其他数据证实了其AGN起源。 <div>
 Active galactic nuclei (AGN) feedback and its impact on their host galaxies are critical to our understanding of galaxy evolution. Here, we present a combined analysis of new high resolution ultraviolet (UV) data from the Ultraviolet Imaging Telescope (UVIT) on AstroSat and archival optical spectroscopic data from the Very Large Telescope/MUSE, for the Seyfert galaxy, NGC 1365. Concentrating on the central 5 kpc region, the UVIT images in the far- and near-UV show bright star-forming knots in the circumnuclear ring as well as a faint central source. After correcting for extinction, we found the star formation rate (SFR) surface density of the circumnuclear 2 kpc ring to be similar to other starbursts, despite the presence of an AGN outflow, as seen in [O iii] 5007 Å. On the other hand, we found fainter UV and thus lower SFR in the direction southeast of the AGN relative to northwest in agreement with observations at other wavelengths from JWST and Atacama Large Millimeter/submillimeter Array. The AGN outflow velocity is found to be lesser than the escape velocity, suggesting that the outflowing gas will rain back into the galaxy. The deep UV data have also revealed diffuse UV emission in the direction of the AGN outflow. By combining [O iii] and UV data, we found the diffuse emission to be of AGN origin.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -116,10 +135,9 @@ Active galactic nuclei (AGN) feedback and its impact on their host galaxies are 
 <content:encoded><![CDATA[
 <div> H ii regions, electron density, RRL–FS line method, observations, SOFIA Airborne Observatory
 
-总结:<br><br>这篇文章介绍了利用205μm [N ii]精细结构线和射电复合线来推导10个著名H ii区的电子密度。RRL-FS线方法结合了这两种光谱线，可以在无需了解电离区域大小的情况下，对n(e) ≥ 30 cm^-3的区域进行敏感探测。作者利用Green Bank天文台的H54α数据和SOFIA航空天文台的205μm数据，消除了观测中非均匀密度的显著误差。电子密度在观测的不同区域之间差异很大，从2600到36,000 cm^-3不等，其中两个低密度异常值分别为94和520 cm^-3。平均而言，这些密度比最高分辨率的单天线数据大约4倍，比182″角分辨率的单天线数据大约13倍。总体1σ的分数不确定性在0.15-0.29范围内。在RRL-FS线方法中，观测到的量与∫n2(z)dz / ∫n(z)dz成比例。这些高密度值可能是RRL-FS线技术对中心浓缩密度分布峰值的采样结果。 <div>
+总结:<br /><br />这篇文章介绍了利用205μm [N ii]精细结构线和射电复合线来推导10个著名H ii区的电子密度。RRL-FS线方法结合了这两种光谱线，可以在无需了解电离区域大小的情况下，对n(e) ≥ 30 cm^-3的区域进行敏感探测。作者利用Green Bank天文台的H54α数据和SOFIA航空天文台的205μm数据，消除了观测中非均匀密度的显著误差。电子密度在观测的不同区域之间差异很大，从2600到36,000 cm^-3不等，其中两个低密度异常值分别为94和520 cm^-3。平均而言，这些密度比最高分辨率的单天线数据大约4倍，比182″角分辨率的单天线数据大约13倍。总体1σ的分数不确定性在0.15-0.29范围内。在RRL-FS线方法中，观测到的量与∫n2(z)dz / ∫n(z)dz成比例。这些高密度值可能是RRL-FS线技术对中心浓缩密度分布峰值的采样结果。 <div>
 We employ observations of the 205 μm [N ii] fine structure (FS) line and radio recombination line (RRL) emission to derive the electron density in 10 well-known H ii regions. The combination of these two spectral lines (the RRL–FS line method) provides a sensitive probe of electron density in regions with n(e) ≥ 30 cm−3 without requiring knowledge of the size of the ionized region. By using H54α data from the Green Bank Telescope and 205 μm data from the SOFIA Airborne Observatory, we have almost identical 18″ beamwidths, removing a significant source of error for observations of H ii regions due to nonuniform density across the sources observed. The electron densities vary widely among the sources observed, from 2600 to 36,000 cm−3, with two low-density outliers at 94 and 520 cm−3. On average, these densities are a factor of 4 greater than the highest-resolution single-antenna data and a factor of almost 13 greater than the 182″ angular resolution single-antenna data having more sources in common. The total 1σ fractional uncertainties in n(e) are in the range 0.15–0.29. In the RRL–FS line method, the observationally determined quantity is proportional to ∫n2(z)dz / ∫n(z)dz. For a Gaussian density distribution much more extended than its 1/e radius, this is equal to , where n0 is the peak electron density. The high values of electron density found are plausibly the result of the RRL–FS line technique sampling the peak of a centrally condensed density distribution.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -127,12 +145,11 @@ We employ observations of the 205 μm [N ii] fine structure (FS) line and radio 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cce</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cce</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 磷元素丰度，振子强度，P II离子，更新数值，视线测量<br>
-总结: <br>
+<div> 关键词: 磷元素丰度，振子强度，P II离子，更新数值，视线测量<br />
+总结: <br />
 本研究报告了P II主要离子的两个共振跃迁的更新振子强度数值，这对于测量星际和星系周围气体中金属丰度至关重要。我们利用观测测量和高精度的准相对论Hartree-Fock理论计算，提出了P II 961.401 Å的共振跃迁的更新振子强度值为f = 0.147 ± 0.021。这个结果利用了非常大望远镜观测到的PKS 0528–250类星体的光谱。我们还计算了其他P II共振跃迁的理论振子强度，并提供了多个P II精细结构和激发态跃迁的理论数值。更新后的P II 961 Å跃迁的振子强度将在未来的磷元素丰度研究中发挥重要作用，特别是在1152 Å线饱和的视线测量中。 <div>
 Abundance measurements for the volatile element phosphorus are important for measuring the metallicity in interstellar and circumgalactic gas, where their accuracies are limited by uncertainties in the oscillator strengths. We report updated oscillator strength values for two resonant transitions of the dominant ion P II, the transitions at 961.041 and 963.801 Å, which have historically shown large uncertainties. Using a combination of observational measurements and highly accurate quasi-relativistic Hartree–Fock theoretical calculations, we present an updated oscillator strength of f = 0.147 ± 0.021 for the poorly constrained P II resonant transition at 961.401 Å, which arises from the ground electronic state 3s23p23P0 to the excited level 3s23p3d3D . This result utilizes archival optical spectra obtained with the Very Large Telescope for the quasar PKS 0528–250, which has a damped Lyα absorber at z = 2.811. We calculate a theoretical f-value = 0.153 for 961.401 Å consistent with our empirically derived value, and calculate a theoretical f-value = 1.79 for 963.801 Å. We also present theoretical oscillator strengths for the P II resonant transitions at 972.779, 1124.945, 1152.818, 1301.874, and 1532.533 Å, as well as for multiple P II fine-structure and excited-level transitions. The updated f-value for the P II 961 Å transition will be useful in future studies of P abundances, especially in sight lines where the 1152 Å line is saturated.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -140,10 +157,8 @@ Abundance measurements for the volatile element phosphorus are important for mea
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd7</guid>
 <content:encoded><![CDATA[
-
 Despite its biogenic and astrochemical importance, sulfur (S), the 10th most abundant element in the interstellar medium (ISM) with a total abundance of S/H ≈ 2.2 × 10−5, largely remains undetected in molecular clouds. Even in the diffuse ISM where S was previously often believed to be fully in the gas phase, in recent years, observational evidence has suggested that S may also be appreciably depleted from the gas. What might be the dominant S reservoir in the ISM remains unknown. Solid sulfides like MgS, FeS, and SiS2 are excluded as major S reservoirs due to the nondetection of their expected infrared spectral bands in the ISM. In this work, we explore the potential role of sulfurated polycyclic aromatic hydrocarbon (PAH) molecules—PAHs with sulfur heterocycles (PASHs)—as a sink for the missing S. Utilizing density function theory, we compute the vibrational spectra of 18 representative PASH molecules. It is found that these molecules exhibit a prominent C–S stretching band at ∼10 μm and two relatively weak C–S deformation bands at 15 and 25 μm that are not mixed with the nominal PAH bands at 6.2, 7.7, 8.6, 11.3, and 12.7 μm. If several parts per million of S (relative to H) are locked up in PAHs, the 10 μm C–S band would be detectable by Spitzer and the James Webb Space Telescope (JWST). To quantitatively explore the amount of S/H depleted in PASHs, a detailed comparison of the infrared emission spectra of PASHs with the Spitzer and JWST observations is needed.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -151,10 +166,8 @@ Despite its biogenic and astrochemical importance, sulfur (S), the 10th most abu
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6de1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6de1</guid>
 <content:encoded><![CDATA[
-
 We report evidence of galaxy assembly bias—the correlation between galaxy properties and biased secondary halo properties at fixed halo mass (MH)—in the stellar-to-halo mass relation for red central galaxies from the Sloan Digital Sky Survey. In the MH = 1011.5–1013.5h−1M⊙ range, central galaxy stellar mass (M*) is correlated with the number density of galaxies within 10 h−1 Mpc (δ10), a common proxy for halo formation time. This galaxy assembly bias signal is also present when MH, M*, and δ10 are substituted with group luminosity, galaxy luminosity, and metrics of the large-scale density field. To associate differences in δ10 with variations in halo formation time, we fitted a model that accounts for (1) errors in the MH measured by the J. L. Tinker group catalog and (2) the level of correlation between halo formation time and M* at fixed MH. Fitting of this model yields that (1) errors in MH are ∼0.15 dex and (2) halo formation time and M* are strongly correlated (Spearman’s rank correlation coefficient ∼0.85). At fixed MH, variations of ∼0.4 dex in M* are associated with ∼1–3 Gyr variations in halo formation time and galaxy formation time (from stellar population fitting). These results are indicative that halo properties other than MH can impact central galaxy assembly.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -162,10 +175,8 @@ We report evidence of galaxy assembly bias—the correlation between galaxy prop
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad702c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad702c</guid>
 <content:encoded><![CDATA[
-
 The evolution of halos with masses around Mh ≈ 1011M⊙ and Mh ≈ 1012M⊙ at redshifts z > 9 is examined using constrained N-body simulations. The average specific mass accretion rates, , exhibit minimal mass dependence and generally agree with existing literature. Individual halo accretion histories, however, vary substantially. About one-third of simulations reveal an increase in around z ≈ 13. Comparing simulated halos with observed galaxies having spectroscopic redshifts, we find that for galaxies at z ≳ 9, the ratio between observed star formation rate and is approximately 2%. This ratio remains consistent for the stellar-to-halo mass ratio (SHMR) but only for z ≳ 10. At z ≃ 9, the SHMR is notably lower by a factor of a few. At z ≳ 10, there is an agreement between specific star formation rates (sSFRs) and . However, at z ≃ 9, observed sSFRs exceed simulated values by a factor of 2. It is argued that the mildly elevated SHMR in high-z halos with Mh ≈ 1011M⊙ can be achieved by assuming the applicability of the local Kennicutt–Schmidt law and a reduced effectiveness of stellar feedback due to deeper gravitational potential of high-z halos of a fixed mass.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -173,13 +184,10 @@ The evolution of halos with masses around Mh ≈ 1011M⊙ and Mh ≈ 1012M⊙ at
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fa</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fa</guid>
 <content:encoded><![CDATA[
-
 We derive the central stellar velocity dispersion function (VDF) for quiescent galaxies in 280 massive clusters with in IllustrisTNG300. The VDF is an independent tracer of the dark matter mass distribution of subhalos in galaxy clusters. Based on the IllustrisTNG cluster catalog, we select quiescent member subhalos with a specific star formation rate <2 × 10−11 yr−1 and stellar mass . We then simulate fiber spectroscopy to measure the stellar velocity dispersion of the simulated galaxies; we compute the line-of-sight velocity dispersions of star particles within a cylindrical volume that penetrates the core of each subhalo. We construct the VDFs for quiescent subhalos within R200. The simulated cluster VDF exceeds the simulated field VDF for , indicating the preferential formation of large velocity dispersion galaxies in dense environments. The excess is similar in simulations and in the observations. We also compare the simulated VDF for the three most massive clusters with with the observed VDF for the two most massive clusters in the local Universe, Coma and A2029. Intriguingly, the simulated VDFs are significantly lower for . This discrepancy results from (1) a smaller number of subhalos with in TNG300 compared to the observed clusters, and (2) a significant offset between the observed and simulated M*–σ* relations. The consistency in the overall shape of the observed and simulated VDFs offers a unique window into galaxy and structure formation in simulations.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>TIC 290061484: A Triply Eclipsing Triple System with the Shortest Known Outer Period of 24.5 Days</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7368</link>
@@ -11814,174 +11822,6 @@ We present HaloFlow, a new machine-learning approach for inferring the mass of h
 Dual quasars—two active supermassive black holes at galactic scales—represent crucial objects for studying the impact of galaxy mergers and quasar activity on the star formation rate (SFR) within their host galaxies, particularly at cosmic noon when SFR peaks. We present JWST/MIRI mid-infrared integral field spectroscopy of J074922.96+225511.7, a dual quasar with a projected separation of 3.8 kpc at a redshift z = 2.17. We detect spatially extended [Fe ii] 5.34 μm and polycyclic aromatic hydrocarbon (PAH) 3.3 μm emissions from the star formation activity in its host galaxy. We derive the SFR of 103.0±0.2M⊙ yr−1 using PAH 3.3 μm, which is 5 times higher than that derived from the knee of the infrared luminosity function for galaxies at z ∼ 2. While the SFR of J0749+2255 agrees with that of star-forming galaxies of comparable stellar mass at the same redshifts, its molecular gas content falls short of expectations based on the molecular Kennicutt–Schmidt law. This discrepancy may result from molecular gas depletion due to the longer elevated stage of star formation, even after the molecular gas reservoir is depleted. We do not observe any quasar-driven outflow that impacts PAH and [Fe ii] in the host galaxy based on the spatially resolved maps. From the expected flux in PAH-based star formation, the [Fe ii] line likely originates from the star-forming regions in the host galaxy. Our study highlights the extreme stardust nature of J0749+2255, indicating a potential connection between the dual quasar phase and intense star formation activities.
 ]]></content:encoded>
 <pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Star Formation Rates in [Ne V] 3426 Å Selected Active Galactic Nuclei: Evidence for a Decrease along the Main Sequence?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47bb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47bb</guid>
-<content:encoded><![CDATA[
-<div> AGN, [Ne v], sSFR, main sequence, star formation
-总结:
-本研究选择了1215个AGN样本，通过检测高电离[Ne v] 3426 Å发射线来研究它们在星系主序列上的行为。我们发现由于AGN的贡献，基于发射线的sSFR值并不可靠。因此，我们使用来自SED的sSFR值来研究主序列。我们发现[Ne v]样本中sSFR沿主序列下降的证据，这与Burst Alert望远镜AGN样本的结果一致。尽管我们没有发现与AGN活动抑制星形成的证据，但我们的结果支持AGN宿主星系的气体分数较星形星系低。如果气体的减少和因此抑制星形成是由于AGN活动引起的，那么这种现象必须发生在先前的时期。 <div>
-Studying the behavior along the galaxy main sequence is key in furthering our understanding of the possible connection between active galactic nucleus (AGN) activity and star formation. We select a sample of 1215 AGN from the catalog of Sloan Digital Sky Survey galaxy properties from the Portsmouth group by detection of the high-ionization [Ne v] 3426 Å emission line. Our sample extends from 1040 to 1042.5 erg s−1 in [Ne v] luminosity in a redshift range z = 0.17 to 0.57. We compare the specific star formation rates (sSFRs; SFR scaled by galaxy mass) obtained from the corrected [O ii] and Hα luminosities, and the spectral energy distribution (SED)–determined values from Portsmouth. We find that the emission-line-based sSFR values are unreliable for the [Ne v] sample due to the AGN contribution, and proceed with the SED sSFRs for our study of the main sequence. We find evidence for a decrease in sSFR along the main sequence in the [Ne v] sample, which is consistent with results from the hard X-ray Burst Alert Telescope AGN sample, which extends to lower redshifts than our [Ne v] sample. Although we do not find evidence that the concurrent AGN activity is suppressing star formation, our results are consistent with a lower gas fraction in the host galaxies of the AGN as compared to that of the star-forming galaxies. If the evacuation of gas, and therefore suppression of star formation, is due to AGN activity, it must have occurred in a previous epoch.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>CLASSY. IX. The Chemical Evolution of the Ne, S, Cl, and Ar Elements</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad34cf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad34cf</guid>
-<content:encoded><![CDATA[
-<div> 星际化学演化, CLASSY, 亚稳态元素, 宇宙丰度, 金属丰度<br />
-<br />
-通过研究本地星系和高红移星系的相关化学演化, 我们对 Ne, S, Cl 和 Ar 的丰度模式进行了调查, 通过 CLASSY 对局部星系(SFGs)的研究结果,发现 Ne/O, S/O, Cl/O 和 Ar/O 与气相金属丰度的相关性, 对于金属丰度较低的部分没有明显相关性, 但是对于金属丰度较高的部分却存在相关性, 这可能是由于离子校正因子(ICFs)的影响; 以 CLASSY 作为本地参考, 评估了 Ne/O, S/O, Ar/O 在 z > 3 的星系中的演化情况, 发现 Ne/O 没有演化, 而 S/O 和 Ar/O 由于缺乏直接丰度测量而可能会影响对元素演化的解释; 确定了 CLASSY 的基本金属丰度关系(FMR)并与高红移 FMR 进行比较, 发现没有演化; 最后, 对质量-氖关系进行了分析, 发现在后期有轻微的演化。CLASSY 星系的丰度模式和广泛的物理性质范围为解释 JWST 观测到的早期星系的化学丰度提供了重要的基准。 <br /><br />总结: 星际化学演化研究了Ne, S, Cl和Ar在不同金属丰度下的丰度模式，并考虑了ICFs对丰度比例的影响；通过对CLASSY星系和高红移星系的比较，发现Ne/O没有演化，但由于对S/O和Ar/O的缺乏直接丰度测量可能会影响对元素演化的解释；最后进行了质量-氖关系分析，发现在后期存在轻微的演化。CLASSY星系的丰度模式和广泛的物理性质范围为解释JWST观测到的早期星系的化学丰度提供了重要的基准。 <div>
-To study the chemical evolution across cosmic epochs, we investigate Ne, S, Cl, and Ar abundance patterns in the Cosmic Origins Spectrograph Legacy Archive Spectroscopic SurveY (CLASSY). CLASSY comprises local star-forming galaxies (SFGs; 0.02 < z < 0.18) with enhanced star formation rates, making them strong analogues to high-z SFGs. With direct measurements of electron temperature, we derive accurate ionic abundances for all elements and assess ionization correction factors (ICFs) to account for unseen ions and derive total abundances. We find Ne/O, S/O, Cl/O, and Ar/O exhibit constant trends with gas-phase metallicity for 12+log(O/H) < 8.5 but significant correlation for Ne/O and Ar/O with metallicity for 12+log(O/H) > 8.5, likely due to ICFs. Thus, the applicability of the ICFs to integrated spectra of galaxies could bias results, underestimating true abundance ratios. Using CLASSY as a local reference, we assess the evolution of Ne/O, S/O, and Ar/O in galaxies at z > 3, finding no cosmic evolution of Ne/O, while the lack of direct abundance determinations for S/O and Ar/O can bias the interpretation of the evolution of these elements. We determine the fundamental metallicity relationship (FMR) for CLASSY and compare to the high-redshift FMR, finding no evolution. Finally, we perform the first mass–neon relationship analysis across cosmic epochs, finding a slight evolution to high Ne at later epochs. The robust abundance patterns of CLASSY galaxies and their broad range of physical properties provide essential benchmarks for interpreting the chemical enrichment of the early galaxies observed with the JWST.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The CO-to-H2 Conversion Factor in the Barred Spiral Galaxy M83</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad40a0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad40a0</guid>
-<content:encoded><![CDATA[
-<div> VLA, GBT, M83, CO-to-H2 conversion factor, gas-to-dust ratio
-<br />
-该研究分析了近邻条状螺旋星系M83中的CO到H2转换因子（αCO）。研究人员利用VLA和GBT进行了新的H i观测，并结合了文献中的CO(1-0)积分强度和尘埃表面密度的地图。研究结果表明，αCO和气尘比（δGDR）在半径为1-7千秒差距的环形区域内呈现放射状增加趋势，从中心到边缘的变化因子约为2-3。在整个盘均值上，αCO为3.14（68%置信水平下的范围为2.06到4.96），δGDR为137（68%置信水平下的范围为111到182），与天琴座星系的测量值一致。此外，研究还检验了由于径向金属丰度梯度可能引起的αCO变化的可能性，以及由于基础云团体的变化可能引起的αCO变化的可能性。使用截断的幂律分子云CO亮度函数和云团质量和亮度的经验幂律关系，研究表明基础云团体的变化可能解释αCO的径向变化因子约为1.5-2.0。 
-<br /><br />总结: 
-该研究分析了近邻条状螺旋星系M83中的CO到H2转换因子（αCO）和气尘比（δGDR）的径向变化趋势，结果表明从该星系中心到边缘，αCO和δGDR都呈现出2-3倍的增加。研究结果显示，这些值与银河系中的测量值一致。此外，研究人员还测试了由于径向金属丰度梯度和基础云团体变化可能引起的αCO变化的可能性。使用分子云CO亮度函数和云团质量与亮度的经验幂律关系，研究表明基础云团体的变化可能解释αCO的径向变化因子约为1.5-2.0。 <div>
-We analyze the CO-to-H2 conversion factor (αCO) in the nearby barred spiral galaxy M83. We present new H i observations from the VLA and single-dish GBT in the disk of the galaxy, and combine them with maps of CO(1-0) integrated intensity and dust surface density from the literature. αCO and the gas-to-dust ratio (δGDR) are simultaneously derived in annuli of 2 kpc width from R = 1–7 kpc. We find that αCO and δGDR both increase radially, by a factor of ∼2–3 from the center to the outskirts of the disk. The luminosity-weighted averages over the disk are αCO = 3.14 (2.06, 4.96) and δGDR = 137 (111, 182) at the 68% (1σ) confidence level. These are consistent with the αCO and δGDR values measured in the Milky Way. In addition to possible variations of αCO due to the radial metallicity gradient, we test the possibility of variations in αCO due to changes in the underlying cloud populations, as a function of galactic radius. Using a truncated power-law molecular cloud CO luminosity function and an empirical power-law relation for cloud mass and luminosity, we show that the changes in the underlying cloud population may account for a factor of ∼1.5–2.0 radial change in αCO.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Origin of the Variety of Velocity Dispersion Profiles of Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43dc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43dc</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 速度离散度轮廓、积分场光谱学、星体质量、星体形成、宇宙动力学模拟<br />
-总结:<br />
-本研究使用了来自两项调查的积分场光谱学数据，对比了两个宇宙动力学模拟的结果，发现观测和模拟的星体速度离散度轮廓存在显著差异。内部轮廓主要受到原地形成的年轻和老年星体的相对径向分布的影响，而外部轮廓则受到外积星体的影响。更大质量的星体有更高比例的外积星体，因此外部速度离散度轮廓的斜率更高，并且呈现更强的径向各向异性。外部速度离散度的多样性反映了各个星系组装历史的多样性。 <div>
-Observed and simulated galaxies exhibit a significant variation in their velocity dispersion profiles. We examine the inner and outer slopes of stellar velocity dispersion profiles using integral field spectroscopy data from two surveys, SAMI (for z < 0.115) and CALIFA (for z < 0.03), comparing them with results from two cosmological hydrodynamic simulations: Horizon-AGN (for z = 0.017) and NewHorizon (for z ≲ 1). The simulated galaxies closely reproduce the variety of velocity dispersion slopes and stellar mass dependence of both inner and outer radii (0.5 r50 and 3 r50) as observed, where r50 stands for half-light radius. The inner slopes are mainly influenced by the relative radial distribution of the young and old stars formed in situ: a younger center shows a flatter inner profile. The presence of accreted (ex situ) stars has two effects on the velocity dispersion profiles. First, because they are more dispersed in spatial and velocity distributions compared to in situ formed stars, it increases the outer slope of the velocity dispersion profile. It also causes the velocity anisotropy to be more radial. More massive galaxies have a higher fraction of stars formed ex situ and hence show a higher slope in outer velocity dispersion profile and a higher degree of radial anisotropy. The diversity in the outer velocity dispersion profiles reflects the diverse assembly histories among galaxies.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Phase-dependent Spectral Shape Changes in the Ultraluminous X-Ray Pulsar NGC 5907 ULX1</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4451</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4451</guid>
-<content:encoded><![CDATA[
-<div> ULXPs, pulsars, accretion flow, X-ray study, magnetosphere
-总结:<br /><br />这篇文章研究了NGC 5907 ULX1这个极端亮的超光源X射线脉冲星。研究利用2014年7月XMM-Newton和NuSTAR同时观测的数据进行了广带X射线研究。文章显示，相位分辨光谱可以用一个模型很好地再现，其中包含一个温度梯度为p = 0.5的多色盘黑体辐射和一个带有指数截断的幂律。盘部分是相位不变的，具有约0.3 keV的最内温度，其归一化值表明盘的倾角相对较低，与其他文献中的先前声明相矛盾。幂律成分归因于在中子星的磁层内的吸积流发射，显示出相位相关的光谱形状变化；前峰相位的光谱略硬于后峰相位。这意味着磁层在磁轴周围具有不对称的几何结构，并且在脉冲峰之前，靠近磁极的热区域变得可见。 <div>
-The discovery of coherent pulsations from several ultraluminous X-ray pulsars (ULXPs) has provided direct evidence of a supercritical accretion flow. However, the geometrical structure of such an accretion flow onto the central neutron star remains poorly understood. NGC 5907 ULX1 is one of the most luminous ULXPs, with a luminosity exceeding 1041 erg s−1. Here we present a broadband X-ray study of this ULXP using the data from simultaneous observations with XMM-Newton and NuSTAR conducted in 2014 July. The phase-resolved spectra are well reproduced by a model consisting of a multicolor disk blackbody emission with a temperature gradient of p = 0.5 (T ∝ r−p) and a power law with an exponential cutoff. The disk component is phase-invariant and has an innermost temperature of ∼ 0.3 keV. Its normalization suggests a relatively low inclination angle of the disk, in contrast to the previous claims in other literature. The power-law component, attributed to the emission from the accretion flow inside the magnetosphere of the neutron star, indicates phase-dependent spectral shape changes; the spectrum is slightly harder in the pre-peak phase than in the post-peak phase. This implies that the magnetosphere has an asymmetric geometry around the magnetic axis and that hotter regions close to the magnetic pole become visible before the pulse peak.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Distance to the S147 Supernova Remnant</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4493</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4493</guid>
-<content:encoded><![CDATA[
-<div> Gaia data, echelle spectroscopy, distance determination, SNR, high-velocity absorption lines
-<br />
-Gaia数据和宽场多纤维爱歇尔光谱相结合，能够准确地确定许多超新星遗迹的距离。通过观察259颗高光度蓝星的光谱，对S147超新星遗迹进行了距离测量，得到了1.37 kpc的中位数距离，与脉冲星的视差距离以及HD 37424的光几何距离相一致。高速吸收线的出现与超新星遗迹的Hα/O [iii]发射线通量相关，但与无线电通量无关。<br /><br />总结: 通过观测蓝星光谱，结合Gaia数据和宽场多纤维爱歇尔光谱，确定了S147超新星遗迹的距离为1.37 kpc。这一方法的距离结果与其他观测结果一致，且具有更小的不确定性。高速吸收线的出现与超新星遗迹的Hα/O [iii]发射线通量相关，为超新星遗迹的研究提供了新的方法。 <div>
-In the absence of a parallax distance to a pulsar or a surviving binary in a supernova remnant (SNR), distances to Galactic SNRs are generally very uncertain. However, by combining Gaia data with wide-field, multifiber echelle spectroscopy, it is now possible to obtain accurate distances to many SNRs with limited extinction by searching for the appearance of high-velocity Ca ii or Na i absorption lines in hot stars as a function of distance. We demonstrate this for the SNR S147 using the spectra of 259 luminous blue stars. We obtain a median distance of 1.37 kpc (1.30–1.47 kpc at 90% confidence), which is consistent with the median parallax distance to the pulsar of 1.46 kpc (1.12–2.10 kpc at 90% confidence) but with significantly smaller uncertainties. Our distance is also consistent with the distance to the candidate unbound binary companion in this SNR, HD 37424 at a photogeometric distance of 1.45 kpc (1.40–1.50 kpc at 1σ). The presence of high-velocity absorption lines is correlated with the Hα/O [iii] emission-line flux of the SNR but not with the radio flux.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Effects of Alpha Particle Fraction on Kinetic Plasma Turbulence</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4643</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4643</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳活动, 离子动力学, 等离子体湍流, 能量转化, 粒子模拟<br />
-总结: <br />
-本研究通过粒子模拟揭示了太阳风湍流中的阿尔法粒子对能量转化的影响。实验控制了质子和阿尔法粒子密度的变化，并发现增加阿尔法粒子密度可以抑制能量转化率，同时阿尔法粒子的加热间歇性更明显，而电子的动力学表现没有变化。此外，阿尔法粒子和质子在温度各向异性上表现出更强的相关性。这些结果为了解不同成分湍流提供了有价值的见解，特别是在存在丰富重粒子的情况下。 <div>
-Solar activities have an extraordinary impact on interplanetary space, enriching the plasma dynamics including turbulent heating of various species. The small fraction of alpha particles is believed to play a significant role in the turbulent dynamics of the solar wind. Here we present fully kinetic particle-in-cell simulations to reveal the influences of the alpha particles in decaying plasma turbulence. Multiple run cases with different controlled variations of proton and alpha density are performed to compare and evaluate the energy conversion processes. It is found that the alpha particles can suppress the energy conversion rate with increasing density. Besides, the alpha particles show more heating intermittency than the proton species. Interestingly, on the other hand, the electrons do not show any change in their dynamics, including overall heating. These two positive charge species have more correlation in temperature anisotropy as their densities are comparable. Our results provide valuable insights on the turbulence with different species compositions to a certain extent, especially with abundant heavy particles.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Impacts of Bar-driven Shear and Shocks on Star Formation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad410e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad410e</guid>
-<content:encoded><![CDATA[
-<div> 关键词: barred galaxies, velocity gradient maps, shocks, shear, star formation (SF)
-
-总结:
-该研究使用PHANGS-MUSE和PHANGS-ALMA调查的数据，对四个条状星系进行研究，通过Hα速度梯度图突出显示了条的驱动震荡和剪切。研究发现，在条状星系中，速度梯度增强的区域抑制了星的形成，大部分这些区域被分类为低电离核发射线区域(LINER)或复合区。研究结果与数值模拟结果一致，表明剪切力强的条状星系中，星的形成被抑制。 <div>
-Bars drive gas inflow. As the gas flows inward, shocks and shear occur along the bar dust lanes. Such shocks and shear can affect the star formation (SF) and change the gas properties. For four barred galaxies, we present Hα velocity gradient maps that highlight bar-driven shocks and shear using data from the PHANGS-MUSE and PHANGS-ALMA surveys, which allow us to study bar kinematics in unprecedented detail. Velocity gradients are enhanced along the bar dust lanes, where shocks and shear are shown to occur in numerical simulations. Velocity gradient maps also efficiently pick up H ii regions that are expanding or moving relative to the surroundings. We put pseudo-slits on the regions where velocity gradients are enhanced and find that Hα and CO velocities jump up to ∼170 km s−1, even after removing the effects of circular motions due to the galaxy rotation. Enhanced velocity gradients either coincide with the peak of CO intensity along the bar dust lanes or are slightly offset from CO intensity peaks, depending on the objects. Using the Baldwin–Philips–Terlevich BPT diagnostic, we identify the source of ionization on each spaxel and find that SF is inhibited in the high-velocity gradient regions of the bar, and the majority of those regions are classified as a low-ionization nuclear emission-line region (LINER) or composite. This implies that SF is inhibited where bar-driven shear and shocks are strong. Our results are consistent with the results from the numerical simulations that show SF is inhibited in the bar where the shear force is strong.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Effect of a Dark Matter Core on the Structure of a Rotating Neutron Star</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4701</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4701</guid>
-<content:encoded><![CDATA[
-<div> Neutron stars, dark matter, two-fluid approximation, universal relations, constraints<br />
-总结:<br />
-这篇研究探讨了暗物质核对快速旋转中子星的影响，使用了两流近似，并假设了重子物质和暗物质之间的最小相互作用。研究采用了费米子和玻色子暗物质的现象学模型，发现由于旋转而导致的质量和半径变化的普适关系在存在暗物质核的情况下仍然基本保持不变。具体地，对于5%的暗物质质量分数，总质量（Mtot）、重子赤道半径（RBe）和极赤比（RratioB）的百分比偏差分别在3.9%、1.8%和1.4%以内。这些发现表明，可以利用控制中子星形状的普适关系来推断暗物质核的性质约束，即使在暗物质显著软化中子星的状态方程的情况下也是如此。 <div>
-Neutron stars represent unique laboratories, offering insights into the physics of supranuclear-density matter and serving as potential hosts for dark matter. This study explores the impact of dark matter cores on rapidly rotating neutron stars through the two-fluid approximation, assuming minimal interaction between baryonic matter and dark matter. The investigation employs phenomenological models for fermionic and bosonic dark matter, revealing that universal relations governing mass and radius changes due to rotation remain largely unaffected in the presence of a dark matter core. Specifically, for a 5% dark matter mass fraction, the percent deviations in total mass (Mtot), the baryonic equatorial radius (RBe), and polar-to-equatorial baryonic radius ratio (RratioB) are within 3.9%, 1.8%, and 1.4%, respectively. These findings suggest that the universal relations governing neutron star shape can be utilized to infer constraints on the properties of dark matter cores even in cases where the dark matter significantly softens the neutron star’s equation of state.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Changing Look of the Optical Spectrum of the MeV Blazar PKS 0446+112 (4FGL J0449.1+1121)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a56</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a56</guid>
-<content:encoded><![CDATA[
-<div> γ-ray Fermi source, IceCube neutrino event, optical spectroscopy, redshift, jet activity
-
-这篇文章报告了一项关于高能γ射线源的研究，发现了与IceCube中微子事件IC-240105A可能相关的对应光谱。研究发现了红移为z = 2.153的Lyα发射线，表明了源的红移。与先前的光谱相比，连续谱增加了约10倍，而C iv 1550发射线的流量减少了约5倍，其等效宽度从约20 Å降至0.8 Å，表明了非常高的喷流活动。发现的发射线的半峰宽介于类星体的宽线区域和窄线区域之间，基于这些结果，源的分类介于平谱射电类星体和BL Lac天体之间。 <br /><br />总结: 这项研究发现了一种高能γ射线源，并确定了其红移，发现了非常高的喷流活动，并将其分类为介于平谱射电类星体和BL Lac天体之间。 <div>
-Following the high activity of the γ-ray Fermi source 4FGL J0449.1+1121 (PKS 0446+112), possibly associated with a IceCube neutrino event IC-240105A, we obtained optical spectroscopy with the Gran Telescopio Canarias of the counterpart. We detect a clear emission line at 3830 Å identified as Lyα that confirms the redshift of source at z = 2.153. Comparing with previous spectroscopy, we find an increase of the continuum by a factor ∼10, and a significant decrease of the C iv 1550 emission line flux by a factor ∼5. This produces a dramatic drop of the equivalent width from ∼20 to 0.8 Å, which is suggestive of a very high jet activity. The full width half maximum of the emission lines are midway (1000–2000 km s −1) between those typical of the broad and narrow regions of quasars. Based on this, the source classification is intermediate between flat spectrum radio quasar and BL Lac object.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>New Galaxy UV Luminosity Constraints on Warm Dark Matter from JWST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed8</guid>
-<content:encoded><![CDATA[
-<div> JWST, UV luminosity functions, warm dark matter, HST surveys, WDM particle mass<br />
-总结:<br />
-本研究利用JWST确定的红移范围为z = 9–14.5的星系紫外线亮度函数，推导出对暖暗物质模型的约束。通过与HST在红移z = 4–8进行的空白场调查相结合，同时对天体物理参数（双重幂律星系形成效率的β、γ、ϵN和Mc，以及高斯等级-暗物质质量关系）和WDM参数（暗物质粒子质量mx）施加约束。在95%的置信水平下，得到了热暗物质粒子质量mx ≥ 3.2千电子伏的新界限。这个界限比之前使用HST数据得到的最严格结果更紧。未来JWST观测可能进一步减少观测不确定性，并改善这一约束。 <div>
-We exploit the recent James Webb Space Telescope (JWST) determination of galaxy UV luminosity functions over the redshift range z = 9–14.5 to derive constraints on warm dark matter (WDM) models. The delayed structure formations in WDM universes make high-redshift observations a powerful probe to set limits on the particle mass mx of WDM candidates. By integrating these observations with blank-field surveys conducted by the Hubble Space Telescope (HST) at redshifts z = 4–8, we impose constraints on both astrophysical parameters (β, γ, ϵN, and Mc for a double-power-law star formation efficiency, and for a Gaussian magnitude–halo mass relation) and the WDM parameter (dark matter particle mass mx) simultaneously. We find a new limit of mx ≥ 3.2 keV for the mass of thermal relic WDM particles at a 95% confidence level. This bound is tighter than the most stringent result derived using HST data before. Future JWST observations could further reduce the observation uncertainties and improve this constraint.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Soft No More: Gas Shielding Protects Soft Binaries from Disruption in Gas-rich Environments</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4bdd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4bdd</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 二进制星系统, 密集环境, 气体相互作用, 软-硬界限, 形成过程
-总结:<br /><br />
-本研究探讨了在密集环境中气体对二进制星系统软化的影响以及其后果。我们发现气体相互作用实际上可以硬化二进制星系统，并将软–硬界限扩展到更大的分离距离。这为二进制星系统硬化提出了一个“屏蔽半径”的概念，使得一部分最初被分类为“软”二进制系统在考虑到气体和恒星的情况下实际上变得“硬”。我们提出了硬二进制系统的两阶段形成过程：初始形成软二进制系统，无论是动力学而来还是通过气体辅助捕获，然后经过气体诱导硬化，最终发生破裂。在气体密度低但气体含量高的环境中，屏蔽半径可能超过典型的硬–软界限一个数量级，导致显著比例的最初软二进制系统实际上成为硬二进制系统。相反，在气体密度较高的环境中，气体诱导硬化可能占主导地位，潜在地使整个二进制星系统呈硬状态。气体硬化成为塑造气体丰富环境中二进制星系统群体的关键因素，例如星团、成星区和可能的活动星系核盘中。这凸显了气体动力学和恒星相互作用在密集环境中二进制星系统演化中的复杂相互作用。 <div>
-Binaries in dense environments are traditionally classified as soft or hard based on their binding energy relative to the kinetic energy of surrounding stars. Heggie’s law suggests that stellar encounters tend to soften soft binaries and harden hard binaries, altering their separations. However, interactions with gas in such environments can significantly modify this behavior. This study investigates the impact of gas on binary softening and its consequences. We find that gas interactions can actually harden binaries, extending the soft–hard boundary to larger separations. This introduces a “shielding radius” within which binaries are likely to harden due to gas interactions, surpassing the traditional soft–hard limit. Consequently, a notable portion of binaries initially classified as “soft” may become “hard” when both gas and stars are considered. We propose a two-stage formation process for hard binaries: initial soft binary formation, either dynamically or through gas-assisted capture, followed by gas-induced hardening before eventual disruption. In environments with low gas density but high gas content, the shielding radius could exceed the typical hard–soft limit by 1 order of magnitude, leading to a significant fraction of originally soft binaries effectively becoming hard. Conversely, in high-gas-density environments, gas-induced hardening may dominate, potentially rendering the entire binary population hard. Gas hardening emerges as a crucial factor in shaping binary populations in gas-rich settings, such as clusters, star-forming regions, and possibly active galactic nucleus disks. This highlights the complex interplay between gas dynamics and stellar interactions in binary evolution within dense environments.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Gemini Near Infrared Spectrograph−Distant Quasar Survey: Rest-frame Ultraviolet−Optical Spectral Properties of Broad Absorption Line Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e69</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3e69</guid>
-<content:encoded><![CDATA[
-<div> 红移，宽吸收线，类星体，光度，黑洞质量
-总结:<br /><br />这篇文章研究了65个BAL类星体和195个非BAL类星体的光谱特性，发现在红移1.55≲z≲3.50范围内，光度较高的BAL类星体在光学波段的光谱上与非BAL类星体没有明显区别。研究也表明BAL吸收槽的特性与Hβ基础的超大质量黑洞质量和规范化的吸积率之间没有相关性。此外，研究发现在静止2500埃的单色光度≳1045 erg s−1是BAL类星体产生吸收流的必要条件。综合其他研究，该文讨论了吸积率和方位对类星体光谱中BAL吸收槽出现的影响。 <div>
-We present the rest-frame ultraviolet−optical spectral properties of 65 broad absorption line (BAL) quasars from the Gemini Near Infrared Spectrograph−Distant Quasar Survey (GNIRS-DQS). These properties are compared with those of 195 non-BAL quasars from GNIRS-DQS in order to identify the drivers for the appearance of BALs in quasar spectra. In particular, we compare equivalent widths and velocity widths, as well as velocity offsets from systemic redshifts, of principal emission lines. In spite of the differences between their rest-frame ultraviolet spectra, we find that luminous BAL quasars are generally indistinguishable from their non-BAL counterparts in the rest-frame optical band at redshifts 1.55 ≲ z ≲ 3.50. We do not find any correlation between BAL trough properties and the Hβ-based supermassive black hole masses and normalized accretion rates in our sample. Considering the Sloan Digital Sky Survey quasar sample, which includes the GNIRS-DQS sample, we find that a monochromatic luminosity at rest-frame 2500 Å of ≳1045 erg s−1 is a necessary condition for launching BAL outflows in quasars. We compare our findings with other BAL quasar samples and discuss the roles that accretion rate and orientation play in the appearance of BAL troughs in quasar spectra.
-]]></content:encoded>
-<pubDate>2024-06-12T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Tracking the X-Ray Polarization of the Black Hole Transient Swift J1727.8–1613 during a State Transition</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3faf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3faf</guid>
-<content:encoded><![CDATA[
-<div> 黑洞X射线双星，观测，极化度，天线阵列，软状态转变<br />
-观测显示，黑洞X射线双星Swift J1727.8-1613的X射线极化随着硬到软态转变首次呈现出变化。极化度从约4%下降至约3%，但极化角度始终保持在北-南方向。澳大利亚天文台紧凑阵列的观测结果显示，7.25 GHz射电极化与X射线极化方向一致。这表明X射线冠层沿盘面延伸，而不是沿喷流轴，这意味着我们测量的软延迟主要由于其他过程而不是纯粹的光穿越延迟。此外，我们发现软延迟振幅随光谱状态的演变不符合其他源的趋势，这意味着Swift J1727.8–1613是一个未被充分采样的亚种群的成员。<br /><br />总结: 观测显示黑洞X射线双星Swift J1727.8-1613的X射线极化随着硬到软态转变首次呈现出变化。极化度从约4%下降至约3%，但极化角度始终保持在北-南方向。澳大利亚天文台紧凑阵列的观测结果显示，7.25 GHz射电极化与X射线极化方向一致。这表明X射线冠层沿盘面延伸，而不是沿喷流轴，这意味着我们测量的软延迟主要由于其他过程而不是纯粹的光穿越延迟。此外，我们发现软延迟振幅随光谱状态的演变不符合其他源的趋势，这意味着Swift J1727.8–1613是一个未被充分采样的亚种群的成员。 <div>
-We report on an observational campaign on the bright black hole (BH) X-ray binary Swift J1727.8–1613 centered around five observations by the Imaging X-ray Polarimetry Explorer. These observations track for the first time the evolution of the X-ray polarization of a BH X-ray binary across a hard to soft state transition. The 2–8 keV polarization degree decreased from ∼4% to ∼3% across the five observations, but the polarization angle remained oriented in the north–south direction throughout. Based on observations with the Australia Telescope Compact Array, we find that the intrinsic 7.25 GHz radio polarization aligns with the X-ray polarization. Assuming the radio polarization aligns with the jet direction (which can be tested in the future with higher-spatial-resolution images of the jet), our results imply that the X-ray corona is extended in the disk plane, rather than along the jet axis, for the entire hard intermediate state. This in turn implies that the long (≳10 ms) soft lags that we measure with the Neutron star Interior Composition ExploreR are dominated by processes other than pure light-crossing delays. Moreover, we find that the evolution of the soft lag amplitude with spectral state does not follow the trend seen for other sources, implying that Swift J1727.8–1613 is a member of a hitherto undersampled subpopulation.
-]]></content:encoded>
-<pubDate>2024-06-12T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
