@@ -5,19 +5,111 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Compression Acceleration of Protons and Heavier Ions at the Heliospheric Current Sheet</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e80</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e80</guid>
+<title>A Multiwavelength Approach to Constraining the Merger Properties of ACT-CL J0034.4+0225</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6442</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6442</guid>
 <content:encoded><![CDATA[
-<div> 磁重连，帕克太阳探测器，离子加速，粒子扩散系数，高能截断
-<br><br>
-本文通过 Parker Solar Probe (PSP) 最近的观测结果表明，在太阳圈电流层 (HCS) 处，质子和重离子被磁重连加速至高能。通过在大尺度 MHD 模拟中解决能量粒子输运方程，我们研究了在重新连接的 HCS 中质子和重离子的压缩加速。我们发现多种离子的加速导致了非热的幂律分布，其谱指数与 PSP 观测一致。我们的研究显示，质子的高能截断可以达到 1 MeV，取决于粒子扩散系数。我们还研究了不同离子种类的高能截断如何随着电荷质量比缩放。当从 Kolmogorov 磁场功率谱的准线性理论中确定扩散系数时，我们发现 α∼0.4，略小于 PSP 观测的 α∼0.7。 <div>
-Recent observations by the Parker Solar Probe (PSP) suggest that protons and heavier ions are accelerated to high energies by magnetic reconnection at the heliospheric current sheet (HCS). By solving the energetic particle transport equation in large-scale MHD simulations, we study the compression acceleration of protons and heavier ions in the reconnecting HCS. We find that the acceleration of multispecies ions results in nonthermal power-law distributions with a spectral index consistent with the PSP observations. Our study shows that the high-energy cutoff of protons can reach –1 MeV depending on the particle diffusion coefficients. We also study how the high-energy cutoff of different ion species scales with the charge-to-mass ratio . When determining the diffusion coefficients from the quasi-linear theory with a Kolmogorov magnetic power spectrum, we find that α ∼ 0.4, which is somewhat smaller than α ∼ 0.7 observed by PSP.
+<div> 关键词: J0034.4+0225, 星系团, 合并, 气体分布, X射线质量估算
+总结:
+J0034.4+0225是一个之前未被识别的星系团，其红移为0.38588。研究发现，该星系团存在两个表面亮度峰值，分别对应于两个最亮的星系团星系，这两个峰值间距约为259千秒差距，被扩展的星系团气体包围着。通过观测数据，确定了星系团的质量，并且通过对星系团的 X 射线图像以及气体和星系团成员的速度差进行分析，确定了星系团的合并状态和特性。同时，通过强镜效分析和星系团形态分析，也对星系团的质量比和合并状态进行了进一步的限制。 <div>
+ACT-CL J0034.4+0225 is a previously unrecognized merging galaxy cluster at z = 0.38588 ± 0.00068. Our primary evidence is provided by a 21 ks Chandra image that shows two surface brightness peaks separated by ∼49″ (259 kpc) surrounded by an extended cluster gas distribution. Each gas peak contains a brightest cluster galaxy, offset from the gas peak. We collect new South African Large Telescope optical spectra that, when augmented by archival data, yield redshifts for the two BGCs and 58 other cluster members. Archival Giant Metrewave Radio Telescope and MeerKAT data reveal a radio halo that encompasses the X-ray peaks. We provide and compare three X-ray-based mass estimates (5.0 × 1014M⊙, 6.4 × 1014M⊙, and 8.6 × 1014M⊙). The Planck and ACT Sunyaev–Zel’dovich masses are ≈5.8 × 1014M⊙. We constrain the merger state and properties by comparing them to an existing suite of N-body/hydrodynamical models using the measured gas peak separation (259 kpc, projected) and radial velocity difference (0–1000 km s−1). This constrains the epoch of the merger to be within ∼100 Myr of first pericenter passage. A strong lensing analysis constrains the mass ratio to be in the range 1:1–1:20, while the cluster morphology prefers values near the equal-mass range.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Plasma Dynamics and Nonthermal Particle Acceleration in 3D Nonrelativistic Magnetic Reconnection</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6561</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6561</guid>
+<content:encoded><![CDATA[
+<div> 磁重连，等离子体动力学，非热粒子加速，大规模全粒子模拟，磁场混沌
+
+总结:<br><br>本文通过进行大规模全粒子模拟，研究了多X线小磁通重联在弱导磁和强导磁条件下的独特三维动力学，揭示了导致磁场混沌和有效加速的机制，并实现了电子和质子的非热加速。在低导磁条件下，磁通绳扭结不稳定主导了有效加速的动力学过程；而在强导磁条件下，斜向磁通绳也参与了有效加速的主要动力学过程。电子和质子的非热加速过程受到垂直和平行电场的影响。磁场功率谱与现场磁尾观测相吻合，而谱指数可能反映了小磁通的大小分布。这项工作对于太阳物理和天体物理中的三维重联动力学和粒子加速具有广泛的意义。 <div>
+Understanding plasma dynamics and nonthermal particle acceleration in 3D magnetic reconnection has been a long-standing challenge. In this paper, we explore these problems by performing large-scale fully kinetic simulations of multi-X-line plasmoid reconnection with various parameters in both the weak- and strong-guide-field regimes. In each regime, we have identified its unique 3D dynamics that lead to field-line chaos and efficient acceleration, and we have achieved nonthermal acceleration of both electrons and protons into power-law spectra. The spectral indices agree well with a simple Fermi acceleration theory that includes guide-field dependence. In the low-guide-field regime, the flux rope kink instability governs the 3D dynamics for efficient acceleration. The weak dependence of the spectra on the ion-to-electron mass ratio and β (≪1) implies that the particles are sufficiently magnetized for Fermi acceleration in our simulations. While both electrons and protons are injected at reconnection exhausts, protons are primarily injected by perpendicular electric fields through Fermi reflections and electrons are injected by a combination of perpendicular and parallel electric fields. The magnetic power spectra agree with in situ magnetotail observations, and the spectral index may reflect a reconnection-driven size distribution of plasmoids instead of the Goldreich–Sridhar vortex cascade. As the guide field becomes stronger, the oblique flux ropes of large sizes capture the main 3D dynamics for efficient acceleration. Intriguingly, the oblique flux ropes can also experience flux rope kink instability, to drive extra 3D dynamics. This work has broad implications for 3D reconnection dynamics and particle acceleration in heliophysics and astrophysics.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Insights into the Production of 44Ti and Nickel Isotopes in Core-collapse Supernovae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6983</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6983</guid>
+<content:encoded><![CDATA[
+<div> 44Ti, nickel isotopes, core-collapse supernova (CCSN), neutrino-driven winds, 3D models
+
+核心坍缩超新星（CCSN）模拟显示，长期模型能够产生与卡西欧座A中观察到的44Ti/56Ni比例相似的结果，并且现代超新星模型能够合成高达2×10−4M⊙的44Ti。中微子驱动的风和3D模型中同时存在吸积和爆炸是其产生的核心因素。研究得出以前CCSN模型中的44Ti产量不足问题已经不再存在。此外，研究还讨论了57Ni的产生以及稳定镍/铁比例，并将结果与SN 1987A和蟹状星云的观测进行了比较。<br><br>总结:长期CCSN模型可以产生与观测相符合的44Ti/56Ni比例，现代超新星模型可合成高达2×10−4M⊙的44Ti。中微子驱动的风和3D模型中同时存在吸积和爆炸是其产生的核心因素。以前CCSN模型中的44Ti产量不足问题已经得到解决。另外，研究还讨论了57Ni的产生以及稳定镍/铁比例，并将结果与观测进行了比较。 <div>
+We report nucleosynthetic results for both 44Ti and nickel isotopes for 18 three-dimensional (3D) core-collapse supernova (CCSN) simulations extended to ∼20 s after bounce. We find that many of our long-term models are able to achieve 44Ti/56Ni ratios similar to that observed in Cassiopeia A, and modern supernova models can synthesize up to 2 × 10−4M⊙ of 44Ti. Neutrino-driven winds and the fact that there can be simultaneous accretion and explosion in 3D models of CCSNe play central roles in its production. We conclude that the 44Ti underproduction problem in previous CCSN models is no longer an issue. In addition, we discuss the production of both 57Ni and stable nickel/iron ratios and compare our results to observations of SN 1987A and the Crab.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Gamma-Ray Flare from TXS 1508+572: Characterizing the Jet of a z = 4.31 Blazar in the Early Universe</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4e</guid>
+<content:encoded><![CDATA[
+<div> 高红移、γ射线耀斑、TXS 1508+572、多波段观测、一区电子模型
+总结:
+高红移的TXS 1508+572是一颗非常亮的类星体，其在2022年2月至8月期间出现了高能γ射线活动，达到了与Fermi-LAT观测到的最亮耀斑相媲美的峰值亮度。通过使用XMM-Newton、Neil Gehrels Swift天文台、Effelsberg 100 m射电望远镜和非常长基线阵列进行多波段观测，研究人员发现该源在红外波段上的变化特别明显。在进行的观测活动中，所收集的光谱能量分布符合一区电子模型，γ射线耀斑是由于加速电子的新注入导致外部康普顿辐射增加造成的。 <div>
+Blazars can be detected from very large distances due to their high luminosity. However, the detection of γ-ray emission of blazars beyond z = 3 has only been confirmed for a small number of sources. Such observations probe the growth of supermassive black holes close to the peak of star formation in the history of galaxy evolution. As a result from a continuous monitoring of a sample of 80 z > 3 blazars with the Fermi Large Area Telescope (Fermi-LAT), we present the first detection of a γ-ray flare from the z = 4.31 blazar TXS 1508+572. This source showed high γ-ray activity from 2022 February to August, reaching a peak luminosity comparable to the most luminous flares ever detected with Fermi-LAT. We conducted a multiwavelength observing campaign involving XMM-Newton, the Neil Gehrels Swift Observatory, the Effelsberg 100 m radio telescope, and the Very Long Baseline Array. In addition, we make use of the monitoring programs by the Zwicky Transient Facility and the Near-Earth Object Wide-field Infrared Survey Explorer at optical and infrared wavelengths, respectively. We find that the source is particularly variable in the infrared band on daily timescales. The spectral energy distribution collected during our campaign is well described by a one-zone leptonic model, with the γ-ray flare originating from an increase of external Compton emission as a result of a fresh injection of accelerated electrons.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Explaining Muon Excess in Cosmic Rays Using the Gluon Condensation Model</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b9a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b9a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 超高能宇宙射线, 正负电子, 新理论模型, 强子相互作用, 银河系
+
+总结:<br><br>这篇文章介绍了通过分析与空气核碰撞产生的次级宇宙射线粒子的特性间接表征超高能宇宙射线的方法。研究发现，观测到的大气深度宇宙线粒子到达地面的μ子数量明显超过了现有宇宙射线强子相互作用模型的模拟结果。为了解释这一μ子过多现象，引入了一个新的理论模型——胶子凝聚模型。这一模型假设在级联过程的第一次碰撞中出现胶子凝聚效应，导致奇异度产生显著增加，进而增加了K介子的产生率， nK/nπ大于通常的强子相互作用过程的值。该模型提供了一个新的理论可能性来解释μ子过多的难题。 <div>
+Ultrahigh-energy cosmic rays are often characterized indirectly by analyzing the properties of secondary cosmic ray particles produced in the collisions with air nuclei. The particle number Nμ of muon and the depth of shower maximum Xmax after air shower cascade are mostly studied to infer the energy and mass of the incident cosmic rays. Research has shown that there is a significant excess in the observed number of muons arriving at the ground from extensive air showers compared to the simulations using the existing cosmic ray hadronic interaction model. To explain this muon excess phenomenon, a new theoretical model, the gluon condensation model, is introduced in this paper and simulated by using the AIRES engine. We assume that the gluon condensation (GC) effect appears mainly in the first collision of the cascade, leading to a significant increase in the strangeness production, consequently, the production rate of kaons is increased, and nK/nπ is greater than the value of the usual hadronic interaction process. In the calculation, the model assumes that only pions and kaons are produced in the GC state. The increase of strange particle yield would mean that the energy transferred from the hadronic cascade to the electromagnetic cascade through π0 → 2γ decay is reduced. This would in turn increase the number of muons at the ground level due to meson decays. Our model provides a new theoretical possibility to explain the muon excess puzzle.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Using the Cartwheel CME to Predict Off-limb Observations of CMEs for New and Upcoming UV and EUV Spectrometers</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d58</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d58</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Coronal mass ejections, plasma properties, ultraviolet spectroscopy, Solar Orbiter, EUVST
+
+CME是太阳释放的等离子体，可能对太空和地面电子设备造成严重损坏。研究CME的触发、加速和演变对我们更好地理解它们非常重要，而了解太阳低日冕中CME等离子体特性使用高分辨率紫外和极紫外光谱学是十分关键的。虽然目前对低太阳日冕中CME的光谱解析观测很少，但随着Solar Orbiter上Spectal Imaging of the Coronal Environment的发射和未来即将上线的Solar-C上的EUVST和MUSE，我们将有机会获得前所未有的光谱解析CME观测。利用Hinode/EUV成像光谱仪对CME进行的唯一完整极紫外光谱观测，我们预测SPICE，EUVST和MUSE在日冕CME喷发期间预计将观测到的光谱，以研究每种仪器的诊断能力。最后，我们提供了CME等离子体诊断的密度敏感和温度敏感比值列表，以及每种仪器预期光谱图谱，以便进行观测序列规划。
+
+总结: <br><br>本文介绍了关于太阳等离子体爆发的研究，重点是太阳释放的CME对太空和地面电子设备可能造成的损害，以及使用紫外和极紫外光谱学来研究CME的重要性。同时，文章介绍了Solar Orbiter，EUVST和MUSE等仪器，提出了对CME进行观测的方法，并提供了密度敏感和温度敏感比值列表，以及预期光谱图谱，以便进行观测序列规划。 <div>
+Coronal mass ejections (CMEs) expel multithermal, magnetized plasma from the Sun, and when directed toward Earth, can cause extensive damage to space and ground-based electronics. To better understand the triggering, acceleration, and evolution of CMEs, it is critical to study CME plasma properties close to the Sun. High-resolution ultraviolet and extreme ultraviolet (UV-EUV) spectroscopy can give the most detailed plasma diagnostics of CMEs in the low solar corona. Unfortunately, very few spectrally resolved observations of CMEs in the low solar corona exist. However, with the recent launch of the Spectral Imaging of the Coronal Environment on board Solar Orbiter and the upcoming missions, including the EUV High-Throughput Solar Telescope (EUVST) on Solar-C and the Multi-slit Solar Explorer (MUSE), we will have the opportunity to obtain unprecedented, spectrally resolved CME observations. Using the only full EUV spectral observation of a CME by the Hinode/EUV Imaging Spectrometer, we predict the spectra that SPICE, EUVST, and MUSE are expected to observe during an off-limb CME eruption to investigate the diagnostic capabilities of each instrument. Finally, we provide a list of density-sensitive and temperature-sensitive ratios for CME plasma diagnostics along with the expected spectral atlas for each instrument to facilitate observing sequence planning.
+]]></content:encoded>
+
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
+<item>
+<title>TESS Asteroseismology of β Hydri: A Subgiant with a Born-again Dynamo</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd6</guid>
+<content:encoded><![CDATA[
+<div> β Hyi, subgiant, rotation period, asteroseismology, magnetic activity cycle
+总结:
+β Hyi是一个太阳型亚巨星，研究发现它有类似太阳的振荡，通过测量旋转周期和进行磁活动循环预测，得出β Hyi的旋转周期与减弱磁制动模型相一致，这表明亚巨星的结构变化可以重新激活大尺度的动力学，从而短暂地维持磁活动循环。这一结果支持了进化的亚巨星存在“再生”动力学的观点。 <div>
+The solar-type subgiant β Hyi has long been studied as an old analog of the Sun. Although the rotation period has never been measured directly, it was estimated to be near 27 days. As a Southern Hemisphere target, it was not monitored by long-term stellar activity surveys, but archival International Ultraviolet Explorer data revealed a 12 yr activity cycle. Previous ground-based asteroseismology suggested that the star is slightly more massive and substantially larger and older than the Sun, so the similarity of both the rotation rate and the activity cycle period to solar values is perplexing. We use two months of precise time-series photometry from the Transiting Exoplanet Survey Satellite to detect solar-like oscillations in β Hyi and determine the fundamental stellar properties from asteroseismic modeling. We also obtain a direct measurement of the rotation period, which was previously estimated from an ultraviolet activity–rotation relation. We then use rotational evolution modeling to predict the rotation period expected from either standard spin-down or weakened magnetic braking (WMB). We conclude that the rotation period of β Hyi is consistent with WMB and that changes in stellar structure on the subgiant branch can reinvigorate the large-scale dynamo and briefly sustain magnetic activity cycles. Our results support the existence of a “born-again” dynamo in evolved subgiants—previously suggested to explain the cycle in 94 Aqr Aa—which can best be understood within the WMB scenario.
 ]]></content:encoded>
 
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 
+<item>
+<title>Compression Acceleration of Protons and Heavier Ions at the Heliospheric Current Sheet</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e80</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e80</guid>
+<content:encoded><![CDATA[
+<div> 磁重连，帕克太阳探测器，离子加速，粒子扩散系数，高能截断
+<br /><br />
+本文通过 Parker Solar Probe (PSP) 最近的观测结果表明，在太阳圈电流层 (HCS) 处，质子和重离子被磁重连加速至高能。通过在大尺度 MHD 模拟中解决能量粒子输运方程，我们研究了在重新连接的 HCS 中质子和重离子的压缩加速。我们发现多种离子的加速导致了非热的幂律分布，其谱指数与 PSP 观测一致。我们的研究显示，质子的高能截断可以达到 1 MeV，取决于粒子扩散系数。我们还研究了不同离子种类的高能截断如何随着电荷质量比缩放。当从 Kolmogorov 磁场功率谱的准线性理论中确定扩散系数时，我们发现 α∼0.4，略小于 PSP 观测的 α∼0.7。 <div>
+Recent observations by the Parker Solar Probe (PSP) suggest that protons and heavier ions are accelerated to high energies by magnetic reconnection at the heliospheric current sheet (HCS). By solving the energetic particle transport equation in large-scale MHD simulations, we study the compression acceleration of protons and heavier ions in the reconnecting HCS. We find that the acceleration of multispecies ions results in nonthermal power-law distributions with a spectral index consistent with the PSP observations. Our study shows that the high-energy cutoff of protons can reach –1 MeV depending on the particle diffusion coefficients. We also study how the high-energy cutoff of different ion species scales with the charge-to-mass ratio . When determining the diffusion coefficients from the quasi-linear theory with a Kolmogorov magnetic power spectrum, we find that α ∼ 0.4, which is somewhat smaller than α ∼ 0.7 observed by PSP.
+]]></content:encoded>
+<pubDate>2024-10-02T23:00:00Z</pubDate>
+</item>
 <item>
 <title>Identifying Pulsar Candidates in Interferometric Radio Images Using Scintillation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e8</link>
@@ -11795,18 +11887,6 @@ Despite being studied for many years, the structure of collisionless shocks is s
 4. QPO的rms频率关系可以用Lense-Thirring进动模型解释。
 5. 能量与相位滞后之间的关系表明黑洞系统的高倾角性质。 <div>
 Based on observations from the Insight Hard X-ray Modulation Telescope (Insight-HXMT), an analysis of type C quasiperiodic oscillations (QPOs) observed during the outburst of the new black hole candidate Swift J1727.8–1613 in 2023 was conducted. This analysis scrutinized the QPO’s evolution throughout the outburst, particularly noting its rapid frequency escalation during two flare events. Utilizing the energy range covered by Insight-HXMT, a dependency of the QPO frequency on energy was observed. Below approximately 3 Hz, minimal variations in frequency with energy were noted, whereas clear variations with photon energy were observed when it exceeded approximately 3 Hz. Additionally, a sharp drop in the rate of change was observed when the frequency exceeded approximately 8 Hz. This behavior, similar to several previously reported sources, suggests the presence of a common underlying physical mechanism. Moreover, the QPO rms–frequency relationship can be explained by the Lense–Thirring precession model. The relationship between rms energy and phase lag with frequency suggests the black hole system as a high-inclination source.
-]]></content:encoded>
-<pubDate>2024-06-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Detection of 49 Weak Dispersed Radio Pulses in a Parkes Observation of the X-Ray Pulsar PSR J0537–6910</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5010</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5010</guid>
-<content:encoded><![CDATA[
-<div> PSR J0537−6910, X-ray pulsar, Large Magellanic Cloud, dispersion measures, Parkes observation<br />
-<br />
-这项研究在Large Magellanic Cloud中进行了一次11.6小时的射电脉冲搜索观测，发现了49个具有较高信噪比的脉冲。这些脉冲被认为可能来自LMC脉冲星，并且在LMC DM范围内发现了三次重复脉冲。然而，仍不清楚这些脉冲中是否包含来自PSR J0537−6910的信号。总结: 该研究在LMC中进行了射电脉冲搜索，发现了一系列脉冲，可能来自LMC脉冲星，其中包括三次重复脉冲，但是否包含目标X射线脉冲星的信号仍不确定。 <div>
-I conducted a new search for dispersed radio pulses from the X-ray pulsar PSR J0537−6910 in the Large Magellanic Cloud (LMC) in a long (11.6 hr) archival 1.4 GHz Parkes search observation. I searched dispersion measures (DMs) between 0 and 10,000 pc cm−3 and detected 49 pulses with a signal-to-noise ratio (S/N) greater than 7 at a wide range of DMs using the HEIMDALL and FETCH pulse detection and classification packages. All of the pulses were weak, with none having an S/N above 8.5. There was a significant excess of pulses observed in the DM range of the known pulsar population in the LMC, suggesting that these pulses may originate from LMC pulsars. Three repeat pulses, each having widths ≲1 ms, were detected in a single DM trial of 103.412 pc cm−3, which is in the LMC DM range. This is unlikely to occur by chance in a single DM trial in this search at the (marginally significant) 4.3σ level. It remains unclear whether any of the detected pulses in the sample are from PSR J0537−6910 itself.
 ]]></content:encoded>
 <pubDate>2024-06-16T23:00:00Z</pubDate>
 </item>
