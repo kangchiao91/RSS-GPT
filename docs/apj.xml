@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Identifying Pulsar Candidates in Interferometric Radio Images Using Scintillation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e8</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 脉冲星, 干涉测量, 辐射成分, 动态光谱, 广播望远镜<br>
+<div> 关键词: 脉冲星, 干涉测量, 辐射成分, 动态光谱, 广播望远镜<br />
 总结: 
-本文介绍了利用干涉测量来选择脉冲星候选对象的新技术。该技术通过识别闪烁源并测量其闪烁带宽和时间尺度来确定可能的候选对象，从而实现了对脉冲星的高效率、聚焦的时域搜索。脉冲星的闪烁与其定时属性无关，因此能够找到与时域搜索不同的脉冲星。通过升级后的巨型米波射电望远镜（uGMRT）观测PSR B1508+55、PSR J0437−4715和PSR B0031−07等脉冲星的字段，证明了这一技术在区分脉冲星和其他非闪烁点源方面的正确性，同时展示了从uGMRT相控阵波束中提取的脉冲星动态光谱等结果。同时，讨论了处理干扰和仪器效应时的挑战。<br><br> <div>
+本文介绍了利用干涉测量来选择脉冲星候选对象的新技术。该技术通过识别闪烁源并测量其闪烁带宽和时间尺度来确定可能的候选对象，从而实现了对脉冲星的高效率、聚焦的时域搜索。脉冲星的闪烁与其定时属性无关，因此能够找到与时域搜索不同的脉冲星。通过升级后的巨型米波射电望远镜（uGMRT）观测PSR B1508+55、PSR J0437−4715和PSR B0031−07等脉冲星的字段，证明了这一技术在区分脉冲星和其他非闪烁点源方面的正确性，同时展示了从uGMRT相控阵波束中提取的脉冲星动态光谱等结果。同时，讨论了处理干扰和仪器效应时的挑战。<br /><br /> <div>
 Pulsars have been primarily detected by their narrow pulses or periodicity in time domain data. Interferometric surveys for pulsars are challenging due to the trade-off between beam sensitivity and beam size and the corresponding tradeoff between survey sensitivity (depth), sky coverage, and computational efforts. The detection sensitivity of time domain searches for pulsars is affected by dispersion smearing, scattering, and rapid orbital motion of pulsars in binaries. We have developed a new technique to select pulsar candidates in interferometric radio images by identifying scintillating sources and measuring their scintillation bandwidth and timescale. Identifying likely candidates allows sensitive, focused time-domain searches, saving computational effort. Pulsar scintillation is independent of its timing properties and hence offers a different selection of pulsars compared to time-domain searches. Candidates identified from this method could allow us to find hard-to-detect pulsars, such as submillisecond pulsars and pulsars in very compact, highly accelerated binary orbits. We use upgraded Giant Metrewave Radio Telescope (uGMRT) observations in the fields of PSR B1508+55, PSR J0437−4715, and PSR B0031−07 as test cases for our technique. We demonstrate that the technique correctly differentiates between the pulsar and other nonscintillating point sources and show that the extracted dynamic spectrum of the pulsar is equivalent to that extracted from the uGMRT phased array beam. We show the results from our analysis of known pulsar fields and discuss challenges in dealing with interference and instrumental effects.
 ]]></content:encoded>
-
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,14 +23,12 @@ Pulsars have been primarily detected by their narrow pulses or periodicity in ti
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d2</guid>
 <content:encoded><![CDATA[
 <div> H ii regions, outflows, LMC, star formation, scaling relation
-<br>
+<br />
 大麦哲伦星系（LMC）的研究发现在氢、硫、硅和碳等多种气体中存在离子化的外流现象。这些外流的质量明显与LMC的星形成速率表面密度（ΣSFR）相关，外流的质量以及质载因子进一步揭示了这一现象的特点。研究还发现，这些外流与LMC的年轻恒星盘同步转动，并且未受到外部力量的显著影响。因此，文章推测LMC前方存在一个能够屏蔽外流免受来自银河的迎风压力影响的弓形冲击波。总结: 大麦哲伦星系中存在多种气体的离子化外流，与星形成速率相关，与年轻恒星盘同步转动，可能存在屏蔽外流的弓形冲击波。 <div>
 The Large Magellanic Cloud (LMC) is home to many H ii regions, which may lead to significant outflows. We examine the LMC’s multiphase gas (T∼104-5 K) in H i, S ii, Si iv, and C iv using 110 stellar sight lines from the Hubble Space Telescope’s Ultraviolet Legacy Library of Young Stars as Essential Standards program. We develop a continuum fitting algorithm based on the concept of Gaussian process regression and identify reliable LMC interstellar absorption over vhelio = 175–375 km s−1. Our analyses show disk-wide ionized outflows in Si iv and C iv across the LMC with bulk velocities of ∣vout, bulk∣ ∼ 20–60 km s−1, which indicates that most of the outflowing mass is gravitationally bound. The outflows’ column densities correlate with the LMC’s star formation rate surface densities (ΣSFR), and the outflows with higher ΣSFR tend to be more ionized. Considering outflows from both sides of the LMC as traced by C iv, we conservatively estimate a total outflow rate of and a mass-loading factor of η ≳ 0.15. We compare the LMC’s outflows with those detected in starburst galaxies and simulation predictions, and find a universal scaling relation of over a wide range of star-forming conditions (ΣSFR ∼ 10−4.5–102M⊙ yr−1 kpc−2). Lastly, we find that the outflows are corotating with the LMC’s young stellar disk and the velocity field does not seem to be significantly impacted by external forces; we thus speculate on the existence of a bow shock leading the LMC, which may have shielded the outflows from ram pressure as the LMC orbits the Milky Way.
 ]]></content:encoded>
-
 <pubDate>2024-09-30T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>JADES Ultrared Flattened Objects: Morphologies and Spatial Gradients in Color and Stellar Populations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64c2</link>
@@ -11798,30 +11796,6 @@ Based on observations from the Insight Hard X-ray Modulation Telescope (Insight-
 I conducted a new search for dispersed radio pulses from the X-ray pulsar PSR J0537−6910 in the Large Magellanic Cloud (LMC) in a long (11.6 hr) archival 1.4 GHz Parkes search observation. I searched dispersion measures (DMs) between 0 and 10,000 pc cm−3 and detected 49 pulses with a signal-to-noise ratio (S/N) greater than 7 at a wide range of DMs using the HEIMDALL and FETCH pulse detection and classification packages. All of the pulses were weak, with none having an S/N above 8.5. There was a significant excess of pulses observed in the DM range of the known pulsar population in the LMC, suggesting that these pulses may originate from LMC pulsars. Three repeat pulses, each having widths ≲1 ms, were detected in a single DM trial of 103.412 pc cm−3, which is in the LMC DM range. This is unlikely to occur by chance in a single DM trial in this search at the (marginally significant) 4.3σ level. It remains unclear whether any of the detected pulses in the sample are from PSR J0537−6910 itself.
 ]]></content:encoded>
 <pubDate>2024-06-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>HaloFlow. I. Neural Inference of Halo Mass from Galaxy Photometry and Morphology</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4344</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4344</guid>
-<content:encoded><![CDATA[
-<div> photometry, morphology, dark matter halos, machine-learning, Bayesian inference
-
-总结: 
-该研究提出了HaloFlow，这是一种新的机器学习方法，可以从星系的光度和形态推断出宿主暗物质晕的质量Mh。该方法利用基于模拟的推断和正态流进行严格的贝叶斯推断。它在Bottrell等人的最新合成星系图像上进行训练，这些图像是基于IllustrisTNG宇宙大尺度模拟构建的，并包括了Subaru战略计划的Hyper Suprime-Cam观测的实际影响。通过研究发现，HaloFlow能够准确且无偏地推断出Mh的后验分布，还能够量化光度观测在限制Mh方面的全部信息内容。包括形态特征在内显著提高了Mh约束的精确性，并且卫星总亮度也能产生类似的效果。与使用恒星-暗物质晕质量关系的标准方法相比，HaloFlow能够改善Mh的约束力约40%。在接下来的研究中，他们将利用真实观测数据的星系-星系透镜测量来验证和校准HaloFlow。 <div>
-We present HaloFlow, a new machine-learning approach for inferring the mass of host dark matter halos, Mh, from the photometry and morphology of galaxies (https://github.com/changhoonhahn/haloflow/). HaloFlow uses simulation-based inference with normalizing flows to conduct rigorous Bayesian inference. It is trained on state-of-the-art synthetic galaxy images from Bottrell et al. that are constructed from the IllustrisTNG hydrodynamic simulation and include realistic effects of the Hyper Suprime-Cam Subaru Strategy Program observations. We design HaloFlow to infer Mh and stellar mass, M*, using grizy band magnitudes, morphological properties quantifying characteristic size, concentration and asymmetry, total measured satellite luminosity, and number of satellites. We demonstrate that HaloFlow infers accurate and unbiased posteriors of Mh. Furthermore, we quantify the full information content in the photometric observations of galaxies in constraining Mh. With magnitudes alone, we infer Mh with and 0.182 dex for field and group galaxies. Including morphological properties significantly improves the precision of Mh constraints, as does total satellite luminosity: and 0.132 dex. Compared to the standard approach using the stellar-to-halo mass relation, we improve Mh constraints by ∼40%. In subsequent papers, we will validate and calibrate HaloFlow with galaxy–galaxy lensing measurements on real observational data.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>VODKA-JWST: A 3.8 kpc Dual Quasar at Cosmic Noon in a Powerful Starburst Galaxy with JWST/MIRI Integral Field Unit</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4798</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4798</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 双类星系、宇宙正午、星体形成率、中红外光谱、星际有机分子<br />
-总结: 这项研究通过JWST/MIRI中红外积分场光谱观测了一个红移为z=2.17的双类类星系J074922.96+225511.7。研究发现，该星系中存在着广泛的星际有机分子和Fe ii发射，星体形成率为103.0±0.2M⊙ yr−1，比对红移为z∼2的星系使用红外光度函数的结果高出5倍。虽然星体形成率与同红移下的星系相当，但这个星系的分子气体含量却低于预期。研究也未观测到任何由类星体驱动的影响星系内PAH和Fe ii的流出现象。这项研究凸显了J0749+2255的极端富含星尘特性，暗示了双类类星体的阶段与强烈的星体形成活动之间可能存在联系。 <br /><br /> <div>
-Dual quasars—two active supermassive black holes at galactic scales—represent crucial objects for studying the impact of galaxy mergers and quasar activity on the star formation rate (SFR) within their host galaxies, particularly at cosmic noon when SFR peaks. We present JWST/MIRI mid-infrared integral field spectroscopy of J074922.96+225511.7, a dual quasar with a projected separation of 3.8 kpc at a redshift z = 2.17. We detect spatially extended [Fe ii] 5.34 μm and polycyclic aromatic hydrocarbon (PAH) 3.3 μm emissions from the star formation activity in its host galaxy. We derive the SFR of 103.0±0.2M⊙ yr−1 using PAH 3.3 μm, which is 5 times higher than that derived from the knee of the infrared luminosity function for galaxies at z ∼ 2. While the SFR of J0749+2255 agrees with that of star-forming galaxies of comparable stellar mass at the same redshifts, its molecular gas content falls short of expectations based on the molecular Kennicutt–Schmidt law. This discrepancy may result from molecular gas depletion due to the longer elevated stage of star formation, even after the molecular gas reservoir is depleted. We do not observe any quasar-driven outflow that impacts PAH and [Fe ii] in the host galaxy based on the spatially resolved maps. From the expected flux in PAH-based star formation, the [Fe ii] line likely originates from the star-forming regions in the host galaxy. Our study highlights the extreme stardust nature of J0749+2255, indicating a potential connection between the dual quasar phase and intense star formation activities.
-]]></content:encoded>
-<pubDate>2024-06-13T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
