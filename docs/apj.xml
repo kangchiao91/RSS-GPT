@@ -4,6 +4,47 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>CHIANTI—An Atomic Database for Emission Lines—Paper. XVIII. Version 11, Advanced Ionization Equilibrium Models: Density and Charge Transfer Effects</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6765</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6765</guid>
+<content:encoded><![CDATA[
+<div> ionization equilibrium, solar transition region, synthetic spectrum, atomic models, radiative recombination
+
+总结:<br><br>这篇文章介绍了chianti数据库和软件包的第11版，主要介绍了增加的离子平衡模型对太阳过渡区的影响，以及新的原子模型对UV强线辐射的预测和实际观测结果的比较。新模型对于研究过渡区以及高密度天体和实验室等等方面都有更好的适用性。此外，还介绍了更新和添加的离子数据集以及辐射复合能量损失率的更新。 <div>
+Version 11 of the chianti database and software package is presented. Advanced ionization equilibrium models have been added for low charge states of seven elements (C, N, O, Ne, Mg, Si, and S), and represent a significant improvement especially when modeling the solar transition region. The models include the effects of higher electron density and charge transfer on ionization and recombination rates. As an illustration of the difference these models make, a synthetic spectrum is calculated for an electron pressure of 7 × 1015 cm−3 K and compared with an active region observation from HRTS. Increases are seen in factors of 2–5 in the predicted radiances of the strongest lines in the UV from Si iv, C iv, and N v, compared to the previous modeling using the coronal approximation. Much better agreement (within 20%) with the observations is found for the majority of the lines. The new atomic models better equip both those who are studying the transition region and those who are interpreting the emission from higher-density astrophysical and laboratory plasma. In addition to the advanced models, several ion data sets have been added or updated, and data for the radiative recombination energy loss rate have been updated.
+]]></content:encoded>
+
+<pubDate>2024-10-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Dark Energy Camera Magellanic Clouds Emission-line Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6766</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6766</guid>
+<content:encoded><![CDATA[
+<div> DECam, CTIO Blanco 4m telescope, DeMCELS, LMC, emission-line survey
+<br>
+使用Dark Energy Camera (DECam) 在CTIO Blanco 4m 望远镜上进行了大麦哲伦星云 (LMC) 的新发射线调查，使用窄带Hα和[S ii]滤光片，以及一个连续波段来创建纯发射线图像。我们将这项新调查称为DeMCELS，以区别于早期的大麦哲伦星云发射线调查 (MCELS)。DeMCELS覆盖约54平方度，包括LMC的大部分明亮光学盘。由于DECam的像素大小仅为0.″27，我们的DeMCELS调查在分辨率上改进了3-5倍，与MCELS的深度相当，Hα和[S ii]的表面亮度限制分别为和。DeMCELS提供了关于各种尺度的星云的详细形态信息，从最大的超级泡沫到单个H ii区和超新星遗迹，再到包围单个恒星的发射气泡，甚至是LMC的弥散电离气体中的微弱结构。许多复杂的发射区域显示出[S ii] / Hα比值的显着变化，这表明了来自恒星风和/或超新星的冲击与嵌入式热年轻恒星的光电离的混合。我们介绍了这项调查的观测策略和数据处理的细节，并展示了与先前数据的比较结果。小麦哲伦星云的相关项目正在进行中，将另行报告。我们通过NOIRLab的数据实验室网站向整个社区提供这些新数据。 <div>
+We have used the Dark Energy Camera (DECam) on the CTIO Blanco 4 m telescope to perform a new emission-line survey of the Large Magellanic Cloud (LMC) using narrowband Hα and [S ii] filters in addition to a continuum band to create pure emission-line images. We refer to this new survey as DeMCELS, to distinguish it from the earlier Magellanic Cloud Emission-line Survey (MCELS). DeMCELS covers ∼54 deg2, encompassing most of the bright optical disk of the LMC. With DECam's pixel size of only 0.″27, our DeMCELS survey provides a seeing-limited improvement of 3–5 times over MCELS and is comparable in depth, with surface brightness limits of and in Hα and [S ii], respectively. DeMCELS provides detailed morphological information on nebulae of all scales, from the largest supershells to individual H ii regions and supernova remnants, to bubbles of emission surrounding individual stars, and even to faint structures in the diffuse ionized gas of the LMC. Many complex regions of emission show significant variations in the ratio of [S ii] to Hα—a sign of a mixture of shocks from stellar winds and/or supernovae with photoionization by embedded hot, young stars. We present the details of the observing strategy and data processing for this survey, and show selected results in comparison with previous data. A companion project for the Small Magellanic Cloud is in progress and will be reported separately. We are making these new data available to the community at large via NOIRLab’s Data Lab site.
+]]></content:encoded>
+
+<pubDate>2024-10-03T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The A2Π–X2Σ+ Band System of YO</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e79</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e79</guid>
+<content:encoded><![CDATA[
+<div> S stars, spectra, Fourier transform spectrometer, rotational analysis, line list
+<br><br>
+S stars的光谱中存在着显著的YO带。本研究使用傅立叶变换光谱仪记录了A2Π–X2Σ+电子跃迁的实验室光谱，使用复合壁空心阴极灯作为光源。对v″ ≤ 4的A2Π–X2Σ+跃迁进行了旋转分析，使用现代光谱拟合程序PGOPHER。利用从头算的跃迁偶极矩函数计算了振动带强度。提供了A2Π–X2Σ+跃迁的谱线表，并可用于对S stars进行建模。 
+<br><br>总结: 
+S stars的光谱中存在显著的YO带。研究使用傅立叶变换光谱仪进行实验室光谱记录，并进行了A2Π–X2Σ+跃迁的旋转分析。通过振动带强度的计算和谱线表的提供，可以在S stars的建模中应用这些结果。 <div>
+YO bands are conspicuous in the spectra of S stars. The laboratory spectrum of the A2Π–X2Σ+ electronic transition has been recorded with a Fourier transform spectrometer using a composite-wall hollow cathode lamp source. The A2Π–X2Σ+ transition with and v″ ≤ 4 has been rotationally analyzed using the modern spectral fitting program PGOPHER. Vibronic band strengths were calculated using an ab initio transition dipole moment function. A line list for the A2Π–X2Σ+ transition is provided and can be utilized in the modeling of S stars.
+]]></content:encoded>
+
+<pubDate>2024-10-03T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>An Unidentified Fermi Source Emitting Radio Bursts in the Galactic Bulge</title>
