@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>CHIANTI—An Atomic Database for Emission Lines—Paper. XVIII. Version 11, Advanced Ionization Equilibrium Models: Density and Charge Transfer Effects</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6765</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> ionization equilibrium, solar transition region, synthetic spectrum, atomic models, radiative recombination
 
-总结:<br><br>这篇文章介绍了chianti数据库和软件包的第11版，主要介绍了增加的离子平衡模型对太阳过渡区的影响，以及新的原子模型对UV强线辐射的预测和实际观测结果的比较。新模型对于研究过渡区以及高密度天体和实验室等等方面都有更好的适用性。此外，还介绍了更新和添加的离子数据集以及辐射复合能量损失率的更新。 <div>
+总结:<br /><br />这篇文章介绍了chianti数据库和软件包的第11版，主要介绍了增加的离子平衡模型对太阳过渡区的影响，以及新的原子模型对UV强线辐射的预测和实际观测结果的比较。新模型对于研究过渡区以及高密度天体和实验室等等方面都有更好的适用性。此外，还介绍了更新和添加的离子数据集以及辐射复合能量损失率的更新。 <div>
 Version 11 of the chianti database and software package is presented. Advanced ionization equilibrium models have been added for low charge states of seven elements (C, N, O, Ne, Mg, Si, and S), and represent a significant improvement especially when modeling the solar transition region. The models include the effects of higher electron density and charge transfer on ionization and recombination rates. As an illustration of the difference these models make, a synthetic spectrum is calculated for an electron pressure of 7 × 1015 cm−3 K and compared with an active region observation from HRTS. Increases are seen in factors of 2–5 in the predicted radiances of the strongest lines in the UV from Si iv, C iv, and N v, compared to the previous modeling using the coronal approximation. Much better agreement (within 20%) with the observations is found for the majority of the lines. The new atomic models better equip both those who are studying the transition region and those who are interpreting the emission from higher-density astrophysical and laboratory plasma. In addition to the advanced models, several ion data sets have been added or updated, and data for the radiative recombination energy loss rate have been updated.
 ]]></content:encoded>
-
 <pubDate>2024-10-03T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,11 +23,10 @@ Version 11 of the chianti database and software package is presented. Advanced i
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6766</guid>
 <content:encoded><![CDATA[
 <div> DECam, CTIO Blanco 4m telescope, DeMCELS, LMC, emission-line survey
-<br>
+<br />
 使用Dark Energy Camera (DECam) 在CTIO Blanco 4m 望远镜上进行了大麦哲伦星云 (LMC) 的新发射线调查，使用窄带Hα和[S ii]滤光片，以及一个连续波段来创建纯发射线图像。我们将这项新调查称为DeMCELS，以区别于早期的大麦哲伦星云发射线调查 (MCELS)。DeMCELS覆盖约54平方度，包括LMC的大部分明亮光学盘。由于DECam的像素大小仅为0.″27，我们的DeMCELS调查在分辨率上改进了3-5倍，与MCELS的深度相当，Hα和[S ii]的表面亮度限制分别为和。DeMCELS提供了关于各种尺度的星云的详细形态信息，从最大的超级泡沫到单个H ii区和超新星遗迹，再到包围单个恒星的发射气泡，甚至是LMC的弥散电离气体中的微弱结构。许多复杂的发射区域显示出[S ii] / Hα比值的显着变化，这表明了来自恒星风和/或超新星的冲击与嵌入式热年轻恒星的光电离的混合。我们介绍了这项调查的观测策略和数据处理的细节，并展示了与先前数据的比较结果。小麦哲伦星云的相关项目正在进行中，将另行报告。我们通过NOIRLab的数据实验室网站向整个社区提供这些新数据。 <div>
 We have used the Dark Energy Camera (DECam) on the CTIO Blanco 4 m telescope to perform a new emission-line survey of the Large Magellanic Cloud (LMC) using narrowband Hα and [S ii] filters in addition to a continuum band to create pure emission-line images. We refer to this new survey as DeMCELS, to distinguish it from the earlier Magellanic Cloud Emission-line Survey (MCELS). DeMCELS covers ∼54 deg2, encompassing most of the bright optical disk of the LMC. With DECam's pixel size of only 0.″27, our DeMCELS survey provides a seeing-limited improvement of 3–5 times over MCELS and is comparable in depth, with surface brightness limits of and in Hα and [S ii], respectively. DeMCELS provides detailed morphological information on nebulae of all scales, from the largest supershells to individual H ii regions and supernova remnants, to bubbles of emission surrounding individual stars, and even to faint structures in the diffuse ionized gas of the LMC. Many complex regions of emission show significant variations in the ratio of [S ii] to Hα—a sign of a mixture of shocks from stellar winds and/or supernovae with photoionization by embedded hot, young stars. We present the details of the observing strategy and data processing for this survey, and show selected results in comparison with previous data. A companion project for the Small Magellanic Cloud is in progress and will be reported separately. We are making these new data available to the community at large via NOIRLab’s Data Lab site.
 ]]></content:encoded>
-
 <pubDate>2024-10-03T23:00:00Z</pubDate>
 </item>
 <item>
@@ -36,16 +35,14 @@ We have used the Dark Energy Camera (DECam) on the CTIO Blanco 4 m telescope to 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e79</guid>
 <content:encoded><![CDATA[
 <div> S stars, spectra, Fourier transform spectrometer, rotational analysis, line list
-<br><br>
+<br /><br />
 S stars的光谱中存在着显著的YO带。本研究使用傅立叶变换光谱仪记录了A2Π–X2Σ+电子跃迁的实验室光谱，使用复合壁空心阴极灯作为光源。对v″ ≤ 4的A2Π–X2Σ+跃迁进行了旋转分析，使用现代光谱拟合程序PGOPHER。利用从头算的跃迁偶极矩函数计算了振动带强度。提供了A2Π–X2Σ+跃迁的谱线表，并可用于对S stars进行建模。 
-<br><br>总结: 
+<br /><br />总结: 
 S stars的光谱中存在显著的YO带。研究使用傅立叶变换光谱仪进行实验室光谱记录，并进行了A2Π–X2Σ+跃迁的旋转分析。通过振动带强度的计算和谱线表的提供，可以在S stars的建模中应用这些结果。 <div>
 YO bands are conspicuous in the spectra of S stars. The laboratory spectrum of the A2Π–X2Σ+ electronic transition has been recorded with a Fourier transform spectrometer using a composite-wall hollow cathode lamp source. The A2Π–X2Σ+ transition with and v″ ≤ 4 has been rotationally analyzed using the modern spectral fitting program PGOPHER. Vibronic band strengths were calculated using an ab initio transition dipole moment function. A line list for the A2Π–X2Σ+ transition is provided and can be utilized in the modeling of S stars.
 ]]></content:encoded>
-
 <pubDate>2024-10-03T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>An Unidentified Fermi Source Emitting Radio Bursts in the Galactic Bulge</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66c9</link>
@@ -11796,40 +11793,6 @@ A systematic study was performed on the spectral properties of polycyclic aromat
 <div> 白矮星，棕矮星，大气检测，Hubble Space Telescope，相位曲线<br />
 这篇文章介绍了对两颗棕矮星WD-0137B和EPIC-2122B大气的检测分析。研究使用Hubble Space Telescope/Wide Field Camera 3/G141进行观测，使用PHOENIX Exoplanet Retrieval Algorithm retrieval suite进行检测。发现WD-0137B的昼侧大气与超热木星类似，具有温度结构倒转和H-不透明性，但夜侧迅速过渡到非倒转的温度结构。而EPIC-2122B的大气在所有经度约束下仍为倒转状态，主要是H-不透明。最后，通过与全球环流模型的比较，发现1D检测行为归因于系统的倾斜观测几何，这导致来自夜侧半球的光谱受到总是可见的受辐射和倒转部分大气的污染。这项研究揭示了这些受辐射的棕矮星系统与热木星和超热木星之间的相似之处，以及它们的独特差异，包括倾斜观测几何的影响。<br /><br />总结: 这篇文章介绍了对两颗棕矮星大气的检测分析，发现它们与热木星和超热木星有相似之处，但也存在独特差异，包括倾斜观测几何的影响。 <div>
 We present an atmospheric retrieval analysis of Hubble Space Telescope/Wide Field Camera 3/G141 spectroscopic phase curve observations of two brown dwarfs, WD-0137B and EPIC-2122B, in ultrashort period orbits around white dwarf hosts. These systems are analogous to hot and ultra-hot Jupiter systems, enabling a unique and high-precision comparison to exoplanet systems. We use the PHOENIX Exoplanet Retrieval Algorithm retrieval suite to test various analysis setups, including joint-phase retrievals, multiple temperature structures, and nonuniform abundances. We find that WD-0137B has a dayside that closely resembles that of other ultra-hot Jupiters with inverted temperature structures and H− opacity, but quickly transitions to a mostly noninverted temperature structure on the nightside. Meanwhile, EPIC-2122B’s atmosphere remains inverted at all constrained longitudes, with dominant H− opacity. Retrievals with multiple temperature profiles and nonuniform vertical abundances were generally not statistically justified for this data set, but retrievals with dayside-dilution factors were found to be justified. Retrieving all phases simultaneously with a linear combination of a dayside and nightside atmosphere was found to be an adequate representation of the entire phase curve once a longitudinal temperature gradient free parameter was included in the retrieval. Comparing to global circulation models, we attribute behavior in the 1D retrievals to the inclined viewing geometry of the systems, which results in always-visible irradiated and inverted portions of the atmosphere contaminating spectra measured from the nightside hemisphere. This study sheds light on the similarities between these irradiated brown dwarf systems and hot and ultra-hot Jupiters, but also their unique differences, including the influence of the inclined viewing geometry.
-]]></content:encoded>
-<pubDate>2024-06-19T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Analysis of Neutron Star f-mode Oscillations in General Relativity with Spectral Representation of Nuclear Equations of State</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad43e6</guid>
-<content:encoded><![CDATA[
-<div> 星际中子星, f-模振荡, 核方程态, NICER观测, 核子-夸克混合方程态
-<br /><br />总结: 本研究利用大约9000个核方程态，通过线性广义相对论形式主义研究了中子星内部的准正常f-模振荡。我们发现f-模频率与核饱和性质之间存在一定的关联，但需要更复杂的方法来揭示多参数关系。在PSR J0740+6620和PSR J0030+0451观测数据上，我们发现NICER数据与部分和最小重叠的核子-夸克混合方程态模型的半径和频率值相吻合，这表明需要考虑超饱和密度下的异质子。未来观测可以进一步验证核子-夸克混合方程态或提供对其的明确证据。 <div>
-We study quasi-normal f-mode oscillations in neutron star (NS) interiors within a linearized general relativistic formalism. We utilize approximately 9000 nuclear equations of state (EOSs) using spectral representation techniques, incorporating constraints on nuclear saturation properties, chiral effective field theory for pure neutron matter, and perturbative quantum chromodynamics for densities pertinent to NS cores. The median values of the f-mode frequency, νf (damping time, τf) for NSs with masses ranging from 1.4 to 2.0 M⊙ lie between 1.80 and 2.20 kHz (0.13–0.22 s) for our entire EOS set. Our study reveals a weak correlation between f-mode frequencies and individual nuclear saturation properties, prompting the necessity for more intricate methodologies to unveil multiparameter relationships. We observe a robust linear relationship between the radii and f-mode frequencies for different NS masses. Leveraging this correlation alongside NICER observations of PSR J0740+6620 and PSR J0030+0451, we establish constraints that exhibit partial and minimal overlap for observational data from Riley et al. and Miller et al., respectively, with our nucleonic EOS data set. Moreover, NICER data align closely with the radius and frequency values for a few hadron–quark hybrid EOS models. This indicates the need to consider additional exotic particles such as deconfined quarks at suprasaturation densities. We conclude that future observations of the radius or f-mode frequency for more than one NS mass, particularly at the extremes of the viable NS mass scale, would either rule out nucleon-only EOSs or provide definitive evidence in its favor.
-]]></content:encoded>
-<pubDate>2024-06-19T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Frozen-field Modeling of Coronal Condensations with MPI-AMRVAC. I. Demonstration in Two-dimensional Models</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4466</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4466</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳冠，磁流体力学，一维模拟，二维模拟，辐射损失
-
-总结:<br /><br />这篇文章讨论了在太阳冠中进行大规模等离子体演变的模拟。作者指出，使用磁流体力学方程进行全面的多维模拟需要大量计算资源。因此，他们提出了将磁场冻结，并转化为冻结场的一维流体力学方程进行模拟的方法。作者还介绍了他们使用这种方法进行的二维模拟，以研究与辐射损失相关的突出体形成。研究结果表明，这种冻结场方法的表现接近于多维磁流体力学模拟和伪二维一维流体力学模拟。作者计划在后续研究中基于分析或观测方法进行三维模拟。 <div>
-Large-scale coronal plasma evolutions can be adequately described by magnetohydrodynamics (MHD) equations. However, full multidimensional MHD simulations require substantial computational resources. Given the low plasma β in the solar corona, in many coronal studies, it suffices to approximate the magnetic field to remain topologically fixed and effectively conduct one-dimensional (1D) hydrodynamic (HD) simulations instead. This approach is often employed in studies of coronal loops and their liability to form condensations related to thermal instability. While 1D HD simulations along given and fixed field line shapes are convenient and fast, they are difficult to directly compare with multidimensional phenomena. Therefore, it is more convenient to solve volume-filling, multidimensional versions of the MHD equations where we freeze the magnetic field, transforming it into frozen-field HD (ffHD) equations for simulation. We have incorporated this ffHD module into our open-source MPI-AMRVAC code and tested it using a two-dimensional (2D) evaporation–condensation model to study prominence formation due to radiative losses. The 2D ffHD results are compared with those from actual 2D MHD and pseudo-2D HD simulations, analyzing the differences and their causes. Pseudo-2D studies account for the known flux tube expansion effects. Overall, the performance of 2D ffHD is close to that of 2D MHD and pseudo-2D HD. The 2D tests conducted in this paper will be extended in follow-up studies to 3D simulations based on analytical or observational approaches.
-]]></content:encoded>
-<pubDate>2024-06-19T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Dynamics and Gravitational-wave Signal of a Binary Flying Closely by a Kerr Supermassive Black Hole</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4549</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4549</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 二进制黑洞、引力波、数值模拟、超大质量黑洞、三体动力学
-总结: 本研究对二进制黑洞沿着椭圆轨道朝向超大质量黑洞运动的情况进行了数值模拟研究。我们发现，当二进制黑洞移出赤道平面时，其离心率更容易被激发，导致产生多频带引力波爆发，同时我们也观察到由于内部二进制黑洞与超大质量黑洞相互作用，有效自旋参数也发生了显著变化。这些结果展示了在强引力区域三体动力学的丰富性，并强调了建立新的数值工具来模拟这样的系统的必要性。<br /><br /> <div>
-Recent astrophysical models predict that stellar-mass binary black holes (BBHs) could form and coalesce within a few gravitational radii of a supermassive black hole (SMBH). Detecting the gravitational waves (GWs) from such systems requires numerical tools that can track the dynamics of the binaries while capturing all the essential relativistic effects. This work develops upon our earlier study of a BBH moving along a circular orbit in the equatorial plane of a Kerr SMBH. Here we modify the numerical method to simulate a BBH falling toward the SMBH along a parabolic orbit of arbitrary inclination with respect to the equator. By tracking the evolution in a frame freely falling alongside the binary, we find that the eccentricity of the BBH is more easily excited than it is in the previous equatorial case, and that the cause is the asymmetry of the tidal tensor imposed on the binary when the binary moves out of the equatorial plane. Since the eccentricity reaches maximum around the same time as the BBH becomes the closest to the SMBH, multiband GW bursts could be produced that are simultaneously detectable by space- and ground-based detectors. We show that the effective spin parameters of such GW events also undergo significant variation due to the rapid reorientation of the inner BBHs during their interaction with SMBHs. These results demonstrate the richness of three-body dynamics in the region of strong gravity, and highlight the necessity of building new numerical tools to simulate such systems.
 ]]></content:encoded>
 <pubDate>2024-06-19T23:00:00Z</pubDate>
 </item>
