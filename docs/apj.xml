@@ -4,6 +4,45 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Determining the Interstellar Wind Longitudinal Inflow Evolution Using Pickup Ions in the Helium Focusing Cone</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6868</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6868</guid>
+<content:encoded><![CDATA[
+<div> 关键词: heliosphere, interstellar medium, solar wind, ion composition, PUI measurements 
+总结:
+本文通过分析Advanced Composition Explorer/Solar Wind Ion Composition Spectrometer He+ double-coincidence pickup ion (PUI)的测量数据，研究了太阳圈与局部星际介质的相互作用。研究发现在1998年至2010年间，太阳风的流向并没有明显的变化趋势，通过拟合kappa函数和移除与日冕质量抛射相关的测量数据，得到这一结论。因此，可以得出太阳圈与局部星际介质的相互作用在该时期并没有发生明显的变化。 <div>
+The size, shape, and composition of the heliosphere are affected by its interaction with the local interstellar medium. A means of quantifying this interaction is by measuring the relative motion of the two media. We determine the flow direction, , of the interstellar wind through the heliosphere and its trend over an 11 yr solar cycle using Advanced Composition Explorer/Solar Wind Ion Composition Spectrometer He+ double-coincidence pickup ion (PUI) measurements from a data set spanning 13 full orbits, with focusing cone crossings occurring between the years 1998 and 2010. We measure the flow direction by fitting a kappa function to the focusing cone signature in the count rates of He+ at the PUI cutoff measured as a function of ecliptic longitude. We determine for each three-orbit boxcar centered on the years 1999 through 2009 and find the trend of the resulting linear fit. We account for solar transients by removing measurements associated with CMEs. However, there still may be effects from compression regions, such as stream–stream and corotating interaction regions. We additionally make considerations to ensure the PUI torus is in view, to account for varying interplanetary magnetic field angles, to ensure that we analyze newly injected interstellar PUIs largely unaffected by transport effects, and to account for general solar activity. We measure a slope in the flow direction to be 0.00° ± 0.51° yr−1, indicating that we do not measure a varying trend over this period. We repeat the focusing cone analysis for the combined data set and determine an overall flow direction of 75.37° ± 0.43°.
+]]></content:encoded>
+
+<pubDate>2024-10-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>MEASNet. I. A Model for Barium Star Identification and s-process Abundance Estimation from LAMOST DR10 Low-resolution Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b2c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b2c</guid>
+<content:encoded><![CDATA[
+<div> Barium stars, s-process elements, MEASNet, LAMOST, abundance analysis<br>
+<br>
+Barium stars are peculiar stars with enhanced s-process elements. The paper introduces MEASNet, a data-driven method for identifying barium candidates and estimating s-process elemental abundances. MEASNet demonstrates high precision and recall in classification and accurate prediction of elemental abundances. Applying the model to LAMOST data successfully identifies a large number of barium candidates and provides abundance estimates. This catalog expands the sample size for further analysis of barium stars. The work showcases the potential value of MEASNet in star classification and abundance estimation, offering a reference for future data-driven models. <br><br>总结: <br>Barium stars are unique stars with enhanced s-process elements. MEASNet is introduced as a method for identifying barium candidates and estimating elemental abundances. It demonstrates high precision and recall in classification and accurate prediction of abundances. The application to LAMOST data successfully identifies a large number of barium candidates and provides abundance estimates. This work highlights the potential value of MEASNet in star classification and abundance estimation, offering a reference for future data-driven models. <div>
+Barium stars are peculiar stars with enhanced slow neutron capture process (s-process) elements. Abundance analysis of them aids in better understanding the chemical evolution of the Milky Way. In this paper, we introduce a data-driven method named the memory-enhanced adaptive spectral network (MEASNet) to search for barium candidates in the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) low-resolution survey (LRS) and estimate the abundance of five s-process elements: Sr, Y, Ba, Ce, and Nd. MEASNet, trained using spectra from common stars in both LAMOST and the Galactic Archaeology with HERMES survey, showcases notable performance: for the classification task, precision = 98.22% and recall = 94.12%; in prediction, the mean absolute error for the seven elements range between 0.07 and 0.15 dex. After training, we apply the model to 4,083,003 stellar spectra from LAMOST DR10 LRS, successfully identifying 1,803,670 spectra of barium candidates ([Ba/Fe] ≥ 0.25 dex) along with their five s-process elemental abundances. The catalog enlarges the sample size, providing a wealth of data for further statistical analysis of the formation and evolution of barium stars. Meanwhile, this work highlights the potential value of MEASNet in star classification and abundance estimation, offering a strong reference for future data-driven models.
+]]></content:encoded>
+
+<pubDate>2024-10-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>New Versus Past Silica Crush Curve Experiments: Application to Dimorphos Benchmarking Impact Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Crush curves, silica grains, numerical modeling, impact simulations, benchmarking study
+
+总结: 本文总结了关于微粒级硅石的压碎曲线行为的过去研究，并进行了补充实验，提出了一种新的幂律函数，可以用于类似微粒级硅石的模拟材料的撞击模拟。作者进行了基准研究，比较了新的压碎曲线与其他研究中常用的参数二次压碎曲线，发现典型的二次压碎曲线参数并不符合硅石压碎实验的情况，因此他们在撞击点附近低估了压缩，而在远离撞击点时高估了压缩。因此，本文提出的适用于数百帕至1.1GPa压力范围的新的压碎曲线可能更加精确。此外，它没有被特定案例的参数所校准，可以普遍适用于类似微粒级硅石的彗星或小行星等天体，只要假设其组成类似微粒级硅石。 <div>
+Crush curves are of fundamental importance to numerical modeling of small and porous astrophysical bodies. The empirical literature often measures them for silica grains, and different studies have used various methods, sizes, textures, and pressure conditions. Here, we review past studies and supplement further experiments in order to develop a full and overarching understanding of the silica crush curve behavior. We suggest a new power-law function that can be used in impact simulations of analog materials similar to microgranular silica. We perform a benchmarking study to compare this new crush curve to the parametric quadratic crush curve often used in other studies, based on the study case of the DART impact onto the asteroid Dimorphos. We find that the typical quadratic crush curve parameters do not closely follow the silica crushing experiments, and as a consequence, they under (over) estimate compression close (far) from the impact site. The new crush curve presented here, applicable to pressures between a few hundred Pa and up to 1.1 GPa, might therefore be more precise. Additionally, it is not calibrated by case-specific parameters, and can be used universally for comet- or asteroid-like bodies, given an assumed composition similar to microgranular silica.
+]]></content:encoded>
+
+<pubDate>2024-10-06T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>High-latitude Observations of Dissipation-range Turbulence by the Ulysses Spacecraft during the Solar Minimum of 1993–96: The Spectral Break and Anisotropy</title>
