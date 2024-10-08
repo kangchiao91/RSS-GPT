@@ -5,18 +5,41 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>GRB Progenitor Classification from Gamma-Ray Burst Prompt and Afterglow Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a56</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a56</guid>
+<content:encoded><![CDATA[
+<div> 支持向量机、伽马射线暴、预测、原星、分类<br>
+预测伽马射线暴（GRBs）的前体是通过使用支持向量机统计的分类技术，利用标准观测和分析来实现的。这一技术提供了比先前基于射电波段持续时间的两成分高斯混合更细致的预测。通过对Fermi/伽马射线爆发监视器、Swift/爆发警报望远镜和Swift/X射线望远镜数据进行进一步的协方差测试，研究发现，仅基于暴发特性的分类提供了对最近证据的观点，即合并和塌缩星存在于“长”和“短”GRB种群中。<br><br>总结: 本研究利用支持向量机统计的分类技术对伽马射线暴的前体进行预测，并发现了先前分类方法的局限性。通过对伽马射线暴监测器和望远镜数据的进一步分析，揭示了长短伽马射线暴种群存在合并和塌缩星的证据。 <div>
+Using an established classification technique, we leverage standard observations and analyses to predict the progenitors of gamma-ray bursts (GRBs). This technique, utilizing support vector machine statistics, provides a more nuanced prediction than the previous two-component Gaussian mixture in duration of the prompt gamma-ray emission. Based on further covariance testing from Fermi/Gamma Ray Burst Monitor, Swift/Burst Alert Telescope, and Swift/X-Ray Telescope data, we find that our classification based only on prompt emission properties gives perspective on the recent evidence that mergers and collapsars exist in both “long” and “short” GRB populations.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>IPA: Class 0 Protostars Viewed in CO Emission Using JWST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b92</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b92</guid>
+<content:encoded><![CDATA[
+<div> 关键词: protostars, JWST, CO emission, rotational temperatures, gas masses <br>
+总结: 本研究利用JWST的新观测数据，对五颗原恒星的中心区域进行了亮CO基本发射的研究。通过提取两个振动带的近红外和中红外频谱中的CO线发射图像和通量，发现13CO未被探测到，表明12CO发射为光学薄。利用H2发射线对CO通量进行校正，并构建了CO线的旋转图，估计了旋转温度和CO分子数。对v=1需要两个不同的旋转温度组分，v=2需要一个更热的组分。13CO的流失表明选择性的UV光解作用，可能解释了v=2的更高旋转温度。平均振动温度约为1000K，与最低旋转温度组分相似。根据测得的旋转和振动温度推断CO分子的总数，我们发现总气体质量范围从约低限为10^22克的最小质量原恒星到约10^26克的最大质量原恒星。我们的气体质量下限与更成熟系统中的相吻合，暗示最低旋转温度组分来自内部盘，并且也不能排除来自较大质量目标的盘风对CO发射的贡献。<br> <div>
+We investigate the bright CO fundamental emission in the central regions of five protostars in their primary mass assembly phase using new observations from JWST’s Near-Infrared Spectrograph and Mid-Infrared Instrument. CO line emission images and fluxes are extracted for a forest of ∼150 rovibrational transitions from two vibrational bands, v = 1−0 and v = 2−1. However, 13CO is undetected, indicating that 12CO emission is optically thin. We use H2 emission lines to correct fluxes for extinction and then construct rotation diagrams for the CO lines with the highest spectral resolution and sensitivity to estimate rotational temperatures and numbers of CO molecules. Two distinct rotational temperature components are required for v = 1 (∼600 to 1000 K and 2000 to ∼104 K), while one hotter component is required for v = 2 (≳3500 K). 13CO is depleted compared to the abundances found in the interstellar medium, indicating selective UV photodissociation of 13CO; therefore, UV radiative pumping may explain the higher rotational temperatures in v = 2. The average vibrational temperature is ∼1000 K for our sources and is similar to the lowest rotational temperature components. Using the measured rotational and vibrational temperatures to infer a total number of CO molecules, we find that the total gas masses range from lower limits of ∼1022 g for the lowest mass protostars to ∼1026 g for the highest mass protostars. Our gas mass lower limits are compatible with those in more evolved systems, which suggest the lowest rotational temperature component comes from the inner disk, scattered into our line of sight, but we also cannot exclude the contribution to the CO emission from disk winds for higher mass targets.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>CORINOS. II. JWST-MIRI Detection of Warm Molecular Gas from an Embedded, Disk-bearing Protostar</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fe</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fe</guid>
 <content:encoded><![CDATA[
-<div> IRAS 15398-3359, protostar, CO, H2O, JWST<br>
-观测低质量原恒星IRAS 15398-3359，发现CO和H2O气体在5μm和6-8μm波段的发射。CO的激发温度为1598±118 K，存在于热库中，而H2O的激发温度为204±7 K，较冷。CO和H2O的排放区域限制在离原恒星约40天文单位范围内。CO可能源自于内嵌的原恒星盘中或致密盘风中，而H2O可能源自于更大的发射区域，可能是盘的更为扩展的部分，或者是流出空腔的内部。对总体消光的更好约束，与真实盘模型的比较，以及未来的动力学分辨观测可能有助于确定真正的排放库。<br><br>总结: <br>观测发现CO和H2O气体的不同激发温度和排放区域，可能源自于盘或盘风不同部分，需要更多观测和实验来确定真正的排放来源。 <div>
+<div> IRAS 15398-3359, protostar, CO, H2O, JWST<br />
+观测低质量原恒星IRAS 15398-3359，发现CO和H2O气体在5μm和6-8μm波段的发射。CO的激发温度为1598±118 K，存在于热库中，而H2O的激发温度为204±7 K，较冷。CO和H2O的排放区域限制在离原恒星约40天文单位范围内。CO可能源自于内嵌的原恒星盘中或致密盘风中，而H2O可能源自于更大的发射区域，可能是盘的更为扩展的部分，或者是流出空腔的内部。对总体消光的更好约束，与真实盘模型的比较，以及未来的动力学分辨观测可能有助于确定真正的排放库。<br /><br />总结: <br />观测发现CO和H2O气体的不同激发温度和排放区域，可能源自于盘或盘风不同部分，需要更多观测和实验来确定真正的排放来源。 <div>
 We present James Webb Space Telescope (JWST) Mid-InfraRed Instrument (MIRI) observations of warm CO and H2O gas in emission toward the low-mass protostar IRAS 15398-3359, observed as part of the CORINOS program. The CO is detected via the rovibrational fundamental band and hot band near 5 μm, whereas the H2O is detected in the rovibrational bending mode at 6–8 μm. Rotational analysis indicates that the CO originates in a hot reservoir with an excitation temperature of 1598 ± 118 K, while the water is much cooler at 204 ± 7 K. Neither the CO nor the H2O line images are significantly spatially extended, constraining the emission to within ∼40 au of the protostar. The compactness and high temperature of the CO are consistent with an origin in the embedded protostellar disk, or in a compact disk wind. In contrast, the water must arise from a cooler region and requires a larger emitting area (compared to the CO) to produce the observed fluxes. The water may arise from a more extended part of the disk, or from the inner portion of the outflow cavity. Thus, the origin of the molecular emission observed with JWST remains ambiguous. Better constraints on the overall extinction, comparison with realistic disk models, and future kinematically resolved observations may all help to pinpoint the true emitting reservoirs.
 ]]></content:encoded>
-
 <pubDate>2024-10-06T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Searching for the Highest-z Dual Active Galactic Nuclei in the Deepest Chandra Surveys</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6986</link>
@@ -11791,15 +11814,6 @@ Dense gas in minihalos with masses of 106−108M⊙ can shield themselves from r
 
 总结: 本文研究了伽马射线爆发中光子的能量到达时间差异，发现多能量波段的光变曲线可以用于限制洛伦兹不变性的破坏程度。通过对90个具有红移信息的Swift GRB进行分析，得出了洛伦兹不变性破坏的上限，相当于量子引力能标的下限为EQG ≥ 2.2 × 1014GeV。这表明在高能天体物理现象中可能存在量子引力效应。 <div>
 The arrival times of photons with different energy could be different, even when they are emitted from the same source simultaneously. Such a spectral lag is a common property among high-energy astrophysics phenomena like gamma-ray bursts (GRBs). The potential violation of the Lorentz invariance caused by quantum fluctuations in background spacetime metrics could cause the spectral lag. In this paper, we try to make a constraint on Lorentz invariance violation (LIV) with multiple energy bands light curves of GRBs. With a sample of 90 Swift GRBs with redshifts, we calculate their spectral offsets from four fixed energy bands within their source frame. With help from the cross-correlation function and kernel smooth procedure, we extract improved spectral shifts. By using these more general spectral lags, we obtain an upper limit on LIV, equivalent to a lower limit on the quantum-gravitational energy scale of EQG ≥ 2.2 × 1014GeV.
-]]></content:encoded>
-<pubDate>2024-06-27T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Low-frequency Absorption and Radio Recombination Line Features of the Galactic Center Lobe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d92</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d92</guid>
-<content:encoded><![CDATA[
-The Galactic center lobe (GCL) is a ∼1° object located north of the Galactic center. In the mid-infrared, the GCL appears as two 8.0 μm filaments that roughly define an ellipse. There is strong 24 μm and radio continuum emission in the interior of the ellipse. Due to its morphology and location in the sky, previous authors have argued that the GCL is created by outflows from star formation in the central molecular zone or by activity of the central black hole Sgr A*. We present images of the GCL from the GaLactic and Extragalactic All-sky Murchison Widefield Array survey in radio continuum that show thermal absorption against the Galactic center, incompatible with an interpretation of synchrotron self-absorption. Estimates of the cosmic-ray emissivity in this direction allow us to place a distance constraint on the GCL. To be consistent with standard emissivity assumptions, the GCL would be located 2 kpc away. At a distance of 8 kpc, the synchrotron background emissivity is enhanced by ∼75% in the direction of the GCL. We also present radio recombination line data from the Green Bank Telescope that constrain the electron temperature and line widths in this region, which are also more explicable if the GCL lies relatively close.
 ]]></content:encoded>
 <pubDate>2024-06-27T23:00:00Z</pubDate>
 </item>
