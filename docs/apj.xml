@@ -4,6 +4,135 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>The Active Optics System on the Vera C. Rubin Observatory: Optimal Control of Degeneracy among the Large Number of Degrees of Freedom</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cdc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cdc</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Vera C. Rubin Observatory, survey astronomy, active optics system, degeneracies, image noise level
+
+总结:<br><br>文章介绍了Vera C. Rubin Observatory的独特性，以及它所采用的活跃光学系统来控制图像质量。研究还介绍了一种结构化方法来识别和解决调整自由度过多和由于噪音导致的退化问题。通过截断奇异值分解的新比例策略，该方法能够最大限度地分配调整度，确保实现最佳图像质量。这种方法不仅适用于Rubin Observatory，还可能对所有具有大量调整自由度的望远镜产生显著的益处。 <div>
+The Vera C. Rubin Observatory is a unique facility for survey astronomy that will soon be commissioned and begin operations. Crucial to many of its scientific goals is the achievement of sustained high image quality, limited only by the seeing at the site. This will be maintained through an active optics system that controls optical element misalignments and corrects mirror figure error to minimize aberrations caused by both thermal and gravitational effects. However, the large number of adjustment degrees of freedom available on the Rubin Observatory introduces a range of degeneracies, including many that are induced by noise due to imperfect measurement of the wave-front errors. We present a structured methodology for identifying these degeneracies through an analysis of image noise level. We also present a novel scaling strategy based on truncated singular value decomposition that mitigates the degeneracy and optimally distributes the adjustment over the available degrees of freedom. Our approach ensures the attainment of optimal image quality, while avoiding excursions around the noise-induced subspace of degeneracies, marking a significant improvement over the previous techniques adopted for Rubin, which were based on an optimal integral controller. This new approach is likely to also yield significant benefits for all telescopes that incorporate large numbers of degrees of freedom of adjustment.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Turbulence Revealed by Wavelet Transform: Power Spectrum and Intermittency for the Velocity Field of the Cosmic Baryonic Fluid</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d63</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d63</guid>
+<content:encoded><![CDATA[
+<div> 能谱、尖峰尺度、涡度、涡旋、星系团
+<br><br>总结:
+本研究利用连续小波变换技术分析了宇宙流体速度场的湍流运动，并通过IllustrisTNG模拟数据构建了全局和环境相关的小波统计特征，如能谱和峰度，研究了湍流运动的波动和间歇性。研究发现能谱的峰值尺度定义了一个特征尺度，可视为湍流的整体尺度，而奈奎斯特波数可视为耗散尺度。有了这两个特征尺度，能谱可分为能量包含范围、惯性范围和耗散范围。小波峰度是波数k的增函数，随着k的增加而迅速变化，然后变化缓慢，表明宇宙流体随着波数k的增加变得更加间歇。在能量包含范围内，能谱在z = 2到1之间显著增加，但在z = 1到0之间几乎保持不变。环境相关的能谱和峰度与全局特征相似，而且在最低密度环境中能谱的幅度最小，在最高密度环境中最大，表明高密度环境中的宇宙流体湍动比低密度环境中更加剧烈。在惯性范围内，能谱的指数比科尔莫哥洛夫和波尔格指数更陡，表明了更有效的能量转移。 <div>
+We use continuous wavelet transform techniques to construct the global and environment-dependent wavelet statistics, such as energy spectrum and kurtosis, to study the fluctuation and intermittency of the turbulent motion in the cosmic fluid velocity field with the IllustrisTNG simulation data. We find that the peak scale of the energy spectrum defines a characteristic scale, which can be regarded as the integral scale of turbulence, and the Nyquist wavenumber can be regarded as the dissipation scale. With these two characteristic scales, the energy spectrum can be divided into the energy-containing range, the inertial range, and the dissipation range of turbulence. The wavelet kurtosis is an increasing function of the wavenumber k, which first grows rapidly then slowly with k, indicating that the cosmic fluid becomes increasingly intermittent with k. In the energy-containing range, the energy spectrum increases significantly from z = 2 to 1, but remains almost unchanged from z = 1 to 0. We find that both the environment-dependent spectrum and kurtosis are similar to the global ones, and the magnitude of the spectrum is smallest in the lowest-density and largest in the highest-density environment, suggesting that the cosmic fluid is more turbulent in a high-density than in a low-density environment. In the inertial range, the energy spectrum’s exponent is steeper than both the Kolmogorov and Burgers exponents, indicating more efficient energy transfer compared to Kolmogorov or Burgers turbulence.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Radiation Hydrodynamic Simulations of Massive Stars in Gas-rich Environments: Accretion of AGN Stars Suppressed by Thermal Feedback</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd4</guid>
+<content:encoded><![CDATA[
+<div> AGN, massive stars, accretion, radiation hydrodynamic simulations, fast-diffusion regime
+总结:<br><br>这篇文章研究了在活动星系核盘中形成或捕获的超大恒星，并通过模拟发现了它们的气体吸积过程。在“快扩散”和“慢扩散”两种不同的情况下，发现了不同的吸积速率和关键半径，并指出了在实际环境中的应用。文章强调了1D长期计算中需要注意的一些问题。 <div>
+Massive stars may form in or be captured into active galactic nuclei (AGN) disks. Recent 1D studies employing stellar-evolution codes have demonstrated the potential for rapid growth of such stars through accretion up to a few hundred solar masses. We perform 3D radiation hydrodynamic simulations of moderately massive stars’ envelopes in order to determine the rate and critical radius Rcrit of their accretion process in an isotropic gas-rich environment in the absence of luminosity-driven mass loss. We find that in the “fast-diffusion” regime where characteristic radiative diffusion speed c/τ is faster than the gas sound speed cs, the accretion rate is suppressed by feedback from gravitational and radiative advection energy flux, in addition to the stellar luminosity. Alternatively, in the “slow-diffusion” regime where c/τ < cs, due to adiabatic accretion, the stellar envelope expands quickly to become hydrostatic and further net accretion occurs on thermal timescales in the absence of self-gravity. When the radiation entropy of the medium is less than that of the star, however, this hydrostatic envelope can become more massive than the star itself. Within this subregime, the self-gravity of the envelope excites runaway growth. Applying our results to realistic environments, moderately massive stars (≲100M⊙) embedded in AGN disks typically accrete in the fast-diffusion regime, leading to a reduction of steady-state accretion rate 1–2 orders of magnitudes lower than expected by previous 1D calculations and Rcrit smaller than the disk scale height, except in the opacity window at temperature T ∼ 2000 K. Accretion in slow diffusion regime occurs in regions with very high density ρ ≳ 10−9 g cm−3, and needs to be treated with caution in 1D long-term calculations.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>On the Origin of High-velocity Clouds in the Galaxy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dde</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dde</guid>
+<content:encoded><![CDATA[
+<div> TNG50, 高速云, 银河系, 冷、密云团, 热不稳定性<br>
+总结:<br>
+这项研究利用TNG50模拟的数据发现，银河系的高速云可能有着多种不同的起源。通过追踪TNG50 Milky Way−like galaxy模拟中冷、密云团的来源，发现只有17%来自盘内，21%来自卫星被剥离的物质，而大多数（62%）高速云是由环银河热气体经由热不稳定性冷却形成的，并通过与旋转的环银河介质相互作用获得其异常的速度。综合来看，这些结果表明银河系的高速云在来源上具有高度的异质性，并能够为形成环银河介质的物理过程提供深入的见解，例如盘上的流出、卫星的吸积和热不稳定性。 <div>
+The origin of our Galaxy’s high-velocity clouds (HVCs) remains a mystery after many decades of effort. In this paper, we use the TNG50 simulation of the IllustrisTNG project to identify cool, dense clouds that match observations of Galactic H i HVCs. We track these clouds back in time to determine their origin. For a TNG50 Milky Way−like galaxy, we find that only 17% of HVCs can be tracked directly to the disk and 21% to material stripped out of satellites. The majority of HVCs (62%) arise from warm and hot circumgalactic gas that cools through thermal instability. They then obtain their anomalous velocities through interactions with the turbulent circumgalactic medium. At TNG50 resolution, we do not see evidence for HVCs forming out of very low metallicity intergalactic material. Instead, low-metallicity HVCs are most likely associated with satellites. These results suggest that Galactic HVCs are highly heterogeneous in their origin and can provide insight into the physical processes that shape the circumgalactic medium, such as disk outflows, satellite accretion, and thermal instabilities.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Comparison of the On-disk Apparent Current Sheets with the Limb Ones</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6df5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6df5</guid>
+<content:encoded><![CDATA[
+<div> SDO, SOHO, apparent current sheet, magnetic reconnection, plasmoid chain
+<br>
+利用太阳动力学观测卫星（SDO）和太阳和日球层观测卫星（SOHO）的观测，研究了1999年至2021年间30个明显的电流片，包括SDO的10个在太阳盘面上和8个在边缘，以及SOHO的12个在边缘。每个在太阳盘面上的电流片是由两组大气结构的X型配置形成的，而每个边缘的电流片都涉及耀斑 - 日冕物质抛射事件。在磁重连期间，太阳盘面上的明显电流片从一个明亮点演变为一个细长的线状结构，在重连的后期结构变得很薄。随后，电流片内的等离子体分布呈现为一串等离子体小结。对于边缘的明显电流片，其长度延伸速度快于太阳盘面上的电流片，并且也检测到了变薄的过程。尽管边缘案例的长宽比与模拟研究中撕裂模式不稳定性的发生值相当，但在这些边缘电流片中并没有明显的等离子体小结，并且密度分布局部均匀。我们认为，由于边缘案例的迅速延伸，撕裂模式的不稳定性非常快，导致形成比仪器分辨率更小的微小等离子体小结。此外，还有另一种可能情况。观测到的边缘明显电流片只是一个明亮的射线，实际的电流片只是射线的一个小片段。
+<br><br>总结: 该研究利用SDO和SOHO观测了30个明显的太阳电流片，发现在太阳盘面上和边缘的电流片形成过程和特征有所不同。在磁重连期间，电流片从明亮点演变为细长的线状结构，随后形成等离子体小结。边缘电流片的长度延伸速度更快，并且没有明显的等离子体小结。这对于太阳物理领域的研究具有重要意义。 <div>
+Based on observations from the Solar Dynamics Observatory (SDO) and the Solar and Heliospheric Observatory (SOHO), we investigate 30 apparent current sheets during 1999–2021, including 10 on-disk and 8 limb ones from the SDO, as well as 12 limb ones from the SOHO. Each on-disk current sheet is formed among an X-type configuration consisting of two sets of atmospheric structures, and each limb one is involved in a flare–coronal mass ejection event. During magnetic reconnection period, the on-disk apparent current sheet evolves from a bright point to an elongated line-like structure, and the structure becomes thin in the late stage of the reconnection. Subsequently, the plasma distribution within the current sheet manifests as a plasmoid chain. For the limb apparent current sheet, the length elongation is faster than that of the on-disk one, and the thinning process is also detected. Although the aspect ratios of the limb cases are comparable to the value for the occurrence of tearing mode instability from simulation research, no obvious plasmoid chain is detected within these limb current sheets, and the density distribution is locally uniform. We suggest that due to the rapid extension of limb cases, the tearing mode instability is very fast, resulting in the formation of tiny plasmoids that are smaller than the instrument resolution. Moreover, there is another possible scenario. The observed limb apparent current sheet is just a bright ray, and the actual current sheet is only a small segment of the ray.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Hints of Planet Formation Signatures in a Large-cavity Disk Studied in the AGE-PRO ALMA Large Program</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e73</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e73</guid>
+<content:encoded><![CDATA[
+<div> ALMA, protoplanetary disks, planet formation, dust continuum, gas signatures
+<br>
+ALMA观测了2MASS J16120668-301027周围的盘，发现了尘埃和气体的迹象，显示出环状结构和尘埃质量估算，同时也检测到了动力学上的扭曲和具有类似盘的旋转结构。这些观测结果暗示了可能存在行星形成的迹象。 <div>
+Detecting planet signatures in protoplanetary disks is fundamental to understanding how and where planets form. In this work, we report dust and gas observational hints of planet formation in the disk around 2MASS J16120668-301027, as part of the Atacama Large Millimeter/submillimeter Array (ALMA) Large Program “AGE-PRO: ALMA survey of Gas Evolution in Protoplanetary disks.” The disk was imaged with the ALMA at Band 6 (1.3 mm) in dust continuum emission and four molecular lines: 12CO(J = 2–1), 13CO(J = 2–1), C18O(J = 2–1), and H2CO(J = 3(3,0)–2(2,0)). Resolved observations of the dust continuum emission (angular resolution of ∼150 mas, 20 au) show a ring-like structure with a peak at 0.″57 (75 au), a deep gap with a minimum at 0.″24 (31 au), an inner disk, a bridge connecting the inner disk and the outer ring, along with a spiral arm structure, and a tentative detection (to 3σ) of a compact emission at the center of the disk gap, with an estimated dust mass of ∼2.7−12.9 Lunar masses. We also detected a kinematic kink (not coincident with any dust substructure) through several 12CO channel maps (angular resolution ∼200 mas, 30 au), located at a radius of ∼0.″875 (115.6 au). After modeling the 12CO velocity rotation around the protostar, we identified a purple tentative rotating-like structure at the kink location with a geometry similar to that of the disk. We discuss potential explanations for the dust and gas substructures observed in the disk and their potential connection to signatures of planet formation.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Comparison of the X-Ray Polarimetric Properties of Stellar and Supermassive Black Holes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad73a3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad73a3</guid>
+<content:encoded><![CDATA[
+<div> 黑洞、X射线偏振、吸积几何、太空探测器、极化特性
+<br><br>这篇文章研究了利用X射线偏振来探测黑洞系统的吸积几何。研究发现，不考虑质量的情况下，各种类型的黑洞在极化特性上都非常相似，特别是在硬态时，即在辐射区主导的情况下。这暂时支持了恒星黑洞和超大质量黑洞共享一个相同的辐射区几何结构的假设。 <div>
+X-ray polarization provides a new way to probe accretion geometry in black hole systems. If the accretion geometry of black holes is similar regardless of mass, we should expect the same to be true of their polarization properties. We compare the polarimetric properties of all nonblazar black holes observed with the Imaging X-ray Polarimetry Explorer. We find that their polarization properties are very similar, particularly in the hard state, where the corona dominates. This tentatively supports the idea that stellar and supermassive black holes share a common coronal geometry.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Partial Disruption of a Planet around a White Dwarf: The Effect of Perturbations from the Remnant Planet on the Accretion</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad73d3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad73d3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 白矮星，行星污染，动力学，三体系统，质量流失<br>
+总结: 
+这篇文章研究了白矮星被重元素污染的问题，主要关注行星的潮汐破碎过程以及因外部引力扰动导致的污染情况。研究考虑了由白矮星、内行星和外行星组成的三体系统，内行星会周期性地部分破碎，并受到外行星的引力扰动影响，导致碎片向白矮星坠落。内行星的质量流失取决于其内部结构和行星系统的轨道配置。文章提出了对这些问题深入研究的观点。<br><br> <div>
+About 25%–50% of white dwarfs (WDs) are found to be polluted by heavy elements. It has been argued that the pollution could be caused by the tidal disruption of an approaching planet around the WD, during which a large number of clumps would be produced and would finally fall onto the WD. The reason that the planet approaches the WD is usually believed to be due to gravitational perturbations from another distant planet or stellar companion. However, the dynamics of the perturbations and the detailed partial disruption process are still poorly understood. In this study, we present an in-depth investigation of these issues. A triple system composed of a WD, an inner orbit planet, and an outer orbit planet is considered. The inner planet would be partially disrupted periodically over its long-term evolution. Fragments generated in the process are affected by gravitational perturbations from the remnant planet, facilitating their fall toward the WD. The mass-loss rate of the inner planet depends on both its internal structure and also on the orbital configuration of the planetary system.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Local Group L-band Survey: The First Measurements of Localized Cold Neutral Medium Properties in the Low-metallicity Dwarf Galaxy NGC 6822</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6604</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6604</guid>
+<content:encoded><![CDATA[
+<div> NGC 6822, low-metallicity, dwarf galaxy, CNM, LGLBS
+总结:
+NGC 6822是局部星系群中一个低金属量的矮星系，通过Local Group L-band Survey（LGLBS）的高空间和光谱分辨率探测到了两个局部的原子氢中性吸收特征，这是在麦哲伦云之外的低金属量矮星系中首次明确探测到冷中性介质（CNM）。研究使用了自定义管线对高角分辨率的H i吸收进行搜索，并提取相关的H i发射。进一步的高斯分解和辐射传输分析显示了五个CNM成分，并揭示了其关键特性：平均自旋温度为32 ± 6 K，平均CNM柱密度为3.1 × 1020 cm−2，以及两个视线的CNM质量分数分别为0.33和0.12。H i吸收与星形成区域相交，而H i吸收轮廓包括了CO（2−1）发射，表明了分子气体的巧合和高分辨率H i发射的抑制。进一步分析了附近的一个视线，发现了深而窄的H i自吸收，在这里，背景的暖中性介质被中间的CNM所吸收。CNM、CO和Hα发射的关联暗示了NGC 6822中较冷、较密的H i相和星形成之间的密切联系。 <div>
+Measuring the properties of the cold neutral medium (CNM) in low-metallicity galaxies provides insights into heating and cooling mechanisms in early Universe-like environments. We report detections of two localized atomic neutral hydrogen (H i) absorption features in NGC 6822, a low-metallicity (0.2 Z⊙) dwarf galaxy in the Local Group. These are the first unambiguous CNM detections in a low-metallicity dwarf galaxy outside the Magellanic Clouds. The Local Group L-band Survey (LGLBS) enabled these detections, due to its high spatial (15 pc for H i emission) and spectral (0.4 km s−1) resolution. We introduce LGLBS and describe a custom pipeline for searching for H i absorption at high angular resolution and extracting associated H i emission. A detailed Gaussian decomposition and radiative transfer analysis of the NGC 6822 detections reveals five CNM components, with key properties: a mean spin temperature of 32 ± 6 K, a mean CNM column density of 3.1 × 1020 cm−2, and CNM mass fractions of 0.33 and 0.12 for the two sightlines. Stacking nondetections does not reveal low-level signals below our median optical depth sensitivity of 0.05. One detection intercepts a star-forming region, with the H i absorption profile encompassing the CO (2−1) emission, indicating coincident molecular gas and a depression in high-resolution H i emission. We also analyze a nearby sightline with deep, narrow H i self-absorption dips, where the background warm neutral medium is attenuated by intervening CNM. The association of CNM, CO, and Hα emissions suggests a close link between the colder, denser H i phase and star formation in NGC 6822.
+]]></content:encoded>
+
+<pubDate>2024-10-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Astrometric Binary Classification via Artificial Neural Networks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7731</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7731</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Gaia mission, astrometric binaries, machine learning, artificial neural network, classification
+
+总结:<br><br>这篇文章提出了利用Gaia任务收集的数据，通过机器学习技术来自动分类恒星是否属于测量二元系统。研究使用了人工神经网络，并利用了高精度的数据进行训练和测试。结果表明，该方法在分类恒星时具有很高的准确性和效率，是一个有前景的替代方法。 <div>
+With nearly two billion stars observed and their corresponding astrometric parameters evaluated in the recent Gaia mission, the number of astrometric binary candidates has risen significantly. Due to the surplus of astrometric data, the current computational methods employed to inspect these astrometric binary candidates are both computationally expensive and cannot be executed in a reasonable time frame. In light of this, a machine learning (ML) technique to automatically classify whether a set of stars belongs to an astrometric binary pair via an artificial neural network (ANN) is proposed. Using data from Gaia Data Release 3, the ANN was trained and tested on 1.5 million highly probable true and visual binaries, considering the proper motions, parallaxes, and angular and physical separations as features. The ANN achieves high classification scores, with an accuracy of 99.3%, a precision rate of 0.988, a recall rate of 0.991, and an area under the curve of 0.999, indicating that the utilized ML technique is a highly effective method for classifying astrometric binaries. Thus, the proposed ANN is a promising alternative to the existing methods for the classification of astrometric binaries.
+]]></content:encoded>
+
+<pubDate>2024-10-06T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>AGN STORM 2. IX. Studying the Dynamics of the Ionized Obscurer in Mrk 817 with High-resolution X-Ray Spectroscopy</title>
