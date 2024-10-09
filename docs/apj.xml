@@ -5,16 +5,66 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Atmospheric Response for MeV γ Rays Observed with Balloon-borne Detectors</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6758</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6758</guid>
+<content:encoded><![CDATA[
+<div> 光子，γ射线，大气响应，散射，能谱畸变
+总结:<br><br>这篇文章讨论了MeV γ射线在大气中的响应特征。观察到两种组分，一种是未经散射达到探测器的光子，另一种是经过一次或多次散射后达到探测器的光子。散射组分对于所测光谱造成了显著的能量相关畸变，尤其是在观测巴龙载荷时需要重点考虑。文章通过模拟大气中γ射线传输的完整响应发现，散射组分在更低能量下变得越来越显著，在0.1 MeV时，可能会使测量通量增加约2-4倍，取决于光子指数和源的离轴角度。这对于扩散源特别重要，而对于用成像望远镜观测的点源，散射效应可能大大降低。 <div>
+The atmospheric response for MeV γ rays (∼0.1–10 MeV) can be characterized in terms of two observed components. The first component is due to photons that reach the detector without scattering. The second component is due to photons that reach the detector after scattering one or more times. While the former can be determined in a straightforward manner, the latter is much more complex to quantify, as it requires tracking the transport of all source photons that are incident on Earth’s atmosphere. The scattered component can cause a significant energy-dependent distortion in the measured spectrum, which is important to account for when making balloon-borne observations. In this work, we simulate the full response for γ-ray transport in the atmosphere. We find that the scattered component becomes increasingly more significant toward lower energies, and at 0.1 MeV, it may increase the measured flux by as much as a factor of ∼2–4, depending on the photon index and off-axis angle of the source. This is particularly important for diffuse sources, whereas the effect from scattering can be significantly reduced for point sources observed with an imaging telescope.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>UNCOVER NIRSpec/PRISM Spectroscopy Unveils Evidence of Early Core Formation in a Massive, Centrally Dusty Quiescent Galaxy at z spec = 3.97</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a18</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a18</guid>
+<content:encoded><![CDATA[
+<div> Hubble Space Telescope, quiescent galaxy, spectroscopic confirmation, low star formation rate, dust attenuation
+<br>总结:
+该研究报告了一项UNCOVER调查中的一项工作，对一颗红移为3.97的巨大宁静星系进行了光谱确认。尽管存在中等尘埃衰减的证据，深度观测在Atacama Large Millimeter/submillimeter Array中发现该星系与低（<10 M⊙ yr−1 ）星形成率（SFR）一致。研究对星系进行了详细的成分分析，发现其内部区域明显偏红，在不同区域的颜色具有强烈的梯度。通过空间分辨率的质量与光度测量，并结合最佳的双组分Sérsic模型，研究人员推断出了该星系的总质量和星际物质比。研究结果表明，这颗星系早期形成了一个密集的、低星形成率的尘埃核心，这对我们对早期结构演化的理解有着重要的启示。另外，全局、整合的尘埃特性与空间梯度的不一致也彰显了在描述星系早期生长过程时，考虑径向变化的恒星种群结构的重要性。 <div>
+We report the spectroscopic confirmation of a massive ( ), Hubble Space Telescope–dark (mF150W − mF444W = 3.6) quiescent galaxy at zspec = 3.97 in the UNCOVER survey. NIRSpec/PRISM spectroscopy and a nondetection in deep Atacama Large Millimeter/submillimeter Array imaging surprisingly reveals that the galaxy is consistent with a low (<10 M⊙ yr−1) star formation rate (SFR) despite evidence for moderate dust attenuation. The F444W image is well modeled with a two-component Sérsic fit that favors a compact, re ∼ 200 pc, n ∼ 2.9 component and a more extended, re ∼ 1.6 kpc, n ∼ 1.7 component. The galaxy exhibits strong color gradients: the inner regions are significantly redder than the outskirts. Spectral energy distribution models that reproduce both the red colors and low SFR in the center of UNCOVER 18407 require both significant (Av ∼ 1.4 mag) dust attenuation and a stellar mass-weighted age of 900 Myr, implying 50% of the stars in the core already formed by z = 7.5. Using spatially resolved annular mass-to-light measurements enabled by the galaxy’s moderate magnification ( ) to reconstruct a radial mass profile from the best-fitting two-component Sérsic model, we infer a total mass-weighted kpc and log . The early formation of a dense, low SFR, and dusty core embedded in a less attenuated stellar envelope suggests an evolutionary link between the earliest-forming massive galaxies and their elliptical descendants. Furthermore, the disparity between the global, integrated dust properties and the spatially resolved gradients highlights the importance of accounting for radially varying stellar populations when characterizing the early growth of galaxy structure.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Multistructured Accretion Flow of Sgr A*. II. Signatures of a Cool Accretion Disk in Hydrodynamic Simulations of Stellar Winds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6866</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6866</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 模拟, Wolf–Rayet 星, 银河中心, X 射线光谱, 超大质量黑洞
+总结: 本研究使用了流体动力学模拟研究了银河系中心的Wolf-Rayet星的恒星风，预测了超大质量黑洞Sgr A*的X射线光谱。结果表明，在Sgr A*周围形成了一个"冷"（104K）的气体盘，这与先前的网格模拟一致。我们通过产生合成光谱来比较冷盘环境的等离子体场景与没有冷盘环境的情况，并发现目前和未来的X射线任务不太可能区分这两种场景中等离子体的动力学特征。我们的模型与Chandra HETGS获得的Sgr A*光谱相匹配。最后，我们发现射电效率低的吸积流模型和流体动力学模拟的模型并没有强烈的偏好。新的X射线任务将提供更清晰的区分，但只有角秒分辨率的未来X射线任务才能在X射线领域显著推进我们对Sgr A*吸积流的理解。 <div>
+Hydrodynamic simulations of the stellar winds from Wolf–Rayet stars within the Galactic center can provide predictions for the X-ray spectrum of the supermassive black hole Sgr A*. Herein, we present results from updated smooth particle hydrodynamics simulations, building on the architecture of Cuadra et al. and Russell et al., and find that a “cold” (104 K) gas disk forms around Sgr A* with a simulation runtime of 3500 yr. This result is consistent with previous grid-based simulations, demonstrating that a cold disk can form regardless of numerical method. We examine the plasma scenarios arising from an environment with and without this cold disk, by generating synthetic spectra for comparison to the quiescent Fe Kα Sgr A* spectrum from Chandra HETGS, taken through the Chandra X-ray Visionary Program. We find that current and future X-ray missions are unlikely to distinguish between the kinematic signatures in the plasma in these two scenarios. Nonetheless, the stellar wind plasma model presents a good fit to the dispersed Chandra spectra within 1.″5 of Sgr A*. We compare our results to the radiatively inefficient accretion flow (RIAF) model fit to the HETGS spectrum presented in Paper I and find that the Bayesian model evidence does not strongly favor either model. With 9″ angular resolution and high spectral resolution of the X-IFU, NewAthena will offer a clearer differentiation between the RIAF plasma model and hydrodynamic simulations, but only a future X-ray mission with arcsecond resolution will significantly advance our understanding of Sgr A*’s accretion flow in X-rays.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Multistructured Accretion Flow of Sgr A*. I. Examination of a Radiatively Inefficient Accretion Flow Model</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c08</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c08</guid>
+<content:encoded><![CDATA[
+<div> 关键词：Sgr A*，超大质量黑洞，辐射低效率的吸积流，Chandra HETG-S谱，RIAF模型
+
+总结:<br><br>本研究使用辐射低效率的吸积流（RIAF）模型对Chandra HETG-S谱进行分析，并考虑了吸积流几何形状和仪器效应。结果显示，谱线特征表明等温和速度结构存在于等离子体内。拟合高分辨率光栅谱表明，存在一个与流出平衡的流入（s∼1），并且温度分布比1/r的引力潜能预期的要平缓。数据要求铁的丰度相对太阳较低（ZFe < 0.32 Z⊙，90％的置信区间），远低于在附近晚型巨星中测量的2 Z⊙金属丰度。未来的任务将提供更高的谱分辨率，但源分离仍将是一个问题。利用Chandra无与伦比的空间分辨率进行详细的银河中心X射线的研究仍然至关重要。 <div>
+The extreme low-luminosity supermassive black hole Sgr A* provides a unique laboratory in which to test models of radiatively inefficient accretion flows (RIAFs). Previous fits to the quiescent Chandra ACIS-S spectrum found that a RIAF model with an equal inflow–outflow balance works well. In this work, we apply the RIAF model to the Chandra HETG-S spectrum obtained through the Chandra X-ray Visionary Program, which displays features suggestive of temperature and velocity structures within the plasma. A comprehensive forward model analysis accounting for the accretion flow geometry and HETG-S instrumental effects is required for a full interpretation of the quiescent Chandra HETG-S spectrum. We present a RIAF model that takes these effects into account. Our fits to the high-resolution grating spectrum indicate an inflow balanced by an outflow (s ∼ 1) alongside a temperature profile that appears shallower than what would be expected from a gravitational potential following 1/r. The data require that the abundance of iron relative to solar is ZFe < 0.32 Z⊙ (90% credible interval), much lower than the 2 Z⊙ metallicity measured in nearby late-type giants. While future missions like NewAthena will provide higher spectral resolution, source separation will continue to be a problem. Leveraging Chandra’s unparalleled spatial resolution, which is not expected to be surpassed for decades, remains essential for detailed investigations of the densely populated Galactic center in X-rays.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Simulation-based Inference of Radio Millisecond Pulsars in Globular Clusters</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b1e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b1e</guid>
 <content:encoded><![CDATA[
 <div> MSPs, globular clusters, luminosity function, likelihood-free analysis, Terzan 5
-<br><br>总结:
+<br /><br />总结:
 本研究探讨了毫秒脉冲星在球状星团中的丰度和其光度函数的参数限制能力。我们引入了一种基于边际神经比估计的新型无似然分析方法，该方法能够一致地产生良好行为的后验概率。我们发现Terzan 5球状星团可能拥有158颗MSPs，但对这一数字的不确定性仍然很大。通过对模拟的Terzan 5样本数据进行分析，我们发现通过添加球状星团的弥散射电辐射的可靠测量或将当前无线电脉冲调查的检测阈值提高至少2倍，可以显著改善后验概率。 <div>
 Millisecond pulsars (MSPs) are abundant in globular clusters (GCs), which offer favorable environments for their creation. While the advent of recent, powerful facilities led to a rapid increase in MSP discoveries in GCs through pulsation searches, detection biases persist. In this work, we investigate the ability of current and future detections in GCs to constrain the parameters of the MSP population in GCs through a careful study of their luminosity function. Parameters of interest are the number of MSPs hosted by a GC, as well as the mean and the width of their luminosity function, which are typically affected by large uncertainties. While, as we show, likelihood-based studies can lead to ill-behaved posteriors on the size of the MSP population, we introduce a novel, likelihood-free analysis, based on marginal neural ratio estimation, which consistently produces well-behaved posteriors. We focus on the GC Terzan 5 (or Ter 5), which currently counts 48 detected MSPs. We find that 158 MSPs should be hosted in this GC, but the uncertainty on this number remains large. We explore the performance of our new method on simulated Terzan 5-like data sets mimicking possible future observational outcomes. We find that significant improvement on the posteriors can be obtained by adding a reliable measurement of the diffuse radio emission of the GC to the analysis or by improving the detection threshold of current radio pulsation surveys by at least a factor of 2.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,7 +77,6 @@ Millisecond pulsars (MSPs) are abundant in globular clusters (GCs), which offer 
 总结: 本研究通过模拟探究了矮星系的CGM在类似银河系环境中对摩擦剥离的敏感程度。研究发现，矮星系的CGM在数百兆年内就有超过95%的质量被摩擦剥离，即使在弱摩擦剥离轨道上，ISM的剥离也是可忽略的。另外，发现加入卫星CGM并不会有效保护其星系，因此ISM的剥离速率不受影响。这些结果表明矮星系的CGM在卫星星系中难以被探测到，并且矮星系的星形成很可能不会得到CGM的补充。 <div>
 The circumgalactic medium (CGM) of star-forming dwarf galaxies plays a key role in regulating the galactic baryonic cycle. We investigate how susceptible the CGM of dwarf satellite galaxies is to ram pressure stripping in Milky Way–like environments. In a suite of hydrodynamical wind tunnel simulations, we model an intermediate-mass dwarf satellite galaxy (M* = 107.2M⊙) with a multiphase interstellar medium (ISM; MISM = 107.9M⊙) and CGM (MCGM,vir = 108.5M⊙) along two first-infall orbits to more than 500 Myr past pericenter of a Milky Way–like host. The spatial resolution is ∼79 pc in the star-forming ISM and 316−632 pc in the CGM. Our simulations show that the dwarf satellite CGM removal is fast and effective: more than 95% of the CGM mass is ram pressure stripped within a few hundred megayears, even under a weak ram pressure orbit where the ISM stripping is negligible. The conditions for CGM survival are consistent with the analytical halo gas stripping predictions in McCarthy et al. We also find that including the satellite CGM does not effectively shield its galaxy, and therefore the ISM stripping rate is unaffected. Our results imply that a dwarf galaxy CGM is unlikely to be detected in satellite galaxies; and that the star formation of gaseous dwarf satellites is likely devoid of replenishment from a CGM.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -37,10 +86,9 @@ The circumgalactic medium (CGM) of star-forming dwarf galaxies plays a key role 
 <content:encoded><![CDATA[
 <div> 关键词: Minkowski functionals, 21 cm brightness temperature, reionization parameters, Hydrogen Epoch of Reionization Array (HERA), Square Kilometre Array (SKA)
 
-MFs作为一种强大的拓扑摘要统计工具，对提取非高斯信息具有重要作用。研究发现，利用EOR阶段的21厘米亮度温度场的MFs，可以限制再电离参数。通过模拟电波干涉阵列实验，如HERA和SKA的观测，考虑包括热噪声、合成波束和前景回避在内的实际效应。研究表明，利用SKA-Low测量的21厘米信号的MFs可以区分不同的再电离模型，而使用类似HERA的阵列进行的MF测量无法准确进行。进一步预测了利用MFs测量可以限制再电离参数的精度，使用基于前向建模的参数推断的标准Markov Chain Monte Carlo分析。发现对于SKA-Low观测，MFs提供了与功率谱（PS）分析相当的再电离参数无偏估计的精度。此外，使用MFs和PS的联合约束可以提高约30%的约束精度，相比仅使用PS。然而，如果采用强前景回避缩小EOR窗口，约束精度可能会降低。我们的分析表明，MFs作为一组摘要统计量，从21厘米EOR场中提取出与双点统计不同的互补信息，因此有很大动力将MFs纳入未来21厘米观测的数据分析中。<br><br>总结: MFs作为拓扑摘要统计工具，在21厘米再电离观测数据分析中具有重要潜力，可以提供与功率谱分析相当的再电离参数无偏估计的精度。同时，MFs与PS的联合约束可以提高约束精度，并在21厘米观测中提取出互补信息。 <div>
+MFs作为一种强大的拓扑摘要统计工具，对提取非高斯信息具有重要作用。研究发现，利用EOR阶段的21厘米亮度温度场的MFs，可以限制再电离参数。通过模拟电波干涉阵列实验，如HERA和SKA的观测，考虑包括热噪声、合成波束和前景回避在内的实际效应。研究表明，利用SKA-Low测量的21厘米信号的MFs可以区分不同的再电离模型，而使用类似HERA的阵列进行的MF测量无法准确进行。进一步预测了利用MFs测量可以限制再电离参数的精度，使用基于前向建模的参数推断的标准Markov Chain Monte Carlo分析。发现对于SKA-Low观测，MFs提供了与功率谱（PS）分析相当的再电离参数无偏估计的精度。此外，使用MFs和PS的联合约束可以提高约30%的约束精度，相比仅使用PS。然而，如果采用强前景回避缩小EOR窗口，约束精度可能会降低。我们的分析表明，MFs作为一组摘要统计量，从21厘米EOR场中提取出与双点统计不同的互补信息，因此有很大动力将MFs纳入未来21厘米观测的数据分析中。<br /><br />总结: MFs作为拓扑摘要统计工具，在21厘米再电离观测数据分析中具有重要潜力，可以提供与功率谱分析相当的再电离参数无偏估计的精度。同时，MFs与PS的联合约束可以提高约束精度，并在21厘米观测中提取出互补信息。 <div>
 The Minkowski functionals (MFs), a set of topological summary statistics, have emerged as a powerful tool for extracting non-Gaussian information. We investigate the prospect of constraining the reionization parameters using the MFs of the 21 cm brightness temperature field from the epoch of reionization (EOR). Realistic effects, including thermal noise, synthesized beam, and foreground avoidance, are applied to the mock observations from radio interferometric array experiments such as the Hydrogen Epoch of Reionization Array (HERA) and the Square Kilometre Array (SKA). We demonstrate that the MFs of the 21 cm signal measured with SKA-Low can be used to distinguish different reionization models, whereas the MF measurement with a HERA-like array cannot be made accurately enough. We further forecast the accuracies with which the MF measurements can place constraints on reionization parameters, using the standard Markov Chain Monte Carlo analysis for parameter inference based on forward modeling. We find that for SKA-Low observation, MFs provide unbiased estimations of the reionization parameters with accuracies comparable to the power spectrum (PS) analysis. Furthermore, joint constraints using both MFs and PS can improve the constraint accuracies by up to 30% compared to those with the PS alone. Nevertheless, the constraint accuracies can be degraded if the EOR window is shrunk with strong foreground avoidance. Our analysis demonstrates the promise of MFs as a set of summary statistics that extract complementary information from the 21 cm EOR field to the two-point statistics, which suggests a strong motivation for incorporating the MFs into the data analysis of future 21 cm observations.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -48,12 +96,11 @@ The Minkowski functionals (MFs), a set of topological summary statistics, have e
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c43</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c43</guid>
 <content:encoded><![CDATA[
-<div> 关键词: interplanetary coronal mass ejection, high-speed stream, minimum variance analysis, Walen test, drag-based model<br>
+<div> 关键词: interplanetary coronal mass ejection, high-speed stream, minimum variance analysis, Walen test, drag-based model<br />
 总结: 
-本研究分析了2016年10月12日在L1拉格朗日点探测到的星际日冕物质喷发与高速流的相互作用。通过观测-建模相结合的方法，估计了相互作用发生/起始的星际空间区域。研究使用了多种分析方法，包括最小方差分析和Walen测试来研究可能出现在星际日冕物质喷发和高速流接触界面的重联耗散。同时，使用了逐步圆柱壳重建CME来估计日冕物质喷发的几何形状和源区位置。最后，使用了两步阻力模型来估计相互作用发生的星际空间区域。研究结果表明，星际实际观测显示出具有对称和未受扰动结构的磁障碍，并展现出典型星际日冕物质喷发的磁通量、螺旋度和膨胀速度特征。而最终的两步阻力模型结果表明，星际日冕物质喷发开始与高速流相互作用的地点接近地球（约0.81天文单位），与实际观测的推断相吻合。 <br> <div>
+本研究分析了2016年10月12日在L1拉格朗日点探测到的星际日冕物质喷发与高速流的相互作用。通过观测-建模相结合的方法，估计了相互作用发生/起始的星际空间区域。研究使用了多种分析方法，包括最小方差分析和Walen测试来研究可能出现在星际日冕物质喷发和高速流接触界面的重联耗散。同时，使用了逐步圆柱壳重建CME来估计日冕物质喷发的几何形状和源区位置。最后，使用了两步阻力模型来估计相互作用发生的星际空间区域。研究结果表明，星际实际观测显示出具有对称和未受扰动结构的磁障碍，并展现出典型星际日冕物质喷发的磁通量、螺旋度和膨胀速度特征。而最终的两步阻力模型结果表明，星际日冕物质喷发开始与高速流相互作用的地点接近地球（约0.81天文单位），与实际观测的推断相吻合。 <br /> <div>
 We analyze the interaction between an interplanetary coronal mass ejection (ICME) detected in situ at the L1 Lagrange point on 2016 October 12 with a trailing high-speed stream (HSS). We aim to estimate the region in the interplanetary (IP) space where the interaction happened/started using a combined observational-modeling approach. We use minimum variance analysis (MVA) and the Walen test to analyze possible reconnection exhaust at the interface of ICME and HSS. We perform a graduated cylindrical shell reconstruction of the CME to estimate the geometry and source location of the CME. Finally, we use a two-step drag-based model (DBM) model to estimate the region in IP space where the interaction took place. The magnetic obstacle observed in situ shows a fairly symmetric and undisturbed structure and shows the magnetic flux, helicity, and expansion profile/speed of a typical ICME. The MVA together with the Walen test, however, confirms reconnection exhaust at the ICME–HSS boundary. Thus, in situ signatures are in favor of a scenario where the interaction is fairly recent. The trailing HSS shows a distinct velocity profile which first reaches a semi-saturated plateau with an average velocity of 500 km s−1 and then saturates at a maximum speed of 710 km s−1. We find that the HSS's interaction with the ICME is influenced only by this initial plateau. The results of the two-step DBM suggest that the ICME has started interacting with the HSS close to Earth (∼0.81 au), which compares well with the deductions from in situ signatures.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,12 +108,11 @@ We analyze the interaction between an interplanetary coronal mass ejection (ICME
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d5b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d5b</guid>
 <content:encoded><![CDATA[
-<div> 关键词: TRAPPIST-1e, 大气模拟, 地球系统模型, 地形, 大气化学<br>
-<br>
-TRAPPIST-1e是潜在可居住的类地系外行星，研究需要考虑地球类行星的动力学和化学过程。研究使用地球系统模型WACCM6/CESM2，模拟了TRAPPIST-1e的N2-O2大气，考虑了陆地和海洋的分布以及地形的影响。结果表明，地形对大气运输和化学过程有显著影响，包括南北半球之间的不对称性、南极和表面致命臭氧积聚等。未来的研究需要更加关注行星的陆地分布和地形对大气动力学的影响，平坦的陆地模拟将无法完整展现其动力学影响。 <br><br>总结: 模拟TRAPPIST-1e的大气需要考虑地球类行星的动力学和化学过程。使用地球系统模型WACCM6/CESM2模拟了N2-O2大气，考虑了陆地和海洋的分布以及地形的影响，结果显示地形对大气运输和化学过程有显著影响，包括了南北半球不对称性、南极和表面致命臭氧积聚等。未来的研究需要更加关注行星的陆地分布和地形对大气动力学的影响。 <div>
+<div> 关键词: TRAPPIST-1e, 大气模拟, 地球系统模型, 地形, 大气化学<br />
+<br />
+TRAPPIST-1e是潜在可居住的类地系外行星，研究需要考虑地球类行星的动力学和化学过程。研究使用地球系统模型WACCM6/CESM2，模拟了TRAPPIST-1e的N2-O2大气，考虑了陆地和海洋的分布以及地形的影响。结果表明，地形对大气运输和化学过程有显著影响，包括南北半球之间的不对称性、南极和表面致命臭氧积聚等。未来的研究需要更加关注行星的陆地分布和地形对大气动力学的影响，平坦的陆地模拟将无法完整展现其动力学影响。 <br /><br />总结: 模拟TRAPPIST-1e的大气需要考虑地球类行星的动力学和化学过程。使用地球系统模型WACCM6/CESM2模拟了N2-O2大气，考虑了陆地和海洋的分布以及地形的影响，结果显示地形对大气运输和化学过程有显著影响，包括了南北半球不对称性、南极和表面致命臭氧积聚等。未来的研究需要更加关注行星的陆地分布和地形对大气动力学的影响。 <div>
 Interpretation of the ongoing efforts to simulate the atmospheres of potentially habitable terrestrial exoplanets requires that we understand the underlying dynamics and chemistry of such objects to a much greater degree than 1D or even simple 3D models enable. Here, for the tidally locked habitable-zone planet TRAPPIST-1e, we explore one effect which can shape the dynamics and chemistry of terrestrial planets: the inclusion of an Earth-like land–ocean distribution with orography. To do this we use the Earth-system model WACCM6/CESM2 to run a pair of TRAPPIST-1e models with N2–O2 atmospheres and with the substellar point fixed over either land or ocean. The presence of orography shapes atmospheric transport, and in the case of Earth-like orography, breaks the symmetry between the Northern and Southern Hemispheres which was previously found in slab ocean models. For example, peak zonal jet speeds in the Southern Hemisphere are 50%–100% faster than similar jets in the Northern Hemisphere. This also affects the meridional circulation, transporting equatorial material toward the south pole. As a result we also find significant changes in the atmospheric chemistry, including the accumulation of potentially lethal quantities of ozone at both the south pole and the surface. Future studies which investigate the effects of landmass distribution on the dynamics of exoplanetary atmospheres should pay close attention to both the dayside land fraction as well as the orography of the land. Simply modeling a flat landmass will not give a complete picture of its dynamical impact.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -76,13 +122,11 @@ Interpretation of the ongoing efforts to simulate the atmospheres of potentially
 <content:encoded><![CDATA[
 <div> 关键词: 星际颜色，XGBoost模型，大气参数，灰尘红化，机器学习
 
-这项研究开发了一个XGBoost模型，用于预测低红移源的星际颜色，并使用大气参数Teff、和[M/H]进行训练和测试。模型的泛化误差分别为0.014 mag、0.050 mag和0.040 mag。研究还发现，GSP-phot参数的偏差对星际颜色预测没有显著影响。该模型在包含5714528个红移星的样本中得到应用，结果与文献数值的比较表明了XGBoost模型的准确性。此外，研究还发现了银河经度与灭绝定律E(GBP − KS)/E(GBP − GRP)的大尺度变化。这项工作初步展示了机器学习方法在星际颜色和尘埃红化计算中的可行性和准确性，其产品可广泛应用于光谱测光数据。数据集和训练模型可通过Zenodo访问。未来的工作将完成更多波段的模型。 <br><br>总结: 该研究使用XGBoost模型预测了低红移源的星际颜色，结果表明模型的泛化误差很小。研究还发现了大尺度上灭绝定律与银河经度的变化关系。这表明了机器学习方法在星际颜色和尘埃红化计算中的可行性和准确性。 <div>
+这项研究开发了一个XGBoost模型，用于预测低红移源的星际颜色，并使用大气参数Teff、和[M/H]进行训练和测试。模型的泛化误差分别为0.014 mag、0.050 mag和0.040 mag。研究还发现，GSP-phot参数的偏差对星际颜色预测没有显著影响。该模型在包含5714528个红移星的样本中得到应用，结果与文献数值的比较表明了XGBoost模型的准确性。此外，研究还发现了银河经度与灭绝定律E(GBP − KS)/E(GBP − GRP)的大尺度变化。这项工作初步展示了机器学习方法在星际颜色和尘埃红化计算中的可行性和准确性，其产品可广泛应用于光谱测光数据。数据集和训练模型可通过Zenodo访问。未来的工作将完成更多波段的模型。 <br /><br />总结: 该研究使用XGBoost模型预测了低红移源的星际颜色，结果表明模型的泛化误差很小。研究还发现了大尺度上灭绝定律与银河经度的变化关系。这表明了机器学习方法在星际颜色和尘埃红化计算中的可行性和准确性。 <div>
 Intrinsic colors (ICs) of stars are essential for studies on both stellar physics and dust reddening. In this work, we developed an XGBoost model to predict ICs with the atmospheric parameters Teff, , and [M/H]. The model was trained and tested for three colors at Gaia and Two Micron All Sky Survey bands with 1,040,446 low-reddening sources. The atmospheric parameters were determined by the Gaia DR3 General Stellar Parameterizer from Photometry (GSP-phot) module and were validated by comparing with the Apache Point Observatory Galactic Evolution Experiment and Large Sky Area Multi-Object fiber Spectroscopic Telescope. We further confirmed that the biases in GSP-phot parameters, especially for [M/H], do not present a significant impact on the IC prediction. The generalization error of the model estimated by the test set is 0.014 mag for , 0.050 mag for , and 0.040 mag for . The model was applied to a sample containing 5,714,528 reddened stars with stellar parameters from R. Andrae et al. to calculate ICs and reddenings. The high consistency in the comparison of E(J − KS) between our results and literature values further validates the accuracy of the XGBoost model. The variation of E(GBP − KS)/E(GBP − GRP), a representation of the extinction law, with Galactic longitude is found on large scales. This work preliminarily presents the feasibility and accuracy of the machine learning approach for IC and dust reddening calculation, whose products could be widely applied to spectrophotometric data. The data sets and trained model can be accessed via Zenodo, doi:10.5281/zenodo.12787594. Models for more bands will be completed in following work.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Origin of the Very High Energy Gamma Rays in the Low-luminosity Active Galactic Nucleus NGC 4278</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e81</link>
@@ -11817,69 +11861,6 @@ White dwarf stars have been used for decades as precise and accurate age indicat
 
 总结:<br /><br />本文利用NASA帕克太阳探测器的数据集，通过Hurst重整化范围R/S分析、去趋势波动分析、居中移动平均分析和自然时间波动的研究方法，研究了太阳能粒子时间序列的长期持续性。通过交叉相关分析，模拟了背景系统噪声，并从原始数据中减去。这四种方法的应用使我们能够区分安静太阳期和活跃太阳期，识别活动的开始并在最大太阳能粒子通量达到之前揭示活动的有趣细节。还首次根据自然时间波动的熵变化估计了未来风暴的最大太阳能粒子通量。 <div>
 We investigate the long-term persistence of solar energetic particle (SEP) time series by means of four different methods: Hurst rescaled range R/S analysis, detrended fluctuation analysis, centered moving average analysis, and the fluctuation of natural time under the time reversal method. For these analyses, we use data sets from the Integrated Science Investigation of the Sun instrument suite on board NASA's Parker Solar Probe. Background systematic noise is modeled using cross-correlation analysis between different SEP energy channels and subtracted from the original data. The use of these four methods for deriving the time-series persistence allows us to (i) differentiate between quiet- and active-Sun periods based on the values of the corresponding self-similarity exponents alone; (ii) identify the onset of an ongoing activity well before it reaches its maximum SEP flux; (iii) reveal an interesting fine structure when activity is observed; and (iv) provide, for the first time, an estimate of the maximum SEP flux of a future storm based on the entropy change of natural time under time reversal.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Azimuthal Size Scales of Solar Wind Periodic Density Structures</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad479e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad479e</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Periodic density structures, solar wind, mesoscale structures, multispacecraft observations, IMF intensity<br />
-总结: <br />
-本研究探讨了太阳风密度结构的周期性变化，发现了两种不同尺度的周期性结构，并通过仿真推断了它们的大小范围。该研究是首个针对磁场强度周期性变化与PDS相关性的统计研究。通过对太阳风密度和磁场强度的观测和分析，为约束模型和深入了解PDS与磁层耦合关系提供了重要信息。 <br /> <div>
-Periodic density structures (PDSs) are quasiperiodic variations of solar wind density ranging from a few minutes to a few hours. PDSs advect with the solar wind and have radial length scales (Lx) of tens to several thousand megameters, thus belonging to the class of “mesoscale structures.” Current interplanetary multispacecraft observations are not at spatial separations capable of directly measuring the 3D size scale of PDSs or other mesoscale structures. Instead, previous investigations estimated characteristic spatial scales in solar wind parameters using cross-correlation and/or coherence analysis applied to multispacecraft observations. For the solar wind density and interplanetary magnetic field (IMF) intensity, the reported size scales perpendicular to the Sun–Earth line (Ly) ranged between ≈30 and ≈200 Earth Radii (RE). Here, we implemented a similar approach for the same parameters, but focused on high-density, slow-solar-wind intervals with PDSs observed by the Wind and ARTEMIS-P1 spacecraft. Additionally, this is the first statistical study of the IMF intensity periodicities in relation to PDSs. We identified intervals in which the two spacecraft observed the same periodicity, obtaining two PDS groups based on their radial length scale: Lx1 ≈ 86RE and Lx2 ≈ 35RE. Then, we classified the events based on the periodic variations’ coherence level. Reproducing the results with simulations of the PDSs’ transit, we inferred the Ly order of magnitudes for the two PDS groups: Ly1 ≈ 340RE and Ly2 ≈ 187RE. Knowing the PDSs’ size scales is fundamental for constraining models aimed at reproducing these structures and is critical for better understanding the PDS–magnetosphere coupling.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Binding Energies of N-bearing Species on Interstellar Water Ice Mantles by Quantum Chemical Calculations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47b6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47b6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: interstellar molecules, nitrogen, binding energy, water ice, computational modeling
-
-在这项研究中，作者计算了21种最常见的星际N-含氮化合物的结合能，并采用密度泛函理论。他们使用了两种结构的水冰模型，分别代表了结晶和非晶态表面。大部分计算得到的结合能与实验值和其他计算值相吻合。最后，作者讨论了新计算的结合能如何帮助估算哪些含氮物质可以在水雪线处冷冻，并因此包含在富含水的冰行星体中。<br /><br />总结: 本研究计算了21种星际N-含氮化合物的结合能，使用了密度泛函理论和两种水冰模型。计算得到的结合能与实验值相符，对于了解这些化合物在星际介质中的化学过程和冰行星体的形成具有重要意义。 <div>
-Of the about 300 gas-phase molecular species so far detected in the interstellar medium (ISM), mostly via observations of their rotational lines, around 40% contain nitrogen (N) atoms. Likewise, of the less than a dozen interstellar molecules, firmly or likely detected in the solid-state water-dominated icy matrix by means of infrared observations, two bear N. A crucial parameter that regulates whether a species is in the gas or adsorbed on the icy phase is their binding energy (BE) toward the icy grain. Therefore, an accurate quantification of the BE is of paramount importance to properly model the ISM chemistry through numerical models. However, very few BEs are available in the literature, either determined experimentally or theoretically. In the present study, we calculate the BEs of 21 among the most abundant interstellar N-bearing species. We adopted two structural water ice models, representing a crystalline and an amorphous surface, using a reliable cost-effective procedure based on the density functional theory. While on the crystalline surface model only one BE per species is obtained due to the high symmetry of the unit cell, on the amorphous model from 5 to 10 BEs are obtained, due to its richer surface morphological variety. Most of our computed BEs agree with available experimental and other computational values. Finally, we discuss how the newly computed BEs can help estimate which N-bearing species can be frozen at the water snow line and, therefore, incorporated in water-rich ice planetesimals.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Studying the Radio Eclipse of Spider Pulsar J1816+4510 with the FAST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4961</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4961</guid>
-<content:encoded><![CDATA[
-<div> 关键词: FAST, PSR J1816+4510, 脉冲星, 日食, 射电观测
-总结:
-该研究利用500米口径球面射电望远镜(FAST)对蜘蛛脉冲星J1816+ 4510进行了射电日食特性的观测。研究发现，随着频率的增加，脉冲星J1816+ 4510的日食出射比入射时间更长，且呈现出更对称的现象。此外，观测还表明，由于伴星的散射作用，脉冲轮廓在日食区域进一步变宽。研究还发现，日食期间的射电脉冲模糊主要受到散射的影响，而不是色散度测量的波动。这些观测结果有助于理论研究蜘蛛脉冲星系统的射电日食机制。 <div>
-We report on the radio eclipse properties of spider pulsar J1816+4510 using the Five-hundred-meter Aperture Spherical radio Telescope (FAST). The high-sensitivity FAST observations will allow us to probe much deeper into the eclipse region of this pulsar at higher frequencies >1 GHz. The duration of the full eclipse, eclipse ingress, and egress at 1100, 1200, 1300, and 1400 MHz are measured, respectively. The variation of eclipse duration with frequency is studied by splitting the FAST observations into four subbands. It is found that the eclipse egress of PSR J1816+4510 takes longer than the ingress and becomes more symmetrical with increasing frequency. The variations of the durations with the frequency for the full eclipse, eclipse ingress, and egress follow a power-law decay pattern with different indices. The pulse profile variations near the eclipse are studied. It is found that the broadening of pulse profiles becomes more prominent with deepening into the eclipse region due to the scattering from the companion star. Moreover, the pulse smearing induced by the scattering and the rapid dispersion measure (DM) fluctuations within a subintegration during the eclipse egress at different frequencies and orbital phases is comparatively studied. It is found that the scattering plays a more important role than the DM fluctuations for the pulse smearing of the eclipse. The observations of this paper will provide important clues for the theoretical studies of the radio eclipse mechanism of the spider pulsar systems.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The 2018 Outburst of MAXI J1820+070 as Seen by Insight-HXMT</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad49a1</guid>
-<content:encoded><![CDATA[
-We present an analysis of the whole 2018 outburst of the black hole X-ray binary MAXI J1820+070 with Insight-HXMT data. We focus our study on the temporal evolution of the parameters of the source. We employ two different models to fit the disk’s thermal spectrum: the Newtonian model diskbb and the relativistic model nkbb. These two models provide different pictures of the source in the soft state. With diskbb, we find that the inner edge of the disk is close to the innermost stable circular orbit of a fast-rotating black hole and the corona changes geometry from the hard to the soft state. With nkbb, we find that the disk is truncated in the soft state and that the coronal geometry does not change significantly during the whole outburst. However, the model with nkbb can predict an untruncated disk around a fast-rotating black hole if we assume that the disk inclination angle is around 30° (instead of ∼60°, which is the inclination angle of the jet and is usually adopted as the disk inclination angle in the literature) and we employ a high-density reflection model. In such a case, we measure a high value of the black hole spin parameter with observations in the soft state, in agreement with the high spin value found from the analysis of the reflection features and in disagreement with the low spin value found by previous continuum-fitting method measurements with the disk inclination angle set to the value of the jet inclination angle.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Frequency-dispersed Ion Acoustic Waves in the Near-Sun Solar Wind: Signatures of Impulsive Ion Beams</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4b12</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4b12</guid>
-<content:encoded><![CDATA[
-This work reports a novel plasma wave observation in the near-Sun solar wind: frequency-dispersed ion acoustic waves. Similar waves have previously been reported in association with interplanetary shocks or planetary bow shocks, but the waves reported here occur throughout the solar wind sunward of ∼60 solar radii, far from any identified shocks. The waves reported here vary their central frequency by factors of 3–10 over tens of milliseconds, with frequencies that move up or down in time. Using a semiautomated identification algorithm, thousands of wave instances are recorded during each near-Sun orbit of the Parker Solar Probe spacecraft. Wave statistical properties are determined and used to estimate their plasma frame frequency and the energies of protons most likely to be resonant with these waves. Proton velocity distribution functions are explored for one wave interval, and proton enhancements that may be consistent with proton beams are observed. A conclusion from this analysis is that properties of the observed frequency-dispersed ion acoustic waves are consistent with driving by cold, impulsively accelerated proton beams near the ambient proton thermal speed. Based on the large number of observed waves and their properties, it is likely that the impulsive proton beam acceleration mechanism generating these waves is active throughout the inner heliosphere. This may have implications for the acceleration of the solar wind.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Does the Correlation between 2MRS Galaxies and the CMB Indicate an Unmodeled CMB Foreground?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d83</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d83</guid>
-<content:encoded><![CDATA[
-We revisit the claimed detection of a new cosmic microwave background (CMB) foreground based on the correlation between low-redshift Two Micron All Sky Survey Redshift Survey (2MRS) galaxies and CMB temperature maps from the Planck and Wilkinson Microwave Anisotropy Probe missions. We reproduce the reported measurements but argue that the original analysis significantly underestimated the uncertainties. We cross-correlate the 2MRS galaxy positions with simulated CMB maps and show that the correlation measured with the real data for late-type spiral galaxies at angular scales θ ≥ 0.°1 and redshift cz < 4500 km s−1 is consistent with zero at the 1.7σ level or less, depending on the exact CMB map and simulation construction. This was the sample that formed the basis for the original detection claim. For smaller angular separations the results are not robust to galaxy type or CMB cleaning method, and we are unable to draw firm conclusions. The original analysis did not propose a specific, falsifiable physical correlation mechanism, and it is impossible to rule out any contribution from an underlying physical effect. However, given our calculations, the lack of signal from expanding the redshift range, and the lack of corroboration from other galaxy surveys, we do not find the evidence for a new CMB foreground signal compelling.
 ]]></content:encoded>
 <pubDate>2024-06-30T23:00:00Z</pubDate>
 </item>
