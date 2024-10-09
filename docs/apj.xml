@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Digging into the Interior of Hot Cores with ALMA (DIHCA). IV. Fragmentation in High-mass Star-forming Clumps</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad630f</link>
@@ -14,7 +15,6 @@
 高质量星体形成通常发生在星团环境中，本文利用ALMA 1.33mm连续观测分析了30个高质量星体形成区域，利用树状图算法发现了573个核心，并发现了约5800天文单位的核心分离度。经过进一步分析，确定了约7000天文单位的特征碎裂尺度，与区域的热约恩长度相当。因此，热约恩碎裂在高质量星体形成区域中起着决定性的作用，而不需要调用湍流约恩碎裂。 <div>
 Fragmentation contributes to the formation and evolution of stars. Observationally, high-mass stars are known to form multiple-star systems, preferentially in cluster environments. Theoretically, Jeans instability has been suggested to determine characteristic fragmentation scales, and thermal or turbulent motion in the parental gas clump mainly contributes to the instability. To search for such a characteristic fragmentation scale, we have analyzed Atacama Large Millimeter/submillimeter Array (ALMA) 1.33 mm continuum observations toward 30 high-mass star-forming clumps taken by the Digging into the Interior of Hot Cores with ALMA survey. We have identified 573 cores using the dendrogram algorithm and measured the separation of cores by using the Minimum Spanning Tree technique. The core separation corrected by projection effects has a distribution peaked around 5800 au. In order to remove biases produced by different distances and sensitivities, we further smooth the images to a common physical scale and perform completeness tests. Our careful analysis finds a characteristic fragmentation scale of ∼7000 au, comparable to the thermal Jeans length of the clumps. We conclude that thermal Jeans fragmentation plays a dominant role in determining the clump fragmentation in high-mass star-forming regions, without the need to invoke turbulent Jeans fragmentation.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,14 +23,12 @@ Fragmentation contributes to the formation and evolution of stars. Observational
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6565</guid>
 <content:encoded><![CDATA[
 <div> 黑洞生长，早期宇宙，低亮度活动星系核，ASPIRE项目，JWST NIRCam Wide Field Slitless Spectroscopy
-<br><br>总结:
+<br /><br />总结:
 本研究利用JWST NIRCam广场无缝光谱仪，在ASPIRE项目的25个领域进行了系统的搜索，发现了16个红移为z≈4-5的广谱Hα发射线源。这些源的宽线部分的全宽半最大宽度为1000到3000km/s，暗示黑洞质量在10^7到10^8M⊙之间，同时暗示存在聚集现象。研究结果为高红移下的微弱AGN群体提供了宝贵的数据库。 <div>
 Low-luminosity active galactic nuclei (AGNs) with low-mass black holes (BHs) in the early universe are fundamental to understanding the BH growth and their coevolution with the host galaxies. Utilizing JWST NIRCam Wide Field Slitless Spectroscopy, we perform a systematic search for broad-line Hα emitters (BHAEs) at z ≈ 4–5 in 25 fields of the A SPectroscopic survey of biased halos In the Reionization Era (ASPIRE) project, covering a total area of 275 arcmin2. We identify 16 BHAEs with FWHM of the broad components spanning from ∼1000 to 3000 km s−1. Assuming that the broad line widths arise as a result of Doppler broadening around BHs, the implied BH masses range from 107 to 108M⊙, with broad Hα-converted bolometric luminosities of 1044.5–1045.5 erg s−1 and Eddington ratios of 0.07–0.47. The spatially extended structure of the F200W stacked image may trace the stellar light from the host galaxies. The Hα luminosity function indicates an increasing AGN fraction toward the higher Hα luminosities. We find possible evidence for clustering of BHAEs: two sources are at the same redshift with a projected separation of 519 kpc; one BHAE appears as a composite system residing in an overdense region with three close companion Hα emitters. Three BHAEs exhibit blueshifted absorption troughs indicative of the presence of high column density gas. We find that the broad-line-selected and photometrically selected BHAE samples exhibit different distributions in the optical continuum slopes, which can be attributed to their different selection methods. The ASPIRE broad-line Hα sample provides a good database for future studies of faint AGN populations at high redshift.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Dust-evacuated Zones near Massive Stars: Consequences of Dust Dynamics on Star-forming Regions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6ddd</link>
@@ -11812,30 +11810,6 @@ We here focus on the behavior of supernovae that technically explode in 1D (sphe
 
 仿真研究了虚拟星系的紫外线吸收和辐射线特征，发现模拟谱与观测谱大部分吻合，但不符合最大质量星系的特征。虚拟星系中星形成期的辐射更强，预测了每个星系的Lyman逃逸分数，得出平均值为0.01，与文献中其他估计值一致。逃逸分数与Lyα逃逸分数密切相关，与观测趋势高度一致。另外，发现具有较大逃逸分数的星系具有更蓝的β斜率、更多的Lyα流量和较弱的低电离吸收线。研究揭示了在虚拟模拟中LyC光子泄漏的机制，发现LyC逃逸在辐射主要来自紧凑的中性气体和尘埃贫乏区域的方向上增强，与观测数据一致。这项研究强调了高分辨率辐射流体动力学模拟在分析UV吸收和发射线特征以及提供有关星系中LyC泄漏的宝贵见解的潜力。<br /><br />总结: 本研究通过对虚拟星系的仿真研究，发现了虚拟谱与观测谱的吻合以及与LyC诊断的观察趋势一致的结果，并揭示了LyC泄漏的机制。这一研究有望为分析星系中的LyC泄漏提供宝贵见解。 <div>
 We compare mock ultraviolet C ii and Si ii absorption and emission line features generated using a ∼109M⊙ virtual galaxy with observations of 131 z ∼ 3 galaxies from the vandels survey. We find that the mock spectra reproduce reasonably well a large majority (83%) of the vandels spectra (χ2 < 2), but do not resemble the most massive objects (⪆1010 M⊙), which exhibit broad absorption features. Interestingly, the best-matching mock spectra originate from periods of intense star formation in the virtual galaxy, where its luminosity is 4 times higher than in periods of relative quiescence. Furthermore, for each galaxy, we predict the Lyman continuum (LyC) escape fractions ( ) using the environment of the virtual galaxy. We derive an average of 0.01 ± 0.02, consistent with other estimates from the literature. The are tightly correlated with the Lyα escape fractions and highly consistent with observed empirical trends. Additionally, galaxies with larger exhibit bluer β slopes, more Lyα flux, and weaker low-ionization absorption lines. Building upon the good agreement between and observationally established LyC diagnostics, we examine the LyC leakage mechanisms in the simulation. We find that LyC photon leakage is enhanced in directions where the observed flux dominantly emerges from compact regions depleted of neutral gas and dust, mirroring the scenario inferred from observational data. In general, this study further highlights the potential of high-resolution radiation hydrodynamics simulations in analyzing UV absorption and emission line features and providing valuable insights into the LyC leakage of star-forming galaxies.
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “Fine Structures of Radio Bursts from Flare Star AD Leo with FAST Observations” (2023, ApJ, 953, 65)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4e32</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4e32</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 科技发展, 创新, 人工智能, 数据隐私, 未来
-
-科技发展快速，人工智能应用广泛。创新是推动科技发展的关键，但也面临着数据隐私保护等问题。未来，人们需平衡科技发展与数据隐私保护之间的关系。
-
-总结:<br /><br />
-科技发展迅速，人工智能已深入到各个领域。创新推动科技不断进步，但同时也需要关注数据隐私保护等问题。未来社会需要在科技发展和隐私保护之间取得平衡。 <div>
-]]></content:encoded>
-<pubDate>2024-06-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “First Detection of the Molecular Cloud Population in the Extended Ultraviolet Disk of M83” (2022, ApJ, 941, 3)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad50d6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad50d6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 五行同一行内输出中文200字总结<br />
-总结: 本文讲述了如何用中文总结一篇文章，首先提取出5个关键词，然后在同一行内输出这些关键词。接着，作者要求用中文在200字内写一个包含所有要点的总结，并按顺序分要点输出。最后，要求用HTML的换行符'<br />'输出总结。 <div>
 ]]></content:encoded>
 <pubDate>2024-06-30T23:00:00Z</pubDate>
 </item>
