@@ -4,6 +4,139 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Forecasting Solar Energetic Particle Events During Solar Cycles 23 and 24 Using Interpretable Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f0e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f0e</guid>
+<content:encoded><![CDATA[
+<div> Solar energetic particle (SEP), prediction, machine learning, support vector machines, accuracy<br>
+<br>总结:<br>本文使用了机器学习方法来评估新数据对太阳耀斑后SEP事件的预测潜力。研究发现尽管数据量增加，预测精度仍未超过之前的基准，但模拟实际操作环境的线性支持向量机模型显示对SEP事件的预测精度略有提高。这表明需要更复杂、物理知识驱动的模型以更好地理解导致SEP事件的基本过程。 <div>
+The prediction of solar energetic particle (SEP) events garners increasing interest as space missions extend beyond Earth’s protective magnetosphere. These events, which are, in most cases, products of magnetic-reconnection-driven processes during solar flares or fast coronal-mass-ejection-driven shock waves, pose significant radiation hazards to aviation, space-based electronics, and particularly space exploration. In this work, we utilize the recently developed data set that combines the Solar Dynamics Observatory/Space-weather Helioseismic and Magnetic Imager Active Region Patches and the Solar and Heliospheric Observatory/Space-weather Michelson Doppler Imager Active Region Patches. We employ a suite of machine learning strategies, including support vector machines (SVMs) and regression models, to evaluate the predictive potential of this new data product for a forecast of post-solar flare SEP events. Our study indicates that despite the augmented volume of data, the prediction accuracy reaches 0.7 ± 0.1 (experimental setting), which aligns with but does not exceed these published benchmarks. A linear SVM model with training and testing configurations that mimic an operational setting (positive–negative imbalance) reveals a slight increase (+0.04 ± 0.05) in the accuracy of a 14 hr SEP forecast compared to previous studies. This outcome emphasizes the imperative for more sophisticated, physics-informed models to better understand the underlying processes leading to SEP events.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Photometric Study of EX Dra: A Dwarf Nova Exhibiting a Titled and Precessional Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f97</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f97</guid>
+<content:encoded><![CDATA[
+<div> 超轨道信号, 临近光度分析, 断断续续的超表面信号, 周期振荡, 出现幅度的变化
+<br>
+总结:<br>
+这篇文章报道了对EX Dra的光度研究发现。数据显示了20次完整的爆发，表现出几个有趣且罕见的特征。光度曲线展现出一个明显的超轨道信号，周期约为4.39天，以及一个负的超脉冲，周期约为4.805小时，表明了凝聚盘的倾斜和进动。此外，超轨道周期的时变特性表明了进动周期的波动。在平静期的掩星光度极小值O-C分析显示了一个周期为3.9天的振荡，略短于超轨道周期。我们认为这不太可能是轨道周期的突然改变，而更可能受到了凝聚盘的倾斜和进动的影响。值得注意的是，我们发现了从每隔26天出现一次幅度为3.5等的爆发行为，转变为幅度大约为2.5等、周期大约为12天的行为，这种行为持续了14年才恢复。此外，在非遮蔽相位的平台上提取出了在37至40分钟之间的准周期振荡。 <div>
+We present a photometric study of EX Dra, a dwarf nova that has been extensively observed by the Transiting Exoplanet Survey Satellite. The data reveal the occurrence of 20 complete outbursts, exhibiting several intriguing and rare characteristics. The light curves exhibit a distinct superorbital signal with a period of approximately Psor ∼ 4.39(7) days, along with a negative superhump showing an approximate period of Pnsh ∼ 4.805(1) hr, indicating that the accretion disk is tilted and undergoing precession with the period of Psor. In addition, the time-varying nature of Psor suggests that the precession period is fluctuating.The eclipsing light minima O – C analysis during quiescence shows an oscillation with period of 3.9(5) days, which is a little shorter than the superorbital period. We contend that this is unlikely to be a sudden alteration of the orbital period, but rather, it is influenced by the tilt and precession of the accretion disk. Notably, we found an amplitude shift in the outburst behavior from 3.5 mag with a periodicity of about 26 days to an amplitude of around 2.5 mag with a periodicity of about 12 days, which persisted for 14 yr before reverting. Furthermore, we have extracted quasiperiodic oscillations in the plateau at the noneclipsed phases, characterized by periods ranging between 37 and 40 minutes.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of the Interstellar Sugar Precursor, (Z)-1,2-Ethenediol, through Radical Reactions on Dust Grains</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f9a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f9a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 有机分子, 源自外星, 模拟合成, 吸附模式, 立体选择性<br>
+<br>
+本研究模拟了乙烯醇在非晶固态水表面上经过羟基加成和氢原子抽取反应两步合成(Z)-1,2-乙二醇的过程。我们考虑了1,1-和1,2-羟基加成到乙烯醇上的所有可能反应，然后是由产生的自由基进行的氢原子的抽取或加成反应。这些反应的结合能够解释(Z)-1,2-乙二醇的形成，前提是羟基的超热扩散。我们还得出结论，所提出的形成路径并不具有选择性，也会产生其他抽取和加成产物。我们的发现的关键之一是反应物和中间体的吸附模式与反应的立体选择性之间的联系。<br><br>总结: 本研究通过模拟在非晶固态水表面上的乙烯醇的合成过程，阐明了(Z)-1,2-乙二醇的形成路径，但也指出该路径不具有选择性，同时得出了吸附模式与反应的立体选择性之间的重要联系。 <div>
+In recent years, the continued detection of complex organic molecules of prebiotic interest has refueled the interest in a panspermic origin of life. The prebiotic molecule glyceraldehyde is proposed to be formed from (Z)-1,2-ethenediol, a molecule recently detected toward the G+0.693-0.027 molecular cloud at the galactic center. In this work, we computationally simulate the formation of (Z)-1,2-ethenediol from vinyl alcohol on the surface of amorphous solid water in a two-step synthesis involving an OH addition and an H abstraction reaction. In total, we considered all reaction possibilities of the 1,1- and 1,2-OH addition to vinyl alcohol followed by H abstraction or H addition reactions on the resulting radicals. The combination of these reactions is capable of explaining the formation of (Z)-1,2-ethenediol provided a suprathermal diffusion of OH. We also conclude that our proposed formation pathway is not selective and also yields other abstraction and addition products. Key in our findings is the connection between the adsorption modes of the reactants and intermediates and the stereoselectivity of the reactions.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>An Estimate of the Impact of Reionization on Supermassive Black Hole Growth</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad701c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad701c</guid>
+<content:encoded><![CDATA[
+<div> SMBHs, active galactic nuclei, reionization, BH growth, JWST
+<br><br>
+在本研究中，研究人员构建了一个半解析模型，估算了再电离对超大质量黑洞生长的影响。他们发现，在质量为1012、1011、1010 M⊙的暗物质暗云内，早期的再电离可以使超大质量黑洞的质量在z = 6时减少50%至90%。此外，他们的研究还表明，再电离的影响程度取决于Eddington accretion rate是否可以超过，如果可以，那么超大质量黑洞的质量主要在早期再电离阶段(z≳10)被抑制，否则则在整个红移范围内受抑制。最后，研究发现，全球平均再电离可能会使1011 M⊙以下的暗物质暗云内的超大质量黑洞质量减少至少两倍。未来JWST发现的超大质量黑洞普查结果可能可以验证更质量的超大质量黑洞更可能存在于后期再电离的宇宙体积中的基本预测。
+<br><br>总结: <div>
+The supermassive black holes (SMBHs) that power active galactic nuclei found at z ≥ 6 were formed during the Epoch of Reionization. Because reionization is an inhomogeneous process, the physical properties of SMBH host-galaxy environments will vary spatially during reionization. We construct a semi-analytic model to estimate the impact of reionization on SMBH growth. Using a series of merger trees, reionization models, and black hole (BH) growth models, we find that early reionization can reduce a SMBH’s mass by up to [50, 70, 90]% within dark matter halos of mass [1012, 1011, 1010] M⊙ by z = 6. Our findings also suggest that the redshift range in which BH growth is impacted by reionization strongly depends on whether the Eddington accretion rate can be exceeded. If so, we find that BH masses are significantly suppressed principally during the early phases of reionization (z ≳ 10), while they are more readily suppressed across the full redshift range if super-Eddington growth is not allowed. We find that the global average impact of reionization may be to reduce the masses of BHs residing in ≲1011M⊙ halos by a factor of ≳2. The census of SMBHs being uncovered by the JWST may offer a means to test the basic prediction that more massive BHs reside in cosmological volumes that are reionized at later times.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Blowing Star Formation Away in Active Galactic Nuclei Hosts. I. Observation of Warm Molecular Outflows with JWST MIRI</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad702a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad702a</guid>
+<content:encoded><![CDATA[
+<div> AGN, UGC 8782, James Webb Space Telescope, outflows, warm molecular gas
+<br><br>总结:
+研究利用詹姆斯·韦伯空间望远镜中红外仪器的中分辨率光谱仪观测了UGC 8782的射电活跃星系核宿主，以绘制温暖的分子和电离气体动力学。数据显示在内部2千秒差距内存在空间分辨的流出现象，低电离（由[Ar ii] 6.99 μm发射跟踪）和温暖的分子气体（由H2旋转跃迁跟踪）均可见。我们发现温暖流（198K ≤ T ≤ 1000K）在距离核心约900pc处的最大流出率为4.90 ± 2.04 M⊙ yr−1，并估计更热的气体相（T > 1000 K）的流出率高达1.22 ± 0.51 M⊙ yr−1。这些流出可以在约1百万年内清除整个核心温暖分子气体。所得分子流出动能导致与AGN光度的耦合效率为2%–5%，远高于AGN反馈在扼制恒星形成中至少预期的最低值。 <div>
+We use the James Webb Space Telescope Mid-Infrared Instrument medium-resolution spectrometer observations of the radio-loud active galactic nucleus (AGN) host UGC 8782 to map the warm molecular and ionized gas kinematics. The data reveal spatially resolved outflows in the inner 2 kpc, seen in low ionization (traced by the [Ar ii] 6.99 μm emission) and in warm molecular gas (traced by the H2 rotational transitions). We find a maximum mass-outflow rate of 4.90 ± 2.04 M⊙ yr−1 at ∼900 pc from the nucleus for the warm outflow (198 K ≤ T ≤ 1000 K) and estimate an outflow rate of up to 1.22 ± 0.51 M⊙ yr−1 for the hotter gas phase (T > 1000 K). These outflows can clear the entire nuclear reservoir of warm molecular gas in about 1 Myr. The derived kinetic power of the molecular outflows leads to coupling efficiencies of 2%–5% of the AGN luminosity, way above the minimum expected for the AGN feedback to be effective in quenching the star formation.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Percolation Statistics in the MillenniumTNG Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7138</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7138</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 宇宙大尺度结构, 统计分析, 模拟, 星系, 四维宇宙体系
+
+总结:<br><br>这篇文章讨论了基于宇宙大尺度结构的统计分析，使用了两点摘要统计方法，如功率谱或两点相关函数。研究者重新审视了宇宙网格的几何度量，使用了最新的MillenniumTNG ΛCDM模拟套件。他们发现，暗物质分布的网格统计随着红移和聚集强度呈现明显变化，而对数值分辨率也存在显著影响。研究者还分析了星系模拟目录的网格统计，结果显示与采样密度相关性比星系选择标准更强。然而，研究结果表明，在控制采样密度时，网格统计仍然可作为互补宇宙学测试的有用工具。 <div>
+The statistical analysis of cosmic large-scale structure is most often based on simple two-point summary statistics, like the power spectrum or the two-point correlation function of a sample of galaxies or other types of tracers. In contrast, topological measures of clustering are also sensitive to higher-order correlations and thus offer the prospect to access additional information that may harbor important constraining power. We here revisit one such geometric measure of the cosmic web in the form of the so-called percolation analysis, using the recent MillenniumTNG simulation suite of the ΛCDM paradigm. We analyze continuum percolation statistics both for high-resolution dark matter particle distributions and for galaxy mock catalogs from a semianalytic galaxy formation model within a periodic simulation volume of 3000 Mpc on a side. For comparison, we also investigate the percolation statistics of random particle sets and neutrino distributions with two different summed particle masses. We find that the percolation statistics of the dark matter distribution evolves strongly with redshift and thus clustering strength, yielding a progressively lower percolation threshold toward later times. However, there is a sizable residual dependence on numerical resolution, which we interpret as a residual influence of different levels of shot noise. This is corroborated by our analysis of galaxy mock catalogs, whose results depend on sampling density more strongly than on galaxy selection criteria. While this limits the discriminative power of percolation statistics, our results suggest that it still remains useful as a complementary cosmological test when controlled for sampling density.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Correct Criterion of Crustal Failure Driven by Intense Magnetic Stress in Neutron Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7382</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7382</guid>
+<content:encoded><![CDATA[
+<div> 磁星，磁场，爆发，应力张量，地壳断裂
+<br>总结:
+磁星爆发受到强烈磁场的驱动。最近，这一现象引起了人们的广泛关注，因为据报道与一些快速射电暴有关。了解磁星爆发可能揭示了神秘的瞬变事件的关键。地壳由于磁场演化而产生的弹性变形会在长时间尺度上累积。最终，地壳会在特定阈值之上断裂或产生塑性变形。确定临界限制是需要获得对磁应力响应中的剪应变张量的理解。在一些研究中，这个张量被一个从磁应力代数确定的近似表达式所取代。这项研究通过将其与适当计算得出的应变张量进行比较来评估该近似的有效性。通过求解由磁场驱动的弹性变形的微分方程，结果表明该近似并未准确表示应变张量的数值和空间分布。以往基于虚假标准的演化计算可能会高估应变张量的大小，并且地壳断裂会在较短时间尺度上发生。因此，有必要通过使用正确的方法重新审视演化计算。这项研究对于发展磁星地壳断裂和磁场演化的动力学非常重要。 <div>
+Magnetar outbursts are powered by an intense magnetic field. The phenomenon has recently drawn significant attention because of a connection to some fast radio bursts that has been reported. Understanding magnetar outbursts may provide the key to mysterious transient events. The elastic deformation of the solid crust due to magnetic field evolution accumulates over a secular timescale. Eventually, the crust fractures or responds plastically beyond a particular threshold. Determination of the critical limit is required to obtain the shear strain tensor in response to magnetic stress. In some studies, the tensor was substituted with an approximate expression determined algebraically from the magnetic stress. This study evaluated the validity of the approximation by comparing it with the strain tensor obtained through appropriate calculations. The differential equations for the elastic deformation driven by the magnetic field were solved. The results indicated that the approximation did not represent the correct strain tensor value, in both magnitude and spatial profile. Previous evolutionary calculations based on spurious criteria are likely to overestimate the magnitude of the strain tensor, and crustal failure occurs on a shorter timescale. Therefore, revisiting evolutionary calculations using the correct approach is necessary. This study is essential for developing the dynamics of crustal fractures and the magnetic field evolution in a magnetar.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Giant Eruptions in Massive Stars and their Effect on the Stellar Structure</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7398</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7398</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Giant Eruptions, Luminous Blue Variables, Stellar Evolution Code, Mass Loss, Gravitational Energy<br>
+总结:<br>
+这篇文章使用模拟软件对70太阳质量的恒星进行了研究，发现在恒星的进化过程中会发生巨大的喷发现象，导致质量流失并释放大量的引力能量。在模拟中，恒星在经历了短暂的扩张后开始持续收缩，最终恢复到喷发之前的状态。作者认为这种恢复后可能会再次发生巨大喷发或者一系列的喷发现象。这项研究有助于理解恒星的演化过程和巨大喷发现象对恒星的影响。 <div>
+Giant eruptions (GEs) in luminous blue variables are years-to-decades-long episodes of enhanced mass loss from the outer layers of the star during which the star undergoes major changes in its physical and observed properties. We use the Modules for Experiments in Stellar Astrophysics stellar evolution code to model the evolution of a 70 M⊙ star that undergoes a GE. We let the star evolve to the termination of the main sequence, and when it reaches T ≃ 19,400 K we emulate a GE by removing mass from its outer layers at a rate of 0.15 M⊙ yr−1 for 20 yr. As mass is being lost, the star contracts and releases a substantial amount of gravitational energy. The star undergoes an initial ≃3 days of expansion followed by years of contraction. During that time the star tries to reach an equilibrium state, and as a result of loss in gravitational energy, its luminosity drops about 1 order of magnitude. As the GE terminates, we let the star continue to evolve without any further mass loss and track its recovery as it regains its equilibrium by adjusting its internal structure. After ≃87 yr it reaches a state very close to the one where the GE was first initiated. We suggest that at this point another GE or a cycle of GEs may occur.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>High-resolution Imaging Spectroscopy of a Tiny Sigmoidal Minifilament Eruption</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74f3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74f3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Minifilament, 色球, 爆发, 磁场, 谱学诊断
+
+总结: 
+这篇文章使用来自Big Bear太阳观测台的高时间和空间分辨率的光谱学数据和高分辨率磁图，研究了2021年8月7日17:00 UT观察到的一个大小约为2″ × 5″的安静太阳小丝及其微耀斑。通过Hα和Ca ii 8542 Å线谱，确定了小丝激活时的温度和非热速度，并观察到了随着爆发，小丝温度的变化以及其热能和动能的估计值。同时，从NIRIS磁图中发现了与小丝爆发同时发生的小尺度磁通量的出现和抵消，以及磁能的改变。这些色球小丝的光谱诊断数据对以前基于日冕图像的小丝爆发研究进行了补充。<br><br> <div>
+Minifilament eruptions producing small jets and microflares have mostly been studied based on coronal observations at extreme-ultraviolet and X-ray wavelengths. This study presents chromospheric plasma diagnostics of a quiet-Sun minifilament of size ∼ 2″ × 5″ with a sigmoidal shape and an associated microflare observed on 2021 August 7 17:00 UT using high temporal and spatial resolution spectroscopy from the Fast Imaging Solar Spectrograph (FISS) and high-resolution magnetograms from the Near InfraRed Imaging Spectropolarimeter (NIRIS) installed on the 1.6 m Goode Solar Telescope at Big Bear Solar Observatory. Using FISS Hα and Ca ii 8542 Å line spectra at the time of the minifilament activation we determined a temperature of 8600 K and a nonthermal speed of 7.9 km s−1. During the eruption, the minifilament was no longer visible in the Ca ii 8542 Å line, and only the Hα line spectra were used to find the temperature of the minifilament, which reached 1.2 × 104 K and decreased afterward. We estimated thermal energy of 3.6 × 1024 erg from the maximum temperature and kinetic energy of 2.6 × 1024 erg from the rising speed (18 km s−1) of the minifilament. From the NIRIS magnetograms we found small-scale flux emergence and cancellation coincident with the minifilament eruption, and the magnetic energy change across the conjugate footpoints reaches 7.2 × 1025 erg. Such spectroscopic diagnostics of the chromospheric minifilament complement earlier studies of minifilament eruptions made using coronal images.
+]]></content:encoded>
+
+<pubDate>2024-10-08T23:00:00Z</pubDate>
+</item>
+<item>
+<title>B-fields and Dust in Interstellar Filaments Using Dust Polarization (BALLAD-POL). II. Testing the Radiative Torque Paradigm in Musca and OMC-1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a5e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a5e</guid>
+<content:encoded><![CDATA[
+<div> Planck, Stratosphere Observatory for Infrared Astronomy, RAT paradigm, polarization, dust properties
+<br>
+本研究利用Planck和Stratosphere Observatory for Infrared Astronomy对Musca和OMC-1两个区域的尘埃偏振进行观测，验证了辐射力矩范式（RAT）中的辐射力矩对齐（RAT-A）和破坏（RAT-D）效应。在Musca区域，观测结果表明偏振度P随着极化角分散函数的增加和柱密度N(H2)的增加而减小，与RAT-A效应一致。而在OMC-1区域，考虑到B场纠缠和RAT-D效应后，我们的数值模型成功地再现了观测结果。这些结果为RAT范式提供了更加可靠的观测证据，特别是最近发现的RAT-D效应。
+<br><br>总结: Planck和Stratosphere Observatory for Infrared Astronomy观测了Musca和OMC-1的尘埃偏振；观测验证了辐射力矩对齐（RAT-A）和破坏（RAT-D）效应；Musca区域表明了RAT-A效应；OMC-1区域考虑到B场纠缠和RAT-D效应后，数值模型再现了观测结果；结果为RAT范式提供了更加可靠的观测证据。 <div>
+Polarization of starlight and thermal dust emission caused by aligned dust grains is a valuable tool to characterize magnetic fields (B-fields) and constrain dust properties. However, the grain alignment physics is not fully understood. To test the radiative torque (RAT) paradigm, including RAT alignment (RAT-A) and disruption (RAT-D), we use dust polarization observed by Planck and Stratosphere Observatory for Infrared Astronomy/High-resolution Airborne Wideband Camera Plus toward two filaments, Musca and OMC-1, with contrasting physical conditions. Musca, a quiescent filament, is ideal for testing RAT-A, while OMC-1, an active star-forming region OMC-1, is most suitable for testing RAT-D. We found that polarization fraction, P, decreases with increasing polarization angle dispersion function, , and increasing column density, N(H2), consistent with RAT-A. However, P increases with increasing dust temperature, Td, but decreases when Td reaches a certain high value. We compute the polarization fraction for the ideal models with B-fields in the plane of sky based on the RAT paradigm, accounting for the depolarization effect by B-field tangling. We then compare the realistic polarization model with observations. For Musca with well-ordered B-fields, our numerical model successfully reproduces the decline of P toward the filament spine (aka polarization hole), having higher N(H2) and lower Td, indicating the loss of grain alignment efficiency due to RAT-A. For OMC-1, with stronger B-field variations and higher temperatures, our model can reproduce the observed P–Td and P−N(H2) relations only if the B-field tangling and RAT-D effect are incorporated. Our results provide more robust observational evidence for the RAT paradigm, particularly the recently discovered RAT-D.
+]]></content:encoded>
+
+<pubDate>2024-10-07T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>GRB Progenitor Classification from Gamma-Ray Burst Prompt and Afterglow Observations</title>
