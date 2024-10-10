@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Origins of Narrow Spectra of Fast Radio Bursts</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cda</link>
@@ -13,11 +14,10 @@
 
 FRB的一些观测显示，它们的频谱非常窄，即Δν/ν0 ≪ 1。当射电暴的发射区域的角尺寸大于多普勒束缚角时，由于高纬度效应，观测到的谱宽(Δν/ν0)超过0.58，即使在源点的共动框架中谱线很窄。对于FRB的磁层模型，源的角尺寸可以小于多普勒束缚角，这种几何效应不会影响观测到的带宽。我们讨论了各种传播效应，以确定是否有任何可能将宽频谱射电脉冲转换为观测者位置的窄频谱信号。我们发现等离子体透镜和涟漪效应可能导致观测频谱的窄带宽。然而，在观测到的大量FRB样本中，具有Δν/ν0 < 0.58的窄谱观测谱的现象产生的可能性非常小。
 
-<br><br>总结：
+<br /><br />总结：
 本研究发现，一些快速射电暴具有极窄的频谱，即Δν/ν0 ≪ 1。在射电暴的发射区域的角尺寸大于多普勒束缚角时，由于高纬度效应，观测到的谱宽(Δν/ν0)超过0.58。磁层模型下，源的角尺寸可以小于多普勒束缚角。等离子体透镜和涟漪效应可能导致观测频谱的窄带宽。然而，在大量FRB样本中，出现具有Δν/ν0 < 0.58的窄谱观测谱的可能性非常小。 <div>
 Observations find that some fast radio bursts (FRBs) have extremely narrowband spectra, i.e., Δν/ν0 ≪ 1. We show that, when the angular size of the emission region is larger than the Doppler beaming angle, the observed spectral width (Δν/ν0) exceeds 0.58 due to the high-latitude effects for a source outside the magnetosphere, even when the spectrum in the source’s comoving frame is monochromatic. The angular size of the source for magnetospheric models of FRBs can be smaller than the Doppler beaming angle, in which case this geometric effect does not influence the observed bandwidth. We discuss various propagation effects to determine if any could transform a broad-spectrum radio pulse into a narrow spectrum signal at the observer’s location. We find that plasma lensing and scintillation can result in a narrow bandwidth in the observed spectrum. However, the likelihood of these phenomena being responsible for the narrow observed spectra with Δν/ν0 < 0.58 in the fairly large observed sample of FRBs is exceedingly small.
 ]]></content:encoded>
-
 <pubDate>2024-10-09T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,10 +27,9 @@ Observations find that some fast radio bursts (FRBs) have extremely narrowband s
 <content:encoded><![CDATA[
 <div> 关键词: gamma-ray burst, MCRaT, X-ray spectropolarimetric, hydrodynamic simulations, prompt emission
 
-GRB的射电传输计算对于理解射流、紧凑天体和宇宙学具有重要意义，但其即时发射的不完全了解限制了其作为这些现象探测的应用。存在许多模型可解释伽玛射线和X射线能量范围内对GRB的各种观测，但这些模型缺乏对将来电磁谱观测的预测能力。本研究利用MCRaT辐射传输代码计算了两个长GRB的独特流体动力学模拟对应的X射线光谱偏振特征。我们进行了X射线和伽玛射线的时分辨和时间综合对比，揭示了X射线即时发射特征所能提供的信息。研究结果显示，从X射线光曲线导出的T90是最好的诊断中心引擎活动时间的方法。我们还发现我们的模拟复现了Einstein探测器探测到的GRB 240315C的特征。基于我们的模拟，我们还能对未来的X射线光谱测量进行预测。我们的结果表明进行GRB射流全局辐射传输计算对于更好地理解即时发射观测，并约束产生即时发射的机制至关重要。<br><br>总结: GRB的即时发射具有重要意义，在不完全了解的情况下通过X射线光谱偏振特征进行计算和预测，可以更好地理解其特征和限制即时发射的机制。 <div>
+GRB的射电传输计算对于理解射流、紧凑天体和宇宙学具有重要意义，但其即时发射的不完全了解限制了其作为这些现象探测的应用。存在许多模型可解释伽玛射线和X射线能量范围内对GRB的各种观测，但这些模型缺乏对将来电磁谱观测的预测能力。本研究利用MCRaT辐射传输代码计算了两个长GRB的独特流体动力学模拟对应的X射线光谱偏振特征。我们进行了X射线和伽玛射线的时分辨和时间综合对比，揭示了X射线即时发射特征所能提供的信息。研究结果显示，从X射线光曲线导出的T90是最好的诊断中心引擎活动时间的方法。我们还发现我们的模拟复现了Einstein探测器探测到的GRB 240315C的特征。基于我们的模拟，我们还能对未来的X射线光谱测量进行预测。我们的结果表明进行GRB射流全局辐射传输计算对于更好地理解即时发射观测，并约束产生即时发射的机制至关重要。<br /><br />总结: GRB的即时发射具有重要意义，在不完全了解的情况下通过X射线光谱偏振特征进行计算和预测，可以更好地理解其特征和限制即时发射的机制。 <div>
 While gamma-ray bursts (GRBs) have the potential to shed light on the astrophysics of jets, compact objects, and cosmology, a major set back in their use as probes of these phenomena stems from our incomplete knowledge surrounding their prompt emission. There are numerous models that can account for various observations of GRBs in the gamma-ray and X-ray energy ranges, due to the flexibility in the number of parameters that can be tuned to increase agreement with data. Furthermore, these models lack predictive power that can test future spectropolarimetric observations of GRBs across the electromagnetic spectrum. In this work, we use the MCRaT radiative transfer code to calculate the X-ray spectropolarimetric signatures expected from the photospheric model for two unique hydrodynamic simulations of long GRBs. We make time-resolved and time-integrated comparisons between the X-ray and gamma-ray mock observations, shedding light on the information that can be obtained from X-ray prompt emission signatures. Our results show that the T90 derived from the X-ray light curve is the best diagnostic for the time that the central engine is active. We also find that our simulations reproduce the observed characteristics of the Einstein Probe–detected GRB 240315C. Based on our simulations, we are also able to make predictions for future X-ray spectropolarimetric measurements. Our results show the importance of conducting global radiative transfer calculations of GRB jets to better contextualize the prompt emission observations and constrain the mechanisms that produce the prompt emission.
 ]]></content:encoded>
-
 <pubDate>2024-10-09T23:00:00Z</pubDate>
 </item>
 <item>
@@ -39,12 +38,11 @@ While gamma-ray bursts (GRBs) have the potential to shed light on the astrophysi
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6df4</guid>
 <content:encoded><![CDATA[
 <div> X-ray point sources, Stripe 82X catalog, Chandra, XMM-Newton, luminous AGNs
-<br> 
+<br /> 
 本研究对公开可用的Stripe 82X目录进行了增强，提供了一个包含22,737个独特的X射线点源的S82-XL目录。该目录比原始的Stripe 82X目录大四倍，包括了来自恒星和XMM-Newton望远镜的额外档案数据。S82-XL目录覆盖了约54.8平方度的非重叠天空区域，大约是原始目录面积和深度的两倍，限制流量（半面积流量）分别为3.4 x 10^-16（2.4 x 10^-15），2.9 x 10^-15（1.5 x 10^-14）和1.4 x 10^-15（9.5 x 10^-15）erg s^-1 cm^-2。S82-XL在流量-面积参数空间中占据了与其他X射线调查不同的独特位置，标识出2-10keV波段中具有1.2 x 10^38到1.6 x 10^47 erg s^-1的固有光度的源（中值X射线光度为7.2 x 10^43 erg s^-1），以及红移高达z∼6的光谱红移。通过使用硬度比，我们推断了活跃星系核的遮蔽情况，得到一个中值值和整体的遮蔽分数约为36.9%。S82-XL在X射线调查中具有里程碑意义，并且通过其广泛的多波段数据，对于对辐射光学亮的活跃星系核进行全面研究是特别宝贵的。
-<br><br>总结: 本研究通过对公开可用的Stripe 82X目录进行增强，提供了一个包含22,737个独特X射线点源的S82-XL目录。该目录覆盖了约54.8平方度的天空区域，并在流量和面积的参数空间中占据了独特的位置，并且对活跃星系核的遮蔽情况进行了推断。S82-XL在X射线调查中具有里程碑意义，尤其适用于对于对辐射光学亮的活跃星系核进行全面研究。 <div>
+<br /><br />总结: 本研究通过对公开可用的Stripe 82X目录进行增强，提供了一个包含22,737个独特X射线点源的S82-XL目录。该目录覆盖了约54.8平方度的天空区域，并在流量和面积的参数空间中占据了独特的位置，并且对活跃星系核的遮蔽情况进行了推断。S82-XL在X射线调查中具有里程碑意义，尤其适用于对于对辐射光学亮的活跃星系核进行全面研究。 <div>
 We present an enhanced version of the publicly available Stripe 82X catalog (S82-XL), featuring a comprehensive set of 22,737 unique X-ray point sources identified with a significance ≳4σ. This catalog is four times larger than the original Stripe 82X catalog, by including additional archival data from the Chandra and XMM-Newton telescopes. Now covering ∼54.8 deg2 of nonoverlapping sky area, the S82-XL catalog roughly doubles the area and depth of the original catalog, with limiting fluxes (half-area fluxes) of 3.4 × 10−16 (2.4 × 10−15), 2.9 × 10−15 (1.5 × 10−14), and 1.4 × 10−15 (9.5 × 10−15) erg s−1 cm−2 across the soft (0.5–2 keV), hard (2–10 keV), and full (0.5–10 keV) bands, respectively. S82-XL occupies a unique region of flux-area parameter space compared to other X-ray surveys, identifying sources with rest-frame luminosities from 1.2 × 1038 to 1.6 × 1047 erg s−1 in the 2–10 keV band (median X-ray luminosity, 7.2 × 1043 erg s−1), and spectroscopic redshifts up to z ∼ 6. By using hardness ratios, we derived the obscuration of active galactic nuclei (AGNs), obtaining a median value of and an overall, obscured fraction ( ) of ∼36.9%. S82-XL serves as a benchmark in X-ray surveys and, with its extensive multiwavelength data, is especially valuable for comprehensive studies of luminous AGNs.
 ]]></content:encoded>
-
 <pubDate>2024-10-09T23:00:00Z</pubDate>
 </item>
 <item>
@@ -52,15 +50,13 @@ We present an enhanced version of the publicly available Stripe 82X catalog (S82
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b28</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b28</guid>
 <content:encoded><![CDATA[
-<div> EHT, analytic model, black hole, Bayesian inference, M87*<br>
-<br>
-该研究提出了一个分析双锥吸积模型，用于对低亮度活动星系核的视界尺度图像进行分析，包括事件视界望远镜（EHT）观测到的核心。研究的模型是基于一个轴对称的、磁化等离子体的同步辐射，该等离子体被限制在沿黑洞自旋轴对齐的两个相对定向的锥形结构内流动。研究表明，该模型能够准确复现各种时间平均的广义相对论磁流体力学模拟的图像，并且能够在贝叶斯推断框架下，使用射电干涉数据准确获得这些模拟中的黑洞自旋、方向、辐射尺度高度、峰值辐射半径和流体流向。此外，研究发现，对于稀疏阵列观测（如EHT 2017年对M87*的观测），相对论吸积流图像中的非平凡拓扑结构可能导致多模态解。这些重叠性的存在强调了使用贝叶斯技术对EHT测量结果进行充分取样的重要性。研究将模型拟合到M87*的EHT观测数据中，并得出质量与距离比θg ∈ (2.84, 3.75) μas的95%最高后验密度区间，并给出一个倾斜角度θo ∈ (11°, 24°)。这些新的测量结果与EHT和恒星动力学估计的质量测量以及M87*射流性质推断的自旋轴倾斜角度一致。<br><br>总结: 该研究提出了一种用于分析活动星系核的视界尺度图像的分析模型，并在贝叶斯推断框架下对模拟和观测的数据进行了准确拟合，获得了与其他方法一致的结果。研究结果强调了使用贝叶斯技术对EHT测量结果进行充分取样的重要性。 <div>
+<div> EHT, analytic model, black hole, Bayesian inference, M87*<br />
+<br />
+该研究提出了一个分析双锥吸积模型，用于对低亮度活动星系核的视界尺度图像进行分析，包括事件视界望远镜（EHT）观测到的核心。研究的模型是基于一个轴对称的、磁化等离子体的同步辐射，该等离子体被限制在沿黑洞自旋轴对齐的两个相对定向的锥形结构内流动。研究表明，该模型能够准确复现各种时间平均的广义相对论磁流体力学模拟的图像，并且能够在贝叶斯推断框架下，使用射电干涉数据准确获得这些模拟中的黑洞自旋、方向、辐射尺度高度、峰值辐射半径和流体流向。此外，研究发现，对于稀疏阵列观测（如EHT 2017年对M87*的观测），相对论吸积流图像中的非平凡拓扑结构可能导致多模态解。这些重叠性的存在强调了使用贝叶斯技术对EHT测量结果进行充分取样的重要性。研究将模型拟合到M87*的EHT观测数据中，并得出质量与距离比θg ∈ (2.84, 3.75) μas的95%最高后验密度区间，并给出一个倾斜角度θo ∈ (11°, 24°)。这些新的测量结果与EHT和恒星动力学估计的质量测量以及M87*射流性质推断的自旋轴倾斜角度一致。<br /><br />总结: 该研究提出了一种用于分析活动星系核的视界尺度图像的分析模型，并在贝叶斯推断框架下对模拟和观测的数据进行了准确拟合，获得了与其他方法一致的结果。研究结果强调了使用贝叶斯技术对EHT测量结果进行充分取样的重要性。 <div>
 We propose an analytic dual-cone accretion model for horizon-scale images of the cores of low-luminosity active galactic nuclei, including those observed by the Event Horizon Telescope (EHT). Our model is of synchrotron emission from an axisymmetric, magnetized plasma, constrained to flow within two oppositely oriented cones that are aligned with the black hole’s spin axis. We show this model can accurately reproduce images of a variety of time-averaged general relativistic magnetohydrodynamic simulations and that it accurately recovers the black hole spin, orientation, emission scale height, peak emission radius, and fluid flow direction from these simulations within a Bayesian inference framework using radio interferometric data. We show that nontrivial topologies in the images of relativistic accretion flows around black holes can result in nontrivial multimodal solutions when applied to observations with a sparse array, such as the EHT 2017 observations of M87*. The presence of these degeneracies underscores the importance of employing Bayesian techniques to adequately sample the posterior space for the interpretation of EHT measurements. We fit our model to the EHT observations of M87* and find a 95% highest posterior density interval for the mass-to-distance ratio of θg ∈ (2.84, 3.75) μas, and give an inclination of θo ∈ (11°, 24°). These new measurements are consistent with mass measurements from the EHT and stellar dynamical estimates and with the spin axis inclination inferred from properties of the M87* jet.
 ]]></content:encoded>
-
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Contemporaneous X-Ray Observations of 30 Bright Radio Bursts from the Prolific Fast Radio Burst Source FRB 20220912A</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a13</link>
@@ -11808,52 +11804,6 @@ The frequency distribution of solar wind protons, measured in the vicinity of Ea
 <br />总结:
 该研究利用ALMA对QSO J1851+0035进行了观测，发现了17种分子，并对18种进行了上限设定。研究识别出20个独立的速度组分，推测具有τ≲1的组分对应于弥散云或云外缘。CO J = 1–0和J = 2–1吸收线的多高斯拟合显示这些组分由窄线和宽线组成。通过高HCN/HNC异构体比值推断的动力学温度达到了≳40 K，对应的热宽度解释了窄线组分的线宽。CN类分子和碳氢化合物之间有着密切和线性的相关性。CO/HCO+丰度比显示出数量级差距，较小的比值出现在较小的N(HCO+)（或较低的AV）范围内。一些速度组分在单天线CO发射和ALMA HCO+吸收中被探测到，但没有相应的ALMA CO吸收。这可能可以通过未能分辨的∼1 pc天线波束中的凝聚CO发射体混合周围具有极低CO/HCO+丰度比（即CO贫富）的扩展组分来解释。 <div>
 Atacama Large Millimeter/submillimeter Array (ALMA) data toward QSO J1851+0035 (l = 33.°498, b = +0.°194) were used to study absorption lines by Galactic molecular gas. We detected 17 species (CO, 13CO, C18O, HCO+, H13CO+, HCO, H2CO, C2H, c-C3H, c-C3H2, CN, HCN, HNC, CS, SO, SiO, and C) and set upper limits to 18 species as reference values for chemical models. About 20 independent velocity components at 4.7–10.9 kpc from the Galactic center were identified. Their column density and excitation temperature estimated from the absorption study, as well as the CO intensity distributions obtained from the FUGIN survey, indicate that the components with τ ≲1 correspond to diffuse clouds or cloud outer edges. Simultaneous multiple-Gaussian fitting of CO J = 1–0 and J = 2–1 absorption lines shows that these are composed of narrow- and broad-line components. The kinetic temperature empirically expected from the high HCN/HNC isomer ratio (≳4) reaches ≳40 K and the corresponding thermal width accounts for the line widths of the narrow-line components. CN-bearing molecules and hydrocarbons have tight and linear correlations within the groups. The CO/HCO+ abundance ratio showed a dispersion as large as 3 orders of magnitude with a smaller ratio in a smaller N(HCO+) (or lower AV) range. Some of the velocity components are detected in single-dish CO emission and ALMA HCO+ absorption but without corresponding ALMA CO absorption. This may be explained by the mixture of clumpy CO emitters not resolved with the ∼1 pc single-dish beam surrounded by extended components with a very low CO/HCO+ abundance ratio (i.e., CO-poor gas).
-]]></content:encoded>
-<pubDate>2024-07-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Origin of the Slow-to-Alfvén Wave Cascade Power Ratio and Its Implications for Particle Heating in Accretion Flows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad444f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad444f</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 加热分配，湍流能量，黑洞吸积盘，磁流体力学，剪切流
-总结: <br /><br />这篇论文讨论了湍流加热在黑洞吸积盘中对离子和电子的分配问题，指出了宏观和微观尺度之间的挑战性差距。研究发现，能量注入慢波和阿尔芬波级联之间的分配取决于受控于Maxwell和Reynolds应力张量的角动量传输、剪切速率和平均磁场方向。通过磁流体力学剪切盒模拟，得出了由磁旋不稳定引起的湍流应力张量的数值结果，并推导出慢波和阿尔芬波级联之间的注入功率比。最后，提出了一个基于宏观特征的局部子网格模型，用于计算离子与电子加热比。 <div>
-The partition of turbulent heating between ions and electrons in radiatively inefficient accretion flows plays a crucial role in determining the observational appearance of accreting black holes. Modeling this partition is, however, a challenging problem because of the large scale-separation between the macroscopic scales at which energy is injected by turbulence and the microscopic ones at which it is dissipated into heat. Recent studies of particle heating from collisionless damping of turbulent energy have shown that the partition of energy between ions and electrons is dictated by the ratio of the energy injected into the slow and Alfvén wave cascades as well as the plasma β parameter. In this paper, we study the mechanism of the injection of turbulent energy into slow- and Alfvén-wave cascades in magnetized shear flows. We show that this ratio depends on the particular (rϕ) components of the Maxwell and Reynolds stress tensors that cause the transport of angular momentum, the shearing rate, and the orientation of the mean magnetic field with respect to the shear. We then use numerical magnetohydrodynamic shearing-box simulations with background conditions relevant to black hole accretion disks to compute the magnitudes of the stress tensors for turbulence driven by the magneto-rotational instability and derive the injection power ratio between slow and Alfvén wave cascades. We use these results to formulate a local subgrid model for the ion-to-electron heating ratio that depends on the macroscopic characteristics of the accretion flow.
-]]></content:encoded>
-<pubDate>2024-07-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Calm Before the (Next) Storm: No Third Outburst in 2019–2020, and Ongoing Monitoring of the Transient AGN IC 3599</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4530</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4530</guid>
-<content:encoded><![CDATA[
-<div> IC 3599, Seyfert 1.9, X-ray outburst, accretion-disk instability, Swift mission
-<br />总结: 研究报告了对Seyfert 1.9星系IC 3599的跟踪观察，包括两次X射线爆发的发现和相关解释。第一次X射线爆发是在1990年由ROSAT发现的，第二次是在2010年由Swift发现的。有人假设IC 3599的爆发是由于重复的部分潮汐剥离引起的，预测了2019/2020年的再次爆发；另一种解释认为观察到的事件是由于吸积盘不稳定引起的，这意味着大爆发之间的时间间隔要长得多。Swift的持续监测不支持2019/2020年再次剧烈爆发的假设，而支持吸积盘不稳定的情景。此外，IC 3599的长期X射线光变曲线显示持续的强变化，2022年12月出现了X射线的小闪焰，随后X射线谱呈现出特殊的硬化。 <div>
-We report on follow-up observations of the Seyfert 1.9 galaxy IC 3599 with the NASA Neil Gehrels Swift mission. The detection of a second X-ray outburst in 2010 by Swift after the first discovery of a bright X-ray outburst in 1990 by ROSAT led to the suggestion of two very different explanations. The first one assumed that IC 3599 exhibits outbursts due to repeated partial tidal stripping of a star, predicting another outburst of IC 3599 in 2019/2020. The second, alternative scenario assumed that the event observed in X-rays is due to an accretion-disk instability, which would suggest a much longer period between the large outbursts. Our continued monitoring campaign by Swift allowed us to test the first scenario that predicted a repetition of high-amplitude flaring activity in 2019/2020. We do not find any evidence of dramatic flaring activity with factors of 100 since the last X-ray outburst seen in 2010. These observations support the accretion-disk scenario. Further, while IC 3599 remains in low-emission states, the long-term X-ray light curve of IC 3599 reveals ongoing strong variability of a factor of a few. The most remarkable event is a miniflare of a factor of 10 in X-rays in 2022 December. After that flare, the otherwise supersoft X-ray spectrum shows an exceptional hardening, reminiscent of a temporary corona formation.
-]]></content:encoded>
-<pubDate>2024-07-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiple Flux Rope Dynamics: MMS Observations and Reconstruction Results</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47f9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47f9</guid>
-<content:encoded><![CDATA[
-<div> 磁流体扭结、能量转换、电流片、几何结构、磁场重构<br />
-<br />总结:<br />本研究通过对磁流体扭结和电流片的多重动态能量转换以及二维几何结构进行研究，发现在磁流体扭结中存在着不同的能量转换方式，主要是能量动力机在FR1和FR5中占主导地位，而在FR2-4中主要是能量耗散。在磁流体扭结周围观察到电磁场和等离子体之间的动态能量交换，以及薄电流片周围的能量动力机和能量耗散现象。通过磁场重构得出六个磁流体扭结的估计长宽比，以及薄电流片的厚度。研究结果表明，FR4是一个合并的磁流体扭结，其磁场图显示了明显的能量耗散现象。这一发现与之前的多个岛屿合并的模拟研究结果相符。 <div>
-A series of six ion-scale magnetic flux ropes (FR1–6) and a thin current sheet, encountered by Magnetospheric Multiscale spacecraft in the magnetosheath side of the dayside magnetopause boundary layer, are studied for multiple flux rope dynamics in terms of energy conversion and two-dimensional geometry structure. The thin current sheet is identified in between FR1 and FR2. The energy exchange between electromagnetic fields and plasmas is dynamic in FR1–5 and also surrounding the flux ropes, while a low-energy conversion rate is seen in FR6. Different energy conversions exist in the flux ropes: energy dynamo is predominant in FR1 and FR5, while energy dissipation is dominated in FR2–4. Both the energy dynamo and dissipation primarily result from j∥E∥. Strong dissipation, surrounded by an energy dynamo, happens at the thin current sheet and is accompanied by ion agyrotropic behavior. From the reconstructed magnetic field maps, the estimated aspect ratios of the six flux ropes are 0.78, 0.16, 0.66, 0.11, 0.40, and 0.46 in order, and the thickness of the thin current sheet is ∼63 km (∼1.8 ion inertial length). Evidently, the magnetic field map shows that FR4 is a coalescing flux rope where a pronounced dissipation is present. The overall finding agrees with the previous simulation studies of multiple island coalescence.
-]]></content:encoded>
-<pubDate>2024-07-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Variation in the Galaxy-wide Initial Mass Function for Low-mass Stars: Modeling and Observational Insights</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad499d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad499d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 初始质量函数, 星际环境, 星际介质, 星际物质, 恒星形成
-
-总结:
-本研究分析了在不同观测方法下，矮星系和大质量星系中低质量恒星初始质量函数(IMF)的银河级别变化。尽管不同方法存在系统性差异，但一个具有金属依赖斜率的低质量恒星IMF模型与大多数观测结果一致，表明宇宙中的恒星形成过程具有高度一致性。我们还强调了对低质量IMF变化的更全面理解的必要性，考虑到测量偏差和金属以外的因素。 <br /><br /> <div>
-The stellar initial mass function (IMF) characterizes the mass distribution of newly formed stars in various cosmic environments, serving as a fundamental assumption in astrophysical research. Recent findings challenge the prevalent notion of a universal and static IMF, proposing instead that the IMF’s shape is contingent upon the star formation environment. In this study, we analyze the galaxy-wide variation in the IMF for low-mass stars in both dwarf and massive galaxies with diverse observational methods. Despite systematic discrepancies between different approaches, an IMF model with a metallicity-dependent slope for the low-mass stars aligns with the majority of observations, indicating a high degree of uniformity in the star formation processes across the Universe. We also emphasize the need for a more comprehensive understanding of the variation in the low-mass IMF, considering measurement biases and factors beyond metallicity.
 ]]></content:encoded>
 <pubDate>2024-07-02T23:00:00Z</pubDate>
 </item>
