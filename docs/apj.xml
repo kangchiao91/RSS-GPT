@@ -4,6 +4,58 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Mixed Source Region Signatures inside Magnetic Switchback Patches Inferred by Heavy Ion Diagnostics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7815</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7815</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Parker Solar Probe, Alfvén waves, magnetic switchback patches, heavy ion properties, Solar Orbiter
+
+总结: Parker Solar Probe在靠近太阳的轨道上发现了大幅度的Alfvén波，在离散的磁场反转区域产生了磁场反转斑块。文章使用了Solar Orbiter的数据，发现这些斑块并没有区别于周围太阳风的离子和元素组成。同时，斑块和周围的太阳风都表现出快速和慢速风的特征，说明它们可能源自太阳日冕区域不同的磁场和热性质。研究还表明，可能是置换重连接和/或剪切驱动过程在斑块的形成中发挥了作用。<br><br> <div>
+Since Parker Solar Probe’s (Parker’s) first perihelion pass at the Sun, large-amplitude Alfvén waves grouped in patches have been observed near the Sun throughout the mission. Several formation processes for these magnetic switchback patches have been suggested with no definitive consensus. To provide insight into their formation, we examine the heavy ion properties of several adjacent magnetic switchback patches around Parker’s 11th perihelion pass, capitalizing on a spacecraft lineup with Solar Orbiter where each samples the same solar wind streams over a large range of longitudes. Heavy ion properties (Fe/O, C6+/C5+, O7+/O6+) related to the wind’s coronal origin, measured with Solar Orbiter, can be linked to switchback patch structures identified near the Sun with Parker. We find that switchback patches do not contain distinctive ion and elemental compositional signatures different from the surrounding nonswitchback solar wind. Both the patches and ambient wind exhibit a range of fast and slow wind qualities, indicating coronal sources with open and closed field lines in close proximity. These observations and modeling indicate switchback patches form in coronal hole boundary wind and with a range of source region magnetic and thermal properties. Furthermore, the heavy ion signatures suggest interchange reconnection and/or shear-driven processes may play a role in their creation.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>slick: Modeling a Universe of Molecular Line Luminosities in Hydrodynamical Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad642c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad642c</guid>
+<content:encoded><![CDATA[
+<div> radiative transfer, despotic, Simba simulations, machine learning, cosmological hydrodynamical simulations
+<br><br>
+slick是一个软件包，用于通过计算物理特性和环境来计算模型云的CO、[C i]和[C ii]的亮度。通过将机器学习方法合并到这一过程中，我们还能够预测星系的线发射的宇宙演化特性，比如亮度函数。我们对100,000个气体粒子和2500个星系进行了测试，对所有谱线达到了约99.8%的平均准确度。最后，我们展示了在宇宙学水动力模拟中创建的首个模型光锥，其中包括从z = 0到z = 10的真实和机器学习预测的CO、[C i]和[C ii]的亮度。 
+<br>总结: 该软件包通过despotic辐射传输代码计算模拟云和星系的真实CO、[C i]和[C ii]亮度，并且通过机器学习方法预测了线发射的演化特性。 <div>
+We present slick (the Scalable Line Intensity Computation Kit), a software package that calculates realistic CO, [C i], and [C ii] luminosities for clouds and galaxies formed in hydrodynamic simulations. Built on the radiative transfer code despotic, slick computes the thermal, radiative, and statistical equilibrium in concentric zones of model clouds, based on their physical properties and individual environments. We validate our results by applying slick to the high-resolution run of the Simba simulations, testing the derived luminosities against empirical and theoretical/analytic relations. To simulate the line emission from a universe of emitting clouds, we have incorporated random forest machine learning (ML) methods into our approach, allowing us to predict cosmologically evolving properties of CO, [C i], and [C ii] emission from galaxies such as luminosity functions. We tested this model in 100,000 gas particles, and 2500 galaxies, reaching an average accuracy of ∼99.8% for all lines. Finally, we present the first model light cones created with realistic and ML-predicted CO, [C i], and [C ii] luminosities in cosmological hydrodynamical simulations, from z = 0 to z = 10.
+]]></content:encoded>
+
+<pubDate>2024-10-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Galaxy Activity, Torus, and Outflow Survey (GATOS). IV. Exploring Ionized Gas Outflows in Central Kiloparsec Regions of GATOS Seyferts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4b</guid>
+<content:encoded><![CDATA[
+<div> 关键词: JWST MIRI, GATOS survey, ionized gas distributions, AGN-driven radio jets, outflow rates<br>
+<br>
+利用JWST MIRI/Medium Resolution Spectrograph积分场观测，展示了GATOS调查中包括的六个邻近Seyfert星系的千秒巴尔中心区域的电离气体分布和动力学的多样性。具体来说，我们呈现了六条电离发射线的空间分辨率的流量分布和速度场图，涵盖了很大范围的电离电位（15.8-97.1 eV）。根据这些地图，我们展示了六个目标的电离气体流出的证据，发现NGC 5728、NGC 5506和ESO137-G034存在一些高度扰动的区域。我们提出，AGN驱动的无线电喷流可能在触发这些高度扰动的区域中发挥着重要作用。基于[Ne V]发射估算的流出速率，我们发现这六个目标的电离流出速率趋于收敛到比以前更窄的范围。这些结果对于具有可比辐射度的AGN的流出性质具有重要意义。<br><br>总结: 利用JWST MIRI的积分场观测，展示了六个邻近Seyfert星系的电离气体分布和动力学的多样性，发现了电离气体流出的证据，推测AGN驱动的无线电喷流可能在触发高度扰动的区域中发挥着重要作用，对AGN的流出性质具有重要意义。 <div>
+Utilizing JWST MIRI/Medium Resolution Spectrograph integral field unit observations of the kiloparsec-scale central regions, we showcase the diversity of ionized gas distributions and kinematics in six nearby Seyfert galaxies included in the GATOS survey. Specifically, we present spatially resolved flux distribution and velocity field maps of six ionized emission lines covering a large range of ionization potentials (15.8–97.1 eV). Based on these maps, we showcase the evidence of ionized gas outflows in the six targets, and find some highly disturbed regions in NGC 5728, NGC 5506, and ESO137-G034. We propose active galactic nucleus (AGN)-driven radio jets plausibly play an important role in triggering these highly disturbed regions. With the outflow rates estimated based on [Ne V] emission, we find the six targets tend to have ionized outflow rates converged to a narrower range than the previous finding. These results have an important implication for the outflow properties in AGN of comparable luminosity.
+]]></content:encoded>
+
+<pubDate>2024-10-10T23:00:00Z</pubDate>
+</item>
+<item>
+<title>XMM-Newton Perspective of the Unique Magnetic Binary-ϵ Lupi</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7028</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7028</guid>
+<content:encoded><![CDATA[
+<div> 磁性双星，ϵ Lupi A，X射线观测，磁层相互作用，磁场重连接<br>
+ϵ Lupi A系统是唯一一个两个组分都有可检测磁场的磁性双星系统，磁层相互作用在其射电光度曲线中呈现出周期性脉冲。本研究旨在探究X射线领域中的磁层相互作用现象。利用XMM-Newton望远镜对该系统进行观测，覆盖了其轨道周期。我们观测到可变的X射线发射，在近心点附近呈现最大通量，与射电观测相似。X射线光谱显示在近心点期间，硬X射线通量显着增加。我们将软X射线发射归因于个体磁层，而硬X射线发射则解释为磁层相互作用，特别是由于磁场重连接。然而，与射电不同的是，我们并未发现任何显著的短期X射线爆发。这种异国情调的系统可能是研究具有有序磁层的近邻双星中磁层相互作用的理想目标。<br><br>总结: 研究发现了ϵ Lupi A系统中磁层相互作用的X射线表现，包括变化的X射线发射、硬X射线通量的显著增加以及与射电观测的相似性。同时也发现了与射电观测不同的地方，即未发现显著的短期X射线爆发。这表明这一独特的系统可能是研究有序磁层近邻双星中磁层相互作用的理想目标。 <div>
+The ϵ Lupi A (HD 136504) system stands out among magnetic massive binaries as the only short-period binary system in which both components have detectable magnetic fields. The proximity of the magnetospheres of the components leads to magnetospheric interactions, which are revealed as periodic pulses in the radio light curve of this system. In this work, we aim to investigate the magnetospheric interaction phenomenon in the X-ray domain. We observed this system with the XMM-Newton telescope, covering its orbital period. We observe variable X-ray emission with maximum flux near periastron, showing similarity with radio observations. The X-ray spectra show significantly elevated hard X-ray flux during periastron. We attribute the soft X-ray emission to individual magnetospheres, while the hard X-ray emission is explained by magnetospheric interaction, particularly due to magnetic reconnection. However, unlike in the radio, we do not find any significant short-term X-ray bursts. This exotic system may be an ideal target to study magnetospheric interactions in close binaries with organized magnetospheres.
+]]></content:encoded>
+
+<pubDate>2024-10-10T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Formation of WNL Stars in the MW and LMC Based on the k − ω Model</title>
