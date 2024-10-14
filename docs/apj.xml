@@ -5,16 +5,29 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Gaseous Dynamical Friction on Elliptical Keplerian Orbits</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7250</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7250</guid>
+<content:encoded><![CDATA[
+<div> Keplerian orbits, dynamical friction, linear perturbation theory, density wake, secular orbital evolution
+<br><br>总结:
+本研究通过线性扰动理论，研究了在椭圆开普勒轨道上的巨大扰动体所受到的气体动力摩擦力。我们考察了单个巨大扰动体以及均质静态介质中嵌入的等质量双星体的密度尾部形态、动力摩擦力和长周期轨道演化。在所有情况下，半长轴变化率为负（正如预期的那样），而离心率变化率对于严格亚音速轨迹为负，对于严格超音速轨迹为正。跨音速轨道在轨道过程中可以经历正负力矩，其中一些增加离心率，而另一些使轨道圆形化。我们观察到所有初始轨道在足够长的时间尺度下都会变得高超声速和高离心率，这是由于不断的半长轴衰减增加了马赫数以及随后的离心率驱动。我们将我们的发现与以前关于直线运动和圆形运动的研究进行了比较，同时也提供了我们开普勒轨道演化的数据。 <div>
+We compute the gaseous dynamical friction force experienced by massive perturbers on elliptical Keplerian orbits. Using linear perturbation theory, we investigate the density wake morphology, dynamical friction force, and secular orbital evolution for massive single perturbers as well as equal-mass binaries embedded in a homogeneous, static medium. In all cases, the rate of change in the semimajor axis is found to be negative (as expected), whereas the rate of change in eccentricity is negative for strictly subsonic trajectories and positive for strictly supersonic trajectories. Transonic orbits can experience both positive and negative torques during the course of an orbit, with some growing in eccentricity and others circularizing. We observe all initial orbits becoming highly supersonic and eccentric (over sufficiently long timescales) due to a relentless semimajor axis decay increasing the Mach number and subsequent eccentricity driving. We compare our findings to previous studies for rectilinear and circular motion while also making our data for the evolution of Keplerian orbits available.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>TESS Asteroseismic Masses and Radii of Red Giants with (and without) Planets</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad685d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad685d</guid>
 <content:encoded><![CDATA[
 <div> surface gravities, masses, radii, red giant stars, TESS photometric light curves
 
-红巨星表面重力、质量和半径的测量方法可能存在系统性差异，这可能导致行星质量的过估计。研究发现，用天文测量方法和光学测量方法得出的红巨星的基本参数存在差异，其中星体半径的差异最大，可能存在系统性的过估计。此外，两颗恒星的质量和半径与现有的测量结果存在显著差异，提示了有待进一步研究的问题。提醒研究者，在推断行星性质时需要谨慎对待红巨星半径参数的不确定性。 <br><br>总结: <div>
+红巨星表面重力、质量和半径的测量方法可能存在系统性差异，这可能导致行星质量的过估计。研究发现，用天文测量方法和光学测量方法得出的红巨星的基本参数存在差异，其中星体半径的差异最大，可能存在系统性的过估计。此外，两颗恒星的质量和半径与现有的测量结果存在显著差异，提示了有待进一步研究的问题。提醒研究者，在推断行星性质时需要谨慎对待红巨星半径参数的不确定性。 <br /><br />总结: <div>
 We present a study of asteroseismically derived surface gravities, masses, and radii of a sample of red giant stars both with and without confirmed planetary companions using TESS photometric light curves. These red giants were drawn from radial velocity surveys, and their reported properties in the literature rely on more traditional methods using spectroscopy and isochrone fitting. Our asteroseismically derived surface gravities achieved a precision of ∼0.01 dex; however, they were on average ∼0.1 dex smaller than the literature. The systematic larger gravities of the literature could plausibly present as a systematic overestimation of stellar masses, which would in turn lead to overestimated planetary masses of the companions. We find that the fractional discrepancies between our asteroseismically determined parameters and those previously found are typically larger for stellar radii (∼10% discrepancy) than for stellar masses (<5% discrepancy). However, no evidence of a systematic difference between methods was found for either fundamental parameter. Two stars, HD 100065 and HD 18742, showed significant disagreement with the literature in both mass and radii. We explore the impacts of updated stellar properties on inferred planetary properties and caution that red giant radii may be more poorly constrained than uncertainties suggest.
 ]]></content:encoded>
-
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +37,9 @@ We present a study of asteroseismically derived surface gravities, masses, and r
 <content:encoded><![CDATA[
 <div> 关键词: 快速射电暴、中子星、小行星带、轨道配置、轨道偏心率
 
-中子星和小行星带之间的重复FRBs问题一直让人们费解。一种观点认为，重复的FRBs可能是由中子星与小行星带之间的相互作用产生的。本文中，我们研究了围绕大质量恒星存在小行星带的系统，并且中子星作为大质量恒星的伴星，通过引力相互作用与小行星带发生作用。我们假设了各种不同的轨道配置，并进行了直接N体模拟来研究小行星带的动力学演化。我们发现，中子星的轨道离心率越大，小行星带就会更快地被摧毁，大量小行星将被散射出系统。低倾角不仅抑制了碰撞，而且在早期阶段还抑制了小行星的抛射率。然而，高倾角系统可能会经历强烈的振荡，导致科萨伊-李多夫不稳定。在各种配置中，我们观察到了在轨道离心率为0.7且相互倾角为0°的情况下碰撞事件的明显周期性。我们发现，这种周期性至少可以在八个中子星轨道周期内持续存在，支持了这种机制是解释周期性重复FRB的可能性。我们的研究还表明，这种FRB源的活跃阶段应该是有限的，因为小行星带最终会被中子星摧毁。 <br><br>总结: 本文研究了中子星和小行星带之间的相互作用，发现中子星的轨道参数对小行星带的演化有着重要的影响。我们观察到了在特定轨道配置下碰撞事件的周期性，这可能解释了重复FRB的现象。另外，我们也发现这种类型的FRB源的活跃期是有限的，因为小行星带最终会被摧毁。 <div>
+中子星和小行星带之间的重复FRBs问题一直让人们费解。一种观点认为，重复的FRBs可能是由中子星与小行星带之间的相互作用产生的。本文中，我们研究了围绕大质量恒星存在小行星带的系统，并且中子星作为大质量恒星的伴星，通过引力相互作用与小行星带发生作用。我们假设了各种不同的轨道配置，并进行了直接N体模拟来研究小行星带的动力学演化。我们发现，中子星的轨道离心率越大，小行星带就会更快地被摧毁，大量小行星将被散射出系统。低倾角不仅抑制了碰撞，而且在早期阶段还抑制了小行星的抛射率。然而，高倾角系统可能会经历强烈的振荡，导致科萨伊-李多夫不稳定。在各种配置中，我们观察到了在轨道离心率为0.7且相互倾角为0°的情况下碰撞事件的明显周期性。我们发现，这种周期性至少可以在八个中子星轨道周期内持续存在，支持了这种机制是解释周期性重复FRB的可能性。我们的研究还表明，这种FRB源的活跃阶段应该是有限的，因为小行星带最终会被中子星摧毁。 <br /><br />总结: 本文研究了中子星和小行星带之间的相互作用，发现中子星的轨道参数对小行星带的演化有着重要的影响。我们观察到了在特定轨道配置下碰撞事件的周期性，这可能解释了重复FRB的现象。另外，我们也发现这种类型的FRB源的活跃期是有限的，因为小行星带最终会被摧毁。 <div>
 Some fast radio bursts (FRBs) exhibit repetitive behaviors, and their origins remain enigmatic. It has been argued that repeating FRBs could be produced by the interaction between a neutron star and an asteroid belt. Here, we consider the systems in which an asteroid belt dwells around a massive star, while a neutron star, as a companion of the massive star, interacts with the belt through gravitational force. Various orbital configurations are assumed for the system. Direct N-body simulations are performed to investigate the dynamical evolution of the asteroids' belt. It is found that a larger orbital eccentricity of the neutron star will destroy the belt more quickly, with a large number of asteroids being scattered out of the system. A low inclination not only suppresses the collisions but also inhibits the ejection rate at early stages. However, highly inclined systems may undergo strong oscillations, resulting in the Kozai–Lidov instabilities. Among the various configurations, a clear periodicity is observed in the collision events for the case with an orbital eccentricity of 0.7 and mutual inclination of 0◦. It is found that such a periodicity can be sustained for at least eight neutron star orbital periods, supporting this mechanism as a possible explanation for periodically repeating FRBs. Our studies also suggest that the active stage of these kinds of FRB sources should be limited, since the asteroid belt would finally be destroyed by the neutron star after multiple passages.
 ]]></content:encoded>
-
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
 <item>
@@ -36,10 +48,9 @@ Some fast radio bursts (FRBs) exhibit repetitive behaviors, and their origins re
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad737d</guid>
 <content:encoded><![CDATA[
 <div> 黑洞自旋，磁层流动，磁层扭曲，内部直立激波，数值模拟
-总结：<br><br>本研究通过三维广义相对论磁流体动力学模拟，探讨了与黑洞自旋轴不一致的磁层流动特性。结果显示，磁层呈现扭曲的稳定结构，外部磁层偏离黑洞轴线，接近黑洞附近存在直立激波。内部磁层与黑洞自旋轴部分一致，且随着半径的增加逐渐趋于一致。研究还提出了轨道拥挤的玩具模型，用于预测在中到快速自转的黑洞中激波的位置，这可能在确定实际不一致的天体系统中激波位置方面具有潜在的物理应用。 <div>
+总结：<br /><br />本研究通过三维广义相对论磁流体动力学模拟，探讨了与黑洞自旋轴不一致的磁层流动特性。结果显示，磁层呈现扭曲的稳定结构，外部磁层偏离黑洞轴线，接近黑洞附近存在直立激波。内部磁层与黑洞自旋轴部分一致，且随着半径的增加逐渐趋于一致。研究还提出了轨道拥挤的玩具模型，用于预测在中到快速自转的黑洞中激波的位置，这可能在确定实际不一致的天体系统中激波位置方面具有潜在的物理应用。 <div>
 We carry out idealized three-dimensional general-relativistic magnetohydrodynamic simulations of prograde, weakly magnetized, and geometrically thick accretion flows where the gas distribution is misaligned from the black hole (BH) spin axis. We evolve the disk for three BH spins: a = 0.5, 0.75, and 0.9375, and we contrast them with a standard aligned disk simulation with a = 0.9375. The tilted disks achieve a warped and twisted steady-state structure, with the outer disk misaligning further away from the BH and surpassing the initial 24° misalignment. However, closer to the BH, there is evidence of partial alignment, as the inclination angle decreases with radius in this regime. Standing shocks also emerged in proximity to the BH, roughly at ∼6 gravitational radii. We show that these shocks act to partially align the inner disk with the BH spin. The rate of alignment increases with increasing BH spin magnitude, but in all cases is insufficient to fully align the gas before it accretes. Additionally, we present a toy model of orbit crowding that can predict the location of the shocks in moderate-to-fast rotating BHs, illustrating a potential physical origin for the behavior seen in simulations—with possible applications in determining the positions of shocks in real misaligned astrophysical systems.
 ]]></content:encoded>
-
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
 <item>
@@ -47,15 +58,13 @@ We carry out idealized three-dimensional general-relativistic magnetohydrodynami
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad737e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad737e</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 2D hydrodynamical simulations, accretion disk, repulsive effect, orbiters, theoretical framework<br>
-<br>
-这篇文章研究了嵌入在星盘中的两个轨道飞行器之间的排斥效应。研究使用了理论框架和二维流体力学模拟。模拟结果表明，排斥效应对质量更大的轨道飞行器来说更大，并且随着轨道间距和盘的粘性而减小。研究对排斥的理论标度关系做出了两种不同假设。第一种情景假设每个轨道飞行器吸收伴侣的尘域区域所沉积的角动量。而第二种情景则假设轨道飞行器的共转力由于伴侣改变了盘面密度的径向梯度而发生了改变。研究发现这两种情景的预测结果有显著差异。第一种情景不能复现排斥与盘粘度的标度关系，并且普遍高估了排斥的强度。然而，第二种情景得出的结果与模拟结果基本一致。 <br><br>总结:该研究使用2D流体力学模拟研究了两个轨道飞行器之间的排斥效应，发现排斥效应对于质量更大的轨道飞行器更强，并且随着轨道间距和盘的粘性而减小。研究做出了两种情景的理论标度关系假设，发现第一种情景不能复现排斥与盘粘度的标度关系，但第二种情景的预测结果与模拟结果基本一致。 <div>
+<div> 关键词: 2D hydrodynamical simulations, accretion disk, repulsive effect, orbiters, theoretical framework<br />
+<br />
+这篇文章研究了嵌入在星盘中的两个轨道飞行器之间的排斥效应。研究使用了理论框架和二维流体力学模拟。模拟结果表明，排斥效应对质量更大的轨道飞行器来说更大，并且随着轨道间距和盘的粘性而减小。研究对排斥的理论标度关系做出了两种不同假设。第一种情景假设每个轨道飞行器吸收伴侣的尘域区域所沉积的角动量。而第二种情景则假设轨道飞行器的共转力由于伴侣改变了盘面密度的径向梯度而发生了改变。研究发现这两种情景的预测结果有显著差异。第一种情景不能复现排斥与盘粘度的标度关系，并且普遍高估了排斥的强度。然而，第二种情景得出的结果与模拟结果基本一致。 <br /><br />总结:该研究使用2D流体力学模拟研究了两个轨道飞行器之间的排斥效应，发现排斥效应对于质量更大的轨道飞行器更强，并且随着轨道间距和盘的粘性而减小。研究做出了两种情景的理论标度关系假设，发现第一种情景不能复现排斥与盘粘度的标度关系，但第二种情景的预测结果与模拟结果基本一致。 <div>
 We develop a theoretical framework and use 2D hydrodynamical simulations to study the repulsive effect between two close orbiters embedded in an accretion disk. We consider orbiters on fixed Keplerian orbits with masses low enough to open shallow gaps. The simulations indicate that the repulsion is larger for more massive orbiters and decreases with the orbital separation and the disk’s viscosity. We use two different assumptions to derive theoretical scaling relations for the repulsion. A first scenario assumes that each orbiter absorbs the angular momentum deposited in its horseshoe region by the companion’s wake. A second scenario assumes that the corotation torques of the orbiters are modified because the companion changes the underlying radial gradient of the disk surface density. We find a substantial difference between the predictions of these two scenarios. The first one fails to reproduce the scaling of the repulsion with the disk viscosity and generally overestimates the strength of the repulsion. The second scenario, however, gives results that are broadly consistent with those obtained in the simulations.
 ]]></content:encoded>
-
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Spectral Properties and the Influence of Coronal Mass Ejections in 3He-rich Solar Energetic Particle Events</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b99</link>
@@ -11787,55 +11796,6 @@ We investigate the properties of strong (Hβ + [O iii]) emitters before and afte
 We analyze the distribution of volatiles such as water, hydrogen, and carbon within the atmosphere, mantle, and core of Mars during its accretion stages. The partitioning of these volatiles is crucial as it influences the generation of intrinsic magnetic fields, mantle convection, and magmatic activity. The study suggests that the accretion process is responsible for the presence of water and light elements within the Martian mantle and core. We employ a hybrid-type proto-atmosphere model, which considers an upper layer composed of nebula components and a lower layer made up of degassed components from the impact degassing of the simplified building blocks based on the two-component model. Our numerical analysis implies that the formation of a magma ocean at this high temperature and pressure after around the half-size of the present Mars triggers the migration of water vapor, carbon, and hydrogen from the primordial atmosphere into the planetary interior. Ultimately, several 1021 kg of water could have been distributed to the mantle and, if degassed again by the formation of flood basalts on the Tharsis Plateau, could have supplied Mars’ ancient oceans. Meanwhile, several 1020 kg of carbon and 1019 kg of hydrogen (equivalent to 1020 kg H2O) were found to be distributed in the core. Although the distribution of sulfur was simplified so that all of the sulfur is in the core, a result of sulfur accounting for 14 wt% to 19 wt.% of the core mass would be consistent with the core density suggested by InSight.
 ]]></content:encoded>
 <pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Discovery of a 100 kpc Narrow Curved Twin Jet in the S-shaped Giant Radio Galaxy J0644+1043</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad500e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad500e</guid>
-<content:encoded><![CDATA[
-<div> radio galaxy, S-shaped morphology, uGMRT map, black hole, jet precession
-<br /><br />
-这篇文章报告了用30 μJy beam−1敏感度的525 MHz宽带(uGMRT图)发现的J0644+1043无线电星系的S形态结构。通过2米罗兹恒星望远镜对宿主星系的专门光谱观测得到了红移为0.0488，给出了异常无线电结构的投影线性尺度超过0.7 Mpc。这个巨型无线电星系由质量为M⊙的黑洞驱动，从其附近发出良好准直和有节状的射流，每个射流长约100 kpc。整个无线电结构可能是由于有效的射流进动而形成，年龄不到50百万年，1.4 GHz功率约为6×1024 W Hz−1，并且观察到的形态特征并不严格符合传统的Fanaroff–Riley (FR) FR I或FR II类别。
-<br /> 
-总结: 本文报道了J0644+1043无线电星系的S形态结构发现、红移测量结果和相关特征，包括射流长度和功率等信息。研究指出这种巨型无线电星系可能是由于有效的射流进动造成的，其特征不符合传统的FR I或FR II分类。 <div>
-We report the discovery of an S-shaped morphology of the radio galaxy J0644+1043 imaged with a 30 μJy beam−1 sensitive 525 MHz broadband (bands 3 + 4) uGMRT map. Dedicated spectroscopic observations of the host galaxy carried out with the 2 m Rozhen telescope yielded a redshift of 0.0488, giving a projected linear size of the peculiar radio structure of over 0.7 Mpc. This giant radio galaxy is powered by a black hole of mass M⊙, from the vicinity of which emanate well-collimated and knotty jets, each ∼100 kpc long. The entire radio structure, presumably due to the effective jet precession, is less than 50 Myr old, has a power of ∼6 × 1024 W Hz−1 at 1.4 GHz, and has observed morphological characteristics that do not strictly conform to the traditional Fanaroff–Riley (FR) FR I or FR II categories.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Reverse Shock Revisited in Cassiopeia A with Chandra</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad509f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad509f</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Chandra X-ray Observatory, 反冲冲击, 超新星遗迹, 辐射谱学, 速度测量<br />
-总结: 通过查看超新星遗迹Cassiopeia A的数据，利用Chandra X射线天文台的数据，研究了其中的反冲冲击现象。从S/Si Kα线流量比和Fe Kα线重心能量的径向分布图中可以看出，它们都呈单调增加的趋势，确认了Si和Fe丰富的喷射物质被反冲冲击加热。在Cassiopeia A中，S和Si线流量比的突然变化明显可见，从而确定了反冲冲击的位置，在观测者框架内，北西方向约为3950±210 km/s，南东方向约为2900±260 km/s。同时，喷射物质的框架内速度为北西方约为1150 km/s，南东方约为1300 km/s。通过测量得到的反冲冲击速度与X射线和/或光学图像获得的速度非常一致。这表明爆发星的非对称爆炸对反冲冲击和喷射物质的相互作用起着关键作用，最终塑造了超新星遗迹中观察到的复杂特征。 <br /><br /> <div>
-Using data from the Chandra X-ray Observatory, we revisit the reverse shock in the supernova remnant (SNR) Cassiopeia A. Based on spectroscopy of a series of annuli in the northwest (NW) and southeast (SE), we get the radial profiles of the S/Si Kα line flux ratio and Fe Kα line centroid energy. They both show monotonic increase, confirming that the Si- and Fe-rich ejecta are heated by the reverse shock. The abrupt change of the S and Si line flux ratio is clearly observed in Cassiopeia A, leading to the determination of the reverse-shock location (∼1.′71 0.′16 and ∼1.′35 0.′18 in the NW and SE, with respect to the central source). By comparing the radial profiles of the S and Si line flux, we find that the reverse shock is moving outward in the frame of the observer, and the velocities are ∼3950 ± 210 km s−1 and ∼2900 ± 260 km s−1 in the NW and SE, respectively. In contrast, the velocities become ∼1150 km s−1 (NW) and ∼1300 km s−1 (SE) in the ejecta frame. Our measured reverse-shock velocities are quite consistent with those obtained from the X-ray and/or optical images. They therefore supply a cross-check of the accuracy for the two available methods for measuring the reverse-shock velocity in SNRs. Both the location and the velocity of the reverse shock show apparent asymmetry, suggesting that the asymmetric explosion of the progenitor plays a key role in the interaction between the reverse shock and the ejecta, ultimately shaping the complex features observed in SNRs.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Periodically Modulated Magnetic Reconnection</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55c4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55c4</guid>
-<content:encoded><![CDATA[
-<div> 关键词: reconnection, electron-scale, periodic modulation, magnetic trapping, energy dissipation
-
-总结:
-本研究利用磁层多尺度探测器的高频数据首次证实了在电子尺度上存在周期调制的重连现象。这种周期调制被认为是由X线施加的有限磁场阱所导致的，这产生了离散的、色散的电子条纹。这些色散的条纹很好地由一个磁场阱损失转换模型所重现，它们周期性地打破了冻结条件并驱动能量耗散。这种电子转换效应消除了自由电子，增强了电子混合，并产生了高度结构化的三维分布，这产生了强烈的无线电辐射。这些启示性的结果表明，重连过程具有固有的由三维电子物理学确定的周期性，为理解空间和天体等离子体中重连驱动的能量传输提供了关键的见解。 <div>
-We present the first evidence for periodically modulated reconnection at the electron scale in space, using unparalleled, high-cadence data from Magnetospheric Multiscale spacecraft. The periodic modulation is attributed to finite magnetic trapping imposed by the X-line, which generates discrete, dispersive electron stripes. The dispersive stripes, well reproduced by a trapping-loss transition model, periodically break the frozen-in condition and drive energy dissipation. Such an electron transition effect eliminates free electrons, enhances electron mixing, and causes highly structured, three-dimensional distributions that generate intense radio emissions. These illuminating results, suggesting that reconnection hosts inherent periodicity determined by three-dimensional electron physics, provide crucial insights into understanding reconnection-driven energy transport in space and astrophysical plasmas.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Possibly Short GRB 180418A and Phenomenology of Reverse-Shock Emission in the Optical Afterglows of Gamma-Ray Bursts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad463f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad463f</guid>
-<content:encoded><![CDATA[
-<div> GRB 180418A, optical follow-up observations, afterglow, shock models, physical properties<br />
-GRB 180418A的光学后续观测显示其光余辉采用了前向冲击（FS）和反向冲击（RS）模型。光曲线拟合显示RS区域具有中等程度的磁化。该爆发的持续时间T90处于短时和长时伽马射线暴（GRB）之间的中间地带。同时，通过计算参数值发现该爆发可能属于SGRB类别。同时对比了其他SGRB和LGRB的性质发现它们有着相似性，因此推测GRB 180418A可能属于SGRB类别。<br /><br />总结: <br />GRB 180418A的光学后续观测显示其光余辉采用了前向冲击（FS）和反向冲击（RS）模型。光曲线拟合显示RS区域具有中等程度的磁化。该爆发的持续时间T90处于短时和长时伽马射线暴（GRB）之间的中间地带。同时，通过计算参数值发现该爆发可能属于SGRB类别。同时对比了其他SGRB和LGRB的性质发现它们有着相似性，因此推测GRB 180418A可能属于SGRB类别。 <div>
-We present early-time ground-based optical follow-up observations of GRB 180418A, which was discovered by both Swift/BAT and Fermi/GBM. Its broadband afterglow was well monitored by Swift/XRT and ground-based optical telescopes. The optical light curve of GRB 180418A can be modeled by forward shock (FS) plus reverse shock (RS). We fit the light curves with standard external shock models and derive the physical properties of the outflow. It is found that the ratio RB ≡ εB,r/εB,f is 11.22, indicating a moderate degree of magnetization in the RS region. The reported duration of GRB 180418A, T90, lies in the intermediate region between short and long gamma-ray bursts (GRBs). We further discuss the classification of GRB 180418A, and calculate ε = Eγ,iso,52/Ep,z,2 values of 0.026 and 0.018 (assuming the redshift z is 1.0 and 1.5, respectively), which is closer to short GRBs (SGRBs) in the ε-T90,z plane. If GRB 180418A is an SGRB, it is the only reported SGRB thus far with RS emission in optical light curves. In order to compare the properties of GRB 180418A, we collected three SGRBs that may have RS emission (GRBs 060313, 090426, and 210207B) and also 22 long GRBs (LGRBs) with RS emission. We find that the parameters of LGRBs are in a wider range than those of SGRBs. Also, SGRBs appear to have very small RB values, but the results are generally similar to those of LGRBs. The fitting parameters of GRB 180418A are generally consistent with those of the other three SGRBs, implying that GRB 180418A may belong to the category of SGRBs.
-]]></content:encoded>
-<pubDate>2024-07-08T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
