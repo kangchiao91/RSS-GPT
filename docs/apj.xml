@@ -5,16 +5,195 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Simulating Brown Dwarf Observations for Various Mass Functions, Birthrates, and Low-mass Cutoffs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fc</guid>
+<content:encoded><![CDATA[
+<div> brown dwarfs, mass distribution, star formation theory, effective temperature distribution, birthrate functions
+<br><br>
+这篇文章总结了对20 pc范围内棕矮星质量分布的研究成果。棕矮星的质量与其可观测参数（光度、光谱类型或颜色）之间缺乏相关性，因此棕矮星质量函数的测量必须通过代理测量和理论模型来获得。研究利用各种质量函数形式、出生率函数、低质量截断和理论进化模型，建立了有效温度分布的预测形式，并找到了与观测到的有效温度分布最匹配的质量函数。最终得出了一个简单的幂律形式的质量函数，并确定了恒星形成的低质量截断。研究还发现出生率对温度分布的影响较小，但不同的出生率倾向于较小的幂指数值。研究中的代码可公开获取。此外，研究还通过模拟老年（8-10亿年）棕矮星的分布，提出了亚矮温度间隙的宽度和位置的发现。
+<br>总结: 棕矮星质量分布的研究揭示了质量函数形式和恒星形成的低质量截断，同时强调出生率对温度分布的影响。研究中开发的代码可用于模拟棕矮星的分布，并通过模拟老年棕矮星的分布，得出了亚矮温度间隙的宽度和位置的发现。 <div>
+After decades of brown dwarf discovery and follow-up, we can now infer the functional form of the mass distribution within 20 pc, which serves as a constraint on star formation theory at the lowest masses. Unlike objects on the main sequence that have a clear luminosity-to-mass correlation, brown dwarfs lack a correlation between an observable parameter (luminosity, spectral type, or color) and mass. A measurement of the brown dwarf mass function must therefore be procured through proxy measurements and theoretical models. We utilize various assumed forms of the mass function, together with a variety of birthrate functions, low-mass cutoffs, and theoretical evolutionary models, to build predicted forms of the effective temperature distribution. We then determine the best fit of the observed effective temperature distribution to these predictions, which in turn reveals the most likely mass function. We find that a simple power law ( ) with α ≈ 0.5 is optimal. Additionally, we conclude that the low-mass cutoff for star formation is ≲0.005 M⊙. We corroborate the findings of Burgasser, which state that the birthrate has a far lesser impact than the mass function on the form of the temperature distribution, but we note that our alternate birthrates tend to favor slightly smaller values of α than the constant birthrate. Our code for simulating these distributions is publicly available. As another use case for this code, we present findings on the width and location of the subdwarf temperature gap by simulating distributions of very old (8–10 Gyr) brown dwarfs.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Galactic-Seismology Substructures and Streams Hunter with LAMOST and Gaia. I. Methodology and Local Halo Results</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d59</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d59</guid>
+<content:encoded><![CDATA[
+<div> 关键词: GS3 Hunter, 深度学习, 星动力学数据, 天体模拟, 银河系<br>
+总结: 
+GS3 Hunter是一个基于深度学习的新方法，用于在星动力学数据中搜索亚结构和星流。该方法在FIRE宇宙模拟和Gaia和GALAH数据集的子集上进行了验证，并成功识别出相应的结果。此外，还应用于LAMOST数据集的K型巨星子集，识别出了已知的结构以及一些新的亚结构。GS3 Hunter有望成为一个有用的工具，帮助推进我们对银河系和局部星系团内外晕的理解，以及银河系周围的组装和潮汐剥离历史。<br><br> <div>
+We present a novel, deep-learning-based method—dubbed Galactic-Seismology Substructures and Streams Hunter, or GS3 Hunter for short—to search for substructures and streams in stellar kinematics data. GS3 Hunter relies on a combined application of Siamese neural networks to transform the phase space information and the K-means algorithm for the clustering. As a validation test, we apply GS3 Hunter to a subset of the Feedback in Realistic Environments (FIRE) cosmological simulations. The stellar streams and substructures thus identified are in good agreement with corresponding results reported earlier by the FIRE team. In the same vein, we apply our method to a subset of local halo stars from the Gaia Early Data Release 3 and GALAH DR3 data sets and recover several previously known dynamical groups, such as Thamnos 1+2, the hot thick disk, ED-1, L-RL3, Helmi 1+2, Gaia-Sausage-Enceladus, Sequoia, Virgo Radial Merger, Cronus, and Nereus. Finally, we apply our method without fine-tuning to a subset of K giant stars located in the inner halo region, obtained from the LAMOST Data Release 5 data set. We recover three previously known structures (Sagittarius, Hercules-Aquila Cloud, and the Virgo Overdensity), but we also discover a number of new substructures. We anticipate that GS3 Hunter will become a useful tool for the community dedicated to the search for stellar streams and structures in the Milky Way (MW) and the Local Group, thus helping advance our understanding of the stellar inner and outer halos and the assembly and tidal stripping history in and around the MW.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Evolving Outer Heliosphere: Tracking Solar Wind Transients from 1 au to the VLISM with IBEX and Voyager 1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad725a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad725a</guid>
+<content:encoded><![CDATA[
+<div> IBEX, ENA, SW-LISM interaction, Voyager 1, Voyager 2
+总结:
+Interstellar Boundary Explorer (IBEX)观测了来自太阳圈层的能量中性原子（ENA）通量，丰富了我们对太阳风与局部星际介质（LISM）相互作用的理解。研究人员提出了一个新模型，利用磁流体动力学模拟太阳风-LISM相互作用，并在通过太阳圈后传播捡起离子后分析了来自Voyager 2方向的IBEX观测。这项研究扩展了模型，包括了来自Voyager 1方向以及带状的低纬度部分。研究结果显示，Voyager 1方向的模型与Voyager 2方向的结果一致，并且中间带状部分的结果也能复现实际观测。最后，研究人员通过模拟展示了三个大压力波很可能在VLISM中合并，并被Voyager 1观测到为“pf2”，而至少其中一个波的效应在太阳圈层中被IBEX观测到，表现为2016年初ENA通量的短暂增强。 <div>
+Interstellar Boundary Explorer (IBEX) observations of energetic neutral atom (ENA) fluxes from the heliosphere have greatly enriched our understanding of the interaction of the solar wind (SW) with the local interstellar medium (LISM). However, there has been recent controversy surrounding the inability of most ENA models to produce as high an intensity of ∼0.5–6 keV ENAs as IBEX observes at 1 au, especially as a function of time. In our previous study (E. J. Zirnstein et al.), we introduced a new model that utilizes a data-driven magnetohydrodynamic simulation of the SW–LISM interaction to propagate pickup ions through the heliosheath (HS) after they are nonadiabatically heated at the heliospheric termination shock. E. J. Zirnstein et al. only simulated and analyzed IBEX observations from the direction of Voyager 2. In this study, we expand our model to include fluxes from the direction of Voyager 1, as well as in the low-latitude part (middle) of the ribbon (10° below the ecliptic plane). We show that the model results at Voyager 1 are consistent with E. J. Zirnstein et al.’s results at Voyager 2 in terms of a secondary ENA source contribution of ≲20% from both directions. Our results in the middle of the ribbon also reproduce the data, when including a time-dependent secondary ENA source. Finally, we demonstrate with our simulation that three large pressure waves likely merged in the VLISM and were observed by Voyager 1 as “pf2,” while at least one of the wave’s effects in the HS was observed by IBEX as a brief enhancement in ENA flux in early 2016.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Lyα Profile Shape as an Escape-fraction Diagnostic at High Redshift</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad725d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad725d</guid>
+<content:encoded><![CDATA[
+<div> 高红移星系，Lyα剖面，电离辐射逸出，Keck观测，光谱
+<br>
+这篇论文使用Keck/LRIS和Keck/MOSFIRE光谱观测数据，研究了z ∼ 3星系的Lyα剖面形状与电离辐射逸出的关联。他们发现低速度分离vLyα,red的KLCS物体的电离辐射逸出比例显著更高。他们还发现Lyα剖面形状与fesc之间没有明显趋势。与文献中z ∼ 0.3的“Green Peas”星系的测量结果相比，KLCS对象在相同vLyα,red情况下具有更大的vsep和更高的fesc。作者得出结论，高红移源的Lyα剖面形状根本不同，vLyα,red等参数与fesc之间的关系也不同，并警告不要仅基于低红移矮星系的Lyα剖面构建重离子化时期的fesc诊断。
+<br><br>总结: 高红移星系的Lyα剖面形状与电离辐射逸出相关，低速度分离的KLCS物体具有更高的电离辐射逸出比例。Lyα剖面形状与fesc之间没有明显趋势。与z ∼ 0.3的“Green Peas”星系相比，KLCS对象具有不同的Lyα剖面形状和逸出比例。作者警告不要仅基于低红移矮星系的Lyα剖面构建重离子化时期的fesc诊断。 <div>
+While the shape of the Lyα profile is viewed as one of the best tracers of ionizing-photon escape fraction (fesc) within low-redshift (z ∼ 0.3) surveys of the Lyman continuum, this connection remains untested at high redshift. Here, we combine deep, rest-UV Keck/LRIS spectra of 80 objects from the Keck Lyman Continuum Spectroscopic Survey with rest-optical Keck/MOSFIRE spectroscopy in order to examine potential correlations between Lyα profile shape and the escape of ionizing radiation within z ∼ 3 star-forming galaxies. We measure the velocity separation between double-peaked Lyα emission structure (vsep), between red-side Lyα emission peaks and systemic (vLyα,red), and between red-side emission peaks and low-ionization interstellar absorption lines (vLyα−LIS). We find that the IGM-corrected ratio of ionizing to nonionizing flux density is significantly higher in KLCS objects with lower vLyα,red. We find no significant trend between measures of ionizing-photon escape and vLyα−LIS. We compare our results to measurements of z ∼ 0.3 “Green Peas” from the literature and find that KLCS objects have larger vsep at fixed vLyα,red, larger fesc at fixed vLyα,red, and higher vLyα,red overall than z ∼ 0.3 analogs. We conclude that the Lyα profile shapes of our high-redshift sources are fundamentally different, and that measurements of profile shape such as vLyα,red map on to fesc in different ways. We caution against building reionization-era fesc diagnostics based purely on Lyα profiles of low-redshift dwarf galaxies. Tracing vsep, vLyα,red, and fesc in a larger sample of z ∼ 3 galaxies will reveal how these variables may be connected for galaxies at the epoch of reionization.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of GW230529 from Isolated Binary Evolution</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad72f0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad72f0</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 质量间隙黑洞-中子星并合, 引力波, 恒星演化, 天体物理, 脉冲星
+
+总结:
+质量间隙黑洞-中子星（mgBHNS）并合是引力波事件中GW230529的一个重要组成部分，由孤立双星演化渠道形成。研究使用“延迟”超新星模型和合理的模型实现来模拟人口综合，结果表明我们的模拟可以同时匹配从人口分析推断出的mgBHNS和总BHNS并合的速率密度，以及LIGO-Virgo-KAGRA Collaboration报道的BH质量在BHNS并合中的分布。GW230529对推断的mgBHNS速率密度贡献显著，因此我们建议GW230529可以通过孤立双星演化渠道解释。考虑AP4（DD2）态方程，GW230529发生撕裂的概率分别为12.8％（63.2％）。如果GW230529是一个撕裂事件，其金新星峰值视星等预测约为23-24等，并且可以被当前的观测项目和大型巡天望远镜发现。由于GW230529可能是GW观测推断出的非轴向事件，其相关的伽玛射线暴（GRB）可能太暗而无法被γ射线探测器观测到，解释了缺乏GRB观测。我们的研究表明由于GW230529的发现，通过孤立双星演化渠道形成mgBHNS并合的存在，表明BHNS并合仍有可能是发射引力波、伽玛射线暴和金新星的多信使源。虽然mgBHNS并合占据了宇宙学BHNS人口的约50％，但我们发现≳90％的被撕裂的BHNS并合预计来自mgBHNS并合的形成。 <div>
+In this paper, we explore the formation of the mass-gap black hole-neutron star (mgBHNS) merger detected in gravitational wave (GW) event, i.e., GW230529, from the isolated binary evolution channel, and study potential signatures of its electromagnetic counterparts. By adopting the “delayed” supernova prescription and reasonable model realizations, our population synthesis simulation results can simultaneously match the rate densities of mgBHNS and total BHNS mergers inferred from the population analyses, along with the population distribution of the BH mass in BHNS mergers reported by the LIGO–Virgo–KAGRA Collaboration. Because GW230529 contributes significantly to the inferred mgBHNS rate densities, we suggest that GW230529 can be explained through the isolated binary evolution channel. Considering the AP4 (DD2) equation of state, the probability that GW230529 can make tidal disruption is 12.8% (63.2%). If GW230529 is a disrupted event, its kilonova peak apparent magnitude is predicted ∼23–24 mag, and hence, can be detected by the present survey projects and Large Synoptic Survey Telescope. Since GW230529 could be an off-axis event inferred from the GW observation, its associated gamma-ray burst (GRB) might be too dim to be observed by γ-ray detectors, interpreting the lack of GRB observations. Our study suggests the existence of mgBHNS mergers formed through the isolated binary evolution channel due to the discovery of GW230529, indicating that BHNS mergers are still likely to be multimessenger sources that emit GWs, GRBs, and kilonovae. Although mgBHNS mergers account for ∼50% of the cosmological BHNS population, we find that ≳90% of disrupted BHNS mergers are expected to originate from mgBHNS mergers.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Effects of Turbulence on Heliosheath Ions and Implications for Energetic Neutral Atoms</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7374</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7374</guid>
+<content:encoded><![CDATA[
+<div> 关键词: heliosheath, ion distributions, hybrid kinetic simulations, turbulence, energetic neutral atoms (ENAs)
+总结:
+在太阳系的边界区域，也就是太阳风终止震波和日球层之间的赫尔尼辣甚重要。本文使用自洽的混合动力学模拟研究了湍流对赫尔尼辣中离子分布的影响，并与旅行者号观测进行了比较，限定了湍流的振幅和可压缩性范围。结果表明，湍流耗散导致太阳风热离子的温度显著增加，从而增加了低能量处（约100电子伏）的ENAs的电荷交换源。然而，湍流的影响可能不足以完全解释这些不一致。<br><br> <div>
+The distribution of ions in the heliosheath—the region between the heliospheric termination shock and the heliopause—is important for understanding remote observations of energetic neutral atoms (ENAs). The ion distributions were estimated previously based on hybrid simulations of the heating and evolution of solar wind and interstellar pickup ions across the solar wind termination shock, but these estimates only provide the distributions near the shock. In this work, we use self-consistent hybrid kinetic simulations to investigate the effects of turbulence on ion distributions in the heliosheath. The simulations are compared against Voyager observations, constraining the feasible amplitude and compressibility of turbulence. We find that the heating due to turbulent dissipation can lead to a significant increase in the temperature of thermal solar wind ions. Both turbulent velocity fluctuations and the heating of solar wind ions increase the charge-exchange source for ENAs at low energies (around 100 eV), where current ENA models underpredict observations by more than an order of magnitude. However, the effects of turbulence are likely not strong enough to fully explain these discrepancies.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of Close-in Neptunes around Low-mass Stars through Breaking Resonant Chains</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7383</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7383</guid>
+<content:encoded><![CDATA[
+<div> LHS 3154 b, 质量, 恒星, 行星形成理论, 模拟
+
+总结:
+LHS 3154 b是一颗质量为13.2倍地球质量的行星，围绕质量为0.11太阳质量的恒星运转。这一发现挑战了传统的行星形成理论，认为质量较小的恒星周围不会形成质量如此巨大的行星。研究人员提出了“打破锁链”情景的模拟，表明类似LHS 3154 b这样质量巨大且距离恒星较近的行星在模拟系统中出现的概率约为1%。这一结果暗示这些行星不需要特别不寻常的形成条件，而是已有的理论可以解释。另外，模拟系统中还包含大约30天公转周期的小行星，这为该假设提供了可能的检验。 <div>
+Conventional planet formation theories predict a paucity of massive planets around small stars, especially very low-mass (0.1−0.3 M⊙) mid-to-late M dwarfs. Such tiny stars are expected to form planets of terrestrial sizes but not much bigger. However, this expectation is challenged by the recent discovery of LHS 3154 b, a planet with period of 3.7 days and minimum mass of 13.2 M⊕ orbiting a 0.11 M⊙ star. Here, we propose that close-in Neptune-mass planets like LHS 3154 b formed through an anomalous series of mergers from a primordial compact system of super-Earths. We perform simulations within the context of the “breaking the chains” scenario, in which super-Earths initially form in tightly spaced chains of mean-motion resonances before experiencing dynamical instabilities and collisions. Planets as massive and close-in as LHS 3154 b (Mp ∼ 12−20 M⊕, P < 7 days) are produced in ∼1% of simulated systems, in broad agreement with their low observed occurrence. These results suggest that such planets do not require particularly unusual formation conditions but rather are an occasional by-product of a process that is already theorized to explain compact multiplanet systems. Interestingly, our simulated systems with LHS 3154 b-like planets also contain smaller planets at around ∼30 days, offering a possible test of this hypothesis.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Anatomy of the Star Formation in a Tidally Disturbed Disk Galaxy: NGC 3718</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad738b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad738b</guid>
+<content:encoded><![CDATA[
+<div> NGC 3718, star-forming complexes, UV study, minor merger, disturbed morphology
+总结:
+NGC 3718是一种近邻特殊星系，其光学形态受多重潮汐臂、扭曲盘和显著的弯曲尘埃巷的影响，但在近红外波段下，它看起来是一个以球状组分为主的星系。研究发现，这种扰动的形态使其成为研究潮汐扰动星系中恒星形成的理想案例。通过对星系进行分区，研究了恒星形成团的分布和特性。研究结果表明，次级并合事件可以触发星系盘的内部－外部生长，年轻的恒星形成团位于外潮汐臂而非内盘中。在中心盘区，恒星形成密度较大，恒星形成团的年龄也较大。 <br><br> <div>
+We present a UV, optical, and near-IR study of the star-forming complexes in the nearby peculiar galaxy NGC 3718, using Ultraviolet Imaging telescope, Galaxy Evolution Explorer, Spitzer, and DECam Legacy Survey imaging data. The galaxy has a disturbed optical morphology owing to the multiple tidal arms, the warped disk, and the prominent curved dust lanes, but in the near-IR it appears to be a bulge-dominated galaxy. Its disturbed morphology makes it an excellent case to study star formation in a tidally disturbed galaxy that may have undergone a recent minor merger. To study the distribution and properties of the star-forming clumps (SFCs), we divided the galaxy within the R25 (B band) radius into three parts—the upper, central, and lower regions. Using the UV band images, we investigated the warped star-forming disk, the extended tidal arms, and the distribution and sizes of the 182 SFCs. Their distribution is 49, 60, and 73 in the galaxy’s upper, central, and lower regions, respectively. We determined the UV color, star formation rates (SFRs), star formation density (ΣSFR), and ages of the SFCs. The central disk of the galaxy has a larger mean ΣSFR that is ∼3.3 and ∼1.6 times higher than the upper and lower regions, respectively. We also find that the SFCs in the central disk are older than those in the tidal arms. Our study thus shows that minor mergers can trigger the inside-out growth of galaxy disks, where the younger SFCs are in outer tidal arms and not in the inner disk.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Core Formation by Binary Scouring and Gravitational Wave Recoil in Massive Elliptical Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7390</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7390</guid>
+<content:encoded><![CDATA[
+<div> 核心形成, 超大质量黑洞, 双星, 引力波, N体模拟
+
+总结:
+核心形成的主要机制是超大质量黑洞双星的清除作用和来自引力波反冲的加热作用。研究使用N体模拟模拟了四个具有超过0.5千秒差距的大质量椭圆星系的形成过程。结果表明，NGC 1600和A2147-BCG的核心尺寸小于1.3千秒差距，可以通过双星清除机制形成，而NGC 6166和A2261-BCG的大于2千秒差距的核心则需要引力波引起的加热作用。引力波加热作用会导致表面亮度变平，对应着真正的三维空间密度的平坦核心，并且会优先移除轨道角动量低的恒星离星系核心。 <br><br> <div>
+Scouring by supermassive black hole (SMBH) binaries is the most accepted mechanism for the formation of the cores seen in giant elliptical galaxies. However, an additional mechanism is required to explain the largest observed cores. Gravitational-wave (GW) recoil is expected to trigger further growth of the core, as subsequent heating from dynamical friction of the merged SMBH removes stars from the central regions. We model core formation in massive elliptical galaxies from both binary scouring and heating by GW recoil and examine their unique signatures. We aim to determine whether the nature of cores in 3D space density can be attributed uniquely to either process and whether the magnitude of the kick can be inferred. We perform N-body simulations of galactic mergers of multicomponent galaxies, based on the observed parameters of four massive elliptical galaxies with cores >0.5 kpc. After binary scouring and hardening, the merged SMBH remnant is given a range of GW recoil kicks with 0.5–0.9 of the escape speed of the galaxy. We find that binary scouring alone can form the cores of NGC 1600 and A2147-BCG, which are <1.3 kpc in size. However, the >2 kpc cores in NGC 6166 and A2261-BCG require heating from GW recoil kicks of <0.5 of the galaxy escape speed. A unique feature of GW recoil heating is flatter cores in surface brightness, corresponding to truly flat cores in 3D space density. It also preferentially removes stars on low angular momentum orbits from the galactic nucleus.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Probing Coronal Mass Ejection Inclination Effects with EUHFORIA</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7392</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7392</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Coronal mass ejections (CMEs), flux rope (FR), EUHFORIA 3D model, sheath evolution, MHD drag
+总结:
+CME是一种复杂的磁化等离子体结构，其磁轴与黄道面角度不同，会受到不均匀和各向同性的星际磁场和太阳风的影响。研究使用EUHFORIA 3D模型进行模拟，关注CME倾斜度对其传播的影响。研究发现，CME的倾斜度会影响其保护层演变、磁流体动力学阻力和非径向流动。此外，研究还发现，随着距离太阳的增加，保护层持续时间会增加，而非径向流动在黄道面外更为显著。然而，在数值设定上无法解决阻力参数的倾斜度依赖性。 <div>
+Coronal mass ejections (CMEs) are complex magnetized plasma structures in which the magnetic field spirals around a central axis, forming what is known as a flux rope (FR). The central FR axis can be oriented at any angle with respect to the ecliptic. Throughout its journey, a CME will encounter interplanetary magnetic fields and solar winds that are neither homogeneous nor isotropic. Consequently, CMEs with different orientations will encounter different ambient medium conditions and, thus, the interaction of a CME with its surrounding environment will vary depending on the orientation of its FR axis, among other factors. This study aims to understand the effect of inclination on CME propagation. We performed simulations with the EUHFORIA 3D magnetohydrodynamic model. This study focuses on two CMEs modeled as spheromaks with nearly identical properties, differing only by their inclination. We show the effects of CME orientation on sheath evolution, MHD drag, and nonradial flows by analyzing the model data from a swarm of 81 virtual spacecraft scattered across the inner heliospheric. We have found that the sheath duration increases with radial distance from the Sun and that the rate of increase is greater on the flanks of the CME. Nonradial flows within the studied sheath region appear larger outside the ecliptic plane, indicating a “sliding” of the interplanetary magnetic field in the out-of-ecliptic plane. We found that the calculated drag parameter does not remain constant with radial distance and that the inclination dependence of the drag parameter cannot be resolved with our numerical setup.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Accelerating Decline of the Mass Transfer Rate in the Recurrent Nova T Pyxidis*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7463</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7463</guid>
+<content:encoded><![CDATA[
+
+The recurrent nova T Pyxidis (T Pyx) has erupted six times since 1890, with its last outburst in 2011, and the relatively short recurrence time between classical nova explosions indicates that T Pyx must have a massive white dwarf (WD) accreting at a high rate. It is believed that, since its outburst in 1890, the mass transfer rate in T Pyx was very large due to a feedback loop where the secondary is heated by the hot WD. The feedback loop has been slowly shutting off, reducing the mass transfer rate, and thereby explaining the magnitude decline of T Pyx from ∼13.8 (before 1890) to 15.7 just before the 2011 eruption. We present an analysis of the latest Hubble Space Telescope far-ultraviolet and optical spectra, obtained 12 yr after the 2011 outburst, showing that the mass transfer rate has been steadily declining and is now below its preoutburst level by about 40%: yr−1 for a WD mass of ∼1.0–1.4 M⊙, an inclination of 50°–60°, reddening of E(B − V) = 0.30 ± 0.05, and a Gaia Data Release 3 distance of pc. This steady decrease in the mass transfer rate in the ∼decade after the 2011 outburst is in sharp contrast with the more constant preoutburst ultraviolet continuum flux level from archival International Ultraviolet Explorer spectra. The flux (i.e., ) decline rate is 29 times faster now in the last ∼decade than observed since 1890 to ∼2010. The feedback loop shut off seems to be accelerating, at least in the decade following its 2011 outburst. In all eventualities, our analysis confirms that T Pyx is going through an unusually peculiar short-lived phase.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Nonthermal Signatures of Radiative Supernova Remnants</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74f0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74f0</guid>
+<content:encoded><![CDATA[
+
+The end of supernova remnant (SNR) evolution is characterized by a so-called “radiative” stage, in which efficient cooling of the hot bubble inside the forward shock slows expansion, leading to eventual shock breakup. Understanding SNR evolution at this stage is vital for predicting feedback in galaxies, since SNRs are expected to deposit their energy and momentum into the interstellar medium at the ends of their lives. A key prediction of SNR evolutionary models is the formation at the onset of the radiative stage of a cold, dense shell behind the forward shock. However, searches for these shells via their neutral hydrogen emission have had limited success. We instead introduce an independent observational signal of shell formation arising from the interaction between nonthermal particles accelerated by the SNR forward shock (cosmic rays) and the dense shell. Using a semi-analytic model of particle acceleration based on state-of-the-art simulations coupled with a high-resolution hydrodynamic model of SNR evolution, we predict the nonthermal emission that arises from this interaction. We demonstrate that the onset of the radiative stage leads to nonthermal signatures from radio to gamma rays, including radio and gamma-ray brightening by nearly 2 orders of magnitude. Such a signature may be detectable with current instruments, and will be resolvable with the next generation of gamma-ray telescopes (namely, the Cherenkov Telescope Array).
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A VLA Study of Newly Discovered Southern Latitude Nonthermal Filaments in the Galactic Center: Polarimetric and Magnetic Field Properties</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fe</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fe</guid>
+<content:encoded><![CDATA[
+
+A population of structures unique to the Galactic Center (GC), known as the nonthermal filaments (NTFs), has been studied for over 40 yr, but much remains unknown about them. In particular, there is no widely accepted and unified understanding for how the relativistic electrons illuminating these structures are generated. One possibility is that there are compact and extended sources of cosmic rays, which then diffuse along magnetic flux tubes leading to the illumination of the NTFs through synchrotron emission. In this work, we present and discuss the polarimetric distributions associated with a set of faint NTFs in the GC that have only been studied in total intensity previously. We compare the derived polarized intensity, rotation measure, and intrinsic magnetic field distributions for these structures with the results obtained for previously observed GC NTFs. The results are then used to enhance our understanding of the large-scale polarimetric properties of the GC. We then use the derived polarimetric distributions to constrain models for the mechanisms generating the relativistic electrons that illuminate these structures.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Oxygen Isotope Exchange between Dust Aggregates and Ambient Nebular Gas</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7795</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7795</guid>
+<content:encoded><![CDATA[
+
+Meteorites and their components exhibit a diverse range of oxygen isotope compositions, and the isotopic exchange timescale between dust grains and ambient gas is a key parameter for understanding the spatiotemporal evolution of the solar nebula. As dust grains existed as macroscopic aggregates in the solar nebula, it is necessary to consider the isotopic exchange timescales for these aggregates. Here, we theoretically estimate the isotope exchange timescales between dust aggregates and ambient vapor. The isotope exchange process between aggregates and ambient vapor is divided into four processes: (i) supply of gas molecules to the aggregate surface, (ii) diffusion of molecules within the aggregate, (iii) isotope exchange on the surface of constituent particles, and (iv) isotope diffusion within the particles. We evaluate these timescales and assess which one becomes the rate-determining step. We reveal that the isotope exchange timescale is approximately the same as that of the constituent particles when the aggregate radius is smaller than the critical value, which is a few centimeters when considering the exchange reaction between amorphous forsterite aggregates and water vapor.
+]]></content:encoded>
+
+<pubDate>2024-10-13T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Mixed Source Region Signatures inside Magnetic Switchback Patches Inferred by Heavy Ion Diagnostics</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7815</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7815</guid>
 <content:encoded><![CDATA[
 <div> 关键词: Parker Solar Probe, Alfvén waves, magnetic switchback patches, heavy ion properties, Solar Orbiter
 
-总结: Parker Solar Probe在靠近太阳的轨道上发现了大幅度的Alfvén波，在离散的磁场反转区域产生了磁场反转斑块。文章使用了Solar Orbiter的数据，发现这些斑块并没有区别于周围太阳风的离子和元素组成。同时，斑块和周围的太阳风都表现出快速和慢速风的特征，说明它们可能源自太阳日冕区域不同的磁场和热性质。研究还表明，可能是置换重连接和/或剪切驱动过程在斑块的形成中发挥了作用。<br><br> <div>
+总结: Parker Solar Probe在靠近太阳的轨道上发现了大幅度的Alfvén波，在离散的磁场反转区域产生了磁场反转斑块。文章使用了Solar Orbiter的数据，发现这些斑块并没有区别于周围太阳风的离子和元素组成。同时，斑块和周围的太阳风都表现出快速和慢速风的特征，说明它们可能源自太阳日冕区域不同的磁场和热性质。研究还表明，可能是置换重连接和/或剪切驱动过程在斑块的形成中发挥了作用。<br /><br /> <div>
 Since Parker Solar Probe’s (Parker’s) first perihelion pass at the Sun, large-amplitude Alfvén waves grouped in patches have been observed near the Sun throughout the mission. Several formation processes for these magnetic switchback patches have been suggested with no definitive consensus. To provide insight into their formation, we examine the heavy ion properties of several adjacent magnetic switchback patches around Parker’s 11th perihelion pass, capitalizing on a spacecraft lineup with Solar Orbiter where each samples the same solar wind streams over a large range of longitudes. Heavy ion properties (Fe/O, C6+/C5+, O7+/O6+) related to the wind’s coronal origin, measured with Solar Orbiter, can be linked to switchback patch structures identified near the Sun with Parker. We find that switchback patches do not contain distinctive ion and elemental compositional signatures different from the surrounding nonswitchback solar wind. Both the patches and ambient wind exhibit a range of fast and slow wind qualities, indicating coronal sources with open and closed field lines in close proximity. These observations and modeling indicate switchback patches form in coronal hole boundary wind and with a range of source region magnetic and thermal properties. Furthermore, the heavy ion signatures suggest interchange reconnection and/or shear-driven processes may play a role in their creation.
 ]]></content:encoded>
-
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
 <item>
@@ -23,12 +202,11 @@ Since Parker Solar Probe’s (Parker’s) first perihelion pass at the Sun, larg
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad642c</guid>
 <content:encoded><![CDATA[
 <div> radiative transfer, despotic, Simba simulations, machine learning, cosmological hydrodynamical simulations
-<br><br>
+<br /><br />
 slick是一个软件包，用于通过计算物理特性和环境来计算模型云的CO、[C i]和[C ii]的亮度。通过将机器学习方法合并到这一过程中，我们还能够预测星系的线发射的宇宙演化特性，比如亮度函数。我们对100,000个气体粒子和2500个星系进行了测试，对所有谱线达到了约99.8%的平均准确度。最后，我们展示了在宇宙学水动力模拟中创建的首个模型光锥，其中包括从z = 0到z = 10的真实和机器学习预测的CO、[C i]和[C ii]的亮度。 
-<br>总结: 该软件包通过despotic辐射传输代码计算模拟云和星系的真实CO、[C i]和[C ii]亮度，并且通过机器学习方法预测了线发射的演化特性。 <div>
+<br />总结: 该软件包通过despotic辐射传输代码计算模拟云和星系的真实CO、[C i]和[C ii]亮度，并且通过机器学习方法预测了线发射的演化特性。 <div>
 We present slick (the Scalable Line Intensity Computation Kit), a software package that calculates realistic CO, [C i], and [C ii] luminosities for clouds and galaxies formed in hydrodynamic simulations. Built on the radiative transfer code despotic, slick computes the thermal, radiative, and statistical equilibrium in concentric zones of model clouds, based on their physical properties and individual environments. We validate our results by applying slick to the high-resolution run of the Simba simulations, testing the derived luminosities against empirical and theoretical/analytic relations. To simulate the line emission from a universe of emitting clouds, we have incorporated random forest machine learning (ML) methods into our approach, allowing us to predict cosmologically evolving properties of CO, [C i], and [C ii] emission from galaxies such as luminosity functions. We tested this model in 100,000 gas particles, and 2500 galaxies, reaching an average accuracy of ∼99.8% for all lines. Finally, we present the first model light cones created with realistic and ML-predicted CO, [C i], and [C ii] luminosities in cosmological hydrodynamical simulations, from z = 0 to z = 10.
 ]]></content:encoded>
-
 <pubDate>2024-10-10T23:00:00Z</pubDate>
 </item>
 <item>
@@ -36,12 +214,11 @@ We present slick (the Scalable Line Intensity Computation Kit), a software packa
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4b</guid>
 <content:encoded><![CDATA[
-<div> 关键词: JWST MIRI, GATOS survey, ionized gas distributions, AGN-driven radio jets, outflow rates<br>
-<br>
-利用JWST MIRI/Medium Resolution Spectrograph积分场观测，展示了GATOS调查中包括的六个邻近Seyfert星系的千秒巴尔中心区域的电离气体分布和动力学的多样性。具体来说，我们呈现了六条电离发射线的空间分辨率的流量分布和速度场图，涵盖了很大范围的电离电位（15.8-97.1 eV）。根据这些地图，我们展示了六个目标的电离气体流出的证据，发现NGC 5728、NGC 5506和ESO137-G034存在一些高度扰动的区域。我们提出，AGN驱动的无线电喷流可能在触发这些高度扰动的区域中发挥着重要作用。基于[Ne V]发射估算的流出速率，我们发现这六个目标的电离流出速率趋于收敛到比以前更窄的范围。这些结果对于具有可比辐射度的AGN的流出性质具有重要意义。<br><br>总结: 利用JWST MIRI的积分场观测，展示了六个邻近Seyfert星系的电离气体分布和动力学的多样性，发现了电离气体流出的证据，推测AGN驱动的无线电喷流可能在触发高度扰动的区域中发挥着重要作用，对AGN的流出性质具有重要意义。 <div>
+<div> 关键词: JWST MIRI, GATOS survey, ionized gas distributions, AGN-driven radio jets, outflow rates<br />
+<br />
+利用JWST MIRI/Medium Resolution Spectrograph积分场观测，展示了GATOS调查中包括的六个邻近Seyfert星系的千秒巴尔中心区域的电离气体分布和动力学的多样性。具体来说，我们呈现了六条电离发射线的空间分辨率的流量分布和速度场图，涵盖了很大范围的电离电位（15.8-97.1 eV）。根据这些地图，我们展示了六个目标的电离气体流出的证据，发现NGC 5728、NGC 5506和ESO137-G034存在一些高度扰动的区域。我们提出，AGN驱动的无线电喷流可能在触发这些高度扰动的区域中发挥着重要作用。基于[Ne V]发射估算的流出速率，我们发现这六个目标的电离流出速率趋于收敛到比以前更窄的范围。这些结果对于具有可比辐射度的AGN的流出性质具有重要意义。<br /><br />总结: 利用JWST MIRI的积分场观测，展示了六个邻近Seyfert星系的电离气体分布和动力学的多样性，发现了电离气体流出的证据，推测AGN驱动的无线电喷流可能在触发高度扰动的区域中发挥着重要作用，对AGN的流出性质具有重要意义。 <div>
 Utilizing JWST MIRI/Medium Resolution Spectrograph integral field unit observations of the kiloparsec-scale central regions, we showcase the diversity of ionized gas distributions and kinematics in six nearby Seyfert galaxies included in the GATOS survey. Specifically, we present spatially resolved flux distribution and velocity field maps of six ionized emission lines covering a large range of ionization potentials (15.8–97.1 eV). Based on these maps, we showcase the evidence of ionized gas outflows in the six targets, and find some highly disturbed regions in NGC 5728, NGC 5506, and ESO137-G034. We propose active galactic nucleus (AGN)-driven radio jets plausibly play an important role in triggering these highly disturbed regions. With the outflow rates estimated based on [Ne V] emission, we find the six targets tend to have ionized outflow rates converged to a narrower range than the previous finding. These results have an important implication for the outflow properties in AGN of comparable luminosity.
 ]]></content:encoded>
-
 <pubDate>2024-10-10T23:00:00Z</pubDate>
 </item>
 <item>
@@ -49,14 +226,12 @@ Utilizing JWST MIRI/Medium Resolution Spectrograph integral field unit observati
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7028</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7028</guid>
 <content:encoded><![CDATA[
-<div> 磁性双星，ϵ Lupi A，X射线观测，磁层相互作用，磁场重连接<br>
-ϵ Lupi A系统是唯一一个两个组分都有可检测磁场的磁性双星系统，磁层相互作用在其射电光度曲线中呈现出周期性脉冲。本研究旨在探究X射线领域中的磁层相互作用现象。利用XMM-Newton望远镜对该系统进行观测，覆盖了其轨道周期。我们观测到可变的X射线发射，在近心点附近呈现最大通量，与射电观测相似。X射线光谱显示在近心点期间，硬X射线通量显着增加。我们将软X射线发射归因于个体磁层，而硬X射线发射则解释为磁层相互作用，特别是由于磁场重连接。然而，与射电不同的是，我们并未发现任何显著的短期X射线爆发。这种异国情调的系统可能是研究具有有序磁层的近邻双星中磁层相互作用的理想目标。<br><br>总结: 研究发现了ϵ Lupi A系统中磁层相互作用的X射线表现，包括变化的X射线发射、硬X射线通量的显著增加以及与射电观测的相似性。同时也发现了与射电观测不同的地方，即未发现显著的短期X射线爆发。这表明这一独特的系统可能是研究有序磁层近邻双星中磁层相互作用的理想目标。 <div>
+<div> 磁性双星，ϵ Lupi A，X射线观测，磁层相互作用，磁场重连接<br />
+ϵ Lupi A系统是唯一一个两个组分都有可检测磁场的磁性双星系统，磁层相互作用在其射电光度曲线中呈现出周期性脉冲。本研究旨在探究X射线领域中的磁层相互作用现象。利用XMM-Newton望远镜对该系统进行观测，覆盖了其轨道周期。我们观测到可变的X射线发射，在近心点附近呈现最大通量，与射电观测相似。X射线光谱显示在近心点期间，硬X射线通量显着增加。我们将软X射线发射归因于个体磁层，而硬X射线发射则解释为磁层相互作用，特别是由于磁场重连接。然而，与射电不同的是，我们并未发现任何显著的短期X射线爆发。这种异国情调的系统可能是研究具有有序磁层的近邻双星中磁层相互作用的理想目标。<br /><br />总结: 研究发现了ϵ Lupi A系统中磁层相互作用的X射线表现，包括变化的X射线发射、硬X射线通量的显著增加以及与射电观测的相似性。同时也发现了与射电观测不同的地方，即未发现显著的短期X射线爆发。这表明这一独特的系统可能是研究有序磁层近邻双星中磁层相互作用的理想目标。 <div>
 The ϵ Lupi A (HD 136504) system stands out among magnetic massive binaries as the only short-period binary system in which both components have detectable magnetic fields. The proximity of the magnetospheres of the components leads to magnetospheric interactions, which are revealed as periodic pulses in the radio light curve of this system. In this work, we aim to investigate the magnetospheric interaction phenomenon in the X-ray domain. We observed this system with the XMM-Newton telescope, covering its orbital period. We observe variable X-ray emission with maximum flux near periastron, showing similarity with radio observations. The X-ray spectra show significantly elevated hard X-ray flux during periastron. We attribute the soft X-ray emission to individual magnetospheres, while the hard X-ray emission is explained by magnetospheric interaction, particularly due to magnetic reconnection. However, unlike in the radio, we do not find any significant short-term X-ray bursts. This exotic system may be an ideal target to study magnetospheric interactions in close binaries with organized magnetospheres.
 ]]></content:encoded>
-
 <pubDate>2024-10-10T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Formation of WNL Stars in the MW and LMC Based on the k − ω Model</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b13</link>
@@ -11793,55 +11968,6 @@ We present the results from a study of ∼9600 broadline-selected active galacti
 <div> planetesimal formation, streaming instability, aerodynamic interactions, particle self-gravity, turbulent forcing
 总结：<br /><br />本文研究了通过气体的两向空气动力学相互作用来实现固体浓缩，以及最终形成类地行星的流动不稳定性。作者进行了3D层流剪切盒模拟，并发现强制湍流可以显著增加所需的浓度阈值，作者还提供了临界Z的单一拟合值，并估计了考虑了粒子反馈和外部湍流的粒子尺度高度。最终实验表明，形成类地行星需要超过单位的粒子与气体的密度比值。 <div>
 The streaming instability (SI) is a leading candidate for planetesimal formation, which can concentrate solids through two-way aerodynamic interactions with the gas. The resulting concentrations can become sufficiently dense to collapse under particle self-gravity, forming planetesimals. Previous studies have carried out large parameter surveys to establish the critical particle to gas surface density ratio (Z), above which SI-induced concentration triggers planetesimal formation. The threshold Z depends on the dimensionless stopping time (τs, a proxy for dust size). However, these studies neglected both particle self-gravity and external turbulence. Here, we perform 3D stratified shearing box simulations with both particle self-gravity and turbulent forcing, which we characterize via a turbulent diffusion parameter, αD. We find that forced turbulence, at amplitudes plausibly present in some protoplanetary disks, can increase the threshold Z by up to an order of magnitude. For example, for τs = 0.01, planetesimal formation occurs when Z ≳ 0.06, ≳0.1, and ≳0.2 at αD = 10−4, 10−3.5, and 10−3, respectively. We provide a single fit to the critical Z required for the SI to work as a function of αD and τs (although limited to the range τs = 0.01–0.1). Our simulations also show that planetesimal formation requires a mid-plane particle-to-gas density ratio that exceeds unity, with the critical value being largely insensitive to αD. Finally, we provide an estimation of particle scale height that accounts for both particle feedback and external turbulence.
-]]></content:encoded>
-<pubDate>2024-07-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>PAC. V. The Roles of Mass and Environment in the Quenching of Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad47f7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad47f7</guid>
-<content:encoded><![CDATA[
-<div> 关键词: galactic quenching, mass, environment, Hyper Suprime-Cam Subaru Strategic Program, IllustrisTNG  
-总结:  
-通过对超级亚洲日本战略计划和Slogan数字天空调查的数据进行分析，研究了星系熄灭中质量和环境的作用。发现质量和环境熄灭都对伴随星系的演化有影响。通过量化伴随星系的熄灭分数过剩，确定高密度晕环境影响星形成熄灭的程度。得出了一个适用于限制星系形成模型的拟合公式。与IllustrisTNG进行了定量比较，发现在低质量伴随星系方面存在重要差异。  
-<br /><br />总结: 该研究分析了星系熄灭中质量和环境的作用，发现两者都对伴随星系的演化有影响。研究还量化了高密度晕环境影响星形成熄灭的程度，并提出了一个适用于限制星系形成模型的拟合公式。此外，还通过与IllustrisTNG进行了定量比较，发现在低质量伴随星系方面存在重要差异。 <div>
-The roles that mass and environment play in galaxy quenching are still under debate. Leveraging the Photometric objects Around Cosmic webs method, we analyze the excess surface distribution of photometric galaxies in different colors (rest-frame u − r) within the stellar mass range of 109.0 ∼ 1011.0M⊙ around spectroscopic massive central galaxies (1010.9 ∼ 1011.7M⊙) at the redshift interval of 0 < zs < 0.7, utilizing data from the Hyper Suprime-Cam Subaru Strategic Program and the spectroscopic samples of Slogan Digital Sky Survey (i.e., Main, LOWZ, and CMASS samples). We find that both mass and environmental quenching contribute to the evolution of companion galaxies. To isolate the environmental effect, we quantify the quenched fraction excess (QFE) of companion galaxies encircling massive central galaxies within 0.01h−1 Mpc < rp < 20h−1 Mpc, representing the surplus quenched fraction relative to the average. We find that the high-density halo environment affects star formation quenching up to about three times the virial radius, and this effect becomes stronger at lower redshift. We also find that even after being scaled by the virial radius, the environmental quenching efficiency is higher for more massive halos or for companion galaxies of higher stellar mass, though the trends are quite weak. We present a fitting formula that comprehensively captures the QFE across central and companion stellar mass bins, halo-centric distance bins, and redshift bins, offering a valuable tool for constraining galaxy formation models. Furthermore, we have made a quantitative comparison with IllustrisTNG that underscores some important differences, particularly in the excessive quenching of low-mass companion galaxies (<109.5M⊙) in the simulation.
-]]></content:encoded>
-<pubDate>2024-07-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Chandra Study of the Proper Motion of HST-1 in the Jet of M87</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad487e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad487e</guid>
-<content:encoded><![CDATA[
-<div> M87, radio galaxy, jet, X-ray image, flux variability
-总结:
-M87是一个著名的射电星系，其射流中的HST-1节点在X射线波段具有明亮的光结，我们分析了这个节点的X射线图像和通量变化。我们使用了2000年至2021年间112次Chandra ACIS-S观测数据进行了分析，总曝光时间为884千秒。通过解卷积图像研究了X射线射流的亮度分布，并测量了核心和HST-1的相对距离。从2003年到2005年（与HST-1的明亮闪耀同时），我们发现HST-1的通量与其与核心的偏移之间存在相关性。在随后的数据中，我们发现这种偏移稳定增加，这意味着HST-1的速度为6.6 ± 0.9c（2.0 ± 0.3 pc yr−1），与先前的结果一致。我们讨论了通量-偏移相关性的模型，这些模型包括了两个或四个相距数十秒差距的发射区域。我们将这些结果归因于射流中的移动激波，这使我们能够测量射流的内部结构。 <div>
-The radio galaxy M87 is well known for its jet, which features a series of bright knots observable from radio to X-ray wavelengths. We analyze the X-ray image and flux variability of the knot HST-1 in the jet. Our analysis includes all 112 available Chandra ACIS-S observations from 2000 to 2021, with a total exposure time of ∼884 ks. We use deconvolved images to study the brightness profile of the X-ray jet and measure the relative separation between the core and HST-1. From 2003 to 2005 (which coincides with a bright flare from HST-1), we find a correlation between the flux of HST-1 and its offset from the core. In subsequent data, we find a steady increase in this offset, which implies a bulk superluminal motion for HST-1 of 6.6 ± 0.9 c (2.0 ± 0.3 pc yr−1), in keeping with prior results. We discuss models for the flux–offset correlation that feature either two or four emission regions separated by tens of parsecs. We attribute these results to moving shocks in the jet, which allow us to measure the internal structure of the jet.
-]]></content:encoded>
-<pubDate>2024-07-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiband Simultaneous Photometry of Type II SN 2023ixf with Mephisto and the Twin 50 cm Telescopes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4be3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4be3</guid>
-<content:encoded><![CDATA[
-<div> 光度观测，多波段，超新星，核心坍塌，尘埃
-总结:
-本文报告了对M101星系中SN 2023ixf的多波段光度观测结果。超新星的绝对光度在爆发后3.9天达到最大值，之后逐渐稳定至约90天。有效温度在最初的观测后逐渐下降，并在两个月后稳定在约(3000-4000)K。光球半径的演化与速度呈现出类似于全同展开的趋势，并在之后缩小。根据放射性尾迹，初始镍质量约为0.098太阳质量。爆炸能量和喷射物质量分别估计为E ≃(1.0-5.7) × 10^51 erg和Mej ≃(3.8-16)太阳质量。峰值绝对光度被认为是喷射物与周围介质（CSM）相互作用的结果。我们发现一个冲击形成的CSM质量为MCSM ≃0.013太阳质量，CSM密度为ρCSM ≃2.5 × 10^-13克/厘米^3，以及一个前体恒星的质量损失率。 <div>
-SN 2023ixf, recently reported in the nearby galaxy M101 at a distance of 6.85 Mpc, was one of the closest and brightest core-collapse supernovae in the last decade. In this work, we present multiwavelength photometric observation of SN 2023ixf with the Multi-channel Photometric Survey Telescope (Mephisto) in the uvgr bands and with the twin 50 cm telescopes in the griz bands. We find that the bolometric luminosity reached the maximum value of 3 × 1043 erg s−1 at 3.9 days after the explosion and fully settled onto the radioactive tail at ∼90 days. The effective temperature decreased from 3.2 × 104 K at the first observation and approached a constant of ∼(3000–4000) K after the first 2 months. The evolution of the photospheric radius is consistent with a homologous expansion with a velocity of 8700 km s−1 in the first 2 months, and it shrunk subsequently. Based on the radioactive tail, the initial nickel mass is about MNi ∼ 0.098 M⊙. The explosion energy and the ejecta mass are estimated to be E ≃ (1.0–5.7) × 1051 erg and Mej ≃ (3.8–16) M⊙, respectively. The peak bolometric luminosity is proposed to be contributed by the interaction between the ejecta and the circumstellar medium (CSM). We find a shocked CSM mass of MCSM ∼ 0.013 M⊙, a CSM density of ρCSM ∼ 2.5 × 10−13 g cm−3, and a mass-loss rate of the progenitor of .
-]]></content:encoded>
-<pubDate>2024-07-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Early Planet Formation in Embedded Disks (eDisk). XV. Influence of Magnetic Field Morphology in Dense Cores on Sizes of Protostellar Disks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c6b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c6b</guid>
-<content:encoded><![CDATA[
-<div> 磁场、分子云核、星盘、磁场形态、盘半径
-
-磁场在分子云核中可能在星盘形成过程中发挥作用。通过ALMA大型项目“嵌入盘早期行星形成（eDisk）”对16个原恒星核进行了研究，解析了它们的盘，并使用JCMT POL-2观测推导了0.1 pc尺度的磁场形态。从密核中测量了磁场的平均取向和角度离散度，并与eDisk项目中动力学测定的原恒星质量的尺度和1.3毫米连续盘的半径进行了比较。我们观察到盘的半径与恒星质量之间存在显著的相关性，但没有发现盘半径与磁场取向角或磁场角度离散度之间的统计显著依赖性。然而，在考虑投影效应时，我们不能排除盘半径与三维空间中的偏离角之间存在正相关性的可能性。我们的结果表明，密核中磁场的形态可能在盘形成过程中并不起主导作用。相反，原恒星盘的尺寸可能更受到已被吸积到星+盘系统中的质量以及可能的其他参数（例如磁场强度、核自转和磁扩散性）的影响。 <br /><br />总结: 研究发现密核中的磁场形态对星盘形成过程不起主导作用，星盘的尺寸更可能受到被吸积到星+盘系统中的质量以及其他参数的影响。 <div>
-The magnetic field of a molecular cloud core may play a role in the formation of circumstellar disks in the core. We present magnetic field morphologies in protostellar cores of 16 targets in the Atacama Large Millimeter/submillimeter Array large program “Early Planet Formation in Embedded Disks (eDisk),” which resolved their disks with 7 au resolutions. The 0.1 pc scale magnetic field morphologies were inferred from the James Clerk Maxwell Telescope POL-2 observations. The mean orientations and angular dispersions of the magnetic fields in the dense cores are measured and compared with the radii of the 1.3 mm continuum disks and the dynamically determined protostellar masses from the eDisk program. We observe a significant correlation between the disk radii and the stellar masses. We do not find any statistically significant dependence of the disk radii on the projected misalignment angles between the rotational axes of the disks and the magnetic fields in the dense cores, nor on the angular dispersions of the magnetic fields within these cores. However, when considering the projection effect, we cannot rule out a positive correlation between disk radii and misalignment angles in three-dimensional space. Our results suggest that the morphologies of magnetic fields in dense cores do not play a dominant role in the disk formation process. Instead, the sizes of protostellar disks may be more strongly affected by the amount of mass that has been accreted onto star+disk systems, and possibly other parameters, for example, magnetic field strength, core rotation, and magnetic diffusivity.
 ]]></content:encoded>
 <pubDate>2024-07-07T23:00:00Z</pubDate>
 </item>
