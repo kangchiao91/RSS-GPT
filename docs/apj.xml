@@ -5,14 +5,39 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Mean Free Path of 13–64 MeV Protons Derived from Statistical Results of Solar Energetic Particle Events</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad70aa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad70aa</guid>
+<content:encoded><![CDATA[
+<div> 太阳风暴, 太阳质子事件, 磁场连接, 能量参数, 粒子扩散系数
+总结:<br><br>王等人的最新研究调查了大于10MeV的太阳质子事件，通过STEREO-A、STEREO-B和SOHO航天器进行观测。研究识别了每次事件中与源区最佳磁场连接的航天器，并通过拟合分析了航天器观测到的高能质子强度。拟合过程产生了两个参数b和c，用于每次事件的四个能量通道。统计分析揭示了b和c之间的幂律相关性。研究中还对在星际空间中的粒子扩散系数进行了深入探讨，模拟表明径向平均自由程与径向距离呈幂律关系。因此，观测表明了径向平均自由程随着径向距离呈幂律变化。这个模型在未来的研究中有望用于确定高能质子的平均自由程。 <div>
+A recent study by Wang et al. investigated gradual solar proton events with energies >10 MeV, as observed by STEREO-A, STEREO-B, and the Solar and Heliospheric Observatory spacecraft. For each event, the spacecraft with the best magnetic connection to the source region among the three spacecraft was identified, and energetic proton intensities observed by the spacecraft were analyzed through fitting. The fitting process produced two parameters, b and c, for four energy channels (13–16 MeV, 20–25 MeV, 32–40 MeV, and 40–64 MeV) in each event. Parameters b and c govern the rise and decay of particle intensities, respectively. Statistical analysis revealed a power-law correlation between b and c, expressed as c ∼ b−γ. In this study, in order to explain the relation between the two parameters, we investigate the model of particle diffusion coefficients in the interplanetary space. In our simulations, the radial mean free path is modeled as a power function of radial distance, successfully reproducing the b–c relation. Consequently, the observations demonstrate that the radial mean free path varies with radial distance in a power law. In future research, the model of diffusion coefficients holds promise in determining the mean free path of energetic protons.
+]]></content:encoded>
+
+<pubDate>2024-10-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Kinematics of Supernova Remnants Using Multiepoch Maximum Likelihood Estimation: Chandra Observation of Cassiopeia A as an Example</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad739f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad739f</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 超新星遗迹，MLE方法，速度测量，Chandra X射线望远镜，James Webb太空望远镜 <br>
+总结:<br>
+本研究使用多时段最大似然估计（MLE）方法分析了附近超新星遗迹（SNR）的十年变化。通过整合运动特征和点扩散函数效应到MLE框架中，提高了捕捉SNR动态的准确性。利用卡西奥佩拉A作为代表性示例，使用Chandra X射线天文台在2000年、2009年和2019年获取的数据。该方法定性和定量地证明了对所有区域的冲击波和微弱特征等各种运动提供了准确估计。为了研究不对称结构，MLE方法扩展到结合多个计算域，并使用k-means算法对运动属性进行分类。这种方法允许将不同的物理状态映射到图像上，并通过与James Webb太空望远镜的红外观测进行比较，推测出一个分类的组分与星周物质相互作用。因此，这项技术将有助于量化SNR的动态并发现它们独特的演变。 <div>
+Decadal changes in a nearby supernova remnant (SNR) were analyzed using a multiepoch maximum likelihood estimation (MLE) approach. To achieve greater accuracy in capturing the dynamics of SNRs, kinematic features and point-spread function effects were integrated into the MLE framework. Using Cassiopeia A as a representative example, data obtained by the Chandra X-ray Observatory in 2000, 2009, and 2019 were utilized. The proposed multiepoch MLE was qualitatively and quantitatively demonstrated to provide accurate estimates of various motions, including shock waves and faint features, across all regions. To investigate asymmetric structures, such as singular components that deviate from the direction of expansion, the MLE method was extended to combine multiple computational domains and classify kinematic properties using the k-means algorithm. This approach allowed for the mapping of different physical states onto the image, and one classified component was suggested to interact with circumstellar material by comparison with infrared observations from the James Webb Space Telescope. Thus, this technique will help quantify the dynamics of SNRs and discover their unique evolution.
+]]></content:encoded>
+
+<pubDate>2024-10-14T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Stripe 82X Data Release 3: Multiwavelength Catalog with New Spectroscopic Redshifts and Black Hole Masses</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e7d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e7d</guid>
 <content:encoded><![CDATA[
-<div> X-ray survey, Stripe 82, spectroscopic redshifts, Type 1 AGN, black hole masses<br>总结:<br>本研究发布了Stripe 82 X射线调查的第三个目录，结合了先前发表的X射线源特性、多波长对应物和光度红移，提供了343个新的光谱红移，并为1297个1型活动星系核（AGN）提供了黑洞质量。调查的光谱完整性为56％，在光学星等极限r < 22的Stripe 82X调查连续部分上升至90％。AGN中有23％被认为是被遮挡的，与其他调查不同，1型和X-ray遮挡的AGN只有18％的重叠。我们发现，具有最高X射线光度的AGN正在以最高爱丁顿比例进行吸积，这与大部分黑洞质量吸积发生在AGN明亮阶段的图像一致。我们还发现黑洞质量估计存在较大散布，应使用统一的公式计算黑洞质量以最小化偏见。 <div>
+<div> X-ray survey, Stripe 82, spectroscopic redshifts, Type 1 AGN, black hole masses<br />总结:<br />本研究发布了Stripe 82 X射线调查的第三个目录，结合了先前发表的X射线源特性、多波长对应物和光度红移，提供了343个新的光谱红移，并为1297个1型活动星系核（AGN）提供了黑洞质量。调查的光谱完整性为56％，在光学星等极限r < 22的Stripe 82X调查连续部分上升至90％。AGN中有23％被认为是被遮挡的，与其他调查不同，1型和X-ray遮挡的AGN只有18％的重叠。我们发现，具有最高X射线光度的AGN正在以最高爱丁顿比例进行吸积，这与大部分黑洞质量吸积发生在AGN明亮阶段的图像一致。我们还发现黑洞质量估计存在较大散布，应使用统一的公式计算黑洞质量以最小化偏见。 <div>
 We present the third catalog release of the wide-area (31.3 deg2) Stripe 82 X-ray survey. This catalog combines previously published X-ray source properties with multiwavelength counterparts and photometric redshifts, presents 343 new spectroscopic redshifts, and provides black hole masses for 1297 Type 1 active galactic nuclei (AGN). With spectroscopic redshifts for 3457 out of 6181 Stripe 82X sources, the survey has a spectroscopic completeness of 56%. This completeness rises to 90% when considering the contiguous portions of the Stripe 82X survey with homogeneous X-ray coverage at an optical magnitude limit of r < 22. Within that portion of the survey, 23% of AGN can be considered obscured by being either a Type 2 AGN, reddened (R − K > 4, Vega), or X-ray obscured with a column density of NH > 1022 cm−2. Unlike other surveys, there is only an 18% overlap between Type 2 and X-ray obscured AGN. We calculated black hole masses for Type 1 AGN that have Sloan Digital Sky Survey spectra using virial mass estimators calibrated on the Hβ, Mg ii, Hα, and C iv emission lines. We find wide scatter in these black hole mass estimates, indicating that statistical analyses should use black hole masses calculated from the same formula to minimize bias. We find that the AGN with the highest X-ray luminosities are accreting at the highest Eddington ratios, consistent with the picture that most black hole mass accretion happens in the phase when the AGN is luminous (L2−10keV > 1045 erg s−1).
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -20,15 +45,13 @@ We present the third catalog release of the wide-area (31.3 deg2) Stripe 82 X-ra
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7503</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7503</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 声速上限, 核物质, 方程状态, 中子星, 松弛时间<br>
+<div> 关键词: 声速上限, 核物质, 方程状态, 中子星, 松弛时间<br />
 总结: 
-声速上限是核物质的平方声速的最大值，本研究通过多信使观测和非参数方法重构的方程状态证实了这一上限。观测数据表明，声速上限与中子星质心附近物质的性质一致，这与pQCD驱动的因果约束相符。另外，结果显示声速上限与核物质密度之间存在明显相关性，而当密度达到临界值时，这种相关性被违反。最新的联合约束结果显示中子星的半径和质量的范围。这些研究结果通过两个独立约束的一致性，进一步证实了它们的有效性。 <br><br> <div>
+声速上限是核物质的平方声速的最大值，本研究通过多信使观测和非参数方法重构的方程状态证实了这一上限。观测数据表明，声速上限与中子星质心附近物质的性质一致，这与pQCD驱动的因果约束相符。另外，结果显示声速上限与核物质密度之间存在明显相关性，而当密度达到临界值时，这种相关性被违反。最新的联合约束结果显示中子星的半径和质量的范围。这些研究结果通过两个独立约束的一致性，进一步证实了它们的有效性。 <br /><br /> <div>
 Very recently, it has been shown that there is an upper bound on the squared sound speed of nuclear matter from the transport, which reads . In this work, we demonstrate that this upper bound is corroborated by the reconstructed equation of state (EOS; modeled with a nonparametric method) for ultradense matter. The reconstruction integrates multimessenger observation for neutron stars, in particular, the latest radius measurements for PSR J0437–4715 ( km), PSR J0030+0451 ( km, in the ST+PDT model), and PSR J0740+6620 ( km) by NICER have been adopted. The result shows in all cases, the upper limit for EOS will naturally yield the properties of matter near the center of the massive neutron star consistent with the causality-driven constraint from pQCD, where, in practice, the density in implementing the pQCD likelihood (nL) is applied at (where is the nuclear saturation density). We also note that there is a strong correlation for the maximum cs2 with nL, and is somehow violated when nL = nc,TOV. The result indicates that a higher nL, even considering the uncertainties from statistics, is more natural. Moreover, the remarkable agreement between the outcomes derived from these two distinct and independent constraints (i.e., the transport calculation and pQCD boundary) lends strong support to their validity. In addition, the latest joint constraint for R1.4, R2.0, R1.4 − R2.0, and MTOV are km, km, km, and (at 90% credible level), respectively.
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Measuring 60 pc-scale Star Formation Rate of the Nearby Seyfert Galaxy NGC 1068 with ALMA, HST, VLT/MUSE, and VLA</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6312</link>
@@ -11794,31 +11817,6 @@ The dispersion relation of the magnetized Kelvin–Helmholtz (KH) instability dr
 The fallback disk model is widely accepted to explain long-period neutron stars (NSs) that cannot be simulated by magnetic dipole radiation. However, there was no confirmed detection of disks from the newly discovered long-period pulsars GLEAM-X 162759.5-523504.3 and GPM J1839-10 and the slowest known isolated NS 1E 161348-5055. This might be because the disks have either been in a noninteracting/inactive state where their emission is too weak to be detected or have been disrupted. In this work, we conduct simulations to examine the lifetime of supernova fallback disks around isolated NSs. We assume that the disks' mass varies in a self-similar way, and their interaction with the NS occurs only in an interacting/active state. Our results reveal that nearly all the interacting lifetimes for the disks are shorter than 105 yr, while the existence lifetimes are considerably longer.
 ]]></content:encoded>
 <pubDate>2024-07-10T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Statistical Validation of Multiple Related Data Sets—Case Study Using Interstellar Boundary Explorer Satellite Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad452f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad452f</guid>
-<content:encoded><![CDATA[
-<div> Interstellar Boundary Explorer, data validation, statistical method, ENA, space physics
-<br /><br />
-本文提出了一种统计验证方法，用于评估不同仪器收集的相关数据集之间的协议。针对IBEX任务的新数据集进行了详细的案例研究，旨在为类似分析提供实用指南。自2008年以来，IBEX卫星一直在收集有关太阳圈高能中性原子（ENA）的数据，并受到各种背景噪声的影响，如宇宙射线和太阳高能粒子。IBEX任务最初发布了一个合格的三重巧合（qABC）数据产品，旨在提供无背景污染的ENA观测。进一步的测量表明，qABC数据实际上容易受到污染，具有相对较低的ENA计数和较高的背景率。为了减轻这个问题，任务团队最近考虑发布一种特定的合格双重巧合（qBC）数据产品，其检测率约为qABC数据产品的两倍。本论文介绍了对新的qBC数据产品与已发布的qABC数据产品进行基于模拟的验证。结果表明，qBCs可以合理地认为是对qABCs的源人口进行测量，其平均绝对偏差为3.6%。视觉诊断提供了跨数据产品的源速率一致性的额外确认。本文介绍的框架是通用的，并可应用于空间物理学领域内外的其他验证问题。
-<br /><br />总结: 本文提出了一种统计验证方法，用于评估不同仪器收集的相关数据集之间的协议。IBEX任务的新数据集进行了详细的案例研究，旨在为类似分析提供实用指南。针对太阳圈高能中性原子（ENA）的数据，对新的qBC数据产品与已发布的qABC数据产品进行基于模拟的验证，结果显示它们可以合理地认为是对同一源人口进行测量。本文介绍的框架是通用的，并可应用于空间物理学领域内外的其他验证问题。 <div>
-Space scientists often face the question of whether data collected by different instruments are measurements of the same source population. This paper proposes a statistical validation method for evaluating the agreement between such related data sets. It offers a detailed case study focused on validating a new data set from the Interstellar Boundary Explorer (IBEX) mission, which serves as a practical how-to guide for similar analyses. Since 2008, the IBEX satellite has been gathering data on heliospheric energetic neutral atoms (ENAs) while being exposed to various sources of background noise, such as cosmic rays and solar energetic particles. The IBEX mission initially released only a qualified triple-coincidence (qABC) data product, which was designed to provide observations of ENAs free of background contamination. Further measurements revealed that the qABC data were in fact susceptible to contamination, having relatively low ENA counts and high background rates. To mitigate this issue, the mission team recently considered releasing a certain qualified double-coincidence (qBC) data product, which has roughly twice the detection rate of the qABC data product. This paper presents a simulation-based validation of the new qBC data product against the already-released qABC data product. The results show that the qBCs can plausibly be said to be measuring the same source population as the qABCs up to an average absolute deviation of 3.6%. Visual diagnostics provide additional confirmation of source rate coherence across data products. The framework introduced here is general and can be applied to other validation problems both within and outside the field of space physics.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Modeling Ionized Gas in the Small Magellanic Cloud: The Wolf–Rayet Nebula N76</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad3def</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad3def</guid>
-<content:encoded><![CDATA[
-<div> Spitzer, Herschel, Wolf–Rayet, 小麦哲伦星云, 气体发射线
-总结:
-本研究使用Spitzer和Herschel望远镜对小麦哲伦星云内的Wolf–Rayet星云N76进行了观测，并利用Cloudy模型对红外发射线进行建模。我们发现N76的物理条件为热HII区，电子温度最高可达2.4万K，电子密度在4至12cm-3之间，具有高离化参数。我们的模型表明，大部分的[Si ii]发射是在H ii区边缘产生的，而[O iii]和[Ne iii]等高电离线则主要由恒星风产生。通过分析低金属量的WR星云，本研究为了解WR星对邻近矮星系中离子化气体性质的影响提供了宝贵的见解。 <div>
-We present Cloudy modeling of infrared emission lines in the Wolf–Rayet (WR) nebula N76 caused by one of the most luminous and hottest WR stars in the low metallicity Small Magellanic Cloud. We use spatially resolved mid-infrared Spitzer/InfRared Spectrograph and far-infrared Herschel/PACS spectroscopy to establish the physical conditions of the ionized gas. The spatially resolved distribution of the emission allows us to constrain properties much more accurately than using spatially integrated quantities. We construct models with a range of constant hydrogen densities between nH = 4–10 cm−3 and a stellar wind-blown cavity of 10 pc, which reproduces the intensity and shape of most ionized gas emission lines, including the high ionization lines [O iv] and [Ne v], as well as [S iii], [S iv], [O iii], and [Ne iii]. Our models suggest that the majority of [Si ii] emission (91%) is produced at the edge of the H ii region around the transition between ionized and atomic gas while very little of the [C ii] (<5%) is associated with the ionized gas. The physical conditions of N76 are characterized by a hot HII region with a maximum electron temperature of Te ∼ 24,000 K, electron densities that range from ne ∼ 4 to 12 cm−3, and high ionization parameters of By analyzing a low-metallicity WR nebula with a single ionization source, this work gives valuable insights into the impact WR stars have on the galaxy-integrated ionized gas properties in nearby dwarf galaxies.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
