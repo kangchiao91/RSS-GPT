@@ -5,6 +5,31 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Stripe 82X Data Release 3: Multiwavelength Catalog with New Spectroscopic Redshifts and Black Hole Masses</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e7d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e7d</guid>
+<content:encoded><![CDATA[
+<div> X-ray survey, Stripe 82, spectroscopic redshifts, Type 1 AGN, black hole masses<br>总结:<br>本研究发布了Stripe 82 X射线调查的第三个目录，结合了先前发表的X射线源特性、多波长对应物和光度红移，提供了343个新的光谱红移，并为1297个1型活动星系核（AGN）提供了黑洞质量。调查的光谱完整性为56％，在光学星等极限r < 22的Stripe 82X调查连续部分上升至90％。AGN中有23％被认为是被遮挡的，与其他调查不同，1型和X-ray遮挡的AGN只有18％的重叠。我们发现，具有最高X射线光度的AGN正在以最高爱丁顿比例进行吸积，这与大部分黑洞质量吸积发生在AGN明亮阶段的图像一致。我们还发现黑洞质量估计存在较大散布，应使用统一的公式计算黑洞质量以最小化偏见。 <div>
+We present the third catalog release of the wide-area (31.3 deg2) Stripe 82 X-ray survey. This catalog combines previously published X-ray source properties with multiwavelength counterparts and photometric redshifts, presents 343 new spectroscopic redshifts, and provides black hole masses for 1297 Type 1 active galactic nuclei (AGN). With spectroscopic redshifts for 3457 out of 6181 Stripe 82X sources, the survey has a spectroscopic completeness of 56%. This completeness rises to 90% when considering the contiguous portions of the Stripe 82X survey with homogeneous X-ray coverage at an optical magnitude limit of r < 22. Within that portion of the survey, 23% of AGN can be considered obscured by being either a Type 2 AGN, reddened (R − K > 4, Vega), or X-ray obscured with a column density of NH > 1022 cm−2. Unlike other surveys, there is only an 18% overlap between Type 2 and X-ray obscured AGN. We calculated black hole masses for Type 1 AGN that have Sloan Digital Sky Survey spectra using virial mass estimators calibrated on the Hβ, Mg ii, Hα, and C iv emission lines. We find wide scatter in these black hole mass estimates, indicating that statistical analyses should use black hole masses calculated from the same formula to minimize bias. We find that the AGN with the highest X-ray luminosities are accreting at the highest Eddington ratios, consistent with the picture that most black hole mass accretion happens in the phase when the AGN is luminous (L2−10keV > 1045 erg s−1).
+]]></content:encoded>
+
+<pubDate>2024-10-14T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Upper Limit of Sound Speed in Nuclear Matter: A Harmonious Interplay of Transport Calculation and Perturbative Quantum Chromodynamic Constraint</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7503</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7503</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 声速上限, 核物质, 方程状态, 中子星, 松弛时间<br>
+总结: 
+声速上限是核物质的平方声速的最大值，本研究通过多信使观测和非参数方法重构的方程状态证实了这一上限。观测数据表明，声速上限与中子星质心附近物质的性质一致，这与pQCD驱动的因果约束相符。另外，结果显示声速上限与核物质密度之间存在明显相关性，而当密度达到临界值时，这种相关性被违反。最新的联合约束结果显示中子星的半径和质量的范围。这些研究结果通过两个独立约束的一致性，进一步证实了它们的有效性。 <br><br> <div>
+Very recently, it has been shown that there is an upper bound on the squared sound speed of nuclear matter from the transport, which reads . In this work, we demonstrate that this upper bound is corroborated by the reconstructed equation of state (EOS; modeled with a nonparametric method) for ultradense matter. The reconstruction integrates multimessenger observation for neutron stars, in particular, the latest radius measurements for PSR J0437–4715 ( km), PSR J0030+0451 ( km, in the ST+PDT model), and PSR J0740+6620 ( km) by NICER have been adopted. The result shows in all cases, the upper limit for EOS will naturally yield the properties of matter near the center of the massive neutron star consistent with the causality-driven constraint from pQCD, where, in practice, the density in implementing the pQCD likelihood (nL) is applied at (where is the nuclear saturation density). We also note that there is a strong correlation for the maximum cs2 with nL, and is somehow violated when nL = nc,TOV. The result indicates that a higher nL, even considering the uncertainties from statistics, is more natural. Moreover, the remarkable agreement between the outcomes derived from these two distinct and independent constraints (i.e., the transport calculation and pQCD boundary) lends strong support to their validity. In addition, the latest joint constraint for R1.4, R2.0, R1.4 − R2.0, and MTOV are km, km, km, and (at 90% credible level), respectively.
+]]></content:encoded>
+
+<pubDate>2024-10-14T23:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Measuring 60 pc-scale Star Formation Rate of the Nearby Seyfert Galaxy NGC 1068 with ALMA, HST, VLT/MUSE, and VLA</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6312</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6312</guid>
@@ -15,7 +40,6 @@
 本研究针对近邻塞费尔特星系NGC 1068，利用新的高灵敏度Atacama大型毫米/亚毫米阵列100 GHz连续数据，结合哈勃空间望远镜Paα线数据，提出了NGC 1068分子气体盘的星体形成率（SFR）校准。校准过程中考虑了尘埃消光、H ii 区域的电子温度、AGN污染和扩散电离气体（DIG）的空间变化。经过修正后，NGC 1068盘的总SFR估计为3.2 ± 0.5 M⊙ yr−1。研究还发现南部条状结束和共转半径周围存在高SFR，与先前的SFR测量结果相一致。此外，研究指出基于8μm尘埃发射的总SFR与实际SFR存在差异，这是由于不同追踪器追踪到不同阶段演化的年轻恒星和各自的时间尺度。这项研究提供了一个案例，来解决传统SFR测量中的各种不确定性及其可能导致重大SFR误差的潜在问题。 <div>
 The star formation rate (SFR) is a fundamental parameter for describing galaxies and inferring their evolutionary course. H ii regions yield the best measure of instantaneous SFR in galaxies, although the derived SFR can have large uncertainties depending on tracers and assumptions. We present an SFR calibration for the entire molecular gas disk of the nearby Seyfert galaxy NGC 1068, based on our new high-sensitivity Atacama Large Millimeter/submillimeter Array 100 GHz continuum data at 55 pc (= 0.″8) resolution in combination with the Hubble Space Telescope Paα line data. In this calibration, we account for the spatial variations of dust extinction, electron temperature of H ii regions, AGN contamination, and diffuse ionized gas (DIG) based on publicly available multiwavelength data. Especially, given the extended nature and the possible nonnegligible contribution to the total SFR, a careful consideration of DIG is essential. With a cross-calibration between two corrected ionized gas tracers (free–free continuum and Paα), the total SFR of the NGC 1068 disk is estimated to be 3.2 ± 0.5 M⊙ yr−1, one-third of the SFR without accounting for DIG (9.1 ± 1.4 M⊙ yr−1). We confirmed a high SFR around the southern bar end and the corotation radius, which is consistent with the previous SFR measurements. In addition, our total SFR exceeds the total SFR based on 8 μm dust emission by a factor of 1.5. We attribute this discrepancy to the differences in the young stars at different stages of evolution traced by each tracer and their respective timescales. This study provides an example to address the various uncertainties in conventional SFR measurements and their potential to lead to significant SFR miscalculations.
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -25,10 +49,9 @@ The star formation rate (SFR) is a fundamental parameter for describing galaxies
 <content:encoded><![CDATA[
 <div> TDEs, radio follow-up, ASKAP, late-time emission, optical discovery
 Summary:
-Tidal disruption events (TDEs) are increasingly being detected at radio wavelengths, challenging existing models for radio emission. A study using data from the Australian Square Kilometre Array Pathfinder (ASKAP) detected late-time emission in five TDEs, including the independent discovery of radio emission from TDE AT 2019ahk. The study finds that at least a portion of optically discovered TDEs has detectable radio emission, and projects that the ongoing ASKAP Variable and Slow Transients survey can detect approximately 20 TDEs in its operational span. This suggests that late-time radio activity is common to a broad class of TDEs. <br><br>Summary: <div>
+Tidal disruption events (TDEs) are increasingly being detected at radio wavelengths, challenging existing models for radio emission. A study using data from the Australian Square Kilometre Array Pathfinder (ASKAP) detected late-time emission in five TDEs, including the independent discovery of radio emission from TDE AT 2019ahk. The study finds that at least a portion of optically discovered TDEs has detectable radio emission, and projects that the ongoing ASKAP Variable and Slow Transients survey can detect approximately 20 TDEs in its operational span. This suggests that late-time radio activity is common to a broad class of TDEs. <br /><br />Summary: <div>
 Late-time (∼a year) radio follow-up of optically discovered tidal disruption events (TDEs) is increasingly resulting in detections at radio wavelengths, and there is growing evidence for this late-time radio activity to be common to the broad class of subrelativistic TDEs. Detailed studies of some of these TDEs at radio wavelengths are also challenging the existing models for radio emission. Using all-sky multiepoch data from the Australian Square Kilometre Array Pathfinder (ASKAP), taken as a part of the Rapid ASKAP Continuum Survey (RACS), we searched for radio counterparts to a sample of optically discovered TDEs. We detected late-time emission at RACS frequencies (742–1032 MHz) in five TDEs, reporting the independent discovery of radio emission from TDE AT 2019ahk and extending the time baseline out to almost 3000 days for some events. Overall, we find that at least of the population of optically discovered TDEs has detectable radio emission in the RACS survey, while also noting that the true fraction can be higher given the limited cadence (two epochs separated by ∼3 yr) of the survey. Finally, we project that the ongoing higher-cadence (∼2 months) ASKAP Variable and Slow Transients survey can detect ∼20 TDEs in its operational span (4 yr), given the current rate from optical surveys.
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -38,10 +61,9 @@ Late-time (∼a year) radio follow-up of optically discovered tidal disruption e
 <content:encoded><![CDATA[
 <div> 关键词: 星际物质，星团，超新星，磁场，天体物理学
 总结:
-星际物质的形成是一个高度动态的过程，连接了从星系尺度的千秒巨泡到百帕尔赛克尺度的巨型分子云和星团的丝状层次结构，并受到超新星的反馈影响。通过多尺度的MHD模拟，可以追踪从星系尺度到亚秒尺度的结构形成过程。模拟表明，气体的吸积与压缩最终驱动了丝状结构形成巨型分子云和星团。在安静的区域，星系剪切可以产生扁平的旋转盘状结构内的丝状巨型分子云。模拟结果还展示了与这些盘状结构形成相关的螺旋磁场的形成。 <br><br> <div>
+星际物质的形成是一个高度动态的过程，连接了从星系尺度的千秒巨泡到百帕尔赛克尺度的巨型分子云和星团的丝状层次结构，并受到超新星的反馈影响。通过多尺度的MHD模拟，可以追踪从星系尺度到亚秒尺度的结构形成过程。模拟表明，气体的吸积与压缩最终驱动了丝状结构形成巨型分子云和星团。在安静的区域，星系剪切可以产生扁平的旋转盘状结构内的丝状巨型分子云。模拟结果还展示了与这些盘状结构形成相关的螺旋磁场的形成。 <br /><br /> <div>
 There is now abundant observational evidence that star formation is a highly dynamical process that connects filament hierarchies and supernova feedback from galaxy-scale kiloparsec filaments and superbubbles to giant molecular clouds (GMCs) on 100 pc scales and star clusters (1 pc). Here we present galactic multiscale MHD simulations that track the formation of structure from galactic down to subparsec scales in a magnetized, Milky Way–like galaxy undergoing supernova-driven feedback processes. We do this by adopting a novel zoom-in technique that follows the evolution of typical 3 kpc subregions without cutting out the surrounding galactic environment, allowing us to reach 0.28 pc resolution in the individual zoom-in regions. We find a wide range of morphologies and hierarchical structures, including superbubbles, turbulence, and kiloparsec atomic gas filaments hosting multiple GMC condensations that are often associated with superbubble compression, down to smaller-scale filamentary GMCs and star cluster regions within them. Gas accretion and compression ultimately drive filaments over a critical, scale-dependent line mass leading to gravitational instabilities that produce GMCs and clusters. In quieter regions, galactic shear can produce filamentary GMCs within flattened, rotating disklike structures on 100 pc scales. Strikingly, our simulations demonstrate the formation of helical magnetic fields associated with the formation of these disklike structures.
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -55,7 +77,6 @@ There is now abundant observational evidence that star formation is a highly dyn
 这项研究利用James Clerk Maxwell Telescope SCUBA-2 850 μm连续波数据对G35分子复合体中的细丝和宿主团进行了系统研究。研究发现复合体内有五个云，其中包含91条细丝，其中一些形成了10个枢纽-细丝系统，每个系统至少有三条枢纽组成的细丝。此外，研究编制了一个包含350个密集团的目录，其中183个与细丝相关。   进一步调查了细丝和团的物理特性，如质量、密度和大小，以及它们与恒星形成的关系。研究发现，细丝的全局质量-长度趋势与湍流起源一致，而HFSs中线质量高（ml > 230 M⊙ pc−1）的枢纽组成细丝偏离了这一关系，可能是由于大质量恒星形成的反馈作用。同时发现，在细丝和HFSs的枢纽中，最大质量和最密集的团（R > 0.2 pc，M > 35 M⊙，Σ > 0.05 g cm−2）出现频率更高，突出了HFSs对于高质量恒星形成的优先地点。研究还发现，在云的不同进化环境中团的质量表面密度变化不大，这可能反映了质量吸积和恒星反馈之间的平衡。 <div>
 Filaments are believed to play a key role in high-mass star formation. We present a systematic study of the filaments and their hosting clumps in the G35 molecular complex using James Clerk Maxwell Telescope SCUBA-2 850 μm continuum data. We identified five clouds in the complex and 91 filaments within them, some of which form 10 hub–filament systems (HFSs), each with at least three hub-composing filaments. We also compiled a catalog of 350 dense clumps, 183 of which are associated with the filaments. We investigated the physical properties of the filaments and clumps, such as mass, density, and size, and their relation to star formation. We find that the global mass–length trend of the filaments is consistent with a turbulent origin, while the hub-composing filaments of high line masses (ml > 230 M⊙ pc−1) in HFSs deviate from this relation, possibly due to feedback from massive star formation. We also find that the most massive and densest clumps (R > 0.2 pc, M > 35 M⊙, Σ > 0.05 g cm−2) are located in the filaments and in the hubs of HFSs, with the latter bearing a higher probability of the occurrence of high-mass star-forming signatures, highlighting the preferential sites of HFSs for high-mass star formation. We do not find significant variation in the clump mass surface density across different evolutionary environments of the clouds, which may reflect the balance between mass accretion and stellar feedback.
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
 <item>
@@ -67,7 +88,7 @@ Filaments are believed to play a key role in high-mass star formation. We presen
 
 这项研究分析了一个稀有群体，即具有显著H i气体的强凸显型早型星系（sBDEs）的特性，使用了FAST全天H i巡天（FASHI）和阿雷西博遗产快速ALFA（ALFALFA）巡天的数据库。通过从斯隆数字化天空巡天中选择sBDEs，并与FASHI-ALFALFA组合的H i样本进行交叉匹配，得到了104个H i丰富的sBDEs。这些sBDEs倾向于具有极高的H i储库，这在以前的研究中很少见，比如ATLAS3D。选择的sBDEs中总共70%被分类为平静的星系，尽管它们具有大量的H i储库。我们从四个主要方面研究了这些sBDEs的特性：恒星群，气相金属丰度，堆积的H i光谱和环境。绝大多数H i丰富的sBDEs似乎显示出较低的气相金属丰度，并且位于明显较低密度的环境中，这表明它们的H i气体具有外部起源。我们发现，有星形成的sBDEs表现出统计上更高的星形成效率，稍微较老的恒星群，相比于正常的有星形成的星系，这表明在数十亿年的时间尺度上有最近的星形成。与对照有星形成的星系相比，它们也显示出更窄和更集中的H i轮廓，这可能解释了它们更高的星形成效率。
 
-<br><br>总结:
+<br /><br />总结:
 1. sBDEs具有极高的H i储库
 2. 70%的sBDEs被分类为平静的星系
 3. H i丰富的sBDEs表现出较低的气相金属丰度
@@ -75,10 +96,8 @@ Filaments are believed to play a key role in high-mass star formation. We presen
 5. 有星形成的sBDEs表现出更高的星形成效率和较老的恒星群 <div>
 We analyze the properties of a rare population, the strongly bulge-dominated early-type galaxies (sBDEs) with significant H i gas, using the databases from the FAST All Sky H i survey (FASHI) and the Arecibo Legacy Fast ALFA (ALFALFA) survey. We select the sBDEs from the Sloan Digital Sky Survey and crossmatch with the FASHI-ALFALFA combined H i sample, resulting in 104 H i-rich sBDEs. These sBDEs tend to have extremely high H i reservoirs, which is rare in previous studies such as ATLAS3D. A total of 70% of the selected sBDEs are classified as quiescent galaxies, even though they have a large H i reservoir. We study the properties of these sBDEs from four main aspects: stellar population, gas-phase metallicity, stacked H i spectra, and environment. The majority of H i-rich sBDEs appear to show lower gas-phase metallicity and are located in significantly lower-density environments, suggesting an external origin for their H i gas. We find that star-forming sBDEs exhibit statistically higher star formation efficiency and slightly older stellar populations compared to normal star-forming galaxies, suggesting a recent star formation on the Gyr timescale. They also show narrower and more concentrated H i profiles compared to control star-forming galaxies, which may explain their higher star formation efficiency.
 ]]></content:encoded>
-
 <pubDate>2024-10-14T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Gradient Technique Theory: Tracing Magnetic Field and Obtaining Magnetic Field Strength</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d62</link>
@@ -11798,66 +11817,6 @@ Space scientists often face the question of whether data collected by different 
 总结:
 本研究使用Spitzer和Herschel望远镜对小麦哲伦星云内的Wolf–Rayet星云N76进行了观测，并利用Cloudy模型对红外发射线进行建模。我们发现N76的物理条件为热HII区，电子温度最高可达2.4万K，电子密度在4至12cm-3之间，具有高离化参数。我们的模型表明，大部分的[Si ii]发射是在H ii区边缘产生的，而[O iii]和[Ne iii]等高电离线则主要由恒星风产生。通过分析低金属量的WR星云，本研究为了解WR星对邻近矮星系中离子化气体性质的影响提供了宝贵的见解。 <div>
 We present Cloudy modeling of infrared emission lines in the Wolf–Rayet (WR) nebula N76 caused by one of the most luminous and hottest WR stars in the low metallicity Small Magellanic Cloud. We use spatially resolved mid-infrared Spitzer/InfRared Spectrograph and far-infrared Herschel/PACS spectroscopy to establish the physical conditions of the ionized gas. The spatially resolved distribution of the emission allows us to constrain properties much more accurately than using spatially integrated quantities. We construct models with a range of constant hydrogen densities between nH = 4–10 cm−3 and a stellar wind-blown cavity of 10 pc, which reproduces the intensity and shape of most ionized gas emission lines, including the high ionization lines [O iv] and [Ne v], as well as [S iii], [S iv], [O iii], and [Ne iii]. Our models suggest that the majority of [Si ii] emission (91%) is produced at the edge of the H ii region around the transition between ionized and atomic gas while very little of the [C ii] (<5%) is associated with the ionized gas. The physical conditions of N76 are characterized by a hot HII region with a maximum electron temperature of Te ∼ 24,000 K, electron densities that range from ne ∼ 4 to 12 cm−3, and high ionization parameters of By analyzing a low-metallicity WR nebula with a single ionization source, this work gives valuable insights into the impact WR stars have on the galaxy-integrated ionized gas properties in nearby dwarf galaxies.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Panchromatic Study of the X-Ray Binary Population in NGC 300 on Subgalactic Scales</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad46d9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad46d9</guid>
-<content:encoded><![CDATA[
-<div> X-ray binaries, star formation rates, stellar masses, metallicity, NGC 300
-总结: 本文研究了星系外X射线双星的人口学特性和人口统计学特征与宿主星系的恒星形成率、恒星质量和金属丰度之间的相关性。研究发现X射线双星的比例关系可能取决于金属丰度和恒星年龄，但在亚星系尺度上，金属丰度和恒星年龄对其影响仍然存在挑战。研究使用NGC 300的 X射线和红外观测数据进行自洽建模，检查其X射线双星的径向分布趋势；测得当前的恒星形成率为0.18 ± 0.08 M⊙ yr−1，恒星质量为M⋆ = M⊙。研究发现在约1037 erg s−1以下的X射线源存在明显过剩，可能为变星X射线双星和额外的背景活动星系核。对比文献中的整体X射线双星比例关系，发现只有年龄最年轻的区域与预测相符，提示X射线双星比例关系可能存在时间演化。 <div>
-The population-wide properties and demographics of extragalactic X-ray binaries (XRBs) correlate with the star formation rates (SFRs), stellar masses (M⋆), and environmental factors (such as metallicity, Z) of their host galaxy. Although there is evidence that XRB scaling relations (LX/SFR for high-mass XRBs (HMXBs) and LX/M⋆ for low-mass XRBs) may depend on metallicity and stellar age across large samples of XRB-hosting galaxies, disentangling the effects of metallicity and stellar age from stochastic effects, particularly on subgalactic scales, remains a challenge. We use archival X-ray through IR observations of the nearby galaxy NGC 300 to self-consistently model the broadband spectral energy distribution and examine radial trends in its XRB population. We measure a current (<100 Myr) SFR of 0.18 ± 0.08 M⊙ yr−1 and stellar mass M⋆ = M⊙. Although we measure a metallicity gradient and radially resolved star formation histories that are consistent with the literature, there is a clear excess in the number of X-ray sources below ∼1037 erg s−1 that are likely a mix of variable XRBs and additional background active galactic nuclei. When we compare the subgalactic LX/SFR ratios as a function of Z to the galaxy-integrated LX-SFR-Z relationships from the literature, we find that only the regions hosting the youngest (≲30 Myr) HMXBs agree with predictions, hinting at time evolution of the LX–SFR–Z relationship.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Jittering Jets Explosion Mechanism in Electron Capture Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad487f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad487f</guid>
-<content:encoded><![CDATA[
-<div> 恒星演化模拟, 核心坍缩, 电子俘获, 角动量, 恒星爆炸
-<br />
-该研究通过对初始质量为8.8-9.45太阳质量的恒星进行一维恒星演化模拟，发现在核心坍缩阶段，对流区可以提供所需的随机角动量波动，从而在微扰喷流爆炸机制的框架下引发电子俘获超新星爆发。根据他们的标准，对流比角动量和喷流发射时的吸积质量Macc约为0.001-0.01太阳质量，发现可以引发爆炸的对流层位于富含氦的区域。取决于模型，这一爆炸层在核心坍缩后大约一分钟到几小时被吸积，远远短于爆炸冲击波跨越恒星所需的时间。最终的中子星遗迹（引力）质量在1.25-1.43太阳质量的范围内。 
-<br /><br />总结: 该研究通过一维恒星演化模拟发现，在恒星的核心坍缩阶段，对流区可以提供所需的随机角动量波动，从而引发电子俘获超新星爆炸。发现可以引发爆炸的对流层位于富含氦的区域，并在核心坍缩后短时间内被吸积。最终的中子星遗迹（引力）质量在1.25-1.43太阳质量的范围内。 <div>
-We conduct one-dimensional stellar-evolution simulations of stars with zero-age main-sequence (ZAMS) masses of MZAMS = 8.8 − 9.45 M⊙ toward core collapse by electron capture and find that the convective zone of the precollapse core can supply the required stochastic angular momentum fluctuations to set a jet-driven electron capture supernova explosion in the frame of the jittering jets explosion mechanism. By our assumed criteria of a minimum convective specific angular momentum and an accreted mass during jet launching of Macc ≃ 0.001−0.01 M⊙, the layer in the convective zone that when accreted launches the exploding jittering jets resides in the helium-rich zone. Depending on the model, this exploding layer is accreted at about a minute to a few hours after core collapse occurs, much shorter than the time the exploding shock crosses the star. The final (gravitational) mass of the neutron star (NS) remnant is in the range of MNS = 1.25−1.43 M⊙.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Chronicling the Reionization History at 6 ≲ z ≲ 7 with Emergent Quasar Damping Wings</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4888</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4888</guid>
-<content:encoded><![CDATA[
-<div> 高红移类星体、光谱、中性气体分数、神经网络、仿真模型
-总结:
-在这项研究中，研究人员使用了18个红移在6.0 < z < 7.1的类星体光谱来填补6 ≲ z ≲ 7之间的中性气体分数空白。他们运用神经网络重构类星体的连续辐射，对光谱进行规范化处理，然后将这些规范化后的光谱分为三个红移区间进行叠加。通过比较两种流体动力学模拟（ATON和CROC）中的模型，他们测量了平均中性气体分数，并同时拟合了每个叠加光谱的平均类星体寿命。他们发现中性气体分数在不同红移区间发生了变化，而平均类星体寿命约为7百万年，这与先前的研究结果相吻合。 <div>
-The spectra of high-redshift (z ≳ 6) quasars contain valuable information on the progression of the Epoch of Reionization. At redshifts z < 6, the observed Lyman-series forest shows that the intergalactic medium is nearly ionized, while at z > 7 the observed quasar damping wings indicate high neutral gas fractions. However, there remains a gap in neutral gas fraction constraints at 6 ≲ z ≲ 7 where the Lyman-series forest becomes saturated but damping wings have yet to fully emerge. In this work, we use a sample of 18 quasar spectra at redshifts 6.0 < z < 7.1 to close this gap. We apply neural networks to reconstruct the quasars’ continuum emission around the partially absorbed Lyα line to normalize their spectra, and stack these continuum-normalized spectra in three redshift bins. To increase the robustness of our results, we compare the stacks to a grid of models from two hydrodynamical simulations, ATON and CROC, and we measure the volume-averaged neutral gas fraction, , while jointly fitting for the mean quasar lifetime, tQ, for each stacked spectrum. We chronicle the evolution of neutral gas fraction using the ATON (CROC) models as follows: ( ) at 〈z〉 = 6.10, ( ) at 〈z〉 = 6.46, and ( ) at 〈z〉 = 6.87. At the same time, we constrain the average quasar lifetime to be tQ ≲ 7 Myr across all redshift bins, in good agreement with previous studies.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Neutrino Fluxes from Different Classes of Galactic Sources</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4960</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4960</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 中微子通量, 星系源, IceCube, KM3NeT, 南半球
-总结: 
-本研究估计了不同类型星系源的中微子通量，并将其与IceCube最近探测到的弥散中微子通量进行了比较。研究发现，这些源产生的通量可能为IceCube中微子通量的约20%。大多数所选择的源都位于南半球，因此像KM3NeT这样的探测器可能有助于解析观测到的星系弥散中微子通量中的源。<br /><br /> <div>
-We estimate the neutrino flux from different kinds of galactic sources and compare it with the recent diffuse neutrino flux detected by IceCube. We find that the flux from these sources may contribute to ∼20% of the IceCube neutrino flux. Most of the sources selected in this work populate the southern hemisphere, therefore a detector like KM3NeT could help in resolving the sources out of the observed diffused galactic neutrino flux.
-]]></content:encoded>
-<pubDate>2024-07-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Population Synthesis of Wolf–Rayet Stars Involving Binary Merger Channels</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4da8</guid>
-<content:encoded><![CDATA[
-<div> Wolf-Rayet stars, massive stars, binary merger, formation channels, population synthesis
-<br /><br />总结:
-Wolf-Rayet（W-R）星是非常重要的大质量恒星。通过模拟，我们发现双星合并是W-R恒星形成的重要途径，能够解释观测到的W-R恒星总体比例。我们的模型大致能够复现银河系W-R恒星的观测分布，但对大麦哲伦星云的观测分布解释不足。进行解释时，我们考虑了在双星合并过程中可能低估了质量损失率。 <div>
-Wolf–Rayet (W-R) stars are very important massive stars. However, their origin and the observed binary fraction within the entire W-R population are still debated. We investigate some possible merger channels for the formation of W-R stars, including main sequence (MS)/Hertzsprung gap (HG) + MS, He + HG/giant branch (GB). We find that many products produced via binary merger can evolve into W-R stars, the MS/HG + MS merger channel can explain W-R stars with luminosities higher than ∼105.4L⊙, while the He + HG/GB merger channel can explain low-luminosity W-R stars in the range of 104.7L⊙ ∼ 105.5L⊙. In the population synthesis analysis of W-R stars, we assume an initial binary fraction (fini,bin) of 50% and 100% for massive stars. We also assume that MS/HG + MS merger products are nonrotating or rapidly rotating (ω/ωcrit = 0.8). In different cases, the calculated single fractions of W-R stars range from 22.2%–60.6% in the Milky Way (MW) and from 8.3%–70.9% in the Large Magellanic Cloud (LMC). The current observations fall within the range of our calculations. When the merger product of MS/HG + MS rotates rapidly, we estimate that there are approximately 1015–1396 W-R stars in the MW and 128–204 W-R stars in the LMC. Our model also roughly reproduces the observed single-peak luminosity distribution of W-R stars in the MW. However, the weak bimodal luminosity distribution observed in the LMC is not reproduced in our model. We assess that this may be due to the model underestimating the mass-loss rate in the LMC. In conclusion, we consider that the binary merger is a significant formation channel for W-R formation, and can explain the observed high fraction of the single W-R stars in the total population.
 ]]></content:encoded>
 <pubDate>2024-07-09T23:00:00Z</pubDate>
 </item>
