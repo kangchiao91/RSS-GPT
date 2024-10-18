@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A More Precise Measurement of the Radius of PSR J0740+6620 Using Updated NICER Data</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f1e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f1e</guid>
 <content:encoded><![CDATA[
-<div> PSR J0740+6620, neutron star, mass, radius, NICER<br>
-<br>
+<div> PSR J0740+6620, neutron star, mass, radius, NICER<br />
+<br />
 PSR J0740+6620是质量精确定的中子星，辐射观测推断其质量为2.08 ± 0.07太阳质量。对其半径的测量有望限制中子星核心的性质。通过对2022年4月21日之前通过NICER积累的数据和XMM-Newton观测的数据进行分析，得出其赤道周长半径为km（68%可信度），这一结果略小于之前的报告，暗示了比之前推测的略软的状态方程。如果将半径限制在16km以下，则68%的可信区间为km，与之前的研究结果接近。 <div>
 PSR J0740+6620 is the neutron star with the highest precisely determined mass, inferred from radio observations to be 2.08 ± 0.07 M⊙. Measurements of its radius therefore hold promise to constrain the properties of the cold, catalyzed, high-density matter in neutron star cores. Previously, Miller et al. and Riley et al. reported measurements of the radius of PSR J0740+6620 based on Neutron Star Interior Composition Explorer (NICER) observations accumulated through 2020 April 17, and an exploratory analysis utilizing NICER background estimates and a data set accumulated through 2021 December 28 was presented in Salmi et al. Here we report an updated radius measurement, derived by fitting models of X-ray emission from the neutron star surface to NICER data accumulated through 2022 April 21, totaling ∼1.1 Ms additional exposure compared to the data set analyzed in Miller et al. and Riley et al., and to data from XMM-Newton observations. We find that the equatorial circumferential radius of PSR J0740+6620 is km (68% credibility), a fractional uncertainty ∼83% the width of that reported in Miller et al., in line with statistical expectations given the additional data. If we were to require the radius to be less than 16 km, as was done in Salmi et al., then our 68% credible region would become km, which is close to the headline result of Salmi et al. Our updated measurements, along with other laboratory and astrophysical constraints, imply a slightly softer equation of state than that inferred from our previous measurements.
 ]]></content:encoded>
-
 <pubDate>2024-10-17T23:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@ PSR J0740+6620 is the neutron star with the highest precisely determined mass, i
 <content:encoded><![CDATA[
 <div> 关键词: PSR J0740+6620, NICER, XMM-Newton, neutron star, mass
 
-PSR J0740+6620是一个大质量脉冲星，研究利用2018年至2022年间的NICER数据进行了更新分析。通过将新的NICER数据与XMM-Newton数据联合建模，并利用射电定时测量得到的严格质量先验，确定了该脉冲星的赤道半径和引力质量。结果表明，PSR J0740+6620的半径在11.15至11.7 km之间，质量为1.97至2.04个太阳质量，排除了密集物质的非常软的状态方程。研究还表明，结果不会显著受到NICER和XMM-Newton之间的交叉标定不确定性的影响。此外，通过模拟数据，验证了分析流程的准确性。总结: <br><br>该研究利用了大量NICER数据更新了PSR J0740+6620脉冲星的半径、质量和加热表面区域的分析。通过联合建模NICER和XMM-Newton数据，采用严格的质量先验，得出了该脉冲星的半径和引力质量，结果排除了非常软的状态方程，且不会受到交叉标定不确定性的影响。同时，作者还验证了分析流程的准确性。 <div>
+PSR J0740+6620是一个大质量脉冲星，研究利用2018年至2022年间的NICER数据进行了更新分析。通过将新的NICER数据与XMM-Newton数据联合建模，并利用射电定时测量得到的严格质量先验，确定了该脉冲星的赤道半径和引力质量。结果表明，PSR J0740+6620的半径在11.15至11.7 km之间，质量为1.97至2.04个太阳质量，排除了密集物质的非常软的状态方程。研究还表明，结果不会显著受到NICER和XMM-Newton之间的交叉标定不确定性的影响。此外，通过模拟数据，验证了分析流程的准确性。总结: <br /><br />该研究利用了大量NICER数据更新了PSR J0740+6620脉冲星的半径、质量和加热表面区域的分析。通过联合建模NICER和XMM-Newton数据，采用严格的质量先验，得出了该脉冲星的半径和引力质量，结果排除了非常软的状态方程，且不会受到交叉标定不确定性的影响。同时，作者还验证了分析流程的准确性。 <div>
 We report an updated analysis of the radius, mass, and heated surface regions of the massive pulsar PSR J0740+6620 using Neutron Star Interior Composition Explorer (NICER) data from 2018 September 21 to 2022 April 21, a substantial increase in data set size compared to previous analyses. Using a tight mass prior from radio-timing measurements and jointly modeling the new NICER data with XMM-Newton data, the inferred equatorial radius and gravitational mass are km and M⊙, respectively, each reported as the posterior credible interval bounded by the 16% and 84% quantiles, with an estimated systematic error ≲ 0.1 km. This result was obtained using the best computationally feasible sampler settings providing a strong radius lower limit but a slightly more uncertain radius upper limit. The inferred radius interval is also close to the km obtained by Dittmann et al., when they require the radius to be less than 16 km as we do. The results continue to disfavor very soft equations of state for dense matter, with R < 11.15 km for this high-mass pulsar excluded at the 95% probability. The results do not depend significantly on the assumed cross-calibration uncertainty between NICER and XMM-Newton. Using simulated data that resemble the actual observations, we also show that our pipeline is capable of recovering parameters for the inferred models reported in this paper.
 ]]></content:encoded>
-
 <pubDate>2024-10-17T23:00:00Z</pubDate>
 </item>
 <item>
@@ -39,7 +38,6 @@ We report an updated analysis of the radius, mass, and heated surface regions of
 总结:红巨星的磁场仍然不太清楚。通过模拟发现，红巨星的表面磁场取决于对流运动的尺度，较大的尺度会产生较强的大尺度磁场。对模拟结果与观测进行比较，发现模拟值与观测值非常接近。另外，还提出了红巨星磁场可能会发生翻转的可能性。 <div>
 The magnetic field of red giants is still poorly understood today. Close to the core, asteroseismology has revealed magnetic fields of several hundred thousand gauss, but close to the surface, spectropolarimetric observations of the red giant Pollux only showed an average field of the order of 1 G. Using the ASH code, we conduct a series of 3D nonlinear magnetohydrodynamical simulations aiming at modeling the dynamo process operating within the extended convective envelope of a star similar to the red giant Pollux. We find that the dynamo is efficient even for the slow rotation considered and that large-scale fields are generated and maintained. We further test the correlation between the scale of the convective motions and the surface magnetic field geometry by varying the Prandtl number in our simulations. We show in particular that the value and the geometry of the modeled surface field depend directly on the coupling scales between the magnetic and the velocity fields, with larger convective cells leading to a stronger large-scale magnetic field. We also verify that the dynamo and the geometry of the resulting field are robust against a change of the initial conditions. We then compare our simulations to the observed field and find average ∣Bℓ∣ of about 7 G for the simulation with large convective cells, and down to 2 G for the smaller-scale simulation, very close to the observed value. Finally, we suggest the possibility of the reversal of the red giant’s magnetic field.
 ]]></content:encoded>
-
 <pubDate>2024-10-17T23:00:00Z</pubDate>
 </item>
 <item>
@@ -48,14 +46,12 @@ The magnetic field of red giants is still poorly understood today. Close to the 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7816</guid>
 <content:encoded><![CDATA[
 <div> 最 massive ETGs, galaxy mergers, low-density environments, tidal features, gas-abundant mergers
-<br><br>
-在这篇文章中，研究了436个质量最大的早期星系（ETGs），发现它们在低密度环境下更频繁地展现潮汐特征。研究表明，质量最大的ETGs在低密度环境中更可能经历了近期的星系合并，这暗示它们具有持续到现在的延续形成历史。另外发现，具有较蓝色光谱的质量最大ETGs更加驱动了这一发现，而低密度环境中更常观察到尘埃带，这意味着富含气体的星系合并在增加低密度环境中最近星系合并的速率方面起到了主要作用。 <br><br>总结: <div>
+<br /><br />
+在这篇文章中，研究了436个质量最大的早期星系（ETGs），发现它们在低密度环境下更频繁地展现潮汐特征。研究表明，质量最大的ETGs在低密度环境中更可能经历了近期的星系合并，这暗示它们具有持续到现在的延续形成历史。另外发现，具有较蓝色光谱的质量最大ETGs更加驱动了这一发现，而低密度环境中更常观察到尘埃带，这意味着富含气体的星系合并在增加低密度环境中最近星系合并的速率方面起到了主要作用。 <br /><br />总结: <div>
 The most massive early-type galaxies (ETGs) are known to form through numerous galaxy mergers. Thus, it is intriguing to study whether their formation in low-density environments, where nearby companions are almost absent, is associated with mergers, which are directly traced by tidal features. Using the 436 most massive ETGs with Mstar > 1011.2M⊙ at z < 0.04, we determine the variation in the fraction of massive ETGs with tidal features (fT) across different environments and verify whether the most massive ETGs commonly have tidal features in very low density environments. Our main discovery is that the most massive ETGs exhibit tidal features more frequently in lower-density environments. In the highest-density environments, like galaxy clusters, fT is 0.21 ± 0.06, while in the lowest-density environments it triples to 0.62 ± 0.06. This trend is stronger for more extremely massive ETGs, with fT reaching 0.92 ± 0.08 in the lowest-density environments. One explanation for our finding is that the most massive ETGs in lower-density environments have genuinely experienced recent mergers more frequently than their counterparts in higher-density environments, suggesting that they possess extended formation histories that continue into the present. Another possibility is that tidal features last shorter in denser environments owing to external factors inherent in these environments. Our additional findings that massive ETGs with bluer u − r colors are a more dominant driver of our main discovery and that dust lanes are more commonly observed in massive ETGs in low-density environments imply that gas-abundant mergers primarily contribute to the increased rate of recent mergers in low-density environments.
 ]]></content:encoded>
-
 <pubDate>2024-10-17T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Intrabinary Shock and Companion Star of Redback Pulsar J2215+5135</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4d85</link>
@@ -11801,52 +11797,6 @@ The origin of the “changing-look” (CL) phenomenon in supermassive black hole
 
 这篇论文报告了利用热Sunyaev–Zel'dovich效应（tSZ）在243个星系团中进行的盲目调查，使用Green Bank望远镜上的MUSTANG2在90 GHz进行了调查，将5σ检测限定为每个星系团中心的1 mJy。文章发现了24个离散源，其中大多数（18个）对应于已知的射电源，其中有五个显示出明显的变化迹象，要么是随时间变化，要么是频谱指数变化。其余的源在其他波长没有明确的对应物。通过tSZ强烈依赖于90 GHz的观测来搜索星系团，而发现的源可能会对星系团的质量估计产生偏差。文章将结果与Websky模拟进行了比较，发现模拟与观测在星系团中心的匹配良好，但在外围的源分布上不匹配。在距离星系团中心104″以上的源使tSZ信号偏高，部分源的偏差可高达50%。在整个星系团种群中平均后，效应较小，但仍在1%–2%的水平。文章还发现，与先前的测量和模拟不同，他们在星系团外围观察到了源计数的增加，而在tSZ选择的样本的中心观察到的源较少。 <br /><br />总结: tSZ观测在90 GHz进行了Galaxy clusters的盲目调查，发现了24个离散源，其中大多数对应已知的射电源，还比较了观测结果与模拟结果，在星系团的外围发现了源计数的增加并发现了一些源对tSZ信号的偏差。 <div>
 In this paper, we present the results of a blind survey for compact sources in 243 Galaxy clusters that were identified using the thermal Sunyaev–Zel'dovich effect (tSZ). The survey was carried out at 90 GHz using MUSTANG2 on the Green Bank Telescope and achieved a 5σ detection limit of 1 mJy in the center of each cluster. We detected 24 discrete sources. The majority (18) of these correspond to known radio sources, and of these, five show signs of significant variability, either with time or in spectral index. The remaining sources have no clear counterparts at other wavelengths. Searches for galaxy clusters via the tSZ strongly rely on observations at 90 GHz, and the sources found have the potential to bias mass estimates of clusters. We compare our results to the Websky simulation that can be used to estimate the source contamination in galaxy cluster catalogs. While the simulation shows a good match to our observations at the clusters’ centers, it does not match our source distribution further out. Sources over 104″ from a cluster’s center bias the tSZ signal high, for some of the sources found, by over 50%. When averaged over the whole cluster population, the effect is smaller but still at a level of 1%–2%. We also discovered that unlike previous measurements and simulations, we see an enhancement of source counts in the outer regions of the clusters and fewer sources than expected in the centers of this tSZ-selected sample.
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Structure and Kinematics of Star-forming Elliptical Galaxies in SDSS-MaNGA</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee3</guid>
-<content:encoded><![CDATA[
-<div> 星系、椭圆星系、星的形成、光谱、形态图<br />
-通过空间分辨光谱学的研究，我们发现了一群罕见的具有星形成特征的椭圆星系。我们利用星际介质综合模型输出、深度学习目录的形态学结果以及MaNGA Pipe3D增值目录的解析和综合特性相结合，识别出了59个星形成椭圆星系。与我们的主要样本SF-E相比，我们还构建了两个控制样本：星形成螺旋星系（SF-Sps；2419个星系）和静止椭圆星系（Q-Es；684个星系）。SF-E的Hα发射线通量与螺旋星系相似，D4000光谱指数表明SF-E具有老年和年轻的恒星群。SF-E的质量加权恒星年龄和金属丰度低于Q-E，67%的主要样本的恒星和气体速度图显示出动力学扰动的迹象。所有这些结果表明，SF-E通过近期的合并或与其他星系的相互作用获得了贫金属气体，并且正在形成新一代的星。此外，我们还将主要样本的SF-E分为四类，根据它们的球状星系/总发光度比（B/T）和自旋参数。这四类具有各自独特的演化历史和形成方式。基于这些结果，我们建议哈勃图不能准确捕捉星系演化过程，我们需要一个修订的形态图，如梳形态图，才能完整地了解星系的演化过程。<br /><br />总结: 通过空间分辨光谱学研究发现了59个星形成的椭圆星系，它们通过合并或与其他星系互动获取了贫金属气体，并产生了新一代的星。此外，作者还根据恒星年龄和金属丰度将这些星系分为四类，具有不同的演化历史和形成方式。作者建议需要一个修订的形态图来更好地理解星系演化过程。 <div>
-Using “spatially” resolved spectroscopy, we investigated the characteristics and different modes of formation of stars in elliptical galaxies. We identified an unusual population of 59 star-forming elliptical (SF-E) galaxies in SDSS-MaNGA, our primary sample. To identify these rare star-forming ellipticals, we combined GSWLC-A2 containing outputs of stellar population synthesis models with morphological results from the deep-learning catalog and resolved and integrated properties from the MaNGA Pipe3D value-added catalog. We have also constructed two control samples of star-forming spirals (SF-Sps; 2419 galaxies) and quenched ellipticals (Q-Es; 684 galaxies) to compare with our primary sample of SF-Es. Hα emission line flux of SF-Es is similar to spiral galaxies. The D4000 spectral index indicates that SF-Es have a mixture of old and young stellar populations. Mass-weighted stellar age and metallicity for the SF-Es are lower than the Q-Es and 67% of stellar- and gas-velocity maps of the primary sample show signs of kinematic disturbance. All of these indicate that SF-Es have acquired metal-poor gas through recent mergers or interactions with other galaxies and are forming a new generation of stars. Further, we subdivide our primary sample of SF-Es into four classes based on their bulge to total luminosity ratio (B/T) and spin parameter . These four classes have their distinct evolutionary history and modes of formation. Based on these results, we suggest that the Hubble diagram does not accurately capture galaxy evolution processes, and we need a revised morphology diagram like the comb morphology diagram to get a complete picture of the galaxy evolution processes.
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Near-infrared Spectroscopy for Remote Sensing of Porosity, Density, and Cubicity of Crystalline and Amorphous H2O Ices in Astrophysical Environments</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f82</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f82</guid>
-<content:encoded><![CDATA[
-<div> 关键词: H2O ices, 近红外光谱, 空间冰, 光谱特征, 仪器曝光时间
-总结: <br /><br />这项研究利用实验室得到的纯非晶和晶态冰的近红外光谱，在80-180K温度范围内进行了研究。研究的目的是提供光谱参考数据，以便远程访问冰的性质，如冰卫星、彗星冰或土星环等冰的物质特性。研究特别识别了评估空间冰三个重要属性的新的光谱标记：(i) 孔隙度/蓬松度，(ii) 非晶冰的体密度，(iii) 结晶冰的立方性。研究分析了OH-伸展泛频（2νOH）和5000cm^{-1}/2μm的组合带，这些是这些属性的有力光谱标记。通过比较蒸发沉积的微孔非晶固态水、无孔低、高和非常高密度非晶冰的光谱，能够在非晶冰的近红外光谱中将(体)密度效应与孔隙度效应分离开来。这一点澄清了一直存在的问题，即詹尼斯肯斯和布莱克首次提出的低温蒸发沉积的非晶冰密度不一致问题。通过将近红外光谱与粉末X射线衍射图进行直接比较，可以将光谱特征与堆叠失序冰Isd中的立方叠层数相关联，范围从完全立方冰Ic到完全六角冰Ih。研究还表明，詹姆斯·韦伯空间望远镜上的仪器曝光时间在小时范围内可区分这些属性，证明了被忽视的近红外光谱范围对于识别空间中的冰是有用的。 <div>
-We present laboratory spectra of pure amorphous and crystalline H2O ices in the near-infrared (NIR, 1–2.5 μm/10,000–4000 cm−1) at 80–180 K. The aim of this study is to provide spectroscopic reference data that allow remotely accessing ice properties for icy objects such as icy moons, cometary ice, or Saturn rings. Specifically, we identify new spectral markers for assessing three important properties of ices in space: (i) porosity/fluffiness, (ii) bulk density of amorphous ice, and (iii) cubicity in crystalline ice. The analysis is based on the first OH-stretching overtone (2νOH) and the combinational band at 5000 cm−1/2 μm, which are potent spectral markers for these properties. By comparison of vapor-deposited, microporous amorphous solid water, pore-free low-, high-, and very-high-density amorphous ice, we are able to separate the effect of (bulk) density from the effect of porosity on NIR-spectra of amorphous ices. This allows for clarifying a longstanding inconsistency about the density of amorphous ice vapor-deposited at low temperatures, first brought up by Jenniskens & Blake. Direct comparison of NIR spectra with powder X-ray diffractograms allows us to correlate spectral features with the number of cubic stacking layers in stacking-disordered ice Isd, ranging from fully cubic ice Ic to fully hexagonal ice Ih. We show that exposure times for instruments on the James Webb Space Telescope are in the hour range to distinguish these properties, demonstrating the usefulness of the neglected NIR spectral range for identifying ices in space.
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The AstroSat UV Deep Field North: The IRX–β Relation for the UV-selected Galaxies at z ∼ 0.5−0.7</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5016</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5016</guid>
-<content:encoded><![CDATA[
-<div> 关键词: UV continuum slope, infrared excess, high-redshift galaxies, dust attenuation law, SED modeling
-
-总结:<br /><br />这篇文章研究了通过观测的UV连续斜率（β）和红外过剩（IRX）之间的关系，来理解高红移星系的尘埃衰减规律。研究使用了来自AstroSat UV Deep Field北部的83个UV选择的星系数据，估算了52个星系的观测IRX。通过多波段光度数据进行SED建模，发现IRX-β值存在较大散布，表明尘埃衰减存在多样性。研究发现在IRX-β平面上最佳拟合的修正Calzetti关系的幂律斜率（δ）存在明显关联，SMC类似的更陡的衰减规律更偏好较低的δ值。SED模型的IRX-β关系显示偏好于更陡的SMC类似的衰减规律，这与用Hα发射线推导的星形成率和观测的远紫外加重处理的远红外辐射得出的结果吻合。这项研究揭示了IRX和星系的恒星质量之间的强正相关，表明更大质量的星系会产生更多的尘埃。 <div>
-The relation between the observed UV continuum slope (β) and the infrared excess (IRX) is used as a powerful probe to understand the nature of dust attenuation law in high-redshift galaxies. We present a study of 83 UV-selected galaxies between a redshift of 0.5 and 0.7 from the AstroSat UV Deep Field north that encloses the GOODS-North field. Using empirical relation, we estimate the observed IRX of 52 galaxies that are detected in either one or both of the Herschel PACS 100 and 160 μm bands. We further utilize the multiband photometric data in 14–18 filters from the Ultra-Violet Imaging Telescope, KPNO, Hubble Space Telescope, Spitzer, and Herschel telescopes to perform spectral energy distribution (SED) modeling. Both the observed and model-derived IRX–β values show a large scatter within the span of previously known relations, signifying diversity in dust attenuation. We found a distinct relation between the best-fit power-law slope of the modified Calzetti relation (δ) in the IRX–β plane, where the steeper SMC-like attenuation law prefers lower δ values. Our SED model-based IRX–β relation shows a preference for steeper SMC-like attenuation, which we further confirm from the agreement between extinction-corrected star formation rates derived using the Hα emission line and the observed far-ultraviolet plus reprocessed far-IR fluxes. The current study reveals a strong positive correlation between IRX and the galaxy's stellar mass between 109.5 and 1011.0M⊙, signifying increased dust production in more massive star-forming galaxies.
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Evidence of Continuous Reconnection along a Helmet Streamer Current Sheet Observed by WISPR on Parker Solar Probe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad509b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad509b</guid>
-<content:encoded><![CDATA[
-<div> Parker Solar Probe, solar encounter, magnetic structure, heliospheric current sheet, streamer blobs
-总结:
-Parker Solar Probe于2019年3月30日至4月11日期间进行了第二次太阳遭遇，期间观测到了大量大小不一的流量增强体（流星团）在赤道附近流动。WISPR的高分辨率和灵敏度揭示了这些增强体的结构，显示出其中一些流星团具有暗色中心核心，暗示其为磁通绳。通过对四个典型流星团的3D轨迹和大小进行跟踪，确认它们的位置与太阳赤道帽相关联。这些流星团在15 R☉以上的区域被观测到，证实了在HCS附近的慢风中重新连接的过程主导着慢风的形成。 <br /><br /> <div>
-Parker Solar Probe's second solar encounter from 2019 March 30 to April 11 occurred during a period when the corona had a simple magnetic structure and relatively flat heliospheric current sheet (HCS), which was in the field of view of the Wide-field Imager for Solar Probe (WISPR) throughout. The images show an almost continual flow of transient density enhancements (streamer blobs) of various sizes near the latitude of the HCS during the entire 11 day encounter period. The high resolution and sensitivity of WISPR reveal the structure of some of the individual blobs not seen in observations from 1 au. Many of the blobs show dark central cores, suggesting that they are magnetic flux ropes. The 3D trajectories and sizes of four representative streamer blobs have been determined using the tracking and fitting technique of Liewer et al. (2020). Comparison of the location of these blobs with synoptic white-light maps for this time period, created using data from the Large Angle and Spectrometric Coronagraph (Brueckner et al. 1995) on board the Solar and Heliospheric Observatory, confirms that the blobs are at the location of the helmet streamer associated with the HCS. The blobs were observed in the region beyond 15 R☉. The continual flow of blobs, the confirmation of their location at the HCS, and their flux-rope-like appearance provide strong evidence that the process of reconnection across the current sheet dominates the slow wind near the HCS.
 ]]></content:encoded>
 <pubDate>2024-07-17T23:00:00Z</pubDate>
 </item>
