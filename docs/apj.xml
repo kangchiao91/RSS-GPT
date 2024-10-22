@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>On the Origin of Quenched but Gas-rich Regions at Kiloparsec Scales in Nearby Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7367</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7367</guid>
 <content:encoded><![CDATA[
 <div> MaNGA, resolved spectroscopy, galaxies, star formation, quenched regions
-<br><br>总结:
+<br /><br />总结:
 该研究利用MaNGA的解析光谱对银河系的局部和整体性质进行了调查，以探究kpc尺度上星体形成停止的重要性。研究通过一个单参数标准Dn(4000) - EW(Hα)来识别隔离的盘状星系中的停星区域，并根据冷气体表面密度Σgas将其划分为富气体停星区域（GRQRs）和贫气体停星区域。这两种类型的停星区域往往位于非AGN星系中，具有相对较高的质量（M* ≳ 1010 M⊙）和红色（NUV − r ≳ 3），以及低的星体形成率和固定质量时的高中心密度。他们在其他性质上的范围很广，包括结构参数，与母样本相似，表明导致富气体区域停星的条件在很大程度上独立于星系的整体性质。我们对我们的样本进行了随机森林分类器和回归器的训练，用于预测在15个局部/整体性质中的停星现象。Σ*是停星的最重要性质，尤其是对于GRQRs来说。这些结果强烈表明了低质量的热演化星体的重要作用，这些星体在停星区域中数量众多且寿命长，可以给周围气体提供实质的辐射压力，来抵制重力坍缩。以前A.F.L.Bluck等人发现的停星的不同功能重要性，在一定程度上是由于对停星区域的不同定义，特别是对EW(Hα)的不同要求。 <div>
 We use resolved spectroscopy from MaNGA to investigate the significance of both local and global properties of galaxies to the cessation of star formation at kpc scales. Quenched regions are identified from a sample of isolated disk galaxies by a single-parameter criterion Dn(4000) - EW(Hα) , and are divided into gas-rich quenched regions (GRQRs) and gas-poor quenched regions according to the surface density of cold gas (Σgas). Both types of quenched regions tend to be hosted by non-AGN galaxies with relatively high mass (M* ≳ 1010 M⊙) and red colors (NUV − r ≳ 3), as well as low star formation rate and high central density at fixed mass. They span wide ranges in other properties including structural parameters that are similar to the parent sample, indicating that the conditions responsible for quenching in gas-rich regions are largely independent of the global properties of galaxies. We train random forest classifiers and regressors for predicting quenching in our sample with 15 local/global properties. Σ* is the most important property for quenching, especially for GRQRs. These results strongly indicate the important roles of low-mass hot evolved stars, which are numerous and long-lived in quenched regions and can provide substantial radiation pressure to support the surrounding gas against gravitational collapse. The different feature importance for quenching, as found previously by A. F. L. Bluck et al., is partly due to the different definitions of quenched regions, particularly the different requirements on EW(Hα).
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -22,12 +22,11 @@ We use resolved spectroscopy from MaNGA to investigate the significance of both 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad737a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad737a</guid>
 <content:encoded><![CDATA[
-<div> LIGO, Virgo, Kamioka Gravitational Wave Detector, continuous-wave gravitational radiation, data processing <br>
+<div> LIGO, Virgo, Kamioka Gravitational Wave Detector, continuous-wave gravitational radiation, data processing <br />
 总结: 
 在现代长基线干涉仪收集的数据中搜索连续波引力辐射需要大量的存储空间。该论文描述了一种数字化方案，将64位干涉仪输出减少到一个或两个比特的数据流，同时最小化失真，并实现存储和输入/输出成本的大幅降低。对于代表性的最大似然匹配滤波器，通过蒙特卡洛模拟发现，在高斯噪声中，注入信号仅需要比64位信号强约24%（对于一比特数据）和强约6.4%（对于具有最佳门限的两比特数据）即可以90%的概率被检测到。当信号频率逐渐降低或噪声统计不是高斯时，上述百分比几乎不会发生显著变化，在LIGO第六次科学运行数据的验证中也得到了证实。 <div>
 Searches for continuous-wave gravitational radiation in data collected by modern long-baseline interferometers, such as the Laser Interferometer Gravitational-wave Observatory (LIGO), the Virgo interferometer, and the Kamioka Gravitational Wave Detector, can be memory intensive. A digitization scheme is described that reduces the 64-bit interferometer output to a one- or two-bit data stream while minimizing distortion and achieving considerable reduction in storage and input/output cost. For the representative example of the coherent, maximum-likelihood matched filter known as the -statistic, it is found using Monte Carlo simulations that the injected signal only needs to be ≈24% stronger (for one-bit data) and ≈6.4% stronger (for two-bit data with optimal thresholds) than a 64-bit signal in order to be detected with 90% probability in Gaussian noise. The foregoing percentages do not change significantly when the signal frequency decreases secularly, or when the noise statistics are not Gaussian, as verified with LIGO Science Run 6 data.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -35,11 +34,10 @@ Searches for continuous-wave gravitational radiation in data collected by modern
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7385</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7385</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 高能宇宙射线电子、能量损失率、红移、气体表面密度、高红移星系<br>
-总结: 本研究建立了一个简单的参数模型来描述无线电和红外辐射之间的相关性，考虑了高能宇宙射线电子的能量损失率，包括辐射冷却、电离和绝热膨胀等过程。对每个能量损失过程进行了计算和比较，将每个过程的能量损失率重新写成与气体表面密度和红移的相关比列关系。通过结合每个能量损失率，计算了辐射冷却的能量损失率在气体表面密度和红移上的比例，将局部建立的qIR值重新表达为与红移和气体表面密度相关，并应用于理解I. Delvecchio等人研究中高红移星系的观察到的无线电-红外相关性分布。我们的模型预测，qIR值与气体表面密度呈反相关，并且qIR值的红移依赖性受到星系气体表面密度的影响，捕捉了以恒星质量为选择标准的星形成星系的qIR值观测趋势，减少了无线电-红外选择偏差的影响。<br><br> <div>
+<div> 关键词: 高能宇宙射线电子、能量损失率、红移、气体表面密度、高红移星系<br />
+总结: 本研究建立了一个简单的参数模型来描述无线电和红外辐射之间的相关性，考虑了高能宇宙射线电子的能量损失率，包括辐射冷却、电离和绝热膨胀等过程。对每个能量损失过程进行了计算和比较，将每个过程的能量损失率重新写成与气体表面密度和红移的相关比列关系。通过结合每个能量损失率，计算了辐射冷却的能量损失率在气体表面密度和红移上的比例，将局部建立的qIR值重新表达为与红移和气体表面密度相关，并应用于理解I. Delvecchio等人研究中高红移星系的观察到的无线电-红外相关性分布。我们的模型预测，qIR值与气体表面密度呈反相关，并且qIR值的红移依赖性受到星系气体表面密度的影响，捕捉了以恒星质量为选择标准的星形成星系的qIR值观测趋势，减少了无线电-红外选择偏差的影响。<br /><br /> <div>
 We introduce a simple parametric model of the radio–infrared correlation (i.e., the ratio between the IR luminosity and the 1.4 GHz radio luminosity, qIR) by considering the energy loss rate of high-energy cosmic-ray (CR) electrons governed by radiative cooling (synchrotron, bremsstrahlung, inverse Compton scattering), ionization, and adiabatic expansion. Each process of CR electron energy loss is explicitly computed and compared to each other. We rewrite the energy loss rate of each process to be dependent on the gas surface density and redshift using the relevant scaling relations. By combining each energy loss rate, the fraction of the synchrotron energy loss rate is computed as a function of gas surface density and redshift and used to extrapolate the well-established “local” radio–infrared correlation to the high-redshift Universe. The locally established qIR is reformulated to be dependent upon the redshift and the gas surface density and applied for understanding the observed distribution of the radio–infrared correlation of high-redshift galaxies in I. Delvecchio et al. Our model predicts that the qIR value is anticorrelated with gas surface density and the redshift dependency of the qIR value changes by the gas surface density of galaxies, which captures the observed trend of qIR values for stellar-mass-selected star-forming galaxies with a minimal impact of radio–infrared selection bias.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -48,10 +46,9 @@ We introduce a simple parametric model of the radio–infrared correlation (i.e.
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7461</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 外行星, 大气成分, 行星参数, 岩浆, 化学平衡
-总结:<br><br>这项研究考察了外行星大气中氢、氧和碳的依赖关系，并基于行星参数和岩浆特性进行了分析。研究结果表明，在类地行星的全熔岩石内部，大气中H2O的分数约为10^(-2)-10^(-1)，而C/H则仅在大气压力≲1000 bar和H2O分数≳10%时才会略微增加。此外，在氧化大气条件下，C/O比会下降到nebula气体值的十分之一以下，可能为岩石内部和内源水提供了证据。研究还强调了对高压物质特性的约束对解释膨胀行星的岩浆-大气相互作用的重要性。 <div>
+总结:<br /><br />这项研究考察了外行星大气中氢、氧和碳的依赖关系，并基于行星参数和岩浆特性进行了分析。研究结果表明，在类地行星的全熔岩石内部，大气中H2O的分数约为10^(-2)-10^(-1)，而C/H则仅在大气压力≲1000 bar和H2O分数≳10%时才会略微增加。此外，在氧化大气条件下，C/O比会下降到nebula气体值的十分之一以下，可能为岩石内部和内源水提供了证据。研究还强调了对高压物质特性的约束对解释膨胀行星的岩浆-大气相互作用的重要性。 <div>
 Most exoplanets with a few Earth radii are more inflated than bare-rock planets with the same mass, indicating a substantial volatile amount. Neither the origin of the volatiles nor the planet’s bulk composition can be constrained from the mass–radius relation alone, and the spectral characterization of their atmospheres is needed to solve this degeneracy. Previous studies showed that chemical interaction between accreted volatile and possible molten rocky surface (i.e., magma ocean) can greatly affect the atmospheric composition. However, a variety in the atmospheric compositions of such planets with different properties remains elusive. In this work, we examine the dependence of atmospheric H, O, and C on planetary parameters (atmospheric thickness, planetary mass, equilibrium temperature, and magma properties such as redox state) assuming nebula gas accretion on an Earth-like core, using an atmosphere-magma chemical equilibrium model. Consistent with previous work, we show that atmospheric H2O fraction on a fully molten rocky interior with an Earth-like redox state is on the order of 10−2–10−1 regardless of other planetary parameters. Despite the solubility difference between H- and C-bearing species, C/H increases only a few times above the nebula value except for atmospheric pressure ≲1000 bar and H2O fraction ≳10%. This results in a negative O/H–C/O trend and depleted C/O below one-tenth of the nebula gas value under an oxidized atmosphere, which could provide a piece of evidence of rocky interior and endogenic water. We also highlight the importance of constraints on the high-pressure material properties for interpreting the magma–atmospheric interaction of inflated planets.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -61,10 +58,9 @@ Most exoplanets with a few Earth radii are more inflated than bare-rock planets 
 <content:encoded><![CDATA[
 <div> 能量，信噪比，探测范围，角向各向异性，重力波
 
-这篇论文研究了21个三维初始非旋转核心坍缩超新星模型的能量、信噪比、探测范围和角向各向异性，发现推测的能量、信噪比和探测范围都与观测角度有关，并且随着原恒星质量的增加，可能能量、信噪比和探测范围的差异性也增加。作者还对低频物质记忆和中微子记忆组分进行了研究，发现中微子记忆是超新星重力波信号中最易于探测的组分，而DECIGO仪器最适合探测物质记忆和中微子记忆。此外，作者还开发了一种计算我们能够期望用先进激光干涉引力波天文台（aLIGO）探测到核心坍缩超新星重力波信号的速率的方法，发现aLIGO探测率约为全银河系超新星率的65％，但在考虑中微子记忆组分时提高到90％。未来的所有探测器（爱因斯坦望远镜、宇宙探测器、DECIGO）都能够从整个银河系和更高质量的原恒星甚至进入本星系团探测到核心坍缩超新星重力波信号。 <br><br>总结: 该论文研究了核心坍缩超新星的重力波信号特征，发现观测角度影响能量、信噪比和探测范围，并指出中微子记忆是最易于探测的组分。作者还计算了通过aLIGO等探测器探测这些信号的速率，并发现未来的探测器都有能力探测来自整个银河系乃至本星系团的重力波信号。 <div>
+这篇论文研究了21个三维初始非旋转核心坍缩超新星模型的能量、信噪比、探测范围和角向各向异性，发现推测的能量、信噪比和探测范围都与观测角度有关，并且随着原恒星质量的增加，可能能量、信噪比和探测范围的差异性也增加。作者还对低频物质记忆和中微子记忆组分进行了研究，发现中微子记忆是超新星重力波信号中最易于探测的组分，而DECIGO仪器最适合探测物质记忆和中微子记忆。此外，作者还开发了一种计算我们能够期望用先进激光干涉引力波天文台（aLIGO）探测到核心坍缩超新星重力波信号的速率的方法，发现aLIGO探测率约为全银河系超新星率的65％，但在考虑中微子记忆组分时提高到90％。未来的所有探测器（爱因斯坦望远镜、宇宙探测器、DECIGO）都能够从整个银河系和更高质量的原恒星甚至进入本星系团探测到核心坍缩超新星重力波信号。 <br /><br />总结: 该论文研究了核心坍缩超新星的重力波信号特征，发现观测角度影响能量、信噪比和探测范围，并指出中微子记忆是最易于探测的组分。作者还计算了通过aLIGO等探测器探测这些信号的速率，并发现未来的探测器都有能力探测来自整个银河系乃至本星系团的重力波信号。 <div>
 In this paper, we calculate the energy, signal-to-noise ratio (SNR), detection range, and angular anisotropy of the matter, matter memory, and neutrino memory gravitational-wave (GW) signatures of 21 three-dimensional initially nonrotating core-collapse supernova (CCSN) models carried to late times. We find that inferred energy, SNR, and detection range are angle-dependent quantities, and that the spread of possible energy, signal to noise, and detection ranges across all viewing angles generally increases with progenitor mass. When examining the low-frequency matter memory and neutrino memory components of the signal, we find that the neutrino memory is the most detectable component of a CCSN GW signal, and that DECIGO is best equipped to detect both matter memory and neutrino memory. Moreover, we find that the polarization angle between the h+ and h× strains serves as a unique identifier of matter and neutrino memory. Finally, we develop a Galactic density- and stellar mass-weighted formalism to calculate the rate at which we can expect to detect CCSN GW signals with the Advanced Laser Interferometer Gravitational-Wave Observatory (aLIGO). When considering only the matter component of the signal, the aLIGO detection rate is around 65% of the total Galactic supernova rate, but increases to 90% when incorporating the neutrino memory component. We find that all future detectors (Einstein Telescope, Cosmic Explorer, DECIGO) will be able to detect CCSN GW signals from the entire Galaxy, and for the higher-mass progenitors even into the Local Group of galaxies.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -76,10 +72,9 @@ In this paper, we calculate the energy, signal-to-noise ratio (SNR), detection r
 
 这篇文章研究了椭圆星系周围的恒星壳，这些壳是在合并过程中受到破坏的矮星系的残留物，揭示了矮星系的能量分布和角动量的分布。研究者开发了半解析模型，描述了第一次跌落期间粒子能量ΔEi和角动量ΔLzi的变化。他们表明，这些变化是由于矮星系的自引力引起的，并且在塑造壳体时非常重要。在破坏了原有星系的潜在势能后的自由坠落阶段，粒子不再受到自引力的约束，而是在目标星系的引力势下运动。研究人员还调查了进行径向运动的粒子的径向周期与能量之间的关系。他们指出，准确的矮星系在破坏时的能量范围对于预测可观测壳体的数量是至关重要的。
 
-<br><br>总结: 本文研究了椭圆星系周围的恒星壳及其对矮星系能量和角动量分布的揭示。研究者开发了半解析模型描述了粒子能量和角动量的变化，并发现这些变化在塑造壳体时非常重要。他们还表明破碎后的自由坠落阶段对粒子运动产生了影响，并调查了径向运动粒子的周期与能量之间的关系。此外，准确的矮星系在破坏时的能量范围对于预测可观测壳体的数量是至关重要的。 <div>
+<br /><br />总结: 本文研究了椭圆星系周围的恒星壳及其对矮星系能量和角动量分布的揭示。研究者开发了半解析模型描述了粒子能量和角动量的变化，并发现这些变化在塑造壳体时非常重要。他们还表明破碎后的自由坠落阶段对粒子运动产生了影响，并调查了径向运动粒子的周期与能量之间的关系。此外，准确的矮星系在破坏时的能量范围对于预测可观测壳体的数量是至关重要的。 <div>
 The stellar shells surrounding an elliptical galaxy, as remnants of a dwarf galaxy disrupted during merging, reveal the distribution of energy and angular momentum of the progenitor dwarf galaxy. We develop a semi-analytical model to describe the changes in energy ΔEi and angular momentum ΔLzi for particles during the first infall. We show that these changes, induced by the self-gravity of the progenitor, are important in broadening the initial energy distribution of the Plummer or Hernquist progenitor model. Consequently, these changes are crucial in shaping the shells. In the freefall stage following the disintegration of the progenitor potential, particles are no longer bound by self-gravity but move within the gravitational potential of the target galaxy. We investigate the relationship between the radial period and the energy of particles undergoing radial motion. We show that an accurate model of the energy range of the dwarf galaxy at disruption is essential to predict the number of observable shells.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -91,10 +86,9 @@ The stellar shells surrounding an elliptical galaxy, as remnants of a dwarf gala
 
 磁振荡重联是一种特定类型的时间相关重联，涉及空间奇点的磁拓扑周期性变化。该机制在各种磁场强度和配置、背景温度和密度下得到报道。我们对平衡磁场强度和初始背景温度进行了参数研究，求解了围绕磁X点的二维阻性磁流体力学方程。我们引入了能量内比磁能的参数空间，并找到了当这个比率小于0.1时（代表磁场主导环境或等效低beta等离子体）的自相似解。自相似性表现在空间不变解中的空间坐标，空间-时间大小，磁的能量，热量产生，磁流体性和其他。能量比率的参数空间也使我们能将以前关于振荡重联机制的研究联系起来，并将这些不同的研究整合成一个统一的理解。
 
-<br><br>总结: 磁振荡重联是一种特殊类型的磁重联，涉及周期性的磁拓扑变化。通过对磁场强度和背景温度进行参数研究，发现了自相似解，并将以前的研究整合成一个统一的理解。 <div>
+<br /><br />总结: 磁振荡重联是一种特殊类型的磁重联，涉及周期性的磁拓扑变化。通过对磁场强度和背景温度进行参数研究，发现了自相似解，并将以前的研究整合成一个统一的理解。 <div>
 Oscillatory reconnection is a specific type of time-dependent reconnection which involves periodic changes in the magnetic topology of a null point. The mechanism has been reported for a variety of magnetic field strengths and configurations, background temperatures, and densities. All these studies report an oscillation in the current density at the null point, but also report a variety of periods, amplitudes, and overall behaviors. We conduct a parametric study for equilibrium magnetic field strength and initial background temperature, solving two-dimensional resistive magnetohydrodynamic equations around a magnetic X-point. We introduce a parameter space for the ratio of internal to magnetic energy and find self-similar solutions for simulations where this ratio is below 0.1 (which represents a magnetically dominated environment or, equivalently, a low-beta plasma). Self-similarity can be seen in oscillations in the current density at the null (including amplitude and period), ohmic heating, and the temperature generated via reconnection jets. The parameter space of energy ratios also allows us to contextualize previous studies of the oscillatory reconnection mechanism and bring those different studies together into a single unified understanding.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
 <item>
@@ -104,13 +98,11 @@ Oscillatory reconnection is a specific type of time-dependent reconnection which
 <content:encoded><![CDATA[
 <div> 高分辨率光谱仪, 外行星, 大气动力学, 全球环流模型, 磁阻拦
 
-使用最新的高分辨光谱仪，探索外行星的3D结构，提出了一种新的技术，通过吸收线的不同透明度探测外行星风和动力学的垂直结构。该研究将此技术应用于超热木星WASP-76b，并将结果与最先进的全球环流模型进行比较，发现已知的铁吸收速度偏移在大气中的各个高度仍然存在，且深处出现更强的蓝移和更窄的线轮廓。通过比较三种不同的模型预测，发现均匀阻力模型与观测数据的趋势不一致，因此排除该模型。研究结果显示磁阻力模型略优于流体动力学模型，而采用三高斯运动磁流体力学全球环流模型时，也与低分辨率数据相比呈现出优势。未来，超大望远镜上使用下一代高分辨率光谱仪将极大提高信号并使类似方法在更宽的物体范围内实现更高精度。 <br><br>总结:高分辨率光谱仪使得探索外行星大气动力学变得可行，并且新技术对于垂直结构的探索提供了新思路。通过对比观测和全球环流模型，发现磁阻力模型较优于其他模型，还指出未来超大望远镜将进一步提高这类研究的精度和适用范围。 <div>
+使用最新的高分辨光谱仪，探索外行星的3D结构，提出了一种新的技术，通过吸收线的不同透明度探测外行星风和动力学的垂直结构。该研究将此技术应用于超热木星WASP-76b，并将结果与最先进的全球环流模型进行比较，发现已知的铁吸收速度偏移在大气中的各个高度仍然存在，且深处出现更强的蓝移和更窄的线轮廓。通过比较三种不同的模型预测，发现均匀阻力模型与观测数据的趋势不一致，因此排除该模型。研究结果显示磁阻力模型略优于流体动力学模型，而采用三高斯运动磁流体力学全球环流模型时，也与低分辨率数据相比呈现出优势。未来，超大望远镜上使用下一代高分辨率光谱仪将极大提高信号并使类似方法在更宽的物体范围内实现更高精度。 <br /><br />总结:高分辨率光谱仪使得探索外行星大气动力学变得可行，并且新技术对于垂直结构的探索提供了新思路。通过对比观测和全球环流模型，发现磁阻力模型较优于其他模型，还指出未来超大望远镜将进一步提高这类研究的精度和适用范围。 <div>
 Due to the unprecedented signal strengths offered by the newest high-resolution spectrographs on 10 m class telescopes, exploring the 3D nature of exoplanets is possible with an unprecedented level of precision. In this paper, we present a new technique to probe the vertical structure of exoplanetary winds and dynamics using ensembles of planet absorption lines of varying opacity, and apply it to the well-studied ultrahot Jupiter WASP-76b. We then compare these results to state-of-the-art global circulation models (GCMs) with varying magnetic drag prescriptions. We find that the known asymmetric velocity shift in Fe i absorption during transit persists at all altitudes, and observe tentative trends for stronger blueshifts and more narrow line profiles deeper in the atmosphere. By comparing three different model prescriptions (a hydrodynamical model with no drag, a magnetic drag model, and a uniform drag model) we are able to rule out the uniform drag model due to inconsistencies with observed trends in the data. We find that the magnetic model is slightly favored over the the hydrodynamic model, and note that this 3-Gauss kinematic magnetohydrodynamical GCM is also favored when compared to low-resolution data. Future generation high-resolution spectrographs on extremely large telescopes will greatly increase signals and make methods like these possible with higher precision and for a wider range of objects.
 ]]></content:encoded>
-
 <pubDate>2024-10-21T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Predicting the Energetic Proton Flux with a Machine Learning Regression Algorithm</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7734</link>
@@ -11803,108 +11795,6 @@ We present an event observed by Parker Solar Probe (PSP) at ∼0.2 au on 2022 Ma
 Stars that evaporate from their star cluster by the energy equipartition process end up in either a leading or a trailing tidal tail. In Newtonian gravitation and for open star clusters in the solar vicinity, the tidal threshold, or práh, for escape is symmetrical, such that the leading and trailing tails are equally populated. The data from six independent teams that applied the convergent point method to map out the tidal tails of four open clusters (the Hyades, Praesepe, Coma Berenices, and COIN-Gaia 13) using Gaia DR2 and DR3 are here applied to test for the expected symmetry. All tidal tails contain more stars in the leading tail. The combined confidence amounts to an 8σ falsification of the práh symmetry. The same test using Milgromian dynamics leads to consistency with the data. More effort needs to be exerted on this matter, but the data indicate with high confidence that the tidal práh of an open star cluster is asymmetrical, with the corresponding confidence that Newtonian gravitation is falsified. Open star clusters depopulate more rapidly in Milgromian than in Newtonian dynamics, and the COIN-Gaia 13 cluster is here found to be nearly completely dissolved. In view of these results, the wide-binary star test and the finding of a Keplerian Galactic rotation curve are briefly discussed.
 ]]></content:encoded>
 <pubDate>2024-07-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Free-floating Planets, Survivor Planets, Captured Planets, and Binary Planets from Stellar Flybys</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f81</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f81</guid>
-<content:encoded><![CDATA[
-<div> 星团, 行星系统, 恒星飞越, 自由漂浮行星, 捕获行星<br />
-<br />
-这篇文章研究了星团中恒星飞越对双行星系统的影响。研究表明，恒星飞越可能导致一个或两个行星被抛射形成自由漂浮行星，被飞越恒星捕获形成围绕其运转的行星，或形成自由漂浮的双行星行星，留下的单一存活行星的轨道半径和偏心率也可能大大改变。研究结果还给出了自由漂浮行星、单一存活行星、被捕获行星、双行星行星的形成率分布，得出了这些结果对未来研究的重要意义。<br /><br />总结: 星团中恒星飞越可能对双行星系统的结构产生重大影响，可能导致行星被抛射或捕获，以及行星轨道参数的显著改变。这对于进一步研究星球系统和特殊行星的形成具有重要意义。 <div>
-In star clusters, close stellar encounters can strongly impact the architecture of a planetary system or even destroy it. We present a systematic study of the effects of stellar flybys on two-planet systems. When such a system experiences flybys, one or both planets can be ejected, forming free-floating planets (FFPs), captured planets (CPs) around the flyby star, and free-floating binary planets (BPs); the remaining single-surviving planets (SSPs) can have their orbital radii and eccentricities greatly changed. Through numerical experiments, we calculate the formation fractions (or branching ratios) of FFPs, SSPs, CPs, and BPs as a function of the pericenter distance of the flyby, and use them to derive analytical expressions for the formation rates of FFPs, SSPs, CPs and BPs in general cluster environments. We find that the production rates of FFPs and SSPs are similar (for the initial planet semimajor axis ratio a1/a2 = 0.6–0.8), while the rate for CPs is a few times smaller. The formation fraction of BPs depends strongly on a1/a2 and on the planet masses. For Jupiter-mass planets, the formation fraction of BPs is always less than 1% (for a1/a2 = 0.8) and typically much smaller (≲0.2% for a1/a2 ≲ 0.7). The fraction remains less than 1% when considering 4MJ planets. Overall, when averaging over all flybys, the production rate of BPs is less than 0.1% of that of FFPs. We also derive the velocity distribution of FFPs produced by stellar flybys, and the orbital parameter distributions of SSPs, CPs, and BPs. These results can be used in future studies of exotic planets (including FFPs) and planetary systems.
-]]></content:encoded>
-<pubDate>2024-07-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Spectrum and Polarization of the Galactic Center Radio Transient ASKAP J173608.2–321635 from THOR-GC and VLITE</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f8c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f8c</guid>
-<content:encoded><![CDATA[
-<div> ASKAP J173608.2–321635, radio transient, H i/OH/Recombination line survey, spectral index, rotation measure
-<br />
-在2020年3月、2020年4月和2021年2月，该源在不同时期被观测到。其中2020年4月11日以20.6 ± 1.1 mJy的通量密度和-3.1 ± 0.2的带内谱指数检测到。同时，在339 MHz处以122.6 ± 20.4 mJy的通量密度被探测到，表明低于1 GHz存在谱线断裂。此外，2020年4月的旋转测量值为63.9 ± 0.3 rad m−2，几乎是Wang等人观测到的可变RM范围的三倍。线性极化为76.7% ± 3.9%，圆极化上限为∣V∣/I < 10.1%。最后，根据数据解释，该源的可能解释是与不断变化的环境相互作用的高声速中子星。 
-<br /><br />总结: 
-ASKAP J173608.2–321635是一种射电瞬变现象，在2020年的观测中表现出多个特征，包括不同时期的通量密度、带内谱指数、旋转测量值和极化特征。根据数据解释，该源被推测为与不断变化的环境相互作用的高声速中子星。 <div>
-The radio transient ASKAP J173608.2–321635, at the position (ℓ, b) = (356.°0872, −0.°0390), was serendipitously observed by The H i/OH/Recombination line survey of the Galactic center at three epochs in 2020 March, 2020 April, and 2021 February. The source was detected only on 2020 April 11 with a flux density of 20.6 ± 1.1 mJy at 1.23 GHz and in-band spectral index of α = −3.1 ± 0.2. The commensal Very Large Array Low-band Ionsophere and Transient Experiment simultaneously detected the source at 339 MHz with a flux density of 122.6 ± 20.4 mJy, indicating a spectral break below 1 GHz. The rotation measure (RM) in 2020 April was 63.9 ± 0.3 rad m−2, which almost triples the range of the variable RM observed by Wang et al. to ∼130 rad m−2. The polarization angle, corrected for Faraday rotation, was 97° ± 6°. The 1.23 GHz linear polarization was 76.7% ± 3.9% with wavelength-dependent depolarization, indicating a Faraday depth dispersion of . We find an upper limit to the circular polarization of ∣V∣/I < 10.1%. Interpretation of the data in terms of diffractive scattering of radio waves by a plasma near the source indicates an electron density and a line-of-sight magnetic field strength within a factor of 3 of ne ∼ 2 cm−3 and B∥ ∼ 2 × 105μG. Combined with causality limits to the size of the source, these parameters are consistent with the low-frequency spectral break resulting from synchrotron self-absorption, not free–free absorption. A possible interpretation of the source is a highly supersonic neutron star interacting with a changing environment.
-]]></content:encoded>
-<pubDate>2024-07-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Big Bang Nucleosynthesis with f(R) Gravity Scalarons and Astrophysical Consequences</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5843</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5843</guid>
-<content:encoded><![CDATA[
-<div> f(R) gravity, Big Bang nucleosynthesis, primordial black holes (PBHs), scalarons, nonbaryonic dark matter
-
-这篇文章研究了f(R)引力理论下的宇宙大爆炸核合成，并考虑了辐射时代原始黑洞对引力的修改所引入的额外自由度。研究发现，在一定范围的scalaron质量下，锂的丰度降低了3-4倍，这有助于解决宇宙锂问题。同时，氦的丰度符合观测界限。然而，氘的丰度提高了3-6倍，这需要恒星形成和演化过程对原始氘的破坏具有高效率，这在scalaron引力理论中是可能的。文章还提出了scalaron质量与黑洞质量的新关系，并指出了在这一scalaron质量范围内的原始黑洞可作为非重子暗物质的潜在候选者。最后，文章推断了幂律f(R)引力与原始黑洞的大爆炸等效性，并指出这种黑洞可以被即将到来的引力波探测器所探测到。<br /><br />总结: 这篇文章研究了f(R)引力理论下的宇宙大爆炸核合成，发现特定范围的scalaron质量下，锂的丰度降低，氦的丰度符合观测界限，氘的丰度增加。文章还提出了scalaron质量与黑洞质量的关系，并推断了幂律f(R)引力与原始黑洞的大爆炸等效性。 <div>
-f(R) gravity is one of the serious alternatives of general relativity with a large range of astronomical consequences. In this work, we study Big Bang nucleosynthesis (BBN) in f(R) gravity theory. We consider a modification to gravity due to the existence of primordial black holes (PBHs) in the radiation era that introduce additional degrees of freedom known as scalarons. We calculate the light element abundances by using the BBN code PArthENoPE. It is found that for a range of scalaron mass (2.2 − 3.5) × 104 eV, the abundance of lithium is lowered by 3−4 times the value predicted by general relativistic BBN, which is a level desired to address the cosmological lithium problem. For the above scalaron mass range, the helium abundance is within the observed bound. However, the deuterium abundance is found to be increased by 3−6 times the observed primordial abundance. It calls for a high efficiency of stellar formation and evolution processes for the destruction of primordial deuterium, which is suggested as possible in scalaron gravity. A novel relation between scalaron mass and black hole mass has been used to show that the above scalaron mass range corresponds to PBHs of subplanetary mass (∼1019 g) serving as one of the potential candidates of nonbaryonic dark matter. We infer Big Bang equivalence of power-law f(R) gravity with PBHs that are detectable with upcoming gravitational wave detectors.
-]]></content:encoded>
-<pubDate>2024-07-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>AGEL: Is the Conflict Real? Investigating Galaxy Evolution Models Using Strong Lensing at 0.3 < z < 0.9</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ce3</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 总质量分布, 强引力透镜, 透镜建模, 红移, 动力学观测
-
-总结: 本文介绍了对AGEL调查中七个星系尺度透镜的透镜模型。利用HST/WFC3-F140W图像和GLEE软件进行建模，测量了折射器星系的总密度分布和γ-z关系。通过比较观测和模型预测的速度离散度，验证了透镜模型；得出平均密度梯度斜率为-1.95±0.09和γ-z关系在z<1时不随红移变化的结论。文章指出观测和模拟之间的冲突可能是由于透镜和动力学模型中的系统误差，观测与模拟之间的比较难度，以及假定总质量分布为简单的幂律。AGEL调查将提供更多zdefl>0.5的透镜，为当前理论模型预测的质量分布随红移演化提供更强的约束。<br /><br /> <div>
-Observed evolution of the total mass distribution with redshift is crucial to testing galaxy evolution theories. To measure the total mass distribution, strong gravitational lenses complement the resolved dynamical observations that are currently limited to z ≲ 0.5. Here we present the lens models for a pilot sample of seven galaxy-scale lenses from the ASTRO3D Galaxy Evolution with Lenses (AGEL) survey. The AGEL lenses, modeled using HST/WFC3-F140W images with Gravitational Lens Efficient Explorer (GLEE) software, have deflector redshifts in the range 0.3 < zdefl < 0.9. Assuming a power-law density profile with slope γ, we measure the total density profile for the deflector galaxies via lens modeling. We also measure the stellar velocity dispersions (σobs) for four lenses and obtain σobs from SDSS-BOSS for the remaining lenses to test our lens models by comparing observed and model-predicted velocity dispersions. For the seven AGEL lenses, we measure an average density profile slope of −1.95 ± 0.09 and a γ–z relation that does not evolve with redshift at z < 1. Although our result is consistent with some observations and simulations, it differs from other studies at z < 1 that suggest the γ–z relation evolves with redshift. The apparent conflicts among observations and simulations may be due to a combination of (1) systematics in the lensing and dynamical modeling; (2) challenges in comparing observations with simulations; and (3) assuming a simple power law for the total mass distribution. By providing more lenses at zdefl > 0.5, the AGEL survey will provide stronger constraints on whether the mass profiles evolve with redshift as predicted by current theoretical models.
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Small-scale Dynamo with Nonzero Correlation Time</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ee4</guid>
-<content:encoded><![CDATA[
-<div> 关键词: small-scale dynamo, correlation time, incompressible Gaussian random field, Fourier space, Prandtl number
-
-这篇文章研究了小尺度动力机的特性，其中假设速度场的相关时间为零。然后使用不为零的相关时间模型来研究动力机性能的影响。文章假设速度场为不可压缩的高斯随机场，并在傅里叶空间中推导了磁场的两点相关的演化方程的最低阶修正。然后得到了在非螺旋紊流中磁场的纵向相关函数（ML）的演化方程，该方程适用于任意的普朗特尔数。在高普朗特尔数的极限下进一步简化了这个方程，并发现磁场能量的增长率比先前报道的要小得多。尽管如此，磁场功率谱仍然在高普朗特尔数下保留了 Kazantsev形式。 
-
-<br /><br />总结: 
-本文研究了小尺度动力机的特性，使用了不同的相关时间模型，并得到了磁场的演化方程。在高普朗特尔数的极限下发现磁场能量的增长率较先前报道的要小，但磁场功率谱仍保留了Kazantsev形式。 <div>
-The small-scale dynamo is typically studied by assuming that the correlation time of the velocity field is zero. Some authors have used a smooth renovating flow model to study how the properties of the dynamo are affected by the correlation time being nonzero. Here, we assume the velocity is an incompressible Gaussian random field (which need not be smooth), and derive the lowest-order corrections to the evolution equation for the two-point correlation of the magnetic field in Fourier space. Using this, we obtain the evolution equation for the longitudinal correlation function of the magnetic field (ML) in nonhelical turbulence, valid for arbitrary Prandtl number. The nonresistive terms of this equation do not contain spatial derivatives of ML of order greater than 2. We further simplify this equation in the limit of high Prandtl number, and find that the growth rate of the magnetic energy is much smaller than previously reported. Nevertheless, the magnetic power spectrum still retains the Kazantsev form at high Prandtl number.
-]]></content:encoded>
-<pubDate>2024-07-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraining Extended Teleparallel Gravity via Cosmography: A Model-independent Approach</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5555</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5555</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 宇宙学，暗能量，宇宙扩张，宇宙学参数，MCMC分析
-
-总结:<br /><br />本文介绍了通过宇宙学参数对扩展的平面引力模型进行限制的方法。研究人员使用了马尔可夫链蒙特卡洛分析来处理包括宇宙年代测量、重子声学振荡和Pantheon+SH0ES在内的三个数据集，以获得受限制的结果。然后，他们将这些结果与各种宇宙参数进行比较和验证，并与三个知名模型做出比较。该研究表明，宇宙学参数是限制宇宙学模型的有力工具，对于更好地理解宇宙的动力学和暗能量等方面具有重要意义。 <div>
-As a classical approach, the dynamics of the Universe, influenced by its dark components, are unveiled through prior modifications of Einstein’s equations. Cosmography, on the other hand, is a highly efficient tool for reconstructing any modified theory in a model-independent manner. By employing kinematic variables, it offers a profound explanation for cosmic expansion. Although the cosmographical approach has been highly successful in several geometric theories in recent years, it has not been extensively explored in coupled gravities. With this in mind, we intend to constrain an extended teleparallel gravity model, , through cosmographic parameters. We utilize Taylor series expansion, assuming a minimally coupled form, to constrain the unknowns involved in the series. To achieve this, we conduct a Markov Chain Monte Carlo (MCMC) analysis using three different data sets (cosmic chronometers, baryon acoustic oscillations, and Pantheon+SH0ES). The constrained results obtained from MCMC are then compared and verified using various cosmological parameters. Finally, we compare the resulting models with three well-known models.
-]]></content:encoded>
-<pubDate>2024-07-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>VLBA Astrometry of the Galactic Double Neutron Stars PSR J0509+3801 and PSR J1930–1852: A Preliminary Transverse Velocity Distribution of Double Neutron Stars and its Implications</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4883</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4883</guid>
-<content:encoded><![CDATA[
-<div> 双中子星合并，短γ射线爆发，运动速度分布，超微暗星系，重元素丰度
-<br /><br />
-双中子星合并被认为是短γ射线爆发的主要来源，并且产生了重元素。然而，对于双中子星的空间速度分布仍知之甚少。本研究利用VLBA确定了两个银河系双中子星的视运动和视差，并对所有11个具有准确视运动测量的双中子星进行了横向速度的估计。研究发现，双中子星的横向速度可能与自转周期、轨道离心率和伴星质量相关。得出的速度分布结果表明双中子星能够从宿主星系中逃逸，并留在超微弱暗星系中，为这些星系的重元素丰度作出了解释。研究还探讨了未来通过星表确定的双中子星的速度分布的多模态特征。 
-<br /> <br /> 总结: 双中子星的空间速度分布与短γ射线爆发的关系，双中子星对超微弱暗星系中的重元素丰度的影响，未来研究的方向。 <div>
-The mergers of double neutron star (DNS) systems are believed to drive the majority of short γ-ray bursts (SGRBs), while also serving as production sites of heavy r-process elements. Despite being key to (i) confirming the nature of the extragalactic SGRBs, (ii) addressing the poorly understood r-process enrichment in the ultrafaint dwarf galaxies (UFDGs), and (iii) probing the formation process of DNS systems, the space velocity distribution of DNSs is still poorly constrained, due to the small number of DNSs with well-determined astrometry. In this work, we determine new proper motions and parallaxes of two Galactic DNSs, PSR J0509+3801 and PSR J1930−1852, using the Very Long Baseline Array, and we estimate the transverse velocities v⊥ of all 11 isolated Galactic DNSs having proper-motion measurements in a consistent manner. Our correlation analysis reveals that the DNS v⊥ is tentatively correlated with three parameters: spin period, orbital eccentricity, and companion mass. With the preliminary v⊥ distribution, we obtain the following findings. First, the refined v⊥ distribution is confirmed to agree with the observed displacements of the localized SGRBs from their host galaxy birth sites. Second, we estimate that around 11% and 25% of DNSs remain gravitationally bound to UFDGs with escape velocities of 15 and 25 km s−1, respectively. Hence, the retained DNSs might indeed be responsible for the r-process enrichment confirmed so far in a few UFDGs. Finally, we discuss how a future ensemble of astrometrically determined DNSs may probe the multimodality of the v⊥ distribution.
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Challenges in Forecasting the Evolution of a Distorted CME Observed During the First Close Solar Orbiter Perihelion</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5003</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5003</guid>
-<content:encoded><![CDATA[
-<div> 遥感观测，磁层失衡，日冕孔，CME传播，太阳风速<br />
-总结:<br />
-本文研究了2022年3月25日观测到的一个扭曲的、指向地球的日冕物质抛射（CME）。文章采用了三个远程感知与三个原位观测卫星的数据，并发现CME前端在纬度和经度上都出现了扭曲，其中Solar Orbiter观测显示出的地向纬度扭曲低至约6个太阳半径。同时，近地区极紫外观测表明这种扭曲是由于CME与附近赤道日冕孔的更快风速相互作用所致。研究还采用了改进的GCS模型来评估CME扭曲对其传播的影响，并将结果与拖曳模型和WSA-Enlil MHD模型进行比较。结果表明，虽然该事件复杂，但在不同的距离处到达时间的误差要比文献中的典型误差（约8-10小时）低得多（约4小时误差）。 <div>
-Coronal Mass Ejections (CMEs), drivers of the most severe Space Weather disturbances, are often assumed to evolve self-similarly during their propagation. However, open magnetic field structures in the corona, leading to higher-speed streams in the ambient solar wind, can be source of strong distortions of the CME front. In this paper, we investigate a distorted and Earth-directed CME observed on 2022 March 25 combining three remote sensing with three in situ observatories at different heliocentric distances (from 0.5 to 1 au). Near quadrature observations by Solar Orbiter and the Solar Terrestrial Relations Observatory revealed a distortion of the CME front in both latitude and longitude, with Solar Orbiter observations showing an Earth-directed latitudinal distortion as low as ≈6 R⊙. Near-Earth extreme-ultraviolet observations indicated the distortion was caused by interaction with faster wind from a nearby equatorial coronal hole. To evaluate the effect of the distortion on the CME's propagation, we adopted a three-point-of-view graduated cylindrical shell (GCS) fitting approach. For the first time, the GCS results are combined with an additional heliospheric single-viewpoint that looks further out in the heliosphere, revealing a deceleration in the CME before reaching ≈100 R⊙. The CME geometry and velocity determined by this enhanced GCS are used to initialize a drag-based model and a WSA-Enlil MHD model. The estimated times of arrival are compared with in situ data at different heliocentric distances and, despite the complexity of the event, the error in the arrival times at each spacecraft results much lower (≈4 hr error) than the typical errors in literature (≈8–10 hr).
-]]></content:encoded>
-<pubDate>2024-07-17T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
