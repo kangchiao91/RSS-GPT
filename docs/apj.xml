@@ -4,6 +4,46 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Predicting the Energetic Proton Flux with a Machine Learning Regression Algorithm</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7734</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7734</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太空天气、实时监测、人工智能、机器学习、太空任务
+
+总结: 
+太空天气的实时监测和警报系统的需求在过去20年显著增长。预测太阳质子事件（SPEs）是太空任务运营和规划中最重要的挑战之一。人工智能和机器学习技术在统计预测算法方面开辟了新的领域。大多数模型旨在预测SPE的发生，即它们基于分类方法。这项工作旨在成功实施机载预测系统，这对于未来的太空探索至关重要。作者提出了一种简单高效的机器学习回归算法，能够利用仅来自电子通量的特征，预测未来1小时的高能质子通量。这种方法有助于改进深空和近地环境辐射风险监测系统。该模型对于任务运营和规划非常重要，特别是当耀斑特征和来源位置在实时不可用时，例如在火星距离上。 <br><br> <div>
+The need for real-time monitoring and alerting systems for space weather hazards has grown significantly in the last two decades. One of the most important challenges for space mission operations and planning is the prediction of solar proton events (SPEs). In this context, artificial intelligence and machine learning techniques have opened a new frontier, providing a new paradigm for statistical forecasting algorithms. The great majority of these models aim to predict the occurrence of an SPE, i.e., they are based on the classification approach. This work is oriented toward the successful implementation of onboard prediction systems, which is essential for the future of space exploration. We present a simple and efficient machine learning regression algorithm that is able to forecast the energetic proton flux up to 1 hr ahead by exploiting features derived from the electron flux only. This approach could be helpful in improving monitoring systems of the radiation risk in both deep space and near-Earth environments. The model is very relevant for mission operations and planning, especially when flare characteristics and source location are not available in real time, as at Mars distance.
+]]></content:encoded>
+
+<pubDate>2024-10-21T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Identifying Subcomponents of Mean Pulse Profiles of PSR B1822–09 with Single Pulses</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77aa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77aa</guid>
+<content:encoded><![CDATA[
+<div> 关键词:  PSR B1822−09, 脉冲轮廓组件, 信号交叉相关, 子组件, 脉冲星表面
+
+总结:<br>
+研究利用500米口径球面射电望远镜观测数据成功识别了PSR B1822−09的不同脉冲轮廓组件的子组件，并通过单脉冲强度序列的相位-相位交叉相关确定子组件的数量和边缘。研究结果表明，PSR B1822−09的主脉冲（MP）、前驱（PC）和间脉冲（IP）都由三个子组件组成。强烈的子组件之间的正相关表明存在脉冲星表面不同区域的响应，并提出了不同子组件对应于脉冲星表面不同区域的假设。这些复杂的相关关系对描述不同脉冲轮廓组件之间关系的现有理论提出了挑战。 <div>
+Using observational data obtained with the Five-hundred-meter Aperture Spherical radio Telescope, we succeeded in identifying subcomponents of different pulse profile components of PSR B1822−09 by the phase-to-phase cross correlations between intensity sequences of single pulses. The determined number of the subcomponents and edges of the subcomponents are consistent with the results of Gaussian fitting on the mean pulse profiles of PSR B1822−09. According to the results, the main pulse (MP) in both the radio burst mode (B mode) and the radio-quiet mode (Q mode), the precursor (PC), and the interpulse (IP) of PSR B1822−09 are all composed of three subcomponents. The correlation coefficients between intensity sequences at different pulse phases reveal a positive correlation between the subcomponent C8 of the MP and C3 of the IP in the Q mode, and a positive correlation between C5 of the PC and C2 of the IP during the switching process from the B mode to the Q mode. These complex correlations present a challenge for the existing scenarios that describe relations between different pulse profile components. We proposed a hypothesis that different subcomponents correspond to different subpatches on the pulsar surface, and emissions from a subpatch reveal responses of the subpatch to some variations like the voltage in the magnetosphere. Therefore, correlations between different subcomponents depend on the responses of the subpatches to the variations.
+]]></content:encoded>
+
+<pubDate>2024-10-21T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad739a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad739a</guid>
+<content:encoded><![CDATA[
+<div> 光变曲线，差分图像，场景建模，超新星，宇宙学质量
+<br><br>总结:  这篇文章介绍了DARK ENERGY SURVEY SUPERNOVA（DES-SN）项目的光度学光变曲线，内容包括了在调查期间采用的差分图像上的强制点扩散函数光度测定和调查后处理的搜寻图像上的场景模拟光度测定。研究结果显示，采用场景模拟光度测定的精度、准确性和对宿主星系表面亮度异常的敏感度都更好。公开的光变曲线和辅助数据可在github.com/des-science/DES-SN5YR 和 doi:10.5281/zenodo.12720777 获取。 <div>
+We present griz photometric light curves for the full 5 yr of the Dark Energy Survey Supernova (DES-SN) program, obtained with both forced point-spread function photometry on difference images (DiffImg) performed during survey operations, and scene modelling photometry (SMP) on search images processed after the survey. This release contains 31,636 DiffImg and 19,706 high-quality SMP light curves, the latter of which contain 1635 photometrically classified SNe that pass cosmology quality cuts. This sample spans the largest redshift (z) range ever covered by a single SN survey (0.1 < z < 1.13) and is the largest single sample from a single instrument of SNe ever used for cosmological constraints. We describe in detail the improvements made to obtain the final DES-SN photometry and provide a comparison to what was used in the 3 yr DES-SN spectroscopically confirmed Type Ia SN sample. We also include a comparative analysis of the performance of the SMP photometry with respect to the real-time DiffImg forced photometry and find that SMP photometry is more precise, more accurate, and less sensitive to the host-galaxy surface brightness anomaly. The public release of the light curves and ancillary data can be found at github.com/des-science/DES-SN5YR and doi:10.5281/zenodo.12720777.
+]]></content:encoded>
+
+<pubDate>2024-10-20T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Ultraviolet Flux and Spectral Variability Study of Blazars Observed with UVIT/AstroSat</title>
