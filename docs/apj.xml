@@ -4,6 +4,71 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Cosmic Ray Diffusion in Magnetic Fields Amplified by Nonlinear Turbulent Dynamo</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79fb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79fb</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 宇宙射线扩散, 磁场湍流, 非线性磁旋, 粒子模拟, 磁场不均匀
+
+总结:<br><br>这项研究探讨了在无强磁场存在的情况下，宇宙射线在磁场湍流中的扩散问题。研究发现了三种不同的扩散机制，分别是镜像扩散、漫游扩散和磁矩散射。结果显示，CR的扩散也具有空间不均匀性，低能CR更倾向于在强磁场区域发生镜像扩散和漫游扩散，而高能CR更偏向于发生磁矩散射，这导致了CR的平均自由程（MFP）对能量的依赖性不同。这项研究强调了非线性磁旋引起的磁场不均匀性对CR扩散行为的基本作用。 <div>
+The diffusion of cosmic rays (CRs) in turbulent magnetic fields is fundamental to understanding various astrophysical processes. We explore the CR diffusion in the magnetic fluctuations amplified by the nonlinear turbulent dynamo in the absence of a strong mean magnetic field. Using test particle simulations, we identify three distinct CR diffusion regimes: mirroring, wandering, and magnetic moment scattering (MMS). With highly inhomogeneous distribution of the dynamo-amplified magnetic fields, we find that the diffusion of CRs is also spatially inhomogeneous. Our results reveal that lower-energy CRs preferentially undergo the mirror and wandering diffusion in the strong-field regions, and the MMS diffusion in the weak-field regions. The former two diffusion mechanisms play a more important role toward lower CR energies, resulting in a relatively weak energy dependence of the overall CR mean free path (MFP). In contrast, higher-energy CRs predominantly undergo the MMS diffusion, for which the incomplete particle gyration, i.e., the limit case of mirroring, in strong fields has a more significant effect than the scattering by small-scale field tangling/reversal. Compared with lower-energy CRs, they are more poorly confined in space and their MFPs have a stronger energy dependence. We stress the fundamental role of magnetic field inhomogeneity of nonlinear turbulent dynamo in causing the different diffusion behavior of CRs compared to that in sub-Alfvénic magnetohydrodynamic turbulence.
+]]></content:encoded>
+
+<pubDate>2024-10-24T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Phantom Matter: A Challenging Solution to the Cosmological Tensions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a62</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a62</guid>
+<content:encoded><![CDATA[
+<div> 关键词: dark energy, ΛXCDM模型, phantom matter, 引力波, 宇宙学数据
+
+总结:<br><br>本文讨论了复合暗能量的概念，认为虚空能量密度可能与其他有效的暗能量形式相结合。作者提出了wXCDM模型，并研究了phantom matter的可能性。实验结果表明，使用BAO 2D数据拟合时，H0和生长张力几乎消失。然而，使用各向异性BAO（BAO 3D）时，缓解H0张力的能力明显降低。最后，实验结果支持DE在z≃1.5以下呈现类似quintessence行为，与近期DESI测量相符。 <div>
+The idea of composite dark energy (DE) is quite natural since on general grounds we expect that the vacuum energy density (associated with the cosmological term Λ) may appear in combination with other effective forms of DE, denoted X. Here we deal with model wXCDM, a simplified version of the old ΛXCDM model, and exploit the possibility that X behaves as “phantom matter” (PM), which appears in stringy versions of the running vacuum model (RVM). Unlike phantom DE, the PM fluid satisfies the strong energy condition like usual matter, hence bringing to bear positive pressure at the expense of negative energy. Bubbles of PM may appear in the manner of a transitory “phantom vacuum” tunneled into the late Universe before it heads toward a new de Sitter era, thereby offering a crop field for the growing of structures earlier than expected. Using Type Ia supernovae, cosmic chronometers, transversal baryon acoustic oscillations (BAO 2D), large-scale structure data, and the full cosmic microwave background likelihood from Planck 2018, we find that the H0 and growth tensions virtually disappear, provided that BAO 2D are the only source of BAO data used in the fit. In contrast, our preliminary analysis using exclusively anisotropic BAO (BAO 3D) indicates that the ability to ease the H0 tension is significantly reduced as compared to the scenario with BAO 2D, despite the fact that the overall fit to the cosmological data is still better than in the ΛCDM. Finally, our approach with BAO 2D favors quintessence-like behavior of the DE below z ≃ 1.5 at ≳3σ confidence level, which is compatible with the recent DESI measurements.
+]]></content:encoded>
+
+<pubDate>2024-10-24T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Magnetic Field Evolution for Crystallization-driven Dynamos in C/O White Dwarfs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a6a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a6a</guid>
+<content:encoded><![CDATA[
+<div> 白矮星，磁场演化，结晶驱动发电机，电导率，对流扩散<br>
+总结:<br>
+本研究调查了质量≲1.05 M⊙的碳氧白矮星中生成的晶化驱动发电机产生的磁场的演化。研究表明，初始磁场强度(B0)受初始对流区大小(Rout,0)和白矮星质量的限制。在发电机阶段结束后，通过解诱导方程可以追踪磁场演化，预测的表面磁场强度(Bsurf)与B0相差至少约0.3倍，取决于Rout,0。我们实现了考虑固体相对欧姆扩散的电导率，观察到当固体核增长时电导率会增加，磁场在演化的某一点冻结，并减缓其向外传输。我们研究了对流引起的磁扩散效应，并发现对于较小的Rout,0，Bsurf比非湍流扩散情况更强，但仍比B0小数个数量级。鉴于这些限制，结晶驱动的发电机理论只能解释质量范围为0.45-1.05 M⊙的磁性C/O白矮星，其磁场强度小于几兆高斯。我们的研究结果还表明，如果结晶驱动的对流负责将埋藏的化石磁场输送到表面，则其强度必须至少比观测到的表面磁场强度大100倍。 <div>
+We investigate the evolution of magnetic fields generated by the crystallization-driven dynamo in carbon–oxygen white dwarfs (WDs) with masses ≲1.05 M⊙. We use scalings for the dynamo to demonstrate that the initial magnetic field strength (B0) has an upper limit that depends on the initial convection zone size (Rout,0) and the WD mass. We solve the induction equation to follow the magnetic field evolution after the dynamo phase ends. We show that the predicted surface magnetic field strength (Bsurf) differs from B0 by at least a factor of ∼0.3. This reduction depends on Rout,0, where values smaller than half of the star radius give Bsurf ≲ 0.01 B0. We implement electrical conductivities that account for the solid phase effect on the ohmic diffusion. We observe that the conductivity increases as the solid core grows, freezing in the magnetic field at a certain point of the evolution and slowing its outward transport. We study the effect of turbulent magnetic diffusivity induced by the convection and find that for a small Rout,0, Bsurf is stronger than the nonturbulent diffusion cases because of the more rapid transport, but still orders of magnitude smaller than B0. Given these limitations, the crystallization-driven dynamo theory could explain only magnetic C/O WDs with field strengths less than a few megagauss for the mass range 0.45–1.05 M⊙. Our results also suggest that a buried fossil field must be at least 100 times stronger than observed surface fields if crystallization-driven convection is responsible for its transport to the surface.
+]]></content:encoded>
+
+<pubDate>2024-10-24T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Effect of Photon Vortex Generated in Extremely Strong Magnetic Fields on Stellar Nucleosynthesis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a4</guid>
+<content:encoded><![CDATA[
+<div> 光子旋涡，强磁场，光子吸收，角动量，核合成
+总结:<br><br>研究表明，光子旋涡主要在宇宙中极强的磁场中产生。光子旋涡在与原子核相互作用中可能导致显著的大角动量转移，影响了这些天体环境中的恒星核合成过程。研究中计算了贝塞尔波描述的光子旋涡与平面波光子之间的吸收跃迁概率比值。结果显示，通过在动量空间中优化入射光子旋涡的发散角度，促进了对具有大总角动量的态的激发。然而，光子旋涡的平均截面结果与平面波相同。因此，即使贝塞尔光子在天体环境中被主要产生出来，合成元素的同位素丰度并不会改变。 <div>
+It is thought that photon vortices are predominantly produced in extremely strong magnetic fields in the Universe. Because the photon vortex may cause significant large angular momentum transfer in interactions with atomic nuclei, stellar nucleosynthesis in such astrophysical environments is affected. In the present study, we calculate the ratios of the photon absorption transition probabilities of photon vortices with Bessel wave to photons described by the plane wave. The result shows enhancement of excitation of states with large total angular momentum by optimization of the divergence angle of the incident photon vortex in momentum space. However, the average cross section for the photon vortex turns out to be identical with that for the plane wave. Therefore, even when Bessel photons are predominantly produced in astrophysical environments, the isotopic abundances of the synthesized elements are not changed.
+]]></content:encoded>
+
+<pubDate>2024-10-23T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Are There Local Dynamos Acting in Sunspot Regions?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7820</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7820</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳物理学, 太阳黑子, 磁流体力学, 双极磁场, 太阳活动
+
+总结:
+太阳物理学领域长期存在一个未解之谜，即在太阳黑子区域是否存在局部磁流体力学作用。本文报道了一种磁场演化的观察模式，使得太阳黑子区域充满了复杂性和能量。这种异常模式表现为特殊的双极磁场出现，具有以下特征：（1）双极磁场出现在太阳黑子的边缘，环绕太阳黑子并以端对端的方式延伸；（2）每个双极磁场会沿着以太阳黑子为中心的弧线轨迹逐渐增长并分离两种极性；（3）在双极磁场演化过程中，在紫外线/极紫外辐射中出现圆形发光带；（4）具有这种演化模式的太阳黑子区域通常表现出强烈的太阳活动，如均匀的大型耀斑。磁场的演化模式和相关的耀斑活动表明存在局部磁流体力学作用，我们将其描述为扭曲-重新连接的动力机制。 <div>
+In solar physics, a long-unanswered question is whether or not there are local dynamos acting in sunspot regions. Here we report an observed pattern of magnetic evolution that makes the sunspots alive with ample complexity and energy. This anomalous pattern manifests as peculiar bipolar magnetic emergences (BMEs), exhibiting the following characteristics: (1) the BMEs persistently appear beyond the penumbra, encircling the sunspot in an end-to-end configuration; (2) each BME gradually grows and separates its two polarities along an arc trajectory centered on the sunspot; (3) a circular brightening belt is manifested in the ultraviolet/extreme-ultraviolet radiations during the BMEs’ evolution; and (4) the sunspot regions with such an evolution pattern often exhibit vigorous solar activity, such as homogeneous major flares. The magnetic evolving pattern and relevant flare activity indicate the presence of a local dynamo, and we characterize it as a twisting-reconnecting dynamo.
+]]></content:encoded>
+
+<pubDate>2024-10-23T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Scylla. II. The Spatially Resolved Star Formation History of the Large Magellanic Cloud Reveals an Inverted Radial Age Gradient</title>
