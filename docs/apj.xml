@@ -4,21 +4,21 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Power of High-precision Broadband Photometry: Tracing the Milky Way Density Profile with Blue Horizontal Branch Stars in the Dark Energy Survey</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad738f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad738f</guid>
 <content:encoded><![CDATA[
 <div> BHBs, Milky Way's halo, density profile, photometry, Dark Energy Survey Data Release 2
-<br><br>
+<br /><br />
 该研究使用星等测光数据和贝叶斯混合模型对BHBs进行分类，并发现它们在星等颜色空间中的独特位置。在对获得的高概率BHBs进行分析后，研究人员成功绘制了银河系晕的星体分布，并发现其数量密度符合幂律密度剖面。研究还考察了系统误差和空间不均匀性对密度剖面的影响。该工作证实了高精度星等测光数据在选择BHBs方面的有效性。未来的Rubin Observatory光度巡天将有望在10年的任务期间实现比DES更深2-3个等级的观测深度，从而进一步探索银河系晕的密度剖面，揭示我们银河系形成和演化的复杂过程。
-<br>密度剖面得出的幂律密度分布
-<br>使用高精度星等测光数据对BHBs进行了分类
-<br>未来光度巡天将实现更深的观测深度
-<br>该研究证实了高精度星等测光数据在选择BHBs方面的有效性 <div>
+<br />密度剖面得出的幂律密度分布
+<br />使用高精度星等测光数据对BHBs进行了分类
+<br />未来光度巡天将实现更深的观测深度
+<br />该研究证实了高精度星等测光数据在选择BHBs方面的有效性 <div>
 Blue horizontal branch stars (BHBs), excellent distant tracers for probing the Milky Way’s halo density profile, are distinguished in the versus (i − z)0 color space from another class of stars, blue straggler stars. We develop a Bayesian mixture model to classify BHBs using high-precision photometry data from the Dark Energy Survey Data Release 2 (DES DR2). We select ∼2100 highly probable BHBs based on their griz photometry and the associated uncertainties, and we use these stars to map the stellar halo over the Galactocentric radial range 20 kpc ≲ R ≲ 70 kpc. After excluding known stellar overdensities, we find that the number density n⋆ of BHBs can be represented by a power-law density profile n⋆ ∝ R−α with an index of , consistent with existing literature values. In addition, we examine the impact of systematic errors and the spatial inhomogeneity on the fitted density profile. Our work demonstrates the effectiveness of high-precision griz photometry in selecting BHBs. The upcoming photometric survey from the Rubin Observatory, expected to reach depths 2–3 mag greater than DES during its 10 yr mission, will enable us to investigate the density profile of the Milky Way’s halo out to the virial radius, unraveling the complex processes of formation and evolution in our Galaxy.
 ]]></content:encoded>
-
 <pubDate>2024-10-24T23:00:00Z</pubDate>
 </item>
 <item>
@@ -27,11 +27,10 @@ Blue horizontal branch stars (BHBs), excellent distant tracers for probing the M
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7735</guid>
 <content:encoded><![CDATA[
 <div> gravitational lensing clusters, James Webb Space Telescope, intracluster light, globular clusters, dwarf galaxies
-<br><br>总结:
+<br /><br />总结:
 本文提出了一种从James Webb Space Telescope观测的引力透镜聚类图像中建立和去除聚类星系和星系团内光（ICL）的方法论。研究者们在SMACS 0723 Early Release Observations中应用这一方法，并利用去除了ICL的图像选择了一组星团和矮星系。他们比较了这两个样本的空间分布与他们所建立的星系和ICL光模型，发现了显著的相似之处。特别是，他们发现星团追踪着弥散的ICL，而矮星系集中在聚类中心附近。研究者们量化了紧凑源的表面密度与总聚类光之间的关系，并展示了显著的紧密相关性。他们重复了他们的方法，将星团的分布与暗物质表面密度进行了比较，得到了类似的结果。研究结果表明星团和弥散的ICL可能具有共同的起源，大质量星系与聚类合并时的剥离可能是一个合理的情景。 <div>
 We present a methodology for modeling and removing light from cluster galaxies and intracluster light (ICL) from James Webb Space Telescope images of gravitational lensing clusters. We apply our method to Webb’s First Deep Field the SMACS 0723 Early Release Observations and use the ICL-subtracted images to select a sample of globular clusters (GCs) and dwarf galaxies within the cluster. We compare the spatial distributions of these two samples with our models of the galaxy and ICL light, finding significant similarities. In particular, we find that GCs trace the diffuse ICL, while dwarf galaxies are centrally concentrated near the cluster center We quantify the relationship between the surface density of compact sources and total cluster light, demonstrating a significant, tight correlation. We repeat our methodology and compare distributions of GCs with the dark matter surface density and find a comparable result. Our findings suggest a common origin for GCs and diffuse ICL, with stripping from massive galaxies as they merge with the cluster being a plausible scenario.
 ]]></content:encoded>
-
 <pubDate>2024-10-24T23:00:00Z</pubDate>
 </item>
 <item>
@@ -39,11 +38,10 @@ We present a methodology for modeling and removing light from cluster galaxies a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad779d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad779d</guid>
 <content:encoded><![CDATA[
-<div> CHIME, FRBs, far sidelobe, fluxes, repetition<br>
-远离旁瓣区域探测到10个快速无线电爆发（FRBs），平均流量大约是CHIME主瓣检测到的事件的500倍。研究发现，旁瓣样本统计上比主瓣样本接近20倍。其中有两个FRB有希望的宿主星系候选者，距离分别为38兆秒差距和16兆秒差距。在总曝光时间为35,580小时内，并未观测到类似亮度的重复事件。根据泊松分布的假设，推断远离旁瓣事件的平均重复间隔长于11,880小时，至少是已知的CHIME/FRB重复源的间隔的2380倍。这些远离旁瓣事件的结果表明了两种情景中的一种：所有的FRB都重复，且重复间隔跨越了很广的范围，高重复率的重复者是一种罕见的亚种，或者非重复的FRB是一种与已知重复者不同的特殊亚群。 <br><br>总结: CHIME远离旁瓣区域探测到10个FRB，其中有两个有希望的宿主星系候选者。在总曝光时间内，未观测到重复事件。根据泊松分布假设，推断远离旁瓣事件的平均重复间隔很长，与已知重复源的间隔相比至少大2380倍。这些结果提示FRB可能存在两种情景之一：所有的FRB都重复，重复间隔范围很广，或者非重复的FRB构成了一个独特的亚群。 <div>
+<div> CHIME, FRBs, far sidelobe, fluxes, repetition<br />
+远离旁瓣区域探测到10个快速无线电爆发（FRBs），平均流量大约是CHIME主瓣检测到的事件的500倍。研究发现，旁瓣样本统计上比主瓣样本接近20倍。其中有两个FRB有希望的宿主星系候选者，距离分别为38兆秒差距和16兆秒差距。在总曝光时间为35,580小时内，并未观测到类似亮度的重复事件。根据泊松分布的假设，推断远离旁瓣事件的平均重复间隔长于11,880小时，至少是已知的CHIME/FRB重复源的间隔的2380倍。这些远离旁瓣事件的结果表明了两种情景中的一种：所有的FRB都重复，且重复间隔跨越了很广的范围，高重复率的重复者是一种罕见的亚种，或者非重复的FRB是一种与已知重复者不同的特殊亚群。 <br /><br />总结: CHIME远离旁瓣区域探测到10个FRB，其中有两个有希望的宿主星系候选者。在总曝光时间内，未观测到重复事件。根据泊松分布假设，推断远离旁瓣事件的平均重复间隔很长，与已知重复源的间隔相比至少大2380倍。这些结果提示FRB可能存在两种情景之一：所有的FRB都重复，重复间隔范围很广，或者非重复的FRB构成了一个独特的亚群。 <div>
 We report 10 fast radio bursts (FRBs) detected in the far sidelobe region (i.e., ≥5° off-meridian) of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) from August 28 2018 to August 31 2021. We localize the bursts by fitting their spectra with a model of the CHIME/FRB synthesized beam response. We find that the far sidelobe events have on average ∼500 times greater fluxes than events detected in CHIME’s main lobe. We show that the sidelobe sample is therefore statistically ∼20 times closer than the main lobe sample. We find promising host galaxy candidates (Pcc < 1%) for two of the FRBs, 20190112B and 20210310B, at distances of 38 and 16 Mpc, respectively. CHIME/FRB did not observe repetition of similar brightness from the uniform sample of 10 sidelobe FRBs in a total exposure time of 35,580 hr. Under the assumption of Poisson-distributed bursts, we infer that the mean repetition interval above the detection threshold of the far sidelobe events is longer than 11,880 hr, which is at least 2380 times larger than the interval from known CHIME/FRB detected repeating sources, with some caveats, notably that very narrowband events could have been missed. Our results from these far sidelobe events suggest one of two scenarios: either (1) all FRBs repeat and the repetition intervals span a wide range, with high-rate repeaters being a rare sub-population, or (2) non-repeating FRBs are a distinct population different from known repeaters.
 ]]></content:encoded>
-
 <pubDate>2024-10-24T23:00:00Z</pubDate>
 </item>
 <item>
@@ -56,7 +54,6 @@ We report 10 fast radio bursts (FRBs) detected in the far sidelobe region (i.e.,
 这篇文章报告了对位于背景类星体FBQS J0209–0438的多相Lyman limit系统(LLS)的分析。文章发现，与这个吸收体相关的O VI双线与低电离金属和H i的谱线具有不同的轮廓。Ly α具有一个与O VI成分非常一致的非常宽的H i成分(b ≈ 150 km s−1)。宽H i和O VI的多普勒b参数表明这些气体的温度约为(0.8 − 2.0) × 10^6 K，并且氢柱密度是负责LLS的冷相气体的一个数量级大。Very Large Telescope MUSE的观测显示，在吸收体附近的约105千秒差距内存在两个中等星形成率的星系，其中一个是一个侏儒星系(M* ≈ 10^6M⊙)，与类星体点扩散函数重叠，另一个是一个较大的星系(R1/2 ≈ 4 kpc) ，具有M* ≈ 3 × 10^10M⊙和Mh ≈ 7 × 10^11M⊙，并且侏儒星系位于其温度半径内。尽管吸收与较大星系的扩展主轴对齐，但吸收气体的视向速度与共转吸积不一致。LLS的金属丰度低于两个星系的气态[O/H]。吸收气体中涉及冷和温/热的气体相，并且它在星系对的联合暗物质环境中的接近和取向，表明LLS是两个星系的联合暗物质环境中的高速气体。 <div>
 We report on the analysis of a multiphase Lyman limit system (LLS) at z = 0.39047 identified toward the background quasar FBQS J0209–0438. The O VI doublet lines associated with this absorber have a different profile from the low-ionization metals and H i. Ly α has a very broad H i (b ≈ 150 km s−1) component well-aligned with one of the O VI components. The Doppler b-parameters for the broad H i and O VI indicate gas with T = (0.8 − 2.0) × 106 K and a total hydrogen column density that is an order of magnitude larger than the cooler phase of gas responsible for the LLS. Observations by the Very Large Telescope MUSE show two moderately star-forming galaxies within ρ ≲ 105 kpc and ∣Δv∣ ≲ 130 km s−1 of the absorber, one of them a dwarf galaxy (M* ≈ 106M⊙) overlapping with the quasar point-spread function, and the other a larger galaxy (R1/2 ≈ 4 kpc) with M* ≈ 3 × 1010M⊙ and Mh ≈ 7 × 1011M⊙, and the dwarf galaxy within its virial radius. Although the absorption is aligned with the extended major axis of the larger galaxy, the line-of-sight velocity of the absorbing gas is inconsistent with corotating accretion. The metallicity inferred for the LLS is lower than the gas phase [O/H] of the two galaxies. The mixture of cool and warm/hot gas phases for the absorbing gas and its proximity and orientation to the galaxy pair points to the LLS being a high-velocity gas in the combined halo environment of both galaxies.
 ]]></content:encoded>
-
 <pubDate>2024-10-24T23:00:00Z</pubDate>
 </item>
 <item>
@@ -64,15 +61,13 @@ We report on the analysis of a multiphase Lyman limit system (LLS) at z = 0.3904
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7817</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7817</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 稳定同位素比率, ALMA观测, 太阳系, 星盘, 硫同位素<br>
-<br>
-本文利用稳定同位素比率研究星体、盘和行星形成过程中挥发性物质的热和辐射历史。利用ALMA观测星盘中C、O和N的同位素，发现硫同位素的丰度和同位素分馏机制仍不够清楚。作者利用ALMA观测到的年轻恒星Oph-IRS 48周围富含分子的盘中SO和SO2同位素得出结论，显示相对温暖的气体中SO相对具有轻硫同位素，而SO2则富集相对于太阳系统的值。然而，我们无法完全排除更凉的气体库存在的可能性，这可能使得SO的硫同位素比率更接近彗星和其他太阳系天体的值。此外，作者还对S18O/SO比进行了约束，发现在60K的温度下与太阳系统的值一致。这些观察结果表明我们不应假设盘中的硫同位素具有太阳系统的值，而需要额外的观测来确定盘中SO的化学起源，以及揭示不同阶段行星形成过程中硫的历史。 <br><br>总结: 本文利用ALMA观测了年轻恒星Oph-IRS 48周围富含分子的盘中SO和SO2同位素，发现SO相对具有轻硫同位素，SO2富集相对于太阳系统的值。作者呼吁需要额外观测来确定盘中SO的化学起源，并揭示不同阶段行星形成过程中硫的历史。 <div>
+<div> 关键词: 稳定同位素比率, ALMA观测, 太阳系, 星盘, 硫同位素<br />
+<br />
+本文利用稳定同位素比率研究星体、盘和行星形成过程中挥发性物质的热和辐射历史。利用ALMA观测星盘中C、O和N的同位素，发现硫同位素的丰度和同位素分馏机制仍不够清楚。作者利用ALMA观测到的年轻恒星Oph-IRS 48周围富含分子的盘中SO和SO2同位素得出结论，显示相对温暖的气体中SO相对具有轻硫同位素，而SO2则富集相对于太阳系统的值。然而，我们无法完全排除更凉的气体库存在的可能性，这可能使得SO的硫同位素比率更接近彗星和其他太阳系天体的值。此外，作者还对S18O/SO比进行了约束，发现在60K的温度下与太阳系统的值一致。这些观察结果表明我们不应假设盘中的硫同位素具有太阳系统的值，而需要额外的观测来确定盘中SO的化学起源，以及揭示不同阶段行星形成过程中硫的历史。 <br /><br />总结: 本文利用ALMA观测了年轻恒星Oph-IRS 48周围富含分子的盘中SO和SO2同位素，发现SO相对具有轻硫同位素，SO2富集相对于太阳系统的值。作者呼吁需要额外观测来确定盘中SO的化学起源，并揭示不同阶段行星形成过程中硫的历史。 <div>
 Stable isotopic ratios constitute powerful tools for unraveling the thermal and irradiation history of volatiles. In particular, we can use our knowledge of the isotopic fractionation processes active during the various stages of star, disk, and planet formation to infer the origins of different volatiles with measured isotopic patterns in our own solar system. Observations of planet-forming disks with the Atacama Large Millimeter/submillimeter Array (ALMA) now readily detect the heavier isotopologues of C, O, and N, while the isotopologue abundances and isotopic fractionation mechanisms of sulfur species are less well understood. Using ALMA observations of the SO and SO2 isotopologues in the nearby, molecule-rich disk around the young star Oph-IRS 48 we present the first constraints on the combined 32S/34S and 32S/33S isotope ratios in a planet-forming disk. Given that these isotopologues likely originate in relatively warm gas (>50 K), like most other Oph-IRS 48 volatiles, SO is depleted in heavy sulfur, while SO2 is enriched compared to solar system values. However, we cannot completely rule out a cooler gas reservoir, which would put the SO sulfur ratios more in line with comets and other solar system bodies. We also constrain the S18O/SO ratio and find the limit to be consistent with solar system values given a temperature of 60 K. Together these observations show that we should not assume solar isotopic values for disk sulfur reservoirs, but additional observations are needed to determine the chemical origin of the abundant SO in this disk, inform on what isotopic fractionation mechanism(s) are at play, and aid in unraveling the history of the sulfur budget during the different stages of planet formation.
 ]]></content:encoded>
-
 <pubDate>2024-10-24T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Multi-epoch UV–X-Ray Spectral Study of NGC 4151 with AstroSat</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77ca</link>
@@ -11796,63 +11791,6 @@ Core-collapse supernovae (CCSNe) are the terminal explosions of massive stars. W
 We study the evolution of electric currents during the emergence of magnetic flux in the solar photosphere and the differences exhibited between solar active regions of different Hale complexity classes. A sample of 59 active regions was analyzed using a method based on image segmentation and error analysis to determine the total amount of nonneutralized electric current along their magnetic polarity inversion lines. The time series of the total unsigned nonneutralized electric current, INN,tot, exhibit intricate structure in the form of distinct peaks and valleys. This information is largely missing in the respective time series of the total unsigned vertical electric current Iz. Active regions with δ-spots stand out, exhibiting a 1.9 times higher flux emergence rate and 2.6 times higher INN,tot increase. The median value of their peak INN,tot is equal to 3.6 × 1012 A, which is more than three times higher than that of the other regions of the sample. An automated detection algorithm was also developed to pinpoint the injection events of nonneutralized electric current. The injection rates and duration of these events were higher with increasing complexity of active regions, with regions containing δ-spots exhibiting the strongest and longest events. These events do not necessarily coincide with increasing magnetic flux, although they exhibit moderate correlation. We conclude that net electric currents are injected during flux emergence but are also shaped drastically by the incurred photospheric evolution as active regions grow and evolve.
 ]]></content:encoded>
 <pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Simulating the Arrival of the Southern Substructure in the Galaxy Cluster Abell 1758</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5350</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5350</guid>
-<content:encoded><![CDATA[
-<div> Abell 1758, galaxy cluster, N-body hydrodynamical simulations, orbital configuration, bridge connection
-总结:<br /><br />Abell 1758是一个由两个结构A1758N和A1758S组成的星系团，它们之间存在一个未被发现的桥梁。文章通过N体流体动力学模拟探讨了不同的轨道探测方式，并发现了轨道接近的模拟方案与观测数据相吻合。其中，切向接近的方案表现出最佳匹配。模拟结果在X射线图像中显示出可检测的桥梁，但过估了X射线过量。这项研究的结论对理解星系团之间的相互作用具有重要意义。 <div>
-Abell 1758 (z ∼ 0.278) is a galaxy cluster composed of two structures, A1758N and A1758S, separated by ∼2.2 Mpc. The northern cluster is itself a dissociative merging cluster that has already been modeled by dedicated simulations. Recent radio observations revealed the existence of a previously undetected bridge connecting A1758N and A1758S. New simulations are now needed to take into account the presence of A1758S. We wish to evaluate which orbital configuration would be compatible with a bridge between the clusters. Using N-body hydrodynamical simulations that build upon the previous model, we explore different scenarios that could have led to the current observed configuration. Five types of orbital approaches were tested: radial, tangential, vertical, postapocentric, and outgoing. We found that the incoming simulated scenarios are generally consistent with mild enhancements of gas density between the approaching clusters. The mock X-ray images exhibit a detectable bridge in all cases. Compared to measurements of Chandra data, the amplitude of the X-ray excess is overestimated by a factor of ∼2–3 in the best simulations. The scenario of tangential approach proved to be the one that best matches the properties of the profiles of X-ray surface brightness. The scenarios of radial approach of vertical approach are also marginally compatible.
-]]></content:encoded>
-<pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Can We Constrain Warm Dark Matter Masses with Individual Galaxies?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54b6</guid>
-<content:encoded><![CDATA[
-<div> 暗暗物质，宇宙模拟，星系性质，正常流，相互信息<br />
-这项研究使用大量宇宙模拟数据，探讨了暗暗物质质量对星系内部性质的影响。通过训练正常流模型学习参数后发现，即使给定宇宙学和天体物理参数的值，模型仍无法推断出暗暗物质质量的值。而模型可以从星系性质中推断出Ωm的值，精度约为10％，而对于暗暗物质质量与星系性质之间的相互信息几乎没有显著的依赖关系。<br /><br />总结: 暗暗物质质量对星系性质影响有限，正常流模型无法推断暗暗物质质量，但可以从星系性质中推断Ωm的值。 <div>
-We study the impact of warm dark matter (WDM) mass on the internal properties of individual galaxies using a large suite of 1024 state-of-the-art cosmological hydrodynamic simulations from the DREAMS project. We take individual galaxies’ properties from the simulations, which have different cosmologies, astrophysics, and WDM masses, and train normalizing flows to learn the posterior of the parameters. We find that our models cannot infer the value of the WDM mass, even when the values of the cosmological and astrophysical parameters are given explicitly. This result holds for galaxies with stellar mass larger than 2 × 108M⊙h−1 at both low and high redshifts. We calculate the mutual information and find no significant dependence between the WDM mass and galaxy properties. On the other hand, our models can infer the value of Ωm with a ∼10% accuracy from the properties of individual galaxies while marginalizing astrophysics and WDM masses.
-]]></content:encoded>
-<pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Santa Barbara Binary−disk Code Comparison</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a7e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a7e</guid>
-<content:encoded><![CDATA[
-<div> 数值计算，二进制交互，气体盘，数值方法，收敛解<br />
-总结：<br />
-这项研究的目标是确定是否所有代码在数值上都能达成一致的解，并确定收敛所需的分辨率以及必须计算的二进制轨道数，以达到二进制-盘系统的一致放松状态。研究发现，多数代码在二进制组件附近需要大约二进制间距的1%才能达到对盘对二进制施加的力矩的收敛测量。对于我们的盘模型达到放松状态，代码必须至少运行200个二进制轨道，这相当于我们参数的一个粘性时间，即0.2(a^2ΩB/ν)个二进制轨道，其中ν为动力粘度。代码之间出现的最大差异来自设置的维度（3D与2D盘）。研究发现，在代码之间总扭矩上存在较好的一致性，尽管这种扭矩在引力扭矩、轨道吸积扭矩和自旋吸积扭矩之间的分配取决于采用的sink处方。与先前的研究相一致，我们发现2D和3D盘模型之间的扭矩和吸积变化方面存在适度差异。我们发现凹陷进动速率在3D中比在2D中明显更快。 <div>
-We have performed numerical calculations of a binary interacting with a gas disk, using 11 different numerical methods and a standard binary−disk setup. The goal of this study is to determine whether all codes agree on a numerically converged solution and to determine the necessary resolution for convergence and the number of binary orbits that must be computed to reach an agreed-upon relaxed state of the binary−disk system. We find that all codes can agree on a converged solution (depending on the diagnostic being measured). The zone spacing required for most codes to reach a converged measurement of the torques applied to the binary by the disk is roughly 1% of the binary separation in the vicinity of the binary components. For our disk model to reach a relaxed state, codes must be run for at least 200 binary orbits, corresponding to about a viscous time for our parameters, 0.2(a2ΩB/ν) binary orbits, where ν is the kinematic viscosity. The largest discrepancies between codes resulted from the dimensionality of the setup (3D vs. 2D disks). We find good agreement in the total torque on the binary between codes, although the partition of this torque between the gravitational torque, orbital accretion torque, and spin accretion torque depends sensitively on the sink prescriptions employed. In agreement with previous studies, we find a modest difference in torques and accretion variability between 2D and 3D disk models. We find cavity precession rates to be appreciably faster in 3D than in 2D.
-]]></content:encoded>
-<pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Galaxy–Galaxy Strong Lensing Cross Section and the Internal Distribution of Matter in ΛCDM Substructure</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad51fd</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 强引力透镜、暗物质、ΛCDM 模型、质量重分布、弱引力镜像
-总结: 强引力透镜提供了研究透镜中物质分布的重要手段，观测到的巨大星系团对暗物质的亚结构进行了研究，发现与ΛCDM模型不符，对透镜中的质量进行了重分布以解决这一差异，但重分布为解决这一差异提供了有限的帮助，建议需要更加细致地探索其他暗物质模型。 <br /><br />总结: <div>
-Strong gravitational lensing offers a powerful probe of the detailed distribution of matter in lenses, while magnifying and bringing faint background sources into view. Observed strong lensing by massive galaxy clusters, which are often in complex dynamical states, has also been used to map their dark matter (DM) substructures on smaller scales. Deep high-resolution imaging has revealed the presence of strong lensing events associated with these substructures, namely galaxy-scale sub-halos. However, an inventory of these observed galaxy–galaxy strong lensing (GGSL) events is noted to be discrepant with state-of-the-art ΛCDM simulations. Cluster sub-halos appear to be over-concentrated compared to their simulated counterparts yielding an order-of-magnitude higher value of GGSL. In this paper, we explore the possibility of resolving this observed discrepancy by redistributing the mass within observed cluster sub-halos in ways that are consistent within the ΛCDM paradigm of structure formation. Lensing mass reconstructions from data provide constraints on the mass enclosed within apertures and are agnostic to the detailed mass profile within them. Therefore, as the detailed density profile within cluster sub-halos currently remains unconstrained by data, we are afforded the freedom to redistribute the enclosed mass. We investigate if rearranging the mass to a more centrally concentrated density profile helps alleviate the GGSL discrepancy. We report that refitting cluster sub-halos to the ubiquitous ΛCDM-motivated Navarro–Frenk–White profile, and further modifying them to include significant baryonic components, does not resolve this tension. A resolution to this persisting GGSL discrepancy may require more careful exploration of alternative DM models.
-]]></content:encoded>
-<pubDate>2024-07-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>On Kinematic Measurements of Self-gravity in Protoplanetary Disks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5285</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5285</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 控制注入实验, 星周盘, 光谱线数据, 气体质量, 表面密度<br />
-<br />
-这篇文章介绍了一种分析方法，通过控制注入和恢复实验，评估了解决(二氧化碳)光谱线数据的星周盘气体质量测量的方法。在数据质量足够的情况下，该方法对于大质量的盘( Md/M* = 0.1)表现良好，并能够恢复出真实值，且偏差小(≲20%)，不确定性在两倍标准差范围内。该方法还被用于阿塔卡马大型毫米/亚毫米阵列观测的MWC 480盘，测量得到了气体质量，并识别出与表面密度间隙相一致的动力学亚结构。这项研究表示这些动力学测量提供了足够精确和准确的新约束，以量化Md/M*分布的高端气体质量和表面密度，因此可以成为详细热化学模拟的关键基准。文章也讨论了未来工作的一些展望、各种警示和限制。 <br /><br />总结: 本研究介绍了一种通过控制注入和恢复实验评估解决光谱线数据的星周盘气体质量测量的方法，针对大质量盘(Md/M* = 0.1)的数据质量良好，且方法也被应用于实际观测，并展示了测量结果的准确性和对动力学的约束力。文章还讨论了未来工作的展望和一些限制。 <div>
-Using controlled injection and recovery experiments, we devised an analysis prescription to assess the quality of dynamical measurements of protoplanetary disk gas masses based on resolved (CO) spectral line data, given observational limitations (resolution, sampling, noise), measurement bias, and ambiguities in the geometry and physical conditions. With sufficient data quality, this approach performed well for massive disks (Md/M* = 0.1): we inferred Md posteriors that recovered the true values with little bias (≲20%) and uncertainties within a factor of two (2σ). The gas surface density profiles for such cases are recovered with remarkable fidelity. Some experimentation indicates that this approach becomes insensitive when Md/M* ≲ 5%, due primarily to degeneracies in the surface density profile parameters. Including multiple lines that probe different vertical layers, along with some improvements in the associated tools, might push that practical boundary down by another factor of ∼two in ideal scenarios. We also demonstrated this analysis approach using archival Atacama Large Millimeter/Submillimeter Array observations of the MWC 480 disk: we measured (corresponding to Md/M* = 7% ± 1%) and identified kinematic substructures consistent with surface density gaps around 65 and 135 au. Overall, this (and similar work) suggests that these dynamical measurements offer powerful new constraints with sufficient accuracy and precision to quantify gas masses and surface densities at the high end of the Md/M* distribution, and therefore can serve as key benchmarks for detailed thermo-chemical modeling. We address some prospects for improvements, and discuss various caveats and limitations to guide future work.
-]]></content:encoded>
-<pubDate>2024-07-25T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
