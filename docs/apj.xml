@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Filamentary Molecular Cloud Formation via Collision-induced Magnetic Reconnection in a Cold Neutral Medium</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad73a5</link>
@@ -14,7 +15,6 @@
 分子云形成是通过碰撞诱发磁重联机制实现的，碰撞的两个原子气云触发了磁重联并产生了一个巨大的20光年长的丝状结构。通过辐射传输建模表明，这个丝状结构中间部分含有5光年跨度的密集核心，其中一些核心正在活跃地形成恒星。同时，超音速湍流的存在表明磁重联能够自发产生湍流。最后，形成的螺旋磁场应该从大多数观测角度都呈现出两侧的场反转。这一过程与传统的由上至下的云层层次分析不同，而是通过磁场重新连接将冲击气体凝结并逐段输送到主轴构成丝状结构。 <div>
 We have investigated the possibility of molecular cloud formation via the collision-induced magnetic reconnection (CMR) mechanism of the cold neutral medium (CNM). Two atomic gas clouds with conditions typical of the CNM were set to collide at the interface of reverse magnetic fields. The cloud–cloud collision triggered magnetic reconnection and produced a giant 20 pc filamentary structure that was not seen in the control models without CMR. The cloud, with rich fiber-like substructures, developed a fully molecular spine at 5 Myr. Radiative transfer modeling of dust emission at far-infrared wavelengths showed that the middle part of the filament contained dense cores over a span of 5 pc. Some of the cores were actively forming stars and typically exhibited both connecting fibers in dust emission and high-velocity gas in CO line emission, indicative of active accretion through streamers. Supersonic turbulence was present in and around the CMR filament due to inflowing gas moving at supersonic velocities in the collision midplane. The shocked gas was condensed and transported to the main filament piece by piece by reconnected fields, making the filament and star formation a bottom-up process. Instead of forming a gravitationally bounded cloud that then fragments hierarchically (top-down) and forms stars, the CMR process creates dense gas pieces and magnetically transports them to the central axis to constitute the filament. Since no turbulence is manually driven, our results suggest that CMR is capable of self-generating turbulence. Finally, the resulting helical field should show field reversal on both sides of the filament from most viewing angles.
 ]]></content:encoded>
-
 <pubDate>2024-10-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -27,7 +27,6 @@ We have investigated the possibility of molecular cloud formation via the collis
 研究了一维、时间相关的磁致运动盘风模型，应用于潮汐撕裂事件的背景下。通过磁流体力学方程，考虑了磁制动和湍流黏度，得到了满足垂直无界MHD流的风解。模拟结果表明，盘风随着初始高斯密度分布的质量损失和从风和吸积的质量演化。同时发现，在没有风的情况下，质量吸积速率与时间的幂律关系为t^-19/16，但当风存在时，吸积速率下降更快。磁制动也导致了质量吸积速率的加速下降，产生了X射线延迟闪耀现象。模型预测了UV明亮的潮汐撕裂事件在后期的光度曲线将会比t^-19/16更陡峭，这可能是磁致风的有力指标。 <div>
 We present a time-dependent, one-dimensional, magnetically driven disk wind model based on magnetohydrodynamic (MHD) equations, in the context of tidal disruption events (TDEs). We assume that the disk is geometrically thin, is gas pressure dominated, and explicitly accounts for magnetic braking and turbulent viscosity through an extended α-viscosity prescription. We find a particular wind solution for a set of basic equations that satisfies the necessary and sufficient conditions for vertically unbound MHD flows. The solution shows that the disk evolves with mass loss due to wind and accretion from the initial Gaussian density distribution. We confirm that the mass accretion rate follows the power law of time t−19/16 at late times in the absence of wind, which matches the classical solution of J. K. Cannizzo et al. We find that the mass accretion rate is steeper than the t−19/16 curve when the wind is present. Mass accretion is also induced by magnetic braking, known as the wind-driven accretion mechanism, which results in a faster decay with time of both the mass accretion and mass-loss rates. In the disk emission, the ultraviolet (UV) luminosity is the highest among the optical, UV, and X-ray luminosities. While the optical and X-ray emission is observationally insignificant without magnetic braking, the X-ray emission is brighter at late times, especially in the presence of magnetic braking. This provides a possible explanation for observed delayed X-ray flares. Our model predicts that late-time bolometric light curves steeper than t−19/16 in UV-bright TDEs are potentially compelling indicators of magnetically driven winds.
 ]]></content:encoded>
-
 <pubDate>2024-10-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,13 +35,11 @@ We present a time-dependent, one-dimensional, magnetically driven disk wind mode
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad76a0</guid>
 <content:encoded><![CDATA[
 <div> NGC 1851, LMG, BHs, MSP, Monte Carlo N-body code
-总结:<br><br>这篇文章讨论了质量在2-5 M⊙之间的紧凑恒星遗迹的存在。通过NGC 1851星团的模拟，研究了LMG黑洞的形成过程，发现质量巨星演化和动力学相互作用都会对LMG黑洞的形成起到贡献。NGC 1851模型能够复制观测到的MSP-LMG BH双星系统，LMG黑洞还可能成为动力学形成的双星系统的组成部分，并且一些将会在类似于最近发现的引力波源GW230529的BH-NS系统中合并。然而，对应的合并率可能不超过1 Gpc-3 yr-1。 <div>
+总结:<br /><br />这篇文章讨论了质量在2-5 M⊙之间的紧凑恒星遗迹的存在。通过NGC 1851星团的模拟，研究了LMG黑洞的形成过程，发现质量巨星演化和动力学相互作用都会对LMG黑洞的形成起到贡献。NGC 1851模型能够复制观测到的MSP-LMG BH双星系统，LMG黑洞还可能成为动力学形成的双星系统的组成部分，并且一些将会在类似于最近发现的引力波源GW230529的BH-NS系统中合并。然而，对应的合并率可能不超过1 Gpc-3 yr-1。 <div>
 The existence of compact stellar remnants in the mass range 2–5 M⊙ has long been debated. This so-called lower-mass gap (LMG) was initially suggested by the lack of low-mass X-ray binary observations with accretors about 2–5 M⊙, but it has recently been called into question following newer observations, including an LMG candidate with a millisecond pulsar (MSP) companion in the dense globular cluster NGC 1851. Here, we model NGC 1851 with a grid of similar dense star clusters utilizing the state-of-the-art Monte Carlo N-body code Cluster Monte Carlo, and we specifically study the formation of LMG black holes (BHs). We demonstrate that both massive star evolution and dynamical interactions can contribute to forming LMG BHs. In general, the collapse of massive remnants formed through mergers of neutron stars (NSs) or massive white dwarfs produces the largest number of LMG BHs among all formation channels. However, in more massive clusters, supernova core collapse can contribute comparable numbers. Our NGC 1851-like models can reproduce MSP—LMG BH binaries similar to the observed system. Additionally, the LMG BHs can also become components of dynamically assembled binaries, and some will be in merging BH–NS systems similar to the recently detected gravitational wave source GW230529. However, the corresponding merger rate is probably ≲1 Gpc−3 yr−1.
 ]]></content:encoded>
-
 <pubDate>2024-10-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Toward a Self-consistent Evaluation of Gas Dwarf Scenarios for Temperate Sub-Neptunes</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c38</link>
@@ -11781,43 +11778,6 @@ We present wave and turbulence observations from the DSCOVR spacecraft during th
 Any astrophysical object can, in principle, serve as a probe of the interaction between dark matter (DM) and regular baryonic matter. This method is based on the potential observable consequences annihilations of captured DM have on the surface temperature of the object itself. In a series of previous papers we developed and validated simple analytic approximations for the total capture rates of DM valid in four distinct regions of the DM–nucleon scattering cross section (σ) versus DM particle mass (mX) parameter space. In this work, we summarize those previous results and extend them significantly by deriving a completely general closed-form solution for the total capture rate of DM in the multiscatter regime. Moreover, we demonstrate the existence of a region in the σ versus mX parameter space where the constraining power of any astrophysical object heated by annihilations of captured DM is lost. This corresponds to a maximal temperature (Tcrit) any astrophysical object can have, such that it can still serve as a DM probe. Any object with observed temperature Tobs > Tcrit loses its DM constraining power. We provide analytic formulae that can be used to estimate Tcrit for any object.
 ]]></content:encoded>
 <pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Quasi-stars as a Means of Rapid Black Hole Growth in the Early Universe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5723</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5723</guid>
-<content:encoded><![CDATA[
-<div> JWST observations, supermassive black holes, direct collapse, quasi-star phase, BH mass<br />
-<br />
-这篇文章分析了伴随直接坍缩模型的中间“准星”阶段，其中新生的黑洞从上层气态包层中吸积质量并通过吸积维持能量。作者认为以往关于在这一阶段黑洞能够达到的最大质量的估计约为总准星质量的1%是不合理的，并且是由于低估了能量从黑洞附近区域向外传输的效率所致。他们建立了新的准星模型，这些模型由内部“饱和对流”区域（符合黑洞附近的对流主导吸积流）与外部绝热包层相匹配。这些解存在直到黑洞质量达到总准星质量的约60%，在这一点，绝热包层中只包含总质量的2%（剩余约38%在饱和对流区域），并且达到这一上限的时间为20-40百万年。作者得出结论，准星仍然是在较大红移处形成超大质量黑洞的可行途径，这与最近的JWST观测结果一致。<br /><br />总结: JWST观测提供了超大质量黑洞存在的证据，验证了直接坍缩黑洞形成理论。作者分析了准星阶段，认为以往的黑洞质量估计不合理，并建立了新的准星模型，得出准星仍然是形成超大质量黑洞的可行途径的结论。 <div>
-JWST observations demonstrate that supermassive black holes (SMBHs) exist by redshifts z ≳ 10, providing further evidence for “direct collapse” black hole (BH) formation, whereby massive (∼103–5M⊙) SMBH seeds are generated within a few million years as a byproduct of the rapid inflow of gas into the centers of protogalaxies. Here we analyze the intermediate “quasi-star” phase that accompanies some direct-collapse models, during which a natal BH accretes mass from and energetically sustains (through accretion) an overlying gaseous envelope. We argue that previous estimates of the maximum BH mass that can be reached during this stage, ∼1% of the total quasi-star mass, are unphysical, and arise from underestimating the efficiency with which energy can be transported outward from regions close to the BH. We construct new quasi-star models that consist of an inner, “saturated convection” region (which conforms to a convection-dominated accretion flow near the BH) matched to an outer, adiabatic envelope. These solutions exist up to a BH mass of ∼60% of the total quasi-star mass, at which point the adiabatic envelope contains only 2% of the mass (with the remaining ∼38% in the saturated-convection region), and this upper limit is reached within a time of 20–40 Myr. We conclude that quasi-stars remain a viable route for producing SMBHs at large redshifts, which is consistent with recent JWST observations.
-]]></content:encoded>
-<pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Shock Waves in the Magnetic Reconnection in the Flares on the Accretion Disk of the Sgr A*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d58</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d58</guid>
-<content:encoded><![CDATA[
-<div> 磁重联, 冲击波, 加热, 恒星黑洞, 闪耀
-
-总结:
-研究发现Sgr A*的闪耀可能是由磁重联和冲击波导致的。模拟结果表明磁场线的重联会产生慢激波，加热等等。这些结果有助于解释星系黑洞吸积盘的瞬时亮度变化。 <div>
-Sgr A* often shows bright, episodic flares observationally, but the mechanism of the flares' intermittent brightening is not very clear. Many people believe the flares may be formed by the nonthermal particles, which can be a consequence of the magnetic reconnection and shock waves. In this work, we use the larger magnetic loop in the presence of pseudo-Newtonian potential, which mimics general relativistic effects. The simulation results show that the reconnection of magnetic field lines passes through a current sheet, which bifurcates into two pairs of slow shocks. We also find the shock waves heat the plasma, especially when the plasma density is low. The shock wave heating effect by the magnetic reconnection is confirmed by the simulation results, and thus the process of instantaneous brightening of the flares on the accretion disk can be explained.
-]]></content:encoded>
-<pubDate>2024-07-28T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Chemical Cartography with APOGEE: Two-process Parameters and Residual Abundances for 288,789 Stars from Data Release 17</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4ed2</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 星际丰度测量、系统误差、SDSS APOGEE调查、恒星群的丰度残差、银河化学进化<br />
-<br />
-这篇文章报告了通过SDSS APOGEE调查获得的恒星群的丰度残差研究。首先，作者发现星际丰度测量受到系统误差的影响，导致元素丰度模式出现额外散射和人为相关性。然后，他们提出了经验校准偏移量，以消除表面重力与17种元素丰度之间的系统趋势。接着，作者对14个敞开星团、9个球状星团和4个矮星附座星系的中位数残差丰度进行了研究。研究结果显示，相对于银河盘的恒星，年龄小于2亿年的敞开星团显示出铌俘获元素铈的增强，而年龄小于0.5亿年的两个星团还显示出碳氮元素、钠、硫和铜的升高水平。球状星团显示出碳氮元素、钠、铝和铈的中位数丰度增加，并遵循先前已知的相关丰度残差趋势。四个矮星附座星系显示出相似的残余丰度模式，尽管它们的恒星形成历史不同，碳氮元素、钠和铝约减少0.2-0.3 dex，镍、钒、锰和钴约减少0.1 dex。作者提供了他们的SDSS APOGEE丰度修正目录，即两种过程振幅和残余丰度，这对于今后研究不同恒星群的丰度模式以及影响银河化学进化的其他额外丰度过程将非常有价值。<br /><br />总结: 本文报告了通过SDSS APOGEE调查获得的恒星群的丰度残差研究。首先，作者发现星际丰度测量受到系统误差的影响，导致元素丰度模式出现额外散射和人为相关性。然后，他们提出了经验校准偏移量，以消除表面重力与17种元素丰度之间的系统趋势。接着，作者对14个敞开星团、9个球状星团和4个矮星附座星系的中位数残差丰度进行了研究。研究结果显示，相对于银河盘的恒星，年龄小于2亿年的敞开星团显示出铌俘获元素铈的增强，而年龄小于0.5亿年的两个星团还显示出碳氮元素、钠、硫和铜的升高水平。球状星团显示出碳氮元素、钠、铝和铈的中位数丰度增加，并遵循先前已知的相关丰度残差趋势。四个矮星附座星系显示出相似的残余丰度模式，尽管它们的恒星形成历史不同，碳氮元素、钠和铝约减少0.2-0.3 dex，镍、钒、锰和钴约减少0.1 dex。作者提供了他们的SDSS APOGEE丰度修正目录，即两种过程振幅和残余丰度，这对于今后研究不同恒星群的丰度模式以及影响银河化学进化的其他额外丰度过程将非常有价值。 <div>
-Stellar abundance measurements are subject to systematic errors that induce extra scatter and artificial correlations in elemental abundance patterns. We derive empirical calibration offsets to remove systematic trends with surface gravity in 17 elemental abundances of 288,789 evolved stars from the SDSS APOGEE survey. We fit these corrected abundances as the sum of a prompt process tracing core-collapse supernovae and a delayed process tracing Type Ia supernovae, thus recasting each star’s measurements into the amplitudes Acc and AIa and the element-by-element residuals from this two-parameter fit. As a first application of this catalog, which is 8× larger than that of previous analyses that used a restricted range, we examine the median residual abundances of 14 open clusters, nine globular clusters, and four dwarf satellite galaxies. Relative to field Milky Way disk stars, the open clusters younger than 2 Gyr show ≈0.1−0.2 dex enhancements of the neutron-capture element Ce, and the two clusters younger than 0.5 Gyr also show elevated levels of C+N, Na, S, and Cu. Globular clusters show elevated median abundances of C+N, Na, Al, and Ce, and correlated abundance residuals that follow previously known trends. The four dwarf satellites show similar residual abundance patterns despite their different star formation histories, with ≈0.2–0.3 dex depletions in C+N, Na, and Al and ≈0.1 dex depletions in Ni, V, Mn, and Co. We provide our catalog of corrected APOGEE abundances, two-process amplitudes, and residual abundances, which will be valuable for future studies of abundance patterns in different stellar populations and of additional enrichment processes that affect galactic chemical evolution.
-]]></content:encoded>
-<pubDate>2024-07-29T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
