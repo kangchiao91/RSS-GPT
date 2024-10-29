@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Modeling of Long-term Afterglow Counterparts to Gravitational Wave Events: The Full View of GRB 170817A</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a14</link>
@@ -14,7 +15,6 @@
 本文介绍了引力波天文学的到来以及越来越多以时间为重点的天文台观测的到来，这将导致对于与地球有适度倾斜的短γ射线暴（GRBs）的探测数量增加。由于这些事件距离我们很近，它们也是非常适合进行长期跟踪观测和长基线干涉测量的主要候选对象，这对于多信使建模、数据分析和应用于这些源的统计推断方法具有重要意义。文章更新了全面的建模，直接将GRB位置的星表观测、微弱源的泊松统计以及跨相对论电子种群的建模纳入到afterglowpy中。作者使用了革命性事件GW170817来展示这些扩展对于最佳拟合物理参数和模型选择方法的影响，这些方法评估了额外的迟发射分量的统计显著性。通过在分析中包括对GRB 170817A的最新Chandra X射线观测，作者发现在后期仅存在一些微弱证据（≲2σ）支持存在新的发射组分，这对于中心演化和外部介质密度预测更加自然。 <div>
 The arrival of gravitational wave astronomy and a growing number of time-domain-focused observatories are set to lead to an increasing number of detections of short gamma-ray bursts (GRBs) launched with a moderate inclination to Earth. Being nearby events, these are also prime candidates for very long-term follow-up campaigns and very long-baseline interferometry, which has implications for multi-messenger modeling, data analysis, and statistical inference methods applied to these sources. Here, we present a comprehensive modeling update that directly incorporates into afterglowpy astrometric observations of the GRB position, Poissonian statistics for faint sources, and modeling of a trans-relativistic population of electrons. We use the revolutionary event GW170817 to demonstrate the impact of these extensions both for the best-fit physics parameters and model selection methods that assess the statistical significance of additional late-time emission components. By including in our analysis the latest Chandra X-ray observations of GRB 170817A, we find only weak evidence (≲2σ) for a new emission component at late times, which makes for a slightly more natural fit to the centroid evolution and prediction for the external medium density.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,12 +22,11 @@ The arrival of gravitational wave astronomy and a growing number of time-domain-
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c3</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 超大质量黑洞、狭线区域、哈勃太空望远镜、气体动力学、活跃星系<br>
-<br>  
-本文利用哈勃太空望远镜（HST）的空间望远镜成像光谱仪（STIS）光谱和宽视场相机3（WFC3）图像对15个附近（z <0.02）活动星系核（AGN）的狭线区域（NLR）和宿主星系的相互作用进行了研究。通过结合11个AGN的新HST WFC3连续光谱和[O III] λ5007图像，以及四个存档的AGN，与现有的HST STIS光谱相匹配。对六个AGN进行了适当的NLR长缝覆盖，并使用地面的等光面拟合图像、去除连续波段的[O III]图像和STIS光谱，解决、测量并将气体动力学投影到宿主星系盘面上，并区分NLR流出和星系旋转和/或动力学扰动的气体。研究发现，[O III]的平均范围约为680光年，与[O III]的亮度呈正相关。测得的范围强烈依赖于[O III]图像的深度，突出了在分析比例关系时采用统一阈值的重要性。流出气体的范围达到了NLR范围的39%至88%，并且发现所有六个具有其整个NLR的STIS覆盖的AGN都显示出强烈的流出动力学证据，尽管对于这些AGN以前存在不确定性。这表明NLR流出在中等光度AGN中普遍存在，并且标准的动力学建模标准对于识别流出是至关重要的。<br><br>总结: 本研究利用Hubble Space Telescope对附近的活动星系核进行了研究，发现NLR流出在中等光度AGN中普遍存在，实现了对NLR动力学的测量和解析。流出范围与[O III]的亮度呈正相关，通过流出的测量，提出了标准的动力学建模标准。 <div>
+<div> 关键词: 超大质量黑洞、狭线区域、哈勃太空望远镜、气体动力学、活跃星系<br />
+<br />  
+本文利用哈勃太空望远镜（HST）的空间望远镜成像光谱仪（STIS）光谱和宽视场相机3（WFC3）图像对15个附近（z <0.02）活动星系核（AGN）的狭线区域（NLR）和宿主星系的相互作用进行了研究。通过结合11个AGN的新HST WFC3连续光谱和[O III] λ5007图像，以及四个存档的AGN，与现有的HST STIS光谱相匹配。对六个AGN进行了适当的NLR长缝覆盖，并使用地面的等光面拟合图像、去除连续波段的[O III]图像和STIS光谱，解决、测量并将气体动力学投影到宿主星系盘面上，并区分NLR流出和星系旋转和/或动力学扰动的气体。研究发现，[O III]的平均范围约为680光年，与[O III]的亮度呈正相关。测得的范围强烈依赖于[O III]图像的深度，突出了在分析比例关系时采用统一阈值的重要性。流出气体的范围达到了NLR范围的39%至88%，并且发现所有六个具有其整个NLR的STIS覆盖的AGN都显示出强烈的流出动力学证据，尽管对于这些AGN以前存在不确定性。这表明NLR流出在中等光度AGN中普遍存在，并且标准的动力学建模标准对于识别流出是至关重要的。<br /><br />总结: 本研究利用Hubble Space Telescope对附近的活动星系核进行了研究，发现NLR流出在中等光度AGN中普遍存在，实现了对NLR动力学的测量和解析。流出范围与[O III]的亮度呈正相关，通过流出的测量，提出了标准的动力学建模标准。 <div>
 Outflowing gas from supermassive black holes in the centers of active galaxies has been postulated as a major contributor to galactic evolution. To explore the interaction between narrow-line region (NLR) outflows and their host galaxies, we use Hubble Space Telescope (HST) Space Telescope Imaging Spectrograph (STIS) spectra and Wide Field Camera 3 (WFC3) images of 15 nearby (z < 0.02) active galactic nuclei (AGN) to determine the extents and geometries of their NLRs. We combine new HST WFC3 continuum and [O iii] λ5007 images of 11 AGN with four archival AGN to match existing spectra from HST STIS. For the six AGN with suitable long-slit coverage of their NLRs, we use isophotal fitting of ground-based images, continuum-subtracted [O iii] images, and the STIS spectra, to resolve, measure, and de-project the gas kinematics to the plane of the host galaxy disk and distinguish NLR outflows from galaxy rotation and/or kinematically disturbed gas. We find an average [O iii] extent of ∼680 pc with a correlation between gas extent and [O iii] luminosity of R[O III] ∝ . The measured extents depend strongly on the depth of the [O iii] images, highlighting the importance of adopting uniform thresholds when analyzing scaling relationships. The outflows reach from 39% to 88% of the full NLR extents, and we find that all six of the AGN with STIS coverage of their entire NLRs show strong kinematic evidence for outflows, despite previous uncertainty for these AGN. This suggests that NLR outflows are ubiquitous in moderate-luminosity AGN and that standard criteria for kinematic modeling are essential for identifying outflows.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -35,13 +34,12 @@ Outflowing gas from supermassive black holes in the centers of active galaxies h
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad739c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad739c</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 高分辨率光谱, 软X射线, Rowland准则, 双倾斜Rowland光谱仪, Arcus探测器<br>
-<br>
-总结: <br>
+<div> 关键词: 高分辨率光谱, 软X射线, Rowland准则, 双倾斜Rowland光谱仪, Arcus探测器<br />
+<br />
+总结: <br />
 这篇文章讨论了软X射线（能量小于2keV）的高分辨率光谱需要采用衍射元件来解析天体物理学相关的诊断信息。Rowland准则描述了光栅和探测器的最佳位置以优化光谱分辨能力。文章提出了一种双倾斜Rowland光谱仪的概念，允许两个通道共享相同的探测器，并可以减少构建仪器时的对准要求。这种双倾斜Rowland光谱仪的概念对于次孔径镜特别有用，因为它可以有效利用航天器的入口孔径。其中应用了这一概念的任务之一是Arcus探测器。 <div>
 High-resolution spectroscopy in soft X-rays (<2 keV) requires diffractive elements to resolve any astrophysically relevant diagnostics, such as closely spaced lines, weak absorption lines, or line profiles. The Rowland torus geometry describes how gratings and detectors need to be positioned to optimize the spectral resolving power. We describe how an on-axis Rowland geometry can be tilted to accommodate blazed gratings. In this geometry, two channels with separate optical axes can share the same detectors (double tilted Rowland spectrograph). Small offsets between the channels can mitigate the effect of chip gaps and reduce the alignment requirements during the construction of the instrument. The double tilted Rowland spectrograph concept is especially useful for subapertured mirrors, because it allows an effective use of space in the entrance aperture of a spacecraft. One mission that applies this concept is the Arcus Probe.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -60,7 +58,6 @@ High-resolution spectroscopy in soft X-rays (<2 keV) requires diffractive elemen
 在自1978年以来的太阳总辐射（TSI）卫星任务中，各个任务产生了略有不同的TSI基线和变化趋势。一些团队通过调整单个任务的数据，显著减少了这些差异，而其他团队则更倾向于使用卫星科学小组发布的原始数据。这些数据组合方式也有所不同，有的将矛盾记录平均在一起，而有的更看重特定记录。研究人员比较了四种现有的组合数据以及基于可用卫星数据的17种新的替代系列。这些21个TSI系列被统计分为了6组，每组3到4个系列。研究发现，这六个组揭示了不同的太阳最小期间的变化趋势。研究人员还将这些组与八个每日分辨的太阳长期预测TSI重构和每日太阳黑子数进行了比较。他们发现，在一到两个太阳周期内取得了良好的一致性，但在更长的时间尺度上存在显著差异。因此，研究人员将所有这些时间序列（新旧）汇集成了一个大型的新TSI数据集，供科学界使用。这个数据集提供了不同分辨率和版本，可以比较地表的太阳变化或太阳与地球相互作用。 <div>
 Several total solar irradiance (TSI) satellite missions have been carried out since 1978. None of these missions have lasted more than one to two solar cycles (SCs), and each mission implies a slightly different absolute TSI baseline. Nonetheless, several satellite composites have been developed by compositing satellite data from different missions to form an almost continuous daily record for the satellite era. However, disconcertingly, each mission has implied slightly different changes in TSI between consecutive solar minima and solar maxima. Some groups have developed adjustments to individual missions that have substantially reduced these differences. Others prefer to use the original data published by the satellite science teams. Some TSI composites average together conflicting records, while others prioritize specific records over others. Here, we compare four existing composites to 17 new alternative series based on the available satellite data. These 21 TSI series are statistically sorted into six groups of three to four series each. We found that the six groups suggest different intercycle trends between solar minima. We compare the groups to eight daily resolved solar proxy-based TSI reconstructions and to daily sunspot numbers. Excellent agreement is obtained over one to two SCs, but significant differences are observed over longer timescales for each group. Therefore, we have assembled all these time series (old and new) into a large and new TSI data set for use by the scientific community. Versions scaled to 1 au (for studying solar variability) or in situ values at Earth (for studying solar/terrestrial interactions) are provided at daily, monthly, and yearly resolutions.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -73,10 +70,8 @@ Several total solar irradiance (TSI) satellite missions have been carried out si
 本文研究了太阳风中核心和晕带电子的温度各向异性是如何受碰撞和不稳定激励的综合影响而调节的。观察到太阳风核心/晕带电子在（β∥，T⊥/T∥）相空间中的分布受到外部边界的限制。文章提供了关于低β∥边界的基线解释，基于碰撞松弛过程。通过结合不稳定性和碰撞动力学，文章充分解释了太阳风电子在（β∥，T⊥/T∥）相空间中的观测分布。 <div>
 Typical solar wind electrons are modeled as being composed of a dense but less energetic thermal “core” population plus a tenuous but energetic “halo” population with varying degrees of temperature anisotropies for both species. In this paper, we seek a fundamental explanation of how these solar wind core and halo electron temperature anisotropies are regulated by combined effects of collisions and instability excitations. The observed solar wind core/halo electron data in (β∥, T⊥/T∥) phase space show that their respective occurrence distributions are confined within an area enclosed by outer boundaries. Here, T⊥/T∥ is the ratio of perpendicular and parallel temperatures and β∥ is the ratio of parallel thermal energy to background magnetic field energy. While it is known that the boundary on the high-β∥ side is constrained by the temperature anisotropy-driven plasma instability threshold conditions, the low-β∥ boundary remains largely unexplained. The present paper provides a baseline explanation for the low-β∥ boundary based upon the collisional relaxation process. By combining the instability and collisional dynamics it is shown that the observed distribution of the solar wind electrons in the (β∥, T⊥/T∥) phase space is adequately explained, both for the “core” and “halo” components.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Evidence for a Fast Soft X-Ray Wind in M82 from XMM-RGS</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7258</link>
@@ -11790,62 +11785,6 @@ Particle-in-cell (PIC) simulations have shown that relativistic collisionless sh
 这项研究利用哈勃空间望远镜、Apache Point Observatory 和 Atacama Large Millimeter/submillimeter Array的观测结果，对塞弗特1星系NGC 3227中的离子化、中性和温暖分子气体的运动学进行了表征。研究人员使用多个高斯函数拟合了长狭缝和积分场光谱观测的多个空间分辨发射线，并根据明显的旋转和流出运动分离了这些运动学。他们利用这些运动学数据确定了一个双锥形结构的方向，沿着这个方向发生了流出。发现双锥结构的倾斜角度为°，半张角的内外边界分别为°和°。他们观察到离子化物质以每秒500公里的速度从超大质量黑洞（SMBH）处向外流动，距离可以达到7″（800 pc），并且在距离15″（1.7 kpc）的地方观察到扰动的离子化气体。他们的分析揭示了离子化流从距离SMBH不到20 pc的地方发射，与Atacama Large Millimeter/submillimeter Array CO(2–1)观测中探测到的核心周围冷气体的桥相同位置。研究人员还测量了气体开始减速的半径，距离活动星系核心26 ± 6 pc。他们确认，与来自辐射加速模型的31-63 pc范围内的转换半径相比，辐射加速机制是NGC 3227的窄线区流的主要加速机制。  
 <br /><br />总结: <br />该研究利用多种天文观测手段对NGC 3227星系中的气体运动学进行了详细表征，确定了双锥结构的方向和相关参数，观察到离子化物质的流出以及加速和减速的过程，最终确认了辐射加速机制对于星系中窄线区流的主导作用。 <div>
 We have characterized the ionized, neutral, and warm molecular gas kinematics in the Seyfert 1 galaxy NGC 3227 using observations from the Hubble Space Telescope Space Telescope Imaging Spectrograph, Apache Point Observatory’s Kitt Peak Ohio State Multi-Object Spectrograph, Gemini-North’s Near-Infrared Integral Field Spectrometer, and the Atacama Large Millimeter/submillimeter Array. We fit multiple Gaussians to several spatially resolved emission lines observed with long-slit and integral-field spectroscopy and isolate the kinematics based on apparent rotational and outflowing motions. We use the kinematics to determine an orientation for the bicone along which the outflows travel and find that the biconical structure has an inclination of ° from our line of sight and a half-opening angle with an inner and outer boundary of ° and °, respectively. We observe ionized outflows traveling 500 km s−1 at distances up to 7″ (800 pc) from the supermassive black hole (SMBH) and disturbed ionized gas up to a distance of 15″ (1.7 kpc). Our analysis reveals that the ionized outflows are launched from within 20 pc of the SMBH, at the same location as a bridge of cold gas across the nucleus detected in Atacama Large Millimeter/submillimeter Array CO(2–1) observations. We measure a turnover radius where the gas starts decelerating at a distance of 26 ± 6 pc from the active galactic nucleus. Compared to a turnover radius in the range of 31−63 pc from a radiative driving model, we confirm that radiative driving is the dominant acceleration mechanism for the narrow-line region outflows in NGC 3227.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Direct Optimal Mapping Image Power Spectrum and its Window Functions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad528c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad528c</guid>
-<content:encoded><![CDATA[
-<div> 中性氢，再电离时期，DOM，干涉测量视宁，功率谱
-
-总结:
-中性氢再电离时期（EoR）的探测关键在于将宇宙信号与主导的前景辐射分离开来。作者开发了直接最优映射（DOM）来映射干涉视宁，其中只包含了线性运算，并且完全了解了从视宁到图像的点扩散函数。通过对DOM图像计算基于快速傅里叶变换的图像功率谱及其窗函数，我们使用基于重离子时期阵列第I阶段配置的无噪声模拟来研究图像功率谱的性质。窗函数显示前景主导区域中泄漏出来的综合功率小于10^-11进入EoR窗口；2D和1D功率谱也验证了前景和EoR之间的分离。 <div>
-The key to detecting neutral hydrogen during the epoch of reionization (EoR) is to separate the cosmological signal from the dominating foreground radiation. We developed direct optimal mapping (DOM) to map interferometric visibilities; it contains only linear operations, with full knowledge of point spread functions from visibilities to images. Here, we demonstrate a fast Fourier transform-based image power spectrum and its window functions computed from the DOM images. We use noiseless simulation, based on the Hydrogen Epoch of Reionization Array Phase I configuration, to study the image power spectrum properties. The window functions show <10−11 of the integrated power leaks from the foreground-dominated region into the EoR window; the 2D and 1D power spectra also verify the separation between the foregrounds and the EoR.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Ion–Electron Instabilities in the Precursors of Weakly Magnetized, Transrelativistic Shocks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5346</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5346</guid>
-<content:encoded><![CDATA[
-<div> 电离激波，湍流，电磁不稳定性，相对论，离子反射
-
-总结:
-电离激波可以通过上游离子反射引起湍流，本研究阐明了静电和电磁不稳定性的特性，探讨了它们在超相对论范围内的作用。特别是发现斜向布尼曼波和先前忽视的次级小尺度离子-电子不稳定性在相对论范围内得到了促进。此外，在任何冷却、重载的先导区域中，大尺度电磁模式的生长会遇到严重限制。文章认为，在静电模式中电子预加热可能缓解这些限制，有利于超相对论激波先导区中大尺度细丝状模式的进一步生长。 <div>
-Collisionless shocks are known to induce turbulence via upstream ion reflection within the precursor region. This study elucidates the properties of electrostatic and electromagnetic instabilities, exploring their role over the transrelativistic range. Notably, the growth of oblique Buneman waves and previously overlooked, secondary, small-scale ion–electron instabilities is observed to be particularly promoted in the relativistic regime. Furthermore, the growth of large-scale electromagnetic modes encounters severe limitations in any cold, baryon-loaded precursor. It is argued that electron preheating in electrostatic modes may alleviate these constraints, facilitating the subsequent growth of large-scale filamentation modes in the precursors of transrelativistic shocks.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Hierarchical Structure and Self-gravity in the Maddalena Giant Molecular Cloud</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5347</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5347</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 星系，13CO发射，分级结构，重力，统计性质<br />
-<br />
-这项工作介绍了银河系成像卷轴绘画项目针对Maddalena巨型分子云（GMC）的数据。我们使用修改后的树状图算法将观测区域的13CO发射数据立方体分解为分级次结构。我们研究了这些分级结构的统计特性，并探讨了自身重力在不同空间尺度上的作用。我们呈现了这些分级结构的质量（M）、半径（R）、速度离散度（σv）、维里参数（αvir）和声速马赫数的统计数据。分级结构的半径和质量分布以及σv-R比例关系与以往使用非分级算法识别实体的研究结果相似。我们发现，对于分级结构，随着其半径或质量的增加，αvir会减小。Maddalena GMC的安静区域中，大多数分级结构不受重力束缚（αvir > 2），而在形成星系的区域中，大多数分级结构是受重力束缚的（αvir < 2）。此外，我们发现在IRAS 06453形成星系区域的0.8-4 pc尺度上，自身重力起着重要作用，而在非形成星系区域的5 pc以下尺度上则不是重要因素。 <br /><br />总结: 这项工作使用13CO发射数据对Maddalena GMC进行了分级结构分解，研究了这些结构的统计特性并探讨了自身重力的作用。研究表明，在星系形成区域，大部分结构受到重力影响，而在非形成星系区域，自身重力影响较小。 <div>
-In this work, we present data from the Milky Way Imaging Scroll Painting project for the Maddalena giant molecular cloud (GMC). We decompose the 13CO emission datacube of the observed region into hierarchical substructures using a modified dendrogram algorithm. We investigate the statistical properties of these substructures and examine the role that self-gravity plays on various spatial scales. The statistics of the mass (M), radius (R), velocity dispersion (σv), virial parameter (αvir), and sonic Mach number of the substructures are presented. The radius and mass distributions and the σv–R scaling relationship of the substructures resemble those reported in previous studies that use nonhierarchical algorithms to identify the entities. We find that for the hierarchical substructures αvir decreases as the radius or mass of the substructures increases. The majority of the substructures in the quiescent region of the Maddalena GMC are not gravitationally bound (αvir > 2), while most of the substructures in the star-forming regions are gravitationally bound (αvir < 2). Furthermore, we find that self-gravity plays an important role on scales of 0.8–4 pc in the IRAS 06453 star-forming region, while it is not an important factor on scales below 5 pc in the non-star-forming region.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Numerical Simulation of Radiatively Driven Transonic Relativistic Jets</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c0</guid>
-<content:encoded><![CDATA[
-We perform the numerical simulations of axisymmetric, relativistic, optically thin jets under the influence of the radiation field of an accretion disk. We show that starting from a very low injection velocity at the base, jets can be accelerated to relativistic terminal speeds when traveling through the radiation field. The jet gains momentum through the interaction with the radiation field. We use a relativistic equation of state for multispecies plasma, which self-consistently calculates the adiabatic index for the jet material. All the jet solutions obtained are transonic in nature. In addition to the acceleration of the jet to relativistic speeds, our results show that the radiation field also acts as a collimating agent. The jets remain well collimated under the effect of radiation pressure. We also show that if the jet starts with a rotational velocity, the radiation field will reduce the angular momentum of the jet beam.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>FREmu: Power Spectrum Emulator for f(R) Gravity</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55ef</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55ef</guid>
-<content:encoded><![CDATA[
-To investigate gravity in the nonlinear regime of cosmic structure using measurements from stage IV surveys, it is imperative to accurately compute large-scale structure observables, such as nonlinear matter power spectra, for gravity models that extend beyond general relativity. However, the theoretical predictions of nonlinear observables are typically derived from N-body simulations, which demand substantial computational resources. In this study, we introduce a novel public emulator, termed FREmu, designed to provide rapid and precise forecasts of nonlinear power spectra specifically for the Hu–Sawicki f(R) gravity model across scales 0.0089h Mpc−1 < k < 0.5h Mpc−1 and redshifts 0 < z < 3. FREmu leverages principal component analysis and artificial neural networks to establish a mapping from parameters to power spectra, utilizing training data derived from the Quijote-MG simulation suite. With a parameter space encompassing seven dimensions, including Ωm, Ωb, h, ns, σ8, Mν, and , the emulator achieves an accuracy exceeding 95% for the majority of cases, thus proving to be highly efficient for constraining parameters.
 ]]></content:encoded>
 <pubDate>2024-07-31T23:00:00Z</pubDate>
 </item>
