@@ -5,16 +5,88 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Modeling of Long-term Afterglow Counterparts to Gravitational Wave Events: The Full View of GRB 170817A</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a14</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a14</guid>
+<content:encoded><![CDATA[
+<div> GRB, gravitational wave astronomy, afterglowpy, GW170817, Chandra X-ray observations
+总结:
+本文介绍了引力波天文学的到来以及越来越多以时间为重点的天文台观测的到来，这将导致对于与地球有适度倾斜的短γ射线暴（GRBs）的探测数量增加。由于这些事件距离我们很近，它们也是非常适合进行长期跟踪观测和长基线干涉测量的主要候选对象，这对于多信使建模、数据分析和应用于这些源的统计推断方法具有重要意义。文章更新了全面的建模，直接将GRB位置的星表观测、微弱源的泊松统计以及跨相对论电子种群的建模纳入到afterglowpy中。作者使用了革命性事件GW170817来展示这些扩展对于最佳拟合物理参数和模型选择方法的影响，这些方法评估了额外的迟发射分量的统计显著性。通过在分析中包括对GRB 170817A的最新Chandra X射线观测，作者发现在后期仅存在一些微弱证据（≲2σ）支持存在新的发射组分，这对于中心演化和外部介质密度预测更加自然。 <div>
+The arrival of gravitational wave astronomy and a growing number of time-domain-focused observatories are set to lead to an increasing number of detections of short gamma-ray bursts (GRBs) launched with a moderate inclination to Earth. Being nearby events, these are also prime candidates for very long-term follow-up campaigns and very long-baseline interferometry, which has implications for multi-messenger modeling, data analysis, and statistical inference methods applied to these sources. Here, we present a comprehensive modeling update that directly incorporates into afterglowpy astrometric observations of the GRB position, Poissonian statistics for faint sources, and modeling of a trans-relativistic population of electrons. We use the revolutionary event GW170817 to demonstrate the impact of these extensions both for the best-fit physics parameters and model selection methods that assess the statistical significance of additional late-time emission components. By including in our analysis the latest Chandra X-ray observations of GRB 170817A, we find only weak evidence (≲2σ) for a new emission component at late times, which makes for a slightly more natural fit to the centroid evolution and prediction for the external medium density.
+]]></content:encoded>
+
+<pubDate>2024-10-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Determining the Extents, Geometries, and Kinematics of Narrow-line Region Outflows in Nearby Seyfert Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 超大质量黑洞、狭线区域、哈勃太空望远镜、气体动力学、活跃星系<br>
+<br>  
+本文利用哈勃太空望远镜（HST）的空间望远镜成像光谱仪（STIS）光谱和宽视场相机3（WFC3）图像对15个附近（z <0.02）活动星系核（AGN）的狭线区域（NLR）和宿主星系的相互作用进行了研究。通过结合11个AGN的新HST WFC3连续光谱和[O III] λ5007图像，以及四个存档的AGN，与现有的HST STIS光谱相匹配。对六个AGN进行了适当的NLR长缝覆盖，并使用地面的等光面拟合图像、去除连续波段的[O III]图像和STIS光谱，解决、测量并将气体动力学投影到宿主星系盘面上，并区分NLR流出和星系旋转和/或动力学扰动的气体。研究发现，[O III]的平均范围约为680光年，与[O III]的亮度呈正相关。测得的范围强烈依赖于[O III]图像的深度，突出了在分析比例关系时采用统一阈值的重要性。流出气体的范围达到了NLR范围的39%至88%，并且发现所有六个具有其整个NLR的STIS覆盖的AGN都显示出强烈的流出动力学证据，尽管对于这些AGN以前存在不确定性。这表明NLR流出在中等光度AGN中普遍存在，并且标准的动力学建模标准对于识别流出是至关重要的。<br><br>总结: 本研究利用Hubble Space Telescope对附近的活动星系核进行了研究，发现NLR流出在中等光度AGN中普遍存在，实现了对NLR动力学的测量和解析。流出范围与[O III]的亮度呈正相关，通过流出的测量，提出了标准的动力学建模标准。 <div>
+Outflowing gas from supermassive black holes in the centers of active galaxies has been postulated as a major contributor to galactic evolution. To explore the interaction between narrow-line region (NLR) outflows and their host galaxies, we use Hubble Space Telescope (HST) Space Telescope Imaging Spectrograph (STIS) spectra and Wide Field Camera 3 (WFC3) images of 15 nearby (z < 0.02) active galactic nuclei (AGN) to determine the extents and geometries of their NLRs. We combine new HST WFC3 continuum and [O iii] λ5007 images of 11 AGN with four archival AGN to match existing spectra from HST STIS. For the six AGN with suitable long-slit coverage of their NLRs, we use isophotal fitting of ground-based images, continuum-subtracted [O iii] images, and the STIS spectra, to resolve, measure, and de-project the gas kinematics to the plane of the host galaxy disk and distinguish NLR outflows from galaxy rotation and/or kinematically disturbed gas. We find an average [O iii] extent of ∼680 pc with a correlation between gas extent and [O iii] luminosity of R[O III] ∝ . The measured extents depend strongly on the depth of the [O iii] images, highlighting the importance of adopting uniform thresholds when analyzing scaling relationships. The outflows reach from 39% to 88% of the full NLR extents, and we find that all six of the AGN with STIS coverage of their entire NLRs show strong kinematic evidence for outflows, despite previous uncertainty for these AGN. This suggests that NLR outflows are ubiquitous in moderate-luminosity AGN and that standard criteria for kinematic modeling are essential for identifying outflows.
+]]></content:encoded>
+
+<pubDate>2024-10-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Concept of a Double Tilted Rowland Spectrograph for X-Rays</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad739c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad739c</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 高分辨率光谱, 软X射线, Rowland准则, 双倾斜Rowland光谱仪, Arcus探测器<br>
+<br>
+总结: <br>
+这篇文章讨论了软X射线（能量小于2keV）的高分辨率光谱需要采用衍射元件来解析天体物理学相关的诊断信息。Rowland准则描述了光栅和探测器的最佳位置以优化光谱分辨能力。文章提出了一种双倾斜Rowland光谱仪的概念，允许两个通道共享相同的探测器，并可以减少构建仪器时的对准要求。这种双倾斜Rowland光谱仪的概念对于次孔径镜特别有用，因为它可以有效利用航天器的入口孔径。其中应用了这一概念的任务之一是Arcus探测器。 <div>
+High-resolution spectroscopy in soft X-rays (<2 keV) requires diffractive elements to resolve any astrophysically relevant diagnostics, such as closely spaced lines, weak absorption lines, or line profiles. The Rowland torus geometry describes how gratings and detectors need to be positioned to optimize the spectral resolving power. We describe how an on-axis Rowland geometry can be tilted to accommodate blazed gratings. In this geometry, two channels with separate optical axes can share the same detectors (double tilted Rowland spectrograph). Small offsets between the channels can mitigate the effect of chip gaps and reduce the alignment requirements during the construction of the instrument. The double tilted Rowland spectrograph concept is especially useful for subapertured mirrors, because it allows an effective use of space in the entrance aperture of a spacecraft. One mission that applies this concept is the Arcus Probe.
+]]></content:encoded>
+
+<pubDate>2024-10-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multiple New or Updated Satellite Total Solar Irradiance (TSI) Composites (1978–2023)</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7794</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7794</guid>
+<content:encoded><![CDATA[
+<div> 总结: 
+太阳辐射 总体趋势 卫星观测 数据复合 变化趋势
+要点1: 自1978年以来进行了多次总太阳辐射（TSI）卫星任务
+要点2: 不同卫星任务产生了略有不同的TSI基线和变化趋势
+要点3: 出现了不同的数据复合策略和调整方法
+要点4: 基于卫星数据产生了21种TSI时间序列
+要点5: 开发了新的TSI数据集供科学界使用，提供了不同分辨率和版本
+
+在自1978年以来的太阳总辐射（TSI）卫星任务中，各个任务产生了略有不同的TSI基线和变化趋势。一些团队通过调整单个任务的数据，显著减少了这些差异，而其他团队则更倾向于使用卫星科学小组发布的原始数据。这些数据组合方式也有所不同，有的将矛盾记录平均在一起，而有的更看重特定记录。研究人员比较了四种现有的组合数据以及基于可用卫星数据的17种新的替代系列。这些21个TSI系列被统计分为了6组，每组3到4个系列。研究发现，这六个组揭示了不同的太阳最小期间的变化趋势。研究人员还将这些组与八个每日分辨的太阳长期预测TSI重构和每日太阳黑子数进行了比较。他们发现，在一到两个太阳周期内取得了良好的一致性，但在更长的时间尺度上存在显著差异。因此，研究人员将所有这些时间序列（新旧）汇集成了一个大型的新TSI数据集，供科学界使用。这个数据集提供了不同分辨率和版本，可以比较地表的太阳变化或太阳与地球相互作用。 <div>
+Several total solar irradiance (TSI) satellite missions have been carried out since 1978. None of these missions have lasted more than one to two solar cycles (SCs), and each mission implies a slightly different absolute TSI baseline. Nonetheless, several satellite composites have been developed by compositing satellite data from different missions to form an almost continuous daily record for the satellite era. However, disconcertingly, each mission has implied slightly different changes in TSI between consecutive solar minima and solar maxima. Some groups have developed adjustments to individual missions that have substantially reduced these differences. Others prefer to use the original data published by the satellite science teams. Some TSI composites average together conflicting records, while others prioritize specific records over others. Here, we compare four existing composites to 17 new alternative series based on the available satellite data. These 21 TSI series are statistically sorted into six groups of three to four series each. We found that the six groups suggest different intercycle trends between solar minima. We compare the groups to eight daily resolved solar proxy-based TSI reconstructions and to daily sunspot numbers. Excellent agreement is obtained over one to two SCs, but significant differences are observed over longer timescales for each group. Therefore, we have assembled all these time series (old and new) into a large and new TSI data set for use by the scientific community. Versions scaled to 1 au (for studying solar variability) or in situ values at Earth (for studying solar/terrestrial interactions) are provided at daily, monthly, and yearly resolutions.
+]]></content:encoded>
+
+<pubDate>2024-10-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Regulation of Solar Wind Electron Temperature Anisotropy by Collisions and Instabilities</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b09</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b09</guid>
+<content:encoded><![CDATA[
+<div> solar wind electrons, temperature anisotropies, collisions, instability excitations, phase space分布; 
+中文总结: 
+本文研究了太阳风中核心和晕带电子的温度各向异性是如何受碰撞和不稳定激励的综合影响而调节的。观察到太阳风核心/晕带电子在（β∥，T⊥/T∥）相空间中的分布受到外部边界的限制。文章提供了关于低β∥边界的基线解释，基于碰撞松弛过程。通过结合不稳定性和碰撞动力学，文章充分解释了太阳风电子在（β∥，T⊥/T∥）相空间中的观测分布。 <div>
+Typical solar wind electrons are modeled as being composed of a dense but less energetic thermal “core” population plus a tenuous but energetic “halo” population with varying degrees of temperature anisotropies for both species. In this paper, we seek a fundamental explanation of how these solar wind core and halo electron temperature anisotropies are regulated by combined effects of collisions and instability excitations. The observed solar wind core/halo electron data in (β∥, T⊥/T∥) phase space show that their respective occurrence distributions are confined within an area enclosed by outer boundaries. Here, T⊥/T∥ is the ratio of perpendicular and parallel temperatures and β∥ is the ratio of parallel thermal energy to background magnetic field energy. While it is known that the boundary on the high-β∥ side is constrained by the temperature anisotropy-driven plasma instability threshold conditions, the low-β∥ boundary remains largely unexplained. The present paper provides a baseline explanation for the low-β∥ boundary based upon the collisional relaxation process. By combining the instability and collisional dynamics it is shown that the observed distribution of the solar wind electrons in the (β∥, T⊥/T∥) phase space is adequately explained, both for the “core” and “halo” components.
+]]></content:encoded>
+
+<pubDate>2024-10-29T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Evidence for a Fast Soft X-Ray Wind in M82 from XMM-RGS</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7258</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7258</guid>
 <content:encoded><![CDATA[
 <div> 关键词: Starburst wind, M82, X-ray observations, velocity dispersion, energy budget
 
-总结: <br><br>这篇文章报告了使用XMM-Newton卫星上的Reflection Grating Spectrometer对原型星暴星系M82进行的深度观测，发现了一个快速的软X射线风。通过对O viii、Ne x和Mg xii等发射线的拟合，测量了氧、氖和镁等元素的速度分散，指出了氧具有显著高于逃逸速度的风速，而氖和镁的速度宽度较小，暗示了更低的风速或更小的开启角度。未来的研究将结合X射线成像和分光任务中的Resolve微量热传导仪观测结果，来进一步了解M82中的热星暴风的相位结构和能量预算。 <div>
+总结: <br /><br />这篇文章报告了使用XMM-Newton卫星上的Reflection Grating Spectrometer对原型星暴星系M82进行的深度观测，发现了一个快速的软X射线风。通过对O viii、Ne x和Mg xii等发射线的拟合，测量了氧、氖和镁等元素的速度分散，指出了氧具有显著高于逃逸速度的风速，而氖和镁的速度宽度较小，暗示了更低的风速或更小的开启角度。未来的研究将结合X射线成像和分光任务中的Resolve微量热传导仪观测结果，来进一步了解M82中的热星暴风的相位结构和能量预算。 <div>
 Starburst wind models predict that metals and energy are primarily carried out of the disk by hot gas (T > 106 K), but the low energy resolution of X-ray CCD observations results in large uncertainties on the mass and energy loading. Here, we present evidence for a fast soft X-ray wind from the prototypical starburst galaxy M82 using deep archival observations from the Reflection Grating Spectrometer on XMM-Newton. After characterizing the complex line-spread function for the spatially extended outflow ( ), we perform emission-line fitting to measure the velocity dispersion, σv, from O viii (0.65, 0.77 keV), Ne x (1.02 keV), and Mg xii (1.47 keV). For the T ≈ 3 × 106 K gas, O viii yields a velocity dispersion of km s−1, implying a wind speed that is significantly above the escape velocity (vesc ≲ 450 km s−1). Ne x ( km s−1) and Mg xii (σv < 370 km s−1) show less velocity broadening than O viii, hinting at a lower wind speed or smaller opening angle on the more compact spatial scales traced by the T ≈ (0.6−1) × 107 K gas. Alternatively, these higher energy emission lines may be dominated by shock-heated gas in the interstellar medium. Future synthesis of these measurements with performance verification observations of the E = 2−12 keV wind in M82 from the Resolve microcalorimeter on the X-ray Imaging and Spectroscopy Mission will inform the phase structure and energy budget of the hot starburst wind.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -27,7 +99,6 @@ Starburst wind models predict that metals and energy are primarily carried out o
 本研究利用多维双爆炸模拟构建了真实的C/O白矮星，作为双爆炸模拟的起点。经过简化的一维爆炸计算，得出了壳层爆炸可以成功传播的条件。研究发现，大多数C/O白矮星可以支持双爆炸，而更大质量的C/O白矮星需要一定量的吸积才能成功传播爆炸。此外，研究强烈暗示，如果直接冲击吸积流在质量转移过程中达到足够高的温度和密度，吸积的白矮星将经历双爆炸。此外，如果伴星也是C/O白矮星，它在第一次爆炸的喷发影响下将经历自己的双爆炸。一些例外情况可能解释了新发现的高速超新星幸存者。 <div>
 Double detonations of sub-Chandrasekhar-mass white dwarfs (WDs) in unstably mass-transferring double WD binaries have become one of the leading contenders to explain most Type Ia supernovae. However, past theoretical studies of the explosion process have assumed relatively ad hoc initial conditions for the helium shells in which the double detonations begin. In this work, we construct realistic C/O WDs to use as the starting points for multidimensional double detonation simulations. We supplement these with simplified one-dimensional detonation calculations to gain a physical understanding of the conditions under which shell detonations can propagate successfully. We find that C/O WDs ≲1.0 M⊙, which make up the majority of C/O WDs, are born with structures that can support double detonations. More massive C/O WDs require ∼10−3M⊙ of accretion before detonations can successfully propagate in their shells, but such accretion may be common in the double WD binaries that host massive WDs. Our findings strongly suggest that if the direct impact accretion stream reaches high enough temperatures and densities during mass transfer from one WD to another, the accreting WD will undergo a double detonation. Furthermore, if the companion is also a C/O WD ≲1.0 M⊙, it will undergo its own double detonation when impacted by the ejecta from the first explosion. Exceptions to this outcome may explain the newly discovered class of hypervelocity supernova survivors.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,10 +107,9 @@ Double detonations of sub-Chandrasekhar-mass white dwarfs (WDs) in unstably mass
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7581</guid>
 <content:encoded><![CDATA[
 <div> 阴影，原行星盘，热力迫使，动力学影响，模拟研究
-总结:<br><br>这篇文章研究了外部原行星盘中出现的阴影现象对盘内动力学的影响。他们通过进行二维模拟发现，阴影的线性响应是双臂螺旋，而在非线性阶段，阴影可能导致形成各种类型的亚结构，包括环状、螺旋状和新月形。研究还表明，随着阴影造成的热力迫使加强，盘内的主要亚结构形式会从螺旋转变为环状，最终变成新月形或漩涡。这些结果强调了正确建模不均匀恒星辐射的重要性，同时呼吁进行更加详细的模拟以包含更真实的盘物理学。 <div>
+总结:<br /><br />这篇文章研究了外部原行星盘中出现的阴影现象对盘内动力学的影响。他们通过进行二维模拟发现，阴影的线性响应是双臂螺旋，而在非线性阶段，阴影可能导致形成各种类型的亚结构，包括环状、螺旋状和新月形。研究还表明，随着阴影造成的热力迫使加强，盘内的主要亚结构形式会从螺旋转变为环状，最终变成新月形或漩涡。这些结果强调了正确建模不均匀恒星辐射的重要性，同时呼吁进行更加详细的模拟以包含更真实的盘物理学。 <div>
 There has been increasing evidence of shadows from scattered light observations of outer protoplanetary disks (PPDs) cast from the (unresolved) disk inner region, while in the meantime these disks present substructures of various kinds in the submillimeter. As stellar irradiation is the primary heating source for the outer PPDs, the presence of such shadows thus suggests inhomogeneous heating of the outer disk in azimuth, leading to a “thermal forcing” with dynamical consequences. We conduct a suite of idealized two-dimensional disk simulations of the outer disk with azimuthally varying cooling prescription to mimic the effect of shadows, generally assuming the shadow is static or slowly rotating. The linear response to such shadows is two-armed spirals with the same pattern speed as the shadow. Toward the nonlinear regime, we find that shadows can potentially lead to the formation of a variety of types of substructures including rings, spirals, and crescents, depending on viscosity, cooling time, etc. We have conducted systematic and statistical characterization of the simulation suite, and as thermal forcing from the shadow strengthens, the dominant form of shadow-induced disk substructures change from spirals to rings, and eventually to crescents/vortices. Our results highlight the importance of properly modeling the dynamical impact of inhomogeneous stellar irradiation, while calling for more detailed modeling incorporating more realistic disk physics.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -47,12 +117,11 @@ There has been increasing evidence of shadows from scattered light observations 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7585</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7585</guid>
 <content:encoded><![CDATA[
-<div> A85 cluster, radio phoenix, spectral index maps, shock motion, adiabatic compression <br>
-<br>
-通过对A85星团中的射电凤凰进行了多频率研究，发现了先前未被发现的更精细的丝状结构。我们制作了323、700和1280兆赫的射电凤凰的分辨率谱指数图。丝状结构的方向以及谱指数图上的梯度表明了从东北到西南的可能冲击运动方向。射电凤凰的综合光谱发现在高频呈现出非常陡峭且呈曲线状。此外，发现丝状结构的谱指数比非丝状区域要缓和，意味着丝状结构中能量注入更大。A85星团中射电凤凰的观察结果似乎支持了绝热冲击压缩机制。 <br><br>总结: <br>通过多频率研究发现A85星团中射电凤凰具有丝状结构，观察到从东北到西南的冲击运动方向，综合光谱显示出陡峭且呈曲线状，丝状结构的能量注入更大，结果支持了绝热冲击压缩机制。 <div>
+<div> A85 cluster, radio phoenix, spectral index maps, shock motion, adiabatic compression <br />
+<br />
+通过对A85星团中的射电凤凰进行了多频率研究，发现了先前未被发现的更精细的丝状结构。我们制作了323、700和1280兆赫的射电凤凰的分辨率谱指数图。丝状结构的方向以及谱指数图上的梯度表明了从东北到西南的可能冲击运动方向。射电凤凰的综合光谱发现在高频呈现出非常陡峭且呈曲线状。此外，发现丝状结构的谱指数比非丝状区域要缓和，意味着丝状结构中能量注入更大。A85星团中射电凤凰的观察结果似乎支持了绝热冲击压缩机制。 <br /><br />总结: <br />通过多频率研究发现A85星团中射电凤凰具有丝状结构，观察到从东北到西南的冲击运动方向，综合光谱显示出陡峭且呈曲线状，丝状结构的能量注入更大，结果支持了绝热冲击压缩机制。 <div>
 Radio phoenices are complex and filamentary diffuse radio sources found in both merging and relaxed clusters. The formation of these sources has been proposed to be due to adiabatic compression of old active galactic nucleus plasma in shock waves. Most of the previous spectral studies of these sources have been limited to integrated spectral indices, which were found to be very steep and show a curved spectrum. Here, we have performed a multifrequency investigation of the radio phoenix in the A85 cluster. Owing to the sensitive high-resolution observations, we found some of the finer filamentary structures that had been previously undetected. We produced resolved spectral index maps of the radio phoenix between 323, 700, and 1280 MHz. The orientation of the filaments, as well as the gradient across the spectral index maps, suggest the possible direction of the shock motion from northeast to southwest. The integrated spectrum of the radio phoenix was found to be very steep and curved toward high frequencies. Furthermore, the spectral index of the filaments was found to be less steep compared to the nonfilamentary regions, implying greater energy injection in the filaments. The observed features in the radio phoenix in the A85 cluster seem to be in support of an adiabatic shock compression mechanism.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -60,11 +129,10 @@ Radio phoenices are complex and filamentary diffuse radio sources found in both 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad779f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad779f</guid>
 <content:encoded><![CDATA[
-<div> contour analysis tool, Python toolkit, density maps, image processing, GitHub<br>
-<br>contour analysis tool 是一个用Python编写的工具包，旨在识别和分析密度图中的结构元素。它使用各种轮廓技术，包括最低闭合轮廓、线性和对数Otsu阈值以及平均梯度阈值。这些轮廓可以用于前景和背景分割，并为两者提供自然的边界，同时还可进行边缘检测和结构识别。此外，CAT还提供图像处理方法，如平滑处理、背景去除和图像遮罩。该工具包具有交互式控件套件，适用于Jupyter环境，使用户能够快速可视化不同方法和参数的效果。我们描述、测试并展示了CAT的性能，突出了它的潜在用例。CAT已在GitHub上公开提供，促进了可访问性和协作。<br><br>总结: 使用Python编写的Contour Analysis Tool (CAT) 旨在识别和分析密度图中的结构元素，具有丰富的轮廓技术和图像处理方法，并提供交互式控件套件适用于Jupyter环境。CAT在GitHub上公开可用，促进了可访问性和协作。 <div>
+<div> contour analysis tool, Python toolkit, density maps, image processing, GitHub<br />
+<br />contour analysis tool 是一个用Python编写的工具包，旨在识别和分析密度图中的结构元素。它使用各种轮廓技术，包括最低闭合轮廓、线性和对数Otsu阈值以及平均梯度阈值。这些轮廓可以用于前景和背景分割，并为两者提供自然的边界，同时还可进行边缘检测和结构识别。此外，CAT还提供图像处理方法，如平滑处理、背景去除和图像遮罩。该工具包具有交互式控件套件，适用于Jupyter环境，使用户能够快速可视化不同方法和参数的效果。我们描述、测试并展示了CAT的性能，突出了它的潜在用例。CAT已在GitHub上公开提供，促进了可访问性和协作。<br /><br />总结: 使用Python编写的Contour Analysis Tool (CAT) 旨在识别和分析密度图中的结构元素，具有丰富的轮廓技术和图像处理方法，并提供交互式控件套件适用于Jupyter环境。CAT在GitHub上公开可用，促进了可访问性和协作。 <div>
 We introduce the Contour Analysis Tool (CAT), a Python toolkit aimed at identifying and analyzing structural elements in density maps. CAT employs various contouring techniques, including the lowest-closed contour, linear and logarithmic Otsu thresholding, and average gradient thresholding. These contours can aid in foreground and background segmentation, providing natural limits for both, as well as edge detection and structure identification. Additionally, CAT provides image processing methods such as smoothing, background removal, and image masking. The toolkit features an interactive suite of controls designed for Jupyter environments, enabling users to promptly visualize the effects of different methods and parameters. We describe, test, and demonstrate the performance of CAT, highlighting its potential use cases. CAT is publicly available on GitHub, promoting accessibility and collaboration.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -72,11 +140,10 @@ We introduce the Contour Analysis Tool (CAT), a Python toolkit aimed at identify
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a1</guid>
 <content:encoded><![CDATA[
-<div> PGC 39535, star formation, molecular gas, kinematics, star-forming main sequence<br>
-总结:<br>这篇论文研究了一个巨大的S0星系PGC 39535，发现其星形成主要集中在中心区域，估计总星形成速率为1.57 M⊙ yr−1。通过NOEMA观测发现，分子气体主要集中在中心区域，呈现出类似的运动学特性。总分子气体质量为(5.42 ± 1.52) × 10^9M⊙。PGC 39535处于星形成主序上，但低于螺旋星系的Kennicutt–Schmidt关系，表明星形成效率可能受到巨大的星团的抑制。此外，分析结果表明PGC 39535位于一个巨大星系团的中心，其星形成历史表明它可能在过去的2-7亿年里经历了一系列富含气体的合并。 <div>
+<div> PGC 39535, star formation, molecular gas, kinematics, star-forming main sequence<br />
+总结:<br />这篇论文研究了一个巨大的S0星系PGC 39535，发现其星形成主要集中在中心区域，估计总星形成速率为1.57 M⊙ yr−1。通过NOEMA观测发现，分子气体主要集中在中心区域，呈现出类似的运动学特性。总分子气体质量为(5.42 ± 1.52) × 10^9M⊙。PGC 39535处于星形成主序上，但低于螺旋星系的Kennicutt–Schmidt关系，表明星形成效率可能受到巨大的星团的抑制。此外，分析结果表明PGC 39535位于一个巨大星系团的中心，其星形成历史表明它可能在过去的2-7亿年里经历了一系列富含气体的合并。 <div>
 Lenticular galaxies (S0s) in the local Universe are generally absent of recent star formation and lack molecular gas. In this paper, we investigate one massive (M* ∼ 5 × 1010M⊙) star-forming S0, PGC 39535, with the Northern Extended Millimeter Array (NOEMA). Using optical data from the Sloan Digital Sky Survey IV Mapping Nearby Galaxies at the Apache Point Observatory survey, we find star formation mainly concentrates in the central region of PGC 39535. The total star formation rate estimated using extinction-corrected Hα flux is 1.57 M⊙ yr−1. The results of the NOEMA observation suggest that the molecular gas mainly concentrates in the central regions as a gaseous bar and a ring-like structure, and shows similar kinematics as the stellar and ionized gas components. The total molecular gas mass estimated from CO(1–0) is (5.42 ± 1.52) × 109M⊙. We find PGC 39535 lies on the star-forming main sequence but falls below the Kennicutt–Schmidt relation of spiral galaxies, suggesting that the star formation efficiency may be suppressed by the massive bulge. The existence of a second Gaussian component in the CO spectrum of the central region indicates possible gas flows. Furthermore, our analyses suggest that PGC 39535 resides in the center of a massive group and the derived star formation history indicates it may experience a series of gas-rich mergers over the past 2–7 Gyr.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -84,12 +151,11 @@ Lenticular galaxies (S0s) in the local Universe are generally absent of recent s
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c1</guid>
 <content:encoded><![CDATA[
-<div> Neutron stars, dark matter, X-ray observations, DM mass distribution, electromagnetic radiation<br>
-<br>
-这篇文章研究了中子星与暗物质存在的可能性。作者使用相对论中的双流体形式，通过数值模拟稳定的暗物质掺杂中子星的配置。他们探讨了不同暗物质模型对暗物质质量分布的影响，以及暗物质对X射线流量的影响。研究结果表明，暗物质的存在可能会影响中子星质量和半径的测量，以及对强子物质方程状态的约束。总结：<br><br> <div>
+<div> Neutron stars, dark matter, X-ray observations, DM mass distribution, electromagnetic radiation<br />
+<br />
+这篇文章研究了中子星与暗物质存在的可能性。作者使用相对论中的双流体形式，通过数值模拟稳定的暗物质掺杂中子星的配置。他们探讨了不同暗物质模型对暗物质质量分布的影响，以及暗物质对X射线流量的影响。研究结果表明，暗物质的存在可能会影响中子星质量和半径的测量，以及对强子物质方程状态的约束。总结：<br /><br /> <div>
 The high densities of neutron stars (NSs) could provide astrophysical locations for dark matter (DM) to accumulate. Depending on the DM model, these DM admixed NSs (DANSs) could have significantly different properties than pure baryonic NSs, accessible through X-ray observations of rotation-powered pulsars. We adopt the two-fluid formalism in general relativity to numerically simulate stable configurations of DANSs, assuming a fermionic equation of state (EOS) for the DM with repulsive self-interaction. The distribution of DM in the DANS as a halo affects the path of X-rays emitted from hot spots on the visible baryonic surface, causing notable changes in the pulse profile observed by telescopes such as NICER, compared to pure baryonic NSs. We explore how various DM models affect the DM mass distribution, leading to different types of dark halos. We quantify the deviation in observed X-ray flux from stars with each of these halos. We identify the pitfalls in interpreting mass and radius measurements of NSs inferred from electromagnetic radiation and constraining the baryonic matter EOS if these dark halos exist.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -98,10 +164,9 @@ The high densities of neutron stars (NSs) could provide astrophysical locations 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c2</guid>
 <content:encoded><![CDATA[
 <div> 太阳，射电辐射，空间结构，观测，辐射爆发
-<br><br>总结: 本研究利用升级的Giant Metrewave射电望远镜的高角分辨率观测，发现可以探测到角尺度小至约9″的结构，比以往关于太阳射电辐射爆发观测报告的最小结构约小了三倍。观测结果表明，虽然单个I型爆发具有窄带特性，但这些爆发可能是由于在不同日冕高度诱发磁重联的行进扰动导致的，因此导致在广泛频率范围内观察到的I型爆发的形态发生相关变化。这一发现对于与极紫外线/ X射线波段的观测进行时空关联，以了解这些辐射的详细性质非常重要。 <div>
+<br /><br />总结: 本研究利用升级的Giant Metrewave射电望远镜的高角分辨率观测，发现可以探测到角尺度小至约9″的结构，比以往关于太阳射电辐射爆发观测报告的最小结构约小了三倍。观测结果表明，虽然单个I型爆发具有窄带特性，但这些爆发可能是由于在不同日冕高度诱发磁重联的行进扰动导致的，因此导致在广泛频率范围内观察到的I型爆发的形态发生相关变化。这一发现对于与极紫外线/ X射线波段的观测进行时空关联，以了解这些辐射的详细性质非常重要。 <div>
 Type-I solar noise storms are perhaps the most commonly observed active radio emissions from the Sun at meter-wavelengths. Noise storms have a long-lived and wideband continuum background with superposed islands of much brighter narrowband and short-lived emissions, known as type-I bursts. There is a serious paucity of studies focusing on the morphology of these two types of emissions, primarily because of the belief that coronal scattering will always wash out any features at small angular scales. However, it is important to investigate their spatial structures in detail to make a spatio-temporal connection with observations at extreme-ultraviolet/X-ray bands to understand the detailed nature of these emissions. In this work, we use high angular resolution observations from the upgraded Giant Metrewave Radio Telescope to demonstrate that it is possible to detect structures with angular scales as small as ∼9″, about three times smaller than the smallest structure reported to date from noise storms. Our observations also suggest that while the individual type-I bursts are narrowband in nature, the bursts are probably caused by traveling disturbance(s) inducing magnetic reconnections at different coronal heights, and thus leading to correlated change in the morphology of the type-I bursts observed at a wide range of frequencies.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -111,10 +176,9 @@ Type-I solar noise storms are perhaps the most commonly observed active radio em
 <content:encoded><![CDATA[
 <div> TESS, pulsating stars, triaxial pulsators, tidal bulge, Y10x modes
 
-该研究报道了第二颗发现的三轴脉动星，通过研究TESS光曲线和光谱能量分布，确定了该星为演化略有偏离零龄主序星的主星和仍位于零龄主序的次星。共发现了16个脉动多重频率，其中14个为由2νorb分隔的偶极子双峰。将8个双峰与Y10x模式相关联，将6个双峰与新的Y10y模式相关联。排除了该星存在Y11x模式的可能性，表明观测到的脉动模式必须是Y10y。此外，还提出了一个关于该星三轴脉动的玩具模型。该技术可以用于快速分析和确认未来的三轴脉动星候选者。<br><br>总结: TESS卫星发现了第二颗三轴脉动星，通过光谱能量分布和光曲线确认了主星和次星的状态，发现了新的脉动模式，并提出了一个玩具模型来解释这种脉动现象。 <div>
+该研究报道了第二颗发现的三轴脉动星，通过研究TESS光曲线和光谱能量分布，确定了该星为演化略有偏离零龄主序星的主星和仍位于零龄主序的次星。共发现了16个脉动多重频率，其中14个为由2νorb分隔的偶极子双峰。将8个双峰与Y10x模式相关联，将6个双峰与新的Y10y模式相关联。排除了该星存在Y11x模式的可能性，表明观测到的脉动模式必须是Y10y。此外，还提出了一个关于该星三轴脉动的玩具模型。该技术可以用于快速分析和确认未来的三轴脉动星候选者。<br /><br />总结: TESS卫星发现了第二颗三轴脉动星，通过光谱能量分布和光曲线确认了主星和次星的状态，发现了新的脉动模式，并提出了一个玩具模型来解释这种脉动现象。 <div>
 The Transiting Exoplanet Survey Satellite (TESS) has enabled the discovery of numerous tidally tilted pulsators (TTPs), which are pulsating stars in close binaries where the presence of a tidal bulge has the effect of tilting the primary star’s pulsation axes into the orbital plane. Recently, the modeling framework developed to analyze TTPs has been applied to the emerging class of triaxial pulsators, which exhibit nonradial pulsations about three perpendicular axes. In this work, we report on the identification of the second-ever discovered triaxial pulsator, with 16 robustly detected pulsation multiplets, of which 14 are dipole doublets separated by 2νorb. We jointly fit the spectral energy distribution and TESS light curve of the star, and find that the primary is slightly evolved off the zero-age main sequence, while the less massive secondary still lies on the zero-age main sequence. Of the 14 doublets, we associate eight with Y10x modes and six with novel Y10y modes. We exclude the existence of Y11x modes in this star and show that the observed pulsation modes must be Y10y. We also present a toy model for the triaxial pulsation framework in the context of this star. The techniques presented here can be utilized to rapidly analyze and confirm future triaxial pulsator candidates.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -122,13 +186,12 @@ The Transiting Exoplanet Survey Satellite (TESS) has enabled the discovery of nu
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c8</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Barred galaxies, BP/X 形状, 轨道类型, 长角动量, 杆的演化<br>
-<br>
+<div> 关键词: Barred galaxies, BP/X 形状, 轨道类型, 长角动量, 杆的演化<br />
+<br />
 这项研究通过分类方法确定了产生 OX 和 CX 结构的特定轨道族群，发现两种 BP/X 形态都与 x1 轨道族有关，但是 OX 结构对应的轨道具有更高的角动量。研究还表明，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，则BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。对于减速但不发生屈曲的杆来说，最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明，BP/X 形态和轨道族群的演化在很大程度上取决于杆角动量的演化。
-<br><br>总结: 这项研究通过分类方法确定了两种 BP/X 形态的具体轨道族群，指出 OX 结构对应的轨道具有更高的角动量。研究发现，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。减速但不发生屈曲的杆最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明 BP/X 形态和轨道族群的演化取决于杆角动量的演化。 <div>
+<br /><br />总结: 这项研究通过分类方法确定了两种 BP/X 形态的具体轨道族群，指出 OX 结构对应的轨道具有更高的角动量。研究发现，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。减速但不发生屈曲的杆最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明 BP/X 形态和轨道族群的演化取决于杆角动量的演化。 <div>
 Barred galaxies exhibit boxy/peanut or X-shapes (BP/X) protruding from their disks in edge-on views. Two types of BP/X morphologies exist depending on whether the X-wings meet at the center (CX) or are off-centered (OX). Orbital studies indicate that various orbital types can generate X-shaped structures. Here we provide a classification approach that identifies the specific orbit families responsible for generating OX- and CX-shaped structures. Applying this approach to three different N-body bar models, we show that both OX and CX structures are associated with the x1 orbit family, but OX-supporting orbits possess higher angular momentum (closer to x1 orbits) than orbits in CX structures. Consequently, as the bar slows down, the contribution of higher angular momentum OX-supporting orbits decreases and that of lower angular momentum orbits increases, resulting in an evolution of the morphology from OX to CX. If the bar does not slow down, the shape of the BP/X structure and the fractions of OX/CX-supporting orbits remain substantially unchanged. Bars that do not undergo buckling but that do slow down initially show the OX structure and are dominated by high angular momentum orbits, transitioning to a CX morphology. Bars that buckle exhibit a combination of both OX- and CX-supporting orbits immediately after the buckling but become more CX dominated as their pattern speed decreases. This study demonstrates that the evolution of BP/X morphology and orbit populations strongly depends on the evolution of the bar angular momentum.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -136,13 +199,10 @@ Barred galaxies exhibit boxy/peanut or X-shapes (BP/X) protruding from their dis
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7819</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7819</guid>
 <content:encoded><![CDATA[
-
 Magnetic fields (B fields) in galaxies have recently been traced using far-infrared and submillimeter polarimetric observations with the Stratospheric Observatory for Infrared Astronomy, James Clerk Maxwell Telescope, and Atacama Large Millimeter/submillimeter Array. The main assumption is that dust grains are magnetically aligned with the local B-field in the interstellar medium (ISM). However, the range of physical conditions of the ISM, dust grain sizes, and B-field strengths in galaxies where this assumption is valid has not been characterized yet. Here, we use the well-studied spiral galaxy M51 as a case study. We find that the timescale for the alignment mechanism arising from magnetically aligned dust grains (B-RAT) dominates over other alignment mechanisms, including radiative precession (k-RAT) and mechanical alignment (v-MAT), as well as the randomization effect (gas damping). We estimate the sizes of the aligned dust grain to be in the range of 0.009–0.182 μm and 0.019–0.452 μm for arms and interarms, respectively. We show that the difference in the polarization fraction between arms and interarms may arise from the enhancement of small dust grain sizes in the arms resulting from large grains being broken into small grains as an effect of the grain alignment disruption (RAT-D) mechanism. We argue that the RAT-D mechanism needs to have additional effects, e.g., intrinsic variations of the B-field structure and turbulence, in the galaxy’s components to fully explain the polarization fraction variations within the arms and interarms.
 ]]></content:encoded>
-
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Solar Vortex Tubes. III. Vorticity and Energy Transport</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad781a</link>
@@ -11788,130 +11848,6 @@ We perform the numerical simulations of axisymmetric, relativistic, optically th
 To investigate gravity in the nonlinear regime of cosmic structure using measurements from stage IV surveys, it is imperative to accurately compute large-scale structure observables, such as nonlinear matter power spectra, for gravity models that extend beyond general relativity. However, the theoretical predictions of nonlinear observables are typically derived from N-body simulations, which demand substantial computational resources. In this study, we introduce a novel public emulator, termed FREmu, designed to provide rapid and precise forecasts of nonlinear power spectra specifically for the Hu–Sawicki f(R) gravity model across scales 0.0089h Mpc−1 < k < 0.5h Mpc−1 and redshifts 0 < z < 3. FREmu leverages principal component analysis and artificial neural networks to establish a mapping from parameters to power spectra, utilizing training data derived from the Quijote-MG simulation suite. With a parameter space encompassing seven dimensions, including Ωm, Ωb, h, ns, σ8, Mν, and , the emulator achieves an accuracy exceeding 95% for the majority of cases, thus proving to be highly efficient for constraining parameters.
 ]]></content:encoded>
 <pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Incompressible Magnetohydrodynamic Energy Cascade Rate Upstream of Mars: Effects of the Total Energy and the Cross-helicity on Solar Wind Turbulence</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b5</guid>
-<content:encoded><![CDATA[
-Solar wind turbulence is a dynamical phenomenon that evolves with heliocentric distance. Orbiting Mars since 2014 September, Mars Atmosphere and Volatile EvolutioN offers a unique opportunity to explore some of its main properties beyond ∼1.38 au. Here, we analyze solar wind turbulence upstream of Mars' bow shock, utilizing more than 5 years of magnetic field and plasma measurements. This analysis is based on two complementary methodologies: (1) the computation of magnetohydrodynamic (MHD) invariants characterizing incompressible fluctuations; (2) the estimation of the incompressible energy cascade rate at MHD scales (i.e., 〈εT〉MHD). Our results show the solar wind incompressible fluctuations are primarily in a magnetically dominated regime, with the component traveling away from the Sun having a higher median pseudoenergy. Moreover, turbulent fluctuations have a total energy per mass of up to ∼ 300 km2 s−2, a range smaller than reported at 1 au. For these conditions, we determine the probability distribution function of 〈εT〉MHD ranges mainly between ∼ −1 × 10−16 and ∼1 × 10−16 J m−3 s −1, with a median equal to −1.8 × 10−18 J m−3 s −1, suggesting back transfer of energy. Our results also suggest that ∣〈εT〉MHD∣ is correlated with the total energy per mass of fluctuations and that the median of 〈εT〉MHD does not vary significantly with the cross-helicity. We find, however, that the medians of the inward and outward pseudoenergy cascade rates vary with the solar wind cross-helicity. Finally, we discuss these results and their implications for future studies that can provide further insight into the factors affecting the solar wind energy transfer rate.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Origin of Solar Hemispheric Helicity Rules: Rise of 3D Magnetic Flux Concentrations through a Background Magnetic Field</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5993</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5993</guid>
-<content:encoded><![CDATA[
-Sunspots and active regions observed on the solar surface are widely believed to be manifestations of compact predominantly toroidal magnetic field structures (“flux tubes”) that emerge by magnetic buoyancy from the deeper interior of the Sun. Much work has examined the evolution of such magnetic structures, typically considering them as idealized isolated magnetic entities and not as more realistic magnetic concentrations in a volume-filling background magnetic field. Here, we report results that explore the buoyant rise dynamics of magnetic concentrations in a volume-filling field in the full three dimensions. Earlier 2.5D work in this series established the remarkable fact that the twist orientation of a flux concentration relative to the background field affected its likelihood to rise and emerge, regardless of whether the buoyant rise took place in the absence or presence of convection. The contrasting dynamics between structures with differing orientations lead to a selection mechanism that reproduces characteristics of the “solar hemispheric helicity rule(s)” observations strikingly well. Here, we show that this two-dimensional selection mechanism persists in the face of the added complexity of three-dimensional dynamics. Arching of the magnetic structure in the third dimension, as might be expected in the solar application, is introduced. The role of tension force leading to this selection mechanism is elucidated and subtle differences that arise due to the three-dimensional geometry are discussed.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Insights from Optical Fe ii Emission in Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad59a4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad59a4</guid>
-<content:encoded><![CDATA[
-The complexity of the energy levels in Fe ii has made it difficult to theoretically interpret its observational emission spectrum. However, addressing this challenge could provide valuable insights into the main sequence of QSOs using “eigenvector 1” and the chemical evolution of the Universe. Although the templates based on I Zw 1 are widely used, their universality remains unexplained. To address this, we utilized the CLOUDY spectral synthesis code to generate theoretical blends of Fe ii optical emission near the Hβ region. Our results indicate that the optimal cloud density and photon flux align with previous studies at gas density 1011 cm−3 and photon flux 1020.5 cm−2 s−1. We discovered a broad parameter region that fits the data well, encompassing a diverse range of densities and photon fluxes. This helps to explain the general applicability of optical templates. Additionally, we investigated the effects of different spectral energy distributions (SEDs), Eddington ratios, turbulence, and cloud column densities and found that they provided a sufficiently broad range for typical emitting clouds. We found different SEDs had a negligible impact on the template shape, further expanding the usability of empirical templates. However, they significantly affected the absolute intensity of Fe ii emission, consistent with previous research. Furthermore, we determined that a turbulence of approximately 100 km s−1 is necessary to produce sufficiently strong optical Fe ii, and either a column density greater than 1024 cm−2, which is typical for Fe ii UV emission, or an abundance higher than solar is preferred.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Relationship between Kinetic and Magnetic Helicity in Solar Active Regions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58b7</guid>
-<content:encoded><![CDATA[
-<div> 磁螺度仪，太阳活动区，动力学螺度，电磁螺度，太阳活动区磁力学
-
-总结:
-本研究使用Helioseismic and Magnetic Imager/Solar Dynamics Observatory数据，对2010年5月至2015年5月的62个太阳活动区进行分析。研究表明，磁螺度与磁螺度通量和磁扭曲存在关系，但与动力学螺度无关。这表明太阳活动区上空的磁螺度主要来源于磁扭曲，而在光球以下区域的流体动力学并非太阳活动区磁螺度的主要来源。 <div>
-Using Helioseismic and Magnetic Imager/Solar Dynamics Observatory data, we search for a relationship between kinetic helicity and magnetic helicity in solar active regions (ARs) using a sample of 62 ARs from 2010 May to 2015 May. The sample includes 32 mature ARs and 30 emerging ARs. We calculate kinetic helicity in the interior in the depth range from 0.6 to 11.6 Mm, magnetic helicity in the corona, helicity flux across the photosphere, and the magnetic twist and magnetic writhe of the ARs at the photosphere. From these data, relationships are found between magnetic helicity, helicity flux, and magnetic twist. However, magnetic writhe appears not to be related to the other magnetic quantities. No relationship is found between the kinetic helicity and any magnetic quantity. In particular, no relationship is found between the kinetic helicity and any of the following: magnetic helicity, magnetic helicity flux, magnetic twist, or magnetic writhe. These results suggest that (1) the magnetic helicity in the corona above ARs is mainly derived from the magnetic twist, and (2) the flow dynamics in the region from 0.6 to 11.6 Mm below the photosphere is not the primary source for the generation of magnetic helicity in ARs.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Repelling Planet Pairs by Ping-pong Scattering</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a09</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a09</guid>
-<content:encoded><![CDATA[
-<div> Kepler mission, orbital spacing, mean-motion resonances, eccentricity damping, scattering with small bodies<br />
-<br />
-这篇文章讨论了Kepler任务揭示的行星轨道间隙特征，提出了两种主要的解释：一种涉及偏心率阻尼，另一种涉及与小天体的散射。文章指出了偏心率阻尼方案存在的一些问题，并对散射方案进行了更详细的研究。作者阐述了小天体散射倾向于推开两颗行星的原因，并解释了观测到的轨道特征。作者指出，为了解释观测到的轨道位置，需要大约相当于几个行星质量的散射质量。此外，如果这种质量由少数几颗相当于水星大小的天体主导，还可以解释从凌星时间变化中推断出的行星偏心率。最后，作者提出了这些条件在行星形成的后期阶段可能是如何自然形成的。 <br /><br />总结: 本文讨论了Kepler任务揭示的行星轨道间隙特征，提出了两种主要的解释。首先指出了偏心率阻尼方案存在的问题，然后对散射方案进行了更详细的研究，阐述了小天体散射倾向于推开两颗行星的原因，并解释了观测到的轨道特征。最后提出了这些条件在行星形成的后期阶段可能是如何自然形成的。 <div>
-The Kepler mission reveals a peculiar trough-peak feature in the orbital spacing of close-in planets near mean-motion resonances: a deficit and an excess that are, respectively, a couple of percent interior to and wide of the resonances. This feature has received two main classes of explanations: one involving eccentricity damping and the other scattering with small bodies. Here, we point out a few issues with the damping scenario and study the scattering scenario in more detail. We elucidate why scattering small bodies tends to repel two planets. As the small bodies random-walk in energy and angular momentum space, they tend to absorb fractionally more energy than angular momentum. This, which we call “ping-pong repulsion,” transports angular momentum from the inner to the outer planet and pushes the two planets apart. Such a process, even if ubiquitous, leaves identifiable marks only near first-order resonances: diverging pairs jump across the resonance quickly and produce the mean-motion resonance asymmetry. To explain the observed positions of the trough-peaks, a total scattering mass of order a few percent of the planet masses is required. Moreover, if this mass is dominated by a handful of Mercury-sized bodies, one can also explain the planet eccentricities as inferred from transit-time variations. Last, we suggest how these conditions may have naturally arisen during the late stages of planet formation.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Novae: An Important Source of Lithium in the Galaxy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a10</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a10</guid>
-<content:encoded><![CDATA[
-<div> novae, Galactic lithium, element diffusion, stellar astrophysics, population synthesis
-<br /><br />总结:
-本文研究了银河系中铋的来源问题，通过在恒星天体物理实验模块中模拟新星的演化过程，发现元素扩散可以显著增加新星中的7Be丰度，从而解释了观测到的几乎所有新星。通过群体合成方法计算了银河中铋的产量，发现大约73%的铋是由新星产生的，这表明新星是银河系中铋的重要来源。 <div>
-The source of the Galactic lithium (Li) has long been a puzzle. With the discovery of Li in novae, extensive research has been conducted. However, there still exists a significant disparity between the observed abundance of Li in novae and the existing theoretical predictions. Using the Modules for Experiments in Stellar Astrophysics, we simulate the evolution of novae with element diffusion and appropriately increase the amount of 3He in the mixtures. Element diffusion enhances the transport efficiency between the nuclear reaction zone and the convective region on the surface of the white dwarf (WD) during nova eruptions, which results in more 7Be being transmitted to the WD surface and ultimately ejected. Compared to the previous predictions, the abundance of 7Be in novae simulated in our model significantly increases. The result is able to explain almost all observed novae. Using the method of population synthesis, we calculate Li yield in the Galaxy. We find that the Galactic occurrence rate of novae is about 130 yr−1, and about 110 M⊙ Li produced by nova eruption is ejected into the interstellar medium (ISM). About 73% of Li in the Galactic ISM originates from novae and approximately 15%–20% of the entire Galaxy. This means that novae are the important source of Li in the Galaxy.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Collisionless Shock in a Relativistically Hot Unmagnetized Electron–Positron Plasma</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6141</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6141</guid>
-<content:encoded><![CDATA[
-<div> relativistically hot plasma, electron-positron, dissipation fraction, Weibel instability, gamma-ray burst
-
-总结: 
-本研究探讨了在相对论性高温未磁化电子-正电子等离子体中传播的无碰撞激波。我们估计了相对论热等离子体中激波的耗散比例，表明即使激波不是高度相对论性，耗散也足够大，可以解释伽马射线暴的观测结果。通过二维粒子在格模拟表明，与冷上游等离子体不同，在模拟时间内激波前面的韦贝尔不稳定性产生了磁场，然而没有粒子被加速。在热等离子体情况下，下游区域中磁场的衰减速度与激波速度较慢。基于下游磁场的缓慢衰减，我们提出了一个模型，用于在大范围下游区域生成磁场，这是伽马射线暴余辉的标准模型所要求的。 <div>
-In this work, we investigate collisionless shocks propagating in a relativistically hot unmagnetized electron–positron plasma. We estimate the dissipation fraction at shocks in the relativistically hot plasma, showing that it is sufficiently large to explain the observation of gamma-ray bursts even when the shock is not highly relativistic. It is shown by two-dimensional particle-in-cell simulations that magnetic fields are generated around the shock front by the Weibel instability, as in the cold upstream plasma. However, in contrast to the cold upstream plasma, no particles are accelerated at the shock in the simulation time of . The decay of the magnetic field in the downstream region is slower for slower shock velocities in the hot plasma cases. Applying the slow decay of the downstream magnetic field, we propose a model that generates magnetic fields in the large downstream region, which is required from the standard model of the gamma-ray burst afterglow.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Plasma Pressure Contribution from Low-energy (0.05–2 keV) Energetic Neutral Atoms in the Heliosheath</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6150</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6150</guid>
-<content:encoded><![CDATA[
-<div> 能量中性原子（ENAs），太阳圈层，国际间边界探测器（IBEX），太阳活动周期，观测结果
-
-这项研究使用国际间边界探测器（IBEX）测量的能量中性原子（ENA）强度来研究太阳圈层的边界区域。研究发现在100到500电子伏特能量范围内，模型预测的ENA强度普遍低估了实际测量值。通过将观测到的ENA强度转换为不同天空方向的等离子体压力，并考虑这对我们对太阳圈层和观察到的ENA来源的理解的影响。这表明我们对太阳圈层的理解还存在一些不足，需要进一步研究来解决这些问题。 <br /><br />总结: 能量中性原子（ENAs）的观测强度比模型预测低，需要重新考虑太阳圈层的边界和ENA来源的问题。 <div>
-Energetic neutral atoms (ENAs) from the heliosphere are a unique means to remotely image the boundary regions of our heliosphere. The Interstellar Boundary Explorer (IBEX) has been very successful in measuring these ENAs since 2008 at energies from tens of eV to 6 keV. The main question raised by one solar cycle of IBEX-Lo observations at 0.05–2 keV is the strong and ubiquitous underestimation of several model predictions compared with actually measured ENA intensities at energies between 100 and 500 eV. This study converts the observed ENA intensities into plasma pressures for different sky directions and considers the implications for our understanding of the heliosheath and the source of the observed ENAs.
-]]></content:encoded>
-<pubDate>2024-07-31T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Final Moments. II. Observational Properties and Physical Modeling of Circumstellar-material-interacting Type II Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a2a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4a2a</guid>
-<content:encoded><![CDATA[
-<div> 观测, 模拟, 星等, 衰变时间, 质量流失率
-总结:<br /><br />本研究对具有IIn特征的39颗II型超新星进行了紫外/光学/近红外观测和建模，以及35颗无IIn特征的“比较”II型超新星进行了比较。观测结果表明，早期IIn特征与峰值紫外光亮度、上升时间及质量流失率有显著相关性，并且具有IIn特征的II型超新星呈现出增强的峰值亮度。通过辐射流体力学和非局部热动力学辐射传输模拟，我们对样本中的质量流失率和CSM密度进行了定量分析，发现电子散射增宽的线型与推测的质量流失率之间存在趋势。 <div>
-We present ultraviolet/optical/near-infrared observations and modeling of Type II supernovae (SNe II) whose early time (δt < 2 days) spectra show transient, narrow emission lines from shock ionization of confined (r < 1015 cm) circumstellar material (CSM). The observed electron-scattering broadened line profiles (i.e., IIn-like) of H i, He i/ii, C iv, and N iii/iv/v from the CSM persist on a characteristic timescale (tIIn) that marks a transition to a lower-density CSM and the emergence of Doppler-broadened features from the fast-moving SN ejecta. Our sample, the largest to date, consists of 39 SNe with early time IIn-like features in addition to 35 “comparison” SNe with no evidence of early time IIn-like features, all with ultraviolet observations. The total sample includes 50 unpublished objects with a total of 474 previously unpublished spectra and 50 multiband light curves, collected primarily through the Young Supernova Experiment and Global Supernova Project collaborations. For all sample objects, we find a significant correlation between peak ultraviolet brightness and both tIIn and the rise time, as well as evidence for enhanced peak luminosities in SNe II with IIn-like features. We quantify mass-loss rates and CSM density for the sample through the matching of peak multiband absolute magnitudes, rise times, tIIn, and optical SN spectra with a grid of radiation hydrodynamics and non-local thermodynamic equilibrium radiative-transfer simulations. For our grid of models, all with the same underlying explosion, there is a trend between the duration of the electron-scattering broadened line profiles and inferred mass-loss rate: (0.01 M⊙ yr−1)] days.
-]]></content:encoded>
-<pubDate>2024-07-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Preliminary Study of Dark-matter-dominated Systems: Further Analysis for Galactic Dark Matter Halos with Pressure</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5439</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5439</guid>
-<content:encoded><![CDATA[
-<div> 暗物质，测量星系的旋转速度，静态流体，不稳定性，引力场<br />
-总结:<br />
-本研究利用低表面亮度星系作为实验室，研究暗物质的方程状态以及自引力结构的特性。结果发现，用于解释观察到的旋转速度的配置是不稳定的，由此得出结论：暗物质晕不处于静力平衡状态，不具有球对称性，或者不是静态的。 <div>
-Low-surface-brightness galaxies are excellent laboratories, where stars and baryonic matter act as tracers of the gravitational potential of the dark matter halo. If dark matter is modeled as a perfect fluid, then spherically symmetric and static dark matter halos in hydrostatic equilibrium demand that dark matter should have an intrinsic pressure that counteracts the gravitational attraction that the dark matter halo exerts on itself. This static fluid (a dark-matter-dominated system, where the presence of baryons is negligible) has a specific equation of state for each rotational velocity profile of the stars in galaxies. In this work, we study the dark matter equation of state needed for the self-gravitating object to produce a gravitational potential such that the tracers follow the universal rotational velocity profile for stars of spiral galaxies proposed by Persic et al. and analyze the properties of the self-gravitating structures that emerge from this equation of state. The resulting configurations explaining the observed rotational speeds are found to be unstable. We conclude that the halo is not in hydrostatic equilibrium, it is nonspherically symmetric, or it is not static if the universal velocity profile should be valid for fitting the rotational velocity curve of the galaxies.
-]]></content:encoded>
-<pubDate>2024-07-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “Systematics in the Cepheid and TRGB Distance Scales: Metallicity Sensitivity of the Wesenheit Leavitt Law” (2024, ApJ, 961, 166)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6265</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6265</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 数值修正, 红巨星分支, 比辉距离, 金属丰度, 相关性检验
-总结: 
-本研究对发表文章中的表1进行了数值修正，同时更新了红巨星分支和比辉距离的比较图。在文章中的主要结论是，比辉距离与金属丰度之间并没有统计显著的相关性。通过更新后的回归分析，发现“统计平坦”的回归方程为Δμo(Cepheid − TRGB) = −0.028 (±0.019) × ([O/H] − 8.50) − 0.014 (±0.042)。<br /><br />总结: 本研究对比辉距离与红巨星分支的关系进行了修正和更新，确认了它们与金属丰度之间的相关性不显著的结论。 <div>
-Updates and corrections are made to a number of numerical entries and their references in Table 1 of the published article. Updated plots of the final run of the comparison of the tip of the red giant branch (TRGB) and Cepheid distances with metallicity, as seen in the lower panels of Figures 1 and 2 in the published article, are shown in the composite figure given here (Figure 1). The main conclusion of the published article, that there is no statistically significant correlation of the zero-point of the Cepheid period–luminosity relation with metallicity, is unchanged. The updated “statistically flat” regression is now found to be Δμo(Cepheid − TRGB) = −0.028 (±0.019) × ([O/H] − 8.50) − 0.014 (±0.042).
-]]></content:encoded>
-<pubDate>2024-07-30T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
