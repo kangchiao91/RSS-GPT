@@ -4,6 +4,168 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Hydrodynamic 3D Simulation of Roche Lobe Overflow in High-mass X-Ray Binaries</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c0d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c0d</guid>
+<content:encoded><![CDATA[
+<div> 二元黑洞并购、高质量恒星、Roche波动溢出、模拟和观测、质量和角动量通量
+
+总结: 本研究探讨了高质量恒星从Roche波动溢出到二元黑洞系统的形成渠道。通过模拟和演化二元质量流，并将新的方法应用于半脱离高质量X射线双星M33 X-7，比较了不同溢出状态下的情况。结果表明极端溢出情况下是保守的，而稍微溢出的情况下是非保守的稳定质量传输，这表明现有假设可能误解了半脱离二元系统作为二元黑洞和共同包络前体的角色和分布。 <div>
+While binary merger events have been an active area of study in both simulations and observational work, the formation channels by which a high-mass star extends from Roche lobe overflow (RLO) in a decaying orbit of a black-hole (BH) companion to a binary black-hole (BBH) system merits further investigation. Variable length-scales must be employed to accurately represent the dynamical fluid transfer and morphological development of the primary star as it conforms to a diminishing Roche lobe under the runaway influence of the proximal BH. We have simulated and evolved binary mass flow under these conditions to better identify the key transitional processes from RLO to BBHs. We demonstrate a new methodology to model RLO systems to unprecedented resolution simultaneously across the envelope, donor wind, tidal stream, and accretion disk regimes without reliance upon previously universal symmetry, mass flux, and angular momentum flux assumptions. We have applied this method to the semidetached high-mass X-ray binary M33 X-7 in order to provide a direct comparison to recent observations of an RLO candidate system at two overflow states of overfilling factors f = 1.01 and f = 1.1. We found extreme overflow (f = 1.1) to be entirely conservative in both mass and angular momentum transport, forming a conical L1 tidal stream of density and deflected angle comparable to existing predictions. This case lies within the unstable mass transfer (MT) regime as recently proposed of M33 X-7. The f = 1.01 case differed in stream geometry, accretion disk size, and efficiency, demonstrating nonconservative stable MT through a ballistic uniform-width stream. The nonconservative and stable nature of the f = 1.01 case MT also suggests that existing assumptions of semidetached binaries undergoing RLO may mischaracterize their role and distribution as progenitors of BBHs and common envelopes.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>pop-cosmos: Scaleable Inference of Galaxy Properties and Redshifts with a Data-driven Population Model</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7736</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7736</guid>
+<content:encoded><![CDATA[
+<div> 后验采样，贝叶斯方法，光度红移，星系性质，GPU加速<br>
+<br>
+这篇文章介绍了一个高效的贝叶斯方法，用于根据预先训练的种群模型(pop-cosmos)估算个别光度红移和星系性质。该模型使用基于分数的扩散模型规定了16个恒星种群合成（SPS）参数的先验分布，并包括对星云发射的详细处理数据模型。研究利用GPU加速的仿射不变合模器在COSMOS2020目录中的292,300个单独星系下，快速进行后验采样，利用神经网络模拟器(Speculator)加速SPS计算。比较了pop-cosmos种群模型和以Prospector-α为灵感的基准先验的结果，并将这些结果与广泛使用的EAZY和LePhare代码的已发布的COSMOS2020红移估计进行比较。针对具有光谱红移的∼12,000个星系，发现pop-cosmos给出了极小的偏差 (∼10−4)、高精度 (σMAD = 7 × 10−3) 和低离群值率 (1.6%)。研究表明pop-cosmos种群模型对比其r < 25 mag训练集更昏暗的星系具有良好的泛化能力。我们分析的样本比以前可能通过完整的SPS模型进行后验采样的样本大的约3倍，pop-cosmos先验下的平均吞吐量为每个星系15 GPU秒，而Prospector先验下为每个星系0.6 GPU秒。这为未来第四阶段星系调查中预期的大型目录的原则性建模铺平了道路。<br><br>总结: 贝叶斯方法结合种群模型和GPU加速，实现了在大型星系目录中的高效后验采样，得到了准确的光度红移估计和星系性质推断，为未来的星系调查提供了重要的方法学基础。 <div>
+We present an efficient Bayesian method for estimating individual photometric redshifts and galaxy properties under a pretrained population model (pop-cosmos) that was calibrated using purely photometric data. This model specifies a prior distribution over 16 stellar population synthesis (SPS) parameters using a score-based diffusion model, and includes a data model with detailed treatment of nebular emission. We use a GPU-accelerated affine-invariant ensemble sampler to achieve fast posterior sampling under this model for 292,300 individual galaxies in the COSMOS2020 catalog, leveraging a neural network emulator (Speculator) to speed up the SPS calculations. We apply both the pop-cosmos population model and a baseline prior inspired by Prospector-α, and compare these results to published COSMOS2020 redshift estimates from the widely used EAZY and LePhare codes. For the ∼12,000 galaxies with spectroscopic redshifts, we find that pop-cosmos yields redshift estimates that have minimal bias (∼10−4), high accuracy (σMAD = 7 × 10−3), and a low outlier rate (1.6%). We show that the pop-cosmos population model generalizes well to galaxies fainter than its r < 25 mag training set. The sample we have analyzed is ≳3× larger than has previously been possible via posterior sampling with a full SPS model, with average throughput of 15 GPU-sec per galaxy under the pop-cosmos prior, and 0.6 GPU-sec per galaxy under the Prospector prior. This paves the way for principled modeling of the huge catalogs expected from upcoming Stage IV galaxy surveys.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Resolved UV and Optical Color Gradients Reveal Environmental Influence on Galaxy Evolution at Redshift z ∼ 1.6</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7798</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7798</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 银河系形成, 宇宙中午, 星际尘埃, 超级照相机, 颜色梯度
+总结:
+星系的颜色变化与其形成、增长、停滞历史和尘埃含量密切相关。在宇宙中午附近的 z ∼ 2 时期，星系的生长尤为重要，往往被称为“宇宙正午”，在这个时期星系平均达到了它们的星形成高峰。研究发现，我们在 z ∼ 1.6 附近的一个星团中观察到的星系，在 Hubble 太空望远镜的三个滤光片 F475W、F625W 和 F160W 中有明显的、具有统计学意义的差异。通过与类似红移的对照样本200个野外星系进行比较，我们发现了两种不同环境中星系的整体空间分辨率颜色和颜色梯度的明显差异。平均而言，星团中的星系在 r50 限定的内部和外部地区的紫外线颜色较红，同时外面向内的颜色梯度的离散程度更大。这些观察到的差异以及来自以前研究的辅助数据的证据强烈表明，环境通过影响恒星群和/或尘埃含量，驱动了这些整体颜色差异。 <div>
+The changes in colors across a galaxy are intimately connected to the galaxy’s formation, growth, quenching history, and dust content. A particularly important epoch in the growth of galaxies is near z ∼ 2, often referred to as “cosmic noon,” where galaxies on average reach the peak of their star formation. We study a population of 125 cluster galaxies at z ∼ 1.6 in three Hubble Space Telescope filters, F475W, F625W, and F160W, roughly corresponding to the rest-frame far-ultraviolet, near-ultraviolet, and r band, respectively. By comparing to a control sample of 200 field galaxies at similar redshift, we reveal clear, statistically significant differences in the overall spatially resolved colors and color gradients in galaxies across these two different environments. On average, cluster galaxies have redder ultraviolet colors in both the inner and outer regions bounded by r50, as well as an overall wider dispersion of outside-in color gradients. The presence of these observed differences, along with evidence from ancillary data from previous studies, strongly suggests that the environment drives these population-level color differences, by affecting the stellar populations and/or dust content.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring the Magnetic and Thermal Evolution of a Coronal Jet</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad779c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad779c</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Coronal jets, solar atmosphere, magnetic reconnection, three-dimensional magnetohydrodynamics simulation, eruptive events
+
+总结: 论文报告了一个基于数据约束的三维磁流体力学模拟的结果，对太阳活动区NOAA AR12280中于2015年2月5日发生的一个喷发性射流进行了研究。通过模拟和差分发射测量分析结果的比较，提供了关于磁重连的启动和能谱特性的见解。研究捕捉了复杂的拓扑动力学，发现了喷流位置周围磁场和热演化之间的密切对应关系。这一综合方法丰富了对于由于磁流体力学过程引起的热演化的认识，对于揭示日冕加热问题有重要意义。 <br><br> <div>
+Coronal jets are the captivating eruptions that are often found in the solar atmosphere and primarily formed due to magnetic reconnection. Despite their short-lived nature and lower energy compared to many other eruptive events, e.g., flares and coronal mass ejections, they play an important role in heating the corona and accelerating charged particles. However, their generation in the ambience of nonstandard flare regime is not fully understood, and warrant a deeper investigation, in terms of their onset, growth, eruption processes, and thermodynamic evolution. Toward this goal, this paper reports the results of a data-constrained three-dimensional magnetohydrodynamics (MHD) simulation of an eruptive jet; initialized with a non-force-free-field (NFFF) extrapolation and carried out in the spirit of implicit large eddy simulation (ILES). The simulation focuses on the magnetic and dynamical properties of the jet during its onset, and eruption phases, that occurred on 2015 February 5 in an active region NOAA AR12280, associated with a seemingly three-ribbon structure. In order to correlate its thermal evolution with computed energetics, the simulation results are compared with differential emission measurement analysis in the vicinity of the jet. Importantly, this combined approach provides an insight to the onset of reconnection in transients in terms of emission and the corresponding electric current profiles from MHD evolutions. The presented study captures the intricate topological dynamics, finds a close correspondence between the magnetic and thermal evolution in and around the jet location. Overall, it enriches the understanding of the thermal evolution due to MHD processes, which is one of the broader aspects to reveal the coronal heating problem.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Pulling Back the Curtain on Shocks and Star Formation in NGC 1266 with Gemini-NIFS</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad793a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad793a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: NGC 1266, 近红外积分场光谱仪, H2 rovibrational发射线, 星形成, AGN<br>
+<br>
+NGC 1266是一颗距离地球非常近的星后暴发星系，通过使用近红外积分场光谱仪进行观测，研究人员在中心区域探测到了H2 rovibrational发射线和弱的Brγ发射，这表明存在快速的持续性震撼活动。Brγ发射主要集中在中心区域，表明NGC 1266中可能仍存在星形成活动，而周围的冷分子气体则很少发生星形成。虽然不清楚Brγ发射的部分比例是来自于星形成还是活动星系核，假设完全来自于星形成活动，测得瞬时星形成率为0.7 M⊙ yr−1，然而在可能存在附加消光的情况下，星形成率可能会显著更高。NGC 1266是研究活动星系核、射流、震撼和星形成复杂相互作用的独特实验室，这些相互作用对于揭示星后暴发阶段演化过程至关重要。<br><br>总结: NGC 1266是一颗星后暴发星系，观测结果显示存在持续的快速震撼活动和局部的星形成。通过研究这些复杂的相互作用，有助于了解星后暴发阶段的演化过程。 <div>
+We present Gemini near-infrared integral field spectrograph K-band observations of the central 400 pc of NGC 1266, a nearby (D ≈ 30 Mpc) post-starburst galaxy with a powerful multiphase outflow and a shocked interstellar medium. We detect seven H2 rovibrational emission lines excited thermally to T ∼ 2000 K, and weak Brγ emission, consistent with a fast continuous shock (or C-shock). With these bright H2 lines, we observe the spatial structure of the shock with an unambiguous tracer for the first time. The Brγ emission is concentrated in the central ≲100 pc, indicating that any remaining star formation in NGC 1266 is in the nucleus, while the surrounding cold molecular gas has little ongoing star formation. Though it is unclear what fraction of this Brγ emission is from star formation or the active galactic nuclei (AGN), assuming it is entirely due to star formation we measure an instantaneous star formation rate of 0.7 M⊙ yr−1, though the star formation rate may be significantly higher in the presence of additional extinction. NGC 1266 provides a unique laboratory to study the complex interactions between AGN, outflows, shocks, and star formation, all of which are necessary to unravel the evolution of the post-starburst phase.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Follow-up Timing of 12 Pulsars Discovered in Commensal Radio Astronomy FAST Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f4</guid>
+<content:encoded><![CDATA[
+<div> FAST, pulsars, timing ephemerides, polarization pulse profiles, subpulse drifting <br>
+pulse nulling, millisecond pulsars, neutron star−white dwarf binary system, death line, electron density models <br><br>
+总结: 本文介绍了FAST在Commensal Radio Astronomy FAST Survey中发现的12颗脉冲星。对这些脉冲星进行了相位连通的定时计算、极化脉冲轮廓观测，以及法拉第旋转测量。其中发现了PSR J1840+2843存在亚脉冲漂移，而有五颗脉冲星表现出脉冲消失现象。此外，还发现两颗稳定自旋速率的孤立毫秒脉冲星，以及一对中子星-白矮星双星系统脉冲星。同时，FAST还发现了超出传统死亡线的两颗脉冲星，为测试脉冲星辐射理论提供了新样本。研究还根据NE2001和YMW16电子密度模型估算了这些脉冲星的距离，为研究银河系电子密度模型提供了数据。 <div>
+We present phase-connected timing ephemerides, polarization pulse profiles, and Faraday rotation measurements of 12 pulsars discovered by the Five-hundred-meter Aperture Spherical radio Telescope (FAST) in the Commensal Radio Astronomy FAST Survey. The observational data for each pulsar span at least 1 yr. Among them, PSR J1840+2843 shows subpulse drifting, and five pulsars are detected to exhibit pulse nulling phenomena. PSR J0640−0139 and PSR J2031−1254 are isolated millisecond pulsars (MSPs) with stable spin-down rates ( ) of 4.8981(6) × 10−20 s s−1 and 6.01(2) × 10−21 s s−1, respectively. Additionally, one pulsar (PSR J1602−0611) is in a neutron star−white dwarf (WD) binary system with an 18.23-day orbit and a companion of ≤0.65 M⊙. PSR J1602−0611 has a spin period, companion mass, and orbital eccentricity that are consistent with the theoretical expectations for MSP−helium WD (He WD) systems. Therefore, we believe that it might be an MSP−He WD binary system. The locations of PSR J1751−0542 and PSR J1840+2843 on the diagram are beyond the traditional death line. This indicates that FAST has discovered some low- pulsars, contributing new samples for testing pulsar radiation theories. We estimated the distances of these 12 pulsars based on NE2001 and YMW16 electron density models, and our work enhances the data set for investigating the electron density model of the Galaxy.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>How Do Primordial Black Holes Change the Halo Mass Function and Structure?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b0d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b0d</guid>
+<content:encoded><![CDATA[
+<div> PBHs, cosmic structure formation, simulations, DM, halos
+<br>
+在这篇文章中，研究了原始黑洞（PBHs）对宇宙结构形成的影响，使用了半解析方法和宇宙学模拟。模拟中包含具有以10^6M⊙为中心的单色质量分布的PBHs，构成宇宙中10^-2到10^-4的暗物质（DM）部分，其余部分为无碰撞粒子暗物质。结果表明，PBHs对于引发大质量暗物质晕的形成并驻留在其中心具有“种子效应”。通过最近邻统计分析PBH宿主暗物质晕的相对分布，结果表明PBH宿主暗物质晕通过引力影响显著地影响了结构形成过程。如果PBHs构成的暗物质比例显著高于10^-3，几乎所有新形成的暗物质晕都会被PBH引发的晕吞并。因此，模拟预测了暗物质晕质量函数的双峰特征，其中大多数大质量暗物质晕的核心都包含至少一个PBH，其余为质量较小的非PBH暗物质晕。
+<br><br>总结: 原始黑洞对宇宙结构形成具有重要影响；模拟显示PBHs加速了大质量暗物质晕的形成；PBHs会影响新形成暗物质晕的分布；预测了暗物质晕质量函数的双峰特征。 <div>
+We examine the effects of massive primordial black holes (PBHs) on cosmic structure formation, employing both a semianalytical approach and cosmological simulations. Our simulations incorporate PBHs with a monochromatic mass distribution centered around 106M⊙, constituting a fraction of 10−2 to 10−4 of the dark matter (DM) in the Universe, with the remainder being collisionless particle DM. Additionally, we conduct a ΛCDM simulation for comparative analysis with runs that include PBHs. At smaller scales, halos containing PBHs exhibit similar density and velocity dispersion profiles to those without PBHs. Conversely, at larger scales, PBHs can expedite the formation of massive halos and reside at their centers owing to the “seed effect.” To analyze the relative distribution of PBH host halos compared to non-PBH halos, we apply nearest neighbor statistics. Our results suggest that PBH host halos, through gravitational influence, significantly impact the structure formation process, compared to the ΛCDM case, by attracting and engulfing nearby newly formed minihalos. Should PBHs constitute a fraction of DM significantly larger than ∼10−3, almost all newly formed halos will be absorbed by PBH-seeded halos. Consequently, our simulations predict a bimodal feature in the halo mass function, with most of the massive halos containing at least one PBH at their core and the rest being less massive non-PBH halos.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>HST Proper Motion of Andromeda. III. Another Satellite Coorbiting the M31 Satellite Plane</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b10</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b10</guid>
+<content:encoded><![CDATA[
+<div> Andromeda III, absolute proper motion, Advanced Camera for Surveys, WFPC2, deep-learning, astrometric calibration, orbit analysis, dynamical membership, Great Plane of Andromeda, M31's mass<br><br>总结:<br>这篇文章使用先进的相机和改进的处理方法测量了Andromeda III的绝对固有运动，并进行了其轨道分析。测得的固有运动为(μα, μδ) = (−10.5 ± 12.5, 47.5 ± 12.5) μas yr−1。结果显示Andromeda III与仙女座大星系的卫星系统的动力学成员关系一致。如果M31的质量为Mvir ≥ 1.5 × 1012M⊙，Andromeda III将与M31保持连接。 <div>
+We measure the absolute proper motion of Andromeda III (And III) using Advanced Camera for Surveys/Wide Field Channel and WFPC2 exposures spanning an unprecedented 22 yr time baseline. The WFPC2 exposures have been processed using a deep-learning centering procedure recently developed as well as an improved astrometric calibration of the camera. The absolute proper motion zero point is given by 98 galaxies and 16 Gaia EDR3 stars. The resulting proper motion is (μα, μδ) = (−10.5 ± 12.5, 47.5 ± 12.5) μas yr−1. We perform an orbit analysis of And III using two estimates of M31's mass and proper motion. We find that And III’s orbit is consistent with dynamical membership to the Great Plane of Andromeda system of satellites although with some looser alignment compared to the previous two satellites NGC 147 and NGC 185. And III is bound to M31 if M31's mass is Mvir ≥ 1.5 × 1012M⊙.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Cascading Dark Energy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b16</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b16</guid>
+<content:encoded><![CDATA[
+<div> 关键词：宇宙学模型，哈勃常数，暗能量，宇宙微波背景辐射，超新星
+
+总结: 本文讨论了标准宇宙学模型在哈勃常数H0的超新星测量和宇宙微波背景辐射推断之间的张力，以及对当今宇宙加速的多种解释所需的新基本标量场的存在。作者提出了一个级联暗能量场景，通过将其简化为一个双场模型，并将其与宇宙微波背景辐射和宇宙中的测量结果进行比较，发现该场景改善了哈勃张力，提高了暗能量模型和宇宙中的测量结果之间的一致性。  <div>
+The standard cosmological model is in the midst of a stress test, thanks to the tension between supernova-based measurements of the Hubble constant H0 and inferences of its values from cosmic microwave background (CMB) anisotropies. Numerous explanations for the present-day cosmic acceleration require the presence of a new fundamental scalar field, as do early dark energy solutions to the Hubble tension. This raises the possibility that multiple fields cooperatively contribute to the dark energy component in bursts throughout cosmic time due to distinct initial conditions and couplings. Here, this cascading dark energy scenario is illustrated through a realization that effectively reduces to a two-field model, with two epochs in which dark energy is cosmologically significant. The model is compared to measurements of the CMB and baryon acoustic oscillations, as well as both PANTHEON and SH0ES observations of Type Ia supernovae. Neglecting the linear perturbations, it is found that this scenario ameliorates the Hubble tension, improving over purely late-time models of dark energy and the agreement between the galaxy survey measurements of baryon acoustic oscillations.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Search for Disk Perturbing Planets Around the Asymmetrical Debris Disk System HD 111520 Using REBOUND</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b28</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b28</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Debris disks, HD 111520, REBOUND, 碎片盘, 行星
+
+总结:<br><br>本研究分析了围绕HD 111520星的不对称碎片盘，发现其中存在受行星-盘相互作用影响的结构和不对称性。使用REBOUND模拟了复杂的盘形态，以限制可能导致观测结构的行星的质量和轨道。研究发现，一个大约1木星质量、轨道离盘面有倾角的偏心行星可以重现大部分盘特征，包括弯曲、分叉和径向延伸的不对称性。另外，需要一个内部偏心行星才能产生亮度不对称，但无法完全重现观测到的2:1亮度不对称，这可能需要另一个机制。这项工作展示了仅凭碎片盘形态就可以了解整个系统的结构和演化，还可以提供行星约束，确定JWST/NIRCam和吉米尼行星成像仪2.0等当前/未来仪器的潜在目标。 <div>
+Debris disks, which are optically thin, dusty disks around main-sequence stars, are often found to have structures and/or asymmetries associated with planet–disk interactions. Debris disk morphologies can hence be used as probes for planets in these systems, which are unlikely to be detected with other current exoplanet detection methods. In this study we take a look at the very asymmetrical debris disk around HD 111520, which harbours several signs of perturbation such as a “fork”-like structure in the NW, as well as a 4° warp from the midplane on either side of the disk. We simulate the complicated disk morphology using the code REBOUND, with the goal of constraining the possible mass and orbit of the planet responsible for the observed structures. We find that an ∼1 Mjup, eccentric planet that is inclined relative to the disk and is orbiting outside the warp location is able to reproduce the majority of disk features including the warp, fork, and radial extent asymmetry. To create the surface brightness asymmetry, a second eccentric planet is required inside the disk inner edge (50 au), although we are unable to produce the 2:1 brightness asymmetry observed, suggesting that a second mechanism may be required. Our work demonstrates how debris disk morphologies alone can be used to learn more about the architecture and evolution of a system as a whole, and can provide planet constraints to determine potential targets for current/future instruments such as JWST/NIRCam and the Gemini Planet Imager 2.0.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Star Stream Velocity Distributions in Cold Dark Matter and Warm Dark Matter Galactic Halos</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b35</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b35</guid>
+<content:encoded><![CDATA[
+
+The dark matter subhalos orbiting in a galactic halo perturb the orbits of stars in thin stellar streams. Over time, the random velocities in the streams develop non-Gaussian wings. The rate of velocity increase is approximately a random walk at a rate proportional to the number of subhalos, primarily those in the mass range ≈106−7M⊙. The distribution of random velocities in long streams is measured in simulated Milky Way–like halos that develop in representative warm dark matter (WDM) and cold dark matter (CDM) cosmologies. The radial velocity distributions are well modeled as the sum of a Gaussian and an exponential. The resulting Markov Chain Monte Carlo fits find Gaussian cores of 1−2 km s−1 and exponential wings that increase from 3 km s−1 for 5.5 keV WDM, 4 km s−1 for 7 keV WDM, to 6 km s−1 for a CDM halo. The observational prospects to use stream measurements to constrain the nature of galactic dark matter are discussed.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Diffusion Tensor of Protons at 1 au: Comparing Simulation, Observation, and Theory</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c44</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c44</guid>
+<content:encoded><![CDATA[
+
+The natural variation in plasma parameters observed at 1 au can lead to a variation in transport parameters, such as diffusion and drift coefficients, for energetic charged particles of solar and galactic origin. Given the importance of these parameters to particle transport studies, this variation is investigated through test particle simulations over a range of energies in the presence of simulated turbulence with properties corresponding to an ensemble of observed turbulence conditions at Earth. The resulting transport coefficients are then compared with observational estimates from the literature, as well as the predictions of several scattering theories. Parallel and perpendicular mean free paths are shown to vary widely, for the former in agreement with prior observational estimates, but not for the latter. Furthermore, a large disparity between the predictions of theory and the simulation results is noted for the perpendicular mean free path. As such, these results indicate that particle transport studies, particularly predictive ones, need to take into account this natural variation in transport coefficients.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Chromospheric Modeling of the Active M3V Star G 80–21 with RH1.5D</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f55</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f55</guid>
+<content:encoded><![CDATA[
+
+This study investigates the active regions of the M3.0V star G 80–21 using the observed data from the CARMENES project with synthetic spectra generated by the RH1.5D radiative transfer code. The CARMENES project aims to search for exoplanets around M dwarfs using high-resolution near-infrared and optical echelle spectrographs. By comparing the observed data and models for the chromospheric lines of Hα and the bluest Ca ii infrared triplet line, we obtain the best-fit models for this star. The optimal fitting for the observed spectrum of G 80–21 is achieved by employing two active areas in conjunction with an inactive region, with a calcium abundance of [Ca/H] = −0.4. This combination successfully fits all the observed data across varying ratios. The minor active component consistently comprises approximately 18% of the total (ranging from 14% to 20%), which suggests that the minor active component is likely located in the polar regions. Meanwhile, the major active component occupies a variable proportion, ranging from 51% to 82%. Our method allows for the determination of the structure and size of stellar chromospheric active regions by analyzing high-resolution observed spectra.
+]]></content:encoded>
+
+<pubDate>2024-10-30T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Modeling of Long-term Afterglow Counterparts to Gravitational Wave Events: The Full View of GRB 170817A</title>
