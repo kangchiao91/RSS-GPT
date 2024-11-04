@@ -4,6 +4,32 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Stacking and Analyzing MOSDEF Galaxies by Spectral Types: Implications for Dust Geometry and Galaxy Evolution</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7de8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7de8</guid>
+<content:encoded><![CDATA[
+<div> 星系、星形成、尘埃性质、光谱能量分布、MOSDEF调查
+总结:
+该研究通过将660个星系分成具有类似光谱能量分布（SEDs）形状的组，进行星系的光度测量和光谱叠加分析。通过该方法，研究包括了具有非常微弱发射线的星系样本，可以利用Prospector模型测量星体衰减和SED-based星形成速率（SFRs），并从光谱叠加中导出发射线特性，包括巴尔默衰减、尘埃校正的SFR和金属丰度。研究发现恒星衰减主要与质量相关，而星云衰减则与质量和SFR都有较强的相关性。此外，高SFR组的星云衰减过剩与SFR最强烈关联，最高SFR组有2等星等的星云衰减过剩。研究结果与一个模型一致，即随着星系质量的增加，星形成区域变得更加多尘。除此之外，随着每个星系组代表不同的演化阶段，研究了它们在UVJ图和SFR-质量图上的位置。随着质量的增加，金属丰度和尘埃衰减增加，而比星形成速率（sSFR）减少。然而，最大质量的组移向UVJ图中宁静区域，同时表现出较少的遮挡，可能表示了尘埃的去除。 <div>
+We examine star formation and dust properties for a sample of 660 galaxies at 1.37 ≤ z ≤ 2.61 in the MOSDEF survey by dividing them into groups with similarly shaped spectral energy distributions (SEDs). For each group, we combine the galaxy photometry into a finely sampled composite SED, and stack their spectra. This method enables the study of more complete galaxy samples, including galaxies with very faint emission lines. We fit these composite SEDs with Prospector to measure the stellar attenuation and SED-based star formation rates (SFRs). We also derive emission-line properties from the spectral stacks, including Balmer decrements, dust-corrected SFRs, and metallicities. We find that stellar attenuation correlates most strongly with mass, while nebular attenuation correlates strongly with both mass and SFR. Furthermore, the excess of nebular compared to stellar attenuation correlates most strongly with SFR. The highest SFR group has 2 mag of excess nebular attenuation. Our results are consistent with a model in which star-forming regions become more dusty as galaxy mass increases. To explain the increasing excess nebular attenuation, we require a progressively larger fraction of star formation to occur in highly obscured regions with increasing SFR. This highly obscured star formation could occur in dusty clumps or central starbursts. Additionally, as each galaxy group represents a different evolutionary stage, we study their locations on the UVJ and SFR-mass diagrams. As mass increases, metallicity and dust attenuation increase, while sSFR decreases. However, the most massive group moves towards the quiescent region of the UVJ diagram, while showing less obscuration, potentially indicating removal of dust.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Forecasts for Helium Reionization Detection with Fast Radio Bursts in the Era of Square Kilometre Array</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e4</guid>
+<content:encoded><![CDATA[
+<div> fast radio bursts, dispersion measures, SKA, He ii reionization, detection significance
+
+FRB的观测离散度测量（DMs）是沿着传播路径上电离材料数量的良好指标。本文介绍了使用即将到来的Square Kilometre阵列（SKA）的FRB的DM和红移测量来预测He ii 再电离的检测。假设在宇宙模型中He ii 再电离发生在特定红移，我们分析了在SKA时代可以在什么程度上获得再电离振幅检测的信噪比（S/N）。使用来自SKA第二阶段1年观测的106个模拟FRB数据，我们发现用于检测He ii 再电离的S/N可以达到32–50σ水平，并且可以约束再电离红移的不确定性，具体取决于假定的FRB红移分布。这是关于SKA时代He ii 再电离检测重要性的首次定量分析。我们还研究了不同基准值的影响，发现这种影响对预测的影响有限。我们的结果表明SKA时代的FRB具有限制He ii 再电离时代的潜在能力。 <br><br>总结: FRB的观测离散度测量是沿着传播路径上电离材料数量的良好指标。使用SKA的FRB的DM和红移测量可以预测He ii 再电离的检测。使用模拟FRB数据预测可以在SKA时代获得再电离振幅检测的信噪比（S/N），并且可以约束再电离红移的不确定性。研究还发现不同基准值的影响。我们的结果表明SKA时代的FRB具有限制He ii 再电离时代的潜在能力。 <div>
+The observed dispersion measures (DMs) of fast radio bursts (FRBs) are a good indicator of the amount of ionized material along the propagation paths. In this work, we present a forecast of He ii reionization detection using the DM and redshift measurements of FRBs from the upcoming Square Kilometre Array (SKA). Assuming a model of the Universe in which He ii reionization occurred at a specific redshift , we analyze what extent the signal-to-noise ratio (S/N) for the detection of the amplitude of reionization can be achieved in the era of SKA. Using 106 mock FRB data from a 1 year observation of the second phase of SKA, we find that the S/N for detecting He ii reionization can approach the 32–50σ level, and the uncertainty on the reionization redshift can be constrained to be , depending on the assumed FRB redshift distribution. This is the first quantitative analysis on the detection significance of He ii reionization in the SKA era. We also examine the influence of different fiducial values, finding that this effect has a modest impact on the forecasts. Our results demonstrate the potentially remarkable capability of SKA-era FRBs in constraining the epoch of He ii reionization.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Experimental and Computational Study of Ethanolamine Ices under Astrochemical Conditions</title>
