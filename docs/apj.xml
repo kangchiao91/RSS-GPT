@@ -4,17 +4,17 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A JWST Medium-resolution MIRI Spectrum and Models of the Type Ia Supernova 2021aefx at +415 days</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6608</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6608</guid>
 <content:encoded><![CDATA[
-<div> 关键词: JWST, SN Ia, 光谱分析, 铁类星云, 白矮星<br>
-总结: <br>
+<div> 关键词: JWST, SN Ia, 光谱分析, 铁类星云, 白矮星<br />
+总结: <br />
 这篇文章使用JWST MIRI中分辨率光谱仪对SN 2021aefx进行了观测，并结合之前的观测数据，进行了第一次JWST时间序列分析。通过对[Co iii] 11.888 μm特征的分析追踪了56Co的衰变。作者分析了光谱、线型和其演化，并使用偏心延迟爆炸模型进行了拟合。他们发现最佳拟合为白矮星中心密度ρc = 0.9−1.1 × 109 g cm−3，白矮星质量MWD = 1.33–1.35 M⊙，白矮星磁场≈106 G，以及一个约0.5 M⊙的偏心爆燃模型。文章还讨论了电子俘获核心和正电子沉积的影响，以及对光谱特征的改变。最后，分析显示这次超新星爆发是由单个点近中心点燃，排除了多点偏离中心的点燃模型。 <div>
 We present a JWST MIRI medium-resolution spectrometer spectrum (5–27 μm) of the Type Ia supernova (SN Ia) SN 2021aefx at +415 days past B-band maximum. The spectrum, which was obtained during the iron-dominated nebular phase, has been analyzed in combination with previous JWST observations of SN 2021aefx to provide the first JWST time series analysis of an SN Ia. We find that the temporal evolution of the [Co iii] 11.888 μm feature directly traces the decay of 56Co. The spectra, line profiles, and their evolution are analyzed with off-center delayed-detonation models. Best fits were obtained with white dwarf (WD) central densities of ρc = 0.9−1.1 × 109 g cm−3, a WD mass of MWD = 1.33–1.35 M⊙, a WD magnetic field of ≈106 G, and an off-center deflagration-to-detonation transition at ≈0.5 M⊙ seen opposite to the line of sight of the observer (−30°). The inner electron capture core is dominated by energy deposition from γ-rays, whereas a broader region is dominated by positron deposition, placing SN 2021aefx at +415 days in the transitional phase of the evolution to the positron-dominated regime. The formerly “flat-tilted” profile at 9 μm now has a significant contribution from [Ni iv], [Fe ii], and [Fe iii] and less from [Ar iii], which alters the shape of the feature as positrons mostly excite the low-velocity Ar. Overall, the strength of the stable Ni features in the spectrum is dominated by positron transport rather than the Ni mass. Based on multidimensional models, our analysis is consistent with a single-spot, close-to-central ignition with an indication of a preexisting turbulent velocity field and excludes a multiple-spot, off-center ignition.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,12 +22,11 @@ We present a JWST MIRI medium-resolution spectrometer spectrum (5–27 μm) of t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad737f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad737f</guid>
 <content:encoded><![CDATA[
-<div> Event Horizon Telescope, M87, black hole, Bayesian imaging, priors<br>
-<br>
-本研究基于事件视界望远镜观测到的M87*图像，提出了一种构建多种不同偏好的先验的框架。这些先验可以是弱先验（仅强调基本自然图像统计）或强先验（对黑洞结构做出假设）。该框架使用基于得分的先验的贝叶斯推断，这些先验源自于可以学习复杂图像分布的深度生成模型。借助我们的贝叶斯成像方法和复杂的数据驱动先验，我们可以评估重建图像的视觉特征和不确定性，以及它们如何取决于先验的选择。除了模拟数据外，我们还对真实的EHT M87*数据进行了图像重建，并讨论了选择先验如何影响恢复的特征。 <br><br>总结: <br>该研究提出了一种灵活设计不同偏好的图像重建先验的框架，使用贝叶斯推断和数据驱动的先验技术对黑洞图像进行重建，并讨论了先验选择对重建图像的影响。 <div>
+<div> Event Horizon Telescope, M87, black hole, Bayesian imaging, priors<br />
+<br />
+本研究基于事件视界望远镜观测到的M87*图像，提出了一种构建多种不同偏好的先验的框架。这些先验可以是弱先验（仅强调基本自然图像统计）或强先验（对黑洞结构做出假设）。该框架使用基于得分的先验的贝叶斯推断，这些先验源自于可以学习复杂图像分布的深度生成模型。借助我们的贝叶斯成像方法和复杂的数据驱动先验，我们可以评估重建图像的视觉特征和不确定性，以及它们如何取决于先验的选择。除了模拟数据外，我们还对真实的EHT M87*数据进行了图像重建，并讨论了选择先验如何影响恢复的特征。 <br /><br />总结: <br />该研究提出了一种灵活设计不同偏好的图像重建先验的框架，使用贝叶斯推断和数据驱动的先验技术对黑洞图像进行重建，并讨论了先验选择对重建图像的影响。 <div>
 Reconstructing images from the Event Horizon Telescope (EHT) observations of M87*, the supermassive black hole at the center of the galaxy M87, depends on a prior to impose desired image statistics. However, given the impossibility of directly observing black holes, there is no clear choice for a prior. We present a framework for flexibly designing a range of priors, each bringing different biases to the image reconstruction. These priors can be weak (e.g., impose only basic natural-image statistics) or strong (e.g., impose assumptions of black hole structure). Our framework uses Bayesian inference with score-based priors, which are data-driven priors arising from a deep generative model that can learn complicated image distributions. Using our Bayesian imaging approach with sophisticated data-driven priors, we can assess how visual features and uncertainty of reconstructed images change depending on the prior. In addition to simulated data, we image the real EHT M87* data and discuss how recovered features are influenced by the choice of prior.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,11 +35,10 @@ Reconstructing images from the Event Horizon Telescope (EHT) observations of M87
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad782a</guid>
 <content:encoded><![CDATA[
 <div> TeV γ-ray source, HEGRA, HAWC J2031+415, PSR J2032+4127, pulsar wind nebula
-<br>
+<br />
 这篇文章研究了TeV J2032+4130，一个高能γ射线源，发现它实际上是一个脉冲星风星雲，由PSR J2032+4127驱动。研究发现HAWC J2031+415其实是一个γ射线双星系统，包含脉冲星PSR J2032+4127和其伴星MT91 213。研究团队结合了射电、X射线和γ射线的数据进行了多波段分析，最终确认了这一发现。2017年他们也观测到了这一系统的近日点。总结: 这项研究确认了TeV J2032+4130源实际上是由PSR J2032+4127驱动的脉冲星风星雲，而HAWC J2031+415是一个γ射线双星系统，这一发现得到了多波段数据的验证。 <div>
 The first TeV γ-ray source with no lower energy counterparts, TeV J2032+4130, was discovered by HEGRA. It appears in the third HAWC catalog as 3HWC J2031+415 and it is a bright TeV γ-ray source whose emission has previously been resolved as two sources: HAWC J2031+415 and HAWC J2030+409. While HAWC J2030+409 has since been associated with the Fermi Large Area Telescope Cygnus Cocoon, no such association for HAWC J2031+415 has yet been found. In this work, we investigate the spectrum and energy-dependent morphology of HAWC J2031+415. We associate HAWC J2031+415 with a γ-ray binary system containing the pulsar PSR J2032+4127 and its companion MT91 213. We study HAWC data to observe their periastron in 2017. Additionally, we perform a combined multiwavelength analysis using radio, X-ray, and γ-ray emission. We conclude that HAWC J2031+415 and, by extension, TeV J2032+4130 are most probably a pulsar wind nebula powered by PSR J2032+4127.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -48,12 +46,11 @@ The first TeV γ-ray source with no lower energy counterparts, TeV J2032+4130, w
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a76</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a76</guid>
 <content:encoded><![CDATA[
-<div> 黑洞候选者、Swift J1727.8-1613、能谱分析、准周期振荡、软滞后<br>
-<br>
-黑洞候选者Swift J1727.8-1613是近期发现的一个明亮的瞬变物体，利用NICER和NuSTAR联合数据，研究了其在0.5-79 keV的广泛能量范围内的特性。在0.5-10 keV的NICER数据中观察到了0.89±0.01 Hz的显著C型准周期振荡（QPO）及其谐波。有趣的是，在更低的能量范围内，谐波变得较弱（0.5-1和1-3 keV）。同时，在NICER / X射线定时仪观测中首次发现了硬（3-10 keV）和软（0.5-3 keV）波段光子之间在QPO频率处的软时间滞后为0.014±0.001 s。这表明该双星系统中的吸积盘倾斜角可能较高。从详细的能谱分析中，使用relxill反射模型发现了源的盘倾斜角约为85°。文章讨论了通过能谱分析得出的吸积流配置如何帮助我们理解此源中QPO和软滞后的起源。<br><br>总结：黑洞候选者Swift J1727.8-1613在0.5-79 keV的广泛能量范围内观测到了C型准周期振荡和其谐波，以及硬和软光子之间的软时间滞后，这表明了源的盘倾斜角可能较高。能谱分析揭示了吸积流配置，有助于我们理解QPO和软滞后的来源。 <div>
+<div> 黑洞候选者、Swift J1727.8-1613、能谱分析、准周期振荡、软滞后<br />
+<br />
+黑洞候选者Swift J1727.8-1613是近期发现的一个明亮的瞬变物体，利用NICER和NuSTAR联合数据，研究了其在0.5-79 keV的广泛能量范围内的特性。在0.5-10 keV的NICER数据中观察到了0.89±0.01 Hz的显著C型准周期振荡（QPO）及其谐波。有趣的是，在更低的能量范围内，谐波变得较弱（0.5-1和1-3 keV）。同时，在NICER / X射线定时仪观测中首次发现了硬（3-10 keV）和软（0.5-3 keV）波段光子之间在QPO频率处的软时间滞后为0.014±0.001 s。这表明该双星系统中的吸积盘倾斜角可能较高。从详细的能谱分析中，使用relxill反射模型发现了源的盘倾斜角约为85°。文章讨论了通过能谱分析得出的吸积流配置如何帮助我们理解此源中QPO和软滞后的起源。<br /><br />总结：黑洞候选者Swift J1727.8-1613在0.5-79 keV的广泛能量范围内观测到了C型准周期振荡和其谐波，以及硬和软光子之间的软时间滞后，这表明了源的盘倾斜角可能较高。能谱分析揭示了吸积流配置，有助于我们理解QPO和软滞后的来源。 <div>
 The recently discovered bright transient black hole candidate Swift J1727.8-1613 is studied in a broad energy range (0.5–79 keV) using combined NICER and NuSTAR data taken on 2023 August 29. A prominent type C quasiperiodic oscillation (QPO) at 0.89 ± 0.01 Hz with its harmonic was observed in NICER data of 0.5–10 keV. Interestingly, the harmonic becomes weaker in the lower energy bands (0.5–1 and 1–3 keV). We also report the first detection of a soft time lag of 0.014 ± 0.001 s at the QPO frequency between harder (3–10 keV) and softer (0.5–3 keV) band photons observed with the NICER/X-ray timing instrument. This indicates that the inclination of the accretion disk in the binary system might be high. From the detailed spectral analysis with the relxill reflection model, we found the disk inclination angle of the source to be ∼85°. We discuss how the accretion flow configuration inferred from spectral analysis can help us understand the origin of QPOs and soft lag in this source.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -61,12 +58,11 @@ The recently discovered bright transient black hole candidate Swift J1727.8-1613
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d90</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d90</guid>
 <content:encoded><![CDATA[
-<div> Hubble constant, gravitational-wave sources, dark sirens, cross-correlation technique, GWTC-3<br>
-总结:<br>
+<div> Hubble constant, gravitational-wave sources, dark sirens, cross-correlation technique, GWTC-3<br />
+总结:<br />
 文章利用交叉相关技术推断宇宙的哈勃常数(H0)，使用来自第三个GW瞬变目录(GWTC-3)和光度星系调查2MPZ、WISE-SuperCOSMOS的引力波(GW)源暗信号(暗灵音)，并结合来自GW170817的明亮灵音测量的H0。只使用暗灵音的H0后验因为定位良好的GW源数量较少而信息含量不足。使用八个定位良好的暗灵音和具有电磁对应的双中子星GW170817，经过边缘化处理，在物质密度和GW偏差参数上获得H0的值为 km s−1 Mpc−1 (中值和68.3%的双尾区间)。这一测量主要受明亮灵音测量的影响，暗灵音的任何约束都没有统计学显著性。未来，随着更多定位良好的GW事件，对宇宙膨胀历史的约束将会得到改善。 <div>
 We apply the cross-correlation technique to infer the Hubble constant (H0) of the Universe using gravitational-wave (GW) sources without electromagnetic counterparts (dark sirens) from the third GW Transient Catalog (GWTC-3) and the photometric galaxy surveys 2MPZ and WISE-SuperCOSMOS, and combine these with the bright siren measurement of H0 from GW170817. The posterior on H0 with only dark sirens is uninformative due to the small number of well-localized GW sources. Using the eight well-localized dark sirens and the binary neutron star GW170817 with electromagnetic counterpart, we obtain a value of the Hubble constant km s−1 Mpc−1 (median and 68.3% equal-tailed interval) after marginalizing over the matter density and the GW bias parameters. This measurement is mostly driven by the bright siren measurement, and any constraint from dark sirens is not statistically significant. In the future, with more well-localized GW events, the constraints on expansion history will improve.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -74,14 +70,12 @@ We apply the cross-correlation technique to infer the Hubble constant (H0) of th
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e13</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e13</guid>
 <content:encoded><![CDATA[
-<div> 白矮星，Type Ia 超新星，He-accreting ONe WDs，MESA，Mch<br>
-白矮星通过质量吸积产生 Type Ia 超新星，本文研究了氦吸积的ONe白矮星接近钱德拉塞卡极限时外层元素丰度的演变。研究发现，在氦层下会积累富含CO的外壳，并在CO的点燃过程中将碳转化为硅。CO燃烧产生的硅数量与吸积速率强烈负相关。当ONe白矮星接近钱德拉塞卡极限时，可能发生吸积诱导坍缩，形成中子星。<br><br>总结: <br>白矮星通过质量吸积产生 Type Ia 超新星；研究了He-accreting ONe WDs的演变过程；发现CO燃烧产生的硅数量与吸积速率负相关；ONe白矮星接近极限时可能发生吸积诱导坍缩，形成中子星。 <div>
+<div> 白矮星，Type Ia 超新星，He-accreting ONe WDs，MESA，Mch<br />
+白矮星通过质量吸积产生 Type Ia 超新星，本文研究了氦吸积的ONe白矮星接近钱德拉塞卡极限时外层元素丰度的演变。研究发现，在氦层下会积累富含CO的外壳，并在CO的点燃过程中将碳转化为硅。CO燃烧产生的硅数量与吸积速率强烈负相关。当ONe白矮星接近钱德拉塞卡极限时，可能发生吸积诱导坍缩，形成中子星。<br /><br />总结: <br />白矮星通过质量吸积产生 Type Ia 超新星；研究了He-accreting ONe WDs的演变过程；发现CO燃烧产生的硅数量与吸积速率负相关；ONe白矮星接近极限时可能发生吸积诱导坍缩，形成中子星。 <div>
 It has been widely accepted that mass-accreting white dwarfs (WDs) are the progenitors of Type Ia supernovae (SNe) or electron-capture supernovae. Previous work has shown that the accretion rate could affect the elemental abundance on the outer layers of CO WDs, and therefore affect the observational characteristics after they exploded as SNe Ia. However, it has not been well studied how elemental abundance changes on the outer layers of He-accreting ONe WDs as they approach the Chandrasekhar mass limit. In this paper, we investigated the evolution of He-accreting ONe WDs with MESA. We found that a CO-rich mantle will accumulate beneath the He layers resulting from the He burning, after which the ignition of the CO-rich mantle could transform carbon into silicon (Si). The amount of Si produced by carbon burning is strongly anticorrelated with the accretion rate. As the ONe WD nearly approaches the Chandrasekhar mass limit (Mch) through accretion, it is likely to undergo accretion-induced collapse, resulting in the formation of a neutron star.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The A2Π–X2Σ+ Band System of ScO for M-type Star Spectral Analysis</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7af1</link>
@@ -11772,78 +11766,6 @@ Decameter hectometric (DH; 1–14 MHz) type IV radio bursts are produced by flar
 总结:
 Parker Solar Probe观测在最近的太阳活动极小期间，使用Wang-Sheeley-Arge (WSA)日冕模型进行校准，该模型是欧洲日球层预报信息资源(EUHFORIA)的一部分。通过PSP观测，校准了WSA模型的四个常数，并将更新后的WSA边界条件同PSP观测进行对比，并在整个日球层中传播这些条件。通过对地球的预测结果来评估模型的性能，发现接近太阳的模型配置与提供更好地球预测的配置不同。原因可能是PSP记录的快速太阳风速度的稀缺性，并且还可能与EUHFORIA的日球层中缺少的物理过程以及WSA关系与日球层MHD域耦合可能需要全面重新制定有关。 <div>
 We employ Parker Solar Probe (PSP) observations during the latest solar minimum period (years 2018–2021) to calibrate the version of the Wang–Sheeley–Arge (WSA) coronal model used in the European Heliospheric Forecasting Information Asset (EUHFORIA). WSA provides a set of boundary conditions at 0.1 au necessary to initiate the heliospheric part of EUHFORIA, namely, the domain extending beyond the solar Alfvénic point. To calibrate WSA, we observationally constrain four constants in the WSA semiempirical formula based on PSP observations. We show how the updated (after the calibration) WSA boundary conditions at 0.1 au are compared to PSP observations at similar distances, and we further propagate these conditions in the heliosphere according to EUHFORIA’s magnetohydrodynamic (MHD) approach. We assess the predictions at Earth based on the dynamic time-warping technique. Our findings suggest that, for the period of interest, the WSA configurations that resembled optimally the PSP observations close to the Sun were different from the ones needed to provide better predictions at Earth. One reason for this discrepancy can be attributed to the scarcity of fast solar wind velocities recorded by PSP. The calibration of the model was performed based on unexpectedly slow velocities that did not allow us to achieve generally and globally improved solar wind predictions compared to older studies. Other reasons can be attributed to missing physical processes from the heliospheric part of EUHFORIA but also the fact that the currently employed WSA relationship, as coupled to the heliospheric MHD domain, may need a global reformulation beyond that of just updating the four constant factors that were taken into account in this study.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing Thermal Electrons in Gamma-Ray Burst Afterglows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5443</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5443</guid>
-<content:encoded><![CDATA[
-<div> 电子加速，粒子模拟，伽马射线暴余辉，热电子，辐射机制<br />
-<br />
-研究发现，伽马射线暴余辉中的电子加速不符合纯幂律分布，还有额外的低能“热”部分占据了相当大的能量比例。通过对热电子对伽马射线暴余辉的影响进行研究，可以深入了解粒子加速机制。研究解决了电子能量空间中的连续方程，推导了多波段余辉，并包含了包括辐射、自吸收、自康普顿散射和伽马-伽马湮灭等过程。首先，由于电子冷却，时间和能谱指数之间存在正相关性。此外，热电子导致多波段上同时出现能谱和时间指数的非单调变化，这些可以被2.5米广域调查望远镜和维拉·鲁宾天文台空间和时间遗产调查单独记录。热电子也可以通过光学（与维拉·鲁宾天文台）和X射线（与微通道X射线望远镜）波段的余辉光谱进行诊断。最后，我们使用蒙特卡洛模拟得到了软和硬X射线峰值通量比（RX）的分布，以及软X射线和光学光曲线峰值时间之间的时间延迟（Δt）的分布。热电子显著提高了RX和Δt的上限。因此，具有热电子的伽马射线暴余辉的分布在RX-Δt平面上更加分散。<br /><br />总结: 电子加速不符合幂律分布，热电子对余辉造成影响，同时影响能谱和时间指数，LSST和微通道X射线望远镜可以用于记录这些变化，热电子导致RX和Δt的上限提高。 <div>
-Particle-in-cell simulations have unveiled that shock-accelerated electrons do not follow a pure power-law distribution, but have an additional low-energy “thermal” part, which owns a considerable portion of the total energy of the electrons. Investigating the effects of these thermal electrons on gamma-ray burst (GRB) afterglows may provide valuable insights into the particle acceleration mechanisms. We solve the continuity equation of electrons in energy space, from which multiwavelength afterglows are derived by incorporating processes including synchrotron radiation, synchrotron self-absorption, synchrotron self-Compton scattering, and γ–γ annihilation. First, there is an underlying positive correlation between the temporal and spectral indices due to the cooling of electrons. Moreover, thermal electrons result in simultaneous nonmonotonic variations of both the spectral and temporal indices at multiple wavelengths, which could be individually recorded by the 2.5 m Wide Field Survey Telescope and Vera Rubin Observatory Legacy Survey of Space and Time (LSST). The thermal electrons could also be diagnosed using afterglow spectra from synergistic observations in the optical (with LSST) and X-ray (with the Microchannel X-ray Telescope on board the Space Variable Objects Monitor) bands. Finally, we use Monte Carlo simulations to obtain the distribution of the peak flux ratio (RX) between the soft and hard X-rays, and of the time delay (Δt) between the peak times of the soft X-ray and optical light curves. The thermal electrons significantly raise the upper limits of both RX and Δt. Thus, the distribution of GRB afterglows with thermal electrons is more scattered in the RX−Δt plane.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Stellar Spin-down in Post-mass-transfer Binary Systems</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54be</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54be</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 自转速度、磁致减速、双星演化、质量传递、磁致制动方案
-总结:
-受到后质量传递系统中吸积星自转速度测量的启发，我们研究了磁致制动对双星演化过程中各个恒星自转速度减缓的影响。我们首先计算了潮汐力是否足够强大来同步轨道，从而影响了恒星的自转减速和轨道分离。我们应用了四种磁致制动方案来减小整个双星演化模拟中两颗恒星的自转角动量。我们的研究发现，尽管磁致制动导致吸积星持续自转减速，但当捐赠者开始向吸积星传递物质时，吸积星可以快速旋转至临界自转速率。质量传递后，磁致制动对恒星角动量的演化变得更加重要。因此，后质量传递吸积星可以作为观察磁致制动方案如何将恒星从临界自转速率减速的宝贵试验平台。吸积星的自转速度结合其质量，可以提供自质量传递停止后的年龄信息。通过将模型与观测数据进行比较，发现Garraffo等人的磁致制动方案更符合后质量传递吸积星的自转数据。 <div>
-Motivated by measurements of the rotation speed of accretor stars in post-mass-transfer (post-MT) systems, we investigate how magnetic braking affects the spin-down of individual stars during binary evolution with the MESAbinary module. Unlike the conventional assumption of tidal synchronization coupled with magnetic braking in binaries, we first calculate whether tides are strong enough to synchronize the orbit. Subsequently, this influences the spin-down of stars and the orbital separation. In this study, we apply four magnetic braking prescriptions to reduce the spin angular momentum of the two stars throughout the entire binary evolution simulation. Our findings reveal that despite magnetic braking causing continuous spin-down of the accretor, when the donor begins to transfer material onto the accretor, the accretor can rapidly spin up to its critical rotation rate. After MT, magnetic braking becomes more important in affecting the angular momentum evolution of the stars. Post-MT accretor stars thus serve as a valuable test bed for observing how the magnetic braking prescriptions operate in spinning down stars from their critical rotation, including the saturation regimes of the magnetic braking. The rotation rate of the accretor star, combined with its mass, could provide age information since the cessation of MT. By comparing the models against observations, the magnetic braking prescription by Garraffo et al. is found to better align with the rotation data of post-MT accretors.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Energetic Electrons Accelerated and Trapped in a Magnetic Bottle above a Solar Flare Arcade</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad531a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad531a</guid>
-<content:encoded><![CDATA[
-<div> 磁瓶结构，带电粒子，太阳耀斑，多波段观测，宏观磁流体和粒子建模
-
-总结:<br /><br />本研究通过多波段观测和数据驱动的宏观磁流体和粒子建模，揭示了在真实的耀斑几何结构中存在磁瓶结构。观测结果显示，磁瓶结构不仅具有磁场强度的局部最小值，还引起了等离子体的急剧减速。这一结构与上方环顶区域紧凑的硬X射线源和横跨耀斑拱的扩展微波源位置吻合。空间分辨谱分析表明，非热电子高度聚集在这一区域。模型还返回了与观测相匹配的合成发射特征。研究结果表明，由于湍流的作用，高能电子受困在磁瓶区域内，只有很小一部分得以逃逸。这些电子主要通过等离子体压缩加速，并通过费米机制在快模终止激波加速。我们的结果为磁瓶结构成为耀斑中主要的电子加速场提供了坚实的依据。同时，它还为理解早前报道的进入星际空间的小型耀斑加速电子群体提供了新的见解。 <div>
-Where and how flares efficiently accelerate charged particles remains an unresolved question. Recent studies revealed that a “magnetic bottle” structure, which forms near the bottom of a large-scale reconnection current sheet above the flare arcade, is an excellent candidate for confining and accelerating charged particles. However, further understanding its role requires linking the various observational signatures to the underlying coupled plasma and particle processes. Here we present the first study combining multiwavelength observations with data-informed macroscopic magnetohydrodynamics and particle modeling in a realistic eruptive flare geometry. The presence of an above-the-loop-top magnetic bottle structure is strongly supported by the observations, which feature not only a local minimum of magnetic field strength but also abruptly slowing plasma downflows. It also coincides with a compact above-the-loop-top hard X-ray source and an extended microwave source that bestrides the flare arcade. Spatially resolved spectral analysis suggests that nonthermal electrons are highly concentrated in this region. Our model returns synthetic emission signatures that are well matched to the observations. The results suggest that the energetic electrons are strongly trapped in the magnetic bottle region due to turbulence, with only a small fraction managing to escape. The electrons are primarily accelerated by plasma compression and facilitated by a fast-mode termination shock via the Fermi mechanism. Our results provide concrete support for the magnetic bottle as the primary electron acceleration site in eruptive solar flares. They also offer new insights into understanding the previously reported small population of flare-accelerated electrons entering interplanetary space.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Kilonova Spectral Inverse Modelling with Simulation-based Inference: An Amortized Neural Posterior Estimation Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c7</guid>
-<content:encoded><![CDATA[
-<div> 推断方法, 模拟, 神经网络, 合并天体, 天体物理学<br />
-<br /> 
-推断方法的复杂性及计算成本是对后验近似的可靠性和统计可靠性的挑战。本文介绍了一种新颖的方法，使用KilonovaNet生成的模拟数据进行基于模拟的推断。我们的方法利用了ANPE的准即时推断时间，通过覆盖诊断和后验预测检查工具来验证后验近似的可靠性。我们还通过AT 2017gfo的真实观测数据进行了测试，证明了与之前基于似然方法的结果一致，同时将推断时间缩短到几秒钟。ANPE产生的推断结果似乎是保守和可靠的，为可测试和更高效的合并天体参数推断铺平了道路。 <br /><br />总结: 推断方法挑战，新方法使用模拟数据进行推断，验证了可靠性，测试结果一致且高效。 <div>
-Kilonovae represent a category of astrophysical transients, identifiable as the electromagnetic (EM) counterparts associated with the coalescence events of binary systems comprising neutron stars and neutron star–black hole pairs. They act as probes for heavy-element nucleosynthesis in astrophysical environments. These studies rely on an inference of the physical parameters (e.g., ejecta mass, velocity, composition) that describe kilonovae-based on EM observations. This is a complex inverse problem typically addressed with sampling-based methods such as Markov Chain Monte Carlo or nested sampling algorithms. However, repeated inferences can be computationally expensive, due to the sequential nature of these methods. This poses a significant challenge to ensuring the reliability and statistical validity of the posterior approximations and, thus, the inferred kilonova parameters themselves. We present a novel approach: simulation-based inference using simulations produced by KilonovaNet. Our method employs an ensemble of amortized neural posterior estimation (ANPE) with an embedding network to directly predict posterior distributions from simulated spectral energy distributions. We take advantage of the quasi-instantaneous inference time of ANPE to demonstrate the reliability of our posterior approximations using diagnostics tools, including coverage diagnostic and posterior predictive checks. We further test our model with real observations from AT 2017gfo, the only kilonova with multimessenger data, demonstrating agreement with previous likelihood-based methods while reducing inference time down to a few seconds. The inference results produced by ANPE appear to be conservative and reliable, paving the way for testable and more efficient kilonova parameter inference.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Milky Way-est: Cosmological Zoom-in Simulations with Large Magellanic Cloud and Gaia–Sausage–Enceladus Analogs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad554c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad554c</guid>
-<content:encoded><![CDATA[
-<div> Milky Way-est, simulations, dark matter, subhalos, LMC orbit
-<br /><br />总结:
-本研究通过20个类似于银河系的宿主暗物质的冷暗物质缩放模拟，筛选出符合银河系暗物质质量、浓度、近期和早期进入的分支星系大麦哲伦云和Gaia–Sausage–Enceladus的宿主系统。这些宿主系统比未包含大麦哲伦云和Gaia–Sausage–Enceladus分支星系的系统有着更多的次星系，尤其是在内部区域。同时，研究发现Gaia–Sausage–Enceladus分支星系对目前的银河系次星系数量贡献不大。这些结果有助于我们更好地理解银河系的暗物质结构和次星系数量，并对目前仅能在银河系中测量的一系列数据进行解释。 <div>
-We present Milky Way-est, a suite of 20 cosmological cold-dark-matter-only zoom-in simulations of Milky Way (MW)-like host halos. Milky Way-est hosts are selected such that they (i) are consistent with the MW’s measured halo mass and concentration, (ii) accrete a Large Magellanic Cloud (LMC)-like (≈1011M⊙) subhalo within the last 2 Gyr on a realistic orbit, placing them near 50 kpc from the host center at z ≈ 0, and (iii) undergo a >1:5 sub-to-host halo mass ratio merger with a Gaia–Sausage–Enceladus (GSE)-like system at early times (0.67 < z < 3). Hosts satisfying these LMC and GSE constraints constitute <1% of all halos in the MW’s mass range, and their total masses grow rapidly at late times due to LMC analog accretion. Compared to hosts of a similar final halo mass that are not selected to include LMC and GSE analogs, Milky Way-est hosts contain 22% more subhalos with present-day virial masses above 108M⊙ throughout the virial radius, on average. This enhancement reaches ≈80% in the inner 100 kpc and is largely, if not entirely, due to LMC-associated subhalos. These systems also induce spatial anisotropy in Milky Way-est subhalo populations, with ≈60% of the total subhalo population within 100 kpc found in the current direction of the LMC. Meanwhile, we find that GSE-associated subhalos do not significantly contribute to present-day Milky Way-est subhalo populations. These results provide context for our Galaxy’s dark matter structure and subhalo population and will help interpret a range of measurements that are currently only possible in the MW.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Laboratory Benchmark of n ≥ 4 Dielectronic Recombination Satellites of Fe xvii</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad571d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad571d</guid>
-<content:encoded><![CDATA[
-<div> Fe xvii, dielectronic recombination, cross sections, electron-impact excitation, experimental benchmark
-
-这篇论文研究了Fe xvii的双电子复合(DR)卫星线的截面，并将预测结果与在电子束离子阱中单能量激发的Fe xvii共振的实验截面进行了基准计算。同时还扩展了实验数据集中所有已解析的DR和直接电子撞击激发(DE)通道的基准计算范围，特别是Fe xvii的n ≥ 4 DR共振，补充了以前对n = 3通道的研究。在使用与以前研究中相同的方法时，我们发现对于较高n复合物的DR和DE绝对截面的预测与实验结果有相当大的出入。然而，通过一种方法，我们将预测的截面与电子束能量的扩展和实验的光子能量分辨率双重卷积，实现了与实验结果约10%的一致性。然后，我们从实验和理论截面计算了速率系数，发现与OPEN-ADAS原子数据库中的速率在2σ内有一般一致性。 <br /><br />总结: Fe xvii的DR卫星线和DE通道的截面进行了实验和理论基准计算，通过双重卷积方法取得了与实验结果约10%的一致性，并且从实验和理论截面计算的速率系数与OPEN-ADAS原子数据库中的速率大致一致。 <div>
-We calculated cross sections for the dielectronic recombination (DR) satellite lines of Fe xvii and benchmarked our predictions with experimental cross sections of Fe xvii resonances that were monoenergetically excited in an electron-beam ion trap. We extend the benchmark to all resolved DR and direct electron-impact excitation (DE) channels in the experimental data set, specifically the n ≥ 4 DR resonances of Fe xvii, complementing earlier investigations of n = 3 channels. Our predictions for the DR and DE absolute cross sections for the higher n complexes disagree considerably with experimental results when using the same methods as in previous works. However, we achieve agreement within ∼10% of the experimental results by an approach whereby we doubly convolve the predicted cross sections with both the spread of the electron-beam energy and the photon energy resolution of our experiment. We then calculated rate coefficients from the experimental and theoretical cross sections, finding general agreement within 2σ with the rates found in the OPEN-ADAS atomic database.
 ]]></content:encoded>
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
