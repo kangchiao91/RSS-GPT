@@ -4,6 +4,83 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>A JWST Medium-resolution MIRI Spectrum and Models of the Type Ia Supernova 2021aefx at +415 days</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6608</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6608</guid>
+<content:encoded><![CDATA[
+<div> 关键词: JWST, SN Ia, 光谱分析, 铁类星云, 白矮星<br>
+总结: <br>
+这篇文章使用JWST MIRI中分辨率光谱仪对SN 2021aefx进行了观测，并结合之前的观测数据，进行了第一次JWST时间序列分析。通过对[Co iii] 11.888 μm特征的分析追踪了56Co的衰变。作者分析了光谱、线型和其演化，并使用偏心延迟爆炸模型进行了拟合。他们发现最佳拟合为白矮星中心密度ρc = 0.9−1.1 × 109 g cm−3，白矮星质量MWD = 1.33–1.35 M⊙，白矮星磁场≈106 G，以及一个约0.5 M⊙的偏心爆燃模型。文章还讨论了电子俘获核心和正电子沉积的影响，以及对光谱特征的改变。最后，分析显示这次超新星爆发是由单个点近中心点燃，排除了多点偏离中心的点燃模型。 <div>
+We present a JWST MIRI medium-resolution spectrometer spectrum (5–27 μm) of the Type Ia supernova (SN Ia) SN 2021aefx at +415 days past B-band maximum. The spectrum, which was obtained during the iron-dominated nebular phase, has been analyzed in combination with previous JWST observations of SN 2021aefx to provide the first JWST time series analysis of an SN Ia. We find that the temporal evolution of the [Co iii] 11.888 μm feature directly traces the decay of 56Co. The spectra, line profiles, and their evolution are analyzed with off-center delayed-detonation models. Best fits were obtained with white dwarf (WD) central densities of ρc = 0.9−1.1 × 109 g cm−3, a WD mass of MWD = 1.33–1.35 M⊙, a WD magnetic field of ≈106 G, and an off-center deflagration-to-detonation transition at ≈0.5 M⊙ seen opposite to the line of sight of the observer (−30°). The inner electron capture core is dominated by energy deposition from γ-rays, whereas a broader region is dominated by positron deposition, placing SN 2021aefx at +415 days in the transitional phase of the evolution to the positron-dominated regime. The formerly “flat-tilted” profile at 9 μm now has a significant contribution from [Ni iv], [Fe ii], and [Fe iii] and less from [Ar iii], which alters the shape of the feature as positrons mostly excite the low-velocity Ar. Overall, the strength of the stable Ni features in the spectrum is dominated by positron transport rather than the Ni mass. Based on multidimensional models, our analysis is consistent with a single-spot, close-to-central ignition with an indication of a preexisting turbulent velocity field and excludes a multiple-spot, off-center ignition.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Event-horizon-scale Imaging of M87* under Different Assumptions via Deep Generative Image Priors</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad737f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad737f</guid>
+<content:encoded><![CDATA[
+<div> Event Horizon Telescope, M87, black hole, Bayesian imaging, priors<br>
+<br>
+本研究基于事件视界望远镜观测到的M87*图像，提出了一种构建多种不同偏好的先验的框架。这些先验可以是弱先验（仅强调基本自然图像统计）或强先验（对黑洞结构做出假设）。该框架使用基于得分的先验的贝叶斯推断，这些先验源自于可以学习复杂图像分布的深度生成模型。借助我们的贝叶斯成像方法和复杂的数据驱动先验，我们可以评估重建图像的视觉特征和不确定性，以及它们如何取决于先验的选择。除了模拟数据外，我们还对真实的EHT M87*数据进行了图像重建，并讨论了选择先验如何影响恢复的特征。 <br><br>总结: <br>该研究提出了一种灵活设计不同偏好的图像重建先验的框架，使用贝叶斯推断和数据驱动的先验技术对黑洞图像进行重建，并讨论了先验选择对重建图像的影响。 <div>
+Reconstructing images from the Event Horizon Telescope (EHT) observations of M87*, the supermassive black hole at the center of the galaxy M87, depends on a prior to impose desired image statistics. However, given the impossibility of directly observing black holes, there is no clear choice for a prior. We present a framework for flexibly designing a range of priors, each bringing different biases to the image reconstruction. These priors can be weak (e.g., impose only basic natural-image statistics) or strong (e.g., impose assumptions of black hole structure). Our framework uses Bayesian inference with score-based priors, which are data-driven priors arising from a deep generative model that can learn complicated image distributions. Using our Bayesian imaging approach with sophisticated data-driven priors, we can assess how visual features and uncertainty of reconstructed images change depending on the prior. In addition to simulated data, we image the real EHT M87* data and discuss how recovered features are influenced by the choice of prior.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Analysis of the Emission and Morphology of the Pulsar Wind Nebula Candidate HAWC J2031+415</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad782a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad782a</guid>
+<content:encoded><![CDATA[
+<div> TeV γ-ray source, HEGRA, HAWC J2031+415, PSR J2032+4127, pulsar wind nebula
+<br>
+这篇文章研究了TeV J2032+4130，一个高能γ射线源，发现它实际上是一个脉冲星风星雲，由PSR J2032+4127驱动。研究发现HAWC J2031+415其实是一个γ射线双星系统，包含脉冲星PSR J2032+4127和其伴星MT91 213。研究团队结合了射电、X射线和γ射线的数据进行了多波段分析，最终确认了这一发现。2017年他们也观测到了这一系统的近日点。总结: 这项研究确认了TeV J2032+4130源实际上是由PSR J2032+4127驱动的脉冲星风星雲，而HAWC J2031+415是一个γ射线双星系统，这一发现得到了多波段数据的验证。 <div>
+The first TeV γ-ray source with no lower energy counterparts, TeV J2032+4130, was discovered by HEGRA. It appears in the third HAWC catalog as 3HWC J2031+415 and it is a bright TeV γ-ray source whose emission has previously been resolved as two sources: HAWC J2031+415 and HAWC J2030+409. While HAWC J2030+409 has since been associated with the Fermi Large Area Telescope Cygnus Cocoon, no such association for HAWC J2031+415 has yet been found. In this work, we investigate the spectrum and energy-dependent morphology of HAWC J2031+415. We associate HAWC J2031+415 with a γ-ray binary system containing the pulsar PSR J2032+4127 and its companion MT91 213. We study HAWC data to observe their periastron in 2017. Additionally, we perform a combined multiwavelength analysis using radio, X-ray, and γ-ray emission. We conclude that HAWC J2031+415 and, by extension, TeV J2032+4130 are most probably a pulsar wind nebula powered by PSR J2032+4127.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Detection of QPO Soft Lag during the Outburst of Swift J1727.8-1613: Estimation of Intrinsic Parameters from Spectral Study</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a76</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a76</guid>
+<content:encoded><![CDATA[
+<div> 黑洞候选者、Swift J1727.8-1613、能谱分析、准周期振荡、软滞后<br>
+<br>
+黑洞候选者Swift J1727.8-1613是近期发现的一个明亮的瞬变物体，利用NICER和NuSTAR联合数据，研究了其在0.5-79 keV的广泛能量范围内的特性。在0.5-10 keV的NICER数据中观察到了0.89±0.01 Hz的显著C型准周期振荡（QPO）及其谐波。有趣的是，在更低的能量范围内，谐波变得较弱（0.5-1和1-3 keV）。同时，在NICER / X射线定时仪观测中首次发现了硬（3-10 keV）和软（0.5-3 keV）波段光子之间在QPO频率处的软时间滞后为0.014±0.001 s。这表明该双星系统中的吸积盘倾斜角可能较高。从详细的能谱分析中，使用relxill反射模型发现了源的盘倾斜角约为85°。文章讨论了通过能谱分析得出的吸积流配置如何帮助我们理解此源中QPO和软滞后的起源。<br><br>总结：黑洞候选者Swift J1727.8-1613在0.5-79 keV的广泛能量范围内观测到了C型准周期振荡和其谐波，以及硬和软光子之间的软时间滞后，这表明了源的盘倾斜角可能较高。能谱分析揭示了吸积流配置，有助于我们理解QPO和软滞后的来源。 <div>
+The recently discovered bright transient black hole candidate Swift J1727.8-1613 is studied in a broad energy range (0.5–79 keV) using combined NICER and NuSTAR data taken on 2023 August 29. A prominent type C quasiperiodic oscillation (QPO) at 0.89 ± 0.01 Hz with its harmonic was observed in NICER data of 0.5–10 keV. Interestingly, the harmonic becomes weaker in the lower energy bands (0.5–1 and 1–3 keV). We also report the first detection of a soft time lag of 0.014 ± 0.001 s at the QPO frequency between harder (3–10 keV) and softer (0.5–3 keV) band photons observed with the NICER/X-ray timing instrument. This indicates that the inclination of the accretion disk in the binary system might be high. From the detailed spectral analysis with the relxill reflection model, we found the disk inclination angle of the source to be ∼85°. We discuss how the accretion flow configuration inferred from spectral analysis can help us understand the origin of QPOs and soft lag in this source.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Cross-correlating Dark Sirens and Galaxies: Constraints on H 0 from GWTC-3 of LIGO–Virgo–KAGRA</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d90</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d90</guid>
+<content:encoded><![CDATA[
+<div> Hubble constant, gravitational-wave sources, dark sirens, cross-correlation technique, GWTC-3<br>
+总结:<br>
+文章利用交叉相关技术推断宇宙的哈勃常数(H0)，使用来自第三个GW瞬变目录(GWTC-3)和光度星系调查2MPZ、WISE-SuperCOSMOS的引力波(GW)源暗信号(暗灵音)，并结合来自GW170817的明亮灵音测量的H0。只使用暗灵音的H0后验因为定位良好的GW源数量较少而信息含量不足。使用八个定位良好的暗灵音和具有电磁对应的双中子星GW170817，经过边缘化处理，在物质密度和GW偏差参数上获得H0的值为 km s−1 Mpc−1 (中值和68.3%的双尾区间)。这一测量主要受明亮灵音测量的影响，暗灵音的任何约束都没有统计学显著性。未来，随着更多定位良好的GW事件，对宇宙膨胀历史的约束将会得到改善。 <div>
+We apply the cross-correlation technique to infer the Hubble constant (H0) of the Universe using gravitational-wave (GW) sources without electromagnetic counterparts (dark sirens) from the third GW Transient Catalog (GWTC-3) and the photometric galaxy surveys 2MPZ and WISE-SuperCOSMOS, and combine these with the bright siren measurement of H0 from GW170817. The posterior on H0 with only dark sirens is uninformative due to the small number of well-localized GW sources. Using the eight well-localized dark sirens and the binary neutron star GW170817 with electromagnetic counterpart, we obtain a value of the Hubble constant km s−1 Mpc−1 (median and 68.3% equal-tailed interval) after marginalizing over the matter density and the GW bias parameters. This measurement is mostly driven by the bright siren measurement, and any constraint from dark sirens is not statistically significant. In the future, with more well-localized GW events, the constraints on expansion history will improve.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>He-accreting Oxygen–Neon White Dwarfs and Accretion-induced Collapse Events</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e13</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e13</guid>
+<content:encoded><![CDATA[
+<div> 白矮星，Type Ia 超新星，He-accreting ONe WDs，MESA，Mch<br>
+白矮星通过质量吸积产生 Type Ia 超新星，本文研究了氦吸积的ONe白矮星接近钱德拉塞卡极限时外层元素丰度的演变。研究发现，在氦层下会积累富含CO的外壳，并在CO的点燃过程中将碳转化为硅。CO燃烧产生的硅数量与吸积速率强烈负相关。当ONe白矮星接近钱德拉塞卡极限时，可能发生吸积诱导坍缩，形成中子星。<br><br>总结: <br>白矮星通过质量吸积产生 Type Ia 超新星；研究了He-accreting ONe WDs的演变过程；发现CO燃烧产生的硅数量与吸积速率负相关；ONe白矮星接近极限时可能发生吸积诱导坍缩，形成中子星。 <div>
+It has been widely accepted that mass-accreting white dwarfs (WDs) are the progenitors of Type Ia supernovae (SNe) or electron-capture supernovae. Previous work has shown that the accretion rate could affect the elemental abundance on the outer layers of CO WDs, and therefore affect the observational characteristics after they exploded as SNe Ia. However, it has not been well studied how elemental abundance changes on the outer layers of He-accreting ONe WDs as they approach the Chandrasekhar mass limit. In this paper, we investigated the evolution of He-accreting ONe WDs with MESA. We found that a CO-rich mantle will accumulate beneath the He layers resulting from the He burning, after which the ignition of the CO-rich mantle could transform carbon into silicon (Si). The amount of Si produced by carbon burning is strongly anticorrelated with the accretion rate. As the ONe WD nearly approaches the Chandrasekhar mass limit (Mch) through accretion, it is likely to undergo accretion-induced collapse, resulting in the formation of a neutron star.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The A2Π–X2Σ+ Band System of ScO for M-type Star Spectral Analysis</title>
