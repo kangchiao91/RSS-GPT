@@ -4,6 +4,70 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Exploring Waveform Variations among Neutron Star Ray-tracing Codes for Complex Emission Geometries</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7255</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7255</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Pulse profile modeling (PPM), NICER, ray-tracing, neutron star, test problems
+
+总结:
+通过脉冲轮廓建模技术（PPM），利用来自中子星内部成分探测器（NICER）的数据，采用对热点进行相对论光线追踪，推断了旋转功率毫秒脉冲星的质量、半径和几何参数。研究对更复杂的热点几何形状进行了验证，结果表明计算波形的准确性对当前NICER数据集的分析足够高。然而，研究也发现了一些极端配置，可能需要额外的注意。 <br><br>总结: Pulse profile modeling (PPM)通过NICER数据进行了验证，证实了计算波形的准确性，并指出了需要额外注意的极端配置。 <div>
+Pulse profile modeling (PPM), the technique used to infer mass, radius, and geometric parameters for rotation-powered millisecond pulsars using data from the Neutron Star Interior Composition Explorer (NICER), relies on relativistic ray-tracing of thermal X-ray photons from hot spots on the neutron star surface to the observer. To verify our ray-tracing codes we have in the past conducted cross tests for simple hot spot geometries, focusing primarily on the implementation of the spacetime model. In this paper, we present verification for test problems that explore the more complex hot spot geometries that are now being employed in the NICER PPM analyses. We conclude that the accuracy of our computed waveforms is in general sufficiently high for analyses of current NICER data sets. We have however identified some extreme configurations where extra care may be needed.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Systematic Search of Distant Superclusters with the Subaru Hyper Suprime-Cam Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad76ad</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad76ad</guid>
+<content:encoded><![CDATA[
+<div> 超团、宇宙演化、FoF算法、高红移、光度红移不确定性
+
+超团是研究星系演化的独特实验室，但现有超团目录多集中在红移z=0.7以下。本研究采用物理定义的超团概念，利用FoF算法在Subaru Hyper Suprime-Cam测绘数据中搜索了z=0.5-1.0的超团，并鉴定了1027平方度范围内的673个超团候选体。这些高红移超团通常由2到4个星系团组成，表明在年轻的宇宙中，引力束缚结构的极限。此外，研究了不同大尺度环境中的星系团和最亮星系团星系（BCG）的特性，发现与超团相关的星系团通常更丰富，但BCG的特性并未显示出明显的大尺度结构依赖性。比较了观测到的超团丰度与来自晕体光锥的模拟超团，发现光度红移的不确定性是影响超团检测性能的一个限制因素。<br><br>总结: 本研究使用FoF算法在高红移范围内鉴定了673个超团候选体，并发现了它们多由2到4个星系团组成，展示出了年轻宇宙中引力束缚结构的极限。另外，研究了不同大尺度环境中的星系团和BCG的特性，发现了一些有趣的结果，同时也指出了光度红移不确定性对超团检测性能的限制。 <div>
+Superclusters, encompassing environments across a wide range of overdensities, can be regarded as unique laboratories for studying galaxy evolution. Although numerous supercluster catalogs have been published, none of them goes beyond redshift z = 0.7. In this work, we adopt a physically motivated supercluster definition, requiring that superclusters should eventually collapse even in the presence of dark energy. Applying a friends-of-friends (FoF) algorithm to the CAMIRA cluster sample constructed using the Subaru Hyper Suprime-Cam survey data, we have conducted the first systematic search for superclusters at z = 0.5–1.0 and identified 673 supercluster candidates over an area of 1027 deg2. The FoF algorithm is calibrated by evolving N-body simulations to the far future to ensure high purity. We found that these high-z superclusters are mainly composed of two to four clusters, suggesting the limit of gravitationally bound structures in the younger Universe. In addition, we studied the properties of the clusters and brightest cluster galaxies (BCGs) residing in different large-scale environments. We found that clusters associated with superclusters are typically richer, but no apparent dependence of the BCG properties on large-scale structures is found. We also compared the abundance of observed superclusters with mock superclusters extracted from halo light cones, finding that photometric redshift uncertainty is a limiting factor in the performance of superclusters detection.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An Empirical Calibration of the Tip of the Red Giant Branch Distance Method in the Near Infrared. II. JWST NIRCam Wide Filters</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f8</guid>
+<content:encoded><![CDATA[
+<div> 关键词: TRGB, Hubble Space Telescope, James Webb Space Telescope, 红巨星分支, 确定距离<br>
+总结:本文介绍了红巨星分支顶端（TRGB）作为一个可以标准化的蜡烛，用来测量星系的距离。通过使用Hubble Space Telescope和James Webb Space Telescope的近红外摄像头，可以扩展到约50 Mpc的距离范围。此外，文章还提到了通过颜色来校正TRGB的亮度，推荐了适合不同精度要求的滤波器。与此相关的科学研究需要高精度的测量，可以使用特定滤波器对TRGB进行测量，并且远距离需要更长的观测时间。如果可以接受较低的精度或者需要较短的观测时间，还有其他滤波器可供选择。由于分辨率较低，不推荐使用某些滤波器进行精确的TRGB测量。 <div>
+The tip of the red giant branch (TRGB) is a standardizable candle, identifiable as the discontinuity at the bright extreme of the red giant branch (RGB) stars in color–magnitude diagram space. The TRGB-based distance method has been used to measure distances to galaxies out to D ≤ 20 Mpc with the Hubble Space Telescope F814W filter, and is an important rung in the distance ladder to measure the Hubble constant, H0. In the infrared (IR), the TRGB apparent magnitude ranges from 1–2 mag brighter than in the optical. Now with the James Webb Space Telescope (JWST), the feasible distance range of the TRGB method can reach ∼50 Mpc. However, the IR TRGB luminosity depends to varying degrees on stellar metallicity/age. Here we standardize the TRGB luminosity using stellar colors as a proxy for metallicity/age to derive color-based corrections for the JWST Near-Infrared Camera short-wavelength filters F090W, F115W, and F150W, and the long-wavelength filters F277W, F356W, and F444W. We provide recommended filters for distance measurements depending on the requisite precision. For science requiring high precision (≤1% in distance), we recommend measuring the TRGB in F090W versus F090W − F150W or F115W versus F115W − F277W with the caveat that even with JWST, long integration times will be necessary at farther distances. If lower precision (>1.5% in distance) can be tolerated, or if shorter integration times are desirable, we recommend measuring the TRGB in either F115W or F150W. We do not recommend F444W for precision TRGB measurements due to its lower angular resolution.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Impact of Mass-dependent Stochasticity at Cosmic Dawn</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b36</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b36</guid>
+<content:encoded><![CDATA[
+<div> 红移、紫外选取的星系、低质量黑暗物质暗物质晕、紫外光度函数、星际中的物理过程
+总结: 通过简单的分析模型，文章探讨了质量相关的随机性对高红移星系的影响。随着暗物质暗物质晕质量的降低，紫外光度函数呈现出增长的趋势，而星系的聚集程度下降。同时，文章强调了星系中星形成的突发性，对离子化光子预算和再电离过程的影响。文章还提出了一些预测，如在固定紫外光度下，星系的紫外斜率、星际发射线强度和巴尔默断裂将呈现宽广的变化范围。研究表明，质量相关的随机性模型成功地复现了观测到的紫外光度函数，但无法匹配观测到的最高红移处的光度函数，这暗示了在最早期的星系中存在其他物理过程增强了星形成效率。 <div>
+The James Webb Space Telescope is unveiling a surprising lack of evolution in the number densities of ultraviolet (UV)-selected galaxies at redshift z ≳ 10. At the same time, observations and simulations are providing evidence for highly bursty star formation in high-z galaxies, resulting in significant scatter in their UV luminosities. Galaxies in low-mass dark matter halos are expected to experience most stochasticity due to their shallow potential wells. Here, we explore the impact of a mass-dependent stochasticity using a simple analytical model. We assume that scatter in the MUV–Mh relation increases toward lower halo masses, following the decrease in halo escape velocity, , independent of redshift. Since low-mass halos are more dominant in the early universe, this model naturally predicts an increase in UV luminosity functions (LFs) at high redshifts compared to models without scatter. We make predictions for additional observables, which would be affected by stochasticity and could be used to constrain its amplitude, finding (i) galaxies are less clustered compared to the no-scatter scenario, with the difference increasing at higher-z; (ii) assuming that star-bursting galaxies dominate the ionizing photon budget implies reionization starts earlier and is more gradual compared to the no-scatter case; (iii) at fixed UV magnitude, galaxies should exhibit wide ranges of UV slopes, nebular emission line strengths, and Balmer breaks. Comparing to observations, the mass-dependent stochasticity model successfully reproduces the observed LFs up to z ∼ 12. However, the model cannot match the observed z ∼ 14 LFs, implying additional physical processes enhance star formation efficiency in the earliest galaxies.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling the Energy-dependent Broadband Variability in the Black Hole Transient GX 339–4 Using AstroSat and NICER</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d8b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d8b</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 黑洞X射线暂现体，AstroSat，NICER，光谱-时间分析，低/硬态
+
+总结: <br><br>这篇文章报道了对黑洞X射线暂现体GX 339-4的光谱-时间分析，使用了AstroSat和NICER的同时观测数据。研究发现，源处于低/硬态，具有光子指数约为1.64。能谱组合包括热盘组分、硬康普顿化组分和带边的反射组分。功率密度谱显示两个显著的特征频率，在0.22赫兹和2.94赫兹附近。能量相关的时间滞后和均方根分数显示硬滞后以及在较高能量水平下的变异性减少。研究还发现，与加速率、内盘半径、冠加热率和散射分数之间相关的变化，以及它们之间的延迟，可以解释所观察的均方根和滞后谱。 <div>
+We present a spectro-timing analysis of the black hole X-ray transient GX 339–4 using simultaneous observations from AstroSat and the Neutron Star Interior Composition Explorer (NICER) during the 2021 outburst period. The combined spectrum obtained from NICER, Large Area X-ray Proportional Counter and SXT data is effectively described by a model comprising a thermal disk component, hard Comptonization component, and reflection component with an edge. Our analysis of the AstroSat and NICER spectra indicates the source to be in a low/hard state, with a photon index of ∼1.64. The power density spectra obtained from both AstroSat and NICER observations exhibit two prominent broad features at 0.22 Hz and 2.94 Hz. We generated energy-dependent time lag and fractional root mean square (frms) at both frequencies in a broad energy range of 0.5–30 keV and found the presence of hard lags along with a decrease in variability at higher energy levels. Additionally, we discovered that the correlated variations in accretion rate, inner disk radius, coronal heating rate, and the scattering fraction, along with a delay between them, can explain the observed frms and lag spectra for both features.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Stacking and Analyzing MOSDEF Galaxies by Spectral Types: Implications for Dust Geometry and Galaxy Evolution</title>
