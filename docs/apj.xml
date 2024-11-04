@@ -5,6 +5,20 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>TEMPLATES: Direct Abundance Constraints for Two Lensed Lyman-break Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79ec</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79ec</guid>
+<content:encoded><![CDATA[
+<div> 关键词: JWST, 引力透镜, 光谱, 化学丰度, 远距离星系
+总结:
+JWST TEMPLATES Early Release Science program使用了两个通过引力透镜效应得到的星系的综合光谱，分析了微弱的光谱线，从而直接测量了气相化学丰度。对亮的星系SGAS1723+34 (z = 1.3293)检测到了[O iii] λ4363, [S iii] λ6312, 和[O ii] λλ7320, 7330的发射线，并设定了[N ii] λ5755的上限。对第二个星系SGAS1226+21 (z = 2.925)，没有检测到任何的光谱线，报告了上限。利用这些测量和上限，对这两个星系的不同电离区域内的电子温度进行了限制。对于检测到光谱线的SGAS1723+34星系，计算了直接的氧和氮的丰度，发现了与附近星系观测（z∼0）一致的N/O比值。这些观测凸显了JWST和引力透镜的强大结合，用于测量远距离星系中微弱的发射线，并直接研究这些星系中的化学丰度模式。 <div>
+Using integrated spectra for two gravitationally lensed galaxies from the JWST TEMPLATES Early Release Science program, we analyze faint auroral lines, which provide direct measurements of the gas-phase chemical abundance. For the brighter galaxy, SGAS1723+34 (z = 1.3293), we detect the [O iii] λ4363, [S iii] λ6312, and [O ii] λλ7320, 7330 auroral emission lines, and set an upper limit for the [N ii] λ5755 line. For the second galaxy, SGAS1226+21 (z = 2.925), we do not detect any auroral lines, and report upper limits. With these measurements and upper limits, we constrain the electron temperatures in different ionization zones within both of these galaxies. For SGAS1723+34, where auroral lines are detected, we calculate direct oxygen and nitrogen abundances, finding an N/O ratio consistent with observations of nearby (z ∼ 0) galaxies. These observations highlight the potent combination of JWST and gravitational lensing to measure faint emission lines in individual distant galaxies and to directly study the chemical abundance patterns in those galaxies.
+]]></content:encoded>
+
+<pubDate>2024-11-04T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Exploring Waveform Variations among Neutron Star Ray-tracing Codes for Complex Emission Geometries</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7255</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7255</guid>
@@ -12,10 +26,9 @@
 <div> 关键词: Pulse profile modeling (PPM), NICER, ray-tracing, neutron star, test problems
 
 总结:
-通过脉冲轮廓建模技术（PPM），利用来自中子星内部成分探测器（NICER）的数据，采用对热点进行相对论光线追踪，推断了旋转功率毫秒脉冲星的质量、半径和几何参数。研究对更复杂的热点几何形状进行了验证，结果表明计算波形的准确性对当前NICER数据集的分析足够高。然而，研究也发现了一些极端配置，可能需要额外的注意。 <br><br>总结: Pulse profile modeling (PPM)通过NICER数据进行了验证，证实了计算波形的准确性，并指出了需要额外注意的极端配置。 <div>
+通过脉冲轮廓建模技术（PPM），利用来自中子星内部成分探测器（NICER）的数据，采用对热点进行相对论光线追踪，推断了旋转功率毫秒脉冲星的质量、半径和几何参数。研究对更复杂的热点几何形状进行了验证，结果表明计算波形的准确性对当前NICER数据集的分析足够高。然而，研究也发现了一些极端配置，可能需要额外的注意。 <br /><br />总结: Pulse profile modeling (PPM)通过NICER数据进行了验证，证实了计算波形的准确性，并指出了需要额外注意的极端配置。 <div>
 Pulse profile modeling (PPM), the technique used to infer mass, radius, and geometric parameters for rotation-powered millisecond pulsars using data from the Neutron Star Interior Composition Explorer (NICER), relies on relativistic ray-tracing of thermal X-ray photons from hot spots on the neutron star surface to the observer. To verify our ray-tracing codes we have in the past conducted cross tests for simple hot spot geometries, focusing primarily on the implementation of the spacetime model. In this paper, we present verification for test problems that explore the more complex hot spot geometries that are now being employed in the NICER PPM analyses. We conclude that the accuracy of our computed waveforms is in general sufficiently high for analyses of current NICER data sets. We have however identified some extreme configurations where extra care may be needed.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -25,10 +38,9 @@ Pulse profile modeling (PPM), the technique used to infer mass, radius, and geom
 <content:encoded><![CDATA[
 <div> 超团、宇宙演化、FoF算法、高红移、光度红移不确定性
 
-超团是研究星系演化的独特实验室，但现有超团目录多集中在红移z=0.7以下。本研究采用物理定义的超团概念，利用FoF算法在Subaru Hyper Suprime-Cam测绘数据中搜索了z=0.5-1.0的超团，并鉴定了1027平方度范围内的673个超团候选体。这些高红移超团通常由2到4个星系团组成，表明在年轻的宇宙中，引力束缚结构的极限。此外，研究了不同大尺度环境中的星系团和最亮星系团星系（BCG）的特性，发现与超团相关的星系团通常更丰富，但BCG的特性并未显示出明显的大尺度结构依赖性。比较了观测到的超团丰度与来自晕体光锥的模拟超团，发现光度红移的不确定性是影响超团检测性能的一个限制因素。<br><br>总结: 本研究使用FoF算法在高红移范围内鉴定了673个超团候选体，并发现了它们多由2到4个星系团组成，展示出了年轻宇宙中引力束缚结构的极限。另外，研究了不同大尺度环境中的星系团和BCG的特性，发现了一些有趣的结果，同时也指出了光度红移不确定性对超团检测性能的限制。 <div>
+超团是研究星系演化的独特实验室，但现有超团目录多集中在红移z=0.7以下。本研究采用物理定义的超团概念，利用FoF算法在Subaru Hyper Suprime-Cam测绘数据中搜索了z=0.5-1.0的超团，并鉴定了1027平方度范围内的673个超团候选体。这些高红移超团通常由2到4个星系团组成，表明在年轻的宇宙中，引力束缚结构的极限。此外，研究了不同大尺度环境中的星系团和最亮星系团星系（BCG）的特性，发现与超团相关的星系团通常更丰富，但BCG的特性并未显示出明显的大尺度结构依赖性。比较了观测到的超团丰度与来自晕体光锥的模拟超团，发现光度红移的不确定性是影响超团检测性能的一个限制因素。<br /><br />总结: 本研究使用FoF算法在高红移范围内鉴定了673个超团候选体，并发现了它们多由2到4个星系团组成，展示出了年轻宇宙中引力束缚结构的极限。另外，研究了不同大尺度环境中的星系团和BCG的特性，发现了一些有趣的结果，同时也指出了光度红移不确定性对超团检测性能的限制。 <div>
 Superclusters, encompassing environments across a wide range of overdensities, can be regarded as unique laboratories for studying galaxy evolution. Although numerous supercluster catalogs have been published, none of them goes beyond redshift z = 0.7. In this work, we adopt a physically motivated supercluster definition, requiring that superclusters should eventually collapse even in the presence of dark energy. Applying a friends-of-friends (FoF) algorithm to the CAMIRA cluster sample constructed using the Subaru Hyper Suprime-Cam survey data, we have conducted the first systematic search for superclusters at z = 0.5–1.0 and identified 673 supercluster candidates over an area of 1027 deg2. The FoF algorithm is calibrated by evolving N-body simulations to the far future to ensure high purity. We found that these high-z superclusters are mainly composed of two to four clusters, suggesting the limit of gravitationally bound structures in the younger Universe. In addition, we studied the properties of the clusters and brightest cluster galaxies (BCGs) residing in different large-scale environments. We found that clusters associated with superclusters are typically richer, but no apparent dependence of the BCG properties on large-scale structures is found. We also compared the abundance of observed superclusters with mock superclusters extracted from halo light cones, finding that photometric redshift uncertainty is a limiting factor in the performance of superclusters detection.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,11 +48,10 @@ Superclusters, encompassing environments across a wide range of overdensities, c
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f8</guid>
 <content:encoded><![CDATA[
-<div> 关键词: TRGB, Hubble Space Telescope, James Webb Space Telescope, 红巨星分支, 确定距离<br>
+<div> 关键词: TRGB, Hubble Space Telescope, James Webb Space Telescope, 红巨星分支, 确定距离<br />
 总结:本文介绍了红巨星分支顶端（TRGB）作为一个可以标准化的蜡烛，用来测量星系的距离。通过使用Hubble Space Telescope和James Webb Space Telescope的近红外摄像头，可以扩展到约50 Mpc的距离范围。此外，文章还提到了通过颜色来校正TRGB的亮度，推荐了适合不同精度要求的滤波器。与此相关的科学研究需要高精度的测量，可以使用特定滤波器对TRGB进行测量，并且远距离需要更长的观测时间。如果可以接受较低的精度或者需要较短的观测时间，还有其他滤波器可供选择。由于分辨率较低，不推荐使用某些滤波器进行精确的TRGB测量。 <div>
 The tip of the red giant branch (TRGB) is a standardizable candle, identifiable as the discontinuity at the bright extreme of the red giant branch (RGB) stars in color–magnitude diagram space. The TRGB-based distance method has been used to measure distances to galaxies out to D ≤ 20 Mpc with the Hubble Space Telescope F814W filter, and is an important rung in the distance ladder to measure the Hubble constant, H0. In the infrared (IR), the TRGB apparent magnitude ranges from 1–2 mag brighter than in the optical. Now with the James Webb Space Telescope (JWST), the feasible distance range of the TRGB method can reach ∼50 Mpc. However, the IR TRGB luminosity depends to varying degrees on stellar metallicity/age. Here we standardize the TRGB luminosity using stellar colors as a proxy for metallicity/age to derive color-based corrections for the JWST Near-Infrared Camera short-wavelength filters F090W, F115W, and F150W, and the long-wavelength filters F277W, F356W, and F444W. We provide recommended filters for distance measurements depending on the requisite precision. For science requiring high precision (≤1% in distance), we recommend measuring the TRGB in F090W versus F090W − F150W or F115W versus F115W − F277W with the caveat that even with JWST, long integration times will be necessary at farther distances. If lower precision (>1.5% in distance) can be tolerated, or if shorter integration times are desirable, we recommend measuring the TRGB in either F115W or F150W. We do not recommend F444W for precision TRGB measurements due to its lower angular resolution.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -52,7 +63,6 @@ The tip of the red giant branch (TRGB) is a standardizable candle, identifiable 
 总结: 通过简单的分析模型，文章探讨了质量相关的随机性对高红移星系的影响。随着暗物质暗物质晕质量的降低，紫外光度函数呈现出增长的趋势，而星系的聚集程度下降。同时，文章强调了星系中星形成的突发性，对离子化光子预算和再电离过程的影响。文章还提出了一些预测，如在固定紫外光度下，星系的紫外斜率、星际发射线强度和巴尔默断裂将呈现宽广的变化范围。研究表明，质量相关的随机性模型成功地复现了观测到的紫外光度函数，但无法匹配观测到的最高红移处的光度函数，这暗示了在最早期的星系中存在其他物理过程增强了星形成效率。 <div>
 The James Webb Space Telescope is unveiling a surprising lack of evolution in the number densities of ultraviolet (UV)-selected galaxies at redshift z ≳ 10. At the same time, observations and simulations are providing evidence for highly bursty star formation in high-z galaxies, resulting in significant scatter in their UV luminosities. Galaxies in low-mass dark matter halos are expected to experience most stochasticity due to their shallow potential wells. Here, we explore the impact of a mass-dependent stochasticity using a simple analytical model. We assume that scatter in the MUV–Mh relation increases toward lower halo masses, following the decrease in halo escape velocity, , independent of redshift. Since low-mass halos are more dominant in the early universe, this model naturally predicts an increase in UV luminosity functions (LFs) at high redshifts compared to models without scatter. We make predictions for additional observables, which would be affected by stochasticity and could be used to constrain its amplitude, finding (i) galaxies are less clustered compared to the no-scatter scenario, with the difference increasing at higher-z; (ii) assuming that star-bursting galaxies dominate the ionizing photon budget implies reionization starts earlier and is more gradual compared to the no-scatter case; (iii) at fixed UV magnitude, galaxies should exhibit wide ranges of UV slopes, nebular emission line strengths, and Balmer breaks. Comparing to observations, the mass-dependent stochasticity model successfully reproduces the observed LFs up to z ∼ 12. However, the model cannot match the observed z ∼ 14 LFs, implying additional physical processes enhance star formation efficiency in the earliest galaxies.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -62,13 +72,11 @@ The James Webb Space Telescope is unveiling a surprising lack of evolution in th
 <content:encoded><![CDATA[
 <div> 关键词: 黑洞X射线暂现体，AstroSat，NICER，光谱-时间分析，低/硬态
 
-总结: <br><br>这篇文章报道了对黑洞X射线暂现体GX 339-4的光谱-时间分析，使用了AstroSat和NICER的同时观测数据。研究发现，源处于低/硬态，具有光子指数约为1.64。能谱组合包括热盘组分、硬康普顿化组分和带边的反射组分。功率密度谱显示两个显著的特征频率，在0.22赫兹和2.94赫兹附近。能量相关的时间滞后和均方根分数显示硬滞后以及在较高能量水平下的变异性减少。研究还发现，与加速率、内盘半径、冠加热率和散射分数之间相关的变化，以及它们之间的延迟，可以解释所观察的均方根和滞后谱。 <div>
+总结: <br /><br />这篇文章报道了对黑洞X射线暂现体GX 339-4的光谱-时间分析，使用了AstroSat和NICER的同时观测数据。研究发现，源处于低/硬态，具有光子指数约为1.64。能谱组合包括热盘组分、硬康普顿化组分和带边的反射组分。功率密度谱显示两个显著的特征频率，在0.22赫兹和2.94赫兹附近。能量相关的时间滞后和均方根分数显示硬滞后以及在较高能量水平下的变异性减少。研究还发现，与加速率、内盘半径、冠加热率和散射分数之间相关的变化，以及它们之间的延迟，可以解释所观察的均方根和滞后谱。 <div>
 We present a spectro-timing analysis of the black hole X-ray transient GX 339–4 using simultaneous observations from AstroSat and the Neutron Star Interior Composition Explorer (NICER) during the 2021 outburst period. The combined spectrum obtained from NICER, Large Area X-ray Proportional Counter and SXT data is effectively described by a model comprising a thermal disk component, hard Comptonization component, and reflection component with an edge. Our analysis of the AstroSat and NICER spectra indicates the source to be in a low/hard state, with a photon index of ∼1.64. The power density spectra obtained from both AstroSat and NICER observations exhibit two prominent broad features at 0.22 Hz and 2.94 Hz. We generated energy-dependent time lag and fractional root mean square (frms) at both frequencies in a broad energy range of 0.5–30 keV and found the presence of hard lags along with a decrease in variability at higher energy levels. Additionally, we discovered that the correlated variations in accretion rate, inner disk radius, coronal heating rate, and the scattering fraction, along with a delay between them, can explain the observed frms and lag spectra for both features.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Stacking and Analyzing MOSDEF Galaxies by Spectral Types: Implications for Dust Geometry and Galaxy Evolution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7de8</link>
@@ -11774,66 +11782,6 @@ James Webb Space Telescope (JWST)的深度调查揭示了在4≲z≲13范围内�
 Deep surveys with the James Webb Space Telescope (JWST) have revealed an emergent population of moderate-luminosity, broad-line active galactic nuclei (AGNs) at 4 ≲ z ≲ 13 powered by accretion onto early massive black holes. The high number densities reported, together with the large Lyman-continuum (LyC) production efficiency and leakiness into the intergalactic medium that are typical of UV-selected AGNs, lead us to reassess a scenario where AGNs are the sole drivers of the cosmic hydrogen/helium reionization process. Our approach is based on the assumptions, grounded in recent observations, that (a) the fraction of broad-line AGNs among galaxies is around 10%–15%; (b) the mean escape fraction of hydrogen LyC radiation is high, at ≳80%, in AGN hosts and is negligible otherwise; and (c) internal absorption at 4 ryd or a steep ionizing EUV spectrum delay full reionization of He ii until z ≃ 2.8–3.0, in agreement with observations of the He ii Lyα forest. In our fiducial models, (1) hydrogen reionization is 99% completed by redshift z ≃ 5.3–5.5 and reaches its midpoint at z ≃ 6.5–6.7; (2) the integrated Thomson scattering optical depth to reionization is ≃0.05, consistent with constraints from cosmic microwave background anisotropy data; and (3) the abundant AGN population detected by JWST does not violate constraints on the unresolved X-ray background.
 ]]></content:encoded>
 <pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Polar Orbits around the Newly Formed Earth–Moon Binary System</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fa</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fa</guid>
-<content:encoded><![CDATA[
-<div> Earth-Moon binary, circumbinary orbits, stability, polar orbits, Kozai-Lidov oscillations <br />
-通过研究地月双星系统的环绕二进制粒子的动力学和稳定性，发现在当前日半长轴处不存在稳定的极轨道，但在月球形成初期以及半长轴达到约10倍地球半径时，极轨道是稳定的。文章讨论了极轨道对地月系统演化的影响，以及在外行星-卫星双星系统中存在可能的极轨道卫星。 <br /> <br />总结: 通过研究地月双星系统，发现极轨道在不同阶段的稳定性变化，对地月系统的演化具有重要影响，并可能存在着极轨道卫星在外行星-卫星双星系统中的存在。 <div>
-We examine the dynamics and stability of circumbinary particles orbiting around the Earth–Moon binary system. The moon formed close to the Earth (semimajor axis aEM ≈ 3 R⊕) and expanded through tides to its current day semimajor axis (aEM = 60 R⊕). Circumbinary orbits that are polar or highly inclined to the Earth–Moon orbit are subject to two competing effects: (i) nodal precession about the Earth–Moon eccentricity vector and (ii) Kozai–Lidov oscillations of eccentricity and inclination driven by the Sun. While we find that there are no stable polar orbits around the Earth–Moon orbit with the current day semimajor axis, polar orbits were stable immediately after the formation of the Moon, at the time when there was a lot of debris around the system, up to when the semimajor axis reached about aEM ≈ 10 R⊕. We discuss implications of polar orbits on the evolution of the Earth–Moon system and the possibility of polar orbiting moons around exoplanet–moon binaries.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Determination of Stellar Mass and Binary Fraction of Open Clusters within 500 pc from the Sun</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5344</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5344</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 星团, 星等函数, 双星分数, 质量分离, 大气动演化<br />
-总结: <br />
-本研究利用Gaia DR3的高精度光度数据对114个附近的敞开星团(OCs)进行了研究，估算了成员星的质量并分析了双星质量比(q)。研究发现，大多数星团的现今质量函数(PDMF)符合双阶段幂律分布。同时，通过分析星团中不同质量星的径向数量分布，发现了质量分离现象。此外，还估算了双星分数，并提供了114个星团的属性目录，包括总质量、双星分数、PDMF和动力学状态信息。这些结果对于我们更好地了解星团的形成和演化具有重要意义。<br /> <div>
-We investigated the stellar mass function and the binary fraction of 114 nearby open clusters (OCs) using the high-precision photometric data from Gaia Data Release 3 (Gaia DR3). We estimated the mass of member stars by using a ridge line that is better in line with the observed color–magnitude diagram, thus obtaining more accurate stellar mass and binary mass ratio (q) at the low-mass region. By analyzing the present-day mass function (PDMF) of star clusters, we found that 108 OCs follow a two-stage power-law distribution, whereas six OCs present a single power-law PDMF. Subsequently, we fitted the high(low)-mass index of PDMF ( ), denoted as αh(αl), and segmentation point mc. For our cluster sample, the median values of αh and αl are 2.65 and 0.95, respectively, which are approximately consistent with the initial mass function results provided by Kroupa. We utilized the cumulative radial number distribution of stars with different masses to quantify the degree of mass segregation. We found a significant positive correlation between the state of dynamical evolution and mass segregation in OCs. We also estimated the fraction of binary stars with q ≥ 0.5, ranging from 6% to 34% with a median of 17%. Finally, we provided a catalog of 114 nearby cluster properties, including the total mass, the binary fraction, the PDMF, and the dynamical state.
-]]></content:encoded>
-<pubDate>2024-08-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Dark Matter Distribution in Milky Way analog Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c8</guid>
-<content:encoded><![CDATA[
-<div> VLA Imaging, THINGS, 3D-BAROLO, Milky Way, DM distribution
-总结:
-本研究利用VLA Imaging和THINGS选取了五个类似于银河系的星系作为样本，通过3D-BAROLO模型分析其旋转曲线，将旋转曲线分解为星体和气体的贡献并隔离暗物质成分。通过Markov Chain Monte Carlo方法推导出在这些星系中的太阳邻域的暗物质密度范围，结果与文献中银河系本地暗物质密度的数值一致。 <div>
-Our current understanding of how dark matter (DM) is distributed within the Milky Way (MW) halo, particularly in the solar neighborhood, is based on either careful studies of the local stellar orbits, model assumptions on the global shape of the MW halo, or from direct acceleration measurements. In this work, we undertake a study of external galaxies, with the intent of providing insight into the DM distribution in MW-analog galaxies. For this, we carefully select a sample of galaxies similar to the MW, based on maximum atomic hydrogen (H i) rotational velocity ( km s−1) and morphological type (Sab–Sbc) criteria. With a need for deep, highly resolved H i, our resulting sample is composed of five galaxies from the VLA Imaging of Virgo in Atomic Gas (VIVA) survey and The H i Nearby Galaxy Survey (THINGS). To perform our baryonic analysis, we use deep mid-IR images at 3.6 and 4.5 μm from the Spitzer Survey of Stellar Structures in Galaxies (S4G). Based on the dynamical three-dimensional modeling software 3D-Based Analysis of Rotating Objects via Line Observations (3D-BAROLO), we construct rotation curves (RCs) and derive the gas and stellar contributions from the galaxy's gaseous and stellar disks' mass surface density profiles. Through a careful decomposition of their RCs into their baryonic (stars, gas) and DM components, we isolate the DM contribution by using a Markov Chain Monte Carlo-based approach. Based on the Sun's location and the MW’s R25, we define the corresponding location of the solar neighborhood in these systems. We put forward a window for the DM density (ρdm = 0.21–0.55 GeV cm−3) at these galactocentric distances in our MW analog sample, consistent with the values found for the MW’s local DM density, based on more traditional approaches found in the literature.
-]]></content:encoded>
-<pubDate>2024-08-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Active Dwarf Galaxy Database. I. Overlap between Active Galactic Nuclei Selected by Different Techniques</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5442</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5442</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 矮星系、活动星系核、AGN 选择技术、恒星质量、光谱学数据
-
-总结: 这篇文章研究了733个矮星系中具有活动星系核的情况，并探讨了不同AGN选择技术之间的交叉点。研究采用光谱学、X射线、红外颜色和光学光变等方法来识别AGN，发现任何单一选择方法仅能捕获不超过总AGN人口的一半，并且在这一恒星质量范围内，各种AGN选择方法存在普遍不一致。最大的重叠发生在两种方法都使用光学光谱数据的情况下。相反，当比较使用不同波长光度数据的方法时，AGN的种群交叉最少。这些结果可以用来更好地约束矮星系中的活跃分数，这对于黑洞种子形成模型来说是一个重要的约束条件。在随后的论文中，我们将探索每种选择技术的有效性与宿主星系属性之间的联系。 <br /><br /> <div>
-We assemble a sample of 733 dwarf galaxies (M* ≤ 109.5M⊙) with signatures of active galactic nuclei (AGN) and explore the intersection between different AGN-selection techniques. Objects in our database are compiled from previous studies that identify AGN in dwarf galaxies through spectroscopy, X-ray emission, infrared colors, and optical photometric variability. We apply a uniform set of AGN diagnostic tools to the database using archival data. We find that any single selection method captures no more than half of the overall AGN population, and there is a general disagreement among the AGN-selection methods in this stellar-mass regime. The largest overlap between methods is found when both methods use optical spectroscopic data. In contrast, the populations of AGN intersect the least when comparing those methods that use photometric data at different wavelengths. These results can be used to better constrain the active fraction in dwarf galaxies, which is in turn an important constraint for black hole seed formation models. In a follow-up paper, we will explore links between the effectiveness of each selection technique and host galaxy properties.
-]]></content:encoded>
-<pubDate>2024-08-05T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Dead or Alive? How Bursty Star Formation and Patchy Dust Can Cause Temporary Quiescence in High-redshift Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58e2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58e2</guid>
-<content:encoded><![CDATA[
-<div> early Universe, galaxy, star formation, dust attenuation, JWST spectroscopy
-<br />
-这篇文章探讨了在 z = 7.3 时发现的一个星系，其光学发射线不明显以及蓝色紫外光到光学连续谱比例的意外情况。作者提出了两种可能的解释：一是恒星形成历史的随机变化，二是空间上变化的尘埃衰减对测量的发射线和连续光谱性质的影响。他们指出，这两种情况可能同时发生并放大效应。研究还表明，快速变化的恒星形成模型可以产生类似的观测特性，而蓝色紫外光谱和缺乏发射线可以通过蓝+红组合光谱来解释。未来进一步的远红外观测将有助于阐明后一种情况。 
-<br /><br />总结: 提出了在早期宇宙中发现的星系可能存在的两种物理解释，即恒星形成历史的随机变化和空间上变化的尘埃衰减对测量的发射线和连续光谱性质的影响。并指出进一步的观测将有助于阐明这两种可能性。 <div>
-The recent discovery of a galaxy at z = 7.3 with undetected optical emission lines and a blue UV-to-optical continuum ratio in JWST spectroscopy is surprising and needs to be explained physically. Here, we explore two possibilities that could cause such a seemingly quiescent ∼5 × 108M⊙ galaxy in the early Universe: (i) stochastic variations in the star formation history (SFH) and (ii) the effect of spatially varying dust attenuation on the measured line and continuum emission properties. Both scenarios can play out at the same time to amplify the effect. A stochastic star formation model (similar to realistic SFHs from hydrodynamical simulations of similar-mass galaxies) can create such observed properties if star formation is fast-varying with a correlation time of <150 Myr given a reasonable burst amplitude of ∼0.6 dex. The total time spent in this state is less than 20 Myr, and the likelihood of such a state to occur over 500 Myr at z = 7 is ∼50% (consistent with current observations). On the other hand, we show that a spectrum with blue UV continuum and lack of emission lines can be reproduced by a blue+red composite spectrum. The UV continuum is emitted from dust-free density-bounded H ii regions (blue component), while the red component is a dust-obscured starburst with weakened emission lines due to strong differential dust attenuation between stellar and nebular emission. Future resolving far-infrared observations with the Atacama Large Millimeter/submillimeter Array will shed light on the latter scenario.
-]]></content:encoded>
-<pubDate>2024-08-05T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
