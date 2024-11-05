@@ -4,16 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Testing the Accuracy of Spectral Energy Distribution Modeling Techniques Using the NIHAO-SKIRT-Catalog</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a75</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a75</guid>
 <content:encoded><![CDATA[
-<div> 光谱能量分布、星系观测、NIHAO-SKIRT-Catalog、星体形成史、化学丰度<br>
-<br>光谱能量分布（SED）建模是从附近星系观测中推断星体形成史的重要工具，但由于我们对恒星种群、化学丰度过程和与尘埃有关的非线性、几何依赖效应的理解不完全而充满困难。NIHAO-SKIRT-Catalog利用流体动力学模拟和辐射传输从紫外到红外产生SEDs，并考虑了尘埃的影响。我们使用常用的Prospector软件对这些SED进行推断，并将推断得到的恒星质量和星体形成速率（SFR）与模拟中的已知值进行比较。对于高质量的NIHAO星系（>109.5M⊙），我们发现模型不匹配导致通过紫外到红外光度拟合低估了SFR约2倍，通过紫外到光学光度拟合低估了SFR约3倍。这些偏差导致了结果中的具体SFR-质量关系出现显著的不准确性，通过紫外到光学光度拟合尤其偏离了模拟星系的真实关系。在现有和即将到来的大规模光度调查中，这些结果突显了光度推断的星体形成史可能仍然不精确和不准确，迫切需要对现有技术进行更加真实的测试。<br><br>总结: 光谱能量分布（SED）建模是推断星体形成史的重要工具。NIHAO-SKIRT-Catalog使用流体动力学模拟和辐射传输生成SEDs，并考虑了尘埃的影响。通过对恒星质量和星体形成速率（SFR）进行推断，发现模型不匹配对结果产生显著的不准确性。这表明光度推断的星体形成史可能不准确，需要更加真实的测试。 <div>
+<div> 光谱能量分布、星系观测、NIHAO-SKIRT-Catalog、星体形成史、化学丰度<br />
+<br />光谱能量分布（SED）建模是从附近星系观测中推断星体形成史的重要工具，但由于我们对恒星种群、化学丰度过程和与尘埃有关的非线性、几何依赖效应的理解不完全而充满困难。NIHAO-SKIRT-Catalog利用流体动力学模拟和辐射传输从紫外到红外产生SEDs，并考虑了尘埃的影响。我们使用常用的Prospector软件对这些SED进行推断，并将推断得到的恒星质量和星体形成速率（SFR）与模拟中的已知值进行比较。对于高质量的NIHAO星系（>109.5M⊙），我们发现模型不匹配导致通过紫外到红外光度拟合低估了SFR约2倍，通过紫外到光学光度拟合低估了SFR约3倍。这些偏差导致了结果中的具体SFR-质量关系出现显著的不准确性，通过紫外到光学光度拟合尤其偏离了模拟星系的真实关系。在现有和即将到来的大规模光度调查中，这些结果突显了光度推断的星体形成史可能仍然不精确和不准确，迫切需要对现有技术进行更加真实的测试。<br /><br />总结: 光谱能量分布（SED）建模是推断星体形成史的重要工具。NIHAO-SKIRT-Catalog使用流体动力学模拟和辐射传输生成SEDs，并考虑了尘埃的影响。通过对恒星质量和星体形成速率（SFR）进行推断，发现模型不匹配对结果产生显著的不准确性。这表明光度推断的星体形成史可能不准确，需要更加真实的测试。 <div>
 We use simulated galaxy observations from the NIHAO-SKIRT-Catalog to test the accuracy of spectral energy distribution (SED) modeling techniques. SED modeling is an essential tool for inferring star formation histories from nearby galaxy observations but is fraught with difficulty due to our incomplete understanding of stellar populations, chemical enrichment processes, and the nonlinear, geometry-dependent effects of dust. The NIHAO-SKIRT-Catalog uses hydrodynamic simulations and radiative transfer to produce SEDs from the ultraviolet (UV) through the infrared (IR), accounting for dust. We use the commonly used Prospector software to perform inference on these SEDs and compare the inferred stellar masses and star formation rates (SFRs) to the known values in the simulation. We match the stellar population models to isolate the effects of differences in the star formation history, the chemical evolution history, and the dust. For the high-mass NIHAO galaxies (>109.5M⊙), we find that model mismatches lead to inferred SFRs that are on average underestimated by a factor of 2 when fit to UV through IR photometry, and a factor of 3 when fit to UV through optical photometry. These biases lead to significant inaccuracies in the resulting specific SFR–mass relations, with UV through optical fits showing particularly strong deviations from the true relation of the simulated galaxies. In the context of massive existing and upcoming photometric surveys, these results highlight that star formation history inference from photometry may remain imprecise and inaccurate and that there is a pressing need for more realistic testing of existing techniques.
 ]]></content:encoded>
-
 <pubDate>2024-11-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -23,10 +23,9 @@ We use simulated galaxy observations from the NIHAO-SKIRT-Catalog to test the ac
 <content:encoded><![CDATA[
 <div> 多星形成, 气云, 数值模拟, 质量吸积, 辐射压力
 
-模拟结果显示，原始气云中心区域的不稳定盘状结构会分裂形成多个不同尺度的原恒星。它们的演化取决于质量吸积现象、与周围介质的相互作用以及辐射反馈。本研究使用快速半解析框架对旋转气云中的多个原恒星进行建模，其中质量吸积通过Bondi-Hoyle流估算，反馈过程通过辐射压力来近似。观察发现，一些演化中的原恒星可能通过吸积和合并变得庞大（≈1–75 M⊙），而其中一部分（≈20%）可能会被射出云团，并且质量为M*≲0.8 M⊙。这些低质量的原恒星可能是进入零龄主序阶段并且可能存活至今的潜在候选体。<br><br>总结: 气云内部形成了多个原恒星，部分可能增长庞大，部分可能被射出云团，低质量的原恒星可能是潜在的零龄主序阶段的候选体。 <div>
+模拟结果显示，原始气云中心区域的不稳定盘状结构会分裂形成多个不同尺度的原恒星。它们的演化取决于质量吸积现象、与周围介质的相互作用以及辐射反馈。本研究使用快速半解析框架对旋转气云中的多个原恒星进行建模，其中质量吸积通过Bondi-Hoyle流估算，反馈过程通过辐射压力来近似。观察发现，一些演化中的原恒星可能通过吸积和合并变得庞大（≈1–75 M⊙），而其中一部分（≈20%）可能会被射出云团，并且质量为M*≲0.8 M⊙。这些低质量的原恒星可能是进入零龄主序阶段并且可能存活至今的潜在候选体。<br /><br />总结: 气云内部形成了多个原恒星，部分可能增长庞大，部分可能被射出云团，低质量的原恒星可能是潜在的零龄主序阶段的候选体。 <div>
 Recent numerical simulations have shown that the unstable disk within the central regime of the primordial gas cloud fragments to form multiple protostars on several scales. Their evolution depends on the mass accretion phenomenon, interaction with the surrounding medium and radiative feedback respectively. In this work, we use a fast semianalytical framework in order to model multiple protostars within a rotating cloud, where the mass accretion is estimated via a Bondi–Hoyle flow and the feedback process is approximated through radiation pressure. We observe that while some of the evolving protostars possibly grow massive (≈1–75 M⊙) via accretion and mergers, a fraction of them (≈20%) are likely to be ejected from the parent cloud with a mass corresponding to M* ≲ 0.8 M⊙. These low-mass protostars may be considered as the potential candidates to enter the zero-age-main-sequence phase and possibly survive until the present epoch.
 ]]></content:encoded>
-
 <pubDate>2024-11-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -34,12 +33,11 @@ Recent numerical simulations have shown that the unstable disk within the centra
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d87</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d87</guid>
 <content:encoded><![CDATA[
-<div> 模板银行，匹配滤波，引力波搜索，计算负载，高效性 <br>
-总结:<br>
+<div> 模板银行，匹配滤波，引力波搜索，计算负载，高效性 <br />
+总结:<br />
 文章介绍了一种新的随机放置方法，用于构建模板银行，以处理包括轨道离心率、潮汐变形等在内的任意参数空间，提高效率和灵活性。该方法采用内积不等式来减少所需的比较数量，并引入高斯核密度估计来增强波形覆盖范围。研究表明，该方法产生了自洽的银行，并具有可比较的计算性能和相似的模板银行大小，易于扩展到更高维度的问题。搜索所需的时间超过生成银行的时间，但随着模板银行生成效率的提高，主要改进的方向是开发更高效的搜索方法。 <div>
 Gravitational wave searches are crucial for studying compact sources such as neutron stars and black holes. Many sensitive modeled searches use matched filtering to compare gravitational strain data to a set of waveform models known as template banks. We introduce a new stochastic placement method for constructing template banks, offering efficiency and flexibility to handle arbitrary parameter spaces, including orbital eccentricity, tidal deformability, and other extrinsic parameters. This method can be computationally limited by the ability to compare proposal templates with the accepted templates in the bank. To alleviate this computational load, we introduce the use of inner product inequalities to reduce the number of required comparisons. We also introduce a novel application of Gaussian Kernel Density Estimation to enhance waveform coverage in sparser regions. Our approach has been employed to search for eccentric binary neutron stars, low-mass neutron stars, primordial black holes, and supermassive black hole binaries. We demonstrate that our method produces self-consistent banks that recover the required minimum fraction of signals. For common parameter spaces, our method shows comparable computational performance and similar template bank sizes to geometric placement methods and stochastic methods, while easily extending to higher-dimensional problems. The time to run a search exceeds the time to generate the bank by a factor of for dedicated template banks, such as geometric, mass-only stochastic, and aligned spin cases, for eccentric and for the tidal deformable bank. With the advent of efficient template bank generation, the primary area for improvement is developing more efficient search methodologies.
 ]]></content:encoded>
-
 <pubDate>2024-11-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -48,11 +46,10 @@ Gravitational wave searches are crucial for studying compact sources such as neu
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7827</guid>
 <content:encoded><![CDATA[
 <div> Vela pulsar, Pulsar wind nebula, Phase-resolved spectra, Power-law fit, NuSTAR observation
-<br><br>总结:
+<br /><br />总结:
 本研究分析了Vela脉冲星和脉冲星风星云的200千秒NuSTAR观测数据。脉冲轮廓的两个主要峰值对应的相位分辨光谱差异显著。第一个峰值的光谱明显比第二个峰值硬。利用NuSTAR观测到的数据，测量了硬X射线下压缩脉冲星风星云的光谱，并发现需要比简单的幂律模型更复杂的模型。观测到的同步辐射光子能量意味着加速到大约150 TeV的电子。 <div>
 We present the analysis of 200 ks NuSTAR observation of the Vela pulsar and the pulsar wind nebula (PWN). The phase-resolved spectra corresponding to two main peaks in the folded pulse profile differ significantly. The spectrum of Peak 1 is significantly harder than that of Peak 2 in qualitative agreement with the earlier Rossi X-ray Timing Explorer results. However, for both spectra, the values of power-law (PL) fit photon indices, Γ, are noticeably larger than the previously reported values. The harder (Peak 1) spectrum has Γ = 1.10 ± 0.15, which is close to those measured for the bright inner jets of the PWN. We used the off-pulse interval to remove the emission from the pulsar and measure the compact PWN spectrum in hard X-rays. We also measured the spectrum from the southwestern region of the PWN, which is resolved by NuSTAR from the compact PWN. For both regions, we fit the NuSTAR spectra by themselves and together with the Chandra X-ray Observatory spectra. We found that the PWN spectrum (for both regions) requires a more complex model than a simple PL. The fits to compact PWN spectrum favor an exponentially cutoff PL model, with Ec ≈ 50 keV over the broken PL model. The observed synchrotron photon energies imply electrons accelerated to ≈150 TeV.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -60,12 +57,11 @@ We present the analysis of 200 ks NuSTAR observation of the Vela pulsar and the 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad794f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad794f</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 表面亮度波动, 涡动压力, X射线光谱学, 精度, 大型星系团<br>
+<div> 关键词: 表面亮度波动, 涡动压力, X射线光谱学, 精度, 大型星系团<br />
 总结: 
 本文研究了星团中介质的表面亮度波动对涡动压力支持和相关马赫数的间接估计，指出高分辨率X射线光谱学能够直接约束视线上的气体运动，包括涡动引起的运动。然而，这类观测相对昂贵，并且限于附近明亮的星团。相比之下，表面亮度波动是经济有效的手段，可以用来限制大范围红移和质量星团的大半径处的湍流运动。文章通过综合考虑精度和准确性，提出了使用三个不同半径范围内的区域来计算表面亮度波动的功率谱。并且计算了各种仪器在不同情景下对静水质量偏差的不确定性，发现Lynx和AtLAST在R500半径处的约束相当，但在R200半径处，AtLAST表现更优。 <div>
 Studies of surface brightness (SB) fluctuations in the intracluster medium present an indirect estimate of turbulent pressure support and associated Mach numbers. While high-resolution X-ray spectroscopy can directly constrain line-of-sight gas motions, including those due to turbulence, such observations are relatively expensive and will be limited to nearby, bright clusters. In this respect, SB fluctuations are the most economical means to constrain turbulent motions at large cluster radii across a range of redshifts and masses. To forecast what current and future X-ray and Sunyaev–Zel’dovich facilities may achieve in SB fluctuation studies, I review and synthesize matters of accuracy and precision with respect to calculating power spectra of SB fluctuations, from which turbulent properties are derived. Balancing concerns of power spectrum accuracy and precision across a range of spatial scales, I propose the use of three annuli with [0, 0.4]R500, [0.4, 1]R500, and [1, 1.5]R500. Adopting these three regions, I calculate the uncertainty in the hydrostatic mass bias, , that can be achieved for various instruments in several scenarios. I find that Lynx and AtLAST are competitive in their constraints at R500, while AtLAST should perform better when constraining at R200.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -73,11 +69,10 @@ Studies of surface brightness (SB) fluctuations in the intracluster medium prese
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b2d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b2d</guid>
 <content:encoded><![CDATA[
-<div> T Tauri stars, C iv doublet, accretion, shock model, UV<br>
-<br>总结:<br>这项研究提出了新的C iv线模型，以目前可获得的吸积冲击和吸积流模型为基础。研究发现，狭窄成分是光学薄的，起源于冲击后，而宽成分是光学厚的，来源于冲击前。作者应用该模型对七颗T Tauri星进行了分析，并发现吸积流中的碳元素贫乏。研究表明，在T Tauri星的C iv线流量中，色球层发射仅占不到10%。这项工作为热线形成提供了更好的理解，并为内盘物质丰度提供了潜在的探针。 <div>
+<div> T Tauri stars, C iv doublet, accretion, shock model, UV<br />
+<br />总结:<br />这项研究提出了新的C iv线模型，以目前可获得的吸积冲击和吸积流模型为基础。研究发现，狭窄成分是光学薄的，起源于冲击后，而宽成分是光学厚的，来源于冲击前。作者应用该模型对七颗T Tauri星进行了分析，并发现吸积流中的碳元素贫乏。研究表明，在T Tauri星的C iv线流量中，色球层发射仅占不到10%。这项工作为热线形成提供了更好的理解，并为内盘物质丰度提供了潜在的探针。 <div>
 The C iv doublet in the UV has long been associated with accretion in T Tauri stars. However, it is still unclear where and how the lines are formed. Here, we present a new C iv line model based on the currently available accretion shock and accretion flow models. We assume axisymmetric, dipolar accretion flows with different energy fluxes and calculate the properties of the accretion shock. We use Cloudy to obtain the carbon level populations and calculate the emerging line profiles assuming a plane-parallel geometry near the shock. Our model generally reproduces the intensities and shapes of the C iv emission lines observed from T Tauri stars. We find that the narrow component is optically thin and originates in the postshock, while the broad component is optically thick and emerges from the preshock. We apply our model to seven T Tauri stars from the Hubble Ultraviolet Legacy Library of Young Stars as Essential Standards Director’s Discretionary program (ULLYSES), for which the consistently determined accretion shock properties are available. We can reproduce the observations of four stars, finding that the accretion flows are carbon-depleted. We also find that the chromospheric emission accounts for less than 10% of the observed C iv line flux in accreting T Tauri stars. This work paves the way toward a better understanding of hot line formation and provides a potential probe of abundances in the inner disk.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -87,10 +82,9 @@ The C iv doublet in the UV has long been associated with accretion in T Tauri st
 <content:encoded><![CDATA[
 <div> 恒星演化, 新星, 光谱, 包络, γ射线
 
-新研究提出常见包络(CE)可能是许多新星早期爆发后光谱的起源。研究基于包络的发射线强度和假设的密度分布提出了一个简单的模型来解释包络的性质。快速的光谱变化被认为是CE的可能证据。来自ARAS小组的时间分辨光谱显示出突然的光谱移动，与探测到的γ射线发射相关，暗示着可能是在产生光谱变化的白矮星上。可能由γ射线引起的间歇性物质流失、瞬变重元素吸收系统的形成和包络的消散。 <br><br>总结: 本研究提出了CE可能是许多新星早期爆发后光谱的起源，提出了一个简单的模型来解释CE的性质，指出快速的光谱变化可能是CE的证据，还观测到光谱移动与γ射线发射相关，可能是白矮星条件改变的迹象，同时还可能由γ射线引起的间歇性物质流失、瞬变重元素吸收系统的形成和CE的消散。 <div>
+新研究提出常见包络(CE)可能是许多新星早期爆发后光谱的起源。研究基于包络的发射线强度和假设的密度分布提出了一个简单的模型来解释包络的性质。快速的光谱变化被认为是CE的可能证据。来自ARAS小组的时间分辨光谱显示出突然的光谱移动，与探测到的γ射线发射相关，暗示着可能是在产生光谱变化的白矮星上。可能由γ射线引起的间歇性物质流失、瞬变重元素吸收系统的形成和包络的消散。 <br /><br />总结: 本研究提出了CE可能是许多新星早期爆发后光谱的起源，提出了一个简单的模型来解释CE的性质，指出快速的光谱变化可能是CE的证据，还观测到光谱移动与γ射线发射相关，可能是白矮星条件改变的迹象，同时还可能由γ射线引起的间歇性物质流失、瞬变重元素吸收系统的形成和CE的消散。 <div>
 A common envelope (CE) is proposed as the origin of the early post-outburst spectra of many novae. A simple model is proposed to explain the properties of the CE based on the emission line strengths and an assumed density distribution. Rapid changes in the spectrum during post-outburst decline are suggested as possible evidence for a CE. Time-resolved spectra from the ARAS group show sudden spectral shifts that are correlated with detected γ-ray emission, suggestive of its possible origin on the white dwarf that produces a change in condition within the CE. Episodic mass loss, formation of transient heavy element absorption systems, and dissipation of the CE may possibly be triggered by γ-ray emission.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -100,10 +94,9 @@ A common envelope (CE) is proposed as the origin of the early post-outburst spec
 <content:encoded><![CDATA[
 <div> 重复快速射电暴（FRBs），等待时间统计，时间间隔依赖性，内存效应，尺度不变的等待时间分布
 
-FRB的重复性与非重复性现象可能都受到时间间隔的内存依赖性影响。研究发现等待时间与上一个时间间隔（λ0）呈现显著的依赖关系，短等待时间后更可能出现下一个短等待时间，而长等待时间后更可能出现下一个长等待时间。这种内存效应还影响了在给定时间窗口内观测到下一个FRB的可能性。研究首次发现了这种内存效应存在于尺度不变的等待时间分布中。这些发现为揭示FRBs的机制提供了新的线索。 <br><br>总结: FRB的重复与非重复现象可能都受到等待时间的内存依赖性影响，短等待时间更可能后续也是短等待时间，长等待时间也更可能后续是长等待时间。内存效应还影响了在给定时间窗口内观测到下一个FRB的可能性。这种内存效应首次被发现存在于尺度不变的等待时间分布中，为揭示FRBs的机制提供了新的线索。 <div>
+FRB的重复性与非重复性现象可能都受到时间间隔的内存依赖性影响。研究发现等待时间与上一个时间间隔（λ0）呈现显著的依赖关系，短等待时间后更可能出现下一个短等待时间，而长等待时间后更可能出现下一个长等待时间。这种内存效应还影响了在给定时间窗口内观测到下一个FRB的可能性。研究首次发现了这种内存效应存在于尺度不变的等待时间分布中。这些发现为揭示FRBs的机制提供了新的线索。 <br /><br />总结: FRB的重复与非重复现象可能都受到等待时间的内存依赖性影响，短等待时间更可能后续也是短等待时间，长等待时间也更可能后续是长等待时间。内存效应还影响了在给定时间窗口内观测到下一个FRB的可能性。这种内存效应首次被发现存在于尺度不变的等待时间分布中，为揭示FRBs的机制提供了新的线索。 <div>
 Understanding the nature of repeating fast radio bursts (FRBs) is crucial for probing their underlying physics. In this work, we analyze the waiting time statistics between bursts of three repeating FRBs from four data sets. We find a universally pronounced dependency of the waiting times on the previous time interval (denoted as λ0). We observe a temporal clustering, where short waiting times tend to be followed by short ones and long by long, comparative to their mean value. This memory dependency is manifested in the conditional mean waiting time as well as in the conditional mean residual time to the next burst, both of which increase in direct proportion to λ0. Consequently, the likelihood of experiencing a subsequent FRB burst within a given time window after the preceding burst is generally influenced by the burst history. We reveal, for the first time, that these memory effects are present in the scale-invariant preconditioned waiting time distribution. We show that the memory effect provides a unified description of waiting times that may account for both the repeating FRBs and the apparently nonrepeating FRBs (i.e., those only observed one time). These results shed new light on the mechanism of FRBs.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -114,13 +107,11 @@ Understanding the nature of repeating fast radio bursts (FRBs) is crucial for pr
 <div> 关键词: Mrk 421, X射线偏振, 光学偏振, HSP blazar, 磁场
 
 总结: 
-这篇文章报告了对高同步辐射峰(HSP)类星体Mrk 421的X射线和光学偏振测量的观测结果。他们使用IXPE进行了X射线偏振观测，并在同一时间进行了光学偏振观测。结果显示，X射线和光学波段都检测到了偏振信号，而且发现随着能量的降低，偏振程度逐渐减小。研究人员认为这支持了一个假设，即偏振程度变化的原因可能是不同辐射区域的空间延伸差异。同时，他们还通过对X射线和光学数据进行宽带能谱能量分布建模来支持这一假设。这些结果对于理解HSP类星体的辐射机制提供了宝贵信息。 <br><br> <div>
+这篇文章报告了对高同步辐射峰(HSP)类星体Mrk 421的X射线和光学偏振测量的观测结果。他们使用IXPE进行了X射线偏振观测，并在同一时间进行了光学偏振观测。结果显示，X射线和光学波段都检测到了偏振信号，而且发现随着能量的降低，偏振程度逐渐减小。研究人员认为这支持了一个假设，即偏振程度变化的原因可能是不同辐射区域的空间延伸差异。同时，他们还通过对X射线和光学数据进行宽带能谱能量分布建模来支持这一假设。这些结果对于理解HSP类星体的辐射机制提供了宝贵信息。 <br /><br /> <div>
 We present near-simultaneous X-ray and optical polarization measurements in the high synchrotron peaked (HSP) blazar Mrk 421. The X-ray polarimetric observations were carried out using Imaging X-ray Polarimetry Explorer (IXPE) on 2023 December 6. During IXPE observations, we also carried out optical polarimetric observations using 104 cm Sampurnanand telescope at Nainital and multiband optical imaging observations using 2 m Himalayan Chandra Telescope at Hanle. From model-independent analysis of IXPE data, we detected X-ray polarization with degree of polarization (ΠX) of 8.5% ± 0.5% and an electric vector position angle (ΨX) of 10.°6 ± 1.°7 in the 2−8 keV band. From optical polarimetry on 2023 December 6, in B, V, and R bands, we found values of ΠB = 4.27% ± 0.32%, ΠV = 3.57% ± 0.31%, and ΠR = 3.13% ± 0.25%. The value of ΠB is greater than that observed at longer optical wavelengths, with the degree of polarization suggesting an energy-dependent trend, gradually decreasing from higher to lower energies. This is consistent with that seen in other HSP blazars and favors a stratified emission region encompassing a shock front. The emission happening in the vicinity of the shock front will be more polarized due to the ordered magnetic field resulting from shock compression. The X-ray emission, involving high-energy electrons, originates closer to the shock front than the optical emission. The difference in the spatial extension could plausibly account for the observed variation in polarization between X-ray and optical wavelengths. This hypothesis is further supported by the broadband spectral energy distribution modeling of the X-ray and optical data.
 ]]></content:encoded>
-
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A JWST Medium-resolution MIRI Spectrum and Models of the Type Ia Supernova 2021aefx at +415 days</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6608</link>
@@ -11771,117 +11762,6 @@ We examine Saturn’s nonauroral (dayglow) emissions at Lyα observed by the Cas
 <div> FR0 galaxies, jet population, multimessenger sources, gamma-ray emission, spectral energy distribution modeling <br />
 <br />总结: 本研究确认FR0星系总体上是伽马射线发射体，并发现了两个显著的发射源。研究还发现了5 GHz核心无线电亮度和1-800 GeV带的伽马射线亮度之间存在相关性。使用一区域自同步辐射自康普顿模型，研究通过宽频谱能量分布建模表明这些发现的伽马射线可以解释为反康普顿光子。该建模结果指出了低洛伦兹因子和远离等离子状态、粒子能量密度高于磁场能量密度的射流组成，以解释这些星系的多波段观测。 <div>
 FR0 galaxies constitute the most abundant jet population in the local Universe. With their compact jet structure, they are broadband photon emitters and have been proposed as multimessenger sources. Recently, these sources have been detected for the first time in γ rays. Using a revised FR0 catalog, we confirm that the FR0 population as a whole are γ-ray emitters, and we also identify two significant sources. For the first time, we find a correlation between the 5 GHz core radio luminosity and γ-ray luminosity in the 1–800 GeV band, having a 4.8σ statistical significance. This is clear evidence that the jet emission mechanism is similar in nature for FR0s and the well-studied canonical FR (FRI and FRII) radio galaxies. Furthermore, we perform broadband spectral energy distribution modeling for the significantly detected sources as well as the subthreshold source population using a one-zone synchrotron self-Compton model. Within the maximum jet power budget, our modeling shows that the detected γ rays from the jet can be explained as inverse Compton photons. To explain the multiwavelength observations for these galaxies, the modeling results stipulate a low bulk Lorentz factor and a jet composition far from equipartition, with the particle energy density dominating over the magnetic field energy density.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Simplified Model of the Solar Magnetic Field</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5afb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5afb</guid>
-<content:encoded><![CDATA[
-<div> 磁偶极体环结构, 太阳磁场, Joy's law, Hale's polarity law, 太阳活动周期
-总结:
-本文提出了一个由两个关于赤道面对称的磁偶极体环组成的结构，作为太阳磁场可能的模型。通过近似计算得出该结构产生的磁场符合Joy's law和Hale's polarity law。它还解释了太阳活动高峰期太阳黑子分布中出现两个峰（格涅维舍夫间隙）的现象。通过磁滞原理计算极地磁场，预测了太阳活动的行为。分析偶极子章动有助于预测未来太阳活动的强度。尽管这个磁偶极体环结构的涌现和运行是从陀螺磁力和热力的角度进行了简化的考虑，但这并不限制这个结构作为其他更全球范围内的太阳磁理论的潜在模型的应用。 <div>
-This paper considers a structure consisting of two rings of magnetic dipoles symmetrical relative to the equatorial plane as a possible model for the source of the solar magnetic field. It shows that the magnetic field generated by this structure corresponds to Joy’s law and Hale’s polarity law. Approximate calculations show that the form and shape of the equatorial field of this structure are close to measured values, and the resulting distribution of sunspots is in agreement with Joy's law to Maunder’s butterfly diagram. Based on this structure, it is possible to explain the appearance of two peaks (Gnevyshev gap) in the distribution of sunspots at the maximum of solar activity. Calculating the polar field based on the principles of magnetic hysteresis shows a good coincidence of the calculated and measured values and makes it possible to predict the behavior of the polar field in the interval to the nearest minimum of solar activity. Analyzing dipole nutation makes it possible to predict the intensity of the upcoming solar activity maxima, while a nutation period of approximately 8 months can be associated with 1.3 yr-period field oscillations. Despite the fact that the emergence and the functioning of the proposed configuration of magnetic dipoles is considered in a simplified manner and only from the point of view of gyromagnetic and thermal forces for speed and clarity, this does not limit the use of the proposed structure as a potential model in other, more global-scale general hydromagnetic theories of solar magnetism.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Investigating Optical Variability of the Blazar S5 0716+714 on Diverse Timescales</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cef</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cef</guid>
-<content:encoded><![CDATA[
-<div> blazar, 变异性, 光学, 观测, 长期变化<br />
-<br />
-通过对S5 0716+716的光学B、V、R和I波段在2019年3月至2023年8月进行的观测研究，发现这个类星体在不同时间尺度上具有变化。使用土耳其T60机器人望远镜对其进行了416个夜晚的长期观测。另外，为了寻找类星体的日内变化，用T100望远镜进行了至少1小时的观测，共21个夜晚。研究发现，该类星体在光学R波段在观测期间呈现约2.47等变化，亮度最高于2020年1月18日（MJD 58866），R = 12.109±0.011等，最暗于2019年3月23日（MJD 58565），R = 14.580±0.013等。应用嵌套ANOVA检验和加权F检验量化了日内变异性，发现其中12个夜晚类星体在R波段显著变化。光变曲线的相关性分析显示，BVRI光学波段的发射在短期和长期内都强相关且没有时间延迟。根据加权小波Z变换和Lomb-Scargle周期图分析，发现该类星体在光学R波段光变曲线上可能有186±30和532±76天的准周期。文章对日内变化和长期变化特征进行了讨论，提出了一些潜在的情景。 <br /><br />总结: <br />研究对S5 0716+716类星体的光学变异性进行了长期观测，并发现了日内和长期的变化特征。BVRI光学波段的发射与时间相关，并且可能存在准周期。 <div>
-We present the results of the observational study of the blazar S5 0716+716 in the optical bands B, V, R, and I between 2019 March and 2023 August to investigate its variability on diverse timescales. The blazar was followed up by the T60 robotic telescope in Türkiye for 416 nights to obtain long-term variability during this period. In order to search for the intraday variability of the object, we have carried out 21 nights of observations with the T100 telescope for at least 1 hr. The blazar showed a ∼2.47 mag variation in the optical R band during our monitoring period, the brightest state on 2020 January 18 (MJD 58866) as R = 12.109 ± 0.011 mag and the faintest state on 2019 March 23 (MJD 58565) as R = 14.580 ± 0.013 mag. We employed the nested ANOVA test and the power-enhanced F-test to quantify intraday variability, which showed that the blazar was significantly variable in the R band on 12 out of 21 nights. Correlation analysis of the light curves shows that the emission in the BVRI optical bands was strongly correlated both in the short and long term without any time lag. The blazar has likely quasiperiods of 186 ± 30 and 532 ± 76 days in the optical R-band light curve according to the weighted wavelet Z-transform and Lomb–Scargle periodogram. The intraday variation and long-term variation features are discussed within the frame of prospective scenarios.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Catalog of Broad Hα and Hβ Active Galactic Nuclei in MaNGA</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c68</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c68</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Hα, Hβ, MaNGA, AGN, merger
-
-总结:
-本研究利用斯隆数字化天空勘测的Mapping Nearby Galaxies at Apache Point Observatory (MaNGA)目录，发现301个具有广Hα发射线的星系和801个具有广Hβ发射线的星系。在总计1042个独特的广发射线星系中，60个同时具有广Hα和广Hβ发射线。研究显示，广发射线区域的半径范围在0.01到46 lt-days之间，其中广Hβ样本的中值半径为0.1 lt-days（0.02 pc）。此外，研究还发现，与MaNGA星系全样本（26%）相比，广Hα样本和广Hβ样本都具有更高的星系合并比例（分别为44%和43%），这表明星系合并推动的燃料补给在我们的样本中非常活跃。<br /><br /> <div>
-Broad Hα and Hβ emission lines (FWHM > 1000 km s−1) are incredibly efficient tracers of the high-velocity clouds encircling active galactic nuclei (AGNs). As a result, we search for these broad-line AGN in the Sloan Digital Sky Survey’s Mapping Nearby Galaxies at Apache Point Observatory (MaNGA) catalog. We identify 301 broad-line Hα galaxies and 801 broad-line Hβ galaxies in the catalog. In total, we detect 1042 unique broad-line galaxies with luminosities between 1037 and 1043 erg s−1; 60 feature both broad Hα and broad Hβ emission. We also determine that the broad-line region radius ranges between 0.01 and 46 lt-days, with a median radius of 0.1 lt-days (0.02 pc) for our broad Hβ sample. In addition, we find that both samples feature a higher fraction of galaxy mergers (44% for the broad Hα sample and 43% for the broad Hβ sample), compared to the full MaNGA galaxy sample (26%), which suggests that merger-driven fueling is strongly active in our sample.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Collisionless Relaxation from Near-equilibrium Configurations: Linear Theory and Application to Tidal Stripping</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c6e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4c6e</guid>
-<content:encoded><![CDATA[
-<div> 矩阵方法，线性响应理论，相空间分布，动力学平衡，暗物质子系统<br />
-<br />
-总结:<br />
-本研究使用矩阵方法和线性响应理论研究了被略微置于动态平衡之外的孤立恒星系统的松弛过程。研究表明，最终的平衡状态的全相空间分布可以直接从非平衡的初始条件中恢复，无需计算系统的时间演化，从而减少了计算的复杂性。此外，还开发了工具来模拟系统在线性近似下的完整时间演化，尤其是表明可以利用广义矩矩阵高效地计算速度分布的矩。研究应用线性方法对能量截断的Hernquist球体进行了松弛过程的研究，模拟了一个具有等离子体的暗物质次哈洛的潮汐剥离。与受控的孤立N体模拟进行比较显示，在预期会出现线性对扰动相响应的部分，线性预测与实际结果一致。研究结果发现，尽管初始的非平衡状态具有各向同性的运动学特性，但是松弛会在中间区域生成切向速度各向异性。结果还加强了松弛过程会消减密度尖峰幅度，但不会影响其渐近斜率的观点。最后，将线性理论与椭圆轨道潮汐剥离的N体模拟进行比较，验证了该理论仍然准确预测了系统大部分区域的密度和速度分散特性。 <div>
-Placed slightly out of dynamical equilibrium, an isolated stellar system quickly returns toward a steady virialized state. We study this process of collisionless relaxation using the matrix method of linear response theory. We show that the full phase-space distribution of the final virialized state can be recovered directly from the disequilibrium initial conditions, without the need to compute the time evolution of the system. This shortcut allows us to determine the final virialized configuration with minimal computational effort. Complementing this result, we develop tools to model the system's full time evolution in the linear approximation. In particular, we show that moments of the velocity distribution can be efficiently computed using a generalized moment matrix. We apply our linear methods to study the relaxation of energy-truncated Hernquist spheres, mimicking the tidal stripping of a cuspy dark matter subhalo. Comparison of our linear predictions against controlled, isolated N-body simulations shows agreement at percent level for the parts of the system where a linear response to the perturbation is expected. We find that relaxation generates a tangential velocity anisotropy in the intermediate regions, despite the initial disequilibrium state having isotropic kinematics. Our results also strengthen the case for relaxation depleting the amplitude of the density cusp, without affecting its asymptotic slope. Finally, we compare the linear theory against an N-body simulation of tidal stripping on a radial orbit, confirming that the theory still accurately predicts density and velocity dispersion profiles for most of the system.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Embedded Coherent Structures from Magnetohydrodynamics to Sub-ion Scales in Turbulent Solar Wind at 0.17 au</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5288</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5288</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳风、MHD等离子体、Park Solar Probe、时标结构、阿尔文涡
-
-总结: 
-文章研究了太阳风湍流中的间歇性相干结构，利用Park Solar Probe的数据，跨越了从MHD到动力学等离子体尺度的范围，首次在物理空间中应用了多尺度分析。研究发现在MHD尺度范围内，存在电流片和阿尔芬涡等结构，而在这些事件中嵌入了更小尺度的结构，通常是离子尺度的阿尔芬涡和亚离子尺度的可压缩涡旋。观察到的结构数量随着尺度的减小而增多，在MHD尺度约为200个事件，在离子尺度约为103个，在亚离子尺度约为104个。通过统计分析，结果显示阿尔芬涡在各个尺度上占据主导地位，这与以往普遍认为电流片占主导地位的观点有所不同，这表明阿尔芬涡是太阳风湍流中重要的构建模块。 <br /><br /> <div>
-We study intermittent coherent structures in solar wind turbulence from MHD to kinetic plasma scales using Parker Solar Probe data during its first perihelion (at 0.17 au) in the highly Alfvénic slow solar wind. We detect coherent structures using Morlet wavelets. For the first time, we apply a multiscale analysis in physical space. At MHD scales within the inertial range, times scales τ ∈ (1, 102) s, we find (i) current sheets including switchback boundaries and (ii) Alfvén vortices. Within these events are embedded structures at smaller scales: typically Alfvén vortices at ion scales, τ ∈ (0.08, 1) s, and compressible vortices at sub-ion scales, τ ∈ 8(10−3, 10−2) s. The number of coherent structures grows toward smaller scales: we observe ∼200 events during a 5 hr time interval at MHD scales, ∼103 at ion scales, and ∼104 at sub-ion scales. In general, there are multiple structures of ion and sub-ion scales embedded within one MHD structure. There are also examples of ion and sub-ion scale structures outside MHD structures. To quantify the relative importance of different types of structures, we do a statistical comparison of the observed structures with the expectations of models of the current sheets and vortices. The results show the dominance of Alfvén vortices at all scales in contrast to the widespread view of the dominance of current sheets. This means that Alfvén vortices are important building blocks of Alfvénic solar wind turbulence.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Experimental Study of Alfvén Wave Reflection from an Alfvén-speed Gradient Relevant to the Solar Coronal Holes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad528f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad528f</guid>
-<content:encoded><![CDATA[
-<div> 实验，Alfvén波，反射，梯度，波加热
-总结:
-实验在加利福尼亚大学洛杉矶分校的大型等离子体装置中进行，首次实验性地探测到了在类似日冕空洞条件下的Alfvén速度梯度上发生的Alfvén波的反射现象。实验测量了反射系数与波的不均匀参数的依赖关系，即入射波波长与梯度长度尺度的比值。通过使用Gkeyll代码进行的两流体模拟与实验结果在定性上达成一致并予以支持。实验结果支持依赖于在低高度处从光滑Alfvén速度梯度处发生波反射以引发湍流的波加热模型。 <div>
-We report the first experimental detection of a reflected Alfvén wave from an Alfvén-speed gradient under conditions similar to those in coronal holes. The experiments were conducted in the Large Plasma Device at the University of California, Los Angeles. We present the experimentally measured dependence of the coefficient of reflection versus the wave inhomogeneity parameter, i.e., the ratio of the wavelength of the incident wave to the length scale of the gradient. Two-fluid simulations using the Gkeyll code qualitatively agree with and support the experimental findings. Our experimental results support models of wave heating that rely on wave reflection at low heights from a smooth Alfvén-speed gradient to drive turbulence.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>CHAOS. VIII. Far-ultraviolet Spectra of M101 and the Impact of Wolf–Rayet Stars*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5292</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5292</guid>
-<content:encoded><![CDATA[
-<div> H ii regions, M101, FUV spectra, nebular properties, WR stars
-总结:
-本研究对漩涡星系M101中的九个H ii区的恒星和星云特性进行了调查，使用了远紫外（FUV; ∼900–2000 Å）和光学（∼3200–10,000 Å）光谱。我们检测到了7个区域中显著的C iii] λλ1907,1909星云发射，但只在最低金属丰度的区域中发现了O iii] λ1666。我们提出了关于金属丰度的碳离子化校正因子的新解析函数，以进行初步的C/O丰度分析。FUV光谱还包含了大量的恒星发射和P-Cygni特征，我们用单次爆发的Starburst99和BPASS模型的辐射加权组合对其进行拟合。我们发现，最佳拟合的Starburst99模型与观察到的非常高电离P-Cygni特征很好地匹配，需要非常炽热、年轻(≲3百万年)、金属丰度高的大质量恒星。最年轻的恒星群体与宽He ii发射、氮Wolf–Rayet（WR）FUV和光学光谱特征以及增强的N/O气体丰度密切相关。因此，短寿命的WR相可能在几个N P-Cygni风特征（λ955, λ991, λ1720）中驱动多余的发射，导致了对较高金属丰度的恒星连续体拟合与气相金属丰度的偏差。精确表征这些H ii区需要在恒星群体合成模型中进一步包含WR恒星。我们的FUV光谱证明了∼900–1200 Å FUV可以为未来WR大气和进化模型提供强有力的试验基础。<br /><br /> <div>
-We investigate the stellar and nebular properties of nine H ii regions in the spiral galaxy M101 with far-ultraviolet (FUV; ∼900–2000 Å) and optical (∼3200–10,000 Å) spectra. We detect significant C iii] λλ1907,1909 nebular emission in seven regions, but O iii] λ1666 only in the lowest-metallicity region. We produce new analytic functions of the carbon ionization correction factors as a function of metallicity in order to perform a preliminary C/O abundance analysis. The FUV spectra also contain numerous stellar emission and P-Cygni features that we fit with luminosity-weighted combinations of single-burst Starburst99 and BPASS models. We find that the best-fit Starburst99 models closely match the observed very-high-ionization P-Cygni features, requiring very hot, young (≲3 Myr), metal-enriched massive stars. The youngest stellar populations are strongly correlated with broad He ii emission, nitrogen Wolf–Rayet (WR) FUV and optical spectral features, and enhanced N/O gas abundances. Thus, the short-lived WR phase may be driving excess emission in several N P-Cygni wind features (λ955, λ991, λ1720) that bias the stellar continuum fits to higher metallicities relative to the gas-phase metallicities. Accurate characterization of these H ii regions requires additional inclusion of WR stars in the stellar population synthesis models. Our FUV spectra demonstrate that the ∼900–1200 Å FUV can provide a strong test bed for future WR atmosphere and evolution models.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Interplanetary Type IV Solar Radio Bursts: A Comprehensive Catalog and Statistical Results</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5315</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5315</guid>
-<content:encoded><![CDATA[
-<div> 关键词: DH type IV bursts, 太阳活动, 太阳风暴, 日冕物质抛射, 電波观测<br />
-<br />总结: 
-本研究提供了1996年11月至2023年5月期间在Wind和Solar TErrestrial RElations Observatory飞船上观察到的139个DH类型IV爆发的全面目录。其中73％与快速（> 900 km/s）和宽泛（> 60°）的CME相关联，平均CME速度为1301 km/s。所有DH类型IV爆发均与白光CME相关，其中78％与光晕CME相关。CME源纬度在±45°范围内。77个事件有多颗卫星不同位置的观测数据，发现观测角度对动态光谱的影响。观察到的爆发在±60°的视线范围内效果最佳。持续时间超过120分钟的爆发在±60°的经度范围内。这些结果确认了类型IV辐射的固有定向性。此外，该目录形成了一个以太阳为星的DH类型IV爆发数据库。 <div>
-Decameter hectometric (DH; 1–14 MHz) type IV radio bursts are produced by flare-accelerated electrons trapped in postflare loops or the moving magnetic structures associated with the coronal mass ejections (CMEs). From a space weather perspective, it is important to systematically compile these bursts, explore their spectrotemporal characteristics, and study the associated CMEs. We present a comprehensive catalog of DH type IV bursts observed by the Radio and Plasma Wave Investigation instruments on board the Wind and Solar TErrestrial RElations Observatory spacecraft covering the period of white-light CME observations by the Large Angle and Spectrometric Coronagraph on board the Solar and Heliospheric Observatory mission between 1996 November and 2023 May. The catalog has 139 bursts, of which 73% are associated with a fast (>900 km s−1) and wide (>60°) CME, with a mean CME speed of 1301 km s−1. All DH type IV bursts are white-light CME-associated, with 78% of the events associated with halo CMEs. The CME source latitudes are within ±45°. Seventy-seven events had multiple-vantage-point observations from different spacecraft, letting us explore the impact of the line of sight on the dynamic spectra. For 48 of the 77 events, there were good data from at least two spacecraft. We find that, unless occulted by nearby plasma structures, a type IV burst is best viewed when observed within a ±60° line of sight. Also, bursts with a duration above 120 minutes have source longitudes within ±60°. Our inferences confirm the inherent directivity in the type IV emission. Additionally, the catalog forms a Sun-as-a-star DH type IV burst database.
-]]></content:encoded>
-<pubDate>2024-08-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Calibrating the WSA Model in EUHFORIA Based on Parker Solar Probe Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad53c6</guid>
-<content:encoded><![CDATA[
-<div> Parker Solar Probe, WSA coronal model, EUHFORIA, calibration, solar wind observations
-总结:
-Parker Solar Probe观测在最近的太阳活动极小期间，使用Wang-Sheeley-Arge (WSA)日冕模型进行校准，该模型是欧洲日球层预报信息资源(EUHFORIA)的一部分。通过PSP观测，校准了WSA模型的四个常数，并将更新后的WSA边界条件同PSP观测进行对比，并在整个日球层中传播这些条件。通过对地球的预测结果来评估模型的性能，发现接近太阳的模型配置与提供更好地球预测的配置不同。原因可能是PSP记录的快速太阳风速度的稀缺性，并且还可能与EUHFORIA的日球层中缺少的物理过程以及WSA关系与日球层MHD域耦合可能需要全面重新制定有关。 <div>
-We employ Parker Solar Probe (PSP) observations during the latest solar minimum period (years 2018–2021) to calibrate the version of the Wang–Sheeley–Arge (WSA) coronal model used in the European Heliospheric Forecasting Information Asset (EUHFORIA). WSA provides a set of boundary conditions at 0.1 au necessary to initiate the heliospheric part of EUHFORIA, namely, the domain extending beyond the solar Alfvénic point. To calibrate WSA, we observationally constrain four constants in the WSA semiempirical formula based on PSP observations. We show how the updated (after the calibration) WSA boundary conditions at 0.1 au are compared to PSP observations at similar distances, and we further propagate these conditions in the heliosphere according to EUHFORIA’s magnetohydrodynamic (MHD) approach. We assess the predictions at Earth based on the dynamic time-warping technique. Our findings suggest that, for the period of interest, the WSA configurations that resembled optimally the PSP observations close to the Sun were different from the ones needed to provide better predictions at Earth. One reason for this discrepancy can be attributed to the scarcity of fast solar wind velocities recorded by PSP. The calibration of the model was performed based on unexpectedly slow velocities that did not allow us to achieve generally and globally improved solar wind predictions compared to older studies. Other reasons can be attributed to missing physical processes from the heliospheric part of EUHFORIA but also the fact that the currently employed WSA relationship, as coupled to the heliospheric MHD domain, may need a global reformulation beyond that of just updating the four constant factors that were taken into account in this study.
 ]]></content:encoded>
 <pubDate>2024-08-06T23:00:00Z</pubDate>
 </item>
