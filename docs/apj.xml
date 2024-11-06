@@ -4,6 +4,123 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Bursty Star Formation in Dwarfs is Sensitive to Numerical Choices in Supernova Feedback Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f57</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f57</guid>
+<content:encoded><![CDATA[
+<div> 星系形成模拟，能量守恒阶段，超新星事件，SMUGGLE模型，Mvir ∼ 1010M⊙矮星系
+
+在这篇论文中，研究了用SMUGGLE恒星反馈模型进行的星系模拟。对Mvir ∼ 1010M⊙矮星系进行了理想化模拟，并发现通过改变超新星释放给周围气体的动量的方向分布，可以放大或完全抑制星形成的爆发性，且最终形成的恒星总质量可以相差近3倍。具体来说，当动量主要是垂直于气体盘时，星形成不太爆发，并且整体星形成率较低，导致较少的气体湍流，更多盘状形态，并保留尖锐暗物质密度轮廓。这表明需要改进对恒星反馈与非均匀气态介质之间的非线性耦合的理解，以使矮星系的恒星形态和暗物质核心形成的预测更加稳健，且不依赖于有关重子处理的不确定数值选择。
+
+<br><br>总结：
+1. 研究了用SMUGGLE模型进行的星系模拟
+2. 发现动量方向会影响星形成的爆发性和总质量
+3. 当动量垂直于气体盘时，星形成较缓和且整体星形成率较低
+4. 需要改进恒星反馈与非均匀气态介质之间的耦合理解
+5. 对矮星系的恒星形态和暗物质核心形成的预测需要更加稳健，不依赖于数值选择。 <div>
+Simulations of galaxy formation are mostly unable to resolve the energy-conserving phase of individual supernova events, having to resort to subgrid models to distribute the energy and momentum resulting from stellar feedback. However, the properties of these simulated galaxies, including the morphology, stellar mass formed, and the burstiness of the star formation history, are highly sensitive to the numerical choices adopted in these subgrid models. Using the SMUGGLE stellar feedback model, we carry out idealized simulations of an Mvir ∼ 1010M⊙ dwarf galaxy, a regime where most simulation codes predict significant burstiness in star formation, resulting in strong gas flows that lead to the formation of dark matter cores. We find that by varying only the directional distribution of momentum imparted from supernovae to the surrounding gas, while holding the total momentum per supernova constant, bursty star formation may be amplified or completely suppressed, and the total stellar mass formed can vary by as much as a factor of ∼3. In particular, when momentum is primarily directed perpendicular to the gas disk, less bursty and lower overall star formation rates result, yielding less gas turbulence, more disky morphologies, and a retention of cuspy dark matter density profiles. An improved understanding of the nonlinear coupling of stellar feedback into inhomogeneous gaseous media is thus needed to make robust predictions for stellar morphologies and dark matter core formation in dwarfs independent of uncertain numerical choices in the baryonic treatment.
+]]></content:encoded>
+
+<pubDate>2024-11-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Accelerating Giant-impact Simulations with Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe5</guid>
+<content:encoded><![CDATA[
+<div> 机器学习、模拟、外行星、巨大碰撞、预测
+总结:
+本文介绍了一种利用机器学习方法加速外行星巨大碰撞模拟的方法。通过对三行星系统的大量N体模拟训练，研究人员开发了一个能够准确预测哪两颗行星会发生碰撞，以及碰撞后的状态的机器学习模型。这一模型大大提高了对碰撞结果的预测准确性，并结合长期稳定性模型，创建了一个可以合理准确地预测巨大碰撞模拟结果的机器学习模拟器。这一技术的应用有望推动一些原本计算上不可行的分析。研究人员还开放了他们的训练代码，并提供了一个易于使用的用户界面。 <div>
+Constraining planet-formation models based on the observed exoplanet population requires generating large samples of synthetic planetary systems, which can be computationally prohibitive. A significant bottleneck is simulating the giant-impact phase, during which planetary embryos evolve gravitationally and combine to form planets, which may themselves experience later collisions. To accelerate giant-impact simulations, we present a machine learning (ML) approach to predicting collisional outcomes in multiplanet systems. Trained on more than 500,000 N-body simulations of three-planet systems, we develop an ML model that can accurately predict which two planets will experience a collision, along with the state of the postcollision planets, from a short integration of the system’s initial conditions. Our model greatly improves on non-ML baselines that rely on metrics from dynamics theory, which struggle to accurately predict which pair of planets will experience a collision. By combining with a model for predicting long-term stability, we create an ML-based giant-impact emulator, which can predict the outcomes of giant-impact simulations with reasonable accuracy and a speedup of up to 4 orders of magnitude. We expect our model to enable analyses that would not otherwise be computationally feasible. As such, we release our training code, along with an easy-to-use user interface for our collision-outcome model and giant-impact emulator (https://github.com/dtamayo/spock).
+]]></content:encoded>
+
+<pubDate>2024-11-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>On the 3D Transport of Low-energy Galactic Cosmic-ray and Jovian Electrons in the Inner Heliosphere in the Presence of a Fisk-type Heliospheric Magnetic Field</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8153</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8153</guid>
+<content:encoded><![CDATA[
+<div> cosmic-ray electrons, heliospheric magnetic field, mean free path, particle transport, turbulence model
+<br><br>
+这篇文章研究了低能（1-10 MeV）宇宙射线电子在太阳系磁场中的传输行为，特别针对木星电子进行了研究。研究使用了3D的粒子输运代码和理论扩散系数表达式，其中输运系数的输入是利用双组分湍流传输模型计算得到的湍流量。研究还探讨了一种新型Fisk型磁场对木星电子传输的影响，并将其与标准的Parker磁场进行了比较。这些研究可以为太阳系磁场行为提供宝贵的见解。 
+<br>总结: 
+1. 研究了低能宇宙射线电子的传输行为
+2. 使用了3D粒子输运代码和理论扩散系数表达式
+3. 利用双组分湍流传输模型计算了输运系数的输入
+4. 探讨了新型Fisk型磁场对木星电子传输的影响
+5. 可为太阳系磁场行为提供宝贵的见解 <div>
+Modeling the transport of low-energy (1−10 MeV) cosmic-ray electrons can lead to valuable insights as to the behavior of the heliospheric magnetic field (HMF), due to the fact that the mean free path (MFP) of these particles parallel to the HMF is significantly larger than their perpendicular MFP, and that these particles experience little in the way of drift due to gradients/curvatures in the HMF and along the heliospheric current sheet. Jovian electrons are particularly suitable for such an endeavour, as they originate from a decentral source in the inner heliosphere. To this end, the transport of these electrons is studied using a 3D, ab initio particle transport code that incorporates theoretical expressions for electron diffusion coefficients, and utilizes as inputs for these transport coefficients turbulence quantities calculated using a two-component turbulence transport model. The effects of a novel Fisk-type field on the transport of these Jovian electrons are investigated and compared with the effects of a standard Parker field.
+]]></content:encoded>
+
+<pubDate>2024-11-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Fast Radio Bursts with Narrow Beaming Angles Can Escape from Magnetar Magnetospheres</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad822e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad822e</guid>
+<content:encoded><![CDATA[
+<div> 磁星、快速射电暴、辐射机制、空间扩散、辐射锥<br>
+总结：<br>
+本文研究了快速射电暴（FRBs）可能起源于磁星磁层的情况，通过模拟发现，当FRB的传播方向与背景磁场夹角很小时，其散射效应会大大减弱。经过对辐射角度和发射半径的研究，得出FRB在磁星磁层发生的可能性较大。FRB的小辐射角和大发射半径对于其在磁层内的传播有益。文章结果支持了FRB可能源自磁星磁层的假设。 <div>
+Fast radio bursts (FRBs) are millisecond-duration transients observed in the radio band, with their origin and radiation mechanism remaining unclear to date. Growing evidence indicates that at least some FRBs originate from magnetars and are likely generated within the magnetospheres of these highly magnetized neutron stars. However, a recent study suggested that FRBs originating from magnetar magnetospheres would be scattered by magnetospheric electron–positron pair plasma, making it impossible for them to escape successfully. In this paper, we first demonstrate that the scattering effect can be greatly attenuated if the angle between the FRB propagation direction and the background magnetic field is ∼10−2 rad or smaller. When the angle is around 10−1 rad, the beaming effect of FRBs becomes significant in reducing scattering. Such FRBs have small transverse spatial sizes, which can help them instantly push the front plasma laterally out of the radiation region. This significantly mitigates the FRB-induced two-photon annihilation reaction, γ + γ → e− + e+, which was previously regarded as a key factor hindering the propagation of FRBs. A critical radiation-cone half-opening angle between 10−3 and 10−2 rad is found for an FRB with isotropic luminosity Liso ∼ 1042 erg s−1 and emitted at a radius rem ≲ 109 cm in the magnetosphere of a magnetar. Smaller beaming angles and larger emission radii can be more advantageous for the propagation of FRBs in magnetospheres. Our result supports the scenario that FRBs could originate from magnetar magnetospheres.
+]]></content:encoded>
+
+<pubDate>2024-11-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Probing Blackbody Components in Gamma-Ray Bursts from Black Hole Neutrino-dominated Accretion Flows</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d8</guid>
+<content:encoded><![CDATA[
+<div> 黑洞，中心引擎，伽马射线暴，中微子，吸积流
+总结:<br><br>这篇文章主要讨论了围绕着恒星质量黑洞的中微子主导的吸积流(NDAF)被认为是伽马射线暴(GRBs)的中心引擎。中微子从盘上逃逸，将在盘外发生湮灭以产生能够支撑带有黑体成分的GRB的火球。研究收集了七个已知红移且具有BB成分的GRB，并发现大多数情况下，吸积率和中心黑洞属性的数值都在合理范围内，这表明这些BB成分确实源自中微子湮灭过程。 <div>
+A stellar-mass black hole (BH) surrounded by a neutrino-dominated accretion flow (NDAF) is generally considered to be the central engine of gamma-ray bursts (GRBs). Neutrinos escaping from the disk will annihilate outside the disk to produce the fireball that could power GRBs with blackbody (BB) components. The initial GRB jet power and fireball launch radius are related to the annihilation luminosity and annihilation height of the NDAFs, respectively. In this paper, we collect seven GRBs with known redshifts and identified BB components to test whether the NDAF model works. We find that, in most cases, the values of the accretion rates and the central BH properties are all in the reasonable range, suggesting that these BB components indeed originate from the neutrino annihilation process.
+]]></content:encoded>
+
+<pubDate>2024-11-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Comparison between the Emission Torus and the Measured Toroidal Magnetic Field for the Crab and Vela Nebulae</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8638</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8638</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 极化测量, 磁场, 星云, 观测数据, 类星体<br>
+<br>
+总结: <br>这篇论文利用成像X射线偏振探测器的观测数据，研究了蟹状星云外环和天蝎座-Vela星云的偏振磁场。蟹状星云外环的极化角度表现出随方位角单调变化的特征，与椭圆环的法线一致。同时，蟹状星云外环的极化矢量与结构一致，暗示着一个0.8倍光速的物质流动。相比之下，天蝎座-Vela星云的极化磁场不完全与结构一致，表现出一个不完全的环状磁场结构。此外，蟹状星云具有一个极化的环形磁场，而天蝎座-Vela星云则呈现出一个不完整的环形磁场结构。 <div>
+Polarization measurements provide insight into the magnetic field, a critical aspect of the dynamics and emission properties around the compact object. In this paper, we present the polarized magnetic field of the Crab outer torus and the Vela arc utilizing Imaging X-ray Polarimetry Explorer observation data. The polarization angle (PA) measured for the Crab outer torus exhibits two monotonic evolutions along the azimuth angle, which are consistent with the normal line of the elliptical ring. There is a slight increase in PA along the azimuth angle for both the inner arc and the outer arc of the Vela Nebula. The polarized magnetic vector along the outer torus of the Crab Nebula shows the polarized magnetic field aligns with the Crab outer torus structure. The PA variation along the Crab outer torus suggests a bulk flow speed of 0.8c. Meanwhile, the Vela Nebula polarized magnetic field does not exactly align with the Vela arc structure. We noted that the Crab Nebula possesses a polarized toroidal magnetic field, whereas the Vela Nebula exhibits an incomplete toroidal magnetic field.
+]]></content:encoded>
+
+<pubDate>2024-11-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Analysis of the Full Spitzer Microlensing Sample. I. Dark Remnant Candidates and Gaia Predictions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb1</guid>
+<content:encoded><![CDATA[
+<div> Spitzer Space Telescope, microlensing events, Galactic models, Bayesian analysis, Gaia mission
+<br><br>
+这项研究分析了2014年至2019年间Spitzer Space Telescope观测到的约950个微引力透镜事件样本，重点关注了9个微引力透镜事件子样本，根据它们的长时间尺度、小微引力透镜视差和Gaia任务的联合观测进行了选择，以增加所选透镜为巨大并且质量可测量的概率。在所选事件中，识别了黑洞和中子星候选透镜，并有望通过2026年Gaia时序测量数据的发布进行进一步确认。利用贝叶斯分析和银河模型，以及Gaia数据发布3的恰当运动数据，确定了四个潜在的暗残余体候选者：OGLE-2016-BLG-0293，OGLE-2018-BLG-0483，OGLE-2018-BLG-0662和 OGLE-2015-BLG-0149，其透镜质量分别为，，和。值得注意的是，前两个候选者有望展现Gaia可探测到的天文微引力透镜信号，从而提供验证透镜质量的可能性。本研究中开发的方法将应用于整个Spitzer微引力透镜样本，填补和分析时间尺度（tE）与视差（πE）图，以推导透镜总体和巨大残余体特别是残余体的约束。 
+<br><br>总结: 本研究使用Spitzer Space Telescope观测到的微引力透镜事件样本，选择了九个具有潜在测量质量的候选事件，确定了四个黑洞和中子星的候选透镜，并通过银河模型和Gaia数据进行分析。该研究开发的方法将应用于整个Spitzer微引力透镜样本，以推导透镜总体和巨大残余体的约束。 <div>
+In the pursuit of understanding the population of stellar remnants within the Milky Way, we analyze the sample of ∼950 microlensing events observed by the Spitzer Space Telescope between 2014 and 2019. In this study we focus on a subsample of nine microlensing events, selected based on their long timescales, small microlensing parallaxes, and joint observations by the Gaia mission, to increase the probability that the chosen lenses are massive and the mass is measurable. Among the selected events we identify lensing black holes and neutron star candidates, with potential confirmation through forthcoming release of the Gaia time-series astrometry in 2026. Utilizing Bayesian analysis and Galactic models, along with the Gaia Data Release 3 proper-motion data, four good candidates for dark remnants were identified: OGLE-2016-BLG-0293, OGLE-2018-BLG-0483, OGLE-2018-BLG-0662, and OGLE-2015-BLG-0149, with lens masses of , , and , respectively. Notably, the first two candidates are expected to exhibit astrometric microlensing signals detectable by Gaia, offering the prospect of validating the lens masses. The methodologies developed in this work will be applied to the full Spitzer microlensing sample, populating and analyzing the timescale (tE) versus parallax (πE) diagram to derive constraints on the population of lenses in general and massive remnants in particular.
+]]></content:encoded>
+
+<pubDate>2024-11-05T00:00:00Z</pubDate>
+</item>
+<item>
+<title>JWST/NIRSpec Observations of Lyman α Emission in Star-forming Galaxies at 6.5 ≲ z ≲ 13</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eb7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eb7</guid>
+<content:encoded><![CDATA[
+<div> Lyα spectroscopy, galaxies, JWST, redshift, reionization<br>
+Lyα光谱，星系，JWST，红移，再电离<br><br>总结:
+本研究分析了JWST对z≳6.5星系的Lyα光谱，使用了公共数据库中的观测数据，涵盖了四个独立领域：GOOS-N、GOODS-S、A2744和EGS。我们测量了210个z≃6.5-13星系的Lyα发射线特性，并在所有案例中独立于Lyα确认了红移。我们发现三个新的Lyα发射线的探测，并且在GOOS-N中发现了一个大等效宽度（EW=143 Å）的Lyα发射线（LAE），并且还有强C iv发射（EW=21 Å），红移为7.1。我们测量了样本中Lyα等效宽度随红移的分布。我们发现在更早的时期，强Lyα发射（EW>25 Å）变得越来越罕见，暗示Lyα光子的传输在z≃5和z≃9之间下降了4倍。我们描述了对星系间介质中性分数的潜在影响。LAE比例在不同领域之间存在显著差异。与其他三个领域不同，EGS在z≃7-8没有减少Lyα光子的传输迹象，这表明该领域可能存在明显的电离视线。我们使用了来自第一再电离纪元光谱完整观测调查的NIRCam光栅观测数据，用于描述在GOOS领域周围已知LAE的大尺度密度过剩。在大多数情况下，最强的过剩密度似乎与极强的Lyα检测（EW>50 Å）有关。未来JWST的Lyα光谱观测有潜力约束早期星系密度周围电离区域的大小，提供再电离过程的新探针。 <div>
+We present an analysis of JWST Lyα spectroscopy of z ≳ 6.5 galaxies, using observations in the public archive covering galaxies in four independent fields: Great Observatories Origins Deep Survey (GOODS)-N, GOODS-S, A2744, and the Extended Groth Strip (EGS). We measure the Lyα emission line properties for a sample of 210 z ≃ 6.5–13 galaxies, with redshifts confirmed independently of Lyα in all cases. We present three new detections of Lyα emission in JWST spectra, including a large equivalent width (EW; =143 Å) Lyα emitter (LAE) with strong C iv emission (EW = 21 Å) at z = 7.1 in GOODS-N. We measure the redshift-dependent Lyα EW distribution across our sample. We find that strong Lyα emission (EW > 25 Å) becomes increasingly rare at earlier epochs, suggesting that the transmission of Lyα photons decreases by 4× between z ≃ 5 and z ≃ 9. We describe potential implications for the intergalactic medium neutral fraction. There is significant field-to-field variance in the LAE fraction. In contrast to the three other fields, the EGS shows no evidence for reduced transmission of Lyα photons at z ≃ 7–8, suggesting a significantly ionized sight line may be present in the field. We use available NIRCam grism observations from the First Reionization Epoch Spectroscopically Complete Observations survey to characterize overdensities on large scales around known LAEs in the GOODS fields. The strongest overdensities appear linked with extremely strong Lyα detections (EW > 50 Å) in most cases. Future Lyα spectroscopy with JWST has the potential to constrain the size of ionized regions around early galaxy overdensities, providing a new probe of the reionization process.
+]]></content:encoded>
+
+<pubDate>2024-11-05T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Forecasts and Statistical Insights for Line Intensity Mapping Cross-correlations: A Case Study with 21 cm × [C ii]</title>
