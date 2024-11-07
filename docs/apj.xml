@@ -5,19 +5,30 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Parkes Radio and NuSTAR X-Ray Observations of the Composite Supernova Remnant B0453–685 in the Large Magellanic Cloud</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85ca</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85ca</guid>
+<content:encoded><![CDATA[
+<div> SNR, Pulsar Wind Nebula, Gamma-ray, NuSTAR, X-ray
+总结:<br><br>这篇文章报告了对超新星遗迹B0453–685中脉冲星风星云（PWN）的多波段观测结果。研究表明，观测到的伽马射线很可能来自PWN，也可能存在脉冲星成分。通过Parkes射电和NuSTAR X射线观测，对PWN进行了约束，得到了PWN的硬X射线光谱参数，并将结果纳入现有的宽带模型中。此外，对NuSTAR观测中的脉冲进行了搜索，得到了硬X射线脉冲分数的上限。最后，研究还发现了一个新的高质量X射线双星候选体。 <div>
+Gamma-ray emission is observed coincident in position to the evolved, composite supernova remnant (SNR) B0453–685. Prior multiwavelength investigations of the region indicate that the pulsar wind nebula (PWN) within the SNR is the most likely origin for the observed gamma rays, with a possible pulsar contribution that becomes significant at energies below E ∼ 5 GeV. Constraints on the PWN hard X-ray spectrum are important for the most accurate broadband representation of PWN emission and determining the presence of a gamma-ray pulsar component. The results of Parkes radio and Nuclear Spectroscopic Telescope Array (NuSTAR) X-ray observations are presented on PWN B0453–685. We perform a search for the central pulsar in the new Parkes radio data, finding an upper limit of 12 μJy. A pulsation search in the new NuSTAR observations additionally provides a 3σ upper limit on the hard X-ray pulsed fraction of 56%. The PWN is best characterized with a photon index ΓX = 1.91 ± 0.20 in the 3–78 keV NuSTAR data, and the results are incorporated into existing broadband models. Last, we characterize a serendipitous source detected by Chandra and NuSTAR that is considered a new high-mass X-ray binary candidate.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>3D Hydrodynamic Simulations of Massive Main-sequence Stars. III. The Effect of Radiation Pressure and Diffusion Leading to a 1D Equilibrium Model</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4f</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 3D hydrodynamical simulations, core convection, main sequence, entrainment rate, penetrative convection
 总结:
-本研究使用了三维流体动力学模拟对25太阳质量星球主序早期的核对流和稳定层结包层进行了研究。实验结果表明，随着对流的持续发展，初始过大的混合现象得到了减轻，这是由于熵梯度和组分梯度之间的空间分离的结果。此外，研究人员还提出了一种用于预测Schwarzschild边界以外渗透对流范围和特性的一维模型。最终，该模型将在一维恒星演化计算中得到应用。 <br><br> 总结: 本研究使用了三维流体动力学模拟对25太阳质量星球主序早期的核对流和稳定层结包层进行了研究。实验结果表明，随着对流的持续发展，初始过大的混合现象得到了减轻，这是由于熵梯度和组分梯度之间的空间分离的结果。此外，研究人员还提出了一种用于预测Schwarzschild边界以外渗透对流范围和特性的一维模型。最终，该模型将在一维恒星演化计算中得到应用。  <div>
+本研究使用了三维流体动力学模拟对25太阳质量星球主序早期的核对流和稳定层结包层进行了研究。实验结果表明，随着对流的持续发展，初始过大的混合现象得到了减轻，这是由于熵梯度和组分梯度之间的空间分离的结果。此外，研究人员还提出了一种用于预测Schwarzschild边界以外渗透对流范围和特性的一维模型。最终，该模型将在一维恒星演化计算中得到应用。 <br /><br /> 总结: 本研究使用了三维流体动力学模拟对25太阳质量星球主序早期的核对流和稳定层结包层进行了研究。实验结果表明，随着对流的持续发展，初始过大的混合现象得到了减轻，这是由于熵梯度和组分梯度之间的空间分离的结果。此外，研究人员还提出了一种用于预测Schwarzschild边界以外渗透对流范围和特性的一维模型。最终，该模型将在一维恒星演化计算中得到应用。  <div>
 We present 3D hydrodynamical simulations of core convection with a stably stratified envelope of a 25 M⊙ star in the early phase of the main sequence. We use the explicit gas-dynamics code PPMstar, which tracks two fluids and includes radiation pressure and radiative diffusion. Multiple series of simulations with different luminosities and radiative thermal conductivities are presented. The entrainment rate at the convective boundary, internal gravity waves in and above the boundary region, and the approach to dynamical equilibrium shortly after a few convective turnovers are investigated. We perform very long simulations on 8963 grids accelerated by luminosity boost factors of 1000, 3162 and 10,000. In these simulations, the growing penetrative convection reduces the initially unrealistically large entrainment. This reduction is enabled by a spatial separation that develops between the entropy gradient and the composition gradient. The convective boundary moves outward much more slowly at the end of these simulations. Finally, we present a 1D method to predict the extent and character of penetrative convection beyond the Schwarzschild boundary. The 1D model is based on a spherically averaged reduced entropy equation that takes the turbulent dissipation as input from the 3D hydrodynamic simulation and takes buoyancy and all other energy sources and sinks into account. This 1D method is intended to be ultimately deployed in 1D stellar evolution calculations and is based on the properties of penetrative convection in our simulations carried forward through the local thermal timescale.
 ]]></content:encoded>
-
 <pubDate>2024-11-07T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Probing Populations of Dark Stellar Remnants in the Globular Clusters 47 Tuc and Terzan 5 Using Pulsar Timing</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77bc</link>
@@ -11808,15 +11819,6 @@ The relationship between galaxy size and environment has remained enigmatic, wit
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad59f7</guid>
 <content:encoded><![CDATA[
 PINT is a pure-Python framework for high-precision pulsar timing developed on top of widely used and well-tested Python libraries, supporting both interactive and programmatic data analysis workflows. We present a new frequentist framework within PINT to characterize the single-pulsar noise processes present in pulsar timing data sets. This framework enables parameter estimation for both uncorrelated and correlated noise processes, as well as model comparison between different timing and noise models in a computationally inexpensive way. We demonstrate the efficacy of the new framework by applying it to simulated data sets as well as a real data set of PSR B1855+09. We also describe the new features implemented in PINT since it was first described in the literature.
-]]></content:encoded>
-<pubDate>2024-08-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Evolution of QPOs in GX 339–4 and EXO 1846–031 with Insight-HXMT and NICER</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a00</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5a00</guid>
-<content:encoded><![CDATA[
-We conduct a spectral and timing analysis of GX 339−4 and EXO 1846−031 with the aim of studying the evolution of type-C quasiperiodic oscillations (QPOs) with spectral parameters. The high-cadence data from Insight-HXMT and NICER allow us to track the evolution of QPOs and spectra simultaneously. Type-C QPOs appear at the end of the low–hard state and/or the hard–intermediate state. Our results reveal that the QPO frequency is closely related to the inner disk radius and mass accretion rate in the two sources. This correlation aligns well with the dynamic frequency model of a truncated disk.
 ]]></content:encoded>
 <pubDate>2024-08-13T23:00:00Z</pubDate>
 </item>
