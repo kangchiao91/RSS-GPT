@@ -4,6 +4,136 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Surface Flux Transport Modeling Using Physics-informed Neural Networks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d91</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d91</guid>
+<content:encoded><![CDATA[
+<div> 机器学习, 太阳磁场 , 表面磁通量传输, 神经网络, 太阳活动<br>
+<br>
+该研究对太阳表面磁场的特性进行了研究，并利用机器学习技术解决了磁通量传输问题，提高了准确性。研究团队开发了一种基于物理的神经网络模型，用于研究双极磁区的演变。他们通过比较其模型和数值模型的性能和准确性，证明了该方法的效率和可行性。他们的模型能够更好地重现观测到的极地磁场，从而提供了了解未来太阳周期强度的见解。这项工作为更高效和准确的太阳磁通量传输模拟铺平了道路，并展示了PINN在解决偏重于太阳物理学的对流扩散方程方面的适用性。 <br><br>总结: <br>太阳表面磁场的特性对了解太阳和太阳系活动至关重要。这项研究利用机器学习技术解决了磁通量传输问题，提高了准确性。他们开发了一种基于物理的神经网络模型，用于研究双极磁区的演变，并通过比较证明了其高效性和可行性。这对准确重现观测到的极地磁场，从而提供了了解未来太阳周期强度的见解非常重要。这项工作为更高效和准确的太阳磁通量传输模拟铺平了道路，并展示了PINN在解决偏重于太阳物理学的对流扩散方程方面的适用性。 <div>
+Studying the magnetic field properties on the solar surface is crucial for understanding the solar and heliospheric activities, which in turn shape space weather in the solar system. Surface flux transport (SFT) modeling helps us to simulate and analyze the transport and evolution of magnetic flux on the solar surface, providing valuable insights into the mechanisms responsible for solar activity. In this work, we demonstrate the use of machine learning techniques in solving magnetic flux transport, making it accurate. We have developed a novel physics-informed neural network (PINN)-based model to study the evolution of bipolar magnetic regions using SFT in one-dimensional azimuthally averaged and also in two dimensions. We demonstrate the efficiency and computational feasibility of our PINN-based model by comparing its performance and accuracy with that of a numerical model implemented using the Runge–Kutta implicit–explicit scheme. The mesh-independent PINN method can be used to reproduce the observed polar magnetic field with better flux conservation. This advancement is important for accurately reproducing observed polar magnetic fields, thereby providing insights into the strength of future solar cycles. This work paves the way for more efficient and accurate simulations of solar magnetic flux transport and showcases the applicability of PINNs in solving advection–diffusion equations with a particular focus on heliophysics.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The First Detection of X-Ray Polarization in a Newly Discovered Galactic Transient Swift J151857.0-572147</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d92</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d92</guid>
+<content:encoded><![CDATA[
+<div> IXPE, NuSTAR, BH X-ray binary, spectropolarimetric properties, Swift J151857.0-572147
+
+总结:<br><br>研究使用IXPE和NuSTAR观测了新发现的黑洞X射线双星Swift J151857.0-572147的光谱偏振特性。通过IXPE数据分析，采用模型无关方法报告了首次检测到的X射线偏振度(PD)为1.34 ± 0.27和偏振角(PA)为-13.°69 ± 5.°85；而模型相关的分析得到的PD为1.18±0.23和PA为-14.°01±5.°80。联合光谱分析和NuSTAR单独分析限制了中心BH质量约为9.2 ± 1.6至10.1 ± 1.7M⊙，自旋参数约为0.6 ± 0.1至0.7 ± 0.2，盘倾角约为35° ± 7°至46° ± 15°。辐射指数和截止能量分别为2.19 ± 0.03至2.47 ± 0.06和36 ± 4至78 ± 10 keV，表明了软谱状态的转变。<br>此外，相对较小的外部辐射区大小和较低的质量流出率，以及最佳契合的晕尺寸较小，低于盘吸积速率，进一步证实了相同的状态。在软状态下检测到的低PD可能是由于在密集的辐射区内的重复散射所致，并且来自盘的主要发射与低自旋和低盘倾角相一致。拟合得到的氢柱密度相对较高，约为4-5×1022cm−2。 <div>
+We study the spectropolarimetric properties of a newly discovered black hole (BH) X-ray binary Swift J151857.0-572147 jointly using Imaging X-ray Polarimetry Explorer (IXPE) and NuSTAR observations during 2024 March. The analysis of IXPE data reports the first detection of X-ray with a polarization degree (PD) of 1.34 ± 0.27 and a polarization angle (PA) of −13.°69 ± 5.°85 using a model-independent approach, while the model-dependent analysis gives a PD of 1.18 ± 0.23 and a PA of −14.°01 ± 5.°80. The joint spectral analysis of the broadband data and NuSTAR analysis in isolation constrain the mass of the central BH between ∼9.2 ± 1.6 and 10.1 ± 1.7M⊙ and a moderate spin parameter of ∼0.6 ± 0.1–0.7 ± 0.2 with a disk inclination of ∼35° ± 7°–46° ± 15°. The power-law photon index and cutoff energy are 2.19 ± 0.03–2.47 ± 0.06 and ∼36 ± 4–78 ± 10 keV, suggesting a transition to the soft spectral state. Additionally, a relatively lower corona size of 6 ± 1–9 ± 2rS, a low mass outflow rate ( ), and the best-fitted halo accretion is less compared to the disk accretion rate further confirm the same state. The low PD detected in the soft state can be due to repeated scattering inside the dense corona, and the dominant emission from the disk agrees with the low spin and low disk inclination. The hydrogen column density obtained from the fit is relatively high at ∼4–5 × 1022 cm−2.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Plausibility of Capture into High-obliquity States for Exoplanets in the M Dwarf Habitable Zone</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e28</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e28</guid>
+<content:encoded><![CDATA[
+<div> M-dwarf hosts, habitable zone, tidal effects, spin synchronization, Cassini State 2 (CS2)<br>
+<br>总结:<br>针对M型矮星宿主的温带外行星，由于其与恒星的适居带接近，需要仔细考虑潮汐效应。研究发现，75%的M型矮星周围探测到的行星可能被激发到高倾角，并在随后的潮汐耗散过程中保持稳定。对于在CS2与宿主恒星适居带内的许多行星来说，潮汐状态的潜在捕获对于理解银河系中最常见的温带行星非常重要。 <div>
+For temperate exoplanets orbiting M-dwarf hosts, the proximity of the habitable zone to the star necessitates careful consideration of tidal effects. Spin synchronization of the planetary orbital period and rotation period, tidal locking, and the subsequent impact on surface conditions frames common assumptions about M-dwarf planets. We investigate the plausibility of capture into Cassini State 2 (CS2) for a known sample of 280 multiplanet systems orbiting M-dwarf hosts. This resonance of the spin precession and orbital precession frequencies can excite planets into stable nonzero rotational obliquities, breaking tidal locking and inducing a version of “day” and “night.” Considering each planetary pair and estimating the spin and orbital precession frequencies, we find that 75% of detected planets orbiting M dwarfs may be plausibly excited to a high obliquity and maintain it through subsequent tidal dissipation over long timescales. We also investigate two possible mechanisms for capture into CS2: quantifying the orbital migration or primordial obliquity necessary for CS2. We find orbital migrations by a factor of ≲2 and an isotropic initial spin distribution can produce high-obliquity planets, aligning with similar findings for planets orbiting close-in to FGK dwarfs. Many of the planets in our sample reside in both CS2 and within their stellar habitable zone. Over half of the planets with Teq < 400 K around host stars with Teff < 3000 K could possess nonzero obliquity due to residence in CS2. This overlap renders the potential capture into Cassini States extremely relevant to understanding the galaxy’s most common temperate planets.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Adiabatic Mass Loss in Binary Stars. V. Effects of Metallicity and Nonconservative Mass Transfer—Application in High Mass X-Ray Binaries</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ea6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ea6</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 二进制星，质量转移，金属贫化，X射线双星，理论预测
+
+总结: 二进制星对许多异常的天体物理现象负有责任，包括一些重要的爆炸性宇宙事件。稳定的质量转移和共同包络演化对于二进制星演化至关重要，它们决定了系统的质量、质量比和轨道分布。对于金属贫化和太阳金属丰度的捐赠者阈值的动力学质量转移进行了系统的调查，发现了临界质量比qad，并研究了金属丰度和非保守性质量转移的影响。我们将理论预测应用于观测到的高质量X射线双星，并与它们的质量比进行了良好的比对。我们的结果可以应用于研究单个二进制物体或具有二进制星群体合成代码的大样本的二进制物体。 <br><br>总结: 二进制星演化及其在特殊天体物理现象中的重要作用是本文的重点。文章系统地研究了金属贫化和太阳金属丰度的质量转移阈值，发现了关键质量比qad，并研究了金属丰度和非保守性质量转移对此的影响。研究结果得到了高质量X射线双星的相关观测验证，为进一步研究提供了理论支持。 <div>
+Binary stars are responsible for many unusual astrophysical phenomena, including some important explosive cosmic events. The stability criteria for rapid mass transfer and common-envelope evolution are fundamental to binary star evolution. They determine the mass, mass ratio, and orbital distribution of systems such as X-ray binaries and merging gravitational-wave sources. We use our adiabatic mass-loss model to systematically survey metal-poor and solar-metallicity donor thresholds for dynamical timescale mass transfer. The critical mass ratios qad are systematically explored and the impact of metallicity and nonconservative mass transfer are studied. For metal-poor radiative-envelope donors, qad are smaller than those for solar-metallicity stars at the same evolutionary stage. However, qad do the opposite for convective-envelope donors. Nonconservative mass transfer significantly decreases qad for massive donors. This is because it matters how conservative mass transfer is during the thermal timescale phase immediately preceding a delayed dynamical mass transfer. We apply our theoretical predictions to observed high-mass X-ray binaries that have overfilled their Roche lobes and find a good agreement with their mass ratios. Our results can be applied to study individual binary objects or large samples of binary objects with binary population synthesis codes.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>No Evidence for a Dip in the Binary Black Hole Mass Spectrum</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ea8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ea8</guid>
+<content:encoded><![CDATA[
+<div> 核心压缩度, 星球, 星际超新星, 黑洞, 引力波信号
+<br>
+本文讨论了恒星模型显示，星球的核心压缩度并不随着恒星质量单调增加。相反，在碳氧核心质量范围内，核心压缩度急剧下降；这个范围可能对恒星的金属丰度和演化历史有一定敏感性。这种压缩度下降的恒星预计会经历超新星爆发，留下中子星，而在此范围的两侧的恒星预计会形成黑洞。这导致了一个假设质量范围，其中黑洞很少形成。这些模型定量地预测，当应用于双星剥离恒星时，预计几乎没有组分质量为10M⊙–15M⊙的双黑洞。但是，第三次引力波瞬变目录的数据显示，我们没有找到这一现象的证据。如果这个间隙在自然界中确实存在，我们认为在当前（第四次）LIGO–Virgo–KAGRA观测运行结束时很难解决这个问题。
+<br><br>总结: 本文讨论了恒星模型对星球核心压缩度的影响，以及它对星际超新星和黑洞形成的影响。同时指出了引力波信号中可能存在的质量间隙，但最后指出目前难以通过观测解决这个问题。 <div>
+Stellar models indicate that the core compactness of a star, which is a common proxy for its explodability in a supernova, does not increase monotonically with the star’s mass. Rather, the core compactness dips sharply over a range of carbon–oxygen core masses; this range may be somewhat sensitive to the star’s metallicity and evolutionary history. Stars in this compactness dip are expected to experience supernovae leaving behind neutron stars, whereas stars on either side of this range are expected to form black holes. This results in a hypothetical mass range in which black holes should seldom form. Quantitatively, when applied to binary stripped stars, these models predict a dearth of binary black holes with component masses ≈10M⊙–15M⊙. The population of gravitational-wave signals indicates potential evidence for a dip in the distribution of chirp masses of merging binary black holes near ≈10M⊙–12M⊙. This feature could be linked to the hypothetical component mass gap described above, but this interpretation depends on what assumptions are made of the binaries’ mass ratios. Here, we directly probe the distribution of binary black hole component masses to look for evidence of a gap. We find no evidence for this feature using data from the third gravitational-wave transient catalog. If this gap does exist in nature, we find that it is unlikely to be resolvable by the end of the current (fourth) LIGO–Virgo–KAGRA observing run.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Self-similar Buildup and Inside-out Growth: Tracing the Evolution of Intermediate-to-high-mass Star-forming Galaxies since z = 2</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad807f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad807f</guid>
+<content:encoded><![CDATA[
+<div> star-forming galaxies, stellar mass profiles, size evolution, IllustrisTNG simulations, angular momentum
+
+这篇文章研究了中高质量星形成星系（SFGs）的结构演化情景，通过比较它们的恒星质量分布和现今的恒星质量，来探讨自宇宙中期以来的演化情况。作者发现了SFGs尺寸演化速率的差异可能是由于样本选择和尺寸测量方法的变化所导致。为了验证这些因素，研究团队使用恒星质量增长历史（SMGHs）并结合星际物质主序的演化情况来追踪个体星系的演化过程，并使用IllustrisTNG模拟进行了验证。研究发现，从质量和光度角度估计的结构参数表明，质量加权的尺寸演化速率比光度加权的慢，突显了需要考虑质量与光度比（M/L）梯度。此外，观察到恒星质量分布具有质量相关的演化：大质量星系在z ≳ 1.5形成中心区域，并在外部区域增长更快，暗示了内部-外部的增长模式，而中等质量和小质量星系自z ∼ 2以来遵循相对自相似的质量堆积。此外，观察到的尺寸演化斜率与TNG50的预测相矛盾。研究团队通过半质量尺寸演化和简单的盘形成模型，发现观测到的角动量在过去的100亿年中减少了一半，而TNG50中基本保持不变。这种模拟中更高的角动量可能是由于高角动量气体的吸积所致。 <br><br>总结：本文研究了中高质量星形成星系的结构演化情况，发现了尺寸演化速率的差异，探讨了质量到光度比对这一结果的影响。在比较质量加权和光度加权的尺寸演化之后，发现质量加权的尺寸演化速率更慢，质量较大的星系在演化过程中呈现出内部区域的形成和外部区域的快速增长，而质量较小的星系则呈现相对自相似的质量增长趋势。研究团队还观察到了与TNG50模拟结果的尺寸演化斜率的矛盾，并通过模型验证发现了观测到的角动量减少与模拟结果的差异。 <div>
+We aim to discern scenarios of structural evolution of intermediate-to-high-mass star-forming galaxies (SFGs) since cosmic noon by comparing their stellar mass profiles with present-day stellar masses of . We addressed discrepancies in the size evolution rates of SFGs, which may be caused by variations in sample selection and methods for size measurements. To check these factors, we traced the evolution of individual galaxies by identifying their progenitors using stellar mass growth histories (SMGHs), integrating along the star-forming main sequence and from the IllustrisTNG simulations. Comparison between the structural parameters estimated from the mass- and light-based profiles shows that mass-weighted size evolves at a slower pace compared to light-based ones, highlighting the need to consider the mass-to-light ratio (M/L) gradients. Additionally, we observed mass-dependent growth in stellar mass profiles: massive galaxies ( ) formed central regions at z ≳ 1.5 and grew faster in outer regions, suggesting inside-out growth, while intermediate-mass and less massive SFGs followed a relatively self-similar mass buildup since z ∼ 2. Moreover, slopes of observed size evolution conflict with the predictions of TNG50 for samples selected using the same SMGHs across our redshift range. To explore the origin of this deviation, we examined changes in angular momentum (AM) retention fraction using the half-mass size evolution and employing a simple disk formation model. Assuming similar dark matter halo parameters, our calculations indicate that the AM inferred from observations halved in the past 10 Gyr while it remained relatively constant in TNG50. This higher AM in simulations may be due to the accretion of high-AM gases into disks.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Simulating the Formation and Eruption of Flux Rope by Magneto-friction Model Driven by Time-dependent Electric Fields</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8089</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8089</guid>
+<content:encoded><![CDATA[
+<div> 关键词：flux ropes, AR 11429, TMF模型, 磁场演化, 极端紫外线图像
+
+总结:<br>
+研究使用TMF模型模拟了AR 11429活动区的磁场演化过程，成功捕捉了磁流绳的形成和缓慢喷发。模拟结果与观测数据相吻合，并展示了磁场扭曲结构对极端紫外线图像中的空间特征的模拟。另外，拓扑分析结果表明，模拟磁场与标准耀斑模型一致，显示了耀斑丝带和准分离层的协同分布。这项研究为全磁流体动力学模拟提供了合理的初始条件。 <div>
+Aiming to capture the formation and eruption of flux ropes (FRs) in the source active regions (ARs), we simulate the coronal magnetic field evolution of the AR 11429 employing the time-dependent magneto-friction model (TMF). The initial field is driven by electric fields that are derived from time-sequence photospheric vector magnetic field observations by invoking ad hoc assumptions. The simulated magnetic structure evolves from potential to twisted fields over the course of two days, followed by rise motion in the later evolution, depicting the formation of an FR and its slow eruption later. The magnetic configuration resembles an inverse S-sigmoidal structure, composed of the potential field enveloping the inverse J-shaped fields that are sheared past one another and a low-lying twisted field along the major polarity inversion line. To compare with observations, proxy emission maps based on averaged current density along the field lines are generated from the simulated field. These emission maps exhibit a remarkable one-to-one correspondence with the spatial characteristics in coronal extreme ultraviolet images, especially the filament trace supported by the twisted magnetic field in the southwest subregion. Further, the topological analysis of the simulated field reveals the cospatial flare ribbons with the quasi-separatrix layers, which is consistent with the standard flare models; therefore, the extent of the twist and orientation of the erupting FR is indicated to be the real scenario in this case. The TMF model simulates the coronal field evolution, correctly capturing the formation of the FR in the observed timescale and the twisted field generated from these simulations serves as the initial condition for the full MHD simulations.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>CZ Aqr: An Oscillating Eclipsing Algol-type System Composed of a δ Sct Primary Star and a Subgiant Star in a Quadruple System</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83b2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83b2</guid>
+<content:encoded><![CDATA[
+<div> eclipsing Algol-type systems, δ Scuti star, CZ Aquarius, TESS data, physical parameters
+总结:<br><br>这篇文章介绍了使用TESS数据确定CZ Aquarius绝对参数的研究。CZ Aqr具有0.86275209天的轨道周期，质量比为0.489，而次要组件几乎填满其洛希圆。O-C分析显示了一个向下的抛物线趋势和一个周期变化，周期为88.2年。向下的抛物线暗示了轨道周期的长期减小，质量流失率被估计为4.54×10^(-9)M⊙年^(-1)。周期变化可能是由于第三个体存在而引起的光行时间效应。此外，在CZ Aqr周围可能存在两个可能的天体。对TESS数据进行频率分析后发现了26个频率，其中两个是新识别的径向模式。这些结果表明，这个食双星系统由一个δ Sct主星和一个次巨星组成，并处于四重系统中。 <div>
+Eclipsing Algol-type systems containing a δ Scuti (hereafter δ Sct) star enable precise determination of physical parameters and the investigation of stellar internal structure and evolution. We present the absolute parameters of CZ Aquarius (hereafter CZ Aqr) based on TESS data. CZ Aqr has an orbital period of 0.86275209 day, a mass ratio of 0.489 (6), and the secondary component nearly fills its Roche lobe. O − C analysis reveals a downward parabolic trend and a cyclical variation with a period of 88.2 yr. The downward parabola suggests a long-term decrease in the orbital period with = −3.09 × 10−8 days yr−1. The mass loss rate is estimated to be 4.54 × 10−9M⊙ yr−1, which is possibly due to magnetic stellar wind or a hot spot. The cyclical variation might be caused by the light travel time effect via the presence of a third body with a minimum mass of = 0.312 (21) M⊙. Additionally, there are two possible celestial bodies in a 2:7 resonance orbit around CZ Aqr. The asymmetric light curve is explained by adding a hot spot on the surface of the primary star. After removing the binary model, 26 frequencies were extracted from TESS data. Two radial modes were newly identified among three possible independent frequencies. Our results show that the eclipsing Algol-type system is composed of a δ Sct primary star and a subgiant star in a quadruple system.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring Spatial and Temporal Patterns in the Debrecen Solar Faculae Database: Part II</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bb</guid>
+<content:encoded><![CDATA[
+<div> 太阳，faculae，磁场，周期，经度
+<br><br>总结:
+本研究利用Solar Dynamics Observatory/Helioseismic and Magnetic Imager–Debrecen Faculae Data Catalogue的数据，研究太阳faculae在远大于单个faculae寿命的时间尺度上的分布。研究旨在更好地理解太阳全球磁场的行为，faculae在其中起到标记作用。研究发现：(1) 在纬向上，观察到短期周期（Carrington旋转周期27.3天及其谐波约13.5天和9天）以及北半球还有一个较微弱的7天周期。同时也发现了长期周期，大约在150-300天和300-500天之间，这些周期在两极都呈现出递减趋势。(2) 分析faculae的经度分布和演变，发现存在两对相隔180°的活跃经度。 <div>
+In this study, utilizing data from the Solar Dynamics Observatory/Helioseismic and Magnetic Imager–Debrecen Faculae Data Catalogue, we investigated solar facula distribution over timescales much larger than the individual lifetimes of faculae. We aimed to better comprehend the behavior of the Sun’s global magnetic field, where faculae play a role as markers. (1) Along the latitudinal direction, we observed the following in the appearance of faculae. (i) Short-term periods with the Carrington rotation (27.3 days) and some of its harmonics (approximately 13.5 and 9 day periods) are identified. In the northern hemisphere, there is also a faint 7 day period. (ii) We also identified longer periods. These longer periods, approximately between 150–300 and 300–500 days, exhibit a diminishing trend from the solar equator to the poles in both hemispheres. (2) Analyzing the distribution and evolution of the longitudinal coordinates of the faculae, we identified two pairs of active longitudes that are separated by 180° from each other.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Electron Energization by Ion Density Enhancement in the Martian Magnetotail—MAVEN Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad863e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad863e</guid>
+<content:encoded><![CDATA[
+<div> MAVEN mission, electron fluxes, tail current sheet crossings, electron energization mechanisms, field-aligned potential
+总结:
+MAVEN任务观察到，火星的电子通量在尾电流层交叉区增强，但其原因尚不明确。研究利用MAVEN任务观测数据，发现通过比较电子分布函数得出的场向电位与当地总离子密度的对数值大致呈线性相关。这符合双极静电位的预期行为。这种机制不仅出现在电流片交叉处，还可以出现在任何具有大离子密度梯度和高电子温度的地方。这一发现对于了解火星的电子加速机制具有重要意义。 <div>
+It has been long observed at Mars that electron fluxes are enhanced during the tail current sheet crossings, of which the cause is not well understood. We use a novel approach to reveal one of the electron energization mechanisms with observations from the Mars Atmospheric and Volatile EvolutioN (MAVEN) mission. We find the field-aligned potential, derived from comparing electron distribution functions, to be approximately linearly correlated with the logarithmic values of the local total ion density. This is the expected behavior of an ambipolar electrostatic potential. The large amplitude of potential (tens to hundreds of V) is a result of both a significant density gradient (1 order of magnitude) and the high electron temperature (tens of eV) in the tail. Such a mechanism is not limited to ion density enhancements at current sheet crossings but can be present anywhere that large ion density gradients and hot electrons are present.
+]]></content:encoded>
+
+<pubDate>2024-11-07T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Merger-driven Scenario for Clumpy Galaxy Formation in the Epoch of Reionization: Physical Properties of Clumps in the FirstLight Simulation</title>
