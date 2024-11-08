@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A Strong Gravitational Lens Is Worth a Thousand Dark Matter Halos: Inference on Small-scale Structure Using Sequential Methods</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e70</link>
@@ -14,7 +15,6 @@
 研究介绍了一种加速优化的模拟管道，可以在毫秒内生成具有真实次星系团体的透镜图像。研究表明，使用顺序神经后验估计（SNPE）方法，即使使用较少的模拟哈勃空间望远镜图像，也能够与最佳非顺序模型产生的对低质量次星系团体的约束相匹配。研究结果强调了当前约束主要受到方法论而不是数据本身的限制。此外，结果强调了在使用SBI进行任何宇宙学分析时，需要将训练集生成和模型优化视为相互关联的阶段。 <div>
 Strong gravitational lenses are a singular probe of the Universe’s small-scale structure—they are sensitive to the gravitational effects of low-mass (<1010M⊙) halos even without a luminous counterpart. Recent strong-lensing analyses of dark matter structure rely on simulation-based inference (SBI). Modern SBI methods, which leverage neural networks as density estimators, have shown promise in extracting the halo-population signal. However, it is unclear whether the constraints from these models are limited by the methodology or the data. In this study, we introduce an accelerator-optimized simulation pipeline that can generate lens images with realistic subhalo populations in milliseconds. Leveraging this simulator, we identify the main limitation of our fiducial SBI analysis: training set size. We then adopt a sequential neural posterior estimation (SNPE) approach, allowing us to refine the training distribution to align with the observed data. Using only one-fifth as many mock Hubble Space Telescope images, SNPE matches the constraints on the low-mass halo population produced by our best nonsequential model. Our experiments suggest that an over 3 order-of-magnitude increase in training set size and GPU hours would be required to achieve an equivalent result without sequential methods. While the full potential of the existing lens sample remains to be explored, the notable improvement in constraining power enabled by our sequential approach highlights that current constraints are limited primarily by methodology and not the data itself. Moreover, our results emphasize the need to treat training set generation and model optimization as interconnected stages of any cosmological analysis using SBI.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -25,10 +25,9 @@ Strong gravitational lenses are a singular probe of the Universe’s small-scale
 <div> 关键词: 密集核心, 湍流运动, 平衡模型, 稳定性分析, 质量和半径
 
 总结:
-本文研究了密集核心如何从它们形成的恒星际介质中继承湍流运动。通过解决水平动力学方程，研究了密集核心的内部密度和速度结构，并预测了它们的重力坍缩稳定性。研究发现，湍流平衡球解决方案形成了一个双参数家族，密度轮廓在外部区域略微比Bonnor–Ebert（BE）球更为平缓，但比对数模型更为陡峭。稳定性分析表明，具有超过一定临界半径的湍流平衡球对径向扰动是不稳定的。当应用于典型的集团形成团的高度湍流的情况时，湍流平衡球的临界质量和半径有趣地类似于观测到的星团的典型质量和半径。观测需要探测超过半高全宽以捕获湍流核心的整体范围。 <br><br> <div>
+本文研究了密集核心如何从它们形成的恒星际介质中继承湍流运动。通过解决水平动力学方程，研究了密集核心的内部密度和速度结构，并预测了它们的重力坍缩稳定性。研究发现，湍流平衡球解决方案形成了一个双参数家族，密度轮廓在外部区域略微比Bonnor–Ebert（BE）球更为平缓，但比对数模型更为陡峭。稳定性分析表明，具有超过一定临界半径的湍流平衡球对径向扰动是不稳定的。当应用于典型的集团形成团的高度湍流的情况时，湍流平衡球的临界质量和半径有趣地类似于观测到的星团的典型质量和半径。观测需要探测超过半高全宽以捕获湍流核心的整体范围。 <br /><br /> <div>
 Dense cores inherit turbulent motions from the interstellar medium in which they form. As a tool for comparison to both simulations and observations, it is valuable to construct theoretical core models that can relate their internal density and velocity structure while predicting their stability to gravitational collapse. To this end, we solve the angle-averaged equations of hydrodynamics under two assumptions: (1) the system is in a quasi-steady equilibrium; (2) the velocity field consists of radial bulk motion plus isotropic turbulence, with turbulent dispersion increasing as a power law in the radius. The resulting turbulent equilibrium sphere (TES) solutions form a two-parameter family, characterized by the sonic radius rs and the power-law index p. The TES is equivalent to a Bonnor–Ebert (BE) sphere when rs → ∞ . The density profile in the outer regions of the TES is slightly shallower than the BE sphere, but is steeper than the logotropic model. Stability analysis shows that the TESs with size exceeding a certain critical radius are unstable to radial perturbations. The center-to-edge density contrast, mass, and radius of the marginally stable TES all increase with increasing average velocity dispersion. The FWHM of the column density profile is always smaller than the critical radius, by a larger factor at higher velocity dispersion, suggesting that observations need to probe beyond the FWHM to capture the full extent of turbulent cores. When applied to the highly turbulent regime typical of cluster-forming clumps, the critical mass and radius of the TES intriguingly resembles the typical mass and radius of observed star clusters.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -38,10 +37,9 @@ Dense cores inherit turbulent motions from the interstellar medium in which they
 <content:encoded><![CDATA[
 <div> 关键词: Synthetic Corona Outflow Model, high-resolution observations, velocity measurement algorithms, solar wind, PUNCH mission
 
-总结:<br><br>这篇文章介绍了一个名为Synthetic Corona Outflow Model (SynCOM)的经验模型，该模型可以模拟太阳冠层的动态，以匹配高分辨率观测，并提供了一个有用的资源，用于测试速度测量算法。SynCOM生成合成图像，描述了总亮度的径向变化，并包括等离子体流动和仪器噪声的随机元素。它利用预定义的流速概率分布和可调的信噪比，评估了不同的冠层流动数据分析方法。通过调整参数以匹配特定的冠层和仪器条件，SynCOM提供了一个平台，用于评估确定冠层流速和加速度的方法。验证这些测量结果将有助于我们理解太阳风的起源，并支持Polarimeter to Unify the Corona and Heliosphere (PUNCH)等任务。在这项研究中，我们演示了如何利用SynCOM来评估两种不同的流动跟踪方法的精度和性能。通过提供基于观测数据的参考标准，我们强调了SynCOM在确认用于检测冠层流动的观测标准方面的重要性。 <div>
+总结:<br /><br />这篇文章介绍了一个名为Synthetic Corona Outflow Model (SynCOM)的经验模型，该模型可以模拟太阳冠层的动态，以匹配高分辨率观测，并提供了一个有用的资源，用于测试速度测量算法。SynCOM生成合成图像，描述了总亮度的径向变化，并包括等离子体流动和仪器噪声的随机元素。它利用预定义的流速概率分布和可调的信噪比，评估了不同的冠层流动数据分析方法。通过调整参数以匹配特定的冠层和仪器条件，SynCOM提供了一个平台，用于评估确定冠层流速和加速度的方法。验证这些测量结果将有助于我们理解太阳风的起源，并支持Polarimeter to Unify the Corona and Heliosphere (PUNCH)等任务。在这项研究中，我们演示了如何利用SynCOM来评估两种不同的流动跟踪方法的精度和性能。通过提供基于观测数据的参考标准，我们强调了SynCOM在确认用于检测冠层流动的观测标准方面的重要性。 <div>
 The Synthetic Corona Outflow Model (SynCOM), an empirical model, simulates the solar corona’s dynamics to match high-resolution observations, providing a useful resource for testing velocity measurement algorithms. SynCOM generates synthetic images depicting radial variability in total brightness and includes stochastic elements for plasma outflows and instrumental noise. It employs a predefined probability distribution for flow velocity and an adjustable signal-to-noise ratio to evaluate different data analysis methods for coronal flows. By adjusting parameters to match specific coronal and instrumental conditions, SynCOM offers a platform to assess these methods for determining coronal velocity and acceleration. Validating these measurements would help us to understand the origins of the solar wind and support missions such as the Polarimeter to Unify the Corona and Heliosphere (PUNCH). In this study, we demonstrate how SynCOM can be employed to assess the precision and performance of two different flow-tracking methods. By providing a ground truth based on observational data, we highlight the importance of SynCOM in confirming observational standards for detecting coronal flows.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -49,11 +47,10 @@ The Synthetic Corona Outflow Model (SynCOM), an empirical model, simulates the s
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7aee</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7aee</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Gaia XP spectroscopy, Milky Way, metal-rich stars, TNG50 simulations, Galactic EMR knot <br>
-总结: 通过Gaia XP光谱学，我们发现银河系中极端富含金属的恒星主要集中在一个紧凑的“节点”处，这个节点在投影上是圆形的，在RGC，proj约1.5千秒巴附近有一个相当明显的边缘，是一个动力学上活跃的系统。银河系中富含金属的节点也包含了非常金属丰富的恒星。然而，与EMR恒星不同，大部分VMR恒星形成了内部银河系中扁平分布。我们利用TNG50模拟来进行比较，发现紧凑、富含金属的节点限制在大约1.5千秒巴内是一个普遍的特征。在我们的银河系数据中，最富含金属的恒星仅占0.1%。需要进行穿透尘埃的广域近红外光谱观测，如第五次斯隆数字天文学调查，才能对银河系EMR节点中恒星的比例进行严格估计。值得解释的是，为什么在我们的银河系中，只有EMR巨星被限制在这样一个中心节点。值得注意的是，银河系中心几千秒巴的范围内既有最集中的贫金属恒星（“贫穷的老心脏”），也几乎包含所有富含金属的恒星。这突显了在银河系重力势阱底部的恒星种群多样性。 <br> <div>
+<div> 关键词: Gaia XP spectroscopy, Milky Way, metal-rich stars, TNG50 simulations, Galactic EMR knot <br />
+总结: 通过Gaia XP光谱学，我们发现银河系中极端富含金属的恒星主要集中在一个紧凑的“节点”处，这个节点在投影上是圆形的，在RGC，proj约1.5千秒巴附近有一个相当明显的边缘，是一个动力学上活跃的系统。银河系中富含金属的节点也包含了非常金属丰富的恒星。然而，与EMR恒星不同，大部分VMR恒星形成了内部银河系中扁平分布。我们利用TNG50模拟来进行比较，发现紧凑、富含金属的节点限制在大约1.5千秒巴内是一个普遍的特征。在我们的银河系数据中，最富含金属的恒星仅占0.1%。需要进行穿透尘埃的广域近红外光谱观测，如第五次斯隆数字天文学调查，才能对银河系EMR节点中恒星的比例进行严格估计。值得解释的是，为什么在我们的银河系中，只有EMR巨星被限制在这样一个中心节点。值得注意的是，银河系中心几千秒巴的范围内既有最集中的贫金属恒星（“贫穷的老心脏”），也几乎包含所有富含金属的恒星。这突显了在银河系重力势阱底部的恒星种群多样性。 <br /> <div>
 We show with Gaia XP spectroscopy that extremely metal-rich (EMR) stars in the Milky Way ([M/H]XP ≳ 0.5) are largely confined to a tight “knot” at the center of the Galaxy. This EMR knot is round in projection, has a fairly abrupt edge near RGC,proj ∼ 1.5 kpc, and is a dynamically hot system. This central knot also contains very metal-rich (VMR; +0.2 ≤ [M/H]XP ≤ +0.4) stars. However, in contrast to EMR stars, the bulk of VMR stars forms an extended, highly flattened distribution in the inner Galaxy (RGC ≲ 5 kpc). We draw on TNG50 simulations of Milky Way analogs for context and find that compact, metal-rich knots confined to ≲1.5 kpc are a universal feature. In typical simulated analogs, the top 5%–10% most metal-rich stars are confined to a central knot; however, in our Milky Way data this fraction is only 0.1%. Dust-penetrating wide-area near-infrared spectroscopy, such as the fifth Sloan Digital Sky Survey, will be needed for a rigorous estimate of the fraction of stars in the Galactic EMR knot. Why in our Milky Way only EMR giants are confined to such a central knot remains to be explained. Remarkably, the central few kiloparsecs of the Milky Way harbor both the highest concentration of metal-poor stars (the “poor old heart”) and almost all EMR stars. This highlights the stellar population diversity at the bottom of galactic potential wells.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -61,10 +58,9 @@ We show with Gaia XP spectroscopy that extremely metal-rich (EMR) stars in the M
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b0e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b0e</guid>
 <content:encoded><![CDATA[
-<div> Gaia DR3, Galactic disk structure, wave pattern, perturbations, bar<br> <br>总结:<br>银河系盘结构的动态过程对于重建银河系的进化历史至关重要。最新的Gaia DR3数据显示，在LZ−〈VR〉空间中出现了一种新的波动模式，但它的形成机制仍然不清楚。通过利用最新的Gaia DR3数据，我们发现LZ−〈VR〉波动会随着动力学热量更大、JZ值更大的恒星而系统性地向更低的LZ偏移。我们进行了三组测试粒子模拟以区分不同扰动因素的作用。结果显示LZ−〈VR〉波更可能是内部起源的。此外，将ΔLZ峰值与2:1 OLR相联系提供了一种约束银河系棒的转动速度的新方法，支持了长/慢棒模型。 <div>
+<div> Gaia DR3, Galactic disk structure, wave pattern, perturbations, bar<br /> <br />总结:<br />银河系盘结构的动态过程对于重建银河系的进化历史至关重要。最新的Gaia DR3数据显示，在LZ−〈VR〉空间中出现了一种新的波动模式，但它的形成机制仍然不清楚。通过利用最新的Gaia DR3数据，我们发现LZ−〈VR〉波动会随着动力学热量更大、JZ值更大的恒星而系统性地向更低的LZ偏移。我们进行了三组测试粒子模拟以区分不同扰动因素的作用。结果显示LZ−〈VR〉波更可能是内部起源的。此外，将ΔLZ峰值与2:1 OLR相联系提供了一种约束银河系棒的转动速度的新方法，支持了长/慢棒模型。 <div>
 Decoding the key dynamical processes that shape the Galactic disk structure is crucial for reconstructing the Milky Way’s evolution history. The second Gaia data release unveils a novel wave pattern in the LZ−〈VR〉 space, but its formation mechanism remains elusive due to the intricate nature of involved perturbations and the challenges in disentangling their effects. Utilizing the latest Gaia DR3 data, we find that the LZ−〈VR〉 wave systematically shifts toward lower LZ for dynamically hotter stars with larger JZ values. The amplitude of this phase shift between stars of different dynamical hotness (ΔLZ) peaks at around 2100 km s−1 kpc. To differentiate the role of different perturbations, we perform three sets of test particle simulations, wherein a satellite galaxy, transient spiral arms, and a bar plus the transient spiral arms act as the sole perturber, respectively. Under the satellite impact, the phase shift amplitude ΔLZ decreases toward higher LZ, which we interpret through a toy model of radial phase mixing. While neither the transient spiral arms nor the bar generates an azimuthally universal phase shift variation pattern, combining the bar and spirals generates a characteristic ΔLZ peak at the 2:1 outer Lindblad resonance (OLR) of the bar, qualitatively resembling the observed feature. Therefore, the LZ−〈VR〉 wave is more likely of internal origin. Furthermore, linking the ΔLZ peak to the 2:1 OLR offers a novel approach to constraining the pattern speed of the Galactic bar, supporting the long/slow bar model.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -73,10 +69,9 @@ Decoding the key dynamical processes that shape the Galactic disk structure is c
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c47</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 等离子体，压力各向异性，多流体模型，飞飙不稳定性，能量转移
-总结：<br><br>本研究使用多流体模型模拟了高β质子-电子等离子体中平行质子飞鞭不稳定性的演化和饱和过程，无需添加人工粘性。研究发现，在所有物种中允许压力各向异性发展时，电子对平行质子飞鞭不稳定性的饱和有显著影响，调节了不稳定性饱和时的质子压力各向异性。即使对于与太阳圈等离子体更相关的较低β值，使用梯度松弛闭合的模拟中也观察到了明显的电子能量化现象。我们的研究结果表明，解决电子压力各向异性对于正确描述多种物种等离子体系统的行为是重要的。 <div>
+总结：<br /><br />本研究使用多流体模型模拟了高β质子-电子等离子体中平行质子飞鞭不稳定性的演化和饱和过程，无需添加人工粘性。研究发现，在所有物种中允许压力各向异性发展时，电子对平行质子飞鞭不稳定性的饱和有显著影响，调节了不稳定性饱和时的质子压力各向异性。即使对于与太阳圈等离子体更相关的较低β值，使用梯度松弛闭合的模拟中也观察到了明显的电子能量化现象。我们的研究结果表明，解决电子压力各向异性对于正确描述多种物种等离子体系统的行为是重要的。 <div>
 Instabilities driven by pressure anisotropy play a critical role in modulating the energy transfer in space and astrophysical plasmas. For the first time, we simulate the evolution and saturation of the parallel proton firehose instability using a multifluid model without adding artificial viscosity. These simulations are performed using a 10-moment, multifluid model with local and gradient relaxation heat-flux closures in high-β proton–electron plasmas. When these higher-order moments are included and pressure anisotropy is permitted to develop in all species, we find that the electrons have a significant impact on the saturation of the parallel proton firehose instability, modulating the proton pressure anisotropy as the instability saturates. Even for lower β's more relevant to heliospheric plasmas, we observe a pronounced electron energization in simulations using the gradient relaxation closure. Our results indicate that resolving the electron pressure anisotropy is important to correctly describe the behavior of multispecies plasma systems.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,11 +81,10 @@ Instabilities driven by pressure anisotropy play a critical role in modulating t
 <content:encoded><![CDATA[
 <div> 关键词: Hinode/EUV Imaging Spectrometer, 热量分布, Bayesian分析, 加热机制, 重连加热模型
 
-总结:<br>
+总结:<br />
 本文利用Hinode/EUV成像光谱仪获取的数据，对18个日冕环进行分析，得出加热分布随着加热规模高度朝向日冕环顶部递减，加热速率在过渡区高度为E0 = 10^(-2.0±0.5) erg cm^(-3) s^(-1)，并估计得到加热流量FH = 10^(7.0±0.4) erg cm^(-2) s^(-1)。研究发现使用成像数据会导致对电子密度和E0、FH的低估，最终得出重连加热模型是最合理的结论。 <div>
 Heating distributions along coronal loops are obtained from spectroscopic data with the Hinode/EUV Imaging Spectrometer. The loop half-lengths Lhalf are in the range of 24–107 Mm for our analysis of 18 loops. By using the analytical approximations to 1D hydrostatic numerical calculations of electron temperature Te(s) and density distributions ne(s) along a loop, the heating distribution that decreases with a heating scale height sH toward the loop top with a heating rate E0 at the height of the transition region is estimated by applying a Bayesian analysis to the observed Te(s) and ne(s) derived by emission line ratios. We obtain sH = 10 ± 4 Mm increasing with Lhalf, E0 = 10−2.0±0.5 erg cm−3 s−1 decreasing with Lhalf, and the heating flux FH = 107.0±0.4 erg cm−2 s−1. These loops show sH/Lhalf = 0.21 ± 0.07, suggesting the concentration of the heating near the lower part. Compared to the previous study using imaging data, sH is comparable, while E0 and FH are about an order of magnitude larger. We find that using the imaging data leads to the underestimation of the electron density and consequently the underestimation of E0 and FH. We examine heating mechanisms using the power-law relation for FH, the field strength Bbase and Lhalf: . We find and , which show that the reconnection heating model is the most plausible.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -98,10 +92,9 @@ Heating distributions along coronal loops are obtained from spectroscopic data w
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eac</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eac</guid>
 <content:encoded><![CDATA[
-<div> 磁场分布, 太阳表面, 磁场演变, 太阳风动力学, 太阳循环<br>使用观测系统模拟实验演示了如何利用集合卡尔曼滤波技术结合表面磁通输运模型，对未来的流动轮廓做出"后验"估计，以驱动模型向前预测光球磁场分布。对太阳表面的全球磁场分布及其演化的了解对于建立日冕磁场模型、理解太阳风动力学、计算太阳圈开放磁通分布以及预测太阳活动周期强度至关重要。由于太阳的背面无法直接观测到，而高纬度观测总是受到投影效应的影响，我们经常依赖表面磁通输运（SFT）模拟来建立长期的全球磁场分布模型。经向循环是SFT模拟中的关键组成部分之一，在高纬度附近需要进一步约束。预测光球磁场分布需要对未来的流动轮廓有所了解，这要求在当前时间重建相同的流动轮廓，以便在以后估计。 <div>
+<div> 磁场分布, 太阳表面, 磁场演变, 太阳风动力学, 太阳循环<br />使用观测系统模拟实验演示了如何利用集合卡尔曼滤波技术结合表面磁通输运模型，对未来的流动轮廓做出"后验"估计，以驱动模型向前预测光球磁场分布。对太阳表面的全球磁场分布及其演化的了解对于建立日冕磁场模型、理解太阳风动力学、计算太阳圈开放磁通分布以及预测太阳活动周期强度至关重要。由于太阳的背面无法直接观测到，而高纬度观测总是受到投影效应的影响，我们经常依赖表面磁通输运（SFT）模拟来建立长期的全球磁场分布模型。经向循环是SFT模拟中的关键组成部分之一，在高纬度附近需要进一步约束。预测光球磁场分布需要对未来的流动轮廓有所了解，这要求在当前时间重建相同的流动轮廓，以便在以后估计。 <div>
 Knowledge of the global magnetic field distribution and its evolution on the Sun’s surface is crucial for modeling the coronal magnetic field, understanding the solar wind dynamics, computing the heliospheric open flux distribution, and predicting the solar cycle strength. As the far side of the Sun cannot be observed directly and high-latitude observations always suffer from projection effects, we often rely on surface flux transport (SFT) simulations to model the long-term global magnetic field distribution. Meridional circulation, the large-scale north–south component of the surface flow profile, is one of the key components of the SFT simulation that requires further constraints near high latitudes. Prediction of the photospheric magnetic field distribution requires knowledge of the flow profile in the future, which demands reconstruction of that same flow at the current time so that it can be estimated at a later time. By performing Observing System Simulation Experiments, we demonstrate how the ensemble Kalman filter technique, when used with an SFT model, can be utilized to make “posterior” estimates of flow profiles into the future that can be used to drive the model forward to forecast the photospheric magnetic field distribution.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 <item>
@@ -112,13 +105,11 @@ Knowledge of the global magnetic field distribution and its evolution on the Sun
 <div> 关键词:  gravitationally lensed, lens models, large-scale structure, ray-tracing algorithm, cosmic shear
 
 总结: 
-本研究利用多平面光线追踪算法和IllustrisTNG 100-3宇宙学模拟来研究大尺度结构引起的宇宙学透镜效应。研究发现，宇宙剪切的分布是高斯分布，而宇宙收敛的分布呈现偏斜，接近对数正态分布。位移的高阶项具有显著的离散度。这些结果表明，大尺度结构引起的视线位移效应可能会显著影响透镜模型，因此不应忽略。这些结果有助于未来的集群透镜模型的建立。 <br><br> <div>
+本研究利用多平面光线追踪算法和IllustrisTNG 100-3宇宙学模拟来研究大尺度结构引起的宇宙学透镜效应。研究发现，宇宙剪切的分布是高斯分布，而宇宙收敛的分布呈现偏斜，接近对数正态分布。位移的高阶项具有显著的离散度。这些结果表明，大尺度结构引起的视线位移效应可能会显著影响透镜模型，因此不应忽略。这些结果有助于未来的集群透镜模型的建立。 <br /><br /> <div>
 Interpreting and reconstructing distant sources that are gravitationally lensed by galaxy clusters requires accurate and precise lens models. While high-quality data sets have reduced statistical errors in such models, systematic errors remain important. We examine systematic lensing effects caused by density fluctuations due to large-scale structure along the line of sight. We use a multiplane ray-tracing algorithm with the IllustrisTNG 100-3 cosmological simulation of matter distribution and compute the statistical distributions of shear, convergence, and higher-order deflections using two Hubble Frontier Field clusters as examples (A2744 and MACS J0416.1−2403). The cosmic shear distribution is Gaussian in each component, while the cosmic convergence distribution is skewed such that 1 + κ is consistent with a log-normal distribution; the standard deviations for these quantities are at the level of a few to 10%, depending on the redshift of the source. The deflection from higher-order terms beyond convergence and shear has significant scatter: the rms deflection is ∼15″, considerably larger than the image position residuals for current lens models. These results indicate that line-of-sight deflection effects due to large-scale structure can significantly impact lens models and should not be neglected. We present results in forms that can be incorporated into future cluster lens models.
 ]]></content:encoded>
-
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Damping of Strong GHz Waves near Magnetars and the Origin of Fast Radio Bursts</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad698c</link>
@@ -11812,114 +11803,6 @@ Low-mass galaxies can significantly contribute to reionization due to their pote
 <div> 关键词: 黑洞质量，星团质量，活动星系核，天体物理学，宇宙学<br />
 总结: 该研究调查了117个本地宿主低光度、宽谱线活动星系核(AGN)的星团质量和黑洞质量之间的关系。研究发现，相比于静止的黑洞，这些AGN的黑洞质量比早期星系中的黑洞要小上一个数量级。通过使用星团-盘分解和颜色相关的质量-光度比确定星团质量，发现这些AGN样本的黑洞质量与星系早期类型中的动态探测到的黑洞所定义的黑洞-星团质量关系仍存在明显偏离。研究提示，对于非椭圆形和星团主导系统的星系，使用传统的黑洞-星团质量关系可能会导致高度偏见的解释。这项工作对于与本地黑洞-星团质量关系相关的引力波探测和宇宙学模拟的预测具有直接影响。 <div>
 We investigate the relation between black hole (BH) mass and bulge stellar mass for a sample of 117 local (z ∼ 0) galaxies hosting low-luminosity, broad-line active galactic nuclei (AGNs). Our sample comes from Reines & Volonteri, who found that, for a given total stellar mass, these AGNs have BH masses more than an order of magnitude smaller than those in early-type galaxies with quiescent BHs. Here, we aim to determine whether or not this AGN sample falls on the canonical BH-to-bulge mass relation by utilizing bulge–disk decompositions and determining bulge stellar masses using color-dependent mass-to-light ratios. We find that our AGN sample remains offset by more than an order of magnitude from the MBH–Mbulge relation defined by early-type galaxies with dynamically detected BHs. We caution that using canonical BH-to-bulge mass relations for galaxies other than ellipticals and bulge-dominated systems may lead to highly biased interpretations. This work bears directly on predictions for gravitational-wave detections and cosmological simulations that are tied to the local BH-to-bulge mass relations.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Bayesian Constraints on the Ring Ellipticity of M87* 2017 Using Themis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad566d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad566d</guid>
-<content:encoded><![CDATA[
-<div> Event Horizon Telescope, black hole image, Bayesian imaging, ring shape, ellipticity
-<br /><br />总结:
-2019年，事件视界望远镜（EHT）首次在视界尺度上产生了黑洞图像。该研究重新分析了2017年的M87* EHT数据，使用贝叶斯成像技术构建了环形形状的后验概率。结果发现，贝叶斯成像更可靠地恢复了真实的环形形状。进一步发现，M87*的环形椭圆度与广义相对论磁流体动力学模拟得到的测量结果一致。这一发现表明，通过测量黑洞图像的属性，可以限制对广义相对论在视界尺度上的偏差。 <div>
-Measuring the properties of black hole images has the potential to constrain deviations from general relativity on horizon scales. Of particular interest is the ellipticity of the ring that is sensitive to the underlying spacetime. In 2019, the Event Horizon Telescope (EHT) produced the first-ever image of a black hole on horizon scales. Here, we reanalyze the M87* EHT 2017 data using Bayesian imaging (BI) techniques, constructing a posterior of the ring shape. We find that BI recovers the true on-sky ring shape more reliably than the original imaging methods used in 2019. As a result, we find that M87*'s ring ellipticity is and is consistent with the measured ellipticity from general relativistic magnetohydrodynamic simulations.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Flux Density Stability and Temporal Changes in the Spectra of Millisecond Pulsars Using the GMRT</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55c8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55c8</guid>
-<content:encoded><![CDATA[
-<div> 频谱特性，脉冲星，uGMRT，光度变化，干涉比<br />
-总结:<br />
-本文研究了使用uGMRT发现的10颗脉冲星的频谱特性，观测时间跨度为2017年至2023年，使用uGMRT的band 3（300-500 MHz）和band 4（550-750 MHz）。对这些脉冲星，我们报道了平均观测频段和所有观测时段的一系列频谱指数，范围约为0至-4.8。我们还计算了每颗脉冲星跨7-8个子频段的平均流量密度，计算了调制指数以及每个子频段内的平均和最大-中位数流量密度。我们使用流量密度的时间变化计算了折射闪烁时间尺度，并估计了样本中8颗脉冲星的时间滞后结构函数。我们注意到频谱的显著时间演化，分为三类：具有单一正频谱指数、多段折断功率谱、以及单一负频谱指数。此外，所有脉冲星均显示了低频拐点的迹象，拐点频率的时间变化（有些时段观测到了拐点，而另一些时段未观测到）也引起了注意。据我们所知，这是首次系统的探索脉冲星频谱和拐点频率的时间变化。未来的密集监测和频谱建模探索将为我们提供关于脉冲星固有发射特性和星际介质性质的重要见解。 <div>
-This paper presents an investigation of the spectral properties of 10 millisecond pulsars (MSPs) discovered by the uGMRT, observed from 2017 to 2023 using band 3 (300–500 MHz) and 4 (550–750 MHz) of the uGMRT. For these MSPs, we have reported a range of spectral indices from ∼0 to −4.8, while averaging the full observing band and all the observing epochs. For every MSP, we calculated the mean flux density across 7–8 subbands, each with approximately 25 MHz bandwidth spanning band 3 and band 4. We computed their modulation indices as well as average and maximum-to-median flux density within each subband. Using the temporal variations of the flux density we calculated the refractive scintillation timescales and estimated a structure function with a time lag for eight MSPs in the sample. We note a significant temporal evolution of the in-band spectra, classified into three categories based on the nature of the best-fit power-law spectra, having single positive spectral indices, multiple broken power laws, and single negative spectral indices. Additionally, indications of a low-frequency turnover and temporal variations of the turnover frequency (to the extent that turnover was observed for some of the epochs while not seen for the rest) were noted for all the MSPs. To the best of our knowledge, this is the first systematic investigation probing temporal changes in MSP spectra as well as in the turnover frequency. Future exploration with dense monitoring combined with the modeling of spectra can provide vital insight into the intrinsic emission properties of MSPs and interstellar medium properties.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Fraction of Dust Mass in the Form of Polycyclic Aromatic Hydrocarbons on 10–50 pc Scales in Nearby Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bd</guid>
-<content:encoded><![CDATA[
-<div> PHANGS survey, PAH fraction, JWST, interstellar medium, MIRI filters
-<br /><br />总结:
-研究使用JWST的MIR观测19个邻近星系，发现PAH的分数在H ii区域急剧下降，显示了这些小颗粒在电离气体区域的破坏。而在H ii区域之外，PHANGS样本中的RPAH呈均匀分布，平均值为3.43 ± 0.98，对应于照射辐射强度为太阳邻域的2-5倍，PAH的值为3%-6%。 <div>
-Polycyclic aromatic hydrocarbons (PAHs) are a ubiquitous component of the interstellar medium (ISM) in z ∼ 0 massive, star-forming galaxies and play key roles in ISM energy balance, chemistry, and shielding. Wide field-of-view, high-resolution mid-infrared (MIR) images from JWST provide the ability to map the fraction of dust in the form of PAHs and the properties of these key dust grains at 10–50 pc resolution in galaxies outside the Local Group. We use MIR JWST photometric observations of a sample of 19 nearby galaxies from the Physics at High Angular Resolution in Nearby GalaxieS (PHANGS) survey to investigate the variations of the PAH fraction. By comparison to lower-resolution far-infrared mapping, we show that a combination of the MIRI filters (RPAH = [F770W+F1130W]/F2100W) traces the fraction of dust by mass in the form of PAHs (i.e., the PAH fraction, or qPAH). Mapping RPAH across the 19 PHANGS galaxies, we find that the PAH fraction steeply decreases in H ii regions, revealing the destruction of these small grains in regions of ionized gas. Outside H ii regions, we find RPAH is constant across the PHANGS sample with an average value of 3.43 ± 0.98, which, for an illuminating radiation field of intensity 2–5 times that of the radiation field in the solar neighborhood, corresponds to qPAH values of 3%–6%.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Multiwavelength Machine-learning Approach to Classifying X-Ray Sources in the Fields of Unidentified 4FGL-DR4 Sources</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad543e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad543e</guid>
-<content:encoded><![CDATA[
-<div> Fermi-LAT, 机器学习, X射线, 天体物理, Chandra Source Catalog 2.0
-<br />
-在第四版Fermi-LAT 14年目录中，大部分的射电源仍未被识别。研究人员通过改进机器学习管道，成功对1206个具有信噪比大于3的X射线源进行分类，并在光学上对73个未被识别的Fermi-LAT 14年目录中的源进行了分类。他们对X射线源进行了八种天体物理类别的分类。作者还提出了未来的观测策略和管道改进，以实现更准确的分类。研究人员在光学数据中确定了42个GeV源的103个可靠X射线对应物。他们还发现2个GeV源可能是孤立的中子星候选体，16个可能是活跃星系核候选体，七个与星系的形成区相关，还有八个模糊的案例。最后，他们提出了管道的进一步改进以及可能导致更准确分类的观测策略。 
-<br /><br />总结: <div>
-A large fraction of Fermi-Large Area Telescope (LAT) sources in the fourth Fermi-LAT 14 yr catalog (4FGL) still remain unidentified (unIDed). We continued to improve our machine-learning pipeline and used it to classify 1206 X-ray sources with signal-to-noise ratios >3 located within the extent of 73 unIDed 4FGL sources with Chandra X-ray Observatory observations included in the Chandra Source Catalog 2.0. Recent improvements to our pipeline include astrometric corrections, probabilistic cross-matching to lower-frequency counterparts, and a more realistic oversampling method. X-ray sources are classified into eight broad predetermined astrophysical classes defined in the updated training data set, which we also release. We present details of the machine-learning classification, describe the pipeline improvements, and perform an additional spectral and variability analysis for brighter sources. The classifications give 103 plausible X-ray counterparts to 42 GeV sources. We identify 2 GeV sources as isolated neutron star candidates, 16 as active galactic nucleus candidates, seven as sources associated with star-forming regions, and eight as ambiguous cases. For the remaining 40 unIDed 4FGL sources, we could not identify any plausible counterpart in X-rays, or they are too close to the Galactic Center. Finally, we outline the observational strategies and further improvements in the pipeline that can lead to more accurate classifications.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Relative Prevalence of Wave Packets and Coherent Structures in the Inertial and Kinetic Ranges of Turbulence as Seen by Solar Orbiter</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54bc</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Solar Orbiter, turbulence, wave packets, coherent structures, PDFs
-总结:<br /><br />这篇文章总结了Solar Orbiter（SO）任务的观测结果，研究了太阳风湍流的演变过程。通过对九个均匀湍流的扩展时间段的观测分析，确定了磁场涨落的波包和相干结构的特征。研究使用了两种小波进行分解，分别是能够解析波包和不连续性的Daubechies 10（Db10）和Haar小波。结果显示，在小尺度上，湍流涨落的概率分布函数（PDFs）呈现出伸展的尾部，在级联的外尺度处变为高斯分布。对小波涨落的PDFs进行直方图和Q-Q图比较，揭示了三个不同的行为阶段。研究还发现了在惯性范围和动能范围内，小波涨落的PDFs存在差异，并确定了波包和相干结构的物理特性在不同尺度范围内发生了交叉。这些结果为认识湍流级联过程中的不同物理机制提供了新的见解。 <div>
-The Solar Orbiter (SO) mission provides the opportunity to study the evolution of solar wind turbulence. We use SO observations of nine extended intervals of homogeneous turbulence to determine when turbulent magnetic field fluctuations may be characterized as: (i) wave packets and (ii) coherent structures (CSs). We perform the first systematic scale-by-scale decomposition of the magnetic field using two wavelets known to resolve wave packets and discontinuities, the Daubechies 10 (Db10) and Haar, respectively. The probability distribution functions (PDFs) of turbulent fluctuations on small scales exhibit stretched tails, becoming Gaussian at the outer scale of the cascade. Using quantile–quantile plots, we directly compare the wavelet fluctuations PDFs, revealing three distinct regimes of behavior. Deep within the inertial range (IR) both decompositions give essentially the same fluctuation PDFs. Deep within the kinetic range (KR) the PDFs are distinct as the Haar decompositions have larger variance and more extended tails. On intermediate scales, spanning the IR–KR break, the PDF is composed of two populations: a core of common functional form containing ∼97% of fluctuations, and tails that are more extended for the Haar decompositions than the Db10 decompositions. This establishes a crossover between wave-packet (core) and CS (tail) phenomenology in the IR and KR, respectively. The range of scales where the PDFs are two-component is narrow at 0.9 au (4–16 s) and broader (0.5–8 s) at 0.4 au. As CS and wave–wave interactions are both candidates to mediate the turbulent cascade, these results offer new insights into the distinct physics of the IR and KR.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Whistler Waves in the Young Solar Wind: Statistics of Amplitude and Propagation Direction from Parker Solar Probe Encounters 1–11</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c4</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳风等离子体, 威斯勒波, 太阳探测器, 太阳辐射, 磁场波动<br />
-<br />
-总结:<br />本研究利用帕克太阳探测器(FIELDS)仪器持续采集的谱数据，确定了威斯勒波的传播方向，并验证了技术的准确性。研究发现在25到35太阳半径范围内增强的威斯勒波主要是由于朝向太阳传播的波与磁场波动相关的磁场减小有关。在30到40太阳半径之间观察到逆向传播的情况，而在40到50太阳半径之间，朝向太阳和逆向传播的威斯勒波出现率相当。50太阳半径以上几乎没有观察到向太阳或逆向传播的威斯勒波。这些发现有助于更好地了解太阳风等离子体中威斯勒波的性质和行为。 <div>
-In the interplanetary space solar wind plasma, whistler waves are observed in a wide range of heliocentric distances (from ∼20 solar radii (RS) to Jupiter’s orbit). They are known to interact with solar wind suprathermal electrons (strahl and halo) and to regulate the solar wind heat flux through scattering the strahl electrons. We present the results of applying the technique to determine the whistler wave propagation directions to the spectral data continuously collected by the FIELDS instruments on board Parker Solar Probe (PSP). The technique was validated based on the results obtained from burst mode magnetic and electric field waveform data collected during Encounter 1. We estimated the effective length of the PSP electric field antennas for a variety of solar wind conditions in the whistler wave frequency range and utilized these estimates for determining the whistler wave properties during PSP Encounters 1–11. Our findings show that (1) the enhancement of the whistler wave occurrence rate and wave amplitudes observed between 25 and 35 RS is predominantly due to the sunward-propagating whistler wave population associated with the switchback-related magnetic dips; (2) the antisunward or counterpropagating cases are observed at 30–40 RS; (3) between 40 and 50 RS, sunward and antisunward whistlers are observed with comparable occurrence rates; and (4) almost no sunward or counterpropagating whistlers were observed at heliocentric distances above 50 RS.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Unraveling the Mystery of the Low CO-to-H2 Conversion Factor in Starburst Galaxies: RADEX Modeling of the Antennae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5544</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5544</guid>
-<content:encoded><![CDATA[
-<div> 关键词: CO emission, αCO, Atacama Large Millimeter/submillimeter Array, Antennae, GMC
-
-总结: CO排放已被广泛用作分子气体质量的示踪剂。文章通过Atacama Large Millimeter/submillimeter Array的观测数据，首次展示了对星暴星系中αCO建模结果的研究。研究发现，在Antennae星暴星系中，GMCs的αCO值约为普遍采用的银河系值的四分之一。此外，13CO/CO线比和GMC速度离散度可以用来推断星暴区域的αCO。研究还表明，Antennae星暴星系中的GMCs比普通螺旋星系中的GMCs更少地受到引力束缚。在千秒差距尺度上，建模出的αCO值比GMC尺度上的值小40％，这可能是由于包含了具有较低αCO值的弥散气体组分。对于千秒差距尺度上的αCO和CO强度之间存在着类似的相关性。<br /><br /> <div>
-CO emission has been widely used as a tracer of molecular gas mass. However, it is a long-standing issue to accurately constrain the CO-to-H2 conversion factor (αCO) that converts CO luminosity to molecular gas mass, especially in starburst galaxies. We present the first resolved αCO modeling results with multiple Atacama Large Millimeter/submillimeter Array CO and 13CO transition observations at both giant molecular cloud (GMC) scale at 150 pc and kiloparsec scale for one of the closest starburst mergers, the Antennae. By combining our CO modeling results and measurements of 350 GHz dust continuum, we find that most GMCs in the Antennae have αCO values approximately four times smaller than the commonly adopted Milky Way value (4.3). We find that αCO at GMC scales shows a strong dependence on CO intensity, 13CO/CO ratio, and GMC velocity dispersion, which is consistent with various theoretical and simulation predictions. Specifically, we suggest that the 13CO/CO line ratio and the velocity dispersion can be used to infer αCO in starburst regions. By applying our modeled αCO in GMC analyses, we find that GMCs in the Antennae are less gravitationally bound than in normal spiral galaxies, which is more consistent with what is predicted by merger simulations. At kiloparsec scale, we find that our modeled αCO values are smaller than the modeled αCO at GMC scale by 40%, which can be due to inclusion of a diffuse gas component with lower αCO values. We find a similar correlation of αCO and CO intensity at kiloparsec scales to that at GMC scales.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Rockets for Extended-source X-ray Spectroscopy Instrument Design</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58d4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58d4</guid>
-<content:encoded><![CDATA[
-<div> tREXS, suborbital, X射线, 分光仪, 光谱发射<br />
-总结:<br />
-tREXS是一系列用于收集软X射线天文源光谱发射的亚轨道火箭有效载荷。分光仪利用机械束形成模块和反射光栅 passively 聚焦和分散入射X射线，并对其进行分析。设计达到适度的光谱分辨率，并对软X射线波段的关键离子种类进行灵敏度分析。 通过模拟对天鹅座环超新星遗迹和软X射线背景中的一些区域的观测，讨论其重要性和预期性能。 <div>
-The Rockets for Extended-source X-ray Spectroscopy (tREXS) are a series of suborbital rocket payloads designed to collect spectral emission from extended astronomical sources of soft X-rays. The tREXS spectrograph uses mechanical beam-shaping modules and reflection gratings to passively focus and then disperse incident X-rays to an array of Teledyne/e2v CIS 113 CMOS X-ray sensors. Designed to achieve a moderate spectral resolution, R ⪆ 50, from ≈15 to 40 Å over a large field of view (>10 deg2), the tREXS instrument is sensitive to line emission from key ion species over the soft-X-ray band. Here we present the complete end-to-end design of the tREXS spectrograph and discuss its significance and expected performance, using simulated observations of the Cygnus Loop supernova remnant and an enhanced region in the soft X-ray background.
-]]></content:encoded>
-<pubDate>2024-08-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Stellar Mergers or Truly Young? Intermediate-age Stars on Highly Radial Orbits in the Milky Way’s Stellar Halo</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad58de</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad58de</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 银河系, 恒星年龄, 星周围, 化学元素, 运动轨道
-总结: 
-本文报告了对120颗高径向轨道的亚巨星星周围恒星的发表年龄，这些星星可能属于盖亚-恒河/香肠(GES)星系的残骸。这些星系中大部分恒星年龄较老，中位数为11.6亿年，16分位数为10.5亿年和84分位数为12.7亿年。然而，分布呈偏态，存在一些年龄较轻的星星，它们的年龄范围在6-9亿年左右。所有高径向轨道的星周围恒星具有与GES残骸相关的化学和运动/轨道特性。初步结果表明，这些中间年龄的星星并非来自质量转移和/或恒星并合，这可能会降低它们的年龄确定。如果未来的光谱光度学研究证实了这一结论，那么这些星星的存在将对限制GES并购的性质和银河系的吸积历史构成重要挑战。 <br /><br /> <div>
-Reconstructing the mass assembly history of the Milky Way relies on obtaining detailed measurements of the properties of many stars in the galaxy, especially in the stellar halo. One of the most constraining quantities is stellar age, as it can shed light on the accretion time and quenching of star formation in merging satellites. However, obtaining reliable age estimates for large samples of halo stars is difficult. We report published ages of 120 subgiant halo stars with highly radial orbits that likely belong to the debris of the Gaia-Enceladus/Sausage (GES) galaxy. The majority of these halo stars are old, with an age distribution characterized by a median of 11.6 Gyr and a 16th (84th) percentile of 10.5 (12.7) Gyr. However, the distribution is skewed, with a tail of younger stars that span ages down to ∼6–9 Gyr. All highly radial halo stars have chemical and kinematic/orbital quantities that associate them with the GES debris. Initial results suggest that these intermediate-age stars are not a product of mass transfer and/or stellar mergers, which can bias their age determination low. If this conclusion is upheld by upcoming spectrophotometric studies, then the presence of these stars will pose an important challenge for constraining the properties of the GES merger and the accretion history of the galaxy.
 ]]></content:encoded>
 <pubDate>2024-08-15T23:00:00Z</pubDate>
 </item>
