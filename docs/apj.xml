@@ -4,6 +4,33 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Electron Acceleration at Quasi-parallel Nonrelativistic Shocks: A 1D Kinetic Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4c</guid>
+<content:encoded><![CDATA[
+<div> 1D kinetic particle-in-cell simulations, quasi-parallel shocks, electron acceleration, Alfvén Mach numbers, nonthermal particles
+<br>
+在这篇文章中，研究了1D动力学粒子在电磁场中的模拟，针对准平行非相对论性激波，旨在确定利于电子加速的环境。通过探索激波速度、Alfvén Mach数、声速Mach数以及质子对电子的质量比等参数范围，发现高Alfvén Mach数的激波能将大部分动能转化为非热粒子，产生自持续的磁湍流并加速粒子至更高能量。非热粒子的注入比例大约为电子的0.5%和质子的1%，对应的能量效率分别为2%和10%。此外，发现非热尾部的范围对Alfvén Mach数敏感，当Mach数较小时，加速过程较慢，但非热电子仍可达到超过下游热质子动量的水平。研究结果提供了关于下游热非分布过渡点（约为下游热质子动量的位置）和非热电子与质子数密度比的模拟参数化。这些结果对于多种环境都具有适用性，并且对于模拟激波驱动的非热辐射具有重要意义。
+<br><br>总结: <br>电子加速的有利环境通过1D动力学粒子模拟得到研究，发现高Alfvén Mach数激波可引发大量非热粒子产生，非热粒子的注入比例和能量效率得到了具体量化。此外，研究还发现非热尾部范围对Alfvén Mach数敏感，并提供了相应的模拟参数化。这些研究结果对于模拟激波驱动的非热辐射具有重要意义。 <div>
+We present a survey of 1D kinetic particle-in-cell simulations of quasi-parallel nonrelativistic shocks to identify the environments favorable for electron acceleration. We explore an unprecedented range of shock speeds vsh ≈ 0.067–0.267c, Alfvén Mach numbers , sonic Mach numbers , as well as the proton-to-electron mass ratios mi/me = 16–1836. We find that high Alfvén Mach number shocks can channel a large fraction of their kinetic energy into nonthermal particles, self-sustaining magnetic turbulence and acceleration to larger and larger energies. The fraction of injected particles is ≲0.5% for electrons and ≈1% for protons, and the corresponding energy efficiencies are ≲2% and ≈10%, respectively. The extent of the nonthermal tail is sensitive to the Alfvén Mach number; when , the nonthermal electron distribution exhibits minimal growth beyond the average momentum of the downstream thermal protons, independently of the proton-to-electron mass ratio. Acceleration is slow for shocks with low sonic Mach numbers, yet nonthermal electrons still achieve momenta exceeding the downstream thermal proton momentum when the shock Alfvén Mach number is large enough. We provide simulation-based parameterizations of the transition from thermal to nonthermal distribution in the downstream (found at a momentum around ), as well as the ratio of nonthermal electron to proton number density. The results are applicable to many different environments and are important for modeling shock-powered nonthermal radiation.
+]]></content:encoded>
+
+<pubDate>2024-11-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Search for Joint Multimessenger Signals from Potential Galactic Cosmic-Ray Accelerators with HAWC and IceCube</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad812f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad812f</guid>
+<content:encoded><![CDATA[
+<div> 高能宇宙射线，加速器，伽马射线源，中微子，多信使分析
+总结:
+研究了22个已知的伽马射线源和14年的IceCube径迹数据之间的相关性。结果显示，从HAWC源的方向没有发现显著的中微子发射。根据中微子通量限制，得出5个源的伽马射线发射不能纯粹由强子相互作用产生。报道了这五个源的强子相互作用产生伽马射线的限制。 <div>
+The origin of high-energy galactic cosmic rays is yet to be understood, but some galactic cosmic-ray accelerators can accelerate cosmic rays up to PeV energies. The high-energy cosmic rays are expected to interact with the surrounding material or radiation, resulting in the production of gamma-rays and neutrinos. To optimize for the detection of such associated production of gamma-rays and neutrinos for a given source morphology and spectrum, a multimessenger analysis that combines gamma-rays and neutrinos is required. In this study, we use the Multi-Mission Maximum Likelihood framework with IceCube Maximum Likelihood Analysis software and HAWC Accelerated Likelihood to search for a correlation between 22 known gamma-ray sources from the third HAWC gamma-ray catalog and 14 yr of IceCube track-like data. No significant neutrino emission from the direction of the HAWC sources was found. We report the best-fit gamma-ray model and 90% CL neutrino flux limit from the 22 sources. From the neutrino flux limit, we conclude that, for five of the sources, the gamma-ray emission observed by HAWC cannot be produced purely from hadronic interactions. We report the limit for the fraction of gamma-rays produced by hadronic interactions for these five sources.
+]]></content:encoded>
+
+<pubDate>2024-11-11T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Reconstruction of the Total Solar Irradiance During the Last Millennium</title>
