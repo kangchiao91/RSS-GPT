@@ -5,17 +5,30 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Electric Field and Its Impact on the Pitch Angle of Trapped Electrons in a Sub-ion-scale Magnetic Hole</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c46</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c46</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 磁孔，等离子体，三维电场，电子运动，能量转换
+总结: 
+本研究利用磁层多尺度任务在地球磁层尾流中对一个尺度约为0.08ρi × 0.14ρi的磁孔进行了高分辨率测量，揭示了其三维电场结构及其产生机制。研究建立了一个模型来量化E∥对困禁电子损失锥的影响，将电场归因于广义欧姆定律中的电子输运和压力梯度项。磁孔主要与电子耦合，并伴随着电子射流，这些电子射流可解释为电子漩涡的不同部分。这些电子射流与非理想电场共同导致电磁场向电子的强能量转换，并促使不同方向电子运动之间的能量转换。本研究显著地阐明了动力学尺度磁孔的物理特征。 <div>
+Sub-ion-scale magnetic holes (MHs) are ubiquitous structures in plasmas across a wide range of environments. Despite previous observational and modeling efforts, the three-dimensional (3D) electric field in MHs has yet to be adequately resolved. In this study, utilizing high-resolution measurements of an MH (∼0.08ρi × 0.14ρi) from the Magnetospheric Multiscale mission in Earth’s turbulent magnetosheath, we report this 3D electric field and unveil its roles and generation mechanism. A model is established to quantify the impacts of E∥ on increasing the loss cone of trapped electrons. The electric field is attributed to electron convection and pressure gradient terms of generalized Ohm’s law. The MH, primarily coupling to the electron, is accompanied by electron jets. These electron jets can be interpreted as different segments of an electron vortex. These electron jets combined with nonideal electric fields not only lead to strong energy conversion (j · (E + ve × B) ∼ 40 nW m−3) from the electromagnetic field to electrons but also enable energy conversion between different electron motion directions. Our study significantly clarifies the physical image of kinetic-scale MHs.
+]]></content:encoded>
+
+<pubDate>2024-11-11T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Electron Acceleration at Quasi-parallel Nonrelativistic Shocks: A 1D Kinetic Survey</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4c</guid>
 <content:encoded><![CDATA[
 <div> 1D kinetic particle-in-cell simulations, quasi-parallel shocks, electron acceleration, Alfvén Mach numbers, nonthermal particles
-<br>
+<br />
 在这篇文章中，研究了1D动力学粒子在电磁场中的模拟，针对准平行非相对论性激波，旨在确定利于电子加速的环境。通过探索激波速度、Alfvén Mach数、声速Mach数以及质子对电子的质量比等参数范围，发现高Alfvén Mach数的激波能将大部分动能转化为非热粒子，产生自持续的磁湍流并加速粒子至更高能量。非热粒子的注入比例大约为电子的0.5%和质子的1%，对应的能量效率分别为2%和10%。此外，发现非热尾部的范围对Alfvén Mach数敏感，当Mach数较小时，加速过程较慢，但非热电子仍可达到超过下游热质子动量的水平。研究结果提供了关于下游热非分布过渡点（约为下游热质子动量的位置）和非热电子与质子数密度比的模拟参数化。这些结果对于多种环境都具有适用性，并且对于模拟激波驱动的非热辐射具有重要意义。
-<br><br>总结: <br>电子加速的有利环境通过1D动力学粒子模拟得到研究，发现高Alfvén Mach数激波可引发大量非热粒子产生，非热粒子的注入比例和能量效率得到了具体量化。此外，研究还发现非热尾部范围对Alfvén Mach数敏感，并提供了相应的模拟参数化。这些研究结果对于模拟激波驱动的非热辐射具有重要意义。 <div>
+<br /><br />总结: <br />电子加速的有利环境通过1D动力学粒子模拟得到研究，发现高Alfvén Mach数激波可引发大量非热粒子产生，非热粒子的注入比例和能量效率得到了具体量化。此外，研究还发现非热尾部范围对Alfvén Mach数敏感，并提供了相应的模拟参数化。这些研究结果对于模拟激波驱动的非热辐射具有重要意义。 <div>
 We present a survey of 1D kinetic particle-in-cell simulations of quasi-parallel nonrelativistic shocks to identify the environments favorable for electron acceleration. We explore an unprecedented range of shock speeds vsh ≈ 0.067–0.267c, Alfvén Mach numbers , sonic Mach numbers , as well as the proton-to-electron mass ratios mi/me = 16–1836. We find that high Alfvén Mach number shocks can channel a large fraction of their kinetic energy into nonthermal particles, self-sustaining magnetic turbulence and acceleration to larger and larger energies. The fraction of injected particles is ≲0.5% for electrons and ≈1% for protons, and the corresponding energy efficiencies are ≲2% and ≈10%, respectively. The extent of the nonthermal tail is sensitive to the Alfvén Mach number; when , the nonthermal electron distribution exhibits minimal growth beyond the average momentum of the downstream thermal protons, independently of the proton-to-electron mass ratio. Acceleration is slow for shocks with low sonic Mach numbers, yet nonthermal electrons still achieve momenta exceeding the downstream thermal proton momentum when the shock Alfvén Mach number is large enough. We provide simulation-based parameterizations of the transition from thermal to nonthermal distribution in the downstream (found at a momentum around ), as well as the ratio of nonthermal electron to proton number density. The results are applicable to many different environments and are important for modeling shock-powered nonthermal radiation.
 ]]></content:encoded>
-
 <pubDate>2024-11-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -28,10 +41,8 @@ We present a survey of 1D kinetic particle-in-cell simulations of quasi-parallel
 研究了22个已知的伽马射线源和14年的IceCube径迹数据之间的相关性。结果显示，从HAWC源的方向没有发现显著的中微子发射。根据中微子通量限制，得出5个源的伽马射线发射不能纯粹由强子相互作用产生。报道了这五个源的强子相互作用产生伽马射线的限制。 <div>
 The origin of high-energy galactic cosmic rays is yet to be understood, but some galactic cosmic-ray accelerators can accelerate cosmic rays up to PeV energies. The high-energy cosmic rays are expected to interact with the surrounding material or radiation, resulting in the production of gamma-rays and neutrinos. To optimize for the detection of such associated production of gamma-rays and neutrinos for a given source morphology and spectrum, a multimessenger analysis that combines gamma-rays and neutrinos is required. In this study, we use the Multi-Mission Maximum Likelihood framework with IceCube Maximum Likelihood Analysis software and HAWC Accelerated Likelihood to search for a correlation between 22 known gamma-ray sources from the third HAWC gamma-ray catalog and 14 yr of IceCube track-like data. No significant neutrino emission from the direction of the HAWC sources was found. We report the best-fit gamma-ray model and 90% CL neutrino flux limit from the 22 sources. From the neutrino flux limit, we conclude that, for five of the sources, the gamma-ray emission observed by HAWC cannot be produced purely from hadronic interactions. We report the limit for the fraction of gamma-rays produced by hadronic interactions for these five sources.
 ]]></content:encoded>
-
 <pubDate>2024-11-11T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Reconstruction of the Total Solar Irradiance During the Last Millennium</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c49</link>
@@ -11811,31 +11822,6 @@ Solar type III radio bursts are crucial indicators of energetic electron activit
 The composition of gamma-ray burst (GRB) jets remained a mystery until recently. In practice, we usually characterize the magnetization of the GRB jets (σ0) through the ratio between the Poynting flux and matter (baryonic) flux. With the increasing value of σ0, magnetic energy gradually takes on a dominant role in the acceleration and energy dissipation of the jet, causing the proportion of thermal component in the prompt-emission spectrum of GRBs to gradually decrease or even be completely suppressed. In this work, we conducted an extensive analysis of the time-resolved spectrum for all Fermi GRBs with known redshift, and we diagnose σ0 for each time bin by contrasting the thermal and nonthermal radiation components. Our results suggest that most GRB jets should contain a significant magnetic energy component, likely with magnetization factors σ0 ≥ 10. The value of σ0 seems to vary significantly within the same GRB. Future studies with more samples, especially those with lower-energy spectral information coverage, will further verify our results.
 ]]></content:encoded>
 <pubDate>2024-08-20T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “Search for sub-TeV Neutrino Emission from Novae with IceCube-DeepCore” (2023, ApJ, 953, 160)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad684b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad684b</guid>
-<content:encoded><![CDATA[
-<div> 关键词： 新冠病毒、变种、疫苗、传播、防控
-
-新冠疫情下，各国不断出现新冠病毒变种，使得疫情形势更加严峻。疫苗的研发和接种被认为是控制疫情的有效手段，但新冠病毒的传播速度依然很快。因此，各国政府需要加强防控措施，包括加强疫情监测、推广疫苗接种、加强社区防护等，才能有效遏制疫情蔓延。同时，全球协作也是必要的，各国应加强合作，共同应对新冠疫情，为全球公共卫生安全做出贡献。
-
-<br /><br />总结: 
-新冠病毒变种导致疫情更严峻，疫苗接种是控制疫情的有效手段，但传播速度仍快，需要加强防控措施。全球协作对抗疫情至关重要。 <div>
-]]></content:encoded>
-<pubDate>2024-08-19T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “A Search for IceCube Sub-TeV Neutrinos Correlated with Gravitational-wave Events Detected By LIGO/Virgo” (2023, ApJ, 959, 96)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad683f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad683f</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 特朗普, 美国, 总统, 政府, 贸易战 <br />
-总结:<br />
-美国前总统特朗普在任期内采取了多项贸易政策，其中包括对中国的贸易战。他试图通过提高关税和限制进口来重塑美国的贸易关系。这一做法在一定程度上影响了全球经济格局，并引发了国际间的贸易紧张局势。特朗普政府对外贸易政策的变化和其对美国国内经济的影响备受关注。虽然特朗普的贸易政策在一定程度上得到了支持，但也受到了批评，特别是对进口商品加征高额关税的做法。特朗普政府的这些举措让美国国内外的舆论纷纷批评，并在国际上引发了广泛的争议。 <div>
-]]></content:encoded>
-<pubDate>2024-08-19T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
