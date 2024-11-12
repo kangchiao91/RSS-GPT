@@ -4,6 +4,136 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Double-peaked Narrow Emission-line Galaxies in SDSS-IV MaNGA</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b8e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b8e</guid>
+<content:encoded><![CDATA[
+<div> MaNGA, galaxies, double-peaked narrow emission lines, gas components, velocity<br>
+<br>
+这项研究使用了最终的MaNGA数据发布中的星系，通过检测Hα-[N ii]双峰线对所有MaNGA spaxels上的双高斯曲线来检测双峰窄发射线spaxels（DPSs）。共识别出与304个双峰窄发射线星系（DPGs）相关的5420个DPS，每个DPG至少包含五个DPS，并且不与其他星系重叠。我们发现DPSs可以根据它们的中心距离r/Re和两个成分之间的速度差Δv分为三组：内部低Δv、内部高Δv和外部DPSs。通过将DPGs的物理特征纳入其DPSs中，我们首次证明了被带状DPGs和内部低Δv DPSs、AGN-hosting DPGs和内部高Δv DPSs以及潮汐DPGs和外部DPSs之间存在统计关联。 <br><br>总结: 这项研究使用MaNGA数据来检测星系中的双峰窄发射线，命名为DPSs，并发现了具体的统计相关性，并首次对这种现象进行了系统的分类和分析。 <div>
+Narrow emission lines in a galaxy’s spectrum that show double peaks indicate the presence of distinct gas components with different velocities, and its physical origin remains uncertain. This study uses galaxies from the final MaNGA data release to detect double-peaked narrow emission-line spaxels (DPSs) by examining the double Gaussian profiles of the Hα-[N ii] doublets across all MaNGA spaxels. A total of 5420 DPSs associated with 304 double-peaked narrow emission-line galaxies (DPGs) are identified, with each DPG containing a minimum of five DPSs and being free from overlap with other galaxies. We find that DPSs can be categorized into three groups according to their central distance r/Re and the velocity difference Δv between their two components: the inner low-Δv, inner high-Δv, and outer DPSs. By incorporating the physical characteristics of the DPGs into their DPSs, we demonstrate for the first time the existence of statistical correlations between barred DPGs and inner low-Δv DPSs, AGN-hosting DPGs, and inner high-Δv DPSs, as well as tidal DPGs and outer DPSs.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>How the Galaxy–Halo Connection Depends on Large-scale Environment</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb3</guid>
+<content:encoded><![CDATA[
+<div> 机器学习模型, 星系, 暗物质, 模拟数据, 环境
+<br>
+通过使用Illustris TNG300水动力学模拟数据，研究了星系、暗物质晕及它们的大尺度环境之间的联系。从子暗物质晕的属性中预测星体质量，测试了两种机器学习（ML）模型：可解释的增强机器（EBM）和不变图神经网络（GNN）。最佳表现的EBM模型利用了3Mpc尺度上的球对称平均过密特征。通过SHapley添加解释，表明在TNG300星系-暗物质晕联系的背景下，简单的3Mpc尺度球对称过密比使用DisPerSE算法测量的宇宙网距离特征更重要。与此同时，以固定链接长度定义连接性的GNN在表现上显著优于EBM模型。随着链接长度尺度的增加，GNN能够学习到直到我们探测到的最大尺度的重要环境贡献（L = 10 Mpc）。我们得出结论，3Mpc距离尺度对于描述使用球对称过密参数化的TNG星系-暗物质晕联系至关重要，但是无法被简单的环境参数或宇宙网特征捕捉到的更大尺度的信息可以进一步增强这些模型。我们的研究突出了使用可解释的机器学习算法解释天体现象模型的好处，以及使用GNN从数据中灵活学习复杂关系并施加物理对称性的能力。
+<br><br>总结: 本研究在Illustris TNG300模拟数据基础上探究了星系、暗物质晕以及它们的大尺度环境之间的关联，通过机器学习模型进行预测和解释。研究发现3Mpc距离尺度对于描述星系-暗物质晕联系至关重要，而GNN模型在学习复杂关系方面表现出显著优势。这项研究突出了使用可解释的机器学习算法解释星系、暗物质晕等天体现象模型的好处。 <div>
+We investigate the connection between galaxies, dark matter halos, and their large-scale environments at z = 0 with Illustris TNG300 hydrodynamic simulation data. We predict stellar masses from subhalo properties to test two types of machine learning (ML) models: explainable boosting machines (EBMs) with simple galaxy environment features and -invariant graph neural networks (GNNs). The best-performing EBM models leverage spherically averaged overdensity features on 3 Mpc scales. Interpretations via SHapley Additive exPlanations also suggest that in the context of the TNG300 galaxy–halo connection, simple spherical overdensity on ∼3 Mpc scales is more important than cosmic web distance features measured using the DisPerSE algorithm. Meanwhile, a GNN with connectivity defined by a fixed linking length, L, outperforms the EBM models by a significant margin. As we increase the linking length scale, GNNs learn important environmental contributions up to the largest scales we probe (L = 10 Mpc). We conclude that 3 Mpc distance scales are most critical for describing the TNG galaxy–halo connection using the spherical overdensity parameterization, but that information on larger scales, which is not captured by simple environmental parameters or cosmic web features, can further augment these models. Our study highlights the benefits of using interpretable ML algorithms to explain models of astrophysical phenomena, and the power of using GNNs to flexibly learn complex relationships directly from data while imposing constraints from physical symmetries.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Simulating Short Gamma-Ray Burst Jets in Realistic Late Binary Neutron Star Merger Environments</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d04</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d04</guid>
+<content:encoded><![CDATA[
+<div> GW170817A, neutron star merger, afterglow observations, powerful jet, synthetic afterglow light curves
+<br><br>总结:
+本文研究了GW170817A双中子星合并事件的电磁辐射和余辉观测，确认了该合并事件与一个狭窄而强大的喷流相关联。研究利用了协同中子星磁流体动力学模拟和半解析估计，注入了一个狭窄而强大的非磁化喷流。研究探讨了不同的开角、光度、中心引擎持续时间和合并后时间。发现半解析估计正确预测了喷流的爆发和聚束条件。通过将合成余辉光曲线与观测到的射电数据进行比较，发现3 × 10^49 erg的喷流在合并后晚期发射，并且开角在约5°-7°的范围内能与观测数据相符。 <div>
+The electromagnetic emission and the afterglow observations of the binary neutron star merger event GW170817A confirmed the association of the merger with a short gamma-ray burst (GRB) harboring a narrow (5°–10°) and powerful (1049–1050 erg) jet. Using the 1 s long neutrino-radiation general relativistic MHD simulation of coalescing neutron stars of K. Kiuchi et al., and following the semi-analytical estimates of M. Pais et al., we inject a narrow, powerful, unmagnetized jet into the post-merger phase. We explore different opening angles, luminosities, central engine durations, and times after the merger. We explore early (0.1 s following the merger) and late (1 s) jet launches; the latter is consistent with the time delay of ≈1.74 s observed between GW170817 and GRB 170817A. We demonstrate that the semi-analytical estimates correctly predict the jets’ breakout and collimation conditions. When comparing our synthetic afterglow light curves to the observed radio data of GW170807, we find a good agreement for a 3 × 1049 erg jet launched late with an opening angle in the range ≃5°–7°.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Effect of Time-varying X-Ray Emission from Stellar Flares on the Ionization of Protoplanetary Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fdf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fdf</guid>
+<content:encoded><![CDATA[
+<div> 关键词: X射线, 恒星耀斑, 原行星盘, 化学反应, 辐射传输<br>
+总结:<br>
+本文研究了X射线对冷弱电离原行星盘的影响，尤其关注了恒星耀斑产生的硬X射线。作者基于观测和耀斑理论，建立了X射线光谱模型，能更好地预测硬X射线光子通量。利用该模型进行辐射传输计算，发现耀斑释放的硬X射线能显著增加盘中的电离速率，极大影响盘的演化。研究结果强调了恒星耀斑对原行星盘演化的重要性。 <div>
+X-rays have significant impacts on cold, weakly ionized protoplanetary disks by increasing the ionization rate and driving chemical reactions. Stellar flares are explosions that emit intense X-rays and are the unique source of hard X-rays with an energy of ≳10 keV in the protoplanetary disk systems. Hard X-rays should be carefully taken into account in models as they can reach the disk midplane as a result of scattering in the disk atmospheres. However, previous models are insufficient to predict the hard X-ray spectra because of simplifications in flare models. We develop a model of X-ray spectra of stellar flares based on observations and flare theories. The flare temperature and nonthermal electron emissions are modeled as functions of flare energy, which allows us to better predict the hard X-ray photon flux than before. Using our X-ray model, we conduct radiative transfer calculations to investigate the impact of flare hard X-rays on disk ionization, with a particular focus on the protoplanetary disk around a T Tauri star. We demonstrate that for a flare with an energy of 1035 erg, X-ray photons with ≳5 keV increase the ionization rates more than galactic cosmic rays down to z ≈ 0.1R. The contribution of flare X-rays to the ionization at the midplane depends on the disk parameters such as disk mass and dust settling. We also find that the 10 yr averaged X-rays from multiple flares could certainly contribute to the ionization. These results emphasize the importance of stellar flares on the disk evolution.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation Rate: A Tug of War between Metallicity and Delay Times</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe4</guid>
+<content:encoded><![CDATA[
+<div> BBH merger rate, scaled SFRD, COMPAS, stellar evolution models, metallicity <br>
+总结:<br>
+本研究使用COMPAS进行了群体综合模拟，发现孤立双黑洞、黑洞-中子星和双中子星合并率与尺度SFRD存在显著偏差。这种偏差主要是由于低金属丰度条件下形成双黑洞的效率比太阳金属丰度条件下高一个数量级，以及双黑洞形成和合并之间存在着广泛的延迟时间。此外，我们还发现双黑洞的延迟时间分布随红移变化，增加了合并时的红移分布的复杂性。这些结果表明来自孤立渠道的双黑洞、黑洞-中子星和双中子星合并率可能明显偏离尺度SFRD，未来的合并率测量将对引力波源的形成途径提供进一步洞察。 <div>
+Gravitational-wave detectors are now making it possible to investigate how the merger rate of binary black holes (BBHs) evolves with redshift. In this study, we examine whether the BBH merger rate of isolated binaries deviates from a scaled star formation rate density (SFRD)—a frequently used model in state-of-the-art research. To address this question, we conduct population synthesis simulations using COMPAS with a grid of stellar evolution models, calculate their cosmological merger rates, and compare them to a scaled SFRD. We find that our simulated rates deviate by factors up to 3.5 at z ∼ 0 and 5 at z ∼ 9 due to two main phenomena: (i) the formation efficiency of BBHs is an order of magnitude higher at low metallicities than at solar metallicity, and (ii) BBHs experience a wide range of delays (from a few megayears to many gigayears) between formation and merger. The deviations are similar when comparing to a delayed SFRD, and even larger (up to ∼10×) when comparing to SFRD-based models scaled to the local merger rate. Interestingly, our simulations find that the BBH delay time distribution is redshift dependent, increasing the complexity of the redshift distribution of mergers. We find similar results for simulated merger rates of black hole–neutron stars (BHNSs) and binary neutron stars (BNSs). We conclude that the rate of BBH, BHNS, and BNS mergers from the isolated channel can significantly deviate from a scaled SFRD, and that future measurements of the merger rate will provide insights into the formation pathways of gravitational-wave sources.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Potential for Long-lived Intermediate-mass Black Hole Binaries in the Lowest Density Dwarf Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8082</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8082</guid>
+<content:encoded><![CDATA[
+<div> LISA, gravitational waves, intermediate-mass black holes, dwarf galaxies, N-body simulations
+总结: 这篇文章讨论了中等质量黑洞（IMBH）在侏儒星系中的动力学和演化。研究发现，在非核心侏儒星系中，IMBH之间的融合速度较慢，尽管具有极高的偏心率。这表明在非核心侏儒星系中，低密度的星际环境不足以推动IMBH二进制系统融合。这些发现强调了需要考虑宿主特性才能准确预测LISA所观测到的IMBH融合速率。 <div>
+Intermediate-mass black hole (IMBH) mergers with masses 104–106M⊙ are expected to produce gravitational waves detectable by the Laser Interferometer Space Antenna (LISA) with high signal-to-noise ratios from the present day to cosmic dawn. IMBH mergers are expected to take place within dwarf galaxies; however, the dynamics, timescales, and effect on their hosts are largely unexplored. In a previous study, we examined how IMBHs would pair and merge within nucleated dwarf galaxies. IMBHs in nucleated hosts evolve very efficiently, forming a binary system and coalescing within a few hundred million years. Although the fraction of dwarf galaxies (107M⊙ ≤ M⋆ ≤ 1010M⊙) hosting nuclear star clusters is between 60% and 100%, this fraction drops to 20%–70% for lower-mass dwarfs (M⋆ ≈ 107M⊙), with the largest drop in low-density environments. Here, we extend our previous study by performing direct N-body simulations to explore the dynamics and evolution of IMBHs within nonnucleated dwarf galaxies, under the assumption that IMBHs exist within these dwarfs. To our surprise, none of the IMBHs in our simulation suite merge within a Hubble time, despite many attaining high eccentricities e ∼ 0.7–0.95. We conclude that extremely low stellar density environments in the centers of nonnucleated dwarfs do not provide an ample supply of stars to interact with an IMBH binary, resulting in its stalling, in spite of triaxiality and high eccentricity, common means to drive a binary to coalescence. Our findings underline the importance of considering all detailed host properties to predict IMBH merger rates for LISA.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraints on Acoustic Wave Energy Fluxes and Radiative Losses in the Solar Chromosphere from Non-LTE Inversions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad81d4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad81d4</guid>
+<content:encoded><![CDATA[
+<div> Na i 5896 Å, Ca ii 8542 Å, Interface Region Imaging Spectrograph, radiative losses, magnetohydrodynamics simulation
+总结: 通过使用非局部热力学平衡反演和瑞典反演码，研究了太阳色球区域的声波能量通量和辐射损失之间的平衡。利用干涉双向光谱仪和接触区域成像光谱仪的光谱观测数据，自洽地推导了大气不同高度处的速度功率谱和冷却速率。研究结果表明，在拟合这些光谱线时，反演可能低估了色球各个高度处的声波通量，同时略微高估了辐射损失。然而，即使考虑了这些偏差，声波通量与辐射损失的比值在大多数观测区域仍然低于1，特别是在色球的较高层。此外，我们还观察到在斑区，磁场倾斜角与低色球的辐射损失之间存在相关性，这表明磁场拓扑在色球损失中起着一定作用。 <div>
+Accurately assessing the balance between acoustic wave energy fluxes and radiative losses is critical for understanding how the solar chromosphere is thermally regulated. We investigate the energy balance in the chromosphere by comparing deposited acoustic flux and radiative losses under quiet and active solar conditions using non–local thermodynamic equilibrium inversions with the Stockholm Inversion Code. To achieve this, we utilize spectroscopic observations from the Interferometric BIdimensional Spectrometer in the Na i 5896 Å and Ca ii 8542 Å lines and from the Interface Region Imaging Spectrograph in the Mg ii h and k lines to self-consistently derive spatially resolved velocity power spectra and cooling rates across different heights in the atmosphere. Additionally, we use snapshots of a three-dimensional radiative magnetohydrodynamics simulation to investigate the systematic effects of the inversion approach, particularly the effect of attenuation on the velocity power spectra and the determination of the cooling rates. The results indicate that inversions potentially underestimate acoustic fluxes at all chromospheric heights while slightly overestimating the radiative losses when fitting these spectral lines. However, even after accounting for these biases, the ratio of acoustic flux to radiative losses remains below unity in most observed regions, particularly in the higher layers of the chromosphere. We also observe a correlation between the magnetic field inclination in the photosphere and radiative losses in the low chromosphere in plage, which is evidence that the field topology plays a role in the chromospheric losses.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Dependence of Joy’s Law and Mean Tilt as a Function of Flux Emergence Phase</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e3</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Michelson Doppler Imager, Helioseismic and Magnetic Imager, tilt angles, Joy’s law, Solar Cycles 23 and 24<br>
+<br>
+这项研究使用了来自Michelson Doppler Imager (MDI)和Helioseismic and Magnetic Imager (HMI)的数据，分析了1996年至2023年间的数据，以研究双极磁区的倾斜角(γ)以及太阳周期23、24和25的Joy定律。研究使用HMI径向磁场(Br)和MDI磁图(Blos)数据来计算γ，并发现活跃区的平均倾角在AR出现时从3.°30 ± 0.75增加到AR出现最大磁通时的6.°79° ± 0.66。对比得出，太阳周期24的平均倾角=6.67 ± 0.66大于太阳周期23的平均倾角=5.11 ± 0.61。除此之外，在Joy定律的斜率方面没有显著差异。此外，南半球的倾斜角在太阳周期23和24中一直比北半球高，但由于不确定性较大，这些差异并不具有统计学意义。<br><br>总结: 这项研究分析了1996年至2023年的Michelson Doppler Imager (MDI)和Helioseismic and Magnetic Imager (HMI)数据，研究了太阳双极磁区的倾斜角(γ)以及太阳周期23、24和25的Joy定律。研究发现，活跃区的平均倾角随着AR出现增加，太阳周期24的平均倾角大于太阳周期23。此外，南半球的倾斜角一直比北半球高，但由于不确定性较大，这些差异并不具有统计学意义。 <div>
+Data from the Michelson Doppler Imager (MDI) and Helioseismic and Magnetic Imager (HMI) are analyzed from 1996 to 2023 to investigate tilt angles (γ) of bipolar magnetic regions and Joy’s law for Solar Cycles 23 and 24 and a portion of Cycle 25. The HMI radial magnetic field (Br) and MDI magnetogram (Blos) data are used to calculate (γ) using the flux-weighted centroids of the positive and negative polarities. Each active region (AR) is only sampled once. The analysis includes only Beta (β)-class ARs since computing γ of complex ARs is less meaningful. During the emergence of the ARs, we find that the average tilt angle ( ) increases from 3.°30 ± 0.75 when 20% of the flux has emerged to 6.°79° ± 0.66 when the ARs are at their maximum flux. Cycle 24 has a larger average tilt, =6.67 ± 0.66, than Cycle 23, = 5.11 ± 0.61. No significant difference is found in the slope of Joy’s law or when sampling the ARs at the time of maximum flux or central meridian crossing. There are persistent differences in in the hemispheres, with the Sun's southern hemisphere having higher in Cycles 23 and 24, but the uncertainties are such that these differences are not statistically significant.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Mass and Redshift Dependence of Halo Star Clustering</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad834a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad834a</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 两点相关函数，宇宙学模拟，星系形成红移，宿主暗物质晕体积质量，空间聚类
+
+总结:<br><br>这篇文章采用两点相关函数作为统计工具，对IllustrisTNG模拟中不同宇宙红移下不同宿主暗物质晕体积质量范围内星系的空间聚类进行了量化。研究发现，空间聚类强度与星系形成红移之间存在明显相关性，且随着宿主暗物质晕质量的增加而减弱。对于更庞大的星系系统，它们在较晚的时间进行组装，新加入的恒星会增加聚类现象。此外，更庞大暗物质晕中的卫星星系轨道表现出更大的径向各向异性，反映了其宿主暗物质晕更活跃的吞并状态以及更高的质量损失速率。 <div>
+We adopt the two-point correlation function (2PCF) as a statistical tool to quantify the spatial clustering of halo stars for galaxy systems spanning a wide range in host halo virial mass ( ) and redshifts (0 < z < 1.5) from the IllustrisTNG simulations. Consistent with a previous study, we identify clear correlations between the strength of the 2PCF signals and galaxy formation redshifts, but over a much wider mass range. We find that such correlations are slightly stronger at higher redshifts and get weakened with the increase of host halo mass. We demonstrate that the spatial clustering of halo stars is affected by two factors: (1) the clustering gets gradually weakened as time passes (phase mixing); (2) newly accreted stars at more recent times would increase the clustering. For more massive galaxy systems, they assemble late, and the newly accreted stars would increase the clustering. The late assembly of massive systems may also help to explain the weaker correlations between the 2PCF signals and the galaxy formation redshifts in massive halos, as their 2PCFs are affected more by recently accreted stars, while formation redshift characterizes mass accretion on a much longer timescale. We find that the orbits of satellite galaxies in more massive halos maintain larger radial anisotropy, reflecting the more active accretion state of their hosts while also contributing to their stronger mass loss rates.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Molecular Hydrogen Line Identifications in Solar Flares Observed by IRIS: Lower Atmospheric Structure from Radiometric Analysis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8445</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8445</guid>
+<content:encoded><![CDATA[
+<div> 光谱观测，分子氢（H2），太阳活动区，辐射和速度，空间分布
+<br>
+太阳活跃区NOAA Active Region 11861的耀斑活动的观测结果显示，在接口区成像光谱仪（IRIS）的远紫外通道中可以观测到分子氢（H2）的丰富光谱发射线。通过比较使用1D建模的H2荧光产生的合成光谱，确定了37条新的发射线。为了避免误认H2线，还从先前研究中编制了IRIS FUV波段的完整原子线鉴定清单。我们对耀斑期间发生的H2发射进行了空间分辨分析，得出了以下结论：（1）在空间分辨观测中，H2线比可能显示出光学厚线形成，与先前的结果相反；（2）H2多普勒速度的空间分布与从其他物种测量的速度相比，表明H2远程探测探测了大气的中间深度，介于光球和色球之间，与建模的预期一致；（3）H2线强度与其激发源的观测强度之间的关系与大气成层有关；（4）H2荧光有时会对来自太阳表面许多兆米之外的远源辐射作出反应。 
+<br><br>总结: <br>观测结果显示H2发射线丰富，利用1D建模确定了多条新的发射线；H2的空间分布对大气的深度有所揭示；H2荧光可能对来自远处的辐射作出反应。 <div>
+A rich spectrum of molecular hydrogen (H2) emission lines is seen in sensitive observations from the far-ultraviolet (FUV) channels of the Interface Region Imaging Spectrograph (IRIS) during flare activity in solar active region NOAA Active Region 11861. Based on this observation, we have determined 37 new line identifications by comparing synthetic spectra produced using 1D modeling of H2 fluorescence. To avoid misidentification of the H2 lines, we have also compiled a complete list of atomic line identifications for the IRIS FUV bandpasses from previous work. We carry out analysis of the spatially resolved H2 emission that occurs during the flares and find the following: (1) in spatially resolved observations the H2 line ratios may show optically thick line formation, contrary to previous results; (2) comparison of the spatial distribution of H2 Doppler velocities with those measured from other species reveals that H2 remote sensing probes an intermediate depth in the atmosphere between the photosphere and chromosphere, consistent with expectations from modeling; (3) the relationship between H2 line intensity and the observed intensity of its exciter is related to the atmospheric stratification; however, (4) H2 fluorescence can sometimes occur in response to radiation from distant sources many megameters away across the solar surface.
+]]></content:encoded>
+
+<pubDate>2024-11-12T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Electric Field and Its Impact on the Pitch Angle of Trapped Electrons in a Sub-ion-scale Magnetic Hole</title>
