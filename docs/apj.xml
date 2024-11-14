@@ -4,19 +4,18 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Constraining the Diffusion Coefficient and Cosmic-Ray Acceleration Efficiency Using Gamma-Ray Emission from the Star-forming Region RCW 38</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bc</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bc</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 星际风, 宇宙射线, 伽马射线, 星团, X射线<br>
-总结: <br>本研究对银河系星团RCW 38的伽马射线发射进行了详细研究，并将其与其星际风特性和漫射X射线辐射进行了比较。我们发现了与星团重合的伽马射线发射，并计算了总伽马射线功率。根据估算的总风能量和CR加速效率，我们得出了星际风可能是银河系宇宙射线的重要来源的结论。此外，通过分析Chandra X射线数据，我们发现CR压力相对于星际风来说并不重要。这一发现表明了在RCW 38这样年轻的星团中，恒星风可能是银河系宇宙射线的重要来源。 <div>
+<div> 关键词: 星际风, 宇宙射线, 伽马射线, 星团, X射线<br />
+总结: <br />本研究对银河系星团RCW 38的伽马射线发射进行了详细研究，并将其与其星际风特性和漫射X射线辐射进行了比较。我们发现了与星团重合的伽马射线发射，并计算了总伽马射线功率。根据估算的总风能量和CR加速效率，我们得出了星际风可能是银河系宇宙射线的重要来源的结论。此外，通过分析Chandra X射线数据，我们发现CR压力相对于星际风来说并不重要。这一发现表明了在RCW 38这样年轻的星团中，恒星风可能是银河系宇宙射线的重要来源。 <div>
 Stellar winds from massive stars may be significant sources of cosmic rays (CRs). To investigate this connection, we report a detailed study of gamma-ray emission near the young Milky Way star cluster (≈0.5 Myr old) in the star-forming region RCW 38 and compare this emission to its stellar wind properties and diffuse X-ray emission. Using 15 yr of Fermi-LAT data in the 0.2–300 GeV band, we find a significant (σ > 22) detection coincident with the star cluster, producing a total gamma-ray luminosity (extrapolated over 0.1–500 GeV) of Lγ =(2.66 ± 0.92) × 1034 erg s−1 adopting a power-law spectral model (Γ = 2.34 ± 0.04). Using an empirical relationship and STARBURST99, we estimate the total wind power to be 8 × 1036 erg s−1, corresponding to a CR acceleration efficiency of ηCR ≃ 0.4 for an assumed diffusion coefficient consistent with D = 1028 cm2 s−1. Alternatively, a lower acceleration efficiency of 0.1 can produce this Lγ if the diffusion coefficient is smaller, D ≃ 2.5 × 1027 cm2 s−1. Additionally, we analyze Chandra X-ray data from the region and compare the hot-gas pressure to the CR pressure. We find the former is 4 orders of magnitude greater, suggesting that the CR pressure is not dynamically important relative to stellar winds. As RCW 38 is too young for supernovae to have occurred, the high CR acceleration efficiency in RCW 38 demonstrates that stellar winds may be an important source of Galactic CRs.
 ]]></content:encoded>
-
 <pubDate>2024-11-14T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Probing the Circumstellar Environment of the Highly Luminous Type IIn Supernova ASASSN-14il</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e11</link>
@@ -11830,18 +11829,6 @@ While direct magnetic field measurements are rare for slowly rotating stars, spo
 4. 在奥文斯谷无线电天文台的数据中也发现了类似的信号
 5. 科学家认为新周期信号可能来自轨道周期和恒星岁差周期的耦合 <div>
 LS I+61°303 is a high-mass X-ray binary system comprising a massive Be star and a rapidly rotating neutron star. Its spectral energy distribution across multiwavelengths categorizes it as a γ-ray binary system. In our analysis of LS I+61°303 using Fermi Large Area Telescope observations, we not only confirmed the three previously discussed periodicities of orbital, superorbital, and orbital–superorbital beat periods observed in multiwavelength observations, but also identified an additional periodic signal. This newly discovered signal exhibits a period of ∼26.3 days at a ∼7σ confidence level. Moreover, the power spectrum peak of the new signal gradually decreases as the energy increases across the energy ranges of 0.1–0.3, 0.3–1.0, and 1.0–500.0 GeV. Interestingly, a potential signal with a similar period was found in data obtained from the Owens Valley Radio Observatory 40 m telescope. We suggest that the newly discovered periodic signal may originate from a coupling between the orbital period and the retrograde stellar precession period.
-]]></content:encoded>
-<pubDate>2024-08-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Automatic Detection of Large-scale Flux Ropes and Their Geoeffectiveness with a Machine-learning Approach</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad54c3</guid>
-<content:encoded><![CDATA[
-<div> 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测<br />
-<br />
-自动检测大规模磁流绳以及评估它们的地球效应至关重要，因为它们可能引发严重的太空天气。研究提出了一种利用太阳风磁性特性训练的两个监督二元分类机器学习模型的流水线，用于自动检测大规模磁流绳并确定它们的地球效应。第一个模型用于生成自动检测到的磁流绳列表，第二模型利用南向磁场的性质确定磁流绳的地球效应。我们的方法能够在1天内自动识别出1 AU处90%左右的大型ICMEs，并获得88%的准确率来评估磁流绳的地球效应。因此，在L1点的空间天气预测中，我们的流水线可以提供大规模磁流绳及其地球效应的一级检测。 <br /><br />总结: <br />关键词: 自动检测、大规模磁流绳、太阳风磁性特性、机器学习模型、空间天气预测。<br />要点:提出使用机器学习模型自动检测大规模磁流绳，并评估其地球效应；利用两个监督分类模型对太阳风磁性特征进行训练；对1 AU处的大型ICMEs进行了有效识别和地球效应评估；在空间天气预测中具有重要应用价值。 <div>
-Detecting large-scale flux ropes (FRs) embedded in interplanetary coronal mass ejections (ICMEs) and assessing their geoeffectiveness are essential, since they can drive severe space weather. At 1 au, these FRs have an average duration of 1 day. Their most common magnetic features are large, smoothly rotating magnetic fields. Their manual detection has become a relatively common practice over decades, although visual detection can be time-consuming and subject to observer bias. Our study proposes a pipeline that utilizes two supervised binary classification machine-learning models trained with solar wind magnetic properties to automatically detect large-scale FRs and additionally determine their geoeffectiveness. The first model is used to generate a list of autodetected FRs. Using the properties of the southward magnetic field, the second model determines the geoeffectiveness of FRs. Our method identifies 88.6% and 80% of large-scale ICMEs (duration ≥ 1 day) observed at 1 au by the Wind and the Solar TErrestrial RElations Observatory missions, respectively. While testing with continuous solar wind data obtained from Wind, our pipeline detected 56 of the 64 large-scale ICMEs during the 2008–2014 period (recall = 0.875), but also many false positives (precision = 0.56), as we do not take into account any additional solar wind properties other than the magnetic properties. We find an accuracy of 0.88 when estimating the geoeffectiveness of the autodetected FRs using our method. Thus, in space-weather nowcasting and forecasting at L1 or any planetary missions, our pipeline can be utilized to offer a first-order detection of large-scale FRs and their geoeffectiveness.
 ]]></content:encoded>
 <pubDate>2024-08-26T23:00:00Z</pubDate>
 </item>
