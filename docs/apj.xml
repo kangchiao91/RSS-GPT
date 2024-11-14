@@ -4,6 +4,46 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Characterization of Small Flux Ropes Using Juno Spacecraft Cruise-phase Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad833e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad833e</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 磁场数据, Juno任务, 小磁通量绳, 太阳系外, 磁场分析
+总结:<br><br>这项研究利用Juno任务在太阳系外巡航阶段的磁场数据，对1-5.5天文单位距离范围内的338个小磁通量绳进行了可视化识别和分析。研究发现这些事件在日心距离上均匀分布，没有明显的趋势。平均来看，小磁通量绳的磁场轮廓对称，并且在观测的日心距离上变化不大。此外，研究还观察到小磁通量绳的持续时间平均呈轻微增加趋势，表明在传播过程中扩展很小。研究确定小磁通量绳的平均磁场与距离的关系最适合用两个分别的幂律来描述，从1到大约2.1天文单位距离有较陡的衰减，而从大约2.1到5.5天文单位距离的衰减较为缓和。研究还发现，在近1天文单位距离，小磁通量绳平均磁场的统计衰减速率略高于恒星际磁场，这表明小磁通量绳可能随时间变得难以与恒星际磁场区分开。在总体小磁通量绳中，仅有约26%出现在距离太阳风带电流片区1天的范围内，这表明大多数小磁通量绳的出现与太阳风带电流片区的关联性非常有限。这些结果对于太阳系外探测到的小磁通量绳的起源提出了问题，鼓励寻找传统发生机制之外的替代方案。 <div>
+In this study, we utilize magnetic field data from the Juno mission’s cruise phase to visually identify and analyze 338 interplanetary small flux ropes (SFRs) across a heliocentric distance range of 1–5.5 au. The events are uniformly distributed across heliocentric distances, showing no clear trend. Through superposed epoch analysis, we find that the average SFR magnetic field profiles are symmetric and show little variation across the observed heliocentric distances. Additionally, we observe a slight increasing trend in the mean duration of SFRs, indicating minimal expansion during propagation. Furthermore, we determine that the SFR mean magnetic field dependence on distance is best fit by two separate power laws, exhibiting a steeper decay from 1 to ∼2.1 au and a shallower decay from ∼2.1 to 5.5 au. Near 1 au, the statistical decay rate of the mean magnetic field magnitude of SFRs is slightly higher than that of the interplanetary magnetic field (IMF), suggesting that SFRs may become indistinguishable from the IMF over time. This finding implies that SFRs detected at greater radial distances are possibly generated in situ as opposed to near the Sun. However, only ∼26% of the total population of SFRs in our catalog occurs within 1 day from the heliospheric current sheet (HCS), indicating a very limited association between the occurrence of the majority of SFRs and the presence of the HCS. These results raise questions about the origin of SFRs detected at larger distances, encouraging further exploration for alternatives to the conventional generation mechanisms.
+]]></content:encoded>
+
+<pubDate>2024-11-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Investigating the Kinematics of Central and Satellite Galaxies Using Normalizing Flows</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8442</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8442</guid>
+<content:encoded><![CDATA[
+<div> 星系聚类, 宇宙学, 星系演化, 暗物质, 中心星系
+
+星系聚类研究了星系的动力学特性与宿主暗物质的关系，通过使用IllustrisTNG和SIMBA星系形成模型的2000个流体动力学模拟，对M* > 10^9M⊙的中心星系和卫星星系应用了神经密度估计（NDE）来估计它们的空间和速度偏移。结果表明，中心星系的空间和速度存在显著偏差，与宿主暗物质的质量、浓度和自旋密切相关。而卫星星系的分布显示出明显的不规则性，可以分为不同的轨道和进入种群。然而，对于θ的依赖性较弱。此外，宇宙参数和原初宇宙中子星和活跃星系核的反馈似乎对这些星系的动力学特性没有明显的影响。这些结果为改善当前的HOD模型提供了关键见解，并且将有助于在小尺度对星系聚类进行更好的建模。 
+
+<br><br>总结: 本研究使用了大规模的流体动力学模拟，通过神经网络技术研究了星系的动力学特性。结果表明，中心星系的空间和速度偏差与宿主暗物质的性质密切相关，而卫星星系呈现出不规则的分布特征。然而，它们对于宇宙参数和反馈影响并不敏感。这对改善星系聚类模型有重要意义，对未来研究提供了重要参考。 <div>
+Galaxy clustering contains information on cosmology, galaxy evolution, and the relationship between galaxies and their dark matter hosts. On small scales, the detailed kinematics of galaxies within their host halos determines the galaxy clustering. In this paper, we investigate the dependence of the central and satellite galaxy kinematics on θ, the intrinsic host halo properties (mass, spin, concentration), cosmology (Ωm, σ8), and baryonic feedback from active galactic nuclei and supernovae (AAGN1, AAGN2, ASN1, ASN2). We utilize 2000 hydrodynamic simulations in CAMELS run using IllustrisTNG and SIMBA galaxy formation models. Focusing on central and satellite galaxies with M* > 109M⊙, we apply neural density estimation (NDE) with normalizing flows to estimate their p(Δr ∣ θ) and p(Δv ∣ θ), where Δr and Δv are the magnitudes of the halocentric spatial and velocity offsets. With NDE, we accurately capture the dependence of galaxy kinematics on each component of θ. For central galaxies, we identify significant spatial and velocity biases dependent on halo mass, concentration, and spin. For satellite distributions, we find significant deviations from a Navarro–Frenk–White profile and evidence that they consist of distinct orbiting and infalling populations. However, we find no strong dependence on θ besides a weak dependence on host halo spin. For both central and satellite galaxies, there is no notable dependence on cosmological parameters and baryonic feedback. These results provide key insights for improving the current halo occupation distribution (HOD) models. This work is the first in a series that will reexamine and develop HOD frameworks for improved modeling of galaxy clustering at smaller scales.
+]]></content:encoded>
+
+<pubDate>2024-11-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Using Polar Faculae to Determine the Sun’s High-latitude Rotation Rate. I. Techniques and Initial Measurements</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d0</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 太阳高纬度、太阳自转速率、极地斑、太阳年轻
+
+这篇论文描述了一种新的方法，从同时观测多个极地斑的数据中，统计确定高纬度太阳自转速率的方法。作者提取了之前在1997年2月至1998年2月期间获取的在6767Å连续波段的平坦场图像制作的电影中的帧，并用这些帧构建了有利的朝向南极帽高纬度切片的时空图。这些图显示了一系列倾斜的轨迹，其平均斜率表示该纬度的斑点的东西速度。当斜率被测量并作为纬度的函数绘制时，它们显示出相对较小的散射，约为0.01-0.02 km s-1，从一个直线的零速度延伸通过太阳的南极。这意味着速度v(λs)和纬度半径r(λs)以相同的速率趋近于0，因此它们的比率给出了一个几乎恒定的绕太阳南极的日辉自转速率约为8.6°/天。在一些不利的朝向北极帽的测量与南极附近的这些测量一致。 <br><br>总结：这篇论文描述了一种新的方法，用于统计确定高纬度太阳自转速率，通过观测极地斑来得出结果。作者发现，南极附近的斑点显示出固定的自转速率约为8.6°/天。 <div>
+This paper describes a new way of determining the high-latitude solar rotation rate statistically from simultaneous observations of many polar faculae. In this experiment, I extracted frames from a movie made previously from flat-fielded images obtained in the 6767 Å continuum during 1997–1998 February and used those frames to construct spacetime maps from high-latitude slices of the favorably oriented south polar cap. These maps show an array of slanted tracks whose average slope indicates the east–west speed of faculae at that latitude, λs. When the slopes are measured and plotted as a function of latitude, they show relatively little scatter ∼ 0.01–02 km s−1 from a straight line whose zero-speed extension passes through the Sun’s south pole. This means that the speed, v(λs), and the latitudinal radius, , approach 0 at the same rate, so that their ratio gives a nearly constant synodic rotation rate ∼8.°6 day−1 surrounding the Sun’s south pole. A few measurements of the unfavorably oriented north polar cap are consistent with these measurements near the south pole.
+]]></content:encoded>
+
+<pubDate>2024-11-14T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Dust Drift Timescales in Protoplanetary Disks at the Cusp of Gravitational Instability</title>
