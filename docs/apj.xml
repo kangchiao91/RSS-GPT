@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A Broadband X-Ray Investigation of Fast-spinning Intermediate Polar CTCV J2056–3014</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7feb</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 快自转白矮星，X射线观测，磁场，CV，等离子体
 
-总结:<br>
+总结:<br />
 文章报告了对CTCV J2056-3014的X射线观测结果，该天体是一颗快自转的白矮星和CV。观测结果表明，这颗白矮星具有类似WZ Sge型CV的特性，并且在2022年11月发生了光学耀斑。X射线光谱表现为低等离子温度和无显著的低能吸收。研究人员使用非磁性和磁性CV光谱模型确定了白矮星质量范围，并发现其质量与局部CV的平均质量一致。这些观测结果对理解快自转白矮星和CV的性质具有重要意义。 <div>
 We report on XMM-Newton, NuSTAR, and NICER X-ray observations of CTCV J2056–3014, a cataclysmic variable (CV) with one of the fastest-spinning white dwarfs (WDs) at P = 29.6 s. While previously classified as an intermediate polar, CJ2056 also exhibits the properties of WZ Sge–type CVs, such as dwarf novae and superoutbursts. With XMM-Newton and NICER, we detected the spin period up to ∼2 keV with 7σ significance. We constrained its derivative to s s−1 after correcting for binary orbital motion. The pulse profile is characterized by a single broad peak with ∼25% modulation. NuSTAR detected a fourfold increase in unabsorbed X-ray flux coincident with an optical flare, in 2022 November. The XMM-Newton and NICER X-ray spectra at 0.310 keV are best characterized by an absorbed, optically thin three-temperature thermal plasma model (kT = 0.3, 1.0, and 4.9 keV), while the NuSTAR spectra at 3–30 keV are best fit by a single-temperature thermal plasma model (kT = 8.4 keV), both with Fe abundance ZFe/Z⊙ = 0.3. CJ2056 exhibits similarities to other fast-spinning CVs, such as low plasma temperatures and no significant X-ray absorption at low energies. As the WD’s magnetic field strength is unknown, we applied both nonmagnetic and magnetic CV spectral models (MKCFLOW and MCVSPEC) to determine the WD mass. The derived WD mass range (M = 0.7–1.0 M⊙) is above the centrifugal breakup mass limit of 0.56 M⊙ and consistent with the mean WD mass of local CVs (M ≈ 0.8–0.9 M⊙).
 ]]></content:encoded>
-
 <pubDate>2024-11-15T00:00:00Z</pubDate>
 </item>
 <item>
@@ -28,10 +28,8 @@ We report on XMM-Newton, NuSTAR, and NICER X-ray observations of CTCV J2056–30
 研究人员使用Subaru望远镜高分辨率光谱观测了四个超亮红外星系中的气体12CO rovibrational吸收线，发现每个过渡都有两至五个明显的速度分量，表明分子环具有颗粒结构。他们还发现，最内部的组分是以∣VLOS∣∼160-240公里/秒的速度流出，而外部组分则以更慢的速度流出或者向内落入。此外，他们观察到光谱线的性质表明最内部的组分可能是由密度较高的热颗粒组成，而外部组分则是由背景辐射激发的冷颗粒组成。这些观测结果揭示了星系核周围分子环的颗粒状和动态结构。 <div>
 Determining the inner structure of the molecular torus around an active galactic nucleus is essential for understanding its formation mechanism. However, spatially resolving the torus is difficult because of its small size. To probe the clump conditions in the torus, we therefore perform the systematic velocity-decomposition analyses of the gaseous 12CO rovibrational absorption lines (v = 0 → 1, ΔJ = ±1) at λ ∼ 4.67 μm observed toward four (ultra)luminous infrared galaxies using the high-resolution (R ∼ 5000–10,000) spectroscopy from the Subaru Telescope. We find that each transition has two to five distinct velocity components with different line-of-sight (LOS) velocities (VLOS ∼ −240 to +100 km s−1) and dispersions (σV ∼ 15–190 km s−1), i.e., the components (a), (b), ⋯, beginning with the broadest one in each target, indicating that the tori have clumpy structures. By assuming a hydrostatic disk ( ), we find that the tori has dynamic inner structures, with the innermost component (a) outflowing with velocity ∣VLOS∣ ∼ 160–240 km s−1, and the outer components (b) and (c) outflowing more slowly or infalling with ∣VLOS∣ ≲ 100 km s−1. In addition, we find that the innermost component (a) can be attributed to collisionally excited hot (≳530 K) and dense ( ) clumps, based on the level populations. Conversely, the outer component (b) can be attributed to cold (∼30–140 K) clumps radiatively excited by a far-infrared-to-submillimeter background with a brightness temperature higher than ∼20–400 K. These observational results demonstrate the clumpy and dynamic structure of tori in the presence of background radiation.
 ]]></content:encoded>
-
 <pubDate>2024-11-15T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Measurements of the Reaction Rate Coefficients of Atomic Hydrogen with Astrochemical Anions: CN− and C3N−</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808b</link>
@@ -11857,24 +11855,6 @@ Tidal disruption events (TDEs) can potentially probe low-mass black holes (BHs) 
 <div> 关键词: 转运映射, 宽发射线区域, 活跃星系核, 几何结构, 超大质量黑洞<br />
 总结: <br />研究了活跃星系核（AGNs）的宽发射线区域（BLR），发现使用新的技术——速度分辨电离映射，可以发现不对称的BLR结构。通过分析光谱监测数据发现，氢线比例与连续谱呈反相关，与宽发射线速度延迟呈正相关。一些线比例轮廓不符合对称的BLR预期，提示红移和蓝移气体云可能不等距离于超大质量黑洞。这种不对称的几何结构可能代表一种形成痕迹，为AGNs的演化提供新视角，并影响超大质量黑洞质量的测量。 <div>
 Broad emission lines of active galactic nuclei (AGNs) originate from the broad-line region (BLR), consisting of dense gas clouds in orbit around an accreting supermassive black hole. Understanding the geometry and kinematics of this region is crucial for gaining insights into the physics and evolution of AGNs. Conventional velocity-resolved reverberation mapping may face challenges in disentangling the degeneracy between intricate motion and geometry of this region. To address this challenge, new key constraints are required. Here, we report the discovery of an asymmetric BLR using a novel technique: velocity-resolved ionization mapping, which can map the distance of emitting gas clouds by measuring Hydrogen line ratios at different velocities. By analyzing spectroscopic monitoring data, we find that the Balmer decrement is anticorrelated with the continuum and correlated with the lags across broad emission line velocities. Some line ratio profiles deviate from the expectations for a symmetrically virialized BLR, suggesting that the redshifted and blueshifted gas clouds may not be equidistant from the supermassive black hole (SMBH). This asymmetric geometry might represent a formation imprint, provide new perspectives on the evolution of AGNs, and influence SMBH mass measurements.
-]]></content:encoded>
-<pubDate>2024-08-27T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Should Zeros Count? Modeling the Galaxy–Globular Cluster Scaling Relation with(out) Zero-inflated Count Models</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6147</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6147</guid>
-<content:encoded><![CDATA[
-The scaling relation between the size of a galaxy’s globular cluster (GC) population (NGC) and the galaxy’s stellar mass (M*) is usually described with a continuous, linear model, but in reality it is a count relationship that should be modeled as such. For massive galaxies, a negative binomial (NB) model has been shown to describe the data well, but it is unclear how the scaling relation behaves at low galaxy masses where a substantial portion of galaxies have NGC = 0. In this work, we test the utility of Poisson and NB models for describing the low-mass end of the NGC−M* scaling relation. We introduce the use of zero-inflated versions of these models, which allow for larger zero populations (e.g., galaxies without GCs) than would otherwise be predicted. We evaluate our models with a variety of predictive model comparison methods, including predictive intervals, the leave-one-out cross-validation criterion, and posterior predictive comparisons. We find that the NB model is consistent with our data, but the naive Poisson is not. Moreover, we find that zero inflation of the models is not necessary to describe the population of low-mass galaxies that lack GCs, suggesting that a single formation and evolutionary process acts over all galaxy masses. Under the NB model, there does not appear to be anything unique about the lack of GCs in many low-mass galaxies; they are simply the low-mass extension of the larger NGC−M* scaling relation.
-]]></content:encoded>
-<pubDate>2024-08-27T23:00:00Z</pubDate>
-</item>
-<item>
-<title>ϵ Sagittarii: An Extreme Rapid Rotator with a Decretion Disk</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad630b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad630b</guid>
-<content:encoded><![CDATA[
-We report high-precision, multiwavelength linear-polarization observations of the bright B9 (or A0) star ϵ Sagittarii. The polarization shows the distinctive wavelength dependence expected for a rapidly rotating star. Analysis of the polarization data reveals an angular rotation rate ω (=Ω/Ωcrit) of 0.995 or greater, the highest yet measured for a star in our Galaxy. An additional wavelength-independent polarization component is attributed to electron scattering in a low-density, edge-on gas disk that also produces the narrow absorption components seen in the spectrum. Several properties of the star (polarization due to a disk, occasional weak Hα emission, and multiple periodicities seen in space photometry) resemble those of Be stars, but the level of activity in all cases is much lower than that of typical Be stars. The stellar properties are inconsistent with single-rotating-star evolutionary tracks, indicating that it is most likely a product of binary interaction. The star is an excellent candidate for observation by interferometry, optical spectropolarimetry to detect the Öhman effect, and ultraviolet polarimetry, any of which would allow its extreme rotation to be tested and its stellar properties to be refined.
 ]]></content:encoded>
 <pubDate>2024-08-27T23:00:00Z</pubDate>
 </item>
