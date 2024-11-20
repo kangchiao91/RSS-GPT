@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Why Do Semianalytic Models Predict Higher Scatter in the Stellar Mass–Halo Mass Relation Than Cosmological Hydrodynamic Simulations?</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b0f</link>
@@ -15,13 +16,11 @@
 2. 设计了两种超大质量黑洞形成模型，发现单独应用这些模型对恒星质量的分散度影响不大。
 3. 通过修改AGN反馈模型，结合超大质量黑洞种子和固定条件分布模型，成功降低了1011-14M⊙范围内的恒星质量分散度。
 4. 表明在半解析模型中，AGN反馈的作用与宇宙学模拟中的反馈方式有明显不同，可能需要进行重大修改以匹配实际的恒星质量-暗物质晕关系的分散度。  
-总结: <br><br>这篇文章研究了半解析模型中恒星质量分布的预测结果，并设计了两种超大质量黑洞形成模型。结果显示单独应用这些模型对恒星质量的分散度影响不大。通过修改AGN反馈模型，结合超大质量黑洞种子和固定条件分布模型，成功降低了1011-14M⊙范围内的恒星质量分散度。研究表明在半解析模型中，AGN反馈的作用与宇宙学模拟中的反馈方式有明显不同，可能需要进行重大修改以匹配实际的恒星质量-暗物质晕关系的分散度。 <div>
+总结: <br /><br />这篇文章研究了半解析模型中恒星质量分布的预测结果，并设计了两种超大质量黑洞形成模型。结果显示单独应用这些模型对恒星质量的分散度影响不大。通过修改AGN反馈模型，结合超大质量黑洞种子和固定条件分布模型，成功降低了1011-14M⊙范围内的恒星质量分散度。研究表明在半解析模型中，AGN反馈的作用与宇宙学模拟中的反馈方式有明显不同，可能需要进行重大修改以匹配实际的恒星质量-暗物质晕关系的分散度。 <div>
 Semianalytic models (SAMs) systematically predict higher-stellar mass scatter at a given halo mass than hydrodynamical simulations and most empirical models. Our goal is to investigate the physical origin of this scatter by exploring modifications to the physics in the SAM Dark Sage. We design two black hole formation models that approximate results from the IllustrisTNG 300-1 hydrodynamical simulation. In the first model, we assign a fixed black hole mass of 106M⊙ to every halo that reaches 1010.5M⊙. In the second model, we disregard any black hole growth as implemented in the standard Dark Sage model. Instead, we force all black hole masses to follow the median z = 0 black hole mass–halo mass relation in IllustrisTNG 300-1 with an imposed fixed scatter. We find that each model on its own does not significantly reduce the scatter in stellar mass. To explore the effects of active galactic nucleus (AGN) feedback in addition to black hole seeding, we replace the native Dark Sage AGN feedback model with a simple model where we turn off cooling for galaxies with black hole masses above 108M⊙. With the additional modification in AGN feedback, we find that the supermassive black hole seeding and fixed conditional distribution models create a significant reduction in the scatter in stellar mass at halo masses between 1011–14M⊙. These results suggest that AGN feedback in SAMs acts in a qualitatively different way than feedback implemented in cosmological simulations. Either or both may require substantial modification to match the empirically inferred scatter in the stellar mass–halo mass relation.
 ]]></content:encoded>
-
 <pubDate>2024-11-19T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Multispectral Sirens: Gravitational-wave Cosmology with (Multi-) Subpopulations of Binary Black Holes</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad888b</link>
@@ -11817,18 +11816,6 @@ Observations of gravitational waves from binary black hole (BBH) mergers have me
 该研究使用来自Gaia E/DR3的OBA恒星样本，利用LAMOST的径向速度和年龄τ，研究了年轻恒星在最初几个轨道周期内的垂直运动。研究构建了一个参数模型，描述了恒星轨道的平均垂直动作Jz随银河中心半径RGC的时间演变。考虑数据不确定性，使用马尔可夫链蒙特卡罗分析约束了模型参数。最佳拟合模型显示，在所有考虑的银河中心半径范围内，垂直动作随年龄呈现明显的线性增加趋势。这种趋势可能是随机散射导致的轨道加热所致，但银河盘的各种动力学因素，例如恒星在弯曲盘中出生，也可能提供了未来可以验证的替代解释。 
 <br />总结: 使用Gaia E/DR3和LAMOST数据研究了年轻恒星轨道垂直动作随年龄和银河中心半径变化的模式，认为垂直动作随年龄呈线性增加趋势，可能是由于随机散射导致的轨道加热。但也指出了可能的其他动力学因素，需要未来进一步研究验证。 <div>
 Stars in the Galactic disk are born on cold, nearly circular orbits with small vertical excursions. After their birth, their orbits evolve, driven by small- or large-scale perturbations in the Galactic disk’s gravitational potential. Here, we study the vertical motions of young stars over their first few orbital periods, using a sample of OBA stars from Gaia E/DR3, which includes radial velocities and ages τ from LAMOST. We construct a parametric model for the time evolution of the stellar orbits’ mean vertical actions Jz as a function of Galactocentric radius, RGC. Accounting for data uncertainties, we use Markov Chain Monte Carlo analysis in annuli of Galactocentric radius (RGC) to constrain the model parameters. Our best-fit model shows a remarkably linear increase of vertical actions with age across all Galactocentric radii examined. Orbital heating by random scattering could offer a straightforward interpretation for this trend. However, various other dynamical aspects of the Galactic disk, such as stars being born in a warped disk, might offer alternative explanations that could be tested in the future.
-]]></content:encoded>
-<pubDate>2024-09-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Response of Broadband Kilometric Radiation to Compressions of the Jovian Magnetosphere</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6307</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6307</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 行星磁层，等离子体波，木星，辐射，太阳风<br />
-总结: 
-本研究关注木星广带千米辐射（bKOM）在不同磁层条件下的形态特征。观察结果显示，当磁层条件压缩时，木星bKOM的频率范围普遍超过100千赫兹，持续时间从松弛条件下的0至3小时延长至约4至9小时。不同磁层条件下的辐射特征显示，太阳风条件对木星辐射具有重要影响，因此辐射可作为太阳风与木星磁层相互作用的诊断工具。 <div>
-In the planetary magnetosphere, plasma waves act as the medium for particles to transfer energy. Jupiter is the largest planet in our solar system, and the giant magnetosphere is full of energetic particles, producing intense radio emissions. When interplanetary shocks in the solar wind interact with the Jovian magnetosphere, magnetospheric conditions change, and the characteristics of Jovian radio emissions show distinct variations accordingly. This study focuses on the morphological characteristics of Jovian broadband kilometric radiation (bKOM) under different magnetospheric conditions, i.e., relaxed and compressed. Using observations from Juno, both the frequency range and duration of Jovian bKOM radio emissions are studied, and we compare their variations during compressed and relaxed magnetospheric conditions. Our results show that under compressed magnetospheric conditions, the observed frequency range of Jovian bKOM generally exceeded 100 kHz, and their duration extended from 0 to 3 hr during uncompressed conditions to about 4–9 hr. The distinct features of radio emissions under different magnetospheric conditions imply that solar wind conditions have important influences on Jovian radio emissions, and thus the radio emissions can be used as a diagnostic tool of solar wind interaction with the Jovian magnetosphere.
 ]]></content:encoded>
 <pubDate>2024-09-03T23:00:00Z</pubDate>
 </item>
