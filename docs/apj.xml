@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Reflected-light Phase Curves with PICASO: A Kepler-7b Case Study</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7de6</link>
@@ -15,10 +16,8 @@
 开普勒-7b是一个热木星，其大气模型通过PICASO模拟了三种云层的反射光相位曲线。模拟结果显示，含有三种云凝结物种类以及低沉降效率（0.03-0.1）的模型与开普勒观测数据最匹配。然而，模拟的反射光强度约为开普勒观测数据的三分之一。因此，需要更好地理解区域输送、云层辐射反馈和颗粒散射特性，才能解释模型和观测反射光通量之间的差异。 <div>
 Examining reflected light from exoplanets aids in our understanding of the scattering properties of their atmospheres and will be a primary task of future flagship space- and ground-based telescopes. We introduce an enhanced capability of Planetary Intensity Code for Atmospheric Scattering Observations (PICASO), an open-source radiative transfer model used for exoplanet and brown dwarf atmospheres, to produce reflected light phase curves from three-dimensional atmospheric models. Since PICASO is coupled to the cloud code Virga, we produce phase curves for different cloud condensate species and varying sedimentation efficiencies (fsed) and apply this new functionality to Kepler-7b, a hot Jupiter with phase curve measurements dominated by reflected starlight. We model three different cloud scenarios for Kepler-7b: MgSiO3 clouds only, Mg2SiO4 clouds only, and Mg2SiO4, Al2O3, and TiO2 clouds. All our Virga models reproduce the cloudy region west of the substellar point expected from previous studies, as well as clouds at high latitudes and near the eastern limb, which are primarily composed of magnesium silicates. Al2O3 and TiO2 clouds dominate near the substellar point. We then compare our modeled reflected light phase curves to Kepler observations and find that models with all three cloud condensate species and low sedimentation efficiencies (0.03–0.1) match best, though our reflected light phase curves show intensities approximately one-third of those observed by Kepler. We conclude that a better understanding of zonal transport, cloud radiative feedback, and particle scattering properties is needed to further explain the differences between the modeled and observed reflected light fluxes.
 ]]></content:encoded>
-
 <pubDate>2024-11-21T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A Self-consistent Model of Shock-heated Plasma in Nonequilibrium States for Direct Parameter Constraints from X-Ray Observations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad822d</link>
@@ -11816,18 +11815,6 @@ The increase of discrepancy in the standard procedure to choose the arbitrary fu
 总结: 
 这是一篇关于对年轻的、多云的红色L矮星进行大气检索分析的文章。研究使用了Brewster检索框架，并对年轻K矮星进行了首次元素丰度测量。研究发现在存在凝结云物种的复杂多云L矮星区域，只有近红外数据时，检索分析变得更加困难。尽管测试了三种不同的热剖面参数化，我们仍然无法约束可靠的丰度测量，因此无法确定碳氧比。然而，数据强烈支持云模型而不是无云模型。无论检查的数据的信噪比如何（CWISER BD+60 1417B的S/N约为10，W0047的S/N约为40），检索约束的困难依然存在。这项工作为检索年轻、低表面重力多云L矮星提供了宝贵的经验教训。这项研究进一步证明了模型中存在信息缺失的现象，并迫切需要JWST来指导和提供这一区域的检索分析。 <br /> <div>
 We present an atmospheric retrieval analysis on a set of young, cloudy, red L dwarfs—CWISER J124332.12+600126.2 (BD+60 1417B) and WISEP J004701.06+680352.1 (W0047)—using the Brewster retrieval framework. We also present the first elemental abundance measurements of the young K-dwarf (K0) host star, BD+60 1417, using high-resolution (R = 50,000) spectra taken with the Potsdam Echelle Polarimetric and Spectroscopic Instrument on the Large Binocular Telescope. In the complex cloudy L-dwarf regime the emergence of condensate cloud species complicates retrieval analysis when only near-infrared data are available. We find that for both L dwarfs in this work, despite testing three different thermal profile parameterizations we are unable to constrain reliable abundance measurements and thus the carbon-to-oxygen ratio. While we cannot conclude what the abundances are, we can conclude that the data strongly favor a cloud model over a cloudless model. We note that the difficulty in retrieval constraints persists regardless of the signal-to-noise ratio of the data examined (S/N ∼ 10 for CWISER BD+60 1417B and 40 for WISEP W0047). The results presented in this work provide valuable lessons about retrieving young, low-surface-gravity cloudy L dwarfs. This work provides continued evidence of missing information in models and the crucial need for JWST to guide and inform retrieval analysis in this regime.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Multispecies Energetic Particle Acceleration Associated with CIR and ICME-driven Shocks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad614e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad614e</guid>
-<content:encoded><![CDATA[
-<div> CIR, energetic particles, shock, flux enhancement, turbulence power
-<br />
-在这篇文章中，研究了1 AU处的多种能量粒子强度增强事件。识别为一个包括流界面、正反冲击对和嵌入的太阳圈电流片的共旋相互作用区（CIR）结构。文章指出CIR事件的显著特征是：高能（>1 MeV）离子在CIR结构的反波（RW）/冲击处显示了明显的通量增强，这似乎取决于能量。此外，40.5-520 keV能量范围的电子在通过SI和HCS区域后立即加速，并在RW处仅高能电子（约520 keV）显示出明显的局部通量增强。CIR结构后面是由日冕物质抛射（CME）驱动的快速垂直冲击，观察到低能质子和高能电子的通量显著增强。特别地，210-330 keV质子和180-520 keV电子的通量增加了约2个数量级。文章进一步提出，SI和RW处湍流的增加可能是不同物种观察到的通量增强的重要因素。另外，在RW附近存在离子尺度波动，这表明共振波-粒子相互作用可能是高能质子和离子尺度波之间高效的能量转移器。<br /><br />总结：本文研究了1 AU处CIR结构引起的能量粒子强度增强事件。主要观察到高能离子在反波/冲击处通量增强，与能量相关；低能电子通过SI和HCS区域后立即加速，RW处仅高能电子显示通量增强；CIR结构后面的ICME驱动冲击显著增加了低能质子和高能电子的通量。文章进一步指出SI和RW处湍流的增加可能是不同物种通量增强的重要因素，同时离子尺度波动可能是高能质子和离子间高效能量转移的关键。 <div>
-A multispecies energetic particle intensity enhancement event at 1 au is analyzed. We identify this event as a corotating interaction region (CIR) structure that includes a stream interface (SI), a forward-reverse shock pair, and an embedded heliospheric current sheet (HCS). The distinct feature of this CIR event is that (1) the high-energy (>1 MeV) ions show significant flux enhancement at the reverse wave (RW)/shock of the CIR structure, following their passage through the SI and HCS. The flux amplification appears to depend on the energy per nucleon. (2) Electrons in the energy range of 40.5–520 keV are accelerated immediately after passing through the SI and HCS regions, and the flux quickly reaches a peak for low-energy electrons. At the RW, only high-energy electrons (∼520 keV) show significant local flux enhancement. The CIR structure is followed by a fast-forward perpendicular shock driven by a coronal mass ejection (CME), and we observed a significant flux enhancement of low-energy protons and high-energy electrons. Specifically, the 210–330 keV proton and 180–520 keV electron fluxes are enhanced by approximately 2 orders of magnitude. This suggests that the later ICME-driven shock may accelerate particles out of the suprathermal pool. In this paper, we further present that for CIR-accelerated particles, the increase in turbulence power at SI and RWs may be an important factor for the observed flux enhancement in different species. The presence of ion-scale waves near the RW, as indicated by the spectral bump near the proton gyrofrequency, suggests that the resonant wave–particle interaction may act as an efficient energy transferrer between energetic protons and ion-scale waves.
 ]]></content:encoded>
 <pubDate>2024-09-04T23:00:00Z</pubDate>
 </item>
