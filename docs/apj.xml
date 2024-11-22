@@ -5,16 +5,29 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Generalized Rotation Curves of the Milky Way from the GAIA DR3 Data Set: Constraints on Mass Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f1</guid>
+<content:encoded><![CDATA[
+<div> Gaia DR3 data, rotation curve, mass distribution, NFW model, DMD model
+<br><br>总结:
+最近的研究使用了银河系的旋转曲线来研究银河系的潜力和质量分布。通过假设银河系处于杰恩斯平衡状态，他们推导出了径向距离和垂直高度范围内的旋转曲线，并使用两种不同的质量模型来约束物质分布。他们发现，DMD模型比NFW模型更好地拟合了旋转曲线上的行为，并提到研究垂直高度不同位置的旋转曲线可以更好地约束暗物质分布的几何特性。 <div>
+The circular velocity curve traced by stars provides a direct means of investigating the potential and mass distribution of the Milky Way. Recent measurements of the Galaxy’s rotation curve have revealed a significant decrease in velocity for Galactic radii larger than approximately 15 kpc. While these determinations have primarily focused on the Galactic plane, the Gaia DR3 data also offer information about off-plane velocity components. By assuming the Milky Way is in a state of Jeans equilibrium, we derived the generalized rotation curve for radial distances spanning from 8.5 kpc to 25 kpc and vertical heights ranging from −2 kpc to 2 kpc. These measurements were employed to constrain the matter distribution using two distinct mass models. The first is the canonical Navarro–Frenk–White (NFW) halo model, while the second, the dark matter disk (DMD) model, posits that dark matter is confined to the Galactic plane and follows the distribution of neutral hydrogen. The best-fitting NFW model yields a virial mass of Mvir = (6.5 ± 0.5) × 1011 M⊙, whereas the DMD model indicates a total mass of MDMD = (1.7 ± 0.2) × 1011 M⊙. Our findings indicate that the DMD model generally shows a better fit to both the on-plane and off-plane behaviors at large radial distances of the generalized rotation curves than the NFW model. We emphasize that studying the generalized rotation curves at different vertical heights has the potential to provide better constraints on the geometrical properties of the dark matter distribution.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Whole-disk Sampling of Molecular Clouds in M83</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8228</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8228</guid>
 <content:encoded><![CDATA[
 <div> 分析, M83, clouds, CO luminosity, mass sensitivity, beam dilution
-<br>
-这篇文章总结了对M83星系进行的12CO (1–0)观测数据的分析结果。研究采用Atacama大型毫米/亚毫米阵列进行观测，发现星系内约5724个分子云团，其中60%的CO亮度来自质量大于10^6M⊙的云团。质量大的云团集中在星系的臂、杆和中心区域，而较小的云团更多分布在星系的臂间区域。研究还发现，云团的亮度温度与Solomon等人于1987年确定的标度关系相符，但在数量上占主导地位的亮度温度低于2K的云团明显偏离这一关系。在考虑波束展宽效应后，大部分云团的动力学参数和表面质量密度可以用内在表面质量密度约为100M⊙pc-2和动力学参数约为1来解释，这与S87的观测结果相似。这些结果对于理解M83星系内的分子云团的物理特性具有重要意义。 <br><br>总结: 该研究通过ALMA对M83星系的12CO观测数据进行分析，发现星系内分子云团的分布特性和物理参数，以及与标度关系的关联，这有助于深入理解星系内分子云团的性质。 <div>
+<br />
+这篇文章总结了对M83星系进行的12CO (1–0)观测数据的分析结果。研究采用Atacama大型毫米/亚毫米阵列进行观测，发现星系内约5724个分子云团，其中60%的CO亮度来自质量大于10^6M⊙的云团。质量大的云团集中在星系的臂、杆和中心区域，而较小的云团更多分布在星系的臂间区域。研究还发现，云团的亮度温度与Solomon等人于1987年确定的标度关系相符，但在数量上占主导地位的亮度温度低于2K的云团明显偏离这一关系。在考虑波束展宽效应后，大部分云团的动力学参数和表面质量密度可以用内在表面质量密度约为100M⊙pc-2和动力学参数约为1来解释，这与S87的观测结果相似。这些结果对于理解M83星系内的分子云团的物理特性具有重要意义。 <br /><br />总结: 该研究通过ALMA对M83星系的12CO观测数据进行分析，发现星系内分子云团的分布特性和物理参数，以及与标度关系的关联，这有助于深入理解星系内分子云团的性质。 <div>
 We present a catalog of clouds identified from the 12CO (1–0) data of M83, which was observed using the Atacama Large Millimeter/submillimeter Array with a spatial resolution of ∼46 pc and a mass sensitivity of ∼104M⊙ (3σ). The almost full-disk coverage and high sensitivity of the data allowed us to sample 5724 molecular clouds with a median mass of ∼1.9 × 105M⊙, which is comparable to the most frequently sampled mass of giant molecular clouds by surveys in the Milky Way (MW). About 60% of the total CO luminosity in M83's disk arises from clouds more massive than 106M⊙. Such massive clouds comprise 16% of the total clouds in number and tend to concentrate toward the arm, bar, and center, while smaller clouds are more prevalent in interarm regions. Most >106M⊙ clouds have peak brightness temperatures Tpeak above 2 K with the current resolution. Comparing the observed cloud properties with the scaling relations determined by P. M. Solomon et al. (1987, hereafter S87), Tpeak > 2 K clouds follow the relations, but Tpeak < 2 K clouds, which are dominant in number, deviate significantly. Without considering the effect of beam dilution, the deviations would suggest modestly high virial parameters (median αvir ∼ 2.7) and low surface mass densities (median Σ ∼ 22 M⊙ pc−2) for the entire cloud samples, which are similar to values found for the MW clouds by T. S. Rice et al. (2016) and M.-A Miville-Deschênes et al. (2017). However, once beam dilution is taken into account, the observed αvir and Σ for a majority of the clouds (mostly Tpeak <2 K) can be potentially explained with intrinsic Σ of ∼100 M⊙ pc−2 and αvir of ∼1, which are similar to the clouds of S87.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,11 +35,10 @@ We present a catalog of clouds identified from the 12CO (1–0) data of M83, whi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad834e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad834e</guid>
 <content:encoded><![CDATA[
-<div> 卫星星系，宿主暗物质晕，星—暗质关系，模拟研究，宿主暗物质质量。<br>
-在这篇文章中，研究人员通过分析卫星星系在宿主暗物质晕中的丰度，探讨了星—暗质质量关系的低质量端（MH < 1011M⊙）。他们指出最近对局部星系群环境中卫星星系的分析未能充分建模卫星星系恒星质量函数中的散射主要源，即固定宿主暗物质质量下的增光历史的方差。研究人员提出了一种新的推断框架，不仅恰当考虑了晕—晕方差，而且自然地确定了宿主暗物质质量混合的量，这通常是未知的。他们使用半解析SatGen模型构建了与卫星环绕类星系调查第三版数据一致的模拟卫星星系群体。他们证明即使在最理想的情况下，晕—晕方差使得对星—暗质量关系的散射施加任何有意义的限制几乎是不可能的。甚至由100个宿主组成的卫星星系调查最多只能在95%置信水平上对散射施加约0.5 dex的上限。这是因为晕组装历史的大方差主导了星—暗质量关系的散射。这个问题可以通过将调查样本大小增加一个数量级（大约1000个宿主星系）来解决，这在即将进行的光谱调查中应该是相当容易的。<br><br>总结: 本文研究了卫星星系丰度与宿主暗物质晕的关系，并提出了一种新的推断框架来解决散射问题。研究人员发现即使在最理想的情况下，晕—晕方差也使得对星—暗质量关系的散射施加限制几乎不可能。他们指出，这个问题可以通过将调查样本大小增加一个数量级来解决。 <div>
+<div> 卫星星系，宿主暗物质晕，星—暗质关系，模拟研究，宿主暗物质质量。<br />
+在这篇文章中，研究人员通过分析卫星星系在宿主暗物质晕中的丰度，探讨了星—暗质质量关系的低质量端（MH < 1011M⊙）。他们指出最近对局部星系群环境中卫星星系的分析未能充分建模卫星星系恒星质量函数中的散射主要源，即固定宿主暗物质质量下的增光历史的方差。研究人员提出了一种新的推断框架，不仅恰当考虑了晕—晕方差，而且自然地确定了宿主暗物质质量混合的量，这通常是未知的。他们使用半解析SatGen模型构建了与卫星环绕类星系调查第三版数据一致的模拟卫星星系群体。他们证明即使在最理想的情况下，晕—晕方差使得对星—暗质量关系的散射施加任何有意义的限制几乎是不可能的。甚至由100个宿主组成的卫星星系调查最多只能在95%置信水平上对散射施加约0.5 dex的上限。这是因为晕组装历史的大方差主导了星—暗质量关系的散射。这个问题可以通过将调查样本大小增加一个数量级（大约1000个宿主星系）来解决，这在即将进行的光谱调查中应该是相当容易的。<br /><br />总结: 本文研究了卫星星系丰度与宿主暗物质晕的关系，并提出了一种新的推断框架来解决散射问题。研究人员发现即使在最理想的情况下，晕—晕方差也使得对星—暗质量关系的散射施加限制几乎不可能。他们指出，这个问题可以通过将调查样本大小增加一个数量级来解决。 <div>
 The abundance of satellite galaxies is set by the hierarchical assembly of their host halo. We leverage this to investigate the low-mass end (MH < 1011M⊙) of the stellar-to-halo mass relation (SHMR), which is key to constraining theories of galaxy formation and cosmology. We argue that recent analyses of satellite galaxies in the Local Group environment have not adequately modeled the dominant source of scatter in satellite stellar mass functions: the variance in accretion histories for a fixed host halo mass. We present a novel inference framework that not only properly accounts for this halo-to-halo variance but also naturally identifies the amount of host halo mass mixing, which is generally unknown. Specifically, we use the semianalytical SatGen model to construct mock satellite galaxy populations consistent with the third data release of the Satellites Around Galactic Analogs survey. We demonstrate that even under the most idealized circumstances, the halo-to-halo variance makes it virtually impossible to put any meaningful constraints on the scatter in the SHMR. Even a satellite galaxy survey made up 100 hosts can at best only place an upper limit of ∼0.5 dex on the scatter (at the 95% confidence level). This is because the large variance in halo assembly histories dominates over the scatter in the SHMR. This problem can be overcome by increasing the sample size of the survey by an order of magnitude (∼1000 host galaxies), something that should be fairly straightforward with forthcoming spectroscopic surveys.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -34,15 +46,13 @@ The abundance of satellite galaxies is set by the hierarchical assembly of their
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d3</guid>
 <content:encoded><![CDATA[
-<div> 高红移，光度源，星系演化，光谱模板，JWST/NIRSpec prism<br>
-总结:<br>
+<div> 高红移，光度源，星系演化，光谱模板，JWST/NIRSpec prism<br />
+总结:<br />
 这篇文章报道了对于高红移星系进行光谱分析的研究。研究中利用了482个确认的z=5.0−12.9的光谱观测数据，构建了代表高红移星系的光谱模板，并报告了它们的平均特性。研究发现在z=5−11的星系中，主要以蓝色紫外连续斜率为主，表明这些星系贫尘且年轻。在我们的样本中，还发现了57个Lyα发射星系，并与非发射星系进行比较。研究结果揭示了这两类星系之间的重要内在差异，对Lyα能见度有重要影响。这些光谱模板提供了一个新的观测基准，有助于解释高红移光源的全局特性，扩展到了宇宙的早期时期。 <div>
 The exceptional spectra of the most luminous z > 10 sources observed so far have challenged our understanding of early galaxy evolution, requiring a new observational benchmark for meaningful interpretation. As such, we construct spectroscopic templates representative of high-redshift, star-forming populations, using 482 confirmed sources at z = 5.0−12.9 with JWST/NIRSpec prism observations, and report on their average properties. We find z = 5−11 galaxies are dominated by blue UV continuum slopes (β = −2.3 to −2.7) and reduced Balmer indices, characteristic of dust-poor and young systems, with a shift towards bluer slopes and younger ages with redshift. The evolution is mirrored by ubiquitous C iii] detections across all redshifts (rest-frame equivalent widths of 5−14 Å), which increase in strength towards early times. Rest-frame optical lines reveal elevated ratios (O32 = 7–31, R23 = 5–8, and Ne3O2 = 1−2) and subsolar metallicities (log(O/H) = 7.3−7.9), typical of ionization conditions and metallicities rarely observed in z ∼ 0 populations. Within our sample, we identify 57 Lyα emitters, which we stack and compare to a matched sample of nonemitters. The former are characterized by more extreme ionizing conditions with enhanced C iii], C iv, and He ii + [O iii] line emission, younger stellar populations from Balmer jumps, and a more pristine interstellar medium seen through bluer UV slopes and elevated rest-frame optical line ratios. The novel comparison illustrates important intrinsic differences between the two populations, with implications for Lyα visibility. The spectral templates derived here represent a new observational benchmark with which to interpret high-redshift sources, lifting our constraints on their global properties to unprecedented heights and extending out to the earliest of cosmic times.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Strong Nongravitational Accelerations and the Potential for Misidentification of Near-Earth Objects</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</link>
@@ -11820,42 +11830,6 @@ We present the photometric and spectroscopic evolution of SN 2022oqm, a nearby m
 <br />
 该研究报告了在具有丰富气体的明亮红外星系MCG-03-34-64（z=0.016）中发现了一个候选双黑洞系统，它们的距离约为100光年。哈勃空间望远镜/高级摄像机观测显示在[O iii]窄带和F814W图像中有三个明显的光学中心。对Chandra/ACIS数据的进一步分析显示在中性Fe Kα（6.2-6.6keV）波段中有两个空间分辨率相等的峰值，而Very Large Array在8.46GHz（3.6cm波段）的高分辨率射电连续观测显示出两个空间重合的射电峰值。由于产生Fe Kα所需的能量，快速冲击似乎不太可能是电离源。如果证实属实，该约100光年的距离将是迄今为止报道的具有空间分辨、多波段观测的最近的双活动星系核。 <br /><br />总结: 多波段观测发现了MCG-03-34-64中一个距离约为100光年的候选双黑洞系统。通过哈勃太空望远镜、Chandra望远镜和Very Large Array的观测，科学家发现了光学、X射线和射电波段的迹象，这将成为迄今为止已知的最近的双活动星系核。 <div>
 We report the serendipitous multiwavelength discovery of a candidate dual black hole system with a separation of ∼100 pc, in the gas-rich luminous infrared galaxy MCG-03-34-64 (z = 0.016). Hubble Space Telescope/Advanced Camera for Surveys observations show three distinct optical centroids in the [O iii] narrow-band and F814W images. Subsequent analysis of Chandra/ACIS data shows two spatially resolved peaks of equal intensity in the neutral Fe Kα (6.2–6.6 keV) band, while high-resolution radio continuum observations with the Very Large Array at 8.46 GHz (3.6 cm band) show two spatially coincident radio peaks. Fast shocks as the ionizing source seem unlikely, given the energies required for the production of Fe Kα. If confirmed, the separation of ∼100 pc would represent the closest dual active galactic nuclei reported to date with spatially resolved, multiwavelength observations.
-]]></content:encoded>
-<pubDate>2024-09-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Rest-frame Optical Spectroscopy of Ten z ∼ 2 Weak Emission-line Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f89</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f89</guid>
-<content:encoded><![CDATA[
-<div> 弱发射线类星体，近红外光谱，Palomar 200英寸哈勒望远镜，黑洞质量，极端Eddington比率<br />WLQs, 近红外光谱, 黑洞质量, Eddington比率, [O iii]异常<br /><br />总结:<br />这篇文章介绍了在红移为z∼2的10个弱发射线类星体（WLQs）的近红外光谱，得到了哈勒望远镜观测的结果。WLQs是一类特殊的1型类星体，它们在紫外线区域显示弱或无宽发射线，并且具有显著的X射线特性。文章推导了基于Hβ的单次估计维里黑洞质量（中值为1.7 × 10^9M⊙）和Eddington比率（中值为0.5）。结果证实了WLQ Hβ线不比典型类星体弱。WLQ光谱最显著的特征是普遍存在的微弱/缺失的[O iii] λ5007发射线，以及比典型类星体更强的光学Fe ii发射线。研究结果支持了WLQs的超Eddington吸积情景，其中弱发射线是软电离连续谱的结果；几何厚的内部吸积盘和/或其相关的流出现的遮蔽了核高能辐射并产生了软电离连续谱。该研究还报告了一例候选的极端[O iii]流出现（蓝移约500和4900 km s−1）。 <div>
-We present near-infrared spectroscopy of 10 weak emission-line quasars (WLQs) at redshifts of z ∼ 2, obtained with the Palomar 200 inch Hale Telescope. WLQs are an exceptional population of type 1 quasars that exhibit weak or no broad emission lines in the ultraviolet (e.g., the C ivλ1549 line), and they display remarkable X-ray properties. We derive Hβ-based single-epoch virial black hole masses (median value 1.7 × 109M⊙) and Eddington ratios (median value 0.5) for our sources. We confirm the previous finding that WLQ Hβ lines, as a major low-ionization line, are not significantly weak compared to typical quasars. The most prominent feature of the WLQ optical spectra is the universally weak/absent [O iii] λ5007 emission. They also display stronger optical Fe ii emission than typical quasars. Our results favor the super-Eddington accretion scenario for WLQs, where the weak lines are a result of a soft ionizing continuum; the geometrically thick inner accretion disk and/or its associated outflow is responsible for obscuring the nuclear high-energy radiation and producing the soft ionizing continuum. We also report candidate extreme [O iii] outflows (blueshifts of ≈500 and 4900 km s−1) in one object.
-]]></content:encoded>
-<pubDate>2024-09-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Most Sensitive Radio Recombination Line Measurements Ever Made of the Galactic Warm Ionized Medium</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f8b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f8b</guid>
-<content:encoded><![CDATA[
-<div> Milky Way, ionized gas, Green Bank Telescope, radio recombination line, plasma
-<br /><br />
-这篇文章使用绿岸望远镜对银河系两个视线进行了无线再组合线观测。观测结果显示每个视线有两个高斯形状的光谱分量，其发射测量范围在约100至300厘米^-6 pc之间。在光度学选择速率（LSR）速度为负时，没有可检测到的RRL发射，这表明辐射等离子体必须位于太阳轨道内部。G20和G45的发射测量暗示如果这些视线充满均匀等离子体，其均方根密度分别为0.15和0.18厘米^-3。观测到的Hnβ/Hnα线比与LTE激发的最强分量一致。G20的高速度分量具有较窄的线宽（13.5 km s^-1），这为等离子体电子温度设置了上限（≲4000 K），这与普遍存在的低密度约为10,000 K的WIM等离子体的假设不一致。
-<br /><br />总结: 该研究使用绿岸望远镜观测了银河系中的离子化气体，发现了两个视线中的RRL发射，并推测了等离子体发射测量的均方根密度。观测结果还表明，高速度分量的等离子体电子温度上限低于10,000 K的普遍假设。 <div>
-Diffuse ionized gas pervades the disk of the Milky Way. We detect extremely faint emission from this Galactic warm ionized medium (WIM) using the Green Bank Telescope to make radio recombination line (RRL) observations toward two Milky Way sight lines: G20, (ℓ, b) = (20°, 0°), and G45, (ℓ, b) = (45°, 0°). We stack 18 consecutive Hnα transitions between 4.3 and 7.1 GHz to derive 〈Hnα〉 spectra that are sensitive to RRL emission from plasmas with emission measures EM ≳ 10 cm−6 pc. Each sight line has two Gaussian-shaped spectral components with emission measures that range between ∼100 and ∼300 cm−6 pc. Because there is no detectable RRL emission at negative LSR velocities, the emitting plasma must be located interior to the solar orbit. The G20 and G45 emission measures imply rms densities of 0.15 and 0.18 cm−3, respectively, if these sight lines are filled with homogeneous plasma. The observed 〈Hnβ〉/〈Hnα〉 line ratios are consistent with LTE excitation for the strongest components. The high-velocity component of G20 has a narrow line width, 13.5 km s−1, that sets an upper limit of ≲4000 K for the plasma electron temperature. This is inconsistent with the ansatz of a canonically pervasive, low-density, ∼10,000 K WIM plasma.
-]]></content:encoded>
-<pubDate>2024-09-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Comprehensive Analysis of Insight-HXMT Gamma-Ray Burst Data. I. Power Density Spectrum</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f90</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f90</guid>
-<content:encoded><![CDATA[
-<div> 关键词: PDS, GRB, Insight-HXMT, 能谱指数, 光变曲线
-
-总结:
-该研究使用了PDS来研究伽马射线暴（GRB）的光变曲线，利用了Hard X-ray Modulation Telescope（Insight-HXMT）的数据。对长暴和短暴分别进行了能谱指数的分析，结果显示长暴和短暴的能谱指数相似，表明它们可能是相似的随机过程的结果。此外，研究还发现伽马射线暴的光变曲线可能是由多个具有不同时间尺度的脉冲叠加而成。在样本中没有发现高于3σ显著性阈值的周期性或准周期性信号。伽马射线暴的光变曲线与能谱的关系也被研究出来，有助于对伽马射线暴的物理过程进行更深入的理解。 <br /><br /> <div>
-The power density spectrum (PDS) is a powerful tool to study light curves of gamma-ray bursts (GRBs). We show the average PDS and individual PDS analysis with GRB data from the Hard X-ray Modulation Telescope (also named Insight-HXMT). The values of the power-law index of the average PDS ( ) for long GRBs (LGRBs) vary from 1.58 to 1.29 (for 100–245, 245–600, and 600–2000 keV). The Insight-HXMT data allow us to extend the energy of the LGRBs up to 2000 keV, and a relation between and energy E is obtained: (8–2000 keV). We first systematically investigate the average PDS and individual PDSs for short GRBs (SGRBs), and obtain (8–1000 keV), where the values of vary from 1.86 to 1.34. The distribution of the power-law index of an individual PDS (α) of an SGRB is consistent with that of an LGRB, and the α value for the group with a dominant timescale (the bent power law) is higher than that for the group with no dominant timescale (the single power law). Both LGRBs and SGRBs show similar α and , which indicates that they may be the result of similar stochastic processes. Typical values of the dominant timescale τ for LGRBs and SGRBs are 1.58 s and 0.02 s, respectively. It seems that τ varies in proportion to the duration of GRBs T90, with a relation . The GRB light curve may result from superposing a number of pulses with different timescales. No periodic or quasi-periodic signal above the 3σ significance threshold is found in our sample.
 ]]></content:encoded>
 <pubDate>2024-09-08T23:00:00Z</pubDate>
 </item>
