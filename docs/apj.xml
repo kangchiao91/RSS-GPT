@@ -5,17 +5,109 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Puffy Venuses: The Mass–Radius Impact of Carbon-rich Atmospheres on Lava Worlds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f03</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f03</guid>
+<content:encoded><![CDATA[
+<div> 关键词: exoplanet, carbon-rich atmosphere, puffy Venuses, magma oceans, TOI-561 b
+
+总结:
+本研究提出了一种名为“puffy Venuses”的理论类别的外行星模型，这些行星具有厚厚的碳主导大气，并处于与全球岩浆海洋相平衡的状态。研究模型考虑了大气和岩浆海洋之间的碳和氢分配，以及整个半灰色辐射对流大气中的碳-氢-氧平衡化学反应。研究发现，碳含量为1200 ppm（或普通球粒陨石的含量）可以使地球质量的行星在1500-2000 K的平衡温度下产生约0.16-0.3 R⊕的大气膨胀。研究指出TOI-561 b可能是一个特别有希望成为puffy Venus候选行星，其低密度可能归因于厚厚的碳富大气。此外，研究还提出了55 Cancri e可能具有puffy Venus解释，最近的JWST观测表明该行星可能具有CO/CO2大气。因此，puffy Venuses可能构成对低质量外行星内部结构的一种可检验的替代解释。 <div>
+The recent advancements in exoplanet observations enable the potential detection of exo-Venuses, rocky planets with carbon-rich atmospheres. How extended these atmospheres can be, given high carbon abundances, has not been studied. To answer this, we present a model for a theoretical class of exoplanets—puffy Venuses—characterized by thick, carbon-dominated atmospheres in equilibrium with global magma oceans (MOs). Our model accounts for carbon and hydrogen partition between the atmosphere and the MO, as well as the C–H–O equilibrium chemistry throughout a semi-gray, radiative-convective atmosphere. We find that radius inflation by puffy Venus atmospheres is significant on small and irradiated planets: carbon content of 1200 ppm (or that of ordinary chondrites) can generate an atmosphere of ∼0.16–0.3 R⊕ for an Earth-mass planet with equilibrium temperatures of 1500–2000 K. We identify TOI-561 b as an especially promising puffy Venus candidate, whose underdensity could be attributed to a thick C-rich atmosphere. We also advocate for a puffy Venus interpretation of 55 Cancri e, where a recent JWST observation indicates the presence of a CO/CO2 atmosphere. Puffy Venuses may thus constitute a testable alternative interpretation for the interior structure of underdense low-mass exoplanets.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraining Quasar Feedback from Analysis of the Hydrostatic Equilibrium of the Molecular Gas in Their Host Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e26</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e26</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Palomar-Green quasars, gas kinematics, dynamical mass, interstellar medium, quasar feedback
+总结:
+Palomar-Green类星体的宿主星系中的分子和电离气体的运动学和动力学通过分析CO和Hα数据立方体来研究冷分子和热电离气体的运动学，并利用先验知识构建样本的质量分布。我们通过气体动力学研究宿主星系的动力学质量，并发现我们的动力学方法所导出的恒星质量与宽带光度和质量-光度比的一致性。我们使用我们的动力学质量模型研究了动能压力和星际介质的重量。通过研究类星体宿主星系动力学质量和重力压力之间的关系，我们发现类星体宿主星系星际介质的静力平衡状态与正常形成星系中气体平衡的结果类似，表明了类星体反馈的最低影响。关于非圆形运动被认为是类星体驱动的流出现象，我们观察到分子气体流出和活动星系核波尔博热光度之间的耦合效率异常低。这些结果表明中心引擎对类星体宿主星系中冷分子气体的性质影响较小。 <div>
+We investigate the kinematics and dynamics of the molecular and ionized gas in the host galaxies of three Palomar-Green quasars at low redshifts, benefiting from the archival millimeter-wave interferometric and optical integral field unit data. We study the kinematics of both cold molecular and hot ionized gas by analyzing the CO and Hα data cubes, and construct the mass distributions of our sample through gas dynamics, utilizing a priori knowledge regarding the galaxy light distribution. We find no systematic offset between the stellar mass derived from our dynamical method and that from the broadband photometry and mass-to-light ratio, suggesting the consistency of both methods. We then study the kinetic pressure and the weight of the interstellar medium (ISM) using our dynamical mass model. By studying the relationship between kinetic pressure and gravitational pressure of the quasar host galaxies, we find an equivalence in the hydrostatic equilibrium states of ISM in the quasar host galaxies, similar to the result of gas equilibrium in normal star-forming galaxies, suggesting minimal quasar feedback. Regarding noncircular motion as indicative of quasar-driven outflows, we observe an exceptionally low coupling efficiency between molecular gas outflow and active galactic nucleus bolometric luminosities. These results demonstrate the marginal influence of the central engine on the properties of cold molecular gas in quasar host galaxies.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Disk2Planet: A Robust and Automated Machine Learning Tool for Parameter Inference in Disk–Planet Systems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8086</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8086</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Disk2Planet, 机器学习, 系统参数推断, 神经网络, 演化算法
+
+机器学习工具Disk2Planet可以通过观测到的原行星盘结构推断出盘和行星的关键参数。它集成了适用于复杂优化问题的演化算法Covariance Matrix Adaptation Evolution Strategy和用于预测盘-行星交互解决方案的神经网络Protoplanetary Disk Operator Network。这个工具完全自动化，在Nvidia A100图形处理单元上可以在3分钟内获取一个系统的参数。实验证明，该工具可以实现百分比级别或更高的精度，并且能够处理缺失数据和未知噪声水平。<br><br>总结: 本文介绍了一种机器学习工具Disk2Planet，它能够从观测到的原行星盘结构中推断出盘和行星的关键参数。该工具集成了演化算法和神经网络，能够在短时间内实现高精度的参数推断，同时具备处理缺失数据和未知噪声的能力。 <div>
+We introduce Disk2Planet, a machine-learning-based tool to infer key parameters in disk–planet systems from observed protoplanetary disk structures. Disk2Planet takes as input the disk structures in the form of 2D density and velocity maps, and outputs disk and planet properties, that is, the Shakura–Sunyaev viscosity, the disk aspect ratio, the planet–star mass ratio, and the planet’s radius and azimuth. We integrate the Covariance Matrix Adaptation Evolution Strategy, an evolutionary algorithm tailored for complex optimization problems, and the Protoplanetary Disk Operator Network, a neural network designed to predict solutions of disk–planet interactions. Our tool is fully automated and can retrieve parameters in one system in 3 minutes on an Nvidia A100 graphics processing unit. We empirically demonstrate that our tool achieves percent-level or higher accuracy, and is able to handle missing data and unknown levels of noise.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Search for Persistent Radio Sources toward Repeating Fast Radio Bursts Discovered by CHIME/FRB</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad808e</guid>
+<content:encoded><![CDATA[
+<div> 重复快速无线电爆发（FRBs），持久射电源（PRSs），CHIME/FRB重复器，多波段分析，星际中心引擎
+<br><br>总结:
+这篇文章对37个CHIME/FRB重复器进行了系统性的射电源搜索，通过多波段分析，确认了两个潜在的持久射电源（20181030A-S1和20190417A-S1），但在绝大多数情况下并未找到相关的持久射电源。文章进一步提出了对与重复FRB相关的亮度低的持久射电源数量的限制。此外，该研究还对PRS候选者的来源进行了分析，并提出了未来观测的需求。 <div>
+The identification of persistent radio sources (PRSs) coincident with two repeating fast radio bursts (FRBs) supports FRB theories requiring a compact central engine. However, deep nondetections in other cases highlight the diversity of repeating FRBs and their local environments. Here, we perform a systematic search for radio sources towards 37 CHIME/FRB repeaters using their arcminute localizations and a combination of archival surveys and targeted observations. Through multiwavelength analysis of individual radio sources, we identify two (20181030A-S1 and 20190417A-S1) for which we disfavor an origin of either star formation or an active galactic nucleus in their host galaxies and thus consider them candidate PRSs. We do not find any associated PRSs for the majority of the repeating FRBs in our sample. For eight FRB fields with Very Large Array imaging, we provide deep limits on the presence of PRSs that are 2–4 orders of magnitude fainter than the PRS associated with FRB 20121102A. Using Very Large Array Sky Survey imaging of all 37 fields, we constrain the rate of luminous (≳1040 erg s−1) PRSs associated with repeating FRBs to be low. Within the context of FRB-PRS models, we find that 20181030A-S1 and 20190417A-S1 can be reasonably explained within the context of magnetar, hypernebulae, gamma-ray burst afterglow, or supernova ejecta models—although we note that both sources follow the radio luminosity versus rotation measure relationship predicted in the nebula model framework. Future observations will be required to both further characterize and confirm the association of these PRS candidates with the FRBs.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Expanding the Inventory of Molecule-rich Planetary Nebulae: New Observations of M4-17, Hu 1-1, M1-59, and Na 2</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83be</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83be</guid>
+<content:encoded><![CDATA[
+<div> Molecular observations, PNe, Arizona Radio Observatory, Institut de Radioastronomie Millimétrique, transitions<br>
+M4-17, Hu 1-1, M1-59, Na 2, four planetary nebulae, molecular composition, diverse, CN, CCH, HCO+, elliptical PNe<br>
+HNC, CCH, and CN are prevalent molecules in the four planetary nebulae, with fractional abundances of f ∼ 0.9–7.5 × 10−7. Elliptical PNe like Hu 1-1 have a diverse molecular composition, while the late PN stage Na 2 also contains CN, CCH, and HCO+ with comparable abundances to younger PNe, indicating the maintenance of molecular content. The study suggests that elliptical PNe can have a diverse molecular composition and demonstrates the presence of distinct molecular species in the late PN stage.<br><br>总结:<br>本研究观察了M4-17、Hu 1-1、M1-59和Na 2四个行星状星云的分子情况，并发现了丰富的分子成分。其中CN、CCH和HCO+为主要分子，并且在各个行星状星云中的丰度相当。椭圆形行星状星云（如Hu 1-1）的分子组成多样，而晚期的Na 2也含有CN、CCH和HCO+，且与年轻的行星状星云相比丰度相似，表明分子成分在晚期行星状星云阶段得以保持。 <div>
+Molecular observations of four planetary nebulae (PNe), M4-17, Hu 1-1, M1-59, and Na 2, were conducted at 1–3 mm using the Arizona Radio Observatory’s 12 m antenna and Submillimeter Telescope, and the Institut de Radioastronomie Millimétrique 30 m Telescope. Toward M4-17, HNC (J = 3 → 2), CCH (N = 2 → 1, N = 3 → 2), CN (N = 1 → 0, N = 2 → 1), H2CO (JKa,Kc = 21,2 → 11,1, JKa,Kc = 20,2 → 10,1, JKa,Kc = 21,1 → 11,0), CS (J = 3 → 2, J = 5 → 4), and H13CN (J = 2 → 1) were detected. An almost identical set of transitions was identified toward Hu 1-1. Moreover, c–C3H2 was detected in Hu 1-1 via three 2 mm lines: JKa,Kc = 31,2 → 22,1, JKa,Kc = 41,4 → 30,3, and JKa,Kc = 32, 2 → 21,1. HNC, CCH, CN, CS, and H13CN were found in M1-59, as well as H2S via its JKa,Kc = 11,0 → 10,1 line—the first detection of this key sulfur species in PNe. In addition, CCH and CN were identified in the 27,000 yr old Na 2. Among these four sources, CN and CCH were the most prevalent molecules (after CO and H2) with fractional abundances, relative to H2, of f ∼ 0.9–7.5 × 10−7 and 0.8–7.5 × 10−7, respectively. CS and HNC have abundances in the range f ∼ 0.5–5 × 10−8, the latter resulting in HCN/HNC ∼ 3 across all three PNe. The unusual species H2CO, c–C3H2, and H2S had f ∼ 3–4 × 10−7, 10−8, and 6 × 10−8. This study suggests that elliptical PNe such as Hu 1-1 can have a diverse molecular composition. The presence of CN, CCH, and HCO+ in Na 2, with comparable abundances to younger PNe, demonstrates that molecular content is maintained into the late PN stage.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multi-Observatory Research of Young Stellar Energetic Flares (MORYSEF): X-Ray-flare-related Phenomena and Multi-epoch Behavior</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8562</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8562</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 星际耀斑, 磁能量, 前主序星, Orion星云, 多波段观测
+
+总结:
+本研究对前主序星的磁能量驱动的最强星际耀斑进行了观测和分析。研究团队利用Chandra望远镜观测到了Orion星云中大量的耀斑现象。此外，还进行了多波段观测，并分析了2003年至2016年的数据，得出了以下结论：1.报道了多个目标星的恒星休眠和耀斑X射线特性，有助于进行多波段分析。2.首次报告了中等能量耀斑与恒星质量/大小（存在/不存在盘）之间的相关性（或缺乏相关性）。3.大多数前主序星都表现出轻微的长期基线变化，这表明了固有的磁力学周期的缺失或者长期观测对前主序星X射线的影响。4.得出结论，X射线超级耀斑是前主序星中普遍现象，这表明所有原行星盘和新生行星都会受到高能辐射的影响。 <br><br> <div>
+The most powerful stellar flares driven by magnetic energy occur during the early pre-main-sequence (PMS) phase. The Orion Nebula represents the nearest region populated by young stars, showing the greatest number of flares accessible to a single pointing of Chandra. This study is part of a multi-observatory project to explore stellar surface magnetic fields (with the Hobby–Eberly Telescope Habitable-zone Planet Finder, HET-HPF), particle ejections (with the Very Long Baseline Array, VLBA), and disk ionization (with the Atacama Large Millimeter/submillimeter Array, ALMA) immediately following the detection of PMS superflares with Chandra. In 2023 December, we successfully conducted such a multi-telescope campaign. Additionally, by analyzing Chandra data from 2003, 2012, and 2016, we examine the multi-epoch behavior of PMS X-ray emission related to PMS magnetic cyclic activity and ubiquitous versus sample-confined megaflaring. Our findings are as follows. (1) We report detailed stellar quiescent and flare X-ray properties for numerous HET/ALMA/VLBA targets, facilitating ongoing multiwavelength analyses. (2) For numerous moderately energetic flares, we report correlations (or lack thereof) between flare energies and stellar mass/size (presence/absence of disks) for the first time. The former is attributed to the correlation between convection-driven dynamo and stellar volume, while the latter suggests the operation of solar-type flare mechanisms in PMS stars. (3) We find that most PMS stars exhibit minor long-term baseline variations, indicating the absence of intrinsic magnetic dynamo cycles or observational mitigation of cycles by saturated PMS X-rays. (4) We conclude that X-ray megaflares are ubiquitous phenomena in PMS stars, which suggests that all protoplanetary disks and nascent planets are subject to violent high-energy emission and particle irradiation events.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An In-depth Analysis of Quiet-Sun IRIS Brightenings</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8576</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8576</guid>
+<content:encoded><![CDATA[
+<div> 高分辨率观测、界面区域成像光谱仪、小尺度明亮现象、磁场重连、光谱分析<br>
+小尺度明亮现象在色球层是普遍的、动态的和充满能量的现象。研究利用高分辨观测和先进的滤波检测算法检测到这些明亮现象，并对其运动和特征进行了分析。研究结果发现，在安静太阳区域和超粒结界面上存在不同特征的明亮现象，其中与超粒结界面相关的明亮现象移动距离较短，速度较慢。光谱分析显示这些明亮现象表现出蓝移和可能从色球层升到转换区。这些研究结果支持了磁场模型和磁场重连理论，并指出这些明亮现象是磁性的，并可能是磁场重连的结果。这些明亮现象可能是在磁场梯度之间的电流片上产生，而不是沿着磁场线运动。 <br><br>总结: <br>研究发现小尺度明亮现象在太阳色球层普遍存在，其特征和运动模式与超粒结界面上的明亮现象有所不同。光谱分析显示这些明亮现象可能涉及磁场重连，并可能从色球层升到转换区。这一研究结果为太阳表面的磁场结构和能量释放提供了重要线索。 <div>
+Small-scale brightenings are ubiquitous, dynamic, and energetic phenomena found in the chromosphere. An advanced filter-detection algorithm applied to high-resolution observations from the Interface Region Imaging Spectrograph enables the detection of these brightenings close to the noise level. This algorithm also tracks the movement of these brightenings and extracts their characteristics. This work outlines the results of an in-depth analysis of a quiet-Sun data set including a comparison of a brighter domain—associated with a supergranular boundary—to the quiescent internetwork domains. Several characteristics of brightenings from both domains are extracted and analysed, providing a range of sizes, durations, brightness values, travel distances, and speeds. The “active” quiet-Sun events tend to travel shorter distances and at slower speeds across the plane of the sky than their “true” quiet-Sun counterparts. These results are consistent with the magnetic field model of supergranular photospheric structures and the magnetic canopy model of the chromosphere above. Spectroscopic analyses reveal that bright points demonstrate blueshift (as well as some bidirectionality) and that they may rise from the chromosphere into the transition region. We believe that these bright points are magnetic in nature, are likely the result of magnetic reconnection, and follow current sheets between magnetic field gradients, rather than travel along magnetic field lines themselves.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Radial Distribution of Electron Quasi-thermal Noise in the Inner Heliosphere</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d6</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 太阳风等离子体，电子群分布，电子准热噪声，电子密度和温度，库仑参数
 
-总结:<br>
+总结:<br />
 本文研究了太阳风等离子体中的电子群分布，发现可以用一个由麦克斯韦分布的核心和基于kappa分布的晕带的电子群模型来描述。通过计算不同日心径距离下的电子准热噪声的功率谱，揭示了这种噪声在频谱上的特点和有效的德拜长度随模型参数变化的依赖性。研究结果表明，电子准热噪声谱包括低频段（f < fpt）的平台、总等离子体频率 fpt处的峰值以及高频段（f > fpt）的急剧下降部分。随着日心径距离的增加，噪声的峰值和平台水平不断下降，峰值的形状也会因为kappa指数的变化而改变。尽管模型参数可以变化，但在实际情况下，这些参数的变化对于平台水平的影响不大，而当参数接近实际情况时，平台只显示出单调变化。这些结果对于未来内太阳风区域的深空探测以及探测器的设计具有重要的参考价值。 <div>
 The electron population in the solar wind plasma can be described with three different components: a core, a halo, and a magnetic field aligned strahl. The electron quasi-thermal noise (QTN) is investigated by using an electron population model consisting of a core with a Maxwellian distribution and a halo with a kappa distribution, based on the empirical equations for electron density and temperature and the index for the kappa halo. The power spectra of the electron QTN are calculated at different heliocentric radial distances from 10 to 200 Rs. The dependence of the QTN spectrum and effective Debye length on model parameters, including the ratio of the halo to the core for the density and temperature, the kappa index, and the antenna length, is further discussed. The results show that the electron QTN spectrum consists of a plateau in the low-frequency band f < fpt, a peak at the total plasma frequency fpt, and a rapidly decreasing part in the high-frequency band f > fpt. The QTN peak and plateau level continuously decrease as the radial distance increases, with the peak’s shape changing due to the variation of the kappa index. Although the model parameters are variable, the QTN plateau level presents less than an order of change with these parameters changing greatly, and only a monotonic change of the plateau is shown when the parameters are close to the practical situation. The results can provide a reference for future deep-space exploration in the inner heliosphere, and also for the design of detectors.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -25,10 +117,9 @@ The electron population in the solar wind plasma can be described with three dif
 <content:encoded><![CDATA[
 <div> 关键词: Galactic globular clusters, pristine stars, polluted stars, mass, Magellanic Clouds
 总结: 
-本文研究了银河球状星团中的两类主要恒星，即原始恒星和污染恒星。研究发现，原始恒星比例与星团的质量呈负相关，而与污染恒星的质量呈强负相关。同时发现，对于给定的原始恒星比例，大麦哲伦星云中的星团比小麦哲伦星云中的星团更大，这与银河的外部和内部的行星族星团的表现相反。研究者提出了星团形成条件可能导致这种差异。最后，研究者对单一恒星族星团NGC 419和Rup 106是否形成为多星族星团提出了质疑。 <br><br> <div>
+本文研究了银河球状星团中的两类主要恒星，即原始恒星和污染恒星。研究发现，原始恒星比例与星团的质量呈负相关，而与污染恒星的质量呈强负相关。同时发现，对于给定的原始恒星比例，大麦哲伦星云中的星团比小麦哲伦星云中的星团更大，这与银河的外部和内部的行星族星团的表现相反。研究者提出了星团形成条件可能导致这种差异。最后，研究者对单一恒星族星团NGC 419和Rup 106是否形成为多星族星团提出了质疑。 <br /><br /> <div>
 Galactic globular clusters contain two main groups of stars, the pristine or 1P stars, and the polluted or 2P stars. The pristine-star fraction in clusters, F1P, is a decreasing function of the cluster present-day mass, mprst. Paper I has introduced a model mapping the region of the (mprst, F1P) space occupied by clusters, with the cluster mass threshold for 2P-star formation a key building block. We now expand this model to the pristine-star fraction in dependence of the pristine- and polluted-population masses. A. P. Milone et al. found that F1P anticorrelates more tightly with the polluted-population present-day mass, m2P,prst, than with the cluster total mass, mprst. By contrast, F1P anticorrelates poorly with the pristine-population current mass, m1P,prst. We show the loose anticorrelation between F1P and m1P,prst to result from a roughly constant pristine-population mass in clusters as they start their long-term evolution in the Galactic tidal field. As for the tight anticorrelation between m2P,prst and F1P, it stems from the initially shallow relation between m2P and F1P. Clusters of the Large and Small Magellanic Clouds (LMC and SMC, respectively) appear to behave unexpectedly with respect to each other. For a given F1P, LMC clusters are more massive than SMC clusters despite their enduring a stronger tidal field. This is opposite to how the Galactic outer- and inner-halo clusters behave. The explanation may lie in cluster formation conditions. Finally, we wonder whether the single-population clusters NGC 419 and Rup 106 formed as multiple-population clusters.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -37,11 +128,10 @@ Galactic globular clusters contain two main groups of stars, the pristine or 1P 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad863a</guid>
 <content:encoded><![CDATA[
 <div> TNG50 simulation, dark matter bars, galaxy, bar pattern speed, rotation axis orientation
-<br><br>
-这篇文章研究了TNG50模拟中的一群星系，确定了它们暗物质条的特征。研究估计了条强度和方向，并提出了两种新方法来测量条的图案速度和旋转轴方向。结果表明，暗物质条比其恒星对应物短，并且A2强度要弱75%。暗物质条主导了内部暗物质晕的形状，并在四极系数的时间序列中显现出来。在选定的子区星系中，恒星和暗物质条在过去的8亿年中保持共线，并具有相同的图案速度。图案速度随时间演化相当大，与由于动态摩擦和气体吸积引起的条的扭矩一致，并且在tlb = 1.5 Gyr之后的一次合并后增加。旋转轴的形状显示出同时进动和退动，可能是由于旋转平面外的扭矩引起。我们发现恒星和暗物质质量分布的形状与图案速度紧密相关。<br><br>总结: 这项研究分析了TNG50模拟中的星系，确定了暗物质条的特征和演化，发现了暗物质条短且弱于恒星条，并提出了新的测量方法来研究这些条的性质。 <div>
+<br /><br />
+这篇文章研究了TNG50模拟中的一群星系，确定了它们暗物质条的特征。研究估计了条强度和方向，并提出了两种新方法来测量条的图案速度和旋转轴方向。结果表明，暗物质条比其恒星对应物短，并且A2强度要弱75%。暗物质条主导了内部暗物质晕的形状，并在四极系数的时间序列中显现出来。在选定的子区星系中，恒星和暗物质条在过去的8亿年中保持共线，并具有相同的图案速度。图案速度随时间演化相当大，与由于动态摩擦和气体吸积引起的条的扭矩一致，并且在tlb = 1.5 Gyr之后的一次合并后增加。旋转轴的形状显示出同时进动和退动，可能是由于旋转平面外的扭矩引起。我们发现恒星和暗物质质量分布的形状与图案速度紧密相关。<br /><br />总结: 这项研究分析了TNG50模拟中的星系，确定了暗物质条的特征和演化，发现了暗物质条短且弱于恒星条，并提出了新的测量方法来研究这些条的性质。 <div>
 Dark matter (DM) bars that shadow stellar bars have been previously shown to form in idealized simulations of isolated disk galaxies, but have yet to be studied in a fully cosmological context. In this work, we analyze a population of disk galaxies within the TNG50 simulation to determine the characteristics of their dark bars. We estimate bar strength and orientation using both the in-plane Fourier A2 density moments and the quadrupolar coefficients of the spherical harmonic basis function expansions of the density. We additionally present two novel methods for measuring the bar pattern speed Ωp and rotation axis orientation using these coefficients, and apply them to one sample galaxy located in a TNG50 subbox. Consistent with isolated simulations, DM bars are shorter than their stellar counterparts and are 75% weaker in A2. DM bars dominate the shape of the inner halo potential and are apparent in the time series of quadrupolar coefficients. In our selected subbox galaxy, the stellar and dark bars remain co-aligned throughout the last 8 Gyr and have identical Ωp. Pattern speed Ωp evolves considerably over the last 8 Gyr, consistent with torques on the bars due to dynamical friction and gas accretion, and is seen to increase following a merger at tlb = 1.5 Gyr. Rather than remaining static in time, the bar rotation axis displays both precession and nutation possibly caused by torques outside the plane of rotation. We find that the shape of the stellar and DM mass distributions are tightly correlated with Ωp.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -51,10 +141,9 @@ Dark matter (DM) bars that shadow stellar bars have been previously shown to for
 <content:encoded><![CDATA[
 <div> 关键词: 太阳任务，等离子体组成测量，光谱诊断，第一电离势效应，Fe viii/Ne viii 强度比率
 
-太阳任务对太阳等离子体组成的测量至关重要。然而，在确定太阳大气中第一电离势效应的大小方面，密度和温度不敏感的光谱诊断比率很少。本文评估了Fe viii 185.213 Å/Ne viii 770.428 Å强度比率，发现它对温度和密度相当不敏感，因此原则上可用于分析轨道上的EUV光谱。实验结果表明，该诊断方法可以提供准确的结果，并且在对太阳冠层各个地方的变化幅度内小于10%-14%。作者还将该诊断应用于2023年3月的协同观测，并展示了SPICE和EIS的组合可以测量每个地方的Fe/Ne FIP偏差。结果显示，主导极性和衰减极性之间的FIP偏差上升与Solar Orbiter/Solar Wind Analyser对Fe/O的原位测量大致一致。多空间器的协同观测虽然复杂，但这一诊断方法也在Solar-C/Extreme UltraViolet高吞吐量光谱望远镜的波段计划内。 <br><br>总结: 太阳任务对太阳等离子体组成的测量至关重要。本文评估了Fe viii/Ne viii 强度比率，在温度和密度不敏感范围内有其实用性。实验结果表明该诊断方法准确性高，在协同观测中也能得到好的效果。研究还表明Fe/Ne FIP偏差存在差别，并能与其他测量技术相互印证。 <div>
+太阳任务对太阳等离子体组成的测量至关重要。然而，在确定太阳大气中第一电离势效应的大小方面，密度和温度不敏感的光谱诊断比率很少。本文评估了Fe viii 185.213 Å/Ne viii 770.428 Å强度比率，发现它对温度和密度相当不敏感，因此原则上可用于分析轨道上的EUV光谱。实验结果表明，该诊断方法可以提供准确的结果，并且在对太阳冠层各个地方的变化幅度内小于10%-14%。作者还将该诊断应用于2023年3月的协同观测，并展示了SPICE和EIS的组合可以测量每个地方的Fe/Ne FIP偏差。结果显示，主导极性和衰减极性之间的FIP偏差上升与Solar Orbiter/Solar Wind Analyser对Fe/O的原位测量大致一致。多空间器的协同观测虽然复杂，但这一诊断方法也在Solar-C/Extreme UltraViolet高吞吐量光谱望远镜的波段计划内。 <br /><br />总结: 太阳任务对太阳等离子体组成的测量至关重要。本文评估了Fe viii/Ne viii 强度比率，在温度和密度不敏感范围内有其实用性。实验结果表明该诊断方法准确性高，在协同观测中也能得到好的效果。研究还表明Fe/Ne FIP偏差存在差别，并能与其他测量技术相互印证。 <div>
 Plasma composition measurements are a vital tool for the success of current and future solar missions, but density- and temperature-insensitive spectroscopic diagnostic ratios are sparse, and their underlying accuracy in determining the magnitude of the first ionization potential (FIP) effect in the solar atmosphere remains an open question. Here we assess the Fe viii 185.213 Å/Ne viii 770.428 Å intensity ratio that can be observed as a multispacecraft combination between Solar Orbiter/SPICE and Hinode/EUV Imaging Spectrometer (EIS). We find that it is fairly insensitive to temperature and density in the range of log (T/K) = 5.65–6.05 and is therefore useful, in principle, for analyzing on-orbit EUV spectra. We also perform an empirical experiment, using Hinode/EIS measurements of coronal fan loop temperature distributions weighted by randomly generated FIP bias values, to show that our diagnostic method can provide accurate results as it recovers the input FIP bias to within 10%–14%. This is encouraging since it is smaller than the magnitude of variations seen throughout the solar corona. We apply the diagnostic to coordinated observations from 2023 March and show that the combination of SPICE and EIS allows measurements of the Fe/Ne FIP bias in the regions where the footpoints of the magnetic field connected to Solar Orbiter are predicted to be located. The results show an increase in FIP bias between the main leading polarity and the trailing decayed polarity that broadly agrees with Fe/O in situ measurements from Solar Orbiter/Solar Wind Analyser. Multispacecraft coordinated observations are complex, but this diagnostic also falls within the planned wavebands for Solar-C/Extreme UltraViolet high-throughput Spectroscopic Telescope.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,15 +153,14 @@ Plasma composition measurements are a vital tool for the success of current and 
 <content:encoded><![CDATA[
 <div> 关键词: dark matter halo, velocity anisotropy, M200, c200, IllustrisTNG simulations
 
-总结:<br>
-本研究利用IllustrisTNG模拟系统，研究了暗物质晕中不同成分（包括晕内恒星、暗物质和亚晕）的质量（M200）和浓度（c200）对速度各向异性（β）分布的影响。<br>
-研究发现，M200的增加使得β在临界半径之外更倾向于径向，对于晕内恒星、暗物质和亚晕来说，这个临界半径分别是rs、0.3rs和rs，其中rs是母体暗物质晕的尺度半径。<br>
-质量对β的影响在亚晕中最为显著，而在晕内恒星中最弱。此外，β在中心区域受M200影响而向各向同性转化，这要归因于宇宙学的影响。<br>
-此外，随着c200的增加，晕内恒星和暗物质的β也变得更趋向于径向。暗物质粒子比亚晕更趋向于径向。这些差异可以解释为亚晕在更径向的轨道上更易被剥离，贡献更多的恒星和暗物质。<br>
-最后，研究给出了在rs<r<3rs范围内晕内恒星和暗物质β差异的拟合公式。 <div>
+总结:<br />
+本研究利用IllustrisTNG模拟系统，研究了暗物质晕中不同成分（包括晕内恒星、暗物质和亚晕）的质量（M200）和浓度（c200）对速度各向异性（β）分布的影响。<br />
+研究发现，M200的增加使得β在临界半径之外更倾向于径向，对于晕内恒星、暗物质和亚晕来说，这个临界半径分别是rs、0.3rs和rs，其中rs是母体暗物质晕的尺度半径。<br />
+质量对β的影响在亚晕中最为显著，而在晕内恒星中最弱。此外，β在中心区域受M200影响而向各向同性转化，这要归因于宇宙学的影响。<br />
+此外，随着c200的增加，晕内恒星和暗物质的β也变得更趋向于径向。暗物质粒子比亚晕更趋向于径向。这些差异可以解释为亚晕在更径向的轨道上更易被剥离，贡献更多的恒星和暗物质。<br />
+最后，研究给出了在rs<3rs范围内晕内恒星和暗物质β差异的拟合公式。 <div>
 We investigate the mass (M200) and concentration (c200) dependencies of the velocity anisotropy (β) profiles for different components in the dark matter halo—including halo stars, dark matter, and subhalos—using systems from the IllustrisTNG simulations. Beyond a critical radius, β becomes more radial with the increase of M200, reflecting more prominent radial accretion around massive halos. The critical radius is r ∼ rs, 0.3 rs, and rs for halo stars, dark matter, and subhalos, with rs being the scale radius of the host halos. This dependence on M200 is the strongest for subhalos and the weakest for halo stars. In central regions, the β of halo stars and dark matter particles get more isotropic with the increase of M200 in TNG300 due to baryons. By contrast, the β of dark matter from the dark-matter-only TNG300-Dark run shows much weaker dependence on M200 within rs. Dark matter in TNG300 is slightly more isotropic than in TNG300-Dark at 0.2 rs < r < 10 rs and . Halo stars and dark matter also become more radial with the increase in c200, at fixed M200. Halo stars are more radial than the β profile of dark matter by approximately a constant beyond rs. Dark matter particles are more radial than subhalos. The differences can be understood, as subhalos on more radial orbits are more easily stripped, contributing more stars and dark matter to the diffuse components. We provide the fitting formula for the differences between the β of halo stars and dark matter at rs < r < 3 rs as for and as βstar − βDM = 0.328 for .
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -80,11 +168,10 @@ We investigate the mass (M200) and concentration (c200) dependencies of the velo
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f2</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Kinetic Alfvén waves, ion cyclotron waves, solar wind heating, hybrid simulations, ion beam mode <br>
-总结: 本研究使用混合模拟提出了一种新的太阳风等离子体中KAWs和平行ICWs的生成场景。结果显示，通过离子束模式触发，KAWs和平行ICWs的生成与初始背景质子β值呈反相关关系，其增长速率显著高于离子束模式。此外，这些触发的波动的饱和能量可与离子束模式相媲美。这一触发过程解释了KAWs和平行ICWs的起源以及它们在束流等离子体环境中共存的可信原因。<br><br> <div>
+<div> 关键词: Kinetic Alfvén waves, ion cyclotron waves, solar wind heating, hybrid simulations, ion beam mode <br />
+总结: 本研究使用混合模拟提出了一种新的太阳风等离子体中KAWs和平行ICWs的生成场景。结果显示，通过离子束模式触发，KAWs和平行ICWs的生成与初始背景质子β值呈反相关关系，其增长速率显著高于离子束模式。此外，这些触发的波动的饱和能量可与离子束模式相媲美。这一触发过程解释了KAWs和平行ICWs的起源以及它们在束流等离子体环境中共存的可信原因。<br /><br /> <div>
 Kinetic Alfvén waves (KAWs) and ion cyclotron waves (ICWs) are believed to play a significant role in the solar wind heating and acceleration and are pervasive in space and astrophysical plasmas. However, the generation mechanism for the coexistence of both wave modes remains unclear. The present work proposes a novel generation scenario of KAWs and parallel ICWs in a homogeneous solar wind plasma using hybrid simulations. Our numerical study reveals that the emissions of KAWs and parallel ICWs can be triggered by the ion beam (IB) mode in a homogeneous alpha or proton beam plasma with a beam velocity of ≥1.2vA for alpha particles or ≥1.6vA for proton beams, where vA represents the local Alfvén velocity. The growth rates of both KAWs and parallel ICWs are significantly higher than that of the IB mode. Moreover, the initial background proton beta exhibits an inverse correlation with the growth of KAWs. Ultimately, the saturation energy of these triggered emissions could rival that of the IB mode. Given the prevalent occurrence of IBs in the solar wind, this triggering process provides a credible explanation for the origin of KAWs and parallel ICWs and their coexistence within the beam plasma environments.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -93,15 +180,13 @@ Kinetic Alfvén waves (KAWs) and ion cyclotron waves (ICWs) are believed to play
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a5a</guid>
 <content:encoded><![CDATA[
 <div> 磁暴风暴、日冕物质抛射、空间天气、太阳风、数值模拟
-<br>
+<br />
 该研究使用了多个航天器的观测和数值模拟，以研究2021年12月4日的CME事件及其旋转情况。研究发现，CME在太阳日冕内部呈现近似直线运动，但在星际空间中出现逐渐改变轴向和旋转的情况。CME的不同部分受到不同速度太阳风的影响，导致磁结构产生非对称位移，进而在星际空间发生旋转。此外，在CME的右侧存在一个共转互作用区，也会导致CME的方向发生变化和偏离轨道。这些结果为解释CME在太阳圈层内的运动和结构提供了新的见解。
-<br><br>总结: 该研究使用多个航天器的观测和数值模拟研究了2021年12月4日的CME事件及其旋转情况。研究发现CME在太阳日冕内部是近似直线运动，而在星际空间中发生逐渐改变轴向和旋转的情况。不同部分受到不同速度太阳风的影响，导致其磁结构产生非对称位移并在星际空间发生旋转。此外，CME右侧存在一个共转互作用区，也会导致CME方向变化和偏离轨道。 <div>
+<br /><br />总结: 该研究使用多个航天器的观测和数值模拟研究了2021年12月4日的CME事件及其旋转情况。研究发现CME在太阳日冕内部是近似直线运动，而在星际空间中发生逐渐改变轴向和旋转的情况。不同部分受到不同速度太阳风的影响，导致其磁结构产生非对称位移并在星际空间发生旋转。此外，CME右侧存在一个共转互作用区，也会导致CME方向变化和偏离轨道。 <div>
 The magnetic orientation of coronal mass ejections (CMEs) is of great importance to understand their space weather effects. Although plenty of evidence suggests that CMEs can undergo significant rotation during the early phases of evolution in the solar corona, there are few reports that CMEs rotate in the interplanetary space. In this work, we use multispacecraft observations and a numerical simulation starting from the lower corona close to the solar surface to understand the CME event on 2021 December 4, with an emphatic investigation of its rotation. This event is observed as a partial halo CME from the back side of the Sun by coronagraphs and reaches the BepiColombo spacecraft and the Mars Atmosphere and Volatile EvolutioN/Tianwen-1 as a magnetic flux-rope-like structure. The simulation discloses that in the solar corona the CME is approximately a translational motion, while the interplanetary propagation process evidences a gradual change of axis orientation of the CME’s flux-rope-like structure. It is also found that the downside and the right flank of the CME moves with the fast solar wind, and the upside does in the slow-speed stream. The different parts of the CME with different speeds generate the nonidentical displacements of its magnetic structure, resulting in the rotation of the CME in the interplanetary space. Furthermore, at the right flank of the CME exists a corotating interaction region, which makes the orientation of the CME alter and also deviates from its route due to the CME. These results provide new insight into interpreting CMEs’ dynamics and structures during their traveling through the heliosphere.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Reflected-light Phase Curves with PICASO: A Kepler-7b Case Study</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7de6</link>
@@ -11826,92 +11911,6 @@ Andromeda XVIII is an isolated dwarf galaxy 579 kpc away from the nearest large 
 <div> 地质记录, 月球记录, 超新星爆发, 60Fe活性, 距离测量<br />
 这篇文章讨论了地质和月球记录中发现的超新星活动，利用60Fe活性数据推断了超新星爆炸事件发生距今3百万年和7百万年的时间。根据测量结果，采用天文学参数得出了这两次超新星活动的距离范围，并进行了参数研究和讨论。文章强调了地质和天文测量能够改进这些结果的重要性。总结：<br />地质和月球记录显示了过去超新星爆发的活动，借助60Fe活性数据推断了超新星爆炸事件距今3百万年和7百万年的时间；根据测量结果，得出了这两次超新星活动的距离范围，并进行了参数研究和讨论；文章强调了地质和天文测量能够改进这些结果的重要性。 <div>
 Near-Earth supernova blasts which engulf the solar system have left traces of their ejecta in the geological and lunar records. There is now a wealth of data on live radioactive 60Fe pointing to a supernova at 3 Myr ago, as well as the recent discovery of an event at 7 Myr ago. We use the available measurements to evaluate the distances to these events. For the better analyzed supernova at 3 Myr, samples include deep-sea sediments, ferromanganese crusts, and lunar regolith; we explore the consistency among and across these measurements, which depends sensitively on the uptake of iron in the samples as well as possible anisotropies in the 60Fe fallout. There is also significant uncertainty in the astronomical parameters needed for these calculations. We take the opportunity to perform a parameter study on the effects that the ejected 60Fe mass from a core-collapse supernova and the fraction of dust that survives the remnant have on the resulting distance. We find that with an ejected 60Fe mass of 3 × 10−5M⊙ and a dust fraction of 10%, the distance range for the supernova 3 Myr ago is D ∼ 20–140 pc, with the most likely range between 50 and 65 pc. Using the same astrophysical parameters, the distance for the supernova at 7 Myr ago is D ∼ 110 pc. We close with a brief discussion of geological and astronomical measurements that can improve these results.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Comprehensive Analysis of Textbook-version Afterglow Light Curves of Gamma-Ray Bursts and Implication for Universal Radiation Physics of Baryonic Jets</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f92</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f92</guid>
-<content:encoded><![CDATA[
-<div> 关键词: GRBs, 外部冲击模型, 光度曲线, 初能标, 磁场强度
-总结:
-外部冲击模型在薄壳情景下预测了伽马射线暴（GRBs）光学余辉曲线中的起始颠峰。研究收集了30个GRBs的典型光度曲线样本，并从其X射线和光学余辉曲线的联合拟合中推导了射流特性。结果发现，初始洛伦兹因子（Γ0）、减速半径（Rdec）和磁场强度（B0）的分布是对数正态的，但等离子体动能（Ek,iso）、介质密度（n0）和磁化参数（σB）的分布可能是双峰的。发现了严格的Rdec-B0-σB关系，推测支持先前的观点，即GRB辐射能量在GRBs之间是普遍存在的。模拟了26个GRBs的光度曲线需要喷流折射。射流开角和校正后的动能的分布分别呈对数正态分布（标准差σ=0.27）和（σ=0.54）。那些（19个GRBs）其中，其俄罗斯语报均匀估计出广能量段观测，可满足先前发现的Lγ，p，iso–Ep，z–Γ0关系，并且它们的γ射线辐射效率对数正态地分布在0.04%到10%范围内，中心值为0.42%。这种低效率有利于重子火球模型，并且它们的质子质量加载在GRB抛射物中的分布对数正态地集中在（σ=0.75）。 <div>
-The standard external shock model in the thin-shell scenario predicts an onset bump in the early optical afterglow light curves of gamma-ray bursts (GRBs). We collect such a textbook-version light-curve sample of 30 GRBs and derive the jet properties from our joint fit to their X-ray and optical afterglow light curves. It is found that the distributions of the isotropic initial Lorentz factors (Γ0), the deceleration radii (Rdec), and the magnetic field strength (B0) are log-normal, but the distributions of the isotropic kinetic energy (Ek,iso), medium density (n0), and magnetization parameter (σB ≡ ϵB/ϵe) are tentatively bimodal. A tight Rdec–B0–σB relation is found. It infers a universal ϵeEk,iso among bursts, plausibly supporting the previous argument of a universal GRB radiation energy among GRBs. A jet break is required for modeling the light curves of 26 GRBs. The distributions of the jet opening angles and the jet-corrected kinetic energies log-normally center at (standard deviation σ = 0.27) and (σ = 0.54), respectively. Those GRBs (19 GRBs), whose prompt gamma-ray emission is well estimated with broad energy-band observations, satisfy the previously discovered Lγ,p,iso–Ep,z–Γ0 relation, and their gamma-ray radiation efficiencies log-normally distribute in the range from 0.04% to 10% with a central value of 0.42%. Such a low efficiency favors the baryonic fireball model, and the distribution of their baryon mass loading in the GRB ejecta log-normally centers at (σ = 0.75).
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Exploration of a Dissolving Association Made Up of IC 2602, Tucana–Horologium, and Other Young Comoving Groups</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5b56</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5b56</guid>
-<content:encoded><![CDATA[
-<div> IC 2602, CIC 2602, Tucana-Horologium (THA), Theia 92, rotation periods
-
-这项研究通过测量953个天体的自转周期来探讨年轻星团的共同特征，并发现IC 2602, CIC 2602和THA的自转周期分布相似，表明它们可能共同年龄约为40百万年。然而，Theia 92的情况并不相同，可能与其运动特性有关。此外，研究还发现了大约50个潜在的双星系统，以及四个在TESS周期间显示主要形态变化的新型M矮星复杂自转体。最后，通过测量的自转周期振幅，研究验证了这些40百万年星团符合Morris提出的振幅-年龄关系。 <br /><br />总结：这项研究探讨了IC 2602、CIC 2602、THA、Theia 92以及新发现的星团的自转周期，发现IC 2602、CIC 2602和THA的自转周期分布相似，暗示它们可能共同年龄约为40百万年。此外，研究还发现了潜在的双星系统和表现出形态变化的新型M矮星复杂自转体。最后，研究验证了这些40百万年星团符合Morris提出的振幅-年龄关系。 <div>
-Recently Gagné et al. suggested that young moving groups with similar kinematic properties could be part of larger dissolving structures. One example was IC 2602 as the core of a group of associations, including its corona (CIC 2602), Tucana-Horologium (THA), and parts of Theia 92. We explore this hypothesis by measuring the rotation periods of 953 objects selected using Gaia DR3 kinematics from IC 2602, CIC 2602, Theia 92, and a newly identified group of stars that bridge IC 2602 and THA. We use Transiting Exoplanet Survey Satellite (TESS) full frame images to measure new rotation periods and combine these with the rotation periods for THA from Popinchalk et al. to compare their rotation period distributions and other youth indicators where available to examine if the groups could be coeval. We find strong agreement between the rotation distributions of IC 2602, CIC 2602, and THA, suggesting a shared age of ∼40 Myr, and which in combination could serve as an example of a typical distribution at this age. Theia 92 does not agree at the same level, and we explore the potential kinematic reasons it does not match the rotation period distribution of the larger groups. Additionally, in our light curve analysis we identify ∼50 potential binaries, as well as four new M dwarf complex rotators that show major morphological changes between TESS cycles. Finally, using the amplitudes of the rotation periods we measured, we find strong agreement with the amplitude–age relation presented in Morris for our 40 Myr groups.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>SN 2024ggi in NGC 3621: Rising Ionization in a Nearby, Circumstellar-material-interacting Type II Supernova</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5c64</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5c64</guid>
-<content:encoded><![CDATA[
-<div> SN 2024ggi, type II supernova, NGC 3621, UV-optical-near-infrared observations, progenitor mass-loss rate
-
-总结:
-SN 2024ggi是位于NGC 3621的II型超新星，通过UV-光学-近红外观测以及建模分析，发现其具有IIn-like特征，暗示其周围存在光电离的厚CSM。在观测的不同时间点上，发现了He ii，C iv，N iv/v和O v的发射线，显示出蓝向偏移的特征，这可能是由于扩展而密集的CSM引起的。此外，SN 2024ggi的峰值UV-光学绝对星等与已知的CSM相互作用的II型超新星的特征一致。建立的辐射流体力学模拟显示，爆发前约3年，SN 2024ggi的前体星经历了增强的质量流失。 <div>
-We present UV–optical–near-infrared observations and modeling of supernova (SN) 2024ggi, a type II supernova (SN II) located in NGC 3621 at 7.2 Mpc. Early-time (“flash”) spectroscopy of SN 2024ggi within +0.8 days of discovery shows emission lines of H i, He i, C iii, and N iii with a narrow core and broad, symmetric wings (i.e., “IIn-like”) arising from the photoionized, optically thick, unshocked circumstellar material (CSM) that surrounded the progenitor star at shock breakout (SBO). By the next spectral epoch at +1.5 days, SN 2024ggi showed a rise in ionization as emission lines of He ii, C iv, N iv/v, and O v became visible. This phenomenon is temporally consistent with a blueward shift in the UV–optical colors, both likely the result of SBO in an extended, dense CSM. The IIn-like features in SN 2024ggi persist on a timescale of tIIn = 3.8 ± 1.6 days, at which time a reduction in CSM density allows the detection of Doppler-broadened features from the fastest SN material. SN 2024ggi has peak UV–optical absolute magnitudes of Mw2 = −18.7 mag and Mg = −18.1 mag, respectively, that are consistent with the known population of CSM-interacting SNe II. Comparison of SN 2024ggi with a grid of radiation hydrodynamics and non–local thermodynamic equilibrium radiative-transfer simulations suggests a progenitor mass-loss rate of yr−1 (vw = 50 km s−1), confined to a distance of r < 5 × 1014 cm. Assuming a wind velocity of vw = 50 km s−1, the progenitor star underwent an enhanced mass-loss episode in the last ∼3 yr before explosion.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Stochastic Gravitational Wave Background from Cosmological Neutrino-dominated Accretion Flows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0b</guid>
-<content:encoded><![CDATA[
-<div> NDAF, SGWB, neutrino, CCSN, metallicity
-<br /><br />总结:
-本研究通过对回落型核心坍缩超新星（CCSN）模拟的结果，研究了以中微子为主导的吸积流（NDAFs）产生的随机引力波背景（SGWB）。研究发现，预测的SGWB主要取决于典型CCSN初始爆炸能量和母体金属丰度。在乐观情况下，如果典型的初始爆炸能量较低，则NDAFs产生的SGWB可能会被下一代太空干涉仪（如DECi-hertz干涉引力波观测器和宇宙大爆炸观测器）探测到。在低频领域∼10−3–10−1 Hz，该背景与标准的通货膨胀模型预期的背景相当。因此，NDAFs产生的SGWB可能成为研究通货膨胀时期产生的SGWB的前景。结合NDAF中微子背景和NDAFs产生的SGWB，可以限制CCSNe和NDAFs的属性。 <div>
-We investigate the stochastic gravitational wave background (SGWB) from neutrino-dominated accretion flows (NDAFs) based on the results of our fallback core-collapse supernova (CCSN) simulations. We find that the predicted SGWB is mainly determined by the typical CCSN initial explosion energy and progenitor metallicity. For the optimistic cases in which the typical initial explosion energy is low, the SGWB from NDAFs without disk outflows might be detected by next-generation space-based interferometers such as DECi-hertz Interferometer Gravitational wave Observatory and Big Bang Observer. In the low-frequency regime ∼10−3–10−1 Hz, this background is comparable to that expected from standard inflationary models. Therefore, the SGWB from NDAFs may become a foreground for research of the SGWB generated in the inflationary epoch. Combining the diffuse NDAF neutrino background and SGWB from NDAFs, one may constrain the properties of the CCSNe and NDAFs.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing the Spectrum of the Magnetar 4U 0142+61 with JWST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5ce5</guid>
-<content:encoded><![CDATA[
-<div> 关键词: JWST, magnetar, MIRI, NIRCam, power-law model<br />
-总结: <br />
-JWST使用MIRI和NIRCam仪器对磁星4U 0142+61进行了观测。结果显示该磁星的光谱可以用吸收功率模型描述，不支持之前基于Spitzer光度提出的被动盘模型。研究者认为这些发现可能是由于非热源和观测时间的变化。另外，JWST的观测结果与NuSTAR的硬X射线光谱比较显示，X射线和红外非热发射可能来自磁星磁层中的不同区域。 <div>
-JWST observed the magnetar 4U 0142+61 with the Mid-Infrared Instrument (MIRI) and Near Infrared Camera (NIRCam) instruments within a 77 minute time interval on 2022 September 20–21. The low-resolution MIRI spectrum and NIRCam photometry show that the spectrum in the wavelength range 1.4–11 μm range can be satisfactorily described by an absorbed power-law (PL) model, fν ∝ ν−α, with a spectral slope α = 0.96 ± 0.02, interstellar extinction AV = 3.9 ± 0.2, and normalization f0 = 59.4 ± 0.5 μJy at λ = 8 μm. These observations do not support the passive disk model proposed in 2006 by Wang, Chakrabarty and Kaplan, based on Spitzer photometry, which was interpreted as evidence for a fallback disk from debris formed during the supernova explosion. We suggest a nonthermal origin for this emission and source variability as the most likely cause of discrepancies between the JWST data and other IR-optical observing campaigns. However, we cannot firmly exclude the presence of a large disk with a different dependence of the effective disk temperature on distance from the magnetar. Comparison with the PL fit to the hard X-ray spectrum above 10 keV, measured by the NuSTAR contemporaneously with JWST, shows that the X-ray spectrum is significantly harder. This may imply that the X-ray and IR nonthermal emission come from different sites in the magnetosphere of the magnetar.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Gaussian Process Approach for Model-independent Reconstruction of f(Q) Gravity with Direct Hubble Measurements</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf4</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Lagrangian, Gaussian process, Hubble measurements, ΛCDM, f(Q) parameterization
-
-总结: 
-该研究探讨了在引力修正理论中选择Lagrangian函数形式的标准程序的差异增加的问题，并提出了使用高斯过程来消除这一问题的方法。研究使用宇宙年代计和径向宇宙学声学振荡的58个哈勃测量来重建Hubble参数H(z)及其导数和H″(z)，从而在不做任何假设的情况下重建了f(Q)的区域。得到的平均曲线沿着Lambda冷暗物质(ΛCDM)常数在重建区域内呈现二次行为，这促使提出了一个新的f(Q)参数化，即f(Q) = −2Λ + ϵQ2，其中ϵ是一个单一参数，表示与ΛCDM宇宙学的偏差。此外，对比重建区域，探讨了广泛研究的幂律和指数f(Q)模型，并且大大改善了对参数空间的观测分析。此外，直接的哈勃测量以及重建的f(Q)函数使得H0张力得以缓解。 <div>
-The increase of discrepancy in the standard procedure to choose the arbitrary functional form of the Lagrangian f(Q) motivates us to solve this issue in modified theories of gravity. In this regard, we investigate the Gaussian process, which allows us to eliminate this issue in an f(Q) model-independent way. In particular, we use the 58 Hubble measurements coming from cosmic chronometers and the radial Baryon acoustic oscillations to reconstruct H(z) and its derivatives and H″(z), which leads us to reconstruct the region of f(Q), without any assumptions. The obtained mean curve along the Lambda Cold Dark Matter (ΛCDM) constant in the reconstructed region follows a quadratic behavior. This motivates us to propose a new f(Q) parameterization, i.e., f(Q) = −2Λ + ϵQ2, with the single parameter ϵ, which signifies the deviations from ΛCDM cosmology. Further, we probe the widely studied power-law and exponential f(Q) models against the reconstructed region and can improve the parameter spaces significantly compared with observational analysis. In addition, the direct Hubble measurements, along with the reconstructed f(Q) function, allow the H0 tension to be alleviated.
-]]></content:encoded>
-<pubDate>2024-09-04T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Retrieving Young Cloudy L Dwarfs: A Nearby Planetary-mass Companion BD+60 1417B and its Isolated Red Twin W0047</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d57</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5d57</guid>
-<content:encoded><![CDATA[
-<div> L dwarfs, retrieval analysis, elemental abundance measurements, K-dwarf, cloud model <br />
-总结: 
-这是一篇关于对年轻的、多云的红色L矮星进行大气检索分析的文章。研究使用了Brewster检索框架，并对年轻K矮星进行了首次元素丰度测量。研究发现在存在凝结云物种的复杂多云L矮星区域，只有近红外数据时，检索分析变得更加困难。尽管测试了三种不同的热剖面参数化，我们仍然无法约束可靠的丰度测量，因此无法确定碳氧比。然而，数据强烈支持云模型而不是无云模型。无论检查的数据的信噪比如何（CWISER BD+60 1417B的S/N约为10，W0047的S/N约为40），检索约束的困难依然存在。这项工作为检索年轻、低表面重力多云L矮星提供了宝贵的经验教训。这项研究进一步证明了模型中存在信息缺失的现象，并迫切需要JWST来指导和提供这一区域的检索分析。 <br /> <div>
-We present an atmospheric retrieval analysis on a set of young, cloudy, red L dwarfs—CWISER J124332.12+600126.2 (BD+60 1417B) and WISEP J004701.06+680352.1 (W0047)—using the Brewster retrieval framework. We also present the first elemental abundance measurements of the young K-dwarf (K0) host star, BD+60 1417, using high-resolution (R = 50,000) spectra taken with the Potsdam Echelle Polarimetric and Spectroscopic Instrument on the Large Binocular Telescope. In the complex cloudy L-dwarf regime the emergence of condensate cloud species complicates retrieval analysis when only near-infrared data are available. We find that for both L dwarfs in this work, despite testing three different thermal profile parameterizations we are unable to constrain reliable abundance measurements and thus the carbon-to-oxygen ratio. While we cannot conclude what the abundances are, we can conclude that the data strongly favor a cloud model over a cloudless model. We note that the difficulty in retrieval constraints persists regardless of the signal-to-noise ratio of the data examined (S/N ∼ 10 for CWISER BD+60 1417B and 40 for WISEP W0047). The results presented in this work provide valuable lessons about retrieving young, low-surface-gravity cloudy L dwarfs. This work provides continued evidence of missing information in models and the crucial need for JWST to guide and inform retrieval analysis in this regime.
 ]]></content:encoded>
 <pubDate>2024-09-04T23:00:00Z</pubDate>
 </item>
