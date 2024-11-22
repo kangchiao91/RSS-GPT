@@ -5,16 +5,54 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Whole-disk Sampling of Molecular Clouds in M83</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8228</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8228</guid>
+<content:encoded><![CDATA[
+<div> 分析, M83, clouds, CO luminosity, mass sensitivity, beam dilution
+<br>
+这篇文章总结了对M83星系进行的12CO (1–0)观测数据的分析结果。研究采用Atacama大型毫米/亚毫米阵列进行观测，发现星系内约5724个分子云团，其中60%的CO亮度来自质量大于10^6M⊙的云团。质量大的云团集中在星系的臂、杆和中心区域，而较小的云团更多分布在星系的臂间区域。研究还发现，云团的亮度温度与Solomon等人于1987年确定的标度关系相符，但在数量上占主导地位的亮度温度低于2K的云团明显偏离这一关系。在考虑波束展宽效应后，大部分云团的动力学参数和表面质量密度可以用内在表面质量密度约为100M⊙pc-2和动力学参数约为1来解释，这与S87的观测结果相似。这些结果对于理解M83星系内的分子云团的物理特性具有重要意义。 <br><br>总结: 该研究通过ALMA对M83星系的12CO观测数据进行分析，发现星系内分子云团的分布特性和物理参数，以及与标度关系的关联，这有助于深入理解星系内分子云团的性质。 <div>
+We present a catalog of clouds identified from the 12CO (1–0) data of M83, which was observed using the Atacama Large Millimeter/submillimeter Array with a spatial resolution of ∼46 pc and a mass sensitivity of ∼104M⊙ (3σ). The almost full-disk coverage and high sensitivity of the data allowed us to sample 5724 molecular clouds with a median mass of ∼1.9 × 105M⊙, which is comparable to the most frequently sampled mass of giant molecular clouds by surveys in the Milky Way (MW). About 60% of the total CO luminosity in M83's disk arises from clouds more massive than 106M⊙. Such massive clouds comprise 16% of the total clouds in number and tend to concentrate toward the arm, bar, and center, while smaller clouds are more prevalent in interarm regions. Most >106M⊙ clouds have peak brightness temperatures Tpeak above 2 K with the current resolution. Comparing the observed cloud properties with the scaling relations determined by P. M. Solomon et al. (1987, hereafter S87), Tpeak > 2 K clouds follow the relations, but Tpeak < 2 K clouds, which are dominant in number, deviate significantly. Without considering the effect of beam dilution, the deviations would suggest modestly high virial parameters (median αvir ∼ 2.7) and low surface mass densities (median Σ ∼ 22 M⊙ pc−2) for the entire cloud samples, which are similar to values found for the MW clouds by T. S. Rice et al. (2016) and M.-A Miville-Deschênes et al. (2017). However, once beam dilution is taken into account, the observed αvir and Σ for a majority of the clouds (mostly Tpeak <2 K) can be potentially explained with intrinsic Σ of ∼100 M⊙ pc−2 and αvir of ∼1, which are similar to the clouds of S87.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraining the Low-mass End of the Stellar-to-halo Mass Relation with Surveys of Satellite Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad834e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad834e</guid>
+<content:encoded><![CDATA[
+<div> 卫星星系，宿主暗物质晕，星—暗质关系，模拟研究，宿主暗物质质量。<br>
+在这篇文章中，研究人员通过分析卫星星系在宿主暗物质晕中的丰度，探讨了星—暗质质量关系的低质量端（MH < 1011M⊙）。他们指出最近对局部星系群环境中卫星星系的分析未能充分建模卫星星系恒星质量函数中的散射主要源，即固定宿主暗物质质量下的增光历史的方差。研究人员提出了一种新的推断框架，不仅恰当考虑了晕—晕方差，而且自然地确定了宿主暗物质质量混合的量，这通常是未知的。他们使用半解析SatGen模型构建了与卫星环绕类星系调查第三版数据一致的模拟卫星星系群体。他们证明即使在最理想的情况下，晕—晕方差使得对星—暗质量关系的散射施加任何有意义的限制几乎是不可能的。甚至由100个宿主组成的卫星星系调查最多只能在95%置信水平上对散射施加约0.5 dex的上限。这是因为晕组装历史的大方差主导了星—暗质量关系的散射。这个问题可以通过将调查样本大小增加一个数量级（大约1000个宿主星系）来解决，这在即将进行的光谱调查中应该是相当容易的。<br><br>总结: 本文研究了卫星星系丰度与宿主暗物质晕的关系，并提出了一种新的推断框架来解决散射问题。研究人员发现即使在最理想的情况下，晕—晕方差也使得对星—暗质量关系的散射施加限制几乎不可能。他们指出，这个问题可以通过将调查样本大小增加一个数量级来解决。 <div>
+The abundance of satellite galaxies is set by the hierarchical assembly of their host halo. We leverage this to investigate the low-mass end (MH < 1011M⊙) of the stellar-to-halo mass relation (SHMR), which is key to constraining theories of galaxy formation and cosmology. We argue that recent analyses of satellite galaxies in the Local Group environment have not adequately modeled the dominant source of scatter in satellite stellar mass functions: the variance in accretion histories for a fixed host halo mass. We present a novel inference framework that not only properly accounts for this halo-to-halo variance but also naturally identifies the amount of host halo mass mixing, which is generally unknown. Specifically, we use the semianalytical SatGen model to construct mock satellite galaxy populations consistent with the third data release of the Satellites Around Galactic Analogs survey. We demonstrate that even under the most idealized circumstances, the halo-to-halo variance makes it virtually impossible to put any meaningful constraints on the scatter in the SHMR. Even a satellite galaxy survey made up 100 hosts can at best only place an upper limit of ∼0.5 dex on the scatter (at the 95% confidence level). This is because the large variance in halo assembly histories dominates over the scatter in the SHMR. This problem can be overcome by increasing the sample size of the survey by an order of magnitude (∼1000 host galaxies), something that should be fairly straightforward with forthcoming spectroscopic surveys.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Between the Extremes: A JWST Spectroscopic Benchmark for High-redshift Galaxies Using ∼500 Confirmed Sources at z ≥ 5</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d3</guid>
+<content:encoded><![CDATA[
+<div> 高红移，光度源，星系演化，光谱模板，JWST/NIRSpec prism<br>
+总结:<br>
+这篇文章报道了对于高红移星系进行光谱分析的研究。研究中利用了482个确认的z=5.0−12.9的光谱观测数据，构建了代表高红移星系的光谱模板，并报告了它们的平均特性。研究发现在z=5−11的星系中，主要以蓝色紫外连续斜率为主，表明这些星系贫尘且年轻。在我们的样本中，还发现了57个Lyα发射星系，并与非发射星系进行比较。研究结果揭示了这两类星系之间的重要内在差异，对Lyα能见度有重要影响。这些光谱模板提供了一个新的观测基准，有助于解释高红移光源的全局特性，扩展到了宇宙的早期时期。 <div>
+The exceptional spectra of the most luminous z > 10 sources observed so far have challenged our understanding of early galaxy evolution, requiring a new observational benchmark for meaningful interpretation. As such, we construct spectroscopic templates representative of high-redshift, star-forming populations, using 482 confirmed sources at z = 5.0−12.9 with JWST/NIRSpec prism observations, and report on their average properties. We find z = 5−11 galaxies are dominated by blue UV continuum slopes (β = −2.3 to −2.7) and reduced Balmer indices, characteristic of dust-poor and young systems, with a shift towards bluer slopes and younger ages with redshift. The evolution is mirrored by ubiquitous C iii] detections across all redshifts (rest-frame equivalent widths of 5−14 Å), which increase in strength towards early times. Rest-frame optical lines reveal elevated ratios (O32 = 7–31, R23 = 5–8, and Ne3O2 = 1−2) and subsolar metallicities (log(O/H) = 7.3−7.9), typical of ionization conditions and metallicities rarely observed in z ∼ 0 populations. Within our sample, we identify 57 Lyα emitters, which we stack and compare to a matched sample of nonemitters. The former are characterized by more extreme ionizing conditions with enhanced C iii], C iv, and He ii + [O iii] line emission, younger stellar populations from Balmer jumps, and a more pristine interstellar medium seen through bluer UV slopes and elevated rest-frame optical line ratios. The novel comparison illustrates important intrinsic differences between the two populations, with implications for Lyα visibility. The spectral templates derived here represent a new observational benchmark with which to interpret high-redshift sources, lifting our constraints on their global properties to unprecedented heights and extending out to the earliest of cosmic times.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Strong Nongravitational Accelerations and the Potential for Misidentification of Near-Earth Objects</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</guid>
 <content:encoded><![CDATA[
 <div> NEOs, nongravitational accelerations, linking apparitions, orbit identification algorithms, tracklets
-<br><br>总结:
+<br /><br />总结:
 最近在近地天体（NEOs）上发现了非引力加速，这引发了在近地环境中非均向质量损失的普遍性问题。研究表明，非引力加速度可能导致不同观测时刻的位置变化，并且影响了轨道识别算法的效果。然而，通过提出新的方法来寻找未链接的天体对，可以帮助识别和链接发生非引力加速的天体。当前的链接算法通常对非引力加速度具有一定的健壮性，但是可能会错过具有大非引力加速度的天体。预计从未来的调查任务中增加天体人口后，目前的算法将更加合适。 <div>
 Nongravitational accelerations in the absence of observed activity have recently been identified on near-Earth objects (NEOs), opening the question of the prevalence of anisotropic mass loss in the near-Earth environment. Motivated by the necessity of nongravitational accelerations to identify 2010 VL65 and 2021 UA12 as a single object, we investigate the problem of linking separate apparitions in the presence of nongravitational perturbations. We find that nongravitational accelerations on the order of 1 × 10–9 au day−2 can lead to a change in plane-of-sky positions of ∼1 × 103 arcsec between apparitions. Moreover, we inject synthetic tracklets of hypothetical nongravitationally accelerating NEOs into the Minor Planet Center orbit identification algorithms. We find that at large nongravitational accelerations (∣Ai∣ ≥ 1 × 10−8 au day−2) these algorithms fail to link a significant fraction of these tracklets. We further show that if orbits can be determined for both apparitions, the tracklets will be linked regardless of nongravitational accelerations, although they may be linked to multiple objects. In order to aid in the identification and linkage of nongravitationally accelerating objects, we propose and test a new methodology to search for unlinked pairs. When applied to the current census of NEOs, we recover the previously identified case but identify no new linkages. We conclude that current linking algorithms are generally robust to nongravitational accelerations, but objects with large nongravitational accelerations may potentially be missed. While current algorithms are well-positioned for the anticipated increase in the census population from future survey missions, it may be possible to find objects with large nongravitational accelerations hidden in isolated tracklet pairs.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -24,10 +62,9 @@ Nongravitational accelerations in the absence of observed activity have recently
 <content:encoded><![CDATA[
 <div> MaDCoWS2, galaxy cluster candidates, CNN, redshift, completeness
 
-这篇文章介绍了MaDCoWS2的第二次数据发布，覆盖了Dark Energy Camera Legacy Survey区域，包括133,036个信噪比（S/N）≥5的星系团候选项，其中6790个候选项在z > 1.5处。作者使用卷积神经网络（CNN）区分虚假检测，提供了CNN基于概率的星系团分类。文章比较了MaDCoWS2样本与文献目录，结果表明新的样本与第一次数据发布一致。作者还对MaDCoWS2 S/N和其他目录中可观测量之间的关系进行了研究，并评估了方法在模拟光锥中的性能。最终得出纯度高于90%的结论，并估计50%完整度阈值在log(M/M⊙) ≈ 14.3处。<br><br>总结: MaDCoWS2发布了第二批数据，包括133,036个星系团候选项，利用CNN进行分类。研究表明样本具有高纯度，但对于完整度的估计仍存在一定不确定性。 <div>
+这篇文章介绍了MaDCoWS2的第二次数据发布，覆盖了Dark Energy Camera Legacy Survey区域，包括133,036个信噪比（S/N）≥5的星系团候选项，其中6790个候选项在z > 1.5处。作者使用卷积神经网络（CNN）区分虚假检测，提供了CNN基于概率的星系团分类。文章比较了MaDCoWS2样本与文献目录，结果表明新的样本与第一次数据发布一致。作者还对MaDCoWS2 S/N和其他目录中可观测量之间的关系进行了研究，并评估了方法在模拟光锥中的性能。最终得出纯度高于90%的结论，并估计50%完整度阈值在log(M/M⊙) ≈ 14.3处。<br /><br />总结: MaDCoWS2发布了第二批数据，包括133,036个星系团候选项，利用CNN进行分类。研究表明样本具有高纯度，但对于完整度的估计仍存在一定不确定性。 <div>
 We present the second data release of the Massive and Distant Clusters of WISE Survey 2 (MaDCoWS2). We expand from the equatorial first data release to most of the Dark Energy Camera Legacy Survey area, covering a total area of 6498 deg2. The catalog consists of 133,036 signal-to-noise ratio (S/N) ≥ 5 galaxy cluster candidates at 0.1 ≤ z ≤ 2, including 6790 candidates at z > 1.5. We train a convolutional neural network (CNN) to identify spurious detections and include CNN-based cluster probabilities in the final catalog. We also compare the MaDCoWS2 sample with literature catalogs in the same area. The larger sample provides robust results that are consistent with our first data release. At S/N ≥ 5, we rediscover 59%–91% of clusters in existing catalogs that lie in the unmasked area of MC2. The median positional offsets are under 250 kpc, and the standard deviation of the redshifts is 0.031(1 + z). We fit a redshift-dependent power law to the relation between MaDCoWS2 S/N and observables from existing catalogs. Over the redshift ranges where the surveys overlap with MaDCoWS2, the lowest scatter is found between S/N and observables from optical/infrared surveys. We also assess the performance of our method using a mock light cone measuring purity and completeness as a function of cluster mass. The purity is above 90%, and we estimate the 50% completeness threshold at a virial mass of log(M/M⊙) ≈ 14.3. The completeness estimate is uncertain due to the small number of massive halos in the light cone, but consistent with the recovery fraction found by comparing to other cluster catalogs.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -36,14 +73,12 @@ We present the second data release of the Massive and Distant Clusters of WISE S
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc2</guid>
 <content:encoded><![CDATA[
 <div> GitHub repository, Tleco, numerical models, relativistic outflows, particle acceleration
-<br><br>
+<br /><br />
 该论文介绍了Tleco，这是一个用于发展相对论性喷流的数值模型的多功能且轻量级的工具包。Tleco使用Rust编程语言构建，并封装成Python库，提供了演变相对论性粒子分布和解决结果电磁辐射的高效算法。该工具包可适用于模拟各种天体物理场景，包括但不限于伽马射线暴、脉冲星风星云和活动星系核喷流。该工具包的代码是开源的，可以在GitHub上找到。 <div>
 A wide range of astrophysical sources exhibit extreme and rapidly varying electromagnetic emission indicative of efficient nonthermal particle acceleration. Understanding these sources often involves comparing data with a broad range of theoretical scenarios. To this end, it is beneficial to have tools that enable not only fast and efficient parametric investigation of the predictions of a specific scenario but also the flexibility to explore different theoretical ideas. In this paper, we introduce Tleco, a versatile and lightweight toolkit for developing numerical models of relativistic outflows, including their particle acceleration mechanisms and resultant electromagnetic signature. Built on the Rust programming language and wrapped into a Python library, Tleco offers efficient algorithms for evolving relativistic particle distributions and for solving the resulting emissions in a customizable fashion. Tleco uses a fully implicit discretization algorithm to solve the Fokker–Planck equation with user-defined diffusion, advection, cooling, injection, and escape and offers prescriptions for radiative emission and cooling. These include, but are not limited to, synchrotron, inverse-Compton, and self-synchrotron absorption. Tleco is designed to be user friendly and adaptable to model particle acceleration and the resulting electromagnetic spectrum and temporal variability in a wide variety of astrophysical scenarios, including, but not limited to, gamma-ray bursts, pulsar wind nebulae, and jets from active galactic nuclei. In this work, we outline the core algorithms and proceed to evaluate and demonstrate their effectiveness. The code is open source and available in the GitHub repository: https://github.com/zkdavis/Tleco.
 ]]></content:encoded>
-
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Puffy Venuses: The Mass–Radius Impact of Carbon-rich Atmospheres on Lava Worlds</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f03</link>
@@ -11823,44 +11858,6 @@ Diffuse ionized gas pervades the disk of the Milky Way. We detect extremely fain
 The power density spectrum (PDS) is a powerful tool to study light curves of gamma-ray bursts (GRBs). We show the average PDS and individual PDS analysis with GRB data from the Hard X-ray Modulation Telescope (also named Insight-HXMT). The values of the power-law index of the average PDS ( ) for long GRBs (LGRBs) vary from 1.58 to 1.29 (for 100–245, 245–600, and 600–2000 keV). The Insight-HXMT data allow us to extend the energy of the LGRBs up to 2000 keV, and a relation between and energy E is obtained: (8–2000 keV). We first systematically investigate the average PDS and individual PDSs for short GRBs (SGRBs), and obtain (8–1000 keV), where the values of vary from 1.86 to 1.34. The distribution of the power-law index of an individual PDS (α) of an SGRB is consistent with that of an LGRB, and the α value for the group with a dominant timescale (the bent power law) is higher than that for the group with no dominant timescale (the single power law). Both LGRBs and SGRBs show similar α and , which indicates that they may be the result of similar stochastic processes. Typical values of the dominant timescale τ for LGRBs and SGRBs are 1.58 s and 0.02 s, respectively. It seems that τ varies in proportion to the duration of GRBs T90, with a relation . The GRB light curve may result from superposing a number of pulses with different timescales. No periodic or quasi-periodic signal above the 3σ significance threshold is found in our sample.
 ]]></content:encoded>
 <pubDate>2024-09-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Competitive Entrapment of Hypervolatiles in Interstellar and Cometary Water Ice Analogs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6322</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6322</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 化学物种分布, 原行星盘, 冰的混合物, 捕获效率, 太空天体观测<br />
-<br />
-在这项研究中，研究人员调查了在不同温度和混合比下沉积的多组分水冰混合物中的四种高挥发性物质（CH4，CO，N2和Ar）的捕获效率。结果表明，在低冰沉积温度下，各种物质的捕获效率存在较小差异（CH4>CO>N2∼Ar），差异最多不超过两倍。随着沉积温度的升高，物质之间的捕获差异最多增加一个数量级。此外，冰混合物的总高挥发性物质浓度的变化也会影响相对捕获效率。这些实验结果有助于更好地解释彗星及相关天体观测中的高挥发性物质。 <br /><br />总结: 本研究调查了原行星盘中冰的混合物中高挥发性物质的捕获效率。研究发现，捕获效率受到冰矩阵结合能的影响，同时在浓缩冰中也存在最佳位置的竞争。这些结果有助于解释太空天体观测中的相关现象。 <div>
-The distribution of chemical species in protoplanetary disks around young stars, especially their division between gas and solid phases, fundamentally shapes the composition of future planets and planetesimals. This distribution is likely affected by entrapment, a mechanism whereby volatile species are mechanically or chemically bound within a less volatile ice. In this study, we investigate the entrapment efficiencies of four hypervolatiles (CH4, CO, N2, and Ar) in multicomponent water ice mixtures deposited at different temperatures and mixture ratios. At low ice deposition temperatures, we observe small differences in entrapment efficiency (CH4>CO>N2∼Ar) up to a factor of two across species. The differences in entrapment between species increase by up to an order of magnitude with increasing deposition temperature. The relative entrapment efficiencies are also impacted by changes in the overall hypervolatile concentration of the ice mixtures. Collectively, these experiments suggest that relative entrapment efficiencies are mainly regulated by small differences in binding energies to the ice matrix, though competition for the best sites also influences entrapment in more concentrated ices. We use these results to better inform interpretations of hypervolatile observations in comets and related objects.
-]]></content:encoded>
-<pubDate>2024-09-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Improving the Automated Coronal Jet Identification with U-NET</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66be</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad66be</guid>
-<content:encoded><![CDATA[
-<div> 关键词: coronal jets, automated identification, U-NET, solar activity cycles, Artificial Neural Networks <br />
-总结: 
-这篇论文介绍了一种自动化的冠状射流识别算法（AJIA），它利用真实和虚假射流作为输入，通过图像分割神经网络U-NET来识别太阳物理学过程。研究表明，AJIA的检测精度要比半自动化算法（SAJIA）高出很多，可以快速、准确地识别赤道冠冠射流，这对研究冠射流的集体和长期行为以及它们与太阳活动周期的关系至关重要。通过人工神经网络的辅助，AJIA使得观测太阳动力学观测（SDO/AIA 304 Å）可以实现实时识别冠状射流。 <br /><br /> <div>
-Coronal jets are one of the most common eruptive activities in the solar atmosphere. They are related to rich physics processes, including, but not limited to, magnetic reconnection, flaring, instabilities, and plasma heating. Automated identification of off-limb coronal jets has been difficult due to their abundant nature, complex appearance, and relatively small size compared to other features in the corona. In this paper, we present an automated jet identification algorithm (AJIA) that utilizes true and fake jets previously detected by a laborious semiautomated jet detection algorithm (SAJIA) as the input of an image segmentation neural network U-NET. It is found that AJIA can achieve a much higher (0.81) detecting precision than SAJIA (0.34) while giving the possibility of whether each pixel in an input image belongs to a jet. We demonstrate that with the aid of artificial neural networks, AJIA can enable fast, accurate, and real-time off-limb coronal jet identification from Solar Dynamics Observatory/Atmospheric Imaging Assembly 304 Å observations, which are essential in studying the collective and long-term behavior of coronal jets and their relation to the solar activity cycles.
-]]></content:encoded>
-<pubDate>2024-09-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Modeling Compact Object Mergers GW190814 and GW200210 and Other Self-bound Compact Stars with Dark Matter Induced by Gravitational Decoupling and Its Significance to the Mass Gap</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf1</guid>
-<content:encoded><![CDATA[
-<div> f(Q) gravity, compact objects, mass–radius relations, dark matter, stability
-
-这篇文章研究了f(Q)引力场中的紧凑天体，并探讨了电场和暗物质，并提供了新的质量-半径关系模型，这些模型落入了事件GW190814和GW200210的质量间隔中。通过制定基本方程并找到相关解之后，对系统进行了边界条件的规定。得到了具有暗物质密度分布的奇怪恒星模型的解耦合解。强烈研究了系统中有效能量密度以及径向和切向压力和各向异性的分布模式。研究了恒星配置的稳定性质以及暗物质的影响。利用了PSR J1614–2230和PSR J0952–0607等超大质量紧凑恒星候选体的最新观测结果。有趣的是，本研究预测了满足基于MIT包模型的状态方程的观测恒星质量-半径测量的约束，并利用模仿条件（即ρθ = in f(Q)引力场）。
-<br /><br />总结:
-本研究探讨了f(Q)引力场中的紧凑天体和暗物质的影响，提出了新的质量-半径关系模型，研究了稳定性和观测结果的预测。 <div>
-We present a rigorous study of compact objects within f(Q) gravity where electrical fields and dark matter are studied and provide novel mass–radius relations with models falling in the mass gap of the events GW190814 and GW200210. After formulating the basic equations and finding their relevant solutions, we impose the boundary conditions on the system under treatment. The decoupled solution for the strange stellar model with the dark matter density profile is obtained. The distribution patterns of the effective energy density and the radial as well as the tangential pressure and anisotropy in the system are intensively examined. The stability properties of the stellar configuration and the influence of dark matter are studied. The recent observations of supermassive compact star candidates such as PSR J1614–2230 and PSR J0952–0607 with observed masses greater than or equal to 2 M⊙ have been employed in our study. Interestingly, the present study predicts the constraints on mass–radius measurements of the observed stars satisfying the equation of state based on the MIT bag model and employing the condition of mimicking, i.e., ρθ = in f(Q) gravity. Our graphical results exhibit that for a particular M–R curve with fixed values of the parameters, neutron stars having mass less than Mmax exist with larger radii within the context of the f(Q) formalism.
-]]></content:encoded>
-<pubDate>2024-09-05T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
