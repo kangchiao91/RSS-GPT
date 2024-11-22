@@ -4,6 +4,45 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Strong Nongravitational Accelerations and the Potential for Misidentification of Near-Earth Objects</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</guid>
+<content:encoded><![CDATA[
+<div> NEOs, nongravitational accelerations, linking apparitions, orbit identification algorithms, tracklets
+<br><br>总结:
+最近在近地天体（NEOs）上发现了非引力加速，这引发了在近地环境中非均向质量损失的普遍性问题。研究表明，非引力加速度可能导致不同观测时刻的位置变化，并且影响了轨道识别算法的效果。然而，通过提出新的方法来寻找未链接的天体对，可以帮助识别和链接发生非引力加速的天体。当前的链接算法通常对非引力加速度具有一定的健壮性，但是可能会错过具有大非引力加速度的天体。预计从未来的调查任务中增加天体人口后，目前的算法将更加合适。 <div>
+Nongravitational accelerations in the absence of observed activity have recently been identified on near-Earth objects (NEOs), opening the question of the prevalence of anisotropic mass loss in the near-Earth environment. Motivated by the necessity of nongravitational accelerations to identify 2010 VL65 and 2021 UA12 as a single object, we investigate the problem of linking separate apparitions in the presence of nongravitational perturbations. We find that nongravitational accelerations on the order of 1 × 10–9 au day−2 can lead to a change in plane-of-sky positions of ∼1 × 103 arcsec between apparitions. Moreover, we inject synthetic tracklets of hypothetical nongravitationally accelerating NEOs into the Minor Planet Center orbit identification algorithms. We find that at large nongravitational accelerations (∣Ai∣ ≥ 1 × 10−8 au day−2) these algorithms fail to link a significant fraction of these tracklets. We further show that if orbits can be determined for both apparitions, the tracklets will be linked regardless of nongravitational accelerations, although they may be linked to multiple objects. In order to aid in the identification and linkage of nongravitationally accelerating objects, we propose and test a new methodology to search for unlinked pairs. When applied to the current census of NEOs, we recover the previously identified case but identify no new linkages. We conclude that current linking algorithms are generally robust to nongravitational accelerations, but objects with large nongravitational accelerations may potentially be missed. While current algorithms are well-positioned for the anticipated increase in the census population from future survey missions, it may be possible to find objects with large nongravitational accelerations hidden in isolated tracklet pairs.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Massive and Distant Clusters of WISE Survey 2: Second Data Release</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad888c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad888c</guid>
+<content:encoded><![CDATA[
+<div> MaDCoWS2, galaxy cluster candidates, CNN, redshift, completeness
+
+这篇文章介绍了MaDCoWS2的第二次数据发布，覆盖了Dark Energy Camera Legacy Survey区域，包括133,036个信噪比（S/N）≥5的星系团候选项，其中6790个候选项在z > 1.5处。作者使用卷积神经网络（CNN）区分虚假检测，提供了CNN基于概率的星系团分类。文章比较了MaDCoWS2样本与文献目录，结果表明新的样本与第一次数据发布一致。作者还对MaDCoWS2 S/N和其他目录中可观测量之间的关系进行了研究，并评估了方法在模拟光锥中的性能。最终得出纯度高于90%的结论，并估计50%完整度阈值在log(M/M⊙) ≈ 14.3处。<br><br>总结: MaDCoWS2发布了第二批数据，包括133,036个星系团候选项，利用CNN进行分类。研究表明样本具有高纯度，但对于完整度的估计仍存在一定不确定性。 <div>
+We present the second data release of the Massive and Distant Clusters of WISE Survey 2 (MaDCoWS2). We expand from the equatorial first data release to most of the Dark Energy Camera Legacy Survey area, covering a total area of 6498 deg2. The catalog consists of 133,036 signal-to-noise ratio (S/N) ≥ 5 galaxy cluster candidates at 0.1 ≤ z ≤ 2, including 6790 candidates at z > 1.5. We train a convolutional neural network (CNN) to identify spurious detections and include CNN-based cluster probabilities in the final catalog. We also compare the MaDCoWS2 sample with literature catalogs in the same area. The larger sample provides robust results that are consistent with our first data release. At S/N ≥ 5, we rediscover 59%–91% of clusters in existing catalogs that lie in the unmasked area of MC2. The median positional offsets are under 250 kpc, and the standard deviation of the redshifts is 0.031(1 + z). We fit a redshift-dependent power law to the relation between MaDCoWS2 S/N and observables from existing catalogs. Over the redshift ranges where the surveys overlap with MaDCoWS2, the lowest scatter is found between S/N and observables from optical/infrared surveys. We also assess the performance of our method using a mock light cone measuring purity and completeness as a function of cluster mass. The purity is above 90%, and we estimate the 50% completeness threshold at a virial mass of log(M/M⊙) ≈ 14.3. The completeness estimate is uncertain due to the small number of massive halos in the light cone, but consistent with the recovery fraction found by comparing to other cluster catalogs.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Tleco: A Toolkit for Modeling Radiative Signatures from Relativistic Outflows</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc2</guid>
+<content:encoded><![CDATA[
+<div> GitHub repository, Tleco, numerical models, relativistic outflows, particle acceleration
+<br><br>
+该论文介绍了Tleco，这是一个用于发展相对论性喷流的数值模型的多功能且轻量级的工具包。Tleco使用Rust编程语言构建，并封装成Python库，提供了演变相对论性粒子分布和解决结果电磁辐射的高效算法。该工具包可适用于模拟各种天体物理场景，包括但不限于伽马射线暴、脉冲星风星云和活动星系核喷流。该工具包的代码是开源的，可以在GitHub上找到。 <div>
+A wide range of astrophysical sources exhibit extreme and rapidly varying electromagnetic emission indicative of efficient nonthermal particle acceleration. Understanding these sources often involves comparing data with a broad range of theoretical scenarios. To this end, it is beneficial to have tools that enable not only fast and efficient parametric investigation of the predictions of a specific scenario but also the flexibility to explore different theoretical ideas. In this paper, we introduce Tleco, a versatile and lightweight toolkit for developing numerical models of relativistic outflows, including their particle acceleration mechanisms and resultant electromagnetic signature. Built on the Rust programming language and wrapped into a Python library, Tleco offers efficient algorithms for evolving relativistic particle distributions and for solving the resulting emissions in a customizable fashion. Tleco uses a fully implicit discretization algorithm to solve the Fokker–Planck equation with user-defined diffusion, advection, cooling, injection, and escape and offers prescriptions for radiative emission and cooling. These include, but are not limited to, synchrotron, inverse-Compton, and self-synchrotron absorption. Tleco is designed to be user friendly and adaptable to model particle acceleration and the resulting electromagnetic spectrum and temporal variability in a wide variety of astrophysical scenarios, including, but not limited to, gamma-ray bursts, pulsar wind nebulae, and jets from active galactic nuclei. In this work, we outline the core algorithms and proceed to evaluate and demonstrate their effectiveness. The code is open source and available in the GitHub repository: https://github.com/zkdavis/Tleco.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Puffy Venuses: The Mass–Radius Impact of Carbon-rich Atmospheres on Lava Worlds</title>
