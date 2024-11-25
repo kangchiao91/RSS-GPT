@@ -5,16 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>DIISC-IV. DIISCovery of Anomalously Low Metallicity H ii Regions in NGC 99: Indirect Evidence of Gas Inflows</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8238</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8238</guid>
+<content:encoded><![CDATA[
+<div> 关键词: NGC 99, 光谱学, 金属丰度, 天体物理学, 气体吸积
+总结: 
+NGC 99是一个活跃的星系，研究人员通过光谱学和观测数据，发现了该星系内部的金属丰度梯度。两个异常低金属丰度区域显示出与其他区域不同的特征，这被解释为气体吸积的间接证据。此外，研究还发现星系内部的星际介质与周银河介质中的Lyα云可能存在共转运动，可能是低金属丰度气体吸积的一种可能途径。最后，研究人员使用局部气相金属丰度、恒星质量面密度和恒星形成率面密度计算了解决的基本金属丰度关系，发现了与之前研究得出的结果相似的趋势。 <div>
+As a part of the Deciphering the Interplay between the Interstellar medium, Stars, and the Circumgalactic medium (DIISC) survey, we investigate indirect evidence of gas inflow into the disk of the galaxy NGC 99. We combine optical spectra from the Binospec spectrograph on the MMT telescope with optical imaging data from the Vatican Advanced Technology Telescope, radio H i 21 cm emission images from the NSF Karl G. Jansky’s Very Large Array, and UV spectroscopy from the Cosmic Origins Spectrograph on the Hubble Space Telescope. We measure emission lines (Hα, Hβ, [O iii]λ5007, [N ii]λ6583, and [S ii]λ6717, 31) in 26 H ii regions scattered about the galaxy and estimate a radial metallicity gradient of −0.017 dex kpc−1 using the N2 metallicity indicator. Two regions in the sample exhibit an anomalously low metallicity (ALM) of 12 + log(O/H) = 8.36 dex, which is ∼0.16 dex lower than other regions at that galactocentric radius. They also show a high difference between their H i and Hα line of sight velocities on the order of 35 km s−1. Chemical evolution modeling indicates gas accretion as the cause of the ALM regions. We find evidence for corotation between the interstellar medium of NGC 99 and Lyα clouds in its circumgalactic medium, which suggests a possible pathway for low metallicity gas accretion. We also calculate the resolved Fundamental Metallicity Relation (rFMR) on subkiloparsec scales using localized gas-phase metallicity, stellar mass surface density, and star formation rate surface density. The rFMR shows a similar trend as that found by previous localized and global FMR relations.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Spectropolarimetric Inversion in Four Dimensions with Deep Learning (SPIn4D). I. Overview, Magnetohydrodynamic Modeling, and Stokes Profile Synthesis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad865b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad865b</guid>
+<content:encoded><![CDATA[
+<div> 关键词: National Science Foundation, Daniel K. Inouye Solar Telescope, spectropolarimetric observations, convolutional neural networks, MHD modeling<br>
+总结: <br>
+1. 美国国家科学基金会正在进行太阳观测研究项目，旨在通过Daniel K. Inouye Solar Telescope进行高分辨率、多线谱偏振观测。<br>
+2. 他们的"SPIn4D"项目旨在利用卷积神经网络(CNN)对太阳光球的物理特性进行估计，以解锁DKIST观测数据的全部潜力。<br>
+3. 他们利用磁流体力学(MHD)模拟和Stokes谱线合成工具产生模拟数据，用于训练CNNs，以快速推断四维MHD状态向量。<br>
+4. MHD模型模拟宁静太阳区域和黑子区域中的小尺度磁流活动，覆盖6个不同平均磁场情况，总共产生109TB数据。<br>
+5. 他们还进行了Stokes谱线的正演模拟，将模拟输出数据和合成的Stokes谱线数据公开发布，总计13.7TB的初始数据发布量。 <div>
+The National Science Foundation’s Daniel K. Inouye Solar Telescope (DKIST) will provide high-resolution, multiline spectropolarimetric observations that are poised to revolutionize our understanding of the Sun. Given the massive data volume, novel inference techniques are required to unlock its full potential. Here, we provide an overview of our “SPIn4D” project, which aims to develop deep convolutional neural networks (CNNs) for estimating the physical properties of the solar photosphere from DKIST spectropolarimetric observations. We describe the magnetohydrodynamic (MHD) modeling and the Stokes profile synthesis pipeline that produce the simulated output and input data, respectively. These data will be used to train a set of CNNs that can rapidly infer the four-dimensional MHD state vectors by exploiting the spatiotemporally coherent patterns in the Stokes profile time series. Specifically, our radiative MHD model simulates the small-scale dynamo actions that are prevalent in quiet-Sun and plage regions. Six cases with different mean magnetic fields have been explored; each case covers six solar-hours, totaling 109 TB in data volume. The simulation domain covers at least 25 × 25 × 8 Mm, with 16 × 16 × 12 km spatial resolution, extending from the upper convection zone up to the temperature minimum region. The outputs are stored at a 40 s cadence. We forward model the Stokes profile of two sets of Fe i lines at 630 and 1565 nm, which will be simultaneously observed by DKIST and can better constrain the parameter variations along the line of sight. The MHD model output and the synthetic Stokes profiles are publicly available, with 13.7 TB in the initial release.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Periodic Gamma-Ray Modulation of the Blazar PG 1553+113 Confirmed by Fermi-LAT and Multiwavelength Observations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64c5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64c5</guid>
 <content:encoded><![CDATA[
 <div> 脉冲星，伽马射线，周期振荡，双超大质量黑洞系统，多波段观测
-<br><br>总结:
+<br /><br />总结:
 本研究使用了15年的Fermi天文台观测数据，发现了PG 1553+113类星体的伽马射线流量存在2.1年周期振荡。观测数据显示了大于7个周期的伽马射线调制，具有4σ的显著性。光学和射电光变曲线与伽马射线调制表现出明显的相关性，可能有不同的时间滞后。研究指出，这种伽马射线的周期性可能来源于一个双超大质量黑洞系统，其中一个黑洞的质量比较大，产生周期性的星体吸积流，影响喷流的物质和能量。其他可能的天体物理情景包括不稳定性、盘和喷流的进动、自转或章动，以及处于极坐标轨道的大质量星体或中等质量黑洞的扰动。 <div>
 A 2.1 yr periodic oscillation of the gamma-ray flux from the blazar PG 1553+113 has previously been tentatively identified in ∼7 yr of data from the Fermi Large Area Telescope. After 15 yr of Fermi sky-survey observations, doubling the total time range, we report >7 cycle gamma-ray modulation with an estimated significance of 4σ against stochastic red noise. Independent determinations of oscillation period and phase in the earlier and the new data are in close agreement (chance probability <0.01). Pulse timing over the full light curve is also consistent with a coherent periodicity. Multiwavelength new data from Swift X-Ray Telescope, Burst Alert Telescope, and UVOT, and from KAIT, Catalina Sky Survey, All-Sky Automated Survey for Supernovae, and Owens Valley Radio Observatory ground-based observatories as well as archival Rossi X-Ray Timing Explorer satellite-All Sky Monitor data, published optical data of Tuorla, and optical historical Harvard plates data are included in our work. Optical and radio light curves show clear correlations with the gamma-ray modulation, possibly with a nonconstant time lag for the radio flux. We interpret the gamma-ray periodicity as possibly arising from a pulsational accretion flow in a sub-parsec binary supermassive black hole system of elevated mass ratio, with orbital modulation of the supplied material and energy in the jet. Other astrophysical scenarios introduced include instabilities, disk and jet precession, rotation or nutation, and perturbations by massive stars or intermediate-mass black holes in polar orbit.
 ]]></content:encoded>
-
 <pubDate>2024-11-25T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,13 +52,12 @@ A 2.1 yr periodic oscillation of the gamma-ray flux from the blazar PG 1553+113 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7396</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7396</guid>
 <content:encoded><![CDATA[
-<div> 关键词: James Webb Space Telescope, MIRI, SMILES, infrared, extragalactic survey<br>
-<br>
-总结:<br>
+<div> 关键词: James Webb Space Telescope, MIRI, SMILES, infrared, extragalactic survey<br />
+<br />
+总结:<br />
 本文介绍了Systematic Mid-infrared Instrument (MIRI) Legacy Extragalactic Survey (SMILES)，这是一项利用James Webb Space Telescope拍摄的八波段MIRI调查，并在GOODS-S/HUDF区域进行近红外光谱仪的后续研究的项目。SMILES利用MIRI的连续覆盖面积从5.6到25.5μm，极大地扩展了我们对被遮挡的宇宙的理解。文章还介绍了提供的初步数据，包括八个MIRI成像拼接图和一个5-25.5μm的光度目录。SMILES的研究结果将极大地拓展我们对被遮挡的宇宙的认识。 <div>
 The James Webb Space Telescope is revolutionizing our view of the Universe through unprecedented sensitivity and resolution in the infrared, with some of the largest gains realized at its longest wavelengths. We present the Systematic Mid-infrared Instrument (MIRI) Legacy Extragalactic Survey (SMILES), an eight-band MIRI survey with Near-Infrared Spectrograph spectroscopic follow-up in the GOODS-S/HUDF region. SMILES takes full advantage of MIRI’s continuous coverage from 5.6 to 25.5 μm over an ∼34 arcmin2 area to greatly expand our understanding of the obscured Universe up to cosmic noon and beyond. This work, together with a companion paper by G. Rieke et al., covers the SMILES science drivers and technical design, early results with SMILES, data reduction, photometric catalog creation, and the first data release. As part of the discussion on early results, we additionally present a high-level science demonstration on how MIRI’s wavelength coverage and resolution will advance our understanding of cosmic dust using the full range of polycyclic aromatic hydrocarbon emission features from 3.3 to 18 μm. Using custom background subtraction, we produce robust reductions of the MIRI imaging that maximize the depths reached with our modest exposure times (∼0.6−2.2 ks per filter). Included in our initial data release are (1) eight MIRI imaging mosaics reaching depths of 0.2−18 μJy (5σ) and (2) a 5−25.5 μm photometric catalog with over 3000 sources. Building upon the rich legacy of extensive photometric and spectroscopy coverage of GOODS-S/HUDF from the X-ray to the radio, SMILES greatly expands our investigative power in understanding the obscured Universe.
 ]]></content:encoded>
-
 <pubDate>2024-11-25T00:00:00Z</pubDate>
 </item>
 <item>
@@ -37,12 +66,11 @@ The James Webb Space Telescope is revolutionizing our view of the Universe throu
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f4b</guid>
 <content:encoded><![CDATA[
 <div> 联系双星，光变曲线，频谱分析，长期变化，物理参数
-<br>
+<br />
 这篇论文通过对八个全食接触双星进行光度和光谱研究。使用里昂大学发展的光谱分析软件分析了光谱数据，并使用PHOEBE和马尔科夫链蒙特卡洛采样对光度数据进行了分析。研究中使用了两种方法来计算MCMC的初始值：一种是我们提出的新方法，用于模拟不带斑点的光变曲线，而另一种是遗传算法，用于确定带斑点的物理参数。研究结果表明，这八个目标都是接触双星，质量比小于0.25。其中四个系统呈现了O'Connell效应，在主要组件上添加一个黑斑可以得到理想的拟合。与此同时，发现两个系统是浅接触双星，而其余六个是中等接触双星。另外，对这八颗食双星进行了O-C分析，发现其中七颗呈现出长期变化。其中四颗显示出轨道周期的长期减小趋势，而其他三颗显示出轨道周期的长期增加趋势，还有两个目标呈现周期性变化。周期的减小可能是由于质量从更大的组件转移到更小的组件，而增加可能是由于质量转移方向的相反。此外，还计算了这八个系统的绝对物理参数、轨道角动量、初始质量和年龄，并分析了它们的质量-光度和质量-半径分布。 
-<br><br>总结: 这项研究表明了八颗全食接触双星的特征，并发现了它们的长期变化规律，从而得出了它们的物理参数和质量-光度、质量-半径分布。 <div>
+<br /><br />总结: 这项研究表明了八颗全食接触双星的特征，并发现了它们的长期变化规律，从而得出了它们的物理参数和质量-光度、质量-半径分布。 <div>
 This paper selected eight totally eclipsing contact binaries for photometric and spectroscopic studies. Spectral data were analyzed by University of Lyon Spectroscopic analysis Software, and photometric data were analyzed using PHOEBE through Markov Chain Monte Carlo (MCMC) sampling. We used two methods to calculate the initial values for running MCMC: one method is a new approach proposed by ourselves to model light curves without spots, while the other method is the genetic algorithm, which can determine physical parameters with spots. The results imply that these eight targets are all contact binary stars with a small mass ratio below 0.25. There are four systems exhibiting the O’Connell effect. By adding a dark spot on the primary component, the ideal fitting can be obtained. Meanwhile, it was found that two systems are shallow contact binaries, while the remaining six are moderate contact binaries. An O − C analysis of the eight eclipsing binary stars revealed that seven of them exhibit long-term changes. Four of them display a long-term decreasing trend in orbital period, while the other three show a long-term increasing trend, and two targets exhibit periodic variations. A decrease in period may be caused by the transfer of matter from the more massive component to the less massive component, while an increase in period may be caused by transfer in the opposite way. The absolute physical parameters, orbital angular momentum, initial masses, and ages of these eight systems were calculated. Additionally, their mass–luminosity and mass–radius distributions were analyzed.
 ]]></content:encoded>
-
 <pubDate>2024-11-25T00:00:00Z</pubDate>
 </item>
 <item>
@@ -52,13 +80,11 @@ This paper selected eight totally eclipsing contact binaries for photometric and
 <content:encoded><![CDATA[
 <div> 关键词: Milky Way, ionization corrections, metallicity estimates, Galactic fountain, feedback processes
 总结:
-银河系的盘-晕界面（DHI）是一个复杂的区域，包含一系列具有不同起源的气态结构。研究通过精确测量电子柱密度来限制中性氢柱密度的电离修正，并使用离子化金属线吸收和电离校正的总氢柱密度进行详细的光电离建模，从而推断了DHI的金属丰度。研究发现，DHI中的金属丰度变化很大，暗示了其中存在多种气体结构。此外，还估算了DHI离子化云的流入和流出时间尺度，并探测到了一个超太阳金属丰度的流入云，支持了银河系喷泉模型，但也发现了至少一个低金属丰度的流出云，这对于银河系喷泉和反馈模型提出了挑战。<br><br> <div>
+银河系的盘-晕界面（DHI）是一个复杂的区域，包含一系列具有不同起源的气态结构。研究通过精确测量电子柱密度来限制中性氢柱密度的电离修正，并使用离子化金属线吸收和电离校正的总氢柱密度进行详细的光电离建模，从而推断了DHI的金属丰度。研究发现，DHI中的金属丰度变化很大，暗示了其中存在多种气体结构。此外，还估算了DHI离子化云的流入和流出时间尺度，并探测到了一个超太阳金属丰度的流入云，支持了银河系喷泉模型，但也发现了至少一个低金属丰度的流出云，这对于银河系喷泉和反馈模型提出了挑战。<br /><br /> <div>
 Metals in the diffuse, ionized gas at the boundary between the Milky Way’s interstellar medium (ISM) and circumgalactic medium, known as the disk–halo interface (DHI), are valuable tracers of the feedback processes that drive the Galactic fountain. However, metallicity measurements in this region are challenging due to obscuration by the Milky Way ISM and uncertain ionization corrections that affect the total hydrogen column density. In this work, we constrain ionization corrections to neutral hydrogen column densities using precisely measured electron column densities from the dispersion measures of pulsars that lie in the same globular clusters as UV-bright targets with high-resolution absorption spectroscopy. We address the blending of absorption lines with the ISM by jointly fitting Voigt profiles to all absorption components. We present our metallicity estimates for the DHI of the Milky Way based on detailed photoionization modeling of the absorption from ionized metal lines and ionization-corrected total hydrogen columns. Generally, the gas clouds show a large scatter in metallicity, ranging between 0.04 and 3.2 Z⊙, implying that the DHI consists of a mixture of gaseous structures having multiple origins. We estimate the inflow and outflow timescales of the DHI ionized clouds to be 6–35 Myr. We report the detection of an infalling cloud with supersolar metallicity that suggests a Galactic fountain mechanism, whereas at least one low-metallicity outflowing cloud (Z < 0.1 Z⊙) poses a challenge for Galactic fountain and feedback models.
 ]]></content:encoded>
-
 <pubDate>2024-11-25T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Assessing Core-powered Mass Loss in the Context of Early Boil-off: Minimal Long-lived Mass Loss for the Sub-Neptune Population</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8567</link>
@@ -11809,55 +11835,6 @@ The LHS 6343 system consists of a resolved M-dwarf binary with an evolved, negli
 Millisecond pulsars are subject to accelerations in globular clusters (GCs) that manifest themselves in both the first and second spin period time derivatives, and can be used to explore the mass distribution of the potentials they inhabit. Here we report on over 20 yr of pulsar timing observations of five millisecond radio pulsars in the core of the core-collapse GC NGC 6752 with the Parkes (Murriyang) and MeerKAT radio telescopes, which have allowed us to measure the proper motions, positions, and first and second time derivatives of the pulsars. The pulsar timing parameters indicate that all the pulsars in the core experience accelerations and jerks that can be explained only if an amount of nonluminous mass of at least 2.56 × 103M⊙ is present in the core of NGC 6752. On the other hand, our studies highly disfavor the presence of an intermediate-mass black hole at the center of the cluster, with a mass equal to or greater than ∼3000M⊙.
 ]]></content:encoded>
 <pubDate>2024-09-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Studying Binary Formation under Dynamical Friction Using Hill’s Problem</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5cf2</guid>
-<content:encoded><![CDATA[
-<div> 黑洞、动摩擦、双星形成、星际气体、模拟研究
-总结:
-本文主要研究星际气体和星团的动摩擦对黑洞双星形成的影响。首先提出了简单的无量纲摩擦系数来近似描述动摩擦的影响，进行了大量的模拟研究，发现在摩擦较弱时，局部双星形成速率与摩擦系数成线性关系。这些研究结果对于不同尺度上的双星形成具有普遍适用性，如星团中的中等质量黑洞、星际盘中的行星体等。 <div>
-Using the equations of motion from Hill’s problem, with added accelerations for different forms of dynamical friction, we provide the (to-date) broadest scale-free study of friction-driven binary formation in gaseous disks and stellar clusters. We focus mainly on binary formation between stellar-mass black holes in active galactic nuclei (AGNs), considering both gas dynamical friction (GDF) from AGN disks and stellar dynamical friction (SDF) from the nuclear star cluster. We first find simple, dimensionless friction coefficients that approximate the effects of standard models for GDF and SDF. We perform extensive simulations of Hill’s problem under such friction, and we present a picture of binary formation through encounters between single stars on nearby orbits, as a function of friction parameter, eccentricity, and inclination. Notably, we find that the local binary formation rate is a linear function of the friction coefficient so long as the friction is weak. Due to the dimensionless nature of our model problem, our findings are generalizable to binary formation at all scales (e.g., intermediate-mass black holes in a star cluster, planetesimals in a gaseous disk).
-]]></content:encoded>
-<pubDate>2024-09-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Optical Variability Properties of Southern TESS Blazars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f87</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad4f87</guid>
-<content:encoded><![CDATA[
-<div> 光变，高精度，BL Lacertae 对象，flat spectrum radio quasars，TESS satellite
-<br />
-该研究利用TESS卫星的高频率、高精度的光变曲线对南天67个类星体进行了研究。研究提供了描述性的通量统计、功率谱密度(PSD)模型参数和特征变化时间尺度。结果显示，仅有15个BL Lacertae对象和18个平谱射电类星体表现出统计学上显著的变化。研究表明，在这一样本中，BL Lacertae对象和平谱射电类星体的超额方差或均方根散射之间没有显著差异。光变曲线中显示出 ∼69% 的样本具有线性均方根–通量关系，其中 ∼20% 显示出强相关性。另外，这些物体的特征时间尺度范围从 ∼0.8 天到 8 天不等，与光学变化起源于射流的观测结果一致。
-<br /><br />总结: 该研究利用TESS卫星的高频率、高精度的光变曲线对南天67个类星体进行了研究。结果显示只有少部分类星体表现出统计学上显著的变化，而在样本中BL Lacertae对象和平谱射电类星体的超额方差或均方根散射之间没有显著差异。此外，研究还发现 ∼69% 的样本具有线性均方根–通量关系，其中 ∼20% 显示出强相关性。最短的变化时间尺度范围从分钟到周，而特征时间尺度范围从 ∼0.8 天到 8 天不等，与光学变化起源于射流的观测结果一致。 <div>
-We present a study of high-cadence, high-precision optical light curves from the TESS satellite of 67 blazars in the southern sky. We provide descriptive flux statistics, power spectral density (PSD) model parameters, and characteristic variability timescales. We find that only 15 BL Lacertae objects (BLLs) and 18 flat spectrum radio quasars (FSRQs) from the initial 26 and 41, respectively, exhibit statistically significant variability. We employ an adapted power spectral response method to test the goodness of fit for the PSD function to three power-law variant models. From our best-fitting description of the PSD, we extract the high-frequency power-spectral slopes, and if present, determine the significant bend or break in the model to identify characteristic timescales. We find no significant difference in the excess variance or rms scatter between blazar subpopulations. We identify a linear rms–flux relation in ∼69% of our sample, in which ∼20% show a strong correlation. We find that both subpopulations of blazars show power spectral slopes of α ∼ 2 in which a broken power-law best fits five BLLs and six FSRQs and a bending power-law best fits one BLL and five FSRQs. The shortest timescales of variability in each light-curve range widely from minutes to weeks. Additionally, these objects’ characteristic timescales range from ∼0.8 to 8 days, consistent with optical variability originating in the jet.
-]]></content:encoded>
-<pubDate>2024-09-10T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Kappa-tail Technique: Modeling and Application to Solar Energetic Particles Observed by Parker Solar Probe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e72</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e72</guid>
-<content:encoded><![CDATA[
-<div> 关键词: kappa-tail fitting, power-law tails, energy flux spectra, thermodynamics, solar energetic particle
-
-这项研究开发了kappa尾部拟合技术，该技术分析了分布和能量通量谱的幂律尾部的观测，并将它们与kappa分布的理论建模相连接，以确定所研究的太空等离子体的热力学性质。文章通过构建数学公式、证明其对确定观测到的幂律是否与kappa分布相关的重要领先地位，并利用典型输入等离子体参数的伪观测验证了该技术。然后，作者将该技术应用于案例研究，通过确定2021年4月17日帕克太阳探测器（PSP）/太阳科学探测仪器套件在SEP事件上观测到的太阳高能粒子（SEP）质子的热力学性质。结果显示SEP温度约为1MeV，密度约为5×10^-7cm^-3。<br /><br />总结: 该研究开发了kappa尾部拟合技术，通过分析幂律尾部的观测数据并将其与理论模型相连接，确定了空间等离子体的热力学性质。文章还验证了这一技术的有效性，并在太阳高能粒子事件上应用，得出了有关SEP质子热力学性质的结果。 <div>
-We develop the kappa-tail fitting technique, which analyzes observations of power-law tails of distributions and energy flux spectra, and connects them to theoretical modeling of kappa distributions, to determine the thermodynamics of the examined space plasma. In particular, we (i) construct the associated mathematical formulation; (ii) prove its decisive lead for determining whether the observed power-law is associated with kappa distributions; and (iii) provide a validation of the technique using pseudo-observations of typical input plasma parameters. Then, we apply this technique to a case study by determining the thermodynamics of solar energetic particle (SEP) protons, for an SEP event observed on 2021 April 17, by the Parker Solar Probe (PSP)/Integrated Science Investigation of the Sun instrument suite on board PSP. The results show SEP temperatures and densities of the order of ∼1 MeV and ∼5 × 10−7 cm−3, respectively.
-]]></content:encoded>
-<pubDate>2024-09-10T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Characterizing Solar Center-to-limb Radial-velocity Variability with SDO</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad445a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad445a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Stellar photospheric inhomogeneities, radial-velocity method, Solar Dynamics Observatory, center-to-limb variability, sunspots<br />
-总结: 
-本研究分析了太阳表面的不均匀性对径向速度的影响，发现各种不同的太阳表面特征会对观测到的速度产生复杂的变化，包括与边缘角度相关的减小。通过对Solar Dynamics Observatory的观测数据进行分类和分析，发现太阳黑子的本影和半影、宁静太阳的磁流体细胞、磁网络和日珥等特征都表现出不同的速度变化特征。研究强调了理解这些特征对径向速度的影响的重要性，以及将其视为天体物理信号而非简单的噪声过程。这些发现对于使用径向速度方法探测类太阳恒星的地球质量行星具有重要意义。 <br /> <div>
-Stellar photospheric inhomogeneities are a significant source of noise, which currently precludes the discovery of Earth-mass planets orbiting Sun-like stars with the radial-velocity (RV) method. To complement several previous studies that have used ground- and spaced-based facilities to characterize the RV of the Sun, here we characterize the center-to-limb variability (CLV) of solar RVs arising from various solar-surface inhomogeneities observed by the Solar Dynamics Observatory (SDO)/Helioseismic Magnetic Imager and SDO/Atmospheric Imaging Assembly. By using various SDO observables to classify pixels and calculate line-of-sight velocities as a function of pixel classification and limb angle, we show that each identified feature type, including the umbrae and penumbrae of sunspots, quiet-Sun magnetoconvective cells, magnetic network, and plage, exhibit distinct and complex CLV signatures, including a notable limb-angle dependence in the observed suppression of convective blueshift for magnetically active regions. We discuss the observed distributions of velocities by identified region type and limb angle, offer interpretations of the physical phenomena that shape these distributions, and emphasize the need to understand the RV signatures of these regions as astrophysical signals, rather than simple (un)correlated noise processes.
-]]></content:encoded>
-<pubDate>2024-09-10T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
