@@ -4,6 +4,210 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Assessing Core-powered Mass Loss in the Context of Early Boil-off: Minimal Long-lived Mass Loss for the Sub-Neptune Population</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8567</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8567</guid>
+<content:encoded><![CDATA[
+<div> Python, sub-Neptune, evolution model, boil-off, core-powered escape
+总结:
+本文开发了基于Python的先进次海王星演化模型，同时考虑了幼年时期≤1 Myr的形成后沸腾和来自内部冷却的长寿命核动力损失(∼Gyr)。我们研究了初始H/He熵、核发光、能量对流、辐射大气结构以及过渡到X射线和紫外驱动的质量损失阶段在行星质量损失和热演化方面的作用。特别着重于H/He包层的再平衡过程，包括推动流体动力风的能源和能量传输时间尺度，我们发现沸腾和核动力逃逸主要由恒星总辐射驱动。我们进一步发现，沸腾和核动力逃逸与热演化脱节。我们发现，考虑初始H/He质量分数和初始熵的沸腾阶段后，后续的核动力逃逸对小行星的统计特征影响微乎其微，因为它最多只能去掉0.1%的H/He质量分数。我们直接将数值结果与先前关于个体演化轨迹和小行星族群的分析核动力质量损失建模的工作进行了比较。我们检查了先前研究中做出的一些假设，这些假设与我们的发现相比造成了显著差异。我们发现，虽然沸腾能够完全从一个高辐射(≥100 F⊕)、低质量核心(Mc ≤ 4 M⊕)的行星上剥离气态包层，但无法单独形成观测到的小行星族群中看到的明显半径差。 <div>
+We develop a Python-based state-of-the-art sub-Neptune evolution model that incorporates both the post-formation boil-off at young ages ≤1 Myr and long-lived core-powered mass loss (∼Gyr) from interior cooling. We investigate the roles of initial H/He entropy, core luminosity, energy advection, radiative atmospheric structure, and the transition to an X-ray- and ultraviolet-driven mass-loss phase, with an eye on relevant timescales for planetary mass loss and thermal evolution. With particular attention to the re-equilibration process of the H/He envelope, including the energy sources that fuel the hydrodynamic wind, and energy transport timescales, we find that boil-off and core-powered escape are primarily driven by stellar bolometric radiation. We further find that both boil-off and core-powered escape are decoupled from the thermal evolution. We show that, with a boil-off phase that accounts for the initial H/He mass fraction and initial entropy, post-boil-off core-powered escape has an insignificant influence on the demographics of small planets, as it is only able to remove at most 0.1% of the H/He mass fraction. Our numerical results are directly compared to previous work on analytical core-powered mass-loss modeling for individual evolutionary trajectories and populations of small planets. We examine a number of assumptions made in previous studies that cause significant differences compared to our findings. We find that boil-off, though able to completely strip the gaseous envelope from a highly irradiated (F ≥ 100 F⊕) planet that has a low-mass core (Mc ≤ 4 M⊕), cannot by itself form a pronounced radius gap as is seen in the observed population.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Interaction of the Prominence Plasma within the Magnetic Cloud of an Interplanetary Coronal Mass Ejection with the Earth’s Bow Shock</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8579</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8579</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 磁云, 行星际日冕物质抛射, 地球鞘层, 离子, 空间天气
+
+磁云是太阳风中磁场强度很高的一种结构，本研究探讨了2023年4月24日行星际日冕物质抛射事件中磁云携带密度结构与地球鞘层的相互作用。磁云中观察到了 冷质子和重离子（比如阿尔法粒子和带电氦离子）的丰度增加。鞘层下游的等离子体呈现不规则的压缩模式，这可能是由于重离子的存在。重离子携带了上游流动能的相当大比例，然而，由于它们不同的质荷比和刚度，它们在鞘层的电磁和静电波中受到的散射比较少。我们发现，虽然离子热能只是背景磁能的一小部分，然而增加的离子通量会减小该区域的特征波速。因此，我们观察到了一个不稳定的鞘层过渡态，其中等离子体流动在鞘层上下游都是超阿尔芬速度。我们的研究结果有助于理解这种事件对强烈空间天气的影响。
+
+<br><br>总结: 
+1. 磁云是磁场强度很高的太阳风结构。
+2. 2023年4月24日行星际日冕物质抛射事件中磁云与地球鞘层的相互作用。
+3. 观察到了磁云中冷质子和重离子的丰度增加。
+4. 鞘层下游的等离子体呈现不规则的压缩模式，可能与重离子的存在有关。
+5. 研究有助于理解这种事件对强烈空间天气的影响。 <div>
+The magnetic cloud within an interplanetary coronal mass ejection (ICME) is characterized by high magnetic field intensities. In this study, we investigate the interaction of a magnetic cloud carrying a density structure with the Earth’s bow shock during the ICME event on 2023 April 24. Elevated abundances of cold protons and heavier ions, namely, alpha particles and singly charged helium ions, associated with the prominence plasma are observed within this structure. The plasma downstream of the bow shock exhibits an irregular compression pattern, which could be due to the presence of heavy ions. Heavy ions carry a significant fraction of the upstream flow energy; however, due to their different mass-per-charge ratio and rigidity, they are less scattered by the electromagnetic and electrostatic waves at the shock. We find that downstream of the shock, while the ion thermal energy is only a small fraction of the background magnetic energy, nevertheless increased ion fluxes reduce the characteristic wave speeds in that region. As such, we observe a transition state of an unstable bow shock in which the plasma flow is super Alfvénic both upstream and downstream of the bow shock. Our findings help with the understanding of the intense space weather impacts of such events.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>JWST Resolves Collision-induced Absorption Features in White Dwarfs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad863b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad863b</guid>
+<content:encoded><![CDATA[
+<div> LHS 3250, WD J1922+0233, LHS 1126, Infrared-faint white dwarfs, James Webb Space Telescope
+<br>
+红外微弱的白矮星通常被认为是由于H2-He的碰撞诱导吸收引起的红外光谱缺失。这篇文章使用詹姆斯·韦伯空间望远镜对LHS 3250、WD J1922+0233和LHS 1126进行了近红外和中红外光谱观测。观测结果表明，LHS 3250在2.4微米处观测到了一个意外的小的流量峰，而不是预期的H2-He吸收。WD J1922+0233在2.4微米处观测到了预期强烈的吸收特征，但是在这个吸收带内部观测到了意想不到的窄的发射特征。LHS 1126在中红外没有观测到H2-He的吸收特征，并且在中红外呈现出λ^-2的功率律。这些发现表明IR微弱的白矮星可能比先前认为的温暖且更为庞大，这需要进一步的JWST观测来加以确认。此外，研究探讨了这两颗星体中意想不到的发射特征的可能解释，温度反转在此被认为是一个有希望的假设。这些发现可能影响它们的光度拟合，强调了进一步的JWST观测对这一现象的普遍性进行确认和改进大气模型的重要性。
+<br><br>总结:这篇文章观测了三颗红外微弱的白矮星的近红外和中红外光谱。观测结果显示，一颗白矮星出现了意外的小的流量峰，另一颗出现了窄的发射特征，还有一颗在中红外呈现出λ^-2的功率律。这些发现表明红外微弱的白矮星可能比先前认为的温暖且更为庞大。研究探讨了这两颗星体中意想不到的发射特征的可能解释，认为温度反转在此是一个有希望的假设。这些发现强调了进一步的观测对这一现象的普遍性进行确认和改进大气模型的重要性。 <div>
+Infrared-faint white dwarfs are cool white dwarfs exhibiting significant infrared flux deficits, most often attributed to collision-induced absorption (CIA) from H2–He in mixed hydrogen–helium atmospheres. We present James Webb Space Telescope (JWST) near- and mid-infrared spectra of three such objects using Near-Infrared Spectrograph (0.6–5.3 μm) and Mid-Infrared Instrument (5–14 μm): LHS 3250, WD J1922+0233, and LHS 1126. Surprisingly, for LHS 3250, we detect no H2–He CIA absorption at 2.4 μm, instead observing an unexpected small flux bump at this wavelength. WD J1922+0233 exhibits the anticipated strong absorption feature centered at 2.4 μm, but with an unexpected narrow emission-like feature inside this absorption band. LHS 1126 shows no CIA features and follows a λ−2 power law in the mid-infrared. LHS 1126's lack of CIA features suggests a very low hydrogen abundance, with its infrared flux depletion likely caused by He–He–He CIA. For LHS 3250 and WD J1922+0233, the absence of a 1.2 μm CIA feature in both stars argues against ultracool temperatures, supporting recent suggestions that infrared-faint (IR-faint) white dwarfs are warmer and more massive than previously thought. This conclusion is further solidified by Keck near-infrared spectroscopy of seven additional objects. We explore possible explanations for the unexpected emission-like features in both stars, and temperature inversions above the photosphere emerge as a promising hypothesis. Such inversions may be common among the IR-faint population, and since they significantly affect the infrared spectral energy distribution, this would impact their photometric fits. Further JWST observations are needed to confirm the prevalence of this phenomenon and guide the development of improved atmospheric models.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Further Study of Starspot Activity and Measurement of Differential Rotation for SZ Piscium</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad86bd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad86bd</guid>
+<content:encoded><![CDATA[
+<div> Doppler images, SZ Piscium, starspots, differential rotation, tertiary component<br>
+<br>
+该研究利用2014年至2018年的高分辨率光谱数据，对RS CVn型双星SZ Piscium (SZ Psc)的磁活跃K成分进行了九幅多普勒影像的展示。研究使用最小二乘去卷积（LSD）提取平均轮廓，重新构建表面图，并研究了K型次巨星的星斑、表面差分旋转以及三重星组件的吸收线。研究发现，K成分的星斑沿纬度和经度广泛分布，在相位0附近存在一个明显的极区非对称星斑，并且星斑在1个月的时间尺度内发生演变。通过交叉相关方法，确定了2017年11月至12月间相隔10天的星斑图，计算出K成分的表面差分旋转参数为Ωeq = 1.591 ± 0.002 rad day−1和ΔΩ = 0.035 ± 0.003 rad day−1。同时通过检测LSD轮廓中来自SZ Psc的三重星成分的吸收线，测量了双星系统和三重星成分的径向速度，得到了三重星成分的轨道周期为1530 ± 3天，质量为0.75 ± 0.06 M⊙。 <br><br>总结: 该研究利用高分辨率光谱数据对SZ Piscium的磁活跃K成分进行了多普勒影像展示，揭示了其表面星斑分布和演变，以及表面差分旋转参数，并确定了三重星成分的轨道周期和质量。 <div>
+We present a series of nine Doppler images of the magnetically active K component of the RS CVn-type binary SZ Piscium (SZ Psc), based on high-resolution spectroscopic data collected from 2014 to 2018. We apply least-squares deconvolution (LSD) to all spectra to extract the average profiles with high signal-to-noise ratios for Doppler imaging. The surface maps of the K subgiant show starspots widely distributed along its latitude and longitude. A prominent, nonaxisymmetric polar spot around phase 0 is revealed by all images with sufficient phase coverage, which may be a stable feature on the K component. The starspots evolve over a timescale of 1 month. We have determined the surface shear rate of the K component from starspot maps reconstructed 10 days apart in 2017 November–December through the cross-correlation method. The surface differential rotation parameters are Ωeq = 1.591 ± 0.002 rad day−1 and ΔΩ = 0.035 ± 0.003 rad day−1. The absorption lines contributed from the tertiary component of SZ Psc are detected in all LSD profiles, and we measure the radial velocity of the binary system and the tertiary component to derive an elliptical orbit with a period of 1530 ± 3 days and a mass of 0.75 ± 0.06 M⊙ for the tertiary component.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Radio Continuum Halos of Seven Nearby Large Galaxies Using uGMRT</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f2</guid>
+<content:encoded><![CDATA[
+<div> NGC 3344, NGC 3627, uGMRT, 0.4 GHz, radio observations
+<br>
+这篇文章报告了使用升级的巨型米波射电望远镜（uGMRT）进行的深度射电观测的结果。观测到了七个临近的大型星系，采用0.3–0.5 GHz接收机，角分辨率约为10″，实现的灵敏度范围约为15到50 μJy/beam−1，比先前在这些频率进行的观测低了约3–4个数量级。对于两个具有适度倾斜角的星系（NGC 3344和NGC 3627），首次观测到了显著的漫射辐射。在四个几乎边缘朝向的星系（NGC 3623、NGC 4096、NGC 4594和NGC 4631）中，垂直方向上探测到的射电晕在0.4 GHz的图像中明显比约1.5 GHz的观测结果更大。此外，在星系盘面上也检测到了明显更大的射电晕。用0.144、0.4和约1.5 GHz的图像制作了七个样本星系的光谱指数图，发现在星系晕区域的光谱呈陡峭变化，达到了约-1.5的数值。 
+<br><br>总结: 这篇文章报告了使用uGMRT进行的深度射电观测结果。观测到了七个临近的大型星系，发现了漫射辐射和射电晕，并制作了光谱指数图。 <div>
+We present the results of deep radio observations of seven nearby large galaxies observed using the upgraded Giant Metrewave Radio Telescope (uGMRT) 0.3–0.5 GHz receivers with an angular resolution of ∼10″. The achieved sensitivities of these observations range from ≈15 to 50 μJy beam−1, which is a factor of ≈3–4 lower than the previous observations at these frequencies. For two galaxies (NGC 3344 and NGC 3627) with moderate inclination angles, significant diffuse emissions are seen for the first time. The detected radio halos in the vertical direction are significantly larger in our 0.4 GHz maps compared to the observations at ∼1.5 GHz for four nearly edge-on galaxies—NGC 3623, NGC 4096, NGC 4594, and NGC 4631. For these four galaxies, significantly larger halos are also detected along the galaxy disk. For NGC 3623 and NGC 4594, we could detect elongated radio disks that were not seen before. We also present new uGMRT images of NGC 3344 and NGC 3623 at 1.3 GHz and a new VLA image of NGC 3627 at 1.5 GHz. We fitted an exponential function to the flux densities along different cross-cuts and found a significantly wider distribution at the 0.4 GHz uGMRT images compared to the high-frequency images at ∼1.5 GHz. Using maps at 0.144, 0.4, and ∼1.5 GHz, we made spectral index maps of the seven sample galaxies and found a steepening of the spectrum up to a value of ∼−1.5 in the halo regions of the galaxies.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Low-latitude Magnetic Flux Emergence on Rapidly Rotating Solar-type Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8881</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8881</guid>
+<content:encoded><![CDATA[
+<div> 高纬度星斑，快速旋转的恒星还显示低纬度斑点。流出模型预测在快速旋转恒星中磁通会朝向极向偏转，留下赤道附近没有斑点的带状区域。文章研究了一个太阳型恒星在底部对流层附近的磁通管，假设弱管爆炸会增强磁场。研究发现，需要高度超临界的磁场强度才能在快速旋转的恒星中形成活跃区，这需要在对流区内形成100 kG管道的爆炸。总结：高纬度星斑；低纬度斑点；磁通朝极向偏转；磁场强度；对流区内管道爆炸。 <div>
+Besides a dense coverage of their high latitudes by starspots, rapidly rotating cool stars also display low-latitude spots in Doppler images, although generally with lower coverage. In contrast, flux emergence models of fast-rotating stars predict strong poleward deflection of radially rising magnetic flux as the Coriolis effect dominates over buoyancy, leaving a spot-free band around the equator. To resolve this discrepancy, we consider a flux tube near the base of the convection zone in a solar-type star rotating 8 times faster than the Sun, assuming field intensification by weak-tube explosions. For the intensification to continue into the buoyancy-dominated regime, the upper convection zone must have a significantly steeper temperature gradient than in the Sun by a factor that is comparable with that found in 3D simulations of rotating convection. Within the hypothesis that stellar active regions stem from the base of the convection zone, flux emergence between the equator and 20° latitudes requires highly supercritical field strengths of up to 500 kG in rapidly rotating stars. These field strengths require explosions of 100 kG tubes within the convection zone, compatible with reasonable values of the superadiabatic temperature gradient associated with the more rapid rotation.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Broadband Spectral Modeling of the M87 Nucleus</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88e9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88e9</guid>
+<content:encoded><![CDATA[
+<div> 黑洞，ADAF模型，GRMHD模拟，M87星系核，光谱能量分布
+
+ADAF模型和GRMHD模拟是用来研究弱引力黑洞系统产生的光谱的方法。研究发现，这两种方法在流参数的分布和磁场的径向分布上存在显著差异。对M87星系核的光谱能量分布进行应用，发现标准的ADAF模型无法解释观测数据，而基于GRMHD模拟的光谱与观测数据符合得更好。在模型中，假设BH自旋为0.9，观测到的辐射主要来自距离BH 4个引力半径的盘区域。此解决方案中，辐射可很好地解释毫米波至紫外线范围内的谱线，而Compton组分无法解释观测到的X射线谱。取而代之的是，如果电子具有大约5％的非热成分，那么X射线谱就可以由辐射的高能尾部来解释。<br><br>总结: 这篇文章研究了ADAF模型和GRMHD模拟对于弱引力黑洞系统光谱的产生，发现两种方法在流参数分布和磁场径向分布方面存在显著差异。应用这些模型到M87星系核的光谱能量分布发现，ADAF模型无法解释观测数据，而GRMHD模拟的光谱与观测数据符合得更好。在BH自旋为0.9的模型中，辐射主要来自距离BH 4个引力半径的盘区域。Compton组分无法解释观测到的X射线谱，而X射线谱可以由辐射的高能尾部来解释，若电子具有大约5％的非热成分。 <div>
+We study spectra produced by weakly accreting black hole (BH) systems using the semianalytic advection-dominated accretion flow (ADAF) model and the general-relativistic magnetohydrodynamic (GRMHD) simulation. We find significant differences between these two approaches related to a wider spread of the flow parameters as well as a much steeper radial distribution of the magnetic field in the latter. We apply these spectral models to the broadband spectral energy distribution (SED) of the nucleus of the M87 galaxy. The standard (in particular, 1D) formulation of the ADAF model does not allow us to explain it; previous claims that this model reproduces the observed SED suffer from an inaccurate treatment of the Compton process. The spectra based on GRMHD simulation are in a much better agreement with the observed data. In our GRMHD model, in which we assumed the BH spin a = 0.9, the bulk of radiation observed between the millimeter and the X-ray range is produced in the disk area within 4 gravitational radii from the BH. In this solution, the synchrotron component easily reproduces the spectral data between the millimeter and the UV range, and the Compton component does not violate the X-rays constraints, for yr−1 and a relatively strong magnetic field, with the plasma β ∼ 1 in the region where radiation is produced. However, the Compton component cannot explain the observed X-ray spectrum. Instead, the X-ray spectrum can be reproduced by a high-energy tail of the synchrotron spectrum if electrons have a hybrid energy distribution with a ∼5% nonthermal component.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>SN 1885A and Supernova Remnants in the Centre of M31 with LOFAR</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad890f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad890f</guid>
+<content:encoded><![CDATA[
+<div> LOFAR, M31, supernova remnants, radio spectral indices, interstellar medium
+<br><br>总结:
+本研究利用LOFAR在150 MHz频率下对M31中心进行了观测，并清晰地探测到了三个超新星遗迹。通过对这些遗迹的表征，包括与其他射电和X射线数据的比较，我们得出了它们的详细特征。另外，我们还对历史上的SN 1885A进行了上限估算，发现即使在低频率的150 MHz下也未探测到。分析模型表明，SN 1885A将至少在未来几个世纪内保持自由膨胀阶段。我们还对SN 1885A的星际介质密度进行了估算，结果显示介质密度不大于0.04 cm−3，并且超新星喷发密度的分布不会比∝r−9（平均值）更浅。此外，我们在X射线观测中发现了2.6σ的临时探测，分析结果表明非热辐射预计将主导SN 1885A的辐射。通过与G1.9+0.3的比较，我们发现G1.9+0.3的不对称性使得其比SN 1885A更有效地产生射电和X射线辐射。对于该地区的其他遗迹Braun 80、95和101，我们估计它们的年龄分别为5200、8100和13,100年，并且冲击速度分别为1150、880和660 km s−1。基于这些结果，我们推测M31中心0.5 kpc × 0.6 kpc区域的超新星速率至少为约3000年一次。最后，我们对遗迹的射电谱指数进行了估计，结果分别为−0.66 ± 0.05、−0.37 ± 0.03和−0.50 ± 0.03，与先前研究相当吻合。 <div>
+We present the first LOFAR image of the center of M31 at a frequency of 150 MHz. We clearly detect three supernova remnants, which, along with archival VLA data at 3 GHz and other published radio and X-ray data, allows us to characterize them in detail. Our observations also allow us to obtain upper limits of the historical SN 1885A, which is undetected even at a low frequency of 150 MHz. From analytical modeling, we find that SN 1885A will stay in its free-expansion phase for at least another couple of centuries. We find an upper limit of nH ≲ 0.04 cm−3 for the interstellar medium of SN 1885A, and that the SN ejecta density is not shallower than ∝r−9 (on average). From the 2.6σ tentative detection in X-ray, our analysis shows that nonthermal emission is expected to dominate the SN 1885A emission. Comparing our results with those on G1.9+0.3, we find that it is likely that the asymmetries in G1.9+0.3 make it a more efficient radio and X-ray emitter than SN 1885A. For Braun 80, 95, and 101, the other remnants in this region, we estimate ages of 5200, 8100, and 13,100 yr, and shock speeds of 1150, 880, and 660 km s−1, respectively. Based on this, the supernova rate in the central 0.5 kpc × 0.6 kpc of M31 is at least one per ∼3000 yr. We estimate radio spectral indices of −0.66 ± 0.05, −0.37 ± 0.03, and −0.50 ± 0.03 for the remnants, respectively, which match fairly well with previous studies.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Characterizing the Nanohertz Gravitational Wave Background Using a t-process Power Spectral Density</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a60</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a60</guid>
+<content:encoded><![CDATA[
+<div> 脉冲定时阵列；低频引力波；超大质量黑洞双星；功率谱密度；模拟数据；
+
+总结:
+本文研究了使用t-process PSD来模拟引力波背景，证明了它可以准确恢复具有偏离幂律的PSD。研究发现，随着时间数据集的增加和脉冲星的增多，脉冲定时阵列对GWB的灵敏度将提高，从而可以精确测量GWB的PSD并研究产生它的源。 <div>
+Pulsar timing arrays (PTAs) are sensitive to low-frequency gravitational waves (GWs), which induce correlated changes in millisecond pulsars’ timing residuals. PTA collaborations around the world have recently announced evidence of a nanohertz gravitational wave background (GWB), which may be produced by a population of supermassive black hole binaries (SMBHBs). The GWB is often modeled as following a power-law power spectral density (PSD); however, a GWB produced by a cosmological population of SMBHBs is expected to have a more complex power spectrum due to the discrete nature of the sources. In this paper, we investigate using a t-process PSD to model the GWB, which allows us to fit for both the underlying power-law amplitude and spectral index as well as deviations from that power law, which may be produced by individual nearby binaries. We create simulated data sets based on the properties of the NANOGrav 15 yr data set, and we demonstrate that the t-process PSD can accurately recover the PSD when deviations from a power law are present. With longer timed data sets and more pulsars, we expect the sensitivity of our PTAs to improve, which will allow us to precisely measure the PSD of the GWB and study the sources producing it.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Disk Reverberation Mapping of the Lensed Quasar Q0957+561</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1a</guid>
+<content:encoded><![CDATA[
+<div> Lens, Quasar, Microlensing, Time Lags, Accretion Physics
+<br><br>总结:
+这篇文章讨论了利用透镜星系中的类星体进行微引力透镜观测，以有效探测类星体的聚积物理。研究人员通过微引力透镜观测可以约束类星体聚积盘的半光半径，结合时间滞后测量结果，首次估计了驱动波段间时间滞后和盘发射交叉相关性的物理过程的传播速度。他们针对研究充分的透镜类星体Q0957+561进行了盘回响映射研究，测量了 Zwicky Transient Facility 的 g 和 r 波段的交叉相关性；结果显示 g 的变化在静止坐标系中领先于 r 的变化 6.4 ± 2.6 天。结合现有文献中的半光半径，研究人员发现变异机制的传播速度应为光速的一个倍数。他们还讨论了这一结果的可能影响，并指出类似研究可通过利用遗产空间与时空观测来应用于其他透镜类星体。 <div>
+The measurement of continuum time lags in lensed quasars can effectively probe the accretion physics of quasars. This is because microlensing observations of lensed quasars can provide constraints on the half-light radii of quasar accretion disks. By combining the microlensing results with time lag measurements, one can, for the first time, estimate the propagation velocity of the physical process that drives interband time lags and cross correlations among disk emission (i.e., in UV/optical bands). In this study, we perform the disk reverberation mapping study for the well-studied lensed quasar, Q0957+561. The cross correlation between the Zwicky Transient Facility g and r bands was measured; the g variations lead the r ones by 6.4 ± 2.6 days in the rest frame. In combination with the half-light radius from the existing literature, we find that the propagation velocity of the variability mechanism should be times the speed of light. We discuss the possible outcomes of this result. Similar studies can be applied to other lensed quasars by utilizing the Legacy Survey of Space and Time observations.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Orbital-period Changes of Low-mass X-Ray Binaries Driven by Magnetic Braking</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b48</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b48</guid>
+<content:encoded><![CDATA[
+
+Magnetic braking (MB) plays an important role in driving the evolution of low-mass X-ray binaries (LMXBs). The modified MB prescription, the convection and rotation boosted (CARB) model, is very successful in reproducing the detected mass-transfer rates of persistent neutron star (NS) LMXBs. In this work, we investigate whether the CARB MB prescription could account for the formation and evolution of some NS and black hole (BH) LMXBs with an observed orbital-period derivative. Using the MESA code, we perform a detailed binary evolution model for six NS and three BH LMXBs. Our simulations find that the CARB MB prescription can successfully reproduce the observed donor-star masses, orbital periods, and period derivatives of four NS LMXBs and one BH LMXB. Our calculated effective temperatures are in good agreement with the detected spectral types of two NS LMXBs and one BH LMXB. However, the standard MB model makes it difficult to produce the observed period derivatives of those LMXBs experiencing a rapid orbital shrinkage or expansion.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Slope of Magnetic Field–Density Relation as an Indicator of Magnetic Dominance</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4d</guid>
+<content:encoded><![CDATA[
+
+The electromagnetic field is a fundamental force in nature that regulates the formation of stars in the Universe. Despite decades of efforts, a reliable assessment of the importance of the magnetic fields in star formation relations remains missing. In star formation research, our acknowledgment of the importance of magnetic fields is best summarized by the R. M. Crutcher et al. B–ρ relation, whose interpretation remains controversial. The relation is either interpreted as proof of the importance of a magnetic field in gravitational collapse or as the result of self-similar collapse where the role of the magnetic field is secondary to gravity. Using simulations, we find a fundamental relation, –kB−ρ (the slope of the B–ρ relation): This fundamental B–ρ slope relation enables one to measure the Alfvénic Mach number, a direct indicator of the importance of the magnetic field, using the distribution of data in the B–ρ plane. It allows us to apply the following empirical B–ρ relation: which offers an excellent fit to the Crutcher et al. data, where we assume an relation ( ). The foundational relation provides an independent way to measure the importance of the magnetic field against the kinematic motion using multiple magnetic-field measurements. Our approach offers a new interpretation of the classical B–ρ relation, where a gradual decrease in the importance of B at higher densities is implied.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Model-independent Calibration for Sound Horizon: Combining Observations of Supernovae and Baryon Acoustic Oscillation Measurements</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bab</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bab</guid>
+<content:encoded><![CDATA[
+
+The sound horizon scale is a key theoretical prediction of the cosmological model that depends on the speed of sound in the baryon-photon fluid and the rate of expansion of the early Universe, before matter and radiation decoupled. Baryon acoustic oscillations (BAOs) offer the direct measurement of this important scale imprinted in the distribution of galaxies. We propose a new model-independent method to calibrate the sound horizon (relative standard ruler) by using the latest observations of Type Ia supernovae (SNe Ia) and 2D BAO measurements. The final result is Mpc h−1 in the framework of the Pantheon SN Ia data set. This result changes to Mpc h−1 when the Pantheon+ data set is used. To highlight our analysis and results, we also use BAO DESI measurements and obtain the best-fitting value Mpc h−1. Note that even without an estimate of the dimensionless Hubble constant h, the combination of 2D BAO and SN Ia data sets already constrains the low-redshift standard ruler scale at the ∼1.26% level (at the ∼1.00% level in the framework of BAO DESI data set). More importantly, it is interesting to note that most of the obtained at high redshifts have systematically larger values: 9 out of 15 results are larger than the result obtained by combining all 2D BAOs. This finding may give us a better understanding of the discordance between the data sets, shed light on the Hubble tension, or reveal the need for new physics beyond the standard cosmological model.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Simultaneous Eruption and Shrinkage of Preexisting Flare Loops during a Subsequent Solar Eruption</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c25</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c25</guid>
+<content:encoded><![CDATA[
+
+We investigated two consecutive solar eruption events in the solar active region 12994 at the solar eastern limb on 2022 April 15. We found that the flare loops formed by the first eruption were involved in the second eruption. During the initial stage of the second flare, the middle part of these flare loops (E-loops) erupted outward along with the flux ropes below, while the parts of the flare loops (I-loops1 and I-loops2) on either side of the E-loops first rose and then contracted. Approximately 1 hr after the eruption, the heights of I-loops1 and I-loops2 decreased by 9 Mm and 45 Mm, respectively, compared to before the eruption. Their maximum descent velocities were 30 km s−1 and 130 km s−1, respectively. The differential emission measure results indicate that the plasma above I-loops1 and I-loops2 began to be heated about 23 minutes and 44 minutes after the start of the second flare, respectively. Within ∼20 minutes, the plasma temperature in these regions increased from ∼3 MK to ∼6 MK. We proposed an adiabatic heating mechanism where magnetic energy would be converted into thermal and kinetic energy when the prestretched loops contract. Our calculations show that the magnetic energy required to heat the two high-temperature regions are 1029–1030 erg, which correspond to a loss of field strength of 2–3 G.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Promising Approach for Determining Neutrino Mass Hierarchy by Using Supernova Neutrino Detections</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd9</guid>
+<content:encoded><![CDATA[
+
+The determination of neutrino mass hierarchy is crucial for particle physics, astrophysics, and cosmology. In this work, we propose an easy-to-use method to determine the neutrino hierarchy based on core-collapse supernova (CCSN) neutrino detections. By analyzing the expected event rates of the neutrino burst at a terrestrial water Cherenkov detector, we found that the event rates predicted by the normal and inverted hierarchy models have marked differences in the neutrino energy range 10 ∼ 20 MeV and the postbounce time <0.5 s. Within this specific energy and time range, the analytical relationship between the cumulative event number and proto–neutron star (PNS) baryon mass is extracted. Based on the normal and inverted hierarchy models, two different PNS masses can be inferred from this relationship by using the time profile of neutrino events. Then, the neutrino hierarchy can be determined by comparing the PNS mass inferred from the neutrino detections and the electromagnetic or gravitational-wave channels. Furthermore, the nonadiabatic part of the Mikheyev–Smirnov–Wolfenstein flavor conversions may also be quantified with this method, which would be very helpful for the studies of the explosion mechanism and nucleosynthesis of CCSNe.
+]]></content:encoded>
+
+<pubDate>2024-11-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Revealing the Elusive Companion of the Red Giant Binary 2MASS J05215658+4359220 from UV HST and Astrosat/UVIT Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad712f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad712f</guid>
+<content:encoded><![CDATA[
+
+Black hole (BH) demographics in different environments is critical in view of recent results on massive star binarity, and of the multimessenger detectability of compact object mergers. But the identification and characterization of noninteracting BHs are elusive, especially in the sparse field stellar population. A candidate noninteractive BH + red giant (RG) binary system, 2MASS J05215658+4359220, was identified by T. A. Thompson et al. We obtained Astrosat/UVIT far-ultraviolet (FUV) imaging and Hubble Space Telescope (HST) UV−optical imaging and spectroscopy of the source to test possible scenarios for the optically elusive companion. HST/STIS spectra from ≈1600 to 10230 Å are best fit by the combination of two stellar sources, a RG with Teff = 4250 ± 150 K, log g = 2.0, RRG ∼ 27.8 R⊙ (assuming a single-temperature atmosphere), and a subgiant companion with Teff = 6000 K, Rcomp = 2.7 R⊙, or Teff = 5270 K, Rcomp = 4.2 R⊙ using models with one-tenth or one-third solar metallicity, respectively, log g = 3.0, extinction EB−V = 0.50 ± 0.2, adopting the Data Release 3 Gaia distance D = 2463 ± 120 pc. No FUV data existed prior to our programs. STIS spectra give an upper limit of 10−17 erg cm−2 s−1 Å−1 shortwards of 2300 Å; an upper limit of ≳25.7 ABmag was obtained in two UVIT FUV broad bands. The nondetection of FUV flux rules out a compact companion such as a hot white dwarf. The STIS spectrum shows strong Mg iiλ2800 Å emission, typical of chromospherically active RGs. The masses inferred by comparison with evolutionary tracks, ∼1M⊙ for the RG and between 1.1 and 1.6 M⊙ for the subgiant companion, suggest past mass transfer, although the RG currently does not fill its Roche lobe. WFC3 imaging in F218W, F275W, F336W, F475W, and F606W shows an unresolved source in all filters.
+]]></content:encoded>
+
+<pubDate>2024-11-22T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Generalized Rotation Curves of the Milky Way from the GAIA DR3 Data Set: Constraints on Mass Models</title>
