@@ -4,6 +4,7 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>DIISC-IV. DIISCovery of Anomalously Low Metallicity H ii Regions in NGC 99: Indirect Evidence of Gas Inflows</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8238</link>
@@ -14,7 +15,6 @@
 NGC 99是一个活跃的星系，研究人员通过光谱学和观测数据，发现了该星系内部的金属丰度梯度。两个异常低金属丰度区域显示出与其他区域不同的特征，这被解释为气体吸积的间接证据。此外，研究还发现星系内部的星际介质与周银河介质中的Lyα云可能存在共转运动，可能是低金属丰度气体吸积的一种可能途径。最后，研究人员使用局部气相金属丰度、恒星质量面密度和恒星形成率面密度计算了解决的基本金属丰度关系，发现了与之前研究得出的结果相似的趋势。 <div>
 As a part of the Deciphering the Interplay between the Interstellar medium, Stars, and the Circumgalactic medium (DIISC) survey, we investigate indirect evidence of gas inflow into the disk of the galaxy NGC 99. We combine optical spectra from the Binospec spectrograph on the MMT telescope with optical imaging data from the Vatican Advanced Technology Telescope, radio H i 21 cm emission images from the NSF Karl G. Jansky’s Very Large Array, and UV spectroscopy from the Cosmic Origins Spectrograph on the Hubble Space Telescope. We measure emission lines (Hα, Hβ, [O iii]λ5007, [N ii]λ6583, and [S ii]λ6717, 31) in 26 H ii regions scattered about the galaxy and estimate a radial metallicity gradient of −0.017 dex kpc−1 using the N2 metallicity indicator. Two regions in the sample exhibit an anomalously low metallicity (ALM) of 12 + log(O/H) = 8.36 dex, which is ∼0.16 dex lower than other regions at that galactocentric radius. They also show a high difference between their H i and Hα line of sight velocities on the order of 35 km s−1. Chemical evolution modeling indicates gas accretion as the cause of the ALM regions. We find evidence for corotation between the interstellar medium of NGC 99 and Lyα clouds in its circumgalactic medium, which suggests a possible pathway for low metallicity gas accretion. We also calculate the resolved Fundamental Metallicity Relation (rFMR) on subkiloparsec scales using localized gas-phase metallicity, stellar mass surface density, and star formation rate surface density. The rFMR shows a similar trend as that found by previous localized and global FMR relations.
 ]]></content:encoded>
-
 <pubDate>2024-11-25T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,19 +22,17 @@ As a part of the Deciphering the Interplay between the Interstellar medium, Star
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad865b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad865b</guid>
 <content:encoded><![CDATA[
-<div> 关键词: National Science Foundation, Daniel K. Inouye Solar Telescope, spectropolarimetric observations, convolutional neural networks, MHD modeling<br>
-总结: <br>
-1. 美国国家科学基金会正在进行太阳观测研究项目，旨在通过Daniel K. Inouye Solar Telescope进行高分辨率、多线谱偏振观测。<br>
-2. 他们的"SPIn4D"项目旨在利用卷积神经网络(CNN)对太阳光球的物理特性进行估计，以解锁DKIST观测数据的全部潜力。<br>
-3. 他们利用磁流体力学(MHD)模拟和Stokes谱线合成工具产生模拟数据，用于训练CNNs，以快速推断四维MHD状态向量。<br>
-4. MHD模型模拟宁静太阳区域和黑子区域中的小尺度磁流活动，覆盖6个不同平均磁场情况，总共产生109TB数据。<br>
+<div> 关键词: National Science Foundation, Daniel K. Inouye Solar Telescope, spectropolarimetric observations, convolutional neural networks, MHD modeling<br />
+总结: <br />
+1. 美国国家科学基金会正在进行太阳观测研究项目，旨在通过Daniel K. Inouye Solar Telescope进行高分辨率、多线谱偏振观测。<br />
+2. 他们的"SPIn4D"项目旨在利用卷积神经网络(CNN)对太阳光球的物理特性进行估计，以解锁DKIST观测数据的全部潜力。<br />
+3. 他们利用磁流体力学(MHD)模拟和Stokes谱线合成工具产生模拟数据，用于训练CNNs，以快速推断四维MHD状态向量。<br />
+4. MHD模型模拟宁静太阳区域和黑子区域中的小尺度磁流活动，覆盖6个不同平均磁场情况，总共产生109TB数据。<br />
 5. 他们还进行了Stokes谱线的正演模拟，将模拟输出数据和合成的Stokes谱线数据公开发布，总计13.7TB的初始数据发布量。 <div>
 The National Science Foundation’s Daniel K. Inouye Solar Telescope (DKIST) will provide high-resolution, multiline spectropolarimetric observations that are poised to revolutionize our understanding of the Sun. Given the massive data volume, novel inference techniques are required to unlock its full potential. Here, we provide an overview of our “SPIn4D” project, which aims to develop deep convolutional neural networks (CNNs) for estimating the physical properties of the solar photosphere from DKIST spectropolarimetric observations. We describe the magnetohydrodynamic (MHD) modeling and the Stokes profile synthesis pipeline that produce the simulated output and input data, respectively. These data will be used to train a set of CNNs that can rapidly infer the four-dimensional MHD state vectors by exploiting the spatiotemporally coherent patterns in the Stokes profile time series. Specifically, our radiative MHD model simulates the small-scale dynamo actions that are prevalent in quiet-Sun and plage regions. Six cases with different mean magnetic fields have been explored; each case covers six solar-hours, totaling 109 TB in data volume. The simulation domain covers at least 25 × 25 × 8 Mm, with 16 × 16 × 12 km spatial resolution, extending from the upper convection zone up to the temperature minimum region. The outputs are stored at a 40 s cadence. We forward model the Stokes profile of two sets of Fe i lines at 630 and 1565 nm, which will be simultaneously observed by DKIST and can better constrain the parameter variations along the line of sight. The MHD model output and the synthetic Stokes profiles are publicly available, with 13.7 TB in the initial release.
 ]]></content:encoded>
-
 <pubDate>2024-11-25T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Periodic Gamma-Ray Modulation of the Blazar PG 1553+113 Confirmed by Fermi-LAT and Multiwavelength Observations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64c5</link>
@@ -11811,30 +11809,6 @@ We forecast constraints on cosmological parameters enabled by three surveys cond
 In addition to the light curve and energy spectrum, polarization is also important for inferring the physical properties of the gamma-ray burst (GRB). Rotation of the polarization angle (PA) with time will cause depolarization of the time-integrated polarization degree. However, it has rarely been studied before. Here, we use a magnetic reconnection model with a large-scale ordered aligned magnetic field in the emitting region to study the influence of the parameters on the PA rotations in the GRB prompt phase. We find that the half-opening angle of the jet θj, the observational angle θV, and the bulk Lorentz factor Γ all have significant impacts on the PA rotations. The PA rotations are affected by the product value of θjΓ0 (Γ0 is the normalization factor of Γ with ), but are roughly independent of the concrete values of both θj and Γ0. For the typical parameters, the changes of the PA within T90 (△PA) would be within (12°, 66°) for slight off-axis observations, where T90 is the duration of the burst with the accumulated flux density ranging from 5% to 95%. The q range for △PA > 10° becomes smaller with the increase of the product value of θjΓ0. The most significant PA rotation with △PA ∼ 90° will happen when θjΓ0 > 50 and 1.0 < q ≤ 1.2.
 ]]></content:encoded>
 <pubDate>2024-09-10T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Revisiting Physical Parameters of the Benchmark Brown Dwarf LHS 6343 C through a Hubble Space Telescope/WFC3 Secondary-eclipse Observation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5da7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5da7</guid>
-<content:encoded><![CDATA[
-<div> LHS 6343 system, M-dwarf binary, Brown dwarf, Eclipsing binary, Spectral characterization
-Summary:
-LHS 6343系统由一个已解析的M-矮星双星系统和一个演化的棕矮星LHS 6343 C组成，棕矮星在主星周围轨道运转。通过使用高斯差分模糊算法，观测到了二次星食现象，进而获得了近红外发射光谱，匹配到了T1.5 ± 1的光谱类型。使用ATMO-2020、Sonora-Bobcat和BT-Settl模型网格进行大气特性的表征，并结合观测和模型化的光谱能量分布，推断出LHS 6343 C的视亮度为log(Lbol/L☉) = −4.77 ± 0.03，有效温度为1303 ± 29 K。同时利用ATMO-2020和Sonora-Bobcat演化模型网格推断了LHS 6343 C的年龄。 <br /><br />总结: LHS 6343系统包括M矮星双星和棕矮星LHS 6343 C，通过观测到的二次星食现象获得了近红外发射光谱，并进行了大气特性的表征。用观测和模型化的光谱能量分布推断出LHS 6343 C的视亮度和有效温度。同时，通过演化模型网格推断了LHS 6343 C的年龄。 <div>
-The LHS 6343 system consists of a resolved M-dwarf binary with an evolved, negligibly irradiated brown dwarf (BD), LHS 6343 C, orbiting the primary star. Such BD eclipsing binaries present rare and unique opportunities to calibrate substellar evolutionary and atmosphere models since mass, radius, temperature, and luminosity can be directly measured. We update this BD’s mass (62.6 ± 2.2 MJup) and radius (0.788 ± 0.043 RJup) using empirical stellar relations and a Gaia Data Release 3 distance. We use Hubble Space Telescope/Wide Field Camera 3 (WFC3) observations of an LHS 6343 C secondary eclipse to obtain a near-IR emission spectrum, which matches to a spectral type of T1.5 ± 1. We combine this spectrum with existing Kepler and Spitzer/IRAC secondary-eclipse photometry to perform atmospheric characterization using the ATMO-2020, Sonora-Bobcat, and BT-Settl model grids. ATMO-2020 models with strong nonequilibrium chemistry yield the best fit to observations across all modeled bandpasses while predicting physical parameters consistent with Gaia-dependent analogs. BT-Settl predicts values slightly more consistent with such analogs but offers a significantly poorer fit to the WFC3 spectrum. Finally, we obtain a semi-empirical measurement of LHS 6343 C’s apparent luminosity by integrating its observed and modeled spectral energy distribution. Applying knowledge of the system’s distance yields a bolometric luminosity of log(Lbol/L☉) = −4.77 ± 0.03 and, applying the Stefan–Boltzmann law for the known radius, an effective temperature of 1303 ± 29 K. We also use the ATMO-2020 and Sonora-Bobcat evolutionary model grids to infer an age for LHS 6343 C of and respectively.
-]]></content:encoded>
-<pubDate>2024-09-09T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Timing of Millisecond Pulsars in NGC 6752. III. On the Presence of Nonluminous Matter in the Cluster’s Core</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e74</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e74</guid>
-<content:encoded><![CDATA[
-<div> millisecond pulsars, globular clusters, pulsar timing observations, core-collapse GC NGC 6752, nonluminous mass
-
-总结：<br /><br />本文报告了对NGC 6752核心内五颗毫秒射电脉冲星进行了20多年的脉冲星定时观测。研究发现，在GC NGC 6752的核心脉冲星经历了加速度和抖动，这表明核心内至少有2.56 × 103M⊙的非发光物质存在。另外，研究排除了在星团中央存在质量大于或等于∼3000M⊙的中等质量黑洞的可能性。 <div>
-Millisecond pulsars are subject to accelerations in globular clusters (GCs) that manifest themselves in both the first and second spin period time derivatives, and can be used to explore the mass distribution of the potentials they inhabit. Here we report on over 20 yr of pulsar timing observations of five millisecond radio pulsars in the core of the core-collapse GC NGC 6752 with the Parkes (Murriyang) and MeerKAT radio telescopes, which have allowed us to measure the proper motions, positions, and first and second time derivatives of the pulsars. The pulsar timing parameters indicate that all the pulsars in the core experience accelerations and jerks that can be explained only if an amount of nonluminous mass of at least 2.56 × 103M⊙ is present in the core of NGC 6752. On the other hand, our studies highly disfavor the presence of an intermediate-mass black hole at the center of the cluster, with a mass equal to or greater than ∼3000M⊙.
-]]></content:encoded>
-<pubDate>2024-09-09T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
