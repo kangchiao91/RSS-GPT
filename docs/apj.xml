@@ -5,15 +5,68 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Evolution of Binaries Embedded Within Common Envelopes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84ee</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84ee</guid>
+<content:encoded><![CDATA[
+<div> 三星系统，恒星演化，共享包层，CE条件，数值模拟<br>
+在这篇论文中，研究了三星系统中CE条件下嵌入的双星的条件。通过局部三维流体动力学模拟，研究了初始双星间距、流动马赫数和背景恒星密度梯度等因素对CE条件的影响。发现恒星密度梯度影响了气体阻力，决定了嵌入双星的最终构型。发现大多数CE条件下，与均匀背景密度情况相比，双星轨道间距随时间增大，使双星变软并阻止其后续合并。得出结论，CE中螺旋运动的双星更容易受到潮汐相互作用的破坏，对三星系统的最终结果产生深远影响。 <br><br>总结: 本文研究了CE条件下嵌入双星的条件，发现恒星密度梯度影响了气体阻力，决定了嵌入双星的最终构型；大多数CE条件下，双星轨道间距随时间增大，使双星变软并阻止其后续合并；CE中螺旋运动的双星更容易受到潮汐相互作用的破坏。 <div>
+Triple stellar systems allow us to study stellar processes that cannot be attained in binary stars. The evolutionary phases in which the stellar members undergo mass exchanges can alter the hierarchical layout of these systems. Yet, the lack of a self-consistent treatment of common-envelope (CE) in triple-star systems hinders the comprehensive understanding of their long-term fate. This paper examines the conditions predicted around binaries embedded within CEs using local 3D hydrodynamical simulations. We explore varying the initial binary separation, the flow Mach number, and the background stellar density gradients as informed by a wide array of CE conditions, including those invoked to explain the formation of the triple system hosting PSR J0337+1715. We find that the stellar density gradient governs the gaseous drag force, which determines the final configuration of the embedded binary. We observe a comparable net drag force on the center of mass but an overall reduction in the accretion rate of the binary compared to the single-object case. We find that, for most CE conditions, and in contrast to the uniform background density case, the binary orbital separation increases with time, softening the binary and preventing it from subsequently merging. We conclude that binaries spiraling within CEs become more vulnerable to disruption by tidal interactions. This can have profound implications on the final outcomes of triple-star systems.
+]]></content:encoded>
+
+<pubDate>2024-11-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Rotation at the Fully Convective Boundary: Insights from Wide WD + MS Binary Systems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad856c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad856c</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Gyrochronology, 白矮星+主序星双星系统, 自转周期, 完全对流边界, 结构变化
+
+总结:
+Gyrochronology是用于确定低质量恒星年龄的有价值的工具，该研究基于针对宽广的白矮星+主序星双星系统的185个样本，并通过对MS星的旋转周期进行预测来验证了这一技术。研究表明，在完全对流边界附近，主序星的自转周期会出现高达三倍的增加，这是由于构造变化和该边界处发生的3He不稳定性所导致的。此外，由于当前的温度误差，无法将测得的自转周期唯一地与单个旋转轨道相对应，因此推测Gyrochronology可能对于非常接近完全对流边界的M型矮星并不可行。<br><br> <div>
+Gyrochronology, a valuable tool for determining ages of low-mass stars where other techniques fail, relies on accurate calibration. We present a sample of 185 wide (>100 au) white dwarf + main sequence (WD + MS) binaries. Total ages of WDs are computed using all-sky survey photometry, Gaia parallaxes, and WD atmosphere models. Using a magnetic braking law calibrated against open clusters, along with assumptions about initial conditions and angular momentum transport, we construct gyrochrones to predict the rotation periods of MS stars. Both data and models show that, at the fully convective boundary (FCB), MS stars with WD ages of up to 7.5 Gyr and within a <50 K effective temperature range experience up to a threefold increase in rotation period relative to stars slightly cooler than the FCB. We suggest that rapid braking at this boundary is driven by a sharp rise in the convective overturn timescale (τcz) caused by structural changes between partially and fully convective stars and the 3He instability occurring at this boundary. While the specific location in mass (or temperature) of this feature varies with model physics, we argue that its existence remains consistent. Stars along this feature exhibit rotation periods that can be mapped, within 1σ, to a range of gyrochrones spanning ≈6 Gyr. Due to current temperature errors (≃50 K), this implies that a measured rotation period cannot be uniquely associated to a single gyrochrone, implying that gyrochronology may not be feasible for M dwarfs very close to the FCB.
+]]></content:encoded>
+
+<pubDate>2024-11-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Systematic Search for Rapid Transients in the Subaru HSC-SSP Transient Survey</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8647</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8647</guid>
+<content:encoded><![CDATA[
+<div> 瞬变天体、高红移、机器学习、超新星、光度
+
+总结:
+本文研究了一个高红移范围内瞬变天体的系统搜索，通过开发一个机器学习分类器，成功筛选出了14个高红移瞬变样本。这些样本包括两个Ibn型超新星候选体，它们的事件率在相似红移处Ib型超新星的事件率的1%以上，这表明在这个红移范围内有一部分大质量恒星在爆炸前喷发出富含He的包层。此外，两个样本的绝对光度与超亮超新星相当，事件率约为超亮超新星在z≈2时的10%-25%。 <div>
+Recent high-cadence transient surveys have discovered rapid transients whose light-curve timescales are shorter than those of typical supernovae (SNe). In this paper, we present a systematic search for rapid transients at medium-high redshifts among 3381 SNe candidates obtained from the Hyper Suprime-Cam Subaru Strategic Program transient survey. We developed a machine learning classifier to classify the SN candidates into four types (Type Ia, Ibc, II SNe and rapid transients) based on the features derived from the light curves. By applying this classifier to the 3381 SN candidates and by further applying the quality cut, we selected 14 rapid transient samples. They are located at a wide range of redshifts (0.34 ≤ z ≤ 1.85) and show a wide range of the peak absolute magnitude (−17 ≥ M ≥ −22). The event rate of the rapid transients is estimated to be ∼6 × 103 events yr−1 Gpc−3 at z ∼ 0.74, which corresponds to about 2% of the event rate of normal core-collapse SNe at a similar redshift. Based on the luminosity and color evolution, we selected two candidates of Type Ibn SNe at z ∼ 0.75. The event rate of Type Ibn SN candidates is more than 1% of Type Ib SN rate at the same redshift, suggesting that this fraction of massive stars at this redshift range eruptively ejects their He-rich envelope just before the explosions. Also, two objects at z = 1.37 and 1.85 show high luminosities comparable to superluminous SNe. Their event rate is about 10%–25% of superluminous SNe at z ∼ 2.
+]]></content:encoded>
+
+<pubDate>2024-11-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Rise of Nova V1674 Herculis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad887f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad887f</guid>
+<content:encoded><![CDATA[
+<div> 关键词: classical novae, observational constraints, optical peak, high-cadence observations, white dwarf<br>
+<br>总结: 
+本文报道了对快速新星V1674 Her的前所未有的观测，这些观测从其光学峰值以上10等开始，并包括高频率（2分钟）的观测，记录了在短短5小时内约8等的增长。我们识别出光变曲线中的两个明显断裂点，指出了从缓慢上升到迅速上升，然后再到更快、几乎线性上升的转变。观测深度使我们能够在白矮星以Eddington光度发射的黑体辐射的假设下紧密约束光球的大小。我们发现，在快速风爆发之前，白矮星不太可能已经溢出罗奇波，这对解释费米伽马射线的探测结果构成了挑战，因为这可能是快速风与伴星卸去的气体形成的慢环之间的相互作用。 Evryscope和计划中的Argus Array对新星进行高频率观测，可以记录新星光变曲线的多样性，并有助于解决热核聚变、双星相互作用和激震如何驱动它们最早的亮度。 <div>
+Observational constraints on classical novae are heavily biased to phases near optical peak and later because of the simple fact that novae are not typically discovered until they become bright. The earliest phases of brightening, coming before discovery, are typically missed, but this is changing with the proliferation of wide-field optical monitoring systems including the Zwicky Transient Facility, All-Sky Automated Survey for Supernovae, and Evryscope. Here, we report on unprecedented observations of the fast nova V1674 Her beginning >10 mag below its optical peak and including high-cadence (2 minutes) observations that chart a rise of ∼8 mag in just 5 hr. Two clear breaks are identified as the light curve transitions first from rising slowly to rising rapidly, followed by a transition to an even faster, nearly linear rate of increasing flux with time. The depths of the observations allow us to place tight constraints on the size of the photosphere under the assumption of blackbody emission from a white dwarf emitting at its Eddington luminosity. We find that the white dwarf was unlikely to have overflowed its Roche lobe prior to the launch of a fast wind, which poses a challenge for explaining the Fermi γ-ray detections as the interaction of a fast wind with a slow torus of gas stripped from the inflated white dwarf envelope by the companion. High-cadence observations of novae from Evryscope and the planned Argus Array can record the diversity of rising nova light curves and help resolve how the interplay between thermonuclear fusion, binary interaction, and shocks power their earliest light.
+]]></content:encoded>
+
+<pubDate>2024-11-28T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>oMEGACat. IV. Constraining the Ages of Omega Centauri Subgiant Branch Stars with HST and MUSE</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8621</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8621</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Omega Centauri, SGB stars, age estimates, age-metallicity relation, Hubble Space Telescope photometry<br>
+<div> 关键词: Omega Centauri, SGB stars, age estimates, age-metallicity relation, Hubble Space Telescope photometry<br />
 总结: 通过对Omega Centauri中8100多颗次巨星分支星的年龄估计，研究其恒星形成历史。使用多波段的哈勃空间望远镜光度和MUSE金属丰度的大数据集，将每颗星的光度和金属丰度与具有ω Cen特定[C + N + O]–[Fe/H]关系的理论等时线进行拟合，得出大部分星的年龄在13至10亿年之间，平均恒星年龄为12.08亿年，年龄的中位数不确定性为0.68亿年。构建了迄今为止最完整的ω Cen的年龄–金属丰度关系，并发现恒星的平均年龄随金属丰度增加而降低，并在年龄–金属丰度平面上发现了两条不同的流，暗示不同的恒星形成途径。对整个星团的年龄固有分散为0.75亿年，年龄分散随金属丰度的增加而明显增加。通过改变等时线参数和约束系统偏差，验证了年龄估计的可靠性，发现C + N + O关系对约束年龄–金属丰度关系最为关键。此外，还提出了具有年龄信息的SGB染色体图。未来，可以将这些恒星年龄与化学丰度相结合，研究亚群体的年龄差异，并揭示这个庞大核星团的化学演化历史。 <div>
 We present age estimates for over 8100 subgiant branch (SGB) stars in Omega Centauri (ω Cen) to study its star formation history. Our large data set, which combines multi-wavelength Hubble Space Telescope photometry with MUSE metallicities, provides an unprecedented opportunity to measure individual stellar ages. We do this by fitting each star’s photometry and metallicity with theoretical isochrones that are embedded with an empirical [C + N + O]–[Fe/H] relation specific to ω Cen. The bulk of the stars have ages between 13 and 10 Gyr, with the mean stellar age being 12.08 ± 0.01 Gyr and the median age uncertainty being 0.68 Gyr. From these ages we construct the most complete age–metallicity relation for ω Cen to date. We find that the mean age of stars decreases with increasing metallicity and find two distinct streams in the age–metallicity plane, hinting at different star formation pathways. We derive an intrinsic spread in the ages of 0.75 ± 0.01 Gyr for the whole cluster, with the age spread showing a clear increase with metallicity. We verify the robustness of our age estimations by varying isochrone parameters and constraining our systematics. We find the C + N + O relation to be the most critical consideration for constraining the age–metallicity relation. We also present an SGB chromosome map with age information. In the future these stellar ages could be combined with chemical abundances to study age differences in subpopulations and uncover the chemical evolution history of this massive nuclear star cluster.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -22,11 +75,10 @@ We present age estimates for over 8100 subgiant branch (SGB) stars in Omega Cent
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8642</guid>
 <content:encoded><![CDATA[
 <div> 短寿命放射性同位素、太阳系、星际介质、恒星、星际尘埃
-<br><br>太阳系中的短寿命放射性同位素在早期提供了行星体加热和干燥的能量。然而，太阳系相对于其他类似形成特征的行星系是否高度富集仍不清楚。目前观测中也很难确定个别原行星盘中的短寿命放射性同位素富集程度。研究利用N体模拟估算了星际区域中短寿命放射性同位素的富集情况，发现对于26Al富集，太阳系处于期望分布的上限，并且对于更依赖超新星的同位素60Fe，太阳系富集程度相对较高。这些结果表明26Al驱动的干燥过程在外行星的组成中的作用可能被低估了，而60Fe作为加热源的影响也被过度估计。 
-<br>总结:太阳系相对于其他类似行星系是否高度富集仍不清楚。研究利用N体模拟估算了星际区域中短寿命放射性同位素的富集情况，发现对于26Al富集，太阳系处于期望分布的上限，并且对于更依赖超新星的同位素60Fe，太阳系富集程度相对较高。 这些结果表明短寿命同位素在外行星的组成中的作用可能被低估了，而60Fe作为加热源的影响也被过度估计。 <div>
+<br /><br />太阳系中的短寿命放射性同位素在早期提供了行星体加热和干燥的能量。然而，太阳系相对于其他类似形成特征的行星系是否高度富集仍不清楚。目前观测中也很难确定个别原行星盘中的短寿命放射性同位素富集程度。研究利用N体模拟估算了星际区域中短寿命放射性同位素的富集情况，发现对于26Al富集，太阳系处于期望分布的上限，并且对于更依赖超新星的同位素60Fe，太阳系富集程度相对较高。这些结果表明26Al驱动的干燥过程在外行星的组成中的作用可能被低估了，而60Fe作为加热源的影响也被过度估计。 
+<br />总结:太阳系相对于其他类似行星系是否高度富集仍不清楚。研究利用N体模拟估算了星际区域中短寿命放射性同位素的富集情况，发现对于26Al富集，太阳系处于期望分布的上限，并且对于更依赖超新星的同位素60Fe，太阳系富集程度相对较高。 这些结果表明短寿命同位素在外行星的组成中的作用可能被低估了，而60Fe作为加热源的影响也被过度估计。 <div>
 Recent research provides compelling evidence that the decay of short-lived radioisotopes (SLRs), such as 26Al, provided the bulk of energy for heating and desiccation of volatile-rich planetesimals in the early solar system. However, it remains unclear whether the early solar system was highly enriched relative to other planetary systems with similar formation characteristics. While the solar system possesses an elevated level of SLR enrichment compared to the interstellar medium, determining SLR enrichment of individual protoplanetary disks observationally has not been performed and is markedly more difficult. We use N-body simulations to estimate enrichment of SLRs in star-forming regions through two likely important SLR sources: stellar winds from massive stars and supernovae (SNae). We vary the number of stars and the radii of the star-forming regions and implement two models of stellar-wind SLR propagation for the radioisotopes 26Al and 60Fe. We find that for 26Al enrichment the solar system is at the upper end of the expected distribution, while for the more SNae-dependent isotope 60Fe we find that the solar system is comparatively very highly enriched. Furthermore, combined with our previous research, these results suggest that the statistical role of 26Al-driven desiccation on exoplanet bulk composition may be underestimated in typical interpretations of the low-mass exoplanet census, and that 60Fe is even less influential as a source of heating than previously assumed.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -35,10 +87,9 @@ Recent research provides compelling evidence that the decay of short-lived radio
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f3</guid>
 <content:encoded><![CDATA[
 <div> 星系，色-星等图，星族形成史，机器学习网络，深度学习网络
-总结：<br><br>这篇文章介绍了利用色-星等图(CMDs)对星系的星族形成史进行精确测量的方法，探讨了在大数据时代利用机器学习网络的可行性。研究利用最新的理论恒星演化模型细化CMDs方法，引入卷积神经网络提高效率，并创新初始恒星质量估计方法。经过测试和验证，深度学习网络SFHNet能够准确测量星系的星族形成史，并提供了关于恒星密度分布、初始恒星质量和星族形成速率的详细洞察。深度学习网络的应用不仅提高了方法的效率和灵活性，还为对附近星系的全面和深入理解提供了帮助。 <div>
+总结：<br /><br />这篇文章介绍了利用色-星等图(CMDs)对星系的星族形成史进行精确测量的方法，探讨了在大数据时代利用机器学习网络的可行性。研究利用最新的理论恒星演化模型细化CMDs方法，引入卷积神经网络提高效率，并创新初始恒星质量估计方法。经过测试和验证，深度学习网络SFHNet能够准确测量星系的星族形成史，并提供了关于恒星密度分布、初始恒星质量和星族形成速率的详细洞察。深度学习网络的应用不仅提高了方法的效率和灵活性，还为对附近星系的全面和深入理解提供了帮助。 <div>
 Reproducing color–magnitude diagrams (CMDs) of star-resolved galaxies is one of the most precise methods for measuring the star formation history (SFH) of nearby galaxies back to the earliest time. The upcoming big data era poses challenges to the traditional numerical technique in its capacity to deal with vast amounts of data, which motivates us to explore the feasibility of employing machine learning networks in this field. In this study, we refine the synthetic CMD method with a state-of-the-art theoretical stellar evolution model to simulate the properties of stellar populations, incorporate the convolutional neural network in the fitting process to enhance the efficiency, and innovate the initial stellar mass estimation to improve the flexibility. The fine-tuned deep learning network, named SFHNet, has been tested with synthetic data and further validated with photometric data collected from the Hubble Space Telescope. The derived SFHs are largely in accordance with those reported in the literature. Furthermore, the network provides detailed insights into the distribution of stellar density, initial stellar mass, and star formation rate over the age–metallicity map. The application of the deep learning network not only measures the SFH accurately but also enhances the synthetic CMD method’s efficiency and flexibility, thereby facilitating a more comprehensive and in-depth understanding of nearby galaxies.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -52,7 +103,6 @@ Reproducing color–magnitude diagrams (CMDs) of star-resolved galaxies is one o
 超亮X射线脉冲星（ULXP）是由超Eddington吸积在磁化中子星上引起的，其详细的磁场结构和吸流-出流过程还不太清楚。作者使用广义相对论辐射磁流体力学（GR-RMHD）模拟了超Eddington吸积流在磁化中子星上的行为。他们发现在磁屏蔽半径以外形成一个吸积盘和光学厚的出流，而在磁屏蔽半径以内则出现了与磁场线对齐的吸流。磁屏蔽半径处，当偶极磁场比四极磁场突出时，形成了靠近磁极的吸积柱，而四极磁场强度超过偶极磁场则形成了类似于贴近赤道的吸积带。磁化中子星的自转是通过吸积气体的角动量转换为电磁场的角动量而实现的。即使在一个磁极附近形成了吸积柱，观测到的亮度在有吸积柱和没有吸积柱的一侧几乎相同，这是因为辐射能量通过散射向两侧传输。根据作者的模型，银河系的ULXP Swift J0243.6+6124具有2×10^13 G的四极磁场和不到4×10^12 G的偶极磁场。 <div>
 Although ultraluminous X-ray pulsars (ULXPs) are believed to be powered by super-Eddington accretion onto a magnetized neutron star (NS), the detailed structures of the inflow–outflow and magnetic fields are still not well understood. We perform general relativistic radiation magnetohydrodynamics (GR-RMHD) simulations of super-Eddington accretion flows onto a magnetized NS with dipole and/or quadrupole magnetic fields. Our results show that an accretion disk and optically thick outflows form outside the magnetospheric radius, while inflows aligned with magnetic field lines appear inside. When the dipole field is more prominent than the quadrupole field at the magnetospheric radius, accretion columns form near the magnetic poles, whereas a quadrupole magnetic field stronger than the dipole field results in the formation of a belt-like accretion flow near the equatorial plane. The NS spins up as the angular momentum of the accreting gas is converted into the angular momentum of the electromagnetic field, which then flows into the NS. Even if an accretion column forms near one of the magnetic poles, the observed luminosity is almost the same on both the side with the accretion column and the side without it, because the radiation energy is transported to both sides through scattering. Our model suggests that galactic ULXP Swift J0243.6+6124 has a quadrupole magnetic field of 2 × 1013 G and a dipole magnetic field of less than 4 × 1012 G.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -61,13 +111,12 @@ Although ultraluminous X-ray pulsars (ULXPs) are believed to be powered by super
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89bd</guid>
 <content:encoded><![CDATA[
 <div> EMRIs, BHs, low-frequency gravitational wave detectors, mass segregation, ejections
-<br>
+<br />
 这项研究针对低频引力波探测器的主要目标之一——恒星质量黑洞的极端质量比螺旋（EMRIs）进行了研究。研究发现，当黑洞在中心渐进的轨道受到引力波辐射的影响时，强烈的质量分离可能导致螺旋形成率大幅下降，甚至降低一个数量级。这项研究揭示了在星系核内形成EMRI所需的强碰撞的重要性。 
-<br><br>总结: 
+<br /><br />总结: 
 EMRIs和BHs是低频引力波探测器的主要目标。强质量分离可能会导致EMRI形成率下降。研究发现强碰撞对EMRI的形成非常重要。 <div>
 Extreme-mass-ratio inspirals (EMRIs) of stellar-mass black holes (BHs) are among the main targets for upcoming low-frequency gravitational wave (GW) detectors such as the Laser Interferometer Space Antenna. In the classical scenario, EMRIs are formed when BHs scatter off each other and are driven onto highly eccentric orbits that gradually inspiral due to GW emission. If the cluster is in a state of strong mass segregation, the BHs are expected to reside in a steep cusp around the central massive black hole (MBH), which would facilitate more efficient EMRI formation. However, strong mass segregation may also lead to an increased rate of ejections due to close encounters between the BHs. Here, we test the relevance of such ejections for EMRI formation by numerically solving a two-dimensional Fokker–Planck equation. Our formalism includes the effects of two-body relaxation, GW dissipation, and ejections. We find that the EMRI formation rate can be suppressed due to ejections by more than an order of magnitude for strongly segregated BH cusps with density index γ ≳ 2.25 around central MBHs of mass M• ≲ 106 M⊙. The EMRI formation rate levels off up to a maximum value of ≃200 Gyr−1 due to ejections, which is roughly an order of magnitude lower than the usual scenarios ignoring ejections for steep BH cusps around low-mass MBHs. Our analysis reveals the significance of strong scatterings for EMRI formation in galactic nuclei.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -77,10 +126,9 @@ Extreme-mass-ratio inspirals (EMRIs) of stellar-mass black holes (BHs) are among
 <content:encoded><![CDATA[
 <div> 关键词: 巨星, 磁活跃, 超耀斑, 磁场强度, 稳定恒星斑点
 总结: 
-本文研究了磁活跃的巨星HD 251108，发现其具有稳定的21.3天旋转周期以及持续的长期光变化，这可通过恒稳的恒星斑点来解释。研究还跟踪了一次超耀斑的衰减阶段，观测到了未曾有的日冕温度成分细节。超耀斑的峰值通量约为10^34 erg s−1 (0.5–4.0 keV)，在早期衰减阶段呈指数级下降，是迄今观测到的最强烈的一次。超耀斑的发射过程与较小耀斑样本中已建立的趋势一致，证明了超耀斑发射的物理过程在较大范围的能量内保持一致。研究估计了耀斑环的长度约为恒星半径的2-4倍，并未观测到耀斑期间的丰度变化。<br><br> <div>
+本文研究了磁活跃的巨星HD 251108，发现其具有稳定的21.3天旋转周期以及持续的长期光变化，这可通过恒稳的恒星斑点来解释。研究还跟踪了一次超耀斑的衰减阶段，观测到了未曾有的日冕温度成分细节。超耀斑的峰值通量约为10^34 erg s−1 (0.5–4.0 keV)，在早期衰减阶段呈指数级下降，是迄今观测到的最强烈的一次。超耀斑的发射过程与较小耀斑样本中已建立的趋势一致，证明了超耀斑发射的物理过程在较大范围的能量内保持一致。研究估计了耀斑环的长度约为恒星半径的2-4倍，并未观测到耀斑期间的丰度变化。<br /><br /> <div>
 Many giant stars are magnetically active, which causes rotational variability, chromospheric emission lines, and X-ray emission. Large outbursts in these emission features can set limits on the magnetic field strength and thus constrain the mechanism of the underlying dynamo. HD 251108 is a Li-rich active K-type giant. We find a rotational period of 21.3 days with color changes and additional long-term photometric variability. Both can be explained with very stable stellar spots. We followed the decay phase of a superflare for 28 days with NICER and from the ground. We track the flare decay in unprecedented detail in several coronal temperature components. With a peak flux around 1034 erg s−1 (0.5–4.0 keV) and an exponential decay time of 2.2 days in the early decay phase, this is one of the strongest flares ever observed, yet it follows trends established from samples of smaller flares, for example, for the relations between Hα and X-ray flux, indicating that the physical process that powers the flare emission is consistent over a large range of flare energies. We estimate a flare loop length about 2–4 times the stellar radius. No evidence is seen for abundance changes during the flare.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -88,12 +136,11 @@ Many giant stars are magnetically active, which causes rotational variability, c
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8baa</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8baa</guid>
 <content:encoded><![CDATA[
-<div> Monte Carlo model, electron degradation, inelastic collision, O2 atmosphere, ionization budget<br>
-<br>
-该研究构建了一个蒙特卡洛模型, 用于研究在纯O2大气中电子的降解过程。模型考虑了电子和O2分子之间的弹性和非弹性碰撞过程。通过模型获得了产生各种非弹性碰撞的产额谱，以及从中获得了每种非弹性过程的产额。此外，还确定了每对能量的平均能量和各种非弹性过程的效率，以及次生（和更高阶）电子的产量。这些计算有助于了解包含大量O2的行星大气（如地球和木星卫星的欧罗巴、伽尼米德和卡利斯托）中的电离和加热预算。<br><br>总结: 该研究构建了一个蒙特卡洛模型，用于研究在纯O2大气中的电子降解过程，有助于了解行星大气中的电离和加热预算。 <div>
+<div> Monte Carlo model, electron degradation, inelastic collision, O2 atmosphere, ionization budget<br />
+<br />
+该研究构建了一个蒙特卡洛模型, 用于研究在纯O2大气中电子的降解过程。模型考虑了电子和O2分子之间的弹性和非弹性碰撞过程。通过模型获得了产生各种非弹性碰撞的产额谱，以及从中获得了每种非弹性过程的产额。此外，还确定了每对能量的平均能量和各种非弹性过程的效率，以及次生（和更高阶）电子的产量。这些计算有助于了解包含大量O2的行星大气（如地球和木星卫星的欧罗巴、伽尼米德和卡利斯托）中的电离和加热预算。<br /><br />总结: 该研究构建了一个蒙特卡洛模型，用于研究在纯O2大气中的电子降解过程，有助于了解行星大气中的电离和加热预算。 <div>
 Electron degradation serves as a significant energy source in planetary upper atmospheres. In this study, a Monte Carlo model is constructed to investigate the degradation of electrons in a pure O2 atmosphere under the local approximation. Both elastic and inelastic collision processes between electrons and O2 molecules are considered in the model. The yield spectra, characterizing the occurrence of various inelastic collisions for a specified pair of incident and post-collision energies, are obtained from the model. When combined with the information of e-O2 collision cross sections, the yields of each inelastic process are then determined. Furthermore, we derive the mean energy per ion pair and the efficiencies of various inelastic processes, along with the yields of secondary (and higher-order) electrons. The calculations presented here are beneficial for understanding the ionization and heating budgets in planetary atmospheres containing a significant amount of O2 such as Earth and Jovian icy satellites (Europa, Ganymede, and Callisto).
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -103,11 +150,10 @@ Electron degradation serves as a significant energy source in planetary upper at
 <content:encoded><![CDATA[
 <div> 关键词: 太阳耀斑, 火山口喷发, 日冕物质抛射, 光谱, 三维重建
 
-总结:<br>
+总结:<br />
 这篇论文对2023年3月7日的太阳火山口喷发进行了多波段和多视角观测，采用修订的锥体模型首次对火山口进行了约4小时的三维重建和跟踪。结果显示火山口的传播不是径向的，在活跃区NOAA 13243的大尺度日冕环路周围进行了偏转运动。火山口的真实速度估计约为829 km/s，比CME核心（火山口）的速度快1.2倍。研究得出提取的修订锥体模型可以重现爆发性火山口早期生命中的加速和偏转。 <div>
 In this paper, we carry out multiwavelength and multiview observations of the prominence eruption, which generated a C2.3 class flare and a coronal mass ejection (CME) on 2023 March 7. For the first time, we apply the revised cone model to three-dimensional reconstruction and tracking of the eruptive prominence for ∼4 hr. The prominence propagates nonradially and makes a detour around the large-scale coronal loops in active region NOAA 13243. The northward deflection angle increases from ∼36° to ∼47° before returning to ∼36° and keeping up. There is no longitudinal deflection throughout the propagation. The angular width of the cone increases from ∼30° and reaches a plateau at ∼37°. The heliocentric distance of the prominence rises from ∼1.1 to ∼10.0 R☉, and the prominence experiences continuous acceleration (∼51 m s−2) over 2 hr, which is probably related to the magnetic reconnection during the C-class flare. The true speed of the CME front is estimated to be ∼829 km s−1, which is ∼1.2 times larger than that of the CME core (prominence). We conclude that both acceleration and deflection of eruptive prominences in their early lives could be reproduced with the revised cone model.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -115,11 +161,10 @@ In this paper, we carry out multiwavelength and multiview observations of the pr
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc5</guid>
 <content:encoded><![CDATA[
-<div> 关键词: SNe Ibn, X射线, 质量流失率, 比邻恒星, 数值模型 <br>
-总结: <br>本文报告了对SNe Ibn型超新星SN 2022ablq的多波段观测结果，特别是X射线观测结果。研究发现该超新星在X射线波段比传统的SN Ibn型超新星更明亮，推测其质量流失率在爆炸前0.5-2年达到峰值，而稳态恒星风不太可能是主要的质量流失机制。此外，研究还搜索了爆发性事件的前体辐射，但未发现与其他SNe Ibn类似的显著信号。最后，数值模型表明15太阳质量的氦星在爆发性事件后约1.8年爆炸，与观测到的辐射光变曲线一致。因此，观测结果不支持Wolf–Rayet恒星通过恒星风失去富含He物质的假设，而更加支持包括与紧密双星伴侣发生Roche溢流或在核合成晚期阶段发生爆发性事件的低质量祖恒星模型。 <div>
+<div> 关键词: SNe Ibn, X射线, 质量流失率, 比邻恒星, 数值模型 <br />
+总结: <br />本文报告了对SNe Ibn型超新星SN 2022ablq的多波段观测结果，特别是X射线观测结果。研究发现该超新星在X射线波段比传统的SN Ibn型超新星更明亮，推测其质量流失率在爆炸前0.5-2年达到峰值，而稳态恒星风不太可能是主要的质量流失机制。此外，研究还搜索了爆发性事件的前体辐射，但未发现与其他SNe Ibn类似的显著信号。最后，数值模型表明15太阳质量的氦星在爆发性事件后约1.8年爆炸，与观测到的辐射光变曲线一致。因此，观测结果不支持Wolf–Rayet恒星通过恒星风失去富含He物质的假设，而更加支持包括与紧密双星伴侣发生Roche溢流或在核合成晚期阶段发生爆发性事件的低质量祖恒星模型。 <div>
 Type Ibn supernovae (SNe Ibn) are rare stellar explosions powered primarily by interaction between the SN ejecta and H-poor, He-rich material lost by their progenitor stars. Multiwavelength observations, particularly in the X-rays, of SNe Ibn constrain their poorly understood progenitor channels and mass-loss mechanisms. Here we present Swift X-ray, ultraviolet, and ground-based optical observations of the Type Ibn SN 2022ablq, only the second SN Ibn with X-ray detections to date. While similar to the prototypical Type Ibn SN 2006jc in the optical, SN 2022ablq is roughly an order of magnitude more luminous in the X-rays, reaching unabsorbed luminosities LX ∼ 4 × 1040 erg s−1 between 0.2–10 keV. From these X-ray observations we infer time-varying mass-loss rates between 0.05 and 0.5 M⊙ yr−1 peaking 0.5–2 yr before explosion. This complex mass-loss history and circumstellar environment disfavor steady-state winds as the primary progenitor mass-loss mechanism. We also search for precursor emission from alternative mass-loss mechanisms, such as eruptive outbursts, in forced photometry during the 2 yr before explosion. We find no statistically significant detections brighter than M ≈ −14—too shallow to rule out precursor events similar to those observed for other SNe Ibn. Finally, numerical models of the explosion of an ∼15 M⊙ helium star that undergoes an eruptive outburst ≈1.8 yr before explosion are consistent with the observed bolometric light curve. We conclude that our observations disfavor a Wolf–Rayet star progenitor losing He-rich material via stellar winds and instead favor lower-mass progenitor models, including Roche-lobe overflow in helium stars with compact binary companions or stars that undergo eruptive outbursts during late-stage nucleosynthesis stages.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -128,13 +173,11 @@ Type Ibn supernovae (SNe Ibn) are rare stellar explosions powered primarily by i
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb2</guid>
 <content:encoded><![CDATA[
 <div> 距离指示器, 星体脉动, 演化参数, 光度, 星际演化
-总结:<br><br>这篇论文介绍了脉动星的重要性以及更新了Stellingwerf的脉动模型代码，采用了最新的辐射不透明度表。结果显示，辐射不透明度的更新对脉动特性的影响不大，在周期、不稳定性带边界位置和光度曲线形状方面只有轻微变化。因此，脉动星作为标准烛光和恒星群的追踪者的理论校准基本不受影响。然而，辐射不透明度表一致性的实现是迈向一个统一和自洽的恒星演化和脉动框架的重要一步。 <div>
+总结:<br /><br />这篇论文介绍了脉动星的重要性以及更新了Stellingwerf的脉动模型代码，采用了最新的辐射不透明度表。结果显示，辐射不透明度的更新对脉动特性的影响不大，在周期、不稳定性带边界位置和光度曲线形状方面只有轻微变化。因此，脉动星作为标准烛光和恒星群的追踪者的理论校准基本不受影响。然而，辐射不透明度表一致性的实现是迈向一个统一和自洽的恒星演化和脉动框架的重要一步。 <div>
 Pulsating stars are universally recognized as precise distance indicators and tracers of stellar populations. Their variability, combined with well-defined relationships between pulsation properties and intrinsic evolutionary parameters such as luminosity, mass, and age, makes them essential for understanding galactic evolution and retrieving star formation histories. Therefore, accurate modeling of pulsating stars is crucial for using them as standard candles and stellar population tracers. This is the first paper in the “Stellar Pulsation and Evolution: a Combined Theoretical Renewal and Updated Models” project, which aims to present an update of Stellingwerf’s hydrodynamical pulsation code, by adopting the latest radiative opacity tables commonly used in stellar evolution community. We assess the impact of this update on pulsation properties, such as periods, instability strip topology, and light-curve shapes, as well as on period–Wesenheit and period–luminosity relations for Classical Cepheids and RR Lyrae stars, comparing the results with those derived using older opacity data. Our results indicate that the opacity update introduces only minor changes: instability strip boundary locations shift by no more than 100 K in effective temperature, and pulsation periods vary within 1σ compared to previous evaluations. Light curves exhibit slight differences in shape and amplitude. Consequently, the theoretical calibration of the Cepheid- or RRL-based extragalactic distance scale remains largely unaffected by the opacity changes. However, achieving consistency in opacity tables between stellar evolution and pulsation codes is a significant step toward a homogeneous and self-consistent stellar evolution and pulsation framework.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Chemistry in the GG Tau A Disk: Constraints from H2D+, N2H+, and DCO+ High Angular Resolution ALMA Observations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad815c</link>
@@ -11794,126 +11837,6 @@ The sensitivity and spectral coverage of JWST are enabling us to test our assump
 Low-frequency quasiperiodic oscillations (LFQPOs) are commonly observed in X-ray light curves of black hole X-ray binaries (BHXRBs); however, their origin remains a topic of debate. In order to thoroughly investigate variations in spectral properties on the quasiperiodic oscillation (QPO) timescale, we utilized the Hilbert–Huang transform technique to conduct phase-resolved spectroscopy across a broad energy band for LFQPOs in the newly discovered BHXRB Swift J1727.8–1613. This is achieved through quasi-simultaneous observations from Neutron Star Interior Composition Explorer, Nuclear Spectroscopic Telescope Array, and Hard X-ray Modulation Telescope. Our analysis reveals that both the nonthermal and disk–blackbody components exhibit variations on the quasiperiodic oscillation (QPO) timescale, with the former dominating the QPO variability. For the spectral parameters, we observe modulation of the disk temperature, spectral indices, and reflection fraction with the QPO phase with high statistical significance (≳5σ). Notably, the variation in the disk temperature is found to precede the variations in the nonthermal and disk fluxes by ∼0.4–0.5 QPO cycles. We suggest that these findings offer further evidence that the type-C QPO variability is a result of geometric effects of the accretion flow.
 ]]></content:encoded>
 <pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a11</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a11</guid>
-<content:encoded><![CDATA[
-<div> 白矮星，Ia 超新星，氦次矮星，水动力学模拟，高速星<br />
-总结: 本文研究了Ia型超新星的形成机制，发现了一颗氦次矮星US 708以及七颗高速星，这支持了捐赠者是低质量氦星或白矮星的假设。通过水动力学模拟，发现在超新星爆发后，捐赠星会剥离大约0.01-0.02太阳质量的物质，并解释了剥离物在膨胀的超新星喷发中的位置。随后使用MESA模拟了受冲击的捐赠星的后爆炸演化，发现它们会保持明亮和膨胀约10^5-10^6年。最后发现氦白矮星的后爆炸性质与一个高速星D6-2相一致。 <div>
-Type Ia supernovae arise from thermonuclear explosions of white dwarfs accreting from a binary companion. Following the explosion, the surviving donor star leaves at roughly its orbital velocity. The discovery of the runaway helium subdwarf star US 708, and seven hypervelocity stars from Gaia data, all with spatial velocities ≳900 km s−1, strongly support a scenario in which the donor is a low-mass helium star or a white dwarf. Motivated by these discoveries, we perform three-dimensional hydrodynamical simulations with the Athena++ code, modeling the hydrodynamical interaction between a helium star or helium white dwarf and the supernova ejecta. We find that ≈0.01–0.02 M⊙ of donor material is stripped, and explain the location of the stripped material within the expanding supernova ejecta. We continue the postexplosion evolution of the shocked donor stars with the MESA code. As a result of entropy deposition, they remain luminous and expanded for ≈105–106 yr. We show that the postexplosion properties of our helium white dwarf donor agree reasonably with one of the best-studied hypervelocity stars, D6-2.
-]]></content:encoded>
-<pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Three Types of Solar Coronal Rain during Magnetic Reconnection between Open and Closed Magnetic Structures</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6770</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6770</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Coronal rain, 磁重连, 太阳观测, 太阳对流层, 磁场结构
-总结:
-研究报道了在2022年10月11日太阳东南区域发生了开放和闭合磁场结构之间的交换重连过程，产生了三种类型的日冕降雨。在磁重连期间，沿着闭合磁场线发生了日冕凝结并沿着回流到太阳表面，形成了类型II日冕降雨。随后，在新形成的闭合磁场线中发生了凝结并沿着向下流动到太阳表面，形成了类型I日冕降雨。而在重连的开放结构中形成了磁场低谷，在其中发生了凝结并沿着向太阳表面传播，形成了类型III日冕降雨。研究结果表明，重连速率对于在重连过程中形成类型I和类型III日冕降雨可能是至关重要的。<br /><br /> <div>
-Coronal rain (CR) is a crucial part of the mass cycle between the corona and chromosphere. It includes flare-driven CR and two types of quiescent CR, along nonflaring active region closed loops and along open structures, separately, labeled as type I, type II, and type III CR, respectively. Among them, type I and type III CR are generally associated with magnetic reconnection. In this study, employing data taken by the Solar Dynamics Observatory and the Solar Upper Transition Region Imager on 2022 October 11, we report three types of CR during an interchange reconnection between open and closed magnetic field structures above the southeastern solar limb. The open and closed structures converge, with the formation of the current sheet at the interface, and reconnect. The newly formed closed and open structures then recede from the reconnection region. During the reconnection, coronal condensation occurs along the reconnecting closed loops and falls toward the solar surface along both loop legs, as type II CR. Subsequently, condensation happens in the newly formed closed loops and moves down toward the solar surface along both loop legs, as type I CR. Magnetic dips of the reconnecting open structures form during the reconnection. In the dips, condensation occurs and propagates along the open structures toward the solar surface as type III CR. Our results suggest that the reconnection rate may be crucial for the formation of type I and type III CR during reconnection.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Imprints of the Local Bubble and Dust Complexity on Polarized Dust Emission</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad61e0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad61e0</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 3D dust maps, Planck polarized dust emission data, Local Bubble, dust polarization fraction, interstellar magnetic field
-总结:<br /><br />这篇文章使用了3D尘埃地图和Planck极化尘埃发射数据，研究了附近星际介质的3D几何形状对大尺度尘埃极化统计的影响。研究发现，极化尘埃发射所探测到的磁场趋向于局部泡泡壁，但并未发现局部泡泡几何形状对尘埃极化分数的影响。另外，研究还发现，当尘埃在不同距离上分布较多时，平均尘埃极化分数会下降；相反，当尘埃在3D空间中更集中时，尘埃极化分数会更高。在1.25千秒差距内，这一发现是具有统计显著性的，但如果只考虑270秒差距内的尘埃，则这一效应消失。最终研究得出结论，扩展的3D尘埃分布，而不仅仅是局部泡泡中的尘埃，对观测到的80′处的尘埃极化分数起到决定作用。 这一结论符合简单的分析预测，并在各种分析修改下保持稳健。这些结果揭示了星际介质的3D几何形状与星际磁场示踪剂之间的关系，对我们对宇宙微波背景极化尘埃前景的理解有重要意义。 <div>
-Using 3D dust maps and Planck polarized dust emission data, we investigate the influence of the 3D geometry of the nearby interstellar medium (ISM) on the statistics of the dust polarization on large ( ) scales. We test recent models that assume that the magnetic field probed by the polarized dust emission is preferentially tangential to the Local Bubble wall, but we do not find an imprint of the Local Bubble geometry on the dust polarization fraction. We also test the hypothesis that the complexity of the 3D dust distribution drives some of the measured variation of the dust polarization fraction. We compare sight lines with similar total column densities and find that, on average, the dust polarization fraction decreases when the dust column is substantially distributed among multiple components at different distances. Conversely, the dust polarization fraction is higher for sight lines where the dust is more concentrated in 3D space. This finding is statistically significant for the dust within 1.25 kpc, but the effect disappears if we only consider dust within 270 pc. In conclusion, we find that the extended 3D dust distribution, rather than solely the dust associated with the Local Bubble, plays a role in determining the observed dust polarization fraction at 80′. This conclusion is consistent with a simple analytical prediction and remains robust under various modifications to the analysis. These results illuminate the relationship between the 3D geometry of the ISM and tracers of the interstellar magnetic field. We discuss implications for our understanding of the polarized dust foreground to the cosmic microwave background.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>PSR B0943+10: Mode Switch, Polar Cap Geometry, and Orthogonally Polarized Radiation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad60c5</guid>
-<content:encoded><![CDATA[
-<div> 关键词: PSR B0943+10, 脉冲星, 磁层动力学, 辐射几何, 单脉冲研究
-
-总结:
-脉冲星PSR B0943+10是研究脉冲星磁层动力学的典型范例，显示了模式切换、正交偏振和亚脉冲漂移等特征，研究频率通常在600MHz以下。本研究使用FAST在1.25 GHz高频率下进行综合和单脉冲研究，发现模式切换具有类似奇异吸引子的相空间演化模式。通过拟合偏振位置角和旋转矢量模型，提出了辐射几何学。此外，对B0943+10的正交极化辐射进行了详细研究，揭示了可能支持极化发射辐射传输模型的一些模式。Q模式的脉冲轮廓表明前驱和主脉冲组分具有正交极化，并可能来源于磁层不同深度。这些发现对脉冲星电动力学和相关辐射机制具有重要影响。 <div>
-As one of the paradigm examples to probe into pulsar magnetospheric dynamics, PSR B0943+10 (J0946+0951) manifests representatively, showing a mode switch, orthogonal polarization, and subpulse drifting, frequently studied below 600 MHz. Here, both integrated and single pulses are studied at a high frequency (1.25 GHz) with FAST. The mode switch is studied using a profile decomposition method. A phase space evolution for the pulsar’s mode switch shows a strange-attractor-like pattern. The radiative geometry is proposed by fitting polarization position angles with the rotating vector model. The pulsar pulse profile is then mapped to the sparking locations on the pulsar surface, and the differences between the main pulse’s and the precursor component’s radiative processes may explain the X-ray’s synchronization with radio mode switch. Detailed single pulse studies on B0943+10's orthogonally polarized radiation are presented, which may support certain models of radiative transfer of polarized emission. In particular, the difference in orthogonal polarization modes’ circular polarization might reflect the cyclotron absorption in pulsar magnetospheres. B0943+10's B and Q modes evolve differently with frequency and have different proportions of orthogonal modes, which indicates possible magnetospheric changes during mode switch. For Q mode pulse profile, the precursor and the main pulse components are orthogonally polarized, and are probably originated from different depths in the magnetosphere. The findings could impact significantly on the pulsar electrodynamics and the radiative mechanism related.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Galactic Chemical Evolution Models Favor an Extended Type Ia Supernova Delay-time Distribution</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad61df</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad61df</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Type Ia supernovae, delay-time distribution (DTD), chemical evolution models, Milky Way, stellar abundance distribution
-
-总结:
-Type Ia超新星在宇宙中产生了大部分的Fe峰元素，对星系化学演化模型至关重要。它们不会在恒星形成后立即爆炸，因此延迟时间分布（DTD）对化学演化模型中年龄、[Fe/H]和[α/Fe]之间的关系有重要影响。研究人员在多区域化学演化模型中实现了几种流行的DTD形式，并与银河系的多次星形成历史相结合。他们发现DTD对[α/Fe]分布有最大影响，符合更迅速的Type Ia超新星爆发DTD会产生偏向较低[α/Fe]比率的星际丰度分布。他们的模型结果支持DTD延长，具有较少的迅速Type Ia超新星，而不是经典的t−1幂律。这项研究对观测到的星际丰度轨迹、恒星丰度分布和恒星年龄分布进行了验证。 <br /><br /> <div>
-Type Ia supernovae (SNe Ia) produce most of the Fe-peak elements in the Universe and therefore are a crucial ingredient in galactic chemical evolution models. SNe Ia do not explode immediately after star formation, and the delay-time distribution (DTD) has not been definitively determined by supernova surveys or theoretical models. Because the DTD also affects the relationship among age, [Fe/H], and [α/Fe] in chemical evolution models, comparison with observations of stars in the Milky Way is an important consistency check for any proposed DTD. We implement several popular forms of the DTD in combination with multiple star formation histories for the Milky Way in multizone chemical evolution models that include radial stellar migration. We compare our predicted interstellar medium abundance tracks, stellar abundance distributions, and stellar age distributions to the final data release of the Apache Point Observatory Galactic Evolution Experiment. We find that the DTD has the largest effect on the [α/Fe] distribution: a DTD with more prompt SNe Ia produces a stellar abundance distribution that is skewed toward a lower [α/Fe] ratio. While the DTD alone cannot explain the observed bimodality in the [α/Fe] distribution, in combination with an appropriate star formation history it affects the goodness of fit between the predicted and observed high-α sequence. Our model results favor an extended DTD with fewer prompt SNe Ia than the fiducial t−1 power law.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Binary Mergers in the Centers of Galaxies: Synergy between Stellar Flybys and Tidal Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad61e1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad61e1</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Galactic centers, compact object binaries, tidal field, flyby interactions, merger rates
-总结: 本文研究了星系中心环境中紧密天体双星的演化和并合率，首次重点关注星团潮汐场和飞越相互作用的综合效应。研究发现，这两种过程之间存在显著的协同作用，使得并合率相较于仅考虑飞越或潮汐的模型增加了约10-30倍。这种协同作用的结果是潮汐驱动的近似离心率激励受到飞越所推动的jz扩散的增强。并合效率在扩散速率大约比潮汐驱动扭矩速率慢10-100倍时达到峰值。此外，逐渐软化的双星也能解除最初紧密双星的相对论耗散作用，从而扩大了并合的相空间。综上所述，尽管飞越导致双星逐渐软化，但它们通过促进潮汐场驱动的离心率激发，大大增加了星系中心的并合率。 <br /><br /> <div>
-Galactic centers (GCs) are very dynamically active environments, often harboring a nuclear star cluster and supermassive black hole at their cores. Binaries in these environments are subject to strong tidal fields that can efficiently torque its orbit, exciting near-unity eccentricities that ultimately lead to their merger. In turn, frequent close interactions with passing stars impulsively perturb the orbit of the binary, generally softening their orbit until their evaporation, potentially hindering the role of tides to drive these mergers. In this work, we study the evolution of compact object binaries in the GC and their merger rates, focusing for the first time on the combined effect of the cluster’s tidal field and flyby interactions. We find a significant synergy between both processes, where merger rates increase by a factor of ∼10−30 compared to models in which only flybys or tides are taken into account. This synergy is a consequence of the persistent tides-driven eccentricity excitation that is enhanced by the gradual diffusion of jz driven by flybys. The merger efficiency peaks when the diffusion rate is ∼10−100 slower than the tides-driven torquing. Added to this synergy, we also find that the gradual softening of the binary can lift the relativistic quenching of initially tight binaries, otherwise unable to reach extreme eccentricities, and thus expanding the available phase space for mergers. Cumulatively, we conclude that despite the gradual softening of binaries due to flybys, these greatly enhance their merger rates in GCs by promoting the tidal-field-driven eccentricity excitation.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Massive Quiescent Disk Galaxies at 0.5 ≤ z ≤ 1 in CANDELS: Color Gradients and Likely Origin</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6321</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6321</guid>
-<content:encoded><![CDATA[
-<div> disk-dominated galaxies, quiescent, red sequence, stellar disks, specific star formation rate
-
-这项研究发现了一类罕见的大型盘状寂静星系，它们在红序列中出现，并且并未破坏基础恒星盘。研究识别了48个红移在0.5到1.0之间、质量大于10^10太阳质量的盘状寂静星系。研究显示，这些星系通常具有广阔的恒星盘和微小的球状组分。通过研究其颜色梯度，发现这些星系的恒星盘在各个半径上都基本停止了星形成活动。研究还提出了一种可能的形成机制，即通过一种渐近的盘状褪色过程形成这些大质量寂静盘状星系。 <br /><br />总结: 这项研究发现了罕见的大质量盘状寂静星系，它们具有广阔的恒星盘和微小的球状组分。通过研究其颜色梯度，发现这些星系的恒星盘在各个半径上都基本停止了星形成活动。研究还提出了一种可能的形成机制——渐近的盘状褪色过程。 <div>
-A rare population of massive disk-dominated quiescent galaxies has recently drawn much attention, which intrudes the red sequence (RS) population without destroying the underlying stellar disks. In this study, we have carefully identified 48 RS, disk-dominated galaxies with M* > 1010M⊙ between redshift 0.5 and 1.0 in all five CANDELS fields. These galaxies are well fitted by a two-component bulge plus disk model, and have the bulge-to-total ratio B/T < 0.4 in the both F814W and F160W bands. The fitting results indicate that these galaxies generally have extended stellar disks (∼3 kpc on average) and tiny bulge components (∼0.5 kpc on average). To understand their possible origins, we have also selected two control samples of 156 green valley (GV) and 309 blue cloud (BC) disk-dominated galaxies according to the same selection criteria. We study the UVI(U − V versus V − I) color gradients of these galaxies to infer their specific star formation rate (sSFR) gradients out to the maximum acceptable radii. We show that on average the disks in disk-dominated RS galaxies are fully quenched at all radii, whereas both the BC and GV disks are not fully quenched at any radii. We find that all the BC, GV, and RS disk galaxies generally have nearly flat sSFR profiles. We propose a potential formation mechanism, acknowledging that various other mechanisms (e.g., central compaction and active galactic nucleus feedback) might contribute, where massive quiescent disk-dominated galaxies are predominantly formed via a process of secular disk fading.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Flux Rope Modeling of the 2022 September 5 Coronal Mass Ejection Observed by Parker Solar Probe and Solar Orbiter from 0.07 to 0.69 au</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64cb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64cb</guid>
-<content:encoded><![CDATA[
-<div> 关键词: PSP, SolO, CMEs, 磁场,模型
-
-在这篇文章中，研究人员使用PSP和SolO卫星对2022年9月5日的日冕物质抛射事件进行了分析。他们比较了在PSP和SolO处的原位磁场测量，以确定全球和局部扩展度量，发现磁场与太阳离心距之间的关系存在一致性，但在磁通绳大小方面存在显著差异。他们使用PSP/Wide-Field Imager for Solar Probe图像作为ELEvoHI模型的输入，发现到达时间的建模存在较大偏差，这表明模型假设可能不适用于距离太阳较近的数据。最后，他们独立使用SolO的磁强计和PSP的FIELDS数据对3DCORE模型进行拟合，发现许多参数在两个卫星间是一致的，但在重建与PSP和SolO到达时间一致的全球3D结构时存在挑战，这可能是由于卫星之间的大径向和纵向分离。从模型结果来看，太阳风的背景速度和阻力机制强烈影响CME的扩展和传播建模，需要加以考虑。
-
-<br /><br />总结: 本文研究了使用PSP和SolO卫星对CME事件进行全球磁通绳结构分析的方法。作者比较了两个卫星的原位磁场测量，发现在磁场与太阳离心距之间存在一致性，但磁通绳大小方面有一定差异。通过模型分析和拟合，研究人员发现太阳风的背景速度和阻力机制对CME扩展和传播建模有着重要影响。这项研究对理解日冕物质抛射事件在内太阳圈中的结构和特性具有重要意义。 <div>
-As both Parker Solar Probe (PSP) and Solar Orbiter (SolO) reach heliocentric distances closer to the Sun, they present an exciting opportunity to study the structure of coronal mass ejections (CMEs) in the inner heliosphere. We present an analysis of the global flux rope structure of the 2022 September 5 CME event that impacted PSP at a heliocentric distance of only 0.07 au and SolO at 0.69 au. We compare in situ measurements at PSP and SolO to determine global and local expansion measures, finding a good agreement between magnetic field relationships with heliocentric distance, but significant differences with respect to flux rope size. We use PSP/Wide-Field Imager for Solar Probe images as input to the ELlipse Evolution model based on Heliospheric Imager data (or ELEvoHI), providing a direct link between remote and in situ observations; we find a large discrepancy between the resulting modeled arrival times, suggesting that the underlying model assumptions may not be suitable when using data obtained close to the Sun, where the drag regime is markedly different in comparison to larger heliocentric distances. Finally, we fit the SolO's magnetometer and PSP's FIELDS data independently with the 3D Coronal ROpe Ejection (or 3DCORE) model, and find that many parameters are consistent between spacecraft. However, challenges are apparent when reconstructing a global 3D structure that aligns with arrival times at PSP and SolO, likely due to the large radial and longitudinal separations between spacecraft. From our model results, it is clear the solar wind background speed and drag regime strongly affect the modeled expansion and propagation of CMEs and need to be taken into consideration.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Nonparametric Statistics on Magnetic Properties at the Footpoints of Erupting Magnetic Flux Ropes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66bd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad66bd</guid>
-<content:encoded><![CDATA[
-<div> 磁场，太阳大气，磁通量，电流，磁力线
-总结:
-磁层太阳大气中是否携带中性电流存在争议，本研究通过对28个喷发磁通绳的磁场和电流进行研究，确认了在同一磁通绳的对应磁场点之间不存在显著差异，并证实了通过日冕变暗来识别磁通绳的方法的有效性。研究还发现，携带大量净电流的磁通绳与产生喷发前变暗有中等程度的关联，这可以通过电流通道的洛伦兹自力作用来解释。测试还表明，在估计磁通绳的磁扭曲时，必须考虑电流密度和磁场的空间不均匀分布。 <div>
-It is under debate whether the magnetic field in the solar atmosphere carries neutralized electric currents, in particular, whether a magnetic flux rope (MFR), which is considered the core structure of coronal mass ejections, carries neutralized electric currents. Recently Wang et al. (2023) studied magnetic flux and electric current measured at the footpoints of 28 eruptive MFRs from 2010 to 2015. Because of the small sample size, no rigorous statistical analysis has been done. Here, we include nine more events from 2016 to 2023 and perform a series of nonparametric statistical tests at a significance level of 5%. The tests confirm that there exist no significant differences in magnetic properties between conjugated footpoints of the same MFR, which justifies the method of identifying the MFR footpoints through coronal dimming. The tests demonstrate that there exist no significant differences between MFRs with preeruption dimming and those with only posteruption dimming. However, there is a medium level of association between MFRs carrying substantial net current and those producing preeruption dimming, which can be understood by the Lorentz self-force of the current channel. The tests also suggest that in estimating the magnetic twist of MFRs, it is necessary to take into account the spatially inhomogeneous distribution of electric current density and magnetic field.
-]]></content:encoded>
-<pubDate>2024-09-17T23:00:00Z</pubDate>
-</item>
-<item>
-<title>JWST NIRSpec High-resolution Spectroscopy of MACS0647–JD at z = 10.167: Resolved [O ii] Doublet and Electron Density in an Early Galaxy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6001</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6001</guid>
-<content:encoded><![CDATA[
-<div> 高分辨率光谱、MACS0647−JD、红移、[O ii]、电子密度<br />
-JWST/NIRSpec观测了一个位于z = 10.167的MACS0647−JD星系，并检测到和解析了休息框架紫外光和蓝光发射线，首次观测到了一个红移大于8的星系的解析的[O ii] λλ3726, 3729双线，测得的氧离子密度明显高于以往的观测值，通过对文献数据进行分析发现了电子密度的红移演化规律，这符合星系金属丰度和形态演化的模型。<br /><br />总结: 本研究使用JWST/NIRSpec对红移为z = 10.167的MACS0647−JD星系进行了高分辨率光谱观测，首次发现了解析的[O ii] λλ3726, 3729双线，测得的氧离子密度明显高于以往的观测值，通过对文献数据进行分析发现了电子密度的红移演化规律，这符合星系金属丰度和形态演化的模型。 <div>
-We present JWST/NIRSpec high-resolution G395H/F290LP spectroscopy of MACS0647−JD, a gravitationally lensed galaxy merger at z = 10.167. The new spectroscopy, which is acquired for the two lensed images (JD1 and JD2), detects and resolves emission lines in the rest-frame ultraviolet and blue optical, including the resolved [O ii] λλ3726, 3729 doublet, [Ne iii] λ3870, He iλ3890, Hδ, Hγ, and [O iii] λ4363. This is the first observation of the resolved [O ii] λλ3726, 3729 doublet for a galaxy at z > 8. We measure a line flux ratio [O ii] λ3729/λ3726 = 0.9 ± 0.3, which corresponds to an estimated electron density of . This is significantly higher than the electron densities of local galaxies reported in the literature. We compile measurements from the literature and further analyze the redshift evolution of ne. We find that the redshift evolution follows the power-law form of ne = A × (1 + z)p with cm−3 and . This power-law form may be explained by a combination of metallicity and morphological evolution of galaxies, which become, on average, more metal poor and more compact with increasing redshift.
-]]></content:encoded>
-<pubDate>2024-09-16T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
