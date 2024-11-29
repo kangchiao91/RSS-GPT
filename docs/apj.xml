@@ -4,6 +4,39 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Efficient and Accurate Force Replay in Cosmological-baryonic Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f0</guid>
+<content:encoded><![CDATA[
+
+We construct time-evolving gravitational potential models for a Milky Way–mass galaxy from the FIRE-2 suite of cosmological-baryonic simulations using basis function expansions. These models capture the angular variation with spherical harmonics for the halo and azimuthal harmonics for the disk, and the radial or meridional plane variation with splines. We fit low-order expansions (four angular/harmonic terms) to the galaxy’s potential for each snapshot, spaced roughly 25 Myr apart, over the last 4 Gyr of its evolution, then extract the forces at discrete times and interpolate them between adjacent snapshots for forward orbit integration. Our method reconstructs the forces felt by simulation particles with high fidelity, with 95% of both stars and dark matter, outside of self-gravitating subhalos, exhibiting errors ≤4% in both the disk and the halo. Imposing symmetry on the model systematically increases these errors, particularly for disk particles, which show greater sensitivity to imposed symmetries. The majority of orbits recovered using the models exhibit positional errors ≤10% for 2–3 orbital periods, with higher errors for orbits that spend more time near the galactic center. Approximate integrals of motion are retrieved with high accuracy even with a larger potential sampling interval of 200 Myr. After 4 Gyr of integration, 43% and 70% of orbits have total energy and angular momentum errors within 10%, respectively. Consequently, there is higher reliability in orbital shape parameters such as pericenters and apocenters, with errors ∼10% even after multiple orbital periods. These techniques have diverse applications, including studying satellite disruption in cosmological contexts.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Water Enrichment from Pebble Drift in Disks with Gap-forming Planets</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad891d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad891d</guid>
+<content:encoded><![CDATA[
+
+Volatiles like H2O are present as ice in solids in the cold outer regions of protoplanetary disks and as vapor in the warm inner regions within the water snow line. Icy pebbles drifting inwards from the outer disk sublimate after crossing the snow line, enriching the inner disk with solid mass and water vapor. Meanwhile, protoplanets forming within the disk open gaps in the disk gas, creating traps against the inward drift of pebbles and in turn reducing water enrichment in the inner disk. Recent disk observations from millimeter interferometry and infrared spectroscopy have supported this broad picture by finding a correlation between the outer radial distribution of pebbles and the properties of inner water vapor spectra. In this work, we aim at further informing previous and future observations by building on previous models to explore pebble drift in disks with multiple gaps. We systematically explore multiple gap locations and their depths (equivalent to the specific masses of planets forming within), and different particle sizes to study their impact on inner disk water enrichment. We find that the presence of close-in deep gaps carved by a Jupiter-mass planet is likely crucial for blocking icy pebble delivery into the inner disk, while planets with lower masses only provide leaky traps. We also find that disks with multiple gaps show lower vapor enrichment in the inner disk. Altogether, these model results support the idea that inner disk water delivery and planet formation are regulated by the mass and location of the most massive planets.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Testable Predictions of Outside-in Age Gradients in Dwarf Galaxies of All Types</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1e</guid>
+<content:encoded><![CDATA[
+
+We use a sample of 73 simulated satellite and central dwarf galaxies spanning a stellar mass range of 105.3–109.1M⊙ to investigate the origin of their stellar age gradients. We find that dwarf galaxies often form their stars “inside-out,” i.e., the stars form at successively larger radii over time. However, the oldest stars get reshuffled beyond the star-forming radius by fluctuations in the gravitational potential well caused by stellar feedback (the same mechanisms that cause dwarfs to form dark matter cores). The result is that many dwarfs appear to have an “outside-in” age gradient at z = 0, with younger stellar populations more centrally concentrated. However, for the reshuffled galaxies with the most extended star formation, young stars can form out to the large radii to which the old stars have been reshuffled, erasing the age gradient. We find that major mergers do not play a significant role in setting the age gradients of dwarfs. We find similar age gradient trends in satellites and field dwarfs, suggesting that environment plays only a minor role, if any. Finally, we find that the age gradient trends are imprinted on the galaxies at later times, suggesting that the stellar reshuffling dominates after the galaxies have formed 50% of their stellar mass. The later reshuffling is at odds with results from the fire-2 simulations. Hence, age gradients offer a test of current star formation and feedback models that can be probed via observations of resolved stellar populations.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>21cmlstm: A Fast Memory-based Emulator of the Global 21 cm Signal with Unprecedented Accuracy</title>
