@@ -4,6 +4,28 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>21cmlstm: A Fast Memory-based Emulator of the Global 21 cm Signal with Unprecedented Accuracy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</guid>
+<content:encoded><![CDATA[
+
+Neural network (NN) emulators of the global 21 cm signal need an emulation error much less than the observational noise in order to be used to perform unbiased Bayesian parameter inference. To this end, we introduce 21cmLSTM—a long short-term memory (LSTM) NN emulator of the global 21 cm signal that leverages the intrinsic correlation between frequency channels to achieve exceptional accuracy compared to previous emulators, which are all feedforward, fully connected NNs. LSTM NNs are a type of recurrent NN designed to capture long-term dependencies in sequential data. When trained and tested on the same simulated set of global 21 cm signals as the best previous emulators, 21cmLSTM has an average relative rms error of 0.22%—equivalently 0.39 mK—and comparably fast evaluation time. We perform seven-dimensional Bayesian parameter estimation analyses using 21cmLSTM to fit global 21 cm signal mock data with different adopted observational noise levels, σ21. The posterior 1σ rms error is ≈three times less than σ21 for each fit and consistently decreases for tighter noise levels, showing that 21cmLSTM can sufficiently exploit even very optimistic measurements of the global 21 cm signal. We have made the emulator, code, and data sets publicly available so that 21cmLSTM can be independently tested and used to retrain and constrain other 21 cm models.
+]]></content:encoded>
+
+<pubDate>2024-11-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Evidence for a Close-in Tertiary Orbiting around the Algol-type System HZ Dra with Tidal Splitting and Spots Activities</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc4</guid>
+<content:encoded><![CDATA[
+
+We report a cyclic variation of the O − C diagram with a semiamplitude of 0.0033 days and a period of 1.05 yr for the pulsating eclipsing binary HZ Dra. The cyclic variation can be explained by the light travel-time effect via the presence of a close-in third body orbiting around HZ Dra in an elliptical orbit with a maximum semimajor axis of 0.89 au. Based on the Wilson–Devinney code, the contribution of the third light to the total system is determined to be 29.0%, which is in agreement with the estimated value. Our light-curve modeling indicates an evolving hot and cool spot on the surface of the primary and secondary components, respectively. Their positions are roughly symmetrical to the inner Lagrangian point L1, which could be used to explain the variation in the O'Connell effect. Our frequency analysis detects one radial p-mode, seven nonradial p-modes, and one nonradial g-mode. In addition, a total of six multiplets are identified, spaced by the orbital frequency, which can be explained as a tidally split mode caused by the equilibrium tides of the close binary system with a circular orbit. These pulsating features suggest that the primary of HZ Dra is a δ Scuti star, pulsating in both p- and g-mode and influenced by tidal forces.
+]]></content:encoded>
+
+<pubDate>2024-11-28T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Evolution of Binaries Embedded Within Common Envelopes</title>
