@@ -5,14 +5,134 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Observations of Preferential Heating and Acceleration of α-particles in the Young Solar Wind by Parker Solar Probe</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79fa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79fa</guid>
+<content:encoded><![CDATA[
+
+Remote sensing observations of the nascent solar wind in the solar corona imply that heavy ions are often faster and hotter than the plasma protons. In situ observations of the near-Earth solar wind with low collisional age show that hotter and faster states of heavy ions usually do not occur at the same time: heavy ions are either faster or hotter than the protons. This discrepancy highlights the need to understand the competing effects of heating, acceleration, Coulomb collisions, and instabilities on heavy ions in the inner heliosphere, from the solar corona to Earth. The Parker Solar Probe (PSP) is currently the closest spacecraft to the Sun and is anticipated to cross the outer boundary of the preferential heating and acceleration zone. Using in situ measurements from PSP, we find that larger drift speeds between α-particles and protons (Vαp) correspond to larger α-to-proton temperature ratios ( ) in the young solar wind close to the corona. This observation differs from in situ observations farther from the Sun (e.g., with Helios and Wind at 0.3–1 au). We believe that this difference is related to the speed of the solar wind, as well as the distance from the Sun. The anti-correlation between Vαp and in fast wind away from the Sun is potentially related to the energy transfer from the drift kinetic energy of α-particles to proton thermal energy due to drift instabilities. In the young slow wind, heavy ions exhibit signs of both preferential heating and preferential acceleration, but are not affected much by drift instabilities. We identify the outer boundary of the preferential heating and acceleration zone for heavy ions in the young slow wind to be at a distance of around 0.16 au, beyond which the effects of Coulomb collisions weaken the effects of preferential heating and acceleration.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Transition Region Brightening in a Moss Region and Their Relation with Lower Atmospheric Dynamics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84e1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84e1</guid>
+<content:encoded><![CDATA[
+
+Small-scale brightenings (SBs) are commonly observed in the transition region (TR) that separates the solar chromosphere from the corona. These brightenings, omnipresent in active region patches known as “moss” regions, could potentially contribute to the heating of active region plasma. In this study, we investigate the properties of SB events in a moss region and their associated chromospheric dynamics, which could provide insights into the underlying generation mechanisms of the SBs. We analyzed the data sets obtained by coordinated observations using the Interface Region Imaging Spectrograph and the Goode Solar Telescope at Big Bear Solar Observatory. We studied 131 SB events in our region of interest and found that 100 showed spatial and temporal matches with the dynamics observed in the chromospheric Hα images. Among these SBs, 98 of them were associated with spicules that are observed in Hα images. Furthermore, detailed analysis revealed that one intense SB event corresponded to an Ellerman bomb (EB), while another SB event consisted of several recurring brightenings caused by a stream of falling plasma. We observed that Hα far wings often showed flashes of strong brightening caused by the falling plasma, creating an Hα spectral profile similar to an EB. However, 31 of the 131 investigated SB events showed no noticeable spatial and temporal matches with any apparent features in Hα images. Our analysis indicated that the predominant TR SB events in moss regions are associated with chromospheric phenomena primarily caused by spicules. Most of these spicules display properties akin to dynamic fibrils.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Neural Network Constraints on the Cosmic-Ray Ionization Rate and Other Physical Conditions in NGC 253 with ALCHEMI Measurements of HCN and HNC</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85db</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85db</guid>
+<content:encoded><![CDATA[
+
+We use a neural network model and Atacama Large Millimeter/submillimeter Array (ALMA) observations of HCN and HNC to constrain the physical conditions, most notably the cosmic-ray ionization rate (CRIR, ζ), in the Central Molecular Zone (CMZ) of the starburst galaxy NGC 253. Using output from the chemical code UCLCHEM, we train a neural network model to emulate UCLCHEM and derive HCN and HNC molecular abundances from a given set of physical conditions. We combine the neural network with radiative transfer modeling to generate modeled integrated intensities, which we compare to measurements of HCN and HNC from the ALMA Large Program ALCHEMI. Using a Bayesian nested sampling framework, we constrain the CRIR, molecular gas volume and column densities, kinetic temperature, and beam-filling factor across NGC 253's CMZ. The neural network model successfully recovers UCLCHEM molecular abundances with ∼3% error and, when used with our Bayesian inference algorithm, increases the parameter-inference speed tenfold. We create images of these physical parameters across NGC 253's CMZ at 50 pc resolution and find that the CRIR, in addition to the other gas parameters, is spatially variable with ζ ∼ a few ×10−14 s−1 at r ≳ 100 pc from the nucleus, increasing to ζ > 10−13 s−1 at its center. These inferred CRIRs are consistent within 1 dex with theoretical predictions based on nonthermal emission. Additionally, the high CRIRs estimated in NGC 253's CMZ can be explained by the large number of cosmic-ray-producing sources as well as a potential suppression of cosmic-ray diffusion near their injection sites.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Turbulent Pressure Heats Gas and Suppresses Star Formation in Galactic Bar Molecular Clouds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8631</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8631</guid>
+<content:encoded><![CDATA[
+
+The Central Molecular Zone (CMZ) of the Milky Way is fed by gas inflows from the Galactic disk along almost radial trajectories aligned with the major axis of the Galactic bar. However, despite being fundamental to all processes in the nucleus of the Galaxy, these inflows have been studied significantly less than the CMZ itself. We present observations of various molecular lines between 215 and 230 GHz for 20 clouds with ∣ℓ∣ < 10°, which are candidates for clouds in the Galactic bar due to their warm temperatures and broad lines relative to typical Galactic disk clouds, using the Atacama Large Millimeter/submillimeter Array Atacama Compact Array. We measure gas temperatures, shocks, star formation rates, turbulent Mach numbers, and masses for these clouds. Although some clouds may be in the Galactic disk despite their atypical properties, nine clouds are likely associated with regions in the Galactic bar, and in these clouds, turbulent pressure is suppressing star formation. In clouds with no detected star formation, turbulence is the dominant heating mechanism, whereas photoelectric processes heat the star-forming clouds. We find that the ammonia (NH3) and formaldehyde (H2CO) temperatures probe different gas components, and in general, each transition appears to trace different molecular gas phases within the clouds. We also measure the CO-to-H2 X-factor in the bar to be an order of magnitude lower than the typical Galactic value. These observations provide evidence that molecular clouds achieve CMZ-like properties before reaching the CMZ.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>GOALS-JWST: The Warm Molecular Outflows of the Merging Starburst Galaxy NGC 3256</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87d3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87d3</guid>
+<content:encoded><![CDATA[
+
+We present James Webb Space Telescope (JWST) integral-field spectrograph observations of NGC 3256, a local infrared-luminous late-stage merging system with two nuclei roughly 1 kpc apart, both of which have evidence of cold molecular outflows. Using JWST/NIRSpec and Mid-Infrared Instrument data sets, we investigate this morphologically complex system on spatial scales of <100 pc, where we focus on the warm molecular H2 gas surrounding the nuclei. We detect collimated outflowing warm H2 gas originating from the southern nucleus, though we do not find significant outflowing H2 gas surrounding the northern nucleus. We measure maximum intrinsic outflow velocities of ∼1000 km s−1, which extend out to a distance of 0.7 kpc. Based on H2 S(7)/S(1) ratios, we find a larger fraction of warmer gas near the southern nucleus, which decreases with increasing distance from the nucleus, signifying the southern nucleus as a primary source of H2 heating. The gas mass of the warm H2 outflow component is estimated to be Mwarm,out = (1.4 ± 0.2) × 106M⊙, as much as 6% of the cold H2 mass estimated using Atacama Large Millimeter/submillimeter Array CO data. The outflow timescale is about 7 × 105 yr, resulting in a mass outflow rate and kinetic power Pwarm,out ∼ 4 × 1041 erg s−1. Lastly, regions within our 3.″0 × 3.″0 NIRSpec data, where the outflowing gas reside show high [Fe ii]/Paβ and H2/Brγ line ratios, indicate enhanced mechanical heating caused by the outflows. The fluxes and ratios of polycyclic aromatic hydrocarbons (PAHs) in these regions are not significantly different compared to those elsewhere in the disk, suggesting the outflows may not significantly alter the PAH ionization state or grain size.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Buddy for Betelgeuse: Binarity as the Origin of the Long Secondary Period in α Orionis</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f4</guid>
+<content:encoded><![CDATA[
+
+We predict the existence of α Ori B, a low-mass companion orbiting Betelgeuse. This is motivated by the presence of a 2170 day long secondary period (LSP) in Betelgeuse’s lightcurve, a periodicity that is ≈5 times longer than the star’s 416 day fundamental radial pulsation mode. While binarity is currently the leading hypothesis for LSPs in general, the LSP and the radial velocity (RV) variations observed in Betelgeuse, taken together, necessitate a revision of the prevailing physical picture. Specifically, the lightcurve–RV phase difference requires a companion to be behind Betelgeuse at the LSP luminosity minimum, ≈180° out of phase with the system orientation associated with occultation. We demonstrate the consistency of this model with available observational constraints and identify tensions in all other proposed LSP hypotheses. Within this framework, we calculate a mass for α Ori B of and an orbital separation of 1850 ± 70 R⊙, or times the radius of Betelgeuse. We then describe the features of the companion as constrained by the fundamental parameters of Betelgeuse and its orbital system, and discuss what would be required to confirm the companion’s existence observationally.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Sun-as-a-Star Spectral Line Variability in the 300–2390 nm Wavelength Range</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad888f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad888f</guid>
+<content:encoded><![CDATA[
+
+Combining the near-daily Ozone Monitoring Instrument (OMI) and Tropospheric Monitoring Instrument (TROPOMI) measurements of solar spectra, we construct line indices (line-core to line-flanks ratios) for various transitions (mainly Fe i) in the 300–2390 nm spectral domain. The indices are supplemented by the wavelength-binned fluxes from OMI and Total and Spectral Solar Irradiance Sensor (TSIS-1). To study the short-term (solar-rotational) patterns, we normalize the indices and fluxes to the minimum-activity epoch, then de-trend them with 81 day running means. Comparisons of the de-trended TSIS-1 and OMI fluxes with the NASA-NOAA-LASP SSI (NNLSSI1) model show excellent agreement, to (0.5–2.2) × 10−4 in the normalized and de-trended data. The data are subjected to a multiregression analysis against quantities representing the facular brightening and the sunspot darkening. The de-trended line indices and average fluxes show different sensitivities to these two solar magnetic-activity manifestations, with the fluxes being far more susceptible to the sunspot component. The de-trended line indices experience a rapid drop of activity levels towards longer wavelengths, albeit with a large rebound in the short-wave infrared (SWIR) domain that is caused by the ubiquitous, temperature-sensitive CO transitions. The wavelength-dependent activity also falls, however much slower, in the de-trended average fluxes. Qualitatively similar behavior is captured by semiempirical models.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraints on Common Envelope Ejection from Double Helium White Dwarfs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ef</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ef</guid>
+<content:encoded><![CDATA[
+
+Double helium white dwarfs (He WDs) are a type of gravitational wave source and are greatly important in studies of binary interaction, particularly in common envelope (CE) ejection physics. Most double He WDs with mass ratios of q ∼ 1 are formed through a particular channel. In this channel, one He WD is initially produced from a red giant (RG) with a degenerate core via stable Roche lobe overflow, and another He WD is formed from an RG with a degenerate core via CE ejection. They may have significant implications for binary evolution processes but have not received specific studies, especially for the CE phase. This paper adopts a semianalytic method and a detailed stellar evolution simulation to model the formation of double He WDs. We find that most double He WDs show mass ratios slightly greater than 1, and their orbital period–mass ratio relations are broadly consistent with observations. There is also a relation between the mass ratios and progenitor masses of the He WDs produced via CE ejection for double He WDs with determined WD masses. Based on this relation, the mass of the He WD progenitor can be inferred from the mass ratio. Then, the CE ejection efficiency can be constrained with the orbital period. In addition, we constrain the CE ejection efficiency for two double He WDs, J1005-2249 and WD0957-666. The results show that the CE ejection efficiencies increase with the WD progenitor masses.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Identifying New High-confidence Polluted White Dwarf Candidates Using Gaia XP Spectra and Self-organizing Maps</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f5</guid>
+<content:encoded><![CDATA[
+
+The identification of new white dwarfs (WDs) polluted with heavy elements is important since they provide a valuable tool for inferring the chemical properties of putative planetary systems accreting material on their surfaces. The Gaia space mission has provided us with an unprecedented amount of astrometric, photometric, and low-resolution (XP) spectroscopic data for millions of newly discovered stellar sources, among them thousands of WDs. In order to find WDs among these data and to identify which ones have metals in their atmospheres, we propose a methodology based on an unsupervised artificial intelligence technique called self-organizing maps. In our approach, a nonlinear high-dimensional data set is projected on a 2D grid map where similar elements fall into the same neuron. By applying this method, we obtained a clean sample of 66,337 WDs. We performed an automatic spectral classification analysis on them, obtaining 143 bona fide polluted WD candidates not previously classified in the literature. The majority of them are cool WDs and we identify in their XP spectra several metallic lines such as Ca, Mg, Na, Li, and K. The fact that we obtain similar precision metrics to those achieved with recent supervised techniques highlights the power of our unsupervised approach to mine the Gaia archives for hidden treasures to follow up spectroscopically with higher resolution.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mass Function of Stellar Black Holes as Revealed by the LIGO–Virgo–KAGRA Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b43</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b43</guid>
+<content:encoded><![CDATA[
+
+Ninety gravitational-wave events have been detected by the LIGO–Virgo–KAGRA network and are released in the Gravitational-Wave Transient Catalog. Among these events, 83 cases are definitely binary black hole mergers, since the masses of all the objects involved significantly exceed the upper limit of neutron stars. The black holes in these merger events naturally form two interesting samples, a premerger sample that includes all the black holes before the mergers and a postmerger sample that consists of the black holes generated during the merging processes. The former represents black holes that once existed in the Universe, while the latter represents newly born black holes. Here we present a statistical analysis of these two samples. The nonparametric τ statistic method is adopted to correct for the observational selection effect. The Lynden-Bell C− method is further applied to derive the mass distribution and density function of black holes. It is found that the mass distribution can be expressed as a broken power-law function. More interestingly, the power-law index in the high-mass region is comparable for the two samples. The number density of black holes is found to depend on redshift as ρ(z) ∝ z−2.06—z−2.12 based on the two samples. The implications of these findings on the origin of black holes are discussed.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Estimating the Masses of Supercluster-scale Filaments from Redshift Dispersions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba8</guid>
+<content:encoded><![CDATA[
+
+We present a strategy for estimating the mass per unit length along supercluster-scale filaments that are oriented across the sky, based on mock redshift surveys of 264 filaments from the Millennium simulation. In our fiducial scenario, we place each simulated filament at a distance of 300 Mpc, perpendicular to the line of sight, and calculate the redshift dispersion using galaxies with magnitudes r < 19.5. Some regions are dynamically complicated in ways that interfere with finding a simple relationship between dispersion σ and linear mass density μ. However, by examining individual overlapping segments along the filaments, we find a relationship that allows us to successfully predict from with a scatter of about ±0.20 dex, for ∼70% of the regions along filaments. This relationship is robust to changes in the distance to the filament if the physical segment length and the absolute magnitude for galaxy selection are held constant. The relationship between redshift dispersion and mass is similar to that obtained for a simple analytical model where filaments are dynamically relaxed, and we examine the possibility that the galaxies are indeed relaxed within the gravitational potential of the filament. We find that this is not the case; galaxy dynamics are strongly affected by infall to the filament and by orbits within groups and clusters.
+]]></content:encoded>
+
+<pubDate>2024-11-29T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Efficient and Accurate Force Replay in Cosmological-baryonic Simulations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f0</guid>
 <content:encoded><![CDATA[
-
 We construct time-evolving gravitational potential models for a Milky Way–mass galaxy from the FIRE-2 suite of cosmological-baryonic simulations using basis function expansions. These models capture the angular variation with spherical harmonics for the halo and azimuthal harmonics for the disk, and the radial or meridional plane variation with splines. We fit low-order expansions (four angular/harmonic terms) to the galaxy’s potential for each snapshot, spaced roughly 25 Myr apart, over the last 4 Gyr of its evolution, then extract the forces at discrete times and interpolate them between adjacent snapshots for forward orbit integration. Our method reconstructs the forces felt by simulation particles with high fidelity, with 95% of both stars and dark matter, outside of self-gravitating subhalos, exhibiting errors ≤4% in both the disk and the halo. Imposing symmetry on the model systematically increases these errors, particularly for disk particles, which show greater sensitivity to imposed symmetries. The majority of orbits recovered using the models exhibit positional errors ≤10% for 2–3 orbital periods, with higher errors for orbits that spend more time near the galactic center. Approximate integrals of motion are retrieved with high accuracy even with a larger potential sampling interval of 200 Myr. After 4 Gyr of integration, 43% and 70% of orbits have total energy and angular momentum errors within 10%, respectively. Consequently, there is higher reliability in orbital shape parameters such as pericenters and apocenters, with errors ∼10% even after multiple orbital periods. These techniques have diverse applications, including studying satellite disruption in cosmological contexts.
 ]]></content:encoded>
-
 <pubDate>2024-11-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +140,8 @@ We construct time-evolving gravitational potential models for a Milky Way–mass
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad891d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad891d</guid>
 <content:encoded><![CDATA[
-
 Volatiles like H2O are present as ice in solids in the cold outer regions of protoplanetary disks and as vapor in the warm inner regions within the water snow line. Icy pebbles drifting inwards from the outer disk sublimate after crossing the snow line, enriching the inner disk with solid mass and water vapor. Meanwhile, protoplanets forming within the disk open gaps in the disk gas, creating traps against the inward drift of pebbles and in turn reducing water enrichment in the inner disk. Recent disk observations from millimeter interferometry and infrared spectroscopy have supported this broad picture by finding a correlation between the outer radial distribution of pebbles and the properties of inner water vapor spectra. In this work, we aim at further informing previous and future observations by building on previous models to explore pebble drift in disks with multiple gaps. We systematically explore multiple gap locations and their depths (equivalent to the specific masses of planets forming within), and different particle sizes to study their impact on inner disk water enrichment. We find that the presence of close-in deep gaps carved by a Jupiter-mass planet is likely crucial for blocking icy pebble delivery into the inner disk, while planets with lower masses only provide leaky traps. We also find that disks with multiple gaps show lower vapor enrichment in the inner disk. Altogether, these model results support the idea that inner disk water delivery and planet formation are regulated by the mass and location of the most massive planets.
 ]]></content:encoded>
-
 <pubDate>2024-11-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +149,10 @@ Volatiles like H2O are present as ice in solids in the cold outer regions of pro
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1e</guid>
 <content:encoded><![CDATA[
-
 We use a sample of 73 simulated satellite and central dwarf galaxies spanning a stellar mass range of 105.3–109.1M⊙ to investigate the origin of their stellar age gradients. We find that dwarf galaxies often form their stars “inside-out,” i.e., the stars form at successively larger radii over time. However, the oldest stars get reshuffled beyond the star-forming radius by fluctuations in the gravitational potential well caused by stellar feedback (the same mechanisms that cause dwarfs to form dark matter cores). The result is that many dwarfs appear to have an “outside-in” age gradient at z = 0, with younger stellar populations more centrally concentrated. However, for the reshuffled galaxies with the most extended star formation, young stars can form out to the large radii to which the old stars have been reshuffled, erasing the age gradient. We find that major mergers do not play a significant role in setting the age gradients of dwarfs. We find similar age gradient trends in satellites and field dwarfs, suggesting that environment plays only a minor role, if any. Finally, we find that the age gradient trends are imprinted on the galaxies at later times, suggesting that the stellar reshuffling dominates after the galaxies have formed 50% of their stellar mass. The later reshuffling is at odds with results from the fire-2 simulations. Hence, age gradients offer a test of current star formation and feedback models that can be probed via observations of resolved stellar populations.
 ]]></content:encoded>
-
 <pubDate>2024-11-29T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>21cmlstm: A Fast Memory-based Emulator of the Global 21 cm Signal with Unprecedented Accuracy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</link>
@@ -11780,37 +11895,6 @@ Understanding the mechanisms underlying the heating of the solar atmosphere is a
 研究 健康 饮食 调查 数据分析
 
 通过对不同年龄段人群的饮食习惯进行调查和数据分析，研究发现了很多与健康相关的结论。首先，年轻人更偏好快餐和加工食品，而老年人更偏好传统的家常菜和新鲜食材。其次，饮食习惯与健康状况有直接的关联，比如高盐高油的饮食容易导致高血压和高血脂，而蔬菜水果丰富的饮食则有助于心血管健康。此外，调查还发现了不同地区、不同经济水平的人群饮食偏好的差异性，这也对相关政策的制定提出了建议。总的来说，这项研究揭示了饮食对健康的重要性，为人们提供了更多关于健康饮食的参考和建议。 <br /><br />总结: <div>
-]]></content:encoded>
-<pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “A NICER Viewing Angle on the Accretion Stream of Vela X-1” (2023, ApJ, 950, 170)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad70b9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad70b9</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 疫情、影响、经济、社会、防控
-
-疫情爆发对全球经济和社会产生了巨大的影响。许多国家的经济陷入衰退，失业率上升，贫困人口增加。封锁措施和旅行限制严重影响了全球供应链和贸易。然而，一些行业如医疗保健、电子商务等却迅速发展。在疫情防控方面，各国采取了不同的措施，包括封锁、检测、疫苗接种等，取得了一定成效。总的来说，疫情对全球经济和社会造成了深远影响，也促使各国加强合作，共同抗击疫情。 <br /><br />总结:疫情爆发对全球经济和社会产生了巨大的影响，导致许多国家经济衰退和失业率上升，但也促发了一些行业的发展；疫情防控措施各异，但取得一定成效；全球合作加强，共同抗击疫情。 <div>
-]]></content:encoded>
-<pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “Filament Formation due to Diffusive Instabilities in Dusty Protoplanetary Disks” (2024, ApJ, 961, 183)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad702f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad702f</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 足球, 比赛, 球员, 进球, 胜利
-总结:<br /><br />这篇文章主要讲述了一场激烈的足球比赛。在比赛中，球员们展现出了顽强的拼搏精神，经过激烈的对抗，最终取得了胜利。每个球员都拼尽全力，努力进球并保护自己的球门。最终，他们战胜了对手，取得了比赛的胜利。这场胜利不仅仅是对球员们的奖励，也是对他们团队合作和努力的肯定。无论在比赛中遇到了多大的困难，他们都保持着信心和毅力，最终取得了胜利。这场比赛充分展现了团队的合作精神和个人的拼搏精神，也向观众展示了激烈的比赛场面和精彩的进球瞬间。足球比赛不仅是一场体育竞技，更是一场团队合作和个人拼搏的结晶。 <div>
-]]></content:encoded>
-<pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “Molecules in Cool Stars: The A2Π – X2Σ+ and the B2Σ+ – X2Σ+ Band Systems of CaCl” (2024, ApJ, 970, 13)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7136</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7136</guid>
-<content:encoded><![CDATA[
-<div> 关键词：危机，领导力，沟通，团队合作，决策
-总结:<br /><br />这篇文章主要讨论了在危机时期，领导力的重要性以及如何通过有效的沟通、团队合作和明智的决策来应对危机。首先，领导者需要展现出坚定的领导力，引领团队应对不断变化的挑战。其次，良好的沟通是解决危机的关键，领导者需要及时传递信息，倾听团队意见，并与团队保持紧密联系。同时，团队合作也至关重要，团队成员应相互支持，共同努力应对危机。最后，在危机中做出明智的决策也是领导者的责任，需要全面考量各种因素，采取能够最大限度减轻危机影响的措施。总之，危机时期，领导者要发挥领导力，推动团队有效沟通、紧密合作，并做出明智决策，才能有效化解危机。 <div>
 ]]></content:encoded>
 <pubDate>2024-09-18T23:00:00Z</pubDate>
 </item>
