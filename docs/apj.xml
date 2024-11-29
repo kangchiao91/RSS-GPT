@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>21cmlstm: A Fast Memory-based Emulator of the Global 21 cm Signal with Unprecedented Accuracy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</guid>
 <content:encoded><![CDATA[
-
 Neural network (NN) emulators of the global 21 cm signal need an emulation error much less than the observational noise in order to be used to perform unbiased Bayesian parameter inference. To this end, we introduce 21cmLSTM—a long short-term memory (LSTM) NN emulator of the global 21 cm signal that leverages the intrinsic correlation between frequency channels to achieve exceptional accuracy compared to previous emulators, which are all feedforward, fully connected NNs. LSTM NNs are a type of recurrent NN designed to capture long-term dependencies in sequential data. When trained and tested on the same simulated set of global 21 cm signals as the best previous emulators, 21cmLSTM has an average relative rms error of 0.22%—equivalently 0.39 mK—and comparably fast evaluation time. We perform seven-dimensional Bayesian parameter estimation analyses using 21cmLSTM to fit global 21 cm signal mock data with different adopted observational noise levels, σ21. The posterior 1σ rms error is ≈three times less than σ21 for each fit and consistently decreases for tighter noise levels, showing that 21cmLSTM can sufficiently exploit even very optimistic measurements of the global 21 cm signal. We have made the emulator, code, and data sets publicly available so that 21cmLSTM can be independently tested and used to retrain and constrain other 21 cm models.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ Neural network (NN) emulators of the global 21 cm signal need an emulation error
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc4</guid>
 <content:encoded><![CDATA[
-
 We report a cyclic variation of the O − C diagram with a semiamplitude of 0.0033 days and a period of 1.05 yr for the pulsating eclipsing binary HZ Dra. The cyclic variation can be explained by the light travel-time effect via the presence of a close-in third body orbiting around HZ Dra in an elliptical orbit with a maximum semimajor axis of 0.89 au. Based on the Wilson–Devinney code, the contribution of the third light to the total system is determined to be 29.0%, which is in agreement with the estimated value. Our light-curve modeling indicates an evolving hot and cool spot on the surface of the primary and secondary components, respectively. Their positions are roughly symmetrical to the inner Lagrangian point L1, which could be used to explain the variation in the O'Connell effect. Our frequency analysis detects one radial p-mode, seven nonradial p-modes, and one nonradial g-mode. In addition, a total of six multiplets are identified, spaced by the orbital frequency, which can be explained as a tidally split mode caused by the equilibrium tides of the close binary system with a circular orbit. These pulsating features suggest that the primary of HZ Dra is a δ Scuti star, pulsating in both p- and g-mode and influenced by tidal forces.
 ]]></content:encoded>
-
 <pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Evolution of Binaries Embedded Within Common Envelopes</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84ee</link>
@@ -11782,29 +11778,6 @@ Understanding the mechanisms underlying the heating of the solar atmosphere is a
 <content:encoded><![CDATA[
 <div> 关键词：危机，领导力，沟通，团队合作，决策
 总结:<br /><br />这篇文章主要讨论了在危机时期，领导力的重要性以及如何通过有效的沟通、团队合作和明智的决策来应对危机。首先，领导者需要展现出坚定的领导力，引领团队应对不断变化的挑战。其次，良好的沟通是解决危机的关键，领导者需要及时传递信息，倾听团队意见，并与团队保持紧密联系。同时，团队合作也至关重要，团队成员应相互支持，共同努力应对危机。最后，在危机中做出明智的决策也是领导者的责任，需要全面考量各种因素，采取能够最大限度减轻危机影响的措施。总之，危机时期，领导者要发挥领导力，推动团队有效沟通、紧密合作，并做出明智决策，才能有效化解危机。 <div>
-]]></content:encoded>
-<pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Erratum: “Feedback in Emerging extragAlactic Star ClusTers: JWST Spots Polycyclic Aromatic Hydrocarbon Destruction in NGC 628 during the Emerging Phase of Star Formation” (2024, ApJ, 971, 32)</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74ee</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74ee</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 社交媒体, 心理健康, 影响, 研究, 措施
-总结:
-社交媒体对青少年心理健康有着深远的影响，研究表明过度使用社交媒体会导致焦虑、抑郁等心理问题。青少年在社交媒体上所受到的负面影响需要引起重视，家长和学校应该采取措施来帮助他们建立积极健康的线上和线下生活。培养他们正确的社交媒体使用习惯，教育他们分辨虚假信息和负面情绪的内容，以及加强心理健康教育，都是很重要的举措。同时，青少年自身也需要意识到社交媒体可能带来的负面影响，学会控制使用时间，避免沉迷，建立健康的心态和生活方式。 <div>
-]]></content:encoded>
-<pubDate>2024-09-18T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Targeted Search for Variable Gravitationally Lensed Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5dad</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5dad</guid>
-<content:encoded><![CDATA[
-<div> 关键词: photometric variability, gravitationally lensing, Dark Energy Spectroscopic Instrument, quasar candidates, difference imaging<br />
-<br />
-这篇文章介绍了在Dark Energy Spectroscopic Instrument Legacy Imaging Surveys中识别具有强引力透镜特征的光变现象的方法。他们应用了一个修改后的算法来搜索引力透镜类星体，发现了13个新的引力透镜类星体候选者。他们的搜索方法不同于其他算法，它们不仅依赖于候选系统的形态、位置和颜色，还考虑了假定的透镜图像的时间光变。他们还将这个算法应用到了过去的引力透镜类星体搜索中，并发现了13个显示明显光变的候选者。这个管道方法展示了一种有希望的搜索策略，可以在其他现有和即将到来的调查中发现引力透镜类星体。<br /><br />总结: 本文介绍了一种新的方法来识别引力透镜类星体，并应用到了大量的数据中，发现了多个新的引力透镜类星体候选者。他们的方法考虑了光变现象，与以往不同，这表明了一种有潜力的搜索策略。 <div>
-We present a pipeline to identify photometric variability within strong gravitationally lensing candidates, in the Dark Energy Spectroscopic Instrument Legacy Imaging Surveys. In our first paper, we laid out our pipeline and presented seven new gravitationally lensed supernovae candidates in a retrospective search. In this companion paper, we apply a modified version of that pipeline to search for gravitationally lensed quasars. From a sample of 5807 strong lenses, we have identified 13 new gravitationally lensed quasar candidates (three of them quadruply lensed). We note that our methodology differs from most lensed quasar search algorithms that solely rely on the morphology, location, and color of the candidate systems. By also accounting for the temporal photometric variability of the posited lensed images in our search via difference imaging, we have discovered new lensed quasar candidates. While variability searches using difference imaging algorithms have been done in the past, they are typically performed over vast swathes of the sky, whereas we specifically target strong gravitationally lensed candidates. We also have applied our pipeline to 655 known gravitationally lensed quasar candidates from past lensed quasar searches, of which we identified 13 that display significant variability (one of them quadruply lensed). This pipeline demonstrates a promising search strategy to discover gravitationally lensed quasars in other existing and upcoming surveys.
 ]]></content:encoded>
 <pubDate>2024-09-18T23:00:00Z</pubDate>
 </item>
