@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Search for High-excitation Emission Lines from a Quasar-scale Active Nucleus in Arp 220</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eb0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eb0</guid>
+<content:encoded><![CDATA[
+
+The late-stage galaxy merger and prototypical ultraluminous infrared galaxy (ULIRG) Arp 220 is probed using the JWST Mid Infrared Instrument medium-resolution spectrometer to search for multiple diagnostic active galactic nuclei (AGN) emission lines in the low-interstellar-opacity spectral ranges of 5.3–7.9 μm and 12.9–16.0 μm. We detect none of the characteristic high-excitation AGN emission lines. The most diagnostic nondetections are of the [Ne vi] λ 7.652 μm and [Ne v] λ 14.32 μm lines, for which the combined upper limit is ∼10–20 times fainter than the equivalent limit from Spitzer data. We also use X-ray measurements of the reflected Fe Kα line to suggest a relatively low X-ray luminosity. These results suggest that the high obscuration observed along the line of sight to the nuclei of Arp 220 is isotropic and keeps any high-excitation emission from a putative AGN from escaping. An implication is that the observed mid-infrared output of the nuclei is essentially their bolometric luminosity, i.e., no significant additional energy escapes. We utilize this result to show that any embedded AGNs are accreting at no more than ∼5% of the Eddington rate, lower than many theoretical predictions for this stage of ULIRG evolution.
+]]></content:encoded>
+
+<pubDate>2024-12-02T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Viscous Transonic Accretion Flows in Kerr Black Hole Geometry</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84dd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84dd</guid>
+<content:encoded><![CDATA[
+
+We study viscous transonic accretion flows in vertical equilibrium in Kerr geometry. We employ the pseudo-Kerr formalism that accurately describes transonic flows around Kerr black holes and is applicable for modeling observational data. We study the effects of viscosity on the nature of sonic points and the parameter space that allows an accretion flow to possess multiple sonic points. We concentrate on the accretion solutions that can have centrifugal pressure supported shock waves and find that the shocks are weaker and are located farther from the black hole as the viscosity is enhanced. Moreover, if the viscosity is greater than a critical value, shocks do not form and the accretion flow can pass only through the inner sonic point close to the black hole and remains subsonic and Keplerian throughout the accretion disk. Since the resonance oscillation frequencies of the shock waves provide a measure of the observed quasiperiodic oscillation (QPO) frequencies, and since the location of shock waves depend on the spin of a black hole, it is clear that the QPO frequencies must depend on the spin of black hole as well. Our pseudo-Kerr approach makes it easier to compute spectra from an accretion flow with viscous dissipation and radiative cooling around a spinning black hole.
+]]></content:encoded>
+
+<pubDate>2024-12-02T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Volatile Element Depletion of Carbonaceous Chondrites—Insights from Mass-dependent Zinc, Cadmium, and Tellurium Isotope Variations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87ed</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87ed</guid>
+<content:encoded><![CDATA[
+
+The origin of volatile depletion in the solar system remains a topic of intense debate. To further inform our understanding of the mechanisms involved, this study characterized the mass-dependent Zn, Cd, and Te isotope compositions and concentrations of a comprehensive suite of carbonaceous chondrites (CCs). In accord with previous studies, Zn and Te display covariations between light isotope enrichments and elemental depletions. Observed here for the first time, Cd shows a similar trend. These correlations are consistent with the interpretation that the primary volatile element budgets of CCs were established by mixing of a volatile-rich CI-like matrix and a volatile-depleted non-matrix endmember (NME) in the solar nebula. All three elements display minor isotopic variations in CI and CM chondrites, as a consequence of aqueous alteration at low temperatures. In contrast, Cd and Te isotope compositions and concentrations are highly variable in CV and CO (Cd) and CK chondrites (Te). This reflects mobilization of the elements during thermal metamorphism at distinct redox conditions. The data of this study show that the NME has Zn, Cd, and Te concentrations that are depleted to an identical level of 0.12 ± 0.03 × CI chondrites, and it is characterized by mass-dependent isotope compositions for all three elements that are fractionated to light isotope values relative to CIs by a similar extent. In conjunction with literature data, this suggests that the concentrations and isotope compositions of NME volatiles record the same depletion processes, and that the NME volatile inventory is likely hosted predominantly in chondrules.
+]]></content:encoded>
+
+<pubDate>2024-12-02T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad891f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad891f</guid>
 <content:encoded><![CDATA[
-
 Vertical mixing is a crucial disequilibrium process in exoplanet atmospheres, significantly impacting chemical abundance and observed spectra. While current state-of-the-art observations have detected its signatures, the effect of vertical mixing on atmospheric spectra varies widely based on planetary parameters. In this study, we explore the influence of disequilibrium chemistry across a parameter space that includes eddy diffusion, surface gravity, internal and equilibrium temperature, and metallicity. We also assess the effectiveness of retrieval models in constraining the eddy diffusion coefficient. By running numerous 1D chemical kinetics models, we investigate the impact of vertical mixing on the transmission spectrum. We also built a custom fast-forward disequilibrium model, which includes vertical mixing using the quenching approximation and calculates the model abundance orders of magnitude faster than the chemical kinetics model. We coupled this forward model with an open-source atmospheric retrieval code, used it on the JWST simulated output data of our chemical kinetics model, and retrieved eddy diffusion coefficient, internal temperature, and atmospheric metallicity. We find that there is a narrow region in the parameter space in which vertical mixing has a large effect on the atmospheric transmission spectrum. In this region of the parameter space, the retrieval model can put high constraints on the transport strength and provide optimal exoplanets to study vertical mixing. In addition, the NH3 abundance can be used to constrain the internal temperature for equilibrium temperature Tequi > 1400 K.
 ]]></content:encoded>
-
 <pubDate>2024-12-02T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ Vertical mixing is a crucial disequilibrium process in exoplanet atmospheres, si
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1c</guid>
 <content:encoded><![CDATA[
-
 We present rest-frame optical spectra from Keck/MOSFIRE and Keck/NIRES of 16 candidate ultramassive galaxies targeted as part of the Massive Ancient Galaxies at z > 3 Near-Infrared Survey (MAGAZ3NE). These candidates were selected to have photometric redshifts 3 ≲ zphot <4, photometric stellar masses > 11.7, and well-sampled photometric spectral energy distributions (SEDs) from the UltraVISTA and VIDEO surveys. In contrast to previous spectroscopic observations of blue star-forming and poststarburst ultramassive galaxies, candidates in this sample have very red SEDs implying significant dust attenuation, old stellar ages, and/or active galactic nuclei (AGN). Of these galaxies, eight are revealed to be heavily dust-obscured 2.0 < z < 2.7 galaxies with strong emission lines, some showing broad features indicative of AGN, three are Type I AGN hosts at z > 3, one is a z ∼ 1.2 dusty galaxy, and four galaxies do not have a confirmed spectroscopic redshift. In fact, none of the sample has ∣zspec − zphot∣ < 0.5, suggesting difficulties for photometric redshift programs in fitting similarly red SEDs. The prevalence of these red interloper galaxies suggests that the number densities of high-mass galaxies are overestimated at z ≳ 3 in large photometric surveys, helping to resolve the “impossibly early galaxy problem” and leading to much better agreement with cosmological galaxy simulations. A more complete spectroscopic survey of ultramassive galaxies is required to pin down the uncertainties on their number densities in the early Universe.
 ]]></content:encoded>
-
 <pubDate>2024-12-02T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@ We present rest-frame optical spectra from Keck/MOSFIRE and Keck/NIRES of 16 can
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b25</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b25</guid>
 <content:encoded><![CDATA[
-
 We have developed a new method of multiwavelength data combination for the search of late-type radio dwarfs, and have put it into practice using GLEAM-X DR1 data. The initial sample is selected by cross-matching the Gaia/DR3 objects with the probability of being a star no less than 99%, and removing the extragalactic objects assigned by the SIMBAD database. The late-type dwarf stars are judged according to their location in the (BP − RP)0/MG color–magnitude diagram and in the (J − H)0/(K − W1)0 near-infrared color–color diagram. Furthermore, stellar activity is searched by ultraviolet excess in the GALEX/NUV band and the Rossby number in the TESS light curves. In total, 12 stars are found to be late-type dwarf stars associated with radio source, which consists of five stars with UV excess and seven stars with a Rossby number less than 0.13. Three of these 12 stars are previously studied to be associated with radio objects. All these 12 stars are considered to be reliable counterparts of radio sources.
 ]]></content:encoded>
-
 <pubDate>2024-12-02T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@ We have developed a new method of multiwavelength data combination for the searc
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b26</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b26</guid>
 <content:encoded><![CDATA[
-
 Stellar age measurements are fundamental to understanding a wide range of astronomical processes, including Galactic dynamics, stellar evolution, and planetary system formation. However, extracting age information from main-sequence stars is complicated, with techniques often relying on age proxies in the absence of direct measurements. The Gaia data releases have enabled detailed studies of the dynamical properties of stars within the Milky Way, offering new opportunities to understand the relationship between stellar age and dynamics. In this study, we leverage high-precision astrometric data from Gaia DR3 to construct a stellar age prediction model based only on stellar dynamical properties, namely the vertical action. We calibrate two distinct, hierarchical stellar age–vertical action relations, first employing asteroseismic ages for red-giant-branch stars, then isochrone ages for main-sequence turn-off stars. We describe a framework called zoomies based on this calibration, by which we can infer ages for any star given its vertical action. This tool is open-source and intended for community use. We compare dynamical age estimates from zoomies with age measurements from open clusters and asteroseismology. We use zoomies to generate and compare dynamical age estimates for stars from the Kepler, K2, and TESS exoplanet transit surveys. While dynamical age relations are associated with large uncertainty, they are generally mass independent and depend on homogeneously measured astrometric data. These age predictions are uniquely useful for large-scale demographic investigations, especially in disentangling the relationship between planet occurrence, metallicity, and age for low-mass stars.
 ]]></content:encoded>
-
 <pubDate>2024-12-02T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,13 +79,10 @@ Stellar age measurements are fundamental to understanding a wide range of astron
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b42</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b42</guid>
 <content:encoded><![CDATA[
-
 We investigated the influence of the Eddington ratio on sub-parsec-scale outflows in active galactic nuclei (AGNs) with supermassive black holes (SMBHs) masses of 107 M⊙ using two-dimensional radiation hydrodynamics simulations. When the range of the Eddington ratio is γEdd > 10−3, the radiation force exceeds the gas pressure, leading to stronger outflows and larger dust sublimation radius. Although the sub-parsec-scale outflows are a time-dependent phenomenon, our simulations demonstrated that the radial distributions can be well explained by the steady solutions of the spherically symmetric stellar winds. The dynamic structure of sub-parsec-scale outflows is influenced by the dust sublimation radius and the critical radii determined by the dynamical equilibrium condition. Although significantly affecting the outflow velocity, the Eddington ratio exerts minimal effects on temperature and number density distribution. Furthermore, our analytical solutions highlight the importance of the dust sublimation scale as a crucial determinant of terminal velocity and column density in dusty outflows. Through comparisons of our numerical model with the obscuring fraction observed in nearby AGNs, we reveal insights into the Eddington ratio dependence and the tendency toward the large obscuring fraction of the dusty and dust-free gases. The analytical solutions are expected to facilitate an understanding of the dynamical structure and radiation structures along the line of sight and their viewing angles from observations of ionized outflows.
 ]]></content:encoded>
-
 <pubDate>2024-12-02T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>KIC 10855535: An Elegant δ Scuti Pulsator with Amplitude and Phase Modulation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4c</link>
@@ -11696,67 +11719,6 @@ JWST spectroscopy has revolutionized our understanding of galaxies in the early 
 
 总结: 本研究使用了独立的放大测量来补充并验证了剪切的引力透镜效应。研究开发了一种新方法，可以准确而稳健地测量BOSS CMASS星系周围的放大效应。研究通过对深度DECaLS光度目录中受CMASS星系引力透镜的源星系的过量总荧光密度进行测量，并利用更深的光度样本建立了δμ–δM关系，进而将过量总荧光密度转换为放大效应μ。研究发现了CMASS星系周围介星介质中的陡峭尘埃衰减曲线及其径向分布，同时通过对比三个光学波段（grz）的放大测量，限制了尘埃衰减曲线。此外，对比尘埃校正的放大测量和不同宇宙学模型的模拟预测，发现了小尺度上的放大信号超出了模拟，这对暗物质性质和星系形成过程有重要影响。对此潜在的小尺度差异的影响进行了讨论。<br /><br />总结: <div>
 Magnification serves as an independent and complementary gravitational lensing measurement to shear. We develop a novel method to achieve an accurate and robust magnification measurement around BOSS CMASS galaxies across physical scales of 0.016h−1 Mpc < rp < 10h−1 Mpc. We first measure the excess total flux density δM of the source galaxies in the deep DECaLS photometric catalog that are lensed by CMASS galaxies. We convert δM to magnification μ by establishing the δμ–δM relation using a deeper photometric sample. By comparing magnification measurements in three optical bands (grz), we constrain the dust attenuation curve and its radial distribution, discovering a steep attenuation curve in the circumgalactic medium of CMASS galaxies. We further compare dust-corrected magnification measurements to model predictions from high-resolution dark matter-only (DMO) simulations in Wilkinson Microwave Anisotropy Probe (WMAP) and Planck cosmologies, as well as the hydrodynamic simulation TNG300-1, using precise galaxy–halo connections from the Photometric objects Around Cosmic webs method and the accurate ray-tracing algorithm P3MLens. For rp > 70h−1 kpc, our magnification measurements are in good agreement with both WMAP and Planck cosmologies, resulting in an estimation of the matter fluctuation amplitude of S8 = 0.816 ± 0.024. However, at rp < 70h−1 kpc, we observe an excess magnification signal, which is higher than the DMO model in Planck cosmology at 2.8σ and would be exacerbated if significant baryon feedback is included. Implications of the potential small scale discrepancy for the nature of dark matter and for the processes governing galaxy formation are discussed.
-]]></content:encoded>
-<pubDate>2024-09-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Coupled Disk-star Evolution in Galactic Nuclei and the Lifetimes of QPE Sources</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad639e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad639e</guid>
-<content:encoded><![CDATA[
-<div> EMRI, gravitational-wave radiation, gaseous accretion disk, star-disk collisions, quasiperiodic eruption
-
-总结:
-本文研究了在星系核心中，一小部分星体向中心的超大质量黑洞运动，其轨道呈现低偏心率，被引力波辐射驱动。在这种缓慢的螺旋吸积过程中，很可能会形成一个气态吸积盘。如果这期间发生了恒星和盘的碰撞，就会产生符合观测到的准周期性喷发现象的短暂耀斑。研究者建立了星-盘耦合演化的模型，自洽地考虑了从恒星碰撞和相关物质剥离进入盘中所注入的质量和热能。对于弱碰撞/剥离加热，盘具有热不稳定性，并且经历极限循环振荡，从而调制其性质，并导致持续数年到数十年的以太循环发作。强烈的碰撞/剥离加热则稳定了盘，使其以接近EMRI剥离速率的大致恒定速率进行吸积。无论哪种情况，通过剥离的恒星破坏时间，因此最大的QPE寿命，大约是102到103年，远远长于TDE后的回流吸积。QPE源的平静吸积盘在目前阶段可能是自持续的，主要由EMRI剥离提供。实际上，观测到的长期变化范围与碰撞提供的盘预测相当。QPE重现模式的改变，类似于在GSN 069中观察到的，可能是由于在状态转换后EMRI供盘和SMBH赤道面之间暂时的错位所引起的。 <div>
-A modest fraction of the stars in galactic nuclei fed toward the central supermassive black hole (SMBH) approach on low-eccentricity orbits driven by gravitational-wave radiation (extreme mass ratio inspiral (EMRI)). In the likely event that a gaseous accretion disk is created in the nucleus during this slow inspiral (e.g., via an independent tidal disruption event (TDE)), star–disk collisions generate regular short-lived flares consistent with the observed quasiperiodic eruption (QPE) sources. We present a model for the coupled star-disk evolution, which self-consistently accounts for mass and thermal energy injected into the disk from stellar collisions and associated mass ablation. For weak collision/ablation heating, the disk is thermally unstable and undergoes limit-cycle oscillations, which modulate its properties and lead to accretion-powered outbursts on timescales of years to decades, with a time-averaged accretion rate ∼0.1Ṁ Edd. Stronger collision/ablation heating acts to stabilize the disk, enabling roughly steady accretion at the EMRI-stripping rate. In either case, the stellar destruction time through ablation, and hence the maximum QPE lifetime, is ∼102–103 yr, far longer than fallback accretion after a TDE. The quiescent accretion disks in QPE sources may at the present epoch be self-sustaining and fed primarily by EMRI ablation. Indeed, the observed range of secular variability broadly matches those predicted for collision-fed disks. Changes in the QPE recurrence pattern following such outbursts, similar to that observed in GSN 069, could arise from temporary misalignment between the EMRI-fed disk and the SMBH equatorial plane as the former regrows its mass after a state transition.
-]]></content:encoded>
-<pubDate>2024-09-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Mapping the Distribution of the Magnetic Field Strength along the NGC 315 Jet</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad639f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad639f</guid>
-<content:encoded><![CDATA[
-<div> NGC 315, magnetic field strength, jet, black hole, magnetohydrodynamic model
-<br /><br />总结:
-本文研究了NGC 315射流中的磁场强度。首先，通过比较NGC 315的测量速度剖面与Tomimatsu和Takahashi提出的磁流体力学射流模型，估计了射流磁层中的角速度。类似于M87，我们发现该模型可以重现速度剖面的对数特征，并建议NGC 315具有一个缓慢旋转的黑洞磁层。通过将估计的ΩF代入Blandford-Znajek机制预测的射流功率中，我们估计了中心黑洞事件视界附近的磁场强度为5×10^3 G≲ BH ≲2×10^4 G。然后，通过比较通过长基线干涉测量（VLBI）观测获得的光谱指数分布与一个同步辐射射流模型，我们估计了射流中的磁场强度。然后，我们限制了离黑洞的去投影距离z的磁场强度在5.2×10^3 rg≲z≲4.9×10^4 rg范围内为0.06 G≲B(z)≲0.9 G，其中rg代表引力半径。通过结合事件视界和射流下游部分的获得的磁场强度，我们发现射流基部的吸积流与磁场阻滞盘一致。我们讨论了NGC 315和M87中射流功率和事件视界上锚定的磁通量的比较。 <div>
-We study magnetic field strengths along the jet in NGC 315. First, we estimated the angular velocity of rotation in the jet magnetosphere by comparing the measured velocity profile of NGC 315 with the magnetohydrodynamic jet model proposed by Tomimatsu and Takahashi. Similar to the case of M87, we find that the model can reproduce the logarithmic feature of the velocity profile and suggest a slowly rotating black hole magnetosphere for NGC 315. By substituting the estimated ΩF into the jet power predicted by the Blandford–Znajek mechanism, we estimate the magnetic field strength near the event horizon of the central black hole as 5 × 103 G ≲ BH ≲ 2 × 104 G. We then estimate magnetic field strengths along the jet by comparing the spectral index distribution obtained from very long baseline interferometry (VLBI) observations with a synchrotron-emitting jet model. Then we constrain the magnetic field strength at a deprojected distance z from the black hole to be in the range 0.06 G ≲ B(z) ≲ 0.9 G for 5.2 × 103rg ≲ z ≲ 4.9 × 104rg, where rg represents the gravitational radius. By combining the obtained field strengths at the event horizon and the downstream section of the jet, we find that the accretion flow at the jet base is consistent with a magnetically arrested disk. We discuss a comparison of the jet power and the magnetic flux anchored to the event horizon in NGC 315 and M87.
-]]></content:encoded>
-<pubDate>2024-09-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Revisiting Active Galactic Nucleus Placement on the Baldwin, Phillips, and Terlevich Diagram: A Spectral Decomposition Approach</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64ce</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64ce</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 单光纤光谱学, 积分场光谱单元, 星系光谱, SF和NonSF成分, BPT图谱
-
-总结:<br /><br />本文介绍了传统的单光纤光谱学在参数估计中可能存在的精度问题，以及积分场光谱单元（IFU）调查对减少污染的解决方案。通过使用从Apache Point Observatory IFU调查获得的见解，研究引入了一个新颖的模型，可以将星系光谱分解为SF和NonSF成分。将这一模型应用到Sloan Digital Sky Survey的数据集中，产生了两个独立的光谱。然后将这些分解后的光谱可视化在Baldwin、Phillips和Terlevich（BPT）图上，发现了有趣的模式。在BPT图上出现了非常显著的NonSF分解光谱的位置偏移，以及出现了两个明显的聚类。这一偏移突出了SF“污染”在影响NonSF光谱在BPT图上的位置上所扮演的关键角色。 <div>
-Traditional single-fiber spectroscopy provides a single galaxy spectrum, forming the basis for crucial parameter estimation. However, its accuracy can be compromised by various sources of contamination, such as the prominent Hα emission line originating from both star-forming (SF) regions and non-star-forming (NonSF) regions, including active galactic nuclei. The potential to dissect a spectrum into its SF and NonSF constituents holds the promise of significantly enhancing precision in parameter estimates. In contrast, integral field unit (IFU) surveys present a solution to minimize contamination. These surveys examine spatially localized regions within galaxies, reducing the impact of mixed sources. Although an IFU survey’s resulting spectrum covers a smaller region of a galaxy than single-fiber spectroscopy, it can still encompass a blend of heterogeneous sources. Our study introduces an innovative model informed by insights from the Mapping Nearby Galaxies at Apache Point Observatory IFU survey. This model enables the decomposition of galaxy spectra, including those from the Sloan Digital Sky Survey, into SF and NonSF components. Applying our model to these survey data sets produces two distinct spectra, one for SF and another for NonSF components, while conserving flux across wavelength bins. When these decomposed spectra are visualized on a Baldwin, Phillips, and Terlevich (BPT) diagram, interesting patterns emerge. There is a significant shift in the placement of the NonSF decomposed spectra, as well as the emergence of two distinct clusters in the Low-ionization Nuclear Emission-line Region and the Seyfert region. This shift highlights the key role of SF “contamination” in influencing the positioning of NonSF spectra within the BPT diagram.
-]]></content:encoded>
-<pubDate>2024-09-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Reducing Instrumental Errors in Parkes Pulsar Timing Array Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad656e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad656e</guid>
-<content:encoded><![CDATA[
-<div> pulsar timing array, instrumental calibration, arrival time estimation, millisecond pulsars, Parkes Radio Telescope
-<br />
-这篇论文研究了利用Murriyang 64 m CSIRO Parkes射电望远镜进行的9.6年毫秒脉冲星观测的最新仪器校准技术对到达时间精度的影响。研究集中在对25颗高优先级的脉冲星进行的21厘米观测，采用测量方程模板匹配（METM）进行仪器校准，矩阵模板匹配（MTM）进行到达时间估计，结果表明，与使用标量模板匹配和基于理想馈源假设的传统校准得到的到达时间相比，时间残差显著改善，白噪声降低了长达六倍。白噪声的中位相对降低值为33％，最大绝对降低值为4.5微秒。对于PSR J0437−4715，METM和MTM降低了到达时间残余中红噪声的最佳拟合幂律振幅（2.7σ）和谱指数（1.7σ），这可以暂时解释为减轻了由于未建模的偏振响应步骤而产生的1/f噪声。这些发现表明，通过更准确的仪器校准和到达时间估计方法，可以直接提高脉冲星定时阵列实验的灵敏度。<br /><br />总结: 这篇简报对使用先进的仪器校准技术对毫秒脉冲星的观测进行了研究。通过测量方程模板匹配和矩阵模板匹配，能显著改善到达时间的精度，并大幅降低白噪声，进而提高脉冲星定时阵列实验的灵敏度。 <div>
-This paper demonstrates the impact of state-of-the-art instrumental calibration techniques on the precision of arrival times obtained from 9.6 yr of observations of millisecond pulsars using the Murriyang 64 m CSIRO Parkes Radio Telescope. Our study focuses on 21 cm observations of 25 high-priority pulsars that are regularly observed as part of the Parkes Pulsar Timing Array project, including those predicted to be the most susceptible to calibration errors. We employ measurement equation template matching (METM) for instrumental calibration and matrix template matching (MTM) for arrival time estimation, resulting in significantly improved timing residuals with up to a sixfold reduction in white noise compared to arrival times estimated using scalar template matching and conventional calibration based on the ideal feed assumption. The median relative reduction in white noise is 33%, and the maximum absolute reduction is 4.5 μs. For PSR J0437−4715, METM and MTM reduce the best-fit power-law amplitude (2.7σ) and spectral index (1.7σ) of the red noise in the arrival time residuals, which can be tentatively interpreted as mitigation of 1/f noise due to otherwise unmodeled steps in polarimetric response. These findings demonstrate the potential to directly enhance the sensitivity of pulsar timing array experiments through more accurate methods of instrumental calibration and arrival time estimation.
-]]></content:encoded>
-<pubDate>2024-09-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Revised Reaction Rate for the Astrophysical Reaction 18O(p, α)15N via a Global R-matrix Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66d0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad66d0</guid>
-<content:encoded><![CDATA[
-<div> 18O(p, α)15N, isotopes, R-matrix analysis, reaction rate, Monte Carlo analysis
-<br /><br />总结:
-18O(p, α)15N反应对19F、18O和15N等重要同位素的丰度有着重要影响。天体巨星产生的光谱或陨石颗粒中观察到这些核素的异常丰度，而18O(p, α)15N反应可能有助于解释观测结果与模型预测之间的差异。研究通过综合考虑其他反应通道的约束条件，特别是首次纳入了15N+α散射数据进行了对18O(p, α)15N反应的全面R-矩阵分析。所有可用数据被编制并用于R-矩阵分析。拟合得到的共振参数与先前的研究进行了比较。基于目前的拟合参数，提取出了修订后的反应速率确定。然后通过蒙特卡罗分析获得了相应反应速率的不确定性。 <div>
-The 18O(p, α)15N reaction is of particular importance for influencing the abundances of key isotopes such as 19F, 18O, and 15N. Peculiar abundances for these nuclei are observed from spectra or meteorite grains originating in asymptotic giant branch stars. The 18O(p, α)15N could provide a way to explain the discrepancy between the observations and model predictions. A comprehensive R-matrix analysis has been performed for the 18O(p, α)15N reaction by including additional constraints from other reaction channels; in particular, the 15N+α scattering data were involved in the analysis for the first time. All available data were compiled and used in the R-matrix analysis. The fitted resonance parameters are compared with previous works. A revised determination of reaction rate has been extracted, relying on the present fitting parameters. The uncertainties on the corresponding reaction rates were then obtained by a Monte Carlo analysis.
 ]]></content:encoded>
 <pubDate>2024-09-22T23:00:00Z</pubDate>
 </item>
