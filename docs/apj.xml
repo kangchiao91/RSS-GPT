@@ -5,17 +5,37 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>The Second Case of a Major Merger Triggering a Starburst in a Green Pea Galaxy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd2</guid>
+<title>Accurately Estimating Redshifts from CSST Slitless Spectroscopic Survey Using Deep Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbf</guid>
 <content:encoded><![CDATA[
 
-We have used the Karl G. Jansky Very Large Array (VLA) to map H i 21 cm emission from the Green Pea galaxy GP J1148+2546 at z ≈ 0.0451, only the second measurement of the H i spatial distribution of a Green Pea. The VLA H i 21 cm image, the DECaLS optical image, and Sloan Digital Sky Survey spectroscopy show that GP J1148+2546 has two neighbors, the nearer of which is only ≈17.5 kpc away, and that the H i 21 cm emission extends in an inverted “C” shape around the Green Pea and its companions, with the highest H i column density between the two neighboring galaxies. The starburst in GP J1148+2546 is likely to have been triggered by the ongoing merger with its neighbors, although the velocity field and velocity dispersion images do not show clear merger signatures at the Green Pea location. The H i mass of the Green Pea and its immediate surroundings is (3.58 ± 0.37) × 109M⊙, a factor of ≈7.4 lower than the total H i mass of the system of three interacting galaxies, while the H i depletion timescale of GP J1148+2546 is ≈0.69 Gyr, much shorter than that of typical galaxies at z ≈ 0. We detect damped Lyα absorption and Lyα emission from the Green Pea in a Hubble Space Telescope Cosmic Origins Spectrograph spectrum, obtaining a high H i column density, ≈2.0 × 1021 cm−2, and a low Lyα escape fraction, ≈0.8%, consistent with the relatively low value (≈5.4) of the ratio O32 ≡ [O iii]λ5007 + λ4959/[O ii]λ3727,3729.
+Chinese Space Station Telescope (CSST) has the capability to conduct a slitless spectroscopic survey simultaneously with a photometric survey. The spectroscopic survey will measure slitless spectra, potentially providing more accurate estimations of galaxy properties, particularly redshifts, compared to using broadband photometry. CSST relies on these accurate redshifts to use baryon acoustic oscillations (BAOs) and other probes to constrain the cosmological parameters. However, due to the low resolution and signal-to-noise ratio of slitless spectra, measurement of redshifts is significantly challenging. In this study, we employ a Bayesian neural network (BNN) to assess the accuracy of redshift estimations from slitless spectra anticipated to be observed by CSST. The simulation of slitless spectra is based on real observational data from the early data release of the Dark Energy Spectroscopic Instrument (DESI-EDR) and the 16th data release of the Baryon Oscillation Spectroscopic Survey (BOSS-DR16), combined with the 9th data release of the DESI Legacy Survey (DESI LS DR9). The BNN is constructed employing a transfer learning technique, by appending two Bayesian layers after a convolutional neural network, leveraging the features learned from the slitless spectra and corresponding redshifts. Our network can provide redshift estimates along with corresponding uncertainties, achieving an accuracy of σNMAD = 0.00063, outlier percentage η = 0.92%, and weighted mean uncertainty . These results successfully fulfill the requirement of σNMAD < 0.005 for BAO and other studies employing CSST slitless spectroscopic surveys.
+]]></content:encoded>
+
+<pubDate>2024-12-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>PMN J1310–5552: A Gamma-Ray-emitting Blazar Candidate Harboring a Cosmic Monster</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9009</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9009</guid>
+<content:encoded><![CDATA[
+
+Relativistic jets manifest some of the most intriguing activities in the nuclear regions of active galaxies. Identifying the most powerful relativistic jets permits us to probe the most luminous accretion systems and, in turn, the most massive black holes. This paper reports the identification of one such object, PMN J1310−5552 (z = 1.56), a blazar candidate of uncertain type detected with the Fermi Large Area Telescope (LAT) and Swift Burst Alert Telescope. The detection of broad emission lines in its optical spectra taken with the X-Shooter and Goodman spectrographs classifies it to be a flat-spectrum radio quasar. The analysis of the Goodman optical spectrum has revealed PMN J1310−5552 harbors a massive black hole (log scale MBH = 9.90 ± 0.07, in M⊙) and luminous accretion disk (log scale Ldisk = 46.86 ± 0.03, in erg s−1). The fitting of the observed big blue bump with the standard accretion disk model resulted in the log scale MBH (in M⊙) and Ldisk (in erg s−1), respectively. These parameters suggest PMN J1310−5552 hosts one of the most massive black holes and the most luminous accretion disks among the blazar population. The physical properties of this enigmatic blazar were studied by modeling the broadband spectral energy distribution considering the data from NuSTAR, Swift, Fermi-LAT, and archival observations. Overall, PMN J1310−5552 is a powerful “MeV” blazar with physical parameters similar to other members of this unique class of blazars. These results provide glimpses of monsters lurking among the unknown high-energy emitters and demonstrate the importance of ongoing wide-field sky surveys to discover them.
 ]]></content:encoded>
 
 <pubDate>2024-12-03T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>The Second Case of a Major Merger Triggering a Starburst in a Green Pea Galaxy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd2</guid>
+<content:encoded><![CDATA[
+We have used the Karl G. Jansky Very Large Array (VLA) to map H i 21 cm emission from the Green Pea galaxy GP J1148+2546 at z ≈ 0.0451, only the second measurement of the H i spatial distribution of a Green Pea. The VLA H i 21 cm image, the DECaLS optical image, and Sloan Digital Sky Survey spectroscopy show that GP J1148+2546 has two neighbors, the nearer of which is only ≈17.5 kpc away, and that the H i 21 cm emission extends in an inverted “C” shape around the Green Pea and its companions, with the highest H i column density between the two neighboring galaxies. The starburst in GP J1148+2546 is likely to have been triggered by the ongoing merger with its neighbors, although the velocity field and velocity dispersion images do not show clear merger signatures at the Green Pea location. The H i mass of the Green Pea and its immediate surroundings is (3.58 ± 0.37) × 109M⊙, a factor of ≈7.4 lower than the total H i mass of the system of three interacting galaxies, while the H i depletion timescale of GP J1148+2546 is ≈0.69 Gyr, much shorter than that of typical galaxies at z ≈ 0. We detect damped Lyα absorption and Lyα emission from the Green Pea in a Hubble Space Telescope Cosmic Origins Spectrograph spectrum, obtaining a high H i column density, ≈2.0 × 1021 cm−2, and a low Lyα escape fraction, ≈0.8%, consistent with the relatively low value (≈5.4) of the ratio O32 ≡ [O iii]λ5007 + λ4959/[O ii]λ3727,3729.
+]]></content:encoded>
+<pubDate>2024-12-03T00:00:00Z</pubDate>
+</item>
 <item>
 <title>On the Stellar Disk Vertical Scale Height of Edge-on Galaxies from S4G</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d5</link>
@@ -11652,18 +11672,6 @@ The central regions of the Milky Way constitute a unique laboratory for a wide s
 <div> 高红移星系、Lyman连续发射、模型、脱逸量、星系性质
 总结:<br /><br />本研究利用Cox比例风险模型进行生存分析，开发了新的经验多元预测模型，用于预测Lyman连续发射的脱逸量。通过应用这些模型到高红移星系，发现了预测的脱逸量范围，并鉴定出几个可能的极端泄漏星系。研究还发现多元预测与单变量预测有显著不同，以及高红移星系的预测脱逸量可能会因使用星形率表面密度或半径作为星系形态测量而有显著差异。研究提供了使用这些模型预测高红移星系的所有必要参数。 <div>
 JWST is uncovering the properties of ever-increasing numbers of galaxies at z > 6, during the epoch of reionization. Connecting these observed populations to the process of reionization requires understanding how efficiently they produce Lyman continuum (LyC) photons and what fraction (fesc) of these photons escape into the intergalactic medium. By applying the Cox proportional hazards model, a survival analysis technique, to the Low-redshift Lyman Continuum Survey (LzLCS), we develop new, empirical, multivariate predictions for fesc. The models developed from the LzLCS reproduce the observed fesc for z ∼ 3 samples, which suggests that LyC emitters may share similar properties at low and high redshift. Our best-performing models for the z ∼ 3 galaxies include information about dust attenuation, ionization, and/or morphology. We then apply these models to z ≳ 6 galaxies. For large photometric samples, we find a median predicted fesc = 0.047–0.14. For smaller spectroscopic samples, which may include stronger emission-line galaxies, we find that ≥33% of the galaxies have fesc > 0.2, and we identify several candidate extreme leakers with fesc ≥ 0.5. The current samples show no strong trend between predicted fesc and UV magnitude, but limited spectroscopic information makes this result uncertain. Multivariate predictions can give significantly different results from single-variable predictions, and the predicted fesc for high-redshift galaxies can differ significantly depending on whether star formation rate surface density or radius is used as a measure of galaxy morphology. We provide all parameters necessary to predict fesc for additional samples of high-redshift galaxies using these models.
-]]></content:encoded>
-<pubDate>2024-09-23T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Detecting and Classifying Flares in High-resolution Solar Spectra with Supervised Machine Learning</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5be3</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳耀斑, 监督机器学习, 特征分类, 非线性核, 分类准确度<br />
-总结:<br />
-本文介绍了一种使用监督机器学习来分类太阳耀斑的标准化程序。研究使用来自RHESSI任务的耀斑数据和来自HARPS-N仪器的太阳光谱进行训练，并发现表现最好的算法是具有非线性核（特别是径向基函数RBF）的C-支持向量分类（SVC）。最佳训练模型SVC与RBF核的平均综合准确度得分为0.65，对于无耀斑和弱耀斑类别的分类准确度得分分别超过0.70。测试表明该模型能够在不同特征和分布的全新数据中检测和分类太阳耀斑。未来的努力可以集中在提高分类准确度，探索替代模型的有效性（特别是深度学习模型），并加入更多数据集，以扩展该框架在宿主系外行星的恒星上的应用。 <div>
-Flares are a well-studied aspect of the Sun’s magnetic activity. Detecting and classifying solar flares can inform the analysis of contamination caused by stellar flares in exoplanet transmission spectra. In this paper, we present a standardized procedure to classify solar flares with the aid of supervised machine learning. Using flare data from the RHESSI mission and solar spectra from the HARPS-N instrument, we trained several supervised machine-learning models, and found that the best-performing algorithm is C-Support Vector Classification (SVC) with nonlinear kernels, specifically radial basis functions (RBF). The best-trained model, SVC with RBF kernels, achieves an average aggregate accuracy score of 0.65, and categorical accuracy scores of over 0.70 for the no-flare and weak-flare classes, respectively. In comparison, a blind classification algorithm would have an accuracy score of 0.33. Testing showed that the model is able to detect and classify solar flares in entirely new data with different characteristics and distributions from those of the training set. Future efforts could focus on enhancing classification accuracy, investigating the efficacy of alternative models, particularly deep learning models, and incorporating more data sets to extend the application of this framework to stars that host exoplanets.
 ]]></content:encoded>
 <pubDate>2024-09-23T23:00:00Z</pubDate>
 </item>
