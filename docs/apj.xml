@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Accurately Estimating Redshifts from CSST Slitless Spectroscopic Survey Using Deep Learning</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbf</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbf</guid>
 <content:encoded><![CDATA[
-
 Chinese Space Station Telescope (CSST) has the capability to conduct a slitless spectroscopic survey simultaneously with a photometric survey. The spectroscopic survey will measure slitless spectra, potentially providing more accurate estimations of galaxy properties, particularly redshifts, compared to using broadband photometry. CSST relies on these accurate redshifts to use baryon acoustic oscillations (BAOs) and other probes to constrain the cosmological parameters. However, due to the low resolution and signal-to-noise ratio of slitless spectra, measurement of redshifts is significantly challenging. In this study, we employ a Bayesian neural network (BNN) to assess the accuracy of redshift estimations from slitless spectra anticipated to be observed by CSST. The simulation of slitless spectra is based on real observational data from the early data release of the Dark Energy Spectroscopic Instrument (DESI-EDR) and the 16th data release of the Baryon Oscillation Spectroscopic Survey (BOSS-DR16), combined with the 9th data release of the DESI Legacy Survey (DESI LS DR9). The BNN is constructed employing a transfer learning technique, by appending two Bayesian layers after a convolutional neural network, leveraging the features learned from the slitless spectra and corresponding redshifts. Our network can provide redshift estimates along with corresponding uncertainties, achieving an accuracy of σNMAD = 0.00063, outlier percentage η = 0.92%, and weighted mean uncertainty . These results successfully fulfill the requirement of σNMAD < 0.005 for BAO and other studies employing CSST slitless spectroscopic surveys.
 ]]></content:encoded>
-
 <pubDate>2024-12-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ Chinese Space Station Telescope (CSST) has the capability to conduct a slitless 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9009</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9009</guid>
 <content:encoded><![CDATA[
-
 Relativistic jets manifest some of the most intriguing activities in the nuclear regions of active galaxies. Identifying the most powerful relativistic jets permits us to probe the most luminous accretion systems and, in turn, the most massive black holes. This paper reports the identification of one such object, PMN J1310−5552 (z = 1.56), a blazar candidate of uncertain type detected with the Fermi Large Area Telescope (LAT) and Swift Burst Alert Telescope. The detection of broad emission lines in its optical spectra taken with the X-Shooter and Goodman spectrographs classifies it to be a flat-spectrum radio quasar. The analysis of the Goodman optical spectrum has revealed PMN J1310−5552 harbors a massive black hole (log scale MBH = 9.90 ± 0.07, in M⊙) and luminous accretion disk (log scale Ldisk = 46.86 ± 0.03, in erg s−1). The fitting of the observed big blue bump with the standard accretion disk model resulted in the log scale MBH (in M⊙) and Ldisk (in erg s−1), respectively. These parameters suggest PMN J1310−5552 hosts one of the most massive black holes and the most luminous accretion disks among the blazar population. The physical properties of this enigmatic blazar were studied by modeling the broadband spectral energy distribution considering the data from NuSTAR, Swift, Fermi-LAT, and archival observations. Overall, PMN J1310−5552 is a powerful “MeV” blazar with physical parameters similar to other members of this unique class of blazars. These results provide glimpses of monsters lurking among the unknown high-energy emitters and demonstrate the importance of ongoing wide-field sky surveys to discover them.
 ]]></content:encoded>
-
 <pubDate>2024-12-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Second Case of a Major Merger Triggering a Starburst in a Green Pea Galaxy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd2</link>
@@ -11652,28 +11648,6 @@ The Sloan Digital Sky Survey-IV/Mapping Nearby Galaxies at Apache Point Observat
 At high redshifts (z ≳ 12), the relative velocity between baryons and dark matter (the so-called streaming velocity) significantly affects star formation in low-mass objects. Streaming substantially reduces the abundance of low-mass gas objects while simultaneously allowing for the formation of supersonically induced gas objects (SIGOs) and their associated star clusters outside of dark matter halos. Here, we present a study of the population-level effects of streaming on star formation within both halos and SIGOs in a set of simulations with and without streaming. Notably, we find that streaming actually enhances star formation within individual halos of all masses at redshifts between z = 12 and z = 20. This is demonstrated both as an increased star formation rate per object as well as an enhancement of the Kennicutt–Schmidt relation for objects with streaming. We find that our simulations are consistent with some observations at high redshift, but on a population level, they continue to underpredict star formation relative to the majority of observations. Notably, our simulations do not include feedback and so can be taken as an upper limit on the star formation rate, exacerbating these differences. However, simulations of overdense regions (both with and without streaming) agree with observations, suggesting a strategy for extracting information about the overdensity and streaming velocity in a given survey volume in future observations.
 ]]></content:encoded>
 <pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>SOFIA/FORCAST Galactic Center Source Catalog</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad55f2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad55f2</guid>
-<content:encoded><![CDATA[
-<div> SOFIA, Galactic Center, Source Catalog, 25 and 37 μm, Astrophysical Studies
-<br /><br />总结: 本研究针对银河系中心区域进行了大量观测。文章提供了银河系中心区域内25和37微米的源目录，总共包括了950个源，其中包括点源、紧凑源和扩展源。研究不仅限于未解决的点源，还提供了用于区分源类型的指标。这一研究为银河系中心区域的天体物理学研究提供了重要的数据基础。 <div>
-The central regions of the Milky Way constitute a unique laboratory for a wide swath of astrophysical studies; consequently, the inner ∼400 pc have been the target of numerous large surveys at all accessible wavelengths. In this paper, we present a catalog of sources at 25 and 37 μm located within all of the regions observed with the SOFIA/FORCAST instrument in the inner ∼200 pc of the Galaxy. The majority of the observations were obtained as part of the SOFIA Cycle 7 Galactic Center Legacy program survey, which was designed to complement the Spitzer/MIPS 24 μm catalog in regions saturated in the MIPS observations. Due to the wide variety of source types captured by our observations at 25 and 37 μm, we do not limit the FORCAST source catalog to unresolved point sources, or treat all sources as if they are pointlike sources. The catalog includes all detectable sources in the regions, resulting in a catalog of 950 sources, including point sources, compact sources, and extended sources. We also provide the user with metrics to discriminate between the source types.
-]]></content:encoded>
-<pubDate>2024-09-23T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Multivariate Predictors of Lyman Continuum Escape. II. Predicting Lyman Continuum Escape Fractions for High-redshift Galaxies*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5557</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5557</guid>
-<content:encoded><![CDATA[
-<div> 高红移星系、Lyman连续发射、模型、脱逸量、星系性质
-总结:<br /><br />本研究利用Cox比例风险模型进行生存分析，开发了新的经验多元预测模型，用于预测Lyman连续发射的脱逸量。通过应用这些模型到高红移星系，发现了预测的脱逸量范围，并鉴定出几个可能的极端泄漏星系。研究还发现多元预测与单变量预测有显著不同，以及高红移星系的预测脱逸量可能会因使用星形率表面密度或半径作为星系形态测量而有显著差异。研究提供了使用这些模型预测高红移星系的所有必要参数。 <div>
-JWST is uncovering the properties of ever-increasing numbers of galaxies at z > 6, during the epoch of reionization. Connecting these observed populations to the process of reionization requires understanding how efficiently they produce Lyman continuum (LyC) photons and what fraction (fesc) of these photons escape into the intergalactic medium. By applying the Cox proportional hazards model, a survival analysis technique, to the Low-redshift Lyman Continuum Survey (LzLCS), we develop new, empirical, multivariate predictions for fesc. The models developed from the LzLCS reproduce the observed fesc for z ∼ 3 samples, which suggests that LyC emitters may share similar properties at low and high redshift. Our best-performing models for the z ∼ 3 galaxies include information about dust attenuation, ionization, and/or morphology. We then apply these models to z ≳ 6 galaxies. For large photometric samples, we find a median predicted fesc = 0.047–0.14. For smaller spectroscopic samples, which may include stronger emission-line galaxies, we find that ≥33% of the galaxies have fesc > 0.2, and we identify several candidate extreme leakers with fesc ≥ 0.5. The current samples show no strong trend between predicted fesc and UV magnitude, but limited spectroscopic information makes this result uncertain. Multivariate predictions can give significantly different results from single-variable predictions, and the predicted fesc for high-redshift galaxies can differ significantly depending on whether star formation rate surface density or radius is used as a measure of galaxy morphology. We provide all parameters necessary to predict fesc for additional samples of high-redshift galaxies using these models.
-]]></content:encoded>
-<pubDate>2024-09-23T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
