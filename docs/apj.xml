@@ -5,14 +5,68 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Nature of a Recently Discovered Wolf–Rayet Binary: Archetype of Stripping?*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a59</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a59</guid>
+<content:encoded><![CDATA[
+
+LMCe055-1 was recently discovered in a survey for Wolf–Rayets (WRs) in the Large Magellanic Cloud, and classified as a WN4/O4, a lower-excitation version of the WN3/O3 class discovered as part of the same survey. Its absolute magnitude precluded it from being a WN4+O4 binary. Optical Gravitational Lensing Experiment photometry shows shallow primary and secondary eclipses with a 2.2 days period. The spectral characteristics and short period pointed to a possible origin due to binary stripping. Such stripped WR binaries should be common but have proven elusive to identify conclusively. In order to establish its nature, we obtained Hubble Space Telescope ultraviolet and Magellan optical spectra, along with imaging. Our work shows that the WR emission and He ii absorption arise in one star, and the He i absorption in another. The He i contributor is the primary of the 2.2 days system and exhibits ∼300 km s−1 radial velocity variations on that timescale. However, the WR star shows 30–40 km s−1 radial velocity variations, with a likely 35 days period and a highly eccentric orbit. Possibly LMCe055-1 is a physical triple, but that would require the 2.2 days pair to have been captured by the WR star. A more likely explanation is that the WR star has an unseen companion in a 35 days orbit and that the 2.2 days pair is in a longer-period orbit about the two. Such examples of multiple systems are well known among massive stars, such as HD 5980. Regardless, we argue that it is highly unlikely that the WR component of the LMCe055-1 system resulted from stripping.
+]]></content:encoded>
+
+<pubDate>2024-12-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mining for Protoclusters at z ∼ 4 from Photometric Data Sets with Deep Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a67</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a67</guid>
+<content:encoded><![CDATA[
+
+Protoclusters are high-z overdense regions that will evolve into clusters of galaxies by z = 0, making them ideal for studying galaxy evolution expected to be accelerated by environmental effects. However, it has been challenging to identify protoclusters beyond z = 3 only by photometry due to large redshift uncertainties hindering statistical study. To tackle the issue, we develop a new deep-learning-based protocluster detection model, PCFNet, which considers a protocluster as a point cloud. To detect protoclusters at z ∼ 4 using only optical broadband photometry, we train and evaluate PCFNet with mock g-dropout galaxies based on the N-body simulation with the semianalytic model. We use the sky distribution, i-band magnitude, (g − i) color, and the redshift probability density function surrounding a target galaxy on the sky. PCFNet detects 5 times more protocluster member candidates while maintaining high purity (recall = 7.5% ± 0.2%, precision = 44% ± 1%) than conventional methods. Moreover, PCFNet is able to detect more progenitors ( ) that are less massive than supermassive clusters like the Coma cluster. We apply PCFNet to the observational photometric data set of the Hyper Suprime-Cam Strategic Survey Program Deep/UltraDeep layer (∼17 deg2) and detect 121 protocluster candidates at z ∼ 4. We find that the rest-UV luminosities of our protocluster member candidates are brighter than those of field galaxies, which is consistent with previous studies. Additionally, the quenching of satellite galaxies depends on both the core galaxy’s halo mass at z ∼ 4 and accumulated mass until z = 0 in the simulation. PCFNet is very flexible and can find protoclusters at other redshifts or in future extensive surveys by Euclid, Legacy Survey of Space and Time, and Roman.
+]]></content:encoded>
+
+<pubDate>2024-12-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Environments of Green Pea Galaxies. II. The Hα Dot Sample</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4e</guid>
+<content:encoded><![CDATA[
+
+We use spectroscopic redshifts obtained with the WIYN 3.5 m telescope to study the local galactic environment around 18 Green Pea (GP) galaxies. Our sample of GPs were discovered in the Hα Dot Survey via their [O iii]λ5007 emission and span the redshift range 0.32 < z < 0.34. We present the environmental analyses near the location of the Hα Dot GPs. We utilize three different density estimators, chosen based on the geometry of the redshift survey data within the Hα Dot GP fields. We classify each Hα Dot GP into an environment category, from extremely isolated to highly clustered. We find that our entire sample of Hα Dot GPs reside in extremely isolated or low-density environments, with none located in the intermediate- to high-density regimes. We interpret this to indicate that major mergers and interactions do not drive the activity seen in these galaxies.
+]]></content:encoded>
+
+<pubDate>2024-12-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Visual Orbits of Wolf–Rayet Stars. I. The Orbit of the Dust-producing Wolf–Rayet Binary WR 137 Measured with the CHARA Array</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d5c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d5c</guid>
+<content:encoded><![CDATA[
+
+Classical Wolf–Rayet (W-R) stars are the descendants of massive OB stars that have lost their hydrogen envelopes and are burning helium in their cores prior to exploding as Type Ib/c supernovae. The mechanisms for losing their hydrogen envelopes are either through binary interactions or through strong stellar winds potentially coupled with episodic mass loss. Among the bright classical W-R stars, the binary system WR 137 (HD 192641; WC7d + O9e) is the subject of this paper. This binary is known to have a 13 yr period and produces dust near periastron. Here we report on interferometry with the Center for High Angular Resolution Astronomy Array collected over a decade of time and providing the first visual orbit for the system. We combine these astrometric measurements with archival radial velocities to measure masses of the stars of MWR = 9.5 ± 3.4 M⊙ and MO = 17.3 ± 1.9 M⊙ when we use the most recent Gaia distance. These results are then compared to predicted dust distribution using these orbital elements, which match the observed imaging from JWST as discussed recently by Lau et al. Furthermore, we compare the system to the Binary Population And Spectral Synthesis models, finding that the W-R star likely formed through stellar winds and not through binary interactions. However, the companion O star did likely accrete some material from the W-R star’s mass loss to provide the rotation seen today that drives its status as an Oe star.
+]]></content:encoded>
+
+<pubDate>2024-12-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>On the Acceleration Site of Anomalous Cosmic Rays: Voyager 2 Observations of Their Anisotropy in the Heliosheath</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e66</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e66</guid>
+<content:encoded><![CDATA[
+
+We present the diffusive flow anisotropy vector components for ∼0.5–35 MeV anomalous cosmic-ray (ACR) protons observed during Voyager 2 roll maneuvers for the magnetometer instrument in the inner heliosheath. The diffusive flow results are derived from the differences between the observed anisotropy components presented in A. C. Cummings et al. (2021) and the Compton–Getting anisotropies based on measurements of the solar wind speeds from the Plasma Science instrument. We find that the tangential component of the derived diffusive anisotropy vector is in reasonable agreement, both in direction and magnitude, with a numerical model of the acceleration and transport of ACRs by diffusive shock acceleration along a nonspherical solar wind termination shock (TS). The results suggest that there exists a diffusive flow of these particles from the flank or tail of the heliosphere toward the nose, and support models in which higher-energy ACRs are accelerated in the flank or tail of the TS.
+]]></content:encoded>
+
+<pubDate>2024-12-04T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Weak Lensing Analysis of A2390 Using Short Exposures</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4f</guid>
 <content:encoded><![CDATA[
-
 We present a weak lensing analysis of the galaxy cluster A2390 at z = 0.23 using second moment shape measurements made in 411 short 60 s exposures. The exposures are obtained in three broadband photometric filters (g, r, and i) using WIYN-ODI. Shape measurement in individual exposures is done using a moment-matching algorithm. Forced measurement is used when the moment-matching algorithm fails to converge at low signal-to-noise ratio. The measurements made in individual images are combined using inverse error weighting to obtain accurate shapes for the sources and hence recover shear. We use PhoSim simulations to validate the shear measurements recovered by our pipeline. We find the mass of A2390 is in agreement with previously published results. We also find the E-mode maps show filamentary structures consistent with baryonic structures and recover most clusters/groups of galaxies found using optical and X-ray data. Thus, we demonstrate the feasibility of using weak lensing to map large-scale structure of the Universe. We also find the central portion of the cluster has a bimodal mass distribution and the relative orientation of the peaks is similar to X-ray. We discuss earlier research on this galaxy cluster, and show that a late-stage merger accounts for all the observed data.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +74,8 @@ We present a weak lensing analysis of the galaxy cluster A2390 at z = 0.23 using
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe2</guid>
 <content:encoded><![CDATA[
-
 We have carried out a detailed study of individual pulse emission from the pulsar J1741−0840 (B1738−08) observed using the Parkes and Effelsberg radio telescopes at the L band. The pulsar exhibits four emission components, which are not well resolved by employing multicomponent Gaussian fitting. The radio emission originates at a height of approximately 1000 km, with the viewing geometry characterized by inclination and impact angles roughly estimated at 81° and 3°, respectively. Fluctuation spectral analysis of single pulse behavior reveals two prominent periodicities, around 32 and five rotation periods. The longer periodic modulation feature is linked to nulling behavior across the entire emission window, with an updated nulling fraction of 23% ± 2% derived from pulse energy distribution via Gaussian mixture modeling. In addition to quasiperiodic nulling, the pulsar also exhibits the presence of subpulse drifting in the trailing component, with the shorter periodic feature in the fluctuation spectra related to the phenomenon of subpulse drifting, and the longitudinal separation estimated to be about 5°. Both periodic modulations show significant temporal evolution with time-dependent fluctuation power. The implications of understanding the radio emission mechanisms are discussed.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +83,8 @@ We have carried out a detailed study of individual pulse emission from the pulsa
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad843e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad843e</guid>
 <content:encoded><![CDATA[
-
 The Fe/O enhancements exhibit significant variations in gradual solar energetic particle (SEP) events. Several causes have been suggested including transport effects in the interplanetary space and flare contribution. In this study, we investigate the relationship between the integrated Fe/O ratios of 27 gradual SEP events, locations of associated solar flares, and positions along the heliospheric current sheet (HCS) between 2010 and 2014. We employ synchronic potential field source surface (PFSS) extrapolations at 2.5R⊙, derived in near real-time using Artificial Intelligence (AI)-generated far side and Helioseismic and Magnetic Imager (HMI) magnetograms, referred to as AIHMI-PFSS extrapolations. We examine low-energy (∼0.5 MeV/nucleon) Fe and O ion measurements obtained from Suprathermal Ion Telescope on Solar Terrestrial Relations Observatories and Ultra Low Energy Isotope Spectrometer on Advanced Composition Explorer. We found a moderate anticorrelation between the Fe/O ratios and the absolute longitudinal separation angles from the source regions to the spacecraft magnetic footpoints. Furthermore, we investigate the variations in Fe/O ratios with respect to the separation angle, grouped by the same and opposite polarity sectors of the SEP source regions. We found that the mean and median Fe/O values are higher in the same polarity group compared to the opposite polarity group, with the largest contrast at separation angles between 25° and 50°, where the values are approximately 3 times larger. The results imply that the enhanced Fe/O ratios in the examined gradual SEP events are likely associated with direct source regions, while the HCS affects particle transport.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +92,8 @@ The Fe/O enhancements exhibit significant variations in gradual solar energetic 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84d6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84d6</guid>
 <content:encoded><![CDATA[
-
 The abundance of helium (AHe) in the solar wind exhibits variations typically in the range from 2% to 5% with respect to solar cycle activity and solar wind velocity. However, there are instances where the observed AHe is exceptionally low (<1%). These low-AHe occurrences are detected both near the Sun and at 1 au. The low-AHe events are generally observed near the heliospheric current sheet. We analyzed 28 low-AHe events observed by the Wind spacecraft and 4 by Parker Solar Probe to understand their origin. In this work, we make use of the ADAPT-WSA model to derive the sources of our events at the base of the solar corona. The modeling suggests that the low-AHe events originated from the boundaries of coronal holes, primarily from large quiescent helmet streamers. We argue that the cusp above the core of the streamer can produce such very low helium abundance events. The streamer core serves as an ideal location for gravitational settling to occur as demonstrated by previous models, leading to the release of this plasma through reconnection near the cusp, resulting in low-AHe events. Furthermore, observations from Ulysses provide direct evidence that these events originated from coronal streamers.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +101,8 @@ The abundance of helium (AHe) in the solar wind exhibits variations typically in
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8636</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8636</guid>
 <content:encoded><![CDATA[
-
 Active Regions (ARs) are regions of strong magnetic flux in the solar atmosphere. Understanding the global evolution of ARs is critical for solar magnetism as well as for accurate space-weather forecasting. We present the first far-side AR data set based on EUV observation and helioseismic measurements. For the EUV observations, we use synchronic maps at 304 Å comprised of observations from the Solar Dynamics Observatory/Atmospheric Imaging Assembly and the Solar TErrestrial RElations Observatory/Extreme UltraViolet Imager, in heliocentric orbit with direct vantages into the Sun’s far hemisphere. We used the brightening of the solar transition region in EUV/304 Å maps as a proxy for the magnetic regions. For the far-side helioseismic measurements, we used seismic phase-shift maps of the Sun’s far hemisphere, computed from helioseismic Dopplergrams observed by NSO/Global Oscillations Network Group (GONG). In this study, we present the first global EUV AR data set of the whole Sun, providing several basic parameters, such as location, area, tilt angle, EUV brightness, and latitudinal/longitudinal extents of the identified ARs. We also present a similar data set for the far-side GONG ARs where the helioseismic phase shift parameters are included. Helioseismic far-side GONG ARs are examined, and their success at predicting strong ARs is assessed. We discuss the temporal and spatial evolution for the EUV AR signatures and far-side GONG AR signatures during the ascending and maximum phases of Solar Cycle 24 (2010 May–2016 May). We examine the correlation between the helioseismic signatures and the respective EUV source distributions in the Sun’s far hemisphere. We present the first far-side AR butterfly diagram based on helioseismic measurements.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +110,8 @@ Active Regions (ARs) are regions of strong magnetic flux in the solar atmosphere
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad865a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad865a</guid>
 <content:encoded><![CDATA[
-
 HD 54879 is the most recently discovered magnetic O-type star. Previous studies ruled out a rotation period shorter than 7 yr, implying that HD 54879 is the second most slowly rotating known magnetic O-type star. We report new high-resolution spectropolarimetric measurements of HD 54879, which confirm that a full stellar rotation cycle has been observed. We derive a stellar rotation period from the longitudinal magnetic field measurements of days (about 7.02 yr). The radial velocity of HD 54879 has been stable over the last decade of observations. We explore equivalent widths and longitudinal magnetic fields calculated from lines of different elements, and conclude the atmosphere of HD 54879 is likely chemically homogeneous, with no strong evidence for chemical stratification or lateral abundance nonuniformities. We present the first detailed magnetic map of the star, with an average surface-magnetic-field strength of 2954 G, and a strength for the dipole component of 3939 G. There is a significant amount of magnetic energy in the quadrupole components of the field (23%). Thus, we find HD 54879 has a strong magnetic field with a significantly complex topology.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +119,8 @@ HD 54879 is the most recently discovered magnetic O-type star. Previous studies 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8920</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8920</guid>
 <content:encoded><![CDATA[
-
 CIZA J2242.8+5301, or the Sausage cluster, is well-studied over a range of frequencies. Since its first discovery, a lot of interesting features and unique characteristics have been uncovered. In this work, we report some more new morphological features using the uGMRT band-3 and band-4 data. In the north relic, we observe variation in the spectral index profiles across the relic width from the east to west, which may indicate a decrease in the downstream cooling rate in that direction. We reconfirm the presence of an additional ∼930 kpc relic in the north. We classify the filamentary source in the downstream region to be a narrow-angle tail (NAT) radio galaxy. The bright arc in the east relic shows a substructure in the spectral index profile, which may indicate the presence of finer filaments. We further report the presence of a double-strand structure in the east relic similar to the “Toothbrush” relic. We categorize the bright “L”-shaped structure in the southern relic to be a NAT radio galaxy, as well as trace the actual ∼1.1 Mpc relic component. We reconfirm the existence of the faint southern extent, measuring the relic length to be ∼1.8 Mpc. Furthermore, we suggest the southern relic to be a union of individual component relics rather than a single giant filamentary relic. Lastly, based on the morphological symmetry between northern and southern relics, we suggest a schematic shock structure associated with the merger event in an attempt to explain their formation scenario.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +128,8 @@ CIZA J2242.8+5301, or the Sausage cluster, is well-studied over a range of frequ
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc2</guid>
 <content:encoded><![CDATA[
-
 The Seyfert 1 active galactic nucleus Fairall 9 was targeted by NICER, Swift, and ground-based observatories for a ∼1000 day long reverberation mapping campaign. The following analysis of NICER spectra taken at a 2 day cadence provides new insights into the structure and heating mechanisms of the central black hole environment. Observations of Fairall 9 with NICER and Swift revealed a strong relationship between the flux of the UV continuum and the X-ray soft excess, indicating the presence of a “warm” Comptonized corona that likely lies in the upper layers of the innermost accretion flow, serving as a second reprocessor between the “hot” X-ray corona and the accretion disk. The X-ray emission from the hot corona lacks sufficient energy and variability to power slow changes in the UV light curve on timescales of 30 days or longer, suggesting an intrinsic disk-driven variability process in the UV and soft X-rays. Fast variability in the UV on timescales shorter than 30 days can be explained through X-ray reprocessing, and the observed weak X-ray/UV correlation suggests that the corona changes dynamically throughout the campaign.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,10 +137,8 @@ The Seyfert 1 active galactic nucleus Fairall 9 was targeted by NICER, Swift, an
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f30</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f30</guid>
 <content:encoded><![CDATA[
-
 Nontransiting terrestrial planets will be accessible by upcoming observatories of which LIFE is an example. Planet b orbiting Teegarden’s Star is one of the optimal targets for such missions. We use a one-dimensional atmospheric model with real gas radiation, a multispecies pseudo-adiabatic convection-condensation scheme, and a water cloud scheme to estimate the impact of the cloud coverage on the emission spectrum of the target, as well as to assess how sensitive LIFE could be to changes in outgoing flux caused by these clouds. Though the emergent flux decreases with a higher cloud coverage, it does not decrease by more than 1 order of magnitude as the coverage increases from 0% to 90%. This allows LIFE to retain a high sensitivity to the cloud cover fraction for wavelengths longer than 7 μm. In this spectral range, with at least 1 bar of N2, LIFE is able to distinguish cloud cover fractions as small as 10% given an integration time of 24 hr, and yields much better precision with a week-long integration. An integration time of 1 week also allows the resolution of local variations in spectral flux, which can lead to easier molecule identification. This ability remains if the planet is a CO2-dominated Venus analog. Partial pressures of N2 lower than 1 bar may create a degeneracy with the cloud cover fraction. LIFE shows promising potential for detecting and characterizing atmospheres even with a high cloud coverage, and retaining a fine sensitivity to relatively small differences in cloud cover fractions.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -108,10 +146,8 @@ Nontransiting terrestrial planets will be accessible by upcoming observatories o
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f34</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f34</guid>
 <content:encoded><![CDATA[
-
 Neutron star surfaces have extremely high magnetic fields. In the atmosphere, the broadening of spectral lines will be substantial from the dense plasma as well as from the magnetic field. One broadening mechanism of note is due to the motional Stark effect (MSE)—an additional electric field that arises from the motion of the atom in the magnetic field. However, approximate formulae are often used to construct atmosphere models, and the MSE is assumed to be the dominant line-broadening mechanism even in ions. Detailed pressure-broadening models in these extreme magnetic fields are now currently being developed. In these more detailed models, it was suggested that the MSE may not be as large as previously predicted. If correct, this hypothesis implies that neutron star line widths might be dominated by pressure broadening rather than by motional Stark broadening. We find that, in the absence of plasma perturbations, for typical magnetic fields (B = 1012 G), mid-Z elements, such as oxygen, have motional Stark widths of order 1 eV for transitions between dipole-allowed transitions from the ground state, though higher temperatures and transitions to higher-energy states are expected to have more broadening. The MSE also breaks down selection rules, giving rise to forbidden transitions, which have much larger widths. When plasma perturbations are included, we find that the plasma perturbation and motional Stark processes are not independent and, as a result, the spectral lines become narrow in a nontrivial way and display harmonics of the ion cyclotron frequency.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -119,13 +155,10 @@ Neutron star surfaces have extremely high magnetic fields. In the atmosphere, th
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d55</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d55</guid>
 <content:encoded><![CDATA[
-
 Observations of CO isotopologue emission from protoplanetary disks at millimeter wavelengths are a powerful tool for probing the CO snow line, an important marker for disk chemistry, and also for estimating total disk gas mass, a key quantity for planet formation. We use simple models to demonstrate that the vertical thickness of an isothermal layer around the disk midplane has important effects on the CO column density radial profile, with a thick layer producing a sharp CO snow line transition. We simulate next-generation Very Large Array (ngVLA) and Atacama Large Millimeter/submillimeter Array (ALMA) images to show that this sharp change in the CO column density can be detected in the derivative of the radial profile of emission from optically thin CO isotopologue lines. We apply this method to archival ALMA observations of the disk around the Herbig Ae star HD 163296 in the C17O and C18O J = 1–0 and J = 2–1 lines to identify a sharp CO snow line transition near ∼80 au (0.″8 at 101 pc), and show the CO column density decreases by more than a factor of 20. This finding is consistent with previous inferences from the steep rise of N2H+ emission, which marks the location where CO depletes. We also demonstrate that the disk’s thermal structure introduces significant systematic uncertainty to estimates of total disk gas mass derived from these lines. The substantial improvement in sensitivity envisioned for the ngVLA over ALMA for observations of ground-state lines of CO isotopologues has the potential to extend this approach to a much larger population of disks.
 ]]></content:encoded>
-
 <pubDate>2024-12-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Revealing the Quiescent Galaxy Population in the Spiderweb Protocluster at z = 2.16 with Deep HST/WFC3 Slitless Spectroscopy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dcf</link>
@@ -11621,138 +11654,6 @@ We revisit a quiet 14 day period of solar minimum during 2008 January and track 
 We study how bar strength and bar kinematics affect star formation in different regions of the bar by creating radial profiles of EW[Hα] and Dn4000 using data from Sloan Digital Sky Survey-IV Mapping Nearby Galaxies at Apache Point Observatory (MaNGA). Bars in galaxies are classified as strong or weak using Galaxy Zoo DESI, and they are classified as fast and slow bars using the Tremaine–Weinberg method on stellar kinematic data from the MaNGA survey. In agreement with previous studies, we find that strong bars in star-forming (SF) galaxies have enhanced star formation in their center and beyond the bar-end region, while star formation is suppressed in the arms of the bar. This is not found for weakly barred galaxies, which have very similar radial profiles to unbarred galaxies. In addition, we find that slow bars in SF galaxies have significantly higher star formation along the bar than fast bars. However, the global star formation rate is not significantly different between galaxies with fast and slow bars. This suggests that the kinematics of the bar do not affect star formation globally, but changes where star formation occurs in the galaxy. Thus, we find that a bar will influence its host the most if it is both strong and slow.
 ]]></content:encoded>
 <pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Radio-loud Semiregular Variable</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6842</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6842</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Galactic stellar systems, gamma-ray emission, IRC-10412, radio emission, stellar wind<br />
-总结: 一项关于银河恒星系统中伽马射线发射的研究偶然发现了一个名为IRC-10412的冷却和演化恒星，其强烈的无线电发射级别引起了人们的关注。随后的观测分析表明，IRC-10412被归类为半规则变星SRb型，处于渐近巨星分支。研究提出了其质量流失参数的不同但一致的估计值。研究人员认为其异常高的无线电发射可能源自于受到外部光子电离源的影响，可能来自附近的OB星团。<br /><br /> <div>
-As a byproduct of our search for Galactic stellar systems with gamma-ray emission, we have identified an unrelated cool and evolved star (IRC-10412) that attracted our attention due to its strong radio emission level with a spectral index matching, almost perfectly, the canonical +0.6 value expected from an ionized stellar wind. A follow-up observational analysis was undertaken given that these two properties are hard to reconcile as originating in the same stellar object. As a result, IRC-10412 has been classified as a new semiregular variable of SRb type in the asymptotic giant branch, and different but consistent estimates of its mass-loss parameter are reported. We propose that its unusually high radio emission arises from a ∼10−5M⊙ yr−1 stellar wind exposed to an external source of ionizing photons, possibly coming from nearby OB associations.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Quasiperiodic Oscillations in GRB 210514A: a Case of a Newborn Supramassive Precessing Magnetar Collapsing into a Black Hole?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd9</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Magnetar, gamma-ray burst (GRB), quasiperiodic oscillation (QPO), Swift observations, supramassive magnetar (SMM)
-
-总结:
-本文利用Swift观测GRB的数据，发现GRB 210514A具有大约11秒的QPO信号，信号的置信水平超过3σ。该GRB的全局光变曲线呈现双平台结构，在平台间有明显的衰减段。作者提出了一个超质量磁星模型来解释这一现象，其中第一个平台的QPO信号是由经历进动运动的超质量磁星的偶极辐射产生的，急剧衰减是因为超质量磁星坍缩成黑洞，第二个平台可能是由新生黑洞的回落吸积产生的。作者利用贝叶斯统计学对进动模型进行了拟合，并讨论了最佳拟合磁星参数。其他关于黑洞中心引擎的替代模型也可以解释这次爆发，但在这种情况下，QPO信号可能仅仅是巧合。 <br /><br /> <div>
-Magnetar is proposed as one of the possible central engines for a gamma-ray burst (GRB). Recent studies show that if a magnetar has a rotational axis misaligned from the magnetic one, a periodic lightcurve pattern is expected with a period of seconds to minutes. Inspired by this unique feature, in this paper, we search for the quasiperiodic oscillation (QPO) signals in the Swift observations of GRBs. Using the Lomb–Scargle periodogram and the weighted wavelet Z-transform algorithms, we find that the Swift Burst Alert Telescope data of GRB 210514A has a QPO signal with a period ∼11 s. The estimated confidence level of the signal is over 3σ. The global lightcurve of this GRB exhibits a double-plateau structure with a sharp decay segment between plateaus. The lightcurve feature resembles those of GRBs that were reported to have internal plateaus. We explain the observations of GRB 210514A with a supramassive magnetar (SMM) model, where the QPO signal in the first plateau is produced via the dipole radiation of the SMM experiencing a precession motion, the sharp decay is due to the collapse of the SMM into a black hole (BH), and the second plateau could be produced via the fallback accretion of the newborn BH. We fit the precession model to the observations using the Bayesian statistic and the best-fit magnetar parameters are discussed. Alternative models concerning a BH central engine may also provide reasonable explanations for this burst, only in this case the QPO signal could merely be a coincidence.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Orbit and Companion of PSR J1622-0315: Variable Asymmetry and a Massive Neutron Star</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6314</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6314</guid>
-<content:encoded><![CDATA[
-<div> 红外脉冲星， PSR J1622-0315，紧密双星系统，低辐射，不对称光曲线，变异性
-总结:
-红外脉冲星PSR J1622-0315是已知紧凑红背毫秒脉冲星中的一员，其伴星表现出极低的辐射，尽管轨道周期很短。研究者使用2017年新技术望远镜和2022年北欧光学望远镜的光学观测数据，结合ICARUS二进制建模代码进行模拟，确定了该系统的二进制参数。他们发现，该红外脉冲星的最佳拟合中子星质量为2.3 ± 0.4 M⊙，伴星质量为0.15 ± 0.02 M⊙。研究还首次探测到了来自最小值的不对称低水平辐射以及其光曲线在五年内最大值的不对称性变化。通过恒星黑斑模型，研究者发现与对称直接加热模型相比，能够更好地拟合观测数据，并且得到了一致的轨道参数。最后，他们讨论了一个替代场景，即变化的不对称性是由可变的星际冲击产生的。综上所述，研究者发现PSR J1622-0315将低辐射与可变的光曲线不对称性以及相对较高的中子星质量相结合。 <div>
-The companion to PSR J1622-0315, one of the most compact known redback millisecond pulsars, shows extremely low irradiation despite its short orbital period. We model this system to determine the binary parameters, combining optical observations from the New Technology Telescope in 2017 and the Nordic Optical Telescope in 2022 with the binary modeling code ICARUS. We find a best-fit neutron star mass of 2.3 ± 0.4 M⊙, and a companion mass of 0.15 ± 0.02 M⊙. We detect for the first time low-level irradiation from asymmetry in the minima as well as a change in the asymmetry of the maxima of its light curves over five years. Using starspot models, we find better fits than those from symmetric direct heating models, with consistent orbital parameters. We discuss an alternative scenario where the changing asymmetry is produced by a variable intrabinary shock. In summary, we find that PSR J1622-0315 combines low irradiation with variable light-curve asymmetry and a relatively high neutron star mass.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Polarization Degree of Magnetic Field Structure Changes Caused by Random Magnetic Field in Gamma-Ray Burst</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a52</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a52</guid>
-<content:encoded><![CDATA[
-<div> Poynting-flux-dominated jet, magnetic field, turbulence, polarization degree, X-ray
-<br /><br />总结:
-在Poynting-flux-dominated jet中，经过磁重联和能量耗散后，有序磁场逐渐转变为湍流和磁场无序。通过引入一个包括随机磁场和有序磁场的简化模型，发现随机磁场对低能X射线的极化度结果有显著影响。随着电子注入停止，有序磁场下X射线段的极化度仍有显著值，更易于通过偏振测量检测。然而，引入随机磁场后，低能段和高能段的极化度呈现类似趋势，且X射线段的极化度低于高能段。此外，会出现两种未曾出现的偏振角旋转，并且高能段的旋转略早于之前。这些结果与有序磁场的结构无关。 <div>
-In a Poynting-flux-dominated jet that exhibits an ordered magnetic field, a transition toward turbulence and magnetic disorder follows after magnetic reconnection and energy dissipation during the prompt emission phase. In this process, the configuration of the magnetic field evolves with time, rendering it impossible to entirely categorize the magnetic field as ordered. Therefore, we assumed a crude model that incorporates a random magnetic field and an ordered magnetic field, and takes into account the proportionality of the random magnetic field strength to the ordered magnetic field, in order to compute the polarization degree (PD) curve for an individual pulse. It has been discovered that the random magnetic field has a significant impact on the PD results of the low-energy X-ray. In an ordered magnetic field, the X-ray segment maintains a significant PD compared to those in the hundreds of keV and MeV ranges even after electron injection ceases, making PD easier to detect by polarimetry. However, when the random magnetic field is introduced, the low-energy and high-energy PDs exhibit a similar trend, with the X-ray PD being lower than that of the high-energy segment. Of course, this is related to the rate of disorder in the magnetic field. Additionally, there are two rotations of the polarization angles (PAs) that were not present previously, and the rotation of the PA in the high-energy segment occurs slightly earlier. These results are unrelated to the structure of the ordered magnetic field.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Measuring the Spot Variability of T Tauri Stars Using Near-infrared Atomic Fe and Molecular OH Lines</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e7f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e7f</guid>
-<content:encoded><![CDATA[
-<div> T Tauri Stars, Exoplanets, Spectroscopic Survey, Near-infrared, Spot Variability
-<br /><br />总结:
-这项研究通过分析T Tauri Stars（TTSs）的近红外H波段光谱，使用来自Immersion GRating INfrared Spectrometer的光谱，探索了13颗T Tauri Stars（TTSs）的斑点变异性。通过分析原子Fe i在∼1.56259 μm和∼1.56362 μm处以及分子OH在∼1.56310和∼1.56317 μm处的有效温度（Teff）敏感线的等效宽度比（EWR）关系，我们建立了Teff在3400–5000 K范围内的经验EWR关系，从而实现了精确的Teff相对估计，达到几十K的范围，并表明与太阳金属丰度目标模型兼容。然而，观测数据与模型预测之间的差异限制了Teff–EWR关系向更广泛参数空间的推广。我们的研究揭示了经典和弱线TTSs可以表现出超过2年内超过150 K的Teff变化。在TTSs中检测到EWR和径向速度相位曲线之间的四分之一相位延迟表明受斑点驱动的信号。然而，CI Tau的相位延迟为0.06 ± 0.13，这表明额外的动力学，可能是由行星相互作用引起的，推测出旋转周期和轨道周期之间的1：1共振。此外，Teff变化幅度与恒星倾角之间的正相关性支持TTSs上存在高纬度斑点的存在，进一步丰富了我们对年轻恒星表面活动的理解。 <div>
-As part of the Young Exoplanets Spectroscopic Survey, this study explores the spot variability of 13 T Tauri Stars (TTSs) in the near-infrared H band, using spectra from the Immersion GRating INfrared Spectrometer. By analyzing effective temperature (Teff) sensitive lines of atomic Fe i at ∼1.56259 μm and ∼1.56362 μm, and molecular OH at ∼1.56310 and ∼1.56317 μm, we develop an empirical equivalent width ratio (EWR) relationship for Teff in the range of 3400–5000 K. This relationship allows for precise relative Teff estimates to within tens of Kelvin and demonstrates compatibility with solar metallicity target models. However, discrepancies between observational data and model predictions limit the extension of the Teff–EWR relationship to a broader parameter space. Our study reveals that both classical and weak-line TTSs can exhibit Teff variations exceeding 150 K over a span of 2 yr. The detection of a quarter-phase delay between the EWR and radial velocity phase curves in TTSs indicates spot-driven signals. A phase delay of 0.06 ± 0.13 for CI Tau, however, suggests additional dynamics, potentially caused by planetary interaction, inferred from a posited 1:1 commensurability between the rotation period and orbital period. Moreover, a positive correlation between Teff variation amplitude and stellar inclination angle supports the existence of high-latitude spots on TTSs, further enriching our understanding of stellar surface activity in young stars.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Gravitational Self-lensing of Fast Radio Bursts in Neutron Star Magnetospheres. I. The Model</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f1c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5f1c</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 快速射电暴发, 强磁体星, 脉冲能量分布, 中子星磁层, 引力自透镜效应
-
-总结:
-快速射电暴发（FRBs）是宇宙中短暂的相干射电发射，其来源尚不明确。目前，银河系磁星SGR 1935 + 2154是唯一已知发射类似FRBs的天体物体，这支持了FRBs可能源自磁星的假设。然而，FRBs的许多性质，如重复发生和一次性源之间的二分法，以及它们的功率能量分布等，仍不够理解。本文假设FRBs起源于锚定在中子星磁层中的共转热点，并且偶尔通过中子星引力自透镜效应得到大幅度放大。我们评估了这种放大的概率，并表明：（i）事件的能量分布通常遵循E−(2−3)的幂律；（ii）所有FRB源可以看作是重复发生的，其一次性源或重复发生的外观取决于放大概率对发射几何和源相对地球的定向的关键依赖；（iii）最活跃的重复发生者对应于极其罕见和精密调整的定向（约1/106），导致放大概率大，从而使它们的暴发经常可检测。同时，它们的能量释放似乎增强，通常大于10倍，缓解了它们的能量预算问题。 <br /><br /> <div>
-Fast radio bursts (FRBs) are cosmological subsecond bursts of coherent radio emission, whose source is still unknown. To date, the Galactic magnetar SGR 1935 + 2154 is the only astrophysical object known to emit radio bursts akin to FRBs, albeit less powerful, supporting suggestions that FRBs originate from magnetars. Many remarkable properties of FRBs—e.g., the dichotomy between repeaters and one-off sources, and their power-law energy distributions (with typical index ∼2–3)—are not well understood yet. Moreover, the huge radio power released by the most active repeaters is challenging even for the magnetic energy reservoir of magnetars. Here, we assume that FRBs originate from corotating hotspots anchored in neutron star (NS) magnetospheres and occasionally get amplified by large factors via gravitational self-lensing in the strong NS field. We evaluate the probability of amplification and show that: (i) a power-law energy distribution of events ∝E−(2−3) is generally expected; (ii) all FRB sources may be regarded as repeating, their appearance as one-off sources or repeaters being determined by the critical dependence of the amplification probability on the emission geometry and source orientation relative to Earth; and (iii) the most active repeaters, in particular, correspond to extremely rare and finely tuned orientations (∼1 in 106), leading to large probabilities of amplification that make their bursts frequently detectable. At the same time, their power release appears enhanced, typically by factors ≳10, easing their energy budget problem.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Scale of Stellar Yields: Implications of the Measured Mean Iron Yield of Core Collapse Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6313</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6313</guid>
-<content:encoded><![CDATA[
-<div> 关键词: α-element yields, massive star evolution, core collapse supernovae, chemical evolution models, Type Ia supernova rate
-<br />
-在这项研究中，通过利用近期对核心坍缩超新星的铁平均产量的测量结果，研究人员推断出α元素的产量。他们假设观测到的低金属丰度恒星中观测到的[α/Fe]比例平台代表了核心坍缩超新星的产量比率。研究发现，推断出的氧和铁的产量与一些核心坍缩超新星模型的预测相吻合，并且比很多星系质量-金属丰度关系模型中的假设值要低。他们的化学演化模型最终演化到太阳金属丰度，并且进一步要求在晚期达到[α/Fe]≈ 0，从而推断出与超新星调查估计相一致的Ia型超新星速率。总结: <br /><br />研究人员通过核心坍缩超新星的铁平均产量测量推断出α元素的产量，并发现与部分模型预测相吻合。他们的化学演化模型最终演化到太阳金属丰度，并且推断出与超新星调查估计相一致的Ia型超新星速率。 <div>
-The scale of α-element yields is difficult to predict from theory because of uncertainties in massive star evolution, supernova physics, and black hole formation, and it is difficult to constrain empirically because the impact of higher yields can be compensated by greater metal loss in galactic winds. We use a recent measurement of the mean iron yield of core collapse supernovae (CCSN) by Rodriguez et al., , to infer the scale of α-element yields by assuming that the plateau of [α/Fe] abundance ratios observed in low-metallicity stars represents the yield ratio of CCSN. For a plateau at [α/Fe]cc = 0.45, we find that the population-averaged yields of O and Mg are about equal to the solar abundance of these elements, , where is the mass of element X produced by massive stars per unit mass of star formation. The inferred O and Fe yields agree with predictions of the Sukhbold et al. CCSN models assuming their Z9.6+N20 neutrino-driven engine, a scenario in which many progenitors with M < 40M⊙ implode to black holes rather than exploding. The yields are lower than assumed in many models of the galaxy mass–metallicity relation, reducing the level of outflows needed to match observed abundances. Our one-zone chemical evolution models with evolve to solar metallicity at late times. By further requiring that models reach [α/Fe] ≈ 0 at late times, we infer a Hubble-time integrated Type Ia supernova rate of , compatible with estimates from supernova surveys.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing the Connection between IceCube Neutrinos and MOJAVE AGN</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad643d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad643d</guid>
-<content:encoded><![CDATA[
-<div> AGN, neutrinos, IceCube, correlation study, upper limits
-<br /><br />总结:
-这篇文章讨论了活动星系核（AGN）可能是IceCube探测到的高能宇宙中微子的主要来源，并提出了AGN中宇宙中微子的产生机制尚未建立的问题。研究通过对AGN的15 GHz无线电观测数据和IceCube的10年中微子数据进行相关性分析，并采用了时间相关的方法来提高统计功效。研究发现在两种分析中均未发现明显的相关性，并报告了上限。与IceCube的漫射通量相比，对于能量为100 TeV，谱指数为2.5的情况，得到的上限分别约为3%和9%。 <div>
-Active galactic nuclei (AGN) are prime candidate sources of the high-energy, astrophysical neutrinos detected by IceCube. This is demonstrated by the real-time multimessenger detection of the blazar TXS 0506+056 and the recent evidence of neutrino emission from NGC 1068 from a separate time-averaged study. However, the production mechanism of the astrophysical neutrinos in AGN is not well established, which can be resolved via correlation studies with photon observations. For neutrinos produced due to photohadronic interactions in AGN, in addition to a correlation of neutrinos with high-energy photons, there would also be a correlation of neutrinos with photons emitted at radio wavelengths. In this work, we perform an in-depth stacking study of the correlation between 15 GHz radio observations of AGN reported in the MOJAVE XV catalog, and 10 yr of neutrino data from IceCube. We also use a time-dependent approach, which improves the statistical power of the stacking analysis. No significant correlation was found for both analyses, and upper limits are reported. When compared to the IceCube diffuse flux, at 100 TeV and for a spectral index of 2.5, the upper limits derived are ∼3% and ∼9% for the time-averaged and time-dependent cases, respectively.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>WASP 0346-21: An EL CVn-type Eclipsing Binary with Multiperiodic Pulsations in a Triple System</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67c7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67c7</guid>
-<content:encoded><![CDATA[
-<div> Very Large Telescope, UVES, TESS, WASP 0346-21, circumbinary object
-
-WASP 0346-21通过Very Large Telescope和TESS的观测，发现了一个三星系统，由EL CVn双星和一个远处的第三星组成。主星是一个介于δ Sct和γ Dor变星的区域。次星则匹配较低质量的白矮星模型，属于银河系运动学分类中的厚盘星。同时，通过对TESS数据的分析发现，WASP 0346-21 A有多周期的脉动，而高频的信号则可能是极低质量白矮星的振荡。这些结果为我们提供了WASP 0346-21的物理特性和成分的直接测定。此外，还发现了一个环绕双星的天体。总结: <br /><br />WASP 0346-21是一个三星系统，包括EL CVn双星和一个第三星。主星是介于δ Sct和γ Dor变星的区域，次星是一个符合低质量白矮星模型的星，在银河系厚盘星的分类中。同时，WASP 0346-21 A有多周期的脉动，而高频的信号可能是极低质量白矮星的振荡。这些结果提供了WASP 0346-21的物理特性和成分的直接测定，并发现了一个环绕双星的天体。 <div>
-Very Large Telescope/UVES spectroscopic and Transiting Exoplanet Survey Satellite (TESS) photometric observations for WASP 0346-21 allow the direct determination of its physical properties, along with the detection of a circumbinary object and oscillating signals. The high-resolution spectra yielded the radial velocities of all three stars and the atmospheric parameters of Teff,A = 7225 ± 42 K, [M/H] = 0.30 ± 0.03 dex, and vA = 78 ± 5 km s−1 of the primary component. The combined analysis of these observations resulted in the fundamental parameters of the eclipsing components and the third light of l3 = 0.043 ± 0.004, which is consistent with the light contribution of the tertiary star observed in the echelle spectra. WASP 0346-21 A resides within the overlapping main-sequence domain of δ Sct and γ Dor variables, while the secondary component of MB = 0.185 ± 0.013 M⊙, RB = 0.308 ± 0.023 R⊙, Teff,B = 10,655 ± 146 K, and LB = 1.09 ± 0.17 L⊙ matches well with the low-mass white dwarf (WD) model for Z = 0.01, corresponding to the thick disk population classified by the Galactic kinematics. Multifrequency analyses were performed on the residual TESS data after removing the binarity effects. The low frequencies around 26.348 day−1 and 17.683 day−1 are δ Sct pulsations originating from WASP 0346-21 A, and the high frequencies of 97.996 day−1 and 90.460 day−1 are considered to be extremely low-mass WD oscillations. These results demonstrate that WASP 0346-21 is a hierarchical triple system, consisting of an EL CVn binary with multiperiodic pulsations in each component and a distant outer tertiary.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Navigating Unknowns: Deep Learning Robustness for Gravitational-wave Signal Reconstruction</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6984</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6984</guid>
-<content:encoded><![CDATA[
-<div> 深度学习，引力波信号重建，AWaRe模型，波形重建不确定性估计，GW天体物理学研究。<br />
-总结:<br />
-这篇文章介绍了一种快速可靠的基于深度学习的方法，用于从LIGO数据中重建晦涩的通用二进制黑洞合并引力波（GW）信号。作者展示了他们的模型AWaRe能够有效地恢复在训练中未遇到过的具有不同参数的GW信号，包括较大的黑洞质量、附加谐波、离心率和变化的波形系统性，这些特性在波形的幅度和相位中引入了复杂的调制。作者还展示了AWaRe模型对真实GW事件的稳健性，以及其在未知数据中的外推能力，为GW天体物理学和数据分析的各个方面开辟了新的研究途径，包括广义相对论的测试和当前GW搜索方法的增强。 <div>
-We present a rapid and reliable deep-learning-based method for gravitational-wave (GW) signal reconstruction from elusive, generic binary black hole mergers in LIGO data. We demonstrate that our model, AWaRe, effectively recovers GWs with parameters it has not encountered during training. This includes features like higher black hole masses, additional harmonics, eccentricity, and varied waveform systematics, which introduce complex modulations in the waveform’s amplitudes and phases. The accurate reconstructions of these unseen signal characteristics demonstrate AWaRe's ability to handle complex features in the waveforms. By directly incorporating waveform reconstruction uncertainty estimation into the AWaRe framework, we show that for real GW events, the uncertainties in AWaRe's reconstructions align closely with those achieved by benchmark algorithms like BayesWave and coherent WaveBurst. The robustness of our model to real GW events and its ability to extrapolate to unseen data open new avenues for investigations in various aspects of GW astrophysics and data analysis, including tests of general relativity and the enhancement of current GW search methodologies.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The JWST Resolved Stellar Populations Early Release Science Program. VI. Identifying Evolved Stars in Nearby Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6449</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6449</guid>
-<content:encoded><![CDATA[
-<div> 红超巨星，热脉冲AGB星， NIRCam， WLM星系，恒星演化模型
-总结：<br /><br />这篇文章使用近红外相机（NIRCam）成像从JWST解析恒星人口早期释放的科学项目中进行了对WLM星系中演化星的调查。文章发现，结合F090W、F150W、F250M和F430M滤镜可以有效地将红超巨星和热脉冲AGB星相互隔离，同时合理地区分主要的TP-AGB亚类型：富碳C型星和富氧M型星。文章还表示，93%的尘埃星是碳丰富的，这表明碳质尘埃在WLM星系的尘埃产生中占主导地位。PARSEC + COLIBRI恒星演化模型与演化星色彩的预测结果取得了良好的一致性，这些模型还表明，演化星在NIRCam的鉴定可能在低金属丰度下更加困难。文章的结果证明了NIRCam在识别和分类产尘星时的实用性，无需中红外数据。 <div>
-We present an investigation of evolved stars in the nearby star-forming galaxy Wolf–Lundmark–Melotte (WLM), using Near-Infrared Camera (NIRCam) imaging from the JWST Resolved Stellar Populations Early Release Science program. We find that various combinations of the F090W, F150W, F250M, and F430M filters can effectively isolate red supergiants and thermally pulsing asymptotic giant branch (TP-AGB) stars from one another, while also providing a reasonable separation of the primary TP-AGB subtypes: carbon-rich C-type stars and oxygen-rich M-type stars. The classification scheme we present here agrees very well with the well-established Hubble Space Telescope (HST) medium-band filter technique. The ratio of C to M-type stars is 0.8 ± 0.1 for both the new JWST and the HST classifications, which is within 1σ of empirical predictions from optical narrowband CN and TiO filters. The evolved star colors show good agreement with the predictions from the PARSEC + COLIBRI stellar evolutionary models, and the models indicate a strong metallicity dependence that makes stellar identification even more effective at higher metallicity. However, the models also indicate that evolved star identification with NIRCam may be more difficult at lower metallicities. We test every combination of NIRCam filters using the models and present additional filters that are also useful for evolved star studies. We also find that ≈90% of the dusty evolved stars are carbon rich, suggesting that carbonaceous dust dominates the present-day dust production in WLM, similar to the findings in the Magellanic Clouds. These results demonstrate the usefulness of NIRCam in identifying and classifying dust-producing stars without the need for mid-infrared data.
-]]></content:encoded>
-<pubDate>2024-09-24T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
