@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Nature of a Recently Discovered Wolf–Rayet Binary: Archetype of Stripping?*</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a59</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a59</guid>
 <content:encoded><![CDATA[
-
 LMCe055-1 was recently discovered in a survey for Wolf–Rayets (WRs) in the Large Magellanic Cloud, and classified as a WN4/O4, a lower-excitation version of the WN3/O3 class discovered as part of the same survey. Its absolute magnitude precluded it from being a WN4+O4 binary. Optical Gravitational Lensing Experiment photometry shows shallow primary and secondary eclipses with a 2.2 days period. The spectral characteristics and short period pointed to a possible origin due to binary stripping. Such stripped WR binaries should be common but have proven elusive to identify conclusively. In order to establish its nature, we obtained Hubble Space Telescope ultraviolet and Magellan optical spectra, along with imaging. Our work shows that the WR emission and He ii absorption arise in one star, and the He i absorption in another. The He i contributor is the primary of the 2.2 days system and exhibits ∼300 km s−1 radial velocity variations on that timescale. However, the WR star shows 30–40 km s−1 radial velocity variations, with a likely 35 days period and a highly eccentric orbit. Possibly LMCe055-1 is a physical triple, but that would require the 2.2 days pair to have been captured by the WR star. A more likely explanation is that the WR star has an unseen companion in a 35 days orbit and that the 2.2 days pair is in a longer-period orbit about the two. Such examples of multiple systems are well known among massive stars, such as HD 5980. Regardless, we argue that it is highly unlikely that the WR component of the LMCe055-1 system resulted from stripping.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ LMCe055-1 was recently discovered in a survey for Wolf–Rayets (WRs) in the Lar
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a67</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a67</guid>
 <content:encoded><![CDATA[
-
 Protoclusters are high-z overdense regions that will evolve into clusters of galaxies by z = 0, making them ideal for studying galaxy evolution expected to be accelerated by environmental effects. However, it has been challenging to identify protoclusters beyond z = 3 only by photometry due to large redshift uncertainties hindering statistical study. To tackle the issue, we develop a new deep-learning-based protocluster detection model, PCFNet, which considers a protocluster as a point cloud. To detect protoclusters at z ∼ 4 using only optical broadband photometry, we train and evaluate PCFNet with mock g-dropout galaxies based on the N-body simulation with the semianalytic model. We use the sky distribution, i-band magnitude, (g − i) color, and the redshift probability density function surrounding a target galaxy on the sky. PCFNet detects 5 times more protocluster member candidates while maintaining high purity (recall = 7.5% ± 0.2%, precision = 44% ± 1%) than conventional methods. Moreover, PCFNet is able to detect more progenitors ( ) that are less massive than supermassive clusters like the Coma cluster. We apply PCFNet to the observational photometric data set of the Hyper Suprime-Cam Strategic Survey Program Deep/UltraDeep layer (∼17 deg2) and detect 121 protocluster candidates at z ∼ 4. We find that the rest-UV luminosities of our protocluster member candidates are brighter than those of field galaxies, which is consistent with previous studies. Additionally, the quenching of satellite galaxies depends on both the core galaxy’s halo mass at z ∼ 4 and accumulated mass until z = 0 in the simulation. PCFNet is very flexible and can find protoclusters at other redshifts or in future extensive surveys by Euclid, Legacy Survey of Space and Time, and Roman.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@ Protoclusters are high-z overdense regions that will evolve into clusters of gal
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4e</guid>
 <content:encoded><![CDATA[
-
 We use spectroscopic redshifts obtained with the WIYN 3.5 m telescope to study the local galactic environment around 18 Green Pea (GP) galaxies. Our sample of GPs were discovered in the Hα Dot Survey via their [O iii]λ5007 emission and span the redshift range 0.32 < z < 0.34. We present the environmental analyses near the location of the Hα Dot GPs. We utilize three different density estimators, chosen based on the geometry of the redshift survey data within the Hα Dot GP fields. We classify each Hα Dot GP into an environment category, from extremely isolated to highly clustered. We find that our entire sample of Hα Dot GPs reside in extremely isolated or low-density environments, with none located in the intermediate- to high-density regimes. We interpret this to indicate that major mergers and interactions do not drive the activity seen in these galaxies.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@ We use spectroscopic redshifts obtained with the WIYN 3.5 m telescope to study t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d5c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d5c</guid>
 <content:encoded><![CDATA[
-
 Classical Wolf–Rayet (W-R) stars are the descendants of massive OB stars that have lost their hydrogen envelopes and are burning helium in their cores prior to exploding as Type Ib/c supernovae. The mechanisms for losing their hydrogen envelopes are either through binary interactions or through strong stellar winds potentially coupled with episodic mass loss. Among the bright classical W-R stars, the binary system WR 137 (HD 192641; WC7d + O9e) is the subject of this paper. This binary is known to have a 13 yr period and produces dust near periastron. Here we report on interferometry with the Center for High Angular Resolution Astronomy Array collected over a decade of time and providing the first visual orbit for the system. We combine these astrometric measurements with archival radial velocities to measure masses of the stars of MWR = 9.5 ± 3.4 M⊙ and MO = 17.3 ± 1.9 M⊙ when we use the most recent Gaia distance. These results are then compared to predicted dust distribution using these orbital elements, which match the observed imaging from JWST as discussed recently by Lau et al. Furthermore, we compare the system to the Binary Population And Spectral Synthesis models, finding that the W-R star likely formed through stellar winds and not through binary interactions. However, the companion O star did likely accrete some material from the W-R star’s mass loss to provide the rotation seen today that drives its status as an Oe star.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,13 +46,10 @@ Classical Wolf–Rayet (W-R) stars are the descendants of massive OB stars that 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e66</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e66</guid>
 <content:encoded><![CDATA[
-
 We present the diffusive flow anisotropy vector components for ∼0.5–35 MeV anomalous cosmic-ray (ACR) protons observed during Voyager 2 roll maneuvers for the magnetometer instrument in the inner heliosheath. The diffusive flow results are derived from the differences between the observed anisotropy components presented in A. C. Cummings et al. (2021) and the Compton–Getting anisotropies based on measurements of the solar wind speeds from the Plasma Science instrument. We find that the tangential component of the derived diffusive anisotropy vector is in reasonable agreement, both in direction and magnitude, with a numerical model of the acceleration and transport of ACRs by diffusive shock acceleration along a nonspherical solar wind termination shock (TS). The results suggest that there exists a diffusive flow of these particles from the flank or tail of the heliosphere toward the nose, and support models in which higher-energy ACRs are accelerated in the flank or tail of the TS.
 ]]></content:encoded>
-
 <pubDate>2024-12-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Weak Lensing Analysis of A2390 Using Short Exposures</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4f</link>
@@ -11593,65 +11583,6 @@ Modeling observations of the archetypal debris disk around β Pic, obtained in 2
 
 NGC 628和NGC 4321是两个螺旋星系，研究了螺旋臂对星系盘的星形成活动的影响。文中采用多波段光谱能量分布的方法，对两个星系的局部区域进行了研究。研究结果支持了螺旋臂聚集物质但不触发星形成的观点。在arm和interarm区域分别对比了特定SFR、恒星年龄和星形成效率的分布，发现这些参数在螺旋臂区域与interarm区域的分布几乎没有区别，支持了螺旋臂的"gatherer"场景。未来将扩大样本进行进一步验证。 <br /><br />总结:NGC 628和NGC 4321是两个螺旋星系，研究了螺旋臂对星系盘的星形成活动的影响。采用多波段光谱能量分布的方法进行研究，支持了螺旋臂聚集物质但不触发星形成的观点。对比arm和interarm区域的分布发现几乎没有区别，支持了螺旋臂的"gatherer"场景。未来将扩大样本进行进一步验证。 <div>
 We test the influence of spiral arms on the star formation activity of disk galaxies by constructing and fitting multiwavelength spectral energy distributions for the two nearby spiral galaxies NGC 628 and NGC 4321, at a spatial scale of 1–1.5 kpc. Recent results in the literature support the “gatherers” picture, i.e., that spiral arms gather material but do not trigger star formation. However, ambiguities in the diagnostics used to measure star formation rates (SFRs) and other quantities have hampered attempts at reaching definite conclusions. We approach this problem by utilizing the physical parameters output of the Multi-wavelength Analysis of Galaxy Physical Properties fitting code, which we apply to the ultraviolet-to-far infrared photometry, in ≥20 bands, of spatially resolved regions in the two galaxies. We separate the regions into arm and interarm, and study the distributions of the specific SFRs (sSFR = SFR/Mstar), stellar ages, and star formation efficiencies (SFE = SFR/Mgas). We find that the distributions of these parameters in the arm regions are almost indistinguishable from those in the interarm regions, with typical differences of a factor of 2 or less in the medians. These results support the “gatherer” scenario of spiral arms, which we plan to test with a larger sample in the near future.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Local Bubble Is a Local Chimney: A New Model from 3D Dust Mapping</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad61de</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad61de</guid>
-<content:encoded><![CDATA[
-<div> 高分辨率3D尘埃地图、Local Bubble、太阳邻域、超新星驱动空洞、星际介质
-<br />
-利用Edenhofer等人的太阳邻域高分辨率3D尘埃地图，我们得出了Local Bubble尘埃迹象表面的新的3D模型。我们发现Local Bubble表面形状高度不规则，其最大消光面距太阳平均距离为170 pc（跨越70–600+ pc），典型厚度为35 pc，总尘埃迹象质量为（6.0 ± 0.7）×105M⊙。Local Bubble在银河北半球具有延伸，形态上与“本地烟囱”一致。我们认为，这个烟囱可能是由超新星驱动的超泡爆发所造成，导致了星际介质喷发进入更低的银河暗区。我们发现许多著名的尘埃特征和分子云位于Local Bubble表面，可能存在多个通向星际介质相邻腔的通道。我们的Local Bubble的新的秒差距分辨率视图可用于未来分析附近气体和年轻恒星的演化，调查太阳周边与银河的下层暗区之间的直接联系，以及其他众多应用。
-<br /><br />总结: 本研究利用高分辨率的3D尘埃地图推导出了Local Bubble尘埃迹象表面的新的3D模型。我们发现Local Bubble表面高度不规则，距离太阳的平均距离为170 pc，厚度为35 pc，总尘埃迹象质量为（6.0 ± 0.7）×105M⊙。此外，我们还发现Local Bubble在银河北半球具有延伸，形态上与“本地烟囱”一致。我们认为，这个烟囱可能是由超新星驱动的超泡爆发所造成。研究还表明，许多著名的尘埃特征和分子云位于Local Bubble表面。我们的研究结果有望为未来分析附近气体和年轻恒星的演化以及其他众多应用提供重要的参考。 <div>
-Leveraging a high-resolution 3D dust map of the solar neighborhood from Edenhofer et al., we derive a new 3D model for the dust-traced surface of the Local Bubble, the supernova-driven cavity surrounding the Sun. We find that the surface of the Local Bubble is highly irregular in shape, with its peak extinction surface falling at an average distance of 170 pc from the Sun (spanning 70–600+ pc) with a typical thickness of 35 pc and a total dust-traced mass of (6.0 ± 0.7) × 105M⊙. The Local Bubble displays an extension in the Galactic northern hemisphere that is morphologically consistent with representing a “local chimney.” We argue this chimney was likely created by the “bursting” of this supernova-driven superbubble, leading to the funneling of interstellar medium (ISM) ejecta into the lower Galactic halo. We find that many well-known dust features and molecular clouds fall on the surface of the Local Bubble and that several tunnels to other adjacent cavities in the ISM may be present. Our new, parsec-resolution view of the Local Bubble may be used to inform future analysis of the evolution of nearby gas and young stars, the investigation of direct links between the solar neighborhood and the Milky Way’s lower halo, and numerous other applications.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Multiwavelength Study to Decipher the 2017 Flare of the Blazar OJ 287</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad64d0</guid>
-<content:encoded><![CDATA[
-<div> blazar OJ 287, multiwavelength activity, soft X-ray peak, VHE γ-ray outburst, spectral energy distributions
-
-总结: 
-本文研究了2017年2月发生在OJ 287上的多波段活动，发现其在软X射线和极高能γ射线波段都经历了复杂的闪耀行为。研究聚焦于活动前、中、后三个状态，发现至少有两个非热辐射区域参与了这次闪耀事件，其中一个更紧凑的区域导致了观测到的耀斑。宽带建模结果和对2017年OJ 287射电喷流中的一个新射电节的观察与一次源自射电核外强再压缩激波的闪耀事件是一致的。 <div>
-In 2017 February, the blazar OJ 287 underwent a period of intense multiwavelength activity. It reached a new historic peak in the soft X-ray (0.3–10 keV) band, as measured by the Swift X-ray Telescope. This event coincides with a very-high-energy (VHE) γ-ray outburst that led VERITAS to detect emission above 100 GeV, with a detection significance of 10σ (from 2016 December 9 to 2017 March 31). The time-averaged VHE γ-ray spectrum was consistent with a soft power law (Γ = −3.81 ± 0.26) and an integral flux corresponding to ∼2.4% that of the Crab Nebula above the same energy. Contemporaneous data from multiple instruments across the electromagnetic spectrum reveal a complex flaring behavior, primarily in the soft X-ray and VHE bands. To investigate the possible origin of such an event, our study focuses on three distinct activity states: before, during, and after the 2017 February peak. The spectral energy distributions during these periods suggest the presence of at least two nonthermal emission zones, with the more compact one responsible for the observed flare. Broadband modeling results and observations of a new radio knot in the jet of OJ 287 in 2017 are consistent with a flare originating from a strong recollimation shock outside the radio core.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Radio Study of Persistent Radio Sources in Nearby Dwarf Galaxies: Implications for Fast Radio Bursts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6568</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6568</guid>
-<content:encoded><![CDATA[
-<div> persistent radio sources, dwarf galaxies, fast radio burst, neutron star wind nebula, massive black holes
-<br /><br />总结: 本研究使用Karl G. Jansky Very Large Array观测了九个近邻（z≲0.055）矮星系中非核心持续性射电源（PRS），并对其中一个进行了1.7 GHz的高分辨率欧洲VLBI网络观测。研究比较了这些PRS的物理特性（如尺寸、频谱能量分布、射电亮度和光变曲线）与已知活动星系核（AGN）相关的PRS，发现J1136+2643是最有希望与快速射电暴（FRB）源相关的PRS。此外，还针对J1136+2643进行了中子星风星云和超星云模型的验证，发现其物理尺寸、亮度和SED与这些模型基本一致。最后，讨论了这些射电源可能由不断吸积的超大质量黑洞所驱动的替代解释，并概述了区分这些场景的未来展望和跟进观测。 <div>
-We present 1–12 GHz Karl G. Jansky Very Large Array observations of nine off-nuclear persistent radio sources (PRSs) in nearby (z ≲ 0.055) dwarf galaxies, along with high-resolution European VLBI Network observations for one of them at 1.7 GHz. We explore the plausibility that these PRSs are associated with fast radio burst (FRB) sources by examining their properties—physical sizes, host-normalized offsets, spectral energy distributions (SEDs), radio luminosities, and light curves—and compare them to those of the PRSs associated with FRB 20121102A and FRB 20190520B, two known active galactic nuclei (AGN), and one likely AGN in our sample with comparable data, as well as other radio transients exhibiting characteristics analogous to FRB-PRSs. We identify a single source in our sample, J1136+2643, as the most promising FRB-PRS, based on its compact physical size and host-normalized offset. We further identify two sources, J0019+1507 and J0909+5655, with physical sizes comparable to FRB-PRSs, but which exhibit large offsets and flat spectral indices potentially indicative of a background AGN origin. We test the viability of neutron star wind nebula and hypernebula models for J1136+2643 and find that the physical size, luminosity, and SED of J1136+2643 are broadly consistent with these models. Finally, we discuss the alternative interpretation that the radio sources are instead powered by accreting massive black holes, and we outline future prospects and follow-up observations for differentiating between these scenarios.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Connecting the Low to High Corona: Propagating Disturbances as Tracers of the Near-Sun Solar Wind</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6601</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6601</guid>
-<content:encoded><![CDATA[
-<div> 高度-时间，太阳最小活动期，STEREO，太阳物理，太阳风
-总结:<br /><br />这篇文章研究了2008年1月期间的太阳活动最低期，跟踪了来自STEREO/EUVI的次级流干扰（PD）在扩展的日冕中的传播过程，并通过非径向路径在STEREO/COR1和STEREO/COR2中追踪其结构。通过对417个独特的OPD进行分析，发现了两类PD：慢速OPD和快速OPD。慢速OPD更倾向于在大约1.6R⊙处形成，速度大约为每秒1.5R⊙，并且在7.5R⊙时加速。快速OPD主要在1.6R⊙和3.0R⊙处形成，并且速度也在7.5R⊙时。IPD在大约1.8R⊙处形成，速度约为每秒数十千米，主要集中在日冕物质抛射爆发后。最后，文章还展示了与OPD相关的周期性亮度变化，在2.0R⊙范围内持续存在，速度与通过行星际闪烁获得的太阳风速度相吻合。 <div>
-We revisit a quiet 14 day period of solar minimum during 2008 January and track substreamer propagating disturbances (PDs) from low heights in STEREO/EUVI to the extended corona through STEREO/COR1 and into STEREO/COR2 along nonradial paths that trace the structure of the underlying streamers. Using our recently developed method for generating nonradial height–time profiles of outward PDs (OPDs) and inward PDs (IPDs), we obtained their velocities along the radial and position angle directions. Our analysis of 417 unique OPDs revealed two classes: slow and fast OPDs. Slow OPDs form preferentially at ≈1.6 R⊙ closer to the streamer boundaries, with asymmetric occurrence rates, and show speeds of at 1.5 R⊙ and accelerate up to at 7.5 R⊙. Fast OPDs form preferentially at ≈1.6 R⊙ and at ≈3.0 R⊙ both at the streamer boundaries and slightly more often within them. They show speeds of at 1.5 R⊙ up to at 7.5 R⊙. IPDs are observed forming at ≈1.8 R⊙ with speeds of tens of kilometers per second, mostly concentrated in the aftermath of a coronal mass ejection eruption. We present an example in which we show that periodic brightness variations related to OPDs remained in the range of 98 to 128 minutes, down to ≈2.0 R⊙, well within the field of view of COR1. The velocity profiles of slow OPDs for a heliocentric height below 3.0 R⊙ show good agreement with speeds more closely related to the bulk solar wind obtained via interplanetary scintillation.
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Effects of Bar Strength and Kinematics on Galaxy Evolution: Slow Strong Bars Affect Their Hosts the Most</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66b7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad66b7</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 钻石星系观测-IV、棒状结构、星形成、星系、动力学
-总结: 针对使用MaNGA数据从不同角度研究了棒状强度和运动学如何影响星系中的星形成。通过Galaxy Zoo DESI对棒状进行分类，以及使用MaNGA调查的星动力学数据上使用Tremaine–Weinberg方法对其进行分类。研究发现，在星形成星系中强棒状结构会导致中心和棒状末端区域的星形成增强，而在棒状臂部分却会导致星形成受到抑制。相反，对于弱棒状星系，其星形成的径向分布与无棒状星系非常相似。此外，研究还发现，在星形成星系中，缓慢的棒状结构会导致沿着棒状的星形成显著增加，然而全局的星形成率在有快速和缓慢棒状结构的星系中并没有显著差异。这表明棒状结构的动力学不会全局影响星形成，而是改变了星系中的星形成位置。因此，研究发现如果棒状结构既强又缓慢，它将对其主星系产生最大影响。 <br /><br /> <div>
-We study how bar strength and bar kinematics affect star formation in different regions of the bar by creating radial profiles of EW[Hα] and Dn4000 using data from Sloan Digital Sky Survey-IV Mapping Nearby Galaxies at Apache Point Observatory (MaNGA). Bars in galaxies are classified as strong or weak using Galaxy Zoo DESI, and they are classified as fast and slow bars using the Tremaine–Weinberg method on stellar kinematic data from the MaNGA survey. In agreement with previous studies, we find that strong bars in star-forming (SF) galaxies have enhanced star formation in their center and beyond the bar-end region, while star formation is suppressed in the arms of the bar. This is not found for weakly barred galaxies, which have very similar radial profiles to unbarred galaxies. In addition, we find that slow bars in SF galaxies have significantly higher star formation along the bar than fast bars. However, the global star formation rate is not significantly different between galaxies with fast and slow bars. This suggests that the kinematics of the bar do not affect star formation globally, but changes where star formation occurs in the galaxy. Thus, we find that a bar will influence its host the most if it is both strong and slow.
 ]]></content:encoded>
 <pubDate>2024-09-25T23:00:00Z</pubDate>
 </item>
