@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Universal Nonthermal Power-law Distribution Functions from the Self-consistent Evolution of Collisionless Electrostatic Plasmas</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad91a1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad91a1</guid>
+<content:encoded><![CDATA[
+
+Collisionless systems often exhibit nonthermal power-law tails in their distribution functions. Interestingly, collisionless plasmas in various physical scenarios (e.g., the ion population of the solar wind) feature a v−5 tail in their velocity (v) distribution, whose origin has been a long-standing puzzle. We show this power-law tail to be a natural outcome of the collisionless relaxation of driven electrostatic plasmas. Using a quasi-linear analysis of the perturbed Vlasov–Poisson equations, we show that the coarse-grained mean distribution function (DF), f0, follows a quasi-linear diffusion equation with a diffusion coefficient D(v) that depends on v through the plasma dielectric constant. If the plasma is isotropically forced on scales larger than the Debye length with a white-noise-like electric field, D(v) ∼ v4 for σ < v < ωP/k, with σ the thermal velocity, ωP the plasma frequency, and k the characteristic wavenumber of the perturbation; the corresponding quasi-steady-state f0 develops a v−(d + 2) tail in d dimensions (v−5 tail in 3D), while the energy (E) distribution develops an E−2 tail independent of dimensionality. Any redness of the noise only alters the scaling in the high v end. Nonresonant particles moving slower than the phase velocity of the plasma waves (ωP/k) experience a Debye-screened electric field, and significantly less (power-law suppressed) acceleration than the near-resonant particles. Thus, a Maxwellian DF develops a power-law tail, while its core (v < σ) eventually also heats up but over a much longer timescale. We definitively show that self-consistency (ignored in test-particle treatments) is crucial for the emergence of the universal v−5 tail.
+]]></content:encoded>
+
+<pubDate>2024-12-05T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Kink Instability of Flux Ropes in Partially Ionized Plasmas</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f6</guid>
 <content:encoded><![CDATA[
-
 In the solar atmosphere, flux ropes are subject to current-driven instabilities that are crucial in driving plasma eruptions, ejections, and heating. A typical ideal magnetohydrodynamics instability developing in flux ropes is the helical kink, which twists the flux rope axis. The growth of this instability can trigger magnetic reconnection, which can explain the formation of chromospheric jets and spicules, but its development has never been investigated in a partially ionized plasma (PIP). Here, we study the kink instability in PIP to understand how it develops in the solar chromosphere, where it is affected by charge-neutral interactions. Partial ionization speeds up the onset of the nonlinear phase of the instability, as the plasma β of the isolated plasma is smaller than the total plasma β of the bulk. The distribution of the released magnetic energy changes in fully ionized plasma and PIP, with a larger increase in internal energy associated with the PIP cases. The temperature in PIP increases faster also due to heating terms from the two-fluid dynamics. PIP effects trigger kink instability on shorter time scales, which is reflected in more explosive chromospheric flux rope dynamics. These results are crucial to understanding the dynamics of small-scale chromospheric structures—minifilament eruptions—that thus far have been largely neglected but could significantly contribute to chromospheric heating and jet formation.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ In the solar atmosphere, flux ropes are subject to current-driven instabilities 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a00</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a00</guid>
 <content:encoded><![CDATA[
-
 Investigating the impact of galaxy properties on emergent Lyα emission is crucial for reionization studies, given the sensitivity of Lyα to neutral hydrogen. This study presents an analysis of the physical characteristics of 155 star-forming galaxies, 29 with Lyα detected, and 126 with Lyα not detected with Lyα EW < 20 Å, at z = 1.9–3.5, drawn from the MOSFIRE Deep Evolution Field survey, that have overlapping observations from the Hobby–Eberly Telescope Dark Energy Experiment survey. To unravel the interstellar medium (ISM) conditions in our sample, we developed a custom nebular line modeling algorithm based on the MAPPINGS V photoionization model grid and the emcee framework. Combining nebular-based ISM properties with photometry-based global properties, constrained via Bagpipes, we explore distinctions in the stellar and gas properties between Lyα-detected and Lyα-nondetected galaxies. Our analysis reveals statistically significant differences between the two samples in terms of stellar mass and dust attenuation (AV) at >2σ significance, as determined via a Kolmogorov–Smirnov test. Moreover, there are weaker (≲1σ significance) indications that the ionization parameter and metallicity differ between the two samples. Our results demonstrate that the escape fraction of Lyα ( ) is inversely correlated with stellar mass, star formation rate, and dust attenuation, while it is positively correlated with the ionization parameter, with significance levels exceeding 2σ. Our findings suggest that the interstellar environments of Lyα-detected galaxies, characterized by low mass, low dust, low gas-phase metallicity, and high ionization parameters, play a pivotal role in promoting the escape of Lyα radiation.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@ Investigating the impact of galaxy properties on emergent Lyα emission is cruci
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83b1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83b1</guid>
 <content:encoded><![CDATA[
-
 Variations of the magnetic field within a solar coronal mass ejection (CME) in the heliosphere depend on the CME’s magnetic structure as it leaves the solar corona and its interplanetary evolution. To account for this evolution, we developed a new numerical model of the inner heliosphere that simulates the propagation of a CME through a realistic solar wind background and allows various CME magnetic topologies. To this end, we incorporate the Gibson–Low CME model within our global MHD model of the inner heliosphere, GAMERA-Helio. We apply the model to study the propagation of the geoeffective CME that erupted on 2010 April 3, aiming to reproduce the temporal variations of the magnetic field vector during the CME’s passage by Earth. Parameters of the Gibson–Low CME are informed by STEREO white-light observations near the Sun. The magnetic topology for this CME—the tethered flux rope—is informed by in situ magnetic field observations near Earth. We performed two simulations testing different CME propagation directions. For an in-ecliptic direction, the simulation shows a rotation of all three magnetic field components within the CME, as seen at Earth, similar to that observed. However, the magnitudes of the components, particularly at the back of the CME, are underestimated by the model. With a southward direction, suggested by coronal imaging observations, the Bx component lacks the observed change from negative to positive. In both cases, the model favors the east–west orientation of the flux rope, consistent with the orientation previously inferred from the images from STEREO/Heliospheric Imager.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@ Variations of the magnetic field within a solar coronal mass ejection (CME) in t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87cd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87cd</guid>
 <content:encoded><![CDATA[
-
 Rest-frame far-ultraviolet (FUV) observations from JWST are revolutionizing our understanding of the high-z galaxies that drove reionization and the mechanisms by which they accomplished it. To fully interpret these observations, we must be able to diagnose how properties of the interstellar medium (ISM; e.g., column density, covering fraction, and outflow velocity) directly relate to the absorption features produced. Using the high-signal-to-noise and high-resolution FUV spectra of 45 nearby star-forming galaxies from the Cosmic Origins Spectrograph Legacy Spectroscopic Survey, we present the largest uniform, simultaneous characterization of neutral and low-ionization state (LIS) interstellar UV absorption lines (O i, Si ii, S ii, C ii, and Al ii) across a wide range of galaxy properties. We also present 21 cm H i observations for 35 galaxies, multiple of which are gas-poor or nondetected, possibly indicating the onset of a post-starburst phase. We find that our simultaneous one-component Voigt profile fits are capable of accurately modeling the LIS absorption for ∼75% of galaxies, mitigating challenges associated with saturation, infilling, and degeneracies. While the most massive galaxies require additional components, our one-component fits return average properties of the absorbing gas and follow the scaling relations described by a single gas cloud. We explore connections between LIS absorption and direct tracers of the neutral ISM (O i, Lyα, and H i 21 cm), finding that C ii most closely traces the neutral gas trends, while other ions exhibit weaker correlations. Given the challenges with directly observing H i at higher-z, we demonstrate that LIS absorption can be a powerful means to study the neutral ISM and present empirical relationships for predicting neutral gas properties.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@ Rest-frame far-ultraviolet (FUV) observations from JWST are revolutionizing our 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b2b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b2b</guid>
 <content:encoded><![CDATA[
-
 The Milne–Eddington (M-E) atmosphere model is commonly adopted in the inversion of the magnetic fields in the solar photosphere. By applying the Levenberg–Marquardt algorithm or training a neural network (NN) model, the magnetic field vector can be quickly inferred from the Stokes profile but lacks reliable and statistically well-defined confidence intervals for parameters. To address this, we present an efficient Bayesian inference method called NNHMC, combining the NN model with the Hamiltonian Monte Carlo (HMC) algorithm. The NN model is used to speedily synthesize batches of synthetic Stokes profiles, accelerating the inference process. The HMC algorithm significantly improves sampling efficiency in high-dimensional parameter spaces and can handle large-scale data sets in batches. The spectropolarimetric observation of an active region obtained by the Hinode/spectropolarimeter (SP) is used to demonstrate the capability of the NNHMC method. The strength, inclination, and azimuth of the magnetic field and the line-of-sight velocity inferred with the NNHMC method are very similar to those derived with the MERLIN code. Furthermore, this study provided posterior distributions and uncertainties for these parameters. A test on the same hardware and software platform shows a speed increase of up to 2.5 orders of magnitude with respect to the traditional Markov Chain Monte Carlo method (without the NN, using the M-E atmosphere model), establishing the NNHMC method as a highly effective tool for Stokes inversion based on Bayesian inference.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +66,8 @@ The Milne–Eddington (M-E) atmosphere model is commonly adopted in the inversio
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b49</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b49</guid>
 <content:encoded><![CDATA[
-
 The solar wind interacts with planetary magnetospheres, generating plasma waves in both the upstream region and the magnetospheric environment. Mars, lacking an inherent magnetic field, has an induced magnetosphere formed through solar wind interaction with its ionosphere. These waves are crucial for momentum and energy exchange within the planetary plasma environment. This study focuses on the existence and dynamics of electrostatic solitary waves (ESWs) in Martian ionospheric plasma, characterized by various flowing ions. We employ a multifluid plasma model incorporating positive (streaming) ions, negative ions, and two distinct kappa-distributed electron populations to study ESW propagation in the Martian ionosphere from first principles. Linear analysis reveals four distinct modes, including a subsonic mode due to the negative-ion beam. Electrostatic waves may become unstable due to a beam instability excited at long wavelengths. Seeking stationary profile solutions, an energy balance equation is obtained in the moving reference frame, and the shape of the solitary wave can thus be predicted numerically. A meticulous analysis reveals that either positive- or negative-polarity ESWs (or both) may occur (simultaneously) in the Martian environment. In addition to conventional bipolar E-field waveforms, our theoretical model predicts the existence of wiggly bipolar pulses (supersolitary waves) and offset bipolar pulses (flat-top solitary waves) in Martian plasma. Comparison of our model’s predictions with real observational plasma parameters indicates that, like Martian magnetosheath plasma, ionospheric plasma may sustain ESWs measuring several tens of millivolts per meter.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +75,8 @@ The solar wind interacts with planetary magnetospheres, generating plasma waves 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b50</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b50</guid>
 <content:encoded><![CDATA[
-
 The “extended solar cycle” indicates that there are two deeply seated toroidal magnetic field bands in each hemisphere. Both bands migrate equatorward as a sunspot cycle progresses. Here, we examine the consequences of global MHD instability of this migrating double-band system in tachocline on the latitudinal structure of unstable modes, which are essentially MHD Rossby waves. We find that latitude-location, latitude-separation, and the amplitude of the bands strongly influence the latitudinal structure and growth rates of the unstable modes of both symmetries about the equator. These properties can lead to “teleconnections” between low- and high-latitudes in each hemisphere and across the equator. High-latitude bands can destabilize low-latitude bands that would otherwise be stable. Stronger high-latitude bands lead to strong interactions between low and high latitude in each hemisphere, but inhibit cross-equatorial band-interaction. Strong cross-equatorial interactions of modes can synchronize cycle minima in north and south. Symmetric and antisymmetric modes of similar amplitudes can lead to substantial asymmetries between north and south. As a solar cycle progresses, excited MHD Rossby waves go through a sequence of changes in latitude structure and growth rate, while maintaining strong links in latitude. These changes and links are theoretical evidence of teleconnections between widely separated latitudes and longitudes in the Sun, which may explain many of the evolving surface magnetic patterns observed as a solar cycle progresses. The wider the separation between high- and low-latitude bands, the earlier the cross-equatorial teleconnection starts in a cycle, and hence the earlier the cycle starts declining.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,13 +84,10 @@ The “extended solar cycle” indicates that there are two deeply seated toroid
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd8</guid>
 <content:encoded><![CDATA[
-
 During routine survey imaging, the reactivated Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE-R) serendipitously caught the Type II supernova SN 2023ixf in Messier 101 on the rise, starting day 3.6 through day 10.9, and again on the decline at late times from days 211 through 213 and days 370 through 372. We have considered these mid-IR data together with observations from the ultraviolet (UV) through the near-IR, when possible. At day 3.6 we approximated the optical emission with a hot, ∼26,630 K blackbody, with a notable UV excess inferred to result from strong supernova (SN) shock interaction with circumstellar matter (CSM). In the IR, however, a clear excess is also obvious, and we fit it with a cooler, ∼1620 K blackbody with a radius of ∼2.6 × 1015 cm, consistent with dust in the progenitor’s circumstellar shell likely heated by the UV emission from the CSM interaction. On day 10.8, the light detected was consistent with SN ejecta-dominated emission. At late times we also observed a clear NEOWISE-R excess, which could arise either from newly formed dust in the inner ejecta or in the contact discontinuity between the forward and reverse shocks, or from more distant pre-existing dust grains in the SN environment. Furthermore, the large 4.6 μm excess at late times can also be explained by the emergence of the carbon monoxide 1–0 vibrational band. SN 2023ixf is the best-observed SN II in the mid-IR during the first several days after the explosion and one of the most luminous such SNe ever seen.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Magnetic Diagnostics of Prominence Eruptions through the Hanle Effect of the He i 1083 nm Line</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de4</link>
@@ -11537,103 +11532,6 @@ Accreting supermassive black holes frequently power jets that interact with the 
 总结:
 本文重新评估了观测中测量漫射云中H2电离率的方法，并发现灰尘消光图可以提供与先前估计不同的气体密度值。使用这些数据，结合3d-pdr代码，得出了H2丰度和CR电离率的新值，发现平均来说，CR电离率比先前估计的值低了约9倍，主要是由于密度的降低。这些结果对所有现有的电离率测量都具有深远的影响。 <div>
 All current estimates of the cosmic-ray (CR) ionization rate rely on assessments of the gas density along the probed sight lines. Until now, these have been based on observations of different tracers, with C2 being the most widely used in diffuse molecular clouds for this purpose. However, dust extinction maps have recently reached sufficient accuracy to give an independent measurement of the gas density on parsec scales. In addition, they allow us to identify the gas clumps along each sight line, thus localizing the regions where CR ionization is probed. We reevaluate observations, which are often considered as the most reliable method to measure the H2 ionization rate in diffuse clouds. The peak density values derived from the extinction maps for 12 analyzed sight lines turn out to be, on average, an order of magnitude lower than the previous estimates and agree with the values obtained from revised analysis of C2 data. We use the extinction maps in combination with the 3d-pdr code to self-consistently compute the and H2 abundances in the identified clumps for different values of . For each sight line, we obtain the optimum value by comparing the simulation results with observations. We show that is systematically reduced with respect to the earlier estimates by a factor of ≈9 on average, to ≈6 × 10−17 s−1, primarily as a result of the density reduction. We emphasize that these results have profound consequences for all available measurements of the ionization rate.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Densities in Diffuse and Translucent Molecular Clouds: Estimates from Observations of C2 and from Three-dimensional Extinction Maps</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7264</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7264</guid>
-<content:encoded><![CDATA[
-<div> C2, H2, collisional rate coefficients, interstellar gas density, absorption observations
-<br />
-新的C2与H2碰撞激发的碰撞速率系数较之前采用的数值要大得多，这对于星际气体密度的探测非常重要。作者利用这些新的速率系数模拟了46个背景源的C2旋转分布，推测出导致观测到的C2吸收的前景星际云的气体密度比之前估算的要小4-7倍，与相关视线的3D消光图中的峰值密度基本吻合。对于那些还观测到吸收并用于估算宇宙射线离子化率（CRIR）的情况，我们对CRIR的估计也会相应减小，因为丰度是CRIR与气体密度的比值的函数。 
-<br /><br />总结: C2与H2碰撞激发的速率系数重新计算，推测前景星际云气体密度减小，与3D消光图吻合，估计的CRIR也减小。 <div>
-Newly computed collisional rate coefficients for the excitation of C2 in collisions with H2, presented recently by Najar & Kalugina, are significantly larger than the values adopted previously in models for the excitation of the C2 molecule, a widely used probe of the interstellar gas density. With these new rate coefficients, we have modeled the C2 rotational distributions inferred from visible and ultraviolet absorption observations of electronic transitions of C2 toward a collection of 46 nearby background sources. The inferred gas densities in the foreground interstellar clouds responsible for the observed C2 absorption are a factor 4–7 smaller than those inferred previously, a direct reflection of the larger collisional rate coefficients computed by Najar & Kalugina. These lower-density estimates are generally in good agreement with the peak densities inferred from 3D extinction maps for the relevant sight lines. In cases where absorption has also been observed and used to estimate the cosmic-ray ionization rate (CRIR), our estimates of the latter will also decrease accordingly because the abundance is a function of the ratio of the CRIR to the gas density.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Magnetized Accretion onto and Feedback from Supermassive Black Holes in Elliptical Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7</guid>
-<content:encoded><![CDATA[
-<div> 磁气动力学模拟, 超大质量黑洞, 燃料, 星系, 冷却介质
-<br />
-这篇文章报告了对超大质量黑洞（M87*为典型案例）的燃料来自椭圆星系中的湍流冷却介质的三维磁气动力学模拟。研究发现，与类比的流体动力学模拟相比，质量吸积率增加了约10倍。从大约10 pc到10^-3 pc（约10个Schwarzschild半径），质量吸积率呈现出大致的比例关系，且通过视界的吸积率约为10^-2M⊙ yr^-1。在0.03-3 kpc的尺度上，吸积流呈磁化纤维的形式。在约30 pc范围内，冷气体环绕运动形成了一个高度被磁化（β约10^-3）的厚盘，由主要是环状磁场支撑。冷盘受到截断，并在约0.3 pc（10^3个Schwarzschild半径）处转变为湍流的热吸积流。磁场驱动向极端的强流出。通过的能量通量随着吸积体积减小而增加，对于rin=8 rg，能量通量达到约3 × 10^43 erg s^-1；这相当于接近恒定的能量反馈效率η约为0.05-0.1，与吸积体积无关。反馈能量足以平衡M87 / 维尔戈热晕的总冷却，直至约50 kpc。小半径的吸积磁通量类似于磁阻滞盘模型，与M87在视界尺度上形成强大的喷流相一致。我们的结果可以为低分辨率模拟中的吸积提供次网格模型，其中相对于邦迪率，热气体吸积率受到抑制。 <br /><br />总结: 这项研究重点讨论了超大质量黑洞在燃料来源、磁场作用和能量输出等方面的模拟结果。其中包括质量吸积率的增加、磁化纤维中的吸积流、冷盘的形成和热吸积流的转变以及强大的磁场驱动的极端流出等。研究结果推动了低分辨率模拟中的吸积次网格模型的发展。 <div>
-We present 3D magnetohydrodynamic simulations of the fueling of supermassive black holes in elliptical galaxies from a turbulent cooling medium on galactic scales, taking M87* as a typical case. We find that the mass accretion rate is increased by a factor of ∼10 compared with analogous hydrodynamic simulations. The scaling of roughly holds from ∼10 pc to ∼10−3 pc (∼10 rg) with the accretion rate through the event horizon being ∼10−2M⊙ yr−1. The accretion flow on scales ∼0.03–3 kpc takes the form of magnetized filaments. Within ∼30 pc, the cold gas circularizes, forming a highly magnetized (β ∼ 10−3) thick disk supported by a primarily toroidal magnetic field. The cold disk is truncated and transitions to a turbulent hot accretion flow at ∼0.3 pc (103rg). There are strong outflows toward the poles driven by the magnetic field. The outflow energy flux increases with smaller accretor size, reaching ∼3 × 1043 erg s−1 for rin = 8 rg; this corresponds to a nearly constant energy feedback efficiency of η ∼ 0.05–0.1 independent of accretor size. The feedback energy is enough to balance the total cooling of the M87/Virgo hot halo out to ∼50 kpc. The accreted magnetic flux at small radii is similar to that in magnetically arrested disk models, consistent with the formation of a powerful jet on horizon scales in M87. Our results motivate a subgrid model for accretion in lower-resolution simulations in which the hot gas accretion rate is suppressed relative to the Bondi rate by .
-]]></content:encoded>
-<pubDate>2024-09-25T23:00:00Z</pubDate>
-</item>
-<item>
-<title>SN 2021dbg: A Luminous Type IIP–IIL Supernova Exploding from a Massive Star with a Layered Shell</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5fe8</guid>
-<content:encoded><![CDATA[
-<div> 超新星，SN 2021dbg，光度，光谱，核心崩塌，红超巨星<br />
-SN 2021dbg是一颗超新星，表现出比大多数II型超新星更高的亮度，这可能是由于喷射物与周围星际物质相互作用导致的。根据初期光谱中检测到的闪烁发射线的流量估计，爆发前2-3年间有强烈的恒星风活动，产生了大量周围星际物质。根据辐射光曲线、星云光谱建模和质量损失率，该超新星的母体可能是一颗质量约20太阳质量、半径1200太阳半径的红超巨星，具有厚厚的氢壳，并且可能包含有物质密度、电子密度和温度急剧下降的区域，呈现出II型和IIL型超新星的混合特征，是连接这两个子类的过渡事件。<br /><br />总结: 超新星SN 2021dbg表现出较高的亮度，可能是由于喷射物与周围星际物质相互作用。根据初期光谱中检测到的闪烁发射线的流量估计，爆发前有强烈的恒星风活动，产生大量周围星际物质。根据辐射光曲线、星云光谱建模和质量损失率，该超新星的母体可能是一颗质量约20太阳质量、半径1200太阳半径的红超巨星，具有厚厚的氢壳，并且可能包含有物质密度、电子密度和温度急剧下降的区域，呈现出II型和IIL型超新星的混合特征，是连接这两个子类的过渡事件。 <div>
-We present extensive observations and analysis of supernova (SN) SN 2021dbg, utilizing optical photometry and spectroscopy. For approximately 385 days following the explosion, SN 2021dbg exhibited remarkable luminosity, surpassing most Type II SNe (SNe II). This initial high luminosity is potentially attributed to interaction between the ejected material and the surrounding circumstellar material (CSM), as evidenced by the pronounced interaction signatures observed in its spectra. The subsequent high luminosity is primarily due to the significant 56Ni mass (0.17 ± 0.05 M⊙) produced in the explosion. Based on the flux of flash emission lines detected in the initial spectra, we estimate that the CSM mass near the progenitor amounted to ∼(1.0–2.0) × 10−3M⊙, likely resulting from intense stellar wind activity 2–3 yr preceding the explosion. Considering the bolometric light curve, nebular spectrum modeling, and mass-loss rate, we suggest that the progenitor of SN 2021dbg was a red supergiant (RSG) with a mass of ∼20 M⊙ and a radius of 1200 R⊙. This RSG featured a thick hydrogen shell, which may have contained a region with a sharp decrease in material density, electron density, and temperature, contributing to its layered structure. This object demonstrates mixed features of Type IIP and IIL SNe, making it a transitional event linking the above two subclasses of SNe II.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>FLIMFLAM DR1: The First Constraints on the Cosmic Baryon Distribution from Eight Fast Radio Burst Sight Lines</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6567</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6567</guid>
-<content:encoded><![CDATA[
-<div> FRBs, dispersion measure, cosmic baryon distribution, FLIMFLAM survey, IGM and CGM fractions
-总结:
-FRB的色散度量由于与传播路径上的自由电子相互作用，成为宇宙重子分布的独特探针。利用FLIMFLAM光谱调查观测到的背景大尺度结构和干涉星系，结合观测结果，首次对IGM和CGM之间的宇宙重子分配提出了约束。该研究利用贝叶斯技术对FLIMFLAM调查的数据进行处理，推断出了由IGM气体追踪的∼Mpc尺度物质密度场的重建。同时，对干扰前景星系（在impact parameter b⊥ ≲ r200处）和FRB宿主星系进行了更深入的光谱分析，限制了来自CGM的贡献。根据我们的数据应用贝叶斯参数推断，并假设一组假设的先验知识，得出了IGM宇宙重子分数和1010M⊙ ≲ Mhalo ≲ 1013M⊙晕的CGM气体分数。在我们的样本中，平均FRB宿主星系色散度量（自然坐标系）为，其中来自宿主星系星际介质（ISM）和/或FRB发生环境。虽然我们当前的figm和fgas的不确定性范围过于宽泛，无法约束大多数星系反馈模型，但这一结果标志着IGM和CGM重子分数的首次测量，以及FRB宿主色散度量的首次系统分解：来自星系暗物质晕以及来自内部ISM/FRB引擎。 <div>
-The dispersion measure of fast radio bursts (FRBs), arising from the interactions with free electrons along the propagation path, constitutes a unique probe of the cosmic baryon distribution. Their constraining power is further enhanced in combination with observations of the foreground large-scale structure and intervening galaxies. In this work, we present the first constraints on the partition of the cosmic baryons between the intergalactic medium (IGM) and circumgalactic medium (CGM), inferred from the FLIMFLAM spectroscopic survey. In its first data release, the FLIMFLAM survey targeted galaxies in the foreground of eight localized FRBs. Using Bayesian techniques, we reconstruct the underlying ∼Mpc-scale matter density field that is traced by the IGM gas. Simultaneously, deeper spectroscopy of intervening foreground galaxies (at impact parameters b⊥ ≲ r200) and the FRB host galaxies constrains the contribution from the CGM. Applying Bayesian parameter inference to our data and assuming a fiducial set of priors, we infer the IGM cosmic baryon fraction to be and a CGM gas fraction of for 1010M⊙ ≲ Mhalo ≲ 1013M⊙ halos. The mean FRB host dispersion measure (rest-frame) in our sample is , of which arises from the host galaxy interstellar medium (ISM) and/or the FRB progenitor environment. While our current figm and fgas uncertainties are too broad to constrain most galactic feedback models, this result marks the first measurement of the IGM and CGM baryon fractions, as well as the first systematic separation of the FRB host dispersion measure into two components: arising from the halo and from the inner ISM/FRB engine.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Understanding the Effects of Spacecraft Trajectories through Solar Coronal Mass Ejection Flux Ropes Using 3DCOREweb</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad660a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad660a</guid>
-<content:encoded><![CDATA[
-<div> 轨道位置，轨迹，CME，3DCORE模型，in situ signatures
-<br />
-这项研究使用3DCORE模型进行了前向建模，分析了不同轨道位置对日冕物质抛射（CMEs）的in situ signatures的影响。研究发现，CMEs在apex击中和侧翼遭遇时的签名具有明显差异，后者显示出延长的轮廓并降低了旋转。此外，研究确认不同的CME类型在in situ signatures中具有明显不同的特征，有助于更好地理解和解释观测数据。研究还指出了模型的局限性，并得出了关于CME的全局磁场结构和基于in situ观测区分不同类型CME的潜力相关的重要结论。
-<br /><br />总结: 这项研究利用3DCORE模型进行了前向建模，分析了不同轨道位置对日冕物质抛射（CMEs）的in situ signatures的影响。研究发现不同位置对CMEs签名有明显影响，有助于更好理解日冕活动。研究也确认了不同CME类型在in situ signatures中的显著区别，这有助于解释观测数据。同时指出了模型的局限性。 <div>
-This study investigates the impact of spacecraft positioning and trajectory on in situ signatures of coronal mass ejections (CMEs). Employing the 3DCORE model, a 3D flux rope model that can generate in situ profiles for any given point in space and time, we conduct forward modeling to analyze such signatures for various latitudinal and longitudinal positions, with respect to the flux rope apex, at 0.8 au. Using this approach, we explore the appearance of the resulting in situ profiles for different flux rope types, with different handedness and inclination angles, for both high- and low-twist CMEs. Our findings reveal that CMEs exhibit distinct differences in signatures between apex hits and flank encounters, with the latter displaying elongated profiles with reduced rotation. Notably, constant, nonrotating in situ signatures are only observed for flank encounters of low-twist CMEs, suggesting the existence of untwisted magnetic field lines within CME legs. Additionally, our study confirms the unambiguous appearance of different flux rope types in in situ signatures in all of the cases, barring some indistinguishable cases, contributing to the broader understanding and interpretation of observational data. Given the model assumptions, this may refute trajectory effects as the cause for mismatching flux rope types as identified in solar signatures. While acknowledging limitations inherent in our model, such as the assumption of constant twist and a nondeformable torus-like shape, we still draw relevant conclusions within the context of the global magnetic field structures of CMEs and the potential for distinguishing flux rope types based on in situ observations.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Effects of Multichannel Active Galactic Nuclei Feedback in FIRE Cosmological Simulations of Massive Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67ca</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67ca</guid>
-<content:encoded><![CDATA[
-<div> AGN feedback, galaxy formation simulations, FIRE-3, cosmological zoom-in simulations, star formation
-
-总结:
-超大质量黑洞的反馈被认为是驱动观测到的星系颜色双峰性的关键因素之一。该研究使用FIRE-3宇宙学放大模拟，首次考察了AGN反馈对质量范围在10^12–10^13M⊙的星系的影响。研究发现，AGN反馈模型能够使星系符合当地的比例关系，并且产生了与观测一致的星系形态和星系星的停止形成现象。然而，当反馈参数保持恒定时，模型并不能产生一致的实际星系，表明需进一步完善AGN建模。 <div>
-Feedback from supermassive black holes is believed to be a critical driver of the observed color bimodality of galaxies above the Milky Way mass scale. Active galactic nuclei (AGN) feedback has been modeled in many galaxy formation simulations, but most implementations have involved simplified prescriptions or a coarse-grained interstellar medium (ISM). We present the first set of Feedback In Realistic Environments (FIRE)-3 cosmological zoom-in simulations with AGN feedback evolved to z ∼ 0, examining the impact of AGN feedback on a set of galaxies with halos in the mass range 1012–1013M⊙. These simulations combine detailed stellar and ISM physics with multichannel AGN feedback including radiative feedback, mechanical outflows, and, in some simulations, cosmic rays (CRs). We find that massive (>L*) galaxies in these simulations can match local scaling relations including the stellar mass–halo mass relation and the MBH–σ relation; in the stronger model with CRs, they also match the size–mass relation and the Faber–Jackson relation. Many of the massive galaxies in the simulations with AGN feedback have quenched star formation and elliptical morphologies, in qualitative agreement with observations. In contrast, simulations at the massive end without AGN feedback produce galaxies that are too massive and form stars too rapidly, are order-of-magnitude too compact, and have velocity dispersions well above Faber–Jackson. Despite these successes, the AGN models analyzed do not produce uniformly realistic galaxies when the feedback parameters are held constant: While the stronger model produces the most realistic massive galaxies, it tends to overquench the lower-mass galaxies. This indicates that further refinements of the AGN modeling are needed.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Spindown of Pulsars Interacting with Companion Winds: The Impact of Magnetospheric Compression</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6840</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6840</guid>
-<content:encoded><![CDATA[
-<div> 脉冲星，双星系统，磁屏（magnetopause），模拟，自转减速<br />
-总结:<br />
-本文研究了双星系统中受压缩的脉冲星磁屏对自转减速的影响。通过粒子-细胞模拟，发现压缩脉冲星在不同倾斜角度下的减速情况。在较强的约束模型中，脉冲星的自转减速会因磁场线增多而增强。而当倾斜角为90°时，压缩脉冲星的自转减速速率下降至孤立脉冲星的40%以下。最后，将分析应用于PSR J0737-3039系统，并对其磁场进行了估计。 <div>
-Pulsars in binary systems with strong companion winds can have the magnetopause separating their magnetosphere from the wind located well within their light cylinder. This bow-like enclosure effectively creates a waveguide that confines the pulsar’s electromagnetic fields and can significantly alter its spindown. In this paper, we study the spindown of compressed pulsar magnetospheres in such systems. We parameterize the confinement as the ratio between the equatorial position of the magnetopause (or standoff distance) Rm and the pulsar’s light cylinder RLC. Using particle-in-cell simulations, we quantify the pulsar spindown for a range of compressions, Rm/RLC = 1/3–1, and inclination angles, χ = 0°…90°, between magnetic and rotation axes. Our strongly confined models (Rm/RLC = 1/3) show two distinct limits. For χ = 0°, the spindown of a compressed pulsar magnetosphere is enhanced by approximately a factor of three compared to an isolated pulsar due to the increased number of open magnetic field lines. Conversely, for χ = 90°, the compressed pulsar spins down at less than 40% of the rate of an isolated reference pulsar due to the mismatch between the pulsar wind stripe wavelength and the waveguide size. We apply our analysis to the 2.77 s oblique rotator (χ = 60°) in the double-pulsar system PSR J0737-3039. With the numerically derived spindown estimate, we constrain its surface magnetic field to B* ≈ (7.3 ± 0.2) × 1011 G. We discuss the time modulation of its period derivative, the effects of compression on its braking index, and implications for the radio eclipse in PSR J0737-3039.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Tracing the History of Obscured Star Formation with the SIMBA Cosmological Galaxy Evolution Simulation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6844</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6844</guid>
-<content:encoded><![CDATA[
-<div> 星形成，尘埃，宇宙演化，模拟，观测<br />
-在这篇文章中，研究了simba宇宙水动力模拟中尘埃阻碍的星形成的演化。得到了以下几点结论：在z=3之前，结果与观测结果基本一致，显示出星形成没有明显变化；然而在z>3时，发现在固定的星系恒星质量情况下，尘埃遮蔽的星形成有明显变化，与高红移观测结果存在矛盾。这种在更高红移处逐渐增加的遮蔽现象是由于星尘几何形状的演化导致的，因为灰尘与恒星质量之比在宇宙时空中保持相对恒定。此外，固定红移时，质量更大的星系有更高比例的星形成受到遮蔽，这可以通过更高的恒星质量和灰尘质量之比来解释。最后，估计了尘埃遮蔽的星形成对总体星形成率的贡献，发现尘埃遮蔽的星形成历史在z∼2−3附近达到峰值，并在z≳5时不再是主导因素。在z≲4时，尘埃遮蔽的星形成统治着星系形成的历史，这与在更高红移情况下固定星系质量的尘埃遮蔽星形成比例逐渐增加的结果一致，因为在高红移情况下存在着较少数量的大质量、高度遮蔽的星系。 <br /><br />总结: 星系在不同红移时的尘埃遮蔽星形成情况、质量更大的星系尘埃遮蔽星形成比例较高、尘埃遮蔽星形成对总体星形成率的贡献情况。 <div>
-We explore the cosmic evolution of the fraction of dust-obscured star formation predicted by the simba cosmological hydrodynamic simulations featuring an on-the-fly model for dust formation, evolution, and destruction. We find that up to z = 3, our results are broadly consistent with previous observational results of little to no evolution in obscured star formation. However, at z > 3 we find strong evolution at fixed galaxy stellar mass toward greater amounts of obscured star formation, in tension with high-redshift observations. We explain the trend of increasing obscuration at higher redshifts by evolving star-dust geometry, as the dust-to-stellar mass ratios remain relatively constant across cosmic time. We additionally see that at a fixed redshift, more massive galaxies have a higher fraction of their star formation obscured, which is explained by increased dust-to-stellar mass ratios at higher stellar masses. Finally, we estimate the contribution of dust-obscured star formation to the total star formation rate budget and find that the dust-obscured star formation history peaks around z ∼ 2−3, and becomes subdominant at z ≳ 5. The dominance of obscured star formation at redshifts z ≲ 4 is consistent with our results for the evolution of the obscured star formation fraction at fixed stellar mass to higher values at higher redshift because there exist fewer massive, heavily obscured galaxies at high redshift.
 ]]></content:encoded>
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
