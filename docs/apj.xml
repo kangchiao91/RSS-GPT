@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Confirming the Tidal Tails of the Young Open Cluster Blanco 1 with TESS Rotation Periods</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a7</guid>
 <content:encoded><![CDATA[
-
 Blanco 1 is an ≈130 Myr open cluster located 240 pc from the Sun, below the Galactic plane. Recent studies have reported the existence of diffuse tidal tails extending 50–60 pc from the cluster center based on the positions and velocities measured by Gaia. To independently assess the reality and extent of this structure, we used light curves generated from TESS full-frame images to search for photometric rotation periods of stars in and around Blanco 1. We detected rotation periods down to a stellar effective temperature of ≈3100 K in 347 of the 603 cluster member candidates for which we have light curves. For cluster members in the core and candidate members in the tidal tails, both within a temperature range of 4400–6200 K, 74% and 72% of the rotation periods, respectively, are consistent with the single-star gyrochronological sequence. In contrast, a comparison sample of field stars yielded gyrochrone-consistent rotation periods for only 8.5% of the stars. The tidal tail candidates’ overall conformance to the core members’ gyrochrone sequence implies that their contamination ratio is consistent with zero and <0.33 at the 2σ level. This result confirms the existence of Blanco 1 tidal tails and doubles the number of Blanco 1 members for which there are both spatio-kinematic and rotation-based cluster membership verification. Extending the strategy of using TESS light curves for gyrochronology to other nearby young open clusters and stellar associations may provide a viable strategy for mapping out their dissolution and broadening the search for young exoplanets.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Universal Nonthermal Power-law Distribution Functions from the Self-consistent Evolution of Collisionless Electrostatic Plasmas</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad91a1</link>
@@ -11517,18 +11515,6 @@ We present 1.8 yr of near-daily Swift monitoring of the bright, strongly variabl
 
 总结:<br /><br />本文利用FARGO3D代码进行了三维全局多流体辐射流体力学模拟，阐明了在Jovian行星的广泛轨道周围形成环绕行星盘的热力学条件。研究发现，冷却时间至少比轨道时间尺度短一个数量级时，气体的比角动量在Hill半径的1/3尺度上几乎是开普勒型的。模拟结果还表明，包括多流体尘埃动力学在内的模型可以促进旋转支持，因为尘埃沉降形成一个向各向异性的辐射分布，有利于快速冷却。此外，研究发现，具有辐射流体力学的模型中，随着时间的推移，具体角动量会减小，符合由于压缩加热形成内部等熵包层的情况。因此，年轻的气态巨行星可能具有球形的等熵包层，而不是环行行星盘。 <div>
 The formation of circumplanetary disks is central to our understanding of giant planet formation, influencing their growth rate during the post-runaway phase and observability while embedded in protoplanetary disks. We use three-dimensional global multifluid radiation hydrodynamics simulations with the FARGO3D code to define the thermodynamic conditions that enable circumplanetary disk formation around Jovian planets on wide orbits. Our simulations include stellar irradiation, viscous heating, static mesh refinement, and active calculation of opacity based on multifluid dust dynamics. We find a necessary condition for the formation of circumplanetary disks in terms of a mean cooling time: When the cooling time is at least 1 order of magnitude shorter than the orbital timescale, the specific angular momentum of the gas is nearly Keplerian at scales of one-third of the Hill radius. We show that the inclusion of multifluid dust dynamics favors rotational support because dust settling produces an anisotropic opacity distribution that favors rapid cooling. In all our models with radiation hydrodynamics, specific angular momentum decreases as time evolves, in agreement with the formation of an inner isentropic envelope due to compressional heating. The isentropic envelope can extend up to one-third of the Hill radius and shows negligible rotational support. Thus, our results imply that young gas giant planets may host spherical isentropic envelopes, rather than circumplanetary disks.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Dissipation of AGN Jets in a Clumpy Interstellar Medium</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67d7</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 超大质量黑洞，宇宙射电源，星系形成，宇宙射线，数值模拟
-总结: 
-本研究探讨了超大质量黑洞喷流与星系周围介质相互作用的物理过程。喷流与星系间介质的相互作用对星系内恒星形成起到了调控作用。研究建立了喷流与光滑介质相互作用模型，包括了稠密云的影响，提出了重要物理量的标度关系。首次得到了介质颗粒度的解析条件，以验证与数值模拟结果。本研究还与实际观测进行了对比，并讨论了对费米/eROSITA泡泡的影响。这项工作也为宇宙射电源在宇宙射线模拟中提出了有效的次网格模型。 <div>
-Accreting supermassive black holes frequently power jets that interact with the interstellar medium (ISM)/circumgalactic medium, regulating star formation in the galaxy. Highly supersonic jets launched by active galactic nuclei (AGN) power a cocoon that confines them and shocks the ambient medium. We build on the models of narrow conical jets interacting with a smooth ambient medium, including the effect of dense clouds, which are an essential ingredient of a multiphase ISM. The key physical ingredient of this model is that the clouds along the supersonic jet beam strongly decelerate the jet head but the subsonic cocoon easily moves around the clouds without much resistance. We propose scalings for important physical quantities—cocoon pressure, head and cocoon speed, and jet radius. For the first time, we obtain the analytic condition on the ambient medium’s clumpiness for the jet to dissipate within the cocoon and verify it with numerical simulations of conical jets interacting with a uniform ISM with embedded spherical clouds. A jet is defined to be dissipated when the cocoon speed exceeds the speed of the jet head. We compare our models with more sophisticated numerical simulations and direct observations of jet–ISM interaction (e.g., quasar J1316+1753), and we discuss implications for the Fermi/eROSITA bubbles. Our work also motivates effective subgrid models for AGN jet feedback in a clumpy ISM unresolved by the present generation of cosmological galaxy formation simulations.
 ]]></content:encoded>
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
