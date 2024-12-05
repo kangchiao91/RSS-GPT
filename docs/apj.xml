@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Universal Nonthermal Power-law Distribution Functions from the Self-consistent Evolution of Collisionless Electrostatic Plasmas</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad91a1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad91a1</guid>
 <content:encoded><![CDATA[
-
 Collisionless systems often exhibit nonthermal power-law tails in their distribution functions. Interestingly, collisionless plasmas in various physical scenarios (e.g., the ion population of the solar wind) feature a v−5 tail in their velocity (v) distribution, whose origin has been a long-standing puzzle. We show this power-law tail to be a natural outcome of the collisionless relaxation of driven electrostatic plasmas. Using a quasi-linear analysis of the perturbed Vlasov–Poisson equations, we show that the coarse-grained mean distribution function (DF), f0, follows a quasi-linear diffusion equation with a diffusion coefficient D(v) that depends on v through the plasma dielectric constant. If the plasma is isotropically forced on scales larger than the Debye length with a white-noise-like electric field, D(v) ∼ v4 for σ < v < ωP/k, with σ the thermal velocity, ωP the plasma frequency, and k the characteristic wavenumber of the perturbation; the corresponding quasi-steady-state f0 develops a v−(d + 2) tail in d dimensions (v−5 tail in 3D), while the energy (E) distribution develops an E−2 tail independent of dimensionality. Any redness of the noise only alters the scaling in the high v end. Nonresonant particles moving slower than the phase velocity of the plasma waves (ωP/k) experience a Debye-screened electric field, and significantly less (power-law suppressed) acceleration than the near-resonant particles. Thus, a Maxwellian DF develops a power-law tail, while its core (v < σ) eventually also heats up but over a much longer timescale. We definitively show that self-consistency (ignored in test-particle treatments) is crucial for the emergence of the universal v−5 tail.
 ]]></content:encoded>
-
 <pubDate>2024-12-05T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Kink Instability of Flux Ropes in Partially Ionized Plasmas</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79f6</link>
@@ -11520,18 +11518,6 @@ The formation of circumplanetary disks is central to our understanding of giant 
 总结: 
 本研究探讨了超大质量黑洞喷流与星系周围介质相互作用的物理过程。喷流与星系间介质的相互作用对星系内恒星形成起到了调控作用。研究建立了喷流与光滑介质相互作用模型，包括了稠密云的影响，提出了重要物理量的标度关系。首次得到了介质颗粒度的解析条件，以验证与数值模拟结果。本研究还与实际观测进行了对比，并讨论了对费米/eROSITA泡泡的影响。这项工作也为宇宙射电源在宇宙射线模拟中提出了有效的次网格模型。 <div>
 Accreting supermassive black holes frequently power jets that interact with the interstellar medium (ISM)/circumgalactic medium, regulating star formation in the galaxy. Highly supersonic jets launched by active galactic nuclei (AGN) power a cocoon that confines them and shocks the ambient medium. We build on the models of narrow conical jets interacting with a smooth ambient medium, including the effect of dense clouds, which are an essential ingredient of a multiphase ISM. The key physical ingredient of this model is that the clouds along the supersonic jet beam strongly decelerate the jet head but the subsonic cocoon easily moves around the clouds without much resistance. We propose scalings for important physical quantities—cocoon pressure, head and cocoon speed, and jet radius. For the first time, we obtain the analytic condition on the ambient medium’s clumpiness for the jet to dissipate within the cocoon and verify it with numerical simulations of conical jets interacting with a uniform ISM with embedded spherical clouds. A jet is defined to be dissipated when the cocoon speed exceeds the speed of the jet head. We compare our models with more sophisticated numerical simulations and direct observations of jet–ISM interaction (e.g., quasar J1316+1753), and we discuss implications for the Fermi/eROSITA bubbles. Our work also motivates effective subgrid models for AGN jet feedback in a clumpy ISM unresolved by the present generation of cosmological galaxy formation simulations.
-]]></content:encoded>
-<pubDate>2024-09-26T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Reevaluation of the Cosmic-Ray Ionization Rate in Diffuse Clouds</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71ce</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71ce</guid>
-<content:encoded><![CDATA[
-<div> cosmic-ray ionization rate, gas density, extinction maps, H2 abundances, 3d-pdr code
-总结:
-本文重新评估了观测中测量漫射云中H2电离率的方法，并发现灰尘消光图可以提供与先前估计不同的气体密度值。使用这些数据，结合3d-pdr代码，得出了H2丰度和CR电离率的新值，发现平均来说，CR电离率比先前估计的值低了约9倍，主要是由于密度的降低。这些结果对所有现有的电离率测量都具有深远的影响。 <div>
-All current estimates of the cosmic-ray (CR) ionization rate rely on assessments of the gas density along the probed sight lines. Until now, these have been based on observations of different tracers, with C2 being the most widely used in diffuse molecular clouds for this purpose. However, dust extinction maps have recently reached sufficient accuracy to give an independent measurement of the gas density on parsec scales. In addition, they allow us to identify the gas clumps along each sight line, thus localizing the regions where CR ionization is probed. We reevaluate observations, which are often considered as the most reliable method to measure the H2 ionization rate in diffuse clouds. The peak density values derived from the extinction maps for 12 analyzed sight lines turn out to be, on average, an order of magnitude lower than the previous estimates and agree with the values obtained from revised analysis of C2 data. We use the extinction maps in combination with the 3d-pdr code to self-consistently compute the and H2 abundances in the identified clumps for different values of . For each sight line, we obtain the optimum value by comparing the simulation results with observations. We show that is systematically reduced with respect to the earlier estimates by a factor of ≈9 on average, to ≈6 × 10−17 s−1, primarily as a result of the density reduction. We emphasize that these results have profound consequences for all available measurements of the ionization rate.
 ]]></content:encoded>
 <pubDate>2024-09-26T23:00:00Z</pubDate>
 </item>
