@@ -4,6 +4,50 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Differential Rotation of Individual Sunspots and Pores</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a0</guid>
+<content:encoded><![CDATA[
+
+The analysis of the rotation rate of individual sunspots and pores was performed according to the data from the processing of observations by the Solar Dynamics Observatory/Helioseismic and Magnetic Imager in the period 2010–2024. Sunspots stood out in the images in the continuum. To accurately track the spots, we processed five images for each day. To determine the polarity of the magnetic field, we superimposed the contours of sunspots on observations of magnetic fields at the same time. This made it possible to track the movement of more than 210,000 individual sunspots and pores. It is found that the rotation rate is influenced by the rotation rate of the solar atmosphere and the systematic proper motions of the spots. Sunspots and pores of the leading polarity have a rate of meridional movement ≈2.4% faster than spots of the trailing polarity. We also found that regular sunspots, which have umbrae and penumbrae, rotate ≈1.5% faster than solar pores, in which penumbrae are absent. The dependence of the rotation rate on the area is found. For sunspots with an area of S > 10 μhm, the rotation rate is practically independent of the area. Small sunspots, with an area of S < 10 μhm, rotate ≈1.7% more slowly.
+]]></content:encoded>
+
+<pubDate>2024-12-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Observations of the Crustal Mini-magnetopause Reconnection at Mars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93ad</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93ad</guid>
+<content:encoded><![CDATA[
+
+Magnetopause reconnection is a fundamental mechanism for mass and energy transfer in terrestrial planetary systems. Unlike Earth, Mars lacks a global magnetic field and instead has localized crustal magnetic fields, which can create structures morphologically similar to a scaled-down intrinsic magnetosphere, potentially forming mini-magnetospheres. In this study, we investigate reconnection in Martian mini-magnetospheres on the dayside, analyzing key characteristics of the reconnecting current sheet, and the associated ion escape rate, and comparing these features to reconnection events at the induced magnetopause documented in previous studies. Our observations reveal that, in the subsolar region, the thickness of the Martian mini-magnetopause is comparable to the upstream proton inertial length and the convective gyroradius of the magnetosheath solar wind. However, at higher solar zenith angles, this thickness increases to several times these characteristic lengths. Reconnection-driven ion escape rates at the induced magnetopause are at least 1 order of magnitude greater than those associated with mini-magnetopause reconnection. These findings provide new insights into reconnection processes at Martian boundary layers.
+]]></content:encoded>
+
+<pubDate>2024-12-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Implementation of Aerosol Mie Scattering in POSEIDON with Application to the Hot Jupiter HD 189733 b’s Transmission, Emission, and Reflected Light Spectrum</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8575</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8575</guid>
+<content:encoded><![CDATA[
+
+Aerosols are a ubiquitous feature of planetary atmospheres and leave clear spectral imprints in exoplanet spectra. Pre-JWST, exoplanet retrieval frameworks mostly adopted simple parametric approximations. With JWST, we now have access to mid-infrared wavelengths where aerosols have detectable composition-specific resonance features. Here, we implement new features into the open-source atmospheric retrieval code POSEIDON to account for the complex scattering, reflection, and absorption properties of Mie-scattering aerosols. We provide an open-source database of these Mie-scattering cross sections and optical properties. We also extend the radiative transfer and retrieval functionality in POSEIDON to include multiple scattering reflection and emission spectroscopy. We demonstrate these new retrieval capabilities on archival Hubble and Spitzer transmission and secondary-eclipse spectra of the hot Jupiter HD 189733 b. We find that a high-altitude, low-density, and thin slab composed of submicron particles is necessary to fit HD 189733 b’s transmission spectrum, with multiple aerosol species providing a good fit. We additionally retrieve a subsolar H2O abundance, a subsolar K abundance, and do not detect CO2. Our joint thermal and reflection retrievals of HD 189733 b’s secondary-eclipse spectrum, however, finds no evidence of dayside aerosols, a subsolar dayside H2O abundance, enhanced CO2, or slightly subsolar alkali abundances. We additionally explore how retrieval model choices such as cloud parameterization, aerosol species and properties, and thermal structure parameterization affect retrieved atmospheric properties. Upcoming JWST data for hot Jupiters such as HD 189733 b will be well suited to enable deeper exploration of aerosol properties, allowing the formulation of a self-consistent, multidimensional picture of cloud formation processes.
+]]></content:encoded>
+
+<pubDate>2024-12-05T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mid-infrared Variability in Nearby Galaxies from the MaNGA Sample</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89b8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89b8</guid>
+<content:encoded><![CDATA[
+
+We use mid-infrared variability in galaxies to search for active galactic nuclei (AGN) in the local universe. We use a sample of 10,220 galaxies from the Mapping Nearby Galaxies at Apache Point Observatory survey, part of the Sloan Digital Sky Survey. For each galaxy, we examine its mid-infrared variability in the W2 [4.6 μm] band over 13 years using data from the Wide Infrared Survey Explorer (WISE) All-Sky and Near Earth Objects WISE missions. We demonstrate that we can detect variability signatures as small as about 7% in the rms variation of W2 flux for the majority of cases. Using other AGN signatures of the variable galaxies, such as optical narrow lines, optical broad lines, and WISE W1 − W2 colors, we show that ∼75% of the variables show these additional AGN signatures, indicating that the bulk of these cases are likely to be AGN. We also identify seven galaxies that have light curves characteristic of tidal disruption events. We present here a publicly available catalog of the light-curve variability in W2 of these galaxies.
+]]></content:encoded>
+
+<pubDate>2024-12-05T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Confirming the Tidal Tails of the Young Open Cluster Blanco 1 with TESS Rotation Periods</title>
