@@ -5,17 +5,125 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Galaxy Spectroscopy without Spectra: Galaxy Properties from Photometric Images with Conditional Diffusion Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbe</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbe</guid>
+<content:encoded><![CDATA[
+
+Modern spectroscopic surveys can only target a small fraction of the vast amount of photometrically cataloged sources in wide-field surveys. Here, we report the development of a generative artificial intelligence (AI) method capable of predicting optical galaxy spectra from photometric broadband images alone. This method draws from the latest advances in diffusion models in combination with contrastive networks. We pass multiband galaxy images into the architecture to obtain optical spectra. From these, robust values for galaxy properties can be derived with any methods in the spectroscopic toolbox, such as standard population synthesis techniques and Lick indices. When trained and tested on 64 × 64 pixel images from the Sloan Digital Sky Survey, the global bimodality of star-forming and quiescent galaxies in photometric space is recovered, as well as a mass–metallicity relation of star-forming galaxies. The comparison between the observed and the artificially created spectra shows good agreement in overall metallicity, age, Dn4000, stellar velocity dispersion, and E(B − V) values. Photometric redshift estimates of our generative algorithm can compete with other current, specialized deep learning techniques. Moreover, this work is the first attempt in the literature to infer velocity dispersion from photometric images. Additionally, we can predict the presence of an active galactic nucleus up to an accuracy of 82%. With our method, scientifically interesting galaxy properties, normally requiring spectroscopic inputs, can be obtained in future data sets from large-scale photometric surveys alone. The spectra prediction via AI can further assist in creating realistic mock catalogs.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Infrared Band Strengths and Other Properties of Three Interstellar Compounds—Amorphous Isocyanic Acid, Formaldehyde, and Formic Acid</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</guid>
+<content:encoded><![CDATA[
+
+Infrared (IR) spectral features of interstellar and solar system ices have been attributed to solid organic and inorganic compounds for over 50 yr, but in many cases the laboratory IR data needed to fully quantify such work have never been published, forcing researchers to rely on assumptions about gas- or liquid-phase measurements to interpret data for ices. Here, we report the first mid-IR intensity measurements for isocyanic acid (HNCO) ices that are free of such assumptions, providing new results for use by both observational and laboratory astrochemists. We also report similar new IR data for both formaldehyde (H2CO) and formic acid (HCOOH), which have been discussed in the astrochemical literature for decades, but again without adequate laboratory data to help quantify observational results. Densities and refractive indices of HNCO, H2CO, and HCOOH as amorphous ices also are reported. Two applications of the new H2CO work are presented, the first vapor-pressure measurements of solid H2CO, along with an enthalpy of sublimation, at 100 to 109 K and a set of IR intensities of H2CO in H2O + H2CO ices. Band strengths, absorption coefficients, and optical constants are calculated for all three compounds. Extensive comparisons are made to older results, which are not recommended for future use.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Thorough Search for Short-timescale Periodicity in Four Active Repeating Fast Radio Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</guid>
+<content:encoded><![CDATA[
+
+Fast radio bursts (FRBs) are bright radio transients with millisecond durations, which typically occur at extragalactic distances. The association of FRB 20200428 with the Galactic magnetar SGR J1935+2154 strongly indicates that they could originate from neutron stars, which naturally leads to the expectation that periodicity connected with the spinning of magnetars should exist in the activities of repeating FRBs. However, previous studies have failed to find any signatures supporting such a conjecture. Here we perform a thorough search for short-timescale periodicity in the four most active repeating sources, i.e., FRBs 20121102A, 20200120E, 20201124A, and 20220912A. Three different methods are employed, including a phase folding algorithm, the H-test, and Lomb–Scargle periodograms. For the three most active repeaters from which more than 1000 bursts have been detected, i.e., FRBs 20121102A, 20201124A, and 20220912A, more in-depth period searches are conducted by considering various burst properties such as the pulse width, peak flux, fluence, and the brightness temperature. No clear periodicity is found in a period range of 0.001–1000 s in all efforts. Implications of such a null result on the theoretical models of FRBs are discussed.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Intergalactic Medium Rotation Measure of Primordial Magnetic Fields</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc5</guid>
+<content:encoded><![CDATA[
+
+The Faraday rotation effect, quantified by the rotation measure (RM), is a powerful probe of the large-scale magnetization of the Universe—tracing magnetic fields not only on galaxy and galaxy cluster scales but also in the intergalactic medium (IGM; referred to as RMIGM). The redshift dependence of the latter has extensively been explored with observations. It has also been shown that this relation can help to distinguish between different large-scale magnetization scenarios. We study the evolution of this RMIGM for different primordial magnetogenesis scenarios to search for the imprints of primordial magnetic fields (PMFs; magnetic fields originating in the early Universe) on the redshift-dependence of RMIGM. We use cosmological magnetohydrodynamic simulations for evolving PMFs during large-scale structure formation, coupled with the light-cone analysis to produce a realistic statistical sample of mock RMIGM images. We study the predicted behavior for the cosmic evolution of RMIGM for different correlation lengths of PMFs, and provide fitting functions for their dependence on redshifts. We compare these mock RM trends with the recent analysis of the the LOw-Frequency ARray RM Grid and find that large-scale-correlated PMFs should have (comoving) strengths ≲0.75 nG, if they originated during inflation with the scale-invariant spectrum and (comoving) correlation length of ∼19 h−1 cMpc or ≲30 nG if they originated during phase-transition epochs with the comoving correlation length of ∼1 h−1 cMpc. Our findings agree with previous observations and confirm the results of semi-analytical studies, showing that upper limits on the PMF strength decrease as their coherence scales increase.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Dynamic 3D Simulation of Surface Charging on Rotating Asteroids</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e37</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e37</guid>
+<content:encoded><![CDATA[
+
+The surface-charging phenomenon of asteroids, mainly resulting from solar wind plasma and solar radiation, has been extensively studied. However, the influence of the asteroid’s rotation on surface charging is not yet fully understood. In this study, a neural network is established to replace numerical integration, improving the efficiency of dynamic 3D simulations. We simulate rotating asteroids and their surrounding plasma environments under various conditions, including the quiet solar wind and solar storms. Different minerals on the asteroid surface are also considered. Additionally, the effects of orbital motion and obliquity are studied for asteroids with rotation periods comparable to their orbital periods. The results show that under the typical solar wind, the maximum and minimum potentials of asteroids gradually decrease with increasing rotation periods, especially when the solar wind is obliquely incident. For asteroids with rotation periods longer than one week, this decreasing trend becomes extremely slow. During a solar storm, the solar wind plasma changes sharply, and the susceptibility of an asteroid’s surface potential to rotation is greatly pronounced. Surface minerals also play a role; plagioclase is the most sensitive mineral among those explored, while ilmenite appears indifferent to changes in rotation periods. Understanding the surface charging of asteroids under various rotation periods and angles is crucial for further research on solar wind plasma and asteroids’ surface dust motion, providing a reference for the safe landing and exploration of asteroids.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multiple Components of the Outflow in the Protostellar System HH 212: Outer Outflow Shell, Rotating Wind, Shocked Wind, and Jet</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb4</guid>
+<content:encoded><![CDATA[
+
+We present the Atacama Large Millimeter/submillimeter Array Band 7 observations of the CO (J = 3−2) line emission of the protostellar system HH 212 at ∼24 au spatial resolution and compare them to those of the SiO (J = 8−7) and SO (J = 8−7) line emission reported in the literature. We find that the CO line traces four distinct regions: (1) an outer outflow shell, (2) a rotating wind region between the SiO and CO shells, (3) the shocked and wide-angle inner X-wind inside a SiO shell, and (4) the jet. The origin of the CO outer outflow shell could be associated with the entrained material of the envelope, or an extended disk wind. The rotating wind, which is shocked, is launched from a radius of 9–15 au, slightly exterior to that of the previously detected SO shell, which marks the boundary where the wide-angle X-wind is interacting with and shocking the disk wind. Additionally, the SO is found to be mixed with the CO emission within the thick and extended rotating wind region. The large-scale CO-shocked wind coexists with the SO emission near the upper portion of the inner shocked region converged on top of the inner SiO knots. The CO jet is traced by a chain of knots with roughly equal intervals, exhibiting quasiperiodicity, as reported in other jets in the literature.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mergers, Radio Jets, and Quenching Star Formation in Massive Galaxies: Quantifying Their Synchronized Cosmic Evolution and Assessing the Energetics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3e</guid>
+<content:encoded><![CDATA[
+
+The existence of a population of massive quiescent galaxies with little to no star formation poses a challenge to our understanding of galaxy evolution. The physical process that quenched the star formation in these galaxies is debated, but the most popular possibility is that feedback from supermassive black holes lifts or heats the gas that would otherwise be used to form stars. In this paper, we evaluate this idea in two ways. First, we compare the cumulative growth in the cosmic inventory of the total stellar mass in quiescent galaxies to the corresponding growth in the amount of kinetic energy carried by radio jets. We find that these two inventories are remarkably well-synchronized, with about 50% of the total amounts being created in the epoch from z ≈ 1 to 2. We also show that these agree extremely well with the corresponding growth in the cumulative number of major mergers that result in massive (>1011Mʘ) galaxies. We therefore argue that major mergers trigger the radio jets and also transform the galaxies from disks to spheroids. Second, we evaluate the total amount of kinetic energy delivered by jets and compare it to the baryonic binding energy of the galaxies. We find the jet kinetic energy is more than sufficient to quench star formation, and the quenching process should be more effective in more massive galaxies. We show that these results are quantitatively consistent with recent measurements of the Sunyaev–Zel’dovich effect seen in massive galaxies at z ≈ 1.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Detailed Calculations of the Efficiency of Planetesimal Accretion in the Core-accretion Model. III. The Contribution of Planetesimals beyond Saturn</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9003</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9003</guid>
+<content:encoded><![CDATA[
+
+Continuing our initiative on advancing the calculations of planetesimal accretion in the core-accretion model, we present here the results of our recent study of the contributions of planetesimals around and beyond the orbit of Saturn. In our first two papers, where our focus was on the effects of the Sun and Saturn, the initial distribution of planetesimals was limited to the regions around the accretion zone of a growing Jupiter. In this paper, we expanded that distribution to regions beyond the accretion zone of Saturn. We integrated the orbits of a large ensemble of planetesimals and studied the rate of their capture by the growing proto-Jupiter. In order to be consistent with our previous studies, we did not consider the effect of the nebular gas. Results demonstrated that the exterior planetesimals, especially those beyond 8 au, have only slight contributions to the growth and metallicity of the growing Jupiter. The final mass and composition of this planet is mainly due to the planetesimals inside and around its accretion zone. Our study shows that although the rate of capture varies slightly by the size and composition of planetesimals, in general, the final results are independent of the size and material of these bodies. Results also pointed to a new finding: the rate of accretion follows the same trend as that of the evolution of Jupiter’s envelope, with the largest accretion occurring during the envelope’s collapse. We present details of our analysis and discuss the implications of its results.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Challenges for Fast Radio Bursts as Multimessenger Sources from Binary Neutron Star Mergers</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9023</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9023</guid>
+<content:encoded><![CDATA[
+
+Fast radio bursts (FRBs) are millisecond-duration transients from extragalactic sources, with their origins remaining a topic of active debate. Among the proposed progenitors, binary neutron star (BNS) mergers are compelling candidates for some nonrepeating FRBs. However, associating FRBs with BNS mergers cannot be based solely on low chance coincidence probability. This study delineates necessary criteria for associating FRBs with BNS mergers, focusing on the postmerger ejecta environment. To underscore the significance of these criteria, we scrutinise the proposed association between GW190425 and FRB 20190425A, considering the requirement for the FRB signal to traverse the dense merger ejecta without significant attenuation to remain detectable at 400 MHz. Our investigation reveals that if the FRB is linked to the gravitational-wave (GW) event, the GW data support a highly off-axis configuration, with a probability of the BNS merger viewing angle p(θv > 30°) being ≈99.99%. This strongly excludes an on-axis system, which is required for this FRB to be detectable. We also find faraway FRB emission models inadequate to explain the FRB 20190425A–GW190425 connection. Thus, we conclude that GW190425 is not related to FRB 20190425A. We discuss the implications for future multimessenger observations, suggesting that BNS merger remnants are unlikely to account for more than 1% of FRB sources. This finding implies that short gamma-ray bursts, which are expected to occur in only a fraction of all BNS mergers, cannot account for the overall characteristics of the FRB host population.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring Magnetic Fields in a Merging Galaxy: Comparing Polarization and Velocity Gradient in the Centaurus Galaxy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a3</guid>
+<content:encoded><![CDATA[
+
+In this study, we apply the velocity gradient technique to the merging Centaurus galaxy. We compare gradient maps derived from the PHANGS-Atacama Large Millimeter/submillimeter Array survey using CO emission lines with magnetic field tracings from dust polarization data obtained via the HAWC+ instrument. Our analysis reveals a strong correspondence between the directions indicated by these two tracers across most of the galactic image. Specifically, we identify jet regions as areas of antialignment, consistent with previous reports that gradients tend to rotate 90° in outflow regions. Statistically, we find that the alignment of magnetic fields, as revealed by polarization, is most accurate in regions with the highest signal-to-noise ratios. Our findings underscore the utility of velocity gradients as a valuable complementary tool for probing magnetic fields and dynamical processes in merging galaxies. This proves the general utility of velocity gradients for mapping magnetic fields in astrophysical objects with complex dynamics.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Dark Matter Halos of Luminous Active Galactic Nuclei from Galaxy–Galaxy Lensing with the HSC Subaru Strategic Program</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad86b5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad86b5</guid>
 <content:encoded><![CDATA[
-
 We assess the dark matter halo masses of luminous active galactic nuclei (AGNs) over the redshift range 0.2–1.2 using galaxy–galaxy lensing based on imaging data from the Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP). We measure the weak lensing signal of a sample of 48,907 AGNs constructed using HSC and Wide-field Infrared Survey Explorer photometry. As expected, we find that the lensing mass profile of total AGN sample is consistent with that of massive galaxies ( 10.61). Surprisingly, the lensing signal remains unchanged when the AGN sample is split into four host galaxy stellar mass bins. Specifically, we find that the excess surface density of AGNs residing in galaxies with high stellar masses significantly differs from that of the control sample. We further fit a halo occupation distribution model to the data to infer the posterior distribution of parameters including the average halo mass. We find that the characteristic halo mass of the full AGN population lies near the knee ( ) of the stellar-to-halo mass relation (SHMR). Illustrative of the results given above, the halo masses of AGNs residing in host galaxies with high stellar masses (i.e., above the knee of the SHMR) fall below the calibrated SHMR while the halo masses of the low stellar mass sample are more consistent with the established SHMR. These results indicate that massive halos with a higher clustering bias tend to suppress AGN activity, probably due to the lack of available gas.
 ]]></content:encoded>
-
 <pubDate>2024-12-06T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>ODIN: Identifying Protoclusters and Cosmic Filaments Traced by Lyα-emitting Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83cb</link>
@@ -11493,17 +11601,6 @@ We investigate how ions, namely protons and alpha particles, kinetically react t
 <br />
 这篇文章报道了一项独特的Lyman-continuum（LyC）发射体的发现，其红移为z = 3.088。使用哈勃空间望远镜WFC3/UVIS F336W滤镜检测到了LyC发射，其信噪比为3.9。通过结合詹姆斯·韦伯空间望远镜（JWST）JADES、FRESCO和JEMS调查的成像和光谱数据，以及MXDF调查的VLT/MUSE数据，估计了与干扰者星系引起LyC发射的随机排列的概率小于6×10^-5。星系内的星际介质（ISM）条件类似于高红移处其他LyC发射者的条件，尽管单峰的Lyα谱线和缺乏的光学紫外线发射线表明星际介质为光学厚。观测结果表明LyC光子是通过一个狭窄的光学薄中性ISM锥体泄漏出来的，很可能是由过去的并合事件造成的。使用个体泄漏者的逃逸分数的限制和一个简单的模型，估计了电离锥体的开口半角可以小至16°（2%电离分数），从而再现一些理论关于星系平均逃逸分数的约束。所需的狭窄开口角可以解释已确认的LyC泄漏者数量较低的原因。 <br /><br />总结: Lyman-continuum发射体的发现，高红移区域，通过多个望远镜观测获得数据，LyC光子泄漏，星系内的星际介质条件，电离锥体的开口角。 <div>
 We present the discovery of a unique Lyman-continuum (LyC) emitter at z = 3.088. The LyC emission was detected using the Hubble Space Telescope WFC3/UVIS F336W filter, covering a rest-frame wavelength range of 760–900 Å. The peak signal-to-noise ratio of LyC emission is 3.9 in an r = 0.″24 aperture and is spatially offset by 0.″29 ± 0.″04 (∼2.2 ± 0.3 kpc) from the peak of rest-UV emission (F606W). By combining imaging and spectroscopic data from the James Webb Space Telescope (JWST) JADES, FRESCO, and JEMS surveys, along with VLT/MUSE data from the MXDF survey, we estimate that the probability of random alignment with an interloper galaxy causing the LyC emission is less than 6 × 10−5. The interstellar medium (ISM) conditions in the galaxy are similar to those in other LyC emitters at high redshift ( , , O32 = 0.63 ± 0.03), although the single-peaked Lyα profile and lack of rest-UV emission lines suggest an optically thick ISM. Our observations indicate that LyC photons are leaking through a narrow cone of optically thin neutral ISM, most likely created by a past merger (as evidenced by medium-band F210M and F182M images). Using the constraints on escape fraction from individual leakers and a simple model, we estimate that the opening half-angle of ionization cones can be as small as 16° (2% ionized fraction) to reproduce some of the theoretical constraints on the average escape fraction for galaxies. The narrow opening angle required can explain the low number density of confirmed LyC leakers.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Angular Momentum Loss during Stable Mass Transfer onto a Compact Object: The Effect of Mass Loss via Accretion Disk Winds</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6769</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6769</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 二进制轨道，角动量损失，吸积盘，盘风，质量比<br />
-<br />总结: <br />这篇文章使用了分析框架来计算二进制轨道在一个考虑了吸积盘风的物理模型下的演化情况。他们发现盘风引起的角动量损失始终大于标准模型中因为吸积盘周围各个方向的质量流失而引起的角动量损失。在大多数情况下，考虑盘风的影响会导致轨道间距显著减小，差异可达60%。因此，文章得出结论，在演化二进制轨道时，考虑吸积盘风引起的角动量损失是非常重要的。 <div>
-We use an analytic framework to calculate the evolution of binary orbits under a physically motivated model that accounts for angular momentum loss associated with winds from an accretion disk around the compact-objected accretor. Our prescription considers wind mass ejection from the surface of an accretion disk, accounting for a radial mass-loss dependence across the disk surface. We compare this to the standard prescription of angular momentum loss associated with isotropic mass loss from the vicinity of the accretor. The angular momentum loss from a disk wind is always larger. For mass ratios, q, between 2 and 10, angular momentum loss via a disk wind can be ≃3–40 times greater than the standard prescription. For the majority of mass ratios and disk properties, accounting for the disk wind can result in considerably smaller orbital separations compared to the standard formalism, the differences being ≃60% depending on how long the effect is integrated for. We conclude that it is important to consider the effects of angular momentum loss from a disk wind when evolving binary orbits.
 ]]></content:encoded>
 <pubDate>2024-09-29T23:00:00Z</pubDate>
 </item>
