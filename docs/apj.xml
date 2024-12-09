@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>X-Ray Spectroscopy of the Dwarf Nova Z Chamaeleontis in Quiescence and Outburst Using the XMM-Newton Observatory</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e5</guid>
+<content:encoded><![CDATA[
+
+We present X-ray spectroscopy of the SU UMa–type dwarf nova Z Chamaeleontis using the European Photon Imaging Camera and reflection grating spectrometer (RGS) instruments on board the XMM-Newton observatory. The quiescent system can be modeled by collisional equilibrium (CIE) or nonequilibrium plasma models, yielding a kT of 8.2–13.0 keV at a luminosity of (5.0–6.0) × 1030 erg s−1. The spectra yield better using partially covering absorbers of cold and/or photoionized nature. The ionized absorber has an equivalent NH = (3.4–5.9) × 1022 cm−2 and a log(ξ) = 3.5–3.7 with a (50–60)% covering fraction when the VNEI model (XSPEC) is used. The line diagnosis in quiescence shows no resonance lines, with only the forbidden lines of Ne, Mg, and Si detected. The H-like C, O, Ne, and Mg are detected. The strongest line is O viii, with (2.7–4.6) × 10−14 erg s−1 cm−2. The quiescent X-ray-emitting plasma is not collisional and not in ionization equilibrium, which is consistent with hot ADAF-like accretion flows. The line diagnosis in the outburst shows He-like O and Ne, with intercombination lines being the strongest, along with weaker resonance lines. This indicates the plasma is more collisional and denser, but not yet in CIE, revealing ionization timescales of (0.97–1.4) × 1011 s cm−3. The R ratios in the outburst yield electron densities of (7–90) × 1011 cm−3 and the G ratios yield electron temperatures of (2–3) × 106 K. The outburst luminosity is (1.4–2.5) × 1030 erg s−1. The flow is inhomogeneous in density. All detected lines are narrow, with widths limited by the resolution of RGS, yielding Keplerian rotational velocities <1000 km s−1. This is too low for boundary layers, consistent with the nature of ADAF-like hot flows.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Filament Accretion and Fragmentation in the Perseus Molecular Cloud</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88e8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88e8</guid>
+<content:encoded><![CDATA[
+
+Observations suggest that filaments in molecular clouds can grow by mass accretion while forming cores via fragmentation. Here, we present one of the first large-sample studies of filament accretion using velocity gradient measurements of star-forming filaments on the ∼0.05 pc scale with NH3 observations of the Perseus Molecular Cloud, primarily obtained as a part of the Green Bank Ammonia Survey. In this study, we find significant correlations between the velocity gradient, velocity dispersion, mass per unit length, and number of cores per unit length of the Perseus filaments. Our results suggest a scenario in which filaments not only grow through mass accretion, but also form new cores continuously in the process, well into the thermally supercritical regime. Such behavior is contrary to that expected from isolated filament models but consistent with how filaments form within a more realistic cloud environment, suggesting that the cloud environment plays a crucial role in shaping core formation and evolution in filaments. Furthermore, even though velocity gradients within filaments are not oriented randomly, we find no correlation between velocity gradient orientation and the filament properties we analyzed. This result suggests that gravity is unlikely to be the dominant mechanism imposing order on the ∼0.05 pc scale for dense star-forming gas.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Star-forming Main Sequence in JADES and CEERS at z > 1.4: Investigating the Burstiness of Star Formation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba4</guid>
+<content:encoded><![CDATA[
+
+We have used public JWST/NIRSpec and JWST/NIRCam observations from the CEERS and JADES surveys in order to analyze the star-forming main sequence (SFMS) over the redshift range 1.4 ≤ z < 7. We calculate the star formation rates (SFRs) of the galaxy sample using three approaches: Balmer line luminosity, spectral energy distribution (SED) fitting, and UV luminosity. We find a larger degree of scatter about the SFMS using the Balmer-based SFRs compared to the UV-based SFRs. Because these SFR indicators are sensitive to star formation on different timescales, the difference in scatter may be evidence of bursty star formation histories in the early Universe. We additionally compare the Hα-to-UV luminosity ratio (L(Hα)/νLν,1600) for individual galaxies in the sample and find that 29%–52% of the ratios across the sample are poorly described by predictions from a smooth star formation history. Measuring the burstiness of star formation in the early Universe has multiple significant implications, such as deriving accurate physical parameters from SED fitting, explaining the evolution of the UV luminosity function, and providing constraints for subgrid models of feedback in simulations of galaxy formation and evolution.
+]]></content:encoded>
+
+<pubDate>2024-12-09T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Galaxy Spectroscopy without Spectra: Galaxy Properties from Photometric Images with Conditional Diffusion Models</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbe</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbe</guid>
 <content:encoded><![CDATA[
-
 Modern spectroscopic surveys can only target a small fraction of the vast amount of photometrically cataloged sources in wide-field surveys. Here, we report the development of a generative artificial intelligence (AI) method capable of predicting optical galaxy spectra from photometric broadband images alone. This method draws from the latest advances in diffusion models in combination with contrastive networks. We pass multiband galaxy images into the architecture to obtain optical spectra. From these, robust values for galaxy properties can be derived with any methods in the spectroscopic toolbox, such as standard population synthesis techniques and Lick indices. When trained and tested on 64 × 64 pixel images from the Sloan Digital Sky Survey, the global bimodality of star-forming and quiescent galaxies in photometric space is recovered, as well as a mass–metallicity relation of star-forming galaxies. The comparison between the observed and the artificially created spectra shows good agreement in overall metallicity, age, Dn4000, stellar velocity dispersion, and E(B − V) values. Photometric redshift estimates of our generative algorithm can compete with other current, specialized deep learning techniques. Moreover, this work is the first attempt in the literature to infer velocity dispersion from photometric images. Additionally, we can predict the presence of an active galactic nucleus up to an accuracy of 82%. With our method, scientifically interesting galaxy properties, normally requiring spectroscopic inputs, can be obtained in future data sets from large-scale photometric surveys alone. The spectra prediction via AI can further assist in creating realistic mock catalogs.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ Modern spectroscopic surveys can only target a small fraction of the vast amount
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</guid>
 <content:encoded><![CDATA[
-
 Infrared (IR) spectral features of interstellar and solar system ices have been attributed to solid organic and inorganic compounds for over 50 yr, but in many cases the laboratory IR data needed to fully quantify such work have never been published, forcing researchers to rely on assumptions about gas- or liquid-phase measurements to interpret data for ices. Here, we report the first mid-IR intensity measurements for isocyanic acid (HNCO) ices that are free of such assumptions, providing new results for use by both observational and laboratory astrochemists. We also report similar new IR data for both formaldehyde (H2CO) and formic acid (HCOOH), which have been discussed in the astrochemical literature for decades, but again without adequate laboratory data to help quantify observational results. Densities and refractive indices of HNCO, H2CO, and HCOOH as amorphous ices also are reported. Two applications of the new H2CO work are presented, the first vapor-pressure measurements of solid H2CO, along with an enthalpy of sublimation, at 100 to 109 K and a set of IR intensities of H2CO in H2O + H2CO ices. Band strengths, absorption coefficients, and optical constants are calculated for all three compounds. Extensive comparisons are made to older results, which are not recommended for future use.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@ Infrared (IR) spectral features of interstellar and solar system ices have been 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</guid>
 <content:encoded><![CDATA[
-
 Fast radio bursts (FRBs) are bright radio transients with millisecond durations, which typically occur at extragalactic distances. The association of FRB 20200428 with the Galactic magnetar SGR J1935+2154 strongly indicates that they could originate from neutron stars, which naturally leads to the expectation that periodicity connected with the spinning of magnetars should exist in the activities of repeating FRBs. However, previous studies have failed to find any signatures supporting such a conjecture. Here we perform a thorough search for short-timescale periodicity in the four most active repeating sources, i.e., FRBs 20121102A, 20200120E, 20201124A, and 20220912A. Three different methods are employed, including a phase folding algorithm, the H-test, and Lomb–Scargle periodograms. For the three most active repeaters from which more than 1000 bursts have been detected, i.e., FRBs 20121102A, 20201124A, and 20220912A, more in-depth period searches are conducted by considering various burst properties such as the pulse width, peak flux, fluence, and the brightness temperature. No clear periodicity is found in a period range of 0.001–1000 s in all efforts. Implications of such a null result on the theoretical models of FRBs are discussed.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@ Fast radio bursts (FRBs) are bright radio transients with millisecond durations,
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc5</guid>
 <content:encoded><![CDATA[
-
 The Faraday rotation effect, quantified by the rotation measure (RM), is a powerful probe of the large-scale magnetization of the Universe—tracing magnetic fields not only on galaxy and galaxy cluster scales but also in the intergalactic medium (IGM; referred to as RMIGM). The redshift dependence of the latter has extensively been explored with observations. It has also been shown that this relation can help to distinguish between different large-scale magnetization scenarios. We study the evolution of this RMIGM for different primordial magnetogenesis scenarios to search for the imprints of primordial magnetic fields (PMFs; magnetic fields originating in the early Universe) on the redshift-dependence of RMIGM. We use cosmological magnetohydrodynamic simulations for evolving PMFs during large-scale structure formation, coupled with the light-cone analysis to produce a realistic statistical sample of mock RMIGM images. We study the predicted behavior for the cosmic evolution of RMIGM for different correlation lengths of PMFs, and provide fitting functions for their dependence on redshifts. We compare these mock RM trends with the recent analysis of the the LOw-Frequency ARray RM Grid and find that large-scale-correlated PMFs should have (comoving) strengths ≲0.75 nG, if they originated during inflation with the scale-invariant spectrum and (comoving) correlation length of ∼19 h−1 cMpc or ≲30 nG if they originated during phase-transition epochs with the comoving correlation length of ∼1 h−1 cMpc. Our findings agree with previous observations and confirm the results of semi-analytical studies, showing that upper limits on the PMF strength decrease as their coherence scales increase.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@ The Faraday rotation effect, quantified by the rotation measure (RM), is a power
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e37</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e37</guid>
 <content:encoded><![CDATA[
-
 The surface-charging phenomenon of asteroids, mainly resulting from solar wind plasma and solar radiation, has been extensively studied. However, the influence of the asteroid’s rotation on surface charging is not yet fully understood. In this study, a neural network is established to replace numerical integration, improving the efficiency of dynamic 3D simulations. We simulate rotating asteroids and their surrounding plasma environments under various conditions, including the quiet solar wind and solar storms. Different minerals on the asteroid surface are also considered. Additionally, the effects of orbital motion and obliquity are studied for asteroids with rotation periods comparable to their orbital periods. The results show that under the typical solar wind, the maximum and minimum potentials of asteroids gradually decrease with increasing rotation periods, especially when the solar wind is obliquely incident. For asteroids with rotation periods longer than one week, this decreasing trend becomes extremely slow. During a solar storm, the solar wind plasma changes sharply, and the susceptibility of an asteroid’s surface potential to rotation is greatly pronounced. Surface minerals also play a role; plagioclase is the most sensitive mineral among those explored, while ilmenite appears indifferent to changes in rotation periods. Understanding the surface charging of asteroids under various rotation periods and angles is crucial for further research on solar wind plasma and asteroids’ surface dust motion, providing a reference for the safe landing and exploration of asteroids.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +88,8 @@ The surface-charging phenomenon of asteroids, mainly resulting from solar wind p
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb4</guid>
 <content:encoded><![CDATA[
-
 We present the Atacama Large Millimeter/submillimeter Array Band 7 observations of the CO (J = 3−2) line emission of the protostellar system HH 212 at ∼24 au spatial resolution and compare them to those of the SiO (J = 8−7) and SO (J = 8−7) line emission reported in the literature. We find that the CO line traces four distinct regions: (1) an outer outflow shell, (2) a rotating wind region between the SiO and CO shells, (3) the shocked and wide-angle inner X-wind inside a SiO shell, and (4) the jet. The origin of the CO outer outflow shell could be associated with the entrained material of the envelope, or an extended disk wind. The rotating wind, which is shocked, is launched from a radius of 9–15 au, slightly exterior to that of the previously detected SO shell, which marks the boundary where the wide-angle X-wind is interacting with and shocking the disk wind. Additionally, the SO is found to be mixed with the CO emission within the thick and extended rotating wind region. The large-scale CO-shocked wind coexists with the SO emission near the upper portion of the inner shocked region converged on top of the inner SiO knots. The CO jet is traced by a chain of knots with roughly equal intervals, exhibiting quasiperiodicity, as reported in other jets in the literature.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +97,8 @@ We present the Atacama Large Millimeter/submillimeter Array Band 7 observations 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3e</guid>
 <content:encoded><![CDATA[
-
 The existence of a population of massive quiescent galaxies with little to no star formation poses a challenge to our understanding of galaxy evolution. The physical process that quenched the star formation in these galaxies is debated, but the most popular possibility is that feedback from supermassive black holes lifts or heats the gas that would otherwise be used to form stars. In this paper, we evaluate this idea in two ways. First, we compare the cumulative growth in the cosmic inventory of the total stellar mass in quiescent galaxies to the corresponding growth in the amount of kinetic energy carried by radio jets. We find that these two inventories are remarkably well-synchronized, with about 50% of the total amounts being created in the epoch from z ≈ 1 to 2. We also show that these agree extremely well with the corresponding growth in the cumulative number of major mergers that result in massive (>1011Mʘ) galaxies. We therefore argue that major mergers trigger the radio jets and also transform the galaxies from disks to spheroids. Second, we evaluate the total amount of kinetic energy delivered by jets and compare it to the baryonic binding energy of the galaxies. We find the jet kinetic energy is more than sufficient to quench star formation, and the quenching process should be more effective in more massive galaxies. We show that these results are quantitatively consistent with recent measurements of the Sunyaev–Zel’dovich effect seen in massive galaxies at z ≈ 1.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +106,8 @@ The existence of a population of massive quiescent galaxies with little to no st
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9003</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9003</guid>
 <content:encoded><![CDATA[
-
 Continuing our initiative on advancing the calculations of planetesimal accretion in the core-accretion model, we present here the results of our recent study of the contributions of planetesimals around and beyond the orbit of Saturn. In our first two papers, where our focus was on the effects of the Sun and Saturn, the initial distribution of planetesimals was limited to the regions around the accretion zone of a growing Jupiter. In this paper, we expanded that distribution to regions beyond the accretion zone of Saturn. We integrated the orbits of a large ensemble of planetesimals and studied the rate of their capture by the growing proto-Jupiter. In order to be consistent with our previous studies, we did not consider the effect of the nebular gas. Results demonstrated that the exterior planetesimals, especially those beyond 8 au, have only slight contributions to the growth and metallicity of the growing Jupiter. The final mass and composition of this planet is mainly due to the planetesimals inside and around its accretion zone. Our study shows that although the rate of capture varies slightly by the size and composition of planetesimals, in general, the final results are independent of the size and material of these bodies. Results also pointed to a new finding: the rate of accretion follows the same trend as that of the evolution of Jupiter’s envelope, with the largest accretion occurring during the envelope’s collapse. We present details of our analysis and discuss the implications of its results.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,10 +115,8 @@ Continuing our initiative on advancing the calculations of planetesimal accretio
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9023</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9023</guid>
 <content:encoded><![CDATA[
-
 Fast radio bursts (FRBs) are millisecond-duration transients from extragalactic sources, with their origins remaining a topic of active debate. Among the proposed progenitors, binary neutron star (BNS) mergers are compelling candidates for some nonrepeating FRBs. However, associating FRBs with BNS mergers cannot be based solely on low chance coincidence probability. This study delineates necessary criteria for associating FRBs with BNS mergers, focusing on the postmerger ejecta environment. To underscore the significance of these criteria, we scrutinise the proposed association between GW190425 and FRB 20190425A, considering the requirement for the FRB signal to traverse the dense merger ejecta without significant attenuation to remain detectable at 400 MHz. Our investigation reveals that if the FRB is linked to the gravitational-wave (GW) event, the GW data support a highly off-axis configuration, with a probability of the BNS merger viewing angle p(θv > 30°) being ≈99.99%. This strongly excludes an on-axis system, which is required for this FRB to be detectable. We also find faraway FRB emission models inadequate to explain the FRB 20190425A–GW190425 connection. Thus, we conclude that GW190425 is not related to FRB 20190425A. We discuss the implications for future multimessenger observations, suggesting that BNS merger remnants are unlikely to account for more than 1% of FRB sources. This finding implies that short gamma-ray bursts, which are expected to occur in only a fraction of all BNS mergers, cannot account for the overall characteristics of the FRB host population.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
 <item>
@@ -108,13 +124,10 @@ Fast radio bursts (FRBs) are millisecond-duration transients from extragalactic 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a3</guid>
 <content:encoded><![CDATA[
-
 In this study, we apply the velocity gradient technique to the merging Centaurus galaxy. We compare gradient maps derived from the PHANGS-Atacama Large Millimeter/submillimeter Array survey using CO emission lines with magnetic field tracings from dust polarization data obtained via the HAWC+ instrument. Our analysis reveals a strong correspondence between the directions indicated by these two tracers across most of the galactic image. Specifically, we identify jet regions as areas of antialignment, consistent with previous reports that gradients tend to rotate 90° in outflow regions. Statistically, we find that the alignment of magnetic fields, as revealed by polarization, is most accurate in regions with the highest signal-to-noise ratios. Our findings underscore the utility of velocity gradients as a valuable complementary tool for probing magnetic fields and dynamical processes in merging galaxies. This proves the general utility of velocity gradients for mapping magnetic fields in astrophysical objects with complex dynamics.
 ]]></content:encoded>
-
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Dark Matter Halos of Luminous Active Galactic Nuclei from Galaxy–Galaxy Lensing with the HSC Subaru Strategic Program</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad86b5</link>
@@ -11489,120 +11502,6 @@ The ability to accurately discern active massive black holes (BHs) in nearby dwa
 We present a focused X-ray and multiwavelength study of the ultraluminous weak-line quasar (WLQ) SDSS J1521+5202, one of the few X-ray weak WLQs that is amenable to basic X-ray spectral and variability investigations. J1521+5202 shows striking X-ray variability during 2006–2023, by up to a factor of ≈32 in 0.5–2 keV flux, and our new 2023 Chandra observation caught it in its brightest X-ray flux state to date. Concurrent infrared/optical observations show only mild variability. The 2023 Chandra spectrum can be acceptably described by a power law with intrinsic X-ray absorption, and it reveals a nominal intrinsic level of X-ray emission relative to its optical/ultraviolet emission. In contrast, an earlier Chandra spectrum from 2013 shows apparent spectral complexity that is not well fit by a variety of models, including ionized absorption or standard Compton-reflection models. Overall, the observations are consistent with the thick-disk plus outflow model previously advanced for WLQs, where a nominal level of underlying X-ray emission plus variable absorption leads to the remarkable observed X-ray variability. In the case of J1521+5202, it appears likely that the outflow, and not the thick disk itself, lies along our line of sight and causes the X-ray absorption.
 ]]></content:encoded>
 <pubDate>2024-09-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Relation between Simulated Multiwavelength Blazar Variability and Stochastic Fluctuations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a7</guid>
-<content:encoded><![CDATA[
-Blazars exhibit multiwavelength variability, a phenomenon whose underlying mechanisms remain elusive. This study investigates the origin of such variability through leptonic blazar emission simulations, focusing on stochastic fluctuations in environmental parameters. By analyzing the spectral indices of the power spectral densities of the variability, we assess their relationship with the underlying fluctuations. Our findings reveal that the variability spectral indices remain almost independent of the variations responsible for their emergence. This suggests a complex interplay of factors contributing to the observed multiwavelength variability in blazars.
-]]></content:encoded>
-<pubDate>2024-09-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Modeling the Time Evolution of Compact Binary Systems with Machine Learning</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6989</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6989</guid>
-<content:encoded><![CDATA[
-<div> 机器学习、时序模型、紧凑二进制系统、预测精度、重力波天文学
-<br /><br />本研究利用机器学习算法，包括LSTM和TCN，针对紧凑二进制系统的时间演化进行建模预测。结果表明，采用LSTM和TCN可以显著提高预测准确性，同时大幅降低了计算开销，为理解重力现象和重力波天文学的预测建模提供了更有效和可扩展的方法。 R2值分别为99.74%和99.19%，表明模型能够有效捕捉双星的动态，且计算开销降低了40倍。 <div>
-This work introduces advanced computational techniques for modeling the time evolution of compact binary systems using machine learning. The dynamics of compact binary systems, such as black holes and neutron stars, present significant nonlinear challenges due to the strong gravitational interactions and the requirement for precise numerical simulations. Traditional methods, like the post-Newtonian approximation, often require significant computational resources and face challenges in accuracy and efficiency. Here, we employed machine learning algorithms, including deep learning models like long short-term memory (LSTM) and temporal convolutional network (TCN), to predict the future evolution of these systems based on extensive simulation data. Our results demonstrate that employing both LSTM and TCN even as black-box predictors for sequence prediction can also significantly improve the prediction accuracy without physics-informed neural networks (as partial differential equation solvers with prior knowledge or inductive bias. By employing LSTM and TCN, we obtained R2 values of 99.74% and 99.19% for the evolutionary orbits of the compact binaries data set, respectively. Our models demonstrate the ability to effectively capture the dynamics of the binaries, achieving high prediction performance with significantly reduced computational overhead by a factor of 40, compared to conventional numerical methods. This study paves the way for more effective and computationally scalable approaches to the understanding of gravitational phenomena and predictive modeling in gravitational-wave astronomy.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Mapping Multiphase Metals in Star-forming Galaxies: A Spatially Resolved UV+Optical Study of NGC 5253</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e79</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad5e79</guid>
-<content:encoded><![CDATA[
-<div> NGC 5253, spatially resolved, multiphase gas, abundances, star-forming clusters
-总结:
-NGC 5253是一个蓝色紧凑矮星系，进行了空间分辨的多相气体丰度研究，通过在Hubble空间望远镜的COS点ings和光学大型望远镜MUSE观测相结合，对星形成区进行了研究。研究发现中性气体的丰度明显低于电离气体，化学丰度与半径和年龄相关，N，O和N/O的丰度随年龄变化的规律与电离气体和中性气体有所不同，这提供了不同化学丰度形成的证据。 <div>
-We present a pioneering, spatially resolved, multiphase gas abundance study on the blue compact dwarf galaxy NGC 5253, targeting 10 star-forming (SF) clusters inside six far-UV (FUV) Hubble Space Telescope/Cosmic Origins Spectrograph (COS) pointings with cospatial optical Very Large Telescope/MUSE observations throughout the galaxy. The SF regions span a wide range of ages (1–15 Myr) and are distributed at different radii (50–230 pc). We performed a robust absorption-line profile fitting on the COS spectra, covering 1065–1430 Å in the FUV, allowing an accurate computation of neutral-gas abundances for 13 different ions sampling eight elements. These values were then compared with the ionized-gas abundances, measured using the direct method on MUSE integrated spectra inside analog COS apertures. Our multiphase, spatially resolved comparisons find abundances, which are lower in the neutral gas than the ionized gas by 0.22, 0.80, and 0.58 dex for log(O/H), log(N/H), and log(N/O), respectively. We modeled the chemical abundance distributions and evaluated correlations as a function of the radius and age. It was found that, while N, O, and N/O abundances decrease as a function of age in the ionized gas, they increase with age in the neutral gas. No strong correlations for N, O, or N/O were observed as a function of the radius. The N/O and N/H offsets between the phases were found to decrease with age, providing evidence that chemical enrichment happens differentially, first in the ionized-gas phase around 2–5 Myrs (due to N-rich Wolf–Rayet stars) and then mixing out into the cold neutral gas on longer timescales of 10–15 Myr.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Precessing Stellar Disk Model for Superorbital Modulations of the Gamma-Ray Binary LS I+61° 303</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b0a</guid>
-<content:encoded><![CDATA[
-<div> LS I+61° 303, gamma-ray binary, neutron star, Be star, superorbital modulation<br />
-总结:<br />
-这篇文章研究了伽马射线双星LS I+61° 303，发现其除了轨道调制外还存在长期的光变化，可能由Be星盘的进动引起。通过分析计算得到了望远镜观测数据的合理解释，认为X射线可能来自于星际震荡的同步辐射，而X射线的轨道相位漂移和长期光变的拟合结果表明中子星可能在小离心率轨道上围绕Be星运动。与其他Be/X射线双星的Corbet图相比较，发现其中子星的潮汐力可能诱导了LS I+61° 303中Be星盘的进动。 <div>
-Gamma-ray binary LS I+61° 303 consists of a neutron star orbiting around a Be star with a period of Porb ≃ 26.5 days. Apart from orbital modulations, the binary shows long-term flux variations with a superorbital period of as seen in nearly all wavelengths. The origin of this superorbital modulation is still not well understood. Under the pulsar wind–stellar outflow interaction scenario, we propose that the superorbital modulations of LS I+61° 303 could be caused by the precession of the Be disk. Assuming X-rays arise from synchrotron radiation of the intrabinary shock, we develop an analytical model to calculate expected flux modulations over the orbital and superorbital phases. The asymmetric two-peak profiles in orbital light curves and sinusoidal-like long-term modulations are reproduced under the precessing disk scenario. The observed orbital phase drifting of the X-ray peak and our fitting of long-term X-ray data indicate that the neutron star is likely orbiting around the star with a small eccentricity and periastron phase around Φp ∼ 0.6. We compare the Corbet diagrams of LS I+61° 303 with other Be/X-ray binaries, and the linear correlation in the diagram suggests that the precession of the Be disk in LS I+61° 303 is induced by the tidal torque of its neutron star companion.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Brightening and Fading in the Youngest Galactic Supernova Remnant G1.9+0.3: 13 Years of Monitoring with the Chandra X-Ray Observatory</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65fb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65fb</guid>
-<content:encoded><![CDATA[
-<div> 亮度变化，空间变化，磁场，粒子能量，爆发日期
-<br /><br />总结:
-通过对G1.9+0.3超新星遗迹的13年观测发现，该遗迹的亮度在不断增加，但空间上存在着很大的变化率差异，可能是由于爆炸波的演化、等离子团的扩张或压缩、磁场湍流或磁场角度的变化引起的。同时，对磁场强度和最大粒子能量进行了推测，并得出了爆炸日期和冲击效率因子等参数。然而，不同模型的光子指数随时间的变化可以对其进行验证。 <div>
-We report 13 years of Chandra monitoring of the youngest Galactic supernova remnant G1.9+0.3, the only remnant known to be increasing in brightness. We confirm the spatially integrated rate of flux increase of (1.2 ± 0.2)% yr−1 (1–7 keV), but find large spatial variations, from −3% yr−1 to +7% yr−1, over length scales as small as 10″ or smaller. We observe relatively little change in spectral slope, though one region shows significant hardening as it brightens by 1% yr−1. Such rates of change can be accommodated by any of several explanations, including steady blast-wave evolution, expansion or compression of discrete plasma blobs, magnetic turbulence, or variations in magnetic-field aspect angle. Our results do not constrain the mean magnetic-field strength, but a self-consistent picture can be produced in which the maximum particle energies are limited by the remnant age (applying both to electrons and to ions) to about 20 TeV, and the remnant-averaged magnetic-field strength is about 30 μG. The deceleration parameter m (average shock radius varying as tm) is about 0.7, consistent with estimates from overall expansion dynamics and confirming an explosion date of about 1900 CE. Shock-efficiency factors ϵe and ϵB (fractions of shock energy in relativistic electrons and magnetic field) are 0.003 and 0.0002 in this picture. However, the large range of rates of brightness change indicates that such a global model is oversimplified. Temporal variations of photon index, expected to be small but measurable with longer time baselines, can discriminate among possible models.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Closer Look at the Extended Edge-on Low-surface Brightness Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67e0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67e0</guid>
-<content:encoded><![CDATA[
-<div> LSB galaxies, edge-on orientation, spectroscopic measurements, gas metallicity, mergers<br />
-<br />总结:<br />该研究详细研究了四个低表面亮度(LSB)星系的来源，这些星系具有大面积的边缘观测到的盘。他们采用了深度成像和长条光谱，对LSB盘的结构参数和星体成分进行了表征，发现了气体金属丰度梯度较为平缓，LSB盘的恒星速度分散和厚度表明了动态过热的现象。观察结果倾向于支持合并作为形成大质量LSB星系的关键阶段。 <div>
-To understand the origin of extended disks of low-surface brightness (LSB) galaxies, we studied in detail four such systems with large disks seen edge on. Two of them are edge-on giant LSB galaxies (gLSBGs) recently identified by our team. The edge-on orientation of these systems boosts their surface brightnesses that provided an opportunity to characterize stellar populations spectroscopically and yielded the first such measurements for edge-on gLSBGs. We collected deep images of one galaxy using the 1.4 m Milanković Telescope, which we combined with the archival Subaru Hyper Suprime-Cam and DESI Legacy Surveys data available for the three other systems, and measured the structural parameters of the disks. We acquired deep long-slit spectra with the Russian 6 m telescope and the 10 m Keck II telescope and estimated stellar population properties in the high-surface brightness and LSB regions as well as the gas-phase metallicity distribution. The gas metallicity gradients are shallow to flat in the range between 0 and −0.03 dex per exponential disk scale length, which is consistent with the extrapolation of the gradient–scale length relation for smaller disk galaxies. Our estimates of stellar velocity dispersion in the LSB disks as well as the relative thickness of the disks indicate the dynamical overheating. Our observations favor mergers as the essential stage in the formation scenario for massive LSB galaxies.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Analysis of Crab X-Ray Polarization Using Deeper Imaging X-Ray Polarimetry Explorer Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6309</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6309</guid>
-<content:encoded><![CDATA[
-<div> Crab X-ray, polarization, IXPE, pulsar, magnetic field
-<br /><br />
-总结: 该研究利用IXPE进行螃蟹星的X射线偏振测量，发现偏振角度呈S形变化，并揭示了与光学偏振不同的辐射机制。在内部星云中观察到的偏振地图显示了环形磁场结构，同时发现南部射流中磁场方向相对射流轴的变化和偏振度的减小。这些观察结果可能由射流中的扭结不稳定性或与高密度介质碰撞引起。通过光谱偏振分析发现内部星云四个象限的不对称偏振，与预期的环形磁场几何形状相符，并且偏振度与光子指数呈空间相关。 <div>
-We present Crab X-ray polarization measurements using Imaging X-Ray Polarimetry Explorer (IXPE) data with a total exposure of 300 ks, three times more than the initial 2022 discovery paper. Polarization is detected in three times more pulsar phase bins, revealing an S-shaped +40° polarization angle sweep in the main pulse and >1σ departures from the OPTIMA optical polarization in both pulses, suggesting different radiation mechanisms or sites for the polarized emission at the two wavebands. Our polarization map of the inner nebula reveals a toroidal magnetic field, as seen in prior IXPE analyses. Along the southern jet, the magnetic field orientation relative to the jet axis changes from perpendicular to parallel and the polarization degree decreases by ∼6%. These observations may be explained by kink instabilities along the jet or a collision with a dense, jet-deflecting medium at the tip. Using spectropolarimetric analysis, we find asymmetric polarization in the four quadrants of the inner nebula, as expected for a toroidal field geometry, and a spatial correlation between polarization degree and photon index.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraints on the Gas-phase C/O Ratio of DR Tau's Outer Disk from CS, SO, and C2H Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6447</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6447</guid>
-<content:encoded><![CDATA[
-<div> Class II protoplanetary disks, millimeter wavelength observations, hydrocarbons, gas-phase C/O ratio, DR Tau
-总结:<br /><br />本研究利用NOEMA观测了DR Tau原行星盘，发现了较低的CS/SO比值以及异常的SO排布结构。通过热化学模型计算，结果表明DR Tau的低CS/SO比值和微弱的C2H发射可以通过盘中气相C/O比小于1来解释。与13CO结构图的比较结果表明，迟期的物质输入可能导致其盘的气相C/O比降低。 <div>
-Millimeter wavelength observations of Class II protoplanetary disks often display strong emission from hydrocarbons and high CS/SO values, providing evidence that the gas-phase C/O ratio commonly exceeds 1 in their outer regions. We present new NOEMA observations of CS 5–4, SO 76–65 and 56–45, C2H N = 3–2, HCN 3–2, HCO+ 3–2, and H13CO+ 3–2 in the DR Tau protoplanetary disk at a resolution of ∼0.″4 (80 au). Estimates for the disk-averaged CS/SO ratio range from ∼0.4 to 0.5, the lowest value reported thus far for a T Tauri disk. At a projected separation of ∼180 au northeast of the star, the SO moment maps exhibit a clump that has no counterpart in the other lines, and the CS/SO value decreases to <0.2 at its location. Thermochemical models calculated with DALI indicate that DR Tau’s low CS/SO ratio and faint C2H emission can be explained by a gas-phase C/O ratio that is <1 at the disk radii traced by NOEMA. Comparisons of DR Tau’s SO emission to maps of extended structures traced by 13CO suggest that late infall may contribute to driving down the gas-phase C/O ratio of its disk.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Solar Orbiter Observations of Proton and Alpha Particle Kinetic Signatures Related to the Presence of Switchbacks in the Inner Heliosphere: A Case Study</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65db</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65db</guid>
-<content:encoded><![CDATA[
-<div> 磁场扭曲, 阿尔文波, 离子动力学, 阿尔法粒子, 加热效应
-总结: 
-本研究调查了太阳风中阿尔文波中磁场扭曲对质子和阿尔法粒子的影响，重点研究了一个孤立的大尺度磁场扭曲，并详细研究了离子的动力学特性。我们发现在磁场扭曲内，质子和阿尔法粒子密度增加，表明存在波动活动。有趣的是，我们观察到磁场扭曲与阿尔法粒子温度之间存在明显的相关性，而与质子温度没有发现相关性。这表明磁场扭曲可能在优先加热重离子上发挥作用。我们的结果表明磁场扭曲可能导致质子速度分布函数的变形，而阿尔法粒子的优先加热效应可能是由于更密集的次级束和更小的束-核相对漂移速度所致。 <div>
-We investigate how ions, namely protons and alpha particles, kinetically react to the presence of strong deflections in the magnetic field, the so-called switchbacks, in the first stream of slow Alfvénic wind observed by Solar Orbiter at the heliocentric distance of 0.64 au. We focus on an isolated, large-scale switchback, and we study in detail ion kinetic properties. Beyond the expected correlation between the magnetic deflection and ion velocity related to the Alfvénic nature of the switchbacks, we find that, within the switchback, proton and alpha particle densities increase, suggesting ongoing wave activity. Very interestingly, we observe a clear correlation between the magnetic deflection and alpha particle temperature, while no correlation has been found with proton temperature. This is an indication of a possible role played by switchbacks in preferentially heating heavy ions. Our results suggest that the presence of switchbacks can induce a deformation of the proton velocity distribution function, while the preferential heating of alpha particles could be due to a denser secondary beam and a smaller relative drift speed between the beam and core.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
-</item>
-<item>
-<title>MOSEL Survey: Spatially Offset Lyman-continuum Emission in a New Emitter at z = 3.088 Can Explain the Low Number Density of Observed LyC Leakers</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6767</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6767</guid>
-<content:encoded><![CDATA[
-<div> Lyman-continuum emitter, z = 3.088, Hubble Space Telescope, James Webb Space Telescope, LyC photons leakage<br />
-<br />
-这篇文章报道了一项独特的Lyman-continuum（LyC）发射体的发现，其红移为z = 3.088。使用哈勃空间望远镜WFC3/UVIS F336W滤镜检测到了LyC发射，其信噪比为3.9。通过结合詹姆斯·韦伯空间望远镜（JWST）JADES、FRESCO和JEMS调查的成像和光谱数据，以及MXDF调查的VLT/MUSE数据，估计了与干扰者星系引起LyC发射的随机排列的概率小于6×10^-5。星系内的星际介质（ISM）条件类似于高红移处其他LyC发射者的条件，尽管单峰的Lyα谱线和缺乏的光学紫外线发射线表明星际介质为光学厚。观测结果表明LyC光子是通过一个狭窄的光学薄中性ISM锥体泄漏出来的，很可能是由过去的并合事件造成的。使用个体泄漏者的逃逸分数的限制和一个简单的模型，估计了电离锥体的开口半角可以小至16°（2%电离分数），从而再现一些理论关于星系平均逃逸分数的约束。所需的狭窄开口角可以解释已确认的LyC泄漏者数量较低的原因。 <br /><br />总结: Lyman-continuum发射体的发现，高红移区域，通过多个望远镜观测获得数据，LyC光子泄漏，星系内的星际介质条件，电离锥体的开口角。 <div>
-We present the discovery of a unique Lyman-continuum (LyC) emitter at z = 3.088. The LyC emission was detected using the Hubble Space Telescope WFC3/UVIS F336W filter, covering a rest-frame wavelength range of 760–900 Å. The peak signal-to-noise ratio of LyC emission is 3.9 in an r = 0.″24 aperture and is spatially offset by 0.″29 ± 0.″04 (∼2.2 ± 0.3 kpc) from the peak of rest-UV emission (F606W). By combining imaging and spectroscopic data from the James Webb Space Telescope (JWST) JADES, FRESCO, and JEMS surveys, along with VLT/MUSE data from the MXDF survey, we estimate that the probability of random alignment with an interloper galaxy causing the LyC emission is less than 6 × 10−5. The interstellar medium (ISM) conditions in the galaxy are similar to those in other LyC emitters at high redshift ( , , O32 = 0.63 ± 0.03), although the single-peaked Lyα profile and lack of rest-UV emission lines suggest an optically thick ISM. Our observations indicate that LyC photons are leaking through a narrow cone of optically thin neutral ISM, most likely created by a past merger (as evidenced by medium-band F210M and F182M images). Using the constraints on escape fraction from individual leakers and a simple model, we estimate that the opening half-angle of ionization cones can be as small as 16° (2% ionized fraction) to reproduce some of the theoretical constraints on the average escape fraction for galaxies. The narrow opening angle required can explain the low number density of confirmed LyC leakers.
-]]></content:encoded>
-<pubDate>2024-09-29T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
