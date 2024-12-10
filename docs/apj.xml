@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Kinematic Analysis of z = 4.3 Galaxies in the SPT2349–56 Protocluster Core</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb4</guid>
+<content:encoded><![CDATA[
+
+SPT2349−56 is a protocluster discovered in the 2500 deg2 South Pole Telescope (SPT) survey. In this paper, we study the kinematics of the galaxies found in the core of SPT2349−56 using high-resolution (1.55 kpc spatial resolution at z = 4.303) redshifted [C ii] 158 μm data. Using the publicly available code 3DBAROLO, we analyze the seven far-infrared brightest galaxies within the protocluster core. Based on conventional definitions for the detection of rotating disks, we classify six sources to be rotating disks in an actively star-forming protocluster environment, with weighted mean Vrot/σdisp = 4.5 ± 1.3. The weighted mean rotation velocity (Vrot) and velocity dispersion (σdisp) for the sample are 357.1 ± 114.7 km s−1 and 43.5 ± 23.5 km s−1, respectively. We also assess the disk stability of the galaxies and find a mean Toomre parameter of QT = 0.9 ± 0.3. The galaxies show a mild positive correlation between disk stability and dynamical support. Using the position–velocity maps, we find that five sources further classify as disturbed disks, and one classifies as a strictly rotating disk. Our sample joins several observations at similar redshift with high V/σ values, with the exception that they are morphologically disturbed, kinematically rotating, and interacting galaxies in an extreme protocluster environment.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Plasma Waves Can Gain Energy from Neutrals in Partially Ionized Plasmas</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9019</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9019</guid>
+<content:encoded><![CDATA[
+
+Partially ionized plasmas are widely present in astrophysical and space plasmas, and ion-neutral collisions have an important impact on the plasma dynamics, such as electrostatic wave propagation. In this work, the excitation and propagation characteristics of electrostatic ion cyclotron (EIC) waves were experimentally studied in a partially ionized plasma. The EIC waves were launched via a grid antenna, and two types of EIC waves were observed to be excited and propagated. In partially ionized plasmas with weak ion–neutral collisions, it was found that the EIC wave propagation is dominated by ion motion, resembling the classical EIC wave. However, in plasmas with strong ion–neutral collisions, experiments revealed for the first time that EIC wave propagation can be dominated by neutral motion, which leads to an increase in the collisional EIC wave’s phase velocity. Additionally, the EIC wave dispersion relationships under collisions were determined to reveal the underlying processes responsible for the observations. This work verified that collisional EIC waves can gain energy from neutrals in partially ionized plasmas, which suggests that ion‒neutral collisions in the Earth and planetary ionosphere and solar atmosphere have a more complex impact on plasma wave propagation than previously thought.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Cross-correlation of Luminous Red Galaxies with Machine Learning Selected Active Galactic Nuclei in HSC-SSP: Unobscured AGN Residing in More Massive Halos</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8342</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8342</guid>
 <content:encoded><![CDATA[
-
 Active galactic nuclei (AGN) are the signposts of black hole growth, and likely play an important role in galaxy evolution. An outstanding question is whether AGN of different spectral types indicate different evolutionary stages in the coevolution of black holes and galaxies. We present the angular correlation function between an AGN sample selected from Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP) optical photometry and Wide-field Infrared Survey Explorer mid-IR photometry and a luminous red galaxy (LRG) sample from HSC-SSP. We investigate AGN clustering strength as a function of luminosity and spectral features across three independent HSC fields totaling ∼600 deg2, for z ∈ 0.6 −1.2 and AGN with L6 μm > 3 × 1044 erg s−1. There are ∼28,500 AGN and ∼1.5 million LRGs in our primary analysis. We determine the average halo mass for the full AGN sample (Mh ≈ 1012.9 h−1M⊙), and note that it does not evolve significantly as a function of redshift (over this narrow range) or luminosity. We find that, on average, unobscured AGN (Mh ≈ 1013.3 h−1M⊙) occupy ∼4.5× more massive halos than obscured AGN (Mh ≈ 1012.6 h−1M⊙), at 5σ statistical significance using 1D uncertainties, and at 3σ using the full covariance matrix, suggesting a physical difference between unobscured and obscured AGN, beyond the line-of-sight viewing angle. Furthermore, we find evidence for a halo mass dependence on reddening level within the Type I AGN population, which could support the existence of a dust-obscured phase. However, we also find that quite small systematic shifts in the redshift distributions of the AGN sample could explain current and previously observed differences in Mh.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ Active galactic nuclei (AGN) are the signposts of black hole growth, and likely 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad86c0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad86c0</guid>
 <content:encoded><![CDATA[
-
 It has been recently discovered that a few super-Eddington sources undergoing black hole super-Eddington accretion exhibit X-ray reflection signatures. In such new systems, one expects the coronal X-ray emissions to be mainly reflected by optically thick super-Eddington winds instead of thin disks. In this paper, we conduct a series of general-relativistic ray-tracing and Monte Carlo radiative transfer simulations to model the X-ray reflection signatures, especially the characteristic Fe Kα line, produced from super-Eddington accretion flows around nonspinning black holes. In particular, we allow the photons emitted by a lamppost corona to be reflected multiple times in a cone-like funnel surrounded by fast winds. We find that the Fe Kα line profile most sensitively depends on the wind kinematics, while its exact shape also depends on the funnel open angle and corona height. Furthermore, very interestingly, we find that the Fe Kα line can have a prominent double-peak profile in certain parameter spaces, even with a face-on orientation. Moreover, we compare the Fe Kα line profiles produced from super-Eddington and thin disks and show that such lines can provide important insights into the understanding of black hole systems undergoing super-Eddington accretion.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@ It has been recently discovered that a few super-Eddington sources undergoing bl
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89ba</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89ba</guid>
 <content:encoded><![CDATA[
-
 We present James Webb Space Telescope MIRI data of the inner ∼3 × 2 kpc2 of the galaxy IC 5063, in which the jets of a supermassive black hole interact with the gaseous disk they are crossing. Jet-driven outflows were known to be initiated along or near the jet path and to modify the stability of molecular clouds, possibly altering their star formation properties. The MIRI data, of unprecedented resolution and sensitivity in the infrared, now reveal that there are more than 10 discrete regions with outflows, nearly doubling the number of such known regions. Outflows exist near the radio lobes, at the nucleus, in a biconical structure perpendicular to the jet, and in a bubble moving against the disk. In some of them, velocities above escape velocity are observed. Stratification is also observed, with higher ionization or excitation gas attaining higher velocities. More outflows and bow shocks, found further away from the nucleus than the radio lobes, in regions without significant radio emission, reveal the existence of past or weak radio jets that interacted with the interstellar medium. The coincidence of the bow shocks with the optical extended emission line region (EELR) suggests that the jets also contributed to the gas ionization. Maps of the H2 gas excitation temperature, Tex, indicate that the molecular gas is most excited in regions with radio emission. There, Tex is >100 K higher than in the EELR interior. We argue that a combination of jet-related shocks and cosmic rays is likely responsible for this excess molecular gas excitation.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@ We present James Webb Space Telescope MIRI data of the inner ∼3 × 2 kpc2 of t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a64</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a64</guid>
 <content:encoded><![CDATA[
-
 In this study, we present the pulse profile of the unique and the second-brightest gamma-ray burst GRB 230307A, and analyze its temporal behavior using a joint GECAM–Fermi Gamma-ray Burst Monitor (GBM) time-resolved spectral analysis. The utilization of GECAM data is advantageous as it successfully captured significant data during the pileup period of the Fermi/GBM. We investigate the evolution of its flux, photon fluence, photon flux, peak energy, and the corresponding hardness–intensity and hardness–flux correlations. The findings within the first 27 s exhibit consistent patterns reported previously, providing valuable insights for comparing observations with predictions from the synchrotron radiation model invoking an expanding shell. Beyond the initial 27 s, we observe a notable transition in the emitted radiation, attributed to high-latitude emission, influenced by the geometric properties of the shells and the relativistic Doppler effects. By modeling the data within the framework of the large-radius internal shock model, we discuss the required parameters as well as the limitations of the model. We conclude that a more complicated synchrotron emission model is needed to fully describe the observational data of GRB 230307A.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +68,8 @@ In this study, we present the pulse profile of the unique and the second-brighte
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b9e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b9e</guid>
 <content:encoded><![CDATA[
-
 We perform a search for continuous nearly monochromatic gravitational waves from the central compact objects associated with the supernova remnants Vela Jr. and G347.3. Over 1018 different waveforms are considered, covering signal frequencies between 20 and 1300 Hz (20 and 400 Hz) for G347.3-0.5 (Vela Jr.) and a very broad range of frequency derivatives. The data set used for this first search is from the second observing run of LIGO (O2). Thousands of volunteers donating compute cycles through the computing project Einstein@Home have made this endeavor possible. Following the Einstein@Home search, we perform multistage follow-ups of over 5 million waveforms. The threshold for selecting candidates from the Einstein@Home search is such that, after the multistage follow-up, we do not expect any surviving candidate due to noise. The very last stage uses a different data set, namely, the LIGO O3 data. We find no significant signal candidate for either targets. Based on this null result, for G347.3-0.5, we set the most constraining upper limits to date on the amplitude of gravitational-wave signals, corresponding to deformations below 10−6 in a large part of the search band. At the frequency of best strain sensitivity, near 161 Hz, we set 90% confidence upper limits on the gravitational-wave intrinsic amplitude of . Over most of the frequency range, our upper limits are a factor of 10 smaller than the indirect age-based upper limit. For Vela Jr., near 163 Hz, we set . Over most of the frequency range, our upper limits are a factor of 15 smaller than the indirect age-based upper limit. The Vela Jr. upper limits presented here are slightly less constraining than the most recent upper limits of R. Abbott et al., but they apply to a broader set of signals.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +77,8 @@ We perform a search for continuous nearly monochromatic gravitational waves from
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd3</guid>
 <content:encoded><![CDATA[
-
 We present a comprehensive analysis of the photometric and spectroscopic evolution of SN 2021foa, unique among the class of transitional supernovae for repeatedly changing its spectroscopic appearance from hydrogen-to-helium-to-hydrogen dominated (IIn-to-Ibn-to-IIn) within 50 days past peak brightness. The spectra exhibit multiple narrow (≈300–600 km s−1) absorption lines of hydrogen, helium, calcium, and iron together with broad helium emission lines with a full width at half-maximum (FWHM) of ∼6000 km s−1. For a steady, wind mass-loss regime, light-curve modeling results in an ejecta mass of ∼8 M⊙ and circumstellar material (CSM) mass below 1 M⊙, and an ejecta velocity consistent with the FWHM of the broad helium lines. We obtain a mass-loss rate of ≈2 M⊙ yr−1. This mass-loss rate is 3 orders of magnitude larger than derived for normal Type II supernovae. We estimate that the bulk of the CSM of SN 2021foa must have been expelled within half a year, about 12 yr ago. Our analysis suggests that SN 2021foa had a helium-rich ejecta that swept up a dense shell of hydrogen-rich CSM shortly after explosion. At about 60 days past peak brightness, the photosphere recedes through the dense ejecta-CSM region, occulting much of the redshifted emission of the hydrogen and helium lines, which results in an observed blueshift (∼−3000 km s−1). Strong mass-loss activity prior to explosion, such as those seen in SN 2009ip-like objects and SN 2021foa as precursor emission, are the likely origin of a complex, multiple-shell CSM close to the progenitor star.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,13 +86,10 @@ We present a comprehensive analysis of the photometric and spectroscopic evoluti
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cdd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cdd</guid>
 <content:encoded><![CDATA[
-
 In single-lined spectroscopic binaries (SB1s) where flux variations due to tidal deformation of the primary star (ellipsoidal variations, EVs) are detected, the binary mass can be determined by combining EVs with the primary's radial velocity (RV) variations from orbital motion and information about the primary’s radius. This method has been used for mass estimation in close binaries including X-ray systems, but it has been pointed out that contaminating light from sources other than the primary star could introduce systematic errors in the mass and inclination estimates. Here, we focus on the apparent RV variations caused by asymmetric distortion of the absorption lines of the tidally deformed primary star (tidal RV). Because this signal contains information equivalent to that from photometric EVs, it enables mass estimation of the binary system using only the primary star’s absorption lines from high-resolution spectroscopic data, providing a potentially more robust approach against contaminating light. We apply the method to the binary system V723 Monocerotis, where both photometric EV and tidal RV signals are detected and successfully determine the component masses using only the primary star’s RVs and projected rotational velocity, without relying on absolute flux measurements or stellar evolutionary models. The masses derived from the tidal RV model shows a reasonable agreement with those obtained from EVs after carefully modeling the flux contamination from the secondary. This result demonstrates that tidal RVs provide a useful alternative means for mass estimation in SB1s.
 ]]></content:encoded>
-
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Global Simulation of the Solar Wind: A Comparison with Parker Solar Probe Observations during 2018–2022</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d54</link>
@@ -11429,86 +11437,6 @@ Despite its biogenic and astrochemical importance, sulfur (S), the 10th most abu
 We report evidence of galaxy assembly bias—the correlation between galaxy properties and biased secondary halo properties at fixed halo mass (MH)—in the stellar-to-halo mass relation for red central galaxies from the Sloan Digital Sky Survey. In the MH = 1011.5–1013.5h−1M⊙ range, central galaxy stellar mass (M*) is correlated with the number density of galaxies within 10 h−1 Mpc (δ10), a common proxy for halo formation time. This galaxy assembly bias signal is also present when MH, M*, and δ10 are substituted with group luminosity, galaxy luminosity, and metrics of the large-scale density field. To associate differences in δ10 with variations in halo formation time, we fitted a model that accounts for (1) errors in the MH measured by the J. L. Tinker group catalog and (2) the level of correlation between halo formation time and M* at fixed MH. Fitting of this model yields that (1) errors in MH are ∼0.15 dex and (2) halo formation time and M* are strongly correlated (Spearman’s rank correlation coefficient ∼0.85). At fixed MH, variations of ∼0.4 dex in M* are associated with ∼1–3 Gyr variations in halo formation time and galaxy formation time (from stellar population fitting). These results are indicative that halo properties other than MH can impact central galaxy assembly.
 ]]></content:encoded>
 <pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>High-redshift Halo–Galaxy Connection via Constrained Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad702c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad702c</guid>
-<content:encoded><![CDATA[
-The evolution of halos with masses around Mh ≈ 1011M⊙ and Mh ≈ 1012M⊙ at redshifts z > 9 is examined using constrained N-body simulations. The average specific mass accretion rates, , exhibit minimal mass dependence and generally agree with existing literature. Individual halo accretion histories, however, vary substantially. About one-third of simulations reveal an increase in around z ≈ 13. Comparing simulated halos with observed galaxies having spectroscopic redshifts, we find that for galaxies at z ≳ 9, the ratio between observed star formation rate and is approximately 2%. This ratio remains consistent for the stellar-to-halo mass ratio (SHMR) but only for z ≳ 10. At z ≃ 9, the SHMR is notably lower by a factor of a few. At z ≳ 10, there is an agreement between specific star formation rates (sSFRs) and . However, at z ≃ 9, observed sSFRs exceed simulated values by a factor of 2. It is argued that the mildly elevated SHMR in high-z halos with Mh ≈ 1011M⊙ can be achieved by assuming the applicability of the local Kennicutt–Schmidt law and a reduced effectiveness of stellar feedback due to deeper gravitational potential of high-z halos of a fixed mass.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Velocity Dispersion Function for Quiescent Galaxies in Massive Clusters from IllustrisTNG</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fa</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fa</guid>
-<content:encoded><![CDATA[
-We derive the central stellar velocity dispersion function (VDF) for quiescent galaxies in 280 massive clusters with in IllustrisTNG300. The VDF is an independent tracer of the dark matter mass distribution of subhalos in galaxy clusters. Based on the IllustrisTNG cluster catalog, we select quiescent member subhalos with a specific star formation rate <2 × 10−11 yr−1 and stellar mass . We then simulate fiber spectroscopy to measure the stellar velocity dispersion of the simulated galaxies; we compute the line-of-sight velocity dispersions of star particles within a cylindrical volume that penetrates the core of each subhalo. We construct the VDFs for quiescent subhalos within R200. The simulated cluster VDF exceeds the simulated field VDF for , indicating the preferential formation of large velocity dispersion galaxies in dense environments. The excess is similar in simulations and in the observations. We also compare the simulated VDF for the three most massive clusters with with the observed VDF for the two most massive clusters in the local Universe, Coma and A2029. Intriguingly, the simulated VDFs are significantly lower for . This discrepancy results from (1) a smaller number of subhalos with in TNG300 compared to the observed clusters, and (2) a significant offset between the observed and simulated M*–σ* relations. The consistency in the overall shape of the observed and simulated VDFs offers a unique window into galaxy and structure formation in simulations.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>TIC 290061484: A Triply Eclipsing Triple System with the Shortest Known Outer Period of 24.5 Days</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7368</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7368</guid>
-<content:encoded><![CDATA[
-<div> 三重星系统，TIC 290061484，外部周期最短的已知系统24.5天，打破了以33.02天保持了68年的记录。内部二进制系统以1.8天的周期产生主要和次要食变，并表现出显著的食变时间变化。通过光动力学模型得出了整个三重系统的解决方案，显示三颗星的质量分别为6.85、6.11和7.90 M⊙，半径接近主序星，并且有效温度在21,000–23,700 K范围内。值得注意的是，模型显示这个三重系统实际上是一个分层的2+1+1四重系统的子系统。在约20百万年内，三颗母子星会合并，经历II型超新星爆炸，留下一个单一的中子星残骸。TIC 290061484目前是已知最紧凑的三重系统之一（即Pout/Pin = 13.7）。
-
-<br /><br />总结:
-三重星系统TIC 290061484打破了最短外部周期的记录，内部二进制系统表现出明显的食变时间变化。光动力学模型显示，三颗星将在20百万年内合并并经历II型超新星爆炸，留下一个单一的中子星残骸。 <div>
-We have discovered a triply eclipsing triple-star system, TIC 290061484, with the shortest known outer period, Pout, of only 24.5 days. This “eclipses” the previous record set by λ Tauri at 33.02 days, which held for 68 yr. The inner binary, with an orbital period of Pin = 1.8 days, produces primary and secondary eclipses and exhibits prominent eclipse timing variations with the same periodicity as the outer orbit. The tertiary star eclipses, and is eclipsed by, the inner binary with pronounced asymmetric profiles. The inclinations of both orbits evolve on observable timescales such that the third-body eclipses exhibit dramatic depth variations in TESS data. A photodynamical model provides a complete solution for all orbital and physical parameters of the triple system, showing that the three stars have masses of 6.85, 6.11, and 7.90 M⊙, radii near those corresponding to the main sequence, and Teff in the range of 21,000–23,700 K. Remarkably, the model shows that the triple is in fact a subsystem of a hierarchical 2+1+1 quadruple with a distant fourth star. The outermost star has a period of ∼3200 days and a mass comparable to the stars in the inner triple. In ∼20 Myr, all three components of the triple subsystem will merge, undergo a Type II supernova explosion, and leave a single remnant neutron star. At the time of writing, TIC 290061484 is the most compact triple system and one of the tighter known compact triples (i.e., Pout/Pin = 13.7).
-]]></content:encoded>
-<pubDate>2024-10-01T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Metallicity Dependence of PAH Emission in Galaxies. I. Insights from Deep Radial Spitzer Spectroscopy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66c8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad66c8</guid>
-<content:encoded><![CDATA[
-<div> PAHs, metallicity, Spitzer mid-infrared spectroscopic maps, grain models, galaxies
-<br /> 
-研究使用深度的斯皮策中红外光谱图对M101、NGC 628和NGC 2403三个附近的星系进行了研究，以探索多环芳烃（PAHs）在次太阳金属丰度下存在缺失的物理原因。研究发现，当金属丰度从太阳值降低到0.2太阳金属丰度以下时，PAHs总量与尘埃的辐射比率保持相对稳定，但在2/3太阳金属丰度以下迅速下降。为了解释这一现象，文章使用了新开发的颗粒模型来复现观测到的PAH-金属丰度关系，其中包括PAH特征强度的变化。最佳的模型使用了一个随金属丰度下降而变化的颗粒大小分布，表明金属丰度低时抑制了颗粒的生长，暗示星系中连续的补充过程是塑造PAH颗粒群的主导过程。 
-<br /><br />总结: 
-在跨越三个星系的实验中发现，PAH-金属丰度关系并非由辐射环境中最小颗粒的偏好破坏所导致，而是由金属丰度降低抑制颗粒生长而导致的。这一现象揭示了星系中连续的颗粒补充过程在塑造PAH颗粒群中发挥主导作用。 <div>
-We use deep Spitzer mid-infrared spectroscopic maps of radial strips across three nearby galaxies with well-studied metallicity gradients (M101, NGC 628, and NGC 2403) to explore the physical origins of the observed deficit of polycyclic aromatic hydrocarbons (PAHs) at subsolar metallicity (i.e., the PAH–metallicity relation or PZR). These maps allow us to trace the evolution of all PAH features from 5–18 μm as metallicity decreases continuously from solar (Z⊙) to 0.2 Z⊙. The total PAH-to-dust luminosity ratio remains relatively constant until reaching a threshold of ∼ 2/3 Z⊙, below which it declines smoothly but rapidly. The PZR has been attributed to preferential destruction of the smallest grains in the hard radiation environments found at low metallicity. In this scenario, a decrease in emission from the shortest-wavelength PAH features is expected. In contrast, we find a steep decline in long-wavelength power below Z⊙, especially in the 17 μm feature, with the shorter-wavelength PAH bands carrying an increasingly large fraction of power at low metallicity. We use newly developed grain models to reproduce the observed PZR trends, including these variations in fractional PAH feature strengths. The model that best reproduces the data employs an evolving grain size distribution that shifts to smaller sizes as metallicity declines. We interpret this as a result of inhibited grain growth at low metallicity, suggesting continuous replenishment in the interstellar medium is the dominant process shaping the PAH grain population in galaxies.
-]]></content:encoded>
-<pubDate>2024-09-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Properties of Solar Wind Current Sheets in the Martian Space Environment</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad66d1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad66d1</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Mars Atmosphere and Volatile Evolution mission, current sheets (CSs), Martian space environment, solar wind, bow shock
-
-总结: 本研究通过对火星空间环境中瞬变电流片（CSs）的特性进行调查，发现太阳风CSs在火星弓形震波后会发生变化。研究利用火星大气和挥发性物质进化任务的14个月数据，自动识别出786个CSs，发现跨越弓形震波后CSs的持续时间和厚度减小，电流密度和发生率显著增加。在火星磁层下，昼侧的CSs表现出更强的电流密度，较低的发生率以及比夜侧小的厚度。而从黎明侧到黄昏侧，CSs的主导磁场成分发生了变化。在前震区到火星弓形震波下游区域出现了明显的黎明-黄昏不对称性。这些结果揭示了火星空间环境中太阳风CSs的特性和演变。 <br /><br />总结: <div>
-Transient current sheets (CSs) are common magnetic structures in the solar wind that can significantly disturb the planetary space environment and cause space weather phenomena. This study focuses on their properties in the Martian space environment and investigates their transformations caused by the Martian bow shock. Based on 14 months of data from the Mars Atmosphere and Volatile Evolution mission during similar solar activity, 786 CSs with directional changes greater than 90° and magnetic field depression were automatically identified, including 256 events in the upstream solar wind and 530 events in the Martian magnetosheath. After crossing the bow shock, the duration and thickness of the CSs decrease, while their current density and occurrence rate significantly increase. In the Martian magnetosheath, CSs located on the dayside exhibit stronger current density, a relatively lower occurrence rate, and a smaller than CSs located on the nightside. From the dayside to the nightside, the predominant magnetic field component of CSs changes to due to the draping process. Moreover, a clear dawn–dusk asymmetry in CS properties emerges from the foreshock to the downstream region of the Martian bow shock. Our results reveal the properties and evolution of solar wind CSs in the Martian space environment.
-]]></content:encoded>
-<pubDate>2024-09-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Peculiar Radio Evolution of the Tidal Disruption Event ASASSN-19bt</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad675b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad675b</guid>
-<content:encoded><![CDATA[
-<div> TDE, ASASSN-19bt, radio observations, energy estimation, unusual radio evolution
-总结:<br /><br />这篇文章报告了对TDE ASASSN-19bt/AT 2019ahk的详细射电观测结果，跨越了40至1464天的光学闪耀发现后的时间范围。研究发现，ASASSN-19bt的射电发射显示出与其他TDE不同的异常演化，其射电发射峰值亮度在光学发现后的457天内迅速增加，然后趋于稳定。通过广义的均衡技术，估算了两种可能的发射几何结构的能量和相应的物理参数，包括非相对论球形流和从不同观测角度观察到的相对论流。研究发现，非相对论解意味着出流的能量从E ∼ 10^46增加到E ∼ 10^49 erg，流速β约为0.05，而非轴向相对论喷流解则建议在极端非轴向情况下晚期为E ≈ 10^52 erg，洛伦兹因子Γ∼10。没有模型能全面解释射电发射的起源和演化，这强调了需要更复杂的模型。ASASSN-19bt成为显示出异常射电发射的TDE种群的一部分。进行这些TDE的长期射电观测，特别是在后期阶段，对于理解TDE中这类射电发射的产生至关重要。 <div>
-We present detailed radio observations of the tidal disruption event (TDE) ASASSN-19bt/AT 2019ahk, obtained with the Australia Telescope Compact Array, the Atacama Large Millimeter/submillimeter Array, and the MeerKAT radio telescopes, spanning 40–1464 days after the onset of the optical flare. We find that ASASSN-19bt displays unusual radio evolution compared to other TDEs, as the peak brightness of its radio emission increases rapidly until 457 days post-optical discovery and then plateaus. Using a generalized approach to standard equipartition techniques, we estimate the energy and corresponding physical parameters for two possible emission geometries: a nonrelativistic spherical outflow and a relativistic outflow observed from a range of viewing angles. We find that the nonrelativistic solution implies a continuous energy rise in the outflow from E ∼ 1046 to E ∼ 1049 erg with outflow speed β ≈ 0.05, while the off-axis relativistic jet solution instead suggests E ≈ 1052 erg with Lorentz factor Γ ∼ 10 at late times in the maximally off-axis case. We find that neither model provides a holistic explanation for the origin and evolution of the radio emission, emphasizing the need for more complex models. ASASSN-19bt joins the population of TDEs that display unusual radio emission at late times. Conducting long-term radio observations of these TDEs, especially during the later phases, will be crucial for understanding how these types of radio emission in TDEs are produced.
-]]></content:encoded>
-<pubDate>2024-09-30T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Black Hole Mass and Photometric Components of NGC 4826</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad67dc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad67dc</guid>
-<content:encoded><![CDATA[
-<div> Sérsic index, Schwarzschild modeling, black hole mass, bulge properties, Hubble Space Telescope<br />
-总结:<br />
-这篇文章研究了NGC 4826星系的红外光度和哈勃空间望远镜成像和光谱，采用Schwarzschild动力学建模测量了其中心黑洞质量M。通过光度分解，发现NGC 4826包含约相等质量的经典和伪球。其总V波段光度为MVT = −21.07，经典球体与总光比为B/T ≃ 0.12，伪球与总光比为PB/T ≃ 0.13，外部盘呈指数型。最佳拟合的Schwarzschild模型得出的黑洞质量满足M与K带光度、恒星质量和经典球体速度色散的相关性。然而，与总（经典加伪）球体光度相关性相比，黑洞质量偏低。因此，NGC 4826星系符合以往关于黑洞比例关系的研究结果，并有助于加强低黑洞质量下的结果。 <div>
-We present infrared photometry and Hubble Space Telescope imaging and spectroscopy of the Sab galaxy NGC 4826. Schwarzschild dynamical modeling is used to measure its central black hole mass M. Photometric decomposition is used to enable a comparison of M to published scaling relations between black hole masses and properties of host bulges. This decomposition implies that NGC 4826 contains classical and pseudobulges of approximately equal mass. The classical bulge has best-fit Sérsic index n = 3.27. The pseudobulge is made up of three parts, an inner lens (n = 0.18 at r ≲ 4″), an outer lens (n = 0.17 at r ≲ 45″), and a n = 0.58 Sérsic component required to match the surface brightness between the lens components. The total V-band luminosity of the galaxy is MVT = −21.07, the ratio of classical bulge to total light is B/T ≃ 0.12, and the ratio of pseudobulge to total light is PB/T ≃ 0.13. The outer disk is exponential (n = 1.07) and makes up D/T = 0.75 of the light of the galaxy. Our best-fit Schwarzschild model has a black hole mass with 1σ uncertainties of and a stellar population with a K-band mass-to-light ratio of at the assumed distance of 7.27 Mpc. Our modeling is marginally consistent with M = 0 at the 3σ limit. These best-fit parameters were calculated assuming the black hole is located where the velocity dispersion is largest; this is offset from the maximum surface brightness, probably because of dust absorption. The black hole mass—one of the smallest measured by modeling stellar dynamics—satisfies the well known correlations of M with the K-band luminosity, stellar mass, and velocity dispersion of the classical bulge only. In contrast, the black hole is undermassive with respect to the correlation of M with total (classical plus pseudo) bulge luminosity. Thus the composite (classical bulge plus pseudobulge) galaxy NGC 4826 is consistent with previous results on black hole scaling relations and helps to strengthen these results at low black hole masses.
-]]></content:encoded>
-<pubDate>2024-09-30T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
