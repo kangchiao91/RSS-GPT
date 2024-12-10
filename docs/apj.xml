@@ -4,6 +4,116 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Global Simulation of the Solar Wind: A Comparison with Parker Solar Probe Observations during 2018–2022</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d54</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d54</guid>
+<content:encoded><![CDATA[
+
+Global magnetohydrodynamic (MHD) models play an important role in the infrastructure of space weather forecasting. Validating such models commonly utilizes in situ solar wind measurements made near the Earth’s orbit. The purpose of this study is to test the performance of G3DMHD (a data driven, time-dependent, 3D MHD model of the solar wind) with Parker Solar Probe (PSP) measurements. Since its launch in 2018 August, PSP has traversed the inner heliosphere at different radial distances sunward of the Earth (the closest approach ∼13.3 R⊙), thus providing a good opportunity to study evolution of the solar wind and to validate heliospheric models of the solar wind. The G3DMHD model simulation is driven by a sequence of maps of the photospheric field extrapolated to the assumed source surface (2.5 R⊙) using the potential field model from 2018 to 2022, which covers the first 15 PSP orbits. The Pearson correlation coefficient (cc) and the mean absolute scaled error (MASE) are used as the metrics to evaluate the model performance. It is found that the model performs better for both magnetic intensity (cc = 0.75; MASE = 0.60) and the solar wind density (cc = 0.73; MASE = 0.50) than for the solar wind speed (cc = 0.15; MASE = 1.29) and temperature (cc = 0.28; MASE = 1.14). This is due primarily to lack of accurate boundary conditions. The well-known underestimate of the magnetic field in solar minimum years is also present. Assuming that the radial magnetic field becomes uniformly distributed with latitude at or below 18 R⊙ (the inner boundary of the computation domain), the agreement in the magnetic intensity significantly improves (cc = 0.83; MASE = 0.49).
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Supernova Shocks in Molecular Clouds: Shocks Driven into Dense Cores in IC 443 and 3C 391</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d59</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8d59</guid>
+<content:encoded><![CDATA[
+
+Supernova shocks into dense molecular cores in IC 443 (clumps B, C, and G) and 3C 391 were observed using the Stratospheric Observatory for Infrared Astronomy and complemented by archival data from the Herschel Space Observatory. The pure rotational transitions 0–0 S(1) and S(5) of H2, and the ground-state 110–101 transition of H2O, are all broadened, arising from molecules that survive the passage of the shock front. Theoretical models from the Paris–Durham shock code were analyzed to generate velocity profiles that approximately match the observations. The observations can be fit with two shock conditions, which approximate the range of densities in the preshock molecular cloud. The width and brightness of the S(5) lines require shocks into gas with a density of order 2000 cm−3, into which the IC 443 blast wave drives shocks with speed 60 km s−1. The brightness and narrower width of the S(1) lines requires different shocks, into gas with density of order 105 cm−3, with shock speeds of 10 km s−1. The H2O velocity distribution is also consistent with these shocks. The existence of shocks into dense gas shows that the bright shocked clumps in IC 443 were prestellar cores. It is unlikely that they will form stars soon after the passage of the shock front, given the input of kinetic and thermal energy from the shocks.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Photon Ring Polarimetry with Next-generation Black Hole Imaging. I. M87*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd5</guid>
+<content:encoded><![CDATA[
+
+The near-horizon region of a black hole impacts linear (LP) and circular polarization (CP) through strong lensing of photons, adding large-scale symmetries and anti-symmetries to the polarized image. To probe the signature of lensing in polarimetry, we utilize a geometric model of concentric Gaussian rings of equal radius to investigate the transition in the Fourier plane at which the photon ring signal begins to dominate over the direct image. We find analytic, closed-form expressions for the transition radii in total intensity, LP, and CP, wherein the resultant formulae are composed of ratios of tunable image parameters, with the overall “scale” set primarily by the thickness of the direct image. Using these formulae, we compute the transition radii for time-averaged images of M87* simulations at 230 GHz, studying both magnetically arrested disk (MAD) and standard and normal evolution configurations for various spin and electron heating models. We compare geometric values to radii obtained directly from the simulations through a coherent averaging scheme. We find that nearly all MAD models have a photon ring-dominated CP signal on long baselines shorter than Earth's diameter at 230 GHz. Across favored models for the M87* accretion flow identified by the Event Horizon Telescope (EHT) polarimetric constraints, we quantify the sensitivity and antenna size requirements for the next-generation EHT and the Black Hole Explorer orbiter to detect these features. We find that the stringent requirements for CP favor explorations using long baselines on the ground, while LP remains promising on Earth-space baselines.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Proton Acceleration in Low-β Magnetic Reconnection with Energetic Particle Feedback</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e64</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e64</guid>
+<content:encoded><![CDATA[
+
+Magnetic reconnection regions in space and astrophysics are known as active particle acceleration sites. There is ample evidence showing that energetic particles can take a substantial amount of converted energy during magnetic reconnection. However, there has been a lack of studies understanding the backreaction of energetic particles at magnetohydrodynamical scales in magnetic reconnection. To address this, we have developed a new computational method to explore the feedback by nonthermal energetic particles. This approach considers the backreaction from these energetic particles by incorporating their pressure into magnetohydrodynamics (MHD) equations. The pressure of the energetic particles is evaluated from their distribution evolved through Parker’s transport equation, solved using stochastic differential equations (SDEs), so we coin the name MHD-SDE. Applying this method to low-β magnetic reconnection simulations, we find that reconnection is capable of accelerating a large fraction of energetic particles that contain a substantial amount of energy. When the feedback from these particles is included, their pressure suppresses the compression structures generated by magnetic reconnection, thereby mediating particle energization. Consequently, the feedback from energetic particles results in a steeper power-law energy spectrum. These findings suggest that feedback from nonthermal energetic particles plays a crucial role in magnetic reconnection and particle acceleration.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Formation of Sub-Chandrasekhar-mass Black Holes and Red Stragglers via Hawking Stars in Ultrafaint Dwarf Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ec0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ec0</guid>
+<content:encoded><![CDATA[
+
+Primordial black holes (PBHs) in the asteroid mass window from 10−16M⊙ to 10−10M⊙ are currently a popular dark matter candidate. If they exist, some stars would capture them upon formation, and they would slowly accrete the star over gigayears. Such Hawking stars—stars with a central PBH—provide a novel channel for the formation of both sub-Chandrasekhar-mass black holes and red straggler stars. Here we report on stellar evolution models that extend our previous work to Hawking stars with masses between 0.5 and 1.4 M⊙. We explore three accretion schemes, and find that a wide range of PBHs in the asteroid mass window can robustly accrete stars as small as 1 M⊙ within the age of the Universe. This mechanism of producing subsolar-mass black holes is highly dependent on the assumed accretion physics and stellar metallicity. Lower-metallicity stars are generally accreted more rapidly, suggesting that it may be more likely for sub-Chandrasekhar-mass Hawking stars formed in the early Universe, such as those in ultrafaint dwarf (UFD) galaxies, to transmute their star into a sub-Chandrasekhar-mass black hole within a Hubble time. We present a stellar population synthesis of a Draco II–like UFD galaxy containing Hawking stars and show that the number of red stragglers they produce can qualitatively match the observed population for black hole seed masses around 10−11M⊙ and under the assumption that they accrete with high radiative efficiency.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>X-Ray, UV, and Optical Observations of Proxima Centauri’s Stellar Cycle</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8faa</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8faa</guid>
+<content:encoded><![CDATA[
+
+Proxima Cen (GJ 551; dM5.5e) is one of only about a dozen fully convective stars known to have a stellar cycle, and the only one to have long-term X-ray monitoring. A previous analysis found that X-ray and mid-UV observations, particularly two epochs of data from Swift, were consistent with a well-sampled ∼7 yr optical cycle seen in All Sky Automated Survey project (ASAS) data, but not convincing by themselves. The present work incorporates several years of new ASAS-SN optical data and an additional 5 yr of Swift XRT and UVOT observations, with Swift observations now spanning 2009–2021 and optical coverage from late 2000. X-ray observations by XMM-Newton and Chandra are also included. Analysis of the combined data, which includes modeling and adjustments for stellar contamination in the optical and UV, now reveals clear cyclic behavior in all three wavebands with a period of 8.0 yr. We also show that UV and X-ray intensities are anticorrelated with optical brightness variations caused by the cycle and by rotational modulation, discuss possible indications of two coronal mass ejections, and provide updated results for the previous finding of a simple correlation between X-ray cycle amplitude and Rossby number over a wide range of stellar types and ages.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Center-to-limb Variations in Solar Plage Using IRIS Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad901d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad901d</guid>
+<content:encoded><![CDATA[
+
+The center-to-limb variations (CLV) of transition region line Gaussian fit parameters in solar plage are reported for the first time. The Si iv 1402.77 Å line observed by the Interface Region Imaging Spectrograph is used. The spectral intensity increases linearly from the disk center to the solar limb. Similarly, the nonthermal velocity also increases linearly from 23.6 (at the disk center) to 30.9 km s−1 (at the solar limb). On the other hand, the Doppler velocity decreases from 8.9 ± 1.0 at the disk center to 0.0 km s−1 at the limb. This CLV pattern in solar plages is consistent with the CLV pattern reported in the quiet Sun (QS). However, the average values of the parameters in the solar plage are significantly higher than in the QS. The intensity and nonthermal velocity increase linearly with the magnetic field at the disk center, while the Doppler velocity does not depend on the magnetic field. Due to the line-of-sight effect, the plasma column depth increases toward the solar limb, which leads to a linear increase in the spectral intensity. Further, the increasing plasma column depth toward the solar limb adds more and more unresolved motions, and as a result, the nonthermal velocity increases from the disk center to the solar limb. In the solar plages, the higher plasma density due to the strong magnetic field leads to higher intensity and nonthermal velocity compared to the QS and coronal hole.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Compact, Coherent Representation of Stellar Surface Variation in the Spectral Domain</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90ad</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90ad</guid>
+<content:encoded><![CDATA[
+
+Time-varying inhomogeneities on stellar surfaces constitute one of the largest sources of radial velocity (RV) error for planet detection and characterization. We show that stellar variations, because they manifest on coherent, rotating surfaces, give rise to changes that are complex but usably compact and coherent in the spectral domain. Methods for disentangling stellar signals in RV measurements benefit from modeling the full domain of spectral pixels. We simulate spectra of spotted stars using starry and construct a simple spectrum projection space that is sensitive to the orientation and size of stellar surface features. Regressing measured RVs in this projection space reduces RV scatter by 60%–80% while preserving planet shifts. We note that stellar surface variability signals do not manifest in spectral changes that are purely orthogonal to a Doppler shift or exclusively asymmetric in line profiles; enforcing orthogonality or focusing exclusively on asymmetric features will not make use of all the information present in the spectra. We conclude with a discussion of existing and possible implementations on real data based on the presented compact, coherent framework for stellar signal mitigation.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Free–Free Gaunt Factors for Atmospheres of Accreting Pulsars Observable with X-Ray Space Missions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9331</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9331</guid>
+<content:encoded><![CDATA[
+
+Free–free Gaunt factors for X-ray absorption by hot plasma in the presence of a strong magnetic field are reported. Modified formulae are used for application to the nonlocal thermodynamic equilibrium conditions found in accreting pulsar atmospheres. Given upcoming global X-ray polarimetric space missions, these can be used for the construction of an absorption matrix in discrete-ordinate polarized radiative transfer.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Revisiting the Activity–Rotation Relation for Evolved Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad957a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad957a</guid>
+<content:encoded><![CDATA[
+
+The magnetic dynamo mechanism of giant stars remains an open question, which can be explored by investigating their activity–rotation relations with multiple proxies. By using the data from the LAMOST and Galaxy Evolution Explorer surveys, we carried out a comprehensive study of activity–rotation relations of evolved stars based on Ca ii H and K lines, Hα lines, and near-ultraviolet (NUV) emissions. Our results show that evolved stars and dwarfs obey a similar power law in the unsaturated region of the activity–rotation relation, indicating a common dynamo mechanism in both giants and dwarfs. There is no clear difference in the activity levels between red giant branch stars and red clump stars, nor between single giants and those in binaries. Additionally, our results show that the NUV activity levels of giants are comparable to those of G- and K-type dwarfs and are higher than those of M dwarfs.
+]]></content:encoded>
+
+<pubDate>2024-12-10T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Study of Slow-mode Shocks in the Near-Earth Magnetotail with MMS Observations and Hybrid Simulations</title>
