@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Classification of Wolf–Rayet Stars Using Ensemble-based Machine Learning Algorithms</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dda</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dda</guid>
 <content:encoded><![CDATA[
-
 We develop a robust machine learning classifier model utilizing the eXtreme-Gradient Boosting (XGB) algorithm for improved classification of Galactic Wolf–Rayet (WR) stars based on IR colors and positional attributes. For our study, we choose an extensive data set of 6555 stellar objects (from 2MASS and AllWISE data releases) lying in the Milky Way (MW) with available photometric magnitudes of different types, including WR stars. Our XGB classifier model can accurately (with an 86% detection rate) identify a sufficient number of WR stars against a large sample of non-WR sources. The XGB model outperforms other ensemble classifier models, such as Random Forest. Also, using the XGB algorithm, we develop a WR subtype classifier model that can differentiate the WR subtypes from the non-WR sources with a high model accuracy (>60%). Further, we apply both XGB-based models to a selection of 6457 stellar objects with unknown object types, detecting 58 new WR star candidates and predicting subtypes for 10 of them. The identified WR sources are mainly located in the local spiral arm of the MW and mostly lie in the solar neighborhood.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ We develop a robust machine learning classifier model utilizing the eXtreme-Grad
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e3</guid>
 <content:encoded><![CDATA[
-
 We examine lengthy radio light curves of the flat spectrum radio galaxy 3C 454.3 for possible quasiperiodic oscillations (QPOs). The data used in this work were collected at five radio frequencies, 4.8, 8.0, 14.5, 22.0, and 37.0 GHz between 1979 and 2013 as observed at the University of Michigan Radio Astronomical Observatory, Crimean Astrophysical Observatory, and Aalto University Metsähovi Radio Observatory. We employ generalized Lomb–Scargle periodogram and weighted wavelet transform analyses to search for periodicities in these light curves. We confirm a QPO period of ∼2000 days to be at least 4σ significant using both methods at all five radio frequencies between 1979 and 2007, after which a strong flare changed the character of the light curve. We also find a ∼600 day period, which is at least 4σ significant, but only in the 22.0 and 37.0 GHz light curves. We briefly discuss physical mechanisms capable of producing such variations.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>CSS 161010: A Luminous Fast Blue Optical Transient with Broad Blueshifted Hydrogen Lines</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</link>
@@ -11347,33 +11343,6 @@ We report the temporal evolution of electron pitch angle distributions behind th
 We present the discovery of a luminous X-ray active galactic nucleus (AGN) in the dwarf galaxy merger RGG 66. The black hole is predicted to have a mass of MBH ∼ 105.4 M⊙ and to be radiating close to its Eddington limit (Lbol/LEdd ∼ 0.75). The AGN in RGG 66 is notable both for its presence in a late-stage dwarf–dwarf merger and for its luminosity of L2–10 keV = 1042.2 erg s−1, which is among the most powerful AGNs known in nearby dwarf galaxies. The X-ray spectrum has a best-fit photon index of Γ = 2.4 and an intrinsic absorption of NH ∼ 1021 cm−2. These results come from a follow-up Chandra X-ray Observatory study of four irregular/disturbed dwarf galaxies with evidence for hosting AGNs based on optical spectroscopy. The remaining three dwarf galaxies do not have detectable X-ray sources with upper limits of L2–10 keV ≲ 1040 erg s−1. Taken at face value, our results on RGG 66 suggest that mergers may trigger the most luminous of AGNs in the dwarf galaxy regime, just as they are suspected to do in more massive galaxy mergers.
 ]]></content:encoded>
 <pubDate>2024-10-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>X-Ray and Multiwavelength Polarization of Mrk 501 from 2022 to 2023</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad63a1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad63a1</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Mrk 501, IXPE, X射线偏振, 光学-红外偏振, 射电偏振
-
-总结:<br /><br />本研究对明亮的类星体Mrk 501进行了为期14个月的多波段偏振测量。使用IXPE进行了2-8 keV的X射线偏振测量，并且伴随有来自NuSTAR、Swift/XRT和/或XMM-Newton的同时X射线数据。此外，还进行了B、V、R、I和J波段的光学-红外偏振测量，以及4.85 GHz至225.5 GHz的射电偏振测量。研究发现，尽管前五次IXPE观测中未发现X射线偏振度和角度的显著变化，但最近的第六次观测发现偏振度高于其他五次观测的平均值。光学和射电测量结果与X射线偏振特性之间没有明显的相关性。总的来说，X射线偏振度始终高于或类似于R波段光学偏振度，而后者又高于射电值。这与最初提出的能量分层激波场景一致，该场景解释了前两次IXPE观测结果，即偏振的X射线、光学和射电辐射来自不同的区域。 <div>
-We present multiwavelength polarization measurements of the luminous blazar Mrk 501 over a 14 month period. The 2–8 keV X-ray polarization was measured with the Imaging X-ray Polarimetry Explorer (IXPE) with six 100 ks observations spanning from 2022 March to 2023 April. Each IXPE observation was accompanied by simultaneous X-ray data from NuSTAR, Swift/XRT, and/or XMM-Newton. Complementary optical–infrared polarization measurements were also available in the B, V, R, I, and J bands, as were radio polarization measurements from 4.85 GHz to 225.5 GHz. Among the first five IXPE observations, we did not find significant variability in the X-ray polarization degree and angle with IXPE. However, the most recent sixth observation found an elevated polarization degree at >3σ above the average of the other five observations. The optical and radio measurements show no apparent correlations with the X-ray polarization properties. Throughout the six IXPE observations, the X-ray polarization degree remained higher than, or similar to, the R-band optical polarization degree, which remained higher than the radio value. This is consistent with the energy-stratified shock scenario proposed to explain the first two IXPE observations, in which the polarized X-ray, optical, and radio emission arises from different regions.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Census from JWST of Extreme Emission-line Galaxies Spanning the Epoch of Reionization in CEERS</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6865</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6865</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 极端发射线星系，JWST，NIRCam，CEERS，光度学鉴定
-
-这项研究利用James Webb太空望远镜（JWST）的NIRCam光度学数据，从4 < z < 9的宇宙中选取了1165个极端发射线星系（EELGs）。研究使用简单的方法在光度学上鉴定出具有Hβ + [O iii]或Hα等效宽度（EW）> 5000 Å的EELGs。研究通过对部分（34个）光度学选择的EELGs进行JWST/NIRSpec光谱观测验证了选择方法，结果表明所有光谱观测的EELGs均证实了光度学识别的极端发射。研究发现CEERS中的中带F410M滤波器在识别EELGs方面特别高效。文章还提供了被错误分类为超高红移（z > 12）的EELGs的案例，并将EELGs与相同红移范围内更广泛的（次极端的）星系群体进行比较，发现它们与更广泛的发射线星系群体一致。最高EW的EELGs倾向于具有比连续谱尺寸更紧凑的发射线尺寸，这表明活动星系核至少对一些最极端的EELGs负责。光度学推断的发射线比与具有高电离和适度低金属丰度的星际介质条件一致，与先前的光谱研究一致。
-
-总结: 
-这项研究利用JWST的NIRCam光度学数据成功鉴定出1165个4 < z < 9的极端发射线星系(EELGs)，并通过光谱观测验证了其选择方法；其中CEERS中的中带F410M滤波器在识别EELGs方面特别高效；研究还发现一些EELGs可能会被错误分类为超高红移的星系，同时对EELGs和更广泛的星系进行了比较，发现它们是更广泛发射线星系群体的更蓝色、高EW的尾部。最后，研究结果还表明高EW的EELGs倾向于具有紧凑的发射线尺寸，光度学推断的发射线比也与先前的光谱研究一致。 <div>
-We present a sample of 1165 extreme emission-line galaxies (EELGs) at 4 < z < 9 selected using James Webb Space Telescope (JWST) NIRCam photometry in the Cosmic Evolution Early Release Science (CEERS) program. We use a simple method to photometrically identify EELGs with Hβ + [O iii] (combined) or Hα emission of observed-frame equivalent width (EW) > 5000 Å. JWST/NIRSpec spectroscopic observations of a subset (34) of the photometrically selected EELGs validate our selection method: All spectroscopically observed EELGs confirm our photometric identification of extreme emission, including some cases where the spectral-energy-distribution-derived photometric redshifts are incorrect. We find that the medium-band F410M filter in CEERS is particularly efficient at identifying EELGs, both in terms of including emission lines in the filter and in correctly identifying the continuum between Hβ + [O iii] and Hα in the neighboring broadband filters. We present examples of EELGs that could be incorrectly classified as ultrahigh redshift (z > 12) as a result of extreme Hβ + [O iii] emission blended across the reddest photometric filters. We compare the EELGs to the broader (subextreme) galaxy population in the same redshift range and find that they are consistent with being the bluer, high-EW tail of a broader population of emission-line galaxies. The highest-EW EELGs tend to have more compact emission-line sizes than continuum sizes, suggesting that active galactic nuclei are responsible for at least some of the most extreme EELGs. The photometrically inferred emission-line ratios are consistent with interstellar medium conditions with high ionization and moderately low metallicity, consistent with previous spectroscopic studies.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
