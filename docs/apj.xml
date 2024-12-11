@@ -5,17 +5,37 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>CSS 161010: A Luminous Fast Blue Optical Transient with Broad Blueshifted Hydrogen Lines</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</guid>
+<title>Classification of Wolf–Rayet Stars Using Ensemble-based Machine Learning Algorithms</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dda</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dda</guid>
 <content:encoded><![CDATA[
 
-We present ultraviolet, optical, and near-infrared photometric and optical spectroscopic observations of the luminous fast blue optical transient (LFBOT) CSS 161010:045834–081803 (CSS 161010). The transient was found in a low-redshift (z = 0.033) dwarf galaxy. The light curves of CSS 161010 are characterized by an extremely fast evolution and blue colors. The V-band light curve shows that CSS 161010 reaches an absolute peak of mag in 3.8 days from the start of the outburst. After maximum, CSS 161010 follows a power-law decline ∝t−2.8±0.1 in all optical bands. These photometric properties are comparable to those of well-observed LFBOTs such as AT 2018cow, AT 2020mrf, and AT 2020xnd. However, unlike these objects, the spectra of CSS 161010 show a remarkable transformation from a blue and featureless continuum to spectra dominated by very broad, entirely blueshifted hydrogen emission lines with velocities of up to 10% of the speed of light. The persistent blueshifted emission and the lack of any emission at the rest wavelength of CSS 161010 are unique features not seen in any transient before CSS 161010. The combined observational properties of CSS 161010 and its M* ∼ 108M⊙ dwarf galaxy host favor the tidal disruption of a star by an intermediate-mass black hole as its origin.
+We develop a robust machine learning classifier model utilizing the eXtreme-Gradient Boosting (XGB) algorithm for improved classification of Galactic Wolf–Rayet (WR) stars based on IR colors and positional attributes. For our study, we choose an extensive data set of 6555 stellar objects (from 2MASS and AllWISE data releases) lying in the Milky Way (MW) with available photometric magnitudes of different types, including WR stars. Our XGB classifier model can accurately (with an 86% detection rate) identify a sufficient number of WR stars against a large sample of non-WR sources. The XGB model outperforms other ensemble classifier models, such as Random Forest. Also, using the XGB algorithm, we develop a WR subtype classifier model that can differentiate the WR subtypes from the non-WR sources with a high model accuracy (>60%). Further, we apply both XGB-based models to a selection of 6457 stellar objects with unknown object types, detecting 58 new WR star candidates and predicting subtypes for 10 of them. The identified WR sources are mainly located in the local spiral arm of the MW and mostly lie in the solar neighborhood.
+]]></content:encoded>
+
+<pubDate>2024-12-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Revisiting Radio Variability of the Blazar 3C 454.3</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e3</guid>
+<content:encoded><![CDATA[
+
+We examine lengthy radio light curves of the flat spectrum radio galaxy 3C 454.3 for possible quasiperiodic oscillations (QPOs). The data used in this work were collected at five radio frequencies, 4.8, 8.0, 14.5, 22.0, and 37.0 GHz between 1979 and 2013 as observed at the University of Michigan Radio Astronomical Observatory, Crimean Astrophysical Observatory, and Aalto University Metsähovi Radio Observatory. We employ generalized Lomb–Scargle periodogram and weighted wavelet transform analyses to search for periodicities in these light curves. We confirm a QPO period of ∼2000 days to be at least 4σ significant using both methods at all five radio frequencies between 1979 and 2007, after which a strong flare changed the character of the light curve. We also find a ∼600 day period, which is at least 4σ significant, but only in the 22.0 and 37.0 GHz light curves. We briefly discuss physical mechanisms capable of producing such variations.
 ]]></content:encoded>
 
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>CSS 161010: A Luminous Fast Blue Optical Transient with Broad Blueshifted Hydrogen Lines</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</guid>
+<content:encoded><![CDATA[
+We present ultraviolet, optical, and near-infrared photometric and optical spectroscopic observations of the luminous fast blue optical transient (LFBOT) CSS 161010:045834–081803 (CSS 161010). The transient was found in a low-redshift (z = 0.033) dwarf galaxy. The light curves of CSS 161010 are characterized by an extremely fast evolution and blue colors. The V-band light curve shows that CSS 161010 reaches an absolute peak of mag in 3.8 days from the start of the outburst. After maximum, CSS 161010 follows a power-law decline ∝t−2.8±0.1 in all optical bands. These photometric properties are comparable to those of well-observed LFBOTs such as AT 2018cow, AT 2020mrf, and AT 2020xnd. However, unlike these objects, the spectra of CSS 161010 show a remarkable transformation from a blue and featureless continuum to spectra dominated by very broad, entirely blueshifted hydrogen emission lines with velocities of up to 10% of the speed of light. The persistent blueshifted emission and the lack of any emission at the rest wavelength of CSS 161010 are unique features not seen in any transient before CSS 161010. The combined observational properties of CSS 161010 and its M* ∼ 108M⊙ dwarf galaxy host favor the tidal disruption of a star by an intermediate-mass black hole as its origin.
+]]></content:encoded>
+<pubDate>2024-12-11T00:00:00Z</pubDate>
+</item>
 <item>
 <title>Varying Activity and the Burst Properties of FRB 20240114A Probed with GMRT Down to 300 MHz</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84de</link>
@@ -11352,18 +11372,6 @@ We present multiwavelength polarization measurements of the luminous blazar Mrk 
 总结: 
 这项研究利用JWST的NIRCam光度学数据成功鉴定出1165个4 < z < 9的极端发射线星系(EELGs)，并通过光谱观测验证了其选择方法；其中CEERS中的中带F410M滤波器在识别EELGs方面特别高效；研究还发现一些EELGs可能会被错误分类为超高红移的星系，同时对EELGs和更广泛的星系进行了比较，发现它们是更广泛发射线星系群体的更蓝色、高EW的尾部。最后，研究结果还表明高EW的EELGs倾向于具有紧凑的发射线尺寸，光度学推断的发射线比也与先前的光谱研究一致。 <div>
 We present a sample of 1165 extreme emission-line galaxies (EELGs) at 4 < z < 9 selected using James Webb Space Telescope (JWST) NIRCam photometry in the Cosmic Evolution Early Release Science (CEERS) program. We use a simple method to photometrically identify EELGs with Hβ + [O iii] (combined) or Hα emission of observed-frame equivalent width (EW) > 5000 Å. JWST/NIRSpec spectroscopic observations of a subset (34) of the photometrically selected EELGs validate our selection method: All spectroscopically observed EELGs confirm our photometric identification of extreme emission, including some cases where the spectral-energy-distribution-derived photometric redshifts are incorrect. We find that the medium-band F410M filter in CEERS is particularly efficient at identifying EELGs, both in terms of including emission lines in the filter and in correctly identifying the continuum between Hβ + [O iii] and Hα in the neighboring broadband filters. We present examples of EELGs that could be incorrectly classified as ultrahigh redshift (z > 12) as a result of extreme Hβ + [O iii] emission blended across the reddest photometric filters. We compare the EELGs to the broader (subextreme) galaxy population in the same redshift range and find that they are consistent with being the bluer, high-EW tail of a broader population of emission-line galaxies. The highest-EW EELGs tend to have more compact emission-line sizes than continuum sizes, suggesting that active galactic nuclei are responsible for at least some of the most extreme EELGs. The photometrically inferred emission-line ratios are consistent with interstellar medium conditions with high ionization and moderately low metallicity, consistent with previous spectroscopic studies.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Multiwavelength Approach to Constraining the Merger Properties of ACT-CL J0034.4+0225</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6442</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6442</guid>
-<content:encoded><![CDATA[
-<div> 关键词: J0034.4+0225, 星系团, 合并, 气体分布, X射线质量估算
-总结:
-J0034.4+0225是一个之前未被识别的星系团，其红移为0.38588。研究发现，该星系团存在两个表面亮度峰值，分别对应于两个最亮的星系团星系，这两个峰值间距约为259千秒差距，被扩展的星系团气体包围着。通过观测数据，确定了星系团的质量，并且通过对星系团的 X 射线图像以及气体和星系团成员的速度差进行分析，确定了星系团的合并状态和特性。同时，通过强镜效分析和星系团形态分析，也对星系团的质量比和合并状态进行了进一步的限制。 <div>
-ACT-CL J0034.4+0225 is a previously unrecognized merging galaxy cluster at z = 0.38588 ± 0.00068. Our primary evidence is provided by a 21 ks Chandra image that shows two surface brightness peaks separated by ∼49″ (259 kpc) surrounded by an extended cluster gas distribution. Each gas peak contains a brightest cluster galaxy, offset from the gas peak. We collect new South African Large Telescope optical spectra that, when augmented by archival data, yield redshifts for the two BGCs and 58 other cluster members. Archival Giant Metrewave Radio Telescope and MeerKAT data reveal a radio halo that encompasses the X-ray peaks. We provide and compare three X-ray-based mass estimates (5.0 × 1014M⊙, 6.4 × 1014M⊙, and 8.6 × 1014M⊙). The Planck and ACT Sunyaev–Zel’dovich masses are ≈5.8 × 1014M⊙. We constrain the merger state and properties by comparing them to an existing suite of N-body/hydrodynamical models using the measured gas peak separation (259 kpc, projected) and radial velocity difference (0–1000 km s−1). This constrains the epoch of the merger to be within ∼100 Myr of first pericenter passage. A strong lensing analysis constrains the mass ratio to be in the range 1:1–1:20, while the cluster morphology prefers values near the equal-mass range.
 ]]></content:encoded>
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
