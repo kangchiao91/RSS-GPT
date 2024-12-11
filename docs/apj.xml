@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Varying Activity and the Burst Properties of FRB 20240114A Probed with GMRT Down to 300 MHz</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84de</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84de</guid>
 <content:encoded><![CDATA[
-
 Repeating fast radio bursts (FRBs) can exhibit a wide range of burst repetition rates, from none to hundreds of bursts per hour. Here we report the detection and characteristics of 60 bursts from the recently discovered FRB 20240114A, observed with the upgraded Giant Metrewave Radio Telescope in the frequency ranges 300–500 MHz and 550–750 MHz. The majority of the bursts show narrow emission bandwidth with Δν/ν ∼ 10%. All of the bursts we detect are faint (<10 Jy ms) and thus probe the lower end of the energy distribution. We determine the rate function for FRB 20240114A at 400 MHz and downward drift rates at 400 and 650 MHz, and we discuss our measurements in the context of the repeating FRB population. We observe sudden variations in the burst activity of FRB 20240114A over time. From our data and the publicly available information on other observations of FRB 20240114A so far, there is an indication that FRB 20240114A potentially exhibits chromaticity in its burst activity. While the burst properties of FRB 20240114A are similar to other repeating FRBs, the frequency-dependent activity, if established, could provide crucial clues to the origin of repeating FRBs. We also place the most stringent 5σ upper limits of 600 and 89 μJy on any persistent radio source (PRS) associated with FRB 20240114A at 400 and 650 MHz, respectively, and compare these with the luminosity of the known PRSs associated with FRB 121102A and FRB 190520B.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ Repeating fast radio bursts (FRBs) can exhibit a wide range of burst repetition 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8888</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8888</guid>
 <content:encoded><![CDATA[
-
 Inverse Compton (IC) emission associated with the nonthermal component of the intracluster medium (ICM) has been a long-sought phenomenon in cluster physics. Traditional spectral fitting often suffers from the degeneracy between the two-temperature thermal (2T) spectrum and the one-temperature plus IC power-law (1T+IC) spectrum. We present a semisupervised deep-learning approach to search for IC emission in galaxy clusters. We employ a conditional autoencoder (CAE), which is based on an autoencoder with latent representations trained to constrain the thermal parameters of the ICM. The algorithm is trained and tested using synthetic NuSTAR X-ray spectra with instrumental and astrophysical backgrounds included. The training data set only contains 2T spectra, which is more common than 1T+IC spectra. Anomaly detection is performed on the validation and test data sets consisting of 2T spectra as the normal set and 1T+IC spectra as anomalies. With a threshold anomaly score, chosen based on cross validation, our algorithm is able to identify spectra that contain an IC component in the test data set, with a balanced accuracy (BAcc) of 0.64, which outperforms traditional spectral fitting (BAcc = 0.55) and ordinary autoencoders (BAcc = 0.55). Traditional spectral fitting is better at identifying IC cases among true IC spectra (a better recall), while IC predictions made by CAE have a higher chance of being true IC cases (a better precision), demonstrating that they mutually complement each other.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@ Inverse Compton (IC) emission associated with the nonthermal component of the in
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a61</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a61</guid>
 <content:encoded><![CDATA[
-
 We analyzed the global and resolved properties of approximately 1240 nearby star-forming galaxies from the MaNGA survey, comparing compact and extended galaxies—those with smaller and larger radii (Re), respectively—at a fixed stellar mass (M*). Compact galaxies typically exhibit lower H i gas fractions, higher dust extinction, higher metallicity, greater mass concentration, and lower angular momentum on a global scale. Radial profiles of stellar mass surface density (Σ*) and star formation rate surface density (ΣSFR) as functions of the effective radius (R/Re) reveal that compact galaxies display steeper gradients and higher values, resulting in elevated specific star formation rates (sSFRs) in their inner regions compared to their outskirts. At a given Σ*, compact galaxies have higher sSFRs than extended galaxies, particularly in low-mass galaxies (log(M*/M⊙) ≤ 1010). Additionally, their metallicity profiles differ significantly: extended galaxies have steeper metallicity gradients, while compact galaxies exhibit flatter slopes and higher metallicity at a given R/Re. After accounting for the dependence of metallicity on M* and Σ*, no further correlation with SFR is observed. The combination of higher sSFR and potentially higher star formation efficiency in compact galaxies suggests that their central gas is being rapidly consumed, leading to older stellar populations, as indicated by Dn(4000) and EW(HδA), and resulting in faster central growth. Our results reveal that radial SFR profiles cannot be fully determined by M* and Σ* alone; other factors, such as galaxy size or angular momentum, must be considered to fully understand the observed trends.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@ We analyzed the global and resolved properties of approximately 1240 nearby star
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c3a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c3a</guid>
 <content:encoded><![CDATA[
-
 In the last decade, we have been able to probe further down the galaxy luminosity function than ever before and expand into the regime of ultra-faint dwarfs (UFDs), which are some of the best probes we have of small-scale cosmology and galaxy formation. Digital sky surveys have enabled the discovery and study of these incredibly low-mass, highly dark-matter-dominated systems around the Local Group, but it is critical that we expand the satellite census further out to understand if Milky Way and M31 satellites are representative of dwarf populations in the local Universe. Using data from the Hubble Space Telescope (HST) Advanced Camera for Surveys (ACS), we present updated characterization of four satellite systems in the M81 group. These systems—D1005+68, D1006+69, DWJ0954+6821, and D1009+68—were previously discovered using ground-based Subaru Hyper Suprime-Cam data as overdensities in M81's halo, and are now confirmed with HST/ACS by this work. These are all faint (MV ≥ −7.9) and consistent with old (∼13 Gyr), metal-poor ([M/H] < −1.5) populations. Each system possesses relatively unusual features—including one of the most concentrated satellite galaxies with a Sérsic index of n ∼ 5, one of the most elliptical galaxies outside the Local Group with an ϵ ∼ 0.6, and one of the most compact galaxies for its magnitude. Two of the satellites have very low surface brightness, lower than most known galaxies in this absolute magnitude range. This work previews the scientific promise of the upcoming Rubin Observatory and Roman Telescope for illuminating the diversity of UFDs in the Local Volume and beyond.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,13 +46,10 @@ In the last decade, we have been able to probe further down the galaxy luminosit
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddd</guid>
 <content:encoded><![CDATA[
-
 The flat spectrum radio quasar PKS 1510-089 is one of the most active blazars in γ-rays, exhibiting phases of very high activity. This study investigates its variability over a decade across a wide range of wavelengths, from radio to γ-rays. Utilizing the nonthermal dominance parameter, we analyze the Hβ, Hγ, and λ5100 Å continuum light curves to discern the primary source of continuum emission, either from the accretion disk or the jet, during different activity phases. Our findings underscore the dominance of jet emission in the continuum during flare-like events. We observed an approximately 80 day delay between the Hβ and continuum emissions, which we attribute to the spatial separation between the optical emission zone and the broad-line region. Near-zero delays between optical and near-infrared emissions suggest that the emitting regions within the jet are cospatial. Synchrotron self-Compton was identified as the primary mechanism for γ-ray emission during flares, supported by the minimal delay observed between optical/near-infrared emissions and γ-rays. Additionally, we found a delay of about 60 days between the leading optical/near-infrared emissions and X-rays, indicating that inverse Compton scattering within the jet predominantly drives X-ray emission. However, distinguishing between synchrotron self-Compton and external inverse Compton mechanism was not feasible. Shifts in the spectral index across the 15–230 GHz range corresponded with ejections from the radio core, suggesting changes in the physical conditions of the jet.
 ]]></content:encoded>
-
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>An Evaluation of Different Numerical Methods to Calculate the Pitch-angle Diffusion Coefficient from Full-orbit Simulations: Disentangling a Rope of Sand</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b4a</link>
@@ -11363,68 +11353,6 @@ We present a sample of 1165 extreme emission-line galaxies (EELGs) at 4 < z < 9 
 总结:
 J0034.4+0225是一个之前未被识别的星系团，其红移为0.38588。研究发现，该星系团存在两个表面亮度峰值，分别对应于两个最亮的星系团星系，这两个峰值间距约为259千秒差距，被扩展的星系团气体包围着。通过观测数据，确定了星系团的质量，并且通过对星系团的 X 射线图像以及气体和星系团成员的速度差进行分析，确定了星系团的合并状态和特性。同时，通过强镜效分析和星系团形态分析，也对星系团的质量比和合并状态进行了进一步的限制。 <div>
 ACT-CL J0034.4+0225 is a previously unrecognized merging galaxy cluster at z = 0.38588 ± 0.00068. Our primary evidence is provided by a 21 ks Chandra image that shows two surface brightness peaks separated by ∼49″ (259 kpc) surrounded by an extended cluster gas distribution. Each gas peak contains a brightest cluster galaxy, offset from the gas peak. We collect new South African Large Telescope optical spectra that, when augmented by archival data, yield redshifts for the two BGCs and 58 other cluster members. Archival Giant Metrewave Radio Telescope and MeerKAT data reveal a radio halo that encompasses the X-ray peaks. We provide and compare three X-ray-based mass estimates (5.0 × 1014M⊙, 6.4 × 1014M⊙, and 8.6 × 1014M⊙). The Planck and ACT Sunyaev–Zel’dovich masses are ≈5.8 × 1014M⊙. We constrain the merger state and properties by comparing them to an existing suite of N-body/hydrodynamical models using the measured gas peak separation (259 kpc, projected) and radial velocity difference (0–1000 km s−1). This constrains the epoch of the merger to be within ∼100 Myr of first pericenter passage. A strong lensing analysis constrains the mass ratio to be in the range 1:1–1:20, while the cluster morphology prefers values near the equal-mass range.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Plasma Dynamics and Nonthermal Particle Acceleration in 3D Nonrelativistic Magnetic Reconnection</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6561</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6561</guid>
-<content:encoded><![CDATA[
-<div> 磁重连，等离子体动力学，非热粒子加速，大规模全粒子模拟，磁场混沌
-
-总结:<br /><br />本文通过进行大规模全粒子模拟，研究了多X线小磁通重联在弱导磁和强导磁条件下的独特三维动力学，揭示了导致磁场混沌和有效加速的机制，并实现了电子和质子的非热加速。在低导磁条件下，磁通绳扭结不稳定主导了有效加速的动力学过程；而在强导磁条件下，斜向磁通绳也参与了有效加速的主要动力学过程。电子和质子的非热加速过程受到垂直和平行电场的影响。磁场功率谱与现场磁尾观测相吻合，而谱指数可能反映了小磁通的大小分布。这项工作对于太阳物理和天体物理中的三维重联动力学和粒子加速具有广泛的意义。 <div>
-Understanding plasma dynamics and nonthermal particle acceleration in 3D magnetic reconnection has been a long-standing challenge. In this paper, we explore these problems by performing large-scale fully kinetic simulations of multi-X-line plasmoid reconnection with various parameters in both the weak- and strong-guide-field regimes. In each regime, we have identified its unique 3D dynamics that lead to field-line chaos and efficient acceleration, and we have achieved nonthermal acceleration of both electrons and protons into power-law spectra. The spectral indices agree well with a simple Fermi acceleration theory that includes guide-field dependence. In the low-guide-field regime, the flux rope kink instability governs the 3D dynamics for efficient acceleration. The weak dependence of the spectra on the ion-to-electron mass ratio and β (≪1) implies that the particles are sufficiently magnetized for Fermi acceleration in our simulations. While both electrons and protons are injected at reconnection exhausts, protons are primarily injected by perpendicular electric fields through Fermi reflections and electrons are injected by a combination of perpendicular and parallel electric fields. The magnetic power spectra agree with in situ magnetotail observations, and the spectral index may reflect a reconnection-driven size distribution of plasmoids instead of the Goldreich–Sridhar vortex cascade. As the guide field becomes stronger, the oblique flux ropes of large sizes capture the main 3D dynamics for efficient acceleration. Intriguingly, the oblique flux ropes can also experience flux rope kink instability, to drive extra 3D dynamics. This work has broad implications for 3D reconnection dynamics and particle acceleration in heliophysics and astrophysics.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Insights into the Production of 44Ti and Nickel Isotopes in Core-collapse Supernovae</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6983</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6983</guid>
-<content:encoded><![CDATA[
-<div> 44Ti, nickel isotopes, core-collapse supernova (CCSN), neutrino-driven winds, 3D models
-
-核心坍缩超新星（CCSN）模拟显示，长期模型能够产生与卡西欧座A中观察到的44Ti/56Ni比例相似的结果，并且现代超新星模型能够合成高达2×10−4M⊙的44Ti。中微子驱动的风和3D模型中同时存在吸积和爆炸是其产生的核心因素。研究得出以前CCSN模型中的44Ti产量不足问题已经不再存在。此外，研究还讨论了57Ni的产生以及稳定镍/铁比例，并将结果与SN 1987A和蟹状星云的观测进行了比较。<br /><br />总结:长期CCSN模型可以产生与观测相符合的44Ti/56Ni比例，现代超新星模型可合成高达2×10−4M⊙的44Ti。中微子驱动的风和3D模型中同时存在吸积和爆炸是其产生的核心因素。以前CCSN模型中的44Ti产量不足问题已经得到解决。另外，研究还讨论了57Ni的产生以及稳定镍/铁比例，并将结果与观测进行了比较。 <div>
-We report nucleosynthetic results for both 44Ti and nickel isotopes for 18 three-dimensional (3D) core-collapse supernova (CCSN) simulations extended to ∼20 s after bounce. We find that many of our long-term models are able to achieve 44Ti/56Ni ratios similar to that observed in Cassiopeia A, and modern supernova models can synthesize up to 2 × 10−4M⊙ of 44Ti. Neutrino-driven winds and the fact that there can be simultaneous accretion and explosion in 3D models of CCSNe play central roles in its production. We conclude that the 44Ti underproduction problem in previous CCSN models is no longer an issue. In addition, we discuss the production of both 57Ni and stable nickel/iron ratios and compare our results to observations of SN 1987A and the Crab.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Gamma-Ray Flare from TXS 1508+572: Characterizing the Jet of a z = 4.31 Blazar in the Early Universe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a4e</guid>
-<content:encoded><![CDATA[
-<div> 高红移、γ射线耀斑、TXS 1508+572、多波段观测、一区电子模型
-总结:
-高红移的TXS 1508+572是一颗非常亮的类星体，其在2022年2月至8月期间出现了高能γ射线活动，达到了与Fermi-LAT观测到的最亮耀斑相媲美的峰值亮度。通过使用XMM-Newton、Neil Gehrels Swift天文台、Effelsberg 100 m射电望远镜和非常长基线阵列进行多波段观测，研究人员发现该源在红外波段上的变化特别明显。在进行的观测活动中，所收集的光谱能量分布符合一区电子模型，γ射线耀斑是由于加速电子的新注入导致外部康普顿辐射增加造成的。 <div>
-Blazars can be detected from very large distances due to their high luminosity. However, the detection of γ-ray emission of blazars beyond z = 3 has only been confirmed for a small number of sources. Such observations probe the growth of supermassive black holes close to the peak of star formation in the history of galaxy evolution. As a result from a continuous monitoring of a sample of 80 z > 3 blazars with the Fermi Large Area Telescope (Fermi-LAT), we present the first detection of a γ-ray flare from the z = 4.31 blazar TXS 1508+572. This source showed high γ-ray activity from 2022 February to August, reaching a peak luminosity comparable to the most luminous flares ever detected with Fermi-LAT. We conducted a multiwavelength observing campaign involving XMM-Newton, the Neil Gehrels Swift Observatory, the Effelsberg 100 m radio telescope, and the Very Long Baseline Array. In addition, we make use of the monitoring programs by the Zwicky Transient Facility and the Near-Earth Object Wide-field Infrared Survey Explorer at optical and infrared wavelengths, respectively. We find that the source is particularly variable in the infrared band on daily timescales. The spectral energy distribution collected during our campaign is well described by a one-zone leptonic model, with the γ-ray flare originating from an increase of external Compton emission as a result of a fresh injection of accelerated electrons.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Explaining Muon Excess in Cosmic Rays Using the Gluon Condensation Model</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b9a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b9a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 超高能宇宙射线, 正负电子, 新理论模型, 强子相互作用, 银河系
-
-总结:<br /><br />这篇文章介绍了通过分析与空气核碰撞产生的次级宇宙射线粒子的特性间接表征超高能宇宙射线的方法。研究发现，观测到的大气深度宇宙线粒子到达地面的μ子数量明显超过了现有宇宙射线强子相互作用模型的模拟结果。为了解释这一μ子过多现象，引入了一个新的理论模型——胶子凝聚模型。这一模型假设在级联过程的第一次碰撞中出现胶子凝聚效应，导致奇异度产生显著增加，进而增加了K介子的产生率， nK/nπ大于通常的强子相互作用过程的值。该模型提供了一个新的理论可能性来解释μ子过多的难题。 <div>
-Ultrahigh-energy cosmic rays are often characterized indirectly by analyzing the properties of secondary cosmic ray particles produced in the collisions with air nuclei. The particle number Nμ of muon and the depth of shower maximum Xmax after air shower cascade are mostly studied to infer the energy and mass of the incident cosmic rays. Research has shown that there is a significant excess in the observed number of muons arriving at the ground from extensive air showers compared to the simulations using the existing cosmic ray hadronic interaction model. To explain this muon excess phenomenon, a new theoretical model, the gluon condensation model, is introduced in this paper and simulated by using the AIRES engine. We assume that the gluon condensation (GC) effect appears mainly in the first collision of the cascade, leading to a significant increase in the strangeness production, consequently, the production rate of kaons is increased, and nK/nπ is greater than the value of the usual hadronic interaction process. In the calculation, the model assumes that only pions and kaons are produced in the GC state. The increase of strange particle yield would mean that the energy transferred from the hadronic cascade to the electromagnetic cascade through π0 → 2γ decay is reduced. This would in turn increase the number of muons at the ground level due to meson decays. Our model provides a new theoretical possibility to explain the muon excess puzzle.
-]]></content:encoded>
-<pubDate>2024-10-02T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Using the Cartwheel CME to Predict Off-limb Observations of CMEs for New and Upcoming UV and EUV Spectrometers</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d58</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d58</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Coronal mass ejections, plasma properties, ultraviolet spectroscopy, Solar Orbiter, EUVST
-
-CME是太阳释放的等离子体，可能对太空和地面电子设备造成严重损坏。研究CME的触发、加速和演变对我们更好地理解它们非常重要，而了解太阳低日冕中CME等离子体特性使用高分辨率紫外和极紫外光谱学是十分关键的。虽然目前对低太阳日冕中CME的光谱解析观测很少，但随着Solar Orbiter上Spectal Imaging of the Coronal Environment的发射和未来即将上线的Solar-C上的EUVST和MUSE，我们将有机会获得前所未有的光谱解析CME观测。利用Hinode/EUV成像光谱仪对CME进行的唯一完整极紫外光谱观测，我们预测SPICE，EUVST和MUSE在日冕CME喷发期间预计将观测到的光谱，以研究每种仪器的诊断能力。最后，我们提供了CME等离子体诊断的密度敏感和温度敏感比值列表，以及每种仪器预期光谱图谱，以便进行观测序列规划。
-
-总结: <br /><br />本文介绍了关于太阳等离子体爆发的研究，重点是太阳释放的CME对太空和地面电子设备可能造成的损害，以及使用紫外和极紫外光谱学来研究CME的重要性。同时，文章介绍了Solar Orbiter，EUVST和MUSE等仪器，提出了对CME进行观测的方法，并提供了密度敏感和温度敏感比值列表，以及预期光谱图谱，以便进行观测序列规划。 <div>
-Coronal mass ejections (CMEs) expel multithermal, magnetized plasma from the Sun, and when directed toward Earth, can cause extensive damage to space and ground-based electronics. To better understand the triggering, acceleration, and evolution of CMEs, it is critical to study CME plasma properties close to the Sun. High-resolution ultraviolet and extreme ultraviolet (UV-EUV) spectroscopy can give the most detailed plasma diagnostics of CMEs in the low solar corona. Unfortunately, very few spectrally resolved observations of CMEs in the low solar corona exist. However, with the recent launch of the Spectral Imaging of the Coronal Environment on board Solar Orbiter and the upcoming missions, including the EUV High-Throughput Solar Telescope (EUVST) on Solar-C and the Multi-slit Solar Explorer (MUSE), we will have the opportunity to obtain unprecedented, spectrally resolved CME observations. Using the only full EUV spectral observation of a CME by the Hinode/EUV Imaging Spectrometer, we predict the spectra that SPICE, EUVST, and MUSE are expected to observe during an off-limb CME eruption to investigate the diagnostic capabilities of each instrument. Finally, we provide a list of density-sensitive and temperature-sensitive ratios for CME plasma diagnostics along with the expected spectral atlas for each instrument to facilitate observing sequence planning.
 ]]></content:encoded>
 <pubDate>2024-10-02T23:00:00Z</pubDate>
 </item>
