@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>A Dust Attenuation Model Inspired by the NIHAO-SKIRT-Catalog</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9334</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9334</guid>
+<content:encoded><![CDATA[
+
+We use simulated attenuation curves from the NIHAO-SKIRT-Catalog to test the flexibility of commonly used dust attenuation models in the face of the variations expected from realistic star–dust geometries. Motivated by lack of flexibility in these existing models, we propose a novel dust attenuation model with three free parameters that can accurately recover the simulated attenuation curves as well as the best-fitting curves from the commonly used models. This new model is fully analytic and treats all starlight equally, in contrast to two-component dust attenuation models. We use the parameterization to investigate the relationship between the overall attenuation law shape and the strength of the 2175 Å bump. Our results indicate variation in star–dust geometry leads these features to correlate tightly, with grayer attenuation curves having weaker bumps.
+]]></content:encoded>
+
+<pubDate>2024-12-11T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>“SNe Ia Twins for Life”: Toward a Precise Determination of H 0</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad736d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad736d</guid>
 <content:encoded><![CDATA[
-
 Here we present an approach to the measurement of extragalactic distances using twin SNe Ia, taken from the early down to the nebular phase. The approach is purely empirical, although we can give a theoretical background on why the method is reliable. By studying those twins in galaxies where peculiar velocities are relatively unimportant, we can tackle the H0 tension problem. Here we apply the method to the determination of the distances to NGC 7250 and NGC 2525, who hosted, respectively, SN 2013dy and SN 2018gv, twins of two different SNe Ia prototypes: SN 2013aa/SN 2017cbv and SN 2011fe. From the study of the SN 2013aa and SN 2017cbv twin pair, by comparing it with SN 2011fe and applying the difference between the SN 2013aa/2017cbv and the SN 2011fe class, we also find a good estimate of the distance to NGC 5643. We have just started to measure distances with the method for the samples in W.L Freedman et al. and A. G. Riess et al. There are differences in measured distances to the same galaxy using Cepheids or TRGBs. In this context of discrepancy, the “twins for life” method is very competitive because it can provide distance estimates with a modulus error of σμ = 0.04 mag. Our findings called for a revision of the distances measured with Cepheids in A. G. Riess et al. (2022). NGC 7250 and NGC 2525 needed better measurements with Cepheids. We have noticed that the Cepheids-based distance obtained with the JWST in A. G. Riess et al. (2024a) for NGC 5643 is in good agreement with what we find, unlike their previous estimate in A. G. Riess et al. (2022). The Hubble tension can arise from the way in which the local SNe Ia sample is linked to the SNe Ia Hubble flow sample. A good calibration of SNe Ia in the local sample is needed and we have started to gather it. We also expect to apply the “twin” SNe Ia comparison from the local sample to that in galaxies with z >0.02–0.03 well into the Hubble flow to obtain a reliable value for H0. Those distant SNe Ia can be observed with the ELT or the JWST.
 ]]></content:encoded>
-
 <pubDate>2024-12-12T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ Here we present an approach to the measurement of extragalactic distances using 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d9</guid>
 <content:encoded><![CDATA[
-
 Differential Chromatic Refraction (DCR) is caused by the wavelength dependence of our atmosphere’s refractive index, which shifts the apparent positions of stars and galaxies and distorts their shapes depending on their spectral energy distributions. While this effect is typically mitigated and corrected for in imaging observations, we investigate how DCR can instead be used to our advantage to infer the redshifts of supernovae from multiband, time-series imaging data. We simulate Type Ia supernovae in the proposed Vera C. Rubin Observatory Legacy Survey of Space and Time Deep Drilling Field, and evaluate astrometric redshifts. We find that the redshift accuracy improves dramatically with the statistical quality of the astrometric measurements as well as with the accuracy of the astrometric solution. For a conservative choice of a 5 mas systematic uncertainty floor, we find that our redshift estimation is accurate at z < 0.6. We then combine our astrometric redshifts with both host-galaxy photometric redshifts and supernovae photometric (light-curve) redshifts and show that this considerably improves the overall redshift estimates. These astrometric redshifts will be valuable, especially since Rubin will discover a vast number of supernovae for which we will not be able to obtain spectroscopic redshifts.
 ]]></content:encoded>
-
 <pubDate>2024-12-12T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@ Differential Chromatic Refraction (DCR) is caused by the wavelength dependence o
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8637</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8637</guid>
 <content:encoded><![CDATA[
-
 We report Atacama Large Millimeter/submillimeter Array and Atacama Compact Array observations of atomic carbon ([C i](1–0)) and dust continuum in 10 enormous Lyα nebulae hosting ultraluminous Type-I QSOs at z = 2.2–2.5, as part of the Survey of Protocluster ELANe Revealing CO/C i in the Lyα Detected CGM. We detect [C i](1–0) and dust in all 10 QSOs and five companion galaxies. We find that the QSOs and companions have higher gas densities and more intense radiation fields than Luminous Infrared galaxies and high-z main sequence galaxies, with the highest values found in the QSOs. By comparing molecular gas masses derived from [C i](1–0), CO(4−3), and dust continuum, we find that the QSOs and companions display a similar low CO conversion factor of αCO ∼ 0.8 M☉ . After tapering our data to low resolution, the [C i](1–0) flux increases for nine QSOs, hinting at the possibility of [C i](1–0) in the circumgalactic medium (CGM) on a scale of 16−40 kpc. However, the [C i](1–0) sensitivity is too low to confirm this for individual targets, except for a tentative (2.7σ) CGM detection in Q0050+0051 with = (1.0–2.8) × 1010M☉. The 3σ mass limits of molecular CGM for the remaining QSO fields are (0.2–1.4) × 1010M☉. This translates into a baryon fraction of <0.4%–3% in the molecular CGM relative to the total baryonic halo mass. Our sample also includes a radio-detected active galactic nuclei, Q1416+2649, which shows [C i](1–0) and CO(4−3) luminosities an order of magnitude fainter for its far-infrared luminosity than other QSOs in our sample, possibly due to a lower molecular gas mass.
 ]]></content:encoded>
-
 <pubDate>2024-12-12T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>GRB 211024B: An Ultra-long GRB Powered by Magnetar</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8886</link>
@@ -11303,44 +11308,6 @@ This paper investigates the origin of the γ-ray emission from MGRO J1908+06 in 
 <div> PG 1448+273, Seyfert 1, X-ray observations, outflow, accretion<br />
 新的X射线观测揭示了PG 1448+273具有快速的吸积盘风，其最大终端速度达到目前为止已知的最快风之一，为0.43倍光速。这表明该风的质量流出率可能达到Eddington吸积率的显著部分。这一发现增加了对这一邻近活跃星系核的了解，并提供了宝贵的信息来研究其吸积过程。总结：<br /><br />总结: 新的X射线观测揭示了PG 1448+273具有快速的吸积盘风，其最大终端速度达到目前为止已知的最快风之一，为0.43倍光速。这表明该风的质量流出率可能达到Eddington吸积率的显著部分。这一发现增加了对这一邻近活跃星系核的了解，并提供了宝贵的信息来研究其吸积过程。 <div>
 PG 1448+273 is a luminous, nearby (z = 0.0645), narrow-line Seyfert 1 galaxy, which likely accretes close to the Eddington limit. Previous X-ray observations of PG 1448+273 with XMM-Newton in 2017 and NuSTAR in 2022 revealed the presence of an ultrafast outflow, as seen through its blueshifted iron (Fe) K absorption profile, where the outflow velocity appeared to vary in the range 0.1−0.3c. In this work, new X-ray observations of PG 1448+273 are presented, in the form of four simultaneous XMM-Newton and NuSTAR observations performed in 2023 July and August. The X-ray spectra appeared at a similar flux in each observation, making it possible to analyze the mean 2023 X-ray spectrum at high signal-to-noise ratio. A broad (σ = 1 keV) and highly blueshifted (E = 9.8 ± 0.4 keV) Fe K absorption profile is revealed in the mean spectrum. The profile can be modeled by a fast, geometrically thick accretion disk wind, which reveals a maximum terminal velocity of v∞ = −0.43 ± 0.03c, one of the fastest known winds in a nearby active galactic nucleus. As a result, the inferred mass outflow rate of the wind may reach a significant fraction of the Eddington accretion rate.
-]]></content:encoded>
-<pubDate>2024-10-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>CHIANTI—An Atomic Database for Emission Lines—Paper. XVIII. Version 11, Advanced Ionization Equilibrium Models: Density and Charge Transfer Effects</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6765</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6765</guid>
-<content:encoded><![CDATA[
-<div> ionization equilibrium, solar transition region, synthetic spectrum, atomic models, radiative recombination
-
-总结:<br /><br />这篇文章介绍了chianti数据库和软件包的第11版，主要介绍了增加的离子平衡模型对太阳过渡区的影响，以及新的原子模型对UV强线辐射的预测和实际观测结果的比较。新模型对于研究过渡区以及高密度天体和实验室等等方面都有更好的适用性。此外，还介绍了更新和添加的离子数据集以及辐射复合能量损失率的更新。 <div>
-Version 11 of the chianti database and software package is presented. Advanced ionization equilibrium models have been added for low charge states of seven elements (C, N, O, Ne, Mg, Si, and S), and represent a significant improvement especially when modeling the solar transition region. The models include the effects of higher electron density and charge transfer on ionization and recombination rates. As an illustration of the difference these models make, a synthetic spectrum is calculated for an electron pressure of 7 × 1015 cm−3 K and compared with an active region observation from HRTS. Increases are seen in factors of 2–5 in the predicted radiances of the strongest lines in the UV from Si iv, C iv, and N v, compared to the previous modeling using the coronal approximation. Much better agreement (within 20%) with the observations is found for the majority of the lines. The new atomic models better equip both those who are studying the transition region and those who are interpreting the emission from higher-density astrophysical and laboratory plasma. In addition to the advanced models, several ion data sets have been added or updated, and data for the radiative recombination energy loss rate have been updated.
-]]></content:encoded>
-<pubDate>2024-10-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Dark Energy Camera Magellanic Clouds Emission-line Survey</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6766</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6766</guid>
-<content:encoded><![CDATA[
-<div> DECam, CTIO Blanco 4m telescope, DeMCELS, LMC, emission-line survey
-<br />
-使用Dark Energy Camera (DECam) 在CTIO Blanco 4m 望远镜上进行了大麦哲伦星云 (LMC) 的新发射线调查，使用窄带Hα和[S ii]滤光片，以及一个连续波段来创建纯发射线图像。我们将这项新调查称为DeMCELS，以区别于早期的大麦哲伦星云发射线调查 (MCELS)。DeMCELS覆盖约54平方度，包括LMC的大部分明亮光学盘。由于DECam的像素大小仅为0.″27，我们的DeMCELS调查在分辨率上改进了3-5倍，与MCELS的深度相当，Hα和[S ii]的表面亮度限制分别为和。DeMCELS提供了关于各种尺度的星云的详细形态信息，从最大的超级泡沫到单个H ii区和超新星遗迹，再到包围单个恒星的发射气泡，甚至是LMC的弥散电离气体中的微弱结构。许多复杂的发射区域显示出[S ii] / Hα比值的显着变化，这表明了来自恒星风和/或超新星的冲击与嵌入式热年轻恒星的光电离的混合。我们介绍了这项调查的观测策略和数据处理的细节，并展示了与先前数据的比较结果。小麦哲伦星云的相关项目正在进行中，将另行报告。我们通过NOIRLab的数据实验室网站向整个社区提供这些新数据。 <div>
-We have used the Dark Energy Camera (DECam) on the CTIO Blanco 4 m telescope to perform a new emission-line survey of the Large Magellanic Cloud (LMC) using narrowband Hα and [S ii] filters in addition to a continuum band to create pure emission-line images. We refer to this new survey as DeMCELS, to distinguish it from the earlier Magellanic Cloud Emission-line Survey (MCELS). DeMCELS covers ∼54 deg2, encompassing most of the bright optical disk of the LMC. With DECam's pixel size of only 0.″27, our DeMCELS survey provides a seeing-limited improvement of 3–5 times over MCELS and is comparable in depth, with surface brightness limits of and in Hα and [S ii], respectively. DeMCELS provides detailed morphological information on nebulae of all scales, from the largest supershells to individual H ii regions and supernova remnants, to bubbles of emission surrounding individual stars, and even to faint structures in the diffuse ionized gas of the LMC. Many complex regions of emission show significant variations in the ratio of [S ii] to Hα—a sign of a mixture of shocks from stellar winds and/or supernovae with photoionization by embedded hot, young stars. We present the details of the observing strategy and data processing for this survey, and show selected results in comparison with previous data. A companion project for the Small Magellanic Cloud is in progress and will be reported separately. We are making these new data available to the community at large via NOIRLab’s Data Lab site.
-]]></content:encoded>
-<pubDate>2024-10-03T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The A2Π–X2Σ+ Band System of YO</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e79</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e79</guid>
-<content:encoded><![CDATA[
-<div> S stars, spectra, Fourier transform spectrometer, rotational analysis, line list
-<br /><br />
-S stars的光谱中存在着显著的YO带。本研究使用傅立叶变换光谱仪记录了A2Π–X2Σ+电子跃迁的实验室光谱，使用复合壁空心阴极灯作为光源。对v″ ≤ 4的A2Π–X2Σ+跃迁进行了旋转分析，使用现代光谱拟合程序PGOPHER。利用从头算的跃迁偶极矩函数计算了振动带强度。提供了A2Π–X2Σ+跃迁的谱线表，并可用于对S stars进行建模。 
-<br /><br />总结: 
-S stars的光谱中存在显著的YO带。研究使用傅立叶变换光谱仪进行实验室光谱记录，并进行了A2Π–X2Σ+跃迁的旋转分析。通过振动带强度的计算和谱线表的提供，可以在S stars的建模中应用这些结果。 <div>
-YO bands are conspicuous in the spectra of S stars. The laboratory spectrum of the A2Π–X2Σ+ electronic transition has been recorded with a Fourier transform spectrometer using a composite-wall hollow cathode lamp source. The A2Π–X2Σ+ transition with and v″ ≤ 4 has been rotationally analyzed using the modern spectral fitting program PGOPHER. Vibronic band strengths were calculated using an ab initio transition dipole moment function. A line list for the A2Π–X2Σ+ transition is provided and can be utilized in the modeling of S stars.
 ]]></content:encoded>
 <pubDate>2024-10-03T23:00:00Z</pubDate>
 </item>
