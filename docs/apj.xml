@@ -5,17 +5,37 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>X-Ray and Spectral Ultraviolet Observations of Periodic Pulsations in a Solar Flare Fan/Looptop</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ed1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ed1</guid>
+<content:encoded><![CDATA[
+
+We present simultaneous X-ray and spectral ultraviolet observations of strikingly coherent oscillations in emission from a coronal looptop and fan structure, during the impulsive phase of a long-duration M-class solar flare. The ≈50 s oscillations are observed near in-phase by Solar Orbiter/STIX, GOES, and IRIS Fe xxi intensity, Doppler, and nonthermal velocity. For over 5 minutes of their approximate 35 minute duration, the oscillations are so periodic (2σ above the power-law background) that they are better described as “periodic pulsations” than the more widely documented “quasiperiodic pulsations” often observed during solar flares. By combining time-series analysis of the multi-instrument data sets with comparison to magnetohydrodynamic simulations, we attribute the oscillations to the magnetic tuning fork in the flare looptop–fan region, and betatron acceleration within the lower-altitude flare loops. These interpretations are possible due to the introduced Sliding Raster Method (SliRM) for analysis of slit spectrometer (e.g., IRIS) raster data, to increase the temporal cadence of the observations at the expense of spatial information.
+]]></content:encoded>
+
+<pubDate>2024-12-13T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Multizone Modeling of Black Hole Accretion and Feedback in 3D GRMHD: Bridging Vast Spatial and Temporal Scales</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9561</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9561</guid>
+<content:encoded><![CDATA[
+
+Simulating accretion and feedback from the horizon scale of supermassive black holes (SMBHs) out to galactic scales is challenging because of the vast range of scales involved. Elaborating on H. Cho et al., we describe and test a “multizone” technique, which is designed to tackle this difficult problem in three-dimensional general relativistic magnetohydrodynamic (GRMHD) simulations. While short-timescale variability should be interpreted with caution, the method is demonstrated to be well-suited for finding dynamical steady states over a wide dynamic range. We simulate accretion on a nonspinning SMBH (a* = 0) using initial conditions and the external galactic potential from a large-scale galaxy simulation and achieve a steady state over eight decades in radius. As found in H. Cho et al., the density scales with radius as ρ ∝ r−1 inside the Bondi radius RB, which is located at RB = 2 × 105rg (≈60 pc for M87), where rg is the gravitational radius of the SMBH; the plasma-β is ∼ unity, indicating an extended magnetically arrested state; the mass accretion rate is ≈1% of the analytical Bondi accretion rate and there is continuous energy feedback out to ≈100RB (or beyond > kpc) at a rate . Surprisingly, no ordered rotation in the external medium survives as the magnetized gas flows to smaller radii, and the final steady solution is very similar to when the exterior has no rotation. Using the multizone method, we simulate GRMHD accretion over a wide range of Bondi radii, RB ∼ 102−107rg, and find that .
+]]></content:encoded>
+
+<pubDate>2024-12-13T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Exact Nonlinear Decomposition of Ideal-MHD Waves Using Eigenenergies. II. Fully Analytical Equations and Pseudoadvective Eigenenergies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc8</guid>
 <content:encoded><![CDATA[
-
 Physical insight into plasma evolution in the magnetohydrodynamic (MHD) limit can be revealed by decomposing the evolution according to the characteristic modes of the system. In this paper we explore aspects of the eigenenergy decomposition method (EEDM) introduced in an earlier study (ApJ, 967:80). The EEDM provides an exact decomposition of nonlinear MHD disturbances into their component eigenenergies associated with the slow, Alfvén, and fast eigenmodes, together with two zero-frequency eigenmodes. Here we refine the EEDM by presenting globally analytical expressions for the eigenenergies. We also explore the nature of the zero-frequency “pseudoadvective (PA) modes” in detail. We show that in evolutions with pure advection of magnetic and thermal energy (without propagating waves), a part of the energy is carried by the PA modes. Exact expressions for the error terms associated with these modes—commonly encountered in numerical simulations—are also introduced. The new EEDM equations provide a robust tool for the exact and unique decomposition of nonlinear disturbances governed by homogeneous quasi-linear partial differential equations, even in the presence of local or global degeneracies.
 ]]></content:encoded>
-
 <pubDate>2024-12-12T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Effects of Background Solar Wind and Drag Force on the Propagation of Coronal-mass-ejection-driven Shocks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ee</link>
@@ -11254,18 +11274,6 @@ In this paper we describe the survey design for the Ultradeep NIRSpec and NIRCam
 <div> 黑洞X射线双星，光谱-时间分析，AstroSat，NICER，辐射和时间特性。<br />
 该研究通过AstroSat和NICER在2017年对黑洞X射线双星源GRS 1915+105的同时观测进行了光谱-时间分析。结果表明，源表现出两个通量水平（高和低），其能谱可以用盘光子的热康普顿散射来描述。通过SXT/LAXPC和NICER/LAXPC的联合拟合获得的光谱参数是一致的。LAXPC和NICER的功率密度谱显示了一个约2赫兹的宽突出特征。这一特征的能量依赖性不能仅通过冠层光谱参数的变化来解释，而是需要一个模型来解释冠层加热速率的变化首先引起了盘温度和内半径的变化。我们的结果强调了AstroSat和NICER的同时观测的重要性，并强调了需要更复杂的模型来解释黑洞系统的光谱-时间行为。<br /><br />总结: 该研究利用AstroSat和NICER对黑洞X射线双星进行了光谱-时间分析，揭示了源的能谱和时间特性。研究结果表明，同时观测对于理解黑洞系统非常重要，并强调了需要更复杂的模型来解释这一行为。 <div>
 In this study, we undertake a spectral-timing analysis of the black hole X-ray binary source GRS 1915+105 using simultaneous observations carried out by AstroSat (Large Area X-ray Proportional Counter, LAXPC and Soft X-ray Telescope, SXT) and Neutron Star Interior Composition Explorer (NICER) in 2017. The source showed two flux levels (high and low), whose energy spectra can be described by the thermal comptonization of disk photons. The spectral parameters obtained by the joint fitting of SXT/LAXPC and NICER/LAXPC were consistent. The power density spectra from LAXPC and NICER revealed a broad, prominent feature at ∼2 Hz. The energy dependence of the fractional rms and time lag of this feature cannot be explained by only variations of coronal spectral parameters. Instead, a model where the coronal heating rate varies first and induces a change in the disk temperature and inner radius can explain the variation. Our results underline the importance of simultaneous observations by AstroSat and NICER and highlight the need for more sophisticated models to explain the spectral-temporal behavior of black hole systems.
-]]></content:encoded>
-<pubDate>2024-10-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Spectroastrometry and Reverberation Mapping of Active Galactic Nuclei. I. The Hβ Broad-line Region Structure and Black Hole Masses of Five Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6906</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6906</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Reverberation mapping, Broad-line region, Spectroastrometric observations, Active galactic nuclei, Very Large Telescope Interferometer
-
-总结: <br /><br />该研究报告了对选定的明亮活动星系核进行的回响映射(RM)观测活动，旨在通过极大望远镜干涉仪上的GRAVITY仪器进行光谱测量，以充分监测其预期较大的广谱线区域(BLR)的大小。我们对五个对象IC 4329A、Mrk 335、Mrk 509、Mrk 1239和PDS 456的首次结果进行了报告，并且首次对Mrk 1239和PDS 456进行了光谱监测。我们获得了多年的监测数据，并进行了多组分光谱分解，以提取宽Hβ轮廓。我们检测到Hβ和连续变化之间存在显著的时间延迟，总体上与先前建立的BLR大小 - 亮度关系相吻合。速度分辨的Hβ时间延迟揭示了多样化的、可能是进化的BLR动力学。我们还从均值和rms光谱中测量了Hβ线宽，由此得到的毗律产品在不同观测季节之间表现出良好的一致性。采用统一的毗律因子和mean光谱中宽Hβ线的FWHM作为速度的度量，得到的黑洞质量分别为，，，和。我们还报告了使用其他线宽度度量方法进行的黑洞质量估算。对于之前进行过RM活动的对象，我们的质量估计与早先的结果一致。在附带的论文中，我们将使用BLR动力学建模来直接推测黑洞质量，从而确定毗律因子。 <div>
-We conduct a reverberation mapping (RM) campaign to spectroscopically monitor a sample of selected bright active galactic nuclei with large anticipated broad-line region (BLR) sizes adequate for spectroastrometric (SA) observations by the GRAVITY instrument on the Very Large Telescope Interferometer. We report the first results for five objects, IC 4329A, Mrk 335, Mrk 509, Mrk 1239, and PDS 456, among which Mrk 1239 and PDS 456 are for the first time spectroscopically monitored. We obtain multiyear monitoring data and perform multicomponent spectral decomposition to extract the broad Hβ profiles. We detect significant time lags between the Hβ and continuum variations, generally obeying the previously established BLR size–luminosity relation. Velocity-resolved Hβ time lags illustrate diverse, possibly evolving, BLR kinematics. We further measure the Hβ line widths from mean and rms spectra and the resulting virial products show good consistency among different observing seasons. Adopting a unity virial factor and the FWHM of the broad Hβ line from the mean spectra as a measure of velocity, the obtained black hole masses averaged over seasons are , , , , and for the five objects, respectively. Black hole mass estimations using other line width measures are also reported. For objects with previous RM campaigns, our mass estimates are in agreement with earlier results. In a companion paper, we will employ BLR dynamical modeling to directly infer the black hole mass and thereby determine the virial factors.
 ]]></content:encoded>
 <pubDate>2024-10-06T23:00:00Z</pubDate>
 </item>
