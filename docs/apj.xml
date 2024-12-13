@@ -5,17 +5,26 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Exact Nonlinear Decomposition of Ideal-MHD Waves Using Eigenenergies. II. Fully Analytical Equations and Pseudoadvective Eigenenergies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc8</guid>
+<content:encoded><![CDATA[
+
+Physical insight into plasma evolution in the magnetohydrodynamic (MHD) limit can be revealed by decomposing the evolution according to the characteristic modes of the system. In this paper we explore aspects of the eigenenergy decomposition method (EEDM) introduced in an earlier study (ApJ, 967:80). The EEDM provides an exact decomposition of nonlinear MHD disturbances into their component eigenenergies associated with the slow, Alfvén, and fast eigenmodes, together with two zero-frequency eigenmodes. Here we refine the EEDM by presenting globally analytical expressions for the eigenenergies. We also explore the nature of the zero-frequency “pseudoadvective (PA) modes” in detail. We show that in evolutions with pure advection of magnetic and thermal energy (without propagating waves), a part of the energy is carried by the PA modes. Exact expressions for the error terms associated with these modes—commonly encountered in numerical simulations—are also introduced. The new EEDM equations provide a robust tool for the exact and unique decomposition of nonlinear disturbances governed by homogeneous quasi-linear partial differential equations, even in the presence of local or global degeneracies.
+]]></content:encoded>
+
+<pubDate>2024-12-12T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Effects of Background Solar Wind and Drag Force on the Propagation of Coronal-mass-ejection-driven Shocks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ee</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ee</guid>
 <content:encoded><![CDATA[
-
 The propagation of interplanetary shocks, particularly those driven by coronal mass ejections (CMEs), is still an outstanding question in heliophysics and space weather forecasting. Here, we address the effects of the ambient solar wind on the propagation of two similar CME-driven shocks from the Sun to Earth. The two shock events (CME03, 2010 April 3; CME12, 2012 July 12) have the following properties. Both events (1) were driven by a halo CME (i.e., the source location is near the Sun–Earth line); (2) had a CME source in the southern hemisphere; (3) had a similar transit time (∼2 days) to Earth; (4) occurred in a nonquiet solar period; and (5) led to a severe geomagnetic storm. The initial (near the Sun) propagation speed, as measured by coronagraph images, was slower (by ∼300 km s−1) for CME03 than CME12, but it took about the same amount of traveling time for both events to reach Earth. According to the in situ solar wind observations from the Wind spacecraft, the CME03-driven shock was associated with a faster solar wind upstream of the shock than the CME12-driven shock. This is also demonstrated in our global MHD simulations. Analysis of our simulation result indicates that the drag force indirectly plays an important role in the shock propagation. The present study suggests that in addition to the initial CME propagation speed near the Sun, the shock speed (in the inertial frame) and the ambient solar wind conditions—in particular, the solar wind speed—are key to timing the arrival of CME-driven shock events.
 ]]></content:encoded>
-
 <pubDate>2024-12-13T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Gone with the Molecular Wind: Photoevaporation in the Compact Dust Disk around CX Tau</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e16</link>
@@ -11257,18 +11266,6 @@ In this study, we undertake a spectral-timing analysis of the black hole X-ray b
 
 总结: <br /><br />该研究报告了对选定的明亮活动星系核进行的回响映射(RM)观测活动，旨在通过极大望远镜干涉仪上的GRAVITY仪器进行光谱测量，以充分监测其预期较大的广谱线区域(BLR)的大小。我们对五个对象IC 4329A、Mrk 335、Mrk 509、Mrk 1239和PDS 456的首次结果进行了报告，并且首次对Mrk 1239和PDS 456进行了光谱监测。我们获得了多年的监测数据，并进行了多组分光谱分解，以提取宽Hβ轮廓。我们检测到Hβ和连续变化之间存在显著的时间延迟，总体上与先前建立的BLR大小 - 亮度关系相吻合。速度分辨的Hβ时间延迟揭示了多样化的、可能是进化的BLR动力学。我们还从均值和rms光谱中测量了Hβ线宽，由此得到的毗律产品在不同观测季节之间表现出良好的一致性。采用统一的毗律因子和mean光谱中宽Hβ线的FWHM作为速度的度量，得到的黑洞质量分别为，，，和。我们还报告了使用其他线宽度度量方法进行的黑洞质量估算。对于之前进行过RM活动的对象，我们的质量估计与早先的结果一致。在附带的论文中，我们将使用BLR动力学建模来直接推测黑洞质量，从而确定毗律因子。 <div>
 We conduct a reverberation mapping (RM) campaign to spectroscopically monitor a sample of selected bright active galactic nuclei with large anticipated broad-line region (BLR) sizes adequate for spectroastrometric (SA) observations by the GRAVITY instrument on the Very Large Telescope Interferometer. We report the first results for five objects, IC 4329A, Mrk 335, Mrk 509, Mrk 1239, and PDS 456, among which Mrk 1239 and PDS 456 are for the first time spectroscopically monitored. We obtain multiyear monitoring data and perform multicomponent spectral decomposition to extract the broad Hβ profiles. We detect significant time lags between the Hβ and continuum variations, generally obeying the previously established BLR size–luminosity relation. Velocity-resolved Hβ time lags illustrate diverse, possibly evolving, BLR kinematics. We further measure the Hβ line widths from mean and rms spectra and the resulting virial products show good consistency among different observing seasons. Adopting a unity virial factor and the FWHM of the broad Hβ line from the mean spectra as a measure of velocity, the obtained black hole masses averaged over seasons are , , , , and for the five objects, respectively. Black hole mass estimations using other line width measures are also reported. For objects with previous RM campaigns, our mass estimates are in agreement with earlier results. In a companion paper, we will employ BLR dynamical modeling to directly infer the black hole mass and thereby determine the virial factors.
-]]></content:encoded>
-<pubDate>2024-10-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Repeating Nuclear Transients from Repeating Partial Tidal Disruption Events: Reproducing ASASSN-14ko and AT2020vdq</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a5a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6a5a</guid>
-<content:encoded><![CDATA[
-<div> SMBH, rpTDE, accretion flares, tidal disruption, repeating transients
-<br /><br />
-这篇文章研究了来自遥远星系核的一些电磁突发现象，发现其在几个月至几年的时间尺度上重复，并且每个源都可以由超大质量黑洞周围的重复潮汐撕裂产生的吸积耀斑而来。研究通过分析估计和流体力学模拟，测试了rpTDE模型，发现高质量（≳1M⊙）演化恒星可以在与SMBH的多次碰撞中存活，并且几乎不损失质量，从而产生近乎相同振幅的定期吸积耀斑，这与ASASSN-14ko的表现相符。此外，星体受到潮汐力传递的能量可以导致其轨道周期的变化，这与ASASSN-14ko吸积耀斑重现时间的观测衰减相当。相反，低质量和未演化的恒星在相同近日点距离下会逐渐损失更多质量，从而产生更明亮的吸积耀斑，导致星体迅速毁灭和耀斑停止。这也说明了重复瞬变的光变曲线与恒星类型密切相关。总结：研究发现重复瞬变的光变曲线与恒星类型密切相关，高质量演化恒星能够产生近乎相同振幅的定期吸积耀斑，而低质量未演化的恒星则会产生更明亮的吸积耀斑并迅速毁灭。 <div>
-Some electromagnetic outbursts from the nuclei of distant galaxies have been found to repeat on months-to-years timescales, and each of these sources can putatively arise from the accretion flares generated through the repeated tidal stripping of a star on a bound orbit about a supermassive black hole (SMBH), i.e., a repeating partial tidal disruption event (rpTDE). Here, we test the rpTDE model through analytical estimates and hydrodynamical simulations of the interaction between a range of stars, which differ from one another in mass and age, and an SMBH. We show that higher-mass (≳1M⊙), evolved stars can survive many (≳10−100) encounters with an SMBH while simultaneously losing few × 0.01M⊙, resulting in accretion flares that are approximately evenly spaced in time with nearly the same amplitude, quantitatively reproducing ASASSN-14ko. We also show that the energy imparted to the star via tides can lead to a change in its orbital period that is comparable to the observed decay in the recurrence time of ASASSN-14ko’s flares, . Contrarily, lower-mass and less-evolved stars lose progressively more mass and produce brighter accretion flares on subsequent encounters for the same pericenter distances, leading to the rapid destruction of the star and cessation of flares. Such systems cannot reproduce ASASSN-14ko-like transients, but are promising candidates for recreating events such as AT2020vdq, which displayed a second and much brighter outburst compared to the first. Our results imply that the lightcurves of repeating transients are tightly coupled with stellar type.
 ]]></content:encoded>
 <pubDate>2024-10-06T23:00:00Z</pubDate>
 </item>
