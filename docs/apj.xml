@@ -5,14 +5,90 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>New Evidence for a Flux-independent Spectral Index of Sgr A* in the Near-infrared</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ac6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ac6</guid>
+<content:encoded><![CDATA[
+
+In this work, we measure the spectral index of Sagittarius A* (Sgr A*) between the H (1.6 μm) and (2.2 μm) broadband filters in the near-infrared (NIR), sampling over a factor ∼40 in brightness, the largest range probed to date by a factor ∼3. Sgr A*-NIR is highly variable, and studying the spectral index α (with Fν ∝ να) is essential to determine the underlying emission mechanism. For example, variations in α with flux may arise from shifts in the synchrotron cutoff frequency, changes in the distribution of electrons, or multiple concurrent emission mechanisms. We investigate potential variations of with flux by analyzing seven epochs (2005–2022) of Keck Observatory imaging observations from the Galactic Center Orbits Initiative. We remove the flux contribution of known sources confused with SgrA*-NIR, which can significantly impact color at faint flux levels. We interpolate between the interleaved H and observations using multi-output Gaussian processes. We introduce a flexible empirical model to quantify α variations and probe different scenarios. The observations are best fit by an that is constant from ∼1 mJy to ∼40 mJy (dereddened 2 μm flux). We find no evidence for a flux dependence of Sgr A*'s intrinsic spectral index. In particular, we rule out a model explaining NIR variability purely by shifts in the synchrotron cutoff frequency. We also constrain the presence of redder, quiescent emission from the black hole, concluding that the dereddened 2 μm flux contribution must be ≤0.3 mJy at 95% confidence level.
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Convective Mixing in Gas Giant Planets with Primordial Composition Gradients</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd0</guid>
+<content:encoded><![CDATA[
+
+Linking atmospheric measurements to the bulk planetary composition and ultimately the planetary origin is a key objective in planetary science. In this work, we identify the cases in which the atmospheric composition represents the bulk composition. We simulate the evolution of giant planets considering a wide range of planetary masses (0.3–2 MJ), initial entropies ( ), and primordial heavy-element profiles. We find that convective mixing is most efficient at early times (ages ≲107 yr) and that primordial composition gradients can be eroded. In several cases, however, the atmospheric composition can differ widely from the planetary bulk composition, with the exact outcome depending on the details. We show that the efficiency of convection is primarily controlled by the underlying entropy profile: For low primordial entropies of , convective mixing can be inhibited and composition gradients can persist over billions of years. The scaling of mixing efficiency with mass is governed by the primordial entropy. For the same primordial entropy, low-mass planets mix more efficiently than high-mass planets. If the primordial internal entropy would increase with mass, however, this trend could reverse. We also present a new analytical model that predicts convective mixing under the existence of composition (and entropy) gradients. Our results emphasize the complexity in the interpretation of atmospheric abundance measurements and show the great need to better understand the planetary formation process as it plays a key role in determining the planetary evolution and final structure.
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Large-scale Magnetic Field Model of GRB Afterglow Polarization: Effects of Field Anisotropy, Off-axis Viewing Angle, and Ordered Field</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad900b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad900b</guid>
+<content:encoded><![CDATA[
+
+The afterglows of gamma-ray bursts are nonthermal electron synchrotron emissions from relativistic shocks. The origin of strong magnetic field in the emission region remains elusive, and two field amplification mechanisms via the plasma kinetic and magnetohydrodynamic instabilities have been discussed. The polarimetric observations are a powerful probe to distinguish these two mechanisms. So far, most theoretical works have focused on the former mechanism and constructed afterglow polarization models with microscopic-scale turbulence whose coherence length is much smaller than the thickness of the blast wave. In this work, focusing on the latter mechanism, we utilize our semianalytic model of the synchrotron polarization with large-scale turbulence whose coherence length is comparable to the thickness of the blast wave to investigate the effect of magnetic field anisotropy and the observer viewing angle. We find that the polarization in our large-scale turbulence model can exhibit both behaviors characteristic of the microscopic-scale turbulence model and those not seen in the microscopic-scale model. Then we find that the large-scale model could explain all the polarimetric observational data to date that seem to be forward shock emission. We also examine the effect of ordered-field components and find that polarization degree and polarization angle constant in time are realized only when the energy density ratio of the ordered and fluctuated components is ≳50. In this case, however, the polarization degree is much higher than the observed values.
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Fast and Flexible Inference Framework for Continuum Reverberation Mapping Using Simulation-based Inference with Deep Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad900d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad900d</guid>
+<content:encoded><![CDATA[
+
+Continuum reverberation mapping (CRM) of active galactic nuclei (AGN) monitors multiwavelength variability signatures to constrain accretion disk structure and supermassive black hole (SMBH) properties. The upcoming Vera Rubin Observatory’s Legacy Survey of Space and Time will survey tens of millions of AGN over the next decade, with thousands of AGN monitored with almost daily cadence in the deep drilling fields. However, existing CRM methodologies often require long computation time and are not designed to handle such large amounts of data. In this paper, we present a fast and flexible inference framework for CRM using simulation-based inference (SBI) with deep learning to estimate SMBH properties from AGN light curves. We use a long short-term memory summary network to reduce the high dimensionality of the light curve data and then use a neural density estimator to estimate the posterior of SMBH parameters. Using simulated light curves, we find SBI can produce more accurate SMBH parameter estimation with 103–105 times speed up in inference efficiency compared to traditional methods. The SBI framework is particularly suitable for wide-field CRM surveys as the light curves will have identical observing patterns, which can be incorporated into the SBI simulation. We explore the performance of our SBI model on light curves with irregular-sampled, realistic observing cadence and alternative variability characteristics to demonstrate the flexibility and limitation of the SBI framework.
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+<item>
+<title>PyMerger: Detecting Binary Black Hole Mergers from the Einstein Telescope Using Deep Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad901e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad901e</guid>
+<content:encoded><![CDATA[
+
+We present PyMerger, a Python tool for detecting binary black hole (BBH) mergers from the Einstein Telescope (ET), based on a deep residual neural network (ResNet) model. ResNet was trained on data combined from all three proposed subdetectors of ET (TSDCD) to detect BBH mergers. Five different lower-frequency cutoffs (Flow)—5 Hz, 10 Hz, 15 Hz, 20 Hz, and 30 Hz—with the match-filter signal-to-noise ratio (MSNR) ranges 4–5, 5–6, 6–7, 7–8, and >8 were employed in the data simulation. Compared to previous work that utilized data from a single subdetector, the detection accuracy from TSDCD has shown substantial improvements, increasing from 60%, 60.5%, 84.5%, 94.5%, and 98.5% to 78.5%, 84%, 99.5%, 100%, and 100% for sources with MSNRs of 4–5, 5–6, 6–7, 7–8, and >8, respectively. The ResNet model is evaluated on the first ET mock data challenge (ET-MDC1) data set, where the model demonstrates strong performance in detecting BBH mergers, identifying 5566 out of 6578 BBH events, with optimal SNRs starting from 1.2 and a minimum and maximum DL of 0.5 Gpc and 148.95 Gpc, respectively. Despite being trained only on BBH mergers without overlapping sources, the model achieves high BBH detection rates. Notably, even though the model was not trained on binary neutron star (BNS) and black hole-neutron star (BHNS) mergers, it successfully detected 11,477 BNS and 323BHNS mergers in ET-MDC1, with optimal SNRs starting from 0.2 and 1, respectively, indicating its potential for broader applicability.
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Jet Interaction with Galaxy Cluster Mergers</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9028</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9028</guid>
+<content:encoded><![CDATA[
+
+Active galactic nucleus (AGN) bubbles in cool-core galaxy clusters are believed to facilitate the transport of cosmic-ray electrons (CRe) throughout the cluster. Recent radio observations reveal the complex morphologies of cluster diffuse emission, potentially linked to interactions between AGN bursts and the cluster environment. We perform 3D magnetohydrodynamical simulations of binary cluster mergers and inject a bidirectional jet at the center of the main cluster. Kinetic, thermal, magnetic, and cosmic ray (CR) energy are included in the jet and we use the two-fluid formalism to model the CR component. We explore a wide range of cluster merger and jet parameters. We discuss the formation of various wide-angle-tail and X-shaped sources in the early evolution of the jet and merger. During the last phase of the evolution, we find that the CR material efficiently permeates the central region of the cluster reaching radii of ∼1–2 Mpc within ∼5–6 Gyr, depending on the merger mass ratio. We find that solenoidal turbulence dominates during the binary merger and we explore the possibility for the CR jet material to be reaccelerated by super-Alfvènic turbulence and contribute to cluster scale radio emission. We find high volume fractions, ≳70%, at which the turbulent acceleration time is shorter than the electron cooling time. Finally, we study the merger shock interaction with the CRe material and show that it is unlikely that this material significantly contributes to the radio relic emission associated with the shocks. We suggest that multiple jet outbursts and/or off-center radio galaxies would increase the likelihood of detecting these merger shocks in the radio due to shock reacceleration.
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Kicking Time Back in Black Hole Mergers: Ancestral Masses, Spins, Birth Recoils, and Hierarchical-formation Viability of GW190521</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a9</guid>
+<content:encoded><![CDATA[
+
+A pair-instability supernova (PISN) prevents black hole (BH) formation from stellar collapse within the approximate mass range M ∈ [65, 130] M⊙. However, such BHs may form hierarchically through merging ancestral BHs, whose properties determine those of the “child” one: mass, spin, and recoil velocity. Crucially, the child will leave its host environment if its birth recoil exceeds the corresponding escape velocity, preventing further mergers. We exploit relations between the final recoil and spin of quasi-circular BH mergers to obtain posterior probability distributions for the hypothetical ancestral masses, spins, and birth recoils of the component BHs of GW190521. To this, we present a Bayesian framework applicable to existing estimates for the components of BH merger observations. We consider both the quasi-circular (generically spinning) analysis performed by the LIGO–Virgo–KAGRA collaboration and the eccentric (aligned-spin) one performed by Romero-Shaw et al. We evaluate the probability p2g that the GW190521 components inferred by these analyses formed from the merger of stellar-origin BHs and were retained by their environment. For the primary component, which populates the PISN gap, such scenario is strongly suppressed if GW190521 happened in a globular cluster with p2g ∼ 10−3 unless it was quasi circular and its ancestors had aligned spins, uncharacteristic of hierarchical formation channels, or small spins, which yields p2g ≃ 10−2. If GW190521 was eccentric, we obtain p2g ≃ 0.1 for any host other than an active galactic nucleus, and zero for a globular cluster. If GW190521 was quasi circular, a nuclear star cluster origin is possible with p2g ∈ (∼0.4, ∼0.8).
+]]></content:encoded>
+
+<pubDate>2024-12-16T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Hubble Constant Anchor Galaxy NGC 4258: Metallicity and Distance from Blue Supergiants</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9279</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9279</guid>
 <content:encoded><![CDATA[
-
 A quantitative spectroscopic study of blue supergiant stars in the Hubble constant anchor galaxy NGC 4258 is presented. The non-LTE analysis of Keck I telescope LRIS spectra yields a central logarithmic metallicity (in units of the solar value) of [Z] = −0.05 ± 0.05 and a very shallow gradient of −(0.09 ± 0.11) r/r25 with respect to galactocentric distance in units of the isophotal radius. Good agreement with the mass–metallicity relationship of star-forming galaxies based on stellar absorption line studies is found. A comparison with H ii region oxygen abundances obtained from the analysis of strong emission lines shows reasonable agreement when the M. Pettini & B. E. J. Pagel calibration is used, while the D. Zaritsky et al. calibration yields values that are 0.2–0.3 dex larger. These results allow us to put the metallicity calibration of the Cepheid period–luminosity relation in this anchor galaxy on a purely stellar basis. Interstellar reddening and extinction are determined using Hubble Space Telescope and JWST photometry. Based on extinction-corrected magnitudes, combined with the stellar effective temperatures and gravities we determine, we use the flux-weighted gravity–luminosity relationship to estimate an independent spectroscopic distance. We obtain a distance modulus m − M = 29.38 ± 0.12 mag, in agreement with the geometrical distance derived from the analysis of the water maser orbits in the galaxy’s central circumnuclear disk.
 ]]></content:encoded>
-
 <pubDate>2024-12-16T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +96,10 @@ A quantitative spectroscopic study of blue supergiant stars in the Hubble consta
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9332</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9332</guid>
 <content:encoded><![CDATA[
-
 We present the broadband spectral and timing properties of the atoll source 4U 1702-429 using two observations of AstroSat with the second one having simultaneous NICER data. For both observations, the spectra can be represented by a Comptonizing medium with a blackbody seed photon source that can be identified with the surface of the neutron star. A disk emission along with a distant reflection is also required for both spectra. For the first observation, the coronal temperature (∼7 keV) is smaller than the second (∼13 keV), and the disk is truncated at a larger radius, ∼150 km, compared to the second, ∼25 km, for an assumed distance of 7 kpc. A kHz quasiperiodic oscillation (QPO) at ∼800 Hz is detected in the first and is absent in the second observation. Modeling the energy-dependent rms and time lag of the kHz QPO reveals a corona size of ≤30 km. A similar model can explain the energy dependence of the broadband noise at ∼10 Hz for the second observation. The results suggest that kHz QPOs are associated with a compact corona surrounding the neutron star and may occur when the disk is truncated at large distances. We emphasize the need for more wide-band observations of the source to confirm these results.
 ]]></content:encoded>
-
 <pubDate>2024-12-16T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>X-Ray and Spectral Ultraviolet Observations of Periodic Pulsations in a Solar Flare Fan/Looptop</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ed1</link>
@@ -11244,30 +11317,6 @@ The size, shape, and composition of the heliosphere are affected by its interact
 <br />
 Barium stars are peculiar stars with enhanced s-process elements. The paper introduces MEASNet, a data-driven method for identifying barium candidates and estimating s-process elemental abundances. MEASNet demonstrates high precision and recall in classification and accurate prediction of elemental abundances. Applying the model to LAMOST data successfully identifies a large number of barium candidates and provides abundance estimates. This catalog expands the sample size for further analysis of barium stars. The work showcases the potential value of MEASNet in star classification and abundance estimation, offering a reference for future data-driven models. <br /><br />总结: <br />Barium stars are unique stars with enhanced s-process elements. MEASNet is introduced as a method for identifying barium candidates and estimating elemental abundances. It demonstrates high precision and recall in classification and accurate prediction of abundances. The application to LAMOST data successfully identifies a large number of barium candidates and provides abundance estimates. This work highlights the potential value of MEASNet in star classification and abundance estimation, offering a reference for future data-driven models. <div>
 Barium stars are peculiar stars with enhanced slow neutron capture process (s-process) elements. Abundance analysis of them aids in better understanding the chemical evolution of the Milky Way. In this paper, we introduce a data-driven method named the memory-enhanced adaptive spectral network (MEASNet) to search for barium candidates in the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) low-resolution survey (LRS) and estimate the abundance of five s-process elements: Sr, Y, Ba, Ce, and Nd. MEASNet, trained using spectra from common stars in both LAMOST and the Galactic Archaeology with HERMES survey, showcases notable performance: for the classification task, precision = 98.22% and recall = 94.12%; in prediction, the mean absolute error for the seven elements range between 0.07 and 0.15 dex. After training, we apply the model to 4,083,003 stellar spectra from LAMOST DR10 LRS, successfully identifying 1,803,670 spectra of barium candidates ([Ba/Fe] ≥ 0.25 dex) along with their five s-process elemental abundances. The catalog enlarges the sample size, providing a wealth of data for further statistical analysis of the formation and evolution of barium stars. Meanwhile, this work highlights the potential value of MEASNet in star classification and abundance estimation, offering a strong reference for future data-driven models.
-]]></content:encoded>
-<pubDate>2024-10-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>New Versus Past Silica Crush Curve Experiments: Application to Dimorphos Benchmarking Impact Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Crush curves, silica grains, numerical modeling, impact simulations, benchmarking study
-
-总结: 本文总结了关于微粒级硅石的压碎曲线行为的过去研究，并进行了补充实验，提出了一种新的幂律函数，可以用于类似微粒级硅石的模拟材料的撞击模拟。作者进行了基准研究，比较了新的压碎曲线与其他研究中常用的参数二次压碎曲线，发现典型的二次压碎曲线参数并不符合硅石压碎实验的情况，因此他们在撞击点附近低估了压缩，而在远离撞击点时高估了压缩。因此，本文提出的适用于数百帕至1.1GPa压力范围的新的压碎曲线可能更加精确。此外，它没有被特定案例的参数所校准，可以普遍适用于类似微粒级硅石的彗星或小行星等天体，只要假设其组成类似微粒级硅石。 <div>
-Crush curves are of fundamental importance to numerical modeling of small and porous astrophysical bodies. The empirical literature often measures them for silica grains, and different studies have used various methods, sizes, textures, and pressure conditions. Here, we review past studies and supplement further experiments in order to develop a full and overarching understanding of the silica crush curve behavior. We suggest a new power-law function that can be used in impact simulations of analog materials similar to microgranular silica. We perform a benchmarking study to compare this new crush curve to the parametric quadratic crush curve often used in other studies, based on the study case of the DART impact onto the asteroid Dimorphos. We find that the typical quadratic crush curve parameters do not closely follow the silica crushing experiments, and as a consequence, they under (over) estimate compression close (far) from the impact site. The new crush curve presented here, applicable to pressures between a few hundred Pa and up to 1.1 GPa, might therefore be more precise. Additionally, it is not calibrated by case-specific parameters, and can be used universally for comet- or asteroid-like bodies, given an assumed composition similar to microgranular silica.
-]]></content:encoded>
-<pubDate>2024-10-06T23:00:00Z</pubDate>
-</item>
-<item>
-<title>High-latitude Observations of Dissipation-range Turbulence by the Ulysses Spacecraft during the Solar Minimum of 1993–96: The Spectral Break and Anisotropy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad65e9</guid>
-<content:encoded><![CDATA[
-<div> 磁场观测，Ulysses，太阳风，高纬度，磁场功率谱
-
-研究了1993年至1996年Ulysses对太阳风磁场的观测数据，特别是在高纬度太阳活动极小期间的观测情况。对太阳风湍流在高频率下的磁场功率谱特征进行了分析，发现在惯性范围和离子耗散范围之间存在断裂现象。离子耗散谱的起始点和谱指数与1天文单位处低纬度观测结果一致，而且垂直磁场与平行磁场的功率比约为3。另外，通过Bieber等人开发的功率谱比值测试发现，在惯性范围和耗散范围，与单点空间分析相关的波矢各向异性变化并不显著。这与通常在1天文单位近黄道观测到的太阳风湍流情况形成了鲜明对比，后者在各向异性上存在显著差异。 <br /><br />总结: 研究了Ulysses对太阳风的磁场观测，特别是在高纬度太阳活动极小期间的观测情况。发现在高频率下存在磁场功率谱的特征，在不同范围内的各向异性并没有显著变化。 <div>
-We examine Ulysses magnetic field observations from 1993 to 1996 as the spacecraft made its first fast-latitude scan from the southern to the northern hemisphere. Most of the observations we use are representative of high-latitude solar minimum conditions. We examine magnetic field power spectra characteristics of interplanetary turbulence at high frequencies, where the spectrum breaks from an inertial range into the ion dissipation range. The onset and spectral index of the dissipation spectrum are consistent with low-latitude observations at 1 au. Both ranges have a ratio of power in perpendicular magnetic field components to parallel components near 3. The power spectrum ratio test developed by Bieber et al. for single-spacecraft analyses that determines the underlying anisotropy of the wave vectors yields only marginally more energy associated with field-aligned wave vectors than perpendicular wave vectors when comparing the inertial and dissipation-range spectra. The lack of significant change in the anisotropies between the inertial and dissipation ranges contrasts strongly with the turbulence found typically for 1 au near-ecliptic observations, where significant differences in both anisotropies are observed.
 ]]></content:encoded>
 <pubDate>2024-10-06T23:00:00Z</pubDate>
 </item>
