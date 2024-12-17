@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>First Resolution of Microlensed Images of a Binary-lens Event</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90b9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90b9</guid>
 <content:encoded><![CDATA[
-
 We resolve the multiple images of the binary-lens microlensing event ASASSN-22av using the GRAVITY instrument of the Very Large Telescope Interferometer (VLTI). The light curves show weak binary-lens perturbations, complicating the analysis, but the joint modeling with the VLTI data breaks several degeneracies, arriving at a strongly favored solution. Thanks to precise measurements of the angular Einstein radius θE = 0.724 ± 0.002 mas and microlens parallax, we determine that the lens system consists of two M dwarfs with masses of M1 = 0.258 ± 0.008 M⊙ and M2 = 0.130 ± 0.007 M⊙, a projected separation of r⊥ = 6.83 ± 0.31 au, and a distance of DL = 2.29 ± 0.08 kpc. The successful VLTI observations of ASASSN-22av open up a new path for studying intermediate-separation (i.e., a few astronomical units) stellar-mass binaries, including those containing dark compact objects such as neutron stars and stellar-mass black holes.
 ]]></content:encoded>
-
 <pubDate>2024-12-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>DESI Emission-line Galaxies: Unveiling the Diversity of [O ii] Profiles and Its Links to Star Formation and Morphology</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f33</link>
@@ -11180,18 +11178,6 @@ We present results from our deep far-ultraviolet (FUV) survey using AstroSat/UVI
 Sagittarius A*是银河系中心的超大质量黑洞，通过EHT对其进行了观测和建模。研究表明，目前的VLBI设施无法探测到Sgr A*的喷流。然而，通过下一代VLBI设施（如ngEHT和ngVLA），特别是在86和115 GHz的频率下，可以成功捕捉到Sgr A*的喷流。这些结果突出了未来十年增强VLBI能力的潜力，可以揭示Sgr A*及其与银河中心环境的关键特性。 
 <br /><br />总结: Event Horizon Telescope观测并建模了银心超大质量黑洞Sagittarius A*，发现目前的VLBI设施无法探测到其喷流，但未来的ngEHT和ngVLA在86和115 GHz的频率下有望成功捕捉到喷流。这突出了未来十年增强VLBI能力的潜力。 <div>
 Event Horizon Telescope (EHT) images of the horizon-scale emission around the Galactic center supermassive black hole Sagittarius A* (Sgr A*) favor accretion flow models with a jet component. However, this jet has not been conclusively detected. Using the “best-bet” models of Sgr A* from the EHT Collaboration, we assess whether this nondetection is expected for current facilities and explore the prospects of detecting a jet with very-long-baseline interferometry (VLBI) at four frequencies: 86, 115, 230, and 345 GHz. We produce synthetic image reconstructions for current and next-generation VLBI arrays at these frequencies that include the effects of interstellar scattering, optical depth, and time variability. We find that no existing VLBI arrays are expected to detect the jet in these best-bet models, consistent with observations to date. We show that next-generation VLBI arrays at 86 and 115 GHz—in particular, the EHT after upgrades through the ngEHT program and the ngVLA—successfully capture the jet in our tests due to improvements in instrument sensitivity and (u, v) coverage at spatial scales critical to jet detection. These results highlight the potential of enhanced VLBI capabilities in the coming decade to reveal the crucial properties of Sgr A* and its interaction with the Galactic center environment.
-]]></content:encoded>
-<pubDate>2024-10-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>A Framework for Incorporating Binding Energy Distribution in Gas-ice Astrochemical Models</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b20</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b20</guid>
-<content:encoded><![CDATA[
-<div> gas-ice astrochemical models, binding sites, rate equation approach, thermal hopping, probability density function<br />
-总结:<br />
-本文介绍了一种扩展传统速率方程方法的框架，用于将不同的结合位点纳入气冰天体化学模型中。作者提出了一种估算吸附物种占据各种位点的概率密度函数的简单方法，通过加权的热解吸和跳跃速率，将结合能分布的影响纳入速率方程方法中。这种方法准确而高效，可以应用于包含数百种冰物种的大型气冰化学网络。文章还首次定量讨论了结合能分布对星际冰组成的影响。 <div>
-One of the most serious limitations of current astrochemical models with the rate equation (RE) approach is that only a single type of binding site is considered in grain surface chemistry, although laboratory and quantum chemical studies have found that surfaces contain various binding sites with different potential energy depths. When various sites exist, adsorbed species can be trapped in deep potential sites, increasing the resident time on the surface. On the other hand, adsorbed species can be populated in shallow sites, activating thermal hopping and thus two-body reactions even at low temperatures, where the thermal hopping from deeper sites is not activated. Such behavior cannot be described by the conventional RE approach. In this work, I present a framework for incorporating various binding sites (i.e., binding energy distribution) in gas-ice astrochemical models as an extension of the conventional RE approach. I propose a simple method to estimate the probability density function (pdf) for the occupation of various sites by adsorbed species, assuming a quasi-steady state. By using thermal desorption and hopping rates weighted by the pdfs, the effect of binding energy distribution is incorporated into the RE approach without increasing the number of ordinary differential equations to be solved. This method is found to be accurate and computationally efficient, and enables us to consider binding energy distribution even for a large gas-ice chemical network which contains hundreds of icy species. The impact of the binding energy distribution on interstellar ice composition is discussed quantitatively for the first time.
 ]]></content:encoded>
 <pubDate>2024-10-07T23:00:00Z</pubDate>
 </item>
