@@ -5,17 +5,26 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>First Resolution of Microlensed Images of a Binary-lens Event</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90b9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90b9</guid>
+<content:encoded><![CDATA[
+
+We resolve the multiple images of the binary-lens microlensing event ASASSN-22av using the GRAVITY instrument of the Very Large Telescope Interferometer (VLTI). The light curves show weak binary-lens perturbations, complicating the analysis, but the joint modeling with the VLTI data breaks several degeneracies, arriving at a strongly favored solution. Thanks to precise measurements of the angular Einstein radius θE = 0.724 ± 0.002 mas and microlens parallax, we determine that the lens system consists of two M dwarfs with masses of M1 = 0.258 ± 0.008 M⊙ and M2 = 0.130 ± 0.007 M⊙, a projected separation of r⊥ = 6.83 ± 0.31 au, and a distance of DL = 2.29 ± 0.08 kpc. The successful VLTI observations of ASASSN-22av open up a new path for studying intermediate-separation (i.e., a few astronomical units) stellar-mass binaries, including those containing dark compact objects such as neutron stars and stellar-mass black holes.
+]]></content:encoded>
+
+<pubDate>2024-12-17T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>DESI Emission-line Galaxies: Unveiling the Diversity of [O ii] Profiles and Its Links to Star Formation and Morphology</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f33</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f33</guid>
 <content:encoded><![CDATA[
-
 We study the [O ii] profiles of emission-line galaxies (ELGs) from the Early Data Release of the Dark Energy Spectroscopic Instrument (DESI). To this end, we decompose and classify the shape of [O ii] profiles with the first two eigenspectra derived from principal component analysis. Our results show that DESI ELGs have diverse line profiles, which can be categorized into three main types: (1) narrow lines with a median width of ∼50 km s−1, (2) broad lines with a median width of ∼80 km s−1, and (3) two redshift systems with a median velocity separation of ∼150 km s−1, i.e., double-peak galaxies. To investigate the connections between the line profiles and galaxy properties, we utilize the information from the COSMOS data set and compare the properties of ELGs, including star formation rate (SFR) and galaxy morphology, with the average properties of reference star-forming galaxies with similar stellar mass, sizes, and redshifts. Our findings show that, on average, DESI ELGs have a higher SFR and more asymmetrical/disturbed morphology than the reference galaxies. Moreover, we uncover a relationship between the line profiles, the excess SFR, and the excess asymmetry parameter, showing that DESI ELGs with broader [O ii] line profiles have more disturbed morphology and higher SFR than the reference star-forming galaxies. Finally, we discuss possible physical mechanisms giving rise to the observed relationship and the implications of our findings on the galaxy clustering measurements, including the halo occupation distribution modeling of DESI ELGs and the observed excess velocity dispersion of the satellite ELGs.
 ]]></content:encoded>
-
 <pubDate>2024-12-16T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A Spectroscopic and Interferometric Study of W Serpentis Stars. I. Circumbinary Outflow in the Interacting Binary W Serpentis</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e7</link>
@@ -11183,18 +11192,6 @@ Event Horizon Telescope (EHT) images of the horizon-scale emission around the Ga
 总结:<br />
 本文介绍了一种扩展传统速率方程方法的框架，用于将不同的结合位点纳入气冰天体化学模型中。作者提出了一种估算吸附物种占据各种位点的概率密度函数的简单方法，通过加权的热解吸和跳跃速率，将结合能分布的影响纳入速率方程方法中。这种方法准确而高效，可以应用于包含数百种冰物种的大型气冰化学网络。文章还首次定量讨论了结合能分布对星际冰组成的影响。 <div>
 One of the most serious limitations of current astrochemical models with the rate equation (RE) approach is that only a single type of binding site is considered in grain surface chemistry, although laboratory and quantum chemical studies have found that surfaces contain various binding sites with different potential energy depths. When various sites exist, adsorbed species can be trapped in deep potential sites, increasing the resident time on the surface. On the other hand, adsorbed species can be populated in shallow sites, activating thermal hopping and thus two-body reactions even at low temperatures, where the thermal hopping from deeper sites is not activated. Such behavior cannot be described by the conventional RE approach. In this work, I present a framework for incorporating various binding sites (i.e., binding energy distribution) in gas-ice astrochemical models as an extension of the conventional RE approach. I propose a simple method to estimate the probability density function (pdf) for the occupation of various sites by adsorbed species, assuming a quasi-steady state. By using thermal desorption and hopping rates weighted by the pdfs, the effect of binding energy distribution is incorporated into the RE approach without increasing the number of ordinary differential equations to be solved. This method is found to be accurate and computationally efficient, and enables us to consider binding energy distribution even for a large gas-ice chemical network which contains hundreds of icy species. The impact of the binding energy distribution on interstellar ice composition is discussed quantitatively for the first time.
-]]></content:encoded>
-<pubDate>2024-10-07T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Host Galaxy Properties of Gamma-Ray Bursts Involving Neutron Star Binary Mergers and Their Impact on Kilonovae Rates</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b2a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b2a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 重力波观测，短时伽马射线暴，宿主星系，光谱能量分布，星际物质<br />
-<br />
-这项研究使用76个短时伽马射线暴和4个混合型伽马射线暴的宿主星系的光度数据，通过光谱能量分布拟合评估它们的物理特性。研究发现，与控制样本相比，短时和混合型伽马射线暴的宿主星系质量较低，并提出了BNS并合率的新公式来解释这一现象。这些发现为有针对性的重力波后续观测提供了战略框架，并增强了识别未来重力波事件潜在宿主星系的能力。<br /><br />总结: 这项研究分析了短时伽马射线暴的宿主星系，发现它们的质量较低，并提出了新的BNS并合率公式。这为重力波后续观测提供了战略框架，并增强了识别重力波事件潜在宿主星系的能力。 <div>
-In the upcoming gravitational-wave (GW) observing runs, identifying host galaxies is crucial as it provides essential redshift information and enables the use of GW events as standard sirens. However, pinpointing host galaxies remains challenging due to the large localization uncertainties and the rapidly fading nature of their optical counterparts. Analyzing the host galaxies of short gamma-ray bursts (sGRBs) offers an alternative approach to deepen our understanding of the environments where binary neutron stars (BNS) primarily merge. This study compiles archival photometric data for the host galaxies of 76 sGRBs and four hybrid GRBs that are long GRBs accompanied by kilonova-like signals. We use this data to evaluate their physical properties through spectral energy distribution fitting. To assess the characteristics of the host galaxies, we utilized a volume-limited sample (z < 0.5) from the COSMOS field as a control group. Contrary to expectations that the BNS merger rate is proportional to host stellar mass, the short and hybrid GRB population appears less massive than the mass-weighted distribution of the control sample. Instead, we propose a formulation for the expected BNS merger rate from a galaxy as + , which optimally explains the deviation between the stellar mass distributions of the GRB host galaxies and the control sample. These insights provide a strategic framework for targeted GW follow-ups and enhance our ability to identify potential host galaxies for future GW events.
 ]]></content:encoded>
 <pubDate>2024-10-07T23:00:00Z</pubDate>
 </item>
