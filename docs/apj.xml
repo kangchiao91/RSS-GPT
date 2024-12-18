@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Redshift of GRB 190829A/SN 2019oyw: A Case Study of GRB-SN Evolution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd8</guid>
 <content:encoded><![CDATA[
-
 The nearby long gamma-ray burst (GRB) 190829A was observed using the Hubble Space Telescope/Wide Field Camera 3/infrared grisms about four weeks to 500 days after the burst. We find the spectral features of its associated supernova, SN 2019oyw, are redshifted by several thousand km s−1 compared to the redshift of the large spiral galaxy on which it is superposed. This velocity offset is seen in several features but most clearly in Ca ii near-infrared triplet λλ8498, 8542, 8662 (CaIR3). We also analyze Very Large Telescope/FOcal Reducer and low dispersion Spectrograph and X-shooter spectra of the supernova (SN) and find strong evolution with time of its P-Cygni features of CaIR3 from the blue to the red. However, comparison with a large sample of Type Ic-BL and Ic SNe shows no other object with the CaIR3 line as red as that of SN 2019oyw were it at the z = 0.0785 redshift of the disk galaxy. This implies that SN 2019oyw is either a highly unusual SN or is moving rapidly with respect to its apparent host. Indeed, using CaIR3 we find the redshift of SN 2019oyw is 0.0944 ≤ z ≤ 0.1156. The GRB-SN is superposed on a particularly dusty region of the massive spiral galaxy; therefore, while we see no sign of a small host galaxy behind the spiral, it could be obscured. Our work provides a surprising result on the origins of GRB 190829A, as well as insights into the time evolution of GRB-SNe spectra and a method for directly determining the redshift of a GRB-SN using the evolution of strong spectral features such as CaIR3.
 ]]></content:encoded>
-
 <pubDate>2024-12-18T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Detection of the Temperature Dependence of the White Dwarf Mass–Radius Relation with Gravitational Redshifts</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddc</link>
@@ -11124,19 +11122,6 @@ Tilted disk precession exists in different objects. Negative superhumps (NSHs) i
 <div> Solar energetic particle (SEP), prediction, machine learning, support vector machines, accuracy<br />
 <br />总结:<br />本文使用了机器学习方法来评估新数据对太阳耀斑后SEP事件的预测潜力。研究发现尽管数据量增加，预测精度仍未超过之前的基准，但模拟实际操作环境的线性支持向量机模型显示对SEP事件的预测精度略有提高。这表明需要更复杂、物理知识驱动的模型以更好地理解导致SEP事件的基本过程。 <div>
 The prediction of solar energetic particle (SEP) events garners increasing interest as space missions extend beyond Earth’s protective magnetosphere. These events, which are, in most cases, products of magnetic-reconnection-driven processes during solar flares or fast coronal-mass-ejection-driven shock waves, pose significant radiation hazards to aviation, space-based electronics, and particularly space exploration. In this work, we utilize the recently developed data set that combines the Solar Dynamics Observatory/Space-weather Helioseismic and Magnetic Imager Active Region Patches and the Solar and Heliospheric Observatory/Space-weather Michelson Doppler Imager Active Region Patches. We employ a suite of machine learning strategies, including support vector machines (SVMs) and regression models, to evaluate the predictive potential of this new data product for a forecast of post-solar flare SEP events. Our study indicates that despite the augmented volume of data, the prediction accuracy reaches 0.7 ± 0.1 (experimental setting), which aligns with but does not exceed these published benchmarks. A linear SVM model with training and testing configurations that mimic an operational setting (positive–negative imbalance) reveals a slight increase (+0.04 ± 0.05) in the accuracy of a 14 hr SEP forecast compared to previous studies. This outcome emphasizes the imperative for more sophisticated, physics-informed models to better understand the underlying processes leading to SEP events.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Photometric Study of EX Dra: A Dwarf Nova Exhibiting a Titled and Precessional Disk</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f97</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f97</guid>
-<content:encoded><![CDATA[
-<div> 超轨道信号, 临近光度分析, 断断续续的超表面信号, 周期振荡, 出现幅度的变化
-<br />
-总结:<br />
-这篇文章报道了对EX Dra的光度研究发现。数据显示了20次完整的爆发，表现出几个有趣且罕见的特征。光度曲线展现出一个明显的超轨道信号，周期约为4.39天，以及一个负的超脉冲，周期约为4.805小时，表明了凝聚盘的倾斜和进动。此外，超轨道周期的时变特性表明了进动周期的波动。在平静期的掩星光度极小值O-C分析显示了一个周期为3.9天的振荡，略短于超轨道周期。我们认为这不太可能是轨道周期的突然改变，而更可能受到了凝聚盘的倾斜和进动的影响。值得注意的是，我们发现了从每隔26天出现一次幅度为3.5等的爆发行为，转变为幅度大约为2.5等、周期大约为12天的行为，这种行为持续了14年才恢复。此外，在非遮蔽相位的平台上提取出了在37至40分钟之间的准周期振荡。 <div>
-We present a photometric study of EX Dra, a dwarf nova that has been extensively observed by the Transiting Exoplanet Survey Satellite. The data reveal the occurrence of 20 complete outbursts, exhibiting several intriguing and rare characteristics. The light curves exhibit a distinct superorbital signal with a period of approximately Psor ∼ 4.39(7) days, along with a negative superhump showing an approximate period of Pnsh ∼ 4.805(1) hr, indicating that the accretion disk is tilted and undergoing precession with the period of Psor. In addition, the time-varying nature of Psor suggests that the precession period is fluctuating.The eclipsing light minima O – C analysis during quiescence shows an oscillation with period of 3.9(5) days, which is a little shorter than the superorbital period. We contend that this is unlikely to be a sudden alteration of the orbital period, but rather, it is influenced by the tilt and precession of the accretion disk. Notably, we found an amplitude shift in the outburst behavior from 3.5 mag with a periodicity of about 26 days to an amplitude of around 2.5 mag with a periodicity of about 12 days, which persisted for 14 yr before reverting. Furthermore, we have extracted quasiperiodic oscillations in the plateau at the noneclipsed phases, characterized by periods ranging between 37 and 40 minutes.
 ]]></content:encoded>
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
