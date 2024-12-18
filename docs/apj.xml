@@ -4,6 +4,83 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>SCExAO/CHARIS Spectroscopic Characterization of Cloudy L/T Transition Companion Brown Dwarf HIP 93398 B</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90bc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90bc</guid>
+<content:encoded><![CDATA[
+
+Brown dwarfs with measured dynamical masses and spectra from direct imaging are benchmarks that anchor substellar atmosphere cooling and evolution models. We present Subaru SCExAO/CHARIS infrared spectroscopy of HIP 93398 B, a brown dwarf companion recently discovered by Y. Li et al. (2023), as part of an informed survey using the Hipparcos–Gaia Catalog of Accelerations. This object was previously classified as a T6 dwarf based on its luminosity, with its independently derived age and dynamical mass in tension with existing models of brown dwarf evolution. Spectral typing via empirical standard spectra, temperatures derived by fitting substellar atmosphere models, and J − H, J − K and colors all suggest that this object has a substantially higher temperature and luminosity, consistent with classification as a late-L dwarf near the L/T transition (T = K) with moderate to thick clouds possibly present in its atmosphere. When compared with the latest generation of evolution models that account for clouds with our revised luminosity and temperature for the object, the tension between the model-independent mass/age and model predictions is resolved.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Effects of Turbulent Electrical Resistivity on the Response of the Solar Atmosphere to Flare Energy Input. I. Results of Radiative Hydrodynamic Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad919c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad919c</guid>
+<content:encoded><![CDATA[
+
+A number of works have considered the role of turbulence in energy release and transport in solar flares, and in particular, on the transport of energy by thermal conduction. Here, we point out that for physical consistency, the effects of turbulence on the electrical conductivity, and hence on the ohmic heating by the return current that neutralizes the current in injected electron beams, must also be considered. Using radiative hydrodynamic simulations, in conjunction with thermal and electrical conductivities modified from their collisional values by turbulent processes, we model the heating rate along a flare loop. We derive the resulting temperature, pressure, velocity, and density profiles, and use them to calculate quantities such as the differential emission measure (DEM) and the emitted X-ray spectrum. For high levels of turbulence, the combination of high electrical resistivity and low thermal conductivity acts to create and sustain a region of very large temperature near the loop apex, creating a large overpressure that acts to suppress the upward evaporation of chromospheric material. Further, the associated large temperature gradients result in a reduction of the DEM at temperatures from 105 K to 107 K. The hard X-ray spectrum at high energies is reduced due to a lower electron flux reaching the chromosphere, but at low energies, it is enhanced due to thermal emission from the very hot coronal plasma. We assess the extent to which these results can be used to constrain the nature and role of turbulent motions in the flare volume.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Massive White Dwarf or Low-mass Neutron Star Discovered by LAMOST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9273</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9273</guid>
+<content:encoded><![CDATA[
+
+We report the discovery of a close binary J0606+2132 (Gaia DR3 3423365496448406272) with Pobs = 2.77 days containing a possible massive white dwarf (WD) or a neutron star (NS) using LAMOST spectroscopic data. By a joint fitting of the radial velocity from LAMOST and the light curve from TESS, we derived a circular Keplerian orbit with an inclination of i = 81.°31 , which is consistent with that derived from . Together with the mass of the visible star, we derived the mass of the invisible object to be . Spectral disentangling with the LAMOST medium-resolution spectra shows no absorption feature from an additional component, suggesting the presence of a compact object. No X-ray or radio pulsed signal is detected from ROSAT and FAST archive observations. J0606+2132 could evolve into either a Type Ia supernova or an NS through accretion-induced collapse if it is a WD or into an intermediate-mass X-ray binary if it is an NS.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Fast Methods for Computing Photometric Variability of Eccentric Binaries: Boosting, Lensing, and Variable Accretion</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad938b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad938b</guid>
+<content:encoded><![CDATA[
+
+We analyze accretion-rate time series for equal-mass binaries in coplanar gaseous disks spanning a continuous range of orbital eccentricities up to 0.8 for both prograde and retrograde systems. The dominant variability timescales match those of previous investigations; the binary orbital period is dominant for prograde binaries with e ≳ 0.1, with a 5 × longer “lump” period taking over for e ≲ 0.1. This lump period fades and drops from 5 × to 4.5 × the binary period as e approaches 0.1, where it vanishes. For retrograde orbits, the binary orbital period dominates at e ≲ 0.55 and is accompanied by a 2 × longer timescale periodicity at higher eccentricities. The shape of the accretion-rate time series varies with binary eccentricity. For prograde systems, the orientation of an eccentric disk causes periodic trading of accretion between the binary components in a ratio that we report as a function of binary eccentricity. We present a publicly available tool, binlite, that can rapidly (≲0.01 s) generate templates for the accretion-rate time series onto either binary component for choice of binary eccentricity below 0.8. As an example use case, we build lightcurve models where the accretion rate through the circumbinary disk and onto each binary component sets contributions to the emitted specific flux. We combine these rest-frame, accretion-variability lightcurves with observer-dependent Doppler boosting and binary self-lensing. This allows a flexible approach to generating lightcurves over a wide range of binary and observer parameter space. We envision binlite as the access point to a living database that will be updated with state-of-the-art hydrodynamical calculations as they advance.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Series of (Net) Spin-down Glitches in PSR J1522–5735: Insights from the Vortex Creep and Vortex Bending Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad938d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad938d</guid>
+<content:encoded><![CDATA[
+
+Through a detailed timing analysis of Fermi-LAT data, the rotational behavior of the γ-ray pulsar PSR J1522−5735 was tracked from 2008 August (MJD 54692) to 2024 January (MJD 60320). During this 15.4 yr period, two overrecovery glitches and four antiglitches were identified, marking a rare occurrence in rotation-powered pulsars (RPPs). The magnitudes of these (net) spin-down glitches were determined to be ∣Δνg/ν∣ ∼ 10−8, well above the estimated detectability limit. For the two overrecovery glitches, the respective recovery fractions Q are 2.1(7) and 1.4(2). Further analysis showed no substantial variations in either the flux or pulse profile shape in any of these events, suggesting that small (net) spin-down glitches, unlike large events observed in magnetars and magnetar-like RPPs, may occur without leaving an impact on the magnetosphere. Within the framework of the vortex creep and vortex bending models, antiglitches and overrecoveries indicate the recoupling of vortex lines that moved inward as a result of a crustquake; meanwhile, the apparent fluctuations in the spin-down rate after the glitches occur as a result of the coupling of the oscillations of bent vortex lines to the magnetosphere.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Hilbert Transform Reveals Unusual Modulation in Delta Scuti Star KIC 10407873</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93bc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93bc</guid>
+<content:encoded><![CDATA[
+
+We report a δ Scuti star, KIC 10407873, exhibiting significant amplitude modulation. Fourier analysis of Kepler long-cadence data (i.e., Q0-Q17, spanning 1471 days) reveals two distinct features: harmonic series of frequencies in the low-frequency region and the frequencies of the split triplet lines in the high-frequency region. Using the Hilbert transform method, we separated the amplitude modulation signals, obtaining precise parameters for the two modulation frequencies. For the harmonic series of frequencies in the low-frequency region, we isolated them through a prewhitening process. Based on the residual segmented spectrum and the phase-folding diagram, we propose that these harmonic series of frequencies may be caused by temperature inhomogeneity on the stellar surface and stellar rotation. The subsequent phase evolution diagrams we generated, combined with LAMOST’s data, further support this hypothesis. Consequently, this suggests that the cause of amplitude modulation in the high-frequency region is unrelated to stellar rotation. Finally, we discussed the information potentially carried by the isolated modulation signals, as well as the similarities between the star’s dual-amplitude modulation and the periodically modulated Tseraskaya–Blazhko effect.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Turbulent Transport Characteristics of the Particles within Pulsar Wind Nebulae 3C58 and G54.1+0.3</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad946f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad946f</guid>
+<content:encoded><![CDATA[
+
+Turbulent transport characteristics of the particles within two Crab-like pulsar wind nebulae (PWNe), 3C58 and G54.1+0.3, are investigated in the framework of a time-dependent turbulent diffusion model. The model takes the gyroresonant interactions between the particles and turbulent waves into account, which enables us to self-consistently determine the energy and spatial coefficients of particles within the nebula via the distributions of turbulent waves. Our application of the model to the multiband emission from 3C58 and G54.1+0.3 reveals the following. (1) The energy and spatial diffusion coefficients seem to follow quasi-linear distributions in the Kolmogorov-type turbulence, but consistent with nonlinear distributions at low energies in the Kraichnan-type turbulence due to the effects of the turbulent scattering. (2) The stochastic acceleration and spatial diffusion processes may play a role in modifying the electron spectrum in the Kolmogorov-type turbulence, whereas in the Kraichnan-type turbulence the energy exchange between the turbulent waves and particles is more efficient, resulting in more significant effects of the stochastic acceleration and spatial diffusion processes on the electron spectrum at the low energies of Ee ≲ 1 TeV. (3) At the high energies of Ee ≳ 1 TeV, the diffusion transport appears to be less effective for the evolution of the particles within 3C58 and G54.1+0.3 because the synchrotron radiative cooling process dominates over the particle transport. These two Crab-like PWNe are expected to be electron PeVatrons in the Galaxy, with a common slow diffusion escape occurring in both 3C58 and G54.1+0.3.
+]]></content:encoded>
+
+<pubDate>2024-12-18T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>First Resolution of Microlensed Images of a Binary-lens Event</title>
