@@ -5,14 +5,112 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Imaging of the Vega Debris System Using JWST/MIRI</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cde</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cde</guid>
+<content:encoded><![CDATA[
+
+We present images of the Vega planetary debris disk obtained at 15.5, 23, and 25.5 μm with the Mid-Infrared Instrument on JWST. The debris system is remarkably symmetric, smooth, and centered accurately on the star. There is a broad Kuiper-belt-analog ring at ∼80–170 au that coincides with the planetesimal belt detected with the Atacama Large Millimeter/submillimeter Array at 1.34 mm. The interior of the broad belt is filled with warm debris that shines most efficiently at mid-infrared, along with a shallow flux dip/gap at 60 au from the star. These qualitative characteristics argue against any Saturn-mass planets orbiting the star outside of about 10 au, assuming the unseen planet would be embedded in the very broad planetesimal disk from a few to hundreds of astronomical units. We find that the distribution of dust detected interior to the broad outer belt is consistent with grains being dragged inward by the Poynting–Robertson effect. Under the drag-dominated disk assumption, tighter constraints can be derived for planets in specific locations; for example, any planet shepherding the inner edge of the outer belt is likely to be less than six Earth masses. The disk surface brightness profile along with the available infrared photometry suggest a disk inner edge near ∼3−5 au, disconnected from the sub-astronomical-unit region that gives rise to the hot near-infrared excess. The gap between the hot, sub-astronomical-unit zone and the inner edge of the warm debris might be shepherded by a modest-mass, Neptune-size planet.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Interpolation Techniques for Reconstructing Galactic Faraday Rotation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddf</guid>
+<content:encoded><![CDATA[
+
+The line-of-sight structure of the Galactic magnetic field (GMF) can be studied using Faraday rotation measure (RM) grids. We analyze how the choice of interpolation kernel can affect the accuracy and reliability of reconstructed RM maps. We test the following kernels: inverse distance weighting (IDW), natural neighbor interpolation (NNI), inverse multiquadric interpolation (IM), thin-plate spline interpolation (TPS), and a Bayesian rotation measure sky (BRMS); all techniques were tested on two simulated Galactic foreground RMs (one assuming the GMF has patchy structures and the other assuming it has filamentary structures) using magnetohydrodynamic simulations. Both foregrounds were sampled to form RM grids with densities of ∼40 sources deg−2 and area ∼144 deg2. The techniques were tested on data sets with different noise levels and Gaussian random extragalactic RM contributions. The data set that most closely emulates expected data from current surveys, such as the POlarization Sky Survey of the Universe’s Magnetism (POSSUM), had extragalactic contributions and a noise standard deviation of ∼1.5 rad m−2. For this data set, the accuracy of the techniques for the patchy structures is ranked from best to worst as BRMS, NNI, TPS, IDW, and IM; in the filamentary simulated foreground, the ordering is BRMS, NNI, TPS, and IDW. IDW is the most computationally expensive technique, while TPS and IM are the least expensive. BRMS and NNI have the same, intermediate computational cost. This analysis lays the groundwork for Galactic RM studies with large radio polarization sky surveys, such as POSSUM.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Deep Chandra Observations of NGC 5728. III. Probing the High-resolution X-Ray Morphology and Multiphase Interstellar Medium Interactions in the Circumnuclear Region</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de3</guid>
+<content:encoded><![CDATA[
+
+We present a detailed imaging analysis of 260 ks of subarcsecond resolution Chandra (ACIS-S) observations of the nearby Seyfert 2 galaxy NGC 5728. Our study focuses on the bright and diffuse soft X-ray emission within the galaxy's inner ∼1 kpc. By comparing the X-ray emission across different energy bands, we identify localized variations in the absorbing column and emission processes. We observe more X-ray absorption in the direction perpendicular to the bicone, which is co-located with an inner warped CO disk in the galaxy. The innermost region, which shows the strongest excess of hard X-ray emission, is spatially coincident with the CO (2–1) emission from the Atacama Large Millimeter/submillimeter Array and dusty spirals we find in a Hubble Space Telescope V − H color map. We detect soft extended emission associated with the circumnuclear star-forming ring at ∼1 kpc, suggestive of hot gas with kT = 0.44 keV. We derive measurements for the hot gas mass, M = 7.9 × 105M⊙, pressure, p = 2.0 × 10−10 dyne cm−2, and cooling times, τc = 193.2 Myr. In the vicinity of the star-forming ring, we detect two X-ray point sources, with soft X-ray spectra, and 0.3–7 keV luminosities L ∼ 8 × 1038 erg s−1. These properties suggest X-ray binaries.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Cloud Crushing and Dissipation of Uniformly Driven Adiabatic Turbulence in Circumgalactic Media</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3d</guid>
+<content:encoded><![CDATA[
+
+The circumgalactic medium (CGM) is responsive to kinetic disruptions generated by nearby astrophysical events. In this work, we study the saturation and dissipation of turbulent hydrodynamics within the CGM through an extensive array of 252 numerical simulations with proper cooling mechanisms and a large parameter space spanning average gas density, metallicity, and turbulence driving strength. A dichotomy emerges in the dynamics dissipation behaviors upon turbulence driving turnoff. Hot and subsonic disturbances are characterized by weak compression and slow dissipation, while warm and supersonic turbulences are marked by significant compression shocks and subsequent rapid cooling. In the supersonic cases, the kinetic energy decay is divided into a rate-limiting phase of shock dissipation and a comparatively swift phase of thermal dissipation, predominantly occurring within the overdense regions. Dense clouds are crushed on relatively brief timescales of ∼30–100 Myr, depending on turbulence driving strength but independent from average gas density. This independence is in spite of the complex interplay between the kinetics and thermodynamics of dissipation. The brevity of such timescales relative to typical dynamical timescales within the CGM suggests turbulent clouds must be cotemporal with turbulence driving sources such as cool accretion flows or feedback from the interstellar medium. Quantitative results from this work contribute a novel data set of dissipation timescales that incorporates thermodynamics and radiative cooling in an area of study typically focused on kinematics, which may serve as a valuable asset for forthcoming simulations that aim to explore gas dynamics on galactic and cosmological scales.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Separating Repeating Fast Radio Bursts Using the Minimum Spanning Tree as an Unsupervised Methodology</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9020</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9020</guid>
+<content:encoded><![CDATA[
+
+Fast radio bursts (FRBs) represent one of the most intriguing phenomena in modern astrophysics. However, their classification into repeaters and nonrepeaters is challenging. Here, we present the application of the graph theory minimum spanning tree (MST) methodology as an unsupervised classifier of repeater and nonrepeater FRBs. By constructing MSTs based on various combinations of variables, we identify those that lead to MSTs that exhibit a localized high density of repeaters at each side of the node with the largest betweenness centrality. Comparing the separation power of this methodology against known machine learning methods, and with the random expectation results, we assess the efficiency of the MST-based approach to unravel the physical implications behind the graph pattern. We finally propose a list of potential repeater candidates derived from the analysis using the MST.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>New Radio Observations of the Supernova Remnant CTA 1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90bb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90bb</guid>
+<content:encoded><![CDATA[
+
+We present new radio images of the supernova remnant (SNR) CTA 1 at 1420 and 408 MHz, and in the 21 cm line of H i observed with the Dominion Radio Astrophysical Observatory Synthesis Telescope and at 1420 MHz observed with the Effelsberg 100 m telescope. We confirm previously described continuum features and elaborate further on filamentary features identified using the high-resolution (1′) maps from these new observations. We investigate the abrupt change in sign of rotation measure (RM) across the SNR, using the linear polarization observations in the four bands around 1420 MHz. Following X. H. Sun et al.’s (2011) investigation, we both confirm that the distribution of signs of the RMs for extragalactic sources in the area appears to match that of the shell, as well as combine the data from the four bands to estimate the relative depolarization and the intrinsic rotation measure of the SNR. We do not conclusively reject X. H. Sun et al.’s (2011) claim of a Faraday screen in the foreground causing the distribution of RMs that we observe; however, we do suggest an alternative explanation of a swept-up stellar wind from the progenitor star with a toroidal magnetic field. Finally, we expand on the analysis of the H i observations by applying the Rolling Hough Transform to isolate filamentary structure and better identify H i emission with the SNR. Further constraining the H i velocity channels associated with CTA 1, we use more recent Galactic rotation curves to calculate an updated kinematic distance of 1.09 ± 0.2 kpc.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Rotational Velocities and Radii Estimates of Low-mass Pre-main-sequence Stars in NGC 2264</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad924b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad924b</guid>
+<content:encoded><![CDATA[
+
+Investigating the angular momentum evolution of pre-main-sequence (PMS) stars provides important insight into the interactions between Sun-like stars and their protoplanetary disks, and the timescales that govern disk dissipation and planet formation. We present projected rotational velocities (v sin i values) of 254 T Tauri stars (TTSs) in the ∼3 Myr old open cluster NGC 2264, measured using high-dispersion spectra from the WIYN 3.5 m telescope’s Hydra instrument. We combine these with literature values of temperature, rotation period, luminosity, disk classification, and binarity. We find some evidence that weak-lined TTSs may rotate faster than their classical TTS counterparts and that stars in binary systems may rotate faster than single stars. We also combine our v sin i measurements with rotation period to estimate the projected stellar radii of our sample stars, and then use a maximum likelihood modeling technique to compare our radii estimates to predicted values from stellar evolution models. We find that starspot-free models tend to underestimate the radii of the PMS stars at the age of the cluster, while models that incorporate starspots are more successful. We also observe a mass dependence in the degree of radius inflation, which may be a result of differences in the birth-line location on the HR diagram. Our study of NGC 2264 serves as a pilot study for analysis methods to be applied to four other clusters ranging in age from 1−14 Myr, which is the timescale over which protoplanetary disks dissipate and planetary systems begin to form.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Metal-strong Inflows at the Outer-galactic-scale of a Quasar</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad924d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad924d</guid>
+<content:encoded><![CDATA[
+
+We present an analysis of the absorption-line system in the Very Large Telescope/Ultraviolet and Visual Echelle Spectrograph spectrum at a redshift of za = 3.1448 associated with the quasar SDSS J122040.23+092326.96, whose systematic redshift is ze = 3.1380 ± 0.0007, measured from the Hβ+[O iii] emission lines in our newly acquired NIR P200/TripleSpec data. This absorbing system, detected in numerous absorption lines, including the N v, N iii, C iv, C iii, Si iv, Si iii, and H i Lyman series, can be resolved into seven kinematic components with redshifted velocities ranging from 200 to 900 km s−1. The high-ionization N v doublet detected and the rather narrow Lyman series measured (b ≈ 14 km s−1) suggest that the absorption gas is photoionized, possibly by the quasar. A low density is inferred by the fact that N iiiλ989.80 is significantly detected while N iii*λ991.57 ( ) is undetectably weak. A firm lower limit of a solar value to the abundance of the gas can be set based on the measurements of Si iv and H i column densities, as first proposed by F. Hamann. Detailed photoionization simulations indicate that T1, and possibly the absorber as a whole, has metallicities of Z ∼ 1.5 − 6.0 Z☉, and is located at ∼15 kpc from the quasar nucleus. The metal-strong absorption inflows at the outskirt of the quasar host galaxy most likely originated in situ and were driven by stellar processes, such as stellar winds and/or supernova explosions. Such a relatively rare system may hold important clues to understanding the baryonic cycling of galaxies, and more cases could be picked out using relatively strong Si iv and weak Lyman absorption lines.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Binary Stars Approaching Supermassive Black Holes: Tidal Breakup, Double Stellar Disruptions, and Stellar Collision</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a6</guid>
+<content:encoded><![CDATA[
+
+In galactic centers, stars and binaries can be injected into low-angular-momentum orbits, resulting in close encounters with the central supermassive black hole (SMBH). Previous works have shown that under different conditions, such close encounters can lead to the breakup of the binary, disruptions of both stars, and collision between the stars. We use three-body scattering experiments to characterize these different outcomes for a range of system parameters, such as βb, the ratio of the binary tidal radius to the pericenter distance rp to the SMBH, and the compactness of the binary. We focus on stellar collisions, which occur for a range of βbs, with a few to tens of percent probabilities (depending on the compactness of the binary). In gentle encounters (βb ≲ 1), stellar collisions occur after the pericenter passage, and the merger remnants are typically ejected from the SMBH at a small velocity. In deep encounters (βb ≳ 1), collisions occur near the pericenter, with the impact velocity a few times the escape velocity of the star, and the merger remnants are typically bound to the SMBH. We suggest that stellar collisions induced by binary–SMBH encounters may produce exotic stars in galactic centers, trigger accretion flares onto the SMBH due to the mass loss, and result in bound merger remnants causing repeated partial tidal disruption events.
+]]></content:encoded>
+
+<pubDate>2024-12-19T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Solar Wind–Magnetosphere Coupling by the Kelvin–Helmholtz Instability at Mercury</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad944b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad944b</guid>
 <content:encoded><![CDATA[
-
 The Kelvin–Helmholtz instability (KHI) has been considered important in the energy transfer and momentum coupling between the solar wind and planetary magnetospheres. To explore this issue, we employ a two-dimensional magnetohydrodynamic simulation to study the nonlinear evolution of the KHI at Mercury’s magnetopause using the parameters derived from a global hybrid simulation of MESSENGER’s first flyby of Mercury. Due to the absence of comprehensive plasma observations of Mercury’s magnetosphere, two scenarios are considered: one with a heavily loaded magnetosphere and the other with a weakly loaded magnetosphere, to demonstrate the development of the KHI under distinct levels of magnetospheric plasma density. Our results indicate that the KHI with a heavily loaded magnetosphere leads to a significantly more turbulent magnetopause and grows into the nonlinear fast-mode plane waves expanding away from the magnetopause. The momentum and energy flux quantified from our simulations reveal that the KHI with a heavily loaded magnetosphere can efficiently transport momentum and energy away from the magnetopause in the presence of the fast-mode plane waves. In the cases with a heavily loaded magnetosphere, observed in the inner magnetosphere, the momentum flux can reach 10−3 nPa, i.e., about 0.5% of the initial solar-wind dynamic pressure; the energy flux can be and the energy density is about 1.5%–3.0% of the initial solar-wind energy. In the cases with a very thin magnetosphere, observed away from the magnetopause, the momentum flux is negligible and the energy flux is smaller without the presence of the fast-mode plane waves in the magnetosphere.
 ]]></content:encoded>
-
 <pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@ The Kelvin–Helmholtz instability (KHI) has been considered important in the en
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9471</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9471</guid>
 <content:encoded><![CDATA[
-
 Secure methods for identifying the host galaxies of individual massive black hole (MBH) binaries and mergers detected by gravitational-wave experiments such as the Laser Interferometer Space Antenna and pulsar timing arrays are currently lacking, but will be critical to a variety of science goals. Recently, in Bardati et al., we used the Romulus25 cosmological simulation to show that MBH merger host galaxies have unique morphologies in imaging, due to their stronger bulges. Here, we use the same sample of simulated MBH merger host galaxies to investigate their stellar kinematics, as probed by optical integral field unit (IFU) spectroscopy. We perform stellar population synthesis and dust radiative transfer to generate synthetic 3D optical spectral data cubes of each simulated galaxy, and produce mock stellar kinematic maps. Based on a linear discriminant analysis of a combination of kinematic parameters derived from these maps, we show that this approach can identify MBH binary and merger host galaxies with accuracies that increase with chirp mass and mass ratio. For mergers with high chirp masses (≳108.2M⊙) and high mass ratios (≳0.5), the accuracies reach ≳85%, and their host galaxies are uniquely characterized by slower rotation and stronger stellar kinematic misalignments. These kinematic properties are commonly associated with massive early-type galaxies that have experienced major mergers, and naturally act as signposts for MBH binaries and mergers with high chirp masses and mass ratios. These results suggest that IFU spectroscopy should also play a role in telescope follow-up of future MBH binaries and mergers detected in gravitational waves.
 ]]></content:encoded>
-
 <pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@ Secure methods for identifying the host galaxies of individual massive black hol
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad94f3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad94f3</guid>
 <content:encoded><![CDATA[
-
 The role of internal and environmental factors in the star formation activity of galaxies is still a matter of debate, in particular at higher redshifts. Leveraging the most recent release of the COSMOS catalog, COSMOS2020, as well as density measurements from our previous study, we disentangle the impact of environment and stellar mass on the star formation rate (SFR) and specific SFR (sSFR) of a sample of ∼210,000 galaxies within a redshift range of 0.4 < z < 4, and present our findings in three cosmic epochs: (1) out to z ∼ 1, the average SFR and sSFR decline in extremely dense environments and at the high-mass end of the distribution, which is mostly due to the presence of the massive quiescent population; (2) at 1 < z < 2, the environmental dependence diminishes, while mass is still the dominant factor in star formation activity; and (3) beyond z ∼ 2, our sample is dominated by star-forming galaxies and we observe a reversal of the trends seen in the local Universe—the average SFR increases with increasing environmental density. Our analysis shows that both environmental and mass quenching efficiencies increase with stellar mass at all redshifts, with mass being the dominant quenching factor in massive galaxies compared to environmental effects. At 2 < z < 4, negative values of environmental quenching efficiency suggest that the fraction of star-forming galaxies in dense environments exceeds that in less-dense regions, likely due to the greater availability of cold gas, higher merger rates, and tidal effects that trigger star formation activity.
 ]]></content:encoded>
-
 <pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@ The role of internal and environmental factors in the star formation activity of
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9567</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9567</guid>
 <content:encoded><![CDATA[
-
 The recent discovery of planetesimals orbiting white dwarfs has renewed interest in the final chapters of the evolution of planetary systems. Although observational and theoretical studies have examined the dynamical evolution of these systems, studies of their magnetic star–planet interactions, as powered by unipolar induction, have thus far only been assessed theoretically. This fifth paper of the Radio Observations of Magnetized Exoplanets series presents the results of a targeted minisurvey of nine white dwarfs within 25 pc without known stellar mass companions in search of radio emissions generated by magnetic interactions between white dwarfs and their planetary remnants. This ∼5 GHz Arecibo radio telescope survey achieved mJy-level sensitivity over <1 s integration times. Although no exoplanet-induced stellar radio flares were detected, this is the first survey to search for magnetic star–planet interactions between white dwarfs and planetary companions, cores, or disrupted planetesimals. It is also the most extensive and sensitive radio survey for intrinsic coronal emissions from apparently isolated white dwarfs. The study of radio emissions from white dwarf systems may present a new means to detect and measure DC and DQ magnetic fields, search for white dwarf coronae, characterize the density and spatial distribution of white dwarf magnetospheric plasma, characterize the dynamical and electrical properties of planetary cores, and offer new constraints on the modeling of double-degenerate merger events.
 ]]></content:encoded>
-
 <pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@ The recent discovery of planetesimals orbiting white dwarfs has renewed interest
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad95ea</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad95ea</guid>
 <content:encoded><![CDATA[
-
 Electron cyclotron maser (ECM) emission is an important coherent emission mechanism for the direct amplification of electromagnetic waves by nonthermal electrons in a magnetized plasma. This paper will report on our recent study on ECM emission by fast electron beams with moderately relativistic energy. The results show that, similar to the spontaneous emission by the magnetic cyclotron motion of energetic electrons in a magnetic field, the coherent emission also exhibits the characteristic of a gradual transition from harmonic emission to continuous emission as the energy of the energetic electrons increases from subrelativistic to relativistic. The effects of the characteristic beam electrons energy (Ec) and the plasma-to-cyclotron frequency ratio (ωpe/ωce) on the growth rate, the peak-value frequency, and the spectral width are discussed further. These results are helpful for us to understand phenomena associated with astrophysical radio bursts.
 ]]></content:encoded>
-
 <pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +154,8 @@ Electron cyclotron maser (ECM) emission is an important coherent emission mechan
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad95fe</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad95fe</guid>
 <content:encoded><![CDATA[
-
 Several filament eruptions with pronounced writhing of the axis of the structure are analyzed. Initially, smooth arches of eruptive filaments are transformed into large-scale helical structures with at least one complete turn due to the development of kink instability. However, the initiation of the eruptions seems to be caused not by the kink instability but by catastrophic loss of equilibrium or torus instability. Calculations of the decay index of the coronal potential magnetic field indicate that the studied filaments began to rise rapidly at heights where the decay index was close to unity, the threshold for the catastrophic loss of equilibrium of straight flux ropes. Although it is often assumed that the kink instability precedes the subsequent torus instability leading to a full eruption, these examples testify to the possibility of the reverse order of the eruption development.
 ]]></content:encoded>
-
 <pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +163,8 @@ Several filament eruptions with pronounced writhing of the axis of the structure
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de0</guid>
 <content:encoded><![CDATA[
-
 The magnetar SGR 1935+2154 is the only known Galactic source of fast radio bursts (FRBs). FRBs from SGR 1935+2154 were first detected by the Canadian Hydrogen Intensity Mapping Experiment (CHIME)/FRB and the Survey for Transient Astronomical Radio Emission 2 in 2020 April, after the conclusion of the LIGO, Virgo, and KAGRA Collaborations’ O3 observing run. Here, we analyze four periods of gravitational wave (GW) data from the GEO600 detector coincident with four periods of FRB activity detected by CHIME/FRB, as well as X-ray glitches and X-ray bursts detected by NICER and NuSTAR close to the time of one of the FRBs. We do not detect any significant GW emission from any of the events. Instead, using a short-duration GW search (for bursts ≤1 s) we derive 50% (90%) upper limits of 1048 (1049) erg for GWs at 300 Hz and 1049 (1050) erg at 2 kHz, and constrain the GW-to-radio energy ratio to ≤1014−1016. We also derive upper limits from a long-duration search for bursts with durations between 1 and 10 s. These represent the strictest upper limits on concurrent GW emission from FRBs.
 ]]></content:encoded>
-
 <pubDate>2024-12-18T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,13 +172,10 @@ The magnetar SGR 1935+2154 is the only known Galactic source of fast radio burst
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8de6</guid>
 <content:encoded><![CDATA[
-
 We present photometric and spectroscopic observations of SN 2023fyq, a Type Ibn supernova (SN) in the nearby galaxy NGC 4388 (D ≃ 18 Mpc). In addition, we trace the 3 yr long precursor emission at the position of SN 2023fyq using data from DLT40, ATLAS, Zwicky Transient Facility, ASAS-SN, Swift, and amateur astronomer Koichi Itagaki. The double-peaked postexplosion light curve reaches a luminosity of ∼1043 erg s−1. The strong intermediate-width He lines observed in the nebular spectrum imply the interaction is still active at late phases. We found that the precursor activity in SN 2023fyq is best explained by the mass transfer in a binary system involving a low-mass He star and a compact companion. An equatorial disk is likely formed in this process (∼0.6M⊙), and the interaction of SN ejecta with this disk powers the second peak of the SN. The early SN light curve reveals the presence of dense extended material (∼0.3M⊙) at ∼3000R⊙ ejected weeks before the SN explosion, likely due to final-stage core silicon burning or runaway mass transfer resulting from binary orbital shrinking, leading to rapid-rising precursor emission within ∼30 days prior to explosion. The final explosion could be triggered either by the core collapse of the He star or by the merger of the He star with a compact object. SN 2023fyq, along with SN 2018gjx and SN 2015G, forms a unique class of Type Ibn SNe, which originate in binary systems and are likely to exhibit detectable long-lasting pre-explosion outbursts with magnitudes ranging from −10 to −13.
 ]]></content:encoded>
-
 <pubDate>2024-12-18T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Redshift of GRB 190829A/SN 2019oyw: A Case Study of GRB-SN Evolution</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd8</link>
@@ -11110,106 +11193,6 @@ Millisecond pulsars (MSPs) are abundant in globular clusters (GCs), which offer 
 
 总结: 本研究通过模拟探究了矮星系的CGM在类似银河系环境中对摩擦剥离的敏感程度。研究发现，矮星系的CGM在数百兆年内就有超过95%的质量被摩擦剥离，即使在弱摩擦剥离轨道上，ISM的剥离也是可忽略的。另外，发现加入卫星CGM并不会有效保护其星系，因此ISM的剥离速率不受影响。这些结果表明矮星系的CGM在卫星星系中难以被探测到，并且矮星系的星形成很可能不会得到CGM的补充。 <div>
 The circumgalactic medium (CGM) of star-forming dwarf galaxies plays a key role in regulating the galactic baryonic cycle. We investigate how susceptible the CGM of dwarf satellite galaxies is to ram pressure stripping in Milky Way–like environments. In a suite of hydrodynamical wind tunnel simulations, we model an intermediate-mass dwarf satellite galaxy (M* = 107.2M⊙) with a multiphase interstellar medium (ISM; MISM = 107.9M⊙) and CGM (MCGM,vir = 108.5M⊙) along two first-infall orbits to more than 500 Myr past pericenter of a Milky Way–like host. The spatial resolution is ∼79 pc in the star-forming ISM and 316−632 pc in the CGM. Our simulations show that the dwarf satellite CGM removal is fast and effective: more than 95% of the CGM mass is ram pressure stripped within a few hundred megayears, even under a weak ram pressure orbit where the ISM stripping is negligible. The conditions for CGM survival are consistent with the analytical halo gas stripping predictions in McCarthy et al. We also find that including the satellite CGM does not effectively shield its galaxy, and therefore the ISM stripping rate is unaffected. Our results imply that a dwarf galaxy CGM is unlikely to be detected in satellite galaxies; and that the star formation of gaseous dwarf satellites is likely devoid of replenishment from a CGM.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Reionization Parameter Inference from 3D Minkowski Functionals of the 21 cm Signals</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c40</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c40</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Minkowski functionals, 21 cm brightness temperature, reionization parameters, Hydrogen Epoch of Reionization Array (HERA), Square Kilometre Array (SKA)
-
-MFs作为一种强大的拓扑摘要统计工具，对提取非高斯信息具有重要作用。研究发现，利用EOR阶段的21厘米亮度温度场的MFs，可以限制再电离参数。通过模拟电波干涉阵列实验，如HERA和SKA的观测，考虑包括热噪声、合成波束和前景回避在内的实际效应。研究表明，利用SKA-Low测量的21厘米信号的MFs可以区分不同的再电离模型，而使用类似HERA的阵列进行的MF测量无法准确进行。进一步预测了利用MFs测量可以限制再电离参数的精度，使用基于前向建模的参数推断的标准Markov Chain Monte Carlo分析。发现对于SKA-Low观测，MFs提供了与功率谱（PS）分析相当的再电离参数无偏估计的精度。此外，使用MFs和PS的联合约束可以提高约30%的约束精度，相比仅使用PS。然而，如果采用强前景回避缩小EOR窗口，约束精度可能会降低。我们的分析表明，MFs作为一组摘要统计量，从21厘米EOR场中提取出与双点统计不同的互补信息，因此有很大动力将MFs纳入未来21厘米观测的数据分析中。<br /><br />总结: MFs作为拓扑摘要统计工具，在21厘米再电离观测数据分析中具有重要潜力，可以提供与功率谱分析相当的再电离参数无偏估计的精度。同时，MFs与PS的联合约束可以提高约束精度，并在21厘米观测中提取出互补信息。 <div>
-The Minkowski functionals (MFs), a set of topological summary statistics, have emerged as a powerful tool for extracting non-Gaussian information. We investigate the prospect of constraining the reionization parameters using the MFs of the 21 cm brightness temperature field from the epoch of reionization (EOR). Realistic effects, including thermal noise, synthesized beam, and foreground avoidance, are applied to the mock observations from radio interferometric array experiments such as the Hydrogen Epoch of Reionization Array (HERA) and the Square Kilometre Array (SKA). We demonstrate that the MFs of the 21 cm signal measured with SKA-Low can be used to distinguish different reionization models, whereas the MF measurement with a HERA-like array cannot be made accurately enough. We further forecast the accuracies with which the MF measurements can place constraints on reionization parameters, using the standard Markov Chain Monte Carlo analysis for parameter inference based on forward modeling. We find that for SKA-Low observation, MFs provide unbiased estimations of the reionization parameters with accuracies comparable to the power spectrum (PS) analysis. Furthermore, joint constraints using both MFs and PS can improve the constraint accuracies by up to 30% compared to those with the PS alone. Nevertheless, the constraint accuracies can be degraded if the EOR window is shrunk with strong foreground avoidance. Our analysis demonstrates the promise of MFs as a set of summary statistics that extract complementary information from the 21 cm EOR field to the two-point statistics, which suggests a strong motivation for incorporating the MFs into the data analysis of future 21 cm observations.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Deriving the Interaction Point between a Coronal Mass Ejection and High-speed Stream: A Case Study</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c43</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c43</guid>
-<content:encoded><![CDATA[
-<div> 关键词: interplanetary coronal mass ejection, high-speed stream, minimum variance analysis, Walen test, drag-based model<br />
-总结: 
-本研究分析了2016年10月12日在L1拉格朗日点探测到的星际日冕物质喷发与高速流的相互作用。通过观测-建模相结合的方法，估计了相互作用发生/起始的星际空间区域。研究使用了多种分析方法，包括最小方差分析和Walen测试来研究可能出现在星际日冕物质喷发和高速流接触界面的重联耗散。同时，使用了逐步圆柱壳重建CME来估计日冕物质喷发的几何形状和源区位置。最后，使用了两步阻力模型来估计相互作用发生的星际空间区域。研究结果表明，星际实际观测显示出具有对称和未受扰动结构的磁障碍，并展现出典型星际日冕物质喷发的磁通量、螺旋度和膨胀速度特征。而最终的两步阻力模型结果表明，星际日冕物质喷发开始与高速流相互作用的地点接近地球（约0.81天文单位），与实际观测的推断相吻合。 <br /> <div>
-We analyze the interaction between an interplanetary coronal mass ejection (ICME) detected in situ at the L1 Lagrange point on 2016 October 12 with a trailing high-speed stream (HSS). We aim to estimate the region in the interplanetary (IP) space where the interaction happened/started using a combined observational-modeling approach. We use minimum variance analysis (MVA) and the Walen test to analyze possible reconnection exhaust at the interface of ICME and HSS. We perform a graduated cylindrical shell reconstruction of the CME to estimate the geometry and source location of the CME. Finally, we use a two-step drag-based model (DBM) model to estimate the region in IP space where the interaction took place. The magnetic obstacle observed in situ shows a fairly symmetric and undisturbed structure and shows the magnetic flux, helicity, and expansion profile/speed of a typical ICME. The MVA together with the Walen test, however, confirms reconnection exhaust at the ICME–HSS boundary. Thus, in situ signatures are in favor of a scenario where the interaction is fairly recent. The trailing HSS shows a distinct velocity profile which first reaches a semi-saturated plateau with an average velocity of 500 km s−1 and then saturates at a maximum speed of 710 km s−1. We find that the HSS's interaction with the ICME is influenced only by this initial plateau. The results of the two-step DBM suggest that the ICME has started interacting with the HSS close to Earth (∼0.81 au), which compares well with the deductions from in situ signatures.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>How Landmass Distribution Influences the Atmospheric Dynamics of Tidally Locked Terrestrial Exoplanets</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d5b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d5b</guid>
-<content:encoded><![CDATA[
-<div> 关键词: TRAPPIST-1e, 大气模拟, 地球系统模型, 地形, 大气化学<br />
-<br />
-TRAPPIST-1e是潜在可居住的类地系外行星，研究需要考虑地球类行星的动力学和化学过程。研究使用地球系统模型WACCM6/CESM2，模拟了TRAPPIST-1e的N2-O2大气，考虑了陆地和海洋的分布以及地形的影响。结果表明，地形对大气运输和化学过程有显著影响，包括南北半球之间的不对称性、南极和表面致命臭氧积聚等。未来的研究需要更加关注行星的陆地分布和地形对大气动力学的影响，平坦的陆地模拟将无法完整展现其动力学影响。 <br /><br />总结: 模拟TRAPPIST-1e的大气需要考虑地球类行星的动力学和化学过程。使用地球系统模型WACCM6/CESM2模拟了N2-O2大气，考虑了陆地和海洋的分布以及地形的影响，结果显示地形对大气运输和化学过程有显著影响，包括了南北半球不对称性、南极和表面致命臭氧积聚等。未来的研究需要更加关注行星的陆地分布和地形对大气动力学的影响。 <div>
-Interpretation of the ongoing efforts to simulate the atmospheres of potentially habitable terrestrial exoplanets requires that we understand the underlying dynamics and chemistry of such objects to a much greater degree than 1D or even simple 3D models enable. Here, for the tidally locked habitable-zone planet TRAPPIST-1e, we explore one effect which can shape the dynamics and chemistry of terrestrial planets: the inclusion of an Earth-like land–ocean distribution with orography. To do this we use the Earth-system model WACCM6/CESM2 to run a pair of TRAPPIST-1e models with N2–O2 atmospheres and with the substellar point fixed over either land or ocean. The presence of orography shapes atmospheric transport, and in the case of Earth-like orography, breaks the symmetry between the Northern and Southern Hemispheres which was previously found in slab ocean models. For example, peak zonal jet speeds in the Southern Hemisphere are 50%–100% faster than similar jets in the Northern Hemisphere. This also affects the meridional circulation, transporting equatorial material toward the south pole. As a result we also find significant changes in the atmospheric chemistry, including the accumulation of potentially lethal quantities of ozone at both the south pole and the surface. Future studies which investigate the effects of landmass distribution on the dynamics of exoplanetary atmospheres should pay close attention to both the dayside land fraction as well as the orography of the land. Simply modeling a flat landmass will not give a complete picture of its dynamical impact.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Data-driven Stellar Intrinsic Colors and Dust Reddenings for Spectrophotometric Data: From the Blue-edge Method to a Machine Learning Approach</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d64</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d64</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 星际颜色，XGBoost模型，大气参数，灰尘红化，机器学习
-
-这项研究开发了一个XGBoost模型，用于预测低红移源的星际颜色，并使用大气参数Teff、和[M/H]进行训练和测试。模型的泛化误差分别为0.014 mag、0.050 mag和0.040 mag。研究还发现，GSP-phot参数的偏差对星际颜色预测没有显著影响。该模型在包含5714528个红移星的样本中得到应用，结果与文献数值的比较表明了XGBoost模型的准确性。此外，研究还发现了银河经度与灭绝定律E(GBP − KS)/E(GBP − GRP)的大尺度变化。这项工作初步展示了机器学习方法在星际颜色和尘埃红化计算中的可行性和准确性，其产品可广泛应用于光谱测光数据。数据集和训练模型可通过Zenodo访问。未来的工作将完成更多波段的模型。 <br /><br />总结: 该研究使用XGBoost模型预测了低红移源的星际颜色，结果表明模型的泛化误差很小。研究还发现了大尺度上灭绝定律与银河经度的变化关系。这表明了机器学习方法在星际颜色和尘埃红化计算中的可行性和准确性。 <div>
-Intrinsic colors (ICs) of stars are essential for studies on both stellar physics and dust reddening. In this work, we developed an XGBoost model to predict ICs with the atmospheric parameters Teff, , and [M/H]. The model was trained and tested for three colors at Gaia and Two Micron All Sky Survey bands with 1,040,446 low-reddening sources. The atmospheric parameters were determined by the Gaia DR3 General Stellar Parameterizer from Photometry (GSP-phot) module and were validated by comparing with the Apache Point Observatory Galactic Evolution Experiment and Large Sky Area Multi-Object fiber Spectroscopic Telescope. We further confirmed that the biases in GSP-phot parameters, especially for [M/H], do not present a significant impact on the IC prediction. The generalization error of the model estimated by the test set is 0.014 mag for , 0.050 mag for , and 0.040 mag for . The model was applied to a sample containing 5,714,528 reddened stars with stellar parameters from R. Andrae et al. to calculate ICs and reddenings. The high consistency in the comparison of E(J − KS) between our results and literature values further validates the accuracy of the XGBoost model. The variation of E(GBP − KS)/E(GBP − GRP), a representation of the extinction law, with Galactic longitude is found on large scales. This work preliminarily presents the feasibility and accuracy of the machine learning approach for IC and dust reddening calculation, whose products could be widely applied to spectrophotometric data. The data sets and trained model can be accessed via Zenodo, doi:10.5281/zenodo.12787594. Models for more bands will be completed in following work.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Origin of the Very High Energy Gamma Rays in the Low-luminosity Active Galactic Nucleus NGC 4278</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e81</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e81</guid>
-<content:encoded><![CDATA[
-<div> NGC 4278, LINER, γ-ray source, Swift-XRT, spectral energy distribution
-<br /><br />
-NGC 4278是一个低光度活动星系核，通常被归类为低电离核发射线区(LINER)。最近，有报道称它与首个大型高海拔空气淋浴观测站(LHAASO)源目录中的一个很高能的γ射线源1LHAASO J1219+2915相关。然而，通过分析费米伽马射线空间望远镜(LAT)的数据，没有检测到相关联的对应物。通过分析Swift-XRT的X射线观测数据，我们发现NGC 4278在MJD 59546时处于高通量状态，X射线通量比大约11.7年前的Chandra观测结果高出一个数量级。有趣的是，这个Swift-XRT观测是在γ射线源1LHAASO J1219+2915的活跃阶段进行的。我们提出，NGC 4278的高能γ射线的检测可能归因于其中心活动核的存在。为了再现NGC 4278的光谱能量分布(SED)，我们采用了一个单区域的轻子模型，通常用于拟合BL Lac的宽频谱SED，并发现所需的磁场强度比典型TeV BL Lac要小。此外，与典型TeV BL Lac相比，NGC 4278在无线电和TeV波段表现出显著较低的亮度。在无线电亮度与艾丁顿比平面上，NGC 4278显示出与Seyfert星系和LINERs更相似，而不是BL Lac，然而，它仍然大致跟随BL Lac在较低亮度方向的延伸。 
-<br /><br />总结: 
-1. NGC 4278被归类为低光度活动星系核(LINER)；
-2. 与γ射线源1LHAASO J1219+2915相关，但费米望远镜未检测到对应物；
-3. Swift-XRT观测显示NGC 4278处于高通量状态；
-4. 提出NGC 4278的高能γ射线检测可能与活动核有关；
-5. 采用轻子模型再现NGC 4278的光谱能量分布，磁场强度较小。 <div>
-NGC 4278, a low-luminosity active galactic nucleus, is generally classified as a low-ionization nuclear emission-line region (LINER). Recently, it has been reported to be associated with a very high energy γ-ray source 1LHAASO J1219+2915 in the first Large High Altitude Air Shower Observatory source catalog. However, no associated counterpart has been detected by analyzing the data collected by the Large Area Telescope on board the Fermi Gamma-ray Space Telescope. By analyzing its X-ray observation data from Swift-XRT, we find that NGC 4278 is in a high-flux state on MJD 59546, with the X-ray flux more than one order of magnitude higher than that observed ∼11.7 yr earlier by Chandra. Interestingly, this Swift-XRT observation was conducted during the active phase of the γ-ray source 1LHAASO J1219+2915. We propose that the detection of very high energy γ-rays from NGC 4278 may be attributed to the presence of an active nucleus in its center. To reproduce the spectral energy distribution (SED) of NGC 4278, we employ a one-zone leptonic model, typically used for fitting broadband SEDs of BL Lacs, and find that a smaller magnetic field strength is required than that of typical TeV BL Lacs. Furthermore, NGC 4278 exhibits significantly lower luminosity in both radio and TeV bands when compared with typical TeV BL Lacs. In the radio luminosity versus Eddington ratio plane, NGC 4278 shows greater similarity to Seyfert galaxies and LINERs than to BL Lacs; however, it still roughly follows the extension toward lower luminosity seen in BL Lacs.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Progenitor and Central Engine of Short-duration GRB 201006A Associated with a Coherent Radio Flash</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e85</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6e85</guid>
-<content:encoded><![CDATA[
-<div> GRB 201006A, coherent radio flash, supramassive magnetar, magnetar surface magnetic field, merger of compact stars
-<br /><br />
-这篇文章讨论了短暂持续的伽玛射线暴GRB 201006A产生的一次相干射电闪焰，研究认为射电闪焰可能源自超质量磁星坍缩成黑洞的过程，该磁星的表面磁场和初始自转周期落在合理范围内。作者还观察到了不符合预期的光学数据，认为这与GRB 201006A相关的铀新星辐射未被探测到。总体来说，文章认为GRB 201006A的射电闪焰、光谱能量关联和光学观测数据支持了紧凑星的合并模型。 <br /><br />总结: <div>
-Recently, the detection of a coherent radio flash associated with short-duration GRB 201006A, occurring 76.6 minutes after the burst, has attracted great attention. However, the physical origin of the coherent radio flash remains under debate. By reanalyzing its data observed by Fermi and Swift, we find that an early radio afterglow as the physical origin of the radio flash can be ruled out, but the coherent radio emission seems to be consistent with the hypothesis of a supramassive magnetar as the central engine collapsing into a black hole. Within this scenario, the derived magnetar surface magnetic field (Bp) and the initial spin period (P0) fall into a reasonable range but require a preferably low value of ηR = 10−7 or 10−6. Moreover, the calculated low-ε value and Eγ,iso–Ep correlation of GRB 201006A also supports the progenitor which is from the merger of compact stars. We also discuss the non-detected kilonova emission associated with GRB 201006A, and then compare with its upper limits of optical observations.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Tilted Disk Precession and Negative Superhumps in HS 2325+8205: A Multiwindow Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f05</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f05</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 倾斜盘旋转、阴性超级高峰、HS 2325+8205、周期变化、光度测量
-总结: 本文利用TESS光度测量数据对矮新星HS 2325+8205中的倾斜盘旋转和阴性超级高峰进行了综合研究。发现了0.185671日的阴性超级高峰，并观察到这一频率和倾斜盘旋转周期3.943日以及4.135日周期的星食最小值的周期性变化。此外，还发现了星食深度和NSH振幅的双周期变化（P1 = 4.131日和P2 = 2.065日），并发现NSH振幅和星食深度随NSH频率的增加而减小，而NSH振幅与星食深度正相关。这些复杂的变化为理解倾斜盘旋转和阴性超级高峰提供了充分的证据。<br /><br /> <div>
-Tilted disk precession exists in different objects. Negative superhumps (NSHs) in cataclysmic variable stars are believed to arise from the interaction between the reverse precession of a tilted disk and the streams from the secondary star. Utilizing Transiting Exoplanet Survey Satellite photometry, we present a comprehensive investigation into the tilted disk precession and NSHs in the dwarf nova (DN) HS 2325+8205, employing eclipse minima, eclipse depths, NSH frequencies, and NSH amplitudes and the correlation between them as the windows. We identified NSHs with a period of 0.185671(17) day in HS 2325+8205. The NSH frequency exhibits variability with a period of 3.943(9) days, akin to the tilted disk precession period validated in nova-like stars (SDSS J0812) and intermediate polars (IPs; TV Col). The O − C of the eclipse minima were similarly found to vary cyclically in a period of 4.135(5) days, characterized by a faster rise than fall. Furthermore, the NSH amplitude exhibits complex and diverse variations, which may be linked to changes in the disk radius, the mass transfer rate, and the apparent area of the hot spot. For the first time in DNe, we observe biperiodic variations in eclipse depth (P1 = 4.131(4) days and P2 = 2.065(2) days ≈ Pprec/2) resembling those seen in IPs, suggesting that variations with P2 are not attributable to an accretion curtain, as previously suspected. Moreover, NSH amplitude and eclipse depth decrease with increasing NSH frequency, while NSH amplitude correlates positively with eclipse depth. These complex variations observed across multiple observational windows provide substantial evidence for the understanding of tilted disk precession and NSHs.
-]]></content:encoded>
-<pubDate>2024-10-08T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Forecasting Solar Energetic Particle Events During Solar Cycles 23 and 24 Using Interpretable Machine Learning</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f0e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f0e</guid>
-<content:encoded><![CDATA[
-<div> Solar energetic particle (SEP), prediction, machine learning, support vector machines, accuracy<br />
-<br />总结:<br />本文使用了机器学习方法来评估新数据对太阳耀斑后SEP事件的预测潜力。研究发现尽管数据量增加，预测精度仍未超过之前的基准，但模拟实际操作环境的线性支持向量机模型显示对SEP事件的预测精度略有提高。这表明需要更复杂、物理知识驱动的模型以更好地理解导致SEP事件的基本过程。 <div>
-The prediction of solar energetic particle (SEP) events garners increasing interest as space missions extend beyond Earth’s protective magnetosphere. These events, which are, in most cases, products of magnetic-reconnection-driven processes during solar flares or fast coronal-mass-ejection-driven shock waves, pose significant radiation hazards to aviation, space-based electronics, and particularly space exploration. In this work, we utilize the recently developed data set that combines the Solar Dynamics Observatory/Space-weather Helioseismic and Magnetic Imager Active Region Patches and the Solar and Heliospheric Observatory/Space-weather Michelson Doppler Imager Active Region Patches. We employ a suite of machine learning strategies, including support vector machines (SVMs) and regression models, to evaluate the predictive potential of this new data product for a forecast of post-solar flare SEP events. Our study indicates that despite the augmented volume of data, the prediction accuracy reaches 0.7 ± 0.1 (experimental setting), which aligns with but does not exceed these published benchmarks. A linear SVM model with training and testing configurations that mimic an operational setting (positive–negative imbalance) reveals a slight increase (+0.04 ± 0.05) in the accuracy of a 14 hr SEP forecast compared to previous studies. This outcome emphasizes the imperative for more sophisticated, physics-informed models to better understand the underlying processes leading to SEP events.
 ]]></content:encoded>
 <pubDate>2024-10-08T23:00:00Z</pubDate>
 </item>
