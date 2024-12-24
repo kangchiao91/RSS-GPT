@@ -5,17 +5,48 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Self-interacting Dark Matter, Core Collapse, and the Galaxy–Galaxy Strong-lensing Discrepancy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</guid>
+<title>Bar Formation and Destruction in the FIRE-2 Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b45</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b45</guid>
 <content:encoded><![CDATA[
 
-Gravitational lensing by galaxy clusters has emerged as a powerful tool to probe the standard cold dark matter (CDM) paradigm of structure formation in the Universe. Despite the remarkable explanatory power of CDM on large scales, tensions with observations on small scales have been reported. Recent studies find that the observational cross section for galaxy–galaxy strong lensing (GGSL) in clusters exceeds the CDM prediction by more than an order of magnitude and persists even after rigorous examination of various possible systematics. We investigate the impact of modifying the internal structure of cluster dark matter subhalos on GGSL and report that altering the inner density profile, given by rγ, to steeper slopes with γ > 2.5 can alleviate the GGSL discrepancy. This is steeper than slopes obtained with the inclusion of the contribution of baryons to the inner regions of these subhalos. Deviating from the γ ~ 1.0 cusps that CDM predicts, these steeper slopes could arise in models of self-interacting dark matter undergoing core collapse. Our results motivate additional study of subhalo core collapse in dense cluster environments.
+The physical mechanisms responsible for bar formation and destruction in galaxies remain a subject of debate. While we have gained valuable insight into how bars form and evolve from isolated idealized simulations, in the cosmological domain, galactic bars evolve in complex environments, with mergers and gas accretion events occurring in the presence of the turbulent interstellar medium with multiple star formation episodes, in addition to coupling with their host galaxies’ dark matter halos. We investigate the bar formation in 13 Milky Way–mass galaxies from the Feedback in Realistic Environments (FIRE-2) cosmological zoom-in simulations. 8 of the 13 simulated galaxies form bars at some point during their history: three from tidal interactions and five from internal evolution of the disk. The bars in FIRE-2 are generally shorter than the corotation radius (mean bar radius ∼1.53 kpc), have a wide range of pattern speeds (36–97 km s−1 kpc−1), and live for a wide range of dynamical times (2–160 bar rotations). We find that the bar formation in FIRE-2 galaxies is influenced by satellite interactions and the stellar-to-dark-matter mass ratio in the inner galaxy, but neither is a sufficient condition for bar formation. Bar formation is more likely to occur, with the bars formed being stronger and longer-lived, if the disks are kinematically cold; galaxies with high central gas fractions and/or vigorous star formation, on the other hand, tend to form weaker bars. In the case of the FIRE-2 galaxies, these properties combine to produce ellipsoidal bars with strengths A2/A0 ∼ 0.1–0.2.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Reverberation Mapping of Lamppost and Wind Structures in Accretion Thin Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93af</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93af</guid>
+<content:encoded><![CDATA[
+
+To address the discrepancy where disk sizes exceed those predicted by standard models, we explore two extensions to disk size estimates within the UV/optical wavelength range: disk winds and color correction. We provide detailed, self-consistent derivations and analytical formulas, including those based on a power-law temperature approximation, offering efficient tools for analyzing observational data. Applying our model to four type I active galactic nuclei with intensive reverberation mapping observations, we find a shallower temperature slope (T ∝ R−0.66, compared to R−3/4 traditionally) and a color-correction factor (fcol ≈ 1.6), consistent with previous studies. We observe a positive correlation between accretion rate and color correction with black hole mass. However, the small sample size limits our conclusions. The strong degeneracy between the temperature slope and accretion rate suggests that incorporating flux spectra or spectral energy distributions could improve fitting accuracy. Our simulation approach rapidly generates quasar light curves while accommodating various observational scenarios for reverberation mapping, making it well-suited for training machine learning algorithms.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Analysis of Solar Eruptions Deflecting in the Low Corona: Influence of the Magnetic Environment</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad96ba</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad96ba</guid>
+<content:encoded><![CDATA[
+
+Coronal mass ejections (CMEs) can exhibit nonradial evolution. The background magnetic field is considered the main driver for the trajectory deviation relative to the source region. The influence of the magnetic environment has been largely attributed to the gradient of the magnetic pressure. In this work, we propose a new approach for investigating the role of topology on CME deflection and for quantifying and comparing the action between the magnetic field gradient (“gradient” path) and the topology (“topological” path). We investigate eight events simultaneously observed by the Solar Orbiter, STEREO-A, and the Solar Dynamics Observatory; and, with a new tracking technique, we reconstruct the 3D evolution of the eruptions. Then, we compare their propagation with the predictions from the two magnetic drivers. We find that the “topological” path describes the CME actual trajectory much better than the more traditional “gradient path.” Our results strongly indicate that the ambient topology may be the dominant driver for deflections in the low corona, and that this presents a promising method for estimating the direction of propagation of CMEs early in their evolution.
 ]]></content:encoded>
 
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>Self-interacting Dark Matter, Core Collapse, and the Galaxy–Galaxy Strong-lensing Discrepancy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</guid>
+<content:encoded><![CDATA[
+Gravitational lensing by galaxy clusters has emerged as a powerful tool to probe the standard cold dark matter (CDM) paradigm of structure formation in the Universe. Despite the remarkable explanatory power of CDM on large scales, tensions with observations on small scales have been reported. Recent studies find that the observational cross section for galaxy–galaxy strong lensing (GGSL) in clusters exceeds the CDM prediction by more than an order of magnitude and persists even after rigorous examination of various possible systematics. We investigate the impact of modifying the internal structure of cluster dark matter subhalos on GGSL and report that altering the inner density profile, given by rγ, to steeper slopes with γ > 2.5 can alleviate the GGSL discrepancy. This is steeper than slopes obtained with the inclusion of the contribution of baryons to the inner regions of these subhalos. Deviating from the γ ~ 1.0 cusps that CDM predicts, these steeper slopes could arise in models of self-interacting dark matter undergoing core collapse. Our results motivate additional study of subhalo core collapse in dense cluster environments.
+]]></content:encoded>
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
 <item>
 <title>Diffusion-HMC: Parameter Inference with Diffusion-model-driven Hamiltonian Monte Carlo</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc3</link>
@@ -10906,18 +10937,6 @@ After decades of brown dwarf discovery and follow-up, we can now infer the funct
 总结: 
 GS3 Hunter是一个基于深度学习的新方法，用于在星动力学数据中搜索亚结构和星流。该方法在FIRE宇宙模拟和Gaia和GALAH数据集的子集上进行了验证，并成功识别出相应的结果。此外，还应用于LAMOST数据集的K型巨星子集，识别出了已知的结构以及一些新的亚结构。GS3 Hunter有望成为一个有用的工具，帮助推进我们对银河系和局部星系团内外晕的理解，以及银河系周围的组装和潮汐剥离历史。<br /><br /> <div>
 We present a novel, deep-learning-based method—dubbed Galactic-Seismology Substructures and Streams Hunter, or GS3 Hunter for short—to search for substructures and streams in stellar kinematics data. GS3 Hunter relies on a combined application of Siamese neural networks to transform the phase space information and the K-means algorithm for the clustering. As a validation test, we apply GS3 Hunter to a subset of the Feedback in Realistic Environments (FIRE) cosmological simulations. The stellar streams and substructures thus identified are in good agreement with corresponding results reported earlier by the FIRE team. In the same vein, we apply our method to a subset of local halo stars from the Gaia Early Data Release 3 and GALAH DR3 data sets and recover several previously known dynamical groups, such as Thamnos 1+2, the hot thick disk, ED-1, L-RL3, Helmi 1+2, Gaia-Sausage-Enceladus, Sequoia, Virgo Radial Merger, Cronus, and Nereus. Finally, we apply our method without fine-tuning to a subset of K giant stars located in the inner halo region, obtained from the LAMOST Data Release 5 data set. We recover three previously known structures (Sagittarius, Hercules-Aquila Cloud, and the Virgo Overdensity), but we also discover a number of new substructures. We anticipate that GS3 Hunter will become a useful tool for the community dedicated to the search for stellar streams and structures in the Milky Way (MW) and the Local Group, thus helping advance our understanding of the stellar inner and outer halos and the assembly and tidal stripping history in and around the MW.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Evolving Outer Heliosphere: Tracking Solar Wind Transients from 1 au to the VLISM with IBEX and Voyager 1</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad725a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad725a</guid>
-<content:encoded><![CDATA[
-<div> IBEX, ENA, SW-LISM interaction, Voyager 1, Voyager 2
-总结:
-Interstellar Boundary Explorer (IBEX)观测了来自太阳圈层的能量中性原子（ENA）通量，丰富了我们对太阳风与局部星际介质（LISM）相互作用的理解。研究人员提出了一个新模型，利用磁流体动力学模拟太阳风-LISM相互作用，并在通过太阳圈后传播捡起离子后分析了来自Voyager 2方向的IBEX观测。这项研究扩展了模型，包括了来自Voyager 1方向以及带状的低纬度部分。研究结果显示，Voyager 1方向的模型与Voyager 2方向的结果一致，并且中间带状部分的结果也能复现实际观测。最后，研究人员通过模拟展示了三个大压力波很可能在VLISM中合并，并被Voyager 1观测到为“pf2”，而至少其中一个波的效应在太阳圈层中被IBEX观测到，表现为2016年初ENA通量的短暂增强。 <div>
-Interstellar Boundary Explorer (IBEX) observations of energetic neutral atom (ENA) fluxes from the heliosphere have greatly enriched our understanding of the interaction of the solar wind (SW) with the local interstellar medium (LISM). However, there has been recent controversy surrounding the inability of most ENA models to produce as high an intensity of ∼0.5–6 keV ENAs as IBEX observes at 1 au, especially as a function of time. In our previous study (E. J. Zirnstein et al.), we introduced a new model that utilizes a data-driven magnetohydrodynamic simulation of the SW–LISM interaction to propagate pickup ions through the heliosheath (HS) after they are nonadiabatically heated at the heliospheric termination shock. E. J. Zirnstein et al. only simulated and analyzed IBEX observations from the direction of Voyager 2. In this study, we expand our model to include fluxes from the direction of Voyager 1, as well as in the low-latitude part (middle) of the ribbon (10° below the ecliptic plane). We show that the model results at Voyager 1 are consistent with E. J. Zirnstein et al.’s results at Voyager 2 in terms of a secondary ENA source contribution of ≲20% from both directions. Our results in the middle of the ribbon also reproduce the data, when including a time-dependent secondary ENA source. Finally, we demonstrate with our simulation that three large pressure waves likely merged in the VLISM and were observed by Voyager 1 as “pf2,” while at least one of the wave’s effects in the HS was observed by IBEX as a brief enhancement in ENA flux in early 2016.
 ]]></content:encoded>
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
