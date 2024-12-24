@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Bar Formation and Destruction in the FIRE-2 Simulations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b45</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b45</guid>
 <content:encoded><![CDATA[
-
 The physical mechanisms responsible for bar formation and destruction in galaxies remain a subject of debate. While we have gained valuable insight into how bars form and evolve from isolated idealized simulations, in the cosmological domain, galactic bars evolve in complex environments, with mergers and gas accretion events occurring in the presence of the turbulent interstellar medium with multiple star formation episodes, in addition to coupling with their host galaxies’ dark matter halos. We investigate the bar formation in 13 Milky Way–mass galaxies from the Feedback in Realistic Environments (FIRE-2) cosmological zoom-in simulations. 8 of the 13 simulated galaxies form bars at some point during their history: three from tidal interactions and five from internal evolution of the disk. The bars in FIRE-2 are generally shorter than the corotation radius (mean bar radius ∼1.53 kpc), have a wide range of pattern speeds (36–97 km s−1 kpc−1), and live for a wide range of dynamical times (2–160 bar rotations). We find that the bar formation in FIRE-2 galaxies is influenced by satellite interactions and the stellar-to-dark-matter mass ratio in the inner galaxy, but neither is a sufficient condition for bar formation. Bar formation is more likely to occur, with the bars formed being stronger and longer-lived, if the disks are kinematically cold; galaxies with high central gas fractions and/or vigorous star formation, on the other hand, tend to form weaker bars. In the case of the FIRE-2 galaxies, these properties combine to produce ellipsoidal bars with strengths A2/A0 ∼ 0.1–0.2.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ The physical mechanisms responsible for bar formation and destruction in galaxie
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93af</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93af</guid>
 <content:encoded><![CDATA[
-
 To address the discrepancy where disk sizes exceed those predicted by standard models, we explore two extensions to disk size estimates within the UV/optical wavelength range: disk winds and color correction. We provide detailed, self-consistent derivations and analytical formulas, including those based on a power-law temperature approximation, offering efficient tools for analyzing observational data. Applying our model to four type I active galactic nuclei with intensive reverberation mapping observations, we find a shallower temperature slope (T ∝ R−0.66, compared to R−3/4 traditionally) and a color-correction factor (fcol ≈ 1.6), consistent with previous studies. We observe a positive correlation between accretion rate and color correction with black hole mass. However, the small sample size limits our conclusions. The strong degeneracy between the temperature slope and accretion rate suggests that incorporating flux spectra or spectral energy distributions could improve fitting accuracy. Our simulation approach rapidly generates quasar light curves while accommodating various observational scenarios for reverberation mapping, making it well-suited for training machine learning algorithms.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@ To address the discrepancy where disk sizes exceed those predicted by standard m
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad96ba</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad96ba</guid>
 <content:encoded><![CDATA[
-
 Coronal mass ejections (CMEs) can exhibit nonradial evolution. The background magnetic field is considered the main driver for the trajectory deviation relative to the source region. The influence of the magnetic environment has been largely attributed to the gradient of the magnetic pressure. In this work, we propose a new approach for investigating the role of topology on CME deflection and for quantifying and comparing the action between the magnetic field gradient (“gradient” path) and the topology (“topological” path). We investigate eight events simultaneously observed by the Solar Orbiter, STEREO-A, and the Solar Dynamics Observatory; and, with a new tracking technique, we reconstruct the 3D evolution of the eruptions. Then, we compare their propagation with the predictions from the two magnetic drivers. We find that the “topological” path describes the CME actual trajectory much better than the more traditional “gradient path.” Our results strongly indicate that the ambient topology may be the dominant driver for deflections in the low corona, and that this presents a promising method for estimating the direction of propagation of CMEs early in their evolution.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Self-interacting Dark Matter, Core Collapse, and the Galaxy–Galaxy Strong-lensing Discrepancy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</link>
@@ -10900,43 +10894,6 @@ Lyman-alpha-emitting galaxies (LAEs) are typically young, low-mass, star-forming
 <div> 关键词: 电磁波，引力波，强重力环境，强化学习，kilonova
 总结:<br /><br />本文讨论了联合观测电磁波和引力波对研究极端重力环境中物体及其周围环境的物理性质的重要性。作者介绍了发现和推断这类现象的挑战，以及使用强化学习方法解决这些问题的潜力。他们通过训练一个玩具强化学习代理来展示其效用，但也指出现有模型的不足之处。最后，强调了机器指导软件基础设施在响应下一代探测器、进行科学推断和优化规划昂贵的后续观测方面的潜在作用。 <div>
 Joint observations in electromagnetic and gravitational waves shed light on the physics of objects and surrounding environments with extreme gravity that are otherwise unreachable via siloed observations in each messenger. However, such detections remain challenging due to the rapid and faint nature of counterparts. Protocols for discovery and inference still rely on human experts manually inspecting survey alert streams and intuiting optimal usage of limited follow-up resources. Strategizing an optimal follow-up program requires adaptive sequential decision-making given evolving light curve data that (i) maximizes a global objective despite incomplete information and (ii) is robust to stochasticity introduced by detectors/observing conditions. Reinforcement learning (RL) approaches allow agents to implicitly learn the physics or detector dynamics and the behavior policy that maximizes a designated objective through experience. To demonstrate the utility of such an approach for the kilonova follow-up problem, we train a toy RL agent with the goal of maximizing follow-up photometry for the true kilonova among several contaminant transient light curves. In a simulated environment where the agent learns online, it achieves 3× higher accuracy compared to a random strategy. However, it is surpassed by human agents by up to a factor of 2. This is likely because our hypothesis function (Q that is linear in state-action features) is an insufficient representation of the optimal behavior policy. More complex agents could perform at par or surpass human experts. Agents like these could pave the way for machine-directed software infrastructure to efficiently respond to next generation detectors, for conducting science inference and optimally planning expensive follow-up observations, scalably and with demonstrable performance guarantees.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Fast Downflows Observed during a Polar Crown Filament Eruption</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad738d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad738d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳丝状物, 极冠丝状物, 火花带, 磁通绳, 磁重联
-总结:
-太阳丝状物可以发生喷发，形成日冕物质抛射，对行星空间环境产生显著影响。研究报告了一次极冠丝状物的喷发，喷发时出现快速向下的流动。这些向下流动可能是磁通绳的腿上发生的连续重联的结果，也可能是重定向的丝状物质。此外，还观察到了向下流动位置的水平漂移，可能对跟踪磁通绳的足点位置在喷发过程中具有重要意义。 <div>
-Solar filaments can undergo eruptions that result in the formation of coronal mass ejections, which can significantly impact planetary space environments. Observations of eruptions involving polar crown filaments, situated in the polar regions of the Sun, are limited. In this study, we report a polar crown filament eruption (SOL2023-06-12), characterized by fast downflows below the filament. The downflows appear instantly after the onset of the filament eruption and persist for approximately 2 hr, exhibiting plane-of-sky velocities ranging between 92 and 144 km s−1. They originate from the leading edge of the filament, and no clear acceleration is observed. Intriguingly, these downflows appear at two distinct sites, symmetrically positioned at the opposite ends of the conjugate flare ribbons. Based on the observations, we propose that the filament might be supported by a magnetic flux rope (MFR), and these downflows possibly occur along the legs of the MFR. The downflows likely result from continuous reconnections between the MFR and the overlying magnetic field structures and could either be reconnection outflows or redirected filament materials. We also observed horizontal drifting of the locations of downflows, which might correspond to the MFR’s footpoint drifting. This type of downflow can potentially be utilized to track the footpoints of MFRs during eruptions.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Simulating Brown Dwarf Observations for Various Mass Functions, Birthrates, and Low-mass Cutoffs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad62fc</guid>
-<content:encoded><![CDATA[
-<div> brown dwarfs, mass distribution, star formation theory, effective temperature distribution, birthrate functions
-<br /><br />
-这篇文章总结了对20 pc范围内棕矮星质量分布的研究成果。棕矮星的质量与其可观测参数（光度、光谱类型或颜色）之间缺乏相关性，因此棕矮星质量函数的测量必须通过代理测量和理论模型来获得。研究利用各种质量函数形式、出生率函数、低质量截断和理论进化模型，建立了有效温度分布的预测形式，并找到了与观测到的有效温度分布最匹配的质量函数。最终得出了一个简单的幂律形式的质量函数，并确定了恒星形成的低质量截断。研究还发现出生率对温度分布的影响较小，但不同的出生率倾向于较小的幂指数值。研究中的代码可公开获取。此外，研究还通过模拟老年（8-10亿年）棕矮星的分布，提出了亚矮温度间隙的宽度和位置的发现。
-<br />总结: 棕矮星质量分布的研究揭示了质量函数形式和恒星形成的低质量截断，同时强调出生率对温度分布的影响。研究中开发的代码可用于模拟棕矮星的分布，并通过模拟老年棕矮星的分布，得出了亚矮温度间隙的宽度和位置的发现。 <div>
-After decades of brown dwarf discovery and follow-up, we can now infer the functional form of the mass distribution within 20 pc, which serves as a constraint on star formation theory at the lowest masses. Unlike objects on the main sequence that have a clear luminosity-to-mass correlation, brown dwarfs lack a correlation between an observable parameter (luminosity, spectral type, or color) and mass. A measurement of the brown dwarf mass function must therefore be procured through proxy measurements and theoretical models. We utilize various assumed forms of the mass function, together with a variety of birthrate functions, low-mass cutoffs, and theoretical evolutionary models, to build predicted forms of the effective temperature distribution. We then determine the best fit of the observed effective temperature distribution to these predictions, which in turn reveals the most likely mass function. We find that a simple power law ( ) with α ≈ 0.5 is optimal. Additionally, we conclude that the low-mass cutoff for star formation is ≲0.005 M⊙. We corroborate the findings of Burgasser, which state that the birthrate has a far lesser impact than the mass function on the form of the temperature distribution, but we note that our alternate birthrates tend to favor slightly smaller values of α than the constant birthrate. Our code for simulating these distributions is publicly available. As another use case for this code, we present findings on the width and location of the subdwarf temperature gap by simulating distributions of very old (8–10 Gyr) brown dwarfs.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Galactic-Seismology Substructures and Streams Hunter with LAMOST and Gaia. I. Methodology and Local Halo Results</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d59</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6d59</guid>
-<content:encoded><![CDATA[
-<div> 关键词: GS3 Hunter, 深度学习, 星动力学数据, 天体模拟, 银河系<br />
-总结: 
-GS3 Hunter是一个基于深度学习的新方法，用于在星动力学数据中搜索亚结构和星流。该方法在FIRE宇宙模拟和Gaia和GALAH数据集的子集上进行了验证，并成功识别出相应的结果。此外，还应用于LAMOST数据集的K型巨星子集，识别出了已知的结构以及一些新的亚结构。GS3 Hunter有望成为一个有用的工具，帮助推进我们对银河系和局部星系团内外晕的理解，以及银河系周围的组装和潮汐剥离历史。<br /><br /> <div>
-We present a novel, deep-learning-based method—dubbed Galactic-Seismology Substructures and Streams Hunter, or GS3 Hunter for short—to search for substructures and streams in stellar kinematics data. GS3 Hunter relies on a combined application of Siamese neural networks to transform the phase space information and the K-means algorithm for the clustering. As a validation test, we apply GS3 Hunter to a subset of the Feedback in Realistic Environments (FIRE) cosmological simulations. The stellar streams and substructures thus identified are in good agreement with corresponding results reported earlier by the FIRE team. In the same vein, we apply our method to a subset of local halo stars from the Gaia Early Data Release 3 and GALAH DR3 data sets and recover several previously known dynamical groups, such as Thamnos 1+2, the hot thick disk, ED-1, L-RL3, Helmi 1+2, Gaia-Sausage-Enceladus, Sequoia, Virgo Radial Merger, Cronus, and Nereus. Finally, we apply our method without fine-tuning to a subset of K giant stars located in the inner halo region, obtained from the LAMOST Data Release 5 data set. We recover three previously known structures (Sagittarius, Hercules-Aquila Cloud, and the Virgo Overdensity), but we also discover a number of new substructures. We anticipate that GS3 Hunter will become a useful tool for the community dedicated to the search for stellar streams and structures in the Milky Way (MW) and the Local Group, thus helping advance our understanding of the stellar inner and outer halos and the assembly and tidal stripping history in and around the MW.
 ]]></content:encoded>
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
