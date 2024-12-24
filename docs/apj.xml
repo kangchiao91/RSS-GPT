@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Self-interacting Dark Matter, Core Collapse, and the Galaxy–Galaxy Strong-lensing Discrepancy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b09</guid>
+<content:encoded><![CDATA[
+
+Gravitational lensing by galaxy clusters has emerged as a powerful tool to probe the standard cold dark matter (CDM) paradigm of structure formation in the Universe. Despite the remarkable explanatory power of CDM on large scales, tensions with observations on small scales have been reported. Recent studies find that the observational cross section for galaxy–galaxy strong lensing (GGSL) in clusters exceeds the CDM prediction by more than an order of magnitude and persists even after rigorous examination of various possible systematics. We investigate the impact of modifying the internal structure of cluster dark matter subhalos on GGSL and report that altering the inner density profile, given by rγ, to steeper slopes with γ > 2.5 can alleviate the GGSL discrepancy. This is steeper than slopes obtained with the inclusion of the contribution of baryons to the inner regions of these subhalos. Deviating from the γ ~ 1.0 cusps that CDM predicts, these steeper slopes could arise in models of self-interacting dark matter undergoing core collapse. Our results motivate additional study of subhalo core collapse in dense cluster environments.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Diffusion-HMC: Parameter Inference with Diffusion-model-driven Hamiltonian Monte Carlo</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc3</guid>
 <content:encoded><![CDATA[
-
 Diffusion generative models have excelled at diverse image generation and reconstruction tasks across fields. A less explored avenue is their application to discriminative tasks involving regression or classification problems. The cornerstone of modern cosmology is the ability to generate predictions for observed astrophysical fields from theory and constrain physical models from observations using these predictions. This work uses a single diffusion generative model to address these interlinked objectives—as a surrogate model or emulator for cold dark matter density fields conditional on input cosmological parameters, and as a parameter inference model that solves the inverse problem of constraining the cosmological parameters of an input field. The model is able to emulate fields with summary statistics consistent with those of the simulated target distribution. We then leverage the approximate likelihood of the diffusion generative model to derive tight constraints on cosmology by using the Hamiltonian Monte Carlo method to sample the posterior on cosmological parameters for a given test image. Finally, we demonstrate that this parameter inference approach is more robust to small perturbations of noise to the field than baseline parameter inference networks.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@ Diffusion generative models have excelled at diverse image generation and recons
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98e9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98e9</guid>
 <content:encoded><![CDATA[
-
 Earlier studies have shown that less than one-third of coronal mass ejections (CMEs) possess the archetypical three-part (bright core, dark cavity, and bright front) structure in the outer corona (e.g., 2–6 R⊙). In the traditional opinion, the core, cavity, and front correspond to the erupted filament, magnetic flux rope (MFR), and plasma pileup along the MFR border, respectively. Recent studies have demonstrated that nearly 100% of normal CMEs have a three-part structure in the inner corona (<2 R⊙), agreeing with the prediction of a new explanation of the nature of the three-part structure. In the new opinion, the core and front correspond to the MFR plasma and plasma pileup along the coronal loops, respectively. The cavity is either a part of the MFR, or a low-density zone between the front and the MFR. In this paper, we revisit a textbook case of an eruption that occurred on 2017 September 10. In the inner corona, the CME exhibited a clear three-part appearance in the extreme-ultraviolet images and had a smooth-curved front, while, in the outer corona, the CME loses the three-part feature as the core expands and the cavity disappears. Meanwhile, a bulge appears at the CME front as the core moves faster than the front and protrudes from its bottom. It is difficult to understand the disappearance of the cavity and the appearance of the bulge if assuming the cavity as being a part of the MFR. Therefore, we suggest that the dark cavity represents a low-density zone between the front and MFR in the early eruption stage.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Intrinsic Flattening of Galaxy Disks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad932e</link>
@@ -10911,32 +10918,6 @@ We present a novel, deep-learning-based method—dubbed Galactic-Seismology Subs
 总结:
 Interstellar Boundary Explorer (IBEX)观测了来自太阳圈层的能量中性原子（ENA）通量，丰富了我们对太阳风与局部星际介质（LISM）相互作用的理解。研究人员提出了一个新模型，利用磁流体动力学模拟太阳风-LISM相互作用，并在通过太阳圈后传播捡起离子后分析了来自Voyager 2方向的IBEX观测。这项研究扩展了模型，包括了来自Voyager 1方向以及带状的低纬度部分。研究结果显示，Voyager 1方向的模型与Voyager 2方向的结果一致，并且中间带状部分的结果也能复现实际观测。最后，研究人员通过模拟展示了三个大压力波很可能在VLISM中合并，并被Voyager 1观测到为“pf2”，而至少其中一个波的效应在太阳圈层中被IBEX观测到，表现为2016年初ENA通量的短暂增强。 <div>
 Interstellar Boundary Explorer (IBEX) observations of energetic neutral atom (ENA) fluxes from the heliosphere have greatly enriched our understanding of the interaction of the solar wind (SW) with the local interstellar medium (LISM). However, there has been recent controversy surrounding the inability of most ENA models to produce as high an intensity of ∼0.5–6 keV ENAs as IBEX observes at 1 au, especially as a function of time. In our previous study (E. J. Zirnstein et al.), we introduced a new model that utilizes a data-driven magnetohydrodynamic simulation of the SW–LISM interaction to propagate pickup ions through the heliosheath (HS) after they are nonadiabatically heated at the heliospheric termination shock. E. J. Zirnstein et al. only simulated and analyzed IBEX observations from the direction of Voyager 2. In this study, we expand our model to include fluxes from the direction of Voyager 1, as well as in the low-latitude part (middle) of the ribbon (10° below the ecliptic plane). We show that the model results at Voyager 1 are consistent with E. J. Zirnstein et al.’s results at Voyager 2 in terms of a secondary ENA source contribution of ≲20% from both directions. Our results in the middle of the ribbon also reproduce the data, when including a time-dependent secondary ENA source. Finally, we demonstrate with our simulation that three large pressure waves likely merged in the VLISM and were observed by Voyager 1 as “pf2,” while at least one of the wave’s effects in the HS was observed by IBEX as a brief enhancement in ENA flux in early 2016.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Lyα Profile Shape as an Escape-fraction Diagnostic at High Redshift</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad725d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad725d</guid>
-<content:encoded><![CDATA[
-<div> 高红移星系，Lyα剖面，电离辐射逸出，Keck观测，光谱
-<br />
-这篇论文使用Keck/LRIS和Keck/MOSFIRE光谱观测数据，研究了z ∼ 3星系的Lyα剖面形状与电离辐射逸出的关联。他们发现低速度分离vLyα,red的KLCS物体的电离辐射逸出比例显著更高。他们还发现Lyα剖面形状与fesc之间没有明显趋势。与文献中z ∼ 0.3的“Green Peas”星系的测量结果相比，KLCS对象在相同vLyα,red情况下具有更大的vsep和更高的fesc。作者得出结论，高红移源的Lyα剖面形状根本不同，vLyα,red等参数与fesc之间的关系也不同，并警告不要仅基于低红移矮星系的Lyα剖面构建重离子化时期的fesc诊断。
-<br /><br />总结: 高红移星系的Lyα剖面形状与电离辐射逸出相关，低速度分离的KLCS物体具有更高的电离辐射逸出比例。Lyα剖面形状与fesc之间没有明显趋势。与z ∼ 0.3的“Green Peas”星系相比，KLCS对象具有不同的Lyα剖面形状和逸出比例。作者警告不要仅基于低红移矮星系的Lyα剖面构建重离子化时期的fesc诊断。 <div>
-While the shape of the Lyα profile is viewed as one of the best tracers of ionizing-photon escape fraction (fesc) within low-redshift (z ∼ 0.3) surveys of the Lyman continuum, this connection remains untested at high redshift. Here, we combine deep, rest-UV Keck/LRIS spectra of 80 objects from the Keck Lyman Continuum Spectroscopic Survey with rest-optical Keck/MOSFIRE spectroscopy in order to examine potential correlations between Lyα profile shape and the escape of ionizing radiation within z ∼ 3 star-forming galaxies. We measure the velocity separation between double-peaked Lyα emission structure (vsep), between red-side Lyα emission peaks and systemic (vLyα,red), and between red-side emission peaks and low-ionization interstellar absorption lines (vLyα−LIS). We find that the IGM-corrected ratio of ionizing to nonionizing flux density is significantly higher in KLCS objects with lower vLyα,red. We find no significant trend between measures of ionizing-photon escape and vLyα−LIS. We compare our results to measurements of z ∼ 0.3 “Green Peas” from the literature and find that KLCS objects have larger vsep at fixed vLyα,red, larger fesc at fixed vLyα,red, and higher vLyα,red overall than z ∼ 0.3 analogs. We conclude that the Lyα profile shapes of our high-redshift sources are fundamentally different, and that measurements of profile shape such as vLyα,red map on to fesc in different ways. We caution against building reionization-era fesc diagnostics based purely on Lyα profiles of low-redshift dwarf galaxies. Tracing vsep, vLyα,red, and fesc in a larger sample of z ∼ 3 galaxies will reveal how these variables may be connected for galaxies at the epoch of reionization.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Formation of GW230529 from Isolated Binary Evolution</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad72f0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad72f0</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 质量间隙黑洞-中子星并合, 引力波, 恒星演化, 天体物理, 脉冲星
-
-总结:
-质量间隙黑洞-中子星（mgBHNS）并合是引力波事件中GW230529的一个重要组成部分，由孤立双星演化渠道形成。研究使用“延迟”超新星模型和合理的模型实现来模拟人口综合，结果表明我们的模拟可以同时匹配从人口分析推断出的mgBHNS和总BHNS并合的速率密度，以及LIGO-Virgo-KAGRA Collaboration报道的BH质量在BHNS并合中的分布。GW230529对推断的mgBHNS速率密度贡献显著，因此我们建议GW230529可以通过孤立双星演化渠道解释。考虑AP4（DD2）态方程，GW230529发生撕裂的概率分别为12.8％（63.2％）。如果GW230529是一个撕裂事件，其金新星峰值视星等预测约为23-24等，并且可以被当前的观测项目和大型巡天望远镜发现。由于GW230529可能是GW观测推断出的非轴向事件，其相关的伽玛射线暴（GRB）可能太暗而无法被γ射线探测器观测到，解释了缺乏GRB观测。我们的研究表明由于GW230529的发现，通过孤立双星演化渠道形成mgBHNS并合的存在，表明BHNS并合仍有可能是发射引力波、伽玛射线暴和金新星的多信使源。虽然mgBHNS并合占据了宇宙学BHNS人口的约50％，但我们发现≳90％的被撕裂的BHNS并合预计来自mgBHNS并合的形成。 <div>
-In this paper, we explore the formation of the mass-gap black hole-neutron star (mgBHNS) merger detected in gravitational wave (GW) event, i.e., GW230529, from the isolated binary evolution channel, and study potential signatures of its electromagnetic counterparts. By adopting the “delayed” supernova prescription and reasonable model realizations, our population synthesis simulation results can simultaneously match the rate densities of mgBHNS and total BHNS mergers inferred from the population analyses, along with the population distribution of the BH mass in BHNS mergers reported by the LIGO–Virgo–KAGRA Collaboration. Because GW230529 contributes significantly to the inferred mgBHNS rate densities, we suggest that GW230529 can be explained through the isolated binary evolution channel. Considering the AP4 (DD2) equation of state, the probability that GW230529 can make tidal disruption is 12.8% (63.2%). If GW230529 is a disrupted event, its kilonova peak apparent magnitude is predicted ∼23–24 mag, and hence, can be detected by the present survey projects and Large Synoptic Survey Telescope. Since GW230529 could be an off-axis event inferred from the GW observation, its associated gamma-ray burst (GRB) might be too dim to be observed by γ-ray detectors, interpreting the lack of GRB observations. Our study suggests the existence of mgBHNS mergers formed through the isolated binary evolution channel due to the discovery of GW230529, indicating that BHNS mergers are still likely to be multimessenger sources that emit GWs, GRBs, and kilonovae. Although mgBHNS mergers account for ∼50% of the cosmological BHNS population, we find that ≳90% of disrupted BHNS mergers are expected to originate from mgBHNS mergers.
 ]]></content:encoded>
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
