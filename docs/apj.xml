@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Diffusion-HMC: Parameter Inference with Diffusion-model-driven Hamiltonian Monte Carlo</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc3</guid>
+<content:encoded><![CDATA[
+
+Diffusion generative models have excelled at diverse image generation and reconstruction tasks across fields. A less explored avenue is their application to discriminative tasks involving regression or classification problems. The cornerstone of modern cosmology is the ability to generate predictions for observed astrophysical fields from theory and constrain physical models from observations using these predictions. This work uses a single diffusion generative model to address these interlinked objectives—as a surrogate model or emulator for cold dark matter density fields conditional on input cosmological parameters, and as a parameter inference model that solves the inverse problem of constraining the cosmological parameters of an input field. The model is able to emulate fields with summary statistics consistent with those of the simulated target distribution. We then leverage the approximate likelihood of the diffusion generative model to derive tight constraints on cosmology by using the Hamiltonian Monte Carlo method to sample the posterior on cosmological parameters for a given test image. Finally, we demonstrate that this parameter inference approach is more robust to small perturbations of noise to the field than baseline parameter inference networks.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+<item>
+<title>On the Nature of the Dark Cavity of Solar Coronal Mass Ejections</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98e9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98e9</guid>
+<content:encoded><![CDATA[
+
+Earlier studies have shown that less than one-third of coronal mass ejections (CMEs) possess the archetypical three-part (bright core, dark cavity, and bright front) structure in the outer corona (e.g., 2–6 R⊙). In the traditional opinion, the core, cavity, and front correspond to the erupted filament, magnetic flux rope (MFR), and plasma pileup along the MFR border, respectively. Recent studies have demonstrated that nearly 100% of normal CMEs have a three-part structure in the inner corona (<2 R⊙), agreeing with the prediction of a new explanation of the nature of the three-part structure. In the new opinion, the core and front correspond to the MFR plasma and plasma pileup along the coronal loops, respectively. The cavity is either a part of the MFR, or a low-density zone between the front and the MFR. In this paper, we revisit a textbook case of an eruption that occurred on 2017 September 10. In the inner corona, the CME exhibited a clear three-part appearance in the extreme-ultraviolet images and had a smooth-curved front, while, in the outer corona, the CME loses the three-part feature as the core expands and the cavity disappears. Meanwhile, a bulge appears at the CME front as the core moves faster than the front and protrudes from its bottom. It is difficult to understand the disappearance of the cavity and the appearance of the bulge if assuming the cavity as being a part of the MFR. Therefore, we suggest that the dark cavity represents a low-density zone between the front and MFR in the early eruption stage.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Intrinsic Flattening of Galaxy Disks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad932e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad932e</guid>
 <content:encoded><![CDATA[
-
 Highly inclined (edge-on) disk galaxies offer the unique perspective to constrain their intrinsic flattening, c/a, where c and a are, respectively, the vertical and long radial axes of the disk measured at suitable stellar densities. The ratio c/a is a necessary quantity in the assessment of galaxy inclinations, three-dimensional structural reconstructions, and total masses, as well as a constraint to galaxy formation models. The 3.6 μm maps of 133 edge-on spiral galaxies from the Spitzer Survey of Stellar Structure in Galaxies (S4G) and its early-type galaxy extension are used to revisit the assessment of c/a free from dust extinction and away from the influence of a stellar bulge. We present a simple definition of c/a and explore trends with other galactic physical parameters: total stellar mass, concentration index, total H i mass, mass of the central mass concentration, circular velocity, model-dependent scales, and Hubble type. Other than a dependence on early/late Hubble types and a related trend with light concentration, no other parameters were found to correlate with the intrinsic flattening of spiral galaxies. The latter is mostly constant with 〈c/a〉 = 0.124 ± 0.001 (stat) ± 0.033 (intrinsic/systematic) and greater for earlier types.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ Highly inclined (edge-on) disk galaxies offer the unique perspective to constrai
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad938e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad938e</guid>
 <content:encoded><![CDATA[
-
 The disk mass and substructure in young stellar objects suggest that planet formation may start at the protostellar stage, through the growth of dust grains. To accurately estimate the grain size at the protostellar stage, we have observed the Class I protostar TMC-1A using the Jansky Very Large Array (VLA) at the Q (7 mm) and Ka (9 mm) bands at a resolution of ∼0.″2 and analyzed archival data of the Atacama Large Millimeter/submillimeter Array (ALMA) at Bands 6 (1.3 mm) and 7 (0.9 mm) that cover the same spatial scale. The VLA images show a compact structure with a size of ∼25 au and a spectral index of ∼2.5. The ALMA images show compact and extended structures with a spectral index of ∼2 at the central ∼40 au region and another index of ∼3.3 in the outer region. Our spectral energy distribution analysis using the observed fluxes at the four bands suggests one branch with a small grain size of ∼0.12 mm and another with a grown grain size of ∼4 mm. We also model polarized dust continuum emission adopting the two grain sizes and compare them with an observational result of TMC-1A, suggesting that the small grain size is preferable to the grown grain size. The small grain size implies gravitational instability in the TMC-1A disk, which is consistent with a spiral-like component recently identified.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@ The disk mass and substructure in young stellar objects suggest that planet form
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a1</guid>
 <content:encoded><![CDATA[
-
 As one type of blue early-type galaxy, the evolutionary history and fate of star-forming lenticular galaxies (S0s) remain elusive. We selected 134 star-forming S0s from the Sloan Digital Sky Survey IV MaNGA survey and found that they have steep and warped size–mass relations, similar to quiescent S0s and red spirals, indicating that they may have similar gas dissipation scenarios. These galaxies have a higher central stellar mass surface density than normal blue spirals. The radial profiles of Dn4000 and [Mgb/Fe] show that red spirals and quiescent S0s have similar old central populations and high [Mgb/Fe] values, suggesting rapid bulge formation, though red spirals exhibit a steeper gradient possibly due to residual star formation (SF) in outer regions. In contrast, star-forming S0s exhibit profiles between quiescent S0s/red spirals and normal blue spirals, with relatively flat Dn4000 and [Mgb/Fe] gradients. More long-term SF history causes normal blue spirals to have very flat Dn4000 and [Mgb/Fe] profiles, and the majority of them (79% ± 5%) have a Sérsic index of <2. We also found that the halo mass of star-forming S0s resembles that of quiescent S0s/red spirals, with 82% ± 5% exceeding the critical mass (Mhalo = 1012M⊙h−1). To supplement previous H i detection of star-forming S0s covered by H iMaNGA, we obtained new observations for H i emission from 41 star-forming S0s in our sample using the Five-hundred-meter Aperture Spherical Radio Telescope. We found that the H i mass distribution of star-forming S0s matches that of normal blue spirals, although both star-forming S0s and red spirals are relatively gas-poor, resulting in varying atomic gas depletion times due to different SF levels. Based on these observational results, we discuss the possible evolutionary scenarios of star-forming S0s.
 ]]></content:encoded>
-
 <pubDate>2024-12-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Threshold Mass of the General-relativistic Instability for Supermassive Star Cores</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93a4</link>
@@ -10921,43 +10937,6 @@ While the shape of the Lyα profile is viewed as one of the best tracers of ioni
 总结:
 质量间隙黑洞-中子星（mgBHNS）并合是引力波事件中GW230529的一个重要组成部分，由孤立双星演化渠道形成。研究使用“延迟”超新星模型和合理的模型实现来模拟人口综合，结果表明我们的模拟可以同时匹配从人口分析推断出的mgBHNS和总BHNS并合的速率密度，以及LIGO-Virgo-KAGRA Collaboration报道的BH质量在BHNS并合中的分布。GW230529对推断的mgBHNS速率密度贡献显著，因此我们建议GW230529可以通过孤立双星演化渠道解释。考虑AP4（DD2）态方程，GW230529发生撕裂的概率分别为12.8％（63.2％）。如果GW230529是一个撕裂事件，其金新星峰值视星等预测约为23-24等，并且可以被当前的观测项目和大型巡天望远镜发现。由于GW230529可能是GW观测推断出的非轴向事件，其相关的伽玛射线暴（GRB）可能太暗而无法被γ射线探测器观测到，解释了缺乏GRB观测。我们的研究表明由于GW230529的发现，通过孤立双星演化渠道形成mgBHNS并合的存在，表明BHNS并合仍有可能是发射引力波、伽玛射线暴和金新星的多信使源。虽然mgBHNS并合占据了宇宙学BHNS人口的约50％，但我们发现≳90％的被撕裂的BHNS并合预计来自mgBHNS并合的形成。 <div>
 In this paper, we explore the formation of the mass-gap black hole-neutron star (mgBHNS) merger detected in gravitational wave (GW) event, i.e., GW230529, from the isolated binary evolution channel, and study potential signatures of its electromagnetic counterparts. By adopting the “delayed” supernova prescription and reasonable model realizations, our population synthesis simulation results can simultaneously match the rate densities of mgBHNS and total BHNS mergers inferred from the population analyses, along with the population distribution of the BH mass in BHNS mergers reported by the LIGO–Virgo–KAGRA Collaboration. Because GW230529 contributes significantly to the inferred mgBHNS rate densities, we suggest that GW230529 can be explained through the isolated binary evolution channel. Considering the AP4 (DD2) equation of state, the probability that GW230529 can make tidal disruption is 12.8% (63.2%). If GW230529 is a disrupted event, its kilonova peak apparent magnitude is predicted ∼23–24 mag, and hence, can be detected by the present survey projects and Large Synoptic Survey Telescope. Since GW230529 could be an off-axis event inferred from the GW observation, its associated gamma-ray burst (GRB) might be too dim to be observed by γ-ray detectors, interpreting the lack of GRB observations. Our study suggests the existence of mgBHNS mergers formed through the isolated binary evolution channel due to the discovery of GW230529, indicating that BHNS mergers are still likely to be multimessenger sources that emit GWs, GRBs, and kilonovae. Although mgBHNS mergers account for ∼50% of the cosmological BHNS population, we find that ≳90% of disrupted BHNS mergers are expected to originate from mgBHNS mergers.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Effects of Turbulence on Heliosheath Ions and Implications for Energetic Neutral Atoms</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7374</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7374</guid>
-<content:encoded><![CDATA[
-<div> 关键词: heliosheath, ion distributions, hybrid kinetic simulations, turbulence, energetic neutral atoms (ENAs)
-总结:
-在太阳系的边界区域，也就是太阳风终止震波和日球层之间的赫尔尼辣甚重要。本文使用自洽的混合动力学模拟研究了湍流对赫尔尼辣中离子分布的影响，并与旅行者号观测进行了比较，限定了湍流的振幅和可压缩性范围。结果表明，湍流耗散导致太阳风热离子的温度显著增加，从而增加了低能量处（约100电子伏）的ENAs的电荷交换源。然而，湍流的影响可能不足以完全解释这些不一致。<br /><br /> <div>
-The distribution of ions in the heliosheath—the region between the heliospheric termination shock and the heliopause—is important for understanding remote observations of energetic neutral atoms (ENAs). The ion distributions were estimated previously based on hybrid simulations of the heating and evolution of solar wind and interstellar pickup ions across the solar wind termination shock, but these estimates only provide the distributions near the shock. In this work, we use self-consistent hybrid kinetic simulations to investigate the effects of turbulence on ion distributions in the heliosheath. The simulations are compared against Voyager observations, constraining the feasible amplitude and compressibility of turbulence. We find that the heating due to turbulent dissipation can lead to a significant increase in the temperature of thermal solar wind ions. Both turbulent velocity fluctuations and the heating of solar wind ions increase the charge-exchange source for ENAs at low energies (around 100 eV), where current ENA models underpredict observations by more than an order of magnitude. However, the effects of turbulence are likely not strong enough to fully explain these discrepancies.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Formation of Close-in Neptunes around Low-mass Stars through Breaking Resonant Chains</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7383</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7383</guid>
-<content:encoded><![CDATA[
-<div> LHS 3154 b, 质量, 恒星, 行星形成理论, 模拟
-
-总结:
-LHS 3154 b是一颗质量为13.2倍地球质量的行星，围绕质量为0.11太阳质量的恒星运转。这一发现挑战了传统的行星形成理论，认为质量较小的恒星周围不会形成质量如此巨大的行星。研究人员提出了“打破锁链”情景的模拟，表明类似LHS 3154 b这样质量巨大且距离恒星较近的行星在模拟系统中出现的概率约为1%。这一结果暗示这些行星不需要特别不寻常的形成条件，而是已有的理论可以解释。另外，模拟系统中还包含大约30天公转周期的小行星，这为该假设提供了可能的检验。 <div>
-Conventional planet formation theories predict a paucity of massive planets around small stars, especially very low-mass (0.1−0.3 M⊙) mid-to-late M dwarfs. Such tiny stars are expected to form planets of terrestrial sizes but not much bigger. However, this expectation is challenged by the recent discovery of LHS 3154 b, a planet with period of 3.7 days and minimum mass of 13.2 M⊕ orbiting a 0.11 M⊙ star. Here, we propose that close-in Neptune-mass planets like LHS 3154 b formed through an anomalous series of mergers from a primordial compact system of super-Earths. We perform simulations within the context of the “breaking the chains” scenario, in which super-Earths initially form in tightly spaced chains of mean-motion resonances before experiencing dynamical instabilities and collisions. Planets as massive and close-in as LHS 3154 b (Mp ∼ 12−20 M⊕, P < 7 days) are produced in ∼1% of simulated systems, in broad agreement with their low observed occurrence. These results suggest that such planets do not require particularly unusual formation conditions but rather are an occasional by-product of a process that is already theorized to explain compact multiplanet systems. Interestingly, our simulated systems with LHS 3154 b-like planets also contain smaller planets at around ∼30 days, offering a possible test of this hypothesis.
-]]></content:encoded>
-<pubDate>2024-10-13T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Anatomy of the Star Formation in a Tidally Disturbed Disk Galaxy: NGC 3718</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad738b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad738b</guid>
-<content:encoded><![CDATA[
-<div> NGC 3718, star-forming complexes, UV study, minor merger, disturbed morphology
-总结:
-NGC 3718是一种近邻特殊星系，其光学形态受多重潮汐臂、扭曲盘和显著的弯曲尘埃巷的影响，但在近红外波段下，它看起来是一个以球状组分为主的星系。研究发现，这种扰动的形态使其成为研究潮汐扰动星系中恒星形成的理想案例。通过对星系进行分区，研究了恒星形成团的分布和特性。研究结果表明，次级并合事件可以触发星系盘的内部－外部生长，年轻的恒星形成团位于外潮汐臂而非内盘中。在中心盘区，恒星形成密度较大，恒星形成团的年龄也较大。 <br /><br /> <div>
-We present a UV, optical, and near-IR study of the star-forming complexes in the nearby peculiar galaxy NGC 3718, using Ultraviolet Imaging telescope, Galaxy Evolution Explorer, Spitzer, and DECam Legacy Survey imaging data. The galaxy has a disturbed optical morphology owing to the multiple tidal arms, the warped disk, and the prominent curved dust lanes, but in the near-IR it appears to be a bulge-dominated galaxy. Its disturbed morphology makes it an excellent case to study star formation in a tidally disturbed galaxy that may have undergone a recent minor merger. To study the distribution and properties of the star-forming clumps (SFCs), we divided the galaxy within the R25 (B band) radius into three parts—the upper, central, and lower regions. Using the UV band images, we investigated the warped star-forming disk, the extended tidal arms, and the distribution and sizes of the 182 SFCs. Their distribution is 49, 60, and 73 in the galaxy’s upper, central, and lower regions, respectively. We determined the UV color, star formation rates (SFRs), star formation density (ΣSFR), and ages of the SFCs. The central disk of the galaxy has a larger mean ΣSFR that is ∼3.3 and ∼1.6 times higher than the upper and lower regions, respectively. We also find that the SFCs in the central disk are older than those in the tidal arms. Our study thus shows that minor mergers can trigger the inside-out growth of galaxy disks, where the younger SFCs are in outer tidal arms and not in the inner disk.
 ]]></content:encoded>
 <pubDate>2024-10-13T23:00:00Z</pubDate>
 </item>
