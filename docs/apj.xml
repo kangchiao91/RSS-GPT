@@ -4,6 +4,50 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>New Insight of Time-transformed Symplectic Integrator. I. Hybrid Methods for Hierarchical Triples</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98f3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98f3</guid>
+<content:encoded><![CDATA[
+
+Accurate N-body simulations of multiple systems such as binaries and triples are essential for understanding the formation and evolution of interacting binaries and binary mergers, including gravitational wave sources, blue stragglers, and X-ray binaries. The logarithmic time-transformed explicit symplectic integrator (LogH), also known as algorithmic regularization, is a state-of-the-art method for this purpose. However, we show that this method is accurate for isolated Kepler orbits because of its ability to trace Keplerian trajectories, but much less accurate for hierarchical triple systems. The method can lead to an unphysical secular evolution of inner eccentricity in Kozal–Lidov triples, despite a small energy error. We demonstrate that hybrid methods, which apply LogH to the inner binary and alternative methods to the outer bodies, are significantly more effective, though not symplectic. Additionally, we introduce a more efficient hybrid method, BlogH, which eliminates the need for time synchronization and is time symmetric. The method is implemented in the few-body code SDAR. We explore suitable criteria for switching between the LogH and BlogH methods for general triple systems. These hybrid methods have the potential to enhance the integration performance of hierarchical triples.
+]]></content:encoded>
+
+<pubDate>2024-12-26T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Low Injection Rate of Cosmic-Ray Protons in the Turbulent Reacceleration Model of Radio Halos in Galaxy Clusters</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9333</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9333</guid>
+<content:encoded><![CDATA[
+
+A giant radio halo (RH) is a diffuse synchrotron emission observed on the scale of megaparsecs, typically found in the central region of merging galaxy clusters. Its large size and steep spectrum suggest that it originates from the reenergization of an aged population of cosmic-ray electrons (CREs), while the secondary leptons produced in the pp hadronic collision of cosmic-ray protons (CRPs) may contribute to the emission. In this study, we investigate the reacceleration model including both primary and secondary CREs, assuming that the primary cosmic rays (CRs) originate from internal galaxies. In our new method, we follow the cosmological evolution of each cluster and calculate the energy spectra and 1D spatial distributions of CRs. The primary CRE model with a ∼3 Gyr duration of reacceleration successfully reproduces the statistical properties of the RHs observed in the recent LOFAR survey, as well as the spectrum and profile of the Coma cluster. The gamma-ray and neutrino emissions produced by reaccelerated CRPs are consistent with the upper limits. However, if the CRP injection rate is high and the secondary CREs become significant, the model with the required ∼3 Gyr reacceleration overproduces the number of RHs. The limit on the CRP injection rate, Lp ≲ 1041 erg s−1, is significantly lower than that expected from the early starburst activity or jets from active galactic nuclei. This discrepancy requires a revision of either the model of CR supply from galaxies or the turbulent reacceleration model.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Analysis of Gamma-Ray Burst Closure Relationship in Multiple Wavelengths</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93b5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93b5</guid>
+<content:encoded><![CDATA[
+
+Gamma-ray bursts (GRBs) are intense pulses of high-energy emission associated with the death of massive stars or compact objects’ coalescence. Their multiwavelength observations help verify the reliability of the standard fireball model. We analyze 14 GRBs observed contemporaneously in gamma rays by the Fermi Large Area Telescope, in X-rays by the Swift Telescope, and in the optical bands by Swift and many ground-based telescopes. We study the correlation between the spectral and temporal indices using closure relations according to the synchrotron forward-shock model in a stratified medium (n ∝ r−k) with k ranging from 0 to 2.5. We find that the model without energy injection is preferred over the one with energy injection in all the investigated wavelengths. In gamma rays, we only explored the ν > max{νc, νm} (slow cooling, SC/fast cooling, FC) cooling condition (where νc and νm are the cooling and characteristic frequencies, namely the frequencies at the spectral break). In the X-ray and optical bands, we explored all the cooling conditions, including νm < ν < νc (SC), νc < ν < νm (FC), and SC/FC, and found a clear preference for SC for X-rays and SC/FC for optical. Within these cooling conditions, X-rays exhibit the highest rate of occurrence for the density profile with k = 0, while the optical band has the highest occurrence for k = 2.5 when considering no energy injection. Although we can pinpoint a definite environment for some GRBs, we find degeneracies in other GRBs.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Milky Way Dark Matter Distribution or MOND Test from Vertical Stellar Kinematics with Gaia DR3</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad94f5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad94f5</guid>
+<content:encoded><![CDATA[
+
+Vertical stellar kinematics+density can be used to trace the dark matter distribution (or the equivalent phantom mass in a Modified Newtonian Dynamics (MOND) scenario) through the Jeans equations. In this paper, we want to improve this type of analysis by making use of the recent data of the 6D information from the Gaia DR3 survey in the anticenter and the Galactic poles to obtain the dynamical mass distribution near plane regions, including extended kinematics over a wide region of 8 kpc < R < 22 kpc, ∣z∣ < 3 kpc. Our conclusions are as follows: (i) the model of the spherical dark matter halos and the MOND model are compatible with the data; (ii) the model of the disky matter (with density proportional to the gas density) is excluded; (iii) the total lack of dark matter (there is only visible matter) within Newtonian gravity is compatible with the data; for instance, at solar Galactocentric radius, we obtained Σ = 39 ± 18 M⊙ pc−2 for z = 1.05 kpc, compatible with the expected value for visible matter alone of 44 M⊙ pc−2, thus allowing zero dark matter. Similarly, for R > R⊙, z = 1.05 kpc, Σ = 28.7 ± 9.6, 23.0 ± 5.7, 16.9 ± 5.8, and 11.4 ± 6.6 M⊙ pc−2, respectively, for R = 10, 13, 16, and 19 kpc, compatible with visible matter alone. Larger error bars in comparison with previous works are not due to worse data or a more awkward technique but to a stricter modeling of the stellar distribution.
+]]></content:encoded>
+
+<pubDate>2024-12-24T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Bar Formation and Destruction in the FIRE-2 Simulations</title>
