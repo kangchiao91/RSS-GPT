@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Thorium in Kilonova Spectra: Exploring the Heaviest Detectable Element</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad96b3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad96b3</guid>
 <content:encoded><![CDATA[
-
 Kilonova spectra provide us with direct information about rapid neutron-capture nucleosynthesis (r-process) in neutron star (NS) mergers. In this paper, we study the signatures of elements beyond the third r-process peak expected to be produced in neutron-rich ejecta in the photospheric spectra of kilonova. We select Ra ii, Ac iii, and Th iii as our candidates because they have a small number of valence electrons and low-lying energy levels, which tend to result in strong absorption features. We systematically calculate the strength of bound–bound transitions of these candidates by constructing a line list based on the available atomic database. We find that Th iii is the most promising species, showing strong transitions at near-infrared wavelengths. By performing radiative transfer simulations, we find that Th iii produces broad absorption features at ∼18000 Å in the spectra when the mass ratio of actinides to lanthanides is larger than the solar r-process ratio and the mass fraction of lanthanides is ≲6 × 10−4. Our models demonstrate that the Th feature may be detectable if the bulk of the ejecta in the line-forming region is dominated by relatively light r-process elements with the mixture of a small fraction of very neutron-rich material. Such conditions may be realized in the mergers of unequal-mass NSs or black hole–NS binaries. To detect the Th absorption features, observations from space (such as with the JWST) or high-altitude sites are important as the wavelength region of the Th features overlaps with that affected by strong telluric absorption.
 ]]></content:encoded>
-
 <pubDate>2024-12-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ Kilonova spectra provide us with direct information about rapid neutron-capture 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98f4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98f4</guid>
 <content:encoded><![CDATA[
-
 Developing an efficient code for large, multiscale astrophysical simulations is crucial in preparing for the upcoming era of exascale computing. RAMSES is an astrophysical simulation code that employs parallel processing based on the message-passing interface (MPI). However, it has limitations in computational and memory efficiency when using a large number of CPU cores. The problem stems from inefficiencies in workload distribution and memory allocation that inevitably occur when a volume is simply decomposed into domains equal to the number of working processors. We present RAMSES-yOMP, which is a modified version of RAMSES designed to improve parallel scalability. Major updates include the incorporation of open multiprocessing into the MPI parallelization to take advantage of both the shared and distributed memory models. Utilizing this hybrid parallelism in high-resolution benchmark simulations with full prescriptions for baryonic physics, we achieved an increase in performance by a factor of 2 in the total run-time, while using 75% less memory and 30% less storage than the original code, when using the same number of processors. These improvements allow us to perform larger or higher-resolution simulations than what was feasible previously.
 ]]></content:encoded>
-
 <pubDate>2024-12-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@ Developing an efficient code for large, multiscale astrophysical simulations is 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98f9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98f9</guid>
 <content:encoded><![CDATA[
-
 Relativistic pair beams produced in the intergalactic medium by TeV gamma rays from blazars are expected to generate a detectable GeV-scale electromagnetic cascade, yet this cascade is absent in the observed spectra of hard-spectrum TeV emitting blazars. This suppression is often attributed to weak intergalactic magnetic fields (IGMF) deflecting electron-positron pairs out of the line of sight. Alternatively, it has been proposed that beam-plasma instabilities could drain the energy of the beam before they produce the secondary cascades. Recent studies suggest that the modification of beam distribution due to these instabilities is primarily driven by particle scattering, rather than energy loss. In this paper, we quantitatively assess, for the blazar 1ES 0229+200, the arrival time of secondary gamma rays at Earth from the beam scattering by the electrostatic instability. We first computed the production rates of electron-positron pairs at various distances using the Monte Carlo simulation CRPropa. We then simulated the feedback of the plasma instability on the beam, incorporating production rates and inverse Compton cooling, to determine the steady-state distribution function. Our findings reveal that the time delay of the GeV secondary cascade arrival due to instability broadening is on the order of a few months. This delay is insufficient to account for the missing cascade emission in blazar spectra, suggesting that plasma instabilities do not significantly affect IGMF constraints.
 ]]></content:encoded>
-
 <pubDate>2024-12-27T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>JWST Early Release Science Program TEMPLATES: Targeting Extremely Magnified Panchromatic Lensed Arcs and Their Extended Star Formation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7501</link>
@@ -10757,42 +10751,6 @@ X-ray reverberation mapping is a powerful technique for probing the innermost ac
 总结:
 这篇文章讨论了大质量恒星中可能存在的喷发性质量损失机制，该机制与恒星外层的超Eddington光度相关。研究者在MESA星演化模拟中实现了这个1D模型，并发现质量损失可达每年约10^-2太阳质量。研究指出，这种喷发性质量损失可能导致质量大于20太阳质量的恒星不再演化为红超巨星，而是变成蓝超巨星，从而解释了观测到的这一质量范围内红超巨星的缺失。 <div>
 Eruptive mass loss in massive stars is known to occur, but the mechanism(s) are not yet well understood. One proposed physical explanation appeals to opacity-driven super-Eddington luminosities in stellar envelopes. Here, we present a 1D model for eruptive mass loss and implement this model in the MESA stellar evolution code. The model identifies regions in the star where the energy associated with a local super-Eddington luminosity exceeds the binding energy of the overlaying envelope. The material above such regions is ejected from the star. Stars with initial masses of 10−100 M⊙ at solar and SMC metallicities are evolved through core helium burning, with and without this new eruptive mass-loss scheme. We find that eruptive mass loss of up to ∼10−2M⊙yr−1 can be driven by this mechanism, and occurs in a vertical band on the H-R diagram between . This predicted eruptive mass loss prevents stars of initial masses ≳20 M⊙ from evolving to become red supergiants (RSGs), with the stars instead ending their lives as blue supergiants, and offers a possible explanation for the observed lack of RSGs in that mass regime.
-]]></content:encoded>
-<pubDate>2024-10-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Active Galactic Nucleus Jet-inflated Bubbles as Possible Origin of Odd Radio Circles</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad70af</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad70af</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Odd radio circles, cosmic-ray simulations, AGN jet-inflated bubbles, CRp-dominated jets, galaxy evolution
-
-总结:
-本研究使用FLASH代码进行三维宇宙射线磁流体动力学模拟，预测了端对端活跃星系核喷流充气泡的射电形态，考虑了强子发射。我们发现，强大且持续时间较长的CRp主导喷流可以在质量较低的暗物质团中产生类似大小（∼300–600 kpc）和射电形态（圆形和边缘增亮）的ORCs气泡。在相同输入喷流能量的情况下，持续时间较长（因此功率较低）的喷流往往会产生较大的气泡，因为高功率喷流会产生强大的激波，带走了喷流能量的相当部分。由于效率高的强子碰撞在气泡和环境介质的界面上，自然产生了ORCs的边缘增亮特征。我们进一步讨论了射电亮度、X射线可检测性以及在星系演化背景下此类强AGN喷流的可能起源。我们得出结论，端对端CR主导的AGN气泡可能是ORCs形成的合理情景。 <br /><br /> <div>
-Odd radio circles (ORCs) are newly discovered extragalactic radio objects with an unknown origin. In this work, we carry out three-dimensional cosmic-ray (CR) magnetohydrodynamic simulations using the FLASH code and predict the radio morphology of end-on active galactic nucleus (AGN) jet-inflated bubbles considering hadronic emission. We consider CR proton (CRp)-dominated jets as they tend to inflate oblate bubbles, promising to reproduce the large inferred sizes of the ORCs when viewed end-on. We find that powerful and long-duration CRp-dominated jets can create bubbles with similar sizes (∼300–600 kpc) and radio morphology (circular and edge-brightened) to the observed ORCs in low-mass (Mvir ∼ 8 × 1012 − 8 × 1013M⊙) halos. Given the same amount of input jet energy, longer-duration (thus lower-power) jets tend to create larger bubbles since high-power jets generate strong shocks that carry away a significant portion of the jet energy. The edge-brightened feature of the observed ORCs is naturally reproduced due to efficient hadronic collisions at the interface between the bubbles and the ambient medium. We further discuss the radio luminosity, X-ray detectability, and the possible origin of such strong AGN jets in the context of galaxy evolution. We conclude that end-on CR-dominated AGN bubbles could be a plausible scenario for the formation of ORCs.
-]]></content:encoded>
-<pubDate>2024-10-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Relationship between the Tilt Angles of Sunspot Groups and the Properties of the Next Solar Cycle</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7118</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7118</guid>
-<content:encoded><![CDATA[
-<div> Kodaikanal observatory, Mount Wilson observatory, tilt angles, sunspot groups, solar cycle<br />
-<br />总结:<br />文章通过对科代坦纳勒和威尔逊山天文台的数据进行分析，研究了太阳黑子群的倾斜角度与下一个太阳周期参数之间的关系。主要发现可以总结为三点：（1）在衰减阶段，平均倾斜角与倾斜角散射之间的相关性统计上不显著；（2）在衰减阶段，六个测量量与下一个太阳周期的强度、振幅和上升阶段的持续时间呈显著负相关，并且与倾斜角散射有正相关：包括倾斜角的标准差、均方根倾斜角、倾斜角的绝对值的平均值、面积加权倾斜角的绝对值、纬度加权倾斜角的绝对值和面积和纬度加权倾斜角的绝对值；（3）衰减阶段的平均倾斜角、面积加权倾斜角、纬度加权倾斜角以及面积和纬度加权倾斜角与下一个太阳周期的强度、振幅和上升阶段的持续时间的相关性统计上不显著。这些发现表明，在衰减阶段倾斜角散射对太阳周期变化的调节起着至关重要的作用。 <div>
-Based on the data from the Kodaikanal and Mount Wilson observatories, we investigate the relationships of the tilt angles of sunspot groups, including the mean tilt angle and the tilt-angle scatter, during the declining phase with the parameters of the next solar cycle (SC). The main findings are summarized in the following three points. (1) During the declining phase, the correlation between the mean tilt angle and the tilt-angle scatter is statistically insignificant. (2) Six quantities measured during the declining phase show significant anticorrelations with the strength and amplitude of the next SC and positive correlations with the duration of the ascending phase of the next SC: the standard deviation of the tilt angles, the rms tilt angle, the mean absolute value of the tilt angles, the area-weighted absolute value of the tilt angles, the latitude-weighted absolute value of the tilt angles, and the area- and latitude-weighted absolute value of the tilt angles. (3) The correlations of the mean tilt angle, the area-weighted tilt angle, the latitude-weighted tilt angle, and the area- and latitude-weighted tilt angle during the declining phase with the strength, amplitude, and duration of the ascending phase of the next SC are statistically insignificant. These findings demonstrate that the modulation of the parameters of the next SC by the tilt-angle scatter during the declining phase plays a vital role in regulating SC variability.
-]]></content:encoded>
-<pubDate>2024-10-15T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Coherent Radio Emission from “Main-sequence Radio Pulse Emitters”: A New Stellar Diagnostic to Probe 3D Magnetospheric Structures</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c5</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 主序序列，脉冲星，电子回旋激射辐射，磁层密度，星磁层结构
-总结:
-主序序列脉冲星是一种产生相干射电脉冲的磁早型恒星，其辐射机制为电子回旋激射辐射。这种辐射具有高指向性和窄带宽的特点，且极化度极高。本文通过对一颗后B型主序序列脉冲星HD 133880进行超宽带观测，并通过不同频率下脉冲到达时间的差异来提取等离子体分布信息，发现恒星磁层具有倾斜的盘状过密度，且密度主要集中在中等频率范围。这些结果支持了最近对于热恒星离心支撑磁层的密度模型，为早型恒星磁层操作提供了进一步的动机，并提供了对大尺度恒星磁层中电子回旋激射辐射现象的全面描述。 <div>
-Main-sequence radio pulse emitters (MRPs) are magnetic early-type stars that produce coherent radio emission observed in the form of periodic radio pulses. The emission mechanism behind this is the electron-cyclotron maser emission (ECME). Among all kinds of magnetospheric emission, ECME is unique due to its high directivity and intrinsically narrow bandwidth. The emission is also highly circularly polarized and the sign of polarization is opposite for the two magnetic hemispheres. This combination of properties makes ECME highly sensitive to the three-dimensional structures in the stellar magnetospheres. This is especially significant for late-B and A-type magnetic stars that do not emit other types of magnetospheric emission such as Hα, the key probe used to trace magnetospheric densities. In this paper, we use an ultra-wideband observation (0.4–2 GHz) of a late B-type MRP HD 133880 to demonstrate how we can extract information on plasma distribution from ECME. We achieve this by examining the differences in pulse arrival times (“lags”) as a function of frequencies and qualitatively comparing those with lags obtained by simulating ECME ray paths in hot stars’ magnetospheres. This reveals that the stellar magnetosphere has a disk-like overdensity inclined to the magnetic equator with a centrally concentrated density that primarily affects the intermediate frequencies (400–800 MHz). This result, which is consistent with the recent density model proposed for hotter centrifugally supported magnetospheres, lends support to the idea of a unifying model for magnetospheric operations in early-type stars, and also provides further motivation to fully characterize the ECME phenomenon in large-scale stellar magnetospheres.
 ]]></content:encoded>
 <pubDate>2024-10-15T23:00:00Z</pubDate>
 </item>
