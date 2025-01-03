@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Analysis of Polarized Dust Emission Using Data from the First Flight of SPIDER</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad900c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad900c</guid>
 <content:encoded><![CDATA[
-
 Using data from the first flight of Spider and from the Planck High Frequency Instrument, we probe the properties of polarized emission from interstellar dust in the Spider observing region. Component-separation algorithms operating in both the spatial and harmonic domains are applied to probe their consistency and to quantify modeling errors associated with their assumptions. Analyses of diffuse Galactic dust emission spanning the full Spider region demonstrate (i) a spectral energy distribution that is broadly consistent with a modified-blackbody (MBB) model with a spectral index of βd = 1.45 ± 0.05 (1.47 ± 0.06) for E (B)-mode polarization, slightly lower than that reported by Planck for the full sky; (ii) an angular power spectrum broadly consistent with a power law; and (iii) no significant detection of line-of-sight polarization decorrelation. Tests of several modeling uncertainties find only a modest impact (∼10% in σr) on Spider’s sensitivity to the cosmological tensor-to-scalar ratio. The size of the Spider region further allows for a statistically meaningful analysis of the variation in foreground properties within it. Assuming a fixed dust temperature Td = 19.6 K, an analysis of two independent subregions of that field results in inferred values of βd = 1.52 ± 0.06 and βd = 1.09 ± 0.09, which are inconsistent at the 3.9σ level. Furthermore, a joint analysis of Spider and Planck 217 and 353 GHz data within one subregion is inconsistent with a simple MBB at more than 3σ, assuming a common morphology of polarized dust emission over the full range of frequencies. This evidence of variation may inform the component-separation approaches of future cosmic microwave background polarization experiments.
 ]]></content:encoded>
-
 <pubDate>2025-01-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ Using data from the first flight of Spider and from the Planck High Frequency In
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a69</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a69</guid>
 <content:encoded><![CDATA[
-
 We analyze the radio emission from the β Cep star V2187 Cyg using archive data from the Jansky Very Large Array. The observations were made in ten epochs at 1.39 and 4.96 GHz in the highest angular resolution A configuration. We determine a spectral index of of α = 0.6 ± 0.2 (Sν ∝ να), consistent with an ionized wind or a partially optically thick synchrotron or gyrosynchrotron source. The emission is spatially unresolved at both frequencies. The 4.96 GHz data show a radio pulse with a duration of about one month that can be modeled in terms of an internal shock in the stellar wind produced by a sudden increase in the mass-loss rate and the terminal velocity. The quiescent radio emission of V2187 Cyg at 4.96 GHz (with a flux density of ≃150 μJy) cannot be explained in terms of an internally (by V2187 Cyg) or externally (by a nearby O star) photoionized wind. We conclude that, despite the spectral index suggestive of free–free emission from an ionized wind, the radio emission of V2187 Cyg most likely has a magnetic origin, a possibility that can be tested with a sensitive search for circular polarization in the radio, as expected from gyrosynchrotron radiation and also by trying to measure the stellar magnetic field, which is expected to be in the range of several kilogauss.
 ]]></content:encoded>
-
 <pubDate>2025-01-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Observational Evidence for a Correlation between the Magnetic Field of Jets and Star Formation Rate in Host Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b8a</link>
@@ -10693,29 +10689,6 @@ Gravitational-wave observations of binary neutron-star (BNS) mergers have the po
 
 总结:<br /><br />这篇文章描述了一种新技术，利用单个中子监测器的数据追踪银河系宇宙射线的短期光谱变化。通过收集中子计数之间的时间延迟直方图，并提取领导者分数作为光谱指数的代理。研究分析了2015年3月至2023年9月南极四个中子监测器的领导者分数，并将南极中子监测器的领导者分数与国际空间站上的Alpha Magnetic Spectrometer（AMS-02）发布的银河宇宙射线质子通量数据进行了校准。结果表明，在AMS-02数据的2.97-16.6 GV的刚度范围内，领导者分数与光谱指数之间存在稳健的相关性。此外，通过小波分析确认了银河宇宙射线通量和光谱指数在太阳活动周期和太阳旋转周期（27天，13.5天）上的变化。磁场在光谱和通量变化中起着重要作用，而太阳风速对通量变化也有影响。研究证实了地面中子监测器站长期监测宇宙射线光谱变化的能力。<br /><br />I hope this summary helps! Let me know if you need anything else! <div>
 A technique has recently been developed for tracking short-term spectral variations in Galactic cosmic rays (GCRs) using data from a single neutron monitor (NM), by collecting histograms of the time delay between successive neutron counts and extracting the leader fraction L as a proxy of the spectral index. Here we analyze L from four Antarctic NMs from 2015 March to 2023 September. We have calibrated L from the South Pole NM with respect to a daily spectral index determined from published data of GCR proton fluxes during 2015–2019 from the Alpha Magnetic Spectrometer (AMS-02) on board the International Space Station. Our results demonstrate a robust correlation between the leader fraction and the spectral index fit over the rigidity range 2.97–16.6 GV for AMS-02 data, with uncertainty of 0.018 in the daily spectral index as inferred from L. In addition to the 11 yr solar activity cycle, a wavelet analysis confirms a 27 day periodicity in the GCR flux and spectral index corresponding to solar rotation, especially near sunspot minimum, while the flux occasionally exhibits a strong harmonic at 13.5 days. The magnetic field component along a nominal Parker spiral (i.e., the magnetic sector structure) is a strong determinant of such spectral and flux variations, with the solar wind speed exerting an additional, nearly rigidity-independent influence on flux variations. Our investigation affirms the capability of ground-based NM stations to accurately and continuously monitor cosmic-ray spectral variations over the long-term future.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Global Analysis of the Extended Decreases in Cosmic Rays Observed with Worldwide Networks of Neutron Monitors and Muon Detectors: Temporal Variation of the Rigidity Spectrum and Its Implication</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7466</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7466</guid>
-<content:encoded><![CDATA[
-<div> 宇宙射线、密度、各向同性、耦合共振、太阳风<br />
-总结: 本文通过全球地面探测器观测到的宇宙射线强度的两次显著下降进行了全球分析。文章分别针对时间和刚度导出了宇宙射线密度和各向同性。文章还提出了一个简单的扩散模型，描绘了地球和宇宙射线障碍之间的螺旋磁场线，指出这两次事件的长时间持续性可能是由类似星际冲击波以及随后的太阳风剪切区和/或日冕相互作用区域（CIR）的约190°的东部范围产生的。文章还探讨了导致“幻影福布斯减少（FD）”在不同刚度下呈现出不同特征的可能物理原因。这些结果表明地球观测到的高能宇宙射线对遥远的太空天气做出了响应。 <div>
-This paper presents the global analysis of two extended decreases in the galactic cosmic-ray intensity observed by worldwide networks of ground-based detectors in 2012. This analysis is capable of separately deriving the cosmic-ray density (or omnidirectional intensity) and anisotropy, each as a function of time and rigidity. A simple diffusion model along the spiral field line between Earth and a cosmic-ray barrier indicates the long duration of these events, resulting from about 190° eastern extent of a barrier such as an interplanetary shock followed by the sheath region and/or the corotating interaction region (CIR). It is suggested that the coronal mass ejection merging with and compressing the preexisting CIR at its flank can produce such an extended barrier. The derived rigidity spectra of the density and anisotropy both vary in time during each event period. In particular we find that the temporal feature of the “phantom Forbush decrease (FD)” reported in an analyzed period is dependent on rigidity, and looks quite different at different rigidities. From these rigidity spectra of the density and anisotropy, we derive the rigidity spectrum of the average parallel mean free path of pitch angle scattering along the spiral field line and infer the power spectrum of the magnetic fluctuation and its temporal variation. The possible physical cause of the strong rigidity dependence of the phantom FD is also discussed. These results demonstrate the high-energy cosmic rays observed at Earth responding to remote space weather.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>AstroSat and Insight-HXMT Observations of the Long-period X-Ray Pulsar 4U 2206+54</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7467</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7467</guid>
-<content:encoded><![CDATA[
-<div> AstroSat, Insight-HXMT, X-ray pulsar, spin-up, accretion theory
-总结:
-AstroSat和Insight-HXMT观测到了4U 2206+54的X射线脉冲，并发现了不同的脉冲周期。该脉冲星经历了从减速到现在的加速旋转，并且目前的平均加速率为1.2 × 10−13 Hz s−1。相位平均光谱展示了脉冲星附近的热点区域，并且利用准球形沉积吸积理论解释了脉冲星的加速旋转和可能的强磁场。.<br /><br /> <div>
-We report the timing and spectral studies of the accreting X-ray pulsar 4U 2206+54 using AstroSat and Insight-HXMT observations taken in 2016 and 2020 respectively. X-ray pulsations from the system are detected by both missions. The AstroSat discovered a significant periodic signal at ∼5619 s in 2016, and Insight-HXMT found a pulsation period at ∼5291 s in 2020. A comparison of its spin-period evolution with the present spin-period estimates shows that the neutron star in 4U 2206+54 now has recently been undergoing a spin-up episode after attaining to its slow pulsations of 5750 s around 2015 from its prolonged spin-down phase. The present average spin-up rate of the pulsar is found to be at ∼1.2 × 10−13 Hz s−1. The phase-averaged spectra of the pulsar in 1–60 keV could be explained with a high-energy cutoff power-law continuum model; no evident line features are found with AstroSat. The application of Comptonization models such as comptt and compmag to the phase-averaged spectra of 4U 2206+54 reveals a hotter source photon region near the pulsar with an emission size extending to ∼2–2.8 km. Using the quasi-spherical settling accretion theory, we explain the present spin-up and the possibility of the strong magnetic field of the pulsar.
 ]]></content:encoded>
 <pubDate>2024-10-16T23:00:00Z</pubDate>
 </item>
