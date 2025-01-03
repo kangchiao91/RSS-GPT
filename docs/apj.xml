@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>EDGE-INFERNO: Simulating Every Observable Star in Faint Dwarf Galaxies and Their Consequences for Resolved-star Photometric Surveys</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d6</guid>
 <content:encoded><![CDATA[
-
 Interpretation of data from faint dwarf galaxies is made challenging by observations limited to only the brightest stars. We present a major improvement to tackle this challenge by undertaking zoomed cosmological simulations that resolve the evolution of all individual stars more massive than 0.5 M⊙, thereby explicitly tracking all observable stars for the Hubble time. For the first time, we predict observable color–magnitude diagrams and the spatial distribution of ≈100,000 stars within four faint (M⋆ ≈ 105M⊙) dwarf galaxies directly from their cosmological initial conditions. In all cases, simulations predict complex light profiles with multiple components, implying that typical observational measures of structural parameters can make the total V-band magnitudes appear up to 0.5 mag dimmer compared to estimates from simulations. Furthermore, when only small (⪅100) numbers of stars are observable, shot noise from realizations of the color–magnitude diagram introduces uncertainties comparable to the population scatter in, e.g., the total magnitude, half-light radius, and mean iron abundance measurements. Estimating these uncertainties with fully self-consistent mass growth, star formation, and chemical enrichment histories paves the way for more robust interpretation of dwarf galaxy data.
 ]]></content:encoded>
-
 <pubDate>2025-01-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ Interpretation of data from faint dwarf galaxies is made challenging by observat
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a54</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a54</guid>
 <content:encoded><![CDATA[
-
 Open magnetic field (OMF) regions are the foot points of the field lines extending to infinity. While they are often considered to coincide with coronal holes (CHs), many studies have reported non-negligible inconsistency between the two. The objective of this study is to develop a deep learning model to predict the OMF regions that coincide with CHs, and to examine the importance of different physical quantities on the prediction. The CHs and OMF regions are both identified from the coronal data computed by a magnetohydrodynamic model developed by Predictive Science. Eight physical quantities, colatitude, magnetic flux expansion factor, magnetic field strength, thermal pressure, electron temperature, electron number density, mass density, and local coronal heating rate, at the OMF footpoints are used as the input to the deep learning model. The results of the test set indicate that the model improves the consistency between CHs and OMF regions from 0.33 to 0.81, and that all eight quantities are similarly important when they are all included in the model although the prediction accuracy would be most affected by excluding the colatitude and/or magnetic field strength. Comparison between the histograms of CH and non-CH open field regions indicates that each quantity alone can be used to distinguish the two within the ranges of values where one histogram is much higher than the other.
 ]]></content:encoded>
-
 <pubDate>2025-01-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@ Open magnetic field (OMF) regions are the foot points of the field lines extendi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b87</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b87</guid>
 <content:encoded><![CDATA[
-
 Black hole–neutron star binaries are of interest in many ways: they are intrinsically transient, radiate gravitational waves detectable by LIGO, and may produce γ-ray bursts. Although it has long been assumed that their late-stage orbital evolution is driven entirely by gravitational wave emission, we show here that in certain circumstances, mass transfer from the neutron star onto the black hole can both alter the binary's orbital evolution and significantly reduce the neutron star's mass: when the fraction of its mass transferred per orbit is ≳10−2, the neutron star's mass diminishes by order unity, leading to mergers in which the neutron star mass is exceptionally small. The mass transfer creates a gas disk around the black hole before merger that can be comparable in mass to the debris remaining after merger, i.e., ~0.1 M⊙. These processes are most important when the initial neutron star–black hole mass ratio q is in the range ≈0.2–0.8, the orbital semimajor axis is 40 ≲ a0/rg ≲ 300 (rg ≡ GMBH/c2), and the eccentricity is large at e0 ≳ 0.8. Systems of this sort may be generated through the dynamical evolution of a triple system, as well as by other means.
 ]]></content:encoded>
-
 <pubDate>2025-01-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Analysis of Polarized Dust Emission Using Data from the First Flight of SPIDER</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad900c</link>
@@ -10686,42 +10680,6 @@ Tayler instability of toroidal magnetic fields Bϕ is broadly invoked as a trigg
 <div> 磁云，太阳风，多空间探测器，磁场扩展，等离子体物理
 <br /><br />研究旨在利用多空间探测器对磁云进行测量，以更好地限制和理解磁场扩展对其性质的影响。通过开发参数γ来比较多个探测器测得的磁场分量，利用磁场数据的最小方差技术获得轴向和方位角分量。γ参数作为前边界的一个指标，用来衡量磁云轴向和方位角磁场分量随着太阳风距离的演变的全局差异。我们的目标是确定所研究的磁云是否表现出自相似的膨胀，以及如果是这样，这种膨胀是否主要是各向同性的或径向的，基于估计的γ值。通过对多个探测器数据的分析，我们观察到所检查的示例中γ值的显著一致性。我们发现这些磁云的整体膨胀往往是各向同性的，而从磁云后边界得到的γ值通常显示出各向异性的行为，特别是当两个探测器观测之间的距离相对较短时。这一发现为完善磁力线圈模型和推进我们对伴随日冕物质抛射的膨胀过程的理解提供了见解。<br /><br />总结: 本研究利用多个空间探测器测量了磁云的磁场，并开发了参数γ来比较磁场分量。研究发现磁云的整体膨胀往往是各向同性的，而局部膨胀则显示出各向异性的行为。这为完善磁力线圈模型和推进我们对伴随日冕物质抛射的膨胀过程的理解提供了见解。 <div>
 The aim of this study is to use multispacecraft measurements of interplanetary magnetic clouds (MCs) to better constrain and understand the effect of expansion on their magnetic field properties. We develop a parameter (γ) for comparing magnetic field components measured at multiple spacecraft. We use the minimum variance technique on the magnetic field data to obtain the axial and azimuthal components. The parameter γ acts at the front boundary as a measure of the global difference in the evolution with heliospheric distance of the axial and azimuthal magnetic field components of MCs. Our goal is to determine whether the studied MCs exhibit self-similar expansion and, if so, whether this expansion is predominantly isotropic or radial, based on the estimated γ. Through our analysis of data from multiple spacecraft, we observe a notable consistency in the γ values across the examples examined. We find that the overall expansion of these MCs tends to be isotropic, while the local expansion of MCs, derived from the γ values measured at the rear boundary of MCs, usually shows anisotropic behavior, particularly when the distances between the observations from the two spacecraft are relatively short. This discovery offers insights for refining flux rope models and advancing our comprehension of the expansion processes associated with coronal mass ejections.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>LMC-driven Anisotropic Boosts in Stream–Subhalo Interactions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7375</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7375</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Dark matter subhalos, Milky Way, LMC analog, stream encounter rates, FIRE-2 simulations
-
-总结:
-本文使用FIRE-2模拟了银河系质量的星系，展示了LMC模拟对流体-次哈洛相遇率的影响。LMC模拟带来了许多次哈洛，使得靠近这一大型卫星的流体的相遇率增加了10%至40%。此外，LMC模拟还使宿主星系偏离了质心位置，引起了反射运动，导致次哈洛的密度和径向速度分布出现南北不对称性。这种不对称性，与LMC模拟次哈洛的存在结合起来，导致了在相同距离处的相遇率在天空的不同位置上变化了50%至70%，尤其是在LMC模拟的相反位置上。此外，LMC模拟还在宿主暗物质晕中引起了密度尾迹，进一步提高了接近LMC模拟的相遇率。作者还探讨了流体轨道特性对相遇率的影响，发现相对LMC模拟轨道背行运动的流体，其相遇率在相反象限内增加了50%。最后，作者报告了银河系流体在模拟背景下的相遇率，分别考虑了有无LMC模拟的情况。相遇率依赖于流体位置、轨道和它们相对LMC的位置，这对于在哪里寻找在银河系中出现的带状和间隙的流体具有重要意义。 <div>
-Dark matter subhalos are predicted to perturb stellar streams; stream morphologies and dynamics can, therefore, constrain the mass distribution of subhalos. Using FIRE-2 simulations of Milky Way–mass galaxies, we demonstrate that the presence of an LMC analog significantly changes stream–subhalo encounter rates. The LMC analog brings in many subhalos, increasing encounter rates for streams near the massive satellite by 10%–40%. Additionally, the LMC analog displaces the host from its center of mass (inducing reflex motion), which causes a north–south asymmetry in the density and radial velocity distributions of subhalos. This asymmetry, combined with the presence of LMC-analog subhalos, causes encounter rates at the same distance to vary by 50%–70% across the sky, particularly in regions opposite the LMC analog. Furthermore, the LMC analog induces a density wake in the host's dark matter halo, further boosting the encounter rates near the LMC analog. We also explore how stream orbital properties affect encounter rates, finding up to a 50% increase for streams moving retrograde to the LMC analog’s orbit in the opposite quadrant. Finally, we report the encounter rates for Milky Way streams within the context of our simulations, both with and without the presence of an LMC analog. The dependence of encounter rates on stream location, orbit, and their position relative to the LMC has important implications for where to search for streams with spurs and gaps in the Milky Way.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Toward Accelerated Nuclear-physics Parameter Estimation from Binary Neutron Star Mergers: Emulators for the Tolman–Oppenheimer–Volkoff Equations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad737c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad737c</guid>
-<content:encoded><![CDATA[
-<div> BNS mergers, gravitational-wave observations, nuclear equation of state, TOV equations, emulators
-总结：<br /><br />本文探讨了通过模拟解决TOV方程的方法，包括多层感知器（MLPs）、高斯过程和一种数据驱动的简化基础方法（RBM）。研究发现，MLP型模拟器通常比其他两种算法更准确，而RBM则能够最大程度地加快处理TOV方程的速度。文章还展示了利用这些模拟器进行简单参数推断的应用，并显示我们的模拟器预测的后验概率与通过完整的TOV求解器获得的后验概率非常一致。 <div>
-Gravitational-wave observations of binary neutron-star (BNS) mergers have the potential to revolutionize our understanding of the nuclear equation of state (EOS) and the fundamental interactions that determine its properties. However, Bayesian parameter estimation frameworks do not typically sample over microscopic nuclear-physics parameters that determine the EOS. One of the major hurdles in doing so is the computational cost involved in solving the neutron-star structure equations, known as the Tolman–Oppenheimer–Volkoff (TOV) equations. In this paper, we explore approaches to emulating solutions for the TOV equations: multilayer perceptrons (MLPs), Gaussian processes, and a data-driven variant of the reduced basis method (RBM). We implement these emulators for three different parameterizations of the nuclear EOS, each with a different degree of complexity represented by the number of model parameters. We find that our MLP-based emulators are generally more accurate than the other two algorithms, whereas the RBM results in the largest speedup with respect to the full high-fidelity TOV solver. We employ these emulators for a simple parameter inference using a potentially loud BNS observation and show that the posteriors predicted by our emulators are in excellent agreement with those obtained from the full TOV solver.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Variations in the Inferred Cosmic-Ray Spectral Index as Measured by Neutron Monitors in Antarctica</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad73d6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad73d6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Galactic cosmic rays, neutron monitor, spectral variations, solar activity cycle, solar wind
-
-总结:<br /><br />这篇文章描述了一种新技术，利用单个中子监测器的数据追踪银河系宇宙射线的短期光谱变化。通过收集中子计数之间的时间延迟直方图，并提取领导者分数作为光谱指数的代理。研究分析了2015年3月至2023年9月南极四个中子监测器的领导者分数，并将南极中子监测器的领导者分数与国际空间站上的Alpha Magnetic Spectrometer（AMS-02）发布的银河宇宙射线质子通量数据进行了校准。结果表明，在AMS-02数据的2.97-16.6 GV的刚度范围内，领导者分数与光谱指数之间存在稳健的相关性。此外，通过小波分析确认了银河宇宙射线通量和光谱指数在太阳活动周期和太阳旋转周期（27天，13.5天）上的变化。磁场在光谱和通量变化中起着重要作用，而太阳风速对通量变化也有影响。研究证实了地面中子监测器站长期监测宇宙射线光谱变化的能力。<br /><br />I hope this summary helps! Let me know if you need anything else! <div>
-A technique has recently been developed for tracking short-term spectral variations in Galactic cosmic rays (GCRs) using data from a single neutron monitor (NM), by collecting histograms of the time delay between successive neutron counts and extracting the leader fraction L as a proxy of the spectral index. Here we analyze L from four Antarctic NMs from 2015 March to 2023 September. We have calibrated L from the South Pole NM with respect to a daily spectral index determined from published data of GCR proton fluxes during 2015–2019 from the Alpha Magnetic Spectrometer (AMS-02) on board the International Space Station. Our results demonstrate a robust correlation between the leader fraction and the spectral index fit over the rigidity range 2.97–16.6 GV for AMS-02 data, with uncertainty of 0.018 in the daily spectral index as inferred from L. In addition to the 11 yr solar activity cycle, a wavelet analysis confirms a 27 day periodicity in the GCR flux and spectral index corresponding to solar rotation, especially near sunspot minimum, while the flux occasionally exhibits a strong harmonic at 13.5 days. The magnetic field component along a nominal Parker spiral (i.e., the magnetic sector structure) is a strong determinant of such spectral and flux variations, with the solar wind speed exerting an additional, nearly rigidity-independent influence on flux variations. Our investigation affirms the capability of ground-based NM stations to accurately and continuously monitor cosmic-ray spectral variations over the long-term future.
 ]]></content:encoded>
 <pubDate>2024-10-16T23:00:00Z</pubDate>
 </item>
