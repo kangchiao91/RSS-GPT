@@ -4,6 +4,39 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>EDGE-INFERNO: Simulating Every Observable Star in Faint Dwarf Galaxies and Their Consequences for Resolved-star Photometric Surveys</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d6</guid>
+<content:encoded><![CDATA[
+
+Interpretation of data from faint dwarf galaxies is made challenging by observations limited to only the brightest stars. We present a major improvement to tackle this challenge by undertaking zoomed cosmological simulations that resolve the evolution of all individual stars more massive than 0.5 M⊙, thereby explicitly tracking all observable stars for the Hubble time. For the first time, we predict observable color–magnitude diagrams and the spatial distribution of ≈100,000 stars within four faint (M⋆ ≈ 105M⊙) dwarf galaxies directly from their cosmological initial conditions. In all cases, simulations predict complex light profiles with multiple components, implying that typical observational measures of structural parameters can make the total V-band magnitudes appear up to 0.5 mag dimmer compared to estimates from simulations. Furthermore, when only small (⪅100) numbers of stars are observable, shot noise from realizations of the color–magnitude diagram introduces uncertainties comparable to the population scatter in, e.g., the total magnitude, half-light radius, and mean iron abundance measurements. Estimating these uncertainties with fully self-consistent mass growth, star formation, and chemical enrichment histories paves the way for more robust interpretation of dwarf galaxy data.
+]]></content:encoded>
+
+<pubDate>2025-01-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Identifying the Coronal Holes in Open Magnetic Field Regions Using Deep Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a54</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a54</guid>
+<content:encoded><![CDATA[
+
+Open magnetic field (OMF) regions are the foot points of the field lines extending to infinity. While they are often considered to coincide with coronal holes (CHs), many studies have reported non-negligible inconsistency between the two. The objective of this study is to develop a deep learning model to predict the OMF regions that coincide with CHs, and to examine the importance of different physical quantities on the prediction. The CHs and OMF regions are both identified from the coronal data computed by a magnetohydrodynamic model developed by Predictive Science. Eight physical quantities, colatitude, magnetic flux expansion factor, magnetic field strength, thermal pressure, electron temperature, electron number density, mass density, and local coronal heating rate, at the OMF footpoints are used as the input to the deep learning model. The results of the test set indicate that the model improves the consistency between CHs and OMF regions from 0.33 to 0.81, and that all eight quantities are similarly important when they are all included in the model although the prediction accuracy would be most affected by excluding the colatitude and/or magnetic field strength. Comparison between the histograms of CH and non-CH open field regions indicates that each quantity alone can be used to distinguish the two within the ranges of values where one histogram is much higher than the other.
+]]></content:encoded>
+
+<pubDate>2025-01-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Mass Transfer in Eccentric Black Hole–Neutron Star Mergers</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b87</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b87</guid>
+<content:encoded><![CDATA[
+
+Black hole–neutron star binaries are of interest in many ways: they are intrinsically transient, radiate gravitational waves detectable by LIGO, and may produce γ-ray bursts. Although it has long been assumed that their late-stage orbital evolution is driven entirely by gravitational wave emission, we show here that in certain circumstances, mass transfer from the neutron star onto the black hole can both alter the binary's orbital evolution and significantly reduce the neutron star's mass: when the fraction of its mass transferred per orbit is ≳10−2, the neutron star's mass diminishes by order unity, leading to mergers in which the neutron star mass is exceptionally small. The mass transfer creates a gas disk around the black hole before merger that can be comparable in mass to the debris remaining after merger, i.e., ~0.1 M⊙. These processes are most important when the initial neutron star–black hole mass ratio q is in the range ≈0.2–0.8, the orbital semimajor axis is 40 ≲ a0/rg ≲ 300 (rg ≡ GMBH/c2), and the eccentricity is large at e0 ≳ 0.8. Systems of this sort may be generated through the dynamical evolution of a triple system, as well as by other means.
+]]></content:encoded>
+
+<pubDate>2025-01-03T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Analysis of Polarized Dust Emission Using Data from the First Flight of SPIDER</title>
