@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Ejective Feedback as a Quenching Mechanism in the First 1.5 Billion Years of the Universe: Detection of Neutral Gas Outflow in a z = 4 Recently Quenched Galaxy</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98ef</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98ef</guid>
+<content:encoded><![CDATA[
+
+The confirmation of massive quiescent galaxies emerging within the first billion years of the Universe poses intriguing questions about the mechanisms of galaxy formation. There must be highly efficient processes at work to shut down star formation in galaxies at cosmic dawn. I present the detection of neutral outflowing gas in a massive recently quenched galaxy at z = 4, showing ejective back as a quenching mechanism. Based on James Webb Space Telescope spectrum, the star formation rate (SFR) of this has been declining with a rapid e-folding timescale of ∼50 Myr. The current specific SFR is 5 × 10−11 yr−1, roughly 40 times lower than that of the star-forming main sequence at comparable redshifts. Emission-line ratios of [Ne iii]/[O ii] and [O iii]/Hβ are similar to active galactic nuclei (AGNs) at comparable redshifts. A series of Fe ii and Mg ii absorption lines appear blueshifted by ∼250 km s−1 relative to the stellar continuum, suggesting an outflow of neutral gas. The estimated mass outflow rate is approximately 7 times greater than the SFR derived from the stellar continuum, implying that the suppression of star formation is likely due to gas being depleted by the outflow. If the emission lines are AGN-driven, the AGN can also provide sufficient energy to launch the outflow observed. This galaxy represents the most distant example of its kind known to date. This study offers a compelling explanation for the existence of massive quiescent galaxies in the first billion years of the Universe.
+]]></content:encoded>
+
+<pubDate>2025-01-06T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Automated Detection of Galactic Rings from Sloan Digital Sky Survey Images</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad856d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad856d</guid>
 <content:encoded><![CDATA[
-
 Morphological features in galaxies—like spiral arms, bars, rings, and tidal tails, etc.—carry information about their structure, origin, and evolution. It is therefore important to catalog and study such features and to correlate them with other basic galaxy properties, the environments in which the galaxies are located, and their interactions with other galaxies. The volume of present and future data on galaxies is so large that traditional methods, which involve expert astronomers identifying morphological features through visual inspection, are no longer sufficient. It is therefore necessary to use AI-based techniques like machine learning and deep learning to find morphological structures quickly and efficiently. We report in this study the application of deep learning for finding ring-like structures in galaxy images from the Sloan Digital Sky Survey (SDSS) DR18. We use a catalog by R. J. Buta of ringed galaxies from SDSS to train the network, reaching good accuracy and recall, and generate a catalog of 29,420 galaxies, of which 4855 have ring-like structures with prediction confidence exceeding 90%. Using a catalog of barred galaxy images identified by S. Abraham et. al. with deep-learning techniques, we identify a set of 2087 galaxies with bars as well as rings. The catalog should be very useful in understanding the origin of these important morphological structures. As an example of the usefulness of the catalog, we explore the environments and star formation characteristics of the ring galaxies in our sample.
 ]]></content:encoded>
-
 <pubDate>2025-01-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ Morphological features in galaxies—like spiral arms, bars, rings, and tidal ta
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f32</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f32</guid>
 <content:encoded><![CDATA[
-
 We present star formation rates (SFRs), the mass–metallicity relation (MZR), and the SFR-dependent MZR across redshifts 4–10 using 81 star-forming galaxies observed by the JWST NIRSpec employing both low-resolution PRISM and medium-resolution gratings, including galaxies from the JWST Advanced Deep Extragalactic Survey (JADES) GOODS-N and GOODS-S fields, the JWST-PRIMAL Legacy Survey, and additional galaxies from the literature in the A2744, SMACS-0723, RXJ2129, BDF, COSMOS, and MACS1149 fields. These galaxies span a 3 dex stellar mass range of 107 < M*/M⊙ < 1010, with an average SFR of 7.2 ± 1.2M⊙ yr−1 and an average metallicity of . Our findings align with previous observations up to z = 8 for the MZR and indicate no deviation from the local Universe fundamental metallicity relation (FMR) up to this redshift. Beyond z = 8, we observe a significant deviation (∼0.27 dex) in FMR, consistent with recent JWST findings. We also integrate Cosmic Evolution Early Release Science (135 galaxies) and JADES (47 galaxies) samples with our data to study the metallicity evolution with redshift in a combined sample of 263 galaxies, revealing a decreasing metallicity trend with a slope of 0.067 ± 0.013, consistent with IllustrisTNG and EAGLE but contradicting the FIRE simulations. We introduce an empirical mass–metallicity–redshift relation: × , which accurately reproduces the observed trends in metallicity with both redshift and stellar mass. This trend underscores the “Grand Challenge” in understanding the factors driving high-redshift galactic metallicity trends, such as inflow, outflow, and active galactic nucleus/stellar feedback—and emphasizes the need for further investigations with larger samples and enhanced simulations.
 ]]></content:encoded>
-
 <pubDate>2025-01-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@ We present star formation rates (SFRs), the mass–metallicity relation (MZR), a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6b</guid>
 <content:encoded><![CDATA[
-
 Growing observational evidence suggests that enhanced mass loss from the progenitors of core-collapse supernovae (SNe) is common during ~1 yr preceding the explosion, creating an optically thick circumstellar medium (CSM) shell at ~1014.5 cm radii. We show that if such mass loss is indeed common, then the breakout of the SN shock through the dense CSM shell produces a neutrino flux that may account for a significant fraction of the observed ≳10 TeV neutrino background. The neutrinos are created within a few days from the explosion, during and shortly after the shock breakout, which produces also large UV (and later X-ray) luminosity. The compact size and large UV luminosity imply a pair production optical depth of ~104 for > 100 GeV photons, naturally accounting for the lack of a high-energy gamma-ray background accompanying the neutrino background. SNe producing >1 neutrino event in a 1 km2 detector are expected at a rate of ≲0.1 yr−1. A quantitative theory describing the evolution of the electromagnetic spectrum during a breakout, as the radiation-mediated shock is transformed into a collisionless one, is required to enable (i) using data from upcoming surveys that will systematically detect large numbers of young, <1 day old SNe to determine the preexplosion mass-loss history of the SN progenitor population, and (ii) a quantitative determination of the neutrino luminosity and spectrum.
 ]]></content:encoded>
-
 <pubDate>2025-01-06T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>EDGE-INFERNO: Simulating Every Observable Star in Faint Dwarf Galaxies and Their Consequences for Resolved-star Photometric Surveys</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d6</link>
@@ -10678,41 +10683,6 @@ We analyze measurements of the thermal Sunyaev–Zeldovich (tSZ) effect arising 
 <div> 高红移夸asar, 星系密度, 相关长度, 暗物质, 辐射效率
 总结:<br /><br />这篇文章报告了对四个z≳6夸asar领域的观测结果，使用JWST/NIRCam进行成像和宽场无筒光谱模式。研究发现在夸asar周围的氧三发射星系数量存在广泛的差异，密度增强范围在2cMpc半径内为δ≈65，而另一些区域的密度对比接近零。通过测量夸asar及其周围星系的两点交叉相关函数，以及星系自相关函数，推断出〈z〉=6.25时夸asar的相关长度为，而氧三发射星系的相关长度为。通过与暗物质模拟比较，估计夸asar宿主暗物质暗物质最小质量为，而对于氧三发射体是。研究结果表明，光度夸asar并不一定位于早期宇宙中最密集的区域，而且这些红移处的紫外光夸asar活跃周期fduty≪1。这种短暂的夸asar活动周期挑战了我们对早期超大质量黑洞生长的理解，并为高度尘埃遮挡的生长阶段或间歇的，辐射低效的吸积率提供了证据。 <div>
 We expect luminous (M1450 ≲ −26.5) high-redshift quasars to trace the highest-density peaks in the early Universe. Here, we present observations of four z ≳ 6 quasar fields using JWST/NIRCam in the imaging and wide-field slitless spectroscopy mode and report a wide range in the number of detected [O iii]-emitting galaxies in the quasars’ environments, ranging between a density enhancement of δ ≈ 65 within a 2 cMpc radius—one of the largest protoclusters during the Epoch of Reionization discovered to date—to a density contrast consistent with zero, indicating the presence of a UV-luminous quasar in a region comparable to the average density of the Universe. By measuring the two-point cross-correlation function of quasars and their surrounding galaxies, as well as the galaxy autocorrelation function, we infer a correlation length of quasars at 〈z〉 = 6.25 of , while we obtain a correlation length of the [O iii]-emitting galaxies of . By comparing the correlation functions to dark-matter-only simulations we estimate the minimum mass of the quasars’ host dark matter halos to be (and for the [O iii] emitters), indicating that (a) luminous quasars do not necessarily reside within the most overdense regions in the early Universe, and that (b) the UV-luminous duty cycle of quasar activity at these redshifts is fduty ≪ 1. Such short quasar activity timescales challenge our understanding of early supermassive black hole growth and provide evidence for highly dust-obscured growth phases or episodic, radiatively inefficient accretion rates.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Jets from the Upper Scorpius Variable Young Star System 2MASS J16075796-2040087 via KECK/HIRES Spectro-astrometry</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c4e</guid>
-<content:encoded><![CDATA[
-<div> 年轻恒星，Upper Sco，吸积爆发，出流迹象，伴星，光谱天文学
-
-总结:<br /><br />这篇文章研究了位于Upper Sco的一个年轻恒星2MASS J16075796-2040087，发现了其存在大约15天的吸积爆发和多组分禁止辐射线(FEL)所示的出流，这在其年龄上是不寻常的。研究表明，吸积爆发可能是由距离约4.6天文单位的伴星引发的。通过光谱天文学分析发现，FEL的高速组分(HVC)追踪着一个不对称的双极喷流，长约700天文单位，而低速发射线则与HVC更为相似，难以确定MHD盘风成分。作者提出了一个假设，即由于靠近伴星的恒星吸积爆发推动了喷流活动，而在这种活动通常在大多数恒星的年龄结束时停止。所研究的低速发射线可能来自于靠近伴星附近的缓慢喷流，与MHD风的发射混合在一起。 <div>
-2MASS J16075796-2040087 is an ∼5 Myr young star in Upper Sco with evidence for accretion bursts on a timescale of about 15 days and, uncommonly for its age, outflows traced by multicomponent forbidden emission lines (FELs). The accretion bursts may be triggered by a companion at ∼4.6 au. We analyze HIRES spectra optimised for spectro-astrometry to better understand the origin of the several FEL velocity components and determine whether a magnetohydrodynamic (MHD) disk wind is present. The FEL high-velocity component (HVC) traces an asymmetric, bipolar jet ∼700 au long. The jet’s position angle ∼ 277° is not perpendicular to the disk. The lower-velocity emission, classified previously as a disk wind low-velocity component, is found to have more in common with the HVC and overall it is not possible to identify an MHD disk wind component. The spectro-astrometric signal of the low-velocity emission resembles those of jets and its density and ionisation fraction fall into the range of HVCs. We suggest a scenario where the accretion bursts due to the close companion power the jets past the age where such activity ends around most stars. The low-velocity emission here could come from a slow jet launched near the close companion and this emission would be blended with emission from the MHD wind.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Tayler Instability Revisited</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71c8</guid>
-<content:encoded><![CDATA[
-<div> 稳定性分析, 旋转, 磁化, 弥散过程, 波动, 磁普朗数
-<br /><br />总结:
-这篇论文对旋转、磁化和稳定分层恒星的线性稳定性分析进行了系统修订。对于Bϕ的合理配置，不稳定性需要扩散过程：粘性、磁扩散率或热量/成分扩散。我们的结果展示了一个新的物理图景，证明了不同扩散效应独立地触发了旋转恒星中两种波的不稳定性：磁流线波和惯性波。它通过波的过稳定性发展，其增长率在一些特征波数急剧达到峰值。我们确定了每种波分支的不稳定条件，并找到了特征波数。对于磁普朗数Pm ≪ 1（例如太阳）和Pm ≫ 1（例如原中子星），不稳定模式的参数依赖性表明了可能的Tayler–Spruit发电机的非通用尺度。 <div>
-Tayler instability of toroidal magnetic fields Bϕ is broadly invoked as a trigger for turbulence and angular momentum transport in stars. This paper presents a systematic revision of the linear stability analysis for a rotating, magnetized, and stably stratified star. For plausible configurations of Bϕ, instability requires diffusive processes: viscosity, magnetic diffusivity, or thermal/compositional diffusion. Our results reveal a new physical picture, demonstrating how different diffusive effects independently trigger instability of two types of waves in the rotating star: magnetostrophic waves and inertial waves. It develops via overstability of the waves, whose growth rate sharply peaks at some characteristic wavenumbers. We determine instability conditions for each wave branch and find the characteristic wavenumbers. The results are qualitatively different for stars with magnetic Prandtl number Pm ≪ 1 (e.g., the Sun) and Pm ≫ 1 (e.g., protoneutron stars). The parameter dependence of unstable modes suggests a nonuniversal scaling of the possible Tayler–Spruit dynamo.
-]]></content:encoded>
-<pubDate>2024-10-16T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Measurements of Magnetic Cloud Expansion through Multiple Spacecraft in Radial Conjunction</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad71cc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad71cc</guid>
-<content:encoded><![CDATA[
-<div> 磁云，太阳风，多空间探测器，磁场扩展，等离子体物理
-<br /><br />研究旨在利用多空间探测器对磁云进行测量，以更好地限制和理解磁场扩展对其性质的影响。通过开发参数γ来比较多个探测器测得的磁场分量，利用磁场数据的最小方差技术获得轴向和方位角分量。γ参数作为前边界的一个指标，用来衡量磁云轴向和方位角磁场分量随着太阳风距离的演变的全局差异。我们的目标是确定所研究的磁云是否表现出自相似的膨胀，以及如果是这样，这种膨胀是否主要是各向同性的或径向的，基于估计的γ值。通过对多个探测器数据的分析，我们观察到所检查的示例中γ值的显著一致性。我们发现这些磁云的整体膨胀往往是各向同性的，而从磁云后边界得到的γ值通常显示出各向异性的行为，特别是当两个探测器观测之间的距离相对较短时。这一发现为完善磁力线圈模型和推进我们对伴随日冕物质抛射的膨胀过程的理解提供了见解。<br /><br />总结: 本研究利用多个空间探测器测量了磁云的磁场，并开发了参数γ来比较磁场分量。研究发现磁云的整体膨胀往往是各向同性的，而局部膨胀则显示出各向异性的行为。这为完善磁力线圈模型和推进我们对伴随日冕物质抛射的膨胀过程的理解提供了见解。 <div>
-The aim of this study is to use multispacecraft measurements of interplanetary magnetic clouds (MCs) to better constrain and understand the effect of expansion on their magnetic field properties. We develop a parameter (γ) for comparing magnetic field components measured at multiple spacecraft. We use the minimum variance technique on the magnetic field data to obtain the axial and azimuthal components. The parameter γ acts at the front boundary as a measure of the global difference in the evolution with heliospheric distance of the axial and azimuthal magnetic field components of MCs. Our goal is to determine whether the studied MCs exhibit self-similar expansion and, if so, whether this expansion is predominantly isotropic or radial, based on the estimated γ. Through our analysis of data from multiple spacecraft, we observe a notable consistency in the γ values across the examples examined. We find that the overall expansion of these MCs tends to be isotropic, while the local expansion of MCs, derived from the γ values measured at the rear boundary of MCs, usually shows anisotropic behavior, particularly when the distances between the observations from the two spacecraft are relatively short. This discovery offers insights for refining flux rope models and advancing our comprehension of the expansion processes associated with coronal mass ejections.
 ]]></content:encoded>
 <pubDate>2024-10-16T23:00:00Z</pubDate>
 </item>
