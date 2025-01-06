@@ -4,6 +4,39 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Automated Detection of Galactic Rings from Sloan Digital Sky Survey Images</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad856d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad856d</guid>
+<content:encoded><![CDATA[
+
+Morphological features in galaxies—like spiral arms, bars, rings, and tidal tails, etc.—carry information about their structure, origin, and evolution. It is therefore important to catalog and study such features and to correlate them with other basic galaxy properties, the environments in which the galaxies are located, and their interactions with other galaxies. The volume of present and future data on galaxies is so large that traditional methods, which involve expert astronomers identifying morphological features through visual inspection, are no longer sufficient. It is therefore necessary to use AI-based techniques like machine learning and deep learning to find morphological structures quickly and efficiently. We report in this study the application of deep learning for finding ring-like structures in galaxy images from the Sloan Digital Sky Survey (SDSS) DR18. We use a catalog by R. J. Buta of ringed galaxies from SDSS to train the network, reaching good accuracy and recall, and generate a catalog of 29,420 galaxies, of which 4855 have ring-like structures with prediction confidence exceeding 90%. Using a catalog of barred galaxy images identified by S. Abraham et. al. with deep-learning techniques, we identify a set of 2087 galaxies with bars as well as rings. The catalog should be very useful in understanding the origin of these important morphological structures. As an example of the usefulness of the catalog, we explore the environments and star formation characteristics of the ring galaxies in our sample.
+]]></content:encoded>
+
+<pubDate>2025-01-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Unveiling the Cosmic Chemistry: Revisiting the Mass–Metallicity Relation with JWST/NIRSpec at 4 < z < 10</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f32</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f32</guid>
+<content:encoded><![CDATA[
+
+We present star formation rates (SFRs), the mass–metallicity relation (MZR), and the SFR-dependent MZR across redshifts 4–10 using 81 star-forming galaxies observed by the JWST NIRSpec employing both low-resolution PRISM and medium-resolution gratings, including galaxies from the JWST Advanced Deep Extragalactic Survey (JADES) GOODS-N and GOODS-S fields, the JWST-PRIMAL Legacy Survey, and additional galaxies from the literature in the A2744, SMACS-0723, RXJ2129, BDF, COSMOS, and MACS1149 fields. These galaxies span a 3 dex stellar mass range of 107 < M*/M⊙ < 1010, with an average SFR of 7.2 ± 1.2M⊙ yr−1 and an average metallicity of . Our findings align with previous observations up to z = 8 for the MZR and indicate no deviation from the local Universe fundamental metallicity relation (FMR) up to this redshift. Beyond z = 8, we observe a significant deviation (∼0.27 dex) in FMR, consistent with recent JWST findings. We also integrate Cosmic Evolution Early Release Science (135 galaxies) and JADES (47 galaxies) samples with our data to study the metallicity evolution with redshift in a combined sample of 263 galaxies, revealing a decreasing metallicity trend with a slope of 0.067 ± 0.013, consistent with IllustrisTNG and EAGLE but contradicting the FIRE simulations. We introduce an empirical mass–metallicity–redshift relation: × , which accurately reproduces the observed trends in metallicity with both redshift and stellar mass. This trend underscores the “Grand Challenge” in understanding the factors driving high-redshift galactic metallicity trends, such as inflow, outflow, and active galactic nucleus/stellar feedback—and emphasizes the need for further investigations with larger samples and enhanced simulations.
+]]></content:encoded>
+
+<pubDate>2025-01-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Shock Breakouts from Compact Circumstellar Medium Surrounding Core-collapse Supernova Progenitors May Contribute Significantly to the Observed ≳10 TeV Neutrino Background</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6b</guid>
+<content:encoded><![CDATA[
+
+Growing observational evidence suggests that enhanced mass loss from the progenitors of core-collapse supernovae (SNe) is common during ~1 yr preceding the explosion, creating an optically thick circumstellar medium (CSM) shell at ~1014.5 cm radii. We show that if such mass loss is indeed common, then the breakout of the SN shock through the dense CSM shell produces a neutrino flux that may account for a significant fraction of the observed ≳10 TeV neutrino background. The neutrinos are created within a few days from the explosion, during and shortly after the shock breakout, which produces also large UV (and later X-ray) luminosity. The compact size and large UV luminosity imply a pair production optical depth of ~104 for > 100 GeV photons, naturally accounting for the lack of a high-energy gamma-ray background accompanying the neutrino background. SNe producing >1 neutrino event in a 1 km2 detector are expected at a rate of ≲0.1 yr−1. A quantitative theory describing the evolution of the electromagnetic spectrum during a breakout, as the radiation-mediated shock is transformed into a collisionless one, is required to enable (i) using data from upcoming surveys that will systematically detect large numbers of young, <1 day old SNe to determine the preexplosion mass-loss history of the SN progenitor population, and (ii) a quantitative determination of the neutrino luminosity and spectrum.
+]]></content:encoded>
+
+<pubDate>2025-01-06T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>EDGE-INFERNO: Simulating Every Observable Star in Faint Dwarf Galaxies and Their Consequences for Resolved-star Photometric Surveys</title>
