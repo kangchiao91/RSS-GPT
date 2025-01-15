@@ -5,14 +5,112 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Theory of Resonant Cosmic Ray–driven Instabilities—Growth and Saturation of Single Modes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb3</guid>
+<content:encoded><![CDATA[
+
+Cosmic-ray (CR) feedback is critical for galaxy formation as CRs drive galactic winds, regularize star formation in galaxies, and escape from active galactic nuclei to heat the cooling cores of galaxy clusters. The feedback strength of CRs depends on their coupling to the background plasma and, as such, on the effective CR transport speed. Traditionally, this has been hypothesized to depend on the balance between the wave growth of CR-driven instabilities and their damping. Here, we study the physics of CR-driven instabilities from first principles, starting from a gyrotropic distribution of CR ions that stream along a background magnetic field. We develop a theory of the underlying processes that organize the particles’ orbits and in particular their gyrophases, which provides an intuitive physical picture of (i) wave growth as the CR gyrophases start to bunch up lopsidedly toward the local wave magnetic field, (ii) instability saturation as a result of CRs overtaking the wave and damping its amplitude without isotropizing CRs in the wave frame, and (iii) CR backreaction onto the unstable plasma waves as the CR gyrophases follow a pendulum motion around the wave magnetic field. Using our new fluid-particle-in-cell code fluid-SHARP, we validate our theory on the evolution and excitation of individual unstable modes, such as forward- and backward-propagating Alfvén and whistler waves. We show that these kinetic simulations support our theoretical considerations, thus potentially foreshadowing a revision of the theory of CR transport in galaxies and galaxy clusters.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring Simple-population and Multiple-population Globular Clusters in the Outer Galactic Halo Using the Hubble Space Telescope</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98ee</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98ee</guid>
+<content:encoded><![CDATA[
+
+The pseudo two-color diagram, known as chromosome map (ChM), is a valuable tool for identifying globular clusters (GCs), which consist of single or multiple stellar populations (MPs). Recent surveys of Galactic GCs using ChMs have provided stringent observational constraints on the formation of GCs and their stellar populations. However, these surveys have primarily focused on GCs at moderate distances from the Galactic center and composed of MPs. In this paper, we present the first detailed study of the stellar composition of four GCs in the outer halo of the Milky Way: Arp 2, Ruprecht 106, Terzan 7, and Terzan 8. Our analysis is based on high-precision photometry obtained from images collected with the Hubble Space Telescope in the F275W, F336W, F438W, F606W, and F814W bands. We find that Ruprecht 106 and Terzan 7 are composed solely of a single stellar population, whereas Arp 2 and Terzan 8 host both first- and second-population stars. In these clusters, the second population comprises about half and one-third of the total number of GC stars, respectively. The results from this paper and the literature suggest that the threshold in the initial GC mass, if present, should be smaller than approximately 105M⊙. The first-population stars of Arp 2 and Terzan 8, along with the stars of the simple-population GCs Ruprecht 106 and Terzan 7, exhibit intrinsic F275W – F814W color spreads, likely indicative of [Fe/H] variations of approximately 0.05–0.30 dex. This suggests that star-to-star metallicity variations are a common feature of star clusters, regardless of the presence of MPs.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Photospheric Swirls in a Quiet-Sun Region</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d4</guid>
+<content:encoded><![CDATA[
+
+Swirl-shaped flow structures have been observed throughout the solar atmosphere, in both emission and absorption, at different altitudes and locations, and are believed to be associated with magnetic structures. However, the distribution patterns of such swirls, especially their spatial positions, remain unclear. Using the Automated Swirl Detection Algorithm, we identified swirls from the high-resolution photospheric observations, centered on Fe i 630.25 nm, of a quiet region near the Sun's central meridian by the Swedish 1-m Solar Telescope. Via a detailed study of the locations of the detected small-scale swirls with an average radius of ~300 km, we found that most of them are located in lanes between mesogranules (which have an average diameter of ~5.4 Mm) instead of the commonly believed intergranular lanes. The squared rotation, expansion/contraction and vector speeds, and proxy kinetic energy are all found to follow Gaussian distributions. Their rotation speed, expansion/contraction speed, and circulation are positively correlated with their radius. All these results suggest that photospheric swirls at different scales and locations across the observational 56 5 × 57 5 field of view could share the same triggering mechanism at preferred spatial and energy scales. A comparison with our previous work suggests that the number of photospheric swirls is positively correlated with the number of local magnetic concentrations, stressing again the close relation between swirls and local magnetic concentrations: the number of swirls should positively correlate with the number and strength of local magnetic concentrations.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Visibility-based Angular Bispectrum Estimator for Radio-interferometric Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b20</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b20</guid>
+<content:encoded><![CDATA[
+
+Considering radio-interferometric observations, we present a fast and efficient estimator to compute the binned angular bispectrum (ABS) from gridded visibility data. The estimator makes use of Fast Fourier Transform techniques to compute the ABS covering all possible triangle shapes and sizes. Here, we present the formalism of the estimator and validate it using simulated visibility data for the Murchison Widefield Array observations at ν = 154.25 MHz. We find that our estimator is able to faithfully recover the ABS of the simulated sky signal with ≈10%–15% accuracy for a wide variety of triangle shapes and sizes across the range of angular multipoles 46 ≤ ℓ ≤ 1320. In future work, we plan to apply this to actual data and also generalize it to estimate the three-dimensional redshifted 21 cm bispectrum.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Predictions of Dust Continuum Emission from a Potential Circumplanetary Disk: A Case Study of the Planet Candidate AB Aurigae b</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b21</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b21</guid>
+<content:encoded><![CDATA[
+
+Gas-accreting planets embedded in protoplanetary disks are expected to show dust thermal emission from their circumplanetary disks (CPDs). However, a recently reported gas-accreting planet candidate, AB Aurigae b, has not been detected in (sub)millimeter continuum observations. We calculate the evolution of dust in the potential CPD of AB Aurigae b and predict its thermal emission at 1.3 mm wavelength as a case study, where the obtained features may also be applied to other gas-accreting planets. We find that the expected flux density from the CPD is lower than the 3σ level of the previous continuum observation by the Atacama Large Millimeter/submillimeter Array with broad ranges of parameters, consistent with a nondetection. However, the expected planet mass and gas accretion rate are higher if the reduction of the observed near-infrared continuum and Hα line emission due to the extinction by small grains is considered, resulting in higher flux density of the dust emission from the CPD at (sub)millimeter wavelengths. We find that the corrected predictions of the dust emission are stronger than the 3σ level of the previous observation with the typical dust-to-gas mass ratio of the inflow to the CPD. This result suggests that the dust supply to the vicinity of AB Aurigae b is small if the planet candidate is not the scattered light of the star but is a planet and has a CPD. Future continuum observations at shorter wavelengths are required to obtain more robust clues to the question of whether the candidate is a planet or not.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Prospects for Gamma-Ray Emission from Magnetar Regions in CTAO Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b23</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b23</guid>
+<content:encoded><![CDATA[
+
+Recent multiwavelength observations have highlighted magnetars as significant sources of cosmic rays, particularly through their gamma-ray emissions. This study examines three magnetar regions—CXOU J171405.7–31031, Swift J1834−0846, and SGR 1806−20—known for emitting detectable electromagnetic signals. We assess the detectability of these regions using the upcoming Cherenkov Telescope Array Observatory (CTAO) by conducting an ON/OFF spectral analysis and compare the expected results with existing observations. Our findings indicate that CTAO will detect gamma-ray emissions from these three magnetar regions with significantly reduced emission flux errors compared to current instruments. In particular, the study shows that the CXOUJ1714−3810 and SwiftJ1834−0846 magnetar regions can be observed by the full southern and northern CTAO arrays in just 5 hr of observation, with mean significances above 10σ and 30σ, respectively. This paper discusses the regions analyzed, presents key results, and concludes with insights drawn from the study.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Type IV-like Solar Radio Burst Consisting of a Series of Short-time Bursts Observed by PSP</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b7e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b7e</guid>
+<content:encoded><![CDATA[
+
+Solar and interplanetary radio bursts can reflect the existence and motion of energetic electrons and are therefore a kind of vital phenomenon in solar activities. The present study reported a solar radio storm observed by the Parker Solar Probe (PSP) in its eighth orbital encounter phase, and it lasted about 20 hr in a frequency range of 0.5–15 MHz, called the type IV-like burst. It consists of a series of numerous short-time (ST) bursts with the central frequency drifting slowly from ~5 to ~1 MHz, and each individual ST burst appears at a much faster frequency drifting rate and has a typical frequency range of a few MHz and a short duration of about 1–4 minutes. Based on the empirical models of the solar atmosphere adopted commonly, combining the in situ measurement by PSP, we analyzed and compared some possible mechanisms for the generation of these small-scale ST bursts and proposed that they were generated probably by a group of solitary kinetic Alfvén waves (SKAWs) in a magnetic loop accompanying coronal mass ejection and slowly moving outward, in which the frequency drifting of individual ST burst is caused by the SKAW's propagation and the central frequency drifting may be attributed to the motion of the magnetic loop.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Epsilon Canis Majoris: The Brightest Extreme-ultraviolet Source with Surprisingly Low Interstellar Absorption</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b8b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b8b</guid>
+<content:encoded><![CDATA[
+
+The B2 star Epsilon Canis Majoris (ϵ CMa), at parallax distance d = 124 ± 2 pc, dominates the H i photoionization of the Local Interstellar Cloud. At its closer parallax distance compared to previous estimates, ϵ CMa has a 0.9 mag fainter absolute magnitude MV = −3.97 ± 0.04. We combine measurements of distance with the integrated flux f = (41.5 ± 3.3) × 10−6 erg cm−2 s−1 and angular diameter θd = 0.80 ± 0.05 mas to produce a consistent set of stellar parameters: radius R = 10.7 ± 0.7 R⊙, mass M = 13.1 ± 2.3 M⊙, gravity , effective temperature Teff ≈ 21,000 K, and luminosity L ≈ 20,000 L⊙. These parameters place ϵ CMa outside the β Cephei instability strip, consistent with its observed lack of pulsations. The observed extreme-ultraviolet spectrum yields a hydrogen photoionization rate ΓHI ≈ 10−15 s−1 (at Earth). The total flux decrement factor at the Lyman limit (ΔLL = 5000 ± 500) is a combination of attenuation in the stellar atmosphere (Δstar = 110 ± 10) and interstellar medium (ΔISM = 45 ± 5) with optical depth τLL = 3.8 ± 0.1. After correcting for interstellar H i column density NHI = (6 ± 1) × 1017cm−2, we find a stellar LyC photon flux ΦLyC ≈ 3000 cm−2 s−1 and ionizing luminosity QLyC = 1045.7±0.3 photons s−1. The photoionization rate ΓH ≈ (1–2) × 10−14 s−1 at the cloud surface produces an ionization fraction (30%–40%) for total hydrogen density nH = 0.2 cm−3. With its 27.3 ± 0.4 km s−1 heliocentric radial velocity and small proper motion, ϵ CMa passed within 9.3 ± 0.5 pc of the Sun 4.4 Myr ago, with a 180 times higher photoionization rate.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Transients by Black Hole Formation from Red Supergiants: Impact of Dense Circumstellar Matter</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bad</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bad</guid>
+<content:encoded><![CDATA[
+
+Failed supernovae (SNe), which are likely the main channel for forming stellar-mass black holes, are predicted to accompany mass ejections much weaker than typical core-collapse SNe. We conduct a grid of one-dimensional radiation hydrodynamical simulations to explore the emission of failed SNe from red supergiant progenitors, leveraging recent understanding of the weak explosion and the dense circumstellar matter (CSM) surrounding these stars. We find from these simulations and semianalytical modeling that diffusion in the CSM prolongs the early emission powered by shock breakout/cooling. The early emission has peak luminosities of ~107–108 L⊙ in optical and UV and durations of days to weeks. The presence of dense CSM aids in the detection of the early bright peak from these events via near-future wide-field surveys such as Rubin Observatory, ULTRASAT, and UVEX.
+]]></content:encoded>
+
+<pubDate>2025-01-15T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Implication of Galaxy-scale Negative Feedback by One of the Most Powerful Multiphase Outflows in a Hyperluminous Infrared Galaxy at Intermediate Redshift</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93ab</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93ab</guid>
 <content:encoded><![CDATA[
-
 Powerful galactic outflows driven by active galactic nuclei (AGNs) are commonly considered as one of the main mechanisms to regulate star formation in massive galaxies. Ultra- and hyperluminous IR galaxies (U/HyLIRGs) are thought to represent a transition phase of galaxies from a rapidly growing period to a quiescent status as gas is swept out by outflows, providing a laboratory in which to investigate outflows and their feedback effects on hosts. In this paper we report recent Gemini and Atacama Large Millimeter/submillimeter Array (ALMA) observations of a HyLIRG, J1126, at z = 0.46842, which has been identified with a puzzling coexistence of a fast ionized outflow (>2000 km s−1) and an intense starburst (star formation rate of 800 M⊙ yr−1). The Gemini observation shows the fast ionized outflow is extended to several kiloparsecs with a mass-loss rate of 180 M⊙ yr−1. A massive molecular outflow with a high mass-loss rate (2500 M⊙ yr−1) is revealed by ALMA. The multiphase outflows show large factors of momentum boost and loading of kinetic power, indicating a driving by the thermal pressure of a nuclear hot wind and/or the radiation pressure of a highly obscured AGN. In addition to ejection of kinetic energy, it is also found that the powerful outflow can induce an ionizing shock in the galaxy disk and enhance the excitation and dissociation of molecular gas. The powerful outflow probably results in an instantaneous negative feedback and shows potential to regulate host growth in the long term.
 ]]></content:encoded>
-
 <pubDate>2025-01-15T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@ Powerful galactic outflows driven by active galactic nuclei (AGNs) are commonly 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9901</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9901</guid>
 <content:encoded><![CDATA[
-
 In this paper, we compute, by means of the recently and thoroughly updated PARSE v1.2 s database of stellar nonrotating evolutionary tracks, the integrated stellar spectra, the ionizing photon budget, and the supernovae rates of young simple stellar populations (SSPs), for five metallicities between 0.0001 and 0.02 and four choices of stellar initial mass function (IMF) upper mass limits between 40 M⊙ and 350 M⊙. Using the photo-ionization code CLOUDY, we compute, at this same range of metallicities and limits, the intensities of some selected recombination and collisionally excited lines as a function of the age of the SSP. We account for the electron temperature dependence on IMF upper mass limit and metallicity while computing the thermal radio emission component, and also accounted for recent advances in core-collapse supernova explosion models while computing the nonthermal radio emission component. We self-consistently add the emission lines, nebular continuum, and nonthermal radio emission to the original SSP integrated photospheric spectra. Finally, from the resulting new suite of SSPs, we provide a consistent set of analytical relations between star formation rate (SFR) and ultraviolet, optical, and thermal radio luminosities that can be used to convert attenuation-corrected and dust-unaffected luminosities to SFR estimates. In a forthcoming paper, we will use our new SSP libraries as input to the state-of-the-art radiative transfer model GRAphites and SILicates to test the overall performance of these SSPs in reproducing the observed spectral energy distribution of young star-forming galaxies.
 ]]></content:encoded>
-
 <pubDate>2025-01-15T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@ In this paper, we compute, by means of the recently and thoroughly updated PARSE
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a57</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a57</guid>
 <content:encoded><![CDATA[
-
 We present a sample of 398 galaxies with ionized gas outflow signatures in their spectra from the Galaxy and Mass Assembly Survey Data Release 4, including 45 low-mass galaxies with stellar masses M* < 1010M⊙. We assemble our sample by systematically searching for the presence of a second velocity component in the [O iii]λλ4959, 5007 doublet emission line in 39,612 galaxies with redshifts z < 0.3. The host galaxies are classified using the Baldwin–Phillips–Terlevich diagram, with ~89% identified as active galactic nuclei (AGNs) and composites and 11% as star-forming (SF) galaxies. The outflows are typically faster in AGNs with a median velocity of 936 km s−1 compared to 655 km s−1 in the SF objects. Of particular interest are the 45 galaxies in the low-mass range, of which a third are classified as AGNs/composites. The outflows from the low-mass AGNs are also faster and more blueshifted compared to those in the low-mass SF galaxies. This indicates that black hole outflows can affect host galaxies in the low-mass range and that AGN feedback in galaxies with M* < 1010M⊙ should be considered in galaxy evolution models.
 ]]></content:encoded>
-
 <pubDate>2025-01-15T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +136,10 @@ We present a sample of 398 galaxies with ionized gas outflow signatures in their
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9336</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9336</guid>
 <content:encoded><![CDATA[
-
 Luminous interacting supernovae (SNe) are a class of stellar explosions whose progenitors underwent vigorous mass loss in the years prior to core collapse. While the mechanism by which this material is ejected is still debated, obtaining the full density profile of the circumstellar medium (CSM) could reveal more about this process. Here, we present an extensive multiwavelength study of PS1-11aop, a luminous and slowly declining Type IIn SNe discovered by the Pan-STARRS Medium Deep Survey. PS1-11aop had a peak r-band magnitude of −20.5 mag, a total radiated energy >8 × 1050 erg, and it exploded near the center of a star-forming galaxy with super-solar metallicity. We obtained multiple detections at the location of PS1-11aop in the radio and X-ray bands between 4 and 10 yr post-explosion, and if due to the supernova (SN), it is one of the most luminous radio SNe identified to date. Taken together, the multiwavelength properties of PS1-11aop are consistent with a CSM density profile with multiple zones. The early optical emission is consistent with the SN blastwave interacting with a dense and confined CSM shell, which contains multiple solar masses of material that was likely ejected in the final <10–100 yr prior to the explosion, (∼0.05−1.0 M⊙ yr−1 at radii of ≲1016 cm). The radio observations, on the other hand, are consistent with a sparser environment (≲2 × 10−3M⊙ yr−1 at radii of ∼0.5–1 × 1017 cm)—thus probing the history of the progenitor star prior to its final mass-loss episode.
 ]]></content:encoded>
-
 <pubDate>2025-01-14T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>SN H0pe: The First Measurement of H 0 from a Multiply Imaged Type Ia Supernova, Discovered by JWST</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9928</link>
@@ -10529,54 +10620,6 @@ We present a proof-of-concept simulation-based inference on Ωm and σ8 from the
 总结: 
 21 cm实验宇宙学中，准确表征射电望远镜的天线光束响应对于测量21 cm信号至关重要。为了优化天线设计或准确表示光束，需要进行光束模式和频率响应的计算电磁学模拟。然而，搜索所有可能的参数空间以优化天线设计或准确代表光束是计算上昂贵的。因此，研究人员提出了MEDEA模拟器，它能够快速而准确地在广阔的超参数空间内生成远场辐射模式。MEDEA采用CEM软件模拟的一部分光束，将其空间分解成完整的线性基础上的系数，然后插值形成任意超参数的新光束。研究人员对一个解析偶极子和两个数字光束进行测试，并将MEDEA作为模型用于拟合模拟射电分光计数据以提取输入光束超参数的协方差。他们发现，利用20个或更少的输入光束，插值光束的均方根相对误差最多为10^-2，并且拟合模拟数据能够恢复输入光束超参数。当在模拟数据中引入系统偏差时，提取的光束超参数会出现偏差，这是预期的。他们提出了MEDEA的一些扩展来解决这种偏差。 <div>
 In 21 cm experimental cosmology, accurate characterization of a radio telescope’s antenna beam response is essential to measure the 21 cm signal. Computational electromagnetic (CEM) simulations estimate the antenna beam pattern and frequency response by subjecting the EM model to different dependencies, or beam hyperparameters, such as soil dielectric constant or orientation with the environment. However, it is computationally expensive to search all possible parameter spaces to optimize the antenna design or accurately represent the beam to the level required for use as a systematic model in 21 cm cosmology. We therefore present the Model for Emulating Directivities and Electric fields of Antennas (MEDEA), an emulator that rapidly and accurately generates far-field radiation patterns over a large hyperparameter space. MEDEA takes a subset of beams simulated by CEM software, spatially decomposes them into coefficients on a complete, linear basis, and then interpolates them to form new beams at arbitrary hyperparameters. We test MEDEA on an analytical dipole and two numerical beams motivated by upcoming lunar lander missions, and then employ MEDEA as a model to fit mock radio spectrometer data to extract covariances on the input beam hyperparameters. We find that the interpolated beams have rms relative errors of at most 10−2 using 20 input beams or less, and that fits to mock data are able to recover the input beam hyperparameters when the model and mock are derived from the same set of beams. When a systematic bias is introduced into the mock data, extracted beam hyperparameters exhibit bias, as expected. We propose several extensions to MEDEA to potentially account for such bias.
-]]></content:encoded>
-<pubDate>2024-10-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Windy or Not: Radio Parsec-scale Evidence for a Broad-line Region Wind in Radio-quiet Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fc</guid>
-<content:encoded><![CDATA[
-<div> 关键词: broad-line region (BLR), radio-quiet (RQ) active galactic nuclei (AGN), parsec scales, radio emission, Eddington ratios
-
-总结:<br /><br />这项研究探讨了RQ活动星系核中的广谱线区域（BLR）风是否延伸到秒差距尺度并产生无线电发射。研究发现具有无线电和BLR风指标的对象在高Eddington比率（L/LEdd≥0.66）处，并且大部分既没有无线电也没有BLR风指标的对象处于低Eddington比率（L/LEdd≤0.28）处。这表明RQ AGN中的BLR风和无线电风与辐射压力驱动的风有关。研究还发现两个对象中存在AGN光电离气体的自由–自由吸收迹象，三个低Eddington比率（0.05–0.12）对象的无线电流出可能来自低功率喷流，四个中等Eddington比率（0.2–0.4）对象中存在温和的赤道BLR风。未来的光谱偏振测量可以验证这一点。 <div>
-Does a broad-line region (BLR) wind in radio-quiet (RQ) active galactic nuclei (AGN) extend to parsec scales and produce radio emission? We explore the correlations between a parsec-scale radio wind and the BLR wind in a sample of 19 RQ Palomar–Green quasars. The radio wind is defined based on the spectral slope and the compactness of the emission at 1.5–5 GHz, and the BLR wind is defined by the excess blue wing in the C iv emission line profile. The five objects with both radio and BLR wind indicators are found at high Eddington ratios, L/LEdd (≥0.66), and eight of the nine objects with neither radio nor BLR winds reside at low L/LEdd (≤0.28). This suggests that the BLR wind and the radio wind in RQ AGN are related to a radiation-pressure-driven wind. Evidence for free–free absorption by AGN photoionized gas, which flattens the spectral slope, is found in two objects. Radio outflows in three low-L/LEdd (0.05–0.12) objects are likely from a low-power jet, as suggested by additional evidence. The presence of a mild equatorial BLR wind in four intermediate-L/LEdd (0.2–0.4) objects can be tested with future spectropolarimetry.
-]]></content:encoded>
-<pubDate>2024-10-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>An Image-based Search for Pulsar Candidates in the MeerKAT Bulge Survey</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad74fd</guid>
-<content:encoded><![CDATA[
-<div> 搜索、脉冲星候选、银河系、MeerKAT射电望远镜、偏振
-总结:
-本研究利用MeerKAT射电望远镜的图像进行了对银河系中心区域的脉冲星候选的搜索，使用了多种标准来选择候选脉冲星。结果显示出75个偏振源，其中28个和明亮恒星或年轻恒星对象相关。对已知脉冲星进行偏振发射的搜索结果表明了这一技术的有效性。通过比较这些候选源的属性，确定了30个有希望进行脉冲星脉冲跟踪的候选源。有两个源同时具有较强的圆偏振和线偏振。剩下的17个源可能是脉冲星或恒星，但也不能排除是星系外来源或图像伪迹的可能。 <div>
-We report on the results of an image-based search for pulsar candidates toward the Galactic bulge. We used mosaic images from the MeerKAT radio telescope that were taken as part of a 173 deg2 survey of the bulge and Galactic center of our Galaxy at L band (856–1712 MHz) in all four Stokes I, Q, U, and V. The image rms noise levels of 12–17 μJy ba−1 represent a significant increase in sensitivity over past image-based pulsar searches. Our primary search criterion was circular polarization, but we used other criteria, including linear polarization, in-band spectral index, compactness, variability, and multiwavelength counterparts to select pulsar candidates. We first demonstrate the efficacy of this technique by searching for polarized emission from known pulsars and comparing our results with measurements from the literature. Our search resulted in a sample of 75 polarized sources. Bright stars or young stellar objects were associated with 28 of these sources, including a small sample of highly polarized dwarf stars with pulsar-like steep spectra. Comparing the properties of this sample with the known pulsars, we identified 30 compelling candidates for pulsation follow-up, including two sources with both strong circular and linear polarization. The remaining 17 sources are either pulsars or stars, but we cannot rule out an extragalactic origin or image artifacts among the brighter, flat-spectrum objects.
-]]></content:encoded>
-<pubDate>2024-10-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Nature of Nonthermal Broadening of Spectral Lines Observed by IRIS</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7586</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7586</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 非热展宽, 磁场, 视线, 运动, 太阳光谱
-总结: 
-本文通过观察太阳活跃区的Si iv 1403 Å光谱，发现非热展宽与磁场与观察者视线方向的对齐有关，并且与向下运动（红移）呈正相关。根据这些观察结果，作者推测磁场方向与观察者视线方向一致时，沿着磁场下流的等离子体速度梯度可能导致闭合场区域中过渡区光谱线的非热展宽。这一发现有助于解答太阳光谱中非热展宽的物理过程。 <div>
-The origin of nonthermal broadening in solar spectra is one of the long-standing questions in solar physics. Various processes have been invoked—including unresolved flows, waves, and turbulent processes—but definitive answers are lacking. To investigate the physical processes responsible for nonthermal broadening, we examine its relation with the angle between the magnetic field and the line of sight in three different closed-field regions above plage regions at different locations on the solar disk. We obtained the nonthermal width of transition-region Si iv 1403 Å spectra observed in active regions by the Interface Region Imaging Spectrograph, after subtraction of the thermal and instrumental line broadening. To investigate the dependence of the measured broadening on the viewing angle between the line of sight and magnetic field direction, we determined the magnetic field direction at transition-region heights using nonlinear force-free extrapolations based on the observed photospheric vector magnetic field taken by the Helioseismic and Magnetic Imager on board the Solar Dynamics Observatory. We found that the nonthermal broadening shows a correlation with downward motion (redshifts) and alignment between the magnetic field and the observer’s line-of-sight direction. Based on the observed correlations, we suggest that velocity gradients within plasma flowing down along the magnetic field may lead to a significant portion of the observed nonthermal broadening of transition-region spectral lines in closed fields above plage regions.
-]]></content:encoded>
-<pubDate>2024-10-22T23:00:00Z</pubDate>
-</item>
-<item>
-<title>JADES: Spectroscopic Confirmation and Proper Motion for a T-Dwarf at 2 kpc</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad76a7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad76a7</guid>
-<content:encoded><![CDATA[
-<div> 关键词: James Webb Space Telescope, brown dwarf, JADES program, NIRSpec PRISM spectrum, proper motion <br />
-<br />
-这封信件介绍了使用James Webb Space Telescope对银河系外深空域进行大面积观测，发现了许多低质量L-和T-类棕矮星。这些发现对恒星初始质量函数的低质量端和低金属丰度条件下恒星与行星之间的联系有着重要影响。信件介绍了对棕矮星JADES-GS-BD-9的JWST/NIRSpec PRISM光谱观测结果，确认了该棕矮星的光度选择是正确的。光谱拟合结果表明，该棕矮星的有效温度约为800-900K，距太阳1.8-2.3千秒差距，并且显示出低金属丰度的迹象。此外，作者还发现了该源在2022年和2023年的位置的proper motion，并测得其proper motion为20 ± 4 mas yr−1。根据预测的金属丰度、距离和proper motion，该源可能属于银河系的厚盘边缘或者星系的晕。这些光谱确认结果表明光度选择是有效的，可以在深空域观测中发现这类重要源。 <br /> <br />总结: 本封信件介绍了JWST对银河系外深空域的观测结果，发现了一些重要的低质量棕矮星。同时，对JADES-GS-BD-9进行了光谱观测，确认了其物理特性，并发现了其proper motion，结果表明这些观测结果对于深空域的光度选择是有效的。 <div>
-Large area observations of extragalactic deep fields with the James Webb Space Telescope (JWST) have provided a wealth of candidate low-mass L- and T-class brown dwarfs. The existence of these sources, which are at derived distances of hundreds of parsecs to several kiloparsecs from the Sun, has strong implications for the low-mass end of the stellar initial mass function, and the link between stars and planets at low metallicities. In this letter, we present a JWST/NIRSpec PRISM spectrum of brown dwarf JADES-GS-BD-9, confirming its photometric selection from observations taken as part of the JWST Advanced Deep Extragalactic Survey (JADES) program. Fits to this spectrum indicate that the brown dwarf has an effective temperature of 800–900 K (T5–T6) at a distance of 1.8–2.3 kpc from the Sun, with evidence of the source being at low metallicity ([M/H] ≤ −0.5). Finally, because of the cadence of JADES NIRCam observations of this source, we additionally uncover a proper motion between the 2022 and 2023 centroids, and we measure a proper motion of 20 ± 4 mas yr−1 (a transverse velocity of 214 km s−1 at 2.25 kpc). At this predicted metallicity, distance, and transverse velocity, it is likely that this source belongs either to the edge of the Milky Way thick disk or the galactic halo. This spectral confirmation demonstrates the efficacy of photometric selection of these important sources across deep extragalactic JWST imaging.
 ]]></content:encoded>
 <pubDate>2024-10-22T23:00:00Z</pubDate>
 </item>
