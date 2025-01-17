@@ -5,14 +5,145 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Search for and Analysis of Eclipsing Binaries in the LAMOST Medium-resolution Survey Field. I. R.A.: 23h01m51s, Decl.: +34°36′45″</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9929</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9929</guid>
+<content:encoded><![CDATA[
+
+Eclipsing binaries (EBs) play an important astrophysical role in studying stellar properties and evolution. By analyzing photometric data in the the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) Medium-Resolution Survey field, R.A.: 23h01m51 00, decl.: +34 , 48 EBs are detected and two are newly discovered. This specific field has been observed 52 times by the LAMOST Medium-Resolution Survey DR 9, which facilitates a comprehensive analysis of the EBs. For EBs with LAMOST medium-resolution spectra, radial velocity curves were obtained, and their precise orbital parameters were determined by simultaneously analyzing photometric light curves and radial velocity curves. For the other EBs with only photometric light curves, we used the q-search or the temperature ratio method to determine their initial mass ratios and then determined the orbital parameters. It is found that 15 EBs belong to detached systems, one to semi-detached systems, and 32 to contact systems. Based on the O − C analysis for 26 EBs with sufficient eclipsing times, we found a long-term decrease in the orbital period of 11 EBs and a continuous increase of five EBs, which are due to the material transfer between the two components. The O − C curve of 1 EB shows a distinct periodic variation, which is caused by the light travel time effect, and the third body is likely to be a black hole. By applying the spectral subtraction method to 13 EBs with LAMOST medium-resolution spectra, 10 systems exhibit distinct Hα emission lines, in which one system exhibits double-peaked lines near phases 0.25 and 0.75, implying strong chromospheric activity. In the massluminosities and mass–radius distributions, most of the more massive components are less evolved than the less massive ones.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>JWST Discovery of a Very Fast Biconical Outflow of Warm Molecular Gas in the Nearby Ultraluminous Infrared Galaxy F08572+3915 NW</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a50</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a50</guid>
+<content:encoded><![CDATA[
+
+We present new James Webb Space Telescope (JWST) Mid-Infrared Instrument Medium-Resolution Spectrometer observations of the nearby ultraluminous infrared galaxy (ULIRG) F08572+3915 NW. These integral field spectroscopic (IFS) data reveal a kpc-scale warm-molecular rotating disk and biconical outflow traced by the H2ν = 0–0 S(1), S(2), S(3), and S(5) rotational transitions. The outflow maintains a relatively constant median (maximum) projected velocity of 1100 km s−1 (3000 km s−1) out to ∼1.4 kpc from the nucleus. The outflowing H2 material is slightly warmer (640–700 K) than the rotating disk material (460–520 K), perhaps due to shock heating in the highly turbulent outflowing material. This outflow shares the same kinematics and orientation as the sub-kiloparsec scale warm H2 outflow traced by the rovibrational H2 lines in Keck AO near-infrared IFS data. However, this warm H2 outflow is significantly faster than the sub-kiloparsec-scale cold molecular outflow derived from multi-transition far-infrared OH observations with Herschel and the greater than or equivalent to kiloparsec-scale cold molecular outflow mapped by millimeter-wave interferometric CO 1–0 observations with IRAM-PdBI and NOEMA. The new JWST data bolster the scenario where the buried quasar in this ULIRG is excavating the dust screen, accelerating perhaps as much as 60% of the dusty warm molecular material to velocities beyond the escape velocity, and thus influencing the evolution of the host galaxy.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Alignment Parameters: Quantifying Dense Core Alignment in Star-forming Regions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a5b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a5b</guid>
+<content:encoded><![CDATA[
+
+Recent high-resolution observations at millimeter (mm) and submillimeter wavelengths reveal a diverse spatial distribution for subparsec-scale dense cores within star-forming regions, ranging from clustered to aligned arrangements. To address the increasing volume of observational and simulation data, we introduce “alignment parameters” as a quantitative and reproducible method to automatically assess core alignment. We first demonstrate the effectiveness of these parameters by applying them to artificial test clumps and comparing the results with labels from visual inspection. A threshold value is then proposed to differentiate between “clustered” and “aligned” categories. Subsequently, we apply these parameters to dense cores identified from a sample of Atacama Large Millimeter/submillimeter Array 1.3 mm dust continuum images in high-mass star-forming regions. Analysis exploring correlations between alignment parameters and clump properties rules out the presence of a moderate or strong correlation, indicating that clump properties do not appear to strongly influence the outcome of fragmentation. One possible explanation for this is that the fragmentation process is chaotic, meaning that small variations in initial conditions can lead to significant differences in fragmentation outcomes, thus obscuring any direct link between clump properties and core alignment/distribution.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>From Halos to Galaxies. X. Decoding Galaxy SEDs with Physical Priors and Accurate Star Formation History Reconstruction</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a5c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a5c</guid>
+<content:encoded><![CDATA[
+
+The spectral energy distribution (SED) of galaxies is essential for deriving fundamental properties like stellar mass and star formation history (SFH). However, conventional methods, including both parametric and nonparametric approaches, often fail to accurately recover the observed cosmic star formation rate (SFR) density due to oversimplified or unrealistic assumptions about SFH and their inability to account for the complex SFH variations across different galaxy populations. To address this issue, we introduce a novel approach that improves galaxy broadband SED analysis by incorporating physical priors derived from hydrodynamical simulations. Tests using IllustrisTNG simulations demonstrate that our method can reliably determine galaxy physical properties from broadband photometry, including stellar mass within 0.05 dex, current SFR within 0.3 dex, and fractional stellar formation time within 0.2 dex, with a negligible fraction of catastrophic failures. When applied to the Sloan Digital Sky Survey (SDSS) main photometric galaxy sample with spectroscopic redshift, our estimates of stellar mass and SFR are consistent with the widely used MPA-JHU and GSWLC catalogs. Notably, using the derived SFHs of individual SDSS galaxies, we estimate the cosmic SFR density and stellar mass density with remarkable consistency to direct observations up to z ~ 6. This demonstrates a significant advancement in deriving SFHs from SEDs that closely align with observational data. Consequently, our method can reliably recover observed spectral indices such as Dn(4000) and HδA by synthesizing the full spectra of galaxies using the estimated SFHs and metal enrichment histories, relying solely on broadband photometry as input. Furthermore, this method is extremely computationally efficient compared to conventional approaches.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Examining Turbulence in Galactic Molecular Clouds. I. A Statistical Analysis of Velocity Structures</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b0e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b0e</guid>
+<content:encoded><![CDATA[
+
+We present a systematic analysis of the velocity structure functions (VSFs) of 167 molecular clouds with angular sizes greater than ~176 arcmin2 in three sectors of the Galactic midplane. We calculated the first-to-third-order VSFs and found that 60% of the VSFs exhibit power-law distributions. The relative power-law exponents are consistent with predictions from intermittent turbulence models. Column density weighting reduces the proportion of power-law VSFs and steepens the VSF slopes, implying a reduction of turbulent energy in high-density regions. All clouds show small-scale intermittency, with slightly stronger intermittency in those molecular clouds showing “none” power-law VSFs. Negative VSF exponents that may indicate gravitational collapse are not observed in our sample. The scaling exponents of the observed VSFs do not correlate with the virial parameters of the molecular clouds. These two observations suggest that gravity-dominated scales in molecular clouds still need further investigation. Consistent VSF scaling exponents for the molecular clouds with significant power-law VSFs suggest large-scale external driving of turbulence in these molecular clouds. However, the driving mechanisms are likely not universal, as the power-law scaling coefficients in our results show relatively large scatter. The fact that nearly 40% of the VSFs deviate to some extent from power-law distributions suggests that the influence of local environments on the internal turbulence of molecular clouds may not be negligible.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Simulated Galaxy Laboratory: Exploring the Observational Effects on UV Spectral Absorption Line Measurements</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b13</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b13</guid>
+<content:encoded><![CDATA[
+
+Ultraviolet absorption line spectroscopy is a sensitive diagnostic for the properties of interstellar and circumgalactic gas. Down-the-barrel observations, where the absorption is measured against the galaxy itself, are commonly used to study feedback from galactic outflows and to make predictions about the leakage of H i ionizing photons into the intergalactic medium. Nonetheless, the interpretation of these observations is challenging, and observational compromises are often made in terms of signal-to-noise ratio, spectral resolution, or the use of stacking analyses. In this paper, we present a novel quantitative assessment of UV absorption line measurement techniques by using mock observations of a hydrodynamical simulation. We use a simulated galaxy to create 22,500 spectra in the commonly used Si ii lines while also modeling the signal-to-noise ratio and spectral resolution of recent rest-frame UV galaxy surveys at both high and low redshifts. We show that the residual flux of absorption features is easily overestimated for single line measurements and for stacked spectra. Additionally, we explore the robustness of the partial covering model for estimating column densities from spectra and find underpredictions on an average of 1.25 dex. We show that the underprediction is likely caused by high-column-density sight lines that are optically thick to dust making them invisible in UV spectra.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Identifying Coronal Mass Ejection Active Region Sources: An Automated Approach</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b27</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b27</guid>
+<content:encoded><![CDATA[
+
+Identifying the source regions of coronal mass ejections (CMEs) is crucial for understanding their origins and improving space weather forecasting. We present an automated algorithm for matching CMEs detected by the Large Angle Spectrometric Coronagraph with their source active regions, specifically Space Weather HMI Active Region Patches (SHARPs), between 2010 May and 2019 January. Our method uses posteruptive signatures, including flares and coronal dimmings, to associate CMEs with potential source regions. Out of 4190 CMEs, we successfully match 1132, achieving a recall rate of ~57% for frontside events. We find that the algorithm performs better for complex SHARP regions containing multiple NOAA regions and for faster CMEs, consistent with expectations that more energetic events produce stronger eruption signatures. We find that CME–flare association rates increase with flare intensity, aligning with previous studies. While our approach has limitations, such as focusing exclusively on SHARP regions and relying on a limited set of posteruptive signatures, it significantly reduces the time required for CME source identification while providing transparent, reproducible results. We encourage the solar physics community to build upon this work, developing improved automated tools for CME source identification. The resulting catalog of CME–source region associations is made publicly available, offering a valuable resource for statistical studies and machine learning applications in solar physics and space weather forecasting.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Observational Study of Recurrent Jets: Evolution of Magnetic Flux, Current, and Helicity</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b7d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b7d</guid>
+<content:encoded><![CDATA[
+
+We observed three recurrent blowout jets in an active region with the Atmospheric Imaging Assembly (AIA) aboard the Solar Dynamics Observatory. Using Helioseismic Magnetic Imager data we found that the magnetic flux of an emerging negative pole increases steadily before declining just as the jets erupt. Certain physical quantities, such as the total unsigned vertical current, align with the periodicity of the jets. The differential affine velocity of vector magnetograms reveals strong shear around the negative pole. The Doppler velocity map, calculated from the Hα spectra observed by the Chinese Hα Solar Explorer, shows upflows with large initial velocity before they can be observed by AIA. The magnetic field derived from the nonlinear force-free field (NLFFF) model suggests a topology akin to a fan–spine structure, consistent with AIA images. We calculated the evolution of the volumetric helicity ratio using the NLFFF model and found its phase aligns with the jet flux in AIA 171 Å. These results suggest that recurrent jets may be triggered by the accumulation and release of energy and helicity, driven by emergence, shearing, and cancellation of photospheric magnetic field.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Comparison of Bar Formation Mechanisms. I. Does a Tidally Induced Bar Rotate Slower than an Internally Induced Bar?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bae</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bae</guid>
+<content:encoded><![CDATA[
+
+Galactic bars can form via the internal bar instability or external tidal perturbations by other galaxies. We systematically compare the properties of the bars formed through the two mechanisms with a series of controlled N-body simulations that form bars through internal or external mechanisms. We create three disk galaxy models with different dynamical “hotness” and evolve them in isolation and under flyby interactions. In the cold- and warm-disk models, where bars can form spontaneously in isolation, tidally induced bars are promoted to a more “advanced” evolutionary stage. However, these bars have similar pattern speeds to those formed spontaneously within the same disk. Bars formed from both mechanisms have similar distributions in pattern-speed–bar-strength (Ωp − A2) space and exhibit comparable ratios of corotation radius to bar length ( ). Dynamical analyses suggest that the inner stellar disk loses the same amount of angular momentum, irrespective of the presence or intensity of the perturbation, which possibly explains the resemblance between tidally and spontaneously formed bars. In the hot-disk model, which avoids the internal bar instability in isolation, a bar forms only under perturbations and rotates more slowly than those in the cold and warm disks. Thus, if “tidally induced bars” refer exclusively to those in galaxies that are otherwise stable against bar instability, they indeed rotate slower than internally induced ones. However, the pattern speed difference is due to the difference in the internal properties of the bar host galaxies, not the different formation mechanisms.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Investigating the Lower Limit of Metallicity for the Galactic Thin Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c38</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c38</guid>
+<content:encoded><![CDATA[
+
+We explore the metal-poor regime of the Galactic disk on the distribution of stars in the [α/M]–Vϕ plane, to identify the most metal-poor thin disk (MPTnD) stars belonging to the low-α sequence. Chemical abundances and velocities of sample stars are either taken or derived from APOGEE DR17 and Gaia DR3 catalogs. We find the existence of a well-separated extension of the kinematically thin disk stars in the metallicity range of −1.2 < [M/H] < −0.8 dex. Based on two-by-two distributions of [Mg/Mn], [Al/Fe] and [C+N/Fe], we further confirmed 56 high-possibility metal-poor thin disk (HP-MPTnD) giant stars and suggested the lower metallicity limit of the thin disk below −0.95 dex. A comparative analysis of the HP-MPTnD sample with other Galactic components revealed its chemo-dynamical similarities with canonical thin disk stars. These low-α metal-poor stars are predominantly located in the outer disk region and formed in the early stage of the formation of thin disk. Their existence provides compelling support for the two-infall model of the Milky Way's disk formation. Moreover, these stars impose observational constraints on the timing and metallicity of the second gas infall event.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Nuclear and Star Formation Activities in Nearby Galaxies: Roles of Gas Supply and Active Galactic Nucleus Feedback</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d38</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d38</guid>
+<content:encoded><![CDATA[
+
+We analyze a sample of ~113,000 galaxies (z < 0.3) from the Sloan Digital Sky Survey, divided into star-forming, composite, Seyfert, and LINER types, to explore the relationships between UV-to-optical colors (u – r), star formation rates (SFRs), specific SFRs (sSFRs), stellar velocity dispersions (σ*), mass accretion rates onto the black hole ( ), and Eddington ratios. Star-forming galaxies predominantly feature young, blue stars along the main-sequence (MS) line, while composite, Seyfert, and LINER galaxies deviate from this line, displaying progressively older stellar populations and lower SFRs. The and Eddington ratios are highest in Seyfert galaxies, moderate in composite galaxies, and lowest in LINERs, with higher ratios associated with bluer colors, indicating a younger stellar population and stronger active galactic nucleus (AGN) activity. These trends suggest a strong correlation between sSFRs and Eddington ratios, highlighting a close connection between AGN and star formation activities. These results may imply an evolutionary sequence where galaxies transition from blue star-forming galaxies to red LINERs, passing through the composite and Seyfert phases, driven primarily by gas supply, with AGN feedback playing a secondary role. While both the radio luminosities (L1.4 GHz) and Eddington ratios correlate with SFRs, their trends differ on the SFR−stellar-mass (M*) plane, with the radio luminosities increasing with stellar mass along the MS line and no direct connection between the radio luminosities and Eddington ratios. These findings may provide new insights into the interplay between star formation, AGN activity, and radio emission in galaxies, shedding light on their evolutionary pathways.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Characterizing Multiband Optical Emission and Variability of 1ES 1215+303 on Diverse Timescales</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d45</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d45</guid>
+<content:encoded><![CDATA[
+
+This study presents analyses of the optical variability of the 1ES 1215+303 on diverse timescales using multiband observations, including observations in the optical BVRI bands carried out with the 0.6 and 1.0 m telescopes located at the Tübitak National Observatory (TUG) from 2022 to 2024 and Zwicky Transient Facility (ZTF) gri data from 2018 to 2023. Investigation of variability on intraday timescales revealed amplitudes of 4.0% and 5.6% on two nights, with a calculated duty cycle of 63%. We determined a minimum timescale of ~92 minutes from these observations, leading us to limit the radius for the optical emission region and the mass of the black hole. The blazar exhibits moderate short- and long-term variability, with variability amplitudes reaching up to 120% and decreasing as the wavelength shortens. Correlation analysis revealed a strong correlation between the optical multiband emissions without any time lag. Analysis of 109 nightly spectral energy distributions yielded spectral indices ranging from 0.772 to 1.413. The consistent trend of both spectral indices and color with respect to brightness suggests a mild bluer when brighter trend persists throughout the observation period, in contrast to the intraday timescale. Utilizing the weighted wavelet z-transform and Lomb–Scargle methods, we analyzed recurrent optical emission patterns on the combined R-band light curves from TUG, ZTF, and Tuorla observations, revealing a quasiperiodic signal at around 1000 days and a secondary signal at approximately 300 days. These signals were found to be insignificant after accounting for the stochastic process and the trial factor.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Local 2D Simulations of the Ignition of a Helium Shell Detonation on a White Dwarf by an Impacting Stream</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada034</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada034</guid>
 <content:encoded><![CDATA[
-
 The double detonation model is one of the prevalent explosion mechanisms of Type Ia supernovae (SNe Ia) wherein an outer helium shell detonation triggers a core detonation in the white dwarf (WD). The dynamically driven double degenerate double detonation (D6) is the double detonation of the more massive WD in a binary WD system where the localized impact of the mass transfer stream from the companion sets off the initial helium shell detonation. To have high numerical resolution and control over the stream parameters, we have implemented a study of the local interaction of the stream with the WD surface in 2D. In cases with lower base density of the shell, the stream's impact can cause surface detonation soon after first impact. With higher base densities, after the stream hits the surface, hot material flows around the star and interacts with the incoming stream to produce a denser and narrower impact. Our results therefore show that (1) a directly impacting stream for both a relatively high resolution and for a range of stream parameters can produce a surface detonation, (2) thinner helium shells ignite more promptly via impact, doing so sooner, and (3) there are lower limits on ignition in both shell density and incoming stream speed with lower limits on density being well below those shown by other work to be required for normal appearing SN Ia. This supports stream ignition and therefore the D6 scenario, as a viable mechanism for normal SNe Ia.
 ]]></content:encoded>
-
 <pubDate>2025-01-17T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +151,8 @@ The double detonation model is one of the prevalent explosion mechanisms of Type
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada123</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada123</guid>
 <content:encoded><![CDATA[
-
 The molecular dication CO2++ has, as previously reported, been detected in the Martian ionosphere by the Neutral Gas and Ion Mass Spectrometer on the Mars Atmosphere and Volatile Evolution (MAVEN) mission. Photochemical models have also been developed to reproduce the CO2++ density in the Martian dayside ionosphere but underestimate significantly the observations. In this study, we examine the influence of the CO2++ natural lifetime against spontaneous dissociation on its modeled density. We show that extending the assumed CO2++ lifetime significantly reduces the discrepancy between the photochemical model predictions and MAVEN observations. Specifically, when treating CO2++ as stable against natural dissociation, instead of invoking a lifetime of 4 s as done in previous studies, the data-to-model ratio comes close to unity throughout the altitude range 160–220 km. We argue that stability of CO2++ against natural dissociation does not necessarily conflict with results from a frequently cited experimental investigation. Our study provides new insights for advancing photochemical modeling of the Martian ionosphere and underscores the need for further laboratory measurements targeting fundamental properties of doubly charged ions.
 ]]></content:encoded>
-
 <pubDate>2025-01-17T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +160,10 @@ The molecular dication CO2++ has, as previously reported, been detected in the M
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada249</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada249</guid>
 <content:encoded><![CDATA[
-
 We test and compare coasting cosmological models with curvature parameters in units and the flat ΛCDM model by fitting them to cosmic chronometers (CCs), the Pantheon+ sample of Type Ia supernovae (SNe), and standardized quasars (QSOs). We used the emcee code for fitting CC data, a custom Markov Chain Monte Carlo implementation for SNe and QSOs, and Anderson–Darling tests for normality on normalized residuals for model comparison. Best-fit parameters are presented, constrained by data within redshift ranges z ≤ 2 for CCs, z ≤ 2.3 for SNe, and z ≤ 7.54 for QSOs. Coasting models, particularly the flat coasting model, are generally favored over the flat ΛCDM model. The overfitting of the flat ΛCDM model to Pantheon+ SNe and the large intrinsic scatter in QSO data suggest a need to refine error estimates in these data sets. We also highlight the seemingly fine-tuned nature of either the CC data or Ωm,0 in the flat ΛCDM model to an H1 = H0 coincidence when fitting H(z) = H1z + H0, a natural feature of coasting models.
 ]]></content:encoded>
-
 <pubDate>2025-01-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>PHAST. The Panchromatic Hubble Andromeda Southern Treasury. I. Ultraviolet and Optical Photometry of over 90 Million Stars in M31</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e2b</link>
@@ -10437,41 +10563,6 @@ We investigate the evolution of magnetic fields generated by the crystallization
 <div> 光子旋涡，强磁场，光子吸收，角动量，核合成
 总结:<br /><br />研究表明，光子旋涡主要在宇宙中极强的磁场中产生。光子旋涡在与原子核相互作用中可能导致显著的大角动量转移，影响了这些天体环境中的恒星核合成过程。研究中计算了贝塞尔波描述的光子旋涡与平面波光子之间的吸收跃迁概率比值。结果显示，通过在动量空间中优化入射光子旋涡的发散角度，促进了对具有大总角动量的态的激发。然而，光子旋涡的平均截面结果与平面波相同。因此，即使贝塞尔光子在天体环境中被主要产生出来，合成元素的同位素丰度并不会改变。 <div>
 It is thought that photon vortices are predominantly produced in extremely strong magnetic fields in the Universe. Because the photon vortex may cause significant large angular momentum transfer in interactions with atomic nuclei, stellar nucleosynthesis in such astrophysical environments is affected. In the present study, we calculate the ratios of the photon absorption transition probabilities of photon vortices with Bessel wave to photons described by the plane wave. The result shows enhancement of excitation of states with large total angular momentum by optimization of the divergence angle of the incident photon vortex in momentum space. However, the average cross section for the photon vortex turns out to be identical with that for the plane wave. Therefore, even when Bessel photons are predominantly produced in astrophysical environments, the isotopic abundances of the synthesized elements are not changed.
-]]></content:encoded>
-<pubDate>2024-10-23T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Are There Local Dynamos Acting in Sunspot Regions?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7820</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7820</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳物理学, 太阳黑子, 磁流体力学, 双极磁场, 太阳活动
-
-总结:
-太阳物理学领域长期存在一个未解之谜，即在太阳黑子区域是否存在局部磁流体力学作用。本文报道了一种磁场演化的观察模式，使得太阳黑子区域充满了复杂性和能量。这种异常模式表现为特殊的双极磁场出现，具有以下特征：（1）双极磁场出现在太阳黑子的边缘，环绕太阳黑子并以端对端的方式延伸；（2）每个双极磁场会沿着以太阳黑子为中心的弧线轨迹逐渐增长并分离两种极性；（3）在双极磁场演化过程中，在紫外线/极紫外辐射中出现圆形发光带；（4）具有这种演化模式的太阳黑子区域通常表现出强烈的太阳活动，如均匀的大型耀斑。磁场的演化模式和相关的耀斑活动表明存在局部磁流体力学作用，我们将其描述为扭曲-重新连接的动力机制。 <div>
-In solar physics, a long-unanswered question is whether or not there are local dynamos acting in sunspot regions. Here we report an observed pattern of magnetic evolution that makes the sunspots alive with ample complexity and energy. This anomalous pattern manifests as peculiar bipolar magnetic emergences (BMEs), exhibiting the following characteristics: (1) the BMEs persistently appear beyond the penumbra, encircling the sunspot in an end-to-end configuration; (2) each BME gradually grows and separates its two polarities along an arc trajectory centered on the sunspot; (3) a circular brightening belt is manifested in the ultraviolet/extreme-ultraviolet radiations during the BMEs’ evolution; and (4) the sunspot regions with such an evolution pattern often exhibit vigorous solar activity, such as homogeneous major flares. The magnetic evolving pattern and relevant flare activity indicate the presence of a local dynamo, and we characterize it as a twisting-reconnecting dynamo.
-]]></content:encoded>
-<pubDate>2024-10-23T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Scylla. II. The Spatially Resolved Star Formation History of the Large Magellanic Cloud Reveals an Inverted Radial Age Gradient</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cd5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6cd5</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Magellanic Clouds, Hubble Space Telescope, stellar population properties, star formation histories, radial age gradient
-总结:<br /><br />这篇文章主要研究了大麦哲伦云附近的相互作用的矮星系及其恒星群体特性的空间趋势。研究利用斯科拉纯并行计划获得的哈勃空间望远镜图像和现有的档案数据，对大麦哲伦云内111个个体区域的星际颜色-星等图进行了生存历史拟合。研究发现，目前的径向年龄梯度从内部盘面的内向梯度转变为在大约2个盘面尺度长度之外的外向梯度，在较早的回溯时期梯度相对较平缓，而反转的位置在回溯时间上保持不变。文章还将观测到的径向年龄趋势与固定质量的其他晚期星系进行了比较，并讨论了在可能的驱动因素背景下的相似性和差异性，暗示了在大麦哲伦云中存在着强烈的径向迁移。 <div>
-The proximity of the Magellanic Clouds provides the opportunity to study interacting dwarf galaxies near a massive host, and spatial trends in their stellar population properties in particular, with a unique level of detail. The Scylla pure parallel program has obtained deep (80% complete to >1 mag below the ancient main-sequence turnoff), homogeneous two-filter Hubble Space Telescope imaging sampling the inner star-forming disk of the Large Magellanic Cloud (LMC), the perfect complement to shallower, contiguous ground-based surveys. We harness this imaging together with extant archival data and fit lifetime star formation histories (SFHs) to resolved color–magnitude diagrams of 111 individual fields, using three different stellar evolutionary libraries. We validate per-field recovered distances and extinctions, as well as the combined global LMC age–metallicity relation and SFH against independent estimates. We find that the present-day radial age gradient reverses from an inside-out gradient in the inner disk to an outside-in gradient beyond ∼2 disk scale lengths, supported by ground-based measurements. The gradients become relatively flatter at earlier look-back times, while the location of the inversion remains constant over an order of magnitude in look-back time, from ∼1 to 10 Gyr. This suggests at least one mechanism that predates the recent intense LMC–Small Magellanic Cloud interaction. We compare observed radial age trends to other late-type galaxies at fixed stellar mass and discuss similarities and differences in the context of potential drivers, implying strong radial migration in the LMC.
-]]></content:encoded>
-<pubDate>2024-10-23T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Asymptotic Normalization Coefficient Investigation of the 17O(d, p) Transfer for Astrophysical Application to the 17O(n, α)14C Reaction at Low Energies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7604</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7604</guid>
-<content:encoded><![CDATA[
-<div> 17O(n, α)14C, Trojan Horse Method, ANC method, neutron-induced reaction, nucleosynthesis<br />
-这篇文章报告了通过特洛伊木马法和渐近标准化系数法对17O(n, α)14C反应进行的综合研究。研究了18O中低能的8038、8125、8213和8282 keV谐振态，并推导出它们的Γn。与最新的直接数据和最新的特洛伊木马实验数据进行了比较。独立的渐近标准化系数研究证实了我们之前的特洛伊木马结果，证实了这两种间接研究的一致性，并展示了用放射性离子束进行中子诱导反应的新前沿。此外，我们还检验了采用新推荐的17O(n, α)14C反应速率对渐近巨星分支星的核合成的影响。我们的发现显示了对于对中子密度敏感的富中子重同位素的产生出现了显著的变化（≳10%），强调了17O对s-过程的中子中毒效应。 <br /><br />总结: 这篇文章研究了通过特洛伊木马法和渐近标准化系数法对17O(n, α)14C反应进行的综合研究，研究了18O中低能的谐振态，并比较了不同数据的一致性，同时还探讨了新的研究方向。作者还检验了采用新推荐的17O(n, α)14C反应速率对渐近巨星分支星的核合成的影响。最后，他们的发现强调了17O对s-过程的中子中毒效应。 <div>
-Indirect methods have proven to be a complementary approach for extending our knowledge of nuclear structure and low-energy cross sections. Among these, the neutron-induced reaction cross sections appear to be of particular interest since their role both for unstable and stable beams. In view of this, we report here the combined study of the 17O(n, α)14C reaction accomplished by the Trojan Horse Method (THM) and the asymptotic normalization coefficient (ANC) method. The low-lying 8038, 8125, 8213, and 8282 keV resonances in 18O are studied, and their Γn are derived. A comparison with recent direct data and recent THM experimental data is presented. The independent ANC investigation corroborates our previous THM results, confirms the consistence of the two indirect investigations, and shows new frontiers for neutron-induced reactions with radioactive ion beams. Moreover, we examined the impact of adopting the newly recommended 17O(n, α)14C reaction rate on asymptotic giant branch stars' nucleosynthesis. Our findings reveal significant variations (≳10%) in the production of the neutron-rich heavy isotopes sensitive to neutron density, underlining the neutron-poisoning effect of 17O on the s-process.
 ]]></content:encoded>
 <pubDate>2024-10-23T23:00:00Z</pubDate>
 </item>
