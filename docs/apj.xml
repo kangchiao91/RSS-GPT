@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Empirical Color Correction to MIST and PARSEC Isochrones on Gaia BR − RP and G − RP with Benchmark Open Clusters</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad960a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad960a</guid>
 <content:encoded><![CDATA[
-
 Recent literature reports a color deviation between observed Gaia color–magnitude diagrams (CMDs) and theoretical model isochrone predictions, particularly in the very low-mass regime. To assess its impact on cluster age determination via isochrone fitting, we quantified the color deviations for three benchmark clusters, Hyades, Pleiades, and Praesepe, both for the Gaia color (BP − RP) and (G − RP). In general, the (G − RP) color deviations are smaller than the (BP − RP) ones. Empirical color-correction functions based on these benchmarks are derived for the currently available MESA Isochrones and Stellar Tracks and PAdova and TRieste Stellar Evolution Code (PARSEC) 1.2S isochrone models. Applying the correction functions to 31 additional open clusters and 3 moving groups results in a significantly improved alignment between the isochrones and observed CMDs. With our empirical corrections, isochrones provide age estimates consistent with literature values obtained through the spectral lithium depletion boundary method, validating the effectiveness of our approach. The corresponding metallicities with PARSEC 1.2S also show a good agreement with the spectroscopic results. The empirical color-correction function we present in this work offers a tool for a consistent age determination within the full mass range of stellar clusters using the isochrone fitting method.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ Recent literature reports a color deviation between observed Gaia color–magnit
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99db</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99db</guid>
 <content:encoded><![CDATA[
-
 Simulations of solar phenomena play a vital role in space-weather prediction. A critical computational question for automating research workflows in the context of data-driven solar coronal magnetic field simulations is quantifying a simulation's burn-in time, after which a solar quantity has evolved away from an arbitrary initial condition to a physically more realistic state. A challenge to quantifying simulation burn-in is that the underlying solar processes and data, like many physical phenomena, are non-Markovian and exhibit long memory or persistence and, therefore, their analysis evades standard statistical approaches. In this work, we provide evidence of long memory in the nonperiodic variations of solar quantities (including over timescales significantly shorter than previously identified) and demonstrate that magnetofrictional simulations capture the memory structure present in magnetogram data. We also provide an algorithm for the quantitative assessment of simulation burn-in time that can be applied to nonstationary time series with long memory. Our approach is based on time-delayed mutual information, an information-theoretic quantity, and includes a small-sample bias correction.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +28,10 @@ Simulations of solar phenomena play a vital role in space-weather prediction. A 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad991d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad991d</guid>
 <content:encoded><![CDATA[
-
 Identifying Galactic PeVatrons (PeV particle accelerators) from ultrahigh-energy (UHE, >100 TeV) γ-ray sources plays a crucial role in revealing the origin of Galactic cosmic rays. The UHE source 1LHAASO J1857+0203u is suggested to be associated with HESS J1858+020, which may be attributed to the possible PeVatron candidate supernova remnant (SNR) G35.6−0.4 or H ii region G35.6−0.5. We perform detailed analysis on the very-high-energy and UHE γ-ray emissions toward this region with data from the Large High Altitude Air Shower Observatory (LHAASO). 1LHAASO J1857+0203u is detected with a significance of 11.6σ above 100 TeV, indicating the presence of a PeVatron. It has an extent of ∼0 18 with a power-law (PL) spectral index of ∼2.5 at 1–25 TeV and pointlike emission with a PL spectral index of ∼3.2 above 25 TeV. Using archival CO and H i data, we identify some molecular and atomic clouds that may be associated with the TeV γ-ray emissions. Our modeling indicates that the TeV γ-ray emissions are unlikely to arise from clouds illuminated by the protons that escaped from SNR G35.6−0.4. In the scenario in which H ii region G35.6−0.5 could accelerate particles to the UHE band, the observed GeV–TeV γ-ray emission could be well explained by a hadronic model with a PL spectral index of ∼2.0 and cutoff energy of ∼450 TeV. However, an origin in an evolved pulsar wind nebula cannot be ruled out.
 ]]></content:encoded>
-
 <pubDate>2025-01-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Dissecting the Interstellar Media of a Wolf–Rayet Galaxy at z = 2.76</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9aa2</link>
@@ -10322,43 +10316,6 @@ During geomagnetic storms, which are the primary periods for heavy ions from the
 The merger timescales of isolated low-mass pairs (108 < M* < 5 × 109M⊙) on cosmologically motivated orbits have not yet been studied in detail, though isolated high-mass pairs (5 × 109 < M* < 1011M⊙) have been studied extensively. It is common to apply the same separation criteria and expected merger timescales of high-mass pairs to low-mass systems, however, it is unclear if their merger timescales are similar, or if they evolve similarly with redshift. We use the Illustris TNG100 simulation to quantify the merger timescales of isolated low-mass and high-mass major pairs as a function of cosmic time, and explore how different selection criteria impact the mass and redshift dependence of merger timescales. In particular, we present a physically motivated framework for selecting pairs via a scaled separation criterion, wherein pair separations are scaled by the virial radius of the primary’s Friends-of-Friends (FoF) group halo (rsep < 1 Rvir). Applying these scaled separation criteria yields equivalent merger timescales for both mass scales at all redshifts. Alternatively, static physical separation selections applied equivalently to all galaxy pairs at all redshifts lead to a difference in merger rate of up to ∼1 Gyr between low- and high-mass pairs, particularly for rsep < 150 kpc. As a result, applying the same merger timescales to physical-separation-selected pairs will lead to a bias that systematically overpredicts low-mass galaxy merger rates.
 ]]></content:encoded>
 <pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Faraday Rotation Measure of the M87 Jet at 3.5 mm with ALMA</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c41</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c41</guid>
-<content:encoded><![CDATA[
-<div> Faraday rotation, M87 jet, RM image, magnetic field, ALMA
-总结:
-Faraday rotation是探测活动星系核喷流周围磁场和磁化等离子体的重要方法。本文利用ALMA在85.2至101.3 GHz范围内获得了M87喷流的Faraday rotation测量图像。研究发现M87核心的RM为(4.5 ± 0.4) × 104 rad m−2，线偏振分数为(0.88 ± 0.08)%。M87喷流的空间RM梯度范围广泛，从∼ −2 × 104 rad m−2到∼3 × 104 rad m−2。与先前的RM测量结果相比，表明核心的Faraday旋转可能起源于超大质量黑洞非常近的位置。喷流的RM梯度表明磁场呈螺旋状，并一直延续到千秒差距尺度。结合较低频率下的千秒差距尺度RM测量结果，发现RM与频率有关，可能的解释是，千秒差距尺度喷流呈喇叭形状，在末端磁场呈螺旋状并逐渐解开。<br /><br /> <div>
-Faraday rotation is an important probe of the magnetic fields and magnetized plasma around active galactic nuclei jets. We present a Faraday rotation measure (RM) image of the M87 jet between 85.2 and 101.3 GHz with a resolution of ∼2″ with the Atacama Large Millimeter/submillimeter Array. We found that the RM of the M87 core is (4.5 ± 0.4) × 104 rad m−2 with a low linear polarization fraction of (0.88 ± 0.08)%. The spatial RM gradient in the M87 jet spans a wide range from ∼ −2 × 104 rad m−2 to ∼3 × 104 rad m−2 with a typical uncertainty of 0.3 × 104 rad m−2. A comparison with previous RM measurements of the core suggests that the Faraday rotation of the core may originate very close to the supermassive black hole. Both an internal origin and an external screen with a rapidly varying emitting source could be possible. As for the jet, the RM gradient indicates a helical configuration of the magnetic field that persists up to the kiloparsec scale. Combined with the kiloparsec-scale RM measurements at lower frequencies, we found that RM is frequency-dependent in the jet. One possible scenario to explain this dependence is that the kiloparsec-scale jet has a trumpet-like shape, and the jet coil unwinds near its end.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Witt’s Hyperbola Is Both Predicted and Observed to Pass Close to the Lensing Galaxies in Quadruple Quasars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f4d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7f4d</guid>
-<content:encoded><![CDATA[
-<div> quadruply lensed quasar, rectangular hyperbola, lensing galaxy, perpendicular offset, lens models
-
-总结:
-Witt提出了从四重成像的类星体构建矩形双曲线的方法，这种双曲线与镜片星系非常接近。通过对39个由相对孤立星系透镜的系统进行观测，发现观测到的镜头光中心与Witt的双曲线之间的中位垂直偏移为0.″013。Witt采用的透镜模型预测，透镜位于双曲线上，但其位置并未用于构建模型。中位偏移大约相当于爱因斯坦环半径的1%，表明镜片的光中心与透镜潜在中心非常接近。在拟合数据时，通过对Witt的双曲线的垂直距离（或者星系与势能之间的距离）设置严格的先验条件，可以将模型空间的维数减少一个。将透镜星系的最亮像素视为其中心，避免了使用平均光中心进行约束的缺点。 <div>
-When a rectangular hyperbola is constructed from the image positions of a quadruply lensed quasar, as proposed by Witt, it passes very close to the lensing galaxy. The median measured perpendicular offset between the observed light center of the lens and Witt’s hyperbola is 0.″013 for a sample for 39 systems lensed by a relatively isolated galaxy. The family of lens models adopted by Witt predicts that the lens lies on the hyperbola, but its position is not used for its construction. The median offset corresponds to roughly 1% of the Einstein ring radius and suggests that the centers of the lensing potential are close to the light centers of the lens. By putting a restrictive prior on the perpendicular distance to Witt’s hyperbola (or on the distance between the galaxy and the potential), one reduces by one the dimensionality of a model space when fitting data. Taking the brightest pixel of a lensing galaxy as its center avoids a shortcoming of using the average light center for a constraint.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Filamentary Molecular Cloud Formation via Collision-induced Magnetic Reconnection in a Cold Neutral Medium</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad73a5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad73a5</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 分子云形成, 碰撞诱发磁重联, 磁场反转, 恒星形成, 超音速湍流
-总结:
-分子云形成是通过碰撞诱发磁重联机制实现的，碰撞的两个原子气云触发了磁重联并产生了一个巨大的20光年长的丝状结构。通过辐射传输建模表明，这个丝状结构中间部分含有5光年跨度的密集核心，其中一些核心正在活跃地形成恒星。同时，超音速湍流的存在表明磁重联能够自发产生湍流。最后，形成的螺旋磁场应该从大多数观测角度都呈现出两侧的场反转。这一过程与传统的由上至下的云层层次分析不同，而是通过磁场重新连接将冲击气体凝结并逐段输送到主轴构成丝状结构。 <div>
-We have investigated the possibility of molecular cloud formation via the collision-induced magnetic reconnection (CMR) mechanism of the cold neutral medium (CNM). Two atomic gas clouds with conditions typical of the CNM were set to collide at the interface of reverse magnetic fields. The cloud–cloud collision triggered magnetic reconnection and produced a giant 20 pc filamentary structure that was not seen in the control models without CMR. The cloud, with rich fiber-like substructures, developed a fully molecular spine at 5 Myr. Radiative transfer modeling of dust emission at far-infrared wavelengths showed that the middle part of the filament contained dense cores over a span of 5 pc. Some of the cores were actively forming stars and typically exhibited both connecting fibers in dust emission and high-velocity gas in CO line emission, indicative of active accretion through streamers. Supersonic turbulence was present in and around the CMR filament due to inflowing gas moving at supersonic velocities in the collision midplane. The shocked gas was condensed and transported to the main filament piece by piece by reconnected fields, making the filament and star formation a bottom-up process. Instead of forming a gravitationally bounded cloud that then fragments hierarchically (top-down) and forms stars, the CMR process creates dense gas pieces and magnetically transports them to the central axis to constitute the filament. Since no turbulence is manually driven, our results suggest that CMR is capable of self-generating turbulence. Finally, the resulting helical field should show field reversal on both sides of the filament from most viewing angles.
-]]></content:encoded>
-<pubDate>2024-10-28T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
