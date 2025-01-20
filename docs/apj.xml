@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Empirical Color Correction to MIST and PARSEC Isochrones on Gaia BR − RP and G − RP with Benchmark Open Clusters</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad960a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad960a</guid>
+<content:encoded><![CDATA[
+
+Recent literature reports a color deviation between observed Gaia color–magnitude diagrams (CMDs) and theoretical model isochrone predictions, particularly in the very low-mass regime. To assess its impact on cluster age determination via isochrone fitting, we quantified the color deviations for three benchmark clusters, Hyades, Pleiades, and Praesepe, both for the Gaia color (BP − RP) and (G − RP). In general, the (G − RP) color deviations are smaller than the (BP − RP) ones. Empirical color-correction functions based on these benchmarks are derived for the currently available MESA Isochrones and Stellar Tracks and PAdova and TRieste Stellar Evolution Code (PARSEC) 1.2S isochrone models. Applying the correction functions to 31 additional open clusters and 3 moving groups results in a significantly improved alignment between the isochrones and observed CMDs. With our empirical corrections, isochrones provide age estimates consistent with literature values obtained through the spectral lithium depletion boundary method, validating the effectiveness of our approach. The corresponding metallicities with PARSEC 1.2S also show a good agreement with the spectroscopic results. The empirical color-correction function we present in this work offers a tool for a consistent age determination within the full mass range of stellar clusters using the isochrone fitting method.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Persistence and Burn-in in Solar Coronal Magnetic Field Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99db</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99db</guid>
+<content:encoded><![CDATA[
+
+Simulations of solar phenomena play a vital role in space-weather prediction. A critical computational question for automating research workflows in the context of data-driven solar coronal magnetic field simulations is quantifying a simulation's burn-in time, after which a solar quantity has evolved away from an arbitrary initial condition to a physically more realistic state. A challenge to quantifying simulation burn-in is that the underlying solar processes and data, like many physical phenomena, are non-Markovian and exhibit long memory or persistence and, therefore, their analysis evades standard statistical approaches. In this work, we provide evidence of long memory in the nonperiodic variations of solar quantities (including over timescales significantly shorter than previously identified) and demonstrate that magnetofrictional simulations capture the memory structure present in magnetogram data. We also provide an algorithm for the quantitative assessment of simulation burn-in time that can be applied to nonstationary time series with long memory. Our approach is based on time-delayed mutual information, an information-theoretic quantity, and includes a small-sample bias correction.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An Enigmatic PeVatron in an Area around H ii Region G35.6−0.5</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad991d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad991d</guid>
+<content:encoded><![CDATA[
+
+Identifying Galactic PeVatrons (PeV particle accelerators) from ultrahigh-energy (UHE, >100 TeV) γ-ray sources plays a crucial role in revealing the origin of Galactic cosmic rays. The UHE source 1LHAASO J1857+0203u is suggested to be associated with HESS J1858+020, which may be attributed to the possible PeVatron candidate supernova remnant (SNR) G35.6−0.4 or H ii region G35.6−0.5. We perform detailed analysis on the very-high-energy and UHE γ-ray emissions toward this region with data from the Large High Altitude Air Shower Observatory (LHAASO). 1LHAASO J1857+0203u is detected with a significance of 11.6σ above 100 TeV, indicating the presence of a PeVatron. It has an extent of ∼0 18 with a power-law (PL) spectral index of ∼2.5 at 1–25 TeV and pointlike emission with a PL spectral index of ∼3.2 above 25 TeV. Using archival CO and H i data, we identify some molecular and atomic clouds that may be associated with the TeV γ-ray emissions. Our modeling indicates that the TeV γ-ray emissions are unlikely to arise from clouds illuminated by the protons that escaped from SNR G35.6−0.4. In the scenario in which H ii region G35.6−0.5 could accelerate particles to the UHE band, the observed GeV–TeV γ-ray emission could be well explained by a hadronic model with a PL spectral index of ∼2.0 and cutoff energy of ∼450 TeV. However, an origin in an evolved pulsar wind nebula cannot be ruled out.
+]]></content:encoded>
+
+<pubDate>2025-01-17T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Dissecting the Interstellar Media of a Wolf–Rayet Galaxy at z = 2.76</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9aa2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9aa2</guid>
 <content:encoded><![CDATA[
-
 We report JWST/NIRSpec observations of a star-forming galaxy at z = 2.76, MACS J1149-WR1. We securely detect two temperature-sensitive auroral lines, [S iii] 6312 (7.4σ) and [O ii] 7320+7331 doublets (10σ), and tentatively [n ii] 5755 (2.3σ) for the first time in an individual galaxy at z > 1. We perform a detailed analysis of its interstellar media (ISM), and derive electron temperatures, various heavy element abundances (O/H, N/O, S/O, and Ar/O) in the hot ionized region, and the neutral fraction in the warm ionized region. MACS J1149-WR1 shows a broad feature at the wavelength of He ii 4686, which consists of a broad (∼1000 km s−1), blueshifted (∼−110 km s−1) line component. Taken together with its mildly elevated N/O abundance, we conclude that MACS J1149-WR1 is experiencing a young starburst (≲10 Myr), likely hosting a large number of Wolf–Rayet (W-R) stars. None of its spectral features support the presence of active galactic nuclei, including (i) the absence of broad components and velocity shifts in hydrogen recombination lines, (ii) low [Fe ii]1.257 μm/Paβ ratio, and (iii) the absence of high-ionization lines. Our analysis using He i lines reveals a higher electron temperature and a higher attenuation value, indicating that He i may probe a smaller spatial scale than H i, presumably the region dominated by the aforementioned W-R stars. The star formation rates derived from various He i lines broadly agree with those from hydrogen recombination lines. We thus advocate that He i can be an excellent, independent probe of multiphase ISM in the era of JWST.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ We report JWST/NIRSpec observations of a star-forming galaxy at z = 2.76, MACS J
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b96</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b96</guid>
 <content:encoded><![CDATA[
-
 We investigate accretion onto an isolated black hole from uniform winds. If the winds are directed toward the black hole, then the accretion process can be well described by the classical Bondi–Hoyle–Lyttleton or BHL accretion. If the wind is not directed toward the black hole and flows past it, then a smaller fraction of the flow can be attracted by the black hole, and this type of accretion cannot be described by the classical BHL, and we coin the second kind as the lateral BHL. We show that the classical BHL cannot form an accretion disk, while lateral BHL can form transient accretion disks. To describe the thermodynamics of the flow, we have used a variable adiabatic index equation of state which depends on the temperature of the flow as well as the composition of the gas. We show that the electron-proton gas forms an accretion disk, which disappears and forms a shock cone, only to form the disk again at a later time, while for flows with fewer protons, the accretion disk, once lost, does not reappear again. Only when the flow is pair-dominated does it form a persistent accretion disk. We also show that a shock cone is less luminous than the accretion disk.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +61,10 @@ We investigate accretion onto an isolated black hole from uniform winds. If the 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98ec</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98ec</guid>
 <content:encoded><![CDATA[
-
 Type I gamma-ray bursts (GRBs) are believed to originate from compact binary mergers usually with a duration of main emission less than 2 s. However, recent observations of GRB 211211A and GRB 230307A indicate that some merger-origin GRBs could last much longer. Since they show strikingly similar properties (indicating a common mechanism), which are different from the classic “long”-short burst (e.g., GRB 060614), we find they form an interesting subclass of type I GRBs, and we suggest to name them as type IL GRB. We find that the prompt emission of type IL GRB is composed of three episodes: (1) a precursor followed by a short quiescent (or weak emission) period, (2) a long-duration main emission, and (3) an extended emission. With this burst pattern, a good candidate, GRB 170228A, was found in the Fermi/Gamma-ray Burst Monitor archive data. Temporal and spectral analyses indeed show that GRB 170228A falls in the same group with GRB 211211A and GRB 230307A in many diagnostic figures. Thus, this burst pattern could be a good reference for rapidly identifying type IL GRBs and very helpful for conducting low-latency follow-up observation. We estimated the occurrence rate and discussed the physical origins and implications for the three emission episodes of type IL GRBs. Our analysis suggests the premerger precursor model, especially the magnetar super flare model, is more favored for type IL GRBs. More observations in multiwavelength and multimessenger are required to deepen our understanding of this subclass of GRB.
 ]]></content:encoded>
-
 <pubDate>2025-01-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>High-time-cadence Spectroscopy and Photometry of Stellar Flares on M dwarf YZ Canis Minoris with the Seimei Telescope and TESS. I. Discovery of Rapid and Short-duration Prominence Eruptions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad91b9</link>
@@ -10330,43 +10357,6 @@ When a rectangular hyperbola is constructed from the image positions of a quadru
 总结:
 分子云形成是通过碰撞诱发磁重联机制实现的，碰撞的两个原子气云触发了磁重联并产生了一个巨大的20光年长的丝状结构。通过辐射传输建模表明，这个丝状结构中间部分含有5光年跨度的密集核心，其中一些核心正在活跃地形成恒星。同时，超音速湍流的存在表明磁重联能够自发产生湍流。最后，形成的螺旋磁场应该从大多数观测角度都呈现出两侧的场反转。这一过程与传统的由上至下的云层层次分析不同，而是通过磁场重新连接将冲击气体凝结并逐段输送到主轴构成丝状结构。 <div>
 We have investigated the possibility of molecular cloud formation via the collision-induced magnetic reconnection (CMR) mechanism of the cold neutral medium (CNM). Two atomic gas clouds with conditions typical of the CNM were set to collide at the interface of reverse magnetic fields. The cloud–cloud collision triggered magnetic reconnection and produced a giant 20 pc filamentary structure that was not seen in the control models without CMR. The cloud, with rich fiber-like substructures, developed a fully molecular spine at 5 Myr. Radiative transfer modeling of dust emission at far-infrared wavelengths showed that the middle part of the filament contained dense cores over a span of 5 pc. Some of the cores were actively forming stars and typically exhibited both connecting fibers in dust emission and high-velocity gas in CO line emission, indicative of active accretion through streamers. Supersonic turbulence was present in and around the CMR filament due to inflowing gas moving at supersonic velocities in the collision midplane. The shocked gas was condensed and transported to the main filament piece by piece by reconnected fields, making the filament and star formation a bottom-up process. Instead of forming a gravitationally bounded cloud that then fragments hierarchically (top-down) and forms stars, the CMR process creates dense gas pieces and magnetically transports them to the central axis to constitute the filament. Since no turbulence is manually driven, our results suggest that CMR is capable of self-generating turbulence. Finally, the resulting helical field should show field reversal on both sides of the filament from most viewing angles.
-]]></content:encoded>
-<pubDate>2024-10-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Evolution of Tidal Disruption Event Disks with Magnetically Driven Winds</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7603</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7603</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 磁流体力学，磁风模型，潮汐撕裂事件，磁致运动，光度曲线
-总结:
-研究了一维、时间相关的磁致运动盘风模型，应用于潮汐撕裂事件的背景下。通过磁流体力学方程，考虑了磁制动和湍流黏度，得到了满足垂直无界MHD流的风解。模拟结果表明，盘风随着初始高斯密度分布的质量损失和从风和吸积的质量演化。同时发现，在没有风的情况下，质量吸积速率与时间的幂律关系为t^-19/16，但当风存在时，吸积速率下降更快。磁制动也导致了质量吸积速率的加速下降，产生了X射线延迟闪耀现象。模型预测了UV明亮的潮汐撕裂事件在后期的光度曲线将会比t^-19/16更陡峭，这可能是磁致风的有力指标。 <div>
-We present a time-dependent, one-dimensional, magnetically driven disk wind model based on magnetohydrodynamic (MHD) equations, in the context of tidal disruption events (TDEs). We assume that the disk is geometrically thin, is gas pressure dominated, and explicitly accounts for magnetic braking and turbulent viscosity through an extended α-viscosity prescription. We find a particular wind solution for a set of basic equations that satisfies the necessary and sufficient conditions for vertically unbound MHD flows. The solution shows that the disk evolves with mass loss due to wind and accretion from the initial Gaussian density distribution. We confirm that the mass accretion rate follows the power law of time t−19/16 at late times in the absence of wind, which matches the classical solution of J. K. Cannizzo et al. We find that the mass accretion rate is steeper than the t−19/16 curve when the wind is present. Mass accretion is also induced by magnetic braking, known as the wind-driven accretion mechanism, which results in a faster decay with time of both the mass accretion and mass-loss rates. In the disk emission, the ultraviolet (UV) luminosity is the highest among the optical, UV, and X-ray luminosities. While the optical and X-ray emission is observationally insignificant without magnetic braking, the X-ray emission is brighter at late times, especially in the presence of magnetic braking. This provides a possible explanation for observed delayed X-ray flares. Our model predicts that late-time bolometric light curves steeper than t−19/16 in UV-bright TDEs are potentially compelling indicators of magnetically driven winds.
-]]></content:encoded>
-<pubDate>2024-10-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Lower-mass-gap Black Holes in Dense Star Clusters</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad76a0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad76a0</guid>
-<content:encoded><![CDATA[
-<div> NGC 1851, LMG, BHs, MSP, Monte Carlo N-body code
-总结:<br /><br />这篇文章讨论了质量在2-5 M⊙之间的紧凑恒星遗迹的存在。通过NGC 1851星团的模拟，研究了LMG黑洞的形成过程，发现质量巨星演化和动力学相互作用都会对LMG黑洞的形成起到贡献。NGC 1851模型能够复制观测到的MSP-LMG BH双星系统，LMG黑洞还可能成为动力学形成的双星系统的组成部分，并且一些将会在类似于最近发现的引力波源GW230529的BH-NS系统中合并。然而，对应的合并率可能不超过1 Gpc-3 yr-1。 <div>
-The existence of compact stellar remnants in the mass range 2–5 M⊙ has long been debated. This so-called lower-mass gap (LMG) was initially suggested by the lack of low-mass X-ray binary observations with accretors about 2–5 M⊙, but it has recently been called into question following newer observations, including an LMG candidate with a millisecond pulsar (MSP) companion in the dense globular cluster NGC 1851. Here, we model NGC 1851 with a grid of similar dense star clusters utilizing the state-of-the-art Monte Carlo N-body code Cluster Monte Carlo, and we specifically study the formation of LMG black holes (BHs). We demonstrate that both massive star evolution and dynamical interactions can contribute to forming LMG BHs. In general, the collapse of massive remnants formed through mergers of neutron stars (NSs) or massive white dwarfs produces the largest number of LMG BHs among all formation channels. However, in more massive clusters, supernova core collapse can contribute comparable numbers. Our NGC 1851-like models can reproduce MSP—LMG BH binaries similar to the observed system. Additionally, the LMG BHs can also become components of dynamically assembled binaries, and some will be in merging BH–NS systems similar to the recently detected gravitational wave source GW230529. However, the corresponding merger rate is probably ≲1 Gpc−3 yr−1.
-]]></content:encoded>
-<pubDate>2024-10-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Toward a Self-consistent Evaluation of Gas Dwarf Scenarios for Temperate Sub-Neptunes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c38</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c38</guid>
-<content:encoded><![CDATA[
-<div> 关键词：JWST detections, carbon-bearing molecules, habitable-zone sub-Neptune, gas dwarfs, magma oceans
-
-JWST探测、碳载分子、宜居带次海王星、气态矮星、岩浆海洋
-
-总结: 该文介绍了最近JWST探测到宜居带次海王星中含碳分子的发现，标志着低质量外星行星研究迎来新时代。次海王星群体的内部和大气构成多样，包括迷你海王星、超级地球和水世界。研究表明气态矮星可能具有岩质内部和厚厚的H2大气，与潜在的岩浆海洋相互作用可能导致可观测的大气特征。作者提出了一种内外大气耦合模型框架，用于研究气态矮星上岩浆海洋的可能性和可观测特征。研究发现表面-大气相互作用和大气成分对多种参数敏感，需要综合建模方法来避免不切实际的模型解。通过对宜居带次海王星K2-18 b进行案例研究，得出其观测大气成分与岩浆海洋场景不符，并确定了CO2、CO、NH3等大气分子和元素的关键诊断。研究还强调了准确建模这类外星行星所需的基本物质属性。 <div>
-The recent JWST detections of carbon-bearing molecules in a habitable-zone sub-Neptune have opened a new era in the study of low-mass exoplanets. The sub-Neptune regime spans a wide diversity of planetary interiors and atmospheres not witnessed in the solar system, including mini-Neptunes, super-Earths, and water worlds. Recent works have investigated the possibility of gas dwarfs, with rocky interiors and thick H2-rich atmospheres, to explain aspects of the sub-Neptune population, including the radius valley. Interactions between the H2-rich envelope and a potential magma ocean may lead to observable atmospheric signatures. We report a coupled interior-atmosphere modeling framework for gas dwarfs to investigate the plausibility of magma oceans on such planets and their observable diagnostics. We find that the surface–atmosphere interactions and atmospheric composition are sensitive to a wide range of parameters, including the atmospheric and internal structure, mineral composition, volatile solubility and atmospheric chemistry. While magma oceans are typically associated with high-temperature rocky planets, we assess if such conditions may be admissible and observable for temperate sub-Neptunes. We find that a holistic modeling approach is required for this purpose and to avoid unphysical model solutions. Using our model framework, we consider the habitable-zone sub-Neptune K2-18 b as a case study and find that its observed atmospheric composition is incompatible with a magma ocean scenario. We identify key atmospheric molecular and elemental diagnostics, including the abundances of CO2, CO, NH3, and, potentially, S-bearing species. Our study also underscores the need for fundamental material properties for accurate modeling of such planets.
 ]]></content:encoded>
 <pubDate>2024-10-28T00:00:00Z</pubDate>
 </item>
