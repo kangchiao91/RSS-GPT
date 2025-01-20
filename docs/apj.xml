@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Fitting Methods for Probability Distribution Functions in Turbulent Star-forming Clouds</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99d5</guid>
+<content:encoded><![CDATA[
+
+We use a suite of 3D simulations of star-forming molecular clouds, with and without stellar feedback and magnetic fields, to investigate the effectiveness of different fitting methods for volume and column density probability distribution functions (PDFs). The first method fits a piecewise lognormal and power-law (PL) function to recover PDF parameters such as the PL slope and transition density. The second method fits a polynomial spline function and examines the first and second derivatives of the spline to determine the PL slope and the functional transition density. The first PL (set by the transition between lognormal and PL function) can also be visualized in the derivatives directly. In general, the two methods produce fits that agree reasonably well for volume density but vary for column density, likely due to the increased statistical noise in the column density PDFs as compared to the volume density PDFs. We test a well-known conversion for estimating volume density PL slopes from column density slopes and find that the spline method produces a better match (χ2 of 3.34 versus χ2 of 5.92), albeit with a significant scatter. Ultimately, we recommend the use of both fitting methods on column density data to mitigate the effects of noise.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Detecting the Black Hole Candidate Population in M51’s Young Massive Star Clusters: Constraints on Accreting Intermediate-mass Black Holes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d37</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d37</guid>
+<content:encoded><![CDATA[
+
+Intermediate-mass black holes (102 < MBH < 105M⊙) are an open question in our understanding of black hole evolution and growth. They have long been linked to dense star cluster environments, thanks to cluster dynamics, but there are a limited number of secure detections. We leverage existing X-ray observations from the Chandra X-ray Observatory and optical catalogs from the Hubble Space Telescope (HST) as well as new radio observations from the Karl G. Jansky Very Large Array to search for any evidence of accreting black holes in young massive star clusters in the nearby galaxy M51. We find that of 44 bright (LX > 1038 erg s−1) X-ray point sources in M51, 24 had probable matches to objects including possible associated star clusters in the HST Legacy Extragalactic UV Survey catalog, seven of which were classified as contaminants (background galaxies or foreground stars). We explore the optical properties of the remaining 17 sources, including cluster age and mass estimates, and search for radio counterparts in the 8–12 GHz band. The lack of radio counterparts to X-ray sources we know to be associated with young massive star clusters in M51 suggests that we do not significantly detect hard-state intermediate-mass black holes (IMBHs) ~104 M⊙ or above. However, more sensitive radio facilities, like the Square Kilometre Array and next-generation Very Large Array, may be able to provide evidence for IMBHs with masses down to ~103 M⊙.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Most Super-Earths Have Less Than 3% Water</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f61</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f61</guid>
+<content:encoded><![CDATA[
+
+Super-Earths are highly irradiated, small planets with bulk densities approximately consistent with Earth. We construct combined interior atmosphere models of super-Earths that trace the partitioning of water throughout a planet, including an iron-rich core, silicate-rich mantle, and steam atmosphere. We compare these models with exoplanet observations to infer a 1σ upper limit on the total water mass fraction of ≲3% at the population level. We consider end-member scenarios that may change this value, including the efficiency of mantle outgassing, escape of high mean molecular weight atmospheres, and increased iron core mass fractions. Although our constraints are agnostic as to the origin of water, we show that our upper limits are consistent with its production via chemical reactions of primordial hydrogen-dominated atmospheres with magma oceans. This mechanism has also been hypothesised to explain Earth's water content, possibly pointing to a unified channel for the origins of water on small terrestrial planets.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A Sensitivity Analysis of the Modeling of Polycyclic Aromatic Hydrocarbon Emission in Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9918</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9918</guid>
 <content:encoded><![CDATA[
-
 We have conducted a sensitivity analysis on the mid-infrared spectral decomposition of galaxies and the modeling of the polycyclic aromatic hydrocarbon (PAH) emission spectrum with the NASA Ames PAH Infrared Spectroscopic Database (PAHdb) to assess the variance on the average galaxy PAH population properties under a grid of different modeling parameters. We find that the short-low and short-low+long-low Spitzer-IRS decomposition with PAHFIT provides consistent modeling and recovery of the 5–15 μm PAH emission spectrum. For PAHdb modeling, application of a redshift to the calculated spectra to account for anharmonic effects introduces a 15%–20% variance on the derived parameters, while its absence improves the fits by ∼13%. The 4.00-α release of PAHdb achieves the complete modeling of the 6–15 μm PAH spectrum, including the full 6.2 μm band, improving the average fitting uncertainty by a factor of 2. The optimal PAHdb modeling configuration requires selection of pure PAHs without applying a redshift to the bands. Although quantitatively the PAHdb-derived parameters change under different modeling configurations or database versions, their variation follows a linear scaling, with previously reported trends remaining qualitatively valid. PAHdb modeling of JWST observations, and JWST observations smoothed and resampled to the Spitzer-IRS resolution and dispersion have consistent PAHdb derived parameters. Decomposition with different codes, such as PAHFIT and CAFE, produce PAH emission spectra with noticeable variation in the 11–15 μm region, driving a ∼7% difference in the neutral PAH fraction under PAHdb modeling. A new library of galaxy PAH emission templates is delivered to be utilized in galaxy spectral energy distribution modeling.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ We have conducted a sensitivity analysis on the mid-infrared spectral decomposit
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b0d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b0d</guid>
 <content:encoded><![CDATA[
-
 Nuclear star clusters (NSCs) are commonly found in the centers of galaxies, but their dominant formation mechanisms remain elusive. We perform a consistent analysis of stellar populations of 97 nearby NSCs, based on spectroscopic data from the Very Large Telescope. The sample covers a galaxy stellar mass range of 107–1011 M⊙ and is more than 3 times larger than any previous study. We identify three galaxy stellar mass regimes with distinct NSC properties. In the low-mass regime of ≲ 8.5 (Mhost is in units of M⊙), nearly all NSCs have metallicities lower than their circum-NSC host but similar to those of typical red globular clusters (GCs), supporting the GC inspiral–merger scenario of NSC formation. In the high-mass regime of ≳ 9.5, nearly all NSCs have higher metallicities than their circum-NSC host and red GCs, suggesting significant contributions from in situ star formation. In the intermediate-mass regime, a comparable fraction of NSCs have higher or lower metallicities than their circum-NSC host and red GCs, with no clear dependence on NSC mass, suggesting intermittent in situ star formation. The majority of NSCs with higher metallicities than their host exhibit a negative age–metallicity correlation, providing clear evidence of long-term chemical enrichment. The average metallicity difference between NSC and host peaks broadly around and declines toward both higher and lower galaxy masses. We find that the efficiency of dynamical-friction-driven inspiral of GCs observed in present-day galaxies can explain the NSC mass at but falls short of observed ones at higher galaxy mass, reinforcing our conclusions based on stellar population analysis.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@ Nuclear star clusters (NSCs) are commonly found in the centers of galaxies, but 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b15</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b15</guid>
 <content:encoded><![CDATA[
-
 Recently, a new type of magnetic reconnection, electron-only reconnection—where there is no obvious ion flow and heating—has been observed in various plasma environments. Previous kinetic simulations have shown that electron-only reconnection is a precursor of standard reconnection. In this paper, by performing a 2.5-dimensional particle-in-cell simulation, we investigate the evolution of electron-only magnetic reconnection to standard magnetic reconnection in a current sheet, whose initial width is of the electron inertial length. In the electron-only reconnection stage, electron outflow produces the electron-scale pileup, and ions are slightly accelerated in the outflow direction by the Hall electric field force. As the reconnection electric field expands and is piled up to the ion scale, ions start to be further accelerated inside the ion diffusion region and reflected by the to the outflow direction. With pileup as the bond, ions gradually transit from being accelerated by the Hall electric field to being coupled in reconnection by the Lorentz force.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@ Recently, a new type of magnetic reconnection, electron-only reconnection—wher
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d3b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d3b</guid>
 <content:encoded><![CDATA[
-
 While the environment around Tycho's supernova remnant has long been believed to be close to homogeneous, the latest analysis of Chandra data has identified a substantial deceleration of the forward shock, which poses a major challenge to this picture. R. Kobashi et al. showed that the existence of dense molecular cloud (MC) surrounding a rarefied wind-like circumstellar matter (CSM) can explain this observational finding in terms of the shock-expansion dynamics, supporting the so-called single-degenerate scenario for the progenitor system. We here extend this work to study the nonthermal emission processes and investigate whether such an environment is consistent with the observed multiwavelength spectrum. While the simulated broadband spectrum based on the wind–MC environment is largely consistent with observations, we find that such an environment predicts a harder gamma-ray spectrum than observed due to the relatively low CSM density in the cavity interior of the MC. This difference can be at least partially attributed to the present 1D setup of the model, which does not account for the clumpy and multidimensional structure of the CSM. Our model provides predictions for the long-term evolution of the broadband spectrum, which can be used to further probe Tycho's surrounding environment in the future, a key to resolving the long-standing issue of Type Ia supernova progenitor channels.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,13 +79,10 @@ While the environment around Tycho's supernova remnant has long been believed to
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de8</guid>
 <content:encoded><![CDATA[
-
 We constrain the halo profiles outside the halo boundaries by solving for the matching profiles required by the halo model. In the halo model framework, the matter distribution in the Universe can be decomposed into the spatial distribution of halos convolved with their internal structures. This leads to a set of linear equations in Fourier space that uniquely determines the matching halo profiles for any given halo catalog. In this work, we construct three halo catalogs with different boundary definitions and solve for the matching profiles in each case using measurements of halo–matter and halo–halo power spectra. Our results show that for a given halo field, there is always a set of matching profiles to accurately reconstruct the input statistics of the matter field, even though it might be complex to model the profiles analytically. Comparing the solutions from different halo catalogs, we find that their mass distributions inside the inner depletion radii are nearly identical, while they deviate from each other on larger scales, with a larger boundary resulting in a more extended profile. For the depletion-radius-based catalog, the numerical solution agrees well with the Einasto profile. Coupling the Einasto profile with the depletion catalog, the resulting halo model can simultaneously predict the halo–matter power spectra to 10% and the matter–matter power spectrum to 5%, improving over conventional models in both interpretability and versatility. The conditions and limitations of using the Navarro–Frenk–White profile in the halo model are also discussed.
 ]]></content:encoded>
-
 <pubDate>2025-01-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Solar and Geomagnetic Storms in 2024 May: A Flash Data Report</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9335</link>
@@ -10372,69 +10395,6 @@ Stars in an open cluster are assumed to have formed from a broadly homogeneous d
 New JWST/NIRCam wide-field slitless spectroscopy provides redshifts for four z > 8 galaxies located behind the lensing cluster MACS J0416.1−2403. Two of them, “Y1” and “JD,” have previously reported spectroscopic redshifts based on Atacama Large Millimeter/submillimeter Array measurements of [O iii] 88 μm and/or [C ii] 157.7 μm lines. Y1 is a merging system of three components, and the existing redshift z = 8.31 is confirmed. However, JD is at z = 8.34 instead of the previously claimed z = 9.28. JD’s close companion, “JD-N,” which was a previously discovered z > 8 candidate, is now identified at the same redshift as JD. JD and JD-N form an interacting pair. A new candidate at z > 8, “f090d_018,” is also confirmed and is at z = 8.49. These four objects are likely part of an overdensity that signposts a large structure extending ∼165 kpc in projected distance and ∼48.7 Mpc in radial distance. They are magnified by less than 1 mag and have an intrinsic MUV ranging from −19.57 to −20.83 mag. Their spectral energy distributions show that the galaxies are all very young with ages ∼ 4–18 Myr and stellar masses of about 107–8M⊙. These infant galaxies have very different star formation rates ranging from a few to over a hundred solar masses per year, but only two of them (JD and f090d_018) have blue rest-frame UV slopes β < −2.0 indicative of a high Lyman-continuum photon escape fraction that could contribute significantly to the cosmic hydrogen-reionizing background. Interestingly, these two galaxies are the least massive and least active ones among the four. The other two systems have much flatter UV slopes largely because of their high dust extinction (AV = 0.9–1.0 mag). Their much lower indicated escape fractions show that even very young, actively star-forming galaxies can have a negligible contribution to reionization when they quickly form dust throughout their bodies.
 ]]></content:encoded>
 <pubDate>2024-10-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Rapid Sequence of Solar Energetic Particle Events Associated with a Series of Extreme-ultraviolet Jets: Solar Orbiter, STEREO-A, and Near-Earth Spacecraft Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c47</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c47</guid>
-<content:encoded><![CDATA[
-<div> Solar Orbiter, STEREO-A, SEE events, energetic particles, EUV observations
-<br /><br />
-这篇文章报告了2022年11月9日至11月15日之间观测到的一系列太阳能电子（SEE）事件。在此期间，Solar Orbiter、STEREO-A和近地球的航天器观测到了至少32次能量大于10keV的SEE强度增强现象，其中13次发生在11月11日。这些事件中的一些伴随着小于10MeV的质子和小于2MeV的重离子强度增强。通过结合来自三个观测点的遥感和原位数据，研究人员确定了这一系列事件的起源是在两个活跃区附近的极端紫外观测中探测到的一系列明亮现象和喷射。研究人员还发现硬X射线耀斑、III型射电爆发与SEE的释放之间存在密切关联。另外，11月9日和14日观测到的两次特殊的SEE事件，主要是在电子能量小于50keV但富含小于1MeV的重离子，这些事件的起源是不明确的慢上升EUV排放。 <br /><br />总结: 这篇文章总结了2022年11月9日至11月15日期间观测到的一系列太阳能电子（SEE）事件。观测结果显示，这些事件与活跃区附近的极端紫外观测中探测到的一系列明亮现象和喷射有关，同时伴随着硬X射线耀斑和III型射电爆发。此外，也观测到了两次特殊的SEE事件，但其起源仍不明确。 <div>
-A series of solar energetic electron (SEE) events was observed from 2022 November 9 to November 15 by Solar Orbiter, STEREO-A, and near-Earth spacecraft. At least 32 SEE intensity enhancements at energies >10 keV were clearly distinguishable in Solar Orbiter particle data, with 13 of them occurring on November 11. Several of these events were accompanied by ≲10 MeV proton and ≲2 MeV nucleon−1 heavy-ion intensity enhancements. By combining remote-sensing and in situ data from the three viewpoints (Solar Orbiter and STEREO-A were ∼20° and ∼15° east of Earth, respectively), we determine that the origin of this rapid succession of events was a series of brightenings and jetlike eruptions detected in extreme ultraviolet (EUV) observations from the vicinity of two active regions. We find a close association between these EUV phenomena, the occurrence of hard X-ray flares, type III radio bursts, and the release of SEEs. For the most intense events, usually associated with extended EUV jets, the distance between the site of these solar eruptions and the estimated magnetic connectivity regions of each spacecraft with the Sun did not prevent the arrival of electrons at the three locations. The capability of jets to drive coronal fronts does not necessarily imply the observation of an SEE event. Two peculiar SEE events on November 9 and 14, observed only at electron energies ≲50 keV but rich in ≲1 MeV nucleon−1 heavy ions, originated from slow-rising confined EUV emissions, for which the process resulting in energetic particle release to interplanetary space is unclear.
-]]></content:encoded>
-<pubDate>2024-10-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>The Power of High-precision Broadband Photometry: Tracing the Milky Way Density Profile with Blue Horizontal Branch Stars in the Dark Energy Survey</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad738f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad738f</guid>
-<content:encoded><![CDATA[
-<div> BHBs, Milky Way's halo, density profile, photometry, Dark Energy Survey Data Release 2
-<br /><br />
-该研究使用星等测光数据和贝叶斯混合模型对BHBs进行分类，并发现它们在星等颜色空间中的独特位置。在对获得的高概率BHBs进行分析后，研究人员成功绘制了银河系晕的星体分布，并发现其数量密度符合幂律密度剖面。研究还考察了系统误差和空间不均匀性对密度剖面的影响。该工作证实了高精度星等测光数据在选择BHBs方面的有效性。未来的Rubin Observatory光度巡天将有望在10年的任务期间实现比DES更深2-3个等级的观测深度，从而进一步探索银河系晕的密度剖面，揭示我们银河系形成和演化的复杂过程。
-<br />密度剖面得出的幂律密度分布
-<br />使用高精度星等测光数据对BHBs进行了分类
-<br />未来光度巡天将实现更深的观测深度
-<br />该研究证实了高精度星等测光数据在选择BHBs方面的有效性 <div>
-Blue horizontal branch stars (BHBs), excellent distant tracers for probing the Milky Way’s halo density profile, are distinguished in the versus (i − z)0 color space from another class of stars, blue straggler stars. We develop a Bayesian mixture model to classify BHBs using high-precision photometry data from the Dark Energy Survey Data Release 2 (DES DR2). We select ∼2100 highly probable BHBs based on their griz photometry and the associated uncertainties, and we use these stars to map the stellar halo over the Galactocentric radial range 20 kpc ≲ R ≲ 70 kpc. After excluding known stellar overdensities, we find that the number density n⋆ of BHBs can be represented by a power-law density profile n⋆ ∝ R−α with an index of , consistent with existing literature values. In addition, we examine the impact of systematic errors and the spatial inhomogeneity on the fitted density profile. Our work demonstrates the effectiveness of high-precision griz photometry in selecting BHBs. The upcoming photometric survey from the Rubin Observatory, expected to reach depths 2–3 mag greater than DES during its 10 yr mission, will enable us to investigate the density profile of the Milky Way’s halo out to the virial radius, unraveling the complex processes of formation and evolution in our Galaxy.
-]]></content:encoded>
-<pubDate>2024-10-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Modeling and Subtracting Diffuse Cluster Light in JWST Images: A Relation between the Spatial Distribution of Globular Clusters, Dwarf Galaxies, and Intracluster Light in the Lensing Cluster SMACS 0723</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7735</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7735</guid>
-<content:encoded><![CDATA[
-<div> gravitational lensing clusters, James Webb Space Telescope, intracluster light, globular clusters, dwarf galaxies
-<br /><br />总结:
-本文提出了一种从James Webb Space Telescope观测的引力透镜聚类图像中建立和去除聚类星系和星系团内光（ICL）的方法论。研究者们在SMACS 0723 Early Release Observations中应用这一方法，并利用去除了ICL的图像选择了一组星团和矮星系。他们比较了这两个样本的空间分布与他们所建立的星系和ICL光模型，发现了显著的相似之处。特别是，他们发现星团追踪着弥散的ICL，而矮星系集中在聚类中心附近。研究者们量化了紧凑源的表面密度与总聚类光之间的关系，并展示了显著的紧密相关性。他们重复了他们的方法，将星团的分布与暗物质表面密度进行了比较，得到了类似的结果。研究结果表明星团和弥散的ICL可能具有共同的起源，大质量星系与聚类合并时的剥离可能是一个合理的情景。 <div>
-We present a methodology for modeling and removing light from cluster galaxies and intracluster light (ICL) from James Webb Space Telescope images of gravitational lensing clusters. We apply our method to Webb’s First Deep Field the SMACS 0723 Early Release Observations and use the ICL-subtracted images to select a sample of globular clusters (GCs) and dwarf galaxies within the cluster. We compare the spatial distributions of these two samples with our models of the galaxy and ICL light, finding significant similarities. In particular, we find that GCs trace the diffuse ICL, while dwarf galaxies are centrally concentrated near the cluster center We quantify the relationship between the surface density of compact sources and total cluster light, demonstrating a significant, tight correlation. We repeat our methodology and compare distributions of GCs with the dark matter surface density and find a comparable result. Our findings suggest a common origin for GCs and diffuse ICL, with stripping from massive galaxies as they merge with the cluster being a plausible scenario.
-]]></content:encoded>
-<pubDate>2024-10-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Do All Fast Radio Bursts Repeat? Constraints from CHIME/FRB Far Sidelobe FRBs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad779d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad779d</guid>
-<content:encoded><![CDATA[
-<div> CHIME, FRBs, far sidelobe, fluxes, repetition<br />
-远离旁瓣区域探测到10个快速无线电爆发（FRBs），平均流量大约是CHIME主瓣检测到的事件的500倍。研究发现，旁瓣样本统计上比主瓣样本接近20倍。其中有两个FRB有希望的宿主星系候选者，距离分别为38兆秒差距和16兆秒差距。在总曝光时间为35,580小时内，并未观测到类似亮度的重复事件。根据泊松分布的假设，推断远离旁瓣事件的平均重复间隔长于11,880小时，至少是已知的CHIME/FRB重复源的间隔的2380倍。这些远离旁瓣事件的结果表明了两种情景中的一种：所有的FRB都重复，且重复间隔跨越了很广的范围，高重复率的重复者是一种罕见的亚种，或者非重复的FRB是一种与已知重复者不同的特殊亚群。 <br /><br />总结: CHIME远离旁瓣区域探测到10个FRB，其中有两个有希望的宿主星系候选者。在总曝光时间内，未观测到重复事件。根据泊松分布假设，推断远离旁瓣事件的平均重复间隔很长，与已知重复源的间隔相比至少大2380倍。这些结果提示FRB可能存在两种情景之一：所有的FRB都重复，重复间隔范围很广，或者非重复的FRB构成了一个独特的亚群。 <div>
-We report 10 fast radio bursts (FRBs) detected in the far sidelobe region (i.e., ≥5° off-meridian) of the Canadian Hydrogen Intensity Mapping Experiment (CHIME) from August 28 2018 to August 31 2021. We localize the bursts by fitting their spectra with a model of the CHIME/FRB synthesized beam response. We find that the far sidelobe events have on average ∼500 times greater fluxes than events detected in CHIME’s main lobe. We show that the sidelobe sample is therefore statistically ∼20 times closer than the main lobe sample. We find promising host galaxy candidates (Pcc < 1%) for two of the FRBs, 20190112B and 20210310B, at distances of 38 and 16 Mpc, respectively. CHIME/FRB did not observe repetition of similar brightness from the uniform sample of 10 sidelobe FRBs in a total exposure time of 35,580 hr. Under the assumption of Poisson-distributed bursts, we infer that the mean repetition interval above the detection threshold of the far sidelobe events is longer than 11,880 hr, which is at least 2380 times larger than the interval from known CHIME/FRB detected repeating sources, with some caveats, notably that very narrowband events could have been missed. Our results from these far sidelobe events suggest one of two scenarios: either (1) all FRBs repeat and the repetition intervals span a wide range, with high-rate repeaters being a rare sub-population, or (2) non-repeating FRBs are a distinct population different from known repeaters.
-]]></content:encoded>
-<pubDate>2024-10-24T23:00:00Z</pubDate>
-</item>
-<item>
-<title>Lyman Limit System with O vi in the Circumgalactic Environment of a Pair of Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77bf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77bf</guid>
-<content:encoded><![CDATA[
-<div> Lyman limit system, O VI doublet lines, galaxies, gas phases, metallicity
-总结:
-这篇文章报告了对位于背景类星体FBQS J0209–0438的多相Lyman limit系统(LLS)的分析。文章发现，与这个吸收体相关的O VI双线与低电离金属和H i的谱线具有不同的轮廓。Ly α具有一个与O VI成分非常一致的非常宽的H i成分(b ≈ 150 km s−1)。宽H i和O VI的多普勒b参数表明这些气体的温度约为(0.8 − 2.0) × 10^6 K，并且氢柱密度是负责LLS的冷相气体的一个数量级大。Very Large Telescope MUSE的观测显示，在吸收体附近的约105千秒差距内存在两个中等星形成率的星系，其中一个是一个侏儒星系(M* ≈ 10^6M⊙)，与类星体点扩散函数重叠，另一个是一个较大的星系(R1/2 ≈ 4 kpc) ，具有M* ≈ 3 × 10^10M⊙和Mh ≈ 7 × 10^11M⊙，并且侏儒星系位于其温度半径内。尽管吸收与较大星系的扩展主轴对齐，但吸收气体的视向速度与共转吸积不一致。LLS的金属丰度低于两个星系的气态[O/H]。吸收气体中涉及冷和温/热的气体相，并且它在星系对的联合暗物质环境中的接近和取向，表明LLS是两个星系的联合暗物质环境中的高速气体。 <div>
-We report on the analysis of a multiphase Lyman limit system (LLS) at z = 0.39047 identified toward the background quasar FBQS J0209–0438. The O VI doublet lines associated with this absorber have a different profile from the low-ionization metals and H i. Ly α has a very broad H i (b ≈ 150 km s−1) component well-aligned with one of the O VI components. The Doppler b-parameters for the broad H i and O VI indicate gas with T = (0.8 − 2.0) × 106 K and a total hydrogen column density that is an order of magnitude larger than the cooler phase of gas responsible for the LLS. Observations by the Very Large Telescope MUSE show two moderately star-forming galaxies within ρ ≲ 105 kpc and ∣Δv∣ ≲ 130 km s−1 of the absorber, one of them a dwarf galaxy (M* ≈ 106M⊙) overlapping with the quasar point-spread function, and the other a larger galaxy (R1/2 ≈ 4 kpc) with M* ≈ 3 × 1010M⊙ and Mh ≈ 7 × 1011M⊙, and the dwarf galaxy within its virial radius. Although the absorption is aligned with the extended major axis of the larger galaxy, the line-of-sight velocity of the absorbing gas is inconsistent with corotating accretion. The metallicity inferred for the LLS is lower than the gas phase [O/H] of the two galaxies. The mixture of cool and warm/hot gas phases for the absorbing gas and its proximity and orientation to the galaxy pair points to the LLS being a high-velocity gas in the combined halo environment of both galaxies.
-]]></content:encoded>
-<pubDate>2024-10-24T23:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
