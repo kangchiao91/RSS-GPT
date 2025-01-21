@@ -5,14 +5,101 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Prevalence of Star-forming Clumps as a Function of Environmental Overdensity in Local Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7119</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7119</guid>
+<content:encoded><![CDATA[
+
+At the peak of cosmic star formation (1 ≲ z ≲ 2), the majority of star-forming galaxies hosted compact, star-forming clumps, which were responsible for a large fraction of cosmic star formation. By comparison, ≲5% of local star-forming galaxies host comparable clumps. In this work, we investigate the link between the environmental conditions surrounding local (z < 0.04) galaxies and the prevalence of clumps in these galaxies. To obtain our clump sample, we use a Faster R-CNN object detection network trained on the catalog of clump labels provided by the Galaxy Zoo: Clump Scout project, then apply this network to detect clumps in approximately 240,000 Sloan Digital Sky Survey galaxies (originally selected for Galaxy Zoo 2). The resulting sample of 41,445 u-band bright clumps in 34,246 galaxies is the largest sample of clumps yet assembled. We then select a volume-limited sample of 9964 galaxies and estimate the density of their local environment using the distance to their projected fifth nearest neighbor. We find a robust correlation between environment and the clumpy fraction (fclumpy) for star-forming galaxies (specific star formation rate, sSFR > 10−2 Gyr−1) but find little to no relationship when controlling for galaxies’ sSFR or color. Further, fclumpy increases significantly with sSFR in local galaxies, particularly above sSFR > 10−1 Gyr−1. We posit that a galaxy’s gas fraction primarily controls the formation and lifetime of its clumps, and that environmental interactions play a smaller role.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Red Supergiant Progenitor Luminosity Problem</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3f</guid>
+<content:encoded><![CDATA[
+
+Analysis of pre-explosion imaging has confirmed red supergiants (RSGs) as the progenitors to Type II-P supernovae (SNe). However, extracting an RSG's luminosity requires assumptions regarding the star’s temperature or spectral type and the corresponding bolometric correction, circumstellar extinction, and possible variability. The robustness of these assumptions is difficult to test since we cannot go back in time and obtain additional pre-explosion imaging. Here, we perform a simple test using the RSGs in M31, which have been well observed from optical to mid-IR. We ask the following: By treating each star as if we only had single-band photometry and making assumptions typically used in SN progenitor studies, what bolometric luminosity would we infer for each star? How close is this to the bolometric luminosity for that same star inferred from the full optical-to-IR spectral energy distribution (SED)? We find common assumptions adopted in progenitor studies systematically underestimate the bolometric luminosity by a factor of 2, typically leading to inferred progenitor masses that are systematically too low. Additionally, we find a much larger spread in luminosity derived from single-filter photometry compared to SED-derived luminosities, indicating uncertainties in progenitor luminosities are also underestimated. When these corrections and larger uncertainties are included in the analysis, even the most luminous known RSGs are not ruled out at the 3σ level, indicating there is currently no statistically significant evidence that the most luminous RSGs are missing from the observed sample of II-P progenitors. The proposed correction also alleviates the problem of having progenitors with masses below the expected lower-mass bound for core collapse.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Imaging and Spectral Fitting of Bright Gamma-Ray Sources with the COSI Balloon Payload</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad968a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad968a</guid>
+<content:encoded><![CDATA[
+
+The Compton Spectrometer and Imager balloon payload (COSI-Balloon) is a wide field-of-view Compton gamma-ray telescope that operates in the 0.2–5 MeV bandpass. COSI-Balloon had a successful 46 day flight in 2016 during which the instrument observed the Crab Nebula, Cygnus X-1, and Centaurus A. Using the data collected by the COSI-Balloon instrument during this flight, we present the source flux extraction of signals from the variable balloon background environment and produce images of these background-dominated sources by performing Richardson–Lucy deconvolutions. We also present the spectra measured by the COSI-Balloon instrument, compare and combine them with measurements from other instruments, and fit the data. The Crab Nebula was observed by COSI-Balloon, and we obtain a measured flux in the energy band 325–480 keV of (4.5 ± 1.6) × 103 ph cm−2 s−1. The model that best fits the COSI-Balloon data combined with measurements from NuSTAR and Swift-BAT is a broken power law with a measured photon index Γ = 2.20 ± 0.02 above the 43 keV break. Cygnus X-1 was also observed during this flight, and we obtain a measured flux of (1.4 ± 0.2) × 103 ph cm−2 s−1 in the same energy band and a best-fit result (including data from NuSTAR, Swift-BAT, and INTEGRAL/IBIS) was a cutoff power law with a high-energy cutoff energy of 138.3 ± 1.0 keV and a photon index of Γ = 1.358 ± 0.002. Finally, we present the measured spectrum of Centaurus A and our best model fit to a power law with a photon index of Γ = 1.73 ± 0.01.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>ATClean: A Novel Method for Detecting Low-luminosity Transients and Application to Pre-explosion Counterparts from SN 2023ixf</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad973d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad973d</guid>
+<content:encoded><![CDATA[
+
+In an effort to search for faint sources of emission over arbitrary timescales, we present a novel method for analyzing forced photometry light curves in difference imaging from optical surveys. Our method “ATLAS Clean,” or ATClean, utilizes the reported fluxes, uncertainties, and fits to the point-spread function (PSF) from difference images to quantify the statistical significance of individual measurements. We apply this method to control light curves across the image to determine whether any source of flux is present in the data for a range of specific timescales. From ATLAS o-band imaging at the site of the Type II supernova (SN) 2023ixf in M101 from 2015–2023, we show that this method accurately reproduces the 3σ flux limits produced from other, more computationally expensive methods. We derive limits for emission on timescales of 5 days and 80–300 days at the site of SN 2023ixf, which are 19.8 and 21.3 mag, respectively. The latter limits rule out variability for unextinguished red supergiants with initial masses >22 M⊙, comparable to the most luminous predictions for the SN 2023ixf progenitor system. We also compare our limits to short-timescale outbursts, similar to those expected for Type IIn SN progenitor stars or the Type II SN 2020tlf, and rule out outburst ejecta masses of >0.021 M⊙, much lower than the inferred mass of circumstellar matter around SN 2023ixf in the literature. In the future, these methods can be applied to any forced photometry on difference imaging from other surveys, such as Rubin optical imaging.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Failure of a Solar Filament Eruption Caused by Magnetic Reconnection with Overlying Coronal Loops</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a56</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a56</guid>
+<content:encoded><![CDATA[
+
+The failure of a filament eruption caused by magnetic reconnection between the erupting filament and the overlying magnetic field has been previously proposed in numerical simulations. It is, however, rarely observed. In this study, we report a reconnection between an erupting filament and its overlying coronal loops that results in the failure of the filament eruption. On 2023 September 24, a filament was located in active region 13445. It slowly rose, quickly erupted, rapidly decelerated, then finally stopped, with an untwisting motion. As a failed eruption, the event is associated with an M4.4 flare but no coronal mass ejection. During the eruption, the filament became bright, and the overlying loops appeared first in the high-temperature channels. They have average temperatures of ∼12.8 and ∼9.6 MK, respectively, indicating that both of them were heated. Two sets of new loops, separately connecting the filament endpoints and the overlying loop footpoints, then formed. Subsequently, the heated overlying loops were seen sequentially in the low-temperature channels, showing the cooling process, which is also supported by the light curves. Plasmoids formed and propagated bidirectionally along the filament and the overlying loops, indicating the presence of plasmoid instability. These results suggest that reconnection occurs between the erupting filament and the overlying loops. The erupting filament eventually disappeared, with the appearance of more newly formed loops. We propose that the reconnection between the erupting filament and the overlying loops ruins the filament completely, hence resulting in the failed eruption.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling High Mass X-Ray Binaries to Double Neutron Stars through Common Envelope Evolution</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a65</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a65</guid>
+<content:encoded><![CDATA[
+
+We present detailed evolutionary simulations of wide binary systems with high-mass (8–20 M⊙) donor stars and a 1.4 M⊙ neutron star. Mass transfer in such binaries is dynamically unstable, and common envelope (CE) evolution is followed. We use a recently developed prescription to deal with CE evolution and consider various CE ejection efficiencies varying in the range of 0.1–3.0. We focus on the evolutionary consequences of the binaries that survived CE evolution. We demonstrate that it is possible for the binaries to enter a CE decoupling phase (CEDP) when the donor stars are partially stripped, leaving a hydrogen envelope of ≲1.0–4.0 M⊙ after CE evolution. This phase is expected to last ∼104–105 yr, during which mass transfer occurs stably via Roche lobe overflow with super-Eddington rates. Identification of some X-ray binaries in a CEDP is important for the understanding of the physics of CE evolution itself, the origin of ultraluminous X-ray sources, and the recycling process of accreting pulsars. Also, we discuss the formation of double neutron stars and the occurrence of ultrastripped supernovae according to the results from our simulations. On the whole, the properties of post-CE binaries are sensitive to the options of CE ejection efficiencies.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>3D Localization of FRB 20190425A for Its Potential Host Galaxy and Implications</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada28c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada28c</guid>
+<content:encoded><![CDATA[
+
+Fast radio bursts (FRBs) are high-energy, short-duration phenomena in radio astronomy. Identifying their host galaxies can provide insights into their mysterious origins. In this paper, we introduce a novel approach to identifying potential host galaxies in three-dimensional space. We use FRB 20190425A and GW190425 as examples to illustrate our method. Recently, due to spatial and temporal proximity, the potential association of GW190425 with FRB 20190425A has drawn attention, leading to the identification of a likely host galaxy, UGC 10667, albeit without confirmed kilonova emissions. We search for the host galaxy of FRB 20190425A with a full CHIME localization map. Regardless of the validity of the association between GW190425 and FRB 20190425A, we identify an additional potential host galaxy (SDSS J171046.84+212732.9) from the updated GLADE galaxy catalog, supplementing the importance of exploring the new volume. We employed various methodologies to determine the most probable host galaxy of GW190424 and FRB 20190425A, including a comparison of galaxy properties and constraints on their reported observation limits using various kilonova models. Our analysis suggests that current observations do not definitively identify the true host galaxy. Additionally, the kilonova models characterized by a gradual approach to their peak are contradicted by the observational upper limits of both galaxies. Although the absence of optical emission detection raises doubts, it does not definitively disprove the connection between the gravitational wave (GW) and FRB.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Tidally Distorted Stars Are Triaxial Pulsators</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9eb2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9eb2</guid>
+<content:encoded><![CDATA[
+
+Stars in close binaries are tidally distorted, and this has a strong effect on their pulsation modes. We compute the mode frequencies and geometries of tidally distorted stars using perturbation theory, accounting for the effects of the Coriolis force and the coupling between different azimuthal orders m of a multiplet induced by the tidal distortion. For tidally coupled dipole pressure modes, the tidal coupling dominates over the Coriolis force and the resulting pulsations are “triaxial,” with each of the three modes in a multiplet “tidally tilted,” to be aligned with one of the three principal axes of the star. The observed amplitudes and phases of the dipole modes aligned orthogonal to the spin axis are modulated throughout the orbit, producing doublets in the power spectrum that are spaced by exactly twice the orbital frequency. Quadrupole modes have similar but slightly more complex behavior. This amplitude modulation allows for mode identification, which can potentially enable detailed asteroseismic analyses of tidally tilted pulsators. Pressure modes should exhibit this behavior in stellar binaries close enough to be tidally synchronized, while gravity modes should remain aligned with the star's spin axis. We discuss applications to various types of pulsating stars and the relationship between the tidal tilting of pulsations and the “single-sided” pulsations sometimes observed in very tidally distorted stars.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Origins of Lithium Enhancement in Polluted White Dwarfs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6d</guid>
 <content:encoded><![CDATA[
-
 The bulk abundances of exoplanetesimals can be measured when they are accreted by white dwarfs. Recently, lithium from the accretion of exoplanetesimals was detected in relatively high levels in multiple white dwarfs. There are presently three proposed hypotheses to explain the detection of excess lithium in white dwarf photospheres: Big Bang and Galactic nucleosynthesis, continental crust, and an exomoon formed from spalled ring material. We present new observations of three previously known lithium-polluted white dwarfs (WD J1824+1213, WD J2317+1830, and LHS 2534), and one with metal pollution without lithium (SDSS J1636+1619). We also present atmospheric model fits to these white dwarfs. We then evaluate the abundances of these white dwarfs and two additional lithium-polluted white dwarfs that were previously fit using the same atmospheric models (WD J1644-0449 and SDSS J1330+6435) in the context of the three extant hypotheses for explaining lithium excesses in polluted white dwarfs. We find Big Bang and Galactic nucleosynthesis to be the most plausible explanation of the abundances in WD J1644-0449, WD J1824+1213, and WD J2317+1830. SDSS J1330+6435 will require stricter abundances to determine its planetesimal’s origins, and LHS 2534, as presently modeled, defies all three hypotheses. We find the accretion of an exomoon formed from spalled ring material to be highly unlikely to be the explanation of the lithium excess in any of these cases.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +107,8 @@ The bulk abundances of exoplanetesimals can be measured when they are accreted b
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b7a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b7a</guid>
 <content:encoded><![CDATA[
-
 We examine images of the protoplanetary disk 114–426 with JWST/NIRCam in 12 bands. This large disk is oriented edge on with a dark midplane flanked by lobes of scattered light. The outer edges of the midplane are seen in silhouette against the Orion Nebula, providing a unique opportunity to study planet-forming material in absorption. We discover a dip in the scattered light of the disk at 3 μm—compelling evidence for the presence of water ice. The 3 μm dip is also seen in the silhouette of the disk, where we quantify the ice abundance with models of pure absorption and avoid the complications of disk scattering effects. We find grain ice-to-refractory mass ratios of up to ~0.2, maximum grain sizes of 0.25–5 μm, and a total dust plus ice mass of 0.46 M⊕ in the silhouette region. We also discover excess absorption in the NIRCam bands that include the Paα line, suggesting there may be excited atomic hydrogen in the disk. Examining the morphology of the scattered light lobes reveals that they are laterally offset from each other and exhibit a brightness asymmetry that flips with wavelength—both evidence for a tilted inner disk in this system.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +116,8 @@ We examine images of the protoplanetary disk 114–426 with JWST/NIRCam in 12 ba
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b98</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b98</guid>
 <content:encoded><![CDATA[
-
 Close encounter between a star and a supermassive black hole (SMBH) results in the tidal disruption of the star, known as a tidal disruption event (TDE). Recently, a few TDEs, e.g., ASASSN-15oi and AT2018hyz, have shown late-time (hundreds of days after their UV/optical peaks) radio flares with radio luminosities of 1038∼39 erg s−1. The super-Eddington fallback or accretion in a TDE may generate a mass outflow. Here, we investigate a scenario that the late-time radio flares come from the interaction of the outflow with the circumnuclear gaseous clouds, in addition to the slow-evolving emission component due to the outflow–diffuse medium interaction. We calculate the associated radio temporal and spectral signatures and find that they reproduce well the observations. The outflows have the inferred velocity of 0.2c ∼ 0.6c, the total mass of 10−3 ∼ 10−1M⊙ and the ejection duration of a month to a year. The distances of the clouds to the SMBH are 0.1 ∼ 1 pc. This scenario has advantages in explaining the long delay, sharpness of the rise, and the multiplicity of the late radio flares. Future observations may build up a much larger sample of late-time radio flares and enable their use as a probe of the TDE physics and the host circumnuclear environment.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +125,8 @@ Close encounter between a star and a supermassive black hole (SMBH) results in t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b9c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b9c</guid>
 <content:encoded><![CDATA[
-
 EL CVn–type systems represent a rare evolutionary stage in binary star evolution, providing ideal laboratories for investigating stable mass-transfer processes and the formation of extremely low-mass white dwarfs (ELM WDs). The Transiting Exoplanet Survey Satellite (TESS) has delivered an extensive collection of high-precision time-domain photometric data, which is invaluable for studying EL CVn binaries. In this study, we identified 29 EL CVn systems from the TESS eclipsing binary catalogs (sectors 1–65), 11 of which are newly discovered. These systems consist of smaller, hotter prehelium WDs and A/F main-sequence stars. The orbital periods of these binaries range from 0.64 to 2.5 days. Utilizing TESS light curves, Gaia distances, and multiband photometric data (e.g., Galaxy Evolution Explorer, Two Micron All Sky Survey, Wide-field Infrared Survey Explorer, SkyMapper), we modeled the light curves and spectral energy distributions to derive system parameters, including effective temperatures, masses, and radii. These systems were then compared with the WD mass–period relation and the evolutionary tracks of ELM WDs. The comparison reveals that these binaries are consistent with the expected mass–period relation for WDs and align well with the evolutionary tracks on the Teff − diagram for ELM WDs. This result suggests that these EL CVn systems likely formed through stable mass-transfer processes. We provide a catalog of complete parameters for 29 EL CVn systems identified from the TESS survey. This catalog will serve as an essential resource for studying binary mass transfer, WD formation, and pulsation phenomena in EL CVn–type systems.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +134,8 @@ EL CVn–type systems represent a rare evolutionary stage in binary star evoluti
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada0be</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada0be</guid>
 <content:encoded><![CDATA[
-
 On 2022 September 5, during Parker Solar Probe's (PSP) 13th encounter, a fast shock wave and a related solar energetic particle (SEP) event were observed as the spacecraft approached the perihelion of its orbit. Observations from the Integrated Science Investigation of the Sun (IS⊙IS) instrument suite show that SEPs arrived at the spacecraft with a significant delay from the onset of the parent solar eruption and that the first arriving SEPs exhibited an inverse velocity dispersion (IVD) for energetic protons above ~1 MeV. Utilizing data from multiple spacecraft, we investigate the eruption dynamics and shock wave propagation. Our analysis includes 3D shock modeling and SEP transport simulations to examine the origins of this SEP event and explore the causes of the delayed SEP onset and the observed IVD. The data-driven SEP simulation reproduces the SEP event onset observed at PSP, its evolving energy spectrum, and the IVD. This IVD is attributed to a relatively slow, ongoing particle acceleration process occurring at the flank of the expanding shock wave intercepted by PSP. This has significant implications for the role of shocks in the release of SEPs at widespread events and for methods used to infer the SEP release times. Furthermore, the match between the simulation and observations worsens when cross-field diffusion is considered, indicating that SEP diffusion had a minor effect on this event. These findings underscore the complexity of SEP events and emphasize the need for advanced modeling approaches to better understand the role of shock waves and other physical processes in SEP acceleration and release.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +143,8 @@ On 2022 September 5, during Parker Solar Probe's (PSP) 13th encounter, a fast sh
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada149</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada149</guid>
 <content:encoded><![CDATA[
-
 Several groups have recently suggested that small planets orbiting very closely around white dwarf stars could be promising locations for life to arise, even after stellar death. There are still many uncertainties, however, regarding the existence and habitability of these worlds. Here we consider the retention of water during post-main-sequence evolution of a Sun-like star and during the subsequent migration of planets to the white dwarf's habitable zone. This inward migration is driven by dynamical mechanisms such as planet–planet interactions in packed systems, which can excite planets to high eccentricities, setting the initial conditions for tidal migration into short-period orbits. In order for water to persist on the surfaces of planets orbiting white dwarfs, the water must first survive the asymptotic giant branch phase of stellar evolution, then avoid being lost as a result of photoevaporation due to X-ray and extreme-ultraviolet radiation from the newly formed white dwarf, and finally survive the tidal migration of the planet inward to the habitable zone. We find that while this journey will likely desiccate large swaths of post-main-sequence planetary systems, planets with substantial reservoirs of water may retain some surface water, especially if their migration occurs at later white dwarf cooling ages. Therefore, although stellar evolution may pose a challenge for the retention of water on exoplanet surfaces, it is possible for planets to retain surface oceans even as their host stars die and their orbits evolve.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +152,8 @@ Several groups have recently suggested that small planets orbiting very closely 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d5</guid>
 <content:encoded><![CDATA[
-
 Numerous stars exhibit surprisingly large variations in their refractory element abundances, often interpreted as signatures of planetary ingestion events. In this study, we propose that differences in the dust-to-gas ratio near stars during their formation can produce similar observational signals. We investigate this hypothesis using a suite of radiation-dust-magnetohydrodynamic STAR FORmation in Gaseous Environments (or STARFORGE) simulations of star formation. Our results show that the distribution of refractory abundance variations (Δ[X/H]) has extended tails, with about 10%–30% of all stars displaying variations around ∼0.1 dex. These variations are comparable to the accretion of 2–5 M⊕ of planetary material into the convective zones of Sun-like stars. The width of the distributions increases with the incorporation of more detailed dust physics, such as radiation pressure and back-reaction forces, as well as with larger dust grain sizes and finer resolutions. Furthermore, our simulations reveal no correlation between Δ[X/H] and stellar separations, suggesting that dust-to-gas fluctuations likely occur on scales smaller than those of wide binaries. These findings highlight the importance of considering dust dynamics as a potential source of the observed chemical enrichment in stars.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +161,8 @@ Numerous stars exhibit surprisingly large variations in their refractory element
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d7</guid>
 <content:encoded><![CDATA[
-
 The γ-ray detection from an astrophysical object indicates the presence of an extreme environment where high-energy radiation is produced. With the continuous monitoring of the γ-ray sky by the Fermi Large Area Telescope (LAT) leading to deeper sensitivity, high-energy γ-ray emission has now been detected from a diverse class of jetted active galactic nuclei (AGNs). Here, we present the results of a multiwavelength study of the radio source DA 362, which was reported to be a blazar candidate of uncertain type. However, it was recently identified as a bona fide compact symmetric object (CSO) based on its subkiloparsec, bipolar radio morphology, and lack of radio variability. This makes DA 362 only the fourth γ-ray-emitting object of this enigmatic class of radio-loud AGNs. Using five very-long-baseline interferometry observations covering 1996–2018, we found the jet separation velocity to be subluminal (vapp ~ 0.2c), thus supporting its CSO nature. Its Fermi-LAT observations revealed a γ-ray flaring activity, a phenomenon never detected from the other three γ-ray-detected CSOs. This object is bright in the near-infrared band but extremely faint in the optical-UV filters, hinting at possible obscuration. Swift X-Ray Telescope observation of DA 362 reveals an extremely hard X-ray spectrum, though a strong claim cannot be made due to large uncertainties. We conclude that deeper observations are needed to probe the broadband properties of this enigmatic object and to understand the origin of high-energy γ-ray emission.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,13 +170,10 @@ The γ-ray detection from an astrophysical object indicates the presence of an e
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada269</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada269</guid>
 <content:encoded><![CDATA[
-
 Plasma flow vortexes are ubiquitous in space and astrophysical settings and play a vital role in energy and mass transport, contributing to formation of stars and planets, launching and dissipation of astrophysical jets, and coupling between planetary magnetospheres and ionospheres. Here we present in situ observations showing that energetic electrons with energies up to 250 keV can be directly generated inside an ion flow vortex with finite spatial scale. The electron acceleration is achieved by establishment of Fermi acceleration trap and parallel electrostatic potential within the flow vortex, leading to dramatic enhancement of energetic electron flux by at least 1 order of magnitude. The accelerated electrons can drive mass and energy transport along local magnetic field lines and serve as a free energy source for broadband electrostatic emissions. Our observations, suggesting that the ion flow vortex can serve as novel electron accelerators, can be fundamentally important for understanding energetic phenomena in the cosmos, such as nonthermal emissions near astrophysical jets and killer electrons in geospace.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Photometric Selection of Type 1 Quasars in the XMM-LSS Field with Machine Learning and the Disk–Corona Connection</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9baf</link>
@@ -10295,107 +10365,6 @@ The Transiting Exoplanet Survey Satellite (TESS) has enabled the discovery of nu
 这项研究通过分类方法确定了产生 OX 和 CX 结构的特定轨道族群，发现两种 BP/X 形态都与 x1 轨道族有关，但是 OX 结构对应的轨道具有更高的角动量。研究还表明，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，则BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。对于减速但不发生屈曲的杆来说，最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明，BP/X 形态和轨道族群的演化在很大程度上取决于杆角动量的演化。
 <br /><br />总结: 这项研究通过分类方法确定了两种 BP/X 形态的具体轨道族群，指出 OX 结构对应的轨道具有更高的角动量。研究发现，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。减速但不发生屈曲的杆最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明 BP/X 形态和轨道族群的演化取决于杆角动量的演化。 <div>
 Barred galaxies exhibit boxy/peanut or X-shapes (BP/X) protruding from their disks in edge-on views. Two types of BP/X morphologies exist depending on whether the X-wings meet at the center (CX) or are off-centered (OX). Orbital studies indicate that various orbital types can generate X-shaped structures. Here we provide a classification approach that identifies the specific orbit families responsible for generating OX- and CX-shaped structures. Applying this approach to three different N-body bar models, we show that both OX and CX structures are associated with the x1 orbit family, but OX-supporting orbits possess higher angular momentum (closer to x1 orbits) than orbits in CX structures. Consequently, as the bar slows down, the contribution of higher angular momentum OX-supporting orbits decreases and that of lower angular momentum orbits increases, resulting in an evolution of the morphology from OX to CX. If the bar does not slow down, the shape of the BP/X structure and the fractions of OX/CX-supporting orbits remain substantially unchanged. Bars that do not undergo buckling but that do slow down initially show the OX structure and are dominated by high angular momentum orbits, transitioning to a CX morphology. Bars that buckle exhibit a combination of both OX- and CX-supporting orbits immediately after the buckling but become more CX dominated as their pattern speed decreases. This study demonstrates that the evolution of BP/X morphology and orbit populations strongly depends on the evolution of the bar angular momentum.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Probing the Dust Grain Alignment Mechanisms in Spiral Galaxies with M51 as the Case Study</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7819</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7819</guid>
-<content:encoded><![CDATA[
-Magnetic fields (B fields) in galaxies have recently been traced using far-infrared and submillimeter polarimetric observations with the Stratospheric Observatory for Infrared Astronomy, James Clerk Maxwell Telescope, and Atacama Large Millimeter/submillimeter Array. The main assumption is that dust grains are magnetically aligned with the local B-field in the interstellar medium (ISM). However, the range of physical conditions of the ISM, dust grain sizes, and B-field strengths in galaxies where this assumption is valid has not been characterized yet. Here, we use the well-studied spiral galaxy M51 as a case study. We find that the timescale for the alignment mechanism arising from magnetically aligned dust grains (B-RAT) dominates over other alignment mechanisms, including radiative precession (k-RAT) and mechanical alignment (v-MAT), as well as the randomization effect (gas damping). We estimate the sizes of the aligned dust grain to be in the range of 0.009–0.182 μm and 0.019–0.452 μm for arms and interarms, respectively. We show that the difference in the polarization fraction between arms and interarms may arise from the enhancement of small dust grain sizes in the arms resulting from large grains being broken into small grains as an effect of the grain alignment disruption (RAT-D) mechanism. We argue that the RAT-D mechanism needs to have additional effects, e.g., intrinsic variations of the B-field structure and turbulence, in the galaxy’s components to fully explain the polarization fraction variations within the arms and interarms.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Solar Vortex Tubes. III. Vorticity and Energy Transport</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad781a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad781a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 涡旋生成, 等离子体加热, 能量传输, 太阳光球, 磁场<br />
-<br />总结: 该研究调查了涡度生成机制以及涡旋管在等离子体加热和能量传输中的作用。通过对太阳光球模拟区域的数据进行分析，发现在三维动能涡旋管中，磁压力的错位和密度梯度的倒数主要驱动了涡度。在模拟的上光球层，洛伦兹力对绝热冷却和加热产生影响。此外，结果表明涡旋可以显著提高光球区间比例尺的粘性和欧姆加热，并产生更多的磁能。在能量传递方面，Poynting流在涡旋边界处非均匀且占主导地位，这创造了能量循环，支持色球等离子体加热并维持色球温度。 <div>
-This study investigated the mechanisms of vorticity generation and the role of vortex tubes in plasma heating and energy transport. Vortex tubes were identified using the instantaneous vorticity deviation technique in the MURaM data set of a simulated solar plage region of the solar photosphere. Within 3D kinetic vortex tubes, the misalignment of the magnetic pressure and the inverse of the density gradient, rather than baroclinic effects, primarily drive vorticity within the tubes. During their lifetime, vortices become less dense as the Lorentz force pushes plasma outwards against pressure gradients. In the simulated upper photosphere, the Lorentz force contributes to adiabatic cooling and heating by expanding or compressing the plasma around the vortex tubes. In turn, vortex motion affects the magnetic field, enhancing current generation and intensifying the Lorentz force, which may further increase adiabatic cooling and heating. Moreover, our results confirm that vortices can significantly boost viscous and ohmic heating on intergranular scales in the photosphere. They generate more magnetic than kinetic energy, with energy transport by Poynting flux notably nonuniform and dominant at the vortex boundaries. This creates energy circulation in which the net upwards Poynting flux can enhance chromospheric plasma heating and support chromospheric temperatures.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Reconstructing the Genealogy of LIGO-Virgo Black Holes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad781b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad781b</guid>
-<content:encoded><![CDATA[
-<div> Bayesian inference, LIGO-Virgo, binary black holes, hierarchical mergers, GWTC-3
-<br />
-通过贝叶斯推断框架，本研究旨在预测LIGO-Virgo双黑洞的合并历史，尤其关注可能存在过层级合并的黑洞。方法基于数值相对论预测了残余黑洞的质量、自旋和脱离速度。研究验证了这一方法，并将其应用于三个引力波事件GWTC-3中，结果表明在速度≥100 km s−1的天体环境更可能发生这类事件，同时也预测了这些事件的形成历史。<br />
-总结: <br />本研究提出了贝叶斯推断框架，用于预测LIGO-Virgo二进制黑洞的合并历史，特别关注了可能存在的层级合并。研究验证了这一方法，并将其应用于三个GWTC-3事件，结果表明在速度≥100 km s−1的天体环境更可能发生这类事件，同时也预测了这些事件的形成历史。 <div>
-We propose a Bayesian inference framework to predict the merger history of LIGO-Virgo binary black holes (BHs), whose binary components may have undergone hierarchical mergers in the past. The framework relies on numerical relativity predictions for the mass, spin, and kick velocity of the remnant BHs. This proposed framework computes the masses, spins, and kicks imparted to the remnant of the parent binaries, given the initial masses and spin magnitudes of the binary constituents. We validate our approach by performing an “injection study” based on a constructed sequence of hierarchically formed binaries. Noise is added to the final binary in the sequence, and the parameters of the “parent” and “grandparent” binaries in the merger chain are then reconstructed. This method is then applied to three GWTC-3 events: GW190521, GW200220_061928, and GW190426_190642. These events were selected because at least one of the binary companions lies in the putative pair-instability supernova mass gap, in which stellar processes alone cannot produce BHs. Hierarchical mergers offer a natural explanation for the formation of BHs in the pair-instability mass gap. We use the backward evolution framework to predict the parameters of the parents of the primary companion of these three binaries. For instance, the parent binary of GW190521 has masses and within the 90% credible interval. Astrophysical environments with escape speeds ≥100 km s−1 are preferred sites to host these events. Our approach can be readily applied to future high-mass gravitational wave events to predict their formation history under the hierarchical merger assumption.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Energy-dependent and Energy-integrated Two-moment General-relativistic Neutrino Transport Simulations of a Hypermassive Neutron Star</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7825</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7825</guid>
-<content:encoded><![CDATA[
-<div> 能量依赖，两时刻，磁流体动力学，中子星，中微子传输<br />
-<br />
-通过比较能量依赖和三种能量积分的中微子传输对超质量中子星的影响，研究发现两者在盘和喷发特性以及中微子信号方面存在着主要差异。能量依赖情况下，盘在早期更富中子，在后期变得更厚。此外，喷发更加庞大且平均更富中子。此外，平均中微子能量和光度约高30%。因此，如果要更好地模拟中微子信号和中子星并合遗迹的物质流出，能量依赖的中微子传输是必要的。<br /><br />总结: <br />能量依赖情况下，盘更富中子，喷发更大且更富中子。平均中微子能量和光度约高30%。因此，能量依赖的中微子传输对于更好地模拟中微子信号和中子星并合遗迹的物质流出是必要的。 <div>
-We compare two-moment-based energy-dependent and three variants of energy-integrated neutrino transport general-relativistic magnetohydrodynamics simulations of a hypermassive neutron star. To study the impacts due to the choice of the neutrino transport schemes, we perform simulations with the same setups and input neutrino microphysics. We show that the main differences between energy-dependent and energy-integrated neutrino transport are found in the disk and ejecta properties, as well as in the neutrino signals. The properties of the disk surrounding the neutron star and the ejecta in energy-dependent transport are very different from the ones obtained using energy-integrated schemes. Specifically, in the energy-dependent case, the disk is more neutron-rich at early times and becomes geometrically thicker at later times. In addition, the ejecta is more massive and, on average, more neutron-rich in the energy-dependent simulations. Moreover, the average neutrino energies and luminosities are about 30% higher. Energy-dependent neutrino transport is necessary if one wants to better model the neutrino signals and matter outflows from neutron star merger remnants via numerical simulations.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Manhattan Suite: Accelerated Galaxy Evolution in the Early Universe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad793d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad793d</guid>
-<content:encoded><![CDATA[
-<div> 高红移，星系，星团，模拟，进化<br />
-高红移的观测进展使我们能够发现越来越高红移下的星系、原星团和星系团，揭示了极端星系进化的新视角。作者提出通过模拟研究表明，过去十年发现的高红移、大质量星系实际上是在z ∼ 2时期星系团核心内最大质量星系的部分继承者，并且与JWST在z ∼ 9时期发现的同一星系存在联系。作者使用高分辨率的模拟对最大质量星系团进行了研究，并成功重现了一些高红移星系团的特征。作者认为这些系统在进化上存在密切联系且代表了相同的进化历史。<br /><br />总结: <br />观测进展使得我们能够发现越来越高红移下的星系、原星团和星系团。作者通过模拟研究表明，过去十年发现的高红移、大质量星系实际上是在z ∼ 2时期星系团核心内最大质量星系的部分继承者，并且与JWST在z ∼ 9时期发现的同一星系存在联系。作者使用高分辨率的模拟对最大质量星系团进行了研究，并成功重现了一些高红移星系团的特征。作者认为这些系统在进化上存在密切联系且代表了相同的进化历史。 <div>
-Observational advances have allowed the detection of galaxies, protoclusters, and galaxy clusters at higher and higher redshifts, opening a new view into extreme galaxy evolution. I present an argument that the high-redshift, massive galaxies discovered over the last decade are really the most massive galaxies within protocluster cores of galaxy clusters at z ∼ 2, and that they are the partial descendants of same galaxies discovered by JWST at z ∼ 9. To that end, I present The Manhattan Suite, a set of 100 high resolution zoom-in simulations of the most massive galaxy clusters, out to 9 Rvir, selected at z = 2 from a (1.5 cGpc)3 parent volume, and simulated using the simba model. Unlike other cluster suites, my selection at z = 2 ensures that these systems are biased in a similar fashion to observations, in that they should be the brightest and the most massive by construction at z ≳ 2. I show that my sample is able to reproduce extremely star-bursting protoclusters such as SPT2349-56, high-redshift galaxy clusters XLSSC122 and JKCS041, and the wealth of massive (sometimes quenched) galaxies at z ≳ 3 and up to z ∼ 9. I argue that these systems are intimately linked, and represent the same evolutionary history.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Full Stokes-vector Inversion of the Solar Mg ii h and k Lines</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7954</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7954</guid>
-<content:encoded><![CDATA[
-<div> Mg ii h and k resonance lines, polarization, solar chromosphere, CLASP2, Hanle effect
-总结:
-Mg ii h和k共振线极化是散射过程和磁场诱导的Hanle、Zeeman和磁光效应的共同作用结果，对太阳色球磁场的诊断具有重要潜力。2019年进行的Chromospheric LAyer Spectro-Polarimeter sounding-rocket实验成功地测量了两个不同区域的Stokes参数随波长的变化。通过应用HanleRT Tenerife反演代码，可以根据Stokes参数剖面提供磁场矢量的估计。非磁性对称性破坏的原因对线偏振剖面有重要影响，而在静止区像素中，磁场强度在上色球层的估计值在1至20 G之间变化。 <div>
-The polarization of the Mg ii h and k resonance lines is the result of the joint action of scattering processes and the magnetic field–induced Hanle, Zeeman, and magneto-optical effects, thus holding significant potential for the diagnostic of the magnetic field in the solar chromosphere. The Chromospheric LAyer Spectro-Polarimeter sounding-rocket experiment, carried out in 2019, successfully measured at each position along the 196″ spectrograph slit the wavelength variation of the four Stokes parameters in the spectral region of this doublet around 280 nm, both in an active-region plage and in a quiet region close to the limb. We consider some of these CLASP2 Stokes profiles and apply to them the recently developed HanleRT Tenerife Inversion Code, which assumes a one-dimensional model atmosphere for each spatial pixel under consideration (i.e., it neglects the effects of horizontal radiative transfer). We find that the nonmagnetic causes of symmetry breaking, due to the horizontal inhomogeneities and the gradients of the horizontal components of the macroscopic velocity in the solar atmosphere, have a significant impact on the linear polarization profiles. By introducing such nonmagnetic causes of symmetry breaking as parameters in our inversion code, we can successfully fit the Stokes profiles and provide an estimation of the magnetic field vector. For example, in the quiet region pixels, where no circular polarization signal is detected, we find that the magnetic field strength in the upper chromosphere varies between 1 and 20 G.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Magnetic Fields in a Sample of Planet-hosting M Dwarf Stars from Kepler, K2, and TESS Observed by APOGEE</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7959</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7959</guid>
-<content:encoded><![CDATA[
-<div> 磁场，恒星，外行星，近红外光谱，太阳系外行星
-<br />这项研究使用近红外光谱分析了29颗M型矮星的平均磁场，这些星系中有43颗外行星。研究发现这些星系中只有Kepler-186f和TOI-700d在宜居带内。根据星球磁场需要抵御恒星风的情况，推测Kepler-186f和TOI-700d分别需要0.05和0.24高斯的磁场来保护大气和表面。这些数值远小于地球的磁场强度，说明这两颗外行星可能具有足够强大的磁场来保护其大气和表面。
-<br /><br />总结: 这项研究使用近红外光谱分析了29颗M型矮星的平均磁场，这些星系中有43颗外行星。研究发现只有Kepler-186f和TOI-700d在宜居带内。根据星球磁场需要抵御恒星风的情况，推测Kepler-186f和TOI-700d分别需要0.05和0.24高斯的磁场来保护大气和表面。这些数值远小于地球的磁场强度，说明这两颗外行星可能具有足够强大的磁场来保护其大气和表面。 <div>
-Stellar magnetic fields have a major impact on space weather around exoplanets orbiting low-mass stars. From an analysis of Zeeman-broadened Fe i lines measured in near-infrared SDSS/APOGEE spectra, mean magnetic fields are determined for a sample of 29 M dwarf stars that host closely orbiting small exoplanets. The calculations employed the radiative transfer code Synmast and MARCS stellar model atmospheres. The sample M dwarfs are found to have measurable mean magnetic fields ranging between ∼0.2 and ∼1.5 kG, falling in the unsaturated regime on the 〈B〉 versus Prot plane. The sample systems contain 43 exoplanets, which include 23 from Kepler, nine from K2, and nine from Transiting Exoplanet Survey Satellite. We evaluated their equilibrium temperatures, insolation, and stellar habitable zones and found that only Kepler-186f and TOI-700d are inside the habitable zones of their stars. Using the derived values of 〈B〉 for the stars Kepler-186 and TOI-700 we evaluated the minimum planetary magnetic field that would be necessary to shield the exoplanets Kepler-186f and TOI-700d from their host star’s winds, considering reference magnetospheres with sizes equal to those of the present-day and young Earth, respectively. Assuming a ratio of 5% between large- to small-scale B-fields, and a young-Earth magnetosphere, Kepler-186f and TOI-700d would need minimum planetary magnetic fields of, respectively, 0.05 and 0.24 G. These values are considerably smaller than Earth’s magnetic field of 0.25 G ≲ B ≲ 0.65 G, which suggests that these two exoplanets might have magnetic fields sufficiently strong to protect their atmospheres and surfaces from stellar magnetic fields.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Physical Nature of Lyα Transmission Spikes in High-redshift Quasar Spectra</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad793c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad793c</guid>
-<content:encoded><![CDATA[
-<div> Lyman-alpha transmission spikes, synthetic quasar spectra, Cosmic Reionization on Computers simulations, Explainable Boosting machines, intergalactic medium properties<br />
-<br />总结:<br />本研究利用“宇宙再电离计算”模拟中的合成类星体光谱，研究了5.2 < z < 6.8范围内的Lyman-alpha (Lyα)传输峰。重点在于理解这些峰与星系间介质（IGM）属性之间的关系。通过采用可解释的机器学习算法Explainable Boosting machines，量化了各种IGM属性对Lyα流量的相对影响。研究结果显示，气体密度是影响吸收强度的主要因素，其次是背景辐射的强度和IGM的温度。本研究挑战了最近一些观测研究对这些峰来源的假设，证明了Lyα传输峰在很大程度上是大尺度结构的产物，而星系只是偏向探测器。 <div>
-We investigate Lyman-alpha (Lyα) transmission spikes at 5.2 < z < 6.8 using synthetic quasar spectra from the “Cosmic Reionization on Computers” simulations. We focus on understanding the relationship between these spikes and the properties of the intergalactic medium (IGM). Disentangling the complex interplay between IGM physics and the influence of galaxies on the generation of these spikes presents a significant challenge. To address this, we employ Explainable Boosting machines, an interpretable machine learning algorithm, to quantify the relative impact of various IGM properties on the Lyα flux. Our findings reveal that gas density is the primary factor influencing absorption strength, followed by the intensity of background radiation and the temperature of the IGM. Ionizing radiation from local sources (i.e., galaxies) appears to have a minimal effect on Lyα flux. The simulations show that transmission spikes predominantly occur in regions of low gas density. Our results challenge recent observational studies suggesting the origin of these spikes in regions with enhanced radiation. We demonstrate that Lyα transmission spikes are largely a product of the large-scale structure, of which galaxies are biased tracers.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Learning the Universe: GalactISM Simulations of Resolved Star Formation and Galactic Outflows across Main-sequence and Quenched Galactic Environments</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad793f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad793f</guid>
-<content:encoded><![CDATA[
-<div> 星系模拟，化学动力学，星系演化，星际物质，星形成<br />高分辨率化学动力学模拟了六个孤立星系，涵盖了星系盘上的星系主序线上的观测环境，以及沉寂、以球状组分为主导的星系环境。我们比较和对比了驱动星形成和恒星反馈的物理过程，旨在将这些过程建模到宇宙学模拟中。我们发现星系的流出质量载荷与超新星爆发的聚集相关联，这通过图默长度随着星系旋转速率Ω = vcirc/R的变化而变化，从而在以球状组分为主导的星系中形成了更平滑的气体盘。这在星系中设定了一个状态方程，该方程也随着Ω的变化而变化，使得以球状组分为主导的星系具有更高的中平面密度、更低的速度离散度和更高的分子气体分数。六个星系中有五个的星形成率与Ω无关，并且与中平面气体压力的调节一致。而第六个星系，由于其最为中心集中的球状组分，因此具有最高的Ω，我们成功地再现了星形成效率的动力学抑制，与观测结果一致。这导致了远离以压力调节的星形成的转变。<br /><br />总结: 本研究使用高分辨率化学动力学模拟了孤立星系，耦合了星系流出质量载荷和超新星爆发的聚集，发现了星系旋转速率对星系气体盘平滑程度和状态方程的影响。五个星系的星形成率与旋转速率Ω无关，与中平面气体压力调节一致，而第六个星系由于中心球状组分的影响产生了转变。 <div>
-We present a suite of six high-resolution chemodynamical simulations of isolated galaxies, spanning observed disk-dominated environments on the star-forming main sequence, as well as quenched, bulge-dominated environments. We compare and contrast the physics driving star formation and stellar feedback among the galaxies, with a view to modeling these processes in cosmological simulations. We find that the mass loading of galactic outflows is coupled to the clustering of supernova explosions, which varies strongly with the rate of galactic rotation Ω = vcirc/R via the Toomre length, leading to smoother gas disks in the bulge-dominated galaxies. This sets an equation of state in the star-forming gas that also varies strongly with Ω, so that the bulge-dominated galaxies have higher midplane densities, lower velocity dispersions, and higher molecular gas fractions than their main-sequence counterparts. The star formation rate in five out of six galaxies is independent of Ω and is consistent with regulation by the midplane gas pressure alone. In the sixth galaxy, which has the most centrally concentrated bulge and thus the highest Ω, we reproduce dynamical suppression of the star formation efficiency in agreement with observations. This produces a transition away from pressure-regulated star formation.
 ]]></content:encoded>
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
