@@ -4,6 +4,72 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Photometric Selection of Type 1 Quasars in the XMM-LSS Field with Machine Learning and the Disk–Corona Connection</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9baf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9baf</guid>
+<content:encoded><![CDATA[
+
+We present photometric selection of type 1 quasars in the ≈5.3 deg2 XMM-Large Scale Structure survey field with machine learning. We constructed our training and blind-test samples using spectroscopically identified Sloan Digital Sky Survey quasars, galaxies, and stars. We utilized the XGBoost machine learning method to select a total of 1591 quasars. We assessed the classification performance based on the blind-test sample, and the outcome was favorable, demonstrating high reliability (≈99.9%) and good completeness (≈87.5%). We used XGBoost to estimate photometric redshifts of our selected quasars. The estimated photometric redshifts span a range from 0.41 to 3.75. The outlier fraction of these photometric redshift estimates is ≈17%, and the normalized median absolute deviation (σNMAD) is ≈0.07. To study the quasar disk–corona connection, we constructed a subsample of 1016 quasars with Hyper Suprime-Cam i < 22.5 after excluding radio-loud and potentially X-ray-absorbed quasars. The relation between the optical-to-X-ray power-law slope parameter (αOX) and the 2500 Å monochromatic luminosity (L2500Å) for this subsample is with a dispersion of 0.159. We found this correlation in good agreement with the correlations in previous studies. We explored several factors, which may bias the αOX–L2500Å relation, and found that their effects are not significant. We discussed possible evolution of the αOX–L2500Å relation with respect to L2500Å or redshift.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Interplay of Large-scale Drift and Turbulence in the Heliospheric Propagation of Solar Energetic Particles</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c3b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c3b</guid>
+<content:encoded><![CDATA[
+
+The gradient and curvature of the Parker spiral interplanetary magnetic field give rise to curvature and gradient guiding-center drifts on cosmic rays (CRs). The plasma turbulence present in interplanetary space is thought to suppress the drifts; however, the extent to which they are reduced is not clear. We investigate the reduction of the drifts using a new analytic model of heliospheric turbulence where the dominant 2D component has both a wavevector and magnetic field vector normal to the Parker spiral, thus fulfilling the main criterion of 2D turbulence. We use full-orbit test-particle simulations of energetic protons in the modeled interplanetary turbulence, and analyze the mean drift velocity of the particles in heliolatitude. We release energetic proton populations of 10, 100, and 1000 MeV close to the Sun and introduce a new method to assess their drift. We compare the drift in the turbulent heliosphere to drift in a configuration without turbulence, and to theoretical estimates of drift reduction. We find that drifts are reduced by a factor 0.2–0.9 of that expected for the heliospheric configuration without turbulence. This corresponds to a much less efficient suppression than what is predicted by theoretical estimates, particularly at low proton energies. We conclude that guiding-center drifts are a significant factor for the evolution of CR intensities in the heliosphere, including the propagation of solar energetic particles in the inner heliosphere.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Collisionless Tearing Instability in Relativistic Nonthermal Pair Plasma and Its Application to MHD Turbulence</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d3a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d3a</guid>
+<content:encoded><![CDATA[
+
+Collisionless tearing instability with a power-law distribution function in a relativistic pair plasma with a guide field is studied. When the current sheet is supported by plasma pressure, the tearing mode is suppressed as the particle spectrum hardens. In the force-free limit, the instability growth rate becomes independent of the particle spectrum. We apply these results to relativistic MHD turbulence, where magnetic energy greatly exceeds plasma rest energy, and derive an expression for the transverse size of turbulent eddies unstable to tearing mode. We also establish the critical plasma magnetization parameter above which charge starvation prevents the tearing instability. These results might be useful for developing more accurate models of particle acceleration in relativistic astrophysical sources.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Age–Velocity Dispersion Relations of the Galactic Disk as Revealed by the LAMOST-Gaia Red Clump Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d41</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d41</guid>
+<content:encoded><![CDATA[
+
+Using nearly 230,000 red clump stars selected from LAMOST and Gaia, we conduct a comprehensive analysis of the stellar age–velocity dispersion relations (AVRs) for various disk populations, within 5.0 ≤ R ≤ 15.0 kpc and ∣Z∣ ≤ 3.0 kpc. The AVRs of the whole red clump sample stars are accurately described as σv = σv,0 (τ + 0.1) , with βR, βϕ, and βZ displaying a global exponential decreasing trend with R, which may point to the difference in spatial distributions of various disk heating mechanisms. The measurements of β–R for various disks suggest that the thin disk exhibits a radial dependence, with a global exponential decreasing trend in βR–R and βZ–R, while βϕ remains a nearly constant value (around 0.20 ∼ 0.25) within 8.5 ≤ R ≤ 11.5 kpc. The thick disk displays a global increasing trend in βR–R, βϕ–R, and βZ–R. These results indicate that the thin disk stars are likely heated by long-term heating from giant molecular clouds and spiral arms, while thick disk stars are likely heated by some violent heating process from merger and accretion, and/or formed by the inside-out and upside-down star formation scenarios, and/or born in the chaotic mergers of gas-rich systems and/or turbulent interstellar medium. Our results also suggest that the disk perturbation by a recent minor merger from Sagittarius may have occurred within 3.0 Gyr.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>On the Use of Galaxy Catalogs in Gravitational-wave Parameter Estimation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f36</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f36</guid>
+<content:encoded><![CDATA[
+
+A major challenge in gravitational-wave (GW) multimessenger astrophysics is the imprecise localization of GW compact binary mergers. We investigate the use of a method to include galaxy catalog information in performing parameter estimation of these events. We test its effectiveness with the GW events GW170817, GW190425, and GW190814, as well as with simulated binary neutron star mergers. For GW170817, we recover the true host galaxy as the most probable galaxy after a straightforward mass reweighting, with significantly decreased localization area and volume. On the simulated sample, however, we do not find improvement compared to performing a simple galaxy catalog crossmatch with a regular GW localization. Future investigations into sampling methods may yield improvements that increase the viability of this method.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>An Exceptionally Powerful, Radiatively Driven Ultrafast Outflow in the Rapidly Accreting AGN RE J1034+396</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f3e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f3e</guid>
+<content:encoded><![CDATA[
+
+We report the analysis of ∼1 Ms of XMM-Newton observations of the rapidly accreting active galactic nucleus RE J1034+396. The 0.3–9 keV EPIC-pn spectra are well described by a model consisting of steep continuum emission from the corona accompanied by relativistically blurred reflection from a highly ionized accretion disk. The source is known to exhibit strong excess soft X-ray emission, which we show is well represented by thermal disk photons Comptonized by a warm plasma spanning the inner accretion flow. Additionally, the EPIC-pn data provide compelling evidence (ΔC ∼ 60 for four additional parameters) for the presence of an ultrafast outflow (UFO) with a line-of-sight velocity , and an emission signature consistent with reflection of the corona from modestly ionized, outflowing gas. The simultaneous 0.5–2.5 keV RGS spectra show clear absorption lines. Modelling of these data confirms the presence of the UFO and constrains its equivalent hydrogen column density, log NH/(atom cm−2) = . The RGS data also reveal at least two warm absorber components with a modest outflow velocity ( km s−1). The measured properties and time evolution of the UFO in RE J1034+396 suggest that it is formed from collisionally ionized plasma, launched from the disk surface and accelerated by radiation pressure. The high terminal velocity and substantial absorbing column density imply that the outflow carries sufficient momentum and energy to transform its environment, being capable of driving out essentially all dust and gas it interacts with along the line of sight, even if the AGN were initially surrounded by a Compton-thick absorber.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Empirical Color Correction to MIST and PARSEC Isochrones on Gaia BR − RP and G − RP with Benchmark Open Clusters</title>
