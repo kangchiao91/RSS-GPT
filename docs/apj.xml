@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Molecular Distributions and Abundances in the Binary-shaped Outflow of V Hya</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e34</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e34</guid>
+<content:encoded><![CDATA[
+
+Binaries are known to play a key role in the mass loss and dynamical environments of evolved stars. Stellar and substellar companion interactions produce complex wind morphologies including rotating/expanding disks, bipolar outflows, and spiral wind patterns; however, the connection between these many structures and the gas-phase chemistry they harbor is not well constrained. To expand the sample of chemical inventories in interacting systems, we present a detailed spectroscopic case study of the binary C-rich asymptotic giant branch (AGB) star V Hya. Using spatially resolved Atacama Large Millimeter/submillimeter Array observations at Bands 3, 6, and 7, we characterize the rotational emission lines and distributions of molecules in its surrounding disk undergoing dynamical expansion (DUDE). We detect emission from over 15 molecules and isotopologues toward this source, and present resolved maps for the brightest tracers of carbonaceous chemistry (e.g., CCH, C4H, HC5N, HNC, and ). Employing LTE and non-LTE models of emission from the DUDE, we estimate the abundance distributions for optically thin species, and compare them with prototypical carbon-rich AGB envelopes. We find that the average abundances of detected species are within a factor of ∼5 from sources with similar mass-loss rates; however, the distribution of daughter species in V Hya is much more compact, with carbon chain species (CCH, C4H, and HC3N) appearing with abundances >10−7 even in the innermost sampled regions (200 au) of the disk.
+]]></content:encoded>
+
+<pubDate>2025-01-21T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Boulder Migration in the Khonsu Region of Comet 67P/Churyumov–Gerasimenko</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9825</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9825</guid>
+<content:encoded><![CDATA[
+
+The European Space Agency's Rosetta mission is the only space mission that has performed long-term monitoring of a comet at close distances. For over two years, Rosetta rendezvoused with comet 67P/Churyumov–Gerasimenko, which revealed diverse evolutionary processes of the cometary nucleus. One of the most striking events is the migration of a ∼30 m boulder in the southern hemisphere region of Khonsu. Previous works found the boulder's ∼140 m displacement occurred during the three months from 2015 August to October, and several triggering mechanisms were proposed, including outburst at the boulder site, seismic vibrations from nearby activities, or surface erosion of the slope beneath the boulder. In this work, we further analyze this impressive event by analyzing imaging data from Rosetta's OSIRIS camera. We constrained the boulder's migration time to within 14 hr and derived a detailed timeline of the boulder migration event and local dust activities. High-resolution thermophysical modeling shows significant dichotomy in the thermal history of the boulder's southern and northern sides, which could have triggered or facilitated its migration via its own volatile activity.
+]]></content:encoded>
+
+<pubDate>2025-01-20T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Prevalence of Star-forming Clumps as a Function of Environmental Overdensity in Local Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7119</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7119</guid>
 <content:encoded><![CDATA[
-
 At the peak of cosmic star formation (1 ≲ z ≲ 2), the majority of star-forming galaxies hosted compact, star-forming clumps, which were responsible for a large fraction of cosmic star formation. By comparison, ≲5% of local star-forming galaxies host comparable clumps. In this work, we investigate the link between the environmental conditions surrounding local (z < 0.04) galaxies and the prevalence of clumps in these galaxies. To obtain our clump sample, we use a Faster R-CNN object detection network trained on the catalog of clump labels provided by the Galaxy Zoo: Clump Scout project, then apply this network to detect clumps in approximately 240,000 Sloan Digital Sky Survey galaxies (originally selected for Galaxy Zoo 2). The resulting sample of 41,445 u-band bright clumps in 34,246 galaxies is the largest sample of clumps yet assembled. We then select a volume-limited sample of 9964 galaxies and estimate the density of their local environment using the distance to their projected fifth nearest neighbor. We find a robust correlation between environment and the clumpy fraction (fclumpy) for star-forming galaxies (specific star formation rate, sSFR > 10−2 Gyr−1) but find little to no relationship when controlling for galaxies’ sSFR or color. Further, fclumpy increases significantly with sSFR in local galaxies, particularly above sSFR > 10−1 Gyr−1. We posit that a galaxy’s gas fraction primarily controls the formation and lifetime of its clumps, and that environmental interactions play a smaller role.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ At the peak of cosmic star formation (1 ≲ z ≲ 2), the majority of star-formi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3f</guid>
 <content:encoded><![CDATA[
-
 Analysis of pre-explosion imaging has confirmed red supergiants (RSGs) as the progenitors to Type II-P supernovae (SNe). However, extracting an RSG's luminosity requires assumptions regarding the star’s temperature or spectral type and the corresponding bolometric correction, circumstellar extinction, and possible variability. The robustness of these assumptions is difficult to test since we cannot go back in time and obtain additional pre-explosion imaging. Here, we perform a simple test using the RSGs in M31, which have been well observed from optical to mid-IR. We ask the following: By treating each star as if we only had single-band photometry and making assumptions typically used in SN progenitor studies, what bolometric luminosity would we infer for each star? How close is this to the bolometric luminosity for that same star inferred from the full optical-to-IR spectral energy distribution (SED)? We find common assumptions adopted in progenitor studies systematically underestimate the bolometric luminosity by a factor of 2, typically leading to inferred progenitor masses that are systematically too low. Additionally, we find a much larger spread in luminosity derived from single-filter photometry compared to SED-derived luminosities, indicating uncertainties in progenitor luminosities are also underestimated. When these corrections and larger uncertainties are included in the analysis, even the most luminous known RSGs are not ruled out at the 3σ level, indicating there is currently no statistically significant evidence that the most luminous RSGs are missing from the observed sample of II-P progenitors. The proposed correction also alleviates the problem of having progenitors with masses below the expected lower-mass bound for core collapse.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@ Analysis of pre-explosion imaging has confirmed red supergiants (RSGs) as the pr
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad968a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad968a</guid>
 <content:encoded><![CDATA[
-
 The Compton Spectrometer and Imager balloon payload (COSI-Balloon) is a wide field-of-view Compton gamma-ray telescope that operates in the 0.2–5 MeV bandpass. COSI-Balloon had a successful 46 day flight in 2016 during which the instrument observed the Crab Nebula, Cygnus X-1, and Centaurus A. Using the data collected by the COSI-Balloon instrument during this flight, we present the source flux extraction of signals from the variable balloon background environment and produce images of these background-dominated sources by performing Richardson–Lucy deconvolutions. We also present the spectra measured by the COSI-Balloon instrument, compare and combine them with measurements from other instruments, and fit the data. The Crab Nebula was observed by COSI-Balloon, and we obtain a measured flux in the energy band 325–480 keV of (4.5 ± 1.6) × 103 ph cm−2 s−1. The model that best fits the COSI-Balloon data combined with measurements from NuSTAR and Swift-BAT is a broken power law with a measured photon index Γ = 2.20 ± 0.02 above the 43 keV break. Cygnus X-1 was also observed during this flight, and we obtain a measured flux of (1.4 ± 0.2) × 103 ph cm−2 s−1 in the same energy band and a best-fit result (including data from NuSTAR, Swift-BAT, and INTEGRAL/IBIS) was a cutoff power law with a high-energy cutoff energy of 138.3 ± 1.0 keV and a photon index of Γ = 1.358 ± 0.002. Finally, we present the measured spectrum of Centaurus A and our best model fit to a power law with a photon index of Γ = 1.73 ± 0.01.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@ The Compton Spectrometer and Imager balloon payload (COSI-Balloon) is a wide fie
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad973d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad973d</guid>
 <content:encoded><![CDATA[
-
 In an effort to search for faint sources of emission over arbitrary timescales, we present a novel method for analyzing forced photometry light curves in difference imaging from optical surveys. Our method “ATLAS Clean,” or ATClean, utilizes the reported fluxes, uncertainties, and fits to the point-spread function (PSF) from difference images to quantify the statistical significance of individual measurements. We apply this method to control light curves across the image to determine whether any source of flux is present in the data for a range of specific timescales. From ATLAS o-band imaging at the site of the Type II supernova (SN) 2023ixf in M101 from 2015–2023, we show that this method accurately reproduces the 3σ flux limits produced from other, more computationally expensive methods. We derive limits for emission on timescales of 5 days and 80–300 days at the site of SN 2023ixf, which are 19.8 and 21.3 mag, respectively. The latter limits rule out variability for unextinguished red supergiants with initial masses >22 M⊙, comparable to the most luminous predictions for the SN 2023ixf progenitor system. We also compare our limits to short-timescale outbursts, similar to those expected for Type IIn SN progenitor stars or the Type II SN 2020tlf, and rule out outburst ejecta masses of >0.021 M⊙, much lower than the inferred mass of circumstellar matter around SN 2023ixf in the literature. In the future, these methods can be applied to any forced photometry on difference imaging from other surveys, such as Rubin optical imaging.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +68,8 @@ In an effort to search for faint sources of emission over arbitrary timescales, 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a56</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a56</guid>
 <content:encoded><![CDATA[
-
 The failure of a filament eruption caused by magnetic reconnection between the erupting filament and the overlying magnetic field has been previously proposed in numerical simulations. It is, however, rarely observed. In this study, we report a reconnection between an erupting filament and its overlying coronal loops that results in the failure of the filament eruption. On 2023 September 24, a filament was located in active region 13445. It slowly rose, quickly erupted, rapidly decelerated, then finally stopped, with an untwisting motion. As a failed eruption, the event is associated with an M4.4 flare but no coronal mass ejection. During the eruption, the filament became bright, and the overlying loops appeared first in the high-temperature channels. They have average temperatures of ∼12.8 and ∼9.6 MK, respectively, indicating that both of them were heated. Two sets of new loops, separately connecting the filament endpoints and the overlying loop footpoints, then formed. Subsequently, the heated overlying loops were seen sequentially in the low-temperature channels, showing the cooling process, which is also supported by the light curves. Plasmoids formed and propagated bidirectionally along the filament and the overlying loops, indicating the presence of plasmoid instability. These results suggest that reconnection occurs between the erupting filament and the overlying loops. The erupting filament eventually disappeared, with the appearance of more newly formed loops. We propose that the reconnection between the erupting filament and the overlying loops ruins the filament completely, hence resulting in the failed eruption.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +77,8 @@ The failure of a filament eruption caused by magnetic reconnection between the e
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a65</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a65</guid>
 <content:encoded><![CDATA[
-
 We present detailed evolutionary simulations of wide binary systems with high-mass (8–20 M⊙) donor stars and a 1.4 M⊙ neutron star. Mass transfer in such binaries is dynamically unstable, and common envelope (CE) evolution is followed. We use a recently developed prescription to deal with CE evolution and consider various CE ejection efficiencies varying in the range of 0.1–3.0. We focus on the evolutionary consequences of the binaries that survived CE evolution. We demonstrate that it is possible for the binaries to enter a CE decoupling phase (CEDP) when the donor stars are partially stripped, leaving a hydrogen envelope of ≲1.0–4.0 M⊙ after CE evolution. This phase is expected to last ∼104–105 yr, during which mass transfer occurs stably via Roche lobe overflow with super-Eddington rates. Identification of some X-ray binaries in a CEDP is important for the understanding of the physics of CE evolution itself, the origin of ultraluminous X-ray sources, and the recycling process of accreting pulsars. Also, we discuss the formation of double neutron stars and the occurrence of ultrastripped supernovae according to the results from our simulations. On the whole, the properties of post-CE binaries are sensitive to the options of CE ejection efficiencies.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +86,8 @@ We present detailed evolutionary simulations of wide binary systems with high-ma
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada28c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada28c</guid>
 <content:encoded><![CDATA[
-
 Fast radio bursts (FRBs) are high-energy, short-duration phenomena in radio astronomy. Identifying their host galaxies can provide insights into their mysterious origins. In this paper, we introduce a novel approach to identifying potential host galaxies in three-dimensional space. We use FRB 20190425A and GW190425 as examples to illustrate our method. Recently, due to spatial and temporal proximity, the potential association of GW190425 with FRB 20190425A has drawn attention, leading to the identification of a likely host galaxy, UGC 10667, albeit without confirmed kilonova emissions. We search for the host galaxy of FRB 20190425A with a full CHIME localization map. Regardless of the validity of the association between GW190425 and FRB 20190425A, we identify an additional potential host galaxy (SDSS J171046.84+212732.9) from the updated GLADE galaxy catalog, supplementing the importance of exploring the new volume. We employed various methodologies to determine the most probable host galaxy of GW190424 and FRB 20190425A, including a comparison of galaxy properties and constraints on their reported observation limits using various kilonova models. Our analysis suggests that current observations do not definitively identify the true host galaxy. Additionally, the kilonova models characterized by a gradual approach to their peak are contradicted by the observational upper limits of both galaxies. Although the absence of optical emission detection raises doubts, it does not definitively disprove the connection between the gravitational wave (GW) and FRB.
 ]]></content:encoded>
-
 <pubDate>2025-01-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,13 +95,10 @@ Fast radio bursts (FRBs) are high-energy, short-duration phenomena in radio astr
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9eb2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9eb2</guid>
 <content:encoded><![CDATA[
-
 Stars in close binaries are tidally distorted, and this has a strong effect on their pulsation modes. We compute the mode frequencies and geometries of tidally distorted stars using perturbation theory, accounting for the effects of the Coriolis force and the coupling between different azimuthal orders m of a multiplet induced by the tidal distortion. For tidally coupled dipole pressure modes, the tidal coupling dominates over the Coriolis force and the resulting pulsations are “triaxial,” with each of the three modes in a multiplet “tidally tilted,” to be aligned with one of the three principal axes of the star. The observed amplitudes and phases of the dipole modes aligned orthogonal to the spin axis are modulated throughout the orbit, producing doublets in the power spectrum that are spaced by exactly twice the orbital frequency. Quadrupole modes have similar but slightly more complex behavior. This amplitude modulation allows for mode identification, which can potentially enable detailed asteroseismic analyses of tidally tilted pulsators. Pressure modes should exhibit this behavior in stellar binaries close enough to be tidally synchronized, while gravity modes should remain aligned with the star's spin axis. We discuss applications to various types of pulsating stars and the relationship between the tidal tilting of pulsations and the “single-sided” pulsations sometimes observed in very tidally distorted stars.
 ]]></content:encoded>
-
 <pubDate>2025-01-20T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Origins of Lithium Enhancement in Polluted White Dwarfs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6d</link>
@@ -10272,99 +10278,6 @@ Starburst wind models predict that metals and energy are primarily carried out o
 总结:
 本研究利用多维双爆炸模拟构建了真实的C/O白矮星，作为双爆炸模拟的起点。经过简化的一维爆炸计算，得出了壳层爆炸可以成功传播的条件。研究发现，大多数C/O白矮星可以支持双爆炸，而更大质量的C/O白矮星需要一定量的吸积才能成功传播爆炸。此外，研究强烈暗示，如果直接冲击吸积流在质量转移过程中达到足够高的温度和密度，吸积的白矮星将经历双爆炸。此外，如果伴星也是C/O白矮星，它在第一次爆炸的喷发影响下将经历自己的双爆炸。一些例外情况可能解释了新发现的高速超新星幸存者。 <div>
 Double detonations of sub-Chandrasekhar-mass white dwarfs (WDs) in unstably mass-transferring double WD binaries have become one of the leading contenders to explain most Type Ia supernovae. However, past theoretical studies of the explosion process have assumed relatively ad hoc initial conditions for the helium shells in which the double detonations begin. In this work, we construct realistic C/O WDs to use as the starting points for multidimensional double detonation simulations. We supplement these with simplified one-dimensional detonation calculations to gain a physical understanding of the conditions under which shell detonations can propagate successfully. We find that C/O WDs ≲1.0 M⊙, which make up the majority of C/O WDs, are born with structures that can support double detonations. More massive C/O WDs require ∼10−3M⊙ of accretion before detonations can successfully propagate in their shells, but such accretion may be common in the double WD binaries that host massive WDs. Our findings strongly suggest that if the direct impact accretion stream reaches high enough temperatures and densities during mass transfer from one WD to another, the accreting WD will undergo a double detonation. Furthermore, if the companion is also a C/O WD ≲1.0 M⊙, it will undergo its own double detonation when impacted by the ejecta from the first explosion. Exceptions to this outcome may explain the newly discovered class of hypervelocity supernova survivors.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Dynamical Consequence of Shadows Cast to the Outer Protoplanetary Disks. I. Two-dimensional Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7581</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7581</guid>
-<content:encoded><![CDATA[
-<div> 阴影，原行星盘，热力迫使，动力学影响，模拟研究
-总结:<br /><br />这篇文章研究了外部原行星盘中出现的阴影现象对盘内动力学的影响。他们通过进行二维模拟发现，阴影的线性响应是双臂螺旋，而在非线性阶段，阴影可能导致形成各种类型的亚结构，包括环状、螺旋状和新月形。研究还表明，随着阴影造成的热力迫使加强，盘内的主要亚结构形式会从螺旋转变为环状，最终变成新月形或漩涡。这些结果强调了正确建模不均匀恒星辐射的重要性，同时呼吁进行更加详细的模拟以包含更真实的盘物理学。 <div>
-There has been increasing evidence of shadows from scattered light observations of outer protoplanetary disks (PPDs) cast from the (unresolved) disk inner region, while in the meantime these disks present substructures of various kinds in the submillimeter. As stellar irradiation is the primary heating source for the outer PPDs, the presence of such shadows thus suggests inhomogeneous heating of the outer disk in azimuth, leading to a “thermal forcing” with dynamical consequences. We conduct a suite of idealized two-dimensional disk simulations of the outer disk with azimuthally varying cooling prescription to mimic the effect of shadows, generally assuming the shadow is static or slowly rotating. The linear response to such shadows is two-armed spirals with the same pattern speed as the shadow. Toward the nonlinear regime, we find that shadows can potentially lead to the formation of a variety of types of substructures including rings, spirals, and crescents, depending on viscosity, cooling time, etc. We have conducted systematic and statistical characterization of the simulation suite, and as thermal forcing from the shadow strengthens, the dominant form of shadow-induced disk substructures change from spirals to rings, and eventually to crescents/vortices. Our results highlight the importance of properly modeling the dynamical impact of inhomogeneous stellar irradiation, while calling for more detailed modeling incorporating more realistic disk physics.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Multifrequency View of the Radio Phoenix in the A85 Cluster</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7585</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7585</guid>
-<content:encoded><![CDATA[
-<div> A85 cluster, radio phoenix, spectral index maps, shock motion, adiabatic compression <br />
-<br />
-通过对A85星团中的射电凤凰进行了多频率研究，发现了先前未被发现的更精细的丝状结构。我们制作了323、700和1280兆赫的射电凤凰的分辨率谱指数图。丝状结构的方向以及谱指数图上的梯度表明了从东北到西南的可能冲击运动方向。射电凤凰的综合光谱发现在高频呈现出非常陡峭且呈曲线状。此外，发现丝状结构的谱指数比非丝状区域要缓和，意味着丝状结构中能量注入更大。A85星团中射电凤凰的观察结果似乎支持了绝热冲击压缩机制。 <br /><br />总结: <br />通过多频率研究发现A85星团中射电凤凰具有丝状结构，观察到从东北到西南的冲击运动方向，综合光谱显示出陡峭且呈曲线状，丝状结构的能量注入更大，结果支持了绝热冲击压缩机制。 <div>
-Radio phoenices are complex and filamentary diffuse radio sources found in both merging and relaxed clusters. The formation of these sources has been proposed to be due to adiabatic compression of old active galactic nucleus plasma in shock waves. Most of the previous spectral studies of these sources have been limited to integrated spectral indices, which were found to be very steep and show a curved spectrum. Here, we have performed a multifrequency investigation of the radio phoenix in the A85 cluster. Owing to the sensitive high-resolution observations, we found some of the finer filamentary structures that had been previously undetected. We produced resolved spectral index maps of the radio phoenix between 323, 700, and 1280 MHz. The orientation of the filaments, as well as the gradient across the spectral index maps, suggest the possible direction of the shock motion from northeast to southwest. The integrated spectrum of the radio phoenix was found to be very steep and curved toward high frequencies. Furthermore, the spectral index of the filaments was found to be less steep compared to the nonfilamentary regions, implying greater energy injection in the filaments. The observed features in the radio phoenix in the A85 cluster seem to be in support of an adiabatic shock compression mechanism.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Contour Analysis Tool: An Interactive Tool for Background and Morphology Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad779f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad779f</guid>
-<content:encoded><![CDATA[
-<div> contour analysis tool, Python toolkit, density maps, image processing, GitHub<br />
-<br />contour analysis tool 是一个用Python编写的工具包，旨在识别和分析密度图中的结构元素。它使用各种轮廓技术，包括最低闭合轮廓、线性和对数Otsu阈值以及平均梯度阈值。这些轮廓可以用于前景和背景分割，并为两者提供自然的边界，同时还可进行边缘检测和结构识别。此外，CAT还提供图像处理方法，如平滑处理、背景去除和图像遮罩。该工具包具有交互式控件套件，适用于Jupyter环境，使用户能够快速可视化不同方法和参数的效果。我们描述、测试并展示了CAT的性能，突出了它的潜在用例。CAT已在GitHub上公开提供，促进了可访问性和协作。<br /><br />总结: 使用Python编写的Contour Analysis Tool (CAT) 旨在识别和分析密度图中的结构元素，具有丰富的轮廓技术和图像处理方法，并提供交互式控件套件适用于Jupyter环境。CAT在GitHub上公开可用，促进了可访问性和协作。 <div>
-We introduce the Contour Analysis Tool (CAT), a Python toolkit aimed at identifying and analyzing structural elements in density maps. CAT employs various contouring techniques, including the lowest-closed contour, linear and logarithmic Otsu thresholding, and average gradient thresholding. These contours can aid in foreground and background segmentation, providing natural limits for both, as well as edge detection and structure identification. Additionally, CAT provides image processing methods such as smoothing, background removal, and image masking. The toolkit features an interactive suite of controls designed for Jupyter environments, enabling users to promptly visualize the effects of different methods and parameters. We describe, test, and demonstrate the performance of CAT, highlighting its potential use cases. CAT is publicly available on GitHub, promoting accessibility and collaboration.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Abundant Molecular Gas in the Central Region of Lenticular Galaxy PGC 39535</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77a1</guid>
-<content:encoded><![CDATA[
-<div> PGC 39535, star formation, molecular gas, kinematics, star-forming main sequence<br />
-总结:<br />这篇论文研究了一个巨大的S0星系PGC 39535，发现其星形成主要集中在中心区域，估计总星形成速率为1.57 M⊙ yr−1。通过NOEMA观测发现，分子气体主要集中在中心区域，呈现出类似的运动学特性。总分子气体质量为(5.42 ± 1.52) × 10^9M⊙。PGC 39535处于星形成主序上，但低于螺旋星系的Kennicutt–Schmidt关系，表明星形成效率可能受到巨大的星团的抑制。此外，分析结果表明PGC 39535位于一个巨大星系团的中心，其星形成历史表明它可能在过去的2-7亿年里经历了一系列富含气体的合并。 <div>
-Lenticular galaxies (S0s) in the local Universe are generally absent of recent star formation and lack molecular gas. In this paper, we investigate one massive (M* ∼ 5 × 1010M⊙) star-forming S0, PGC 39535, with the Northern Extended Millimeter Array (NOEMA). Using optical data from the Sloan Digital Sky Survey IV Mapping Nearby Galaxies at the Apache Point Observatory survey, we find star formation mainly concentrates in the central region of PGC 39535. The total star formation rate estimated using extinction-corrected Hα flux is 1.57 M⊙ yr−1. The results of the NOEMA observation suggest that the molecular gas mainly concentrates in the central regions as a gaseous bar and a ring-like structure, and shows similar kinematics as the stellar and ionized gas components. The total molecular gas mass estimated from CO(1–0) is (5.42 ± 1.52) × 109M⊙. We find PGC 39535 lies on the star-forming main sequence but falls below the Kennicutt–Schmidt relation of spiral galaxies, suggesting that the star formation efficiency may be suppressed by the massive bulge. The existence of a second Gaussian component in the CO spectrum of the central region indicates possible gas flows. Furthermore, our analyses suggest that PGC 39535 resides in the center of a massive group and the derived star formation history indicates it may experience a series of gas-rich mergers over the past 2–7 Gyr.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Interpreting Mass and Radius Measurements of Neutron Stars with Dark Matter Halos</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c1</guid>
-<content:encoded><![CDATA[
-<div> Neutron stars, dark matter, X-ray observations, DM mass distribution, electromagnetic radiation<br />
-<br />
-这篇文章研究了中子星与暗物质存在的可能性。作者使用相对论中的双流体形式，通过数值模拟稳定的暗物质掺杂中子星的配置。他们探讨了不同暗物质模型对暗物质质量分布的影响，以及暗物质对X射线流量的影响。研究结果表明，暗物质的存在可能会影响中子星质量和半径的测量，以及对强子物质方程状态的约束。总结：<br /><br /> <div>
-The high densities of neutron stars (NSs) could provide astrophysical locations for dark matter (DM) to accumulate. Depending on the DM model, these DM admixed NSs (DANSs) could have significantly different properties than pure baryonic NSs, accessible through X-ray observations of rotation-powered pulsars. We adopt the two-fluid formalism in general relativity to numerically simulate stable configurations of DANSs, assuming a fermionic equation of state (EOS) for the DM with repulsive self-interaction. The distribution of DM in the DANS as a halo affects the path of X-rays emitted from hot spots on the visible baryonic surface, causing notable changes in the pulse profile observed by telescopes such as NICER, compared to pure baryonic NSs. We explore how various DM models affect the DM mass distribution, leading to different types of dark halos. We quantify the deviation in observed X-ray flux from stars with each of these halos. We identify the pitfalls in interpreting mass and radius measurements of NSs inferred from electromagnetic radiation and constraining the baryonic matter EOS if these dark halos exist.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>New Insights into Type-I Solar Noise Storms from High Angular Resolution Spectroscopic Imaging with the Upgraded Giant Metrewave Radio Telescope</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c2</guid>
-<content:encoded><![CDATA[
-<div> 太阳，射电辐射，空间结构，观测，辐射爆发
-<br /><br />总结: 本研究利用升级的Giant Metrewave射电望远镜的高角分辨率观测，发现可以探测到角尺度小至约9″的结构，比以往关于太阳射电辐射爆发观测报告的最小结构约小了三倍。观测结果表明，虽然单个I型爆发具有窄带特性，但这些爆发可能是由于在不同日冕高度诱发磁重联的行进扰动导致的，因此导致在广泛频率范围内观察到的I型爆发的形态发生相关变化。这一发现对于与极紫外线/ X射线波段的观测进行时空关联，以了解这些辐射的详细性质非常重要。 <div>
-Type-I solar noise storms are perhaps the most commonly observed active radio emissions from the Sun at meter-wavelengths. Noise storms have a long-lived and wideband continuum background with superposed islands of much brighter narrowband and short-lived emissions, known as type-I bursts. There is a serious paucity of studies focusing on the morphology of these two types of emissions, primarily because of the belief that coronal scattering will always wash out any features at small angular scales. However, it is important to investigate their spatial structures in detail to make a spatio-temporal connection with observations at extreme-ultraviolet/X-ray bands to understand the detailed nature of these emissions. In this work, we use high angular resolution observations from the upgraded Giant Metrewave Radio Telescope to demonstrate that it is possible to detect structures with angular scales as small as ∼9″, about three times smaller than the smallest structure reported to date from noise storms. Our observations also suggest that while the individual type-I bursts are narrowband in nature, the bursts are probably caused by traveling disturbance(s) inducing magnetic reconnections at different coronal heights, and thus leading to correlated change in the morphology of the type-I bursts observed at a wide range of frequencies.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>TIC 435850195: The Second Triaxial Tidally Tilted Pulsator</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c3</guid>
-<content:encoded><![CDATA[
-<div> TESS, pulsating stars, triaxial pulsators, tidal bulge, Y10x modes
-
-该研究报道了第二颗发现的三轴脉动星，通过研究TESS光曲线和光谱能量分布，确定了该星为演化略有偏离零龄主序星的主星和仍位于零龄主序的次星。共发现了16个脉动多重频率，其中14个为由2νorb分隔的偶极子双峰。将8个双峰与Y10x模式相关联，将6个双峰与新的Y10y模式相关联。排除了该星存在Y11x模式的可能性，表明观测到的脉动模式必须是Y10y。此外，还提出了一个关于该星三轴脉动的玩具模型。该技术可以用于快速分析和确认未来的三轴脉动星候选者。<br /><br />总结: TESS卫星发现了第二颗三轴脉动星，通过光谱能量分布和光曲线确认了主星和次星的状态，发现了新的脉动模式，并提出了一个玩具模型来解释这种脉动现象。 <div>
-The Transiting Exoplanet Survey Satellite (TESS) has enabled the discovery of numerous tidally tilted pulsators (TTPs), which are pulsating stars in close binaries where the presence of a tidal bulge has the effect of tilting the primary star’s pulsation axes into the orbital plane. Recently, the modeling framework developed to analyze TTPs has been applied to the emerging class of triaxial pulsators, which exhibit nonradial pulsations about three perpendicular axes. In this work, we report on the identification of the second-ever discovered triaxial pulsator, with 16 robustly detected pulsation multiplets, of which 14 are dipole doublets separated by 2νorb. We jointly fit the spectral energy distribution and TESS light curve of the star, and find that the primary is slightly evolved off the zero-age main sequence, while the less massive secondary still lies on the zero-age main sequence. Of the 14 doublets, we associate eight with Y10x modes and six with novel Y10y modes. We exclude the existence of Y11x modes in this star and show that the observed pulsation modes must be Y10y. We also present a toy model for the triaxial pulsation framework in the context of this star. The techniques presented here can be utilized to rapidly analyze and confirm future triaxial pulsator candidates.
-]]></content:encoded>
-<pubDate>2024-10-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Orbital Support and Evolution of CX/OX Structures in Boxy/Peanut Bars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77c8</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Barred galaxies, BP/X 形状, 轨道类型, 长角动量, 杆的演化<br />
-<br />
-这项研究通过分类方法确定了产生 OX 和 CX 结构的特定轨道族群，发现两种 BP/X 形态都与 x1 轨道族有关，但是 OX 结构对应的轨道具有更高的角动量。研究还表明，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，则BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。对于减速但不发生屈曲的杆来说，最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明，BP/X 形态和轨道族群的演化在很大程度上取决于杆角动量的演化。
-<br /><br />总结: 这项研究通过分类方法确定了两种 BP/X 形态的具体轨道族群，指出 OX 结构对应的轨道具有更高的角动量。研究发现，随着杆减速，高角动量的 OX 支持轨道的贡献减少，形态演化为 CX。如果杆不减速，BP/X 结构形态和 OX/CX 支持轨道的比例基本保持不变。减速但不发生屈曲的杆最初显示 OX 结构并被高角动量的轨道所主导，随后过渡为 CX 形态。而发生屈曲的杆在屈曲后立即显示出 OX- 和 CX-支持轨道的组合，随着其图样速度的降低更多地变为 CX 主导。这项研究表明 BP/X 形态和轨道族群的演化取决于杆角动量的演化。 <div>
-Barred galaxies exhibit boxy/peanut or X-shapes (BP/X) protruding from their disks in edge-on views. Two types of BP/X morphologies exist depending on whether the X-wings meet at the center (CX) or are off-centered (OX). Orbital studies indicate that various orbital types can generate X-shaped structures. Here we provide a classification approach that identifies the specific orbit families responsible for generating OX- and CX-shaped structures. Applying this approach to three different N-body bar models, we show that both OX and CX structures are associated with the x1 orbit family, but OX-supporting orbits possess higher angular momentum (closer to x1 orbits) than orbits in CX structures. Consequently, as the bar slows down, the contribution of higher angular momentum OX-supporting orbits decreases and that of lower angular momentum orbits increases, resulting in an evolution of the morphology from OX to CX. If the bar does not slow down, the shape of the BP/X structure and the fractions of OX/CX-supporting orbits remain substantially unchanged. Bars that do not undergo buckling but that do slow down initially show the OX structure and are dominated by high angular momentum orbits, transitioning to a CX morphology. Bars that buckle exhibit a combination of both OX- and CX-supporting orbits immediately after the buckling but become more CX dominated as their pattern speed decreases. This study demonstrates that the evolution of BP/X morphology and orbit populations strongly depends on the evolution of the bar angular momentum.
 ]]></content:encoded>
 <pubDate>2024-10-29T00:00:00Z</pubDate>
 </item>
