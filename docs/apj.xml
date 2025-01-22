@@ -5,14 +5,57 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Giant Hall Waves Launched by Superconducting Phase Transition in Pulsars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a3</guid>
+<content:encoded><![CDATA[
+
+The cores of pulsars are expected to become superconducting soon after birth. The transition to type-II superconductivity is associated with the bunching of magnetic field lines into discrete superconducting flux tubes which possess enormous tension. The coupling of the crust to the flux tubes implies the existence of huge tangential magnetic fields at the crust–core interface. We show that the transition to superconductivity triggers a highly nonlinear response in the Hall drift of the crustal magnetic field, an effect which was neglected in previous numerical modeling. We argue that at the time of the phase transition giant Hall waves are launched from the crust–core interface toward the surface. Our models show that if the crust contains a multipolar magnetic field ∼1013 G, the amplitude of the Hall waves is ∼1015 G. The elastic deformation of the lattice is included in our models, which allows us to track the time-dependent shear stresses everywhere in the crust. The simulations indicate that the Hall waves may be strong enough to break the crust, and could cause star quakes which trigger rotation glitches and changes in the radio pulse profile. The Hall waves also couple to slow magnetospheric changes, which cause anomalous braking indices. The emission of the giant Hall waves from the crust–core interface facilitates fast flux expulsion from the superconducting core, provided that the flux tubes in the core are themselves sufficiently mobile. For all of the flux tube mobility prescriptions implemented in this work, the core approaches the Meissner state with B = 0 at late times.
+]]></content:encoded>
+
+<pubDate>2025-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Unveiling Low-frequency Eclipses in Spider Millisecond Pulsars Using Wideband GMRT Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93ba</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93ba</guid>
+<content:encoded><![CDATA[
+
+Eclipses of radio emission have been reported for ∼58 spider millisecond pulsars (MSPs), of which only around 19% have been extensively studied. Such studies at low frequencies are crucial for probing the properties of the eclipse medium. This study investigates eclipses in 10 MSPs in compact orbit using wide-bandwidth observations with the Giant Metrewave Radio Telescope. We report the first evidence of eclipsing for PSR J2234+0944 and J2214+3000 in one epoch, while no evidence of eclipsing was observed in the subsequent two epochs, indicating temporal evolution of the eclipse cutoff frequency in these systems. Constraints on the eclipse cutoff frequency were obtained for PSR J1555–2908, J1810+1744, and J2051–0827. Moreover, for the first time, we detected an eclipse at a nonstandard orbital phase (∼0.5) for PSR J1810+1744, with a duration longer than the eclipse observed at superior conjunction. No eclipses were detected for PSR J0751+1807, J1738+0333, and J1807–2459A at 300–500 MHz and 550–750 MHz. We calculated the mass-loss rate of the companion for PSR J1555–2908 and PSR J1810+1744 and found that these rates are insufficient to ablate the companion stars. We cataloged the , mass function, Roche lobe filling factor, and inclination angle for compact MSP binaries with low-mass companions and found that higher spin-down flux does not guarantee eclipses. Our analysis, supported by the Kolmogorov–Smirnov statistic, confirms that eclipsing black widow binaries generally exhibit a higher mass function compared to noneclipsing black widow binaries, consistent with previous studies.
+]]></content:encoded>
+
+<pubDate>2025-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Peculiar Dust Emission within the Orion Molecular Cloud</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93c7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93c7</guid>
+<content:encoded><![CDATA[
+
+It is widely assumed that dust opacities in molecular clouds follow a power-law profile with an index, β. Recent studies of the Orion Molecular Cloud (OMC) 2/3 complex, however, show a flattening in the spectral energy distribution (SED) at λ > 2 mm, implying nonconstant indices on scales ≳0.08 pc. The origin of this flattening is not yet known, but it may be due to the intrinsic properties of the dust grains or contamination from other sources of emission. We investigate the SED slopes in OMC 2/3 further using observations of six protostellar cores with Northern Extended Millimeter Array (NOEMA) from 2.9–3.6 mm and Atacama Large Millimeter/submillimeter Array (ALMA) Atacama Compact Array in Band 4 (1.9–2.1 mm) and Band 5 (1.6–1.8 mm) on core and envelope scales of ∼0.02–0.08 pc. We confirm flattened opacity indices between 2.9 mm and 3.6 mm for the six cores with β ≈ −0.16 to 1.45, which are notably lower than the β-values of >1.3 measured for these sources on 0.08 pc scales from single-dish data. Four sources have consistent SED slopes between the ALMA data and the NOEMA data. We propose that these sources may have a significant fraction of emission coming from large dust grains in embedded disks, which biases the emission more at longer wavelengths. Two sources, however, had inconsistent slopes between the ALMA and NOEMA data, indicating different origins of emission. These results highlight how care is needed when combining multiscale observations or extrapolating single-band observations to other wavelengths.
+]]></content:encoded>
+
+<pubDate>2025-01-22T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Detecting Stellar Flares in Photometric Data Using Hidden Markov Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad95f6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad95f6</guid>
+<content:encoded><![CDATA[
+
+We present a hidden Markov model (HMM) for discovering stellar flares in light-curve data of stars. HMMs provide a framework to model time series data that are nonstationary; they allow for systems to be in different states at different times and consider the probabilities that describe the switching dynamics between states. In the context of the discovery of stellar flares, we exploit the HMM framework by allowing the light curve of a star to be in one of three states at any given time step: quiet, firing, or decaying. This three-state HMM formulation is designed to enable straightforward identification of stellar flares, their duration, and associated uncertainty. This is crucial for estimating the flare's energy, and is useful for studies of stellar flare energy distributions. We combine our HMM with a celerite model that accounts for quasiperiodic stellar oscillations. Through an injection recovery experiment, we demonstrate and evaluate the ability of our method to detect and characterize flares in stellar time series. We also show that the proposed HMM flags fainter and lower energy flares more easily than traditional sigma-clipping methods. Lastly, we visually demonstrate that simultaneously conducting detrending and flare detection can mitigate biased estimations arising in multistage modeling approaches. Thus, this method paves a new way to calculate stellar flare energy. We conclude with an example application to one star observed by TESS, showing how the HMM compares with sigma clipping when using real data.
+]]></content:encoded>
+
+<pubDate>2025-01-22T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>What Can DKIST/DL-NIRSP Tell Us about Quiet-Sun Magnetism?</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad98e7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad98e7</guid>
 <content:encoded><![CDATA[
-
 Quiet-Sun regions cover most of the Sun's surface; their magnetic fields contribute significantly to solar chromospheric and coronal heating. However, characterizing the magnetic fields of the quiet Sun is challenging due to their weak polarization signal. The 4 m Daniel K. Inouye Solar Telescope (DKIST) is expected to improve our understanding of quiet-Sun magnetism. In this paper, we assess the diagnostic capability of the Diffraction Limited Near Infrared Spectropolarimeter (DL-NIRSP) instrument on DKIST for the energy transport processes in the quiet-Sun photosphere. To this end, we synthesize high-resolution, high-cadence Stokes profiles of the Fe i 630 nm lines using a realistic magnetohydrodynamic simulation, degrade them to emulate the DKIST/DL-NIRSP observations, and subsequently infer the vector magnetic and velocity fields. For the assessment, we first verify that a widely used flow tracking algorithm, the Differential Affine Velocity Estimator for Vector Magnetograms, works well for estimating the large-scale (>200 km) photospheric velocity fields with these high-resolution data. We then examine how the accuracy of the inferred velocity depends on the temporal resolution. Finally, we investigate the reliability of the Poynting flux estimate and its dependence on the model assumptions. The results suggest that the unsigned Poynting flux, estimated with existing schemes, can account for about 71.4% and 52.6% of the reference ground truth at and . However, the net Poynting flux tends to be significantly underestimated. The error mainly arises from the underestimated contribution of the horizontal motion. We discuss the implications for DKIST observations.
 ]]></content:encoded>
-
 <pubDate>2025-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@ Quiet-Sun regions cover most of the Sun's surface; their magnetic fields contrib
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9920</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9920</guid>
 <content:encoded><![CDATA[
-
 Recently, a large number of compact sources at z > 4 with blue UV slopes and extremely red rest-frame optical slopes have been found in James Webb Space Telescope (JWST) extragalactic surveys. As a subsample of these sources, commonly called “little red dots” (LRDs), have been spectroscopically observed to host a broad-line active galactic nucleus (AGN), they have been the focus of multiple recent studies in an attempt to understand the origin of their UV and optical emission. Here, we assemble a sample of 123 LRDs from the literature along with spectroscopic and photometric JWST-identified samples of AGNs to compare their colors and spectral slopes. We find that while obscured AGNs at z < 6 have highly dissimilar colors to LRDs, unobscured AGNs at z < 6 span a wide range of colors, with only a subsample showing colors similar to LRDs. At z > 6, the majority of the unobscured AGNs that have been found in these samples are LRDs, but this may be related to the fact that these sources are at large bolometric luminosities. Because LRDs occupy a unique position in galaxy color space, they are more straightforward to target, and the large number of broad-line AGNs that do not have LRD colors and slopes are therefore underrepresented in many spectroscopic surveys because they are more difficult to preselect. Current LRD selection techniques return a large and disparate population, including many sources having 2–5 μm colors impacted by emission-line flux boosting in individual filters.
 ]]></content:encoded>
-
 <pubDate>2025-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@ Recently, a large number of compact sources at z > 4 with blue UV slopes and ext
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99a9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad99a9</guid>
 <content:encoded><![CDATA[
-
 Deuterium–deuterium (DD) fusion is viewed as an ideal energy source for humanity in the far future, given a vast seawater supply of D. Here, we consider long-lived, extraterrestrial, technological societies that develop DD fusion. If such a society persisted over geologic timescales, oceanic deuterium would diminish. For an ocean mass and initial deuterium/hydrogen (D/H) ratio that were Earth-like, fusion power use of only ∼10 times that projected for humankind next century would deplete the D/H ratio in ∼(a few) ×108 yr to values below that of the local interstellar medium (ISM). Ocean masses of a few percent of Earth’s would reach an anomalously low D/H in ∼106–107 yr. The timescale shortens with greater energy consumption, smaller oceans, or lower initial D/H. Here, we suggest that anomalous D/H in planetary water below local ISM values of ∼16 × 10−6 (set by Big Bang nucleosynthesis plus deuterium loss onto dust or small admixtures of deuterium-poor stellar material) may be a technosignature. Unlike SETI using radio signals, anomalous D/H would persist for eons, even if civilizations perished or relocated. We discuss the wavelengths of strong absorption features for detecting D/H anomalies in atmospheric water vapor. These are vibrational O–D stretching at 3.7 μm in transmission spectroscopy of Earth-like worlds, ∼1.5 μm (in the wings of the 1.4 μm water band) in the shorter near-infrared for direct imaging by the Habitable Worlds Observatory, and ∼7.5-8 μm (in the wings of the broad 6.3 μm bending vibration of water) for concepts like the Large Interferometer for Exoplanets.
 ]]></content:encoded>
-
 <pubDate>2025-01-22T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +81,10 @@ Deuterium–deuterium (DD) fusion is viewed as an ideal energy source for humani
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c72</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c72</guid>
 <content:encoded><![CDATA[
-
 The cosmic X-ray background (CXB) is dominated by the obscured and unobscured coronal light of active galactic nuclei (AGN). At energies below 10 keV, the CXB can be well explained by models taking into account the known AGN and the observed distribution of their obscuring, line-of-sight column densities, NH,l.o.s. However, at energies around the Compton reflection hump (~30 keV), the models fall short of the data. This suggests the existence of a population of as yet undetected Compton-thick (CT) AGN (NH,l.o.s > 1.5 × 1024 cm−2) whose X-ray spectra are dominated by the light that has been reprocessed by the obscuring material. In this work, we continue the effort to find and catalog all local (z < 0.05) CT AGN. To this end, we obtained soft X-ray data with Chandra for six local BAT detected sources lacking ROSAT (0.1–2.4 keV) counterparts, indicating potential obscuration. We fit their spectra with Bayesian and least squares methods using two different models, borus02 and UXCLUMPY. We compare the results of the different models and methods and find that the NH,l.o.s is consistently measured in each case. Three of the sources were also observed with XMM-Newton, allowing the opportunity to search for variability in soft X-ray flux or NH,l.o.s. From this sample, we find one strong CT candidate (NGC 5759) and one weaker CT candidate (CGCG 1822.3+2053). Furthermore, we find tentative evidence of NH,l.o.s variability in 2MASX J17253053–4510279, which has NH,l.o.s < 1022 cm−2.
 ]]></content:encoded>
-
 <pubDate>2025-01-22T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Testing the Breakdown of the Asteroseismic Scaling Relations in Luminous Red Giants</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b18</link>
@@ -10207,54 +10243,6 @@ Understanding the surface temperature and interior structure of cold-to-temperat
 
 SN 2023ixf是一种II型超新星，表现出多个极点的偏振演变，暗示了其周围的密集CSM以及不对称的冲击前缘和低密度扩展CSM中的凝块。光度曲线建模显示了10M⊙的前体星质量，爆炸能量为2×10^51erg，以及0.06 M⊙的^56Ni。通过观察可以看到氧和氢的谱线轮廓，以及Ks带的变化，标志着尘埃形成的开始。<br /><br />总结: SN 2023ixf是一种II型超新星，显示出不对称的偏振演变和不同轴对称的光谱特征。光度曲线建模表明了前体星质量、爆发能量和尘埃形成的特征。 <div>
 We present a detailed investigation of photometric, spectroscopic, and polarimetric observations of the Type II SN 2023ixf. Earlier studies have provided compelling evidence for a delayed shock breakout from a confined dense circumstellar matter (CSM) enveloping the progenitor star. The temporal evolution of polarization in the SN 2023ixf phase revealed three distinct peaks in polarization evolution at 1.4 days, 6.4 days, and 79.2 days, indicating an asymmetric dense CSM, an aspherical shock front and clumpiness in the low-density extended CSM, and an aspherical inner ejecta/He-core. SN 2023ixf displayed two dominant axes, one along the CSM-outer ejecta and the other along the inner ejecta/He-core, showcasing the independent origin of asymmetry in the early and late evolution. The argument for an aspherical shock front is further strengthened by the presence of a high-velocity broad absorption feature in the blue wing of the Balmer features in addition to the P-Cygni absorption post-16 days. Hydrodynamical light-curve modeling indicated a progenitor mass of 10 M⊙ with a radius of 470 R⊙ and explosion energy of 2 × 1051 erg, along with 0.06 M⊙ of 56 Ni, though these properties are not unique due to modeling degeneracies. The modeling also indicated a two-zone CSM: a confined dense CSM extending up to 5 × 1014 cm with a mass-loss rate of 10−2M⊙ yr−1 and an extended CSM spanning from 5 × 1014 to at least 1016 cm with a mass-loss rate of 10−4M⊙ yr−1, both assuming a wind-velocity of 10 km s−1. The early-nebular phase observations display an axisymmetric line profile of [O i], redward attenuation of the emission of Hα post 125 days, and flattening in the Ks-band, marking the onset of dust formation.
-]]></content:encoded>
-<pubDate>2024-10-30T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Hydrodynamic 3D Simulation of Roche Lobe Overflow in High-mass X-Ray Binaries</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c0d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6c0d</guid>
-<content:encoded><![CDATA[
-<div> 二元黑洞并购、高质量恒星、Roche波动溢出、模拟和观测、质量和角动量通量
-
-总结: 本研究探讨了高质量恒星从Roche波动溢出到二元黑洞系统的形成渠道。通过模拟和演化二元质量流，并将新的方法应用于半脱离高质量X射线双星M33 X-7，比较了不同溢出状态下的情况。结果表明极端溢出情况下是保守的，而稍微溢出的情况下是非保守的稳定质量传输，这表明现有假设可能误解了半脱离二元系统作为二元黑洞和共同包络前体的角色和分布。 <div>
-While binary merger events have been an active area of study in both simulations and observational work, the formation channels by which a high-mass star extends from Roche lobe overflow (RLO) in a decaying orbit of a black-hole (BH) companion to a binary black-hole (BBH) system merits further investigation. Variable length-scales must be employed to accurately represent the dynamical fluid transfer and morphological development of the primary star as it conforms to a diminishing Roche lobe under the runaway influence of the proximal BH. We have simulated and evolved binary mass flow under these conditions to better identify the key transitional processes from RLO to BBHs. We demonstrate a new methodology to model RLO systems to unprecedented resolution simultaneously across the envelope, donor wind, tidal stream, and accretion disk regimes without reliance upon previously universal symmetry, mass flux, and angular momentum flux assumptions. We have applied this method to the semidetached high-mass X-ray binary M33 X-7 in order to provide a direct comparison to recent observations of an RLO candidate system at two overflow states of overfilling factors f = 1.01 and f = 1.1. We found extreme overflow (f = 1.1) to be entirely conservative in both mass and angular momentum transport, forming a conical L1 tidal stream of density and deflected angle comparable to existing predictions. This case lies within the unstable mass transfer (MT) regime as recently proposed of M33 X-7. The f = 1.01 case differed in stream geometry, accretion disk size, and efficiency, demonstrating nonconservative stable MT through a ballistic uniform-width stream. The nonconservative and stable nature of the f = 1.01 case MT also suggests that existing assumptions of semidetached binaries undergoing RLO may mischaracterize their role and distribution as progenitors of BBHs and common envelopes.
-]]></content:encoded>
-<pubDate>2024-10-30T00:00:00Z</pubDate>
-</item>
-<item>
-<title>pop-cosmos: Scaleable Inference of Galaxy Properties and Redshifts with a Data-driven Population Model</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7736</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7736</guid>
-<content:encoded><![CDATA[
-<div> 后验采样，贝叶斯方法，光度红移，星系性质，GPU加速<br />
-<br />
-这篇文章介绍了一个高效的贝叶斯方法，用于根据预先训练的种群模型(pop-cosmos)估算个别光度红移和星系性质。该模型使用基于分数的扩散模型规定了16个恒星种群合成（SPS）参数的先验分布，并包括对星云发射的详细处理数据模型。研究利用GPU加速的仿射不变合模器在COSMOS2020目录中的292,300个单独星系下，快速进行后验采样，利用神经网络模拟器(Speculator)加速SPS计算。比较了pop-cosmos种群模型和以Prospector-α为灵感的基准先验的结果，并将这些结果与广泛使用的EAZY和LePhare代码的已发布的COSMOS2020红移估计进行比较。针对具有光谱红移的∼12,000个星系，发现pop-cosmos给出了极小的偏差 (∼10−4)、高精度 (σMAD = 7 × 10−3) 和低离群值率 (1.6%)。研究表明pop-cosmos种群模型对比其r < 25 mag训练集更昏暗的星系具有良好的泛化能力。我们分析的样本比以前可能通过完整的SPS模型进行后验采样的样本大的约3倍，pop-cosmos先验下的平均吞吐量为每个星系15 GPU秒，而Prospector先验下为每个星系0.6 GPU秒。这为未来第四阶段星系调查中预期的大型目录的原则性建模铺平了道路。<br /><br />总结: 贝叶斯方法结合种群模型和GPU加速，实现了在大型星系目录中的高效后验采样，得到了准确的光度红移估计和星系性质推断，为未来的星系调查提供了重要的方法学基础。 <div>
-We present an efficient Bayesian method for estimating individual photometric redshifts and galaxy properties under a pretrained population model (pop-cosmos) that was calibrated using purely photometric data. This model specifies a prior distribution over 16 stellar population synthesis (SPS) parameters using a score-based diffusion model, and includes a data model with detailed treatment of nebular emission. We use a GPU-accelerated affine-invariant ensemble sampler to achieve fast posterior sampling under this model for 292,300 individual galaxies in the COSMOS2020 catalog, leveraging a neural network emulator (Speculator) to speed up the SPS calculations. We apply both the pop-cosmos population model and a baseline prior inspired by Prospector-α, and compare these results to published COSMOS2020 redshift estimates from the widely used EAZY and LePhare codes. For the ∼12,000 galaxies with spectroscopic redshifts, we find that pop-cosmos yields redshift estimates that have minimal bias (∼10−4), high accuracy (σMAD = 7 × 10−3), and a low outlier rate (1.6%). We show that the pop-cosmos population model generalizes well to galaxies fainter than its r < 25 mag training set. The sample we have analyzed is ≳3× larger than has previously been possible via posterior sampling with a full SPS model, with average throughput of 15 GPU-sec per galaxy under the pop-cosmos prior, and 0.6 GPU-sec per galaxy under the Prospector prior. This paves the way for principled modeling of the huge catalogs expected from upcoming Stage IV galaxy surveys.
-]]></content:encoded>
-<pubDate>2024-10-30T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Resolved UV and Optical Color Gradients Reveal Environmental Influence on Galaxy Evolution at Redshift z ∼ 1.6</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7798</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7798</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 银河系形成, 宇宙中午, 星际尘埃, 超级照相机, 颜色梯度
-总结:
-星系的颜色变化与其形成、增长、停滞历史和尘埃含量密切相关。在宇宙中午附近的 z ∼ 2 时期，星系的生长尤为重要，往往被称为“宇宙正午”，在这个时期星系平均达到了它们的星形成高峰。研究发现，我们在 z ∼ 1.6 附近的一个星团中观察到的星系，在 Hubble 太空望远镜的三个滤光片 F475W、F625W 和 F160W 中有明显的、具有统计学意义的差异。通过与类似红移的对照样本200个野外星系进行比较，我们发现了两种不同环境中星系的整体空间分辨率颜色和颜色梯度的明显差异。平均而言，星团中的星系在 r50 限定的内部和外部地区的紫外线颜色较红，同时外面向内的颜色梯度的离散程度更大。这些观察到的差异以及来自以前研究的辅助数据的证据强烈表明，环境通过影响恒星群和/或尘埃含量，驱动了这些整体颜色差异。 <div>
-The changes in colors across a galaxy are intimately connected to the galaxy’s formation, growth, quenching history, and dust content. A particularly important epoch in the growth of galaxies is near z ∼ 2, often referred to as “cosmic noon,” where galaxies on average reach the peak of their star formation. We study a population of 125 cluster galaxies at z ∼ 1.6 in three Hubble Space Telescope filters, F475W, F625W, and F160W, roughly corresponding to the rest-frame far-ultraviolet, near-ultraviolet, and r band, respectively. By comparing to a control sample of 200 field galaxies at similar redshift, we reveal clear, statistically significant differences in the overall spatially resolved colors and color gradients in galaxies across these two different environments. On average, cluster galaxies have redder ultraviolet colors in both the inner and outer regions bounded by r50, as well as an overall wider dispersion of outside-in color gradients. The presence of these observed differences, along with evidence from ancillary data from previous studies, strongly suggests that the environment drives these population-level color differences, by affecting the stellar populations and/or dust content.
-]]></content:encoded>
-<pubDate>2024-10-30T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Exploring the Magnetic and Thermal Evolution of a Coronal Jet</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad779c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad779c</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Coronal jets, solar atmosphere, magnetic reconnection, three-dimensional magnetohydrodynamics simulation, eruptive events
-
-总结: 论文报告了一个基于数据约束的三维磁流体力学模拟的结果，对太阳活动区NOAA AR12280中于2015年2月5日发生的一个喷发性射流进行了研究。通过模拟和差分发射测量分析结果的比较，提供了关于磁重连的启动和能谱特性的见解。研究捕捉了复杂的拓扑动力学，发现了喷流位置周围磁场和热演化之间的密切对应关系。这一综合方法丰富了对于由于磁流体力学过程引起的热演化的认识，对于揭示日冕加热问题有重要意义。 <br /><br /> <div>
-Coronal jets are the captivating eruptions that are often found in the solar atmosphere and primarily formed due to magnetic reconnection. Despite their short-lived nature and lower energy compared to many other eruptive events, e.g., flares and coronal mass ejections, they play an important role in heating the corona and accelerating charged particles. However, their generation in the ambience of nonstandard flare regime is not fully understood, and warrant a deeper investigation, in terms of their onset, growth, eruption processes, and thermodynamic evolution. Toward this goal, this paper reports the results of a data-constrained three-dimensional magnetohydrodynamics (MHD) simulation of an eruptive jet; initialized with a non-force-free-field (NFFF) extrapolation and carried out in the spirit of implicit large eddy simulation (ILES). The simulation focuses on the magnetic and dynamical properties of the jet during its onset, and eruption phases, that occurred on 2015 February 5 in an active region NOAA AR12280, associated with a seemingly three-ribbon structure. In order to correlate its thermal evolution with computed energetics, the simulation results are compared with differential emission measurement analysis in the vicinity of the jet. Importantly, this combined approach provides an insight to the onset of reconnection in transients in terms of emission and the corresponding electric current profiles from MHD evolutions. The presented study captures the intricate topological dynamics, finds a close correspondence between the magnetic and thermal evolution in and around the jet location. Overall, it enriches the understanding of the thermal evolution due to MHD processes, which is one of the broader aspects to reveal the coronal heating problem.
 ]]></content:encoded>
 <pubDate>2024-10-30T00:00:00Z</pubDate>
 </item>
