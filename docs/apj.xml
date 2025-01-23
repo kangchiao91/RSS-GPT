@@ -5,14 +5,112 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Redshifting the Study of Cold Brown Dwarfs and Exoplanets: The Mid-infrared Wavelength Region as an Indicator of Surface Gravity and Mass</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8fa6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8fa6</guid>
+<content:encoded><![CDATA[
+
+JWST is opening many avenues for exploration. For cold brown dwarfs and exoplanets, JWST has opened the door to the mid-infrared wavelength region, where such objects emit significant energy. For the first time, astronomers have access to mid-infrared spectroscopy for objects colder than 600 K. The first spectra appear to validate the model suite known as ATMO 2020++: atmospheres that include disequilibrium chemistry and have a nonadiabatic pressure–temperature relationship. Preliminary fits to JWST spectroscopy of Y dwarfs show that the slope of the energy distribution from λ ≈ 4.5 μm to λ ≈ 10 μm is very sensitive to gravity. We explore this phenomenon using PH3-free ATMO 2020++ models and updated Wide-field Infrared Survey Explorer W2−W3 colors. We find that an absolute 4.5 μm flux measurement constrains temperature, and the ratio of the 4.5 μm flux to the 10–15 μm flux is sensitive to gravity and less sensitive to metallicity. We identify 10 T dwarfs with red W2−W3 colors that are likely to be very-low-gravity, young, few-Jupiter-mass objects; one of these is the previously known COCONUTS-2b. The unusual Y dwarf WISEPA J182831.08+265037.8 is blue in W2−W3, and we find that the 4–18 μm JWST spectrum is well reproduced if the system is a pair of high-gravity 400 K dwarfs. Recently published JWST colors and luminosity-based effective temperatures for late-T and -Y dwarfs further corroborate the ATMO 2020++ models, demonstrating the potential for significant improvement in our understanding of cold, very-low-mass bodies in the solar neighborhood.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Parameter Study of the Electromagnetic Signatures of an Analytical Mini-disk Model for Supermassive Black Hole Binary Systems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c74</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c74</guid>
+<content:encoded><![CDATA[
+
+Supermassive black holes (SMBHs) are thought to be located at the centers of most galactic nuclei. When galaxies merge, they form SMBH binary (SMBHB) systems, and these central SMBHs will also merge at later times, producing gravitational waves. Because galaxy mergers are likely gas-rich environments, SMBHBs are also potential sources of electromagnetic (EM) radiation. The EM signatures depend on gas dynamics, orbital dynamics, and radiation processes. The gas dynamics are governed by general-relativistic magnetohydrodynamics (MHD) in a time-dependent spacetime. Numerically solving the MHD equations for a time-dependent binary spacetime is computationally expensive. Therefore, it is challenging to conduct a full exploration of the parameter space of these systems and the resulting EM signatures. We have developed an analytical accretion-disk model for the mini-disks of an SMBHB system and produced images and light curves using a general-relativistic ray-tracing code and a superimposed harmonic binary BH metric. This analytical model greatly reduces the time and computational resources needed to explore these systems, while incorporating some key information from simulations. We present a parameter-space exploration of the SMBHB system, in which we study the dependence of the EM signatures on the spins of the BHs, the mass ratio, the accretion rate, the viewing angle, and the initial binary separation. Additionally, we study how the commonly used fast-light approximation affects the EM signatures and evaluate its validity in general-relativistic MHD simulations.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Numerical Simulation of Electron Magnetohydrodynamics with Landau-quantized Electrons in Magnetar Crusts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dea</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dea</guid>
+<content:encoded><![CDATA[
+
+In magnetar crusts, magnetic fields are sufficiently strong to confine electrons into a small to moderate number of quantized Landau levels. This can have a dramatic effect on the crust's thermodynamic properties, generating field-dependent de Haas–van Alphen oscillations. We previously argued that the large-amplitude oscillations of the magnetic susceptibility could enhance the ohmic dissipation of the magnetic field by continuously generating small-scale, rapidly dissipating field features. This could be important to magnetar field evolution and contribute to their observed higher temperatures. To study this, we performed quasi-3D numerical simulations of electron MHD in a representative volume of neutron star crust matter, for the first time including the magnetization and magnetic susceptibility resulting from Landau quantization. We find that the potential enhancement in the ohmic dissipation rate due to this effect can be a factor ∼3 for temperatures of the order of 108 K, and ∼4.5 for temperatures of the order of 5 × 107 K, depending on the magnetic field configuration. The nonlinear Hall term is crucial to this amplification: without it, the magnetic field decay is only enhanced by a factor ≲2 even at 5 × 107 K. These effects generate a high wavenumber plateau in the magnetic energy spectrum associated with the small-scale de Haas–van Alphen oscillations. Our results suggest that this mechanism could help explain the magnetar heating problem, though due to the effect's temperature-dependence, full magneto-thermal evolution simulations in a realistic stellar model are needed to judge whether it is viable explanation.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Evolution of Magnetohydrodynamic Turbulence in the Expanding Solar Wind: Residual Energy and Intermittency</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f38</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f38</guid>
+<content:encoded><![CDATA[
+
+We conduct 3D magnetohydrodynamic simulations of decaying turbulence in the context of the solar wind. To account for the spherical expansion of the solar wind, we implement the expanding box model. The initial turbulence comprises uncorrelated counterpropagating Alfvén waves and exhibits an isotropic power spectrum. Our findings reveal the consistent generation of negative residual energy whenever nonlinear interactions are present, independent of the normalized cross helicity σc and compressibility. The spherical expansion facilitates this process. The resulting residual energy is primarily distributed in the perpendicular direction, with S2(b) − S2(u) ∝ l⊥ or equivalently . Here S2(b) and S2(u) are second-order structure functions of magnetic field and velocity respectively. In most runs, S2(b) develops a scaling relation ( ). In contrast, S2(u) is consistently shallower than S2(b), which aligns with in situ observations of the solar wind. We observe that the higher-order statistics of the turbulence, which act as a proxy for intermittency, depend on the initial σc and are strongly affected by the expansion effect. Generally, the intermittency is more pronounced when the expansion effect is present. Finally, we find that in our simulations, although the negative residual energy and intermittency grow simultaneously as the turbulence evolves, the causal relation between them seems to be weak, possibly because they are generated on different scales.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Phase-transition-induced Collapse of Proto-compact Stars and Its Implication for Supernova Explosions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada146</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada146</guid>
+<content:encoded><![CDATA[
+
+A hadron–quark phase transition (PT) may trigger supernova explosions during stellar core collapse. However, both success and failure have occurred in previous attempts to explode dying stars via this mechanism. We systematically explore the outcomes of the PT-induced collapse of mock proto-compact stars (PCSs) with a constant entropy and lepton fraction, with spherically symmetric general relativistic hydrodynamic simulations and a controlled series of hybrid equations of state. Our results reveal the qualitative dependence of successful and failed explosions on the PT and quark matter characteristics. A small portion (∼0.04%−1%) of the released binding energy ΔEB transforms into the diagnostic explosion energy Eexp,diag, which saturates at ∼6 × 1051 erg near the black hole formation. Note that our Eexp,diag represents an upper limit of the final explosion energies in realistic supernova simulations. We draw the phase diagrams indicative of the possible fates of supernova explosions driven by hadron−quark PTs, where the control parameters are the onset density, the energy gap of the PT, and the quark matter speed of sound. Our findings can guide further self-consistent investigations on PT-driven core-collapse supernovae and help identify hadron−quark PT-induced PCS collapse from future observations.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Cosmic Reionization on Computers: The Evolution of the Ionizing Background and Mean Free Path</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d3</guid>
+<content:encoded><![CDATA[
+
+Observations of the end stages of reionization indicate that at z ≈ 5–6, the ionizing background is not uniform and the mean free path (MFP) changes drastically. As the MFP is closely related to the distribution of Lyman-limit systems (LLSs) and damped Lyα absorbers, it is important to understand them. In this study, we utilize the Cosmic Reionization on Computers (CROC) simulations, which have both sufficient spatial resolution to resolve galaxy formation and LLSs alongside a fully coupled radiative transfer, to simulate the reionization processes. We analyze two CROC boxes with distinct reionization histories and find that the distributions of the ionizing background in both simulations display significant skewness. Further, the ionizing background in the late-reionization box still displays significant fluctuations (∼40%) at z ≈ 5. We also measure the MFP along sightlines that center on potential quasar hosting halos. The evolution of the MFP measured from these sightlines exhibits a break that coincides with the disappearance of all the neutral islands in the reionization history of each box. In the absence of LLSs, the MFP will be biased high by ≈20% at z ≈ 5. We also compare the MFPs measured in random sightlines. We find that at z ≈ 5, the MFPs measured in sightlines that start from massive halos are systematically smaller by ≈10% compared with the MFPs measured in random sightlines. We attribute this difference to the concentration of dense structures within 1 pMpc of massive halos. Our findings highlight the importance of high-fidelity models in the interpretation of observational measurements.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Collision-induced Absorption Spectra of N2 and CH4</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada24a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada24a</guid>
+<content:encoded><![CDATA[
+
+Collision-induced spectra are essential for radiative transfer modeling of Titan's atmosphere. We present experimental spectra of nitrogen–methane mixtures with an accompanying fit of N2-CH4 collision-induced absorption in the 30–400 cm−1 region at about 130 K. We found a peak absorption of 2.30 × 10−5 cm−1 amagat−2 at 75 cm−1 and a secondary peak of 1.35 × 10−5 cm−1 amagat−2 at 206.5 cm−1, which agrees with previous studies. Our work does not support the suggestion that N2-CH4 CIA in the far-infrared should be increased by about 50%, as suggested by spectroscopic modeling of Titan using data from A. Borysow & C. Tang.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Optical Quasiperiodic Oscillations with 550 Day Periodicity in the Reverberation-mapped Broad Line Quasar PG 1411+442</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada284</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada284</guid>
+<content:encoded><![CDATA[
+
+In this paper, optical quasiperiodic oscillations (QPOs) with 550 day periodicity related to a candidate subparsec binary black hole (BBH) system are reported in the reverberation-mapped broad line quasar PG 1411+442 but with a different line profile of broad Hα from that of broad Hβ in its rms spectrum. First, considering the sine function to describe the 18.8 yr long light curves from the Catalina Sky Survey, All-Sky Automated Survey for Supernovae, and Zwicky Transient Facility, 550 day periodicity can be confirmed with a confidence level higher than 5σ. Second, the stable 550 day optical QPOs can be reconfirmed with confidence levels higher than 5σ by the generalized Lomb–Scargle periodogram, the sine-like phase-folded light curves, and the weighted wavelet z-transform technique determined power maps. Third, based on simulated light curves by the continuous autoregressive process, a confidence level higher than 3.5σ can be confirmed for the optical QPOs not related to intrinsic active galactic nucleus (AGN) variability. Moreover, considering the spatial separation of central two black hole (BH) accreting systems with smaller than expected sizes of broad emission line regions, a central total BH mass higher than 106 M⊙ could lead to few effects of supposed BBH systems on estimated virial BH masses. Meanwhile, disk precession is not preferred due to the similar estimated sizes of the optical and near-ultraviolet emission regions, and jet precession can be ruled out due to PG 1411+442 being a radio-quiet quasar. The results strongly indicate it would be practicable, by applying very different line profiles of broad Balmer emission lines, to detect candidate BBH systems in normal broad line AGN in the near future.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling the Magnetic Connection from Earth to Solar Corona during the May 11 Geomagnetic Superstorm</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada35a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada35a</guid>
+<content:encoded><![CDATA[
+
+In early 2024 May, the solar active region AR 13664 released a series of X-class solar flares and multiple coronal mass ejections (CMEs) that resulted in the strongest geomagnetic storm of the last 20 yr. This study aims at improving our understanding of the magnetic connectivity between Earth and the solar corona by reconstructing the magnetic footpoint of the Earth on the solar surface during this geomagnetic superstorm. A Monte Carlo simulation was applied to model the random walk of interplanetary magnetic field lines due to low-frequency turbulence in the solar wind. This model uses local diffusion coefficients dependent on magnetic fluctuations and the correlation length of solar wind turbulence. The simulation revealed an enhanced diffusion of magnetic field lines due to the passage of CMEs, leading to a broader area of solar surface magnetically connected to Earth, particularly near AR 13664. This proximity facilitated the rapid propagation of solar energetic protons, increasing fluxes observed at L1. The findings have significant implications for predicting space weather effects on Earth and other solar system bodies, contributing to the development of more accurate models for future space exploration missions. Since the Parker spiral reconstruction is consistent with the Magnetic Connectivity Tool, validating the model's reliability, it shows promise for reconstructing magnetic connections for potential real-time purposes.
+]]></content:encoded>
+
+<pubDate>2025-01-23T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>SIRI-2 Detection of the Gamma-Ray Burst 221009A</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ea3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ea3</guid>
 <content:encoded><![CDATA[
-
 SIRI-2 is a collection of strontium iodide gamma-ray detectors sensitive at approximately 400 keV to 10 MeV, launched on the Department of Defense's STPSat-6 to geosynchronous orbit. SIRI-2 detected the gamma-ray burst (GRB) 221009A and, unlike most GRB detectors, was not saturated and did not require any pulse pileup corrections. The energetics of this burst as measured by SIRI-2 are consistent with those found by other instruments, and the Band function fits to the spectra are consistent with those from the unsaturated Insight and GECAM instruments and similar to corrected spectra from the Fermi Gamma-ray Burst Monitor, but softer than those found by Konus-Wind when that instrument was saturated. The total fluence measured with SIRI-2 was measured to be 0.140 ± 0.002 erg cm−2, lower than other instruments, likely due to the increasing background of SIRI-2 forcing the calculation to use a smaller time interval. An extrapolation of the distributions of fluences from GRBs to the fluence of 221009A measured with SIRI-2 indicates bursts brighter than this one should occur about once every 4000 yr.
 ]]></content:encoded>
-
 <pubDate>2025-01-23T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +118,10 @@ SIRI-2 is a collection of strontium iodide gamma-ray detectors sensitive at appr
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada26d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada26d</guid>
 <content:encoded><![CDATA[
-
 Stripped-envelope supernovae (SESNe) represent a significant fraction of core-collapse supernovae, arising from massive stars that have shed their hydrogen and, in some cases, helium envelopes. The origins and explosion mechanisms of SESNe remain a topic of active investigation. In this work, we employ radiative-transfer simulations to model the light curves and spectra of a set of explosions of single, solar-metallicity, massive Wolf–Rayet stars with ejecta masses ranging from 4 to 11 M⊙, which were computed from a turbulence-aided and neutrino-driven explosion mechanism. We analyze these synthetic observables to explore the impact of varying ejecta mass and helium content on observable features. We find that the light curve shape of these progenitors with high ejecta masses is consistent with observed SESNe with broad light curves but not the peak luminosities. The commonly used analytic formula based on rising bolometric light curves overestimates the ejecta mass of these high-initial-mass progenitor explosions by a factor of up to 2.6. In contrast, the calibrated method by Haynie et al., which relies on late-time decay tails, reduces uncertainties to an average of 20% within the calibrated ejecta mass range. Spectroscopically, the He i 1.083 μm line remains prominent even in models with as little as 0.02 M⊙ of helium. However, the strength of the optical He i lines is not directly proportional to the helium mass but instead depends on a complex interplay of factors such as the 56Ni distribution, composition, and radiation field. Thus, producing realistic helium features requires detailed radiative transfer simulations for each new hydrodynamic model.
 ]]></content:encoded>
-
 <pubDate>2025-01-23T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The PANORAMIC Survey: Pure Parallel Wide Area Legacy Imaging with JWST/NIRCam</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad97bc</link>
@@ -10173,29 +10268,6 @@ Asteroseismology of dwarf stars cooler than the Sun is very challenging owing to
 
 总结:<br /><br />这篇论文研究了围绕恒星到中等质量黑洞的环绕盘(CBD)受到两个黑洞周围的两个小盘辐射（即辐射），对其光谱的影响。研究假设CBD是一个标准的盘，并采用轨道平均辐射通量来计算CBD的温度分布和相应的盘能谱。研究发现，CBD的光谱几乎不受双星质量比的影响。此外，研究还发现两个小盘和CBD的联合光谱具有双峰特性，一个在软X射线波段，另一个在红外波段。观测到的流量密度向软X射线峰增加，而远离红外峰的频率减小。后者的特征可以通过用Subaru和JWST进行近红外观测进行验证。 <div>
 We study the effect of irradiation from two accretion disks (minidisks) around respective black holes of stellar-to-intermediate masses in a circular binary on the spectrum of a circumbinary disk (CBD) surrounding them. We assume the CBD to be a standard disk and adopt the orbit-averaged irradiation flux because the viscous timescale is much longer than the orbital period. We then solve the energy equation both analytically and numerically to compute the CBD temperature distribution and the corresponding disk spectrum. We find that the analytically calculated spectra are in good agreement with the numerical ones. The CBD spectrum is almost independent of the binary mass ratio. We also find that the combined spectra of two minidisks and the CBD have double peaks, one peak in the soft X-ray band and the other in the infrared (IR) band. The former peak comes from the two minidisks, while the latter peak from the CBD. The observed flux density increases with frequency as ν1/3 toward the soft X-ray peak, while it decreases with frequency away from the IR peak as ν−5/3. The latter feature is testable with near-IR observations with Subaru and JWST.
-]]></content:encoded>
-<pubDate>2024-10-30T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Interplay between the Disk and Corona of the Changing-look Active Galactic Nucleus 1ES 1927+654</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7aed</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7aed</guid>
-<content:encoded><![CDATA[
-<div> AGNs, black hole accretion, SED evolution, disk-corona connection, X-ray variability
-<br /><br />总结: 通过对1ES 1927+654的研究发现，其光谱能量分布的演化经历了四个不同阶段，表现出超过Eddington极限的黑洞吸积率。此外，还观察到紫外线亮度和光学到X射线斜率（αOX）之间的相关性，以及光学玻尔克分子校正因子（κ5100）的双分支特性。此外，还发现了盘-冠连接的强有力证据，以及X射线辐射在辐射-温度图中显示出的系统性变化。研究还发现，出现在650天后，出现了从厚盘向薄盘的过渡现象。 <div>
-Time-domain studies of active galactic nuclei (AGNs) offer a powerful tool for understanding black hole accretion physics. Prior to the optical outburst on 2017 December 23, 1ES 1927+654 was classified as a “true” type 2 AGN, an unobscured source intrinsically devoid of broad-line emission in polarized spectra. Through our 3 yr monitoring campaign spanning X-ray to ultraviolet/optical wavelengths, we analyze the post-outburst evolution of the spectral energy distribution (SED) of 1ES 1927+654. Examination of the intrinsic SED and subsequent modeling using different models reveal that the post-outburst spectrum is best described by a combination of a disk, blackbody, and corona components. We detect systematic SED variability and identify four distinct stages in the evolution of these components. During the event the accretion rate is typically above the Eddington limit. The correlation between ultraviolet luminosity and optical to X-ray slope (αOX) resembles that seen in previous studies of type 1 AGNs, yet exhibits two distinct branches with opposite slopes. The optical bolometric correction factor (κ5100) is ∼10 times higher than typical AGNs, again displaying two distinct branches. Correlations among the corona optical depth, disk surface density, and αOX provide compelling evidence of a disk–corona connection. The X-ray corona showcases systematic variation in the compactness-temperature plot. Between 200 and 650 days, the corona is “hotter when brighter,” whereas after 650 days, it becomes “cooler when brighter.” This bimodal behavior, in conjunction with the bifurcated branches of αOX and κ5100, offers strong evidence of a transition from a slim disk to a thin disk ∼650 days after the outburst.
-]]></content:encoded>
-<pubDate>2024-10-30T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Spin–Orbit Alignment of Early-type Astrometric Binaries and the Origin of Slow Rotators</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6dd2</guid>
-<content:encoded><![CDATA[
-<div> Gaia, astrometric binaries, spin-orbit alignment, close A-type binaries, circumbinary disk accretion<br />
-<br />
-本研究分析了917对Gaia天体测量双星，发现主星的自转速度在面对面轨道上明显较慢，表明存在显著的自转轨道对齐。这些双星的主星自转速度较慢，属于早期恒星双峰自转速度分布中的慢旋转群体。质量比小于0.3的双星主星自转速度更小，与模型预测一致。然而，具有大离心率（大于0.4）的双星并不显示自转轨道对齐或自转速度减小。通过蒙特卡洛技术，测量了自转轨道对齐率为75% ± 5% ，平均自转减小因子为〈Salign〉= 0.43 ± 0.04。因此，我们得出结论，75%的A型近密双星可能经历了周围双星盘吸积，并可能通过盘片碎裂和内向盘片迁移的方式形成。剩下的25%，主要是那些具有大离心率的双星，可能通过核心碎裂和动力摩擦引起的轨道衰减形成。 <br /><br />总结: 本研究分析了大量双星系统，发现了主星自转速度与轨道对齐的关系，以及这种现象对双星形成和演化的重要性。结果表明，大部分A型近密双星可能通过盘片碎裂和内向盘片迁移形成，而一小部分通过核心碎裂和动力摩擦引起的轨道衰减形成。 <div>
-The spin–orbit alignment of binary stars traces their formation and accretion history. Previous studies of spin–orbit alignment have been limited to small samples, slowly rotating solar-type stars, and/or wide visual binaries that not surprisingly manifest random spin–orbit orientations. We analyze 917 Gaia astrometric binaries across periods P = 100–3000 days (a = 0.5–5 au) that have B8-F1 IV/V primaries (M1 = 1.5–3 M⊙) and measured projected rotational velocities v sin i. The primary stars in face-on orbits exhibit substantially smaller v sin i compared to those in edge-on orbits at the 6σ level, demonstrating significant spin–orbit alignment. The primaries in our astrometric binaries are rotating more slowly than their single-star or wide-binary counterparts and therefore comprise the slow-rotator population in the observed bimodal rotational velocity distribution of early-type stars. We discuss formation models of close binaries where some of the disk angular momentum is transferred to the orbit and/or secondary spin, quenching angular momentum flow to the primary spin. The primaries in astrometric binaries with small mass ratios q = M2/M1 < 0.3 possess even smaller v sin i, consistent with model predictions. Meanwhile, astrometric binaries with large eccentricities e > 0.4 do not display spin–orbit alignment or spin reduction. Using a Monte Carlo technique, we measure a spin–orbit alignment fraction of Falign = 75% ± 5% and an average spin reduction factor of 〈Salign〉 = 0.43 ± 0.04. We conclude that 75% of close A-type binaries likely experienced circumbinary disk accretion and probably formed via disk fragmentation and inward disk migration. The remaining 25%, mostly those with e > 0.4, likely formed via core fragmentation and orbital decay via dynamical friction.
 ]]></content:encoded>
 <pubDate>2024-10-30T00:00:00Z</pubDate>
 </item>
