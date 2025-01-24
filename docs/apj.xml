@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The 100 pc White Dwarf Sample in the SDSS Footprint. II. A New Look at the Spectral Evolution of White Dwarfs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bb3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bb3</guid>
 <content:encoded><![CDATA[
-
 We increase the spectroscopic completeness of the 100 pc white dwarf sample in the Sloan Digital Sky Survey footprint with 840 additional spectra. Our spectroscopy is 86% complete for white dwarfs hotter than Teff = 5000 K, where Hα remains visible and provides reliable constraints on the atmospheric composition. We identify 2108 DA white dwarfs with pure hydrogen atmospheres, and show that ultramassive DA white dwarfs with M ≥ 1.1 M⊙ are an order of magnitude less common below 10,000 K. This is consistent with a fraction of them getting stuck on the crystallization sequence due to 22Ne distillation. In addition, there are no ultramassive DA white dwarfs with M ≥ 1.1M⊙ and Teff ≤ 6000 K in our sample, likely because Debye cooling makes them rapidly fade away. We detect a significant trend in the fraction of He atmosphere white dwarfs as a function of temperature; the fraction increases from 9% at 20,000 K to 32% at 6000 K. This provides direct evidence of convective mixing in cool DA white dwarfs. Finally, we detect a relatively tight sequence of low-mass DQ white dwarfs in color–magnitude diagrams for the first time. We discuss the implications of this tight DQ sequence, and conclude with a discussion of the future prospects from the upcoming Ultraviolet Transient Astronomy Satellite mission and the large-scale multi-fiber spectroscopic surveys.
 ]]></content:encoded>
-
 <pubDate>2025-01-23T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Chemical Abundances in the Nuclear Star Cluster of the Milky Way: Alpha-element Trends and Their Similarities with the Inner Bulge</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b2b</link>
@@ -10117,17 +10115,6 @@ Ethanolamine (NH2CH2CH2OH) has recently been identified in the molecular cloud G
 <br /><br />总结:
 这篇文章介绍了使用GADGET4-Osaka平滑粒子流体动力学代码执行的新的宇宙学模拟数据集CROCODILE。该模拟包括了Y. Oku等人的更新的超新星（SN）反馈模型以及一个活动星系核（AGN）反馈模型。他们的SN反馈模型的一个关键创新是整合了一个与金属丰度和红移相关的、顶部丰富的初始质量函数。他们发现SN反馈是星系演化中化学丰度的关键驱动因素。另外，AGN反馈会产生富含金属的双极喷流，这些喷流会延伸并丰富几个兆秒差不多的尺度上的星系周围介质和星系间介质。他们进行了多种运行的比较，发现Fiducial运行与观测数据有很好的一致性，尤其是在星系恒星质量函数、星系形成主序和质量-金属丰度关系方面。这些结果为他们未来的工作奠定了坚实的基础。 <div>
 We introduce our new cosmological simulation data set CROCODILE, executed using the GADGET4-Osaka smoothed particle hydrodynamics code. This simulation incorporates an updated supernova (SN) feedback model of Y. Oku et al. and an active galactic nuclei (AGN) feedback model. A key innovation in our SN feedback model is the integration of a metallicity- and redshift-dependent, top-heavy initial mass function. Our SN model introduces a new consideration that results in an order of magnitude difference in the energy injection rate per unit stellar mass formed at high redshift. The CROCODILE data set is comprehensive, encompassing a variety of runs with diverse feedback parameters. This allows for an in-depth exploration of the relative impacts of different feedback processes in galactic evolution. Our initial comparisons with observational data, spanning the galaxy stellar mass function, the star formation main sequence, and the mass–metallicity relation, show promising agreement, especially for the Fiducial run. These results establish a solid foundation for our future work. We find that SN feedback is a key driver in the chemical enrichment of the intergalactic medium (IGM). Additionally, the AGN feedback creates metal-rich, bipolar outflows that extend and enrich the circumgalactic medium and IGM over a few Mpc scales.
-]]></content:encoded>
-<pubDate>2024-11-01T00:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Role of Noncircular Motions in MaNGA Galaxies. I. Global Properties</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b12</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b12</guid>
-<content:encoded><![CDATA[
-<div> MaNGA, gas-rich disk galaxies, noncircular motions, Hα velocity, stellar mass
-总结:<br /><br />这项研究对来自MaNGA Product Launch-11的1624个气质丰富的星系中的非圆形运动进行了系统研究。研究发现，非圆形运动的幅度与恒星质量相关，影响最大的是低质量和后期类型的星系。研究还发现，螺旋臂和恒星棒引起的非圆形运动并不会对Hα示踪的旋转曲线产生太大影响。因此，在样本中，我们并未发现非圆形运动对恒星Tully-Fisher关系的散射贡献很大。我们的结果表明，非圆形运动可能在星系中具有更局部化的影响，而不是全局性的影响。 <div>
-Noncircular (NC) motions represent the imprints of nonaxisymmetric structures in galaxies, providing opportunities to study the physical properties of gas departing from circular rotation. In this work, we have conducted a systematic study of the NC motions in a sample of 1624 gas-rich disk galaxies from the Mapping Nearby Galaxies at Apache Point Observatory (or MaNGA) Product Launch-11. By using the Hα velocity as a tracer of the disk rotation, we find indications that the amplitude of the NC motions is related to the stellar mass, with the low-mass and late-type galaxies the most affected. In our sample, we find ratios of circular to NC rotation ranging from 5% to 20%. By implementing harmonic models to include NC motions associated with spiral arms and stellar bars, we find that the rotational curves traced with Hα are barely affected by the NC motions induced by these structures. Consequently, in our sample, we do not find evidence that NC motions contribute to the scatter of the stellar Tully–Fisher relation. Our results suggest that NC motions might have a more localized effect in galaxies rather than a global one.
 ]]></content:encoded>
 <pubDate>2024-11-01T00:00:00Z</pubDate>
 </item>
