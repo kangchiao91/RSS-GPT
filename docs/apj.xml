@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>What Rogue Hydrogen Clouds Tell Us about Galactic Magnetic Fields</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9338</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9338</guid>
 <content:encoded><![CDATA[
-
 Observations of the Milky Way and external galaxies support the idea that large-scale magnetic fields are concentrated in galactic disks, with halo magnetic fields at least an order of magnitude weaker. However, very little is known about the transition between the two. We present the discovery of linearly polarized radio emission at the interface between interacting shells of gas within a well-known grouping of high-velocity clouds (HVCs), the anticenter shell. Faraday rotation of diffuse emission and of background extragalactic compact sources demonstrates an enhancement of the field at the interface. This is the clearest observed example of an HVC altering the large-scale magnetic field at the disk–halo interface and is the first image of magnetic field effects in an HVC. These results demonstrate the possibility of future three-dimensional reconstruction of the Galactic magnetic field and showcase the versatility of the Synthesis Telescope at the Dominion Radio Astrophysical Observatory as one of the few existing telescopes that can exploit this new method of probing Galactic magnetism.
 ]]></content:encoded>
-
 <pubDate>2025-01-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The 100 pc White Dwarf Sample in the SDSS Footprint. II. A New Look at the Spectral Evolution of White Dwarfs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bb3</link>
@@ -10114,18 +10112,6 @@ The observed dispersion measures (DMs) of fast radio bursts (FRBs) are a good in
 <br />
 本研究首次在2-12μm（MIR）和120-230nm（VUV）范围内，实验得到了纯乙醇胺冰在星际化学条件下的温度依赖光谱特征和形态行为。通过化学模型，发现在较暖的区域（60-90K）中，表面反应CH2OH + NH2CH2 → NH2CH2CH2OH 和 NH2 + C2H4OH → NH2CH2CH2OH在乙醇胺的形成过程中发挥了重要作用。乙醇胺的丰度模拟结果正好与先前在热核/晕区域对乙醇胺柱密度的上限估计相吻合。此外，还提供了与乙醇胺相关的各种物质（如HNCCO、NH2CHCO和NH2CH2CO）的理论转动和扭曲常数的估算，这对未来识别这些物质是具有价值的。<br /><br />总结: 本研究首次在星际化学条件下对乙醇胺进行了实验研究，探讨了其温度依赖的光谱特征和形态行为，并建立化学模型来推测其形成途径。研究发现在较暖的区域中，乙醇胺的形成受到表面反应的重要影响，并且模拟结果与实际观测吻合。此外，还提供了相关物质的理论转动和扭曲常数估算，为未来的物质识别提供了有价值的参考。 <div>
 Ethanolamine (NH2CH2CH2OH) has recently been identified in the molecular cloud G+0.693-0.027, situated in the SgrB2 complex in the Galactic center. However, its presence in other regions, and in particular in star-forming sites, is still elusive. Given its likely role as a precursor to simple amino acids, understanding its presence in the star-forming region is required. Here, we present the experimentally obtained temperature-dependent spectral features and morphological behavior of pure ethanolamine ices under astrochemical conditions in the 2–12 μm (MIR) and 120–230 nm (VUV) regions for the first time. These features would help in understanding its photochemical behavior. In addition, we present the first chemical models specifically dedicated to ethanolamine. These models include all the discussed chemical routes from the literature, along with the estimated binding energies and activation energies from quantum chemical calculations reported in this work. We have found that surface reactions CH2OH + NH2CH2 → NH2CH2CH2OH and NH2 + C2H4OH → NH2CH2CH2OH in warmer regions (60–90 K) could play a significant role in the formation of ethanolamine. Our modeled abundance of ethanolamine complements the upper limit of ethanolamine column density estimated in earlier observations in hot core/corino regions. Furthermore, we provide a theoretical estimation of the rotational and distortional constants for various species (such as HNCCO, NH2CHCO, and NH2CH2CO) related to ethanolamine that have not been studied in existing literature. This study could be valuable for identifying these species in the future.
-]]></content:encoded>
-<pubDate>2024-11-01T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Osaka Feedback Model. III. Cosmological Simulation CROCODILE</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad77d3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad77d3</guid>
-<content:encoded><![CDATA[
-<div> cosmological simulation, CROCODILE, GADGET4-Osaka, supernova feedback, AGN feedback
-<br /><br />总结:
-这篇文章介绍了使用GADGET4-Osaka平滑粒子流体动力学代码执行的新的宇宙学模拟数据集CROCODILE。该模拟包括了Y. Oku等人的更新的超新星（SN）反馈模型以及一个活动星系核（AGN）反馈模型。他们的SN反馈模型的一个关键创新是整合了一个与金属丰度和红移相关的、顶部丰富的初始质量函数。他们发现SN反馈是星系演化中化学丰度的关键驱动因素。另外，AGN反馈会产生富含金属的双极喷流，这些喷流会延伸并丰富几个兆秒差不多的尺度上的星系周围介质和星系间介质。他们进行了多种运行的比较，发现Fiducial运行与观测数据有很好的一致性，尤其是在星系恒星质量函数、星系形成主序和质量-金属丰度关系方面。这些结果为他们未来的工作奠定了坚实的基础。 <div>
-We introduce our new cosmological simulation data set CROCODILE, executed using the GADGET4-Osaka smoothed particle hydrodynamics code. This simulation incorporates an updated supernova (SN) feedback model of Y. Oku et al. and an active galactic nuclei (AGN) feedback model. A key innovation in our SN feedback model is the integration of a metallicity- and redshift-dependent, top-heavy initial mass function. Our SN model introduces a new consideration that results in an order of magnitude difference in the energy injection rate per unit stellar mass formed at high redshift. The CROCODILE data set is comprehensive, encompassing a variety of runs with diverse feedback parameters. This allows for an in-depth exploration of the relative impacts of different feedback processes in galactic evolution. Our initial comparisons with observational data, spanning the galaxy stellar mass function, the star formation main sequence, and the mass–metallicity relation, show promising agreement, especially for the Fiducial run. These results establish a solid foundation for our future work. We find that SN feedback is a key driver in the chemical enrichment of the intergalactic medium (IGM). Additionally, the AGN feedback creates metal-rich, bipolar outflows that extend and enrich the circumgalactic medium and IGM over a few Mpc scales.
 ]]></content:encoded>
 <pubDate>2024-11-01T00:00:00Z</pubDate>
 </item>
