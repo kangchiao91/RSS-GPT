@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Constraints on Primordial Black Holes from N eff: Scalar-induced Gravitational Waves as an Extra Radiation Component</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b4</guid>
+<content:encoded><![CDATA[
+
+In 2023 June, multiple pulsar timing array collaborations provided evidence for the existence of a stochastic gravitational-wave background. Scalar-induced gravitational waves (SIGWs), as one of the most likely sources of stochastic gravitational waves, have received widespread attention. When primordial curvature perturbations on small scales are sufficiently large, primordial black holes (PBHs) inevitably form, concurrently producing SIGWs with significant observable effects. These SIGWs can serve as an additional radiation component, influencing the relativistic degrees of freedom Neff. Taking into account primordial non-Gaussianity, we study the energy density spectrum of SIGWs up to the third order and use the current observational data of Neff to constrain small-scale primordial curvature perturbations and the abundance of PBHs.
+]]></content:encoded>
+
+<pubDate>2025-01-27T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Jetted Seyfert Galaxies at z = 0: Simulating Feedback Effects on Galactic Morphology and Beyond</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f29</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f29</guid>
 <content:encoded><![CDATA[
-
 We use high-resolution cosmological zoom-in simulations to model feedback from Seyfert-type supermassive black hole (SMBH) jets onto galaxies with identical dark matter (DM) halos of log M/M⊙ ∼ 11.8. The low-mass, ∼106M⊙, seed SMBHs have been introduced when the parent DM halos have reached log M/M⊙ ∼ 11. In a controlled experiment, we vary only the efficiency of the SMBH accretion and focus on galaxies and their immediate environment properties. Our results show that the active galactic nucleus jet feedback has a substantial effect on the basic properties of Seyfert-type galaxies, such as morphology, gas fraction and distribution, star formation rate and distribution, B/D ratio, DM halo baryon fraction, and properties of the circumgalactic medium and beyond. These have been compared to a galaxy with supernovae only feedback. We focus on the energy deposition by the jet in the interstellar medium (ISM) and intergalactic gas medium, and follow the expansion of the multiple jet cocoons to ∼2 Mpc. We find that the jet–ISM interaction gradually pushes the star formation to larger radii with increasing accretion efficiency, which results in increased mass of the outer stellar disk, which is best fit as a double-exponential disk. Furthermore, we compare our galaxies and their properties with the observed nearby Seyfert galaxies, including the scaling relations, and find a close agreement, although statistical analysis of observed Seyferts is currently missing. In a forthcoming paper, we focus on the evolution of these objects at z ≲ 10 and study the effect of the SMBH seeding redshift.
 ]]></content:encoded>
-
 <pubDate>2025-01-27T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@ We use high-resolution cosmological zoom-in simulations to model feedback from S
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b86</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b86</guid>
 <content:encoded><![CDATA[
-
 Advances in time domain astronomy have produced a growing population of flares from galactic nuclei, including both tidal disruption events (TDEs) and flares in active galactic nuclei (AGN). Because TDEs are uncommon and AGN variability is abundant, large-amplitude AGN flares are usually not categorized as TDEs. While TDEs are normally channelled by the collisional process of two-body scatterings over a relaxation timescale, the quadrupole moment of a gas disk alters the stellar orbits, allowing them to collisionlessly approach the central massive black hole (MBH). This leads to an effectively enlarged loss cone, the loss wedge. Earlier studies found a moderate enhancement, up to a factor ~2–3, of TDE rates for a static axisymmetric perturbation. Here, we study the loss wedge problem for an evolving AGN disk, which can capture large number of stars into the growing loss wedge over much shorter times. The rates of collisionless TDEs produced by these time-evolving disks are much higher than the collisional rates in a static loss wedge. We calculate the response of a stellar population to the axisymmetric potential of an adiabatically growing AGN disk and find that the highest rates of collisionless TDEs are achieved for the largest (i) MBH masses M• and (ii) disk masses Md. For M• ~ 107M⊙ and Md ~ 0.1M•, the rate enhancement can be up to a factor . The orbits of collisionless TDEs sometimes have a preferred orientation in apses, carrying implications for observational signatures of resulting flares.
 ]]></content:encoded>
-
 <pubDate>2025-01-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>High-energy Neutrino Source Cross-correlations with Nearest-neighbor Distributions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad924c</link>
@@ -10076,30 +10083,6 @@ We present a JWST MIRI medium-resolution spectrometer spectrum (5–27 μm) of t
 <br />
 本研究基于事件视界望远镜观测到的M87*图像，提出了一种构建多种不同偏好的先验的框架。这些先验可以是弱先验（仅强调基本自然图像统计）或强先验（对黑洞结构做出假设）。该框架使用基于得分的先验的贝叶斯推断，这些先验源自于可以学习复杂图像分布的深度生成模型。借助我们的贝叶斯成像方法和复杂的数据驱动先验，我们可以评估重建图像的视觉特征和不确定性，以及它们如何取决于先验的选择。除了模拟数据外，我们还对真实的EHT M87*数据进行了图像重建，并讨论了选择先验如何影响恢复的特征。 <br /><br />总结: <br />该研究提出了一种灵活设计不同偏好的图像重建先验的框架，使用贝叶斯推断和数据驱动的先验技术对黑洞图像进行重建，并讨论了先验选择对重建图像的影响。 <div>
 Reconstructing images from the Event Horizon Telescope (EHT) observations of M87*, the supermassive black hole at the center of the galaxy M87, depends on a prior to impose desired image statistics. However, given the impossibility of directly observing black holes, there is no clear choice for a prior. We present a framework for flexibly designing a range of priors, each bringing different biases to the image reconstruction. These priors can be weak (e.g., impose only basic natural-image statistics) or strong (e.g., impose assumptions of black hole structure). Our framework uses Bayesian inference with score-based priors, which are data-driven priors arising from a deep generative model that can learn complicated image distributions. Using our Bayesian imaging approach with sophisticated data-driven priors, we can assess how visual features and uncertainty of reconstructed images change depending on the prior. In addition to simulated data, we image the real EHT M87* data and discuss how recovered features are influenced by the choice of prior.
-]]></content:encoded>
-<pubDate>2024-11-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Analysis of the Emission and Morphology of the Pulsar Wind Nebula Candidate HAWC J2031+415</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad782a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad782a</guid>
-<content:encoded><![CDATA[
-<div> TeV γ-ray source, HEGRA, HAWC J2031+415, PSR J2032+4127, pulsar wind nebula
-<br />
-这篇文章研究了TeV J2032+4130，一个高能γ射线源，发现它实际上是一个脉冲星风星雲，由PSR J2032+4127驱动。研究发现HAWC J2031+415其实是一个γ射线双星系统，包含脉冲星PSR J2032+4127和其伴星MT91 213。研究团队结合了射电、X射线和γ射线的数据进行了多波段分析，最终确认了这一发现。2017年他们也观测到了这一系统的近日点。总结: 这项研究确认了TeV J2032+4130源实际上是由PSR J2032+4127驱动的脉冲星风星雲，而HAWC J2031+415是一个γ射线双星系统，这一发现得到了多波段数据的验证。 <div>
-The first TeV γ-ray source with no lower energy counterparts, TeV J2032+4130, was discovered by HEGRA. It appears in the third HAWC catalog as 3HWC J2031+415 and it is a bright TeV γ-ray source whose emission has previously been resolved as two sources: HAWC J2031+415 and HAWC J2030+409. While HAWC J2030+409 has since been associated with the Fermi Large Area Telescope Cygnus Cocoon, no such association for HAWC J2031+415 has yet been found. In this work, we investigate the spectrum and energy-dependent morphology of HAWC J2031+415. We associate HAWC J2031+415 with a γ-ray binary system containing the pulsar PSR J2032+4127 and its companion MT91 213. We study HAWC data to observe their periastron in 2017. Additionally, we perform a combined multiwavelength analysis using radio, X-ray, and γ-ray emission. We conclude that HAWC J2031+415 and, by extension, TeV J2032+4130 are most probably a pulsar wind nebula powered by PSR J2032+4127.
-]]></content:encoded>
-<pubDate>2024-11-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Detection of QPO Soft Lag during the Outburst of Swift J1727.8-1613: Estimation of Intrinsic Parameters from Spectral Study</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a76</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a76</guid>
-<content:encoded><![CDATA[
-<div> 黑洞候选者、Swift J1727.8-1613、能谱分析、准周期振荡、软滞后<br />
-<br />
-黑洞候选者Swift J1727.8-1613是近期发现的一个明亮的瞬变物体，利用NICER和NuSTAR联合数据，研究了其在0.5-79 keV的广泛能量范围内的特性。在0.5-10 keV的NICER数据中观察到了0.89±0.01 Hz的显著C型准周期振荡（QPO）及其谐波。有趣的是，在更低的能量范围内，谐波变得较弱（0.5-1和1-3 keV）。同时，在NICER / X射线定时仪观测中首次发现了硬（3-10 keV）和软（0.5-3 keV）波段光子之间在QPO频率处的软时间滞后为0.014±0.001 s。这表明该双星系统中的吸积盘倾斜角可能较高。从详细的能谱分析中，使用relxill反射模型发现了源的盘倾斜角约为85°。文章讨论了通过能谱分析得出的吸积流配置如何帮助我们理解此源中QPO和软滞后的起源。<br /><br />总结：黑洞候选者Swift J1727.8-1613在0.5-79 keV的广泛能量范围内观测到了C型准周期振荡和其谐波，以及硬和软光子之间的软时间滞后，这表明了源的盘倾斜角可能较高。能谱分析揭示了吸积流配置，有助于我们理解QPO和软滞后的来源。 <div>
-The recently discovered bright transient black hole candidate Swift J1727.8-1613 is studied in a broad energy range (0.5–79 keV) using combined NICER and NuSTAR data taken on 2023 August 29. A prominent type C quasiperiodic oscillation (QPO) at 0.89 ± 0.01 Hz with its harmonic was observed in NICER data of 0.5–10 keV. Interestingly, the harmonic becomes weaker in the lower energy bands (0.5–1 and 1–3 keV). We also report the first detection of a soft time lag of 0.014 ± 0.001 s at the QPO frequency between harder (3–10 keV) and softer (0.5–3 keV) band photons observed with the NICER/X-ray timing instrument. This indicates that the inclination of the accretion disk in the binary system might be high. From the detailed spectral analysis with the relxill reflection model, we found the disk inclination angle of the source to be ∼85°. We discuss how the accretion flow configuration inferred from spectral analysis can help us understand the origin of QPOs and soft lag in this source.
 ]]></content:encoded>
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
