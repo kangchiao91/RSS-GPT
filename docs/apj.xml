@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Impacts and Statistical Mitigation of Missing Data on the 21 cm Power Spectrum: A Case Study with the Hydrogen Epoch of Reionization Array</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b91</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b91</guid>
 <content:encoded><![CDATA[
-
 The precise characterization and mitigation of systematic effects is one of the biggest roadblocks impeding the detection of the fluctuations of cosmological 21 cm signals. Missing data in radio cosmological experiments, often due to radio frequency interference (RFI), pose a particular challenge to power spectrum analysis as this could lead to the ringing of bright foreground modes in the Fourier space, heavily contaminating the cosmological signals. Here we show that the problem of missing data becomes even more arduous in the presence of systematic effects. Using a realistic numerical simulation, we demonstrate that partially flagged data combined with systematic effects can introduce significant foreground ringing. We show that such an effect can be mitigated through inpainting the missing data. We present a rigorous statistical framework that incorporates the process of inpainting missing data into a quadratic estimator of the 21 cm power spectrum. Under this framework, the uncertainties associated with our inpainting method and its impact on power spectrum statistics can be understood. These results are applied to the latest Phase II observations taken by the Hydrogen Epoch of Reionization Array, forming a crucial component in power spectrum analyses as we move toward detecting 21 cm signals in the ever more noisy RFI environment.
 ]]></content:encoded>
-
 <pubDate>2025-01-27T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Streaming Torque with Turbulent Diffusion</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada15a</link>
@@ -10064,19 +10062,6 @@ A common envelope (CE) is proposed as the origin of the early post-outburst spec
 
 FRB的重复性与非重复性现象可能都受到时间间隔的内存依赖性影响。研究发现等待时间与上一个时间间隔（λ0）呈现显著的依赖关系，短等待时间后更可能出现下一个短等待时间，而长等待时间后更可能出现下一个长等待时间。这种内存效应还影响了在给定时间窗口内观测到下一个FRB的可能性。研究首次发现了这种内存效应存在于尺度不变的等待时间分布中。这些发现为揭示FRBs的机制提供了新的线索。 <br /><br />总结: FRB的重复与非重复现象可能都受到等待时间的内存依赖性影响，短等待时间更可能后续也是短等待时间，长等待时间也更可能后续是长等待时间。内存效应还影响了在给定时间窗口内观测到下一个FRB的可能性。这种内存效应首次被发现存在于尺度不变的等待时间分布中，为揭示FRBs的机制提供了新的线索。 <div>
 Understanding the nature of repeating fast radio bursts (FRBs) is crucial for probing their underlying physics. In this work, we analyze the waiting time statistics between bursts of three repeating FRBs from four data sets. We find a universally pronounced dependency of the waiting times on the previous time interval (denoted as λ0). We observe a temporal clustering, where short waiting times tend to be followed by short ones and long by long, comparative to their mean value. This memory dependency is manifested in the conditional mean waiting time as well as in the conditional mean residual time to the next burst, both of which increase in direct proportion to λ0. Consequently, the likelihood of experiencing a subsequent FRB burst within a given time window after the preceding burst is generally influenced by the burst history. We reveal, for the first time, that these memory effects are present in the scale-invariant preconditioned waiting time distribution. We show that the memory effect provides a unified description of waiting times that may account for both the repeating FRBs and the apparently nonrepeating FRBs (i.e., those only observed one time). These results shed new light on the mechanism of FRBs.
-]]></content:encoded>
-<pubDate>2024-11-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Simultaneous X-Ray and Optical Polarization Observations of the Blazar Mrk 421</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8081</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8081</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Mrk 421, X射线偏振, 光学偏振, HSP blazar, 磁场
-
-总结: 
-这篇文章报告了对高同步辐射峰(HSP)类星体Mrk 421的X射线和光学偏振测量的观测结果。他们使用IXPE进行了X射线偏振观测，并在同一时间进行了光学偏振观测。结果显示，X射线和光学波段都检测到了偏振信号，而且发现随着能量的降低，偏振程度逐渐减小。研究人员认为这支持了一个假设，即偏振程度变化的原因可能是不同辐射区域的空间延伸差异。同时，他们还通过对X射线和光学数据进行宽带能谱能量分布建模来支持这一假设。这些结果对于理解HSP类星体的辐射机制提供了宝贵信息。 <br /><br /> <div>
-We present near-simultaneous X-ray and optical polarization measurements in the high synchrotron peaked (HSP) blazar Mrk 421. The X-ray polarimetric observations were carried out using Imaging X-ray Polarimetry Explorer (IXPE) on 2023 December 6. During IXPE observations, we also carried out optical polarimetric observations using 104 cm Sampurnanand telescope at Nainital and multiband optical imaging observations using 2 m Himalayan Chandra Telescope at Hanle. From model-independent analysis of IXPE data, we detected X-ray polarization with degree of polarization (ΠX) of 8.5% ± 0.5% and an electric vector position angle (ΨX) of 10.°6 ± 1.°7 in the 2−8 keV band. From optical polarimetry on 2023 December 6, in B, V, and R bands, we found values of ΠB = 4.27% ± 0.32%, ΠV = 3.57% ± 0.31%, and ΠR = 3.13% ± 0.25%. The value of ΠB is greater than that observed at longer optical wavelengths, with the degree of polarization suggesting an energy-dependent trend, gradually decreasing from higher to lower energies. This is consistent with that seen in other HSP blazars and favors a stratified emission region encompassing a shock front. The emission happening in the vicinity of the shock front will be more polarized due to the ordered magnetic field resulting from shock compression. The X-ray emission, involving high-energy electrons, originates closer to the shock front than the optical emission. The difference in the spatial extension could plausibly account for the observed variation in polarization between X-ray and optical wavelengths. This hypothesis is further supported by the broadband spectral energy distribution modeling of the X-ray and optical data.
 ]]></content:encoded>
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
