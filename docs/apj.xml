@@ -5,17 +5,37 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Uniform Modeling of Observed Kilonovae: Implications for Diversity and the Progenitors of Merger-driven Long Gamma-Ray Bursts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c77</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c77</guid>
+<title>High-energy Neutrino Source Cross-correlations with Nearest-neighbor Distributions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad924c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad924c</guid>
 <content:encoded><![CDATA[
 
-We present uniform modeling of eight kilonovae, five following short gamma-ray bursts (GRBs; including GRB 170817A) and three following long GRBs. We model their broadband afterglows to determine the relative contributions of afterglow and kilonova emission. We fit the kilonovae using a three-component model in MOSFiT, and report population median ejecta masses for the total, blue (κB = 0.5 cm2 g−1), purple (κP = 3 cm2 g−1), and red (κR = 10 cm2 g−1) components. The kilonova of GW170817 is near the sample median in most derived properties. We investigate trends between the ejecta masses and the isotropic-equivalent and beaming-corrected γ-ray energies (Eγ,iso, Eγ), as well as rest-frame durations (T90,rest). We find long GRB kilonovae have higher median red ejecta masses (Mej,R ≳ 0.05 M⊙) compared to on-axis short GRB kilonovae (Mej,R ≲ 0.02 M⊙). We also observe a weak scaling between the total and red ejecta masses with Eγ,iso and Eγ, though a larger sample is needed to establish a significant correlation. These findings imply a connection between merger-driven long GRBs and larger tidal dynamical ejecta masses, which may indicate that their progenitors are asymmetric compact object binaries. We produce representative kilonova light curves, and find that the planned depths and cadences of the Rubin and Roman Observatory surveys will be sufficient for order-of-magnitude constraints on Mej,B (and, for Roman, Mej,P and Mej,R) of future kilonovae at z ≲ 0.1.
+The astrophysical origins of the majority of the IceCube neutrinos remain unknown. Effectively characterizing the spatial distribution of the neutrino samples and associating the events with astrophysical source catalogs can be challenging given the large atmospheric neutrino background and underlying non-Gaussian spatial features in the neutrino and source samples. In this paper, we investigate a framework for identifying and statistically evaluating the cross-correlations between IceCube data and an astrophysical source catalog based on the k-nearest-neighbor cumulative distribution functions (kNN-CDFs). We propose a maximum likelihood estimation procedure for inferring the true proportions of astrophysical neutrinos in the point-source data. We conduct a statistical power analysis of an associated likelihood ratio test with estimations of its sensitivity and discovery potential with synthetic neutrino data samples and a WISE–2MASS galaxy sample. We apply the method to IceCube’s public ten-year point-source data and find no statistically significant evidence for spatial cross-correlations with the selected galaxy sample. We discuss possible extensions to the current method and explore the method’s potential to identify the cross-correlation signals in data sets with different sample sizes.
+]]></content:encoded>
+
+<pubDate>2025-01-27T00:00:00Z</pubDate>
+</item>
+<item>
+<title>CEERS: Increasing Scatter along the Star-forming Main Sequence Indicates Early Galaxies Form in Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a6a</guid>
+<content:encoded><![CDATA[
+
+We present the star formation rate–stellar mass (SFR–M*) relation for galaxies in the Cosmic Evolution Early Release Science survey at 4.5 ≤ z ≤ 12. We model the JWST and Hubble Space Telescope rest-UV and rest-optical photometry of galaxies with flexible star formation histories (SFHs) using BAGPIPES. We consider SFRs averaged from the SFHs over 10 Myr (SFR10) and 100 Myr (SFR100), where the photometry probes SFRs on these timescales, effectively tracing nebular emission lines in the rest-optical (on ~10 Myr timescales) and the UV/optical continuum (on ~100 Myr timescales). We measure the slope, normalization and intrinsic scatter of the SFR–M* relation, taking into account the uncertainty and the covariance of galaxy SFRs and M*. From z ~ 5 to 9 there is larger scatter in the SFR10–M* relation, with dex, compared to the SFR100–M* relation, with dex. This scatter increases with redshift and increasing stellar mass, at least out to z ~ 7. These results can be explained if galaxies at higher redshift experience an increase in star formation variability and form primarily in short, active periods, followed by a lull in star formation (i.e., “napping” phases). We see a significant trend in the ratio RSFR = SFR10/SFR100 in which, on average, RSFR decreases with increasing stellar mass and increasing redshift. This yields a star formation “duty cycle” of ~40% for galaxies with at z ~ 5, declining to ~20% at z ~ 9. Galaxies also experience longer lulls in star formation at higher redshift and at higher stellar mass, such that galaxies transition from periods of higher SFR variability at z ≳ 6 to smoother SFR evolution at z ≲ 4.5.
 ]]></content:encoded>
 
 <pubDate>2025-01-27T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>Uniform Modeling of Observed Kilonovae: Implications for Diversity and the Progenitors of Merger-driven Long Gamma-Ray Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c77</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c77</guid>
+<content:encoded><![CDATA[
+We present uniform modeling of eight kilonovae, five following short gamma-ray bursts (GRBs; including GRB 170817A) and three following long GRBs. We model their broadband afterglows to determine the relative contributions of afterglow and kilonova emission. We fit the kilonovae using a three-component model in MOSFiT, and report population median ejecta masses for the total, blue (κB = 0.5 cm2 g−1), purple (κP = 3 cm2 g−1), and red (κR = 10 cm2 g−1) components. The kilonova of GW170817 is near the sample median in most derived properties. We investigate trends between the ejecta masses and the isotropic-equivalent and beaming-corrected γ-ray energies (Eγ,iso, Eγ), as well as rest-frame durations (T90,rest). We find long GRB kilonovae have higher median red ejecta masses (Mej,R ≳ 0.05 M⊙) compared to on-axis short GRB kilonovae (Mej,R ≲ 0.02 M⊙). We also observe a weak scaling between the total and red ejecta masses with Eγ,iso and Eγ, though a larger sample is needed to establish a significant correlation. These findings imply a connection between merger-driven long GRBs and larger tidal dynamical ejecta masses, which may indicate that their progenitors are asymmetric compact object binaries. We produce representative kilonova light curves, and find that the planned depths and cadences of the Rubin and Roman Observatory surveys will be sufficient for order-of-magnitude constraints on Mej,B (and, for Roman, Mej,P and Mej,R) of future kilonovae at z ≲ 0.1.
+]]></content:encoded>
+<pubDate>2025-01-27T00:00:00Z</pubDate>
+</item>
 <item>
 <title>The Observed Phase Space of Mass-loss History from Massive Stars Based on Radio Observations of a Large Supernova Sample</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9e93</link>
@@ -10085,18 +10105,6 @@ We apply the cross-correlation technique to infer the Hubble constant (H0) of th
 <div> 白矮星，Type Ia 超新星，He-accreting ONe WDs，MESA，Mch<br />
 白矮星通过质量吸积产生 Type Ia 超新星，本文研究了氦吸积的ONe白矮星接近钱德拉塞卡极限时外层元素丰度的演变。研究发现，在氦层下会积累富含CO的外壳，并在CO的点燃过程中将碳转化为硅。CO燃烧产生的硅数量与吸积速率强烈负相关。当ONe白矮星接近钱德拉塞卡极限时，可能发生吸积诱导坍缩，形成中子星。<br /><br />总结: <br />白矮星通过质量吸积产生 Type Ia 超新星；研究了He-accreting ONe WDs的演变过程；发现CO燃烧产生的硅数量与吸积速率负相关；ONe白矮星接近极限时可能发生吸积诱导坍缩，形成中子星。 <div>
 It has been widely accepted that mass-accreting white dwarfs (WDs) are the progenitors of Type Ia supernovae (SNe) or electron-capture supernovae. Previous work has shown that the accretion rate could affect the elemental abundance on the outer layers of CO WDs, and therefore affect the observational characteristics after they exploded as SNe Ia. However, it has not been well studied how elemental abundance changes on the outer layers of He-accreting ONe WDs as they approach the Chandrasekhar mass limit. In this paper, we investigated the evolution of He-accreting ONe WDs with MESA. We found that a CO-rich mantle will accumulate beneath the He layers resulting from the He burning, after which the ignition of the CO-rich mantle could transform carbon into silicon (Si). The amount of Si produced by carbon burning is strongly anticorrelated with the accretion rate. As the ONe WD nearly approaches the Chandrasekhar mass limit (Mch) through accretion, it is likely to undergo accretion-induced collapse, resulting in the formation of a neutron star.
-]]></content:encoded>
-<pubDate>2024-11-04T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The A2Π–X2Σ+ Band System of ScO for M-type Star Spectral Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7af1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7af1</guid>
-<content:encoded><![CDATA[
-<div> 关键词: M型恒星, 激发态, 光谱常数, 变温变压模拟, ScO
-
-总结:<br /><br />这项研究展示了在中空阴极实验中获得的ScO的新多普勒限制分辨率光谱。作者对A2Π–X2Σ+电子跃迁进行了仔细分析，并报道了A2Π(v)状态的光谱常数。他们还使用从头算方法计算的缩放跃迁偶极矩函数计算了带强度，并提供了A2Π–X2Σ+带系列的谱线表。这些成果可用于模拟不同温度和压力条件下的ScO光谱，从而增进对星际大气的了解。 <div>
-M-type stars are the most abundant stars in our Galaxy. Their visible spectra are characterized by strong TiO and VO absorption bands with occasional ScO bands near 6000–6100 Å. This region corresponds to the A2Π–X2Σ+ band system and can be used to measure the abundance of ScO. In this work, a new Doppler-limited resolution spectrum of ScO obtained in a hollow-cathode experiment is presented. The A2Π–X2Σ+ electronic transition is analyzed with special care dedicated to fitting the ∼ A2Π(v) perturbation. Spectroscopic constants of the A2Π(v) states are reported for v ≤ 9, and a partial fit of spectroscopic constants is made for the states 2 ≤ v ≤ 6. The modeled interaction of the two states reproduces the experimental data remarkably well. New equilibrium constants are extracted from the fit. Band strengths are calculated with the help of a scaled transition dipole moment function, previously calculated with ab initio methods. Finally, a line list of the A2Π–X2Σ+ band system is provided, including Einstein A coefficients and oscillator strengths. Using this line list, the spectrum of ScO can be simulated for different temperature and pressure conditions in stellar atmospheres.
 ]]></content:encoded>
 <pubDate>2024-11-04T00:00:00Z</pubDate>
 </item>
