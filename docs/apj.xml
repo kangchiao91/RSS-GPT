@@ -5,14 +5,57 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The M BH–M ∗ Relation up to z ∼ 2 through Decomposition of COSMOS-Web NIRCam Images</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d0a</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d0a</guid>
+<content:encoded><![CDATA[
+
+Our knowledge of relations between supermassive black holes and their host galaxies at z ≳ 1 is still limited, even though being actively sought out to z ∼ 6. Here, we use the high resolution and sensitivity of JWST to measure the host galaxy properties for 107 X-ray-selected type-I active galactic nuclei (AGNs) at 0.68 < z < 2.5 with rest-frame optical/near-infrared imaging from COSMOS-Web and PRIMER. Black hole masses ( ) are available from previous spectroscopic campaigns. We extract the host galaxy components from four NIRCam broadband images and the Hubble Space Telescope/Advanced Camera for Surveys F814W image by applying a 2D image decomposition technique. We detect the host galaxy for ∼90% of the sample after subtracting the unresolved AGN emission. With host photometry free of AGN emission, we determine the stellar mass of the host galaxies to be through spectral energy distribution fitting and measure the evolution of the mass relation between SMBHs and their host galaxies. Considering selection biases and measurement uncertainties, we find that the MBH/M*ratio evolves as thus remains essentially constant or exhibits mild evolution up to z ∼ 2.5. We also see an amount of scatter ( ), similar to the local relation and consistent with low-z studies, and a noncausal cosmic assembly history where mergers contribute to the statistical averaging toward the local relation is still feasible. We highlight improvements to come with larger samples from JWST and, particularly, Euclid, which will exceed the statistical power of current wide and deep surveys.
+]]></content:encoded>
+
+<pubDate>2025-01-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Magnetically Induced Radial Velocity Variation of Gliese 341 and an Upper Limit to the Mass of Its Transiting Earth-sized Planet</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dd3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dd3</guid>
+<content:encoded><![CDATA[
+
+The Transiting Exoplanet Survey Satellite (TESS) mission identified a potential 0.88R⊕ planet with a period of 7.577 days, orbiting the nearby M1V star GJ 341 (TOI 741.01). This system has already been observed by the James Webb Space Telescope (JWST) to search for presence of an atmosphere on this planet. Here, we present an in-depth analysis of the GJ 341 system using all available public data. We provide improved parameters for the host star, an updated value of the planet radius, and support the planetary nature of the object (now GJ 341 b). We use 57 HARPS radial velocities to model the magnetic cycle and activity of the host star, and constrain the mass of GJ 341 b to upper limits of 4.0 M⊕ (3σ) and 2.9 M⊕ (1σ). We also rule out the presence of additional companions with M sin i > 15.1 M⊕, and P < 1750 days, and the presence of contaminating background objects during the TESS and JWST observations. These results provide key information to aid the interpretation of the recent JWST atmospheric observations and other future observations of this planet.
+]]></content:encoded>
+
+<pubDate>2025-01-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Identifying Galactic Substructures in 5D Space Using All-sky RR Lyrae Stars in Gaia DR3</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de0</guid>
+<content:encoded><![CDATA[
+
+Motivated by the vast gap between photometric and spectroscopic data volumes, there is great potential in using 5D kinematic information to identify and study substructures of the Milky Way. We identify substructures in the Galactic halo using 46,575 RR Lyrae stars (RRLs) from Gaia Data Release 3, with photometric metallicities and distances newly estimated by X.-Y. Li et al. Assuming a Gaussian prior distribution of radial velocity, we calculate the orbital distribution characterized by the integrals of motion for each RRL, based on its 3D positions, proper motions, and corresponding errors, and then apply the friends-of-friends algorithm to identify groups moving along similar orbits. We have identified several known substructures, including the Sagittarius stream, the Hercules-Aquila Cloud (HAC), the Virgo Overdensity (VOD), Gaia-Enceladus-Sausage (GES), the Orphan-Chenab stream, Cetus-Palca, the Helmi streams, Sequoia, Wukong, and the Large Magellanic Cloud leading arm, as well as 18 unknown groups. Our findings indicate that the HAC and VOD have kinematic and chemical properties remarkably similar to GES, with most HAC and VOD members exhibiting eccentricity as high as GES, suggesting that they may share a common origin with GES. The ability to identify low-mass and spatially dispersed substructures further demonstrates the potential of our method, which breaks the limit of spectroscopic surveys and is competent for probing substructures throughout the whole Galaxy. Finally, we also identify 18 unknown groups with good spatial clustering and proper-motion consistency, suggesting the possibility of further excavation of Milky Way substructures in the future with only 5D data.
+]]></content:encoded>
+
+<pubDate>2025-01-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Causal Discovery in Astrophysics: Unraveling Supermassive Black Hole and Galaxy Coevolution</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ded</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ded</guid>
+<content:encoded><![CDATA[
+
+Correlation does not imply causation, but patterns of statistical association between variables can be exploited to infer a causal structure (even with purely observational data) with the burgeoning field of causal discovery. As a purely observational science, astrophysics has much to gain by exploiting these new methods. The supermassive black hole (SMBH)–galaxy interaction has long been constrained by observed scaling relations, which is low-scatter correlations between variables such as SMBH mass and the central velocity dispersion of stars in a host galaxy's bulge. This study, using advanced causal discovery techniques and an up-to-date data set, reveals a causal link between galaxy properties and dynamically measured SMBH masses. We apply a score-based Bayesian framework to compute the exact conditional probabilities of every causal structure that could possibly describe our galaxy sample. With the exact posterior distribution, we determine the most likely causal structures and notice a probable causal reversal when separating galaxies by morphology. In elliptical galaxies, bulge properties (built from major mergers) tend to influence SMBH growth, while, in spiral galaxies, SMBHs are seen to affect host galaxy properties, potentially through feedback in gas-rich environments. For spiral galaxies, SMBHs progressively quench star formation, whereas, in elliptical galaxies, quenching is complete, and the causal connection has reversed. Our findings support theoretical models of hierarchical assembly of galaxies and active galactic nuclei feedback regulating galaxy evolution. Our study suggests the potentiality for further exploration of causal links in astrophysical and cosmological scaling relations, as well as any other observational science.
+]]></content:encoded>
+
+<pubDate>2025-01-28T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Spectral Energy Distribution Variability of the Blazar OJ 287 During 2009–2021</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f30</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f30</guid>
 <content:encoded><![CDATA[
-
 Using nearly simultaneous radio, near-infrared, optical, and ultraviolet (UV) data collected since 2009, we constructed 106 spectral energy distributions (SEDs) of the blazar OJ 287. These SEDs are well fitted by a log-parabolic model. By classifying the data into “flare” and “quiescent” segments, we find that the median flux at the peak frequency of the SEDs during the flare segments is 0.37 ± 0.22 dex higher compared to the quiescent segments, while no significant differences are observed in the median values of the curvature parameter b or the peak frequency . A significant bluer-when-brighter trend is confirmed through the relation between the V magnitude and B − V color index, with this trend being stronger in the flare segments. Additionally, a significant anticorrelation is detected between and b, with a slope of 5.79 in the relation between 1/b and , closer to the prediction from a statistical acceleration model than a stochastic acceleration interpretation, though a notable discrepancy persists. This discrepancy indicates that additional factors—such as deviations from idealized conditions or radiative contributions, such as the thermal emission from the accretion disk in the optical–UV range during quiescent states—may play a role in producing the observed steeper slope. Within the framework of the statistical acceleration mechanism, the lack of correlation between the change in the peak intensity and the change in the peak frequency suggests that the change in the electron energy distribution is unlikely to be responsible for the time-dependent SED changes. Instead, changes in Doppler boosting or magnetic fields may have a greater influence.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@ Using nearly simultaneous radio, near-infrared, optical, and ultraviolet (UV) da
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d4</guid>
 <content:encoded><![CDATA[
-
 A complete sample of red supergiant (RSG) stars is important for studying their properties. Identifying RSGs in extragalactic fields first requires removing the Galactic foreground dwarfs. The color–color diagram (CCD) method, specifically using r − z/z − H and J − H/H − K, has proven successful in several studies. However, in metal-poor galaxies, faint RSGs will mix into the dwarf branch in the CCD and would be removed, leading to an incomplete RSG sample. This work attempts to improve the CCD method in combination with the Gaia astrometric measurement to remove foreground contamination in order to construct a complete RSG sample in metal-poor galaxies. The empirical regions of RSGs in both CCDs are defined and modified by fitting the locations of RSGs in galaxies with a range of metallicity. The metal-poor galaxy NGC 6822 is taken as a case study for its low metallicity ([Fe/H] ≈ −1.0) and moderate distance (about 500 kpc). In the complete sample, we identify 1184 RSG, 1559 oxygen-rich AGB (O-AGBs), 1075 carbon-rich AGB (C-AGBs), and 140 extreme AGB (x-AGBs) candidates, with a contamination rate of approximately 20.5%, 9.7%, 6.8%, and 5.0%, respectively. We also present a pure sample, containing only the sources away from the dwarf branch, which includes 843 RSG, 1519 O-AGB, 1059 C-AGB, and 140 x-AGB candidates, with a contamination rate of approximately 6.5%, 8.8%, 6.1%, and 5.0%, respectively. About 600 and 450 RSG candidates are newly identified in the complete and pure samples, respectively, compared to the previous RSG sample in NGC 6822.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +72,10 @@ A complete sample of red supergiant (RSG) stars is important for studying their 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d6</guid>
 <content:encoded><![CDATA[
-
 We study the asymmetric interaction of wave-like velocity perturbation with a coronal current sheet (CS) in the presence of resistivity, thermal conduction (TC), and radiative cooling (RC). We analyze the dynamics and energetics of the CS in four cases, namely, (i) no energy loss, (ii) TC only, (iii) RC only, and (iv) TC+RC. Before fragmentation, thinning and elongation of the CS are found to be identical in all four cases and therefore independent of the presence or absence of energy loss effects. Onset times, corresponding Lundquist numbers, and aspect ratios suggest that TC advances the onset of fragmentation while RC has the opposite effect in comparison to the absence of energy losses. Reconnection takes place at a higher rate in the presence of TC and TC+RC in the tearing unstable CS. Speeds of plasmoids are also found to be higher under the effect of TC and TC+RC. In the presence of TC and TC+RC, average density becomes higher within the tearing unstable CS than in the other two cases. As expected, the estimated average temperature is increasing with the highest and lowest rates in the absence of energy losses and in the presence of both TC and RC, respectively. After the onset of fragmentation, the rate of decrement of average magnetic energy density and increment of average kinetic energy density becomes higher in the presence of TC and TC+RC than in the other two cases. Thus, we conclude that the presence of energy-loss mechanisms critically influences the dynamics, energetics, and plasmoid formation within a reconnecting coronal CS.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Nonthermal Velocities in a Solar Active Region Observed by SERTS</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada24d</link>
@@ -10036,43 +10074,6 @@ The Fe ii/Mg ii emission line flux ratio in quasar spectra serves as a proxy for
 总结: 
 镧系元素的准确原子结构和波长依赖的不透明度高度不确定，这导致在建模短暂事件如光新星和估算质量、特征速度和重金属含量等关键性质时出现系统误差。研究量化了来自文献各处的原子数据以及r过程放射性衰变加热的热化效率选择对光新星光谱的影响。研究结果表明，原子数据的差异对估算镧系物质质量分数有显著影响，质量估算通常相差25%至40%。 选择热化效率也可能对质量估计产生20%至50%的影响。观测性质如颜色和衰变速率高度依赖于模型。速度估计在仅基于光变曲线拟合时，典型误差约为100%。轻r过程元素的原子数据可能强烈影响蓝色发射。即使是像GW170817这样观测良好的事件，使用不同的原子数据集估算的总镧系产量可能相差约6倍。 <br /><br /> <div>
 The precise atomic structure and therefore the wavelength-dependent opacities of lanthanides are highly uncertain. This uncertainty introduces systematic errors in modeling transients like kilonovae and estimating key properties such as mass, characteristic velocity, and heavy metal content. Here, we quantify how atomic data from across the literature as well as choices of thermalization efficiency of r-process radioactive decay heating impact the light curve and spectra of kilonovae. Specifically, we analyze the spectra of a grid of models produced by the radiative transfer code Sedona that span the expected range of kilonova properties to identify regions with the highest systematic uncertainty. Our findings indicate that differences in atomic data have a substantial impact on estimates of lanthanide mass fraction, spanning approximately 1 order of magnitude for lanthanide-rich ejecta, and demonstrate the difficulty in precisely measuring the lanthanide fraction in lanthanide-poor ejecta. Mass estimates vary typically by 25%–40% for differing atomic data. Similarly, the choice of thermalization efficiency can affect mass estimates by 20%–50%. Observational properties such as color and decay rate are highly model dependent. Velocity estimation, when fitting solely based on the light curve, can have a typical error of ∼100%. Atomic data of light r-process elements can strongly affect blue emission. Even for well-observed events like GW170817, the total lanthanide production estimated using different atomic data sets can vary by a factor of ∼6.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Radiative Pressure on Fractal Dust Grains in Oxygen-rich AGB Stars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ddf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ddf</guid>
-<content:encoded><![CDATA[
-<div> 辐射压力, 硅酸盐, 铁含量, 凝结距离, 颗粒聚集
-
-总结:
-辐射传输计算显示，不含铁的硅酸盐可以在恒星附近凝结，但通常缺乏足够的不透明度推动气流，除非颗粒足够大，以至于散射引起的辐射压力显著。含铁硅酸盐具有更高的吸收不透明度，但由于吸收更强，其预期凝结位置远远超出了预期的尘埃形成区。最近的研究表明，SiO的冷凝生长效率较低，这意味着成核可能持续更长时间，产生更多更小的初生颗粒，增加了在这些气流中颗粒聚集的可能性。通过聚集成分形聚集物，我们研究了辐射压力随着这些初生颗粒聚集的变化。使用镁铝橄榄石和天文硅酸盐的光学特性进行不同数量（最高256个）初生颗粒和不同分形维度（1.8和2.8）的组合进行不透明度计算。对于半径小于0.1μm的初生颗粒，聚集导致辐射压力增强，超过了等效孤立初生颗粒的结果。 <div>
-There is still considerable debate on the exact composition of grains formed in the outflows of O-rich, asymptotic giant branch stars. Estimates of the expected condensation distances based on radiative transfer calculations show that iron-free silicates can condense close to the star but typically lack the opacity to drive an outflow unless they are large enough that radiation pressure due to scattering on the grains becomes significant. Iron-containing silicates have a much higher absorption opacity, but due to this stronger absorption, their expected condensation location is well beyond the expected dust formation zone. Recent measurements of the efficiency of SiO condensational growth have shown that this rate is low. The result of this low growth efficiency is that nucleation may persist for longer, giving a larger number of smaller primary particles, leading to an increased likelihood of particle aggregation in these outflows. In this work, we examine how the radiation pressure changes with the possible aggregation of these primary particles into fractal aggregates. Opacity calculations are made using optical properties of both forsterite and astronomical silicate for aggregates containing up to 256 primary particles and for fractal dimensions of 1.8 and 2.8. For primary particles of radius less than ∼0.1 μm, aggregation leads to an enhancement of the radiation pressure over an equivalent cloud of isolated primary particles.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Measurements of Sunspot Group Tilt Angles Based on SOHO/MDI and SDO/HMI Magnetograms</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7dec</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7dec</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳黑子群，倾斜角，太阳活动周期，数据分析，太阳表面磁场<br />
-总结: <br />
-研究利用来自SOHO / MDI和SDO / HMI的磁图测量了2008年至2023年间11,373个太阳黑子群的倾斜角。研究发现，在太阳活动周期24期间，太阳黑子群的倾斜角随着纬度的增加而增加，符合Joy定律。另外，发现了倾斜角与太阳活动强度之间的显著负相关关系。研究还揭示了倾斜角参数的南北半球不对称性，南半球的倾斜角显著大于北半球。 <div>
-The tilt angle of sunspot groups plays a crucial role in solar dynamo models for the generation of the poloidal field, yet the statistical properties of the tilt angle are not fully comprehended. This study employs magnetograms from the Solar and Heliospheric Observatory/Michelson Doppler Imager and Solar Dynamics Observatory/Helioseismic and Magnetic Imager to measure the tilt angles of 11,373 sunspot groups over the period from 2008 to 2023. This comprehensive analysis examines the relationship between the tilt angle and latitude of the sunspot groups, as well as the correlation between the tilt angle and solar cycle strength. The methodology involves calculating tilt angles within the ±45° central meridian distance, comparing mean-based and median-based measurements, and applying specific angular separation criteria. The findings reveal that during solar cycle 24, the tilt angles increase by approximately 4° for every 10° increase in latitude, in line with Joy’s law. A significant anticorrelation is observed between the latitude-normalized tilt angle (γ/∣L∣) and solar cycle strength. The research also uncovers a substantial hemispheric asymmetry in tilt angle parameters, with the southern hemisphere (mJoy: 0.23 ± 0.092 ∼ 0.24 ± 0.074, γ = 8.°14 ± 0.°43 ∼ 9.°04 ± 0.°486) consistently showing larger tilt angles than the northern hemisphere (mJoy: 0.47 ± 0.096 ∼ 0.51 ± 0.062, γ = 6.°14 ± 0.°304 ∼ 6.°64 ± 0.°334).
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Convective Magnetic Flux Emergence Simulations from the Deep Solar Interior to the Photosphere: Comprehensive Study of Flux Tube Twist</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e1d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e1d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 磁通量、太阳磁场、数值模拟、磁扭曲、活跃区域
-总结:
-太阳深对流区的磁通量的出现对太阳磁活动起着重要作用，研究表明磁扭曲对磁通量的出现有一定影响。研究使用了R2D2代码进行了数值模拟，通过系统性地调研了初始磁扭曲。结果表明，无论初始的扭曲如何，磁通量都会被上升并在光球层形成太阳黑子。然而，当扭曲太弱时，光球层的磁通很快就会扩散并不能长期保持成为连贯的太阳黑子。磁扭曲在光球层的度量相对较好，并与太阳观察结果相当。总而言之，超过了扭曲临界值的情况下，发现磁螺旋度相对于总磁通量来说是不合理的大，这意味着扭曲不太可能是太阳耀斑产生活跃区域的一个典型情形。 <div>
-The emergence of magnetic flux from the deep convection zone plays an important role in solar magnetism, such as the generation of active regions and triggering of various eruptive phenomena, including jets, flares, and coronal mass ejections. To investigate the effects of magnetic twist on flux emergence, we performed numerical simulations of flux tube emergence using the radiative magnetohydrodynamic code R2D2 and conducted a systematic survey on the initial twist. Specifically, we varied the twist of the initial tube both positively and negatively from zero to twice the critical value for kink instability. As a result, regardless of the initial twist, the flux tube was lifted by the convective upflow and reached the photosphere to create sunspots. However, when the twist was too weak, the photospheric flux was quickly diffused and not retained long as coherent sunspots. The degree of magnetic twist measured in the photosphere conserved the original twist relatively well and was comparable to actual solar observations. Even in the untwisted case, a finite amount of magnetic helicity was injected into the upper atmosphere because the background turbulence added helicity. However, when the initial twist exceeded the critical value for kink instability, the magnetic helicity normalized by the total magnetic flux was found to be unreasonably larger than the observations, indicating that the kink instability of the emerging flux tube may not be a likely scenario for the formation of flare-productive active regions.
 ]]></content:encoded>
 <pubDate>2024-11-05T00:00:00Z</pubDate>
 </item>
