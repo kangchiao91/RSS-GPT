@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Planet–Planet Scattering and Von Zeipel–Lidov–Kozai Migration—The Dynamical History of HAT-P-11</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b79</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b79</guid>
+<content:encoded><![CDATA[
+
+The two planets of the HAT-P-11 system represent fascinating dynamical puzzles due to their significant eccentricities and orbital misalignments. In particular, HAT-P-11 b is in a close-in orbit in which tides should have circularized well within the age of the system. Here we propose a two-step dynamical process that can reproduce all intriguing aspects of the system. We first invoke planet–planet scattering to generate significant eccentricities and mutual inclinations between the planets. We then propose that this misalignment initiated von-Zeipel-Lidov-Kozai cycles and high-eccentricity migration that ultimately brought HAT-P-11 b to its present-day orbit. We find that this scenario is fully consistent only when significant tidally driven radius inflation is accounted for during the tidal migration. We present a suite of N-body simulations exploring each phase of evolution and show that this scenario is consistent with all observational posteriors and the reported age of the system.
+]]></content:encoded>
+
+<pubDate>2025-01-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>3D Convective Urca Process in a Simmering White Dwarf</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bb0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bb0</guid>
+<content:encoded><![CDATA[
+
+A proposed setting for thermonuclear (Type Ia) supernovae is a white dwarf that has gained mass from a companion to the point of carbon ignition in the core. In the early stages of carbon burning, called the simmering phase, energy released by the reactions in the core drive the formation and growth of a core convection zone. One aspect of this phase is the convective Urca process, a linking of weak nuclear reactions to convection, which may alter the composition and structure of the white dwarf. The convective Urca process is not well understood and requires 3D fluid simulations to properly model the turbulent convection, an inherently 3D process. Because the neutron excess of the fluid both sets and is set by the extent of the convection zone, the realistic steady state can only be determined in simulations with real 3D mixing processes. Additionally, the convection is relatively slow (Mach number less than 0.005) and thus a low Mach number method is needed to model the flow over many convective turnovers. Using the MAESTROeX low Mach number hydrodynamic software, we present the first full-star 3D simulations of the A = 23 convective Urca process, spanning hundreds of convective turnover times. Our findings on the extent of mixing across the Urca shell, the characteristic velocities of the flow, the energy-loss rates due to neutrino emission, and the structure of the convective boundary can be used to inform 1D stellar models that track the longer-timescale evolution.
+]]></content:encoded>
+
+<pubDate>2025-01-28T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Extreme Scale Height Variations and Nozzle Shocks in Warped Disks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a85</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a85</guid>
+<content:encoded><![CDATA[
+
+Accretion disks around both stellar-mass and supermassive black holes (BHs) are likely often warped. Whenever a disk is warped, its scale height varies with azimuth. Sufficiently strong warps cause extreme compressions of the scale height, which fluid parcels “bounce” off of twice per orbit to high latitudes. We study the dynamics of strong warps using (i) the nearly analytic “ring theory” of Fairbairn & Ogilvie, which we generalize to the Kerr metric, and (ii) three-dimensional general-relativistic hydrodynamic simulations of tori (“rings”) around BHs, using the H-AMR code. We initialize a ring with a warp and study its evolution on tens of orbital periods. The simulations agree excellently with the ring theory until the warp amplitude, ψ, reaches a critical value ψc. When ψ > ψc, the rings enter the bouncing regime. We analytically derive (and numerically validate) that in the non-Keplerian regime, where rg = GM/c2 is the gravitational radius, and M is the mass of the central object. Whenever the scale height bounces, the vertical velocity becomes supersonic, leading to “nozzle shocks” as gas collides at the scale height minima. Nozzle shocks damp the warp within ≈10–20 orbits, which is not captured by the ring theory. Nozzle shock dissipation leads to inflow timescales 1–2 orders of magnitude shorter than unwarped α disks, which may result in rapid variability, such as in changing-look active galactic nuclei or in the soft state of X-ray binaries. We propose that steady disks with strong warps may self-regulate to have amplitudes near ψc.
+]]></content:encoded>
+
+<pubDate>2025-01-27T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The M BH–M ∗ Relation up to z ∼ 2 through Decomposition of COSMOS-Web NIRCam Images</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d0a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d0a</guid>
 <content:encoded><![CDATA[
-
 Our knowledge of relations between supermassive black holes and their host galaxies at z ≳ 1 is still limited, even though being actively sought out to z ∼ 6. Here, we use the high resolution and sensitivity of JWST to measure the host galaxy properties for 107 X-ray-selected type-I active galactic nuclei (AGNs) at 0.68 < z < 2.5 with rest-frame optical/near-infrared imaging from COSMOS-Web and PRIMER. Black hole masses ( ) are available from previous spectroscopic campaigns. We extract the host galaxy components from four NIRCam broadband images and the Hubble Space Telescope/Advanced Camera for Surveys F814W image by applying a 2D image decomposition technique. We detect the host galaxy for ∼90% of the sample after subtracting the unresolved AGN emission. With host photometry free of AGN emission, we determine the stellar mass of the host galaxies to be through spectral energy distribution fitting and measure the evolution of the mass relation between SMBHs and their host galaxies. Considering selection biases and measurement uncertainties, we find that the MBH/M*ratio evolves as thus remains essentially constant or exhibits mild evolution up to z ∼ 2.5. We also see an amount of scatter ( ), similar to the local relation and consistent with low-z studies, and a noncausal cosmic assembly history where mergers contribute to the statistical averaging toward the local relation is still feasible. We highlight improvements to come with larger samples from JWST and, particularly, Euclid, which will exceed the statistical power of current wide and deep surveys.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ Our knowledge of relations between supermassive black holes and their host galax
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dd3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dd3</guid>
 <content:encoded><![CDATA[
-
 The Transiting Exoplanet Survey Satellite (TESS) mission identified a potential 0.88R⊕ planet with a period of 7.577 days, orbiting the nearby M1V star GJ 341 (TOI 741.01). This system has already been observed by the James Webb Space Telescope (JWST) to search for presence of an atmosphere on this planet. Here, we present an in-depth analysis of the GJ 341 system using all available public data. We provide improved parameters for the host star, an updated value of the planet radius, and support the planetary nature of the object (now GJ 341 b). We use 57 HARPS radial velocities to model the magnetic cycle and activity of the host star, and constrain the mass of GJ 341 b to upper limits of 4.0 M⊕ (3σ) and 2.9 M⊕ (1σ). We also rule out the presence of additional companions with M sin i > 15.1 M⊕, and P < 1750 days, and the presence of contaminating background objects during the TESS and JWST observations. These results provide key information to aid the interpretation of the recent JWST atmospheric observations and other future observations of this planet.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@ The Transiting Exoplanet Survey Satellite (TESS) mission identified a potential 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de0</guid>
 <content:encoded><![CDATA[
-
 Motivated by the vast gap between photometric and spectroscopic data volumes, there is great potential in using 5D kinematic information to identify and study substructures of the Milky Way. We identify substructures in the Galactic halo using 46,575 RR Lyrae stars (RRLs) from Gaia Data Release 3, with photometric metallicities and distances newly estimated by X.-Y. Li et al. Assuming a Gaussian prior distribution of radial velocity, we calculate the orbital distribution characterized by the integrals of motion for each RRL, based on its 3D positions, proper motions, and corresponding errors, and then apply the friends-of-friends algorithm to identify groups moving along similar orbits. We have identified several known substructures, including the Sagittarius stream, the Hercules-Aquila Cloud (HAC), the Virgo Overdensity (VOD), Gaia-Enceladus-Sausage (GES), the Orphan-Chenab stream, Cetus-Palca, the Helmi streams, Sequoia, Wukong, and the Large Magellanic Cloud leading arm, as well as 18 unknown groups. Our findings indicate that the HAC and VOD have kinematic and chemical properties remarkably similar to GES, with most HAC and VOD members exhibiting eccentricity as high as GES, suggesting that they may share a common origin with GES. The ability to identify low-mass and spatially dispersed substructures further demonstrates the potential of our method, which breaks the limit of spectroscopic surveys and is competent for probing substructures throughout the whole Galaxy. Finally, we also identify 18 unknown groups with good spatial clustering and proper-motion consistency, suggesting the possibility of further excavation of Milky Way substructures in the future with only 5D data.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +70,10 @@ Motivated by the vast gap between photometric and spectroscopic data volumes, th
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ded</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ded</guid>
 <content:encoded><![CDATA[
-
 Correlation does not imply causation, but patterns of statistical association between variables can be exploited to infer a causal structure (even with purely observational data) with the burgeoning field of causal discovery. As a purely observational science, astrophysics has much to gain by exploiting these new methods. The supermassive black hole (SMBH)–galaxy interaction has long been constrained by observed scaling relations, which is low-scatter correlations between variables such as SMBH mass and the central velocity dispersion of stars in a host galaxy's bulge. This study, using advanced causal discovery techniques and an up-to-date data set, reveals a causal link between galaxy properties and dynamically measured SMBH masses. We apply a score-based Bayesian framework to compute the exact conditional probabilities of every causal structure that could possibly describe our galaxy sample. With the exact posterior distribution, we determine the most likely causal structures and notice a probable causal reversal when separating galaxies by morphology. In elliptical galaxies, bulge properties (built from major mergers) tend to influence SMBH growth, while, in spiral galaxies, SMBHs are seen to affect host galaxy properties, potentially through feedback in gas-rich environments. For spiral galaxies, SMBHs progressively quench star formation, whereas, in elliptical galaxies, quenching is complete, and the causal connection has reversed. Our findings support theoretical models of hierarchical assembly of galaxies and active galactic nuclei feedback regulating galaxy evolution. Our study suggests the potentiality for further exploration of causal links in astrophysical and cosmological scaling relations, as well as any other observational science.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Spectral Energy Distribution Variability of the Blazar OJ 287 During 2009–2021</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f30</link>
@@ -10019,61 +10044,6 @@ We report an M9.3 flare and filaments activities from NOAA Active Region 11261 t
 总结:<br />
 Parker Solar Probe观测到了具有近径向Parker螺旋几何形状的磁场区域，被称为静止区域。这些区域在太阳风的磁场强度变化（δB/〈∣B∣〉）方面表现出非常低的特点。静止区域具有较低的太阳风速度、质子温度和质子密度。在15个太阳半径内，静止区域显示出明显的热性质差异，具有较高的质子温度各向异性和较低的平行等离子体贝塔值。静止区域的太阳风在-β∥p图上更加稳定，表明其起源与周围更湍流的非静止太阳风不同。因此，增强的温度各向异性和增强的磁场强度可能与磁场线经历的磁场膨胀程度较小有关。 <div>
 Regions of magnetic fields with near-radial, Parker-spiral-like geometry known as quiescent regions have been observed in Parker Solar Probe data. These regions have very low δB/〈∣B∣〉 compared to nonquiescent solar wind at the same heliocentric distances. Quiescent regions are observed to have lower solar wind bulk speeds, lower proton temperatures, and lower proton density. Inside of 15 solar radii (R⊙), identified quiescent regions show distinct thermal properties, having higher proton temperature anisotropies and lower parallel plasma betas compared to switchback patches observed at the same heliocentric distances. When placed on -versus-β∥p plots (where is the proton temperature anisotropy), quiescent region solar wind is shown to be more stable to proton cyclotron and firehose instabilities than nonquiescent solar wind at the same heliocentric distances. It is shown that quiescent regions evolve similarly to the surrounding nonquiescent solar wind, but quiescent solar wind begins at a different location in the -versus-β∥p parameter space, suggesting that these regions have separate origins from the more turbulent nonquiescent solar wind. Namely, enhanced temperature anisotropies and enhanced magnetic field strength may be consistent with magnetic field lines that have undergone less magnetic field expansion compared to nonquiescent wind at the same heliocentric distances.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Determining the Magnetic Field in the Galactic Plane from New Arecibo Pulsar Faraday Rotation Measurements</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b15</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7b15</guid>
-<content:encoded><![CDATA[
-<div> 脉冲星，法拉第旋转测量，银河磁场，螺旋臂，磁场反转
-<br />
-研究人员开发了一种新方法，利用脉冲星的法拉第旋转测量来研究螺旋臂沿线的银河磁场。他们的新技术考虑了法拉第旋转的点积性质，并将相关路径积分分割成沿视线的特定区域。研究人员将这种几何校正的一臂一臂技术应用于最近发表的313颗脉冲星的阿雷西博法拉第旋转测量的低纬度部分，并与先前在相同区域获得的旋转测量进行比较。他们发现在局部臂、人马座臂、人马座-天蝎座臂间隙、天蝎座臂和英仙座臂的平面上下的磁场大小存在超过1σ的差异。此外，他们发现在局部臂-人马座臂边界附近存在单一的磁场反转。有趣的是，研究结果表明，这种磁场反转取决于纬度，在银河负纬度处在人马座臂内发生，在正纬度处在局部臂-人马座臂边界发生。研究人员将所有结果讨论在不同模型和其他观测银河磁场分析的背景下。 
-<br /><br />总结: 
-1. 开发了一种新方法来研究螺旋臂沿线的银河磁场
-2. 发现在多个螺旋臂的平面上下存在磁场大小差异
-3. 在局部臂-人马座臂边界存在磁场反转
-4. 磁场反转取决于纬度的变化
-5. 讨论了研究结果在不同模型和观测银河磁场分析中的意义 <div>
-We develop a new method for studying the Galactic magnetic field along the spiral arms using pulsar Faraday rotation measures (RMs). Our new technique accounts for the dot-product nature of Faraday rotation and also splits the associated path integral into segments corresponding to particular zones along the line of sight. We apply this geometrically corrected, arm-by-arm technique to the low-latitude portion of a recently published set of Arecibo Faraday RMs for 313 pulsars, along with previously obtained RMs in the same regions. We find disparities >1σ between the magnitude of the field above and below the plane in the Local Arm, Sagittarius Arm, Sagittarius-to-Scutum Interarm, Scutum Arm, and Perseus Arm. We find evidence for a single field reversal near the Local Arm–Sagittarius Arm boundary. Interestingly, our results suggest that this field reversal is dependent on latitude, occurring inside the Sagittarius Arm at negative Galactic latitudes and at the Local Arm–Sagittarius Arm boundary at positive Galactic latitudes. We discuss all of our results in the context of different models and other observational Galactic magnetic field analyses.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Joint Observations of Late Universe Probes: Cosmological Parameter Constraints from Gravitational Wave and Type Ia Supernova Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb5</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 宇宙学，引力波，超新星，暗能量，宇宙参数
-总结:
-这项研究利用第三次LIGO-Virgo-KAGRA引力波瞬变目录中的43个引力波源和Pantheon+合编的1590个光度曲线，来约束暗能量模型，以实现对宇宙参数的精确测量。利用暗射波引力波事件，估计相应的红移。引力波和超新星联合数据能够提供对ΛCDM模型哈勃常数H0和现在物质密度Ωm约16%和8%的精度，并约束暗能量状态方程w的精度约为24%。尽管联合引力波和超新星观测有效地打破了各种宇宙学参数的简并，得到了更严格的约束，但这些约束的精度仍不符合精密宇宙学所需的严格标准。然而，可以合理预期，在不久的将来，引力波和超新星的联合观测将成为在晚期宇宙尤其是对宇宙参数进行精确测量的强大工具。 <div>
-The growing tensions between the early Universe and the late Universe increasingly highlight the importance of developing precise probes for late cosmology. As significant late-Universe probes, Type Ia supernovae (SNe Ia) and gravitational waves (GWs) can provide measurements of relative and absolute distances, respectively. Their complementary nature is likely to break the degeneracies among cosmological parameters, thereby yielding more precise constraints. In this study, we use 43 gravitational-wave sources from the Third LIGO–Virgo–KAGRA Gravitational-Wave Transient Catalog (GWTC-3) and 1590 light curves from Pantheon+ compilation to constrain the dark energy models, as an attempt to achieve precise late-Universe cosmological constraints. For the dark siren GW event, we estimate the corresponding redshift using the binary black hole redshift distribution model. The combination of GW and SNe Ia data could provide the precision on the Hubble constant H0 and the present matter density Ωm of approximately 16% and 8% for the ΛCDM model. If we consider the equation of state of dark energy w, the combination sample constrains the precision of w to approximately 24%. Although the combination of GWs and SNe Ia observations effectively breaks degeneracies among various cosmological parameters, yielding more stringent constraints, the precision of these constraints still does not meet the stringent standards required by precision cosmology. However, it is reasonable to anticipate that, in the near future, the joint observations of GWs and SNe Ia will become a powerful tool, particularly in the late Universe, for the precise measurement of cosmological parameters.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>No Redshift Evolution in the Fe ii/Mg ii Flux Ratios of Quasars across Cosmic Time</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d09</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d09</guid>
-<content:encoded><![CDATA[
-<div> 高红移类星体、Fe ii/Mg ii比率、宇宙时钟、铁的丰度、早期宇宙演化
-总结:
-研究了高红移类星体的Fe ii/Mg ii比率及其在早期宇宙中作为铁和α元素丰度的代理。使用VLT XSHOOTER采集了一组明亮类星体的高质量近红外光谱。结果显示，在z = 1到6.6的广泛红移范围内，Fe ii/Mg ii比率没有显著的演化。这一结果支持了之前的研究结果，表明在高红移时期，超大质量黑洞周围的铁快速富集。 <div>
-The Fe ii/Mg ii emission line flux ratio in quasar spectra serves as a proxy for the relative Fe to α-element abundances in the broad-line regions of quasars. Due to the expected different enrichment timescales of the two elements, they can be used as a cosmic clock in the early Universe. We present a study of the Fe ii/Mg ii ratios in a sample of luminous quasars exploiting high-quality near-IR spectra taken primarily by the XQR-30 program with VLT XSHOOTER. These quasars have a median bolometric luminosity of log(Lbol[erg s−1]) ∼ 47.3 and cover a redshift range of z = 6.0–6.6. The median value of the measured Fe ii/Mg ii ratios is ∼7.9 with a normalized median absolute deviation of ∼2.2. In order to trace the cosmic evolution of Fe ii/Mg ii in an unbiased manner, we select two comparison samples of quasars with similar luminosities and high-quality spectra from the literature, one at intermediate redshifts (z = 3.5–4.8) and the other at low redshifts (z = 1.0–2.0). We perform the same spectral analysis for all these quasars, including the usage of the same iron template, the same spectral fitting method, and the same wavelength fitting windows. We find no significant redshift evolution in the Fe ii/Mg ii ratio over the wide redshift range from z = 1 to 6.6. The result is consistent with previous studies and supports the scenario of a rapid iron enrichment in the vicinity of accreting supermassive black holes at high redshift.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Impact of Systematic Modeling Uncertainties on Kilonova Property Estimation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d83</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d83</guid>
-<content:encoded><![CDATA[
-<div> 关键词: lanthanides, kilonovae, atomic data, systematic uncertainty, radiative transfer code
-
-总结: 
-镧系元素的准确原子结构和波长依赖的不透明度高度不确定，这导致在建模短暂事件如光新星和估算质量、特征速度和重金属含量等关键性质时出现系统误差。研究量化了来自文献各处的原子数据以及r过程放射性衰变加热的热化效率选择对光新星光谱的影响。研究结果表明，原子数据的差异对估算镧系物质质量分数有显著影响，质量估算通常相差25%至40%。 选择热化效率也可能对质量估计产生20%至50%的影响。观测性质如颜色和衰变速率高度依赖于模型。速度估计在仅基于光变曲线拟合时，典型误差约为100%。轻r过程元素的原子数据可能强烈影响蓝色发射。即使是像GW170817这样观测良好的事件，使用不同的原子数据集估算的总镧系产量可能相差约6倍。 <br /><br /> <div>
-The precise atomic structure and therefore the wavelength-dependent opacities of lanthanides are highly uncertain. This uncertainty introduces systematic errors in modeling transients like kilonovae and estimating key properties such as mass, characteristic velocity, and heavy metal content. Here, we quantify how atomic data from across the literature as well as choices of thermalization efficiency of r-process radioactive decay heating impact the light curve and spectra of kilonovae. Specifically, we analyze the spectra of a grid of models produced by the radiative transfer code Sedona that span the expected range of kilonova properties to identify regions with the highest systematic uncertainty. Our findings indicate that differences in atomic data have a substantial impact on estimates of lanthanide mass fraction, spanning approximately 1 order of magnitude for lanthanide-rich ejecta, and demonstrate the difficulty in precisely measuring the lanthanide fraction in lanthanide-poor ejecta. Mass estimates vary typically by 25%–40% for differing atomic data. Similarly, the choice of thermalization efficiency can affect mass estimates by 20%–50%. Observational properties such as color and decay rate are highly model dependent. Velocity estimation, when fitting solely based on the light curve, can have a typical error of ∼100%. Atomic data of light r-process elements can strongly affect blue emission. Even for well-observed events like GW170817, the total lanthanide production estimated using different atomic data sets can vary by a factor of ∼6.
 ]]></content:encoded>
 <pubDate>2024-11-05T00:00:00Z</pubDate>
 </item>
