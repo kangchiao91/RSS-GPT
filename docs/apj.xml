@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Constraining Solar Wind Transport Model Parameters Using Bayesian Analysis</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f2f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f2f</guid>
 <content:encoded><![CDATA[
-
 We apply nested-sampling Bayesian analysis to a model for the transport of magnetohydrodynamic-scale solar wind fluctuations. The dual objectives are to obtain improved constraints on parameters present in the turbulence transport model (TTM) and to support quantitative comparisons of the quality of distinct versions of the transport model. The TTMs analyzed are essentially the 1D steady-state ones presented in Breech et al. that describe the radial evolution of the energy, correlation length, and normalized cross helicity of the fluctuations, together with the proton temperature, in prescribed background solar wind fields. Modeled effects present in the TTM include nonlinear turbulence interactions, shear driving, and energy injection associated with pickup-ions. Each of these modeled effects involves adjustable parameters that we seek to constrain using Bayesian analysis. We find that, given the TTMs and observational data sets analyzed, the most appropriate TTM to recommend corresponds to 2D fluctuations and has von Kármán–Howarth parameters of α ≈ 0.16 and β ≈ 0.10, along with reasonably standard values for the other adjustable parameters. The analysis also indicates that it is advantageous to include pickup ion effects in the lengthscale evolution equation by assuming Z2β/αλ is locally conserved. Such Bayesian analysis is readily extended to more sophisticated solar wind models, space weather models, and might lead to improved predictions of, for example, solar flare and coronal mass ejection interactions with the Earth.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Planet–Planet Scattering and Von Zeipel–Lidov–Kozai Migration—The Dynamical History of HAT-P-11</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b79</link>
@@ -10000,18 +9998,6 @@ Polarization measurements provide insight into the magnetic field, a critical as
 这项研究分析了2014年至2019年间Spitzer Space Telescope观测到的约950个微引力透镜事件样本，重点关注了9个微引力透镜事件子样本，根据它们的长时间尺度、小微引力透镜视差和Gaia任务的联合观测进行了选择，以增加所选透镜为巨大并且质量可测量的概率。在所选事件中，识别了黑洞和中子星候选透镜，并有望通过2026年Gaia时序测量数据的发布进行进一步确认。利用贝叶斯分析和银河模型，以及Gaia数据发布3的恰当运动数据，确定了四个潜在的暗残余体候选者：OGLE-2016-BLG-0293，OGLE-2018-BLG-0483，OGLE-2018-BLG-0662和 OGLE-2015-BLG-0149，其透镜质量分别为，，和。值得注意的是，前两个候选者有望展现Gaia可探测到的天文微引力透镜信号，从而提供验证透镜质量的可能性。本研究中开发的方法将应用于整个Spitzer微引力透镜样本，填补和分析时间尺度（tE）与视差（πE）图，以推导透镜总体和巨大残余体特别是残余体的约束。 
 <br /><br />总结: 本研究使用Spitzer Space Telescope观测到的微引力透镜事件样本，选择了九个具有潜在测量质量的候选事件，确定了四个黑洞和中子星的候选透镜，并通过银河模型和Gaia数据进行分析。该研究开发的方法将应用于整个Spitzer微引力透镜样本，以推导透镜总体和巨大残余体的约束。 <div>
 In the pursuit of understanding the population of stellar remnants within the Milky Way, we analyze the sample of ∼950 microlensing events observed by the Spitzer Space Telescope between 2014 and 2019. In this study we focus on a subsample of nine microlensing events, selected based on their long timescales, small microlensing parallaxes, and joint observations by the Gaia mission, to increase the probability that the chosen lenses are massive and the mass is measurable. Among the selected events we identify lensing black holes and neutron star candidates, with potential confirmation through forthcoming release of the Gaia time-series astrometry in 2026. Utilizing Bayesian analysis and Galactic models, along with the Gaia Data Release 3 proper-motion data, four good candidates for dark remnants were identified: OGLE-2016-BLG-0293, OGLE-2018-BLG-0483, OGLE-2018-BLG-0662, and OGLE-2015-BLG-0149, with lens masses of , , and , respectively. Notably, the first two candidates are expected to exhibit astrometric microlensing signals detectable by Gaia, offering the prospect of validating the lens masses. The methodologies developed in this work will be applied to the full Spitzer microlensing sample, populating and analyzing the timescale (tE) versus parallax (πE) diagram to derive constraints on the population of lenses in general and massive remnants in particular.
-]]></content:encoded>
-<pubDate>2024-11-05T00:00:00Z</pubDate>
-</item>
-<item>
-<title>JWST/NIRSpec Observations of Lyman α Emission in Star-forming Galaxies at 6.5 ≲ z ≲ 13</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eb7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7eb7</guid>
-<content:encoded><![CDATA[
-<div> Lyα spectroscopy, galaxies, JWST, redshift, reionization<br />
-Lyα光谱，星系，JWST，红移，再电离<br /><br />总结:
-本研究分析了JWST对z≳6.5星系的Lyα光谱，使用了公共数据库中的观测数据，涵盖了四个独立领域：GOOS-N、GOODS-S、A2744和EGS。我们测量了210个z≃6.5-13星系的Lyα发射线特性，并在所有案例中独立于Lyα确认了红移。我们发现三个新的Lyα发射线的探测，并且在GOOS-N中发现了一个大等效宽度（EW=143 Å）的Lyα发射线（LAE），并且还有强C iv发射（EW=21 Å），红移为7.1。我们测量了样本中Lyα等效宽度随红移的分布。我们发现在更早的时期，强Lyα发射（EW>25 Å）变得越来越罕见，暗示Lyα光子的传输在z≃5和z≃9之间下降了4倍。我们描述了对星系间介质中性分数的潜在影响。LAE比例在不同领域之间存在显著差异。与其他三个领域不同，EGS在z≃7-8没有减少Lyα光子的传输迹象，这表明该领域可能存在明显的电离视线。我们使用了来自第一再电离纪元光谱完整观测调查的NIRCam光栅观测数据，用于描述在GOOS领域周围已知LAE的大尺度密度过剩。在大多数情况下，最强的过剩密度似乎与极强的Lyα检测（EW>50 Å）有关。未来JWST的Lyα光谱观测有潜力约束早期星系密度周围电离区域的大小，提供再电离过程的新探针。 <div>
-We present an analysis of JWST Lyα spectroscopy of z ≳ 6.5 galaxies, using observations in the public archive covering galaxies in four independent fields: Great Observatories Origins Deep Survey (GOODS)-N, GOODS-S, A2744, and the Extended Groth Strip (EGS). We measure the Lyα emission line properties for a sample of 210 z ≃ 6.5–13 galaxies, with redshifts confirmed independently of Lyα in all cases. We present three new detections of Lyα emission in JWST spectra, including a large equivalent width (EW; =143 Å) Lyα emitter (LAE) with strong C iv emission (EW = 21 Å) at z = 7.1 in GOODS-N. We measure the redshift-dependent Lyα EW distribution across our sample. We find that strong Lyα emission (EW > 25 Å) becomes increasingly rare at earlier epochs, suggesting that the transmission of Lyα photons decreases by 4× between z ≃ 5 and z ≃ 9. We describe potential implications for the intergalactic medium neutral fraction. There is significant field-to-field variance in the LAE fraction. In contrast to the three other fields, the EGS shows no evidence for reduced transmission of Lyα photons at z ≃ 7–8, suggesting a significantly ionized sight line may be present in the field. We use available NIRCam grism observations from the First Reionization Epoch Spectroscopically Complete Observations survey to characterize overdensities on large scales around known LAEs in the GOODS fields. The strongest overdensities appear linked with extremely strong Lyα detections (EW > 50 Å) in most cases. Future Lyα spectroscopy with JWST has the potential to constrain the size of ionized regions around early galaxy overdensities, providing a new probe of the reionization process.
 ]]></content:encoded>
 <pubDate>2024-11-05T00:00:00Z</pubDate>
 </item>
