@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>SCUBADive. I. JWST+ALMA Analysis of 289 Submillimeter Galaxies in COSMOS-web</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada357</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada357</guid>
+<content:encoded><![CDATA[
+
+JWST has enabled detecting and spatially resolving the heavily dust-attenuated stellar populations of submillimeter galaxies, revealing detail that was previously inaccessible. In this work, we construct a sample of 289 submillimeter galaxies with joint Atacama Large Millimeter/submillimeter Array (ALMA) and JWST constraints in the COSMOS field. Sources are originally selected using the SCUBA-2 instrument and have archival ALMA observations from various programs. Their JWST NIRCam imaging is from COSMOS-Web and PRIMER. We extract multiwavelength photometry in a manner that leverages the unprecedented near-infrared (NIR) spatial resolution of JWST, and we fit the data with spectral energy distribution models to derive photometric redshifts, stellar masses, star formation rates, and optical attenuation. The sample has an average , , , and . There are 81 (30%) galaxies that have no previous optical/NIR detections, including 75% of the z > 4 subsample (n = 28). The faintest observed NIR sources have the highest redshifts and largest AV = 4 ± 1. In a preliminary morphology analysis we find that ∼10% of the members of our sample exhibit spiral arms and 5% host stellar bars, with one candidate bar found at z > 3. Finally, we find that the clustering of JWST sources within 10″ of a submillimeter galaxy is a factor of 2 greater than what is expected based on either random clustering or the distribution of sources around any red galaxy irrespective of a submillimeter detection.
+]]></content:encoded>
+
+<pubDate>2025-01-29T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Carbon and Iron Deficiencies in Quiescent Galaxies at z = 1–3 from JWST-SUSPENSE: Implications for the Formation Histories of Massive Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad96b6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad96b6</guid>
 <content:encoded><![CDATA[
-
 We present the stellar metallicities and multielement abundances (C, Mg, Si, Ca, Ti, Cr, and Fe) of 15 massive (log M/M⊙ = 10.2–11.2) quiescent galaxies at z = 1–3, derived from ultradeep JWST-SUSPENSE spectra. Compared to quiescent galaxies at z ∼ 0, these galaxies exhibit a deficiency of 0.26 ± 0.04 dex in [C/H], 0.16 ± 0.03 dex in [Fe/H], and 0.07 ± 0.04 dex in [Mg/H], implying rapid formation and quenching before significant enrichment from asymptotic giant branch stars and Type Ia supernovae. Additionally, we find that galaxies forming at higher redshift consistently show higher [Mg/Fe] and lower [Fe/H] and [Mg/H], regardless of their observed redshift. The evolution in [Fe/H] and [C/H] is therefore primarily driven by lower-redshift samples naturally including galaxies with longer star formation timescales. In contrast, the lower [Mg/H] likely reflects earlier-forming galaxies expelling larger gas reservoirs during their quenching phase. Consequently, the mass–metallicity relation, primarily reflecting [Mg/H], is somewhat lower at z = 1–3 compared to the lower-redshift relation. Finally, we compare our results to standard stellar population modeling approaches employing solar abundance patterns and nonparametric star formation histories (using Prospector). Our simple stellar population (SSP)-equivalent ages agree with the mass-weighted ages from Prospector, while the metallicities disagree significantly. Nonetheless, the metallicities better reflect [Fe/H] than total [Z/H]. We also find that the star formation timescales inferred from elemental abundances are significantly shorter than those from Prospector, and we discuss the resulting implications for the early formation of massive galaxies.
 ]]></content:encoded>
-
 <pubDate>2025-01-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ We present the stellar metallicities and multielement abundances (C, Mg, Si, Ca,
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a86</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9a86</guid>
 <content:encoded><![CDATA[
-
 Quasars are powered by supermassive black hole (SMBH) accretion disks, yet standard thin disk models are inconsistent with many observations. Recently, P. F. Hopkins et al. simulated the formation of a quasar disk feeding an SMBH of mass M = 1.3 × 107M⊙ in a galaxy. The disk had surprisingly strong toroidal magnetic fields that supported it vertically from gravity and powered rapid accretion. What feedback can such a system produce? To answer this, we must follow the gas to the event horizon. For this, we interpolated the quasar into the general-relativistic radiation magnetohydrodynamics code H-AMR and performed 3D simulations with BH spins a = 0 and a = 0.9375. This remapping generates magnetic monopoles, which we erase using a novel divergence cleaning approach. Despite the toroidal magnetic field's dominance at large radii, vertical magnetic flux builds up near the event horizon, leading to a magnetic state transition within the inner 200 gravitational radii of the disk. This powers strong winds and, for spinning BHs, relativistic jets that can spin down the BH within 5−10 Myr. Sometimes, vertical magnetic fields of opposite polarity reach the BH, causing a polarity inversion event that briefly destroys the jets and, possibly, the X-ray corona. These strong fields power accretion at rates 5× the Eddington limit, which can double the BH mass in 5–10 Myr. When a = 0.9375 (a = 0), the energy in mechanical outflows and radiation equals about 60% (10%) and 100% (3%) of the accreted rest mass energy, respectively. Much of the light escapes in cool, ≳1300 au photospheres, consistent with quasar microlensing and spectral energy distributions.
 ]]></content:encoded>
-
 <pubDate>2025-01-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@ Quasars are powered by supermassive black hole (SMBH) accretion disks, yet stand
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c67</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c67</guid>
 <content:encoded><![CDATA[
-
 We present the results of a Keck and Northern Extended Millimeter Array spectroscopic survey of 507 galaxies, where we confirm the presence of two massive overdensities at z = 3.090−3.110 and z = 3.133−3.155 in the neighborhood of the GOODS-N, each with over a dozen spectroscopically confirmed members. We find that both of these have galaxy overdensities of near-infrared-detected galaxies of δgal,obs = 6−9 within corrected volumes of (6−7) × 103 cMpc3. We estimate the properties of the z = 0 descendants of these overdensities using a spherical collapse model and find that both should virialize by z ≃ 0.5−0.8, with total masses of Mtot ≃ (6−7) × 1014M⊙. The same spherical collapse calculations, as well as a clustering-of-clusters statistical analysis, suggest a >80% likelihood that the two overdensities will collapse into a single cluster with Mtot = (1.0−1.5) × 1015M⊙ by z ~ 0.1−0.4. The z = 3.14 substructure contains a core of four bright dusty star-forming galaxies with ΣSFR = 2700 ± 700M⊙ yr−1 in a volume of only 280 cMpc3.
 ]]></content:encoded>
-
 <pubDate>2025-01-29T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +48,10 @@ We present the results of a Keck and Northern Extended Millimeter Array spectros
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada28a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada28a</guid>
 <content:encoded><![CDATA[
-
 In astrophysical relativistic plasmas, Alfvénic turbulence exists across a wide range of scales. Similar to a nonrelativistic case, this turbulence can be influenced by the tearing instability. We argue that in an ultrarelativistic pair plasma the tearing effects become significant at the critical scale given by , where L⊥ represents the outer scale of the turbulence and drel the relativistic electron inertial scale. Here n = 1 corresponds to the Harris magnetic configurations, while n = 2 applies to localized (non-Harris) magnetic profiles of turbulence-generated current sheets. Below the critical scale, the energy spectrum of magnetic fluctuations steepens to W(k)dk ∝ k−(7n+2)/3ndk. However, this happens only when , where is the magnetization parameter based on the magnetic fluctuations. If the opposite inequality holds, the Alfvénic cascade is instead affected by charge starvation at scales below , and the energy spectrum becomes steeper than W(k)dk ∝ k−3dk. When drel is replaced by its nonrelativistic equivalent, our results agree with the nonrelativistic analysis of N. F. Loureiro & S. Boldyrev (2018). In the Harris case n = 1, they agree with the recent relativistic studies by I. Demidov & Y. Lyubarsky.
 ]]></content:encoded>
-
 <pubDate>2025-01-29T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Fast-rotating A- and F-type Stars with Hα Emissions in NGC 3532: Candidate UV-dim Stars?</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de3</link>
@@ -9913,54 +9916,6 @@ Stellar models indicate that the core compactness of a star, which is a common p
 
 这篇文章研究了中高质量星形成星系（SFGs）的结构演化情景，通过比较它们的恒星质量分布和现今的恒星质量，来探讨自宇宙中期以来的演化情况。作者发现了SFGs尺寸演化速率的差异可能是由于样本选择和尺寸测量方法的变化所导致。为了验证这些因素，研究团队使用恒星质量增长历史（SMGHs）并结合星际物质主序的演化情况来追踪个体星系的演化过程，并使用IllustrisTNG模拟进行了验证。研究发现，从质量和光度角度估计的结构参数表明，质量加权的尺寸演化速率比光度加权的慢，突显了需要考虑质量与光度比（M/L）梯度。此外，观察到恒星质量分布具有质量相关的演化：大质量星系在z ≳ 1.5形成中心区域，并在外部区域增长更快，暗示了内部-外部的增长模式，而中等质量和小质量星系自z ∼ 2以来遵循相对自相似的质量堆积。此外，观察到的尺寸演化斜率与TNG50的预测相矛盾。研究团队通过半质量尺寸演化和简单的盘形成模型，发现观测到的角动量在过去的100亿年中减少了一半，而TNG50中基本保持不变。这种模拟中更高的角动量可能是由于高角动量气体的吸积所致。 <br /><br />总结：本文研究了中高质量星形成星系的结构演化情况，发现了尺寸演化速率的差异，探讨了质量到光度比对这一结果的影响。在比较质量加权和光度加权的尺寸演化之后，发现质量加权的尺寸演化速率更慢，质量较大的星系在演化过程中呈现出内部区域的形成和外部区域的快速增长，而质量较小的星系则呈现相对自相似的质量增长趋势。研究团队还观察到了与TNG50模拟结果的尺寸演化斜率的矛盾，并通过模型验证发现了观测到的角动量减少与模拟结果的差异。 <div>
 We aim to discern scenarios of structural evolution of intermediate-to-high-mass star-forming galaxies (SFGs) since cosmic noon by comparing their stellar mass profiles with present-day stellar masses of . We addressed discrepancies in the size evolution rates of SFGs, which may be caused by variations in sample selection and methods for size measurements. To check these factors, we traced the evolution of individual galaxies by identifying their progenitors using stellar mass growth histories (SMGHs), integrating along the star-forming main sequence and from the IllustrisTNG simulations. Comparison between the structural parameters estimated from the mass- and light-based profiles shows that mass-weighted size evolves at a slower pace compared to light-based ones, highlighting the need to consider the mass-to-light ratio (M/L) gradients. Additionally, we observed mass-dependent growth in stellar mass profiles: massive galaxies ( ) formed central regions at z ≳ 1.5 and grew faster in outer regions, suggesting inside-out growth, while intermediate-mass and less massive SFGs followed a relatively self-similar mass buildup since z ∼ 2. Moreover, slopes of observed size evolution conflict with the predictions of TNG50 for samples selected using the same SMGHs across our redshift range. To explore the origin of this deviation, we examined changes in angular momentum (AM) retention fraction using the half-mass size evolution and employing a simple disk formation model. Assuming similar dark matter halo parameters, our calculations indicate that the AM inferred from observations halved in the past 10 Gyr while it remained relatively constant in TNG50. This higher AM in simulations may be due to the accretion of high-AM gases into disks.
-]]></content:encoded>
-<pubDate>2024-11-07T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Simulating the Formation and Eruption of Flux Rope by Magneto-friction Model Driven by Time-dependent Electric Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8089</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8089</guid>
-<content:encoded><![CDATA[
-<div> 关键词：flux ropes, AR 11429, TMF模型, 磁场演化, 极端紫外线图像
-
-总结:<br />
-研究使用TMF模型模拟了AR 11429活动区的磁场演化过程，成功捕捉了磁流绳的形成和缓慢喷发。模拟结果与观测数据相吻合，并展示了磁场扭曲结构对极端紫外线图像中的空间特征的模拟。另外，拓扑分析结果表明，模拟磁场与标准耀斑模型一致，显示了耀斑丝带和准分离层的协同分布。这项研究为全磁流体动力学模拟提供了合理的初始条件。 <div>
-Aiming to capture the formation and eruption of flux ropes (FRs) in the source active regions (ARs), we simulate the coronal magnetic field evolution of the AR 11429 employing the time-dependent magneto-friction model (TMF). The initial field is driven by electric fields that are derived from time-sequence photospheric vector magnetic field observations by invoking ad hoc assumptions. The simulated magnetic structure evolves from potential to twisted fields over the course of two days, followed by rise motion in the later evolution, depicting the formation of an FR and its slow eruption later. The magnetic configuration resembles an inverse S-sigmoidal structure, composed of the potential field enveloping the inverse J-shaped fields that are sheared past one another and a low-lying twisted field along the major polarity inversion line. To compare with observations, proxy emission maps based on averaged current density along the field lines are generated from the simulated field. These emission maps exhibit a remarkable one-to-one correspondence with the spatial characteristics in coronal extreme ultraviolet images, especially the filament trace supported by the twisted magnetic field in the southwest subregion. Further, the topological analysis of the simulated field reveals the cospatial flare ribbons with the quasi-separatrix layers, which is consistent with the standard flare models; therefore, the extent of the twist and orientation of the erupting FR is indicated to be the real scenario in this case. The TMF model simulates the coronal field evolution, correctly capturing the formation of the FR in the observed timescale and the twisted field generated from these simulations serves as the initial condition for the full MHD simulations.
-]]></content:encoded>
-<pubDate>2024-11-07T00:00:00Z</pubDate>
-</item>
-<item>
-<title>CZ Aqr: An Oscillating Eclipsing Algol-type System Composed of a δ Sct Primary Star and a Subgiant Star in a Quadruple System</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83b2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83b2</guid>
-<content:encoded><![CDATA[
-<div> eclipsing Algol-type systems, δ Scuti star, CZ Aquarius, TESS data, physical parameters
-总结:<br /><br />这篇文章介绍了使用TESS数据确定CZ Aquarius绝对参数的研究。CZ Aqr具有0.86275209天的轨道周期，质量比为0.489，而次要组件几乎填满其洛希圆。O-C分析显示了一个向下的抛物线趋势和一个周期变化，周期为88.2年。向下的抛物线暗示了轨道周期的长期减小，质量流失率被估计为4.54×10^(-9)M⊙年^(-1)。周期变化可能是由于第三个体存在而引起的光行时间效应。此外，在CZ Aqr周围可能存在两个可能的天体。对TESS数据进行频率分析后发现了26个频率，其中两个是新识别的径向模式。这些结果表明，这个食双星系统由一个δ Sct主星和一个次巨星组成，并处于四重系统中。 <div>
-Eclipsing Algol-type systems containing a δ Scuti (hereafter δ Sct) star enable precise determination of physical parameters and the investigation of stellar internal structure and evolution. We present the absolute parameters of CZ Aquarius (hereafter CZ Aqr) based on TESS data. CZ Aqr has an orbital period of 0.86275209 day, a mass ratio of 0.489 (6), and the secondary component nearly fills its Roche lobe. O − C analysis reveals a downward parabolic trend and a cyclical variation with a period of 88.2 yr. The downward parabola suggests a long-term decrease in the orbital period with = −3.09 × 10−8 days yr−1. The mass loss rate is estimated to be 4.54 × 10−9M⊙ yr−1, which is possibly due to magnetic stellar wind or a hot spot. The cyclical variation might be caused by the light travel time effect via the presence of a third body with a minimum mass of = 0.312 (21) M⊙. Additionally, there are two possible celestial bodies in a 2:7 resonance orbit around CZ Aqr. The asymmetric light curve is explained by adding a hot spot on the surface of the primary star. After removing the binary model, 26 frequencies were extracted from TESS data. Two radial modes were newly identified among three possible independent frequencies. Our results show that the eclipsing Algol-type system is composed of a δ Sct primary star and a subgiant star in a quadruple system.
-]]></content:encoded>
-<pubDate>2024-11-07T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Exploring Spatial and Temporal Patterns in the Debrecen Solar Faculae Database: Part II</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bb</guid>
-<content:encoded><![CDATA[
-<div> 太阳，faculae，磁场，周期，经度
-<br /><br />总结:
-本研究利用Solar Dynamics Observatory/Helioseismic and Magnetic Imager–Debrecen Faculae Data Catalogue的数据，研究太阳faculae在远大于单个faculae寿命的时间尺度上的分布。研究旨在更好地理解太阳全球磁场的行为，faculae在其中起到标记作用。研究发现：(1) 在纬向上，观察到短期周期（Carrington旋转周期27.3天及其谐波约13.5天和9天）以及北半球还有一个较微弱的7天周期。同时也发现了长期周期，大约在150-300天和300-500天之间，这些周期在两极都呈现出递减趋势。(2) 分析faculae的经度分布和演变，发现存在两对相隔180°的活跃经度。 <div>
-In this study, utilizing data from the Solar Dynamics Observatory/Helioseismic and Magnetic Imager–Debrecen Faculae Data Catalogue, we investigated solar facula distribution over timescales much larger than the individual lifetimes of faculae. We aimed to better comprehend the behavior of the Sun’s global magnetic field, where faculae play a role as markers. (1) Along the latitudinal direction, we observed the following in the appearance of faculae. (i) Short-term periods with the Carrington rotation (27.3 days) and some of its harmonics (approximately 13.5 and 9 day periods) are identified. In the northern hemisphere, there is also a faint 7 day period. (ii) We also identified longer periods. These longer periods, approximately between 150–300 and 300–500 days, exhibit a diminishing trend from the solar equator to the poles in both hemispheres. (2) Analyzing the distribution and evolution of the longitudinal coordinates of the faculae, we identified two pairs of active longitudes that are separated by 180° from each other.
-]]></content:encoded>
-<pubDate>2024-11-07T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Electron Energization by Ion Density Enhancement in the Martian Magnetotail—MAVEN Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad863e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad863e</guid>
-<content:encoded><![CDATA[
-<div> MAVEN mission, electron fluxes, tail current sheet crossings, electron energization mechanisms, field-aligned potential
-总结:
-MAVEN任务观察到，火星的电子通量在尾电流层交叉区增强，但其原因尚不明确。研究利用MAVEN任务观测数据，发现通过比较电子分布函数得出的场向电位与当地总离子密度的对数值大致呈线性相关。这符合双极静电位的预期行为。这种机制不仅出现在电流片交叉处，还可以出现在任何具有大离子密度梯度和高电子温度的地方。这一发现对于了解火星的电子加速机制具有重要意义。 <div>
-It has been long observed at Mars that electron fluxes are enhanced during the tail current sheet crossings, of which the cause is not well understood. We use a novel approach to reveal one of the electron energization mechanisms with observations from the Mars Atmospheric and Volatile EvolutioN (MAVEN) mission. We find the field-aligned potential, derived from comparing electron distribution functions, to be approximately linearly correlated with the logarithmic values of the local total ion density. This is the expected behavior of an ambipolar electrostatic potential. The large amplitude of potential (tens to hundreds of V) is a result of both a significant density gradient (1 order of magnitude) and the high electron temperature (tens of eV) in the tail. Such a mechanism is not limited to ion density enhancements at current sheet crossings but can be present anywhere that large ion density gradients and hot electrons are present.
 ]]></content:encoded>
 <pubDate>2024-11-07T00:00:00Z</pubDate>
 </item>
