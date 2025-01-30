@@ -5,17 +5,26 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The JADES Transient Survey: Discovery and Classification of Supernovae in the JADES Deep Field</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8fab</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8fab</guid>
+<content:encoded><![CDATA[
+
+The JWST Advanced Deep Extragalactic Survey (JADES) is a multicycle JWST program that has taken among the deepest near- and mid-infrared images to date (down to ∼30 AB mag) over ∼25 arcmin2 in the GOODS-S field in two sets of observations with 1 yr of separation. This presented the first opportunity to systematically search for transients, mostly supernovae (SNe), out to z > 2. We found 79 SNe: 38 at z < 2, 23 at 2 < z < 3, 8 at 3 < z < 4, 7 at 4 < z < 5, and 3 with undetermined redshifts, where the redshifts are predominantly based on spectroscopic or highly reliable JADES photometric redshifts of the host galaxies. At this depth, the detection rate is ∼1–2 arcmin–2 yr–1, demonstrating the power of JWST as an SN discovery machine. We also conducted multiband follow-up NIRCam observations of a subset of the SNe to better constrain their light curves and classify their types. Here, we present the survey, sample, search parameters, spectral energy distributions, light curves, and classifications. Even at z ≥ 2, the NIRCam data quality is high enough to allow SN classification via multiepoch light-curve fitting with confidence. The multiepoch SN sample includes a Type Ia SN at zspec = 2.90, a Type IIP SN at zspec = 3.61, and a Type Ic-BL SN at zspec = 2.83. We also found that two z ∼ 16 galaxy candidates from the first imaging epoch were actually transients that faded in the second epoch, illustrating the possibility that moderate/high-redshift SNe could mimic high-redshift dropout galaxies.
+]]></content:encoded>
+
+<pubDate>2025-01-29T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>The Arp 240 Galaxy Merger: A Detailed Look at the Molecular Kennicutt–Schmidt Star Formation Law on Subkiloparsec Scales</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bab</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9bab</guid>
 <content:encoded><![CDATA[
-
 The molecular Kennicutt–Schmidt Law has been key for understanding star formation (SF) in galaxies across all redshifts. However, recent subkiloparsec observations of nearby galaxies reveal deviations from the nearly unity slope (N) obtained with disk-averaged measurements. We study SF and molecular gas (MG) distribution in the early-stage luminous infrared galaxy merger Arp 240 (NGC 5257-8). Using Very Large Array radio continuum (RC) and Atacama Large Millimeter/submillimeter Array CO(2–1) observations at 500 pc scale, with a uniform grid analysis, we estimate SF rates and MG surface densities (ΣSFR and , respectively). In Arp 240, N is sublinear at 0.52 ± 0.17. For NGC 5257 and NGC 5258, N is 0.52 ± 0.16 and 0.75 ± 0.15, respectively. We identify two SF regimes: high surface brightness (HSB) regions in RC with N ~ 1, and low surface brightness (LSB) regions with shallow N (ranging 0.15 ± 0.09–0.48 ± 0.04). Median CO(2–1) linewidth and MG turbulent pressure (Pturb) are 25 km s−1 and 9 × 105 K cm−3. No significant correlation was found between ΣSFR and CO(2–1) linewidth. However, ΣSFR correlates with Pturb, particularly in HSB regions (ρ > 0.60). In contrast, SF efficiency moderately anticorrelates with Pturb in LSB regions but shows no correlation in HSB regions. Additionally, we identify regions where peaks in SF and MG are decoupled, yielding a shallow N (≤0.28 ± 0.18). Overall, the range of N reflects distinct physical properties and distribution of both the SF and MG, which can be masked by disk-averaged measurements.
 ]]></content:encoded>
-
 <pubDate>2025-01-28T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Obliquity Dependence of Ocean Productivity and Atmospheric CO2 on Earth-like Worlds</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada277</link>
@@ -9892,18 +9901,6 @@ Recent determinations of the total rate of the 12C+12C nuclear reaction show non
 <br />
 该研究对太阳表面磁场的特性进行了研究，并利用机器学习技术解决了磁通量传输问题，提高了准确性。研究团队开发了一种基于物理的神经网络模型，用于研究双极磁区的演变。他们通过比较其模型和数值模型的性能和准确性，证明了该方法的效率和可行性。他们的模型能够更好地重现观测到的极地磁场，从而提供了了解未来太阳周期强度的见解。这项工作为更高效和准确的太阳磁通量传输模拟铺平了道路，并展示了PINN在解决偏重于太阳物理学的对流扩散方程方面的适用性。 <br /><br />总结: <br />太阳表面磁场的特性对了解太阳和太阳系活动至关重要。这项研究利用机器学习技术解决了磁通量传输问题，提高了准确性。他们开发了一种基于物理的神经网络模型，用于研究双极磁区的演变，并通过比较证明了其高效性和可行性。这对准确重现观测到的极地磁场，从而提供了了解未来太阳周期强度的见解非常重要。这项工作为更高效和准确的太阳磁通量传输模拟铺平了道路，并展示了PINN在解决偏重于太阳物理学的对流扩散方程方面的适用性。 <div>
 Studying the magnetic field properties on the solar surface is crucial for understanding the solar and heliospheric activities, which in turn shape space weather in the solar system. Surface flux transport (SFT) modeling helps us to simulate and analyze the transport and evolution of magnetic flux on the solar surface, providing valuable insights into the mechanisms responsible for solar activity. In this work, we demonstrate the use of machine learning techniques in solving magnetic flux transport, making it accurate. We have developed a novel physics-informed neural network (PINN)-based model to study the evolution of bipolar magnetic regions using SFT in one-dimensional azimuthally averaged and also in two dimensions. We demonstrate the efficiency and computational feasibility of our PINN-based model by comparing its performance and accuracy with that of a numerical model implemented using the Runge–Kutta implicit–explicit scheme. The mesh-independent PINN method can be used to reproduce the observed polar magnetic field with better flux conservation. This advancement is important for accurately reproducing observed polar magnetic fields, thereby providing insights into the strength of future solar cycles. This work paves the way for more efficient and accurate simulations of solar magnetic flux transport and showcases the applicability of PINNs in solving advection–diffusion equations with a particular focus on heliophysics.
-]]></content:encoded>
-<pubDate>2024-11-07T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The First Detection of X-Ray Polarization in a Newly Discovered Galactic Transient Swift J151857.0-572147</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d92</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d92</guid>
-<content:encoded><![CDATA[
-<div> IXPE, NuSTAR, BH X-ray binary, spectropolarimetric properties, Swift J151857.0-572147
-
-总结:<br /><br />研究使用IXPE和NuSTAR观测了新发现的黑洞X射线双星Swift J151857.0-572147的光谱偏振特性。通过IXPE数据分析，采用模型无关方法报告了首次检测到的X射线偏振度(PD)为1.34 ± 0.27和偏振角(PA)为-13.°69 ± 5.°85；而模型相关的分析得到的PD为1.18±0.23和PA为-14.°01±5.°80。联合光谱分析和NuSTAR单独分析限制了中心BH质量约为9.2 ± 1.6至10.1 ± 1.7M⊙，自旋参数约为0.6 ± 0.1至0.7 ± 0.2，盘倾角约为35° ± 7°至46° ± 15°。辐射指数和截止能量分别为2.19 ± 0.03至2.47 ± 0.06和36 ± 4至78 ± 10 keV，表明了软谱状态的转变。<br />此外，相对较小的外部辐射区大小和较低的质量流出率，以及最佳契合的晕尺寸较小，低于盘吸积速率，进一步证实了相同的状态。在软状态下检测到的低PD可能是由于在密集的辐射区内的重复散射所致，并且来自盘的主要发射与低自旋和低盘倾角相一致。拟合得到的氢柱密度相对较高，约为4-5×1022cm−2。 <div>
-We study the spectropolarimetric properties of a newly discovered black hole (BH) X-ray binary Swift J151857.0-572147 jointly using Imaging X-ray Polarimetry Explorer (IXPE) and NuSTAR observations during 2024 March. The analysis of IXPE data reports the first detection of X-ray with a polarization degree (PD) of 1.34 ± 0.27 and a polarization angle (PA) of −13.°69 ± 5.°85 using a model-independent approach, while the model-dependent analysis gives a PD of 1.18 ± 0.23 and a PA of −14.°01 ± 5.°80. The joint spectral analysis of the broadband data and NuSTAR analysis in isolation constrain the mass of the central BH between ∼9.2 ± 1.6 and 10.1 ± 1.7M⊙ and a moderate spin parameter of ∼0.6 ± 0.1–0.7 ± 0.2 with a disk inclination of ∼35° ± 7°–46° ± 15°. The power-law photon index and cutoff energy are 2.19 ± 0.03–2.47 ± 0.06 and ∼36 ± 4–78 ± 10 keV, suggesting a transition to the soft spectral state. Additionally, a relatively lower corona size of 6 ± 1–9 ± 2rS, a low mass outflow rate ( ), and the best-fitted halo accretion is less compared to the disk accretion rate further confirm the same state. The low PD detected in the soft state can be due to repeated scattering inside the dense corona, and the dominant emission from the disk agrees with the low spin and low disk inclination. The hydrogen column density obtained from the fit is relatively high at ∼4–5 × 1022 cm−2.
 ]]></content:encoded>
 <pubDate>2024-11-07T00:00:00Z</pubDate>
 </item>
