@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Dust Scattering Albedo at Millimeter Wavelengths in the TW Hya Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f31</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f31</guid>
+<content:encoded><![CDATA[
+
+Planetary bodies are formed by coagulation of solid dust grains in protoplanetary disks. Therefore, it is crucial to constrain the physical and chemical properties of the dust grains. In this study, we measure the dust albedo at millimeter wavelength, which depends on dust properties at the disk midplane. Since the albedo and dust temperature are generally degenerate in observed thermal dust emission, it is challenging to determine them simultaneously. We propose to break this degeneracy by using multiple optically thin molecular lines as a dust–albedo-independent thermometer. In practice, we employ pressure-broadened CO line wings that provide an exceptionally high signal-to-noise ratio as an optically thin line. We model the CO J = 2–1 and 3–2 spectra observed by the Atacama Large Millimeter/submillimeter Array at the inner region (r < 6 au) of the TW Hya disk and successfully derive the midplane temperature. Combining multiband continuum observations, we constrain the albedo spectrum at 0.9–3 mm for the first time without assuming a dust opacity model. The albedo at these wavelengths is high, ~0.5–0.8, and broadly consistent with the L. Ricci et al., DIANA, and DSHARP dust models. Even without assuming dust composition, we estimate the maximum grain size to be ~340 μm, the power-law index of the grain size distribution to be >−4.1, and the porosity to be <0.96. The derived dust size may suggest efficient fragmentation with a threshold velocity of ~0.08 m s−1. We also note that the absolute flux uncertainty of ~10% (1σ) is measured and used in the analysis, which is approximately twice the usually assumed value.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Little Red Dots: Rapidly Growing Black Holes Reddened by Extended Dusty Flows</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fb</guid>
+<content:encoded><![CDATA[
+
+The James Webb Space Telescope (JWST) observations have revolutionized extragalactic research, particularly with the discovery of little red dots (LRDs), which have been discovered as a population of dust-reddened broad-line active galactic nuclei (AGNs). Their unique V-shaped spectral feature, characterized by a red optical continuum and a UV excess in the rest frame, challenges us to discern the relative contributions of the galaxy and AGN. We study a spectral energy distribution (SED) model for LRDs from rest-frame UV to infrared bands. We hypothesize that the incident radiation from an AGN, characterized by a typical SED, is embedded in an extended dusty medium with an extinction law similar to those seen in dense regions such as Orion Nebula or certain AGN environments. The UV−optical spectrum is described by dust-attenuated AGN emission, featuring a red optical continuum at λ > 4000 Å and a flat UV spectral shape established through a gray extinction curve at λ < 3000 Å, due to the absence of small-size grains. There is no need for additional stellar emission or AGN scattered light. In the infrared, the SED is shaped by an extended dust and gas distribution (γ < 1; ρ ∝ r−γ) with characteristic gas densities of ≃10–103 cm−3, which allows relatively cool dust temperatures to dominate the radiation. As a result, these dust structures shift the emission energy peak from near-infrared to mid-infrared bands in the rest frame; for sources at z ~ 4–7, the corresponding wavelengths shift from the JWST/MIRI to Herschel range. This model, unlike the typical AGN hot torus models, can produce an infrared SED flattening that is consistent with LRD observations through JWST MIRI. Such a density structure can arise from the coexistence of inflows and outflows during the early assembly of galactic nuclei. This might be the reason why LRDs emerge preferentially in the high-redshift Universe younger than 1 billion years.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Detectability of Emission from Exoplanet Outflows Calculated by pyTPCI, a New 1D Radiation-hydrodynamic Code</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6ab</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6ab</guid>
+<content:encoded><![CDATA[
+
+Photoevaporation in exoplanet atmospheres is thought to contribute to the shaping of the small planet radius valley. Escaping atmospheres have been detected in transmission across a variety of exoplanet types, from hot Jupiters to mini-Neptunes. However, no work has yet considered whether outflows might also be detectable in emission. We introduce pyTPCI, a new, open-source self-consistent 1D radiative-hydrodynamics code that is an improved version of The PLUTO-CLOUDY Interface. We use pyTPCI to model seven exoplanets (HD 189733b, HD 209458b, WASP-69b, WASP-107b, TOI-1430b, TOI-560b, and HAT-P-32b) at varying metallicities and compute their emission spectra to investigate their detectability across a variety of spectral lines. We calculate the eclipse depths and signal-to-noise ratios (SNRs) of these lines for a 10 m class telescope with a high-resolution spectrograph, taking into account appropriate line broadening mechanisms. We show that the most detectable spectral lines tend to be the 589 nm Na i doublet and the 1083 nm metastable helium triplet. Hα and Mg i 457 nm are moderately strong for some planets at some metallicities, but they are almost always optically thin, so some of their emission may not be from the outflow. The planet with the highest-flux, highest-eclipse-depth, and highest-SNR lines is HD 189733b, with a Na i eclipse depth of 410 ppm and SNR of 2.4 per eclipse, and a He* eclipse depth of 170 ppm and SNR of 1.3. These signals would be marginally detectable with Keck if 3–10 eclipses were observed, assuming (over optimistically) photon limited observations.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Strong-lensing Analysis of SPT-CL J2325−4111 and SPT-CL J0049−2440, Two Powerful Cosmic Telescopes (R E > 40″) from the SPT Clusters Sample</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9aa5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9aa5</guid>
 <content:encoded><![CDATA[
-
 We report the results from a study of two massive (M500c > 6.0 × 1014 M⊙) strong-lensing clusters selected from the South Pole Telescope cluster survey for their large Einstein radius (RE > 40″), SPT-CL J2325−4111 and SPT-CL J0049−2440. Ground-based and shallow Hubble Space Telescope (HST) imaging indicated extensive strong-lensing evidence in these fields, with giant arcs spanning 18″ and 31″, respectively, motivating further space-based imaging follow-up. Here, we present multiband HST imaging and ground-based Magellan spectroscopy of the fields, from which we compile detailed strong-lensing models. The lens models of SPT-CL J2325−4111 and SPT-CL J0049−2440 were optimized using nine and eight secure multiply imaged systems with a final image-plane rms of 0 63 and 0 73, respectively. From the lensing analysis, we measure a projected mass density within 500 kpc of M(<500 kpc) = (7.30 ± 0.07) × 1014M⊙ and M⊙ for these two clusters, and subhalo mass ratios of 0.12 ± 0.01 and , respectively. Both clusters produce a large area with high magnification (μ ≥ 3) for a source at z = 9, arcmin2 and arcmin2, respectively, placing them in the top tier of strong-lensing clusters. We conclude that these clusters are spectacular sightlines for further observations that will reduce the systematic uncertainties due to cosmic variance. This paper provides the community with two additional well-calibrated cosmic telescopes, as strong as the Frontier Fields and suitable for studies of the highly magnified background Universe.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ We report the results from a study of two massive (M500c > 6.0 × 1014 M⊙) str
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de5</guid>
 <content:encoded><![CDATA[
-
 Extremely low-mass (ELM) white dwarfs (WDs) are helium-core WDs with masses less than 0.3 M⊙. Short-period ELM WD binaries that exhibit ellipsoidal variations may harbor heavier companions, either massive WDs or millisecond pulsars (MSPs). In this study, we selected ∼12,000 ELM WDs or their candidates, and searched for ellipsoidal-like lightcurves with orbital periods shorter than 1 day, by using the public data from Zwicky Transient Facility. Finally, 23 such systems were found, with 17 being newly discovered. We selected nine high-priority targets likely to evolve from the Roche lobe overflow channel and estimated their companion masses from the extracted ellipsoidal variation amplitude. Among them, four targets have companion masses exceeding 1 M⊙. We performed a search for radio pulsations from six of these targets by using Five-hundred-meter Aperture Spherical radio Telescope. However, no convincing radio pulse signals were found, resulting in upper limits for the radio flux at around 8 μJy. Given the nondetection of radio pulsations from a total of 11 similar systems, the fraction of ellipsoidal ELM WDs around MSPs is estimated to be below 15 %. We anticipate that multiwavelength studies of more ellipsoidal-like ELM WDs will further constrain the fraction.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +61,10 @@ Extremely low-mass (ELM) white dwarfs (WDs) are helium-core WDs with masses less
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9eab</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9eab</guid>
 <content:encoded><![CDATA[
-
 The study of chemical evolution is of paramount importance for understanding the evolution of galaxies. Models and observations propose an inside-out mechanism in the formation of spiral galaxy disks, implying a negative radial gradient of elemental abundances when represented on a logarithmic scale. However, in some instances, the observed chemical abundance gradients deviate from a single negative straight line, revealing inner drops or outer flattenings, particularly in more massive galaxies. This study analyzes oxygen abundance gradients in spiral galaxies based on observations from the Calar Alto Legacy Integral Field Area survey. Our focus is specifically on examining oxygen abundance gradient profiles, as obtained with data from H ii regions, with a special emphasis on the inner radial gradient. We employ an automated fitting procedure to establish correlations between the physical properties of galaxies and bulges and the presence of these inner drops, seeking potential explanations for these variations in gradient. We find that the different criteria used in the literature to distinguish H ii regions from other ionization sources in the galaxies, such as active galactic nuclei, significantly impact the results, potentially altering abundance gradient profiles and uncovering galaxies with distinct inner drops. Additionally, we analyze the abundance radial gradients to investigate the impact of diffuse ionized gas (DIG) decontamination on oxygen abundances over these inner drops. We observe that DIG, concentrated mainly in the central regions of galaxies, can modify oxygen abundance gradient profiles if left unaddressed.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>JWST Imaging of Edge-on Protoplanetary Disks. IV. Mid-infrared Dust Scattering in the HH 30 Disk</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9c6f</link>
@@ -9778,43 +9805,6 @@ We present the first Chandra X-ray Observatory (CXO) catalog of “pulsar X-ray 
 Using the EXES instrument on SOFIA, we have obtained velocity-resolved spectra of several pure rotational lines of H2 toward shocked molecular gas within three Galactic sources: the supernova remnant (SNR) IC 443 (clump C), a protostellar outflow in the intermediate-mass star-forming region NGC 2071, and the SNR 3C 391. These observations had the goal of searching for expected velocity shifts between ortho- and para-H2 transitions emitted by C-type shocks. In contrast in our previous similar study of HH7, the result of our search was negative: no velocity shifts were reliably detected. Several possible explanations for the absence of such shifts are discussed: these include a preshock ortho-to-para ratio that is already close to the high-temperature equilibrium value of 3 (in the case of IC 443C), the more complex shock structures evident in all these sources, and the larger projected aperture sizes relative to those in the observations of HH7.
 ]]></content:encoded>
 <pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Asteroseismology of Triple-mode Radial δ Scuti Star: TIC 400562821</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87eb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87eb</guid>
-<content:encoded><![CDATA[
-<div> 高精度观测，TIC 400562821，脉动行为，三个频率，高振幅δ Scuti星，非线性响应，振幅变化，稳定振幅，径向恒星脉动建模，恒星演化
-
-总结:<br /><br />本研究使用高精度TESS观测探究了TIC 400562821的脉动行为，发现其为三模式高振幅δ Scuti星，振幅变化稳定。径向恒星脉动建模表明，虽然F模式振幅保持恒定，但F1逐渐减小，F2接近于零，暗示TIC 400562821可能最终演化为单模式HADS星。此外，通过测定αMLT和非绝热等参数，推测TIC 400562821可能处于主序星后阶段，但仍需进一步研究确认其性质。 <div>
-We investigated the pulsating behavior of TIC 400562821 using high-precision observations from TESS. Fourier analysis of time-series data revealed three independent frequencies. The period ratios of F to F1 (0.774) and F to F2 (0.625), along with an amplitude change of approximately 0.1 mag, indicate that TIC 400562821 is a triple-mode High-Amplitude δ Scuti (HADS) star. Using the Best Parent Method and the ΓO functions, we identified that the harmonics and sum combination frequencies of F and F1 are caused by the nonlinear response of the stellar medium to pulsation. We also analyzed the amplitude variations of F, F1, and F2. Observational data over 76 days show stable amplitudes for these modes. However, Radial Stellar Pulsations modeling suggests that, over 10,000 cycles, the amplitude of F remains constant, while F1 gradually decreases and F2 approaches zero. This implies that TIC 400562821 may eventually evolve into a single-mode HADS star. Furthermore, asteroseismic modeling was performed, and several effects, such as the mixing-length parameter αMLT and nonadiabatic, were examined on this star. In view of the results by Daszyńska-Daszkiewicz et al. (i.e., αMLT < ∼1 for δ Scuti stars), TIC 400562821 is suggested to be more likely in the post-main-sequence stage, with mass M = 1.34–1.38 M⊙ and metallicity Z = 0.007–0.008, but still warrants further study to ascertain its nature.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraints on Interacting Dark Energy Models from the DESI Baryon Acoustic Oscillation and DES Supernovae Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f0</guid>
-<content:encoded><![CDATA[
-<div> DESI, BAO, SN, CMB, IDE模型
-<br /><br />总结:
-该研究利用了来自DESI的最新BAO数据，结合了Dark Energy Survey的SN数据和Planck卫星的CMB数据，探索了暗能量和暗物质之间的潜在相互作用。结果表明，暗能量和暗物质之间的相互作用在一定程度上得到支持，特别是对于暗能量向暗物质衰变的情况。此外，研究发现，不同类型的IDE模型对于当前观测数据的解释能力不同，这有助于澄清哪种类型的IDE模型可以更好地解释当前的观测数据。 <div>
-The recent results from the first-year baryon acoustic oscillations (BAO) data released by the Dark Energy Spectroscopic Instrument (DESI), combined with cosmic microwave background (CMB) and Type Ia supernova (SN) data, have shown a detection of significant deviation from a cosmological constant for dark energy. In this work, we utilize the latest DESI BAO data in combination with the SN data from the full 5 yr observations of the Dark Energy Survey and the CMB data from the Planck satellite to explore potential interactions between dark energy and dark matter. We consider four typical forms of the interaction term Q. Our findings suggest that interacting dark energy (IDE) models with Q ∝ ρde support the presence of an interaction where dark energy decays into dark matter. Specifically, the deviation from ΛCDM for the IDE model with Q = βH0ρde reaches the 3σ level. These models yield a lower value of Akaike information criterion than the ΛCDM model, indicating a preference for these IDE models based on the current observational data. For IDE models with Q ∝ ρc, the existence of interaction depends on the form of the proportionality coefficient Γ. The IDE model with Q = βHρc yields β = 0.0003 ± 0.0011, which essentially does not support the presence of the interaction. In general, whether the observational data support the existence of interaction is closely related to the model. Our analysis helps to elucidate which type of IDE model can better explain the current observational data.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Solar Plasma Noise in TianQin Laser Propagation: An Extreme Case and Statistical Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb7</guid>
-<content:encoded><![CDATA[
-<div> 关键词: TianQin, laser interferometry, gravitational-wave signals, magnetohydrodynamic simulations, solar eruption
-
-总结:<br />
-TianQin提出利用激光干涉测量来检测引力波信号，但激光传播效应可能引入潜在噪声因素。研究使用磁流体动力学模拟来获得极强太阳耀斑期间的空间磁场和等离子体分布，并基于模拟结果，调查了TianQin项目的激光传播噪声。对于极强太阳耀斑事件，发现激光传播噪声接近于Michelson组合的100%位移噪声要求，而对于时间延迟干涉法（TDI）-X组合，激光传播噪声仍然约为TianQin位移噪声要求的30%。另外，研究了12个不同太阳风条件下的激光传播噪声。发现激光传播噪声与一些太空天气参数（如太阳风动压、Sym-H和Dst）呈线性相关，其中太阳风动压的相关系数最强。整合1999年至2021年太阳风动压的累积分布和太阳风动压与激光传播噪声的线性相关，确定Michelson组合在整个太阳活动周内发生激光传播噪声超过TianQin要求30%以上的发生率约为15%。此外，发现TDI可以抑制激光传播噪声，并将激光传播噪声超过TianQin要求的发生率减少至1%以下。 <div>
-TianQin (TQ) proposes to detect gravitational-wave signals by using laser interferometry. However, the laser propagation effect introduces a potential noise factor for TQ. In this work, we used magnetohydrodynamic (MHD) simulations to obtain the space magnetic field and plasma distributions during an extremely strong solar eruption, and based on the MHD simulation result, we investigated laser propagation noise for TQ. For the extremely strong solar eruption event, we find that the laser propagation noise closely approaches 100% of TQ’s displacement noise requirement for the Michelson combination, while the laser propagation noise is still about 30% of TQ’s displacement noise requirement for time-delay interferometry (TDI)-X combination. In addition, we investigate the laser propagation noise for 12 cases with different solar wind conditions. Our finding reveals a linear correlation between the laser propagation noise and several space weather parameters, e.g., solar wind dynamic pressure, Sym-H, and Dst, where the correlation coefficients for solar wind dynamic pressure are strongest. Combining the cumulative distribution of solar wind dynamic pressure from 1999 to 2021 with the linear correlation between solar wind dynamic pressure and laser propagation noise, we have determined that the occurrence rate of the laser propagation noise to be greater than 30% of TQ’s displacement noise requirement for the Michelson combination over the entire solar activity week is about 15%. In addition, we find that TDI can suppress the laser propagation noise, and reduce the occurrence rate of the laser propagation noise exceeding 30% of TQ’s requirement to less than 1%.
-]]></content:encoded>
-<pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
