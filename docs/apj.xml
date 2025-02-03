@@ -5,14 +5,90 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>AEOS: Star-by-star Cosmological Simulations of Early Chemical Enrichment and Galaxy Formation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4a1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4a1</guid>
+<content:encoded><![CDATA[
+
+The Aeos project introduces a series of high-resolution cosmological simulations that model star-by-star chemical enrichment and galaxy formation in the early Universe, achieving 1 pc resolution. These simulations capture the complexities of galaxy evolution within the first ~300 Myr by modeling individual stars and their feedback processes. By incorporating chemical yields from individual stars, Aeos generates galaxies with diverse stellar chemical abundances, linking them to hierarchical galaxy formation and early nucleosynthetic events. These simulations underscore the importance of chemical abundance patterns in ancient stars as vital probes of early nucleosynthesis, star formation histories, and galaxy formation. We examine the metallicity floors of various elements resulting from Population III enrichment, providing best-fit values for eight different metals (e.g., [O/H] = −4.0) to guide simulations without Population III models. Additionally, we identify galaxies that begin star formation with Population II after external enrichment and investigate the frequency of carbon-enhanced metal-poor stars at varying metallicities. The Aeos simulations offer detailed insights into the relationship between star formation, feedback, and chemical enrichment. Future work will extend these simulations to later epochs to interpret the diverse stellar populations of the Milky Way and its satellites.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Dynamical History of HIP-41378 f—Oblique Exorings Masquerading as a Puffy Planet</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b2</guid>
+<content:encoded><![CDATA[
+
+The super-puff HIP-41378 f represents a fascinating puzzle due to its anomalously low density on a far-out orbit in contrast with other known super-puffs. In this work, we explore the hypothesis that HIP-41378 f is not in fact a low-density planet, but rather hosts an opaque ring system. We analyze the dynamical history of the system and show that convergent migration is necessary to explain the system's long-term stability. We then show that this same migration process plausibly captures HIP-41378 f into spin–orbit resonance and excites the planetary obliquity to high values. This tilts the surrounding ring and is a plausible explanation for the large transit depth. In the end, we also briefly comment on the likelihood of other super-puff planets being in high-obliquity states. We show that the existence of a tilted extensive ring around a high obliquity planet can serve as an explanation for puffy planets, particularly in multiplanetary systems at far distances from their host stars.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Systematic Search for Long-term Trends in Fermi-LAT Jetted Active Galactic Nuclei</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b3</guid>
+<content:encoded><![CDATA[
+
+Jetted active galactic nuclei (AGN) exhibit variability across a wide range of timescales. Traditionally, this variability can often be modeled well as a stochastic process. However, in certain cases, jetted AGN variability displays regular patterns, enabling us to conduct investigations aimed at understanding its origins. Additionally, a novel type of variability has emerged in jetted AGN light curves, specifically, the observation of a long-term trend characterized by a linear increase of the flux with time in blazars such as PG 1553+113, which is among the objects most likely to display periodic behavior. In this paper, we present the results of a systematic search for long-term trends, spanning ≈10 yr, utilizing 12 yr of Fermi-LAT observations. The study is focused on detecting the presence of linear or quadratic long-term trends in a sample of 3308 jetted AGN. Our analysis has identified 40 jetted AGN that exhibit long-term trends, each with distinct properties, which we also characterize in this study. These long-term trends may originate from the dynamics of a supermassive black hole binary system, or they could be the result of intrinsic phenomena within the jet itself. Our findings can help in addressing questions pertaining to the astrophysical origins of variability and periodicity within jetted AGN.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Autoencoder Reconstruction of Cosmological Microlensing Magnification Maps</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada5ff</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada5ff</guid>
+<content:encoded><![CDATA[
+
+Enhanced modeling of microlensing variations in light curves of strongly lensed quasars improves measurements of cosmological time delays, the Hubble Constant, and quasar structure. Traditional methods for modeling extragalactic microlensing rely on computationally expensive magnification map generation. With large data sets expected from wide-field surveys like the Vera C. Rubin Legacy Survey of Space and Time, including thousands of lensed quasars and hundreds of multiply imaged supernovae, faster approaches become essential. We introduce a deep-learning model that is trained on pre-computed magnification maps covering the parameter space on a grid of κ, γ, and s. Our autoencoder creates a low-dimensional latent space representation of these maps, enabling efficient map generation. Quantifying the performance of magnification map generation from a low dimensional space is an essential step in the roadmap to develop neural network-based models that can replace traditional feed-forward simulation at much lower computational costs. We develop metrics to study various aspects of the autoencoder generated maps and show that the reconstruction is reliable. Even though we observe a mild loss of resolution in the generated maps, we find this effect to be smaller than the smoothing effect of convolving the original map with a source of a plausible size for its accretion disk in the red end of the optical spectrum and larger wavelengths and particularly one suitable for studying the broad-line region of quasars. Used to generate large samples of on-demand magnification maps, our model can enable fast modeling of microlensing variability in lensed quasars and supernovae.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Sunburst Arc with JWST. III. An Abundance of Direct Chemical Abundances</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada76c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada76c</guid>
+<content:encoded><![CDATA[
+
+We measure the gas-phase abundances of the elements He, N, O, Ne, S, Ar, and Fe in an individual H ii region known to be leaking Lyman-continuum photons in the Sunburst Arc, a highly magnified galaxy at redshift z = 2.37. We detect the temperature-sensitive auroral lines [S ii] λλ4070, 4076, [O iii] λ4363, [S iii] λ6314, [O ii] λλ7320, 7330, and [Ne iii] λ3343 in a stacked spectrum of five multiple images of the Lyman-continuum emitter (LCE), from which we directly measure the electron temperature in the low-, intermediate-, and high-ionization zones. We also detect the density-sensitive doublets of [O ii] λλ3727, 3730, [S ii] λλ6718, 6733, and [Ar iv] λλ4713, 4741, which constrain the density in both the low- and high-ionization gas. With these temperature and density measurements, we measure gas-phase abundances with similar rigor as studies of local galaxies and H ii regions. We measure a gas-phase metallicity for the LCE of , and find an enhanced nitrogen abundance . This nitrogen abundance is consistent with enrichment from a population of Wolf–Rayet stars, additional signatures of which are reported in a companion paper. Abundances of sulfur, argon, neon, and iron are consistent with local low-metallicity H ii regions and low-redshift galaxies. This study represents the most complete chemical abundance analysis of an individual H ii region at Cosmic Noon to date, which enables direct comparisons between local H ii regions and those in the distant Universe.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Quest for a Stable Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada770</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada770</guid>
+<content:encoded><![CDATA[
+
+The majority of disk galaxies manifest spirals and/or bars that are believed to result from dynamical instabilities. However, some galaxies have featureless disks, which are therefore inferred to be dynamically stable. Yet despite many years of effort, theorists have been unable to construct realistic models of galaxy disks that possess no instabilities and therefore could remain featureless. This conclusion has been reached through simulations for the most part, some of which have been confirmed by linear stability analyses. A. Toomre (1981) claimed that the Mestel disk, embedded in an equal-mass halo, is a notable counterexample, but his prediction of stability could not be reproduced in simulations, due to complicated nonlinear effects that caused secular growth of Poisson noise–driven disturbances until strong features emerged. Here, we revisit this issue and show that simply eliminating the most nearly circular orbits from Toomre's disk model can inhibit troublesome secular growth. We also present both 2D and 3D simulations of particle disks that remain featureless for over 50 orbit periods. We report that spiral evolution naturally depletes circular orbits and that the radial velocity distribution in the featureless disks of S0 galaxies should have negative kurtosis.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Dark Galactic Subhalos and the Gaia Snail</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada963</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada963</guid>
+<content:encoded><![CDATA[
+
+Gaia has revealed a clear signal of disequilibrium in the solar neighborhood in the form of a spiral (or snail) feature in the vertical phase-space distribution. We investigate the possibility that this structure emerges from ongoing perturbations by dark Galactic subhalos. We develop a probabilistic model for generating subhalo orbits based on a semianalytic model of structure formation, and combine this framework with an approximate prescription for calculating the response of the disk to external perturbations. We also develop a phenomenological treatment for the diffusion of phase-space spirals caused by gravitational scattering between stars and giant molecular clouds, a process that erases the kinematic signatures of old (t ≳ 0.6 Gyr) events. Perturbations caused by dark subhalos are, on average, orders of magnitude weaker than those caused by luminous satellite galaxies, but the ubiquity of dark halos predicted by cold dark matter makes them a more probable source of strong perturbation to the dynamics of the solar neighborhood. Dark subhalos alone do not cause enough disturbance to explain the Gaia snail, but they excite fluctuations of ∼0.1–0.5 km s−1 in the mean vertical velocity of stars near the Galactic midplane that should persist to the present day. Subhalos also produce correlations between vertical frequency and orbital angle that could be mistaken as originating from a single past disturbance. Our results motivate investigation of the Milky Way's dark satellites by characterizing their kinematic signatures in phase-space spirals across the Galaxy.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Tracking Outflow Using Line Locking (TOLL). II. Large Line-locking Web Identified in Quasar J151352+085555</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada933</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada933</guid>
 <content:encoded><![CDATA[
-
 Quasar outflows often consist of two clouds with velocity separations matching the doublet spacings of common UV resonance transitions, a phenomenon known as line locking, which is commonly observed in quasar spectra. Multiple clouds can be locked together through multi-ion doublets, forming a “line-locking web.” In the second paper of the TOLL project, we present the discovery of one of the largest “line-locking webs” known to date from the Very Large Telescope UVES spectra of QSO J151352+085555. We identify 12 associated narrow absorption line systems through the C iv, N v, Si iv, O vi, and multiple Lyman lines (Lyα to Lyϵ) and find 10 out of the 12 absorbers are line-locked together by comparing velocity separations between different absorption systems. By conducting photoionization modeling with CLOUDY, we measure the total hydrogen column densities, metallicities, and ionization parameters of these absorbers, which suggests that the absorbers likely have subsolar metallicities. A preliminary statistical analysis demonstrates that the shadowed clouds tend to have similar ionization states compared to the shadowing ones. Identification of one of the largest line-locking webs implies that radiative acceleration plays an important role in sorting out cloud velocities in quasar outflows and highlights the need for more sophisticated theoretical models to explain its formation and evolution.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +96,8 @@ Quasar outflows often consist of two clouds with velocity separations matching t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada948</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada948</guid>
 <content:encoded><![CDATA[
-
 We present an analysis of four Chandra observations of the 45 Myr old DS Tuc binary system. We observed X-ray variability of both stars on timescales from hours to months, including two strong X-ray flares from star A. The implied flaring rates are in agreement with past observations made with XMM-Newton, though these rates remain imprecise due to the relatively short total observation time. We find a clear, monotonic decline in the quiescent level of the star by a factor of 1.8 across 8 months, suggesting stellar variability that might be due to an activity cycle. If proven through future observations, DS Tuc A would be the youngest star for which a coronal activity cycle has been confirmed. The variation in our flux measurements across the four visits is also consistent with the scatter in empirical stellar X-ray relationships with Rossby number. In simulations of the possible evolution of the currently super-Neptune-sized planet DS Tuc A b, we find a range of scenarios for the planet once it reaches a typical field age of 5 Gyr, from Neptune size down to a completely stripped super-Earth. Improved constraints on the planet's mass in the future would significantly narrow these possibilities. We advocate for further Chandra observations to better constrain the variability of this important system.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +105,8 @@ We present an analysis of four Chandra observations of the 45 Myr old DS Tuc bin
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada956</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada956</guid>
 <content:encoded><![CDATA[
-
 Multiple studies have investigated potential frequency-dependent dispersion measures (DMs) in PSR B0329+54, with sensitivities at levels of 10−3 pc cm−3 or higher, using frequencies below 1 GHz. Utilizing the extensive bandwidth of the upgraded Giant Metrewave Radio Telescope, we conducted simultaneous observations of this pulsar across a frequency range of 300–1460 MHz. Our observations reveal a distinct point in the pulse profile of PSR B0329+54 that appears to align remarkably well with the cold-plasma dispersion law, resulting in a unique measured DM across the entire frequency range. In contrast, using times of arrival from widely adopted pulsar timing techniques (e.g., FFTFIT) leads to frequency-dependent DMs. We investigated the potential causes of these frequency-dependent DMs in this pulsar and their relationship with the underlying magnetic field geometry corresponding to the radio emission. Our study reveals that all frequencies in the range 300–1460 MHz originate from a region no larger than 204 km, and the dipolar magnetic-field geometry model indicates that the emission region is centered at ~800 km from the star. This is the tightest constraint on the size of the emission region reported so far for PSR B0329+54 at the given frequencies, and it is at least 5 times more stringent than the existing emission height constraints based on the dipolar geometry model.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +114,10 @@ Multiple studies have investigated potential frequency-dependent dispersion meas
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada95a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada95a</guid>
 <content:encoded><![CDATA[
-
 We present the H i surface density (ΣH i) radial distributions based on total-power H i images obtained by FAST in the FEASTS program, for 35 galaxies with inclinations lower than 72°. We derive the H i radius R001, which is the radius for the 0.01 M⊙ pc−2 (~1018.1 cm−2) isodensity level, 100 times deeper than the 1 M⊙ pc−2 level previously commonly used to measure R1. The profile shapes show a large diversity at a given radius in units of kpc, group virial radius, and R1, but they align more tightly with the radius normalized by R001. The universal H i profile has a scatter of ~0.2 dex and a scale length of ~0.11R001 in the outer region. We derive a new R001–MH i relation, which has a scatter of 0.03 dex and a similar slope of ~0.5 to the previously known R1–MH i relation. Excluding strongly tidal-interacting galaxies, the ratio R001/R1 (anti)correlates strongly and significantly with the H i-to-stellar mass ratio and specific star formation rate, but not with the stellar mass, MH i, dark matter mass, or star formation rate. The strongly tidal-interacting galaxies tend to show deviations from these trends and have the most flattened profiles. These results imply that, in the absence of major tidal interactions, physical processes must cooperate so that ΣH i distributes in a self-similar way in the outer region down to the 0.01 M⊙ pc−2 level. Moreover, they may drive gas flows in such a way that H i-richer galaxies have H i disks that not only extend further but also transport H i inward more efficiently from R001 to R1.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Characteristics of the IBEX Ribbon and Their Implications for a Source Region Outside the Heliopause</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada36a</link>
@@ -9826,54 +9895,6 @@ We investigate how a fast radio burst (FRB) emitted near a magnetar would propag
 <div> SMBHs, gravitational wave recoil, slingshot mechanism, offset AGN candidates, Pan-STARRS1 3π Survey <br />
 新发现了五个逃逸超大质量黑洞候选体，其中一个被认为是双重活动星系核。使用新的方法可以快速识别光学调查数据中的离核AGN。LSST将有更高的灵敏度和更深的星等极限，应该能够发现更多逃逸超大质量黑洞候选体。总结：这项研究使用了新的方法在Pan-STARRS1 3π Survey中发现了五个新的逃逸超大质量黑洞候选体，其中一个被确认为双重活动星系核。未来LSST的数据将有更大的发现潜力。 <div>
 Supermassive black holes (SMBHs) can be ejected from their galactic centers due to gravitational wave recoil or the slingshot mechanism following a galaxy merger. If an ejected SMBH retains its inner accretion disk, it may be visible as an off-nuclear active galactic nucleus (AGN). At present, only a handful of offset AGNs that are recoil or slingshot candidates have been found, and none have been robustly confirmed. Compiling a large sample of runaway SMBHs would enable us to constrain the mass and spin evolution of binary SMBHs and study feedback effects of displaced AGNs. We adapt the method of varstrometry—which was developed for Gaia observations to identify off-center, dual, and lensed AGNs—in order to quickly identify off-nuclear AGNs in optical survey data by looking for an excess of blue versus red astrometric jitter. We apply this to the Pan-STARRS1 3π Survey and report on five new runaway AGN candidates. We focus on ZTF18aajyzfv: a luminous quasar offset by 6.7 ± 0.2 kpc from an adjacent galaxy at z = 0.224, and conclude after Keck LRIS spectroscopy and comparison to ASTRID simulation analogs that it is likely a dual AGN. This selection method can be easily adapted to work with data from the soon-to-be commissioned Vera C. Rubin Telescope Legacy Survey of Space and Time (LSST). LSST will have a higher cadence and deeper magnitude limit than Pan-STARRS1, and should permit detection of many more runaway SMBH candidates.
-]]></content:encoded>
-<pubDate>2024-11-08T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Digging into the Ultraviolet Luminosity Functions of Galaxies at High Redshifts: Galaxies Evolution, Reionization, and Cosmological Parameters</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8080</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8080</guid>
-<content:encoded><![CDATA[
-<div> James Webb Space Telescope, reionization, ultraviolet luminosity functions, star formation efficiency, dark matter halo
-
-总结:<br /><br />
-本研究利用James Webb Space Telescope的成功性能推进了我们对宇宙再离子化时期的理解。通过合成不同红移下的观测数据，我们发现星系计数和视星等基于紫外线光度函数，其中包括红移依赖的星体形成效率（SFE）和对尘埃衰减的修正。进一步的分析显示，汤姆逊散射光学深度为某值，再离子化始于某红移，结束于某红移，而这并不受UV光度函数截断等选择的影响。通过结合其他数据集和一些合理的限制，我们发现物质扰动的振幅为σ8 = 0.80 ± 0.05，与标准ΛCDM模型一致。未来的星系调查和星系演化的动力学模拟将打破SFE和宇宙学参数之间的退化，进一步提高UV光度函数模型的准确性和精度。 <div>
-Thanks to the successful performance of the James Webb Space Telescope, our understanding of the epoch of reionization of the Universe has been advanced. The ultraviolet luminosity functions (UV LFs) of galaxies span a wide range of redshifts, not only revealing the connection between galaxies and dark matter (DM) halos but also providing information during reionization. In this work, we develop a model connecting galaxy counts and apparent magnitude based on UV LFs, which incorporates redshift-dependent star formation efficiency (SFE) and corrections for dust attenuation. By synthesizing some observations across the redshift range of 4 ≤ z ≤ 10 from various galaxy surveys, we discern the evolving SFE with increasing redshift and DM halo mass through model fitting. Subsequent analyses indicate that the Thomson scattering optical depth was and the epoch of reionization started (ended) at ( ), which is insensitive to the choice of the truncated magnitude of the UV LFs. Incorporating additional data sets and some reasonable constraints, the amplitude of matter perturbation is found to be σ8 = 0.80 ± 0.05, which is consistent with the standard ΛCDM model. Future galaxy surveys and the dynamical simulations of galaxy evolution will break the degeneracy between SFE and cosmological parameters, improving the accuracy and the precision of the UV LF model further.
-]]></content:encoded>
-<pubDate>2024-11-08T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8087</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8087</guid>
-<content:encoded><![CDATA[
-<div> 星际尘埃，恒星形成，尘埃谷物分布，热化学反应，巨型分子云
-总结:<br /><br />本研究通过磁流体动力学模拟了巨型分子云中尘埃粒子大小变化对热化学和演化的影响。研究发现，较大的尘埃粒子导致较低的尘埃不透明度，使星际辐射能更深地穿透云层，导致气体加热迅速和抑制星际形成。尘埃粒子大小变化对星际形成效率也有显著影响，当尘埃粒子动态范围增加时，星际形成效率可降低一个数量级。此外，较高温度的气体抑制了低质量星际形成，尘埃不透明度的降低导致更多的气体在扩散的电离结构中存在。 <div>
-The dust grain size distribution (GSD) likely varies significantly across star-forming environments in the Universe, but its impact on star formation remains unclear. This ambiguity arises because the GSD interacts nonlinearly with processes like heating, cooling, radiation, and chemistry, which have competing effects and varying environmental dependencies. Processes such as grain coagulation, expected to be efficient in dense star-forming regions, reduce the abundance of small grains and increase that of larger grains. Motivated by this, we investigate the effects of similar GSD variations on the thermochemistry and evolution of giant molecular clouds (GMCs) using magnetohydrodynamic simulations spanning a range of cloud masses and grain sizes, which explicitly incorporate the dynamics of dust grains within the full-physics framework of the STARFORGE project. We find that grain size variations significantly alter GMC thermochemistry: the leading-order effect is that larger grains, under fixed dust mass, GSD dynamic range, and dust-to-gas ratio, result in lower dust opacities. This reduced opacity permits interstellar radiation field and internal radiation photons to penetrate more deeply. This leads to rapid gas heating and inhibited star formation. Star formation efficiency is highly sensitive to grain size, with an order-of-magnitude reduction when grain size dynamic range increases from 10−3–0.1 μm to 0.1–10 μm. Additionally, warmer gas suppresses low-mass star formation, and decreased opacities result in a greater proportion of gas in diffuse ionized structures.
-]]></content:encoded>
-<pubDate>2024-11-08T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Translational Tomography with the Wide-field Imager for Parker Solar Probe (WISPR). II. Refinements to the Method</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad808c</guid>
-<content:encoded><![CDATA[
-<div> 关键词: translational tomography, corona, Parker Solar Probe, WISPR, three-dimensional structure<br />
-<br />
-这篇文章介绍了使用平动层析技术测量靠近近日点的帕克太阳探测器（PSP）广域成像仪（WISPR）图像序列中太阳日冕的三维结构的进展。平动层析利用相机的非圆形运动从光学薄目标中提取三维信息。PSP呈现特殊情况，因为太阳日冕的特殊结构以及观测点的非线性运动。文章展示了对先前直接解析方法（在本系列的第一篇论文中描述）的改进，以及使用合成WISPR图像序列的另一种反演路径。新方法成功重建了模拟WISPR图像序列中建模为PSP轨道上曲线运动的日冕射线的正确位置。文章提出了经过改进的方法论和验证研究，并表明该技术已经可以应用于实际的WISPR数据。<br /><br />总结: 本研究介绍了使用平动层析技术测量太阳日冕三维结构的进展，针对PSP所提出的特殊情况进行了改进并验证了新的方法，准备将该技术应用到实际的WISPR数据中。 <div>
-We present progress on the translational tomography technique for measuring the three-dimensional structure of the corona from near-perihelion Wide-field Imager for Parker Solar Probe (WISPR) image sequences. Translational tomography makes use of noncircular motion of a camera to extract three-dimensional information from an optically thin subject. Parker Solar Probe (PSP) presents a special case both because of the particular structure of the corona and because of the nonlinear motion of the vantage point. We show improvements to a previous direct analytic method (described in Paper I of this series) and an alternative inversion pathway using a synthetic sequence of WISPR images. The newer method successfully reconstructs the correct locations of modeled coronal rays in a synthetic WISPR image sequence, with curvilinear camera motion modeled on the PSP orbit. We present the refined methodology and validation study, and show that the technique is ready for application to actual WISPR data.
-]]></content:encoded>
-<pubDate>2024-11-08T00:00:00Z</pubDate>
-</item>
-<item>
-<title>On Velocity Stopbands in Electrostatic Solitary Wave Propagation in Magnetospheric Plasma in the Presence of an Ion Beam—Application in the Solar Wind</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad808d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 离子种群、孤立波、离子束、电波速度、太阳风
-总结:
-本研究通过对地球磁层中离子群体的观测，发现了不同类型的离子种群共存，如太阳风带来的质子和较重的氦离子（阿尔法粒子）。我们从第一原理出发，探讨了这种多离子等离子体环境中孤立电波的发生条件。非线性分析表明，离子束对多成分等离子体（包括玻尔兹曼电子和建模为冷热（绝热）离子的离子种类）中的阻带出现有影响。我们的参数分析揭示，随着热离子束的速度增加，冷离子电荷密度的范围内阻带变宽。然而，在反向传播的束流情况下，阻带变窄。类似地，冷离子束沿或逆波传播方向的流动导致阻带变窄或变宽。快速孤立子存在的速度范围由两个临界点（交叉点和转折点）所刻画，它们受到束流的影响。我们的研究对于理解太阳风中主要离子（质子）和次要离子（阿尔法粒子）之间相对漂移导致两种离子加热的能量耗散过程具有相关性。 <div>
-Satellite observations in the Earth’s magnetosphere suggest a coexistence of different types of ion populations, such as protons and heavier helium ions (alpha particles) transported by the solar wind. We have undertaken an investigation, from first principles, of the conditions for the occurrence of electrostatic solitary waves in such a multi-ion plasma environment. Nonlinear analysis has been employed to explore the effect of an ion beam on the occurrence of stopbands in a multicomponent plasma consisting of Boltzmann electrons and two ion species, modeled as cold and warm (adiabatic) ions. A “stopband” is an interval of pulse speed (mach (Mach number) values in which solitary waves cannot propagate. Such stopbands are known to exist in relation to fast ion-acoustic solitary waves (exclusively). Our parametric analysis reveals that the stopband widens over the range of cold ion charge density (values) upon increasing speed of a hot ion beam moving along the direction of wave propagation. However, the stopband becomes narrower in the case of a counterpropagating beam. Similarly, the streaming of a cold ion beam fluid along (or antiparallel) to the wave direction leads to the narrowing (or widening, respectively) of the stopband. The fast soliton existence (velocity) domain is characterized by two critical points (a crossover and a turning point), which are affected by the beam. Our study could be relevant to understanding energy dissipation processes in the fast solar wind associated with relative drifts between the major (protons) and minor (alpha particles) ions which results in the heating of both species.
 ]]></content:encoded>
 <pubDate>2024-11-08T00:00:00Z</pubDate>
 </item>
