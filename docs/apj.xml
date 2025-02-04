@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Mapping the Active Galactic Nucleus Effects on the Stellar and Gas Properties of NGC 5806</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada294</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada294</guid>
+<content:encoded><![CDATA[
+
+It is commonly accepted that active galactic nuclei (AGNs) have a strong impact upon the evolution of their host galaxies, but the processes by which they do so are not fully understood. We aim to further the understanding of AGN feeding and feedback by examining an active galaxy using spatially resolved spectroscopy. We analyze integral field spectroscopy of the active galaxy NGC 5806, obtained using the Very Large Telescope Multi-Unit Spectroscopic Explorer. We map the dynamics of gas and stars, as well as gas optical emission line fluxes throughout the central 8 × 8 kpc2 of the galaxy. We use emission line ratios to map gas metallicity and identify regions of gas excitation dominated by AGN/shocks or star formation. We also determine the average stellar population age and metallicity, and model the rotation and dynamics of the galaxy. We find that NGC 5806 has a star-forming circumnuclear ring, with a projected radius of ~400 pc. The dynamics of this galaxy are driven by a large-scale bar, which transports gas from the spiral arm to the central ring and potentially fuels the AGN. We also observe AGN-dominated gas excitation up to 3.3 kpc away from the center of the galaxy, showing the extended AGN effect on the gas in the central regions of the galaxy.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>TransformerPayne: Enhancing Spectral Emulation Accuracy and Data Efficiency by Capturing Long-range Correlations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b99</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b99</guid>
 <content:encoded><![CDATA[
-
 Stellar spectra emulators often rely on large grids and tend to reach a plateau in emulation accuracy, leading to significant systematic errors when inferring stellar properties. Our study explores the use of Transformer models to capture long-range information in spectra, comparing their performance to the Payne emulator (a fully connected multilayer perceptron), an expanded version of The Payne, and a convolutional-based emulator. We tested these models on synthetic spectral grids, evaluating their performance by analyzing emulation residuals and assessing the quality of spectral parameter inference. The newly introduced TransformerPayne emulator outperformed all other tested models, achieving a mean absolute error (MAE) of approximately 0.15% when trained on the full grid. The most significant improvements were observed in grids containing between 1000 and 10,000 spectra, with TransformerPayne showing 2–5 times better performance than the scaled-up version of The Payne. Additionally, TransformerPayne demonstrated superior fine-tuning capabilities, allowing for pretraining on one spectral model grid before transferring to another. This fine-tuning approach enabled up to a 10-fold reduction in training grid size compared to models trained from scratch. Analysis of TransformerPayne's attention maps revealed that they encode interpretable features common across many spectral lines of chosen elements. While scaling up The Payne to a larger network reduced its MAE from 1.2% to 0.3% when trained on the full data set, TransformerPayne consistently achieved the lowest MAE across all tests. The inductive biases of the TransformerPayne emulator enhance accuracy, data efficiency, and interpretability for spectral emulation compared to existing methods.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ Stellar spectra emulators often rely on large grids and tend to reach a plateau 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada382</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada382</guid>
 <content:encoded><![CDATA[
-
 Ongoing large stellar spectroscopic surveys of the Milky Way seek to reconstruct the major events in the assembly history of the Galaxy. Chemical and kinematic observations can be used to separate the contributions of different progenitor galaxies to the present-day stellar halo. Here, we compute the number of progenitors that contribute to the accreted stellar halos of simulated Milky Way–like galaxies as a function of radius (the radial diversity) in three suites of models: Bullock & Johnston, Aquarius, and Auriga. We show that there are significant differences between the predictions of these three models, beyond the halo-to-halo scatter expected in ΛCDM. Predictions of diversity from numerical simulations are sensitive to model-dependent assumptions regarding the efficiency of star formation in dwarf galaxies. We compare, at face value, to current constraints on the radial diversity of the Milky Way's accreted halo. These constraints imply that the halo of our Galaxy is dominated by ∼2 progenitors in the range 8–45 kpc, in contrast to averages of 7 progenitors in the Bullock & Johnston models, 3.5 in Aquarius, and 4.2 in Auriga over the same region. We additionally find that the models with radial diversity most similar to that of the Milky Way are predominantly those with ongoing merger events. The Milky Way therefore appears unusual in having an accreted stellar halo dominated by a small number of progenitors accreted at very early times.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@ Ongoing large stellar spectroscopic surveys of the Milky Way seek to reconstruct
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada3c1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada3c1</guid>
 <content:encoded><![CDATA[
-
 We investigate how stellar feedback from the first stars (Population III) distributes metals through the interstellar and intergalactic medium using the star-by-star cosmological hydrodynamics simulation, Aeos. We find that energy injected from the supernovae (SNe) of the first stars is enough to expel a majority of gas and injected metals beyond the virial radius of halos with mass Mdm ≲ 107M⊙, regardless of the number of SNe. This prevents self-enrichment and results in a nonmonotonic increase in metallicity at early times. Most minihalos (Mdm ≳ 105M⊙) do not retain significant fractions of the yields produced within their virial radii until they have grown to halo masses of Mdm ≳ 107M⊙. The loss of metals to regions well beyond the virial radius delays the onset of enriched star formation and extends the period that Population III star formation can persist. We also explore the contributions of different nucleosynthetic channels to 10 individual elements. On the timescale of the simulation (lowest redshift z = 14.3), enrichment is dominated by core-collapse supernovae for all elements, but with a significant contribution from asymptotic giant branch winds to the s-process elements, which are normally thought to only be important at late times. In this work, we establish important mechanisms for early chemical enrichment, which allows us to apply Aeos in later epochs to trace the evolution of enrichment during the complete transition from Population III to Population II stars.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +48,10 @@ We investigate how stellar feedback from the first stars (Population III) distri
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada442</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada442</guid>
 <content:encoded><![CDATA[
-
 The baryonic physics shaping galaxy formation and evolution are complex, spanning a vast range of scales and making them challenging to model. Cosmological simulations rely on subgrid models that produce significantly different predictions. Understanding how models of stellar and active galactic nucleus (AGN) feedback affect baryon behavior across different halo masses and redshifts is essential. Using the SIMBA and IllustrisTNG suites from the Cosmology and Astrophysics with MachinE Learning Simulations (CAMELS) project, we explore the effect of parameters governing the subgrid implementation of stellar and AGN feedback. We find that while IllustrisTNG shows higher cumulative feedback energy across all halos, SIMBA demonstrates a greater spread of baryons, quantified by the closure radius and circumgalactic medium (CGM) gas fraction. This suggests that feedback in SIMBA couples more effectively to baryons and drives them more efficiently within the host halo. There is evidence that the different feedback modes are highly interrelated in these subgrid models. The parameters controlling the stellar feedback efficiency significantly impact AGN feedback, as seen in the suppression of black hole mass growth and delayed activation of AGN feedback to higher-mass halos with increasing stellar feedback efficiency in both simulations. Additionally, the AGN feedback efficiency parameters affect the CGM gas fraction at low halo masses in SIMBA, hinting at complex, nonlinear interactions between the AGN and supernova feedback modes. Overall, we demonstrate that stellar and AGN feedback are intimately interwoven, especially at low redshift, due to subgrid implementation, resulting in halo property effects that might initially seem counterintuitive.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>ALMA Observations of Solar Spicules in a Polar Coronal Hole</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</link>
@@ -9717,55 +9720,6 @@ The James Webb Space Telescope opens a new window to directly probe luminous qua
 <div> GW探测器，紧凑天体合并，红移演化，二进制黑洞，星系演化<br />
 <br />研究人员使用COMPAS软件进行了人口合成模拟，生成了一个公开可用的紧凑天体合并目录，并研究了其随着红移的演化。他们发现，尽管本地合并率在模型变化下有着很大的范围，但它们的红移演化在双黑洞、黑洞-中子星和双中子星情况下都是相似的，峰值通常在z≈1.2-2.4。此外，他们还发现模拟合并率的一些趋势与研究的模型参数有关。未来对紧凑天体合并率红移演化的观测结果可以帮助限制恒星演化和引力波形成渠道的双星模型。 <br /><br />总结: GW探测器观测到合并事件, 红移演化相似, 模型参数相关, 观测结果可观测双星模型。 <div>
 Gravitational-wave (GW) detectors are observing compact object mergers from increasingly far distances, revealing the redshift evolution of the binary black hole (BBH)—and soon the black hole–neutron star (BHNS) and binary neutron star (BNS)—merger rate. To help interpret these observations, we investigate the expected redshift evolution of the compact object merger rate from the isolated binary evolution channel. We present a publicly available catalog of compact object mergers and their accompanying cosmological merger rates from population synthesis simulations conducted with the COMPAS software. To explore the impact of uncertainties in stellar and binary evolution, our simulations use two-parameter grids of binary evolution models that vary the common-envelope efficiency with mass transfer accretion efficiency and supernova (SN) remnant mass prescription with SN natal kick velocity, respectively. We quantify the redshift evolution of our simulated merger rates using the local (z ∼ 0) rate, the redshift at which the merger rate peaks, and the normalized differential rates (as a proxy for slope). We find that although the local rates span a range of ∼103 across our model variations, their redshift evolutions are remarkably similar for BBHs, BHNSs, and BNSs, with differentials typically within a factor 3 and peaks of z ≈ 1.2–2.4 across models. Furthermore, several trends in our simulated rates are correlated with the model parameters we explore. We conclude that future observations of the redshift evolution of the compact object merger rate can help constrain binary models for stellar evolution and GW formation channels.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Double-peaked Narrow Emission-line Galaxies in SDSS-IV MaNGA</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b8e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6b8e</guid>
-<content:encoded><![CDATA[
-<div> MaNGA, galaxies, double-peaked narrow emission lines, gas components, velocity<br />
-<br />
-这项研究使用了最终的MaNGA数据发布中的星系，通过检测Hα-[N ii]双峰线对所有MaNGA spaxels上的双高斯曲线来检测双峰窄发射线spaxels（DPSs）。共识别出与304个双峰窄发射线星系（DPGs）相关的5420个DPS，每个DPG至少包含五个DPS，并且不与其他星系重叠。我们发现DPSs可以根据它们的中心距离r/Re和两个成分之间的速度差Δv分为三组：内部低Δv、内部高Δv和外部DPSs。通过将DPGs的物理特征纳入其DPSs中，我们首次证明了被带状DPGs和内部低Δv DPSs、AGN-hosting DPGs和内部高Δv DPSs以及潮汐DPGs和外部DPSs之间存在统计关联。 <br /><br />总结: 这项研究使用MaNGA数据来检测星系中的双峰窄发射线，命名为DPSs，并发现了具体的统计相关性，并首次对这种现象进行了系统的分类和分析。 <div>
-Narrow emission lines in a galaxy’s spectrum that show double peaks indicate the presence of distinct gas components with different velocities, and its physical origin remains uncertain. This study uses galaxies from the final MaNGA data release to detect double-peaked narrow emission-line spaxels (DPSs) by examining the double Gaussian profiles of the Hα-[N ii] doublets across all MaNGA spaxels. A total of 5420 DPSs associated with 304 double-peaked narrow emission-line galaxies (DPGs) are identified, with each DPG containing a minimum of five DPSs and being free from overlap with other galaxies. We find that DPSs can be categorized into three groups according to their central distance r/Re and the velocity difference Δv between their two components: the inner low-Δv, inner high-Δv, and outer DPSs. By incorporating the physical characteristics of the DPGs into their DPSs, we demonstrate for the first time the existence of statistical correlations between barred DPGs and inner low-Δv DPSs, AGN-hosting DPGs, and inner high-Δv DPSs, as well as tidal DPGs and outer DPSs.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>How the Galaxy–Halo Connection Depends on Large-scale Environment</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7bb3</guid>
-<content:encoded><![CDATA[
-<div> 机器学习模型, 星系, 暗物质, 模拟数据, 环境
-<br />
-通过使用Illustris TNG300水动力学模拟数据，研究了星系、暗物质晕及它们的大尺度环境之间的联系。从子暗物质晕的属性中预测星体质量，测试了两种机器学习（ML）模型：可解释的增强机器（EBM）和不变图神经网络（GNN）。最佳表现的EBM模型利用了3Mpc尺度上的球对称平均过密特征。通过SHapley添加解释，表明在TNG300星系-暗物质晕联系的背景下，简单的3Mpc尺度球对称过密比使用DisPerSE算法测量的宇宙网距离特征更重要。与此同时，以固定链接长度定义连接性的GNN在表现上显著优于EBM模型。随着链接长度尺度的增加，GNN能够学习到直到我们探测到的最大尺度的重要环境贡献（L = 10 Mpc）。我们得出结论，3Mpc距离尺度对于描述使用球对称过密参数化的TNG星系-暗物质晕联系至关重要，但是无法被简单的环境参数或宇宙网特征捕捉到的更大尺度的信息可以进一步增强这些模型。我们的研究突出了使用可解释的机器学习算法解释天体现象模型的好处，以及使用GNN从数据中灵活学习复杂关系并施加物理对称性的能力。
-<br /><br />总结: 本研究在Illustris TNG300模拟数据基础上探究了星系、暗物质晕以及它们的大尺度环境之间的关联，通过机器学习模型进行预测和解释。研究发现3Mpc距离尺度对于描述星系-暗物质晕联系至关重要，而GNN模型在学习复杂关系方面表现出显著优势。这项研究突出了使用可解释的机器学习算法解释星系、暗物质晕等天体现象模型的好处。 <div>
-We investigate the connection between galaxies, dark matter halos, and their large-scale environments at z = 0 with Illustris TNG300 hydrodynamic simulation data. We predict stellar masses from subhalo properties to test two types of machine learning (ML) models: explainable boosting machines (EBMs) with simple galaxy environment features and -invariant graph neural networks (GNNs). The best-performing EBM models leverage spherically averaged overdensity features on 3 Mpc scales. Interpretations via SHapley Additive exPlanations also suggest that in the context of the TNG300 galaxy–halo connection, simple spherical overdensity on ∼3 Mpc scales is more important than cosmic web distance features measured using the DisPerSE algorithm. Meanwhile, a GNN with connectivity defined by a fixed linking length, L, outperforms the EBM models by a significant margin. As we increase the linking length scale, GNNs learn important environmental contributions up to the largest scales we probe (L = 10 Mpc). We conclude that 3 Mpc distance scales are most critical for describing the TNG galaxy–halo connection using the spherical overdensity parameterization, but that information on larger scales, which is not captured by simple environmental parameters or cosmic web features, can further augment these models. Our study highlights the benefits of using interpretable ML algorithms to explain models of astrophysical phenomena, and the power of using GNNs to flexibly learn complex relationships directly from data while imposing constraints from physical symmetries.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Simulating Short Gamma-Ray Burst Jets in Realistic Late Binary Neutron Star Merger Environments</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d04</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d04</guid>
-<content:encoded><![CDATA[
-<div> GW170817A, neutron star merger, afterglow observations, powerful jet, synthetic afterglow light curves
-<br /><br />总结:
-本文研究了GW170817A双中子星合并事件的电磁辐射和余辉观测，确认了该合并事件与一个狭窄而强大的喷流相关联。研究利用了协同中子星磁流体动力学模拟和半解析估计，注入了一个狭窄而强大的非磁化喷流。研究探讨了不同的开角、光度、中心引擎持续时间和合并后时间。发现半解析估计正确预测了喷流的爆发和聚束条件。通过将合成余辉光曲线与观测到的射电数据进行比较，发现3 × 10^49 erg的喷流在合并后晚期发射，并且开角在约5°-7°的范围内能与观测数据相符。 <div>
-The electromagnetic emission and the afterglow observations of the binary neutron star merger event GW170817A confirmed the association of the merger with a short gamma-ray burst (GRB) harboring a narrow (5°–10°) and powerful (1049–1050 erg) jet. Using the 1 s long neutrino-radiation general relativistic MHD simulation of coalescing neutron stars of K. Kiuchi et al., and following the semi-analytical estimates of M. Pais et al., we inject a narrow, powerful, unmagnetized jet into the post-merger phase. We explore different opening angles, luminosities, central engine durations, and times after the merger. We explore early (0.1 s following the merger) and late (1 s) jet launches; the latter is consistent with the time delay of ≈1.74 s observed between GW170817 and GRB 170817A. We demonstrate that the semi-analytical estimates correctly predict the jets’ breakout and collimation conditions. When comparing our synthetic afterglow light curves to the observed radio data of GW170807, we find a good agreement for a 3 × 1049 erg jet launched late with an opening angle in the range ≃5°–7°.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Effect of Time-varying X-Ray Emission from Stellar Flares on the Ionization of Protoplanetary Disks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fdf</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fdf</guid>
-<content:encoded><![CDATA[
-<div> 关键词: X射线, 恒星耀斑, 原行星盘, 化学反应, 辐射传输<br />
-总结:<br />
-本文研究了X射线对冷弱电离原行星盘的影响，尤其关注了恒星耀斑产生的硬X射线。作者基于观测和耀斑理论，建立了X射线光谱模型，能更好地预测硬X射线光子通量。利用该模型进行辐射传输计算，发现耀斑释放的硬X射线能显著增加盘中的电离速率，极大影响盘的演化。研究结果强调了恒星耀斑对原行星盘演化的重要性。 <div>
-X-rays have significant impacts on cold, weakly ionized protoplanetary disks by increasing the ionization rate and driving chemical reactions. Stellar flares are explosions that emit intense X-rays and are the unique source of hard X-rays with an energy of ≳10 keV in the protoplanetary disk systems. Hard X-rays should be carefully taken into account in models as they can reach the disk midplane as a result of scattering in the disk atmospheres. However, previous models are insufficient to predict the hard X-ray spectra because of simplifications in flare models. We develop a model of X-ray spectra of stellar flares based on observations and flare theories. The flare temperature and nonthermal electron emissions are modeled as functions of flare energy, which allows us to better predict the hard X-ray photon flux than before. Using our X-ray model, we conduct radiative transfer calculations to investigate the impact of flare hard X-rays on disk ionization, with a particular focus on the protoplanetary disk around a T Tauri star. We demonstrate that for a flare with an energy of 1035 erg, X-ray photons with ≳5 keV increase the ionization rates more than galactic cosmic rays down to z ≈ 0.1R. The contribution of flare X-rays to the ionization at the midplane depends on the disk parameters such as disk mass and dust settling. We also find that the 10 yr averaged X-rays from multiple flares could certainly contribute to the ionization. These results emphasize the importance of stellar flares on the disk evolution.
 ]]></content:encoded>
 <pubDate>2024-11-12T00:00:00Z</pubDate>
 </item>
