@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>ALMA Observations of Solar Spicules in a Polar Coronal Hole</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</guid>
+<content:encoded><![CDATA[
+
+We report observations of solar spicules at millimeter wavelengths (mm-λ) using the Atacama Large Millimeter/submillimeter Array (ALMA). These are supplemented by observations in optical, ultraviolet (UV), and extreme ultraviolet (EUV) wavelengths. The observations were made on 2018 December 25 of the northern polar coronal hole. ALMA obtained time-resolved imaging observations at wavelengths of 3 mm (100 GHz; 2 s cadence) and 1.25 mm (239 GHz; ≈2 minutes cadence) with an angular resolution of 2 2 × 1 3 and 1 5 × 0 7, respectively. Spicules observed at mm-λ are easily seen low in the chromosphere whereas spicules in UV bands are seen to extend higher. The spicules observed at mm-λ are seen in absorption against coronal EUV emission, allowing us to estimate the column depth of neutral hydrogen. Spicular emission at mm-λ, due to thermal free–free radiation, allows us to estimate the electron number density as a function of height. We find that spicule densities, inferred from the mm-λ data are uniquely insensitive to assumptions regarding the temperature of plasma in spicules. We suggest that the upward mass flux carried by spicules is unlikely to play a significant role in the mass budget of the solar corona and solar wind, and the transport of hot material into the corona by spicules may not play a significant role in coronal heating. However, the possibility that electric currents, fast kink and torsional waves, or other wave modes carried by spicules may play a role in transporting energy into the solar corona cannot be excluded.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Black Hole Supernovae, Their Equation of State Dependence, and Ejecta Composition</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada899</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada899</guid>
 <content:encoded><![CDATA[
-
 Recent literature on core-collapse supernovae suggests that a black hole (BH) can form within ∼1 s of shock revival, while still culminating in a successful supernova. We refer to these as BH supernovae, as they are distinct from other BH formation channels in both timescale and impact on the explosion. We simulate these events self-consistently from core collapse until 20–50 days after collapse using three axisymmetric models of a 60 M⊙ zero-age main-sequence progenitor star and investigate how the composition of the ejecta is impacted by the BH formation. We employ Skyrme-type equations of state (EOSs) and vary the uncertain nucleonic effective mass, which affects the pressure inside the proto–neutron star through the thermal part of the EOS. This results in different BH formation times and explosion energies at BH formation, yielding final explosion energies between 0.06 and 0.72 × 1051 erg with 21.8–23.3 M⊙ of ejecta, of which 0–0.018 M⊙ is 56Ni. Compared to expectations from 1D simulations, we find more nuanced EOS dependences of the explosion dynamics, the mass of the BH remnant, and the elemental composition of the ejecta. We investigate why the explosions survive despite the massive overburden and link the shape of the diagnostic energy curve and character of the ejecta evolution to the progenitor structure.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ Recent literature on core-collapse supernovae suggests that a black hole (BH) ca
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a0</guid>
 <content:encoded><![CDATA[
-
 Accurately measuring magnetic field strength in the interstellar medium, including giant molecular clouds, remains a significant challenge. We present a machine learning approach using denoising diffusion probabilistic models (DDPMs) to estimate magnetic field strength from synthetic observables such as column density, orientation angles of the dust continuum polarization vector, and line-of-sight (LOS) nonthermal velocity dispersion. We trained three versions of the DDPM model: the 1-channel DDPM (using only column density), the 2-channel DDPM (incorporating both column density and polarization angles), and the 3-channel DDPM (which combines column density, polarization angles, and LOS nonthermal velocity dispersion). The code and trained model are available on GitHub at https://github.com/xuduo117/DDPM_Bmag. We assessed the models on both synthetic test samples and new simulation data that were outside the training set's distribution. The 3-channel DDPM consistently outperformed both the other DDPM variants and the power-law fitting approach based on column density alone, demonstrating its robustness in handling previously unseen data. Additionally, we compared the performance of the Davis–Chandrasekhar–Fermi (DCF) methods, both classical and modified, to the DDPM predictions. The classical DCF method overestimated the magnetic field strength by approximately an order of magnitude. Although the modified DCF method showed improvement over the classical version, it still fell short of the precision achieved by the 3-channel DDPM.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@ Accurately measuring magnetic field strength in the interstellar medium, includi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adabbf</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabbf</guid>
 <content:encoded><![CDATA[
-
 Sco X-1 is the brightest observed extrasolar X-ray source, which is a neutron star (NS) low-mass X-ray binary (LMXB) and is thought to have a strong potential for continuous gravitational waves (CW) detection due to its high accretion rate and relative proximity. Here, we compute the long-term evolution of its parameters, particularly the NS spin frequency (ν) and the surface magnetic field (B), to probe its nature and its potential for CW detection. We find that Sco X-1 is an unusually young (∼7 × 106 yr) LMXB and constrain the current NS mass to ∼1.4–1.6 M⊙. Our computations reveal a rapid B decay, with the maximum current value of ∼1.8 × 108 G, which can be useful to constrain the decay models. Note that the maximum current ν value is ∼550 Hz, implying that, unlike what is generally believed, a CW emission is not required to explain the current source properties. However, ν will exceed an observed cutoff frequency of ∼730 Hz, and perhaps even the NS breakup frequency, in the future without a CW emission. The minimum NS mass quadrupole moment (Q) to avoid this is ∼(2–3) × 1037 g cm2, corresponding to a CW strain of ∼10−26. Our estimation of current ν values can improve the CW search sensitivity.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A 22 Billion M ⊙ Black Hole in Holmberg 15A with Keck KCWI Spectroscopy and Triaxial Orbit Modeling</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b0</link>
@@ -9731,40 +9736,6 @@ X-rays have significant impacts on cold, weakly ionized protoplanetary disks by 
 总结:<br />
 本研究使用COMPAS进行了群体综合模拟，发现孤立双黑洞、黑洞-中子星和双中子星合并率与尺度SFRD存在显著偏差。这种偏差主要是由于低金属丰度条件下形成双黑洞的效率比太阳金属丰度条件下高一个数量级，以及双黑洞形成和合并之间存在着广泛的延迟时间。此外，我们还发现双黑洞的延迟时间分布随红移变化，增加了合并时的红移分布的复杂性。这些结果表明来自孤立渠道的双黑洞、黑洞-中子星和双中子星合并率可能明显偏离尺度SFRD，未来的合并率测量将对引力波源的形成途径提供进一步洞察。 <div>
 Gravitational-wave detectors are now making it possible to investigate how the merger rate of binary black holes (BBHs) evolves with redshift. In this study, we examine whether the BBH merger rate of isolated binaries deviates from a scaled star formation rate density (SFRD)—a frequently used model in state-of-the-art research. To address this question, we conduct population synthesis simulations using COMPAS with a grid of stellar evolution models, calculate their cosmological merger rates, and compare them to a scaled SFRD. We find that our simulated rates deviate by factors up to 3.5 at z ∼ 0 and 5 at z ∼ 9 due to two main phenomena: (i) the formation efficiency of BBHs is an order of magnitude higher at low metallicities than at solar metallicity, and (ii) BBHs experience a wide range of delays (from a few megayears to many gigayears) between formation and merger. The deviations are similar when comparing to a delayed SFRD, and even larger (up to ∼10×) when comparing to SFRD-based models scaled to the local merger rate. Interestingly, our simulations find that the BBH delay time distribution is redshift dependent, increasing the complexity of the redshift distribution of mergers. We find similar results for simulated merger rates of black hole–neutron stars (BHNSs) and binary neutron stars (BNSs). We conclude that the rate of BBH, BHNS, and BNS mergers from the isolated channel can significantly deviate from a scaled SFRD, and that future measurements of the merger rate will provide insights into the formation pathways of gravitational-wave sources.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Potential for Long-lived Intermediate-mass Black Hole Binaries in the Lowest Density Dwarf Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8082</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8082</guid>
-<content:encoded><![CDATA[
-<div> LISA, gravitational waves, intermediate-mass black holes, dwarf galaxies, N-body simulations
-总结: 这篇文章讨论了中等质量黑洞（IMBH）在侏儒星系中的动力学和演化。研究发现，在非核心侏儒星系中，IMBH之间的融合速度较慢，尽管具有极高的偏心率。这表明在非核心侏儒星系中，低密度的星际环境不足以推动IMBH二进制系统融合。这些发现强调了需要考虑宿主特性才能准确预测LISA所观测到的IMBH融合速率。 <div>
-Intermediate-mass black hole (IMBH) mergers with masses 104–106M⊙ are expected to produce gravitational waves detectable by the Laser Interferometer Space Antenna (LISA) with high signal-to-noise ratios from the present day to cosmic dawn. IMBH mergers are expected to take place within dwarf galaxies; however, the dynamics, timescales, and effect on their hosts are largely unexplored. In a previous study, we examined how IMBHs would pair and merge within nucleated dwarf galaxies. IMBHs in nucleated hosts evolve very efficiently, forming a binary system and coalescing within a few hundred million years. Although the fraction of dwarf galaxies (107M⊙ ≤ M⋆ ≤ 1010M⊙) hosting nuclear star clusters is between 60% and 100%, this fraction drops to 20%–70% for lower-mass dwarfs (M⋆ ≈ 107M⊙), with the largest drop in low-density environments. Here, we extend our previous study by performing direct N-body simulations to explore the dynamics and evolution of IMBHs within nonnucleated dwarf galaxies, under the assumption that IMBHs exist within these dwarfs. To our surprise, none of the IMBHs in our simulation suite merge within a Hubble time, despite many attaining high eccentricities e ∼ 0.7–0.95. We conclude that extremely low stellar density environments in the centers of nonnucleated dwarfs do not provide an ample supply of stars to interact with an IMBH binary, resulting in its stalling, in spite of triaxiality and high eccentricity, common means to drive a binary to coalescence. Our findings underline the importance of considering all detailed host properties to predict IMBH merger rates for LISA.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraints on Acoustic Wave Energy Fluxes and Radiative Losses in the Solar Chromosphere from Non-LTE Inversions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad81d4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad81d4</guid>
-<content:encoded><![CDATA[
-<div> Na i 5896 Å, Ca ii 8542 Å, Interface Region Imaging Spectrograph, radiative losses, magnetohydrodynamics simulation
-总结: 通过使用非局部热力学平衡反演和瑞典反演码，研究了太阳色球区域的声波能量通量和辐射损失之间的平衡。利用干涉双向光谱仪和接触区域成像光谱仪的光谱观测数据，自洽地推导了大气不同高度处的速度功率谱和冷却速率。研究结果表明，在拟合这些光谱线时，反演可能低估了色球各个高度处的声波通量，同时略微高估了辐射损失。然而，即使考虑了这些偏差，声波通量与辐射损失的比值在大多数观测区域仍然低于1，特别是在色球的较高层。此外，我们还观察到在斑区，磁场倾斜角与低色球的辐射损失之间存在相关性，这表明磁场拓扑在色球损失中起着一定作用。 <div>
-Accurately assessing the balance between acoustic wave energy fluxes and radiative losses is critical for understanding how the solar chromosphere is thermally regulated. We investigate the energy balance in the chromosphere by comparing deposited acoustic flux and radiative losses under quiet and active solar conditions using non–local thermodynamic equilibrium inversions with the Stockholm Inversion Code. To achieve this, we utilize spectroscopic observations from the Interferometric BIdimensional Spectrometer in the Na i 5896 Å and Ca ii 8542 Å lines and from the Interface Region Imaging Spectrograph in the Mg ii h and k lines to self-consistently derive spatially resolved velocity power spectra and cooling rates across different heights in the atmosphere. Additionally, we use snapshots of a three-dimensional radiative magnetohydrodynamics simulation to investigate the systematic effects of the inversion approach, particularly the effect of attenuation on the velocity power spectra and the determination of the cooling rates. The results indicate that inversions potentially underestimate acoustic fluxes at all chromospheric heights while slightly overestimating the radiative losses when fitting these spectral lines. However, even after accounting for these biases, the ratio of acoustic flux to radiative losses remains below unity in most observed regions, particularly in the higher layers of the chromosphere. We also observe a correlation between the magnetic field inclination in the photosphere and radiative losses in the low chromosphere in plage, which is evidence that the field topology plays a role in the chromospheric losses.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Dependence of Joy’s Law and Mean Tilt as a Function of Flux Emergence Phase</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e3</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Michelson Doppler Imager, Helioseismic and Magnetic Imager, tilt angles, Joy’s law, Solar Cycles 23 and 24<br />
-<br />
-这项研究使用了来自Michelson Doppler Imager (MDI)和Helioseismic and Magnetic Imager (HMI)的数据，分析了1996年至2023年间的数据，以研究双极磁区的倾斜角(γ)以及太阳周期23、24和25的Joy定律。研究使用HMI径向磁场(Br)和MDI磁图(Blos)数据来计算γ，并发现活跃区的平均倾角在AR出现时从3.°30 ± 0.75增加到AR出现最大磁通时的6.°79° ± 0.66。对比得出，太阳周期24的平均倾角=6.67 ± 0.66大于太阳周期23的平均倾角=5.11 ± 0.61。除此之外，在Joy定律的斜率方面没有显著差异。此外，南半球的倾斜角在太阳周期23和24中一直比北半球高，但由于不确定性较大，这些差异并不具有统计学意义。<br /><br />总结: 这项研究分析了1996年至2023年的Michelson Doppler Imager (MDI)和Helioseismic and Magnetic Imager (HMI)数据，研究了太阳双极磁区的倾斜角(γ)以及太阳周期23、24和25的Joy定律。研究发现，活跃区的平均倾角随着AR出现增加，太阳周期24的平均倾角大于太阳周期23。此外，南半球的倾斜角一直比北半球高，但由于不确定性较大，这些差异并不具有统计学意义。 <div>
-Data from the Michelson Doppler Imager (MDI) and Helioseismic and Magnetic Imager (HMI) are analyzed from 1996 to 2023 to investigate tilt angles (γ) of bipolar magnetic regions and Joy’s law for Solar Cycles 23 and 24 and a portion of Cycle 25. The HMI radial magnetic field (Br) and MDI magnetogram (Blos) data are used to calculate (γ) using the flux-weighted centroids of the positive and negative polarities. Each active region (AR) is only sampled once. The analysis includes only Beta (β)-class ARs since computing γ of complex ARs is less meaningful. During the emergence of the ARs, we find that the average tilt angle ( ) increases from 3.°30 ± 0.75 when 20% of the flux has emerged to 6.°79° ± 0.66 when the ARs are at their maximum flux. Cycle 24 has a larger average tilt, =6.67 ± 0.66, than Cycle 23, = 5.11 ± 0.61. No significant difference is found in the slope of Joy’s law or when sampling the ARs at the time of maximum flux or central meridian crossing. There are persistent differences in in the hemispheres, with the Sun's southern hemisphere having higher in Cycles 23 and 24, but the uncertainties are such that these differences are not statistically significant.
 ]]></content:encoded>
 <pubDate>2024-11-12T00:00:00Z</pubDate>
 </item>
