@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Mapping the Active Galactic Nucleus Effects on the Stellar and Gas Properties of NGC 5806</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada294</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada294</guid>
 <content:encoded><![CDATA[
-
 It is commonly accepted that active galactic nuclei (AGNs) have a strong impact upon the evolution of their host galaxies, but the processes by which they do so are not fully understood. We aim to further the understanding of AGN feeding and feedback by examining an active galaxy using spatially resolved spectroscopy. We analyze integral field spectroscopy of the active galaxy NGC 5806, obtained using the Very Large Telescope Multi-Unit Spectroscopic Explorer. We map the dynamics of gas and stars, as well as gas optical emission line fluxes throughout the central 8 × 8 kpc2 of the galaxy. We use emission line ratios to map gas metallicity and identify regions of gas excitation dominated by AGN/shocks or star formation. We also determine the average stellar population age and metallicity, and model the rotation and dynamics of the galaxy. We find that NGC 5806 has a star-forming circumnuclear ring, with a projected radius of ~400 pc. The dynamics of this galaxy are driven by a large-scale bar, which transports gas from the spiral arm to the central ring and potentially fuels the AGN. We also observe AGN-dominated gas excitation up to 3.3 kpc away from the center of the galaxy, showing the extended AGN effect on the gas in the central regions of the galaxy.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>TransformerPayne: Enhancing Spectral Emulation Accuracy and Data Efficiency by Capturing Long-range Correlations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b99</link>
@@ -9709,17 +9707,6 @@ We present the tidal disruption event (TDE) AT2022lri, hosted in a nearby (≈14
 <br />
 在这篇论文中，研究团队使用James Webb太空望远镜对宇宙再电离时期的一个类星体进行了深入研究。他们发现了类星体的黑洞质量和辐射能量，并观测到了类星体产生的高速气体流出现象。这个高速气体流的动力学特性与低红移下的类星体产生的气体流特性相似。研究还指出，这个气体流可能会对母系星系的恒星形成产生影响，可能从内部地区驱逐出大量气体。这些发现表明，这个气体流产生的动能与类星体的辐射能量大致相当，符合模型对负反馈所需的能量范围。总结: <br /><br />以上发现揭示了早期宇宙恒星系的演化过程，尤其是关于类星体产生的气体流对恒星系内气体和星系形成的影响，这对我们理解宇宙尺度的恒星系统的形成和演化过程有重要意义。 <div>
 The James Webb Space Telescope opens a new window to directly probe luminous quasars powered by billion solar mass black holes in the Epoch of Reionization and their coevolution with massive galaxies with unprecedented details. In this paper, we report the first results from a deep NIRSpec integral field unit spectroscopic study of a quasar at z = 7.5. We obtain a bolometric luminosity of ∼1.8 × 1047 erg s−1 and a black hole mass of ∼0.7–2.5 × 109M⊙ based on the Hβ emission line in the quasar spectrum. We discover ∼2 kpc scale, highly blueshifted (∼−870 km s−1) and broad (∼1400 km s−1) [O iii] line emission after the quasar point-spread function has been subtracted. Such line emission most likely originates from a fast, quasar-driven outflow, the earliest one at galactic scales known so far. The dynamical properties of this outflow fall within the typical ranges of quasar-driven outflows at lower redshift, and the outflow may be fast enough to reach the circumgalactic medium. Combining both the extended and nuclear outflow together, the mass outflow rate, ∼300 M⊙ yr−1, is ∼60%–380% of the star formation rate of the quasar host galaxy, suggesting that the outflow may expel a significant amount of gas from the inner region of the galaxy. The kinetic energy outflow rate, ∼3.6 × 1044 erg s−1, is ∼0.2% of the quasar bolometric luminosity, which is comparable to the minimum value required for negative feedback based on simulation predictions. The dynamical timescale of the extended outflow is ∼1.7 Myr, consistent with the typical quasar lifetime in this era.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Investigating the Cosmological Rate of Compact Object Mergers from Isolated Massive Binary Stars</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe3</guid>
-<content:encoded><![CDATA[
-<div> GW探测器，紧凑天体合并，红移演化，二进制黑洞，星系演化<br />
-<br />研究人员使用COMPAS软件进行了人口合成模拟，生成了一个公开可用的紧凑天体合并目录，并研究了其随着红移的演化。他们发现，尽管本地合并率在模型变化下有着很大的范围，但它们的红移演化在双黑洞、黑洞-中子星和双中子星情况下都是相似的，峰值通常在z≈1.2-2.4。此外，他们还发现模拟合并率的一些趋势与研究的模型参数有关。未来对紧凑天体合并率红移演化的观测结果可以帮助限制恒星演化和引力波形成渠道的双星模型。 <br /><br />总结: GW探测器观测到合并事件, 红移演化相似, 模型参数相关, 观测结果可观测双星模型。 <div>
-Gravitational-wave (GW) detectors are observing compact object mergers from increasingly far distances, revealing the redshift evolution of the binary black hole (BBH)—and soon the black hole–neutron star (BHNS) and binary neutron star (BNS)—merger rate. To help interpret these observations, we investigate the expected redshift evolution of the compact object merger rate from the isolated binary evolution channel. We present a publicly available catalog of compact object mergers and their accompanying cosmological merger rates from population synthesis simulations conducted with the COMPAS software. To explore the impact of uncertainties in stellar and binary evolution, our simulations use two-parameter grids of binary evolution models that vary the common-envelope efficiency with mass transfer accretion efficiency and supernova (SN) remnant mass prescription with SN natal kick velocity, respectively. We quantify the redshift evolution of our simulated merger rates using the local (z ∼ 0) rate, the redshift at which the merger rate peaks, and the normalized differential rates (as a proxy for slope). We find that although the local rates span a range of ∼103 across our model variations, their redshift evolutions are remarkably similar for BBHs, BHNSs, and BNSs, with differentials typically within a factor 3 and peaks of z ≈ 1.2–2.4 across models. Furthermore, several trends in our simulated rates are correlated with the model parameters we explore. We conclude that future observations of the redshift evolution of the compact object merger rate can help constrain binary models for stellar evolution and GW formation channels.
 ]]></content:encoded>
 <pubDate>2024-11-12T00:00:00Z</pubDate>
 </item>
