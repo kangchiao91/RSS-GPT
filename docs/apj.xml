@@ -5,17 +5,59 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>ALMA Observations of Solar Spicules in a Polar Coronal Hole</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</guid>
+<title>TransformerPayne: Enhancing Spectral Emulation Accuracy and Data Efficiency by Capturing Long-range Correlations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b99</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b99</guid>
 <content:encoded><![CDATA[
 
-We report observations of solar spicules at millimeter wavelengths (mm-λ) using the Atacama Large Millimeter/submillimeter Array (ALMA). These are supplemented by observations in optical, ultraviolet (UV), and extreme ultraviolet (EUV) wavelengths. The observations were made on 2018 December 25 of the northern polar coronal hole. ALMA obtained time-resolved imaging observations at wavelengths of 3 mm (100 GHz; 2 s cadence) and 1.25 mm (239 GHz; ≈2 minutes cadence) with an angular resolution of 2 2 × 1 3 and 1 5 × 0 7, respectively. Spicules observed at mm-λ are easily seen low in the chromosphere whereas spicules in UV bands are seen to extend higher. The spicules observed at mm-λ are seen in absorption against coronal EUV emission, allowing us to estimate the column depth of neutral hydrogen. Spicular emission at mm-λ, due to thermal free–free radiation, allows us to estimate the electron number density as a function of height. We find that spicule densities, inferred from the mm-λ data are uniquely insensitive to assumptions regarding the temperature of plasma in spicules. We suggest that the upward mass flux carried by spicules is unlikely to play a significant role in the mass budget of the solar corona and solar wind, and the transport of hot material into the corona by spicules may not play a significant role in coronal heating. However, the possibility that electric currents, fast kink and torsional waves, or other wave modes carried by spicules may play a role in transporting energy into the solar corona cannot be excluded.
+Stellar spectra emulators often rely on large grids and tend to reach a plateau in emulation accuracy, leading to significant systematic errors when inferring stellar properties. Our study explores the use of Transformer models to capture long-range information in spectra, comparing their performance to the Payne emulator (a fully connected multilayer perceptron), an expanded version of The Payne, and a convolutional-based emulator. We tested these models on synthetic spectral grids, evaluating their performance by analyzing emulation residuals and assessing the quality of spectral parameter inference. The newly introduced TransformerPayne emulator outperformed all other tested models, achieving a mean absolute error (MAE) of approximately 0.15% when trained on the full grid. The most significant improvements were observed in grids containing between 1000 and 10,000 spectra, with TransformerPayne showing 2–5 times better performance than the scaled-up version of The Payne. Additionally, TransformerPayne demonstrated superior fine-tuning capabilities, allowing for pretraining on one spectral model grid before transferring to another. This fine-tuning approach enabled up to a 10-fold reduction in training grid size compared to models trained from scratch. Analysis of TransformerPayne's attention maps revealed that they encode interpretable features common across many spectral lines of chosen elements. While scaling up The Payne to a larger network reduced its MAE from 1.2% to 0.3% when trained on the full data set, TransformerPayne consistently achieved the lowest MAE across all tests. The inductive biases of the TransformerPayne emulator enhance accuracy, data efficiency, and interpretability for spectral emulation compared to existing methods.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Progenitor Diversity in the Accreted Stellar Halos of Milky Way–like Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada382</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada382</guid>
+<content:encoded><![CDATA[
+
+Ongoing large stellar spectroscopic surveys of the Milky Way seek to reconstruct the major events in the assembly history of the Galaxy. Chemical and kinematic observations can be used to separate the contributions of different progenitor galaxies to the present-day stellar halo. Here, we compute the number of progenitors that contribute to the accreted stellar halos of simulated Milky Way–like galaxies as a function of radius (the radial diversity) in three suites of models: Bullock & Johnston, Aquarius, and Auriga. We show that there are significant differences between the predictions of these three models, beyond the halo-to-halo scatter expected in ΛCDM. Predictions of diversity from numerical simulations are sensitive to model-dependent assumptions regarding the efficiency of star formation in dwarf galaxies. We compare, at face value, to current constraints on the radial diversity of the Milky Way's accreted halo. These constraints imply that the halo of our Galaxy is dominated by ∼2 progenitors in the range 8–45 kpc, in contrast to averages of 7 progenitors in the Bullock & Johnston models, 3.5 in Aquarius, and 4.2 in Auriga over the same region. We additionally find that the models with radial diversity most similar to that of the Milky Way are predominantly those with ongoing merger events. The Milky Way therefore appears unusual in having an accreted stellar halo dominated by a small number of progenitors accreted at very early times.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>AEOS: Transport of Metals from Minihalos following Population III Stellar Feedback</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada3c1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada3c1</guid>
+<content:encoded><![CDATA[
+
+We investigate how stellar feedback from the first stars (Population III) distributes metals through the interstellar and intergalactic medium using the star-by-star cosmological hydrodynamics simulation, Aeos. We find that energy injected from the supernovae (SNe) of the first stars is enough to expel a majority of gas and injected metals beyond the virial radius of halos with mass Mdm ≲ 107M⊙, regardless of the number of SNe. This prevents self-enrichment and results in a nonmonotonic increase in metallicity at early times. Most minihalos (Mdm ≳ 105M⊙) do not retain significant fractions of the yields produced within their virial radii until they have grown to halo masses of Mdm ≳ 107M⊙. The loss of metals to regions well beyond the virial radius delays the onset of enriched star formation and extends the period that Population III star formation can persist. We also explore the contributions of different nucleosynthetic channels to 10 individual elements. On the timescale of the simulation (lowest redshift z = 14.3), enrichment is dominated by core-collapse supernovae for all elements, but with a significant contribution from asymptotic giant branch winds to the s-process elements, which are normally thought to only be important at late times. In this work, we establish important mechanisms for early chemical enrichment, which allows us to apply Aeos in later epochs to trace the evolution of enrichment during the complete transition from Population III to Population II stars.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Quantifying Baryonic Feedback on the Warm–Hot Circumgalactic Medium in CAMELS Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada442</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada442</guid>
+<content:encoded><![CDATA[
+
+The baryonic physics shaping galaxy formation and evolution are complex, spanning a vast range of scales and making them challenging to model. Cosmological simulations rely on subgrid models that produce significantly different predictions. Understanding how models of stellar and active galactic nucleus (AGN) feedback affect baryon behavior across different halo masses and redshifts is essential. Using the SIMBA and IllustrisTNG suites from the Cosmology and Astrophysics with MachinE Learning Simulations (CAMELS) project, we explore the effect of parameters governing the subgrid implementation of stellar and AGN feedback. We find that while IllustrisTNG shows higher cumulative feedback energy across all halos, SIMBA demonstrates a greater spread of baryons, quantified by the closure radius and circumgalactic medium (CGM) gas fraction. This suggests that feedback in SIMBA couples more effectively to baryons and drives them more efficiently within the host halo. There is evidence that the different feedback modes are highly interrelated in these subgrid models. The parameters controlling the stellar feedback efficiency significantly impact AGN feedback, as seen in the suppression of black hole mass growth and delayed activation of AGN feedback to higher-mass halos with increasing stellar feedback efficiency in both simulations. Additionally, the AGN feedback efficiency parameters affect the CGM gas fraction at low halo masses in SIMBA, hinting at complex, nonlinear interactions between the AGN and supernova feedback modes. Overall, we demonstrate that stellar and AGN feedback are intimately interwoven, especially at low redshift, due to subgrid implementation, resulting in halo property effects that might initially seem counterintuitive.
 ]]></content:encoded>
 
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>ALMA Observations of Solar Spicules in a Polar Coronal Hole</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada445</guid>
+<content:encoded><![CDATA[
+We report observations of solar spicules at millimeter wavelengths (mm-λ) using the Atacama Large Millimeter/submillimeter Array (ALMA). These are supplemented by observations in optical, ultraviolet (UV), and extreme ultraviolet (EUV) wavelengths. The observations were made on 2018 December 25 of the northern polar coronal hole. ALMA obtained time-resolved imaging observations at wavelengths of 3 mm (100 GHz; 2 s cadence) and 1.25 mm (239 GHz; ≈2 minutes cadence) with an angular resolution of 2 2 × 1 3 and 1 5 × 0 7, respectively. Spicules observed at mm-λ are easily seen low in the chromosphere whereas spicules in UV bands are seen to extend higher. The spicules observed at mm-λ are seen in absorption against coronal EUV emission, allowing us to estimate the column depth of neutral hydrogen. Spicular emission at mm-λ, due to thermal free–free radiation, allows us to estimate the electron number density as a function of height. We find that spicule densities, inferred from the mm-λ data are uniquely insensitive to assumptions regarding the temperature of plasma in spicules. We suggest that the upward mass flux carried by spicules is unlikely to play a significant role in the mass budget of the solar corona and solar wind, and the transport of hot material into the corona by spicules may not play a significant role in coronal heating. However, the possibility that electric currents, fast kink and torsional waves, or other wave modes carried by spicules may play a role in transporting energy into the solar corona cannot be excluded.
+]]></content:encoded>
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
 <item>
 <title>Black Hole Supernovae, Their Equation of State Dependence, and Ejecta Composition</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada899</link>
@@ -9724,18 +9766,6 @@ The electromagnetic emission and the afterglow observations of the binary neutro
 总结:<br />
 本文研究了X射线对冷弱电离原行星盘的影响，尤其关注了恒星耀斑产生的硬X射线。作者基于观测和耀斑理论，建立了X射线光谱模型，能更好地预测硬X射线光子通量。利用该模型进行辐射传输计算，发现耀斑释放的硬X射线能显著增加盘中的电离速率，极大影响盘的演化。研究结果强调了恒星耀斑对原行星盘演化的重要性。 <div>
 X-rays have significant impacts on cold, weakly ionized protoplanetary disks by increasing the ionization rate and driving chemical reactions. Stellar flares are explosions that emit intense X-rays and are the unique source of hard X-rays with an energy of ≳10 keV in the protoplanetary disk systems. Hard X-rays should be carefully taken into account in models as they can reach the disk midplane as a result of scattering in the disk atmospheres. However, previous models are insufficient to predict the hard X-ray spectra because of simplifications in flare models. We develop a model of X-ray spectra of stellar flares based on observations and flare theories. The flare temperature and nonthermal electron emissions are modeled as functions of flare energy, which allows us to better predict the hard X-ray photon flux than before. Using our X-ray model, we conduct radiative transfer calculations to investigate the impact of flare hard X-rays on disk ionization, with a particular focus on the protoplanetary disk around a T Tauri star. We demonstrate that for a flare with an energy of 1035 erg, X-ray photons with ≳5 keV increase the ionization rates more than galactic cosmic rays down to z ≈ 0.1R. The contribution of flare X-rays to the ionization at the midplane depends on the disk parameters such as disk mass and dust settling. We also find that the 10 yr averaged X-rays from multiple flares could certainly contribute to the ionization. These results emphasize the importance of stellar flares on the disk evolution.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Binary Black Hole Merger Rate Deviates from the Cosmic Star Formation Rate: A Tug of War between Metallicity and Delay Times</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe4</guid>
-<content:encoded><![CDATA[
-<div> BBH merger rate, scaled SFRD, COMPAS, stellar evolution models, metallicity <br />
-总结:<br />
-本研究使用COMPAS进行了群体综合模拟，发现孤立双黑洞、黑洞-中子星和双中子星合并率与尺度SFRD存在显著偏差。这种偏差主要是由于低金属丰度条件下形成双黑洞的效率比太阳金属丰度条件下高一个数量级，以及双黑洞形成和合并之间存在着广泛的延迟时间。此外，我们还发现双黑洞的延迟时间分布随红移变化，增加了合并时的红移分布的复杂性。这些结果表明来自孤立渠道的双黑洞、黑洞-中子星和双中子星合并率可能明显偏离尺度SFRD，未来的合并率测量将对引力波源的形成途径提供进一步洞察。 <div>
-Gravitational-wave detectors are now making it possible to investigate how the merger rate of binary black holes (BBHs) evolves with redshift. In this study, we examine whether the BBH merger rate of isolated binaries deviates from a scaled star formation rate density (SFRD)—a frequently used model in state-of-the-art research. To address this question, we conduct population synthesis simulations using COMPAS with a grid of stellar evolution models, calculate their cosmological merger rates, and compare them to a scaled SFRD. We find that our simulated rates deviate by factors up to 3.5 at z ∼ 0 and 5 at z ∼ 9 due to two main phenomena: (i) the formation efficiency of BBHs is an order of magnitude higher at low metallicities than at solar metallicity, and (ii) BBHs experience a wide range of delays (from a few megayears to many gigayears) between formation and merger. The deviations are similar when comparing to a delayed SFRD, and even larger (up to ∼10×) when comparing to SFRD-based models scaled to the local merger rate. Interestingly, our simulations find that the BBH delay time distribution is redshift dependent, increasing the complexity of the redshift distribution of mergers. We find similar results for simulated merger rates of black hole–neutron stars (BHNSs) and binary neutron stars (BNSs). We conclude that the rate of BBH, BHNS, and BNS mergers from the isolated channel can significantly deviate from a scaled SFRD, and that future measurements of the merger rate will provide insights into the formation pathways of gravitational-wave sources.
 ]]></content:encoded>
 <pubDate>2024-11-12T00:00:00Z</pubDate>
 </item>
