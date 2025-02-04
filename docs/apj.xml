@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Black Hole Supernovae, Their Equation of State Dependence, and Ejecta Composition</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada899</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada899</guid>
+<content:encoded><![CDATA[
+
+Recent literature on core-collapse supernovae suggests that a black hole (BH) can form within ∼1 s of shock revival, while still culminating in a successful supernova. We refer to these as BH supernovae, as they are distinct from other BH formation channels in both timescale and impact on the explosion. We simulate these events self-consistently from core collapse until 20–50 days after collapse using three axisymmetric models of a 60 M⊙ zero-age main-sequence progenitor star and investigate how the composition of the ejecta is impacted by the BH formation. We employ Skyrme-type equations of state (EOSs) and vary the uncertain nucleonic effective mass, which affects the pressure inside the proto–neutron star through the thermal part of the EOS. This results in different BH formation times and explosion energies at BH formation, yielding final explosion energies between 0.06 and 0.72 × 1051 erg with 21.8–23.3 M⊙ of ejecta, of which 0–0.018 M⊙ is 56Ni. Compared to expectations from 1D simulations, we find more nuanced EOS dependences of the explosion dynamics, the mass of the BH remnant, and the elemental composition of the ejecta. We investigate why the explosions survive despite the massive overburden and link the shape of the diagnostic energy curve and character of the ejecta evolution to the progenitor structure.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring Magnetic Fields in Molecular Clouds through Denoising Diffusion Probabilistic Models</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a0</guid>
+<content:encoded><![CDATA[
+
+Accurately measuring magnetic field strength in the interstellar medium, including giant molecular clouds, remains a significant challenge. We present a machine learning approach using denoising diffusion probabilistic models (DDPMs) to estimate magnetic field strength from synthetic observables such as column density, orientation angles of the dust continuum polarization vector, and line-of-sight (LOS) nonthermal velocity dispersion. We trained three versions of the DDPM model: the 1-channel DDPM (using only column density), the 2-channel DDPM (incorporating both column density and polarization angles), and the 3-channel DDPM (which combines column density, polarization angles, and LOS nonthermal velocity dispersion). The code and trained model are available on GitHub at https://github.com/xuduo117/DDPM_Bmag. We assessed the models on both synthetic test samples and new simulation data that were outside the training set's distribution. The 3-channel DDPM consistently outperformed both the other DDPM variants and the power-law fitting approach based on column density alone, demonstrating its robustness in handling previously unseen data. Additionally, we compared the performance of the Davis–Chandrasekhar–Fermi (DCF) methods, both classical and modified, to the DDPM predictions. The classical DCF method overestimated the magnetic field strength by approximately an order of magnitude. Although the modified DCF method showed improvement over the classical version, it still fell short of the precision achieved by the 3-channel DDPM.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Long-term Evolution of Sco X-1: Implications for the Current Spin Frequency and Ellipticity of the Neutron Star</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabbf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabbf</guid>
+<content:encoded><![CDATA[
+
+Sco X-1 is the brightest observed extrasolar X-ray source, which is a neutron star (NS) low-mass X-ray binary (LMXB) and is thought to have a strong potential for continuous gravitational waves (CW) detection due to its high accretion rate and relative proximity. Here, we compute the long-term evolution of its parameters, particularly the NS spin frequency (ν) and the surface magnetic field (B), to probe its nature and its potential for CW detection. We find that Sco X-1 is an unusually young (∼7 × 106 yr) LMXB and constrain the current NS mass to ∼1.4–1.6 M⊙. Our computations reveal a rapid B decay, with the maximum current value of ∼1.8 × 108 G, which can be useful to constrain the decay models. Note that the maximum current ν value is ∼550 Hz, implying that, unlike what is generally believed, a CW emission is not required to explain the current source properties. However, ν will exceed an observed cutoff frequency of ∼730 Hz, and perhaps even the NS breakup frequency, in the future without a CW emission. The minimum NS mass quadrupole moment (Q) to avoid this is ∼(2–3) × 1037 g cm2, corresponding to a CW strain of ∼10−26. Our estimation of current ν values can improve the CW search sensitivity.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A 22 Billion M ⊙ Black Hole in Holmberg 15A with Keck KCWI Spectroscopy and Triaxial Orbit Modeling</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b0</guid>
 <content:encoded><![CDATA[
-
 Holmberg 15A (H15A), the brightest cluster galaxy of A85, has an exceptionally low central surface brightness even among local massive elliptical galaxies with distinct stellar cores, making it exceedingly challenging to obtain high-quality spectroscopy to detect a supermassive black hole (SMBH) at its center. Aided by the superb sensitivity and efficiency of KCWI at the Keck II Telescope, we have obtained spatially resolved stellar kinematics over a ∼100″ × 100″ contiguous field of H15A for this purpose. The velocity field exhibits a low-amplitude (∼20 km s−1) rotation along a kinematic axis that is prominently misaligned from the photometric major axis, a strong indicator that H15A is triaxially shaped with unequal lengths for the three principal axes. Using 2500 observed kinematic constraints, we perform extensive calculations of stellar orbits with the triaxial Schwarzschild code, TriOS, and search over ∼40,000 galaxy models to simultaneously determine the mass and intrinsic 3D shape parameters of H15A. We determine a ratio of p = 0.89 for the middle-to-long principal axes and q = 0.65 for the short-to-long principal axes. Our best estimate of the SMBH mass, , makes H15A—along with NGC 4889—the galaxy hosting the most massive SMBHs known in the local Universe. Both SMBHs lie significantly above the mean MBH–σ scaling relation. Repeating the orbit modeling with the axisymmetrized version of TriOS produces worse fits to the KCWI kinematics and increases MBH to (2.55 ± 0.20) × 1010M⊙, which is still significantly below the MBH = (4.0 ± 0.8) × 1010M⊙ reported in a prior axisymmetric study of H15A.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ Holmberg 15A (H15A), the brightest cluster galaxy of A85, has an exceptionally l
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada55c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada55c</guid>
 <content:encoded><![CDATA[
-
 We explore the empirical power-law relationship between X-ray luminosity (LX) and total surface magnetic flux (Φ), established across solar magnetic elements, time- and disk-averaged emission from the Sun, older active stars, and pre-main-sequence (PMS) stars. Previous models of large PMS X-ray flares, lacking direct magnetic field measurements, showed discrepancies from this baseline law, which MHD simulations attribute to unusually strong magnetic fields during flares. To test this, we used nearly simultaneous Chandra X-ray and HET-HPF near-infrared observations of four young Orion stars, measuring surface magnetic fields during or just after powerful PMS X-ray flares. We also modeled these PMS X-ray flares, incorporating their measured magnetic field strengths. Our findings reveal magnetic field strengths at the stellar surface typical of nonflaring PMS stars, ruling out the need for abnormally strong fields during flares. Both PMS and solar flares deviate from the LX–Φ law, with PMS flares exhibiting a more pronounced deviation, primarily due to their much larger active regions on the surface and larger flaring loop volumes above the surface compared to their solar counterparts. These deviations likely stem from the fact that powerful flares are driven by magnetic reconnection, while baseline X-ray emission may involve less efficient mechanisms like Alfvén wave heating. Our results also indicate a preference for dipolar magnetic loops in PMS flares, consistent with Zeeman–Doppler imaging of fully convective stars. This requirement for giant dipolar loops aligns with MHD predictions of strong dipoles supported by polar magnetic surface active regions in fast-rotating, fully convective stars.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@ We explore the empirical power-law relationship between X-ray luminosity (LX) an
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fd</guid>
 <content:encoded><![CDATA[
-
 We present the discovery of deep but sporadic transits in the flux of SBSS 1232+563, a metal-rich white dwarf polluted by disrupted exoplanetary debris. Nearly 25 yr of photometry from multiple sky surveys reveal evidence of occasional dimming of the white dwarf, most notably evident in an 8 month long event in 2023 that caused a >40% drop in flux from the star. In-transit follow-up shows additional short-timescale (minutes- to hours-long) dimming events. Transiting Exoplanet Survey Satellite photometry suggests a coherent 14.842 hr signal that could represent the dominant orbital period of debris. Six low-resolution spectra collected at various transit depths over two decades show no evidence of significant changes in the observed elemental abundances. SBSS 1232+563 demonstrates that debris transits around white dwarfs can be sporadic, with many years of inactivity before large-amplitude dimming events.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@ We present the discovery of deep but sporadic transits in the flux of SBSS 1232+
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada612</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada612</guid>
 <content:encoded><![CDATA[
-
 Recent hydrodynamical simulations have shown that circumbinary gas disks drive the orbits of massive binary black holes (BHs) to become eccentric, even when general relativistic (GR) corrections to the orbit are significant. Here, we study the GR apsidal precession of eccentric equal-mass massive binary BHs in circumbinary disks via two-dimensional hydrodynamical simulations. We perform a suite of simulations comparing precessing and nonprecessing binaries across a range of eccentricities, semimajor axes, and precession rates. We find that the GR precession of the binary's semimajor axis can introduce a dominant modulation in the binary's accretion rate and the corresponding high-energy electromagnetic light curves. We discuss the conditions under which this occurs and its detailed characteristics and mechanism. Finally, we discuss the potential to observe these precession signatures in electromagnetic- and gravitational-wave observations, as well as the precession signal's unique importance as a potential tool to constrain the mass, eccentricity, and semimajor axis of binary merger events.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@ Recent hydrodynamical simulations have shown that circumbinary gas disks drive t
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b3</guid>
 <content:encoded><![CDATA[
-
 We investigate the influence of the effective nucleon mass on the equation of state (EOS), which is constructed for simulations of core-collapse supernovae and binary neutron star mergers, within the relativistic mean-field (RMF) framework. The study introduces a new RMF parameter set, TM1m, which is a modification of the TM1e model with an adjusted effective mass, maintaining the saturation properties of nuclear matter. The TM1m model, with a larger effective mass ratio (M*/M ~ 0.8) compared to the TM1e model (M*/M ~ 0.63), is employed to construct a new EOS table, EOS5. This EOS table is designed to offer insights into the influence of the effective nucleon mass on the EOS within a relativistic framework, particularly above the saturation density. The results of EOS5 are compared with those obtained from other models, including both relativistic and nonrelativistic approaches. The properties of cold neutron stars, calculated using the TM1m model, are compatible with the existence of a 2 M⊙ pulsar and the latest constraints on the tidal deformability and radii of a canonical 1.4 M⊙ neutron star, derived from astrophysical observations.
 ]]></content:encoded>
-
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,13 +88,10 @@ We investigate the influence of the effective nucleon mass on the equation of st
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b14</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b14</guid>
 <content:encoded><![CDATA[
-
 Interferometric observations of gravitational microlensing events offer an opportunity for precise, efficient, and direct mass and distance measurements of lensing objects, especially those of isolated neutron stars and black holes. However, such observations have previously been possible for only a handful of extremely bright events. The recent development of a dual-field interferometer, GRAVITY Wide, has made it possible to reach out to significantly fainter objects and increase the pool of microlensing events amenable to interferometric observations by 2 orders of magnitude. Here, we present the first successful observation of a microlensing event with GRAVITY Wide and the resolution of microlensed images in the event OGLE-2023-BLG-0061/KMT-2023-BLG-0496. We measure the angular Einstein radius of the lens with subpercent precision, θE = 1.280 ± 0.009 mas. Combined with the microlensing parallax detected from the event light curve, the mass and distance to the lens are found to be 0.472 ± 0.012 M⊙ and 1.81 ± 0.05 kpc, respectively. We present the procedure for the selection of targets for interferometric observations and discuss possible systematic effects affecting GRAVITY Wide data. This detection demonstrates the capabilities of the new instrument, and it opens up completely new possibilities for the follow-up of microlensing events and future routine discoveries of isolated neutron stars and black holes.
 ]]></content:encoded>
-
 <pubDate>2025-02-03T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Do Unusually Cold Starburst Galaxies Exist? A Case Study</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4ac</link>
@@ -9746,80 +9767,6 @@ Accurately assessing the balance between acoustic wave energy fluxes and radiati
 Data from the Michelson Doppler Imager (MDI) and Helioseismic and Magnetic Imager (HMI) are analyzed from 1996 to 2023 to investigate tilt angles (γ) of bipolar magnetic regions and Joy’s law for Solar Cycles 23 and 24 and a portion of Cycle 25. The HMI radial magnetic field (Br) and MDI magnetogram (Blos) data are used to calculate (γ) using the flux-weighted centroids of the positive and negative polarities. Each active region (AR) is only sampled once. The analysis includes only Beta (β)-class ARs since computing γ of complex ARs is less meaningful. During the emergence of the ARs, we find that the average tilt angle ( ) increases from 3.°30 ± 0.75 when 20% of the flux has emerged to 6.°79° ± 0.66 when the ARs are at their maximum flux. Cycle 24 has a larger average tilt, =6.67 ± 0.66, than Cycle 23, = 5.11 ± 0.61. No significant difference is found in the slope of Joy’s law or when sampling the ARs at the time of maximum flux or central meridian crossing. There are persistent differences in in the hemispheres, with the Sun's southern hemisphere having higher in Cycles 23 and 24, but the uncertainties are such that these differences are not statistically significant.
 ]]></content:encoded>
 <pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Mass and Redshift Dependence of Halo Star Clustering</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad834a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad834a</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 两点相关函数，宇宙学模拟，星系形成红移，宿主暗物质晕体积质量，空间聚类
-
-总结:<br /><br />这篇文章采用两点相关函数作为统计工具，对IllustrisTNG模拟中不同宇宙红移下不同宿主暗物质晕体积质量范围内星系的空间聚类进行了量化。研究发现，空间聚类强度与星系形成红移之间存在明显相关性，且随着宿主暗物质晕质量的增加而减弱。对于更庞大的星系系统，它们在较晚的时间进行组装，新加入的恒星会增加聚类现象。此外，更庞大暗物质晕中的卫星星系轨道表现出更大的径向各向异性，反映了其宿主暗物质晕更活跃的吞并状态以及更高的质量损失速率。 <div>
-We adopt the two-point correlation function (2PCF) as a statistical tool to quantify the spatial clustering of halo stars for galaxy systems spanning a wide range in host halo virial mass ( ) and redshifts (0 < z < 1.5) from the IllustrisTNG simulations. Consistent with a previous study, we identify clear correlations between the strength of the 2PCF signals and galaxy formation redshifts, but over a much wider mass range. We find that such correlations are slightly stronger at higher redshifts and get weakened with the increase of host halo mass. We demonstrate that the spatial clustering of halo stars is affected by two factors: (1) the clustering gets gradually weakened as time passes (phase mixing); (2) newly accreted stars at more recent times would increase the clustering. For more massive galaxy systems, they assemble late, and the newly accreted stars would increase the clustering. The late assembly of massive systems may also help to explain the weaker correlations between the 2PCF signals and the galaxy formation redshifts in massive halos, as their 2PCFs are affected more by recently accreted stars, while formation redshift characterizes mass accretion on a much longer timescale. We find that the orbits of satellite galaxies in more massive halos maintain larger radial anisotropy, reflecting the more active accretion state of their hosts while also contributing to their stronger mass loss rates.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Molecular Hydrogen Line Identifications in Solar Flares Observed by IRIS: Lower Atmospheric Structure from Radiometric Analysis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8445</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8445</guid>
-<content:encoded><![CDATA[
-<div> 光谱观测，分子氢（H2），太阳活动区，辐射和速度，空间分布
-<br />
-太阳活跃区NOAA Active Region 11861的耀斑活动的观测结果显示，在接口区成像光谱仪（IRIS）的远紫外通道中可以观测到分子氢（H2）的丰富光谱发射线。通过比较使用1D建模的H2荧光产生的合成光谱，确定了37条新的发射线。为了避免误认H2线，还从先前研究中编制了IRIS FUV波段的完整原子线鉴定清单。我们对耀斑期间发生的H2发射进行了空间分辨分析，得出了以下结论：（1）在空间分辨观测中，H2线比可能显示出光学厚线形成，与先前的结果相反；（2）H2多普勒速度的空间分布与从其他物种测量的速度相比，表明H2远程探测探测了大气的中间深度，介于光球和色球之间，与建模的预期一致；（3）H2线强度与其激发源的观测强度之间的关系与大气成层有关；（4）H2荧光有时会对来自太阳表面许多兆米之外的远源辐射作出反应。 
-<br /><br />总结: <br />观测结果显示H2发射线丰富，利用1D建模确定了多条新的发射线；H2的空间分布对大气的深度有所揭示；H2荧光可能对来自远处的辐射作出反应。 <div>
-A rich spectrum of molecular hydrogen (H2) emission lines is seen in sensitive observations from the far-ultraviolet (FUV) channels of the Interface Region Imaging Spectrograph (IRIS) during flare activity in solar active region NOAA Active Region 11861. Based on this observation, we have determined 37 new line identifications by comparing synthetic spectra produced using 1D modeling of H2 fluorescence. To avoid misidentification of the H2 lines, we have also compiled a complete list of atomic line identifications for the IRIS FUV bandpasses from previous work. We carry out analysis of the spatially resolved H2 emission that occurs during the flares and find the following: (1) in spatially resolved observations the H2 line ratios may show optically thick line formation, contrary to previous results; (2) comparison of the spatial distribution of H2 Doppler velocities with those measured from other species reveals that H2 remote sensing probes an intermediate depth in the atmosphere between the photosphere and chromosphere, consistent with expectations from modeling; (3) the relationship between H2 line intensity and the observed intensity of its exciter is related to the atmospheric stratification; however, (4) H2 fluorescence can sometimes occur in response to radiation from distant sources many megameters away across the solar surface.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Electric Field and Its Impact on the Pitch Angle of Trapped Electrons in a Sub-ion-scale Magnetic Hole</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c46</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c46</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 磁孔，等离子体，三维电场，电子运动，能量转换
-总结: 
-本研究利用磁层多尺度任务在地球磁层尾流中对一个尺度约为0.08ρi × 0.14ρi的磁孔进行了高分辨率测量，揭示了其三维电场结构及其产生机制。研究建立了一个模型来量化E∥对困禁电子损失锥的影响，将电场归因于广义欧姆定律中的电子输运和压力梯度项。磁孔主要与电子耦合，并伴随着电子射流，这些电子射流可解释为电子漩涡的不同部分。这些电子射流与非理想电场共同导致电磁场向电子的强能量转换，并促使不同方向电子运动之间的能量转换。本研究显著地阐明了动力学尺度磁孔的物理特征。 <div>
-Sub-ion-scale magnetic holes (MHs) are ubiquitous structures in plasmas across a wide range of environments. Despite previous observational and modeling efforts, the three-dimensional (3D) electric field in MHs has yet to be adequately resolved. In this study, utilizing high-resolution measurements of an MH (∼0.08ρi × 0.14ρi) from the Magnetospheric Multiscale mission in Earth’s turbulent magnetosheath, we report this 3D electric field and unveil its roles and generation mechanism. A model is established to quantify the impacts of E∥ on increasing the loss cone of trapped electrons. The electric field is attributed to electron convection and pressure gradient terms of generalized Ohm’s law. The MH, primarily coupling to the electron, is accompanied by electron jets. These electron jets can be interpreted as different segments of an electron vortex. These electron jets combined with nonideal electric fields not only lead to strong energy conversion (j · (E + ve × B) ∼ 40 nW m−3) from the electromagnetic field to electrons but also enable energy conversion between different electron motion directions. Our study significantly clarifies the physical image of kinetic-scale MHs.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Electron Acceleration at Quasi-parallel Nonrelativistic Shocks: A 1D Kinetic Survey</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4c</guid>
-<content:encoded><![CDATA[
-<div> 1D kinetic particle-in-cell simulations, quasi-parallel shocks, electron acceleration, Alfvén Mach numbers, nonthermal particles
-<br />
-在这篇文章中，研究了1D动力学粒子在电磁场中的模拟，针对准平行非相对论性激波，旨在确定利于电子加速的环境。通过探索激波速度、Alfvén Mach数、声速Mach数以及质子对电子的质量比等参数范围，发现高Alfvén Mach数的激波能将大部分动能转化为非热粒子，产生自持续的磁湍流并加速粒子至更高能量。非热粒子的注入比例大约为电子的0.5%和质子的1%，对应的能量效率分别为2%和10%。此外，发现非热尾部的范围对Alfvén Mach数敏感，当Mach数较小时，加速过程较慢，但非热电子仍可达到超过下游热质子动量的水平。研究结果提供了关于下游热非分布过渡点（约为下游热质子动量的位置）和非热电子与质子数密度比的模拟参数化。这些结果对于多种环境都具有适用性，并且对于模拟激波驱动的非热辐射具有重要意义。
-<br /><br />总结: <br />电子加速的有利环境通过1D动力学粒子模拟得到研究，发现高Alfvén Mach数激波可引发大量非热粒子产生，非热粒子的注入比例和能量效率得到了具体量化。此外，研究还发现非热尾部范围对Alfvén Mach数敏感，并提供了相应的模拟参数化。这些研究结果对于模拟激波驱动的非热辐射具有重要意义。 <div>
-We present a survey of 1D kinetic particle-in-cell simulations of quasi-parallel nonrelativistic shocks to identify the environments favorable for electron acceleration. We explore an unprecedented range of shock speeds vsh ≈ 0.067–0.267c, Alfvén Mach numbers , sonic Mach numbers , as well as the proton-to-electron mass ratios mi/me = 16–1836. We find that high Alfvén Mach number shocks can channel a large fraction of their kinetic energy into nonthermal particles, self-sustaining magnetic turbulence and acceleration to larger and larger energies. The fraction of injected particles is ≲0.5% for electrons and ≈1% for protons, and the corresponding energy efficiencies are ≲2% and ≈10%, respectively. The extent of the nonthermal tail is sensitive to the Alfvén Mach number; when , the nonthermal electron distribution exhibits minimal growth beyond the average momentum of the downstream thermal protons, independently of the proton-to-electron mass ratio. Acceleration is slow for shocks with low sonic Mach numbers, yet nonthermal electrons still achieve momenta exceeding the downstream thermal proton momentum when the shock Alfvén Mach number is large enough. We provide simulation-based parameterizations of the transition from thermal to nonthermal distribution in the downstream (found at a momentum around ), as well as the ratio of nonthermal electron to proton number density. The results are applicable to many different environments and are important for modeling shock-powered nonthermal radiation.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Search for Joint Multimessenger Signals from Potential Galactic Cosmic-Ray Accelerators with HAWC and IceCube</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad812f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad812f</guid>
-<content:encoded><![CDATA[
-<div> 高能宇宙射线，加速器，伽马射线源，中微子，多信使分析
-总结:
-研究了22个已知的伽马射线源和14年的IceCube径迹数据之间的相关性。结果显示，从HAWC源的方向没有发现显著的中微子发射。根据中微子通量限制，得出5个源的伽马射线发射不能纯粹由强子相互作用产生。报道了这五个源的强子相互作用产生伽马射线的限制。 <div>
-The origin of high-energy galactic cosmic rays is yet to be understood, but some galactic cosmic-ray accelerators can accelerate cosmic rays up to PeV energies. The high-energy cosmic rays are expected to interact with the surrounding material or radiation, resulting in the production of gamma-rays and neutrinos. To optimize for the detection of such associated production of gamma-rays and neutrinos for a given source morphology and spectrum, a multimessenger analysis that combines gamma-rays and neutrinos is required. In this study, we use the Multi-Mission Maximum Likelihood framework with IceCube Maximum Likelihood Analysis software and HAWC Accelerated Likelihood to search for a correlation between 22 known gamma-ray sources from the third HAWC gamma-ray catalog and 14 yr of IceCube track-like data. No significant neutrino emission from the direction of the HAWC sources was found. We report the best-fit gamma-ray model and 90% CL neutrino flux limit from the 22 sources. From the neutrino flux limit, we conclude that, for five of the sources, the gamma-ray emission observed by HAWC cannot be produced purely from hadronic interactions. We report the limit for the fraction of gamma-rays produced by hadronic interactions for these five sources.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Reconstruction of the Total Solar Irradiance During the Last Millennium</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c49</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c49</guid>
-<content:encoded><![CDATA[
-<div> 太阳辐射，气候变化，太阳活动，辐射重建，Spörer 最低值，Maunder 最低值
-<br /><br />总结:
-本文讨论了太阳辐射对气候的影响，特别是在太阳活动异常低的时期。文章利用半经验模型重建了过去一千年的太阳辐射记录，发现在 Spörer 最低期（约1400年）和 Maunder 最低期（1645年至1715年）出现了辐射值下降的情况。这为我们更全面地了解太阳对气候的影响提供了重要数据。 <div>
-Solar irradiance variations across various timescales, from minutes to centuries, represent a potential natural driver of past regional and global climate cold phases. To accurately assess the Sun’s effect on climate, particularly during periods of exceptionally low solar activity, known as grand minima, an accurate reconstruction of solar forcing is essential. While direct measurements of the total solar irradiance (TSI) only began in the late 1970s, with the advent of space radiometers, indirect evidence from various historical proxies suggests that the Sun’s magnetic activity has undergone possible significant fluctuations over much longer timescales. Employing diverse and independent methods for TSI reconstruction is essential to gaining a comprehensive understanding of this issue. This study employs a semi-empirical model to reconstruct TSI over the past millennium. Our approach uses an estimated open solar magnetic field (Fo), derived from cosmogenic isotope data, as a proxy for solar activity. We reconstruct the cyclic variations of TSI, due to the solar surface magnetic features, by correlating Fo with the parameter of active region functional form. We obtain the long-term TSI trend by applying the empirical mode decomposition algorithm to the reconstructed Fo to filter out the 11 yr and 22 yr solar variability. We prepare a reconstructed TSI record, spanning 971 to 2020 CE. The estimated departure from modern TSI values occurred during the Spörer minimum (around 1400 CE), with a decrease of approximately 2.3 Wm−2. A slightly smaller decline of 2.2 Wm−2 is reported during the Maunder minimum, between 1645 and 1715 CE.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
