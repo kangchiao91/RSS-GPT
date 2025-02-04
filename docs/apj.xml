@@ -5,17 +5,81 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Do Unusually Cold Starburst Galaxies Exist? A Case Study</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4ac</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4ac</guid>
+<title>A 22 Billion M ⊙ Black Hole in Holmberg 15A with Keck KCWI Spectroscopy and Triaxial Orbit Modeling</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4b0</guid>
 <content:encoded><![CDATA[
 
-We report observations of CO(J = 9 → 8) and OH+(N = 1 → 0) toward the four millimeter-selected lensed starburst galaxies SPT 2354−58, 0150−59, 0314−44, and 0452−50, using the Atacama Large Millimeter/submillimeter Array (ALMA) Atacama Compact Array, as part of a larger study of OH+ in the early Universe. In this work, we use these observations for the main purpose of spectroscopic redshift measurements. For all sources except SPT 0452−50, we confirm the previously reported most likely redshifts, and we find typical CO and OH+ properties for massive starbursts. For SPT 0452−50, we rule out the previously reported value of z = 2.0105, measuring a firm redshift of z = 5.0160 based on [O i], [C ii], H2O, and CO emission instead when adding in ancillary ALMA data. Previously, SPT 0452−50 was considered an outlier in relations between dust temperature, far-infrared luminosity, and redshift, which may have hinted at an unusually cold starburst with a dust temperature of only Tdust = (21 ± 2) K. Instead, our new measurements suggest it to be among highly luminous massive dusty starbursts at z > 5, with rather typical properties within that population. We find a revised dust temperature of Tdust = (76.2 ± 2.5) K, and an updated lensing-corrected far-infrared luminosity (42.5–122.5 μm) of (2.35 ) × 1013L⊙, i.e., about an order of magnitude higher than previously reported. We thus do not find evidence for the existence of unusually cold starburst galaxies in the early Universe that were missed by previous selection techniques.
+Holmberg 15A (H15A), the brightest cluster galaxy of A85, has an exceptionally low central surface brightness even among local massive elliptical galaxies with distinct stellar cores, making it exceedingly challenging to obtain high-quality spectroscopy to detect a supermassive black hole (SMBH) at its center. Aided by the superb sensitivity and efficiency of KCWI at the Keck II Telescope, we have obtained spatially resolved stellar kinematics over a ∼100″ × 100″ contiguous field of H15A for this purpose. The velocity field exhibits a low-amplitude (∼20 km s−1) rotation along a kinematic axis that is prominently misaligned from the photometric major axis, a strong indicator that H15A is triaxially shaped with unequal lengths for the three principal axes. Using 2500 observed kinematic constraints, we perform extensive calculations of stellar orbits with the triaxial Schwarzschild code, TriOS, and search over ∼40,000 galaxy models to simultaneously determine the mass and intrinsic 3D shape parameters of H15A. We determine a ratio of p = 0.89 for the middle-to-long principal axes and q = 0.65 for the short-to-long principal axes. Our best estimate of the SMBH mass, , makes H15A—along with NGC 4889—the galaxy hosting the most massive SMBHs known in the local Universe. Both SMBHs lie significantly above the mean MBH–σ scaling relation. Repeating the orbit modeling with the axisymmetrized version of TriOS produces worse fits to the KCWI kinematics and increases MBH to (2.55 ± 0.20) × 1010M⊙, which is still significantly below the MBH = (4.0 ± 0.8) × 1010M⊙ reported in a prior axisymmetric study of H15A.
 ]]></content:encoded>
 
 <pubDate>2025-02-04T00:00:00Z</pubDate>
 </item>
+<item>
+<title>Multi-observatory Study of Young Stellar Energetic Flares (MORYSEF): No Evidence for Abnormally Strong Stellar Magnetic Fields after Powerful X-Ray Flares</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada55c</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada55c</guid>
+<content:encoded><![CDATA[
 
+We explore the empirical power-law relationship between X-ray luminosity (LX) and total surface magnetic flux (Φ), established across solar magnetic elements, time- and disk-averaged emission from the Sun, older active stars, and pre-main-sequence (PMS) stars. Previous models of large PMS X-ray flares, lacking direct magnetic field measurements, showed discrepancies from this baseline law, which MHD simulations attribute to unusually strong magnetic fields during flares. To test this, we used nearly simultaneous Chandra X-ray and HET-HPF near-infrared observations of four young Orion stars, measuring surface magnetic fields during or just after powerful PMS X-ray flares. We also modeled these PMS X-ray flares, incorporating their measured magnetic field strengths. Our findings reveal magnetic field strengths at the stellar surface typical of nonflaring PMS stars, ruling out the need for abnormally strong fields during flares. Both PMS and solar flares deviate from the LX–Φ law, with PMS flares exhibiting a more pronounced deviation, primarily due to their much larger active regions on the surface and larger flaring loop volumes above the surface compared to their solar counterparts. These deviations likely stem from the fact that powerful flares are driven by magnetic reconnection, while baseline X-ray emission may involve less efficient mechanisms like Alfvén wave heating. Our results also indicate a preference for dipolar magnetic loops in PMS flares, consistent with Zeeman–Doppler imaging of fully convective stars. This requirement for giant dipolar loops aligns with MHD predictions of strong dipoles supported by polar magnetic surface active regions in fast-rotating, fully convective stars.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Sporadic Dips from Extended Debris Transiting the Metal-rich White Dwarf SBSS 1232+563</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fd</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fd</guid>
+<content:encoded><![CDATA[
+
+We present the discovery of deep but sporadic transits in the flux of SBSS 1232+563, a metal-rich white dwarf polluted by disrupted exoplanetary debris. Nearly 25 yr of photometry from multiple sky surveys reveal evidence of occasional dimming of the white dwarf, most notably evident in an 8 month long event in 2023 that caused a >40% drop in flux from the star. In-transit follow-up shows additional short-timescale (minutes- to hours-long) dimming events. Transiting Exoplanet Survey Satellite photometry suggests a coherent 14.842 hr signal that could represent the dominant orbital period of debris. Six low-resolution spectra collected at various transit depths over two decades show no evidence of significant changes in the observed elemental abundances. SBSS 1232+563 demonstrates that debris transits around white dwarfs can be sporadic, with many years of inactivity before large-amplitude dimming events.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Relativistic Binary Precession: Impact on Eccentric Massive Binary Black Hole Accretion and Hydrodynamics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada612</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada612</guid>
+<content:encoded><![CDATA[
+
+Recent hydrodynamical simulations have shown that circumbinary gas disks drive the orbits of massive binary black holes (BHs) to become eccentric, even when general relativistic (GR) corrections to the orbit are significant. Here, we study the GR apsidal precession of eccentric equal-mass massive binary BHs in circumbinary disks via two-dimensional hydrodynamical simulations. We perform a suite of simulations comparing precessing and nonprecessing binaries across a range of eccentricities, semimajor axes, and precession rates. We find that the GR precession of the binary's semimajor axis can introduce a dominant modulation in the binary's accretion rate and the corresponding high-energy electromagnetic light curves. We discuss the conditions under which this occurs and its detailed characteristics and mechanism. Finally, we discuss the potential to observe these precession signatures in electromagnetic- and gravitational-wave observations, as well as the precession signal's unique importance as a potential tool to constrain the mass, eccentricity, and semimajor axis of binary merger events.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Influence of Effective Nucleon Mass on Equation of State for Supernova Simulations and Neutron Stars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b3</guid>
+<content:encoded><![CDATA[
+
+We investigate the influence of the effective nucleon mass on the equation of state (EOS), which is constructed for simulations of core-collapse supernovae and binary neutron star mergers, within the relativistic mean-field (RMF) framework. The study introduces a new RMF parameter set, TM1m, which is a modification of the TM1e model with an adjusted effective mass, maintaining the saturation properties of nuclear matter. The TM1m model, with a larger effective mass ratio (M*/M ~ 0.8) compared to the TM1e model (M*/M ~ 0.63), is employed to construct a new EOS table, EOS5. This EOS table is designed to offer insights into the influence of the effective nucleon mass on the EOS within a relativistic framework, particularly above the saturation density. The results of EOS5 are compared with those obtained from other models, including both relativistic and nonrelativistic approaches. The properties of cold neutron stars, calculated using the TM1m model, are compatible with the existence of a 2 M⊙ pulsar and the latest constraints on the tidal deformability and radii of a canonical 1.4 M⊙ neutron star, derived from astrophysical observations.
+]]></content:encoded>
+
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Observations of Microlensed Images with Dual-field Interferometry: On-sky Demonstration and Prospects</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b14</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b14</guid>
+<content:encoded><![CDATA[
+
+Interferometric observations of gravitational microlensing events offer an opportunity for precise, efficient, and direct mass and distance measurements of lensing objects, especially those of isolated neutron stars and black holes. However, such observations have previously been possible for only a handful of extremely bright events. The recent development of a dual-field interferometer, GRAVITY Wide, has made it possible to reach out to significantly fainter objects and increase the pool of microlensing events amenable to interferometric observations by 2 orders of magnitude. Here, we present the first successful observation of a microlensing event with GRAVITY Wide and the resolution of microlensed images in the event OGLE-2023-BLG-0061/KMT-2023-BLG-0496. We measure the angular Einstein radius of the lens with subpercent precision, θE = 1.280 ± 0.009 mas. Combined with the microlensing parallax detected from the event light curve, the mass and distance to the lens are found to be 0.472 ± 0.012 M⊙ and 1.81 ± 0.05 kpc, respectively. We present the procedure for the selection of targets for interferometric observations and discuss possible systematic effects affecting GRAVITY Wide data. This detection demonstrates the capabilities of the new instrument, and it opens up completely new possibilities for the follow-up of microlensing events and future routine discoveries of isolated neutron stars and black holes.
+]]></content:encoded>
+
+<pubDate>2025-02-03T00:00:00Z</pubDate>
+</item>
+
+<item>
+<title>Do Unusually Cold Starburst Galaxies Exist? A Case Study</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada4ac</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada4ac</guid>
+<content:encoded><![CDATA[
+We report observations of CO(J = 9 → 8) and OH+(N = 1 → 0) toward the four millimeter-selected lensed starburst galaxies SPT 2354−58, 0150−59, 0314−44, and 0452−50, using the Atacama Large Millimeter/submillimeter Array (ALMA) Atacama Compact Array, as part of a larger study of OH+ in the early Universe. In this work, we use these observations for the main purpose of spectroscopic redshift measurements. For all sources except SPT 0452−50, we confirm the previously reported most likely redshifts, and we find typical CO and OH+ properties for massive starbursts. For SPT 0452−50, we rule out the previously reported value of z = 2.0105, measuring a firm redshift of z = 5.0160 based on [O i], [C ii], H2O, and CO emission instead when adding in ancillary ALMA data. Previously, SPT 0452−50 was considered an outlier in relations between dust temperature, far-infrared luminosity, and redshift, which may have hinted at an unusually cold starburst with a dust temperature of only Tdust = (21 ± 2) K. Instead, our new measurements suggest it to be among highly luminous massive dusty starbursts at z > 5, with rather typical properties within that population. We find a revised dust temperature of Tdust = (76.2 ± 2.5) K, and an updated lensing-corrected far-infrared luminosity (42.5–122.5 μm) of (2.35 ) × 1013L⊙, i.e., about an order of magnitude higher than previously reported. We thus do not find evidence for the existence of unusually cold starburst galaxies in the early Universe that were missed by previous selection techniques.
+]]></content:encoded>
+<pubDate>2025-02-04T00:00:00Z</pubDate>
+</item>
 <item>
 <title>ALMA Observations of Massive Clouds in the Central Molecular Zone: External-pressure-confined Dense Cores and Salpeter-like Core Mass Functions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f28</link>
@@ -9754,19 +9818,6 @@ The origin of high-energy galactic cosmic rays is yet to be understood, but some
 <br /><br />总结:
 本文讨论了太阳辐射对气候的影响，特别是在太阳活动异常低的时期。文章利用半经验模型重建了过去一千年的太阳辐射记录，发现在 Spörer 最低期（约1400年）和 Maunder 最低期（1645年至1715年）出现了辐射值下降的情况。这为我们更全面地了解太阳对气候的影响提供了重要数据。 <div>
 Solar irradiance variations across various timescales, from minutes to centuries, represent a potential natural driver of past regional and global climate cold phases. To accurately assess the Sun’s effect on climate, particularly during periods of exceptionally low solar activity, known as grand minima, an accurate reconstruction of solar forcing is essential. While direct measurements of the total solar irradiance (TSI) only began in the late 1970s, with the advent of space radiometers, indirect evidence from various historical proxies suggests that the Sun’s magnetic activity has undergone possible significant fluctuations over much longer timescales. Employing diverse and independent methods for TSI reconstruction is essential to gaining a comprehensive understanding of this issue. This study employs a semi-empirical model to reconstruct TSI over the past millennium. Our approach uses an estimated open solar magnetic field (Fo), derived from cosmogenic isotope data, as a proxy for solar activity. We reconstruct the cyclic variations of TSI, due to the solar surface magnetic features, by correlating Fo with the parameter of active region functional form. We obtain the long-term TSI trend by applying the empirical mode decomposition algorithm to the reconstructed Fo to filter out the 11 yr and 22 yr solar variability. We prepare a reconstructed TSI record, spanning 971 to 2020 CE. The estimated departure from modern TSI values occurred during the Spörer minimum (around 1400 CE), with a decrease of approximately 2.3 Wm−2. A slightly smaller decline of 2.2 Wm−2 is reported during the Maunder minimum, between 1645 and 1715 CE.
-]]></content:encoded>
-<pubDate>2024-11-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Limb Observations of Global Solar Coronal Extreme-ultraviolet Wavefronts: The Inclination, Kinematics, Coupling with the Expanding Coronal Mass Ejections, and Connection with the Coronal Mass Ejection Driven Shocks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ead</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7ead</guid>
-<content:encoded><![CDATA[
-<div> Solar Dynamics Observatory, Solar and Heliospheric Observatory, EUV wave events, CME-driven shocks, wavefront speed
-
-总结:
-我们使用来自Solar Dynamics Observatory和Solar and Heliospheric Observatory的数据，选择并研究了六次全球太阳极端紫外波事件。这些喷发都位于太阳边缘，但被记录为日冕质量抛射（CME）所驱动的震荡扩展到了相反的一侧。通过使用边缘观测避免了投影效应，我们测量了EUV波前从1.05到1.25 R⊙的倾斜度和速度。我们还调查了EUV波前与CME边界以及CME驱动的冲击波之间的耦合和联系。在这六个事件中的主要发现包括：（1）主要和日冕孔传播的EUV波前的前倾角估计，并研究了这些倾斜的起源及其对实际波前速度估计的影响；（2）环系统在日冕基部附近可以提高波前速度，在低日冕的平均速度与高日冕中CME驱动的冲击波的横向扩展之间没有明显的相关性；（3）波前的快磁音马赫数从日冕基部就大于1；（4）EUV波前在两个事件中在传播过程中与CME驱动始终耦合；（5）在EUV波前消失后，CME驱动的冲击波在相反的一侧继续传播，并在四个事件中与EUV波前断开联系。这些结果及其影响进行了讨论，这些结果有助于深入了解全球EUV波的特性。 <div>
-We select and investigate six global solar extreme-ultraviolet (EUV) wave events using data from the Solar Dynamics Observatory and the Solar and Heliospheric Observatory. These eruptions are all on the limb but recorded as halo coronal mass ejections (CMEs) because the CME-driven shocks have expanded laterally to the opposite side. With the limb observations avoiding the projection effect, we have measured the inclination and speed of the EUV wavefront from 1.05 to 1.25 R⊙. We also investigate the coupling and connection of the EUV wavefront with the CME boundary and the CME-driven shock, respectively. The major findings in the six events are: (1) the forward inclination of the primary and coronal-hole-transmitted EUV wavefronts is estimated, respectively, and the origins of these inclinations and their effects on the estimate of actual wavefronts speed are investigated; (2) the wavefront speed can be elevated by loop systems near the coronal base, and the average speed in the low corona has no clear correlation with the lateral expansion of the CME-driven shock in the high corona; (3) the fast magnetosonic Mach number of the wavefront is larger than unity from the coronal base; (4) the EUV wavefront is coupled with the CME driver throughout the propagation in two events; (5) after the EUV wavefront vanishes, the CME-driven shock continues traveling on the opposite side and disconnects from the EUV wavefront in four events. These results and their implications are discussed, which provide insight into the properties of global EUV waves.
 ]]></content:encoded>
 <pubDate>2024-11-11T00:00:00Z</pubDate>
 </item>
