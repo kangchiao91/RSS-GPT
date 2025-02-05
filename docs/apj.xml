@@ -5,14 +5,46 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Metallicity and α-abundance for 48 Million Stars in Low-extinction Regions in the Milky Way</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9686</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9686</guid>
+<content:encoded><![CDATA[
+
+We estimate ([M/H], [α/M]) for 48 million giants and dwarfs in low-dust extinction regions from the Gaia DR3 XP spectra by using tree-based machine learning models trained on APOGEE DR17 and a metal-poor star sample from Li et al. The root mean square error of our estimation is 0.0890 dex for [M/H] and 0.0436 dex for [α/M], when we evaluate our models on the test data that are not used in training the models. Because the training data is dominated by giants, our estimation is most reliable for giants. The high-[α/M] stars and low-[α/M] stars selected by our ([M/H], [α/M]) show different kinematical properties for giants and low-temperature dwarfs. We further investigate how our machine learning models extract information on ([M/H], [α/M]). Intriguingly, we find that our models seem to extract information on [α/M] from Na D lines (589 nm) and Mg i line (516 nm). This result is understandable given the observed correlation between Na and Mg abundances in the literature. The catalog of ([M/H], [α/M]) as well as their associated uncertainties is publicly available.
+]]></content:encoded>
+
+<pubDate>2025-02-05T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Statistics of the Interplanetary Magnetic Field from 0.1 to 30 au. I. Distribution Character</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b28</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b28</guid>
+<content:encoded><![CDATA[
+
+This study investigates the directional and intensity distributions of the interplanetary magnetic field (IMF) across a heliocentric distance range of approximately 0.1–30 au. Measurements from multiple spacecraft reveal that these distributions align closely with the Parker spiral configuration in general. Nevertheless, the deviation from the model is significant and regular. To analyze these deviations, we organized the IMF observations based on the orientation and intensity predicted by the Parker model. The average angular deviation from the Parker spiral increases between 0.1 and 1 au, stabilizing from 1 to 30 au. The magnetic field components perpendicular to the Parker spiral are more likely to lay in the latitudinal and longitudinal directions during the solar maximum and minimum, respectively. The normalized intensity distribution follows a log-normal distribution, with its broadening positively correlated with increasing heliocentric distance. These characteristics cannot be fully attributed to Alfvénic fluctuations or the nonradial component near the potential field source surface. Instead, interactions of flux tubes in the outer heliosphere play a significant role in shaping the IMF. Our results provide a comprehensive assessment of the frequency with which planets encounter non-Parker upstream conditions.
+]]></content:encoded>
+
+<pubDate>2025-02-05T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Assessing the Dark Matter Content of Two Quasar Host Galaxies at z ∼ 6 through Gas Kinematics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada145</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada145</guid>
+<content:encoded><![CDATA[
+
+We conduct a study of the gas kinematics of two quasar host galaxies at z ≳ 6 traced by the [C ii] emission line using the Atacama Large Millimeter/submillimeter Array. By combining deep observations at both low and high resolution, we recover the diffuse emission, resolve its structure, and measure the rotation curves from the inner region of the galaxy to its outskirts using DysmalPy and 3DBarolo. Assuming that both galaxies exhibit disk rotation driven by the gravitational potential of the galaxy, we find that the best-fit disk models have a Vrot/σ ≈ 2 and inferred circular velocities out to ∼6–8 kpc scales, well beyond the likely stellar distribution. We then determine the mass profiles of each component (stars, gas, dark matter) with priors on the baryon and dark matter properties. We find relatively large dark matter fractions within their effective radii (fDM(R < Re) = and , respectively), which are significantly larger than those extrapolated from lower redshift studies and remain robust under different input parameters verified by Monte Carlo simulations. The large fDM(R < Re) corresponds to halo masses of ∼1012.5−1012.8M⊙, thus representative of the most massive halos at these redshifts. Notably, while the masses of these supermassive black holes (SMBHs) are approximately 1 dex higher than the low-redshift relationship with stellar mass, the closer alignment of SMBH and halo masses with a local relationship may indicate that the early formation of these SMBHs is linked to their dark matter halos, providing insights into the coevolution of galaxies and black holes in the early Universe.
+]]></content:encoded>
+
+<pubDate>2025-02-05T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Magnetic Fields in Massive Star-forming Regions (MagMaR): The Magnetic Field at the Onset of High-mass Star Formation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d40</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9d40</guid>
 <content:encoded><![CDATA[
-
 A complete understanding of the initial conditions of high-mass star formation and what processes determine multiplicity requires the study of the magnetic field in young massive cores. Using Atacama Large Millimeter/submillimeter Array (ALMA) 250 GHz polarization observations (0 3 = 1000 au) and ALMA 220 GHz high-angular-resolution observations (0 05 = 160 au), we have performed a full energy analysis including the magnetic field at core scales and have assessed what influences the multiplicity inside a massive core previously believed to be in the prestellar phase. With a mass of 31 M⊙, the G11.92 MM2 core has a young CS molecular outflow with a dynamical timescale of a few thousand years. At high resolution, the MM2 core fragments into a binary system, with a projected separation of 505 au and a binary mass ratio of 1.14. Using the Davis–Chandrasekhar–Fermi method with an angle dispersion function analysis, we estimate in this core a magnetic field strength of 6.2 mG and a mass-to-magnetic-flux ratio of 18. The MM2 core is strongly subvirialized, with a virial parameter of 0.064, including the magnetic field. The high mass-to-magnetic-flux ratio and low virial parameter indicate that this massive core is very likely undergoing runaway collapse, which is in direct contradiction with the core accretion model. The MM2 core is embedded in a filament that has a velocity gradient consistent with infall. In line with clump-fed scenarios, the core can grow in mass at a rate of 1.9–5.6 × 10−4M⊙ yr−1. In spite of the magnetic field having only a minor contribution to the total energy budget at core scales (a few thousands of astronomical units), it likely plays a more important role at smaller scales (a few hundreds of astronomical units) by setting the binary properties. Considering energy ratios and a fragmentation criterion at the core scale, the binary system could have been formed by core fragmentation. The binary system properties (projected separation and mass ratio), however, are also consistent with radiation-magnetohydrodynamic simulations with super-Alfvenic or supersonic (or sonic) turbulence that form binaries by disk fragmentation.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +52,8 @@ A complete understanding of the initial conditions of high-mass star formation a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de6</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de6</guid>
 <content:encoded><![CDATA[
-
 Type Ibn/Icn supernovae (SNe Ibn/Icn), which are characterized by narrow helium or carbon lines that originated in hydrogen-poor dense circumstellar medium (CSM), provide new insights into the final evolution of massive stars. While SNe Ibn/Icn are expected to emit strong X-rays through the strong supernova (SN)-CSM interaction, the X-ray emission modeling effort has been limited so far. In the present study, we provide broad-band X-ray light curve (LC) predictions for SNe Ibn/Icn. We find that the soft X-ray LC provides information about the CSM compositions, while the hard X-ray LC is a robust measure of the CSM density, the explosion energy, and the ejecta mass. In addition, considering the evolution of the ionization state in the unshocked CSM, a bright soft X-ray is expected in the first few days since the explosion, which encourages rapid X-ray follow-up observations as a tool to study the nature of SNe Ibn/Icn. Applying our model to the soft X-ray LCs of SNe Ibn 2006jc and 2022ablq, we derive that the CSM potentially contains a larger fraction of carbon and oxygen for SN 2006jc than 2022ablq, highlighting the power of the soft X-ray modeling to address the nature of the CSM. We also discuss detectability and observational strategy, with which the currently operating telescopes such as NuSTAR and Swift can offer an irreplaceable opportunity to explore the nature of these enigmatic rapid transients and their still-unclarified progenitor channel(s).
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +61,8 @@ Type Ibn/Icn supernovae (SNe Ibn/Icn), which are characterized by narrow helium 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9de7</guid>
 <content:encoded><![CDATA[
-
 Spectral siren measurements of the Hubble constant (H0) rely on correlations between observed detector-frame masses and luminosity distances. Features in the source-frame mass distribution can induce these correlations. It is crucial, then, to understand (i) which features in the source-frame mass distribution are robust against model (re)parameterization, (ii) which features carry the most information about H0, and (iii) whether distinct features independently correlate with cosmological parameters. We study these questions using real gravitational-wave observations from the LIGO-Virgo-KAGRA Collaborations' third observing run. Although constraints on H0 are weak, we find that current data reveals several prominent features in the mass distribution, including peaks in the binary black hole source-frame mass distribution near ∼9M⊙ and ∼32M⊙ and a roll-off at masses above ∼46M⊙. For the first time using real data, we show that all of these features carry cosmological information and that the peak near ∼32M⊙ consistently correlates with H0 most strongly. Introducing model-independent summary statistics, we show that these statistics independently correlate with H0, exactly what is required to limit systematics within future spectral siren measurements from the (expected) astrophysical evolution of the mass distribution.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +70,8 @@ Spectral siren measurements of the Hubble constant (H0) rely on correlations bet
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada152</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada152</guid>
 <content:encoded><![CDATA[
-
 Recent JWST observations at z > 6 may imply galactic ionizing photon production above prior expectations. Under observationally motivated assumptions about escape fractions, these suggest a z ~ 8–9 end to reionization, in tension with the z < 6 end required by the Lyα forest. In this work, we use radiative transfer simulations to understand what different observations tell us about when reionization ended and when it started. We consider a model that ends too early (zend ≈ 8) alongside two more realistic scenarios with zend ≈ 5: one starting late (z ~ 9) and another early (z ~ 13). We find that the latter requires up to an order-of-magnitude evolution in galaxy ionizing properties at 6 < z < 12, perhaps in tension with measurements of ξion by JWST, which indicate little evolution. We study how these models compare to recent measurements of the Lyα forest opacity, mean free path, intergalactic medium thermal history, visibility of z > 8 Lyα emitters, and the patchy kSZ signal from the cosmic microwave background (CMB). We find that neither of the late-ending scenarios is strongly disfavored by any single data set. However, a majority of observables, spanning several distinct types of observations, prefer a late start. Not all probes agree with this conclusion, hinting at a possible lack of concordance arising from deficiencies in observations and/or theoretical modeling. Observations by multiple experiments (including JWST, Roman, and CMB-S4) in the coming years will establish a concordance picture of reionization's beginning or uncover such deficiencies.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +79,8 @@ Recent JWST observations at z > 6 may imply galactic ionizing photon production 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada15b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada15b</guid>
 <content:encoded><![CDATA[
-
 When the ejecta of a supernova (SN) interact with the progenitor star's circumstellar environment, a strong shock is driven back into the ejecta, causing the material to become bright optically and in X-rays. Most notably, as the shock traverses the H-rich envelope, it begins to interact with metal-rich material. Thus, continued monitoring of bright and nearby SNe provides valuable clues about both the progenitor structure and its pre-SN evolution. Here we present late-time, multiepoch optical and Chandra X-ray spectra of the core-collapse SN, SN 1996cr. Magellan IMACS optical spectra taken in 2017 July and 2021 August show a very different spectrum from that seen in 2006 with broad, double-peaked optical emission lines of oxygen, argon, and sulfur with expansion velocities of ±4500 km s−1. Redshifted emission components are considerably fainter compared to the blueshifted components, presumably due to internal extinction from dust in the SN ejecta. Broad ±2400 km s−1 Hα is also seen, which we infer is shocked progenitor pre-SN, mass-loss, H-rich material. Chandra data indicate a slow but steady decline in the overall X-ray luminosity, suggesting that the forward shock has broken through any circumstellar shell or torus, which is inferred from prior deep Chandra ACIS-S/HETG observations. The X-ray properties are consistent with what is expected from a shock breaking out into a lower-density environment. Though originally identified as a Type IIn SN, based upon late-time optical emission-line spectra, we argue that the SN 1996cr progenitor was partially or highly stripped, suggesting a Type IIb/Ib SN.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +88,8 @@ When the ejecta of a supernova (SN) interact with the progenitor star's circumst
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1cf</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1cf</guid>
 <content:encoded><![CDATA[
-
 Over 2000 γ-ray sources identified by the Large Area Telescope on NASA's Fermi Gamma-ray Space Telescope are considered unassociated, meaning that they have no known counterparts in any other frequency regime. We have carried out an image-based search for steep spectrum radio sources, with in-band spectral index < −1.4, within the error regions of Fermi unassociated sources using 1–1.4 GHz radio data from the MeerKAT Absorption Line Survey (MALS) data release. The first MALS data release with a median rms noise of 22–25 μJy and 735,649 sources is a significant advance over past image-based searches with improvements in sensitivity, resolution, and bandwidth. Steep spectrum candidates were identified using a combination of in-band spectral indices from MALS and existing radio surveys. We developed an optical and infrared source classification scheme in order to distinguish between Galactic pulsars and radio galaxies. In total, we identify nine pulsar candidates toward six Fermi sources that are worthy of follow-up for pulsation searches. We also report 41 steep spectrum radio galaxy candidates that may be of interest in searches for high-redshift radio galaxies. We show that MALS, due to its excellent continuum sensitivity, can detect 80% of the known pulsar population. This exhibits the promise of identifying exotic pulsar candidates with future image-based surveys with the Square Kilometre Array and its precursors.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +97,8 @@ Over 2000 γ-ray sources identified by the Large Area Telescope on NASA's Fermi 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d8</guid>
 <content:encoded><![CDATA[
-
 Pulsar scintillation can be used to measure small-scale structure in the Galaxy, but little is known about the specific interstellar medium (ISM) features that cause scintillation. We searched for ISM counterparts to all scintillation screens for which absolute distances and scattering orientations have been measured—a sample of 12 pulsars and 22 screens. For one pulsar, PSR J0737–3039A, we reanalyze its scintillation screen and find evidence for a highly anisotropic screen. Comparisons with tracers of ionized media did not find any new associations. Instead, for seven of the pulsars analyzed, aligned H i filaments are seen for at least one of their screens, for a total of 12 out of 22 screens. This result seems unlikely to be due to chance: Comparing with random trials, we estimate a likelihood of finding 12 or more screens with aligned emission by chance of only 0.004%. Estimating the significance of the amount of aligned emission (in standard deviations over the mean), the probability of finding as much observed aligned emission by chance is larger, at 1.7%, but still indicative of a real correlation. Since H i filaments are preferentially associated with cold neutral gas, and thus unlikely to cause scintillation, this may indicate that both the filaments and the screens are aligned preferentially by the same mechanisms, such as magnetic fields or shocks.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,13 +106,10 @@ Pulsar scintillation can be used to measure small-scale structure in the Galaxy,
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adabc8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabc8</guid>
 <content:encoded><![CDATA[
-
 We investigate the relativistic, viscous, advective neutrino-dominated accretion flows (NDAFs) around rotating stellar-mass black holes, incorporating neutrino cooling. By adopting an effective potential to describe the spacetime geometry around the rotating black holes, we self-consistently solve the governing NDAF equations to obtain global transonic accretion solutions. Our findings indicate that, depending on the model parameters, namely, energy (ε), angular momentum (λ), accretion rate ( ), viscosity (α), and black hole spin (ak), NDAFs may harbor standing shocks where the Rankine–Hugoniot shock conditions are satisfied. Utilizing these shock-induced NDAF solutions, we compute the neutrino luminosity (Lν) and neutrino annihilation luminosity ( ) across a wide range of model parameters. We further calculate maximum neutrino luminosity ( ) and neutrino annihilation luminosity ( ), resulting in erg s−1 (1048−51 erg s−1) and erg s−1 (1042−49 erg s−1) for ak = 0.99 (0.0). These findings suggest that shocked NDAF solutions are potentially promising to explain the energy output of gamma-ray bursts (GRBs). We employ our NDAF model formalism to elucidate for five GRBs with known redshifts and estimate their accretion rate ( ) based on the spin (ak) of the central source of the GRBs studied here.
 ]]></content:encoded>
-
 <pubDate>2025-02-05T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Deciphering Gas Dynamics and Star Formation in a z = 1.1 Main-sequence Spiral Galaxy with ALMA and JWST</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada937</link>
@@ -9671,96 +9688,6 @@ The clustering of dark matter halos depends not only on their mass, the so-calle
 We present a comprehensive analysis of oscillations of the helium-rich white dwarf DBV star EPIC 248705247 (SDSS J102106.69+082724.8). We extract the light curves from 79.7 days of K2 Campaign 14 data and identify 21 independent frequencies, including three complete and three incomplete dipole modes, with an average frequency splitting of 20.37 ± 0.40 μHz. Our analyses reveal a rotation period of EPIC 248705247 of approximately 6.82 ± 0.07 hr, making it one of the most rapidly rotating DBV stars currently known. We utilize the White Dwarf Evolution Code (WDEC) to compute models to look for the seismic best-fitted model, yielding the following stellar parameters: M/M⊙ = 0.650 ± 0.003, Teff = 23,660 ± 68 K, and . We also explore the phenomenon of mode trapping, as well as the potential influence of a weak magnetic field. We find that this star is located near the red edge of the theoretical instability strip of DBVs. Hence, our asteroseismological analysis of EPIC 248705247 provides the properties and behaviors of a rapidly rotating DBV.
 ]]></content:encoded>
 <pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Persistent Behavior in Energetic Neutral Atom Time Series from IBEX</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8578</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8578</guid>
-<content:encoded><![CDATA[
-<div> 关键词: energetic neutral atom (ENA), Interstellar Boundary Explorer (IBEX), polar regions, time series analysis, north-south asymmetry
-总结:
-本文研究了IBEX记录的能量中性原子（ENA）流量时间序列的长期持续性。ENA提供了有关外太阳系及其与局部星际介质相互作用的全局信息。研究聚焦在极地区域N60°–N90°和S60°–S90°，使用了14年的IBEX数据，并按照正确的时间顺序构建了流量时间序列。研究详细检查了时间序列的趋势和波动。利用现代时间序列分析和持续性表征方法，研究表明：（i）趋势受太阳活动周期的影响；（ii）可以独立于趋势建立持续性；（iii）波动的统计特性在北半球和南半球之间存在差异，指向存在各向异性和北-南不对称性。 <br /><br /> <div>
-We investigate the long-term persistence of the time series of energetic neutral atom (ENA) fluxes recorded by the Interstellar Boundary Explorer (IBEX). ENAs provide global information about the outer heliosphere and its interactions with the very local interstellar medium. To avoid the IBEX Ribbon, here, we focus our analysis solely on the polar regions N60°–N90° and S60°–S90°. Each year, IBEX takes two measurements of every pixel in the sky. We make use of the whole set of 14 yr of IBEX data and adhere to the correct time order for the construction of the flux time series. We examine in detail both the trend and the fluctuations of these time series. Using modern methods of time series analysis and persistence characterization, we show that the time series (i) trend is influenced by the solar cycle, (ii) persistence can be established independently of the presence of this trend, and (iii) statistical properties of the fluctuations differs between north and south, pointing to the existence of anisotropy and thus a north–south asymmetry.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Examining the Relationship between the Persistent Emission and the Accretion Rate during a Type I X-Ray Burst</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad863d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad863d</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 中子星，X射线爆发，质量吸积率，Poynting–Robertson  (PR) 拖曳，辐射光谱<br />
-总结: 中子星表面的辐射对质量吸积率产生影响，X射线爆发会导致Poynting–Robertson (PR) 拖曳对质量吸积盘的影响，提高质量吸积率。观测发现X射线爆发期间盘生成的持续辐射的标准化因子fa增加，fa的变化被用来推断质量吸积率的演化。研究使用模拟数据考察了fa与质量吸积率增强之间的关系，发现fa与盘温度强相关，但与质量吸积率的关联性较弱。同时，加热导致盘以更高能量辐射，减小其对软过量的贡献。因此，fa不能准确捕捉质量吸积率的增强，而更像是盘温度的示踪器。 <br /> <div>
-The accretion flow onto a neutron star will be impacted by irradiation from a type I X-ray burst. The burst radiation exerts Poynting–Robertson (PR) drag on the accretion disk, leading to an enhanced mass accretion rate. Observations of X-ray bursts often find evidence that the normalization of the disk-generated persistent emission (commonly denoted by the factor fa) increases during a burst, and changes in fa have been used to infer the evolution of the mass accretion rate due to PR drag. Here, we examine this proposed relationship between fa and mass accretion rate enhancement using time-resolved data from simulations of accretion disks impacted by type I X-ray bursts. We consider bursts from both spinning and nonspinning neutron stars and track both the change in accretion rate due to PR drag and the disk emission spectra during the burst. Regardless of the neutron star spin, we find that fa strongly correlates with the disk temperature and only weakly follows the mass accretion rate (the Pearson correlation coefficients are ≤0.63 in the latter case). Additionally, heating causes the disk to emit at higher energies, reducing its contribution to a soft excess. We conclude that fa cannot accurately capture the mass accretion rate enhancement and is rather a tracer of the disk temperature.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Predicting Photospheric Ultraviolet Emission from Stellar Evolutionary Models</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87d0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87d0</guid>
-<content:encoded><![CDATA[
-Stellar ultraviolet (UV) emission serves as a crucial indicator for estimating magnetic activity and evaluating the habitability of exoplanets orbiting stars. In this paper, we present a straightforward method to derive stellar photospheric UV emission for F to M main-sequence stars. By using PARSEC models, we establish relations between near-UV (NUV) and far-UV (FUV) magnitudes from the Galaxy Evolution Explorer, NUV magnitudes from the China Space Station Telescope, and stellar effective temperatures and Gaia blue photometer–red photometer colors for different metallicities. Together with the observed sample, we find that for NUV emission, the photospheric contribution to the observed flux is less than 20% for M stars, around 10%–70% for K stars, and in a range from 30% to 85% for G and F stars. For FUV emission, the photospheric contribution is less than 10−6 for M stars, below 10−4 for K stars, around 10−4–10% for G stars, and between 6% and 50% for F stars. Our work enables the simple and effective determination of stellar excess UV emission and the exploration of magnetic activity.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Self-consistent Strong Screening Applied to Thermonuclear Reactions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7dee</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7dee</guid>
-<content:encoded><![CDATA[
-Self-consistent strong plasma screening around light nuclei is implemented in the Big Bang nucleosynthesis (BBN) epoch to determine the short-range screening potential, eϕ(r)/T ≥ 1, relevant for thermonuclear reactions. We numerically solve the nonlinear Poisson–Boltzmann equation incorporating Fermi–Dirac statistics, adopting a generalized screening mass to find the electric potential in the cosmic BBN electron–positron plasma for finite-sized α particles (4He++) as an example. Although the plasma follows Boltzmann statistics at large distances, Fermi–Dirac statistics is necessary when work performed by ions on electrons is comparable to their rest-mass energy. While self-consistent strong screening effects are generally minor owing to the high BBN temperatures, they can enhance the fusion rates of high-Z (Z > 2) elements while leaving fusion rates of lower-Z (Z ≤ 2) elements relatively unaffected. Our results also reveal a pronounced spatial dependence of the self-consistent strong screening potential near the nuclear surface. These findings about the electron–positron plasma’s role refine BBN theory predictions and offer broader applications for studying weakly coupled plasmas in diverse cosmic and laboratory settings.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>High-redshift, Small-scale Tests of Ultralight Axion Dark Matter Using Hubble and Webb Galaxy UV Luminosities</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a73</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a73</guid>
-<content:encoded><![CDATA[
-<div> UV-bright galaxies, ultralight axion (ULA) dark matter, abundance, redshift, Hubble Space Telescope (HST)
-
-总结:
-本研究通过对Hubble Space Telescope (HST)观测的24,000个源的紫外光度函数（UVLF）数据进行分析，计算了紫外亮星系在超轻轴子（ULA）暗物质存在下的丰度。研究发现，轴子对紫外亮星系的形成有非平凡的抑制作用，并且这种抑制与红移和光度有关。通过对UVLF数据的分析，得出了轴子暗物质的限制，排除了单一轴子占据所有暗物质的可能性，并且限制了轴子占据暗物质的上限为22%（在95%的置信水平下）。这些高红移的测量结果为低红移轴子暗物质的检验提供了一个有力的一致性检查，并且未来James Webb Space Telescope (JWST) 的测量有望改善这些结果。同时，研究还发现了在z < 3时低质量暗物质（<109M⊙）的过剩，这可以通过亚星系结构探测（例如星流、卫星星系和强引力透镜）来研究。 <div>
-We calculate the abundance of UV-bright galaxies in the presence of ultralight axion (ULA) dark matter (DM), finding that axions suppress their formation with a non-trivial dependence on redshift and luminosity. We set limits on axion DM using UV luminosity function (UVLF) data, excluding a single axion as all the DM for max < 10−21.6 eV and limiting axions with to be less than 22% of the DM (both at 95% credibility). These limits use UVLF measurements from 24,000 sources from the Hubble Space Telescope (HST) at redshifts 4 ≤ z ≤ 10. We marginalize over a parametric model connecting halo mass and UV luminosity. Our results bridge a window in axion mass and fraction previously unconstrained by cosmological data, between large-scale cosmic microwave background and galaxy clustering and the small-scale Lyα forest. These high-z measurements provide a powerful consistency check of low-z tests of axion DM, including the recent hint for a sub-dominant ULA DM fraction in Lyα forest data. We also consider a sample of 25 spectroscopically confirmed high-z galaxies from the James Webb Space Telescope (JWST), finding these data to be consistent with HST. Combining HST and JWST UVLF data does not improve our constraints beyond HST alone, but future JWST measurements have the potential to improve these results. We also find an excess of low-mass halos (<109M⊙) at z < 3, which could be probed by subgalactic structure probes (e.g., stellar streams, satellite galaxies, and strong lensing).
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Spectral Study of Very-high-energy Gamma Rays from SS 433 with HAWC</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e1b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e1b</guid>
-<content:encoded><![CDATA[
-<div> 高能伽马射线，HAWC观测，SS 433微类星，能谱分布，电子加速<br />
-<br />
-SS 433是一个微类星，其高能伽马射线发射在HAWC观测中首次被解析。研究报告了东部喷流和西部喷流的点源检测结果，能谱分析显示两者符合简单的幂律分布，最大光子能量分别达到56 TeV和123 TeV。这表明高能伽马射线可能是通过高效加速的电子产生的。因此，研究提供了对SS 433微类星高能天体物理现象的重要观测和理论解释。 <br /><br />总结: <br />SS 433微类星的高能伽马射线发射首次被HAWC观测解析，分析结果显示喷流发出的伽马射线能谱符合简单的幂律分布，并最大光子能量达到极高水平，表明可能由高效加速的电子产生。 <div>
-Very-high-energy (0.1–100 TeV) gamma-ray emissions were observed in High-Altitude Water Cherenkov (HAWC) data from the lobes of the microquasar SS 433, making them the first set of astrophysical jets that were resolved at TeV energies. In this work, we update the analysis of SS 433 using 2565 days of data from the HAWC observatory. Our analysis reports the detection of a point-like source in the east lobe at a significance of 6.6σ and in the west lobe at a significance of 8.2σ. For each jet lobe, we localize the gamma-ray emission and identify a best-fit position. The locations are close to the X-ray emission sites “e1” and “w1” for the east and west lobes, respectively. We analyze the spectral energy distributions and find that the energy spectra of the lobes are consistent with a simple power law dN/dE ∝ Eα with and for the east and west lobes, respectively. The maximum energy of photons from the east and west lobes reaches 56 TeV and 123 TeV, respectively. We compare our observations to various models and conclude that the very-high-energy gamma-ray emission can be produced by a population of electrons that were efficiently accelerated.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>ALMASOP. The Localized and Chemically Rich Features near the Bases of the Protostellar Jet in HOPS 87</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e25</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e25</guid>
-<content:encoded><![CDATA[
-<div> HOPS 87, protostellar core, bipolar outflow, hot corino, shock chemistry
-
-HOPS 87是一个0级原恒星核心，其中含有一个极为年轻的双极分子流和一个热角碱。研究发现，在HOPS 87的双边分子流基部附近存在富含H2CO、13CS、H2S、OCS和CH3OH等分子的局部化学丰富区域，这些分子是最简单的复杂有机分子。这些局部特征的位置和动力学表明，这些区域是由喷流驱动的震波造成的，而不是热角碱区域的一部分。这些区域中分子气体的复杂有机分子组成相对较简单，我们推测这种简单性可能是由于冰的释放具有较简单的化学历史，或者是由于震波化学的影响。我们的研究突显了原恒星双极分子流、盘、内核环境和周围介质之间的动态相互作用，有助于我们理解类似太阳的年轻恒星物体中的分子复杂性。<br /><br />总结: HOPS 87是一个具有极年轻双极分子流和热角碱的原恒星核心。在其双极分子流基部附近发现了富含多种分子的局部化学丰富区域，这些区域的特征是由喷流驱动的震波造成的。这些区域中的分子气体的复杂有机分子组成相对较简单，有助于我们理解类似太阳的年轻恒星物体中的分子复杂性。 <div>
-HOPS 87 is a Class 0 protostellar core known to harbor an extremely young bipolar outflow and a hot corino. We report the discovery of localized, chemically rich regions near the bases of the two-lobe bipolar molecular outflow in HOPS 87 containing molecules such as H2CO, 13CS, H2S, OCS, and CH3OH, the simplest complex organic molecule (COM). The locations and kinematics suggest that these localized features are due to jet-driven shocks rather than being part of the hot-corino region encasing the protostar. The COM compositions of the molecular gas in these jet-localized regions are relatively simpler than those in the hot-corino zone. We speculate that this simplicity is due to either the liberation of ice with a less complex chemical history or the effects of shock chemistry. Our study highlights the dynamic interplay between the protostellar bipolar outflow, disk, inner-core environment, and the surrounding medium, contributing to our understanding of molecular complexity in solar-like young stellar objects.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Broad Set of Solar and Cosmochemical Data Indicates High C-N-O Abundances for the Solar System</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a65</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7a65</guid>
-<content:encoded><![CDATA[
-<div> refractory organics, C carrier, protosolar nebula, Kuiper Belt objects, CI chondrites
-<br /><br />总结:
-本文研究了在外太阳前星云中作为碳主要携带者的耐火性有机物的作用，以及对大冥王星带对象（KBOs）和CI球粒陨石组成的影响。通过利用罗塞塔对彗星67P / Churyumov-Gerasimenko中的耐火性有机物的测量，我们发现根据目前广泛采用的太阳丰度，它们将占据KBO形成区域中前太阳C库存的很大一部分。然而，这将释放出太多的氧来形成水冰，产生的固体物质不够富含岩石，无法解释冥王星-卡戎系统和其他大型KBOs的未压缩密度；前者被认为是我们对大型KBOs的整体组成最具代表性的值。这种不一致进一步凸显了太阳丰度问题 - 在调和光谱测定的重元素丰度与太阳强度约束之间存在的挑战。通过使用来自太阳CNO中微子和太阳风测量的新数据集，我们展示了冥王星-卡戎系统的未压缩密度可以在各种情况下得到复制。我们发现龙宫和奔努样本中缺少硫酸盐意味着最初聚集到CI球粒陨石母体中的水冰量比以前认为的要少。这些数据与新数据集所暗示的太阳C / O比一致。我们的预测可以通过未来的中微子，太阳地震学和宇宙化学测量来进行验证。 <div>
-We examine the role of refractory organics as a major C carrier in the outer protosolar nebula and its implications for the compositions of large Kuiper Belt objects (KBOs) and CI chondrites. By utilizing Rosetta measurements of refractory organics in comet 67P/Churyumov–Gerasimenko, we show that they would make up a large fraction of the protosolar C inventory in the KBO-forming region based on the current widely adopted solar abundances. However, this would free up too much O to form water ice, producing solid material that is not sufficiently rock-rich to explain the uncompressed density of the Pluto–Charon system and other large KBOs; the former has been argued as the most representative value we have for the bulk composition of large KBOs. This inconsistency further highlights the solar abundances problem—an ongoing challenge in reconciling spectroscopically determined heavy-element abundances with helioseismology constraints. By employing a new data set from solar CNO neutrinos and solar wind measurements of C, N, and O, we show that the uncompressed density of the Pluto–Charon system can be reproduced over a wide range of scenarios. We show that a lack of sulfates in Ryugu and Bennu samples implies a lower amount of water ice initially accreted into CI chondrite parent bodies than previously thought. These data are found to be consistent with the solar C/O ratio implied by the new data set. Our predictions can be tested by future neutrino, helioseismology, and cosmochemical measurements.
-]]></content:encoded>
-<pubDate>2024-11-12T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
