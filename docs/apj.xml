@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A Unifying Polarization Formalism for Electric and Magnetic Multipole Interactions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7677</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7677</guid>
 <content:encoded><![CDATA[
-
 We extend the spherical tensorial formalism for polarization to the treatment of electric and magnetic multipole transitions of any order. We rely on the spherical-wave expansion to derive the tensor form of the operator describing the interaction of the atomic system with a polarized radiation field, which naturally leads to the introduction of spherical tensors describing the polarization properties of the interacting field. As a direct application, the formalism is used to model the radiation anisotropy affecting the scattering of radiation in an electric quadrupole transition and the associated Hanle effect in the presence of a magnetic field.
 ]]></content:encoded>
-
 <pubDate>2025-02-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ We extend the spherical tensorial formalism for polarization to the treatment of
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b92</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b92</guid>
 <content:encoded><![CDATA[
-
 Bayesian inference for inverse problems hinges critically on the choice of priors. In the absence of specific prior information, population-level distributions can serve as effective priors for parameters of interest. With the advent of machine learning, the use of data-driven population-level distributions (encoded, e.g., in a trained deep neural network) as priors is emerging as an appealing alternative to simple parametric priors in a variety of inverse problems. However, in many astrophysical applications it is often difficult or even impossible to acquire independent and identically distributed samples from the underlying data-generating process of interest to train these models. In these cases, corrupted data or a surrogate, e.g., a simulator, is often used to produce training samples, meaning that there is a risk of obtaining misspecified priors. This, in turn, can bias the inferred posteriors in ways that are difficult to quantify, which limits the potential applicability of these models in real-world scenarios. In this work, we propose addressing this issue by iteratively updating the population-level distributions by retraining the model with posterior samples from different sets of observations, and we showcase the potential of this method on the problem of background image reconstruction in strong gravitational lensing when score-based models are used as data-driven priors. We show that, starting from a misspecified prior distribution, the updated distribution becomes progressively closer to the underlying population-level distribution, and the resulting posterior samples exhibit reduced bias after several updates.
 ]]></content:encoded>
-
 <pubDate>2025-02-06T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Investigating the Efficacy of Topologically Derived Time Series for Flare Forecasting. I. Data Set Preparation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada600</link>
@@ -9585,30 +9581,6 @@ Neutron-induced nuclear reactions play an important role in the Big Bang Nucleos
 总结:<br />
 研究表明，在年轻宇宙中的大质量静止星系可以分为三类：相对古老的星系在早期停止形成，最近迅速熄灭的星系，以及经历大规模恒星爆发后最近迅速熄灭的星系。大部分最近熄灭的星系显示中性气体流出，并有电离气体发射，显示出与活动星系核诊断一致的谱线比。这表明，AGN活动驱动多相气体流出，导致快速熄灭。通过追溯整个样本的形成历史，预测了在z = 4-6时期的大质量静止星系的数量密度。样本中的两个老年大质量静止星系可能是在z > 3时期早期恒星爆发的后代。这些星系仍然显示出中性气体储库和微弱的Hα发射，可能是因为导致快速熄灭的喷射式AGN反馈随着时间的推移而减弱。 <div>
 Massive quiescent galaxies in the young Universe are expected to be quenched rapidly, but it is unclear whether they all experience starbursts before quenching and what physical mechanism drives rapid quenching. We study 14 massive quiescent galaxies ( ) at z ∼ 2 selected from a representative sample of the Blue Jay survey. We reconstruct their star formation histories (SFHs) by fitting spectral energy distribution models to the JWST/NIRSpec R ∼ 1000 spectra. We find that massive quiescent galaxies can be split into three categories with roughly equal numbers of galaxies according to their SFHs: (1) relatively old galaxies quenched at early epochs; (2) galaxies that are rapidly and recently quenched after a flat or bursty formation history (depending on the assumed prior); and (3) galaxies that are rapidly and recently quenched after a major starburst. Most recently quenched galaxies show neutral gas outflows, probed by blueshifted Na i D absorption, and ionized gas emission, with line ratios consistent with active galactic nucleus (AGN) diagnostics. This suggests that AGN activity drives multiphase gas outflows, leading to rapid quenching. By tracing back the SFHs of the entire sample, we predict the number density of massive quiescent galaxies at z = 4–6: n = (1.5–6.0) × 10−5 Mpc−3. The two old massive quiescent galaxies in our sample appear to have extremely early formation and quenching (z ≳ 6) and are possibly descendants of early post-starbursts at z > 3. These galaxies still show neutral gas reservoirs and weak Hα emission, perhaps because the ejective AGN feedback that caused rapid quenching has weakened over time.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Optical and Radio Analysis of Systematically Classified Broad-lined Type Ic Supernovae from the Zwicky Transient Facility</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fde</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fde</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 超新星, 光变曲线, 爆发特性, 扩张速度, 射电观测
-总结:
-这篇论文研究了Zwicky Transient Facility Bright Transient Survey在2018年3月至2021年8月期间探测到的36颗宽线型Ic超新星（SNe Ic-BL）。研究分析了这些超新星的光变曲线，推导了实证参数和爆发时刻，并计算了它们的爆发性质。通过光谱观测，得出了平均的Fe ii 5169 Å线膨胀速度，并计算了玻罗等光变曲线和黑体温度、半径随时间的演化。此外，还研究了13颗超新星的射电观测，发现射电检测和非检测的超新星在光学上的爆发性质上没有明显区别，不存在与射电亮度和光学推测爆发性质之间的显著相关性。这表明仅通过光学数据推断的爆发性质不能揭示关于SNe Ic-BL及其相对论喷流形成机制的射电特性。 <br /><br /> <div>
-We study a magnitude-limited sample of 36 broad-lined type Ic supernovae (SNe Ic-BL) from the Zwicky Transient Facility Bright Transient Survey (detected between 2018 March and 2021 August), which is the largest systematic study of SNe Ic-BL done in literature thus far. We present the light curves (LCs) for each of the SNe and analyze the shape of the LCs to derive empirical parameters, along with the explosion epochs for every event. The sample has an average absolute peak magnitude in the r band of mag. Using spectra obtained around peak light, we compute expansion velocities from the Fe ii 5169 Å line for each event with high enough signal-to-noise ratio spectra, and find an average value of km s−1. We also compute bolometric LCs, study the blackbody temperature and radii evolution over time, and derive the explosion properties of the SNe. The explosion properties of the sample have average values of , , and erg. Thirteen events have radio observations from the Very Large Array, with eight detections and five non-detections. We find that the populations that have radio detections and radio non-detections are indistinct from one another with respect to their optically inferred explosion properties, and there are no statistically significant correlations present between the events’ radio luminosities and optically inferred explosion properties. This provides evidence that the explosion properties derived from optical data alone cannot give inferences about the radio properties of SNe Ic-BL and likely their relativistic jet formation mechanisms.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The ALMA-CRISTAL Survey: Spatially Resolved Star Formation Activity and Dust Content in 4 < z < 6 Star-forming Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fee</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fee</guid>
-<content:encoded><![CDATA[
-<div> Hubble Space Telescope, JWST, ALMA, spatially resolved spectral energy distributions (SED), z ∼ 5 galaxies
-
-该研究利用Hubble Space Telescope (HST)、JWST和Atacama Large Millimeter/submillimeter Array (ALMA)数据对14个4 < z < 6紫外线选取的主序星系进行了空间分辨的光谱能量分布（SED）拟合。他们发现通过ALMA观测可以得到物理参数图，探索了z ∼ 5星系内分辨的星形成主序。此外，他们发现在星系中心区域M*和SFR表面密度最高的地方，星形成被遮蔽情况相对较少，与全局关系相反， 推测这可能是由于反馈效应导致气体和尘埃从这些区域驱逐出去。最后，他们测试了基于UV+IR和[C ii]线的SFR预测方法，并发现在同时考虑为尺度时效果良好。本研究展示了在高红移下利用HST，JWST和ALMA进行联合空间分辨的SED建模分析的有效性。<br /><br />总结: 该研究利用HST、JWST和ALMA数据对高红移星系进行了空间分辨的光谱能量分布拟合。他们得出了物理参数图，发现了z ∼ 5星系内分辨的星形成主序关系，以及M*和SFR表面密度与星形成被遮蔽情况的关系。此外，他们测试了SFR预测方法，证明了这种联合分辨分析方法的有效性。 <div>
-Using a combination of Hubble Space Telescope (HST), JWST, and Atacama Large Millimeter/submillimeter Array (ALMA) data, we perform spatially resolved spectral energy distributions (SED) fitting of fourteen 4 < z < 6 ultraviolet (UV)-selected main-sequence galaxies targeted by the ALMA Large Program [C ii] Resolved ISM in Star-forming Galaxies. We consistently model the emission from stars and dust in ∼0.5–1 kpc spatial bins to obtain maps of their physical properties. We find no offsets between the stellar masses (M*) and star formation rates (SFRs) derived from their global emission and those from adding up the values in our spatial bins, suggesting there is no bias of outshining by young stars on the derived global properties. We show that ALMA observations are important to derive robust parameter maps because they reduce the uncertainties in Ldust (hence, AV and SFR). Using these maps, we explore the resolved star-forming main sequence for z ∼ 5 galaxies, finding that this relation persists in typical star-forming galaxies in the early Universe. We find less obscured star formation where the M* (and SFR) surface densities are highest, typically in the central regions, contrary to the global relation between these parameters. We speculate this could be caused by feedback driving gas and dust out of these regions. However, more observations of IR luminosities with ALMA are needed to verify this. Finally, we test empirical SFR prescriptions based on the UV+IR and [C ii] line luminosity, finding they work well at the scales probed (approximately kiloparsec). Our work demonstrates the usefulness of joint HST-, JWST-, and ALMA-resolved SED modeling analyses at high redshift.
 ]]></content:encoded>
 <pubDate>2024-11-13T00:00:00Z</pubDate>
 </item>
