@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>A Unifying Polarization Formalism for Electric and Magnetic Multipole Interactions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7677</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7677</guid>
+<content:encoded><![CDATA[
+
+We extend the spherical tensorial formalism for polarization to the treatment of electric and magnetic multipole transitions of any order. We rely on the spherical-wave expansion to derive the tensor form of the operator describing the interaction of the atomic system with a polarized radiation field, which naturally leads to the introduction of spherical tensors describing the polarization properties of the interacting field. As a direct application, the formalism is used to model the radiation anisotropy affecting the scattering of radiation in an electric quadrupole transition and the associated Hanle effect in the presence of a magnetic field.
+]]></content:encoded>
+
+<pubDate>2025-02-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Tackling the Problem of Distributional Shifts: Correcting Misspecified, High-dimensional Data-driven Priors for Inverse Problems</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b92</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b92</guid>
+<content:encoded><![CDATA[
+
+Bayesian inference for inverse problems hinges critically on the choice of priors. In the absence of specific prior information, population-level distributions can serve as effective priors for parameters of interest. With the advent of machine learning, the use of data-driven population-level distributions (encoded, e.g., in a trained deep neural network) as priors is emerging as an appealing alternative to simple parametric priors in a variety of inverse problems. However, in many astrophysical applications it is often difficult or even impossible to acquire independent and identically distributed samples from the underlying data-generating process of interest to train these models. In these cases, corrupted data or a surrogate, e.g., a simulator, is often used to produce training samples, meaning that there is a risk of obtaining misspecified priors. This, in turn, can bias the inferred posteriors in ways that are difficult to quantify, which limits the potential applicability of these models in real-world scenarios. In this work, we propose addressing this issue by iteratively updating the population-level distributions by retraining the model with posterior samples from different sets of observations, and we showcase the potential of this method on the problem of background image reconstruction in strong gravitational lensing when score-based models are used as data-driven priors. We show that, starting from a misspecified prior distribution, the updated distribution becomes progressively closer to the underlying population-level distribution, and the resulting posterior samples exhibit reduced bias after several updates.
+]]></content:encoded>
+
+<pubDate>2025-02-06T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Investigating the Efficacy of Topologically Derived Time Series for Flare Forecasting. I. Data Set Preparation</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada600</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada600</guid>
 <content:encoded><![CDATA[
-
 The accurate forecasting of solar flares is considered a key goal within the solar physics and space weather communities. There is significant potential for flare prediction to be improved by incorporating topological fluxes of magnetogram data sets, without the need to invoke three-dimensional magnetic field extrapolations. Topological quantities such as magnetic helicity and magnetic winding have shown significant potential toward this aim, and provide spatiotemporal information about the complexity of active region magnetic fields. This study develops time series that are derived from the spatial fluxes of helicity and winding that show significant potential for solar flare prediction. It is demonstrated that time-series signals, which correlate with flare onset times, also exhibit clear spatial correlations with eruptive activity, establishing a potential causal relationship. A significant database of helicity and winding fluxes and associated time series across 144 active regions is generated using Space-Weather HMI Active Region Patches data processed with the Active Region Topology (or ARTop) code that forms the basis of the time-series and spatial investigations conducted here. We find that a number of time series in this data set often exhibit extremal signals that occur 1–8 hr before a flare. This publicly available living data set will allow users to incorporate these data into their own flare prediction algorithms.
 ]]></content:encoded>
-
 <pubDate>2025-02-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ The accurate forecasting of solar flares is considered a key goal within the sol
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada602</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada602</guid>
 <content:encoded><![CDATA[
-
 Understanding the physical properties of star-forming cores as mass reservoirs for protostars and the impact of turbulence is crucial in star formation studies. We implemented passive tracer particles in clump-scale numerical simulations with turbulence strengths of . Unlike core identification methods used in observational studies, we identified 260 star-forming cores using a new method based on tracer particles falling onto protostars. Our findings reveal that star-forming cores do not necessarily coincide with high-density regions when nearby stars are present, as gas selectively accretes onto protostars, leading to clumpy, fragmented structures. We calculated convex hull cores from star-forming cores and defined their filling factors. Regardless of turbulence strength, convex hull cores with lower filling factors tend to contain more protostars and have larger masses and sizes, indicating that cores in clustered regions are more massive and larger than those in isolated regions. Thus, the filling factor serves as a key indicator for distinguishing between isolated and clustered star-forming regions and may provide insights into the star formation processes within clustered regions. We also found that most convex hull cores are gravitationally bound. However, in the model, there are more low-mass, unbound convex hull cores compared to the model. In the model, 16% of the convex hull cores are unbound, which may be explained by the inertial-inflow model. These findings highlight the influence of turbulence strength on the mass and gravitational stability of cores.
 ]]></content:encoded>
-
 <pubDate>2025-02-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +50,10 @@ Understanding the physical properties of star-forming cores as mass reservoirs f
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf4</guid>
 <content:encoded><![CDATA[
-
 The stability of a realistic multicomponent pickup ion (PUI) velocity distribution derived from a global model of neutral atoms in the heliosphere, which treats hydrogen and helium atoms self-consistently and includes equations for electrons and helium ions, is investigated using linear instability analysis and hybrid simulations. Linear instability analysis shows that the excited oblique mirror waves and the parallel/quasi-parallel Alfvén-cyclotron (AC) waves have lower growth rates than those obtained previously by A. Mousavi et al. for the PUI velocity distributions given by J. Heerikhuisen et al. The PUI scattering by each of the two modes alone is studied. In contrast to the previous investigations, our current simulations using the updated realistic distributions indicate that mirror waves alone do not effectively scatter PUIs in pitch angle. Instead, they primarily contribute to reducing the thermal spread anisotropy of the PUIs originating from the neutral solar wind. The unstable AC waves exhibit lower growth rates but higher saturation levels than the mirror waves. Two-dimensional (2D) simulation results show that when all unstable waves are present, the predominant contributor to the fluctuating magnetic field energy is the AC mode. The AC waves quickly scatter the PUIs with pitch angles away from 90∘ toward isotropy, while the PUIs near 90∘ pitch angle maintain a degree of anisotropy within our simulation timeframe. Moreover, several 1D and 2D hybrid simulations with different numbers of particles per cell are performed to examine the impact of numerical noise on PUI scattering. Finally, the implications of these results for the Interstellar Boundary Explorer energetic neutral atom ribbon are discussed.
 ]]></content:encoded>
-
 <pubDate>2025-02-06T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Laboratory Measurement of CH3 17OH Transitions in the Frequency Range from 216 to 264 GHz for Astronomical Application</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b16</link>
@@ -9593,45 +9609,6 @@ We study a magnitude-limited sample of 36 broad-lined type Ic supernovae (SNe Ic
 
 该研究利用Hubble Space Telescope (HST)、JWST和Atacama Large Millimeter/submillimeter Array (ALMA)数据对14个4 < z < 6紫外线选取的主序星系进行了空间分辨的光谱能量分布（SED）拟合。他们发现通过ALMA观测可以得到物理参数图，探索了z ∼ 5星系内分辨的星形成主序。此外，他们发现在星系中心区域M*和SFR表面密度最高的地方，星形成被遮蔽情况相对较少，与全局关系相反， 推测这可能是由于反馈效应导致气体和尘埃从这些区域驱逐出去。最后，他们测试了基于UV+IR和[C ii]线的SFR预测方法，并发现在同时考虑为尺度时效果良好。本研究展示了在高红移下利用HST，JWST和ALMA进行联合空间分辨的SED建模分析的有效性。<br /><br />总结: 该研究利用HST、JWST和ALMA数据对高红移星系进行了空间分辨的光谱能量分布拟合。他们得出了物理参数图，发现了z ∼ 5星系内分辨的星形成主序关系，以及M*和SFR表面密度与星形成被遮蔽情况的关系。此外，他们测试了SFR预测方法，证明了这种联合分辨分析方法的有效性。 <div>
 Using a combination of Hubble Space Telescope (HST), JWST, and Atacama Large Millimeter/submillimeter Array (ALMA) data, we perform spatially resolved spectral energy distributions (SED) fitting of fourteen 4 < z < 6 ultraviolet (UV)-selected main-sequence galaxies targeted by the ALMA Large Program [C ii] Resolved ISM in Star-forming Galaxies. We consistently model the emission from stars and dust in ∼0.5–1 kpc spatial bins to obtain maps of their physical properties. We find no offsets between the stellar masses (M*) and star formation rates (SFRs) derived from their global emission and those from adding up the values in our spatial bins, suggesting there is no bias of outshining by young stars on the derived global properties. We show that ALMA observations are important to derive robust parameter maps because they reduce the uncertainties in Ldust (hence, AV and SFR). Using these maps, we explore the resolved star-forming main sequence for z ∼ 5 galaxies, finding that this relation persists in typical star-forming galaxies in the early Universe. We find less obscured star formation where the M* (and SFR) surface densities are highest, typically in the central regions, contrary to the global relation between these parameters. We speculate this could be caused by feedback driving gas and dust out of these regions. However, more observations of IR luminosities with ALMA are needed to verify this. Finally, we test empirical SFR prescriptions based on the UV+IR and [C ii] line luminosity, finding they work well at the scales probed (approximately kiloparsec). Our work demonstrates the usefulness of joint HST-, JWST-, and ALMA-resolved SED modeling analyses at high redshift.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiwavelength Study of Extreme High-energy Peaked BL Lac Source 1ES 0229+200 Using Ultraviolet, X-Ray, and γ-Ray Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8085</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8085</guid>
-<content:encoded><![CDATA[
-<div> 1ES 0229+200, BL Lac, SED, SSC model, Particle distribution<br />
-<br />
-这项研究对极端高能峰BL Lac源1ES 0229+200的宽频谱能量分布(SED)进行了全面分析，利用了2017年9月至2021年8月期间不同仪器收集的近同时数据。研究采用了一区域的同步辐射和同步辐射自康普顿(SSC)模型，使用不同的粒子分布来拟合源的宽频谱能量分布。研究发现，所有粒子分布模型都能很好地描述SED中的两个峰值，并估计了不同粒子分布下的射流功率。此外，对五个时期的SED拟合使我们能够探索各种粒子分布模型的导出谱参数之间的相关性。估计的物理参数值与模型假设一致。总结: 本研究对1ES 0229+200的SED进行了全面分析，证明了一区域的SSC模型对其谱能量分布的适用性，并探索了不同粒子分布模型下的射流功率及相关性。 <div>
-We present a comprehensive analysis of the broadband spectral energy distribution (SED) of the extreme high-energy peaked BL Lac source, 1ES 0229+200. Our study utilizes near-simultaneous data collected at various epochs between 2017 September and 2021 August (MJD 58119−59365) from different instruments, including AstroSat−UVIT, Soft X-ray focusing Telescope, LAXPC, Swift−UVOT, Fermi-LAT, and MAGIC. We investigate the one-zone synchrotron and synchrotron self-Compton (SSC) model, employing diverse particle distributions such as the log parabola, broken power law, power law with a maximum electron energy γ, energy-dependent diffusion (EDD), and energy-dependent acceleration (EDA) models to fit the broadband SED of the source. Our findings indicate that both peaks in the SED are well described by the one-zone SSC model across all particle distribution models. We estimate the jet power for different particle distributions. The estimated jet power for broken power law particle distributions is found to be on the order of 1047 (1044) erg s−1 for a minimum electron energy ∼10 (104). However, for intrinsically curved particle energy distributions (e.g., log parabola, EDD, and EDA models), the estimated jet power is ∼1044 erg s−1. The SED fitting at five epochs enables us to explore the correlation between the derived spectral parameters of various particle distribution models. Notably, the observed correlations are inconsistent with the predictions in the power-law with a maximum γ model, although the EDD and EDA models yield the correlations as expected. Moreover, the estimated physical parameter values are consistent with the model assumptions.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Modified Initial Mass Function of the First Stars with Explodability Theory under Different Enrichment Scenarios</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad808a</guid>
-<content:encoded><![CDATA[
-<div> Population III stars, metal-poor stars, initial mass distribution, supernova explosions, explodability theory
-<br /><br />
-这篇文章研究了宇宙中最早的金属丰度以及其来源。通过观测丰度模式并将其与无金属星的理论产量进行比较，可以推断出它们的第一代星祖先的物理性质。研究利用最新的LAMOST/Subaru高分辨率光谱观测数据对406颗金属非常贫乏的星进行了分析，并得出了第一代星的初始质量分布。结果表明，修正后的幂律函数能够很好地解释Population III星的质量分布，并且需要考虑超新星的爆发性。因此，这表明超新星的爆发性在宇宙中的最早金属丰度过程中应被考虑。 
-<br /><br />总结: 
-Population III stars, metal-poor stars, initial mass distribution, supernova explosions, explodability theory <div>
-The most metal-poor stars record the earliest metal enrichment triggered by Population III stars. By comparing observed abundance patterns with theoretical yields of metal-free stars, physical properties of their first star progenitors can be inferred, including zero-age main-sequence mass and explosion energy. In this work, the initial mass distribution of the first stars is obtained from the largest analysis to date of 406 very metal-poor stars with the newest LAMOST/Subaru high-resolution spectroscopic observations. However, the mass distribution fails to be consistent with the Salpeter initial mass function, which is also reported by previous studies. Here, we modify the standard power-law function with explodability theory. The mass distribution of Population III stars could be well explained by ensuring that the initial metal enrichment originates from successful supernova explosions. Based on the modified power-law function, we suggest an extremely top-heavy or nearly flat initial mass function with a large exponent for the explosion energy. This indicates that supernova explodability should be considered in the earliest metal enrichment process in the Universe.
-]]></content:encoded>
-<pubDate>2024-11-13T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Density Fluctuations in the Intracluster Medium: An Attempt to Constrain Viscosity with Cosmological Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8127</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8127</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 粘性, 宇宙学模拟, 星团, 中间介质, 密度波动
-
-总结:
-粘性在星团中间介质中的影响仍然是天体物理学中一个未解之谜。通过使用OpenGadget3平滑粒子磁流体动力学代码对三个质量大于1015M⊙的星团进行了宇宙学模拟，以量化粘性的影响并限制其值。研究结果显示粘性引起了小尺度上的显著形态差异、温度变化和密度波动。我们观察到小尺度不稳定性的抑制，导致了更多的小结构和更丝状的结构，同时也由于缺乏与介质的混合。动能向内能的转化导致星团的维里温度增加了大约5%–10%，而密度较高的区域保持较低的温度。密度和速度波动的幅度发现会随粘性增加而增加。然而，与观测数据的比较表明，尽管粘性不同，模拟结果仍然符合密度波动幅度的观测斜率，挑战了通过仅通过密度波动直接限制粘性的观点。此外，密度波动与速度波动的比率不受粘性量的影响，与理论预期一致。我们的结果首次在星团的宇宙学模拟中呈现了粘性在星团中间介质中的影响，而这方面的研究在当前文献中尚未有报道。 <div>
-The impact of viscosity in the intracluster medium (ICM) is still an open question in astrophysics. To address this problem, we have run a set of cosmological simulations of three galaxy clusters with a mass larger than MVir > 1015M⊙ at z = 0 using the smoothed particle magnetohydrodynamics-code OpenGadget3. We aim to quantify the influence of viscosity and constrain its value in the ICM. Our results show significant morphological differences at small scales, temperature variations, and density fluctuations induced by viscosity. We observe a suppression of instabilities at small scales, resulting in a more filamentary structure and a larger amount of small structures due to the lack of mixing with the medium. The conversion of kinetic to internal energy leads to an increase of the virial temperature of the cluster of ∼5%–10%, while the denser regions remain cold. The amplitude of density and velocity fluctuations are found to increase with viscosity. However, comparison with observational data indicates that the simulations, regardless of the viscosity, match the observed slope of the amplitude of density fluctuations, challenging the direct constraint of viscosity solely through density fluctuations. Furthermore, the ratio of density to velocity fluctuations remains close to 1 regardless of the amount of viscosity, in agreement with the theoretical expectations. Our results show for the first time in a cosmological simulation of a galaxy cluster the effect of viscosity in the ICM, a study that is currently missing in the literature.
 ]]></content:encoded>
 <pubDate>2024-11-13T00:00:00Z</pubDate>
 </item>
