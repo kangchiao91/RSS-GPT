@@ -4,6 +4,39 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Investigating the Efficacy of Topologically Derived Time Series for Flare Forecasting. I. Data Set Preparation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada600</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada600</guid>
+<content:encoded><![CDATA[
+
+The accurate forecasting of solar flares is considered a key goal within the solar physics and space weather communities. There is significant potential for flare prediction to be improved by incorporating topological fluxes of magnetogram data sets, without the need to invoke three-dimensional magnetic field extrapolations. Topological quantities such as magnetic helicity and magnetic winding have shown significant potential toward this aim, and provide spatiotemporal information about the complexity of active region magnetic fields. This study develops time series that are derived from the spatial fluxes of helicity and winding that show significant potential for solar flare prediction. It is demonstrated that time-series signals, which correlate with flare onset times, also exhibit clear spatial correlations with eruptive activity, establishing a potential causal relationship. A significant database of helicity and winding fluxes and associated time series across 144 active regions is generated using Space-Weather HMI Active Region Patches data processed with the Active Region Topology (or ARTop) code that forms the basis of the time-series and spatial investigations conducted here. We find that a number of time series in this data set often exhibit extremal signals that occur 1–8 hr before a flare. This publicly available living data set will allow users to incorporate these data into their own flare prediction algorithms.
+]]></content:encoded>
+
+<pubDate>2025-02-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Tracking Star-forming Cores as Mass Reservoirs in Clustered and Isolated Regions Using Numerical Passive Tracer Particles</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada602</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada602</guid>
+<content:encoded><![CDATA[
+
+Understanding the physical properties of star-forming cores as mass reservoirs for protostars and the impact of turbulence is crucial in star formation studies. We implemented passive tracer particles in clump-scale numerical simulations with turbulence strengths of . Unlike core identification methods used in observational studies, we identified 260 star-forming cores using a new method based on tracer particles falling onto protostars. Our findings reveal that star-forming cores do not necessarily coincide with high-density regions when nearby stars are present, as gas selectively accretes onto protostars, leading to clumpy, fragmented structures. We calculated convex hull cores from star-forming cores and defined their filling factors. Regardless of turbulence strength, convex hull cores with lower filling factors tend to contain more protostars and have larger masses and sizes, indicating that cores in clustered regions are more massive and larger than those in isolated regions. Thus, the filling factor serves as a key indicator for distinguishing between isolated and clustered star-forming regions and may provide insights into the star formation processes within clustered regions. We also found that most convex hull cores are gravitationally bound. However, in the model, there are more low-mass, unbound convex hull cores compared to the model. In the model, 16% of the convex hull cores are unbound, which may be explained by the inertial-inflow model. These findings highlight the influence of turbulence strength on the mass and gravitational stability of cores.
+]]></content:encoded>
+
+<pubDate>2025-02-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Fluctuations Driven by Multicomponent Pickup Ion Distributions in the Outer Heliosheath</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf4</guid>
+<content:encoded><![CDATA[
+
+The stability of a realistic multicomponent pickup ion (PUI) velocity distribution derived from a global model of neutral atoms in the heliosphere, which treats hydrogen and helium atoms self-consistently and includes equations for electrons and helium ions, is investigated using linear instability analysis and hybrid simulations. Linear instability analysis shows that the excited oblique mirror waves and the parallel/quasi-parallel Alfvén-cyclotron (AC) waves have lower growth rates than those obtained previously by A. Mousavi et al. for the PUI velocity distributions given by J. Heerikhuisen et al. The PUI scattering by each of the two modes alone is studied. In contrast to the previous investigations, our current simulations using the updated realistic distributions indicate that mirror waves alone do not effectively scatter PUIs in pitch angle. Instead, they primarily contribute to reducing the thermal spread anisotropy of the PUIs originating from the neutral solar wind. The unstable AC waves exhibit lower growth rates but higher saturation levels than the mirror waves. Two-dimensional (2D) simulation results show that when all unstable waves are present, the predominant contributor to the fluctuating magnetic field energy is the AC mode. The AC waves quickly scatter the PUIs with pitch angles away from 90∘ toward isotropy, while the PUIs near 90∘ pitch angle maintain a degree of anisotropy within our simulation timeframe. Moreover, several 1D and 2D hybrid simulations with different numbers of particles per cell are performed to examine the impact of numerical noise on PUI scattering. Finally, the implications of these results for the Interstellar Boundary Explorer energetic neutral atom ribbon are discussed.
+]]></content:encoded>
+
+<pubDate>2025-02-06T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Laboratory Measurement of CH3 17OH Transitions in the Frequency Range from 216 to 264 GHz for Astronomical Application</title>
