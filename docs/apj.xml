@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Uncovering the Hidden Physical Structures and Protostellar Activities in the Low-metallicity S284-RE Region: Results from ALMA and JWST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada388</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada388</guid>
+<content:encoded><![CDATA[
+
+We present an observational study of the S284-RE region, a low-metallicity area associated with the extended S284 H ii region. A thermally supercritical filament (mass ∼2402 M⊙ and length ∼8.5 pc) is investigated using the Herschel column density map. The Spitzer ratio 4.5 μm/3.6 μm map traces the H2 outflows in this filament, where previously reported young stellar objects (YSOs) are spatially distributed. Analysis of the YSO distribution has revealed three active star-forming clusters (YCl1, YCl2, and YCl3) within the filament. YCl3 seems to be the most evolved and YCl2 the youngest, while YCl1 displays signs of nonthermal fragmentation. The JWST (F470N+F444W)/F356W ratio map reveals at least seven bipolar H2 outflows, with four (olc1–olc4) in YCl1 and three (ol1–ol3) in YCl2. The driving sources of these outflows are identified based on outflow geometry, Atacama Large Millimeter/submillimeter Array (ALMA) continuum peaks, and YSO positions. Two ALMA continuum sources—#2 and #3—from the M–Reff plot are recognized as potential massive star formation candidates. ALMA continuum source #2 hosts at least three outflow-driving sources, whereas ALMA continuum source #3 contains two. The bipolar outflow olc1, driven by an embedded object within continuum source #2, is likely a massive protostar, as indicated by the Br-α and PAH emissions depicted in the JWST (F405N+F444W)/F356W ratio map. The presence of H2 knots in the outflows olc1 and ol1 suggests episodic accretion. Overall, the study investigates a massive protostar candidate, driving the ∼2.7 pc H2 outflow olc1 and undergoing episodic accretion.
+]]></content:encoded>
+
+<pubDate>2025-02-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Discovery and Detailed Study of the M31 Classical Nova AT 2023tkw: Evidence for Internal Shocks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fe</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada5fe</guid>
+<content:encoded><![CDATA[
+
+We present a detailed analysis of an extragalactic slow classical nova in M31 exhibiting multiple peaks in its light curve. Spectroscopic and photometric observations were used to investigate the underlying physical processes. Shock-induced heating events resulting in the expansion and contraction of the photosphere are likely responsible for the observed multiple peaks. Deviation of the observed spectrum at the peak from the models also suggests the presence of shocks. The successive peaks occurring at increasing intervals could be due to the series of internal shocks generated near or within the photosphere. Spectral modeling suggests a low-mass white dwarf (WD) accreting slowly from a companion star. The ejecta mass, estimated from spectral analysis, is ~10−4 M⊙, which is typical for a slow nova. We estimate the binary, by comparing the archival Hubble Space Telescope data and eruption properties with stellar and nova models, to comprise a 0.65 M⊙ primary WD and a K iii cool evolved secondary star.
+]]></content:encoded>
+
+<pubDate>2025-02-07T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Early Detection of Multiwavelength Blazar Variability</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad960c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad960c</guid>
 <content:encoded><![CDATA[
-
 Blazars are a subclass of active galactic nuclei with relativistic jets pointing toward the observer. They are notable for their flux variability at all observed wavelengths and timescales. Together with simultaneous measurements at lower energies, the very-high-energy (VHE) emission observed during blazar flares may be used to probe the population of accelerated particles. However, optimally triggering observations of blazar high states can be challenging. Notable examples include identifying a flaring episode in real time and predicting VHE flaring activity based on lower-energy observables. For this purpose, we have developed a novel deep learning analysis framework, based on data-driven anomaly detection techniques. It is capable of detecting various types of anomalies in real-world, multiwavelength light curves, ranging from clear high states to subtle correlations across bands. Based on unsupervised anomaly detection and clustering methods, we differentiate source variability from noisy background activity, without the need for a labeled training data set of flaring states. The framework incorporates measurement uncertainties and is robust given data quality challenges, such as varying cadences and observational gaps. We evaluate our approach using both historical data and simulations of blazar light curves in two energy bands, corresponding to sources observable with the Fermi Large Area Telescope and the upcoming Cherenkov Telescope Array Observatory. In a statistical analysis, we show that our framework can reliably detect known historical flares.
 ]]></content:encoded>
-
 <pubDate>2025-02-07T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +41,10 @@ Blazars are a subclass of active galactic nuclei with relativistic jets pointing
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ea9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9ea9</guid>
 <content:encoded><![CDATA[
-
 Using the semianalytic model Serotina, we investigate the cosmic spin evolution of supermassive black holes (SMBHs) incorporating recent results from general-relativistic magnetohydrodynamics simulations of spin-down from relativistic jets. We compare several variations of our model with compiled black hole (BH) spin measurements derived from X-ray reflection spectroscopy, correcting for a bias arising from the spin-dependent radiative efficiency of accretion flows. We show that the observed spin distribution is in agreement with a model that includes jet-driven spin-down, a key mechanism that acts to modulate spins across cosmic time at both high and very low specific accretion rates. The data also clearly prefer models with coherent accretion over models in which accretion disks rapidly switch from prograde to retrograde. We further predict spin distributions accessible via spatially resolved event horizons by the next-generation Event Horizon Telescope and Black Hole Explorer, as well as gravitational waves by the Laser Interferometer Space Antenna (LISA), each of which offers unique and distinct windows into the population of spinning BHs. Jet-driven spin-down is most strongly imprinted on the abundance of very highly spinning objects in our model. In addition, we show that the spin distribution sampled by LISA events may contain a signature of the natal spin distribution of heavy seeds, but not of light seeds, offering additional discrimination between these seeding pathways. Spin distributions from these future observed samples can be used to constrain the detailed physical properties of the accretion flow on horizon scales around SMBHs.
 ]]></content:encoded>
-
 <pubDate>2025-02-07T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Hooks, Lines, and Sinkers: How Active Galactic Nucleus Feedback and Cosmic-Ray Transport Shape the Far-infrared–Radio Correlation of Galaxies</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada280</link>
@@ -9516,31 +9534,6 @@ We consider the motion of a circularly moving perturber in a self-gravitating, c
 该研究利用Gaia数据、多波段光度测量和三维消光图构建了一个由289,759颗太阳金属丰度恒星组成的样本，用于进行精确、准确和物理上自洽的年龄推断。研究结果显示，这种方法可以准确地推断出恒星的年龄和金属丰度，年龄统计精度为8%，金属丰度为0.06 dex。此外，研究还包括了112,062颗金属贫穷的亚巨星，其中包括3000多颗金属丰度小于-1.50的恒星，具有7%的年龄精度。通过这一目录，研究者展示了太阳邻域恒星形成历史具有三个组成部分，还表明太阳邻域包括即使在最古老的年龄和最低的金属丰度下，也有类似盘状星系的轨道。该研究还表明，所推断的金属丰度与多通道光谱调查得出的结果相吻合。 
 <br /><br />总结: 该研究利用Gaia数据和多波段光度测量构建了一个庞大的样本集，用于对恒星的年龄和金属丰度进行推断。研究结果表明，这种方法可以得到准确、精确和物理上自洽的结果，并且具有科学潜力，可以揭示太阳邻域的恒星形成历史和轨道特征。 <div>
 Age is the most difficult fundamental stellar parameter to infer for isolated stars. While isochrone-based ages are in general imprecise for both main-sequence dwarfs and red giants, precise isochrone-based ages can be obtained for stars on the subgiant branch transitioning from core to shell hydrogen burning. We synthesize Gaia Data Release 3–based distance inferences, multiwavelength photometry from the ultraviolet to the mid-infrared, and three-dimensional extinction maps to construct a sample of 289,759 solar-metallicity stars amenable to accurate, precise, and physically self-consistent age inferences. Using subgiants in the solar-metallicity open clusters NGC 2682 (i.e., M67) and NGC 188, we show that our approach yields accurate and physically self-consistent ages and metallicities with median statistical precisions of 8% and 0.06 dex, respectively. The inclusion of systematic uncertainties resulting from nonsingle or variable stars results in age and metallicity precisions of 9% and 0.12 dex, respectively. We supplement this solar-metallicity sample with an additional 112,062 metal-poor subgiants, including over 3000 stars with [Fe/H] ≲ −1.50, 7% age precisions, and apparent Gaia G-band magnitudes G < 14. We further demonstrate that our inferred metallicities agree with those produced by multiplexed spectroscopic surveys. As an example of the scientific potential of this catalog, we show that the solar neighborhood star formation history has three components at ([Fe/H], τ/Gyr) ≈ (+0.0, 4), (+0.2, 7), and a roughly linear sequence in age–metallicity space beginning at ([Fe/H], τ/Gyr) ≈ (+0.2, 7) and extending to (−0.5, 13). Our analyses indicate that the solar neighborhood includes stars on disk-like orbits even at the oldest ages and lowest metallicities accessible by our samples.
-]]></content:encoded>
-<pubDate>2024-11-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Physical Parameters and Properties of 20 Cold Brown Dwarfs in JWST</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad815a</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad815a</guid>
-<content:encoded><![CDATA[
-<div> 近红外光谱学，矮星，大气参数，质量和年龄，太空望远镜
-
-总结:<br /><br />本研究使用James Webb Space Telescope的NIRSpec和MIRI仪器对20个T和Y矮星进行了全面分析。通过两种大气模型 Sonora Elf Owl 和 ATMO2020 ++，确定了有效温度和金属丰度，但在表面重力方面存在显著差异。通过文献中的绝对视差和拟合的有效温度，确定了这些棕矮星的半径、质量和年龄。结果显示，大多数棕矮星质量低于30MJup，年龄不超过6亿年。对NIRSpec和MIRI光谱进行比较表明，仅使用NIRSpec光谱获得的有效温度和表面重力与合并光谱获得的结果基本一致。 <div>
-We present a comprehensive analysis of 20 T and Y dwarfs using spectroscopy from the Near-Infrared Spectrograph (NIRSpec) CLEAR/PRISM and Mid-Infrared Instrument (MIRI) low-resolution spectrometer instruments on the James Webb Space Telescope. To characterize the atmospheric parameters, we utilize two atmospheric model grids: the Sonora Elf Owl and ATMO2020++. The effective temperatures derived from the two models are relatively consistent, and metallicities are both close to solar values. However, significant discrepancies are found in other parameters, particularly in surface gravity, with the values obtained from the Sonora Elf Owl models typically being about 1 dex lower than those from the ATMO2020++ models. Further comparisons using the ATMO2020 models highlight that the adiabatic convective process introduced in the ATMO2020++ models has a significant impact on the determination of surface gravity. Using the fitted effective temperatures and absolute parallaxes from the literature, we derive radii for the brown dwarfs, which range from approximately 0.8–1.2 RJup. The estimated masses and ages, derived using evolutionary tracks, indicate that most brown dwarfs in our sample have masses below 30 MJup and are younger than 6 Gyr. Specifically, Y dwarfs have masses ranging from 2 to 20 MJup and ages between 0.1 and 6.7 Gyr. In addition, we discuss the determination of atmospheric parameters using only NIRSpec or MIRI spectra. Comparisons with results from the combined spectra show that the effective temperatures and surface gravities derived solely from NIRSpec spectra are largely consistent with those obtained from the combined spectra.
-]]></content:encoded>
-<pubDate>2024-11-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>“Halfway to Rayleigh” and Other Insights into the Rossby Wave Instability</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad81f6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad81f6</guid>
-<content:encoded><![CDATA[
-<div> Rossby wave instability, radial shear instability, disks, disk accretion, planetary gaps
-
-总结:
-Rossby wave instability (RWI)是盘状结构中的基本非轴对称径向剪切不稳定性，可以促进盘的吸积，确定行星间隙的形状，并产生大型涡旋。该现象源于密度和/或温度特征，例如径向间隙、凸起或阶梯。触发RWI的一般充分条件尚不清楚，但通过研究一系列简化模型（包括不可压缩和可压缩剪切层以及全局圆柱形盘），可以揭示这一情况。研究重点是处理不同形状的盘特征的焓幅和宽度。研究发现，跨越广泛参数空间的RWI边界和增长率的解析结果为一些情况提供了确切推导，而在其他情况下则为数值结果的描述。总体而言，宽度大于一个尺度高度的特征通常在到达雷利不稳定性的一半时变得不稳定，具体来说，当平方的星周频率约为开普勒值的一半时。RWI的增长速率大致按照焓幅的1/3次幂进行缩放，对宽度的依赖性较弱。全局盘曲率会影响宽行星间隙，使外间隙边缘更容易受到RWI的影响。我们的简化模型是等熵的且在垂直方向上积分，但主要结果应该能够推广到更复杂和更现实的情景。 <div>
-The Rossby wave instability (RWI) is the fundamental nonaxisymmetric radial shear instability in disks. The RWI can facilitate disk accretion, set the shape of planetary gaps, and produce large vortices. It arises from density and/or temperature features, such as radial gaps, bumps, or steps. A general, sufficient condition to trigger the RWI is lacking, which we address by studying the linear RWI in a suite of simplified models, including incompressible and compressible shearing sheets and global, cylindrical disks. We focus on enthalpy amplitude and width as the fundamental properties of disk features with various shapes. We find analytic results for the RWI boundary and growth rates across a wide parameter space, in some cases with exact derivations and in others as a description of numerical results. Features wider than a scale height generally become unstable about halfway to Rayleigh instability, i.e., when the squared epicyclic frequency is about half the Keplerian value, reinforcing our previous finding. RWI growth rates approximately scale as enthalpy amplitude to the 1/3 power, with a weak dependence on width, across much of the parameter space. Global disk curvature affects wide planetary gaps, making the outer gap edge more susceptible to the RWI. Our simplified models are barotropic and height integrated, but the main results should carry over to more complex and realistic scenarios.
 ]]></content:encoded>
 <pubDate>2024-11-14T00:00:00Z</pubDate>
 </item>
