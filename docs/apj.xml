@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Magnetorotational Instability in Collisional Weakly Ionized Plasma with Distinct Species Velocities</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada89d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada89d</guid>
+<content:encoded><![CDATA[
+
+In a differential rotating system, we use the incompressible multifluid model to investigate the dynamics of a weakly ionized plasma placed in a vertical background magnetic field with radial shearing. The equilibrium current is taken into account. The differences in velocities between charged species and neutrals are supposed to be related to the collisions. The analytical expression of the general local dispersion relation is derived and the effect of the shearing magnetic field is demonstrated in three different limiting cases. Momentum transfer to neutrals is neglected in the first case, and the instability criteria are provided with the involvement of magnetic field shearing. In the magnetohydrodynamic (MHD) case, the previous results are reproduced when setting the equilibrium current density to zero, and the magnetic field structure is depicted to restrain/reinforce the instability in the Keplerian system with decaying/increasing shearing. In the last case, the finite collisions with weak ionization and ion Hall effects generate another unstable vertical mode compared with the MHD case and also alleviate the unstable waves propagated between the horizontal and vertical directions.
+]]></content:encoded>
+
+<pubDate>2025-02-10T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>WALLABY Pilot Survey: Star Formation Enhancement and Suppression in Gas-rich Galaxy Pairs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9579</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9579</guid>
 <content:encoded><![CDATA[
-
 Galaxy interactions can significantly affect the star formation in galaxies, but it remains a challenge to achieve a consensus on the star formation rate (SFR) enhancement in galaxy pairs. Here, we investigate the SFR enhancement of gas-rich galaxy pairs detected by the Widefield ASKAP L-band Legacy All-sky Blind surveY. We construct a sample of 278 paired galaxies spanning a stellar mass (M*) range from 107.6 to 1011.2M⊙. We obtain individual masses of atomic hydrogen (H i) for these paired galaxies using a novel deblending algorithm for H i data cubes. Quantifying the interaction stages and strengths with parameters motivated by first-principles analysis, we find that, at fixed stellar and H i mass, the alteration in the SFR of galaxy pairs starts when their dark matter halos are encountered. For galaxies with a stellar mass lower than 109M⊙, their SFRs show tentative suppression of 1.4σ after the halo encounter, and then become enhanced when their H i disks overlap, regardless of mass ratios. In contrast, the SFRs of galaxies with M* > 109M⊙ increase monotonically toward smaller projected distances and radial velocity offsets. When a close companion is present, a pronounced SFR enhancement is found for the most H i-poor high-mass galaxies in our sample. Collecting the observational evidence, we provide a coherent picture of the evolution of galaxy pairs and discuss how the tidal effects and hydrodynamic processes shape the SFR enhancement. Our results provide a coherent picture of gas-rich galaxy interactions and impose constraints on the underlying physical processes.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +30,10 @@ Galaxy interactions can significantly affect the star formation in galaxies, but
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada777</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada777</guid>
 <content:encoded><![CDATA[
-
 The mass loss rates of planets undergoing core-powered escape are usually modeled using an isothermal Parker-type wind at the equilibrium temperature, Teq. However, the upper atmospheres of sub-Neptunes may not be isothermal if there are significant differences between the opacity to incident visible and outgoing infrared radiation. We model bolometrically driven escape using AIOLOS, a hydrodynamic radiative-transfer code that incorporates double-gray opacities, to investigate the process’s dependence on the visible-to-infrared opacity ratio, γ. For a value of γ ≈ 1, we find that the resulting mass loss rates are well approximated by a Parker-type wind with an isothermal temperature T = Teq/21/4. However, we show that over a range of physically plausible values of γ, the mass loss rates can vary by orders of magnitude, ranging from 10−5× the isothermal rate for low γ to 105× the isothermal rate for high γ. The differences in mass loss rates are largest for small planet radii, while for large planet radii, mass loss rates become nearly independent of γ and approach the isothermal approximation. We incorporate these opacity-dependent mass loss rates into a self-consistent planetary mass and energy evolution model and show that lower/higher γ values lead to more/less hydrogen being retained after core-powered mass loss. In some cases, the choice of opacities determines whether or not a planet can retain a significant primordial hydrogen atmosphere. The dependence of escape rate on the opacity ratio may allow atmospheric escape observations to directly constrain a planet's opacities and therefore its atmospheric composition.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Spin-down of Solar-mass Protostars in Magnetospheric Accretion Paradigm</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada364</link>
@@ -9433,31 +9440,6 @@ We investigate the evolution of a changing-look blazar (CLB) on long timescales 
 GW150914 marked the start of the gravitational wave (GW) era with the direct detection of a binary black hole (BBH) merger by the LIGO-Virgo GW detectors. The event was tentatively associated with a signal detected by the Fermi Gamma-ray Burst Monitor (GBM), which hinted toward electromagnetic emission associated with compact object coalescence. The detection of a short gamma-ray burst (GRB) associated with GW170817, along with several multiwavelength detections, truly established that compact object mergers are indeed multimessenger events. The CadmiumZincTelluride Imager (CZTI) on board AstroSat can search for X-ray counterparts of the GW events and has detected over 650 GRBs in the 8.5 yr since it was launched. We present results from our searches for counterparts coincident with GW triggers from the first three LIGO-Virgo-KAGRA (LVK) GW Transient Catalogs. For 71 out of 90 GW events for which AstroSat-CZTI data was available, we undertook a systematic search for temporally coincident transients in the 20–200 keV band and detected no X-ray counterparts. We evaluate the upper limits on the maximum possible flux from the source in a 100 s window centered around each trigger, consistent with the GW localization of the event. Thanks to the sensitivity of CZTI, these upper limits are competitive with those from other spacecraft. We use these upper limits to constrain theoretical models that predict high-energy counterparts to BBH mergers. We also discuss the probability of nondetections of BBH mergers at different luminosities and the implications of such nondetections from the ongoing fourth observing run of the LVK detectors.
 ]]></content:encoded>
 <pubDate>2024-11-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Broadband X-Ray Investigation of Fast-spinning Intermediate Polar CTCV J2056–3014</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7feb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7feb</guid>
-<content:encoded><![CDATA[
-<div> 快自转白矮星，X射线观测，磁场，CV，等离子体
-
-总结:<br />
-文章报告了对CTCV J2056-3014的X射线观测结果，该天体是一颗快自转的白矮星和CV。观测结果表明，这颗白矮星具有类似WZ Sge型CV的特性，并且在2022年11月发生了光学耀斑。X射线光谱表现为低等离子温度和无显著的低能吸收。研究人员使用非磁性和磁性CV光谱模型确定了白矮星质量范围，并发现其质量与局部CV的平均质量一致。这些观测结果对理解快自转白矮星和CV的性质具有重要意义。 <div>
-We report on XMM-Newton, NuSTAR, and NICER X-ray observations of CTCV J2056–3014, a cataclysmic variable (CV) with one of the fastest-spinning white dwarfs (WDs) at P = 29.6 s. While previously classified as an intermediate polar, CJ2056 also exhibits the properties of WZ Sge–type CVs, such as dwarf novae and superoutbursts. With XMM-Newton and NICER, we detected the spin period up to ∼2 keV with 7σ significance. We constrained its derivative to s s−1 after correcting for binary orbital motion. The pulse profile is characterized by a single broad peak with ∼25% modulation. NuSTAR detected a fourfold increase in unabsorbed X-ray flux coincident with an optical flare, in 2022 November. The XMM-Newton and NICER X-ray spectra at 0.310 keV are best characterized by an absorbed, optically thin three-temperature thermal plasma model (kT = 0.3, 1.0, and 4.9 keV), while the NuSTAR spectra at 3–30 keV are best fit by a single-temperature thermal plasma model (kT = 8.4 keV), both with Fe abundance ZFe/Z⊙ = 0.3. CJ2056 exhibits similarities to other fast-spinning CVs, such as low plasma temperatures and no significant X-ray absorption at low energies. As the WD’s magnetic field strength is unknown, we applied both nonmagnetic and magnetic CV spectral models (MKCFLOW and MCVSPEC) to determine the WD mass. The derived WD mass range (M = 0.7–1.0 M⊙) is above the centrifugal breakup mass limit of 0.56 M⊙ and consistent with the mean WD mass of local CVs (M ≈ 0.8–0.9 M⊙).
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Systematic Study of the Inner Structure of Molecular Tori in Nearby U/LIRGs Using Velocity Decomposition of CO Rovibrational Absorption Lines*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84f4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84f4</guid>
-<content:encoded><![CDATA[
-<div> 活动星系核、分子环、气体吸收线、速度分解分析、Subaru望远镜
-总结:
-研究人员使用Subaru望远镜高分辨率光谱观测了四个超亮红外星系中的气体12CO rovibrational吸收线，发现每个过渡都有两至五个明显的速度分量，表明分子环具有颗粒结构。他们还发现，最内部的组分是以∣VLOS∣∼160-240公里/秒的速度流出，而外部组分则以更慢的速度流出或者向内落入。此外，他们观察到光谱线的性质表明最内部的组分可能是由密度较高的热颗粒组成，而外部组分则是由背景辐射激发的冷颗粒组成。这些观测结果揭示了星系核周围分子环的颗粒状和动态结构。 <div>
-Determining the inner structure of the molecular torus around an active galactic nucleus is essential for understanding its formation mechanism. However, spatially resolving the torus is difficult because of its small size. To probe the clump conditions in the torus, we therefore perform the systematic velocity-decomposition analyses of the gaseous 12CO rovibrational absorption lines (v = 0 → 1, ΔJ = ±1) at λ ∼ 4.67 μm observed toward four (ultra)luminous infrared galaxies using the high-resolution (R ∼ 5000–10,000) spectroscopy from the Subaru Telescope. We find that each transition has two to five distinct velocity components with different line-of-sight (LOS) velocities (VLOS ∼ −240 to +100 km s−1) and dispersions (σV ∼ 15–190 km s−1), i.e., the components (a), (b), ⋯, beginning with the broadest one in each target, indicating that the tori have clumpy structures. By assuming a hydrostatic disk ( ), we find that the tori has dynamic inner structures, with the innermost component (a) outflowing with velocity ∣VLOS∣ ∼ 160–240 km s−1, and the outer components (b) and (c) outflowing more slowly or infalling with ∣VLOS∣ ≲ 100 km s−1. In addition, we find that the innermost component (a) can be attributed to collisionally excited hot (≳530 K) and dense ( ) clumps, based on the level populations. Conversely, the outer component (b) can be attributed to cold (∼30–140 K) clumps radiatively excited by a far-infrared-to-submillimeter background with a brightness temperature higher than ∼20–400 K. These observational results demonstrate the clumpy and dynamic structure of tori in the presence of background radiation.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
