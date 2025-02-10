@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>WALLABY Pilot Survey: Star Formation Enhancement and Suppression in Gas-rich Galaxy Pairs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9579</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9579</guid>
+<content:encoded><![CDATA[
+
+Galaxy interactions can significantly affect the star formation in galaxies, but it remains a challenge to achieve a consensus on the star formation rate (SFR) enhancement in galaxy pairs. Here, we investigate the SFR enhancement of gas-rich galaxy pairs detected by the Widefield ASKAP L-band Legacy All-sky Blind surveY. We construct a sample of 278 paired galaxies spanning a stellar mass (M*) range from 107.6 to 1011.2M⊙. We obtain individual masses of atomic hydrogen (H i) for these paired galaxies using a novel deblending algorithm for H i data cubes. Quantifying the interaction stages and strengths with parameters motivated by first-principles analysis, we find that, at fixed stellar and H i mass, the alteration in the SFR of galaxy pairs starts when their dark matter halos are encountered. For galaxies with a stellar mass lower than 109M⊙, their SFRs show tentative suppression of 1.4σ after the halo encounter, and then become enhanced when their H i disks overlap, regardless of mass ratios. In contrast, the SFRs of galaxies with M* > 109M⊙ increase monotonically toward smaller projected distances and radial velocity offsets. When a close companion is present, a pronounced SFR enhancement is found for the most H i-poor high-mass galaxies in our sample. Collecting the observational evidence, we provide a coherent picture of the evolution of galaxy pairs and discuss how the tidal effects and hydrodynamic processes shape the SFR enhancement. Our results provide a coherent picture of gas-rich galaxy interactions and impose constraints on the underlying physical processes.
+]]></content:encoded>
+
+<pubDate>2025-02-10T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Blowin’ in the Nonisothermal Wind: Core-powered Mass Loss with Hydrodynamic Radiative Transfer</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada777</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada777</guid>
+<content:encoded><![CDATA[
+
+The mass loss rates of planets undergoing core-powered escape are usually modeled using an isothermal Parker-type wind at the equilibrium temperature, Teq. However, the upper atmospheres of sub-Neptunes may not be isothermal if there are significant differences between the opacity to incident visible and outgoing infrared radiation. We model bolometrically driven escape using AIOLOS, a hydrodynamic radiative-transfer code that incorporates double-gray opacities, to investigate the process’s dependence on the visible-to-infrared opacity ratio, γ. For a value of γ ≈ 1, we find that the resulting mass loss rates are well approximated by a Parker-type wind with an isothermal temperature T = Teq/21/4. However, we show that over a range of physically plausible values of γ, the mass loss rates can vary by orders of magnitude, ranging from 10−5× the isothermal rate for low γ to 105× the isothermal rate for high γ. The differences in mass loss rates are largest for small planet radii, while for large planet radii, mass loss rates become nearly independent of γ and approach the isothermal approximation. We incorporate these opacity-dependent mass loss rates into a self-consistent planetary mass and energy evolution model and show that lower/higher γ values lead to more/less hydrogen being retained after core-powered mass loss. In some cases, the choice of opacities determines whether or not a planet can retain a significant primordial hydrogen atmosphere. The dependence of escape rate on the opacity ratio may allow atmospheric escape observations to directly constrain a planet's opacities and therefore its atmospheric composition.
+]]></content:encoded>
+
+<pubDate>2025-02-10T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Spin-down of Solar-mass Protostars in Magnetospheric Accretion Paradigm</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada364</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada364</guid>
 <content:encoded><![CDATA[
-
 Stellar spin is one of the fundamental quantities that characterize a star itself and its planetary system. Nevertheless, stellar spin-down mechanisms in protostellar and pre-main-sequence stellar phases have been a long-standing problem in star formation theory. To realize the spin-down, previous axisymmetric models based on the conventional magnetospheric paradigm have had to assume massive stellar winds or produce highly time-variable magnetospheric ejections. However, this picture has been challenged by both numerical simulations and observations. With a particular focus on the propeller regime for solar-mass stars, we propose a new picture of stellar spin-down based on our recent 3D magnetohydrodynamic simulation and stellar evolution calculation. We show that failed magnetospheric winds, unique to 3D models, significantly reduce the spin-up accretion torque, which make it easier for the star to spin-down. Additionally, the amplitude of time variability associated with magnetospheric ejections is reduced by 3D effects. Our simulation demonstrates that the star spins down by generating a conical disk wind, driven by a rotating stellar magnetosphere. Our theoretical estimates, inspired by the numerical model, suggest that the conical disk wind is likely to play a crucial role in extracting stellar angular momentum during the protostellar phase. As magnetospheric accretion is expected to occur in other accreting objects such as protogiant planets, this study will also contribute to the understanding of the angular momentum of such objects.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ Stellar spin is one of the fundamental quantities that characterize a star itsel
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada38d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada38d</guid>
 <content:encoded><![CDATA[
-
 V445 Puppis (Nova Puppis 2000) is the only known example of a helium nova, where a layer of helium-rich gas accretes onto the surface of a white dwarf (WD) in a cataclysmic variable, with runaway helium burning making for the nova event. Speculatively, a helium nova can provide one path to produce a Type Ia supernova (SNIa), within the larger framework of single-degenerate models. Relatively little has been known about V445 Pup, with this work reporting the discovery of the orbital period near 1.87 days. The companion star is 2.65 ± 0.35 R⊙ in radius as an evolved giant star stripped of its outer hydrogen envelope. The orbital period immediately before the 2000 eruption was = 1.871843 ± 0.000014 days, with a steady period change of (−0.17 ± 0.06) × 10−8 from 1896 to 1995. The period immediately after the nova eruption was Ppost = 1.873593 ± 0.000034 days, with a of (−4.7 ± 0.5) × 10−8. The fractional orbital period change (ΔP/P) is +935 ± 27 ppm. This restricts the mass of the gases ejected in the nova eruption to be ≫0.001 M⊙, and much greater than the mass accreted to trigger the nova. So the WD is losing mass over each eruption cycle, and will not become a SNIa. Further, for V445 Pup and helium novae in general, I collect observations from 136 normal SNIa for which any giant or subgiant companion star would have been detected, yet zero companions are found. This is an independent proof that V445 Pup and helium novae are not SNIa progenitors.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@ V445 Puppis (Nova Puppis 2000) is the only known example of a helium nova, where
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada616</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada616</guid>
 <content:encoded><![CDATA[
-
 The Charting Cluster Construction with VUDS and ORELSE (C3VO) survey is an ongoing imaging and spectroscopic campaign aiming to map out the growth of structure up to z ∼ 5 and was born from the combination of the Visible Multi-Object Spectrograph Ultra Deep Survey and the Observations of Redshift Evolution in Large-Scale Environments (ORELSE) survey. As we previously accomplished with the ORELSE survey, we apply our technique known as Voronoi tessellation Monte Carlo (VMC) mapping to search for serendipitous galaxy overdensities at 2 < z < 5 in the three C3VO fields. We also apply the same technique to mock observations of simulated galaxies with properties derived from the GAlaxy Evolution and Assembly semianalytic model in order to judge the effectiveness of our search algorithm as a function of redshift, total mass, and fraction of spectroscopic redshifts. We find completeness and purity values of the order of 30%–50% for and 2 < z < 4, with a strong dependence on mass and redshift, with values as high as ∼80% and ∼70%, respectively, in the best-case scenario for . In the C3VO fields, we were able to recover many of the previously known structures in the literature as well as find hundreds of new overdensity candidates, once again demonstrating the powerful capabilities of VMC mapping when applied to wide-field optical and infrared galaxy evolution surveys at ever higher redshifts.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +59,8 @@ The Charting Cluster Construction with VUDS and ORELSE (C3VO) survey is an ongoi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b1</guid>
 <content:encoded><![CDATA[
-
 Prior to the Solar Wind Around Pluto (SWAP) observations from New Horizons, the only significant interstellar pickup ion (PUI) observations were taken inside 5.4 au from the Ulysses and 1 au missions. Here, we analyze SWAP data to provide the first comprehensive radial profile of interstellar PUIs in the outer heliosphere from ∼22 to 60 au. This study is the first to combine the low time resolution (one day) data inside 49.5 au with the high time resolution (half hour) data outside of that. We show that these two data sets can be reliably analyzed together in what is now a nearly continuous set of PUI observations. We derive radial gradients for all of the PUI parameters, as well as ratios to their solar wind counterparts from these combined data and extrapolate them out to a nominal termination shock distance at ∼90 au. We find that the fraction of PUIs to all ions in the solar wind continues to grow, reaching ∼18% by 60 au and extrapolated to be ∼30% at 90 au. The PUI internal pressure is ∼11% of the solar wind dynamic pressure at 60 au and expected to be ∼21% by 90 au. Such large values further highlight the importance of PUIs as the dominant driver of the physics of the outer heliosphere, as well as at the termination shock.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +68,8 @@ Prior to the Solar Wind Around Pluto (SWAP) observations from New Horizons, the 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada775</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada775</guid>
 <content:encoded><![CDATA[
-
 We performed variability analysis of the multiwavelength light curves (LCs) for the flat-spectrum radio quasar PKS 0727-11. Using the generalized Lomb–Scargle periodogram, we identified a possible quasiperiodic oscillation (QPO) of ~168.6 days (persisted for six cycles, with a significance of 3.8σ) in the γ-ray LC during the flare period (MJD 54687–55738). It is the first time that periodic variations have been detected in this source, and further supported by other methods: weighted wavelet z-transform, phase dispersion minimization, REDFIT, autoregressive integrated moving average model, and structure function analysis. Cross-correlation analysis shows that there is a strong correlation between multiband light variations, indicating that γ-ray and radio flares may originate from the same disturbance, and the distance between the emission regions of γ-ray and radio flares is calculated based on the time lag. We demonstrate that QPO arising from the non-ballistic helical jet motion driven by the orbital motion in a supermassive binary black hole is a plausible physical explanation. In this scenario, the estimated mass of the primary black hole is M ∼ 3.66 × 108–5.79 × 109 M⊙.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +77,8 @@ We performed variability analysis of the multiwavelength light curves (LCs) for 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a8</guid>
 <content:encoded><![CDATA[
-
 We study the dynamics of nuclear star clusters, the dense stellar environments surrounding massive black holes in the centers of galaxies. We consider angular momentum diffusion due to two-body scatterings among stellar objects and energy advection due to gravitational-wave emission upon interaction with the central massive black hole. Such dynamics are described by a 2D Fokker–Planck (FP) equation in energy–angular momentum space. Focusing on the transition between the diffusion-dominated region and the advection-dominated one, we utilize self-similarity to obtain a full solution for the steady-state FP equation. This solution provides the density and flux of the stellar objects in nuclear star clusters. This improves the rate estimates for extreme-mass ratio inspirals, and has interesting implications for a new class of galactic center transients called quasiperiodic eruptions.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +86,8 @@ We study the dynamics of nuclear star clusters, the dense stellar environments s
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adabe0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabe0</guid>
 <content:encoded><![CDATA[
-
 We study the impact of bar-induced noncircular motions on the derivation of galactic rotation curves (RCs) using hydrodynamic simulations and observational data from the PHANGS-ALMA survey. We confirm that noncircular motions induced by a bar can significantly bias RCs derived from the conventional tilted-ring method, consistent with previous findings. The shape of the derived RC depends on the difference in position angle (Δϕ) between the major axes of the bar and the disk in the face-on plane. For , noncircular motions produce a bar-induced “dip” feature (rise–drop–rise pattern) in the derived RC, which shows higher velocities near the nuclear ring and lower velocities in the bar region compared to the true RC (RCtrue). We demonstrate convincingly that such dip features are very common in the PHANGS-ALMA sample of barred galaxies. Hydrodynamical simulations reveal that the “dip” feature is caused by the perpendicular orientation of the gas flows in the nuclear ring and the bar; at low streamlines in the nuclear ring tend to enhance Vlos, while those in the bar tend to suppress Vlos. We use a simple “misaligned ellipses” model to qualitatively explain the general trend of RCs from the tilted-ring method (RCtilted) and the discrepancy between RCtilted and RCtrue. Furthermore, we propose a straightforward method to implement a first-order correction to the RC derived from the tilted-ring method. Our study is the first to systematically discuss the bar-induced “dip” feature in the RCs of barred galaxies by combining both simulations and observations.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +95,8 @@ We study the impact of bar-induced noncircular motions on the derivation of gala
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adace2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adace2</guid>
 <content:encoded><![CDATA[
-
 We investigate the driving mechanisms for the H i gas content in star-forming central galaxies at low redshift, by examining the H i-to-stellar mass ratio (MH i/M*) in both the state-of-the-art hydrodynamic simulations, IllustrisTNG (TNG) and EAGLE, and the xGASS sample. We quantify the correlations of MH i/M* with a variety of galaxy properties using the Random Forest regression technique, and we make comparisons between the two simulations, as well as between the simulations and xGASS. Gas-phase metallicity is found to be most important in both simulations, but is ranked mildly for xGASS, suggesting that metals and gas driven by feedback effects in real galaxies is not as tightly coupled as in the simulations. Beyond that, the accretion rate of supermassive black holes is the most important feature in TNG, while specific star formation rate is the top ranked in EAGLE. This result can be understood from the fact that the H i gas is regulated mainly by thermal-mode AGN feedback in TNG and by stellar feedback in EAGLE. Although neither simulation can fully reproduce the feature importance obtained for real galaxies in the xGASS, EAGLE performs better than TNG in the sense that the observationally top-ranked property, u − r, is also highly ranked in EAGLE. This result implies that stellar feedback plays a more dominant role than AGN feedback in driving the H i gas content of low-redshift galaxies.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,10 +104,8 @@ We investigate the driving mechanisms for the H i gas content in star-forming ce
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adadf2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadf2</guid>
 <content:encoded><![CDATA[
-
 As density increases, the shape of nuclei transitions to nonspherical “nuclear pasta” structures. The physical properties of the nuclear pasta, such as thermal conductivity and elasticity, have implications for detecting continuous gravitational waves from a rapidly rotating neutron star. In this work, we investigate the effect of the nuclear pasta on the quadruple moment, and find out that, compared with previous work, the quadrupole moment contributing to continuous gravitational-wave radiation can be up to 2 orders of magnitude larger. We also discuss the relationship between the quadruple moment and the maximum shear strain. Considering the properties of nuclear pasta, we study the detectability of known accreting neutron stars and compare predicted results to the detectable amplitude limits. These sources are well above the sensitivity curves for Cosmic Explorer and Einstein Telescope detectors. Our work advances the understanding of the properties of nuclear pasta and a possible mechanism for continuous gravitational waves.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -108,10 +113,8 @@ As density increases, the shape of nuclei transitions to nonspherical “nuclear
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adae08</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae08</guid>
 <content:encoded><![CDATA[
-
 KT Eri is a classical nova that went into outburst in 2009. Recent photometric analysis in quiescence indicates a relatively longer orbital period of 2.6 days, so that KT Eri could host a very bright accretion disk during the outburst like in the recurrent nova U Sco, the orbital period of which is 1.23 days. We reproduced the optical V light curve as well as the supersoft X-ray light curve of KT Eri in outburst, assuming a large irradiated disk during a nova wind phase of the outburst while a normal size disk after the nova winds stop. This result is consistent with the temporal variation of wide-band V brightness that varies almost with the intermediate-band Strömgren y brightness, because the V flux is dominated by continuum radiation, the origin of which is a photospheric emission from the very bright disk. We determined the white dwarf mass to be MWD = 1.3 ± 0.02 M⊙, the hydrogen-burning turnoff epoch to be ∼240 days after the outburst, the distance modulus in the V band to be (m − M)V = 13.4 ± 0.2, and the distance to KT Eri to be d = 4.2 ± 0.4 kpc for the reddening of E(B − V) = 0.08. The peak absolute V brightness is about and the corresponding recurrence time is ∼3000 yr from its ignition mass together with the mean mass-accretion rate of yr−1 in quiescence. Thus, we suggest that KT Eri is not a recurrent nova.
 ]]></content:encoded>
-
 <pubDate>2025-02-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -119,10 +122,8 @@ KT Eri is a classical nova that went into outburst in 2009. Recent photometric a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e</guid>
 <content:encoded><![CDATA[
-
 This paper presents a new statistical method that enables the use of systematic errors in the maximum-likelihood regression of integer-count Poisson data to a parametric model. The method is primarily aimed at the characterization of the goodness-of-fit statistic in the presence of the over-dispersion that is induced by sources of systematic error, and is based on a quasi-maximum-likelihood method that retains the Poisson distribution of the data. We show that the Poisson deviance, which is the usual goodness-of-fit statistic and that is commonly referred to in astronomy as the Cash statistics, can be easily generalized in the presence of systematic errors, under rather general conditions. The method and the associated statistics are first developed theoretically, and then they are tested with the aid of numerical simulations and further illustrated with real-life data from astronomical observations. The statistical methods presented in this paper are intended as a simple general-purpose framework to include additional sources of uncertainty for the analysis of integer-count data in a variety of practical data analysis situations.
 ]]></content:encoded>
-
 <pubDate>2025-02-07T00:00:00Z</pubDate>
 </item>
 <item>
@@ -130,13 +131,10 @@ This paper presents a new statistical method that enables the use of systematic 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b1f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9b1f</guid>
 <content:encoded><![CDATA[
-
 A novel model of systematic errors for the regression of Poisson data is applied to hypothesis testing of nested model components with the introduction of a generalization of the ΔC statistic that applies in the presence of systematic errors. This paper shows that the null-hypothesis parent distribution of this ΔCsys statistic can be obtained either through a simple numerical procedure, or in a closed form by making certain simplifying assumptions. It is found that the effects of systematic errors on the test statistic can be significant, and therefore the inclusion of sources of systematic errors is crucial for the assessment of the significance of the nested model component in practical applications. The methods proposed in this paper provide a simple and accurate means of including systematic errors for hypothesis testing of nested model components in a variety of applications.
 ]]></content:encoded>
-
 <pubDate>2025-02-07T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Stability and Convergence of Nuclear Detonations in White Dwarf Collisions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e3</link>
@@ -9458,153 +9456,6 @@ We report on XMM-Newton, NuSTAR, and NICER X-ray observations of CTCV J2056–30
 总结:
 研究人员使用Subaru望远镜高分辨率光谱观测了四个超亮红外星系中的气体12CO rovibrational吸收线，发现每个过渡都有两至五个明显的速度分量，表明分子环具有颗粒结构。他们还发现，最内部的组分是以∣VLOS∣∼160-240公里/秒的速度流出，而外部组分则以更慢的速度流出或者向内落入。此外，他们观察到光谱线的性质表明最内部的组分可能是由密度较高的热颗粒组成，而外部组分则是由背景辐射激发的冷颗粒组成。这些观测结果揭示了星系核周围分子环的颗粒状和动态结构。 <div>
 Determining the inner structure of the molecular torus around an active galactic nucleus is essential for understanding its formation mechanism. However, spatially resolving the torus is difficult because of its small size. To probe the clump conditions in the torus, we therefore perform the systematic velocity-decomposition analyses of the gaseous 12CO rovibrational absorption lines (v = 0 → 1, ΔJ = ±1) at λ ∼ 4.67 μm observed toward four (ultra)luminous infrared galaxies using the high-resolution (R ∼ 5000–10,000) spectroscopy from the Subaru Telescope. We find that each transition has two to five distinct velocity components with different line-of-sight (LOS) velocities (VLOS ∼ −240 to +100 km s−1) and dispersions (σV ∼ 15–190 km s−1), i.e., the components (a), (b), ⋯, beginning with the broadest one in each target, indicating that the tori have clumpy structures. By assuming a hydrostatic disk ( ), we find that the tori has dynamic inner structures, with the innermost component (a) outflowing with velocity ∣VLOS∣ ∼ 160–240 km s−1, and the outer components (b) and (c) outflowing more slowly or infalling with ∣VLOS∣ ≲ 100 km s−1. In addition, we find that the innermost component (a) can be attributed to collisionally excited hot (≳530 K) and dense ( ) clumps, based on the level populations. Conversely, the outer component (b) can be attributed to cold (∼30–140 K) clumps radiatively excited by a far-infrared-to-submillimeter background with a brightness temperature higher than ∼20–400 K. These observational results demonstrate the clumpy and dynamic structure of tori in the presence of background radiation.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Measurements of the Reaction Rate Coefficients of Atomic Hydrogen with Astrochemical Anions: CN− and C3N−</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad808b</guid>
-<content:encoded><![CDATA[
-<div> 关键词: CN−, C3N−, atomic hydrogen, reaction rate coefficients, temperature-dependent
-
-总结: 
-本研究通过在16极射频离子陷阱中测量，展示了CN-和C3N-与原子氢的温度相关反应速率系数，在7至290K的温度范围内。C3N-与H的反应速率随着温度降低而稳步增加，而CN-+H系统的速率系数在约160K时突然改变。对数据进行拟合以确定温度相关的反应速率系数。拟合结果显示C3N-+H的速率系数为cm3 s-1。对于CN-，我们在160K以下温度范围内确定了cm3 s-1的速率系数。根据我们目前的结果，在模拟涉及这些H原子反应的冷星际环境时，必须假定比先前报告的更高的速率系数。<br /><br /> <div>
-We present the temperature-dependent reaction rate coefficients of CN− and C3N− with atomic hydrogen in the temperature range from 7 to 290 K, measured in a 16-pole radio-frequency ion trap. The rate of C3N− with H steadily increases toward lower temperatures, while the rate coefficients for the CN− + H system show a sudden change around 160 K. Fits to the data were performed to determine temperature-dependent reaction rate coefficients. The fits reveal a rate coefficient of cm3 s−1 for C3N− + H. For CN−, we determined a rate coefficient for the temperature regime below 160 K of cm3 s−1. Given our present results, higher rate coefficients than previously reported must be assumed for the modeling of cold interstellar environments involving these H atom reactions.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Luminosity Evolution of the Hot Gas in Normal Galaxies from the Near Universe to z = 0.5</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8229</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8229</guid>
-<content:encoded><![CDATA[
-<div> X-ray luminosity functions, hot gas, redshift evolution, normal galaxies, missing baryon problem
-<br /><br />
-本文研究了普通星系中约107K的热气体在红移z=0.5（回溯时间=5Gyr）时的演变，利用来自五个高银纬Chandra广域调查中检测到的575个红移z<0.6的普通星系样本构建了X射线光度函数（XLFs）。在估计了热气体成分的发射量后（约减样本至400个星系），我们比较了三个红移区间（z=0.1，0.3和0.5）的XLF，发现每单位共动体积内的星系数量从z=0.1到0.3，然后从z=0.3到0.5有所增加。这些XLF变化表明了热气体的显著（约5σ）X射线光度演变，其LX,GAS在过去5Gyr（从z=0.5到0.1）下降了6-10倍。更高红移处LX,GAS约为1041erg/s的星系的相对丰度表明，高红移、中等LX,GAS的星系可能是解决缺失重子问题的最佳目标。在早型星系中，这一观测趋势在定性上与（但更大于）无活动星系核反馈的冷却流模型中预期的时间依赖质量损失率一致。在晚型星系中，这一观测趋势也与（但更大于）z相关星形成率的影响在定性上一致。<br /><br />总结: 本文通过研究X射线光度函数揭示了普通星系中热气体的演化规律，发现了热气体的X射线光度演变趋势，并提出高红移、中等X射线光度星系可能是解决缺失重子问题的重要目标。同时，本研究还发现了与现有理论模型一致但更大的演化趋势。 <div>
-We explore the evolution of the ∼107 K hot gas in normal galaxies out to redshift = 0.5 (lookback time = 5 Gyr), using X-ray luminosity functions (XLFs) built from a sample of 575 normal galaxies with z < 0.6 detected in five high-galactic-latitude Chandra wide-field surveys. After estimating the emission due to the hot gas component (reducing the sample to ∼400 galaxies), we compared the XLF in three redshift bins (z = 0.1, 0.3, and 0.5), finding increases in the number of galaxies per unit comoving volume from z = 0.1 to 0.3 and then from z = 0.3 to 0.5. These XLF changes suggest a significant (∼5σ) X-ray luminosity evolution of the hot gas, with LX,GAS decreasing by a factor of 6–10 in the last 5 Gyr (from z = 0.5 to 0.1). The relative abundance of LX,GAS ∼ 1041 erg s−1 galaxies at higher z suggests that high-z, moderate-LX,GAS galaxies may be the optimal target to solve the missing baryon problem. In early-type galaxies, this observational trend is qualitatively consistent with (but larger than) the expected time-dependent mass-loss rate in cooling flow models without active galactic nucleus feedback. In late-type galaxies, the observational trend is also qualitatively consistent with (but larger than) the effect of the z-dependent star formation rate.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>High Spectral Resolution Observations of Propynal (HCCCHO) toward TMC-1 from the GOTHAM Large Program on the GBT</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad856e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad856e</guid>
-<content:encoded><![CDATA[
-<div> 高光谱分辨率、TMC-1、频率匹配、马尔可夫蒙特卡罗分析、分子浓度
-
-更新了HCCCHO的谱线目录，提供了与实验数据一致的天文观测频率。发现了HCCCHO的浓度远高于以往研究报道的值，而激发温度却很低。需要谨慎使用公开的谱线目录对天文光谱进行表征，这对现代天文设施的成功至关重要，随着下一代设施的上线将变得更加重要。<br /><br />总结: 通过新的高光谱分辨率观测和实验数据，在TMC-1天体观测中更新了HCCCHO的谱线目录，揭示了其高浓度和低激发温度的重要性，并强调了对公开谱线目录的谨慎使用。 <div>
-We used new high spectral resolution observations of propynal (HCCCHO) toward TMC-1 and in the laboratory to update the spectral line catalog available for transitions of HCCCHO—specifically at frequencies lower than 30 GHz, which were previously discrepant in a publicly available catalog. The observed astronomical frequencies provided a high enough spectral resolution that, when combined with high-resolution (∼2 kHz) measurements taken in the laboratory, a new, consistent fit to both the laboratory and astronomical data was achieved. Now with a nearly exact (<1 kHz) frequency match to the J = 2–1 and 3–2 transitions in the astronomical data, using a Markov Chain Monte Carlo analysis, a best fit to the total HCCCHO column density of cm−2 was found with a surprisingly low excitation temperature of just over 3 K. This column density is around a factor of 5 times larger than reported in previous studies. Finally, this work highlights that care is needed when using publicly available spectral catalogs to characterize astronomical spectra. The availability of these catalogs is essential to the success of modern astronomical facilities and will only become more important as the next generation of facilities comes online.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The First Catalog of Candidate White Dwarf–Main-sequence Binaries in Open Star Clusters: A New Window into Common Envelope Evolution</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7500</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7500</guid>
-<content:encoded><![CDATA[
-<div> 白矮星，主序星，共同包层演化，星团，机器学习<br />
-<br />
-通过对299个银河系开放星团进行系统搜索，研究人员利用盖亚DR3光度和运动学数据以及Pan-STARRS1和Two Micron All Sky Survey的多波段光度，采用基于机器学习的方法找到了38个星团中52对高概率的白矮星和主序星的候选系统。研究人员进行了后续光谱学观测和归档光变曲线分析，发现了M型矮星和热伴侣的例子，以及一些系统的规律性变化。候选系统的运动学与它们所在的星团一致，但一些系统的空间位置与它们所在的星团有偏移，可能是新星诞生时的反冲速度。最终，这个目录是获得一组观测基准的第一步，以更好地将共同包层系统与它们的前体联系起来。<br /><br />总结: 通过对银河系开放星团进行搜索，研究人员发现了一些高概率的白矮星和主序星候选系统，并进行了后续的观测和分析。这些系统的运动学表现与它们所在的星团相符，但有些系统的空间位置与它们所在的星团有所偏移，可能是由新星诞生时的反冲速度导致的。这个研究是为了更好地理解共同包层系统和它们的前体而进行的首次尝试。 <div>
-Close binary systems are the progenitors to both Type Ia supernovae and the compact object mergers that can be detected via gravitational waves. To achieve a binary with a small radial separation, it is believed that the system likely undergoes common envelope (CE) evolution. Despite its importance, CE evolution may be one of the largest uncertainties in binary evolution due to a combination of computational challenges and a lack of observed benchmarks where both the post-CE and pre-CE conditions are known. Identifying post-CE systems in star clusters can partially circumvent this second issue by providing an independent age constraint on the system. For the first time, we conduct a systematic search for white dwarf and main-sequence binary systems in 299 Milky Way open star clusters. Coupling Gaia DR3 photometry and kinematics with multiband photometry from Pan-STARRS1 and the Two Micron All Sky Survey, we apply a machine learning-based approach and find 52 high-probability candidates in 38 open clusters. For a subset of our systems, we present follow-up spectroscopy from the Gemini and Lick Observatories and archival light curves from the Transiting Exoplanet Survey Satellite, Kepler/K2, and the Zwicky Transient Facility. Examples of M dwarfs with hot companions are spectroscopically observed, along with regular system variability. While the kinematics of our candidates are consistent with their host clusters, some systems have spatial positions offset relative to their hosts, potentially indicative of natal kicks. Ultimately, this catalog is a first step to obtaining a set of observational benchmarks to better link post-CE systems to their pre-CE progenitors.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>KBSS-InCLOSE. I. Design and First Results from the Inner Circumgalactic Medium of QSO Line-of-sight Emitting Galaxies at z ∼ 2–3 *</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad70b6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad70b6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: CGM, 谱线发射星系, 星际介质(ISM), 星系尺度介质循环, Keck Baryonic Structure Survey (KBSS)
-
-文章总结: <br /><br />这篇文章介绍了Keck Baryonic Structure Survey (KBSS)-InCLOSE研究的设计和首次结果。该研究旨在通过观测恒星质量、星际介质金属丰度等星系特性与内部星系尺度介质(CGM)的物理条件(如动力学和金属丰度)的关联性，直接观测星系尺度的重子循环。研究利用Keck/KCWI光学IFU对KBSS QSO进行深入点测，发现了超过15个新的谱线发射星系，并使用MOSFIRE进行了两个星系的近红外光谱确认。研究发现这两个星系具有不同的质量和发射性质，并通过对其中性相CGM和电离ISM进行分析，得出了各自的金属丰度、尘埃消光、高电离CGM等特性。这些结果支持了金属和尘埃从外流驱入CGM的假设，并且将全面探索这些情景。 <br /> <div>
-We present the design and first results of the inner circumgalactic medium (CGM) of QSO line-of-sight emitting galaxies at z ∼ 2–3, Keck Baryonic Structure Survey (KBSS)-InCLOSE. The survey will connect galaxy properties (e.g., stellar mass M*, interstellar medium, hereafter ISM, metallicity) with the physical conditions of the inner CGM (e.g., kinematics, metallicity) to directly observe the galaxy-scale baryon cycle. We obtain deep Keck/KCWI optical IFU pointings of KBSS QSOs to discover new star-forming galaxies at small projected distances b ≲ 12″ (98 kpc, ), then obtain follow-up Keck/MOSFIRE near-IR spectra to confirm their redshifts. We leverage KBSS images and Keck/High Resolution Echelle Spectrometer QSO spectra to model stellar populations and inner CGM absorption. In this paper, we analyze two QSO fields and discover more than 15 new galaxies with KCWI, then use MOSFIRE for two galaxies Q2343-G1 (z = 2.43; G1) and Q2233-N1 (z = 3.15; N1), which are both associated with damped Lyα absorbers. We find that G1 has typical M*, UV/optical emission properties. N1 has lower M* with very strong nebular emission. We jointly analyze neutral phase CGM and ionized ISM in N/O (for the first time at this z), dust extinction, and high-ionization CGM finding that G1's CGM is metal poor and less evolved than its ISM, while N1's CGM and ISM abundances are comparable; their CGM shows ∼1 dex less dust extinction than the ISM; and G1's CGM has direct evidence of hot, metal-rich galactic outflow ejecta. These findings support that metals and dust are driven into the CGM from outflows, but may also be, e.g., stripped ISM gas or satellite enrichment. The full KBSS-InCLOSE sample will explore these scenarios.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Spectrophotometric Reverberation Mapping of Intermediate-mass Black Hole NGC 4395</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7fe1</guid>
-<content:encoded><![CDATA[
-<div> NGC 4395, black hole mass, Spectrophotometric reverberation monitoring, Devasthal fast optical telescope, Eddington ratio
-<br /><br />总结:
-NGC 4395是一个低亮度的Seyfert 1星系，通过使用Devasthal快速光学望远镜和Devasthal光学望远镜，进行了光谱光度学反演监测，以测量其宽线区域和黑洞质量。研究发现，在合并的5100 Å的光谱连续波束（f5100）与光度连续V波段和Hα的光线曲线中存在强烈的发射线，分别为6.38%和6.31%的分数变异性。通过ICC和JAVELIN方法，计算的Hα滞后超过了先前研究的90分钟，黑洞质量约为10^5太阳质量，Eddington比率为0.06。 <div>
-Understanding the origins of massive black hole seeds and their coevolution with their host galaxy requires studying intermediate-mass black holes (IMBHs) and estimating their mass. However, measuring the masses of these IMBHs is challenging, due to the high-spatial-resolution requirement. Spectrophotometric reverberation monitoring is performed for a low-luminosity Seyfert 1 galaxy, NGC 4395, to measure the size of the broad-line region and black hole mass. The data were collected using the 1.3 m Devasthal fast optical telescope and 3.6 m Devasthal optical telescope at ARIES, Nainital, over two consecutive days in 2022 March. The analysis revealed strong emission lines in the spectra and light curves of the merged 5100 Å spectroscopic continuum flux (f5100) with the photometric continuum V band and Hα, with fractional variabilities of 6.38% and 6.31% respectively. In comparison to several previous studies with lag estimation <90 minutes, our calculated Hα lag supersedes them by minutes, using the ICCF and JAVELIN methods. The velocity dispersion (σline) of the broad-line clouds is measured to be km s−1, yielding a black hole mass of ∼ and an Eddington ratio of 0.06.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Effect of Anisotropic Energy Injection on the Ejecta Emission</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad81f4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad81f4</guid>
-<content:encoded><![CDATA[
-<div> 磁星；能量注入；各向异性；喷流；光度曲线
-
-总结:
-磁星能量注入模型在考虑磁偶极辐射和喷流成分的一致性下得出结论，对赤道方向的观测者来说，喷流对射流体的影响不大，但对射流轴观测者来说，光度曲线有显著差异，特别是在光学/U波段。如果系统中存在喷流，对光学/U波段光度曲线的峰值会有影响，揭示了磁星能量输出和喷流成分对射流发射的影响。 光学/U波段光度曲线可能揭示了爆发的中心引擎。 <div>
-A rapidly rotating magnetar has long been assumed to inject energy into the ejecta through isotropic output energy in previous works. However, the output energy of a magnetar is anisotropic and a jet is generally presented in the rotational direction of a magnetar. In this paper, we present a consistent model of the energy injection from a magnetar, considering both the anisotropic magnetic dipole radiation and the jet’s ingredient (i.e., the late jet mentioned refers to the beamed magnetars wind). In the situation that the energy injection into the ejecta presents a significant effect on the ejecta’s emission, two facts are obtained. (1) For an observer in the equatorial direction, there is no significant difference between the light curves of the ejecta’s emission based on the consistent model and those obtained in previous works (i.e., based on the isotropic energy injection). (2) For an on jet-axis observer, however, the difference is significant, especially in the optical/U-band. If the jet is not present in the system, the rise of the optical/U-band light-curve is actually steeper than that in previous works because the output energy of the anisotropic magnetic dipole radiation is mainly in the equatorial direction. If the jet is present in the system, a bump from the cocoon (i.e., the late jet launch is expected to shock and heat-up the ejecta) may only appear in the optical/U-band light curve for a quasi-isotropic ejecta. Our results reveal that the anisotropic energy output of the magnetic dipole radiation and the jet’s ingredient should be well considered in modeling the ejecta emission by considering the energy injection from a magnetar. In addition, the optical/U-band light-curve may disclose the central engine of the burst.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Importance of Ambipolar Heating in the Standard Thin Accretion Disk with Outflows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad822b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad822b</guid>
-<content:encoded><![CDATA[
-<div> 磁流体动力学方程, 薄型吸积盘, 双极扩散, 热效应, 外流<br />
-<br />
-该研究分析了薄型吸积盘的中部和外部区域中双极扩散的热效应的重要性。通过考虑吸积盘中这些区域的动力和热影响, 推导了非理想磁流体动力学方程。在静止状态下, 利用自相似技术分析了带外流的盘的垂直结构, 并将双极扩散率表达为阿尔芬速度和艾尔萨瑟数。研究重点是盘的大半径处的垂直温度分布, 当艾尔萨瑟数的值较小时。研究结果表明, 双极扩散加热对盘内影响较小, 但在盘表面起到了关键作用。当艾尔萨瑟数较小时, 外流和盘蒸发的速率显着增加, 导致这些区域的角动量传输。当降低湍流粘度值时, 这个问题变得重要起来, 因为它突显了双极扩散加热效应。这使得表面区域变得更热, 并导致外流的驱动增加。这项研究的结果可能对研究薄型吸积盘的中部和外部区域的盘冠和盘解散具有重要意义。<br /><br />总结: 研究分析了薄型吸积盘中双极扩散的热效应, 发现在盘内影响较小, 但在盘表面起着关键作用。当艾尔萨瑟数较小时, 外流和盘蒸发的速率增加, 导致角动量传输。降低湍流粘度值会突显双极扩散加热效应, 使得表面区域变得更热, 外流驱动增加。这对研究薄型吸积盘的中部和外部区域的盘冠和盘解散具有重要意义。 <div>
-This study examines the importance of the thermal effects of ambipolar diffusion (AD), by analyzing the governing properties in the middle and outer regions of a standard thin accretion disk with outflows. To accomplish this, we derive the nonideal magnetohydrodynamic equations, considering both the dynamical and thermal impacts of AD in these regions of the disk. In a stationary state, we utilize the self-similar technique to analyze the vertical structure of a disk with outflows and express the ambipolar diffusivity in terms of the Alfvén velocity and the Elsässer number. Our main focus is on the vertical temperature profile at large radii of the disk when the values of the Elsässer number are small. While the findings indicate that AD heating has minimal effects within the disk, it does play a critical role near the disk surface. When the Elsässer number is low, there is a notable rate of outflows and disk evaporation, resulting in angular momentum transport in these regions. This issue becomes important when we decrease the value of turbulent viscosity, as it leads to highlighting the AD heating effect. This allows the surface regions to become hotter and results in an increase in the drive of the outflows. The results of this research may be important for studying disk coronae and disk dispersal in the middle and outer regions of the thin accretion disk.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Quijote-PNG: Optimizing the Summary Statistics to Measure Primordial Non-Gaussianity</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bd</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83bd</guid>
-<content:encoded><![CDATA[
-<div> summary, estimators, non-Gaussianity, cosmological scales, deep neural networks
-总结:
-本研究使用了一系列不同的估计器来约束非高斯性，包括功率谱、三点相关函数、星系团质量函数、标记功率谱和标记三点相关函数等摘要统计量。我们进行了费歇尔分析，估计了它们的宇宙信息内容，并表明当标记观测量加入分析时有显著的改进。然后，我们使用深度神经网络进行对宇宙和非高斯参数的无似然推断。最后，我们发现在分析中，功率谱和合适的标记功率谱的组合优于功率谱和三点相关函数的组合。可以实施一个最小的管道来分析我们确定的统计量，无论是使用我们的机器学习算法还是更可靠的传统估计器。 <div>
-We apply a suite of different estimators to the Quijote-png halo catalogs to find the best approach to constrain Primordial non-Gaussianity (PNG) at nonlinear cosmological scales, up to . The set of summary statistics considered in our analysis includes the power spectrum, bispectrum, halo mass function, marked power spectrum, and marked modal bispectrum. Marked statistics are used here for the first time in the context of the PNG study. We perform a Fisher analysis to estimate their cosmological information content, showing substantial improvements when marked observables are added to the analysis. Starting from these summaries, we train deep neural networks to perform likelihood-free inference of cosmological and PNG parameters. We assess the performance of different subsets of summary statistics; in the case of , we find that a combination of the power spectrum and a suitable marked power spectrum outperforms the combination of power spectrum and bispectrum, the baseline statistics usually employed in PNG analysis. A minimal pipeline to analyze the statistics we identified can be implemented either with our ML algorithm or via more traditional estimators, if these are deemed more reliable.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Reverberation Mapping of High-mass and High-redshift Quasars Using Gravitational Time Delays</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8441</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8441</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 黑洞, 辐射映射, 高质量, 强引力透镜, 星系团
-
-总结:
-本研究利用星系团透镜的时间延迟分布，估计了数十万至数百万个质量约10^6-10^8太阳质量的高红移（z > 4）宽线型AGN可能会被星系团进行多重成像。这些AGN可通过JWST在整个天空范围内进行检测，数百个可通过Euclid检测，数千个可通过罗马太空望远镜检测。这些结果可为早期宇宙中的BH质量标定提供重要参考。<br /><br /> <div>
-Mass estimates of black holes (BHs) in the centers of active galactic nuclei (AGNs) often rely on the radius–luminosity relation. However, this relation, usually probed by reverberation mapping (RM), is poorly constrained in the high-luminosity and high-redshift ends due to the very long expected RM lag times. Multiply imaged AGNs may offer a unique opportunity to explore the radius–luminosity relation at these ends. In addition to comprising several magnified images enabling a more efficient light-curve sampling, the time delay between multiple images of strongly lensed quasars can also aid in making such RM measurements feasible on reasonable timescales: if the strong-lensing time delay is, for example, of the order of the expected RM time lag, changes in the emission lines in the leading image can be observed around the same time as the changes in the continuum in the trailing image. In this work we probe the typical time-delay distribution in galaxy-cluster lenses and estimate the number of both high-mass (∼109−1010M⊙) and high-redshift (z ≳ 4−12) quasars that are expected to be strongly lensed by clusters. We find that up to several tens of thousands of MBH ∼ 106–108M⊙ broad-line AGNs at z > 4 should be multiply imaged by galaxy clusters and detectable with JWST, hundreds with Euclid, and several thousand with the Roman Space Telescope, across the whole sky. These could supply an important calibration for the BH mass scaling in the early Universe.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A New IW And-type Star: Karachurin 12 with Tilted Disks and Diverse Cycles</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8446</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8446</guid>
-<content:encoded><![CDATA[
-<div> 关键词: IW And-type, cataclysmic variables, Karachurin 12, negative superhump, tilted disks
-
-IW And型现象在灾变变星中呈现出显著挑战，特别是在Karachurin 12的研究中发现了新的非食IW And型对象。研究表明Karachurin 12是一个倾斜盘的负超喷发系统，具有不同的周期模式，其中负超喷发振幅在周期内变化。这些发现为研究倾斜盘和IW And型现象提供了新的见解。现有的质量传输突发模型难以解释观测到的负超喷发振幅变化，而倾斜的热不稳定盘模型虽然指出了与IW And型现象可能的关联，但也难以解释Karachurin 12的详细变化。因此，需要考虑更广泛的因素来充分理解Karachurin 12的复杂变化。<br /><br />总结: IW And型现象在灾变变星中构成挑战，Karachurin 12被确认为新的非食IW And型物体，具有负超喷发，倾斜盘等特征。现有模型难以完全解释Karachurin 12的观测结果，需要考虑更广泛的因素。 <div>
-The IW And-type phenomenon in cataclysmic variables presents a significant challenge to the accretion disk instability model. Using photometric data from the All-Sky Automated Survey for Supernovae, the Zwicky Transient Facility, and the Transiting Exoplanet Survey Satellite, we identify Karachurin 12 as a new noneclipsing IW And-type object with a cycle period of 35.69(3) days. We also report for the first time that Karachurin 12 is a negative superhump (NSH) system featuring precessing tilted disks, with precession, orbital, and NSH periods of 4.9588(2) days, 0.3168895(13) days, and 0.2979861(8) days, respectively. Our analysis, using dips as the index and NSHs as the probe, reveals diverse cycle patterns in Karachurin 12, with NSH amplitude varying throughout the cycle. These findings offer new insights for studying tilted disks and the IW And-type phenomenon. The mass-transfer burst model has difficulty explaining the observed variations in NSH amplitude, especially given the uncertainty surrounding the origin of the mass-transfer burst. Meanwhile, the tilted thermally unstable disk model indicates a possible connection to the IW And-type phenomenon, but it also struggles to account for the detailed variations in Karachurin 12. Therefore, a wider range of factors must be considered to fully understand the complex changes in Karachurin 12.
-]]></content:encoded>
-<pubDate>2024-11-15T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Light Echoes of Protoplanetary Disks</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc1</guid>
-<content:encoded><![CDATA[
-<div> 光回声, 环形盘, 原行星盘, 几何, 成分 
-
-光回声是研究原行星盘的一种方法，即使在空间上不能被分辨出时，也可以研究其几何形状和成分。这篇文章针对活跃恒星周围的光学厚、几何膨胀的盘进行了光回声方法的测试。研究使用了活跃M型矮星的恒星参数来计算盘和环的光回声，这些环的半径能产生与TESS短周期（约2分钟）时间段一致的时间延迟。结果显示成功拟合了盘的参数，突显了这种方法在搜索原行星盘方面的潜在效力。 <br /><br />总结: 光回声是一种研究原行星盘的方法，文中通过对活跃恒星周围光学厚、几何膨胀的盘进行了光回声测试，成功拟合了盘的参数，表明了这种方法在搜索原行星盘方面的潜在效力。 <div>
-Light echoes offer a means of studying protoplanetary disks, including their geometry and composition, even when they are not spatially resolved. We present a test of this approach applied specifically to optically thick, geometrically flared disks around active stars. Here we adopt stellar parameters of an active M dwarf to calculate light echoes for disks and rings with radii that would produce time delays consistent with TESS short cadence (about 2 minutes) time bins. Our results show successful fits to disk parameters, highlighting the potential effectiveness of this method in the search for protoplanetary disks.
 ]]></content:encoded>
 <pubDate>2024-11-15T00:00:00Z</pubDate>
 </item>
