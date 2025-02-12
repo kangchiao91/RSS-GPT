@@ -4,6 +4,105 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>The Secondary Component of the Extremely Low Mass Ratio Massive Binary HD 165246 Revealed by GHOST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada892</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada892</guid>
+<content:encoded><![CDATA[
+
+In the pursuit of understanding the multiplicity of massive stars, the OWN Survey has undertaken spectroscopic monitoring of hundreds of targets over the past 20 yr. This effort has led to the discovery of new single-lined spectroscopic binaries. Characterizing the unseen companions of these systems is crucial to deriving precise stellar parameters, including the mass of each component, and constraining formation models for massive binary systems. In this paper, we aim to physically and evolutionarily characterize the stellar components of the massive binary HD 165246. We analyzed spectra obtained by the OWN Survey and used Kepler's second mission (K2) photometry, from which we determined the physical parameters of the system. Thanks to the high-resolution capabilities of the new echelle spectrograph Gemini/GHOST, we could directly detect spectral features of the secondary component for the first time. A very low mass ratio for the system is confirmed (q ~ 0.16), making this binary one of the few extremely low mass ratio systems known. The primary star has a mass of Ma = 22 ± 1 M⊙ and a radius of Ra = 7.0 ± 0.1 R⊙, while the secondary star has a mass of Mb = 3.4 ± 0.1 M⊙ and a radius of Rb = 2.22 ± 0.02 R⊙. Stellar evolution models indicate that the system has undergone approximately two million years of evolution since its formation. Moreover, the secondary star is identified as a pre-main-sequence object, progressing toward the zero-age main sequence. This paper illustrates the power of high-resolution spectrographs such as GHOST in finding much lower mass, previously unseen stellar components of binary star systems.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Improved SED-fitting Assumptions Result in Inside-out Quenching at z ~ 0.5 and Quenching at All Radii Simultaneously at z ~ 1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a2</guid>
+<content:encoded><![CDATA[
+
+Many studies conclude that galaxies quench from the inside-out by examining profiles of specific star formation rate (sSFR). These are usually measured by fitting spectral energy distributions (SEDs) assuming a fixed dust law and uniform priors on all parameters. Here, we examine the effects of more physically motivated priors: a flexible dust law, an exponential prior on the dust attenuation AV, and Gaussian priors that favor extended star formation histories. This results in model colors that better trace observations. We then perform radial SED fits to multiband flux profiles measured from Hubble Space Telescope images for 1440 galaxies at 0.4 < z < 1.5 of stellar masses 1010–1011.5M⊙ using both the traditional and the more physically motivated assumptions. The latter results in star formation rate and AV profiles that agree with measurements from spectroscopy and AV profiles that behave correctly as a function of inclination. Since green valley galaxies at z ∼ 1.3 are expected to evolve into quiescent galaxies at z ∼ 0.9, we compare their sSFR profiles using the more physically motivated assumptions. Their slopes are similar at all masses (0.06–0.08 dex kpc−1), and the normalizations for the quiescent galaxies are lower. Therefore, the sSFR profiles decline with time as quenching occurs at all radii simultaneously. We compare profiles of green valley galaxies at z ∼ 0.9 and quiescent galaxies at z ∼ 0.5. The former are shallower at all masses by ~0.1 dex kpc−1. The sSFR profiles steepen with time as galaxies quench from the inside-out. In summary, galaxies at z ∼ 1 quench at all radii simultaneously while galaxies at z ∼ 0.7 quench from the inside-out.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Bayesian Pulsar Timing and Noise Analysis with Vela.jl: An Overview</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaec</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaaec</guid>
+<content:encoded><![CDATA[
+
+We present Vela.jl, an efficient, modular, easy-to-use Bayesian pulsar timing and noise analysis package written in Julia. Vela.jl provides an independent, efficient, and parallelized implementation of the full nonlinear pulsar timing and noise model along with a Python binding named pyvela. One-time operations such as data file input, clock corrections, and solar system ephemeris computations are performed by pyvela with the help of the PINT pulsar timing package. Its reliability is ensured via careful design utilizing Julia's type system, strict version control, and an exhaustive test suite. This paper describes the design and usage of Vela.jl focusing on the narrowband paradigm.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Search for Neutrino Signals Correlated with LHAASO Diffuse Galactic Emission</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabe8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabe8</guid>
+<content:encoded><![CDATA[
+
+The diffuse Galactic γ-ray emission originates from the interactions between cosmic rays and the interstellar medium or radiation fields within our Galaxy, where the production of neutrinos is also anticipated. Recently, the Large High Altitude Air Shower Observatory (LHAASO) reported measurements of diffuse γ-rays from the Galactic plane with energies ranging from sub-TeV to 1 PeV. Using 7 yr of publicly available IceCube track data with the full detector, we conduct a template search using the γ-ray flux map observed by LHAASO-KM2A as the neutrino emission template and perform a scan search of the Galactic plane. In the template search, a mild excess of neutrinos is observed in the Galactic plane with a pretrial (posttrial) significance of 1.9σ (1.1σ). The measured muon neutrino intensity at 25 TeV is , consistent with the expected neutrino flux assuming that all the diffuse Galactic γ-rays originate from hadronic interactions. In the Galactic plane scan search, the most significant location is found at l = 63 57 and b = 0 93 with a pretrial (posttrial) significance of 4.6σ (1.8σ).
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Toward High-order Solar Corona Simulations: A High-order Hyperbolized Poisson Approach for Magnetic Field Initialization</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adace5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adace5</guid>
+<content:encoded><![CDATA[
+
+Proper initialization of the solar corona magnetic field is important for easing the iterative process of realistic and efficient global magnetohydrodynamics (MHD) simulations. This study introduces a high-order flux reconstruction (FR) framework for solving the Poisson equation, a necessary step for computing a potential-field source-surface (PFSS) to initialize the magnetic field for global solar corona simulations with MHD. By hyperbolizing the elliptic Poisson equation into a set of hyperbolic equations, we develop an efficient and robust high-order PFSS solver. Our contributions include developing a Q2 (i.e., quadratic) geometrical representation using prismatic elements for the computational domain, which enables high-order mesh generation. Such a hyperbolized Poisson solver effectively relaxes magnetic fields extrapolated from solar magnetograms, producing scalar potential fields that align well with theoretical expectations. Extensive verification was conducted on the high-order FR solver for polynomial orders up to P3, achieving fourth-order spatial accuracy. The hyperbolized solver demonstrates comparable accuracy to reference solutions (both analytical and numerical) while offering efficient performance, particularly on coarser meshes, making it competitive with state-of-the-art low-order finite volume solvers, which are mostly used for solar MHD simulations. The described developments are a milestone for enabling high-order global solar corona simulations on 3D unstructured grids.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>ASKAP Observations of the Radio Shell in the Composite Supernova Remnant G310.6-1.6</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adad66</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad66</guid>
+<content:encoded><![CDATA[
+
+We report the observations of the radio shell of the supernova remnant (SNR) G310.6–1.6 at 943 MHz from the Evolutionary Map of the Universe (EMU) and the Polarization Sky Survey of the Universe’s Magnetism (POSSUM) surveys by using the Australian Square Kilometre Array Pathfinder (ASKAP). We detect polarized emission from the central pulsar wind nebula (PWN) with rotation measures varying from –696 rad m−2 to –601 rad m−2. We measure the integrated flux density of the shell to be 36.4 ± 2.2 mJy at 943 MHz and derive a spectral index of αpwn = −0.4 ± 0.1 for the PWN and αshell = −0.7 ± 0.3 for the SNR shell. From the combined radio and X-ray observations, the object can be identified as a supernova explosion of about 2500 yr ago with an energy of about 1.3 × 1050 erg, suggesting an ejected mass of about 10 M⊙. The circular radio shell outside the circular hard X-ray shell is unique among Galactic SNRs. We discuss several possible scenarios, including blast wave, reverse shock, and pulsar-fed emission, but find that none of them can fully explain the observed characteristics of the shell. This poses a challenge for understanding the evolution of SNRs. The results of this paper demonstrate the potential of the ASKAP EMU and POSSUM surveys to discover more objects of small angular size and low surface brightness.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Comprehensive Study of Type I (Thermonuclear) Bursts in the New Transient SRGA J144459.2–604207</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adadee</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadee</guid>
+<content:encoded><![CDATA[
+
+We report an analysis of Insight-HXMT observations of the newly discovered accreting millisecond pulsar SRGA J144459.2–604207. During the outburst, detected in 2024 February by SRG/ART-XC, the broadband persistent spectrum was well fitted by an absorbed Comptonization model. We detected 60 type I X-ray bursts in the Insight-HXMT medium energy (ME) data, and 37 were also detected with the low-energy (LE) telescope. By superimposing the Insight-HXMT/LE/ME/HE light curves of 37 bursts with similar profiles and intensities, we measured a deficit of X-rays in the 40–70 keV energy band. By analyzing the time-resolved X-ray burst spectra, we determine the mean ratio of persistent to burst flux ofα = 71 ± 7. We estimate the average hydrogen mass fraction in the fuel at ignition, as , and constrain the burst fuel composition as X0 ≲ 0.4. We found that 14 out of 60 X-ray bursts exhibited photospheric expansion, and thus we estimated the distance to the source as 10.03 ± 0.71 kpc. Combined with IXPE observations, the burst recurrence time increased from 1.55 to 8 hr as the local mass accretion rate decreased, which can be described as .
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Detection of the Extended γ-Ray Emission around TeV Source 1LHAASO J0249+6022 with Fermi-LAT</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adadfc</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadfc</guid>
+<content:encoded><![CDATA[
+
+1LHAASO J0249+6022 is an extended very-high-energy γ-ray source discovered by the Large High-Altitude Air Shower Observatory. Based on nearly 16.1 yr of data from the Fermi Large Area Telescope, we report the probable γ-ray emission from 1LHAASO J0249+6022 in the 0.03–1 TeV energy range. The results show that its γ-ray spectrum can be well fitted by a single power law with an index of 1.54 ± 0.17, and integral photon flux is (4.28 ± 1.03) × 10−11 photons cm−2 s−1. We also considered theoretically whether the nonthermal emission could originate from a pulsar wind nebula (PWN) scenario. Assuming that the particles injected into the nebula have a power-law distribution, the resulting spectrum from the inverse Compton scattering is consistent with the detected GeV and TeV γ-ray fluxes. Our study shows that the PWN scenario is reasonable for 1LHAASO J0249+6022.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Detection Rate of Associated Mg ii Absorption Lines in Quasars Depends on Their Radio Emission</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaea2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaea2</guid>
+<content:encoded><![CDATA[
+
+In active galactic nuclei, jet-driven feedback plays a significant role in influencing the properties of gas within their host galaxy and the circumgalactic medium. By combining observations from the Very Large Array Sky Survey, the Faint Images of the Radio Sky at Twenty-cm, the LOFAR Two Meter Sky Survey, and the Sloan Digital Sky Survey (SDSS), we assembled a sample of 3141 radio-loud quasars, among which 418 exhibit Mg ii-associated absorption lines in their SDSS spectra. We classify these quasars into evolutionary stages based on their radio spectral shapes. Our analysis reveals that evolved quasars exhibit a significantly higher incidence of Mg ii-associated absorption lines compared to younger sources, particularly among quasars with “nonpeaked” radio spectra, which show an incidence of Mg ii-associated absorbers approximately 1.7 times greater than that of gigahertz-peaked spectrum sources. This observation can be explained effectively by jet-driven feedback. As quasars age, their jets expand and expel substantial amounts of gas from smaller scales to larger scales, ultimately reaching the circumgalactic medium. The gas expelled from the inner regions and distributed over larger scales results in a greater coverage fraction of absorbing gas. Consequently, evolved quasars exhibit a higher incidence of Mg ii absorption lines.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>X-Ray/Radio Quasiperiodic Pulsations Associated with Plasmoids in Solar Flare Current Sheets</title>
