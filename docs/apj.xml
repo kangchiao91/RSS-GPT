@@ -5,17 +5,59 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Comprehensive Parameter Determination of Exoplanets through Asteroseismic Host Star Constraints</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada60b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada60b</guid>
+<title>Toward Early-type Eclipsing Binaries as Extragalactic Milestones. IV. Physical Properties of Three Detached O/B-type Systems in the LMC</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dda</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9dda</guid>
 <content:encoded><![CDATA[
 
-This study develops a robust framework for exoplanet characterization by leveraging asteroseismic constraints on host stars. Using precise photometric data from missions such as Kepler and TESS, we derive stellar parameters, including mass, radius, and age, with high accuracy through asteroseismic analysis. These stellar parameters are incorporated as priors in a Bayesian framework to refine planetary properties such as the mass, radius, and orbital parameters. By applying Markov Chain Monte Carlo methods, we extract posterior distributions of planetary parameters, achieving significant improvements in precision and reliability. This approach is particularly effective for systems with evolved host stars, where precise stellar properties are essential for resolving uncertainties in planetary characterization. The results demonstrate the importance of asteroseismology in bridging stellar astrophysics and exoplanet science, enabling detailed studies of planetary system architectures and their dependence on host star properties. Our methodology underscores the synergy between stellar and planetary studies, paving the way for future research on exoplanet populations. This work provides a foundation for utilizing data from upcoming missions like PLATO, ensuring continued advancements in the precision and scope of exoplanet characterization.
+We present a complete set of physical parameters for three early-type eclipsing binary systems in the Large Magellanic Cloud (LMC): OGLE LMC-ECL-17660, OGLE LMC-ECL-18794, and HV 2274, together with the orbital solutions. The first and third systems comprise B-type stars, while the second has O-type components and exhibits a total eclipse. We performed a complex analysis that included modeling light and radial velocity curves, O − C analysis, and additional non-LTE spectroscopic analysis for the O-type system. We found that OGLE LMC-ECL-17660 is at least a triple, and tentatively, a quadruple. A significant nonlinear period decrease was determined for HV 2274. Its origin is unclear, possibly due to a faint, low-mass companion on a wide orbit. The analyzed components have masses ranging from 11.7 M⊙ to 22.1 M⊙, radii from 7.0 R⊙ to 14.2 R⊙, and temperatures between 22,500 and 36,000 K. For HV 2274, the precision of our masses and radii is about six times higher than in previous studies. The position of the components of all six systems analyzed in this series on the mass–luminosity and mass–radius diagrams indicates they are evolutionarily advanced on the main sequence. Our sample contributes significantly to the knowledge of physical parameters of early-type stars in the mass range of 11 M⊙–23 M⊙. A new mass–luminosity relation for O- and B-type stars in the LMC is provided. Additionally, we used the measured apsidal motion of the systems to compare the observational and theoretical internal structure constant.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Prediction of Star Formation Rates Using an Artificial Neural Network</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada366</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada366</guid>
+<content:encoded><![CDATA[
+
+In this study we develop an artificial neural network to estimate the infrared (IR) luminosity and star formation rates (SFR) of galaxies. Our network is trained using “true” IR luminosity values derived from modeling the IR spectral energy distributions of FIR-detected galaxies. We explore five different sets of input features, each incorporating optical, mid-infrared, near-infrared, ultraviolet, and emission line data, along with spectroscopic redshifts and uncertainties. All feature sets yield similar IR luminosity predictions, but including all photometric data leads to slightly improved performance. This suggests that comprehensive photometric information enhances the accuracy of our predictions. Our network is applied to a sample of SDSS galaxies defined as unseen data, and the results are compared with three published catalogs of SFRs. Overall, our network demonstrates excellent performance for star-forming galaxies, while we observe discrepancies in composite and AGN samples. These inconsistencies may stem from uncertainties inherent in the compared catalogs or potential limitations in the performance of our network.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Solar Variability in the Mg ii h and k Lines</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6af</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6af</guid>
+<content:encoded><![CDATA[
+
+Solar irradiance and its variations in the ultraviolet (UV) control the photochemistry in Earth's atmosphere and influence Earth's climate. The variability in the Mg ii h and k core-to-wing ratio, also known as the Mg ii index, is highly correlated with the solar UV irradiance variability. Because of this, the Mg ii index is routinely used as a proxy for solar UV irradiance variability, which can help to get insights into the influence of solar UV irradiance variability on Earth's climate. Measurements of the Mg ii index, however, have only been carried out since 1978 and do not cover climate-relevant timescales longer than a few decades. Here we present a model to calculate the Mg ii index and its variability based on the well-established Spectral And Total Irradiance REconstruction (SATIRE) model. We demonstrate that our model calculations yield an excellent agreement with the observed Mg ii index variations, both on the solar activity cycle and on the solar rotation timescales. Using this model, we synthesize the Mg ii index time series on climate-relevant timescales of decades and longer. Here we present the time series of the Mg ii index spanning nearly three centuries.
+]]></content:encoded>
+
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
+<item>
+<title>MUSEQuBES: Connecting H i Absorption with Lyα Emitters at z ≈ 3.3</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada7e9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada7e9</guid>
+<content:encoded><![CDATA[
+
+We present a comprehensive analysis of H i absorption around 96 Lyα emitters (LAEs) at z ≈ 3.3 (median Lyα luminosity ≈1042 erg s−1). These LAEs were identified within eight MUSE fields, each on the sky and centered on a bright background quasar, as part of the MUSEQuBES survey. Using Voigt profile fitting for all H i absorbers detected within ±500 km s−1 of these LAEs, we compiled a catalog of 800 H i absorption components. Our analysis shows that H i absorption is enhanced near the LAEs compared to the intergalactic medium. However, no trend is found between the column densities of H i absorbers and their impact parameters from the LAEs (spanning ≈54–260 pkpc). Additionally, all galaxies associated with Lyman-limit systems have impact parameters >50 pkpc from the quasar sightlines, suggesting that true absorber hosts may be too faint to detect. The LAEs show an overall H i covering fraction (fc(H i)) of ≈88% for a threshold (H i) = 15. Notably, at the same threshold, the LAEs in pairs/groups exhibit a 100% H i covering fraction out to ≈250 pkpc. In contrast, isolated LAEs consistently show a lower fc(H i) of ≈80%. This environmental influence on fc(H i) is also evident up to ≈300 km s−1 in differential bins of line-of-sight velocity. We find an anticorrelation between fc(H i) and the equivalent width of rest-frame Lyα emission (EW0). Based on the Lyα shell model, this could imply that gas-rich galaxies tend to reside in gas-rich environments or that the LAEs with higher EW0 are more efficient at ionizing their surrounding medium.
 ]]></content:encoded>
 
 <pubDate>2025-02-12T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>Comprehensive Parameter Determination of Exoplanets through Asteroseismic Host Star Constraints</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada60b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada60b</guid>
+<content:encoded><![CDATA[
+This study develops a robust framework for exoplanet characterization by leveraging asteroseismic constraints on host stars. Using precise photometric data from missions such as Kepler and TESS, we derive stellar parameters, including mass, radius, and age, with high accuracy through asteroseismic analysis. These stellar parameters are incorporated as priors in a Bayesian framework to refine planetary properties such as the mass, radius, and orbital parameters. By applying Markov Chain Monte Carlo methods, we extract posterior distributions of planetary parameters, achieving significant improvements in precision and reliability. This approach is particularly effective for systems with evolved host stars, where precise stellar properties are essential for resolving uncertainties in planetary characterization. The results demonstrate the importance of asteroseismology in bridging stellar astrophysics and exoplanet science, enabling detailed studies of planetary system architectures and their dependence on host star properties. Our methodology underscores the synergy between stellar and planetary studies, paving the way for future research on exoplanet populations. This work provides a foundation for utilizing data from upcoming missions like PLATO, ensuring continued advancements in the precision and scope of exoplanet characterization.
+]]></content:encoded>
+<pubDate>2025-02-12T00:00:00Z</pubDate>
+</item>
 <item>
 <title>LensWatch. II. Improved Photometry and Time-delay Constraints on the Strongly Lensed Type Ia Supernova 2022qmx (“SN Zwicky”) with Hubble Space Telescope Template Observations</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada776</link>
@@ -9381,22 +9423,6 @@ The magnetic field is a significant and universal physical phenomenon in modern 
 <div> LBVs, sgB[e] stars, Gaia Data Release 3, proper-motion velocities, massive binaries
 <br /><br />总结: 该研究利用Gaia Data Release 3测量了大麦哲伦云（LMC）和小麦哲伦云（SMC）中LBVs和sgB[e]超巨星的固有运动速度，发现LBVs和sgB[e]星被认为是不同的类别。Class 1 LBVs和sgB[e]星的速度分布类似于SMC领域的OBe星，表明它们可能受到了超新星的踢。然而，Class 2 LBVs没有显示出加速的迹象，这表明它们可能是单颗星，超新星前联星，或者可能是双星的合并体。此外，候选的LBV Class 3星被确认为sgB[e]星，它们可能代表sgB[e]类中最明亮和最质量大的一类。同时，SMC中的sgB[e]星速度比LMC中的更快，这可能与低金属licity双星更紧凑，导致更快的喷射速度相关。值得注意的是，特殊类别的无尘、弱线sgB[e]星具有整个样本中最快的速度。 <div>
 Recent work suggests that many luminous blue variables (LBVs) and B[e] supergiants (sgB[e]) are isolated, implying that they may be products of massive binaries, kicked by partner supernovae. However, the evidence is somewhat complex and controversial. To test this scenario, we measure the proper-motion velocities for these objects in the LMC and SMC, using Gaia Data Release 3. Our LMC results show that the kinematics, luminosities, and IR properties point to LBVs and sgB[e] stars being distinct classes. We find that Class 1 LBVs, which have dusty nebulae, and sgB[e] stars both show velocity distributions comparable to that of SMC field OBe stars, which are known to have experienced SN kicks. The sgB[e] stars are faster, plausibly due to their lower average masses. However, Class 2 LBVs, which are luminous objects without dusty nebulae, show no signs of acceleration, therefore suggesting that they are single stars, pre-SN binaries, or perhaps binary mergers. The candidate LBV Class 3 stars, which are dominated by hot dust, are all confirmed sgB[e] stars; their luminosities and velocities show that they simply represent the most luminous and massive of the sgB[e] class. There are very few SMC objects, but the sgB[e] stars are faster than their LMC counterparts, which may be consistent with expectations that lower-metallicity binaries are tighter, causing faster ejections. We also examine the distinct class of dust-free, weak-lined sgB[e] stars, finding that the SMC objects have the fastest velocities of the entire sample.
-]]></content:encoded>
-<pubDate>2024-11-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Low [O/Fe] Ratio in a Luminous Galaxy at the Early Cosmic Epoch (z > 10): Signature of Short Delay Time or Bright Hypernovae/Pair-instability Supernovae?</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84e8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84e8</guid>
-<content:encoded><![CDATA[
-<div> 关键词: GN-z11, [O/Fe] ratio, JWST/NIRSpec data, Fe-rich abundance, early universe
-
-GN-z11是一个远距离的宇宙星系，研究发现其铁含量丰富的氧/铁比率表明铁的丰富度可能不是由Ia型超新星所导致的。这与大爆炸后早期（约430百万年）和第一次恒星形成（可能约200百万年）的时间线相吻合。这一发现提示，铁的丰富可能是由明亮的超新星和/或双星不稳定超新星所导致的。此外，这一研究也支持了该星系与球状星团之间的连接，尤其是在氮含量较高的情况下。总结:
-
-GN-z11是遥远的星系，在其探索中发现了铁含量丰富的氧/铁比率，表明铁的丰富可能不是由Ia型超新星所导致的；
-铁的丰富可能是由明亮的超新星和/或双星不稳定超新星所导致的，这与大爆炸后早期和第一次恒星形成的时间线相吻合；
-该研究也支持了该星系与球状星团之间的连接，尤其是在氮含量较高的情况下。 <div>
-We present an [O/Fe] ratio of a luminous galaxy GN-z11 at z = 10.60 derived with the deep public JWST/NIRSpec data. We fit the medium-resolution grating (G140M, G235M, and G395M) data with the model spectra consisting of BPASS-stellar and Cloudy-nebular spectra in the rest-frame UV wavelength ranges with Fe absorption lines, carefully masking the other emission and absorption lines in the same manner as previous studies conducted for lower-redshift (z ∼ 2–6) galaxies with oxygen abundance measurements. We obtain an Fe-rich abundance ratio , which is confirmed with the independent deep prism data as well as by the classic 1978 index method. This [O/Fe] measurement is lower than that measured for star-forming galaxies at z ∼ 2–3. Because z = 10.60 is an early epoch after the Big Bang (∼430 Myr) and the first star formation (likely ∼200 Myr), it is difficult to produce Fe by Type Ia supernovae (SNe Ia), which requires sufficient delay time for white-dwarf formation and gas accretion. The Fe-rich abundance ratio in GN-z11 suggests that the delay time is short or that the major Fe enrichment is not accomplished by SNe Ia but by bright hypernovae (BrHNe) and/or pair-instability supernovae (PISNe), where the yield models of BrHNe and PISNe explain Fe, Ne, and O abundance ratios of GN-z11. The [O/Fe] measurement is not too low to rule out the connection between GN-z11 and globular clusters (GCs) previously suggested by the nitrogen abundance but rather supports the connection with a GC population at high [N/O] if a metal dilution process exists.
 ]]></content:encoded>
 <pubDate>2024-11-18T00:00:00Z</pubDate>
 </item>
