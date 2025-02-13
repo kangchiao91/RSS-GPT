@@ -5,14 +5,57 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>A Study of Cosmological Models Based on the Long Gamma-Ray Burst Duration Histogram</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adad72</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad72</guid>
+<content:encoded><![CDATA[
+
+The duration of more than one thousand gamma-ray bursts (GRBs) was measured by using the Swift satellite. Besides the redshift distribution of GRBs, the burst duration is another significant property of GRBs that can be analyzed. In this paper, we first find the detection rate of Swift/Burst Alert Telescope for a cosmological model with the ωCDM model. Then, by performing a Monte Carlo simulation, we find the "long" GRB duration histogram to compare the cosmological model with the ωCDM model and the ΛCDM model. The χ2 minimization method is employed to determine the optimal value of α in the dark energy equation of state, P = cω(z)ρ, with ω(z) = −1 + α z. We show that for the ωCDM model, all values of α within α = [0, 0.16] range are considered acceptable within two standard deviations.
+]]></content:encoded>
+
+<pubDate>2025-02-13T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Insights into Galaxy Evolution from Interpretable Sparse Feature Networks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adadec</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadec</guid>
+<content:encoded><![CDATA[
+
+Galaxy appearances reveal the physics of how they formed and evolved. Machine learning (ML) models can now exploit galaxies’ information-rich morphologies to predict physical properties directly from image cutouts. Learning the relationship between pixel-level features and galaxy properties is essential for building a physical understanding of galaxy evolution, but we are still unable to explicate the details of how deep neural networks represent image features. To address this lack of interpretability, we present a novel neural network architecture called a Sparse Feature Network (SFNet). SFNets produce interpretable features that can be linearly combined in order to estimate galaxy properties like optical emission line ratios or gas-phase metallicity. We find that SFNets do not sacrifice accuracy in order to gain interpretability, and that they perform comparably well to cutting-edge models on astronomical ML tasks. Our novel approach is valuable for finding physical patterns in large data sets and helping astronomers interpret ML results.
+]]></content:encoded>
+
+<pubDate>2025-02-13T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Impact of Particle Drifts on the Flux of High-energy Solar Protons and He Ions Arriving at Earth from Compact Solar Sources</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adadf8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadf8</guid>
+<content:encoded><![CDATA[
+
+We present a numerical model to investigate the role of the ion mass-charge ratio (m/q) in determining the flux of MeV–GeV solar energetic particles (SEPs), released impulsively from a compact source near the Sun at 1 au. The equations of motion are numerically integrated for 0.1–1 GeV n−1 H+, 3He2+, and 4He2+ test ions as they move in the Parker spiral interplanetary magnetic field (IMF) carried by the solar wind. Pitch-angle scattering is included by using an ad hoc scattering operator, resulting in a parallel mean free path corresponding to “weak” scattering (λ = 1 au). Our modeled field also includes a flat heliospheric current sheet (HCS) at the ecliptic plane. We consider both A– and A+ IMF polarities and determine the time-flux profile at 1 au, at multiple observation locations, for each ion species and energy. We find that the proximity of the observer to the HCS, magnetic connectivity, and the drifts that depend on kinetic energy, m/q, and IMF polarity strongly impact the resulting flux–time profile. We find significant differences between the onset time, decay time, peak flux, and initial flux of the three ion species at 1 au. This contrast in the decay phase of the three species is evident in the four edges of the magnetically well-connected areas at 1 au. For magnetically poorly connected observers to the source, the onset of the proton flux with respect to that of 3He2+, and 4He2+ can be delayed for several hours depending on the observer’s relative heliographic latitude and the SEPs' energy.
+]]></content:encoded>
+
+<pubDate>2025-02-13T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Flat U-Net: An Efficient Ultralightweight Model for Solar Filament Segmentation in Full-disk Hα Images</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adadff</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadff</guid>
+<content:encoded><![CDATA[
+
+Solar filaments are one of the most prominent features observed on the Sun, and their evolutions are closely related to various solar activities, such as flares and coronal mass ejections. Real-time automated identification of solar filaments is the most effective approach to managing large volumes of data. Existing models of filament identification are characterized by large parameter sizes and high computational costs, which limit their future applications in highly integrated and intelligent ground-based and space-borne observation devices. Consequently, the design of more lightweight models will facilitate the advancement of intelligent observation equipment. In this study, we introduce Flat U-Net, a novel and highly efficient ultralightweight model that incorporates simplified channel attention (SCA) and channel self-attention (CSA) convolutional blocks for the segmentation of solar filaments in full-disk Hα images. Feature information from each network layer is fully extracted to reconstruct interchannel feature representations. Each block effectively optimizes the channel features from the previous layer, significantly reducing parameters. The network architecture presents an elegant flattening, improving its efficiency, and simplifying the overall design. Experimental validation demonstrates that a model composed of pure SCAs achieves a precision of approximately 0.93, with dice similarity coefficient (DSC) and recall rates of 0.76 and 0.64, respectively, significantly outperforming the classical U-Net. Introducing a certain number of CSA blocks improves the DSC and recall rates to 0.82 and 0.74, respectively, which demonstrates a pronounced advantage, particularly concerning model weight size and detection effectiveness. The data set, models, and code are available as open-source resources.
+]]></content:encoded>
+
+<pubDate>2025-02-13T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Flux-rope-mediated Turbulent Magnetic Reconnection</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adac61</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adac61</guid>
 <content:encoded><![CDATA[
-
 We present a new model of magnetic reconnection in the presence of turbulence. The new model differs from the Lazarian–Vishniac turbulent reconnection theory by emphasizing the role of locally coherent magnetic structures, whose existence is shown to be permitted by the properties of magnetic field line separation in turbulent plasma. Local coherence allows storage of magnetic helicity inside the reconnection layer in the form of locally coherent twisted flux ropes. We then introduce the “Alfvén horizon” to explain why the global reconnection rate can be governed by locally coherent magnetic field structure instead of by field line wandering, formally extending to 3D the principle that reconnection can be made fast by fragmentation of the global current layer. Coherence is shown to dominate over field line dispersion if the anisotropy of the turbulence at the perpendicular scale matching the thickness of a marginally stable current layer exceeds the aspect ratio of the current layer. Finally, we conjecture that turbulence generated within the reconnection layer may produce a critically balanced state that maintains the system in the flux-rope-mediated regime. The new model successfully accounts for the major features of 3D numerical simulations of self-generated turbulent reconnection, including reconnection rates of 0.01 in resistive MHD and 0.1 with collisionless physics.
 ]]></content:encoded>
-
 <pubDate>2025-02-13T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +63,10 @@ We present a new model of magnetic reconnection in the presence of turbulence. T
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adad6a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad6a</guid>
 <content:encoded><![CDATA[
-
 Fast radio bursts (FRBs) are enigmatic high-energy events with unknown origins, which are observationally divided into two categories, i.e., repeaters and nonrepeaters. However, there are potentially a number of nonrepeaters that may be misclassified, as repeating bursts are missed due to the limited sensitivity and observation periods, thus misleading the investigation of their physical properties. In this work, we propose a repeater identification method based on the t-distributed Stochastic Neighbor Embedding algorithm and apply the classification to the first Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst (CHIME/FRB) catalog. We find that the spectral morphology parameters, specifically spectral running (r), represent the key features for identifying repeaters from the nonrepeaters. Also, the results suggest that repeaters are more biased toward narrowband emission, whereas nonrepeaters are inclined toward broadband emission. We provide a list of 163 repeater candidates, five of which are confirmed with an updated repeater catalog from CHIME/FRB. Our findings improve our understanding of the various properties underlying repeaters and nonrepeaters, as well as guidelines for future FRB detection and categorization.
 ]]></content:encoded>
-
 <pubDate>2025-02-13T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Spin Evolution and Mass Distribution of Galactic Binary Neutron Stars</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e2</link>
@@ -9376,29 +9416,6 @@ We investigate the dynamics of GN-z11, a luminous galaxy at z = 10.60, carefully
 该研究提出了一种新颖的CME到达时间预测方法，利用深度学习框架结合CME的物理特征和太阳风的背景。研究收集了2000年至2020年间156次地球影响CME事件的太阳白光和EUV观测时间序列图像，并利用Richardson和Cane国际行星CME目录以及NASA/CDAW的SOHO/LASCO CME目录。利用CDAW网站和OMNI2网站的CME参数和太阳风参数，通过卷积神经网络（CNN）将观测图像训练为模型A的回归模型。然后，将原始CNN生成的结果与选定的11个物理参数集成到模型B的额外神经网络层中，以改进预测结果。在最佳配置下，模型A的平均绝对误差（MAE）为7.87小时，而模型B的最小MAE为5.12小时。在模型训练过程中，使用十折交叉验证来减少偏倚数据的偶然性。模型B的平均MAE在10个折叠上比模型A低33％。结果表明，将成像观测与CME的物理属性和背景太阳风结合起来训练机器学习模型可以有利于CME到达时间的预测。
 <br /><br />总结: 本研究采用深度学习框架和CME的物理特征以及太阳风的背景参数，提出了一种新的CME到达时间预测方法。模型B在十折交叉验证中平均MAE降低了33%，证明了将成像观测与CME的物理属性和背景太阳风相结合的方法可改善CME到达时间的预测。 <div>
 The timely and precise prediction of the arrival time of coronal mass ejections (CMEs) is crucial in mitigating their potential adverse effects. In this study, we present a novel prediction method utilizing a deep-learning framework coupled with physical characteristics of CMEs and background solar wind. Time series images from synchronized solar white-light and EUV observations of 156 geoeffective CME events during 2000–2020 are collected for this study, according to the Richardson and Cane interplanetary CME directory and the SOHO/LASCO CME catalog of NASA/CDAW. The CME parameters are obtained from the CDAW website and the solar wind parameters are from OMNI2 website. The observational images are first fed into a convolutional neural network (CNN) to train a regression model as Model A. The results generated by the original CNN are then integrated with 11 selected physical parameters in additional neural network layers of Model B to improve the predictions. Under optimal configurations, Model A achieves a minimum mean absolute error (MAE) of 7.87 hr, whereas Model B yields a minimum MAE of 5.12 hr. During model training, we employed tenfold cross validation to reduce the occasionality of biased data. The average MAE of Model B on 10 folds is 33% lower than that of model A. The results demonstrate that combining the imaging observations with the physical properties of CMEs and background solar wind to train a machine-learning model can benefit the forecasting of CME arrival times.
-]]></content:encoded>
-<pubDate>2024-11-19T00:00:00Z</pubDate>
-</item>
-<item>
-<title>PGC 44685: A Dwarf Star-forming Lenticular Galaxy with a Wolf–Rayet Population</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8349</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8349</guid>
-<content:encoded><![CDATA[
-<div> S0s, gas stripping, star-forming regions, Wolf-Rayet stars, metallicity<br />
-<br />该研究使用了光学西班牙天文中心3.5米望远镜和PPAK积分场光谱仪以及北方扩展毫米阵列进行了空间分辨观测，研究了一个矮星形成S0星系PGC 44685，发现其中心地区有三个星形成区域A、B和C。C区域存在Wolf-Rayet (W-R) 星，并且有大量的分子气体，显示正在进行剧烈星形成。大部分星形成区域显示较低的金属丰度分布，暗示可能存在金属贫乏气体的（微小）增加，触发了后续复杂的星形成。作者推测如果没有新的分子气体提供原料进行星形成，PGC 44685将在30百万年内变得平静。该研究展示了低质量/金属丰度S0星系中的星形成实例。<br /><br />总结: 该研究从空间分辨观测研究了一个矮星形成S0星系PGC 44685，发现其中心地区有三个星形成区域。C区域存在W-R星和大量分子气体，显示正在进行剧烈星形成。大部分星形成区域显示较低的金属丰度分布，暗示可能存在金属贫乏气体的增加触发了后续复杂的星形成。作者推测如果没有新的分子气体提供原料进行星形成，PGC 44685将在30百万年内变得平静。 <div>
-Lenticular galaxies (S0s) are formed mainly from the gas stripping of spirals in the cluster. But how S0s form and evolve in the field is still in need of being resolved. Based on spatially resolved observations from the optical Hispanic Astronomical Center in Andalusia 3.5 m telescope with the PPAK Integral Field Spectroscopy instrument and Northern Extended Millimeter Array, we study a dwarf (M* < 109 M⊙) S0, PGC 44685, with triple star-forming regions in the central region, namely, A, B, and C, respectively. In northwest region C, we clearly detect the spectral features of Wolf–Rayet (W-R) stars and quantify the W-R population by stacking spectra with high W-R significance. Most of the molecular gas is concentrated in region C(W-R), and there is diffuse gas around regions A and B. The W-R region possesses the strongest intensities of Hα, CO(1–0), and 3 mm continuum, indicating its ongoing violent star formation (gas depletion timescale ≲25 Myr) with tentative hundreds (<500) km s−1 of stellar winds accompanied by the W-R phase. Most (∼96%) of the three star-forming regions show relatively low-metallicity distributions, suggesting possible (minor) accretions of metal-poor gas that trigger the subsequent complex star formation in a field S0 galaxy. We speculate that PGC 44685 will become quiescent in less than 30 Myr if there is no new molecular gas to provide raw materials for star formation. The existence of this dwarf star-forming S0 presents an example of star formation in the low-mass/metallicity S0 galaxy.
-]]></content:encoded>
-<pubDate>2024-11-19T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Milky Way Bar Potential Constrained by the Kinematics of SiO Maser Stars in BAaDE Survey</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad834f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad834f</guid>
-<content:encoded><![CDATA[
-<div> MW bar potential, l-v envelope, observational data, Galactic potential, test particles
-
-利用经度-速度 (l-v) 包络约束银河系 (MW) 条形势的新方法。先前的研究使用l-v图解释了观测到的高速恒星的分布。作者成功地复现了他们的结果，但发现他们的方法仅限于一种周期轨道。相反，作者建议l-v包络提供了更全面的约束。作者比较了M. Portail等人MW势场模型 (P17)中的测试粒子与Bulge Asymmetries and Dynamical Evolution (BAaDE)调查观测的SiO激光器星的属性。作者发现条形势产生的l-v包络与观测数据显示出合理的一致性，尽管在银心附近存在轻微差异。这些不一致性暗示了P17势场产生了较低的中心旋转曲线，稍微更大的四极强度，或可能低估了图案速度。作者还采用了由G. H. Hunter等人提出的具有修改中心质量组分的P17势场的更新版本 (H24)。对l-v包络的拟合表明，H24势场并未完全解决现有的挑战，可能暗示了对中心条质量的可能低估。我们的研究表明l-v包络可用作约束银河势场的有价值工具，并提供了对MW条形势的洞察。 <br /><br />总结: 摘要包括了对l-v包络的利用以约束MW条形势的新方法，以及用于对比观测数据的测试粒子模型。还讨论了可能的势场参数和银心动力学的一致性问题。最终认为l-v包络是一个有价值的工具，可用于约束银河潜能，提供了对MW条形势的洞察。 <div>
-We introduce a novel method that utilizes the longitude–velocity (l − v) envelope to constrain the Milky Way (MW) bar potential. Previous work used the l − v diagram to explain the distribution of the observed high-velocity stars. We successfully reproduce their results but find that their method is limited to only one type of periodic orbits. In contrast, we propose that the l − v envelope provides much more comprehensive constraints. We compare the properties of test particles in the M. Portail et al. MW potential model (P17) with the observed SiO maser stars from the Bulge Asymmetries and Dynamical Evolution (BAaDE) survey. We find that the l − v envelope generated by the bar potential demonstrates reasonable agreement with the observational data, albeit with slight discrepancies near the Galactic center. The inconsistencies suggest that the P17 potential yields a lower central rotation curve, a slightly larger quadrupole strength, or a possibly underestimated pattern speed. We also adopt an updated version of the P17 potential with a modified central mass component proposed by G. H. Hunter et al. (H24). The fitting of the l − v envelope suggests that the H24 potential does not completely address the existing challenges and may hint at a possible underestimation of the central bar mass. Our study demonstrates that the l − v envelope can be used as a valuable tool for constraining the Galactic potential and provides insights into the MW bar potential.
 ]]></content:encoded>
 <pubDate>2024-11-19T00:00:00Z</pubDate>
 </item>
