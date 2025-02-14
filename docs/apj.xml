@@ -4,6 +4,83 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>UNCOVERing the Faint End of the z ∼ 7 [O iii] Luminosity Function with JWST’s F410M Medium Bandpass Filter</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a6</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a6</guid>
+<content:encoded><![CDATA[
+
+Strong emission from doubly ionized oxygen is a beacon for some of the most intensely star-forming galaxies. JWST enables the search for this beacon in the early Universe with unprecedented sensitivity. Using UNCOVER DR1 JWST/NIRCam and Hubble Space Telescope (HST) imaging data of A2744, we identify strong (rest-frame EW > 500Å) [O iii]5008 emitters at z ∼ 7 based on excess F410M flux. We find N = 68 z ∼ 7 [O iii] candidates, including N = 33 with deep HST coverage required to rule out lower-redshift interlopers (13.68 arcmin2 with F814W 5σ depth >28 AB). Such strong emission lines can produce very red colors often misinterpreted as evidence for old, massive stellar populations, but are shown to be emission lines where we have spectra. Using this deep HST sample, we derive a new [O iii] luminosity function (LF) spanning , an order of magnitude deeper than previous z ∼ 6 studies. This LF is fit by a power law with a faint-end slope of . Our results are consistent with the z ∼ 7 FRESCO [O iii] LF across the overlapping 0.5 dex range, . Combining both data sets, we construct an LF spanning 2 dex in luminosity, with a best-fit Schechter function: , , and erg s . There is little evolution between this LF and published [O iii] LFs at 3 < z < 8, and no evidence of a turnover at faint luminosities. The sizes of these extreme [O iii] emitters are similar to their low redshift counterparts, the Green Peas. The z ∼ 7 [O iii] LF aligns with the Lyα LF at the bright end, suggesting many of these galaxies are also Lyα emitters.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Resolving an Asteroseismic Catastrophe: Structural Diagnostics from p-mode Phase Functions off the Main Sequence</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada949</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada949</guid>
+<content:encoded><![CDATA[
+
+On the main sequence, the asteroseismic small frequency separation δν02 between radial and quadrupole p-modes is customarily interpreted to be a direct diagnostic of internal structure. Such an interpretation is based on a well-known integral estimator relating δν02 to a radially averaged sound-speed gradient. However, this estimator fails, catastrophically, when evaluated on structural models of red giants: their small separations must therefore be interpreted differently. We derive a single expression that both reduces to the classical estimator when applied to main-sequence stellar models and reproduces the qualitative features of the small separation for stellar models of very evolved red giants. This expression indicates that the small separations of red giants scale primarily with their global seismic properties as , rather than being in any way sensitive to their internal structure. Departures from this asymptotic behavior, during the transition from the main-sequence to red giant regimes, have been recently reported in open-cluster Christensen–Dalsgaard (C-D) diagrams from K2 mission data. Investigating them in detail, we demonstrate that they occur when the convective envelope boundary passes a specific acoustic distance—roughly one-third of a wavelength at —from the center of the star, at which point radial modes become maximally sensitive to the position of the boundary. The shape of the corresponding features on ϵp and C-D (or r02) diagrams may be useful in constraining the nature of convective boundary mixing in the context of undershooting beneath a convective envelope.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Impact of Extended CO2 Cross Sections on Temperate Anoxic Planet Atmospheres</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf0</guid>
+<content:encoded><![CDATA[
+
+Our interpretation of terrestrial exoplanet atmospheric spectra will always be limited by the accuracy of the data we use as input in our forward and retrieval models. Ultraviolet molecular absorption cross sections are one category of these essential model inputs; however, they are often poorly characterized at the longest wavelengths relevant to photodissociation. Photolysis reactions dominate the chemical kinetics of temperate terrestrial planet atmospheres. One molecule of particular importance is CO2, which is likely present in all terrestrial planet atmospheres. The photolysis of CO2 can introduce CO and O, as well as shield tropospheric water vapor from undergoing photolysis. This is important because H2O photolysis produces OH, which serves as a major reactive sink to many atmospheric trace gases. Here, we construct CO2 cross-section prescriptions at 195 K and 300 K extrapolated beyond 200 nm from measured cross sections. We compare results from the implementation of these new cross sections to the most commonly used CO2 prescriptions for temperate terrestrial planets with Archean-like atmospheres. We generally find that the observational consequences of CO2 dissociation beyond 200 nm are minimal so long as our least conservative (highest opacity) prescription can be ruled out. Moreover, implementing our recommended extended CO2 cross sections does not substantially alter previous results that show the consequential photochemical impact of extended H2O cross sections.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Fallibility of Equipartition Magnetic Field Strengths from Synchrotron Emission Using Synthetically Observed Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adab72</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adab72</guid>
+<content:encoded><![CDATA[
+
+Understanding the role that magnetic fields play on the stage of galaxy formation requires accurate methods for inferring the properties of extragalactic magnetic fields. Radio synchrotron emission has been the most promising avenue to infer magnetic field strengths across galaxies, with the application of a central assumption: that galactic cosmic rays are in energy equipartition with the magnetic field. In this work, we leverage flexible synthetic observations of a high-resolution magnetohydrodynamic simulation of a Milky Way–like galaxy to review whether true equipartition is capable of reproducing radio observations of galaxies, and investigate its impact on the inference of magnetic field strengths when varying the properties and density distribution of the cosmic rays. We find that imposing equipartition (regardless of scale length) results in cosmic ray electron densities that are unable to generate either the amplitude or the shape of the radio intensity profiles typically observed in spiral galaxies. Instead, observationally motivated smooth distributions of cosmic ray electrons across the galaxy provide a remarkable match to observations. We further demonstrate that assuming equipartition with those mock observations can lead to significant overestimation of the magnetic field strength. This misestimation varies with cosmic ray electron densities, cosmic ray spectrum power-law index, and galactic environment, aggravated in inter-arm regions and attenuated in star-forming regions. Our results promote caution when assuming equipartition in observations, and suggest that additional theoretical and numerical work is required to leverage the upcoming generation of radio observations poised to revolutionize our understanding of astrophysical magnetic fields.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Magnetic Activities of AD Leonis: Flares in TESS Data and Optical Spectra</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabc3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabc3</guid>
+<content:encoded><![CDATA[
+
+We studied the flaring activities of M4.5 dwarf AD Leo to understand its stellar atmospheres and magnetic activities. We present new observational results on this highly active star, using nonsimultaneous measurement of Transiting Exoplanet Survey Satellite (TESS) data, time-series optical spectra, and Giant Meter Radio Telescope 325 MHz radio data. We revisited the rotation period of 2.23 ± 0.04 days from TESS, which matches well with previously measured literature values. We estimated an extremely rare high-energy superflare of 4.9 × 1035 erg and ∼400 minute duration with a high magnetic field strength of 1.2 kG. Interestingly, we correlated the duration of a flare event with its energy, τ ∝ , and noticed a discrepancy between stellar and solar flares suggesting a difference in coronal magnetic field strength. From time-series spectra, we observed Hα spectral flares in the range of 1030–1031 erg. A 12 minute delay in a spectral flare event was observed between the emission of the Hα and Ca ii H and K lines, possibly due to their origination at different spatial locations in the chromosphere. We noticed the deviation in flare rate distribution and orbital phases indicates the presence of highly active regions. Furthermore, an occasional radio detection with a flux density of 9.46 ± 1.63 mJy at a frequency of 325 MHz might be coherent emission in the presence of the magnetic field, giving a hint of star–planet interaction.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Oxidation–Deuteration Processes of Large, Astronomically Relevant Cationic Polycyclic Aromatic Hydrocarbons</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabdf</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabdf</guid>
+<content:encoded><![CDATA[
+
+In interstellar environments, gas-phase polycyclic aromatic hydrocarbon (PAH) predominantly involves (photo)fragmentation, hydrogenation, and oxidation chemical routes, which lead to the formation of complex organic species. Here the gas-phase reactions between tribenzo-naphtho-pero-pyrene (TNPP, C40H18) cations and ultraviolet, 18/16O or D atoms are investigated. The oxidized TNPP cations ([C40H18/17/16On]+, n = [1, 6]) are newly formed; the collision-induced deoxidation of oxidized TNPP cations is followed by the loss of HCO/CO units. With laser irradiation, the photo-deoxidation of oxidized TNPP cations is identified. Smaller PAH cations, [C40−nH18−n]+, with n = [1, 5], i.e., PAHs containing odd carbon numbers (e.g., 39, 37 C atoms), are produced. Furthermore, the oxidized–deuterated TNPP cations ([C40HmDnOx]+) are well formed upon simultaneous reaction with O and D atoms. The structure of the oxidized–deuterated TNPP cations and the bonding energy for these reaction pathways were investigated with theoretical calculations. Four oxidation bonding types are identified together with their evolution pathways. The reaction energy is relatively high, and the addition of O/D atoms to the carbon skeleton is a relatively random and independent event, i.e., with no restrictions or requirements for the carbon sites of PAH species. Consequently, the oxidized–deuterated states and forms of PAH compounds are intricate and complex. Furthermore, the calculations confirm that the loss of CO or H+CO is energetically preferable. Importantly, the formation of the carbonyl unit is confirmed. We infer that the collision/photo-induced deoxidation (loss of (H)CO units) of oxidized PAH species is involved in the top-down evolution routes of large PAHs and effectively catalyzes the potential formation of small oxygen-containing species (e.g., OH/HCO/CO) in the interstellar medium.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Observations of the X-Ray Millihertz Quasiperiodic Oscillations in Hercules X-1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adae8f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae8f</guid>
+<content:encoded><![CDATA[
+
+With a systematic timing investigation of the persistent X-ray binary pulsar Her X-1 based on a large number of Insight-HXMT observations between 2017 and 2019, we confirm the presence of X-ray millihertz quasiperiodic oscillations (mHz QPOs) at ∼0.01 Hz. By applying wavelet analysis in our data analysis procedures, we first identify ∼0.005–0.009 Hz QPOs coexisting with the ∼0.01 Hz QPOs. Wavelet analysis suggests that these QPO features show transient behaviors, that the frequencies of mHz QPOs evolve in short timescales. There exists a positive relation between QPO centroid frequency (from ∼0.005 to 0.009 Hz) and X-ray luminosity, while the 10 mHz QPO frequencies remain nearly constant for different luminosities, which suggests different physical mechanisms for the two types of mHz QPOs. The 10 mHz QPOs in both X-ray and UV bands would have the same origin related to the beat frequency where the Alfvén radius is close to the corotation radius, and the 5 mHz QPOs may originate from magnetic disk precession.
+]]></content:encoded>
+
+<pubDate>2025-02-14T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Planets Around Solar Twins/Analogs (PASTA). I. High-precision Stellar Chemical Abundances for 17 Planet-hosting Stars and the Condensation Temperature Trend*</title>
