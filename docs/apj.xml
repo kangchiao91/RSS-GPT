@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Extragalactic Magnetar Giant Flares: Population Implications, Rates, and Prospects for Gamma-Rays, Gravitational Waves, and Neutrinos</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada947</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada947</guid>
 <content:encoded><![CDATA[
-
 Magnetar giant flares (MGFs) are the most energetic non-catastrophic transients known to originate from stellar objects. The first discovered events were nearby. In recent years, several extragalactic events have been identified, implying an extremely high volumetric rate. We show that future instruments with a sensitivity ≲5 × 10−9 erg cm−2 at ∼1 MeV will be dominated by extragalactic MGFs over short gamma-ray bursts (sGRBs). Clear discrimination of MGFs requires intrinsic GRB localization capability to identify host galaxies. As MGFs involve a release of a sizable fraction of the neutron star's magnetic free energy reservoir in a single event, they provide us with invaluable tools for better understanding magnetar birth properties and the evolution of their magnetic fields. A major obstacle is to identify a (currently) small subpopulation of MGFs in a larger sample of more energetic and distant sGRBs. We develop the tools to analyze the properties of detected events and their occurrence rate relative to sGRBs. Even with the current (limited) number of events, we can constrain the initial internal magnetic field of a typical magnetar at formation to be B0 ≈ 4 × 1014–2 × 1015 G. Larger samples will constrain the distribution of birth fields. We also estimate the contribution of MGFs to the gravitational-wave (GW) stochastic background. Depending on the acceleration time of baryon-loaded ejecta involved in MGFs, their GW emission may reach beyond 10 kHz and, if so, will likely dominate over other conventional astrophysical sources in that frequency range.
 ]]></content:encoded>
-
 <pubDate>2025-02-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Multiband Polarization Profile Analysis of Three-component Radio Pulsars by Implementing a Relativistic Phase-shift Method</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada565</link>
@@ -9293,18 +9291,6 @@ Determining the physical nature of a star requires precise knowledge of its stel
 总结: 
 本文研究了伽马射线暴（GRB）的中微子发射机制以及探测前景。通过选择四个特殊的GRB事件，采用两种不同类型的射流组成，作者发现只有GRB 211211A事件可以通过耗散光球模型得到良好的约束。但对于内部碰撞诱导的磁重连接和湍流（ICMART）模型，对GRB 230307A和GRB 080916C无法有效约束。此外，作者还调查了来自GRB的高能中微子的探测前景，并发现即使在IceCube-Gen2操作期间，也很难从ICMART模型中探测到与GRB相关的高能中微子。然而，对于类似GRB 211211A的事件，在IceCube-Gen2操作期间，如果这样的事件来源于光球耗散内的紧凑恒星合并，可能会探测到与引力波同时发生的至少一个中微子。 <br /><br /> <div>
 The prompt emission mechanism of gamma-ray bursts (GRBs) is a long-standing open question, and GRBs have been considered as potential sources of high-energy neutrinos. Despite many years of search for the neutrino events associated with GRBs from IceCube, there were no results. However, the absence of search results for neutrinos provides a unique opportunity to constrain the parameter space of GRB jet models. In this paper, we chose four peculiar GRBs with two different types of jet composition to investigate neutrino emission. It is found that only GRB 211211A could be well constrained within the dissipative photosphere model. By adopting the specific parameters of the photosphere, one can obtain εp/εe < 8 for fp > 0.2 from GRB 211211A. For the Internal-collision-induced Magnetic Reconnection and Turbulence (ICMART) model, we can effectively constrain neither GRB 230307A nor GRB 080916C. Moreover, we also investigate the detection prospects of high-energy neutrinos from GRBs and find that it is difficult to detect at least one high-energy neutrino associated with GRBs from the ICMART model even during the IceCube-Gen2 operation. For the GRB 211211A-like events, it is possible to detect at least one neutrino coincident with the gravitational wave during the IceCube-Gen2 operation, if such an event originated from mergers of compact stars within the photosphere dissipation.
-]]></content:encoded>
-<pubDate>2024-11-21T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Quasi-linear Analysis of Proton-cyclotron Instability</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad86be</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad86be</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 质子-回旋仪不稳定性, 速度矩理论, 分布函数, 动力学方程, 模拟
-
-总结:<br /><br />这篇论文研究了质子-回旋仪不稳定性并使用速度矩理论来分析物理过程。研究表明，速度矩理论在较为接近稳定状态时略微夸大了温度各向异性的放松，但仍然是有效的。同时，通过粒子-在-单元和混合码模拟结果的验证，论文证明了速度矩理论作为PC不稳定性的高效理论工具的合理性。 <div>
-The proton-cyclotron (PC) instability operates in various space plasma environments. In the literature, the so-called velocity moment-based quasi-linear theory is employed to investigate the physical process of PC instability that takes place after the onset of early linear exponential growth. In this method, the proton velocity distribution function (VDF) is assumed to maintain a bi-Maxwellian form for all time, which substantially simplifies the analysis, but its validity has not been rigorously examined by comparing against the actual solution of the kinetic equation. The present paper relaxes the assumption of the velocity moment-based quasi-linear theory by actually solving for the velocity space diffusion equation under the assumption of separable perpendicular and parallel VDFs, and upon comparison with the simplified velocity moment theory, it demonstrates that the simplified method is largely valid, despite the fact that the method slightly overemphasizes the relaxation of temperature anisotropy when the system is close to the marginally stable state. The overall validation is further confirmed with the results of particle-in-cell and hybrid-code simulations. The present paper thus provides a justification for making use of the velocity moment-based quasi-linear theory as an efficient first-cut theoretical tool for the PC instability.
 ]]></content:encoded>
 <pubDate>2024-11-21T00:00:00Z</pubDate>
 </item>
