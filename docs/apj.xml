@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>A Pilot Study for the CSST Slitless Spectroscopic Quasar Survey Based on Mock Data</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adabdc</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabdc</guid>
 <content:encoded><![CDATA[
-
 The wide survey of the Chinese Space Station Telescope (CSST) will observe a large field of 17,500 deg2. The GU, GV, and GI grism observations of CSST will cover the wavelength range from 2550 to 10000 Å at a resolution of R ∼ 200 and a depth of about 22 AB magnitude for the continuum. In this paper, we present a pipeline to identify quasars and measure their physical properties with the CSST mock data. We simulate the raw images and extract the one-dimensional grism spectra for quasars, galaxies, and stars with r-band magnitudes of 18 < mr < 22 using the CSST Cycle 6 simulation code (https://csst-tb.bao.ac.cn/code/csst_sim/csst-simulation). Using a convolution neural network, we separate quasars from stars and galaxies. We measure the redshifts by identifying strong emission lines of quasars. We also fit the 1D slitless spectra with QSOFITMORE to estimate black hole masses and Eddington ratios. Our results show that CSST slitless spectroscopy can effectively separate quasars with redshifts z = 0−5 from other types of objects with an accuracy of 99%. Among those successfully classified quasars, 90% of them could have precise redshift measurements with σNMAD = 0.002. The scatters of black hole masses and Eddington ratios from the spectral fittings are 0.13 and 0.15 dex, respectively. The metallicity diagnosis line ratios have a scatter of 0.1–0.2 dex. Our results show that the CSST slitless spectroscopy survey has the potential to discover about 0.9 million new quasars and provide important contributions to the science of active galactic nuclei and cosmology.
 ]]></content:encoded>
-
 <pubDate>2025-02-18T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Periodic Variability of the Central Stars of Planetary Nebulae Surveyed through the Zwicky Transient Facility</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada94a</link>
@@ -9247,18 +9245,6 @@ Small-scale brightenings are ubiquitous, dynamic, and energetic phenomena found 
 总结:<br />
 本文研究了太阳风等离子体中的电子群分布，发现可以用一个由麦克斯韦分布的核心和基于kappa分布的晕带的电子群模型来描述。通过计算不同日心径距离下的电子准热噪声的功率谱，揭示了这种噪声在频谱上的特点和有效的德拜长度随模型参数变化的依赖性。研究结果表明，电子准热噪声谱包括低频段（f < fpt）的平台、总等离子体频率 fpt处的峰值以及高频段（f > fpt）的急剧下降部分。随着日心径距离的增加，噪声的峰值和平台水平不断下降，峰值的形状也会因为kappa指数的变化而改变。尽管模型参数可以变化，但在实际情况下，这些参数的变化对于平台水平的影响不大，而当参数接近实际情况时，平台只显示出单调变化。这些结果对于未来内太阳风区域的深空探测以及探测器的设计具有重要的参考价值。 <div>
 The electron population in the solar wind plasma can be described with three different components: a core, a halo, and a magnetic field aligned strahl. The electron quasi-thermal noise (QTN) is investigated by using an electron population model consisting of a core with a Maxwellian distribution and a halo with a kappa distribution, based on the empirical equations for electron density and temperature and the index for the kappa halo. The power spectra of the electron QTN are calculated at different heliocentric radial distances from 10 to 200 Rs. The dependence of the QTN spectrum and effective Debye length on model parameters, including the ratio of the halo to the core for the density and temperature, the kappa index, and the antenna length, is further discussed. The results show that the electron QTN spectrum consists of a plateau in the low-frequency band f < fpt, a peak at the total plasma frequency fpt, and a rapidly decreasing part in the high-frequency band f > fpt. The QTN peak and plateau level continuously decrease as the radial distance increases, with the peak’s shape changing due to the variation of the kappa index. Although the model parameters are variable, the QTN plateau level presents less than an order of change with these parameters changing greatly, and only a monotonic change of the plateau is shown when the parameters are close to the practical situation. The results can provide a reference for future deep-space exploration in the inner heliosphere, and also for the design of detectors.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Cracking the Relation between Mass and 1P-star Fraction of Globular Clusters. II. The Masses in 1P and 2P Stars as a Second Tool</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d7</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Galactic globular clusters, pristine stars, polluted stars, mass, Magellanic Clouds
-总结: 
-本文研究了银河球状星团中的两类主要恒星，即原始恒星和污染恒星。研究发现，原始恒星比例与星团的质量呈负相关，而与污染恒星的质量呈强负相关。同时发现，对于给定的原始恒星比例，大麦哲伦星云中的星团比小麦哲伦星云中的星团更大，这与银河的外部和内部的行星族星团的表现相反。研究者提出了星团形成条件可能导致这种差异。最后，研究者对单一恒星族星团NGC 419和Rup 106是否形成为多星族星团提出了质疑。 <br /><br /> <div>
-Galactic globular clusters contain two main groups of stars, the pristine or 1P stars, and the polluted or 2P stars. The pristine-star fraction in clusters, F1P, is a decreasing function of the cluster present-day mass, mprst. Paper I has introduced a model mapping the region of the (mprst, F1P) space occupied by clusters, with the cluster mass threshold for 2P-star formation a key building block. We now expand this model to the pristine-star fraction in dependence of the pristine- and polluted-population masses. A. P. Milone et al. found that F1P anticorrelates more tightly with the polluted-population present-day mass, m2P,prst, than with the cluster total mass, mprst. By contrast, F1P anticorrelates poorly with the pristine-population current mass, m1P,prst. We show the loose anticorrelation between F1P and m1P,prst to result from a roughly constant pristine-population mass in clusters as they start their long-term evolution in the Galactic tidal field. As for the tight anticorrelation between m2P,prst and F1P, it stems from the initially shallow relation between m2P and F1P. Clusters of the Large and Small Magellanic Clouds (LMC and SMC, respectively) appear to behave unexpectedly with respect to each other. For a given F1P, LMC clusters are more massive than SMC clusters despite their enduring a stronger tidal field. This is opposite to how the Galactic outer- and inner-halo clusters behave. The explanation may lie in cluster formation conditions. Finally, we wonder whether the single-population clusters NGC 419 and Rup 106 formed as multiple-population clusters.
 ]]></content:encoded>
 <pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
