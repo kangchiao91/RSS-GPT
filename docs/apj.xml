@@ -5,14 +5,112 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Stream Members Only: Data-driven Characterization of Stellar Streams with Mixture Density Networks</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad94f2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad94f2</guid>
+<content:encoded><![CDATA[
+
+Stellar streams are sensitive probes of the Milky Way’s gravitational potential. The mean track of a stream constrains global properties of the potential, while its fine-grained surface density constrains galactic substructure. A precise characterization of streams from potentially noisy data marks a crucial step in inferring galactic structure, including the dark matter, across orders of magnitude in mass scales. Here we present a new method for constructing a smooth probability density model of stellar streams using all of the available astrometric and photometric data. To characterize a stream’s morphology and kinematics, we utilize mixture density networks to represent its on-sky track, width, stellar number density, and kinematic distribution. We model the photometry for each stream as a single-stellar population, with a distance track that is simultaneously estimated from the stream’s inferred distance modulus (using photometry) and parallax distribution (using astrometry). We use normalizing flows to characterize the distribution of background stars. We apply the method to the stream GD-1, and the tidal tails of Palomar 5. For both streams we obtain a catalog of stellar membership probabilities that are made publicly available. Importantly, our model is capable of handling data with incomplete phase-space observations, making our method applicable to the growing census of Milky Way stellar streams.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Turbulence and Magnetic Field Alignment in Small Molecular Clouds: The Role of Cloud Size, Mass, and Density</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada562</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada562</guid>
+<content:encoded><![CDATA[
+
+In this study, we investigate the relationship between turbulence (ΔV) and different physical parameters in 22 isolated small molecular clouds and their cores, extending the analysis to a hierarchical scenario from core to cloud. Using 12CO line width as a tracer of turbulence, we find that ΔV correlates with both cloud size and mass, following and . Further, the surface density of the clouds (Σcl) influences the ΔV–Lcl relation, with . This indicates that gravitational energy drives turbulence in clouds, indicating possible virial equilibrium. We observe that Lcl correlates with Mcl and volume gas density of the cloud (ρcl), implying nearly constant Σcl across the clouds. In cloud cores, C18O line-width data show complex behavior, with no direct correlation between ΔV and core size (Lco). However, a positive correlation emerges when the surface density of the core is included in Lco. Notably, the relation between volume gas density (ρco) and core size (Lco) deviates from constant core surface density. Our analysis reveals that turbulent pressure increases with gravitational pressure to maintain global equilibrium. Finally, on the core-to-cloud scale, physical relationships remain continuous, reflecting the interconnected nature of clouds and cores. Extending our previous work, where we demonstrated a nonlinear dependence of turbulence on the alignment of the local magnetic field in molecular clouds with the Galactic plane, we now compare observations with a theoretical model based on kinetic theory. Our result confirms that higher turbulence causes greater magnetic misalignment consistent with the derived second-order polynomial relationship.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Effect of Lyα Radiative Transfer on Intensity Mapping Power Spectra</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a3</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada8a3</guid>
+<content:encoded><![CDATA[
+
+Clustering of Lyα-emitting galaxies (LAEs) and Lyα line intensity mapping (LIM) are useful probes of cosmology. However, Lyα radiative transfer (RT) effects, such as absorption, line shift, and line broadening, and their dependence on the large-scale density and velocity fields can modify the measured LAE clustering and LIM statistics. We explore the effects of RT on the Lyα LIM power spectrum in two ways: using an analytic description based on linear approximations, and using lognormal mocks. The qualitative effects of intergalactic Lyα absorption on the LIM auto- and cross-power spectrum include a scale-dependent, reduced effective bias, reduced mean intensity, and modified redshift-space distortions. The linear absorption model does not describe the results of the lognormal simulations well. The random line shift suppresses the redshift-space power spectrum similar to the Fingers-of-God effect. In cross-correlation of LAEs or Lyα intensity with a non-Lyα tracer, the Lyα line shift leads to a phase shift of the complex power spectrum, i.e., a cosine damping of the real part. We study the impact of Lyα RT effects on the Hobby–Eberly Telescope Dark Energy Experiment (HETDEX) LAE and LIM power spectra using lognormal mocks. We find that even small amounts of IGM absorption will significantly change the measured LAE auto-power spectrum. The LAE-intensity cross-power spectrum stays within the measurement uncertainty. Therefore, HETDEX will be able to constrain Lyα RT effects.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Can Dark Stars Account for the Star Formation Efficiency Excess at Very High Redshifts?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada93b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada93b</guid>
+<content:encoded><![CDATA[
+
+The James Webb Space Telescope (JWST) has recently conducted observations of massive galaxies at high redshifts, revealing a notable anomaly in their star formation efficiency (SFE). Motivated by the recent identification of three ~106M⊙ dark star candidates, we investigate whether dark stars can be the origin of the SFE excess. It turns out that the excess can be reproduced by a group of dark stars with M ≳ 103M⊙, because of their domination in generating primary UV radiation in high-redshift galaxies. The genesis of these dark stars is attributed to the capture of weakly interacting massive particles within a mass range of tens of gigaelectronvolts to a few teraelectronvolts. However, if the top-heavy initial mass function of dark stars holds up to ~105M⊙, the relic black holes stemming from their collapse would be too abundant to be consistent with the current observations of massive compact halo objects. We thus suggest that just a small fraction of SFE excess may be contributed by the very massive dark stars, with the majority likely originating from other sources, such as the Population III stars, in view of their rather similar UV radiation efficiencies.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Chemical Evolution of Isotopically Labeled Carbon Dioxide (13CO2) Ice Exposed to Ionizing Radiation and Implications for Trans-Neptunian Objects</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e7</guid>
+<content:encoded><![CDATA[
+
+We present results on the radiation chemistry of isotopically labeled carbon dioxide (13CO2) ices induced by energetic electrons at 40 and 10 K to simulate the chemical evolution of carbon dioxide on trans-Neptunian objects exposed to galactic cosmic-ray particles. By collecting infrared spectra during the irradiation of 13CO2 ices, we have identified several radiolysis products, including carbon monoxide (13CO), ozone (O3), carbon trioxide (13CO3) with cyclic (C2v) and acyclic (D3h) isomers, carbon tetraoxide (13CO4), carbon pentaoxide (13CO5), and carbon hexaoxide (13CO6). The temporal profiles reveal that all products exhibit a rapid increase followed by a gradual decrease during prolonged irradiation, with the reduction at 40 K occurring faster than at 10 K. Furthermore, the ratio of 13CO to 13CO2 rises to constants of 0.20 at 40 K and 0.27 at 10 K as radiation accumulates within ices, which has potential implications for understanding the specific conditions of trans-Neptunian objects, such as galactic cosmic-ray exposure history, or other astrophysical scenarios characterized by abundant carbon dioxide.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Exploring the Neutrino Mass Hierarchy from Isotopic Ratios of Supernova Nucleosynthesis Products in Presolar Grains</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaaf2</guid>
+<content:encoded><![CDATA[
+
+We study the nucleosynthesis in a core-collapse supernova (CCSN) model including newly calculated neutrino-induced reaction rates with both collective and Mikheyev–Smirnov–Wolfenstein neutrino flavor oscillations considered. We show that the measurement of a pair of 11B/10B and 138La/139La or 6Li/7Li and 138La/139La in presolar grains that are inferred to have originated from CCSNs could constrain the neutrino mass hierarchy. The new shell model and the model of quasiparticle random phase approximation in the estimate of three important neutrino-induced reactions, ν + 16O, ν + 20Ne, and ν + 138Ba, are applied in our reaction network. The new rates decrease the calculated 7Li/6Li ratio by a factor of 5 compared with the previous study. More interestingly, these new rates result in a clear separation of the isotopic ratio of 11B/10B between normal and inverted mass hierarchies in the O/Ne, O/C, and C/He layers, where 138La abundance depends strongly on the mass hierarchy. In these layers, the sensitivity of the calculated abundances of 10,11B and 6,7Li to the nuclear reaction uncertainties is also tiny. Therefore, we propose that the 11B/10B versus 138La/139La and 6Li/7Li versus 138La/139La in type X silicon carbide grains sampled material from C/He layer can be used as a new probe to constrain the neutrino mass hierarchy.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Planetary Rhythms: Synchronous Circulation on Variably Irradiated Asynchronous Planets</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabc4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabc4</guid>
+<content:encoded><![CDATA[
+
+Tidal locking of planets to their host stars results in an atmospheric circulation with a hotspot fixed to the frame of reference of the planet. On the other hand, asynchronously rotating planets feature moving hotspots either lagging or leading the corresponding substellar point as it translates along the surface. We show that a planet falling in the latter category could mimic the circulation of tidally synchronous planets under the influence of time-varying instellation, possibly provided by pulsating or multiple star systems. This happens when the planet’s diurnal period is in resonance with the period of instellation variation, leading to a planet-frame-fixed hotspot. Slight differences in the above periods lead to east–west or west–east creeping hotspots with a period significantly longer than both. The rate of hotspot motion is given by the difference between the diurnal and instellation variation rates, similar to the lower envelope frequency of beat patterns formed by two superposed waves in linear wave theory. We call this phenomenon “beating.” A combination of the radiative, rotational, wave propagation, and drag timescales establishes dynamical constraints on beating. Based on this, we classify a set of Kepler and TESS circumbinary planets with two candidates exhibiting climatic departures from the no-variation scenario. In general, hotter and faster-spinning planets are more susceptible to climatic departures. Beating, if it occurs, may additionally create optimistic extensions of habitable zones for corresponding systems.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Measuring the Intracluster Light Fraction with Machine Learning</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabc7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabc7</guid>
+<content:encoded><![CDATA[
+
+The intracluster light (ICL) is an important tracer of a galaxy cluster’s history and past interactions. However, only small samples have been studied to date due to its very low surface brightness and the heavy manual involvement required for the majority of measurement algorithms. Upcoming large imaging surveys such as the Vera C. Rubin Observatory’s Legacy Survey of Space and Time (LSST) are expected to vastly expand available samples of deep cluster images. However, to process this increased amount of data, we need faster, fully automated methods to streamline the measurement process. This paper presents a machine learning model designed to automatically measure the ICL fraction in large samples of images, with no manual preprocessing required. We train the fully supervised model on a training data set of 50,000 images with injected artificial ICL profiles. We then transfer its learning onto real data by fine-tuning with a sample of 101 real clusters with their ICL fraction measured manually using the surface brightness threshold method. With this process, the model is able to effectively learn the task and then adapt its learning to real cluster images. Our model can be directly applied to Hyper Suprime-Cam images, processing up to 500 images in a matter of seconds on a single GPU, or fine-tuned for other imaging surveys such as LSST, with the fine-tuning process taking just 3 minutes. The model could also be retrained to match other ICL measurement methods. Our model and the code for training it are made available on GitHub.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Modeling Tidal Streams and Tidal Tails around Galaxies Using Deep Wendelstein Imaging Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adabda</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adabda</guid>
+<content:encoded><![CDATA[
+
+From the Λ cold dark matter paradigm, it is expected that galaxies merge and grow in their environments. These processes form various tidal features depending on the merger mass ratio, orbital parameters, and gas richness. We inspected 170 -band Abell cluster observations from the 2.1 m Fraunhofer-Teleskop Wendelstein and identify 111 of such features from which we select nine streams and five tails. A fast and innovative technique was developed for determining their photometric properties. The model is a Gaussian, including higher-order moments to describe the light profile in slices perpendicular to the elongation direction. From these models, FWHM apertures are generated. The method was developed, tested, and applied on the selected features and corresponding g- and r-band data from the Legacy Survey DR10. Regarding the novel modeling approach, we can measure surface and total brightnesses with precisions of 4% and 7%, respectively. Mean stream width precision, which also translates to the mean Re along the feature is on average within 3% uncertainty. The measured streams have on average a surface brightness of mag arcsec−2 and are dimmer than the tails in our sample ( mag arcsec−2). We infer that the progenitors of our streams can come from dwarfs, early-type galaxies or disks, based on the streams structural parameters. Furthermore, brightnesses and colors of the streams and tails are consistent with those of galaxies that populate the red sequence in the Coma cluster within 2σ.
+]]></content:encoded>
+
+<pubDate>2025-02-19T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A Method for Estimating X-Ray Pulsar Period and Pulse Time Delay: Applying the Improved Z n ...</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adad5f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad5f</guid>
 <content:encoded><![CDATA[
-
 In order to apply the Z2 statistic to the estimation of the navigation pulsar period and time delay, and thus further improve the accuracy of X-ray pulsar navigation, this paper proposes a method for estimating the pulsar period and time delay with complex profiles based on the improved -test. Based on the prior information of the amount of photon data in the observation task, this method adaptively determines the optimal harmonic truncation order under different data qualities. In order to solve the problem of the change rate of complex profile signals being too fast, the binned data is rephased according to the principle of equal photon intensity segmentation within the bin, and the optimal number of bins suitable for the PSR B0531+21 pulsar is selected. Through simulation, a quantitative analysis was conducted on factors that affect the performance of the estimation algorithm, such as observation time, detector area, noise interference, etc. Simulation results show that the proposed estimation method has greater advantages when the observation time is short, the detector area is small, and the interference noise is large. In addition, the observation data of the PSR B0531+21 pulsar is processed and analyzed. The period estimation accuracy of the method proposed is 3.6532 ns, which is 39.57% higher than that of the χ2-test method. The method we proposed has the advantages of being suitable for navigation pulsars, strong environmental adaptability, high estimation accuracy, and strong estimation stability, which can further improve the performance of X-ray pulsar navigation.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +118,8 @@ In order to apply the Z2 statistic to the estimation of the navigation pulsar pe
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adad68</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad68</guid>
 <content:encoded><![CDATA[
-
 We present results on the emission-line properties of z = 1.4–7.5 star-forming galaxies in the Assembly of Ultradeep Rest-optical Observations Revealing Astrophysics (AURORA) Cycle 1 JWST/NIRSpec program. Based on its depth, continuous wavelength coverage from 1 to 5 μm, and medium spectral resolution (R ∼ 1000), AURORA includes detections of a large suite of nebular emission lines spanning a broad range in rest-frame wavelength. We investigate the locations of AURORA galaxies in multiple different emission-line diagrams, including traditional BPT diagrams of [O iii]λ5007/Hβ versus [N ii]λ6583/Hα, [S ii]λλ6717, 6731/Hα, and [O i]λ6300/Hα, and the ionization–metallicity diagram of [O iii]λ5007/[O ii]λ3727 (O32) versus ([O iii]λ5007+[O ii]λ3727)/Hβ (R23). We also consider a bluer rest-frame ionization–metallicity diagram introduced recently to characterize z > 10 galaxies, [Ne iii]λ3869/[O ii]λ3727 versus ([Ne iii]λ3869+[O ii]λ3727)/Hδ, as well as longer-wavelength diagnostic diagrams extending into the rest-frame near-IR: [O iii]λ5007/Hβ versus [S iii]λλ9069, 9532/[S ii]λλ6717, 6731 (S32), and He iλ1.083 μm/Paγ and [S iii]λ9532/Paγ versus [Fe ii]λ1.257μm/Paβ. With a significant boost in signal-to-noise ratio and large, representative samples of individual galaxy detections, the AURORA emission-line diagrams presented here definitively confirm a physical picture in which chemically young, α-enhanced, massive stars photoionize the interstellar medium (ISM) in distant galaxies with a harder ionizing spectrum at fixed nebular metallicity than in their z ∼ 0 counterparts. We also uncover previously unseen evolution prior to z ∼ 2 in the [O iii]λ5007/Hβ versus [N ii]λ6583/Hα diagram, which motivates deep NIRSpec observations at even higher redshift. Finally, we present the first statistical sample of rest-frame near-IR emission-line diagnostics in star-forming galaxies at high redshift. In order to truly interpret rest-frame near-IR line ratios including [Fe ii]λ1.257 μm, we must obtain better constraints on dust depletion in the high-redshift ISM.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +127,8 @@ We present results on the emission-line properties of z = 1.4–7.5 star-forming
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adadef</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadef</guid>
 <content:encoded><![CDATA[
-
 Gamma-ray bursts (GRBs) are often referred to as the most luminous explosions in the Universe, due to their short and highly luminous prompt emission. This apparent luminosity, however, does not reflect the true energy budget of the prompt emission, which is strongly beamed. Accurate estimations of the energy radiated during the prompt phase require taking the geometry of GRB jets into account, which remains poorly known. Nevertheless, one may establish the distribution of well-measured quantities, like Eiso, the GRB isotropic equivalent energy, which encrypts crucial information about GRB jets, with the aim of providing constraints on the jet's radiated energy. In this work, we study the bright end of the GRB isotropic equivalent energy distribution (hereafter called “apparent energy”), using an updated sample of 185 apparently energetic GRBs with Eiso ≥ 1053 erg. This new sample includes GRB 221009A, allowing us to discuss this apparently superenergetic GRB in the context of the general Eiso distribution of long GRBs. We describe the construction of the sample and compare three fits of the Eiso distribution with a simple power law, a cutoff power law, and a broken power law. Our study confirms the existence of a cutoff around Eiso = 4 × 1054 erg, even when GRB 221009A is included in the sample. Based on this finding, we discuss the possible reasons behind the rapid decrease in the number of apparently energetic gamma-ray bursts beyond Eiso = 4 × 1054 erg and the interpretation of GRB 221009A, the most apparently energetic GRB detected to date, in this context.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +136,8 @@ Gamma-ray bursts (GRBs) are often referred to as the most luminous explosions in
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adadf5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadf5</guid>
 <content:encoded><![CDATA[
-
 A critical component of particle acceleration in astrophysical shocks is the nonresonant (Bell) instability, where the streaming of cosmic rays (CRs) leads to the amplification of magnetic fields necessary to scatter particles. In this work we use kinetic particle-in-cell simulations to investigate the high-CR-current regime, where the typical assumptions underlying the Bell instability break down. Despite being more strongly driven, significantly less magnetic field amplification is observed than in low-current cases, an effect due to the anisotropic heating that occurs in this regime. We also find that electron-scale modes, despite being the fastest growing, mostly lead to moderate electron heating and do not affect the late evolution or saturation of the instability.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +145,8 @@ A critical component of particle acceleration in astrophysical shocks is the non
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adae0a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae0a</guid>
 <content:encoded><![CDATA[
-
 High velocity stars move through the interstellar medium with V > 30 km s−1. When the star has powerful winds, under the appropriate conditions, the interaction of the wind with the interstellar material produces a system of shocks. The outer shock, called the bowshock, perturbs the ambient medium, heating and compressing the gas. The dust in the compressed bowshock cools, producing infrared radiation. This emission appears as extended coma-shape structures. The discovery of radio nonthermal emission from two stellar bowshock nebulae indicates that these sources might be accelerating electrons up to relativistic energies. The produced nonthermal radio emission is most probably synchrotron, which has a high degree of polarization. In this work we model the synchrotron emission of runaway massive star bowshocks aiming to produce synthetic radio emission and polarization maps for two frequencies: 1.40 and 4.86 GHz. We model the interacting plasmas in a steady-state regime by means of magnetohydrodynamics simulations and we compute the injection and transport of the relativistic electrons in the diffusion approximation. We include in the model the most important depolarization effects. Our main conclusions are (i) the effects of Faraday rotation within the source are important at the lowest frequency considered, (ii) inferring the local magnetic field direction from polarization measurements only can be misleading, (iii) thermal radio emission produced by ionized plasma within the bowshock structure and surroundings can surpass the polarized one for the considered frequencies, and (iv) the contribution from the background electrons is minor.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +154,8 @@ High velocity stars move through the interstellar medium with V > 30 km s−1. W
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adae84</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae84</guid>
 <content:encoded><![CDATA[
-
 If primordial black holes (PBHs) of asteroidal mass make up the entire dark matter, they could be detectable through their gravitational influence in the solar system. In this work, we study the perturbations that PBHs induce on the orbits of planets. Detailed numerical simulations of the solar system, embedded in a halo of PBHs, are performed. We find that the gravitational effect of the PBHs is dominated by the closest encounter. Using the Earth–Mars distance as an observational probe, we show that the perturbations are smaller than the current measurement uncertainties and thus PBHs are not directly constrained by solar system ephemerides. We estimate that an improvement in the ranging accuracy by an order of magnitude or the extraction of signals well below the noise level is required to detect the gravitational influence of PBHs in the solar system in the foreseeable future.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +163,8 @@ If primordial black holes (PBHs) of asteroidal mass make up the entire dark matt
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adae8b</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae8b</guid>
 <content:encoded><![CDATA[
-
 We constrain the spin of the black hole candidate MAXI J1727-203 using Insight-HXMT data. Due to limited Insight-HXMT observations covering only part of the outburst, NICER data were used to analyze the full outburst’s state transitions; we identified two of three HXMT observations in the high soft state and applied the continuum-fitting method to measure the spin. Based on previous estimates and continuum spectral fittings, we explored the parameter space and found that the best-fitting values were (D, i, M) ≈ (6 kpc, 30°, 12 M⊙). We also tested the variation of these parameters using Monte Carlo simulations, sampling over 3000 sets within the parameter ranges 5.9 kpc < D < 7 kpc, 24° < i < 35°, and 10 M⊙ < M < 14 M⊙, yielding a spin measurement of (1σ). In addition, we analyzed NuSTAR data in the low hard state and found a good fit with the tbabs∗(diskbb+powerlaw) model, with no significant iron line features observed in the residuals; therefore, the previous reflection model results suggesting an extremely high spin overestimates the black hole spin.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +172,8 @@ We constrain the spin of the black hole candidate MAXI J1727-203 using Insight-H
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adae8d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae8d</guid>
 <content:encoded><![CDATA[
-
 Planetary systems exhibiting mean motion resonances (MMRs) offer unique opportunities to study the imprint of disk-induced migration on the orbital architectures of planetary systems. The HD 45364 system, discovered via the radial velocity (RV) method to host two giant planets in a 3:2 MMR, has been the subject of several studies attempting to reconstruct the system’s orbital migration history based on its present-day resonant configuration. Recently, Z. Li et al. called into question the system’s residence in the 3:2 MMR based on a revised orbital solution derived from an expanded set of RV observations that extend the time baseline of the original discovery data by over a decade. However, we show that inferences about the planets’ dynamical state with respect to the 3:2 MMR are sensitive to the particular prior assumptions adopted in the orbital modeling. Using N-body dynamical models, we show that orbital solutions constrained to reside deep in the 3:2 MMR fit the RV data with a similar quality to unconstrained orbital solutions. We conclude that the RV observations of HD 45364 are consistent with orbital configurations produced by smooth migration and resonance capture. We further show that past convergent orbital migration can reproduce the system’s present-day orbital configuration provided that the ratio of migration to eccentricity damping timescales, K, was in the range 11 ≲ K ≲ 144. We also find that dynamical interactions in the system can break the usual mass–inclination degeneracy inherent to Keplerian models of RV observations and constrain the planets’ absolute masses to within a factor of ∼1.5.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,10 +181,8 @@ Planetary systems exhibiting mean motion resonances (MMRs) offer unique opportun
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaea9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaea9</guid>
 <content:encoded><![CDATA[
-
 Solar energetic particle (SEP) events have been observed for decades in the interplanetary medium by spacecraft measuring the intensity of energetic ions and electrons. These intensities provide valuable information about particle acceleration, the effects of bulk plasma dynamics on particle transport, and the anisotropy of particle distributions. Since measured intensities are typically reported in narrow energy bins, it is common to rebin intensities over a wider energy range to improve counting statistics. We investigate two methods for calculating intensities across multiple energy bins: (a) rebinned intensity ( ), which is calculated by integrating the intensity over energy space and corresponds to the intensity at an effective energy that depends on the time-varying spectral index, and (b) spectral binned intensity ( ), calculated by integrating the log intensity in log–energy space, yielding the intensity at the log-centered energy that is independent of the spectral index and remains constant over time. We compare these methods using Parker Solar Probe (PSP) IS⊙IS measurements of energetic protons, and we prescribe criteria for selecting the appropriate method for different scenarios. Our results show that the rebinned intensity is consistently larger (up to a factor of 5) than the spectral binned intensity for two SEP events observed by PSP, although the time series of the two methods are strongly correlated. Overall, both measures are important for SEP spectral analysis, and the selection of the appropriate measure depends on whether a physical (spectral binned intensity) or a statistical (rebinned intensity) representation is needed for a given analysis.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -108,10 +190,8 @@ Solar energetic particle (SEP) events have been observed for decades in the inte
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaeaa</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaeaa</guid>
 <content:encoded><![CDATA[
-
 We present the first contemporaneous NICER and NuSTAR analysis of the low-mass X-ray binary Serpens X-1 obtained in 2023 June, performing broadband X-ray spectral analysis modeling of the reprocessed emission with relxillNS from 0.4 to 30 keV. We test various continuum and background estimation models to ensure that our results do not hinge on the choice of model used, and found that the detection of reflection features is independent of the choice of both continuum and background model. The position of the inner accretion disk is consistent with the last stable circular orbit (Rin ≤ 1.2 RISCO) and a low inclination of i ≤ 8.3°. Additionally, we investigate the presence of the low-energy (∼1 keV) Fe L complex in the data from NICER and the Reflection Grating Spectrometer on XMM-Newton that was previously reported in the literature. We find that the line is at most a 2% feature relative to the reprocessed continuum, and are unable to claim a definitive detection for the current data set. However, we discuss plausible conditions and systems that would increase the likelihood of detecting this feature in the future.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -119,10 +199,8 @@ We present the first contemporaneous NICER and NuSTAR analysis of the low-mass X
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1a</guid>
 <content:encoded><![CDATA[
-
 The tight relationship between the stellar mass and halo mass of galaxies is one of the most fundamental scaling relations in galaxy formation and evolution. It has become a critical constraint for galaxy formation models. Over the past decade, growing evidence has convincingly shown that the stellar mass–halo mass relations (SHMRs) for star-forming and quiescent central galaxies differ significantly: at a given stellar mass, the average host halo mass of quiescent centrals is more massive than that of star-forming centrals. Despite the importance of this feature, its scientific implications have not yet been fully recognized or thoroughly explored in the field. In this work, we demonstrate that the semi-analytical model L-GALAXIES successfully reproduces these observational results, whereas three state-of-the-art hydrodynamic galaxy formation simulations (TNG, Illustris, and EAGLE) do not. Consequently, in L-GALAXIES, star-forming central galaxies are more efficient at converting baryons into stars than quiescent central galaxies at a given halo mass, while the other models predict similar efficiencies for both populations. Further analysis reveals that these fundamental discrepancies stem from distinct evolutionary paths on the stellar mass–halo mass plane. We show that the observed SHMRs for star-forming and quiescent galaxies support galaxy formation models in which quenching only weakly correlates with halo assembly histories and the stellar mass of star-forming galaxies can increase significantly after cosmic noon. In contrast, models in which quenching strongly preferentially happens in early-formed halos are not very favored. Additionally, we find that galaxy downsizing is present in L-GALAXIES and TNG but absent in Illustris and EAGLE.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -130,10 +208,8 @@ The tight relationship between the stellar mass and halo mass of galaxies is one
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1d</guid>
 <content:encoded><![CDATA[
-
 PSR J2021+4026 is a gamma-ray pulsar having variations in its spin-down rate and gamma-ray flux. Its variations in timing and emission are correlated, e.g., a larger spin-down rate for a low gamma-ray flux. We show that the mode change in PSR J2021+4026 can be understood in the precession scenario. In the precession model, the inclination angle is modulated due to precession. At the same time, the wobble angle may decay with time. This results in damping of the precession. Combined with the magnetospheric torque model and the outer gap model, the damped precession can explain that (1) when the inclination angle is larger, the spin-down rate will be larger, accompanied by a lower gamma-ray flux. (2) The variation in amplitude of the gamma-ray flux and spin-down rate is smaller than previous results due to the damping of the precession. The modulation period is becoming shorter due to a smaller wobble angle. In the end, we propose that there are two kinds of modulations in pulsars. Long-term modulations in pulsars may be due to precession. Short-term modulations may be of magnetospheric origin.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -141,10 +217,8 @@ PSR J2021+4026 is a gamma-ray pulsar having variations in its spin-down rate and
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf9a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf9a</guid>
 <content:encoded><![CDATA[
-
 In this work, under the hypothesis that quark matter may not be strange, we adopt a modification of the coupling constant of the four-quark scalar interaction in the two-flavor Nambu–Jona–Lasinio (NJL) model to study nonstrange hybrid stars, where G1 and G2 are two parameters constrained by using the lattice quantum chromodynamics simulation results at the critical temperature and zero chemical potential. The Maxwell construction is used to describe the first-order confinement–deconfinement phase transition in hybrid stars. With recent measurements on neutron star mass, radius, and tidal deformability, the hybrid equations of state are constrained. It is found that pure nonstrange quark matter cores can exist in hybrid stars, possessing 0.026–0.04 M⊙. The maximum hybrid star mass in the framework of the modified NJL model is about 0.1 M⊙ lighter than that in the conventional two-flavor NJL model. It is argued that the binary neutron stars in GW170817 should be hadron stars.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -152,10 +226,8 @@ In this work, under the hypothesis that quark matter may not be strange, we adop
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf9f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf9f</guid>
 <content:encoded><![CDATA[
-
 We report the spectroscopic identification of three brown dwarf candidates—o005_s41280, o006_s00089, and o006_s35616—discovered in RUBIES using James Webb Space Telescope (JWST) Near-Infrared Spectrograph PRISM/CLEAR spectroscopy. We fit these sources with multiple substellar atmosphere models and present the atmospheric parameters, including effective temperature (Teff), surface gravity, and other derived properties. The results suggest that o005_s41280 and o006_s35616, with Teff in the ranges of 2100–2300 K and 1800–2000 K, respectively, are likely L dwarfs, while o006_s00089, with Teff < 1000 K, is consistent with a late T dwarf classification. The best-fit model spectra provide a reasonable match to the observed spectra. However, distinct residuals exist in the Y, J, and H bands for the two L dwarf candidates, particularly for o006_s35616. Incorporating the extinction parameter into the fitting process can significantly reduce these residuals. The distance estimates indicate that these candidates are about 2 kpc away. The analysis of the color–color diagram using multiple JWST NIRcam photometry suggests that cooler T dwarfs, such as o006_s00089, overlap with little red dots, while hotter L dwarfs, like o005_s41280 and o006_s35616, tend to contaminate the high-redshift galaxy cluster. These findings suggest a brown dwarf contamination rate of approximately 0.1% in extragalactic deep field surveys, with L dwarfs being more frequently detected than cooler T and Y dwarfs.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -163,10 +235,8 @@ We report the spectroscopic identification of three brown dwarf candidates—o00
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adafa8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adafa8</guid>
 <content:encoded><![CDATA[
-
 The Guitar nebula surrounding PSR B2224+65 boasts a pulsar X-ray filament likely aligned with the local magnetic field. We present new RoboPol stellar polarization data distributed along the line of sight to the pulsar. The polarizing effect of intervening magnetized dust allows us to extract a model for the dust-weighted magnetic field. We detect a magnetic field angle consistent with the filament if the pulsar is located in the more distant zone of its parallax-estimated distance range.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
 <item>
@@ -174,13 +244,10 @@ The Guitar nebula surrounding PSR B2224+65 boasts a pulsar X-ray filament likely
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb032</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb032</guid>
 <content:encoded><![CDATA[
-
 We present a novel deep generative model, named GenMDI, to improve the temporal resolution of line-of-sight (LOS) magnetograms of solar active regions (ARs) collected by the Michelson Doppler Imager (MDI) on board the Solar and Heliospheric Observatory. Unlike previous studies that focus primarily on spatial super-resolution of MDI magnetograms, our approach can perform temporal super-resolution, which generates and inserts synthetic data between observed MDI magnetograms, thus providing finer temporal structure and enhanced details in the LOS data. The GenMDI model employs a conditional diffusion process, which synthesizes images by considering both preceding and subsequent magnetograms, ensuring that the generated images are not only of high quality but also temporally coherent with the surrounding data. Experimental results show that the GenMDI model performs better than the traditional linear interpolation method, especially in ARs with dynamic evolution in magnetic fields.
 ]]></content:encoded>
-
 <pubDate>2025-02-19T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A Pilot Study for the CSST Slitless Spectroscopic Quasar Survey Based on Mock Data</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adabdc</link>
@@ -9233,196 +9300,6 @@ We investigated two consecutive solar eruption events in the solar active region
 The determination of neutrino mass hierarchy is crucial for particle physics, astrophysics, and cosmology. In this work, we propose an easy-to-use method to determine the neutrino hierarchy based on core-collapse supernova (CCSN) neutrino detections. By analyzing the expected event rates of the neutrino burst at a terrestrial water Cherenkov detector, we found that the event rates predicted by the normal and inverted hierarchy models have marked differences in the neutrino energy range 10 ∼ 20 MeV and the postbounce time <0.5 s. Within this specific energy and time range, the analytical relationship between the cumulative event number and proto–neutron star (PNS) baryon mass is extracted. Based on the normal and inverted hierarchy models, two different PNS masses can be inferred from this relationship by using the time profile of neutrino events. Then, the neutrino hierarchy can be determined by comparing the PNS mass inferred from the neutrino detections and the electromagnetic or gravitational-wave channels. Furthermore, the nonadiabatic part of the Mikheyev–Smirnov–Wolfenstein flavor conversions may also be quantified with this method, which would be very helpful for the studies of the explosion mechanism and nucleosynthesis of CCSNe.
 ]]></content:encoded>
 <pubDate>2024-11-25T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Revealing the Elusive Companion of the Red Giant Binary 2MASS J05215658+4359220 from UV HST and Astrosat/UVIT Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad712f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad712f</guid>
-<content:encoded><![CDATA[
-Black hole (BH) demographics in different environments is critical in view of recent results on massive star binarity, and of the multimessenger detectability of compact object mergers. But the identification and characterization of noninteracting BHs are elusive, especially in the sparse field stellar population. A candidate noninteractive BH + red giant (RG) binary system, 2MASS J05215658+4359220, was identified by T. A. Thompson et al. We obtained Astrosat/UVIT far-ultraviolet (FUV) imaging and Hubble Space Telescope (HST) UV−optical imaging and spectroscopy of the source to test possible scenarios for the optically elusive companion. HST/STIS spectra from ≈1600 to 10230 Å are best fit by the combination of two stellar sources, a RG with Teff = 4250 ± 150 K, log g = 2.0, RRG ∼ 27.8 R⊙ (assuming a single-temperature atmosphere), and a subgiant companion with Teff = 6000 K, Rcomp = 2.7 R⊙, or Teff = 5270 K, Rcomp = 4.2 R⊙ using models with one-tenth or one-third solar metallicity, respectively, log g = 3.0, extinction EB−V = 0.50 ± 0.2, adopting the Data Release 3 Gaia distance D = 2463 ± 120 pc. No FUV data existed prior to our programs. STIS spectra give an upper limit of 10−17 erg cm−2 s−1 Å−1 shortwards of 2300 Å; an upper limit of ≳25.7 ABmag was obtained in two UVIT FUV broad bands. The nondetection of FUV flux rules out a compact companion such as a hot white dwarf. The STIS spectrum shows strong Mg iiλ2800 Å emission, typical of chromospherically active RGs. The masses inferred by comparison with evolutionary tracks, ∼1M⊙ for the RG and between 1.1 and 1.6 M⊙ for the subgiant companion, suggest past mass transfer, although the RG currently does not fill its Roche lobe. WFC3 imaging in F218W, F275W, F336W, F475W, and F606W shows an unresolved source in all filters.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Generalized Rotation Curves of the Milky Way from the GAIA DR3 Data Set: Constraints on Mass Models</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f1</guid>
-<content:encoded><![CDATA[
-<div> Gaia DR3 data, rotation curve, mass distribution, NFW model, DMD model
-<br /><br />总结:
-最近的研究使用了银河系的旋转曲线来研究银河系的潜力和质量分布。通过假设银河系处于杰恩斯平衡状态，他们推导出了径向距离和垂直高度范围内的旋转曲线，并使用两种不同的质量模型来约束物质分布。他们发现，DMD模型比NFW模型更好地拟合了旋转曲线上的行为，并提到研究垂直高度不同位置的旋转曲线可以更好地约束暗物质分布的几何特性。 <div>
-The circular velocity curve traced by stars provides a direct means of investigating the potential and mass distribution of the Milky Way. Recent measurements of the Galaxy’s rotation curve have revealed a significant decrease in velocity for Galactic radii larger than approximately 15 kpc. While these determinations have primarily focused on the Galactic plane, the Gaia DR3 data also offer information about off-plane velocity components. By assuming the Milky Way is in a state of Jeans equilibrium, we derived the generalized rotation curve for radial distances spanning from 8.5 kpc to 25 kpc and vertical heights ranging from −2 kpc to 2 kpc. These measurements were employed to constrain the matter distribution using two distinct mass models. The first is the canonical Navarro–Frenk–White (NFW) halo model, while the second, the dark matter disk (DMD) model, posits that dark matter is confined to the Galactic plane and follows the distribution of neutral hydrogen. The best-fitting NFW model yields a virial mass of Mvir = (6.5 ± 0.5) × 1011 M⊙, whereas the DMD model indicates a total mass of MDMD = (1.7 ± 0.2) × 1011 M⊙. Our findings indicate that the DMD model generally shows a better fit to both the on-plane and off-plane behaviors at large radial distances of the generalized rotation curves than the NFW model. We emphasize that studying the generalized rotation curves at different vertical heights has the potential to provide better constraints on the geometrical properties of the dark matter distribution.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Whole-disk Sampling of Molecular Clouds in M83</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8228</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8228</guid>
-<content:encoded><![CDATA[
-<div> 分析, M83, clouds, CO luminosity, mass sensitivity, beam dilution
-<br />
-这篇文章总结了对M83星系进行的12CO (1–0)观测数据的分析结果。研究采用Atacama大型毫米/亚毫米阵列进行观测，发现星系内约5724个分子云团，其中60%的CO亮度来自质量大于10^6M⊙的云团。质量大的云团集中在星系的臂、杆和中心区域，而较小的云团更多分布在星系的臂间区域。研究还发现，云团的亮度温度与Solomon等人于1987年确定的标度关系相符，但在数量上占主导地位的亮度温度低于2K的云团明显偏离这一关系。在考虑波束展宽效应后，大部分云团的动力学参数和表面质量密度可以用内在表面质量密度约为100M⊙pc-2和动力学参数约为1来解释，这与S87的观测结果相似。这些结果对于理解M83星系内的分子云团的物理特性具有重要意义。 <br /><br />总结: 该研究通过ALMA对M83星系的12CO观测数据进行分析，发现星系内分子云团的分布特性和物理参数，以及与标度关系的关联，这有助于深入理解星系内分子云团的性质。 <div>
-We present a catalog of clouds identified from the 12CO (1–0) data of M83, which was observed using the Atacama Large Millimeter/submillimeter Array with a spatial resolution of ∼46 pc and a mass sensitivity of ∼104M⊙ (3σ). The almost full-disk coverage and high sensitivity of the data allowed us to sample 5724 molecular clouds with a median mass of ∼1.9 × 105M⊙, which is comparable to the most frequently sampled mass of giant molecular clouds by surveys in the Milky Way (MW). About 60% of the total CO luminosity in M83's disk arises from clouds more massive than 106M⊙. Such massive clouds comprise 16% of the total clouds in number and tend to concentrate toward the arm, bar, and center, while smaller clouds are more prevalent in interarm regions. Most >106M⊙ clouds have peak brightness temperatures Tpeak above 2 K with the current resolution. Comparing the observed cloud properties with the scaling relations determined by P. M. Solomon et al. (1987, hereafter S87), Tpeak > 2 K clouds follow the relations, but Tpeak < 2 K clouds, which are dominant in number, deviate significantly. Without considering the effect of beam dilution, the deviations would suggest modestly high virial parameters (median αvir ∼ 2.7) and low surface mass densities (median Σ ∼ 22 M⊙ pc−2) for the entire cloud samples, which are similar to values found for the MW clouds by T. S. Rice et al. (2016) and M.-A Miville-Deschênes et al. (2017). However, once beam dilution is taken into account, the observed αvir and Σ for a majority of the clouds (mostly Tpeak <2 K) can be potentially explained with intrinsic Σ of ∼100 M⊙ pc−2 and αvir of ∼1, which are similar to the clouds of S87.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraining the Low-mass End of the Stellar-to-halo Mass Relation with Surveys of Satellite Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad834e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad834e</guid>
-<content:encoded><![CDATA[
-<div> 卫星星系，宿主暗物质晕，星—暗质关系，模拟研究，宿主暗物质质量。<br />
-在这篇文章中，研究人员通过分析卫星星系在宿主暗物质晕中的丰度，探讨了星—暗质质量关系的低质量端（MH < 1011M⊙）。他们指出最近对局部星系群环境中卫星星系的分析未能充分建模卫星星系恒星质量函数中的散射主要源，即固定宿主暗物质质量下的增光历史的方差。研究人员提出了一种新的推断框架，不仅恰当考虑了晕—晕方差，而且自然地确定了宿主暗物质质量混合的量，这通常是未知的。他们使用半解析SatGen模型构建了与卫星环绕类星系调查第三版数据一致的模拟卫星星系群体。他们证明即使在最理想的情况下，晕—晕方差使得对星—暗质量关系的散射施加任何有意义的限制几乎是不可能的。甚至由100个宿主组成的卫星星系调查最多只能在95%置信水平上对散射施加约0.5 dex的上限。这是因为晕组装历史的大方差主导了星—暗质量关系的散射。这个问题可以通过将调查样本大小增加一个数量级（大约1000个宿主星系）来解决，这在即将进行的光谱调查中应该是相当容易的。<br /><br />总结: 本文研究了卫星星系丰度与宿主暗物质晕的关系，并提出了一种新的推断框架来解决散射问题。研究人员发现即使在最理想的情况下，晕—晕方差也使得对星—暗质量关系的散射施加限制几乎不可能。他们指出，这个问题可以通过将调查样本大小增加一个数量级来解决。 <div>
-The abundance of satellite galaxies is set by the hierarchical assembly of their host halo. We leverage this to investigate the low-mass end (MH < 1011M⊙) of the stellar-to-halo mass relation (SHMR), which is key to constraining theories of galaxy formation and cosmology. We argue that recent analyses of satellite galaxies in the Local Group environment have not adequately modeled the dominant source of scatter in satellite stellar mass functions: the variance in accretion histories for a fixed host halo mass. We present a novel inference framework that not only properly accounts for this halo-to-halo variance but also naturally identifies the amount of host halo mass mixing, which is generally unknown. Specifically, we use the semianalytical SatGen model to construct mock satellite galaxy populations consistent with the third data release of the Satellites Around Galactic Analogs survey. We demonstrate that even under the most idealized circumstances, the halo-to-halo variance makes it virtually impossible to put any meaningful constraints on the scatter in the SHMR. Even a satellite galaxy survey made up 100 hosts can at best only place an upper limit of ∼0.5 dex on the scatter (at the 95% confidence level). This is because the large variance in halo assembly histories dominates over the scatter in the SHMR. This problem can be overcome by increasing the sample size of the survey by an order of magnitude (∼1000 host galaxies), something that should be fairly straightforward with forthcoming spectroscopic surveys.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Between the Extremes: A JWST Spectroscopic Benchmark for High-redshift Galaxies Using ∼500 Confirmed Sources at z ≥ 5</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d3</guid>
-<content:encoded><![CDATA[
-<div> 高红移，光度源，星系演化，光谱模板，JWST/NIRSpec prism<br />
-总结:<br />
-这篇文章报道了对于高红移星系进行光谱分析的研究。研究中利用了482个确认的z=5.0−12.9的光谱观测数据，构建了代表高红移星系的光谱模板，并报告了它们的平均特性。研究发现在z=5−11的星系中，主要以蓝色紫外连续斜率为主，表明这些星系贫尘且年轻。在我们的样本中，还发现了57个Lyα发射星系，并与非发射星系进行比较。研究结果揭示了这两类星系之间的重要内在差异，对Lyα能见度有重要影响。这些光谱模板提供了一个新的观测基准，有助于解释高红移光源的全局特性，扩展到了宇宙的早期时期。 <div>
-The exceptional spectra of the most luminous z > 10 sources observed so far have challenged our understanding of early galaxy evolution, requiring a new observational benchmark for meaningful interpretation. As such, we construct spectroscopic templates representative of high-redshift, star-forming populations, using 482 confirmed sources at z = 5.0−12.9 with JWST/NIRSpec prism observations, and report on their average properties. We find z = 5−11 galaxies are dominated by blue UV continuum slopes (β = −2.3 to −2.7) and reduced Balmer indices, characteristic of dust-poor and young systems, with a shift towards bluer slopes and younger ages with redshift. The evolution is mirrored by ubiquitous C iii] detections across all redshifts (rest-frame equivalent widths of 5−14 Å), which increase in strength towards early times. Rest-frame optical lines reveal elevated ratios (O32 = 7–31, R23 = 5–8, and Ne3O2 = 1−2) and subsolar metallicities (log(O/H) = 7.3−7.9), typical of ionization conditions and metallicities rarely observed in z ∼ 0 populations. Within our sample, we identify 57 Lyα emitters, which we stack and compare to a matched sample of nonemitters. The former are characterized by more extreme ionizing conditions with enhanced C iii], C iv, and He ii + [O iii] line emission, younger stellar populations from Balmer jumps, and a more pristine interstellar medium seen through bluer UV slopes and elevated rest-frame optical line ratios. The novel comparison illustrates important intrinsic differences between the two populations, with implications for Lyα visibility. The spectral templates derived here represent a new observational benchmark with which to interpret high-redshift sources, lifting our constraints on their global properties to unprecedented heights and extending out to the earliest of cosmic times.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Strong Nongravitational Accelerations and the Potential for Misidentification of Near-Earth Objects</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e3</guid>
-<content:encoded><![CDATA[
-<div> NEOs, nongravitational accelerations, linking apparitions, orbit identification algorithms, tracklets
-<br /><br />总结:
-最近在近地天体（NEOs）上发现了非引力加速，这引发了在近地环境中非均向质量损失的普遍性问题。研究表明，非引力加速度可能导致不同观测时刻的位置变化，并且影响了轨道识别算法的效果。然而，通过提出新的方法来寻找未链接的天体对，可以帮助识别和链接发生非引力加速的天体。当前的链接算法通常对非引力加速度具有一定的健壮性，但是可能会错过具有大非引力加速度的天体。预计从未来的调查任务中增加天体人口后，目前的算法将更加合适。 <div>
-Nongravitational accelerations in the absence of observed activity have recently been identified on near-Earth objects (NEOs), opening the question of the prevalence of anisotropic mass loss in the near-Earth environment. Motivated by the necessity of nongravitational accelerations to identify 2010 VL65 and 2021 UA12 as a single object, we investigate the problem of linking separate apparitions in the presence of nongravitational perturbations. We find that nongravitational accelerations on the order of 1 × 10–9 au day−2 can lead to a change in plane-of-sky positions of ∼1 × 103 arcsec between apparitions. Moreover, we inject synthetic tracklets of hypothetical nongravitationally accelerating NEOs into the Minor Planet Center orbit identification algorithms. We find that at large nongravitational accelerations (∣Ai∣ ≥ 1 × 10−8 au day−2) these algorithms fail to link a significant fraction of these tracklets. We further show that if orbits can be determined for both apparitions, the tracklets will be linked regardless of nongravitational accelerations, although they may be linked to multiple objects. In order to aid in the identification and linkage of nongravitationally accelerating objects, we propose and test a new methodology to search for unlinked pairs. When applied to the current census of NEOs, we recover the previously identified case but identify no new linkages. We conclude that current linking algorithms are generally robust to nongravitational accelerations, but objects with large nongravitational accelerations may potentially be missed. While current algorithms are well-positioned for the anticipated increase in the census population from future survey missions, it may be possible to find objects with large nongravitational accelerations hidden in isolated tracklet pairs.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Massive and Distant Clusters of WISE Survey 2: Second Data Release</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad888c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad888c</guid>
-<content:encoded><![CDATA[
-<div> MaDCoWS2, galaxy cluster candidates, CNN, redshift, completeness
-
-这篇文章介绍了MaDCoWS2的第二次数据发布，覆盖了Dark Energy Camera Legacy Survey区域，包括133,036个信噪比（S/N）≥5的星系团候选项，其中6790个候选项在z > 1.5处。作者使用卷积神经网络（CNN）区分虚假检测，提供了CNN基于概率的星系团分类。文章比较了MaDCoWS2样本与文献目录，结果表明新的样本与第一次数据发布一致。作者还对MaDCoWS2 S/N和其他目录中可观测量之间的关系进行了研究，并评估了方法在模拟光锥中的性能。最终得出纯度高于90%的结论，并估计50%完整度阈值在log(M/M⊙) ≈ 14.3处。<br /><br />总结: MaDCoWS2发布了第二批数据，包括133,036个星系团候选项，利用CNN进行分类。研究表明样本具有高纯度，但对于完整度的估计仍存在一定不确定性。 <div>
-We present the second data release of the Massive and Distant Clusters of WISE Survey 2 (MaDCoWS2). We expand from the equatorial first data release to most of the Dark Energy Camera Legacy Survey area, covering a total area of 6498 deg2. The catalog consists of 133,036 signal-to-noise ratio (S/N) ≥ 5 galaxy cluster candidates at 0.1 ≤ z ≤ 2, including 6790 candidates at z > 1.5. We train a convolutional neural network (CNN) to identify spurious detections and include CNN-based cluster probabilities in the final catalog. We also compare the MaDCoWS2 sample with literature catalogs in the same area. The larger sample provides robust results that are consistent with our first data release. At S/N ≥ 5, we rediscover 59%–91% of clusters in existing catalogs that lie in the unmasked area of MC2. The median positional offsets are under 250 kpc, and the standard deviation of the redshifts is 0.031(1 + z). We fit a redshift-dependent power law to the relation between MaDCoWS2 S/N and observables from existing catalogs. Over the redshift ranges where the surveys overlap with MaDCoWS2, the lowest scatter is found between S/N and observables from optical/infrared surveys. We also assess the performance of our method using a mock light cone measuring purity and completeness as a function of cluster mass. The purity is above 90%, and we estimate the 50% completeness threshold at a virial mass of log(M/M⊙) ≈ 14.3. The completeness estimate is uncertain due to the small number of massive halos in the light cone, but consistent with the recovery fraction found by comparing to other cluster catalogs.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Tleco: A Toolkit for Modeling Radiative Signatures from Relativistic Outflows</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc2</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc2</guid>
-<content:encoded><![CDATA[
-<div> GitHub repository, Tleco, numerical models, relativistic outflows, particle acceleration
-<br /><br />
-该论文介绍了Tleco，这是一个用于发展相对论性喷流的数值模型的多功能且轻量级的工具包。Tleco使用Rust编程语言构建，并封装成Python库，提供了演变相对论性粒子分布和解决结果电磁辐射的高效算法。该工具包可适用于模拟各种天体物理场景，包括但不限于伽马射线暴、脉冲星风星云和活动星系核喷流。该工具包的代码是开源的，可以在GitHub上找到。 <div>
-A wide range of astrophysical sources exhibit extreme and rapidly varying electromagnetic emission indicative of efficient nonthermal particle acceleration. Understanding these sources often involves comparing data with a broad range of theoretical scenarios. To this end, it is beneficial to have tools that enable not only fast and efficient parametric investigation of the predictions of a specific scenario but also the flexibility to explore different theoretical ideas. In this paper, we introduce Tleco, a versatile and lightweight toolkit for developing numerical models of relativistic outflows, including their particle acceleration mechanisms and resultant electromagnetic signature. Built on the Rust programming language and wrapped into a Python library, Tleco offers efficient algorithms for evolving relativistic particle distributions and for solving the resulting emissions in a customizable fashion. Tleco uses a fully implicit discretization algorithm to solve the Fokker–Planck equation with user-defined diffusion, advection, cooling, injection, and escape and offers prescriptions for radiative emission and cooling. These include, but are not limited to, synchrotron, inverse-Compton, and self-synchrotron absorption. Tleco is designed to be user friendly and adaptable to model particle acceleration and the resulting electromagnetic spectrum and temporal variability in a wide variety of astrophysical scenarios, including, but not limited to, gamma-ray bursts, pulsar wind nebulae, and jets from active galactic nuclei. In this work, we outline the core algorithms and proceed to evaluate and demonstrate their effectiveness. The code is open source and available in the GitHub repository: https://github.com/zkdavis/Tleco.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Puffy Venuses: The Mass–Radius Impact of Carbon-rich Atmospheres on Lava Worlds</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f03</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad6f03</guid>
-<content:encoded><![CDATA[
-<div> 关键词: exoplanet, carbon-rich atmosphere, puffy Venuses, magma oceans, TOI-561 b
-
-总结:
-本研究提出了一种名为“puffy Venuses”的理论类别的外行星模型，这些行星具有厚厚的碳主导大气，并处于与全球岩浆海洋相平衡的状态。研究模型考虑了大气和岩浆海洋之间的碳和氢分配，以及整个半灰色辐射对流大气中的碳-氢-氧平衡化学反应。研究发现，碳含量为1200 ppm（或普通球粒陨石的含量）可以使地球质量的行星在1500-2000 K的平衡温度下产生约0.16-0.3 R⊕的大气膨胀。研究指出TOI-561 b可能是一个特别有希望成为puffy Venus候选行星，其低密度可能归因于厚厚的碳富大气。此外，研究还提出了55 Cancri e可能具有puffy Venus解释，最近的JWST观测表明该行星可能具有CO/CO2大气。因此，puffy Venuses可能构成对低质量外行星内部结构的一种可检验的替代解释。 <div>
-The recent advancements in exoplanet observations enable the potential detection of exo-Venuses, rocky planets with carbon-rich atmospheres. How extended these atmospheres can be, given high carbon abundances, has not been studied. To answer this, we present a model for a theoretical class of exoplanets—puffy Venuses—characterized by thick, carbon-dominated atmospheres in equilibrium with global magma oceans (MOs). Our model accounts for carbon and hydrogen partition between the atmosphere and the MO, as well as the C–H–O equilibrium chemistry throughout a semi-gray, radiative-convective atmosphere. We find that radius inflation by puffy Venus atmospheres is significant on small and irradiated planets: carbon content of 1200 ppm (or that of ordinary chondrites) can generate an atmosphere of ∼0.16–0.3 R⊕ for an Earth-mass planet with equilibrium temperatures of 1500–2000 K. We identify TOI-561 b as an especially promising puffy Venus candidate, whose underdensity could be attributed to a thick C-rich atmosphere. We also advocate for a puffy Venus interpretation of 55 Cancri e, where a recent JWST observation indicates the presence of a CO/CO2 atmosphere. Puffy Venuses may thus constitute a testable alternative interpretation for the interior structure of underdense low-mass exoplanets.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraining Quasar Feedback from Analysis of the Hydrostatic Equilibrium of the Molecular Gas in Their Host Galaxies</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e26</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7e26</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Palomar-Green quasars, gas kinematics, dynamical mass, interstellar medium, quasar feedback
-总结:
-Palomar-Green类星体的宿主星系中的分子和电离气体的运动学和动力学通过分析CO和Hα数据立方体来研究冷分子和热电离气体的运动学，并利用先验知识构建样本的质量分布。我们通过气体动力学研究宿主星系的动力学质量，并发现我们的动力学方法所导出的恒星质量与宽带光度和质量-光度比的一致性。我们使用我们的动力学质量模型研究了动能压力和星际介质的重量。通过研究类星体宿主星系动力学质量和重力压力之间的关系，我们发现类星体宿主星系星际介质的静力平衡状态与正常形成星系中气体平衡的结果类似，表明了类星体反馈的最低影响。关于非圆形运动被认为是类星体驱动的流出现象，我们观察到分子气体流出和活动星系核波尔博热光度之间的耦合效率异常低。这些结果表明中心引擎对类星体宿主星系中冷分子气体的性质影响较小。 <div>
-We investigate the kinematics and dynamics of the molecular and ionized gas in the host galaxies of three Palomar-Green quasars at low redshifts, benefiting from the archival millimeter-wave interferometric and optical integral field unit data. We study the kinematics of both cold molecular and hot ionized gas by analyzing the CO and Hα data cubes, and construct the mass distributions of our sample through gas dynamics, utilizing a priori knowledge regarding the galaxy light distribution. We find no systematic offset between the stellar mass derived from our dynamical method and that from the broadband photometry and mass-to-light ratio, suggesting the consistency of both methods. We then study the kinetic pressure and the weight of the interstellar medium (ISM) using our dynamical mass model. By studying the relationship between kinetic pressure and gravitational pressure of the quasar host galaxies, we find an equivalence in the hydrostatic equilibrium states of ISM in the quasar host galaxies, similar to the result of gas equilibrium in normal star-forming galaxies, suggesting minimal quasar feedback. Regarding noncircular motion as indicative of quasar-driven outflows, we observe an exceptionally low coupling efficiency between molecular gas outflow and active galactic nucleus bolometric luminosities. These results demonstrate the marginal influence of the central engine on the properties of cold molecular gas in quasar host galaxies.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Disk2Planet: A Robust and Automated Machine Learning Tool for Parameter Inference in Disk–Planet Systems</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8086</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8086</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Disk2Planet, 机器学习, 系统参数推断, 神经网络, 演化算法
-
-机器学习工具Disk2Planet可以通过观测到的原行星盘结构推断出盘和行星的关键参数。它集成了适用于复杂优化问题的演化算法Covariance Matrix Adaptation Evolution Strategy和用于预测盘-行星交互解决方案的神经网络Protoplanetary Disk Operator Network。这个工具完全自动化，在Nvidia A100图形处理单元上可以在3分钟内获取一个系统的参数。实验证明，该工具可以实现百分比级别或更高的精度，并且能够处理缺失数据和未知噪声水平。<br /><br />总结: 本文介绍了一种机器学习工具Disk2Planet，它能够从观测到的原行星盘结构中推断出盘和行星的关键参数。该工具集成了演化算法和神经网络，能够在短时间内实现高精度的参数推断，同时具备处理缺失数据和未知噪声的能力。 <div>
-We introduce Disk2Planet, a machine-learning-based tool to infer key parameters in disk–planet systems from observed protoplanetary disk structures. Disk2Planet takes as input the disk structures in the form of 2D density and velocity maps, and outputs disk and planet properties, that is, the Shakura–Sunyaev viscosity, the disk aspect ratio, the planet–star mass ratio, and the planet’s radius and azimuth. We integrate the Covariance Matrix Adaptation Evolution Strategy, an evolutionary algorithm tailored for complex optimization problems, and the Protoplanetary Disk Operator Network, a neural network designed to predict solutions of disk–planet interactions. Our tool is fully automated and can retrieve parameters in one system in 3 minutes on an Nvidia A100 graphics processing unit. We empirically demonstrate that our tool achieves percent-level or higher accuracy, and is able to handle missing data and unknown levels of noise.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Search for Persistent Radio Sources toward Repeating Fast Radio Bursts Discovered by CHIME/FRB</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad808e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad808e</guid>
-<content:encoded><![CDATA[
-<div> 重复快速无线电爆发（FRBs），持久射电源（PRSs），CHIME/FRB重复器，多波段分析，星际中心引擎
-<br /><br />总结:
-这篇文章对37个CHIME/FRB重复器进行了系统性的射电源搜索，通过多波段分析，确认了两个潜在的持久射电源（20181030A-S1和20190417A-S1），但在绝大多数情况下并未找到相关的持久射电源。文章进一步提出了对与重复FRB相关的亮度低的持久射电源数量的限制。此外，该研究还对PRS候选者的来源进行了分析，并提出了未来观测的需求。 <div>
-The identification of persistent radio sources (PRSs) coincident with two repeating fast radio bursts (FRBs) supports FRB theories requiring a compact central engine. However, deep nondetections in other cases highlight the diversity of repeating FRBs and their local environments. Here, we perform a systematic search for radio sources towards 37 CHIME/FRB repeaters using their arcminute localizations and a combination of archival surveys and targeted observations. Through multiwavelength analysis of individual radio sources, we identify two (20181030A-S1 and 20190417A-S1) for which we disfavor an origin of either star formation or an active galactic nucleus in their host galaxies and thus consider them candidate PRSs. We do not find any associated PRSs for the majority of the repeating FRBs in our sample. For eight FRB fields with Very Large Array imaging, we provide deep limits on the presence of PRSs that are 2–4 orders of magnitude fainter than the PRS associated with FRB 20121102A. Using Very Large Array Sky Survey imaging of all 37 fields, we constrain the rate of luminous (≳1040 erg s−1) PRSs associated with repeating FRBs to be low. Within the context of FRB-PRS models, we find that 20181030A-S1 and 20190417A-S1 can be reasonably explained within the context of magnetar, hypernebulae, gamma-ray burst afterglow, or supernova ejecta models—although we note that both sources follow the radio luminosity versus rotation measure relationship predicted in the nebula model framework. Future observations will be required to both further characterize and confirm the association of these PRS candidates with the FRBs.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Expanding the Inventory of Molecule-rich Planetary Nebulae: New Observations of M4-17, Hu 1-1, M1-59, and Na 2</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad83be</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad83be</guid>
-<content:encoded><![CDATA[
-<div> Molecular observations, PNe, Arizona Radio Observatory, Institut de Radioastronomie Millimétrique, transitions<br />
-M4-17, Hu 1-1, M1-59, Na 2, four planetary nebulae, molecular composition, diverse, CN, CCH, HCO+, elliptical PNe<br />
-HNC, CCH, and CN are prevalent molecules in the four planetary nebulae, with fractional abundances of f ∼ 0.9–7.5 × 10−7. Elliptical PNe like Hu 1-1 have a diverse molecular composition, while the late PN stage Na 2 also contains CN, CCH, and HCO+ with comparable abundances to younger PNe, indicating the maintenance of molecular content. The study suggests that elliptical PNe can have a diverse molecular composition and demonstrates the presence of distinct molecular species in the late PN stage.<br /><br />总结:<br />本研究观察了M4-17、Hu 1-1、M1-59和Na 2四个行星状星云的分子情况，并发现了丰富的分子成分。其中CN、CCH和HCO+为主要分子，并且在各个行星状星云中的丰度相当。椭圆形行星状星云（如Hu 1-1）的分子组成多样，而晚期的Na 2也含有CN、CCH和HCO+，且与年轻的行星状星云相比丰度相似，表明分子成分在晚期行星状星云阶段得以保持。 <div>
-Molecular observations of four planetary nebulae (PNe), M4-17, Hu 1-1, M1-59, and Na 2, were conducted at 1–3 mm using the Arizona Radio Observatory’s 12 m antenna and Submillimeter Telescope, and the Institut de Radioastronomie Millimétrique 30 m Telescope. Toward M4-17, HNC (J = 3 → 2), CCH (N = 2 → 1, N = 3 → 2), CN (N = 1 → 0, N = 2 → 1), H2CO (JKa,Kc = 21,2 → 11,1, JKa,Kc = 20,2 → 10,1, JKa,Kc = 21,1 → 11,0), CS (J = 3 → 2, J = 5 → 4), and H13CN (J = 2 → 1) were detected. An almost identical set of transitions was identified toward Hu 1-1. Moreover, c–C3H2 was detected in Hu 1-1 via three 2 mm lines: JKa,Kc = 31,2 → 22,1, JKa,Kc = 41,4 → 30,3, and JKa,Kc = 32, 2 → 21,1. HNC, CCH, CN, CS, and H13CN were found in M1-59, as well as H2S via its JKa,Kc = 11,0 → 10,1 line—the first detection of this key sulfur species in PNe. In addition, CCH and CN were identified in the 27,000 yr old Na 2. Among these four sources, CN and CCH were the most prevalent molecules (after CO and H2) with fractional abundances, relative to H2, of f ∼ 0.9–7.5 × 10−7 and 0.8–7.5 × 10−7, respectively. CS and HNC have abundances in the range f ∼ 0.5–5 × 10−8, the latter resulting in HCN/HNC ∼ 3 across all three PNe. The unusual species H2CO, c–C3H2, and H2S had f ∼ 3–4 × 10−7, 10−8, and 6 × 10−8. This study suggests that elliptical PNe such as Hu 1-1 can have a diverse molecular composition. The presence of CN, CCH, and HCO+ in Na 2, with comparable abundances to younger PNe, demonstrates that molecular content is maintained into the late PN stage.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Multi-Observatory Research of Young Stellar Energetic Flares (MORYSEF): X-Ray-flare-related Phenomena and Multi-epoch Behavior</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8562</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8562</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 星际耀斑, 磁能量, 前主序星, Orion星云, 多波段观测
-
-总结:
-本研究对前主序星的磁能量驱动的最强星际耀斑进行了观测和分析。研究团队利用Chandra望远镜观测到了Orion星云中大量的耀斑现象。此外，还进行了多波段观测，并分析了2003年至2016年的数据，得出了以下结论：1.报道了多个目标星的恒星休眠和耀斑X射线特性，有助于进行多波段分析。2.首次报告了中等能量耀斑与恒星质量/大小（存在/不存在盘）之间的相关性（或缺乏相关性）。3.大多数前主序星都表现出轻微的长期基线变化，这表明了固有的磁力学周期的缺失或者长期观测对前主序星X射线的影响。4.得出结论，X射线超级耀斑是前主序星中普遍现象，这表明所有原行星盘和新生行星都会受到高能辐射的影响。 <br /><br /> <div>
-The most powerful stellar flares driven by magnetic energy occur during the early pre-main-sequence (PMS) phase. The Orion Nebula represents the nearest region populated by young stars, showing the greatest number of flares accessible to a single pointing of Chandra. This study is part of a multi-observatory project to explore stellar surface magnetic fields (with the Hobby–Eberly Telescope Habitable-zone Planet Finder, HET-HPF), particle ejections (with the Very Long Baseline Array, VLBA), and disk ionization (with the Atacama Large Millimeter/submillimeter Array, ALMA) immediately following the detection of PMS superflares with Chandra. In 2023 December, we successfully conducted such a multi-telescope campaign. Additionally, by analyzing Chandra data from 2003, 2012, and 2016, we examine the multi-epoch behavior of PMS X-ray emission related to PMS magnetic cyclic activity and ubiquitous versus sample-confined megaflaring. Our findings are as follows. (1) We report detailed stellar quiescent and flare X-ray properties for numerous HET/ALMA/VLBA targets, facilitating ongoing multiwavelength analyses. (2) For numerous moderately energetic flares, we report correlations (or lack thereof) between flare energies and stellar mass/size (presence/absence of disks) for the first time. The former is attributed to the correlation between convection-driven dynamo and stellar volume, while the latter suggests the operation of solar-type flare mechanisms in PMS stars. (3) We find that most PMS stars exhibit minor long-term baseline variations, indicating the absence of intrinsic magnetic dynamo cycles or observational mitigation of cycles by saturated PMS X-rays. (4) We conclude that X-ray megaflares are ubiquitous phenomena in PMS stars, which suggests that all protoplanetary disks and nascent planets are subject to violent high-energy emission and particle irradiation events.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>An In-depth Analysis of Quiet-Sun IRIS Brightenings</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8576</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8576</guid>
-<content:encoded><![CDATA[
-<div> 高分辨率观测、界面区域成像光谱仪、小尺度明亮现象、磁场重连、光谱分析<br />
-小尺度明亮现象在色球层是普遍的、动态的和充满能量的现象。研究利用高分辨观测和先进的滤波检测算法检测到这些明亮现象，并对其运动和特征进行了分析。研究结果发现，在安静太阳区域和超粒结界面上存在不同特征的明亮现象，其中与超粒结界面相关的明亮现象移动距离较短，速度较慢。光谱分析显示这些明亮现象表现出蓝移和可能从色球层升到转换区。这些研究结果支持了磁场模型和磁场重连理论，并指出这些明亮现象是磁性的，并可能是磁场重连的结果。这些明亮现象可能是在磁场梯度之间的电流片上产生，而不是沿着磁场线运动。 <br /><br />总结: <br />研究发现小尺度明亮现象在太阳色球层普遍存在，其特征和运动模式与超粒结界面上的明亮现象有所不同。光谱分析显示这些明亮现象可能涉及磁场重连，并可能从色球层升到转换区。这一研究结果为太阳表面的磁场结构和能量释放提供了重要线索。 <div>
-Small-scale brightenings are ubiquitous, dynamic, and energetic phenomena found in the chromosphere. An advanced filter-detection algorithm applied to high-resolution observations from the Interface Region Imaging Spectrograph enables the detection of these brightenings close to the noise level. This algorithm also tracks the movement of these brightenings and extracts their characteristics. This work outlines the results of an in-depth analysis of a quiet-Sun data set including a comparison of a brighter domain—associated with a supergranular boundary—to the quiescent internetwork domains. Several characteristics of brightenings from both domains are extracted and analysed, providing a range of sizes, durations, brightness values, travel distances, and speeds. The “active” quiet-Sun events tend to travel shorter distances and at slower speeds across the plane of the sky than their “true” quiet-Sun counterparts. These results are consistent with the magnetic field model of supergranular photospheric structures and the magnetic canopy model of the chromosphere above. Spectroscopic analyses reveal that bright points demonstrate blueshift (as well as some bidirectionality) and that they may rise from the chromosphere into the transition region. We believe that these bright points are magnetic in nature, are likely the result of magnetic reconnection, and follow current sheets between magnetic field gradients, rather than travel along magnetic field lines themselves.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Radial Distribution of Electron Quasi-thermal Noise in the Inner Heliosphere</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d6</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85d6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 太阳风等离子体，电子群分布，电子准热噪声，电子密度和温度，库仑参数
-
-总结:<br />
-本文研究了太阳风等离子体中的电子群分布，发现可以用一个由麦克斯韦分布的核心和基于kappa分布的晕带的电子群模型来描述。通过计算不同日心径距离下的电子准热噪声的功率谱，揭示了这种噪声在频谱上的特点和有效的德拜长度随模型参数变化的依赖性。研究结果表明，电子准热噪声谱包括低频段（f < fpt）的平台、总等离子体频率 fpt处的峰值以及高频段（f > fpt）的急剧下降部分。随着日心径距离的增加，噪声的峰值和平台水平不断下降，峰值的形状也会因为kappa指数的变化而改变。尽管模型参数可以变化，但在实际情况下，这些参数的变化对于平台水平的影响不大，而当参数接近实际情况时，平台只显示出单调变化。这些结果对于未来内太阳风区域的深空探测以及探测器的设计具有重要的参考价值。 <div>
-The electron population in the solar wind plasma can be described with three different components: a core, a halo, and a magnetic field aligned strahl. The electron quasi-thermal noise (QTN) is investigated by using an electron population model consisting of a core with a Maxwellian distribution and a halo with a kappa distribution, based on the empirical equations for electron density and temperature and the index for the kappa halo. The power spectra of the electron QTN are calculated at different heliocentric radial distances from 10 to 200 Rs. The dependence of the QTN spectrum and effective Debye length on model parameters, including the ratio of the halo to the core for the density and temperature, the kappa index, and the antenna length, is further discussed. The results show that the electron QTN spectrum consists of a plateau in the low-frequency band f < fpt, a peak at the total plasma frequency fpt, and a rapidly decreasing part in the high-frequency band f > fpt. The QTN peak and plateau level continuously decrease as the radial distance increases, with the peak’s shape changing due to the variation of the kappa index. Although the model parameters are variable, the QTN plateau level presents less than an order of change with these parameters changing greatly, and only a monotonic change of the plateau is shown when the parameters are close to the practical situation. The results can provide a reference for future deep-space exploration in the inner heliosphere, and also for the design of detectors.
-]]></content:encoded>
-<pubDate>2024-11-22T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
