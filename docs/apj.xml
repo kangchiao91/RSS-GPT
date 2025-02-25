@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>On a Critical Acceleration Scale of Dark Matter in ΛCDM and Dynamical Dark Energy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb3</guid>
 <content:encoded><![CDATA[
-
 Universal acceleration a0 emerges in various empirical laws, yet its fundamental nature remains unclear. Using Illustris and Virgo N-body simulations, we focus on the velocity and acceleration fluctuations in collisionless dark matter involving long-range gravity. For comparison, in the kinetic theory of gases, molecules undergo random elastic collisions involving short-range interactions, where only velocity fluctuations are relevant. Hierarchical structure formation proceeds through the merging of smaller halos to form larger halos, which facilitates a continuous energy cascade from small to large halos at a constant rate εu ≈ −10−7 m2 s−3. Velocity fluctuations involve a critical velocity uc ∝ (1 + z)−3/4. Acceleration fluctuations involve a critical acceleration ac ∝ (1 + z)3/4. Two critical quantities are related by the rate of energy cascade εu ≈ −acuc/[2(3π)2], where factor 3π is from the angle of incidence during merging. With critical velocity uc on the order of 300 km s−1 at z = 0, the critical acceleration is determined to be ac0 ≡ ac(z = 0) ≈ 10−10 m s−2, suggesting ac might explain the universal acceleration a0 ≈ 10−10 m s−2 in the empirical Tully–Fisher relation or modified Newtonian dynamics. The redshift evolution ac ∝ (1 + z)3/4 is in good agreement with Magneticum and EAGLE simulations and in reasonable agreement with limited observations. This suggests a larger a0 at a higher redshift such that galaxies of fixed mass rotate faster at a higher redshift. Note that for dark energy (DE) density J m−3, we postulate an entropic origin of the DE from acceleration fluctuations of dark matter, analogous to the gas pressure from velocity fluctuations. This leads to a dynamical DE coupled to the structure evolution involving a relatively constant DE density followed by a slow weakening phase, suggesting possible deviations from the standard ΛCDM paradigm.
 ]]></content:encoded>
-
 <pubDate>2025-02-25T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ Universal acceleration a0 emerges in various empirical laws, yet its fundamental
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b5</guid>
 <content:encoded><![CDATA[
-
 A growing population of long-period radio transients has been discovered, and their physical origin is still up for debate. Recently, a new such source named ILT J1101+5521 was discovered, which is in a white dwarf (WD)–red dwarf (RD) binary system, with the observed 125.5 minutes period in radio emission being identified as the orbital period and the radio emission occurs at the inferior conjunction of the WD. We suggest that the radio emission properties of the system can be well explained within the framework of the unipolar inductor magnetic interaction model between the magnetized WD and the RD with low magnetization, with a relativistic version of electron cyclotron maser emission being the most likely radiation mechanism. We suggest that this mechanism can interpret at least some long-period radio transients, especially the ultra-long-period subpopulation. Within this model, high energy emission in X-rays via relativistically boosted cyclotron radiation and γ-rays via inverse Compton scattering off stellar light are expected, but the predicted luminosities are relatively low. This model likely applies to the ultra-long-period population of LPRTs. The short-period population of LPRTs is likely powered by other engines, such as slow magnetars.
 ]]></content:encoded>
-
 <pubDate>2025-02-25T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Radio Counterpart to the Fast X-Ray Transient EP240414a</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaef</link>
@@ -9008,24 +9004,6 @@ Volatiles like H2O are present as ice in solids in the cold outer regions of pro
 We use a sample of 73 simulated satellite and central dwarf galaxies spanning a stellar mass range of 105.3–109.1M⊙ to investigate the origin of their stellar age gradients. We find that dwarf galaxies often form their stars “inside-out,” i.e., the stars form at successively larger radii over time. However, the oldest stars get reshuffled beyond the star-forming radius by fluctuations in the gravitational potential well caused by stellar feedback (the same mechanisms that cause dwarfs to form dark matter cores). The result is that many dwarfs appear to have an “outside-in” age gradient at z = 0, with younger stellar populations more centrally concentrated. However, for the reshuffled galaxies with the most extended star formation, young stars can form out to the large radii to which the old stars have been reshuffled, erasing the age gradient. We find that major mergers do not play a significant role in setting the age gradients of dwarfs. We find similar age gradient trends in satellites and field dwarfs, suggesting that environment plays only a minor role, if any. Finally, we find that the age gradient trends are imprinted on the galaxies at later times, suggesting that the stellar reshuffling dominates after the galaxies have formed 50% of their stellar mass. The later reshuffling is at odds with results from the fire-2 simulations. Hence, age gradients offer a test of current star formation and feedback models that can be probed via observations of resolved stellar populations.
 ]]></content:encoded>
 <pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>21cmlstm: A Fast Memory-based Emulator of the Global 21 cm Signal with Unprecedented Accuracy</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b20</guid>
-<content:encoded><![CDATA[
-Neural network (NN) emulators of the global 21 cm signal need an emulation error much less than the observational noise in order to be used to perform unbiased Bayesian parameter inference. To this end, we introduce 21cmLSTM—a long short-term memory (LSTM) NN emulator of the global 21 cm signal that leverages the intrinsic correlation between frequency channels to achieve exceptional accuracy compared to previous emulators, which are all feedforward, fully connected NNs. LSTM NNs are a type of recurrent NN designed to capture long-term dependencies in sequential data. When trained and tested on the same simulated set of global 21 cm signals as the best previous emulators, 21cmLSTM has an average relative rms error of 0.22%—equivalently 0.39 mK—and comparably fast evaluation time. We perform seven-dimensional Bayesian parameter estimation analyses using 21cmLSTM to fit global 21 cm signal mock data with different adopted observational noise levels, σ21. The posterior 1σ rms error is ≈three times less than σ21 for each fit and consistently decreases for tighter noise levels, showing that 21cmLSTM can sufficiently exploit even very optimistic measurements of the global 21 cm signal. We have made the emulator, code, and data sets publicly available so that 21cmLSTM can be independently tested and used to retrain and constrain other 21 cm models.
-]]></content:encoded>
-<pubDate>2024-11-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Evidence for a Close-in Tertiary Orbiting around the Algol-type System HZ Dra with Tidal Splitting and Spots Activities</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bc4</guid>
-<content:encoded><![CDATA[
-We report a cyclic variation of the O − C diagram with a semiamplitude of 0.0033 days and a period of 1.05 yr for the pulsating eclipsing binary HZ Dra. The cyclic variation can be explained by the light travel-time effect via the presence of a close-in third body orbiting around HZ Dra in an elliptical orbit with a maximum semimajor axis of 0.89 au. Based on the Wilson–Devinney code, the contribution of the third light to the total system is determined to be 29.0%, which is in agreement with the estimated value. Our light-curve modeling indicates an evolving hot and cool spot on the surface of the primary and secondary components, respectively. Their positions are roughly symmetrical to the inner Lagrangian point L1, which could be used to explain the variation in the O'Connell effect. Our frequency analysis detects one radial p-mode, seven nonradial p-modes, and one nonradial g-mode. In addition, a total of six multiplets are identified, spaced by the orbital frequency, which can be explained as a tidally split mode caused by the equilibrium tides of the close binary system with a circular orbit. These pulsating features suggest that the primary of HZ Dra is a δ Scuti star, pulsating in both p- and g-mode and influenced by tidal forces.
-]]></content:encoded>
-<pubDate>2024-11-28T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
