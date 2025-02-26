@@ -4,6 +4,28 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Recovering Injected Astrophysics from the LISA Double White Dwarf Binaries</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e2</guid>
+<content:encoded><![CDATA[
+
+We present the successful recovery of common-envelope ejection efficiency assumed in a simulated population of double white dwarf (DWD) binaries like those which may be observed by the future Laser Interferometer Space Antenna (LISA) mission. We simulate the formation of DWD binaries by using the COSMIC population synthesis code to sample binary formation conditions such as initial mass function, metallicity of star formation, initial orbital period, and initial eccentricity. These binaries are placed in the m12i synthetic Milky Way–like galaxy, and their signal-to-noise ratio (SNR) for the LISA instrument is estimated, considering a Galactic gravitational-wave foreground informed by the population. Through the use of Fisher estimates, we construct a likelihood function for the measurement error of the LISA-bright DWD binaries (≥20 SNR, fGW ≥ 5 mHz), in their gravitational-wave frequency (fGW) and chirp mass. By repeating this process for different assumptions of the common-envelope ejection efficiency, we apply Bayesian hierarchical inference to find the best match to an injected astrophysical assumption for a fiducial population model. We conclude that the impact of common-envelope ejection efficiency on the mass-transfer processes involved in DWD formation may be statistically relevant in the future observed LISA population, and that constraints on binary formation may be found by comparing simulated populations to a future observed population.
+]]></content:encoded>
+
+<pubDate>2025-02-26T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Quantifying Advantages of a Moving Mesh in Nuclear Hydrodynamics</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb0</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb0</guid>
+<content:encoded><![CDATA[
+
+Many astrophysical explosions, such as type Ia supernovae, classical novae, and X-ray bursts, are dominated by thermonuclear runaway. To model these processes accurately, one must evolve nuclear reactions concurrently with hydrodynamics. We present an application of the moving mesh technique to this field of computation with the aim of explicitly testing the advantages of the method against the fixed mesh case. By way of traditional Strang splitting, our work couples a 13 isotope nuclear reaction network to a 1D moving mesh, Cartesian geometry hydrodynamics code. We explore three reacting problems: an acoustic pulse, a burning shock, and an advecting deflagration. Additionally, using the shock jump conditions, we semianalytically solve the burning shock problem under the assumption of quick, complete burning with the hope of establishing a useful and easy-to-set-up test problem. Strong moving mesh advantages are found in advecting, deflagrating flame fronts, where the technique dramatically reduces numerical diffusion that would otherwise lead to very fast artificial deflagration.
+]]></content:encoded>
+
+<pubDate>2025-02-26T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity–Spectral Type Dependence in Taurus–Auriga YSOs</title>
