@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Recovering Injected Astrophysics from the LISA Double White Dwarf Binaries</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e2</guid>
 <content:encoded><![CDATA[
-
 We present the successful recovery of common-envelope ejection efficiency assumed in a simulated population of double white dwarf (DWD) binaries like those which may be observed by the future Laser Interferometer Space Antenna (LISA) mission. We simulate the formation of DWD binaries by using the COSMIC population synthesis code to sample binary formation conditions such as initial mass function, metallicity of star formation, initial orbital period, and initial eccentricity. These binaries are placed in the m12i synthetic Milky Way–like galaxy, and their signal-to-noise ratio (SNR) for the LISA instrument is estimated, considering a Galactic gravitational-wave foreground informed by the population. Through the use of Fisher estimates, we construct a likelihood function for the measurement error of the LISA-bright DWD binaries (≥20 SNR, fGW ≥ 5 mHz), in their gravitational-wave frequency (fGW) and chirp mass. By repeating this process for different assumptions of the common-envelope ejection efficiency, we apply Bayesian hierarchical inference to find the best match to an injected astrophysical assumption for a fiducial population model. We conclude that the impact of common-envelope ejection efficiency on the mass-transfer processes involved in DWD formation may be statistically relevant in the future observed LISA population, and that constraints on binary formation may be found by comparing simulated populations to a future observed population.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ We present the successful recovery of common-envelope ejection efficiency assume
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb0</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb0</guid>
 <content:encoded><![CDATA[
-
 Many astrophysical explosions, such as type Ia supernovae, classical novae, and X-ray bursts, are dominated by thermonuclear runaway. To model these processes accurately, one must evolve nuclear reactions concurrently with hydrodynamics. We present an application of the moving mesh technique to this field of computation with the aim of explicitly testing the advantages of the method against the fixed mesh case. By way of traditional Strang splitting, our work couples a 13 isotope nuclear reaction network to a 1D moving mesh, Cartesian geometry hydrodynamics code. We explore three reacting problems: an acoustic pulse, a burning shock, and an advecting deflagration. Additionally, using the shock jump conditions, we semianalytically solve the burning shock problem under the assumption of quick, complete burning with the hope of establishing a useful and easy-to-set-up test problem. Strong moving mesh advantages are found in advecting, deflagrating flame fronts, where the technique dramatically reduces numerical diffusion that would otherwise lead to very fast artificial deflagration.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity–Spectral Type Dependence in Taurus–Auriga YSOs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f37</link>
@@ -9006,24 +9002,6 @@ LS 5039 is one of a handful of γ-ray binary systems in the milky Way, comprisin
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7d05</guid>
 <content:encoded><![CDATA[
 Understanding the transport of energy within space plasmas, particularly in the solar wind, remains a complex challenge. Accurate measurement of electron temperatures and their nonthermal characteristics is crucial for comprehending energy transport properties in plasmas. Quasi-thermal-noise (QTN) spectroscopy has emerged as a dependable tool for precise electron parameters assessment as it is less susceptible to spacecraft effects than particle detectors. In this study, we apply a QTN spectroscopy fitting method to analyze data from the Parker Solar Probe FIELDS radio instrument obtained during Encounters 2 through 13, under unbiased antenna conditions. We use the kappa function to characterize the electron velocity distribution and employ a fitting technique to derive the changes in each parameter across heliocentric distances ranging from 12 Rs to 76 Rs. Specifically, we find that the electron density scales as ne ∝ r−2.09±0.04 and the Te ∝ r−0.65±0.02. The distribution of the kappa index has three distinct regions as a function of radial distance from the Sun. Furthermore, we conduct a statistical analysis of solar wind energy flux which we finds follows a power-law relationship wtotal ∝ r−1.92±0.04.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Characterizing the Broadband Reflection Spectrum of MAXI J1803-298 during Its 2021 Outburst with NuSTAR and NICER</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad82e9</guid>
-<content:encoded><![CDATA[
-MAXI J1803-298 is a transient black hole candidate discovered in 2021 May during an outburst that lasted several months. Multiple X-ray observations reveal recurring “dipping” intervals in several of its light curves, particularly during the hard/intermediate states, with a typical recurrence period of ∼7 hr. We report analysis of four NuSTAR observations of the source, supplemented with NICER data where available, over the duration of the outburst evolution covering the hard, intermediate, and the soft states. Reflection spectroscopy reveals the black hole to be rapidly spinning (a* = 0.990 ± 0.001) with a near edge-on viewing angle (i = 70° ± 1°). Additionally, we show that the light-curve dips are caused by photoelectric absorption from a moderately ionized absorber whose origin is not fully understood, although it is likely linked to material from the companion star impacting the outer edges of the accretion disk. We further detect absorption lines in some of the spectra, potentially associated with Fe xxv and Fe xxvi, indicative of disk winds with moderate to extreme velocities. During the intermediate state and just before transitioning into the soft state, the source showed a sudden flux increase, which we found to be dominated by soft disk photons and consistent with the filling of the inner accretion disk, at the onset of state transition. In the soft state, we show that models of disk self-irradiation provide a better fit and a preferred explanation to the broadband reflection spectrum, consistent with previous studies of other accreting sources.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Evolution of Cataclysmic Variables with Binary-driven Mass Loss during Nova Eruptions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8880</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8880</guid>
-<content:encoded><![CDATA[
-The discrepancies between observations and theoretical predictions of cataclysmic variables (CVs) suggest that there exists unknown angular-momentum-loss mechanism(s) besides magnetic braking and gravitational radiation. Mass loss due to nova eruptions belongs to the most likely candidates. While standard theory assumes that mass is lost in the form of radiation-driven, optically thick wind (fast wind), recent numerical simulations indicate that most of the mass loss is initiated and shaped by binary interaction. We explore the effect of this binary-driven mass loss (BDML) on the CV evolutions assuming a major fraction of the lost mass leaves the system from the outer Lagrangian point. Different from the traditional continuous wind picture, we consider the mass loss process to be instantaneous because the duration of nova eruptions is much shorter than the binary evolutionary timescale. Our detailed binary evolution calculations reveal the following results. (1) BDML seems able to provide extra angular momentum loss below the period gap. The mass transfer rates at a given orbital period occupy a large range, in agreement with the observed secular mass transfer rate distribution in CVs. (2) The enhanced mass transfer rates do not lead to a runaway mass transfer process and allow the white dwarfs to grow mass ≲0.1 M☉. (3) BDML can cause both positive and negative variations in the orbital period induced by nova eruptions, in line with observations, and can potentially explain the properties of some peculiar supersoft X-ray sources likely CAL 87, 1E 0035.4−7230, and RX J0537.7−7034.
 ]]></content:encoded>
 <pubDate>2024-11-29T00:00:00Z</pubDate>
 </item>
