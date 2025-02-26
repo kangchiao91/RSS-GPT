@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity–Spectral Type Dependence in Taurus–Auriga YSOs</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f37</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f37</guid>
 <content:encoded><![CDATA[
-
 We measure the radio continuum fluxes at the locations of all Gaia-confirmed members of Taurus–Auriga using Karl G. Jansky Very Large Array Sky Survey data (VLASS; 2–4 GHz, σVLASS ~ 110–140 μJy, 2 5 resolution) spanning three VLASS epochs (2019, 2021, and 2023). We present 35 detections coincident with young Taurus–Auriga stars (29 in individual VLASS images, 6 via stacking). We find a strong dependence on spectral type, wherein the fractional detection rate of radio emission coincident with early-type young stellar objects (YSOs) is systematically higher than late-type YSOs, ranging from 25% ± 13% for B–F YSOs, 21% ± 11% for G YSOs, 18.4% ± 6.3% for K0–K4 YSOs, 15.5% ± 5.4% for K5–K9 YSOs, 7.0% ± 2.7% for M0–M2 YSOs, 2.3% ± 0.9% for M3–M6 YSOs, and 1.9% ± 1.9% for YSOs with SpTs later than M7. We present cumulative density distributions of radio luminosity densities that demonstrate a significant luminosity enhancement for early- versus late-type YSOs. We find 25% of the detected sources to be significantly variable. We discuss possible interpretations of this dependence, which may reflect stellar magnetic activity, binary interactions, or stellar flaring. We find that the mid-infrared YSO class is a strong indicator of radio detectability consistent with higher frequency Taurus–Auriga VLA surveys, with class III stars detected at a rate of 8.8% ± 1.6%, class IIs at 2.0% ± 1.2%, and combined class 0s, Is and Fs at 8.0% ± 5.4%.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ We measure the radio continuum fluxes at the locations of all Gaia-confirmed mem
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada1d2</guid>
 <content:encoded><![CDATA[
-
 Accurately and swiftly predicting the parameters of brown dwarf atmospheres from observational spectra is crucial for understanding their atmospheric composition and guiding future follow-up observations. Here, we utilized convolutional neural networks (CNNs) as a high-performance deep learning algorithm, training them with synthetic spectra generated from Sonora–Bobcat cloudless and equilibrium model grids to infer effective temperatures (Teff), surface gravities ( ), carbon-to-oxygen ratios (C/O), and metallicities ([M/H]). The performance metric, or R2 value (the coefficient of determination), of the trained CNNs in predicting Teff, , C/O, and [M/H] is 1.0, 1.0, 0.99, and 0.93 on both the training and test sets, respectively. We apply our trained CNN model on the three well-known T dwarf benchmarks, HD 3651B, GJ 570D, and Ross 458C. For HD 3651B and GJ 570D, we find that our predicted Teff and are in good agreement with some of the previous modeling studies from forward and retrieval approaches, but the [M/H] is underestimated up to ≈0.3 dex. For Ross 458C, our CNN model predicts the accurately but tends to overestimate Teff by ≈150 K and [M/H] by ≈1.0 dex compared to the previous modelings, which likely happens because our model grids lack disequilibrium chemistry and clouds. We also find that the C/O ratio tends to be higher than solar if not kept fixed. Concurrently, all modules and functions used to train, develop, and deploy the CNNs and process the spectra are consolidated into a Python PyPI package named TelescopeML, which is publicly available along with a thoroughly documented tutorial covering installation, deployment, and core concepts.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@ Accurately and swiftly predicting the parameters of brown dwarf atmospheres from
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaaeb</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaaeb</guid>
 <content:encoded><![CDATA[
-
 Ionospheric plasma density disturbances significantly affect radio wave propagation, impacting communication and planetary exploration. At Earth, sporadic E layers (Es) are commonly observed. They are characterized by thin, high-density plasma structures in the E-region ionosphere, primarily formed by electromagnetic forces induced by horizontal wind shears. Similar sharp vertical electron density changes have also been observed in the topside of the Martian ionosphere by missions like Mars Global Surveyor, Mars Express, and Mars Atmosphere and Volatile EvolutioN. Recent studies suggest that such structures observed on Mars can be attributed to a sporadic E-like mechanism induced by magnetic shear, which can be referred to as Es-like structures. While wind shear theoretically contributes to such events, no observational evidence currently reports wind shear as an explanation for these density gradients on Mars. In this study, we report a novel observation of an Es-like topside layer in the Martian ionosphere, characterized by both density layer and rift (an abrupt depletion in density), where wind and magnetic shear are simultaneously observed. Statistical analysis of 305 orbits with wind speed observations revealed wind shear is observed in nine Es-like events, primarily occurring in strong crustal magnetic field regions. Simulations suggest that the observed rift and layer can be explained either by “wind shear” or by “wind and magnetic shear” under strong crustal magnetic field. This study provides new observations of Es-like events on Mars and serves as a credible candidate for the contribution of wind shear to the formation of an Es-like topside layer.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +37,8 @@ Ionospheric plasma density disturbances significantly affect radio wave propagat
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adad54</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad54</guid>
 <content:encoded><![CDATA[
-
 Laboratory experiments on interstellar ice analogs have demonstrated that ice mixtures containing acetaldehyde (CH3CHO) and hydrogen cyanide (HCN) in the presence of ammonia (NH3), water (H2O), or an NH3/H2O mixture allow the formation of the chiral molecule lactonitrile (2-hydroxypropionitrile; CH3CH(OH)CN). These findings place lactonitrile among possible interstellar molecules, especially when its methyl-shortened derivative glycolonitrile and the precursors are known interstellar species. To support the search for lactonitrile in interstellar space, we present measurements under supersonic expansion conditions in the 6–16 GHz frequency range, along with a detailed analysis of its room-temperature rotational spectrum from 75 to 325 GHz. Improved and extended sets of molecular parameters, determined from the newly measured data and selected literature measurements, are obtained for two conformers of lactonitrile, with accuracies conducive to reliable interstellar searches. We report the nondetection of lactonitrile toward the main hot core Sgr B2(N1S), with a column density upper limit 1 order of magnitude higher than the upper limit derived for the related molecule glycolonitrile.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +46,8 @@ Laboratory experiments on interstellar ice analogs have demonstrated that ice mi
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb4</guid>
 <content:encoded><![CDATA[
-
 Primordial black holes (PBHs) from the early Universe that can contribute to dark matter (DM) abundance have been linked to gravitational-wave observations. Supermassive black holes at the centers of galaxies are expected to modify the distribution of DM in their vicinity and can result in highly concentrated DM spikes. We revisit PBH merger rates in the presence of DM spikes, tracking their history. We find novel peaked structure in the redshift evolution of PBH merger rates at low redshifts around z ∼ 5. These effects are generic and are present for distinct PBH mass functions and spike profiles, and also can be linked to peaked structure in the redshift evolution of the star formation rate. Redshift evolution characteristics of PBH merger rates can be distinguished from astrophysical black hole contributions and observable with gravitational waves, enabling them to serve as probes of DM in galactic centers.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +55,8 @@ Primordial black holes (PBHs) from the early Universe that can contribute to dar
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaebb</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaebb</guid>
 <content:encoded><![CDATA[
-
 Upcoming wide-field surveys, such as the Rubin Observatory’s Legacy Survey of Space and Time (LSST), will monitor thousands of strongly lensed quasars over a 10 yr period. Many of these monitored quasars will undergo high-magnification events (HMEs) through microlensing, as the accretion disk crosses a caustic—places of infinite magnification. Microlensing allows us to map the inner regions of the accretion disk as it crosses a caustic, even at large cosmological distances. The observational cadences of LSST are not ideal for probing the inner regions of the accretion disk, so there is a need to predict HMEs as early as possible, to trigger high-cadence multiband or spectroscopic follow-up observations. Here, we simulate a diverse and realistic sample of 10 yr quasar microlensing light curves to train a recurrent neural network to predict HMEs before they occur, by classifying the locations of the peaks at each time step. This is the first deep-learning approach for predicting HMEs. We give estimates of how well we expect to predict HME peaks during LSST and benchmark how our metrics change with different cadence strategies. With LSST-like observations, we can predict approximately 55% of HME peaks, corresponding to tens to hundreds per year and a false-positive rate of around 20% compared to the total number of HMEs. Our network can be continuously applied throughout the LSST survey, providing crucial alerts for optimizing follow-up resources.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +64,8 @@ Upcoming wide-field surveys, such as the Rubin Observatory’s Legacy Survey of 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1c</guid>
 <content:encoded><![CDATA[
-
 Atacama Large Millimeter/submillimeter Array observations have shown that candidate “post-starburst” galaxies (PSBs) at z ∼ 0.6 can retain significant molecular gas reservoirs. These results would imply that—unlike many model predictions—galaxies can shut down their star formation before their cold gas reservoirs are depleted. However, these studies inferred star formation rates (SFRs) either from [O ii] line fluxes or from spectral energy distribution (SED) modeling and could have missed large dust-obscured contributions to the SFRs. In this study, we present Keck/NIRES observations of 13 massive (M* ≳ 1011M⊙) PSBs, which allow us to estimate Hα SFRs in these gas-rich PSBs. We confirm the previously inferred low SFRs for the majority of the sample: 11/13 targets show clear Hα absorption, with minimal infilling indicating dust-corrected SFRs of <4.1 M⊙ yr−1. These SFRs are notably low given the large H2 reservoirs (∼(1–5) × 1010M⊙) present in 5/13 of these galaxies, placing them significantly offset from star-forming galaxies on the Kennicutt–Schmidt relation for star-forming galaxies. The [N ii]/Hα ratios of all 13 PSBs imply contributions from non-star-forming ionization mechanisms (e.g., active galactic nuclei, shocks, or hot evolved stars) to their Hα emission, suggesting that even these low ongoing SFRs may be overestimated. These low Hα SFRs, dust corrected using Av estimates from SED fitting, confirm that these galaxies are very likely quiescent and, thus, that galaxies can quench before their cold gas reservoirs are fully depleted.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +73,8 @@ Atacama Large Millimeter/submillimeter Array observations have shown that candid
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf96</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf96</guid>
 <content:encoded><![CDATA[
-
 The inverse cascade of magnetic energy from smaller to larger scales is a key physical process for the formation of coherent magnetic fields in many astronomical turbulent systems. Synchrotron radiation polarization, an observable measurement closely related to the magnetic field topology and particle distribution function, is an important and promising tool for diagnosing this highly dynamic process. Here, for the first time, we use the first-principle particle-in-cell simulations to systematically investigate the polarization signatures during the inverse cascade of the magnetic field. We find that the polarization degree (PD) increases rapidly with the increase in the coherent scale of the magnetic field during the inverse transfer and its growth rate is positively correlated with the rate of inverse transfer and could be described by a logarithmic growth formula, and we also identify that the scale with the largest PD variation is coincident with this coherent scale by applying the spatial filter method. In addition, we show that the polarization signature is significantly dependent on the radiated photon energy and the line of sight, with high-energy radiation more sensitive to the increase in the coherent scale of the turbulent magnetic field than low-energy radiation, and the polarization characteristics present significant pitch-angle anisotropy due to the acceleration of particles in the presence of a strong background magnetic field. Our results provide a promising method to explore the astrophysical inverse cascade process and infer the coherent scale of turbulence, which could be validated by astronomical observations in the future.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,10 +82,8 @@ The inverse cascade of magnetic energy from smaller to larger scales is a key ph
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf97</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf97</guid>
 <content:encoded><![CDATA[
-
 Measuring the 3D spatial distribution of magnetic fields in the interstellar medium and the intracluster medium is crucial yet challenging. The probing of the 3D magnetic field’s 3D distribution, including the field plane-of-sky orientation (ψ), the magnetic field’s inclination angle (γ) relative to the line of sight, and the magnetization (∼the inverse Alfvén Mach number ), at different distances from the observer makes the task even more formidable. However, the anisotropy and Faraday decorrelation effect in polarized synchrotron emission offer a unique solution. We show that due to the Faraday decorrelation, only regions up to a certain effective path length along the line of sight contribute to the statistical correlation of the measured polarization. The 3D spatial information can be consequently derived from synchrotron polarization derivatives (SPDs), which are calculated from the difference in synchrotron polarization across two wavelengths. We find that the 3D magnetic field can be estimated from the anisotropy observed in SPDs: the elongation direction of the SPD structures probes ψ, and the degree of SPD anisotropy, along with its morphological curvature, provides insights into and γ. To extract these anisotropic features and their correlation with the 3D magnetic field, we propose utilizing a machine learning approach, specifically the Vision Transformer (ViT) architecture, which was exemplified by the success of ChatGPT. We train the ViT using synthetic synchrotron observations generated from magnetohydrodynamic turbulence simulations in sub-Alfvénic and super-Alfvénic conditions. We show that ViT’s application to multiwavelength SPDs can successfully reconstruct the 3D magnetic fields’ 3D spatial distribution.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -108,10 +91,8 @@ Measuring the 3D spatial distribution of magnetic fields in the interstellar med
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adafa1</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adafa1</guid>
 <content:encoded><![CDATA[
-
 Wide-field photometry of Galactic globular clusters (GCs) has been investigated to overcome limitations from the small field of view of the Hubble Space Telescope in the study of multiple populations. In particular, “chromosome maps” (ChMs) built with ground-based photometry were constructed to identify the first- and second-generation (1G and 2G) stars over the wide field of view. The ChMs allow us to derive the fraction of distinct populations in an analyzed field of view. We present here the radial distribution of the 2G fraction in 29 GCs. The distributions show that all the GCs have either a flat distribution or more centrally concentrated 2G stars. Notably, we find that the fraction of 1G stars outside the half-light radius is clearly bifurcated across all mass range. It implies that a group of GCs with lower 1G fractions (hereafter Group II) have efficiently lost their 1G stars in the outermost cluster regions. In fact, in connection with the trends of the radial distribution, most GCs of Group II have spatially mixed populations, while only less massive GCs in Group I (a group with higher 1G fraction) show that feature. Lastly, we investigate links between these two groups and host cluster parameters. We find that most GCs of Group II are distributed along a broader range of galactocentric distances with smaller perigalactic distances < 3.5 kpc. Besides, by using the Gaia data, it is observed that Group II GCs have higher energy on the integrals of motion diagrams than Group I GCs.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -119,10 +100,8 @@ Wide-field photometry of Galactic globular clusters (GCs) has been investigated 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adafa4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adafa4</guid>
 <content:encoded><![CDATA[
-
 We present a systematic search for 1696 green pea (GP) galaxy candidates in the southern hemisphere selected from the Dark Energy Survey Data Release 2 and provide preliminary results from spectroscopic follow-up observations of 26 targets chosen among them. Our selection criteria include the colors in the gri bands and compact morphology in the color-composite images. The multiwavelength spectral energy distribution fitting shows that the selected GP candidates exhibit star formation rates up to several tens of M⊙ yr−1. With the mean stellar mass of , GP candidates are located at roughly 1 dex above the main sequence of star-forming galaxies at z ∼ 0.3. Spectroscopic follow-up observations of the GP candidates with Gemini/Gemini Multi-Object Spectrograph are underway. All 26 targets are spectroscopically confirmed to be at z = 0.3–0.41 and have an [O iii] equivalent width larger than 85 Å, classified to be starbursts with low-to-moderate dust attenuation. These confirmed GPs show a lower metallicity offset from the mass–metallicity relation of local star-forming galaxies, indicating that GPs are less chemically evolved systems at their early stage of evolution.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -130,10 +109,8 @@ We present a systematic search for 1696 green pea (GP) galaxy candidates in the 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0c5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0c5</guid>
 <content:encoded><![CDATA[
-
 Among very metal-poor (VMP) stars, α-poor VMP (α-PVMP) stars that have subsolar values of [X/Fe] for Mg and other α elements are rare and are thought to have been formed from gas polluted by Type 1a supernova (SN 1a). However, recent analyses indicate that pure core-collapse supernova (CCSN) ejecta can also be a likely source. We perform a detailed analysis of 17 α-PVMP stars by considering six different scenarios relevant to the early Galaxy. We consider a single pair-instability supernova (PISN) and a single CCSN. Additionally, we consider the combination of ejecta from a CCSN with ejecta from another CCSN, a PISN, a near-Chandrasekhar mass (near-MCh) SN 1a, and a sub-Chandrasekhar mass (sub-MCh) SN 1a. A clear signature can only be established for sub-MCh SN 1a with a near-smoking-gun signature in SDSS J0018-0939 and a reasonably clear signature in ET0381. The majority (82%) of α-PVMP stars can be explained by pure CCSN ejecta and do not require any SN 1a contribution. However, the combination of CCSN and sub-MCh SN 1a ejecta can also explain most (76%) of α-PVMP stars. In contrast, the combination of ejecta from CCSN with near-MCh SN 1a and PISN can fit 41% and 29% of the stars, respectively. The single PISN scenario is strongly ruled out for all stars. Our results indicate that α-PVMP stars are equally compatible with pure CCSN ejecta and a combination of CCSN and SN 1a ejecta, with sub-MCh SN 1a being roughly twice as frequent as near-MCh SN 1a.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -141,10 +118,8 @@ Among very metal-poor (VMP) stars, α-poor VMP (α-PVMP) stars that have subsola
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb156</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb156</guid>
 <content:encoded><![CDATA[
-
 The white dwarf mass distribution has been studied primarily at two extremes: objects that presumably evolved as single stars, and members of close binaries that likely underwent substantial interaction. This work considers the intermediate separation regime of ∼1 au and demonstrates how binary interaction affects white dwarf masses. The binary mass ratio distribution is utilized for this purpose. Modeled as a truncated Pareto profile, this distribution provides insights into the populations’ properties and evolutionary history. When applied to homogeneous samples of binaries with giant primaries of similar age, the distribution’s shape constrains the fraction of white dwarf companions, the white dwarf mass distribution, and the properties of their progenitors. As a test case, this method is applied to a small spectroscopic sample of binaries in open clusters with red giant primaries and orbital periods between 0.5 and 20 yr. The analysis reveals that white dwarfs in these systems are ∼20% less massive than their isolated counterparts, with a typical mass of ∼0.55 M⊙. Their progenitors likely lost 80%−85% of their mass, with binary interactions enhancing mass loss by an additional ∼0.2 M⊙. These findings highlight the utility of this approach for studying binary evolution and improving population models, particularly with future data sets from Gaia and other large-scale surveys.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -152,10 +127,8 @@ The white dwarf mass distribution has been studied primarily at two extremes: ob
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1ac</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1ac</guid>
 <content:encoded><![CDATA[
-
 Interplanetary coronal mass ejections (ICMEs) are the primary sources of geomagnetic storms at Earth. The negative out-of-ecliptic component (Bz) of magnetic field in the ICME or its associated sheath region is necessary for it to be geoeffective. For this reason, magnetohydrodynamic simulations of CMEs containing data-constrained flux ropes are more suitable for forecasting their geoeffectiveness as compared to hydrodynamic models of the CME. ICMEs observed in situ by radially aligned spacecraft can provide an important setup to validate the physics-based heliospheric modeling of CMEs. In this work, we use the constant-turn flux rope (CTFR) model to study an ICME that was observed in situ by Solar Orbiter (SolO) and at Earth, when they were in a near-radial alignment. This was a stealth CME that erupted on 2020 April 14 and reached Earth on 2020 April 20 with a weak shock and a smoothly rotating magnetic field signature. We found that the CTFR model was able to reproduce the rotating magnetic field signature at both SolO and Earth with very good accuracy. The simulated ICME arrived 5 hr late at SolO and 5 hr ahead at Earth, when compared to the observed ICME. We compare the propagation of the CME front through the inner heliosphere using synthetic J-maps and those observed in the heliospheric imager data and discuss the role of incorrect ambient solar wind background on kinematics of the simulated CME. This study supports the choice of the CTFR model for reproducing the magnetic field of ICMEs.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -163,10 +136,8 @@ Interplanetary coronal mass ejections (ICMEs) are the primary sources of geomagn
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b7</guid>
 <content:encoded><![CDATA[
-
 Traditional weak-lensing mass reconstruction techniques suffer from various artifacts, including noise amplification and the mass-sheet degeneracy. In S. E. Hong et al., we demonstrated that many of these pitfalls of traditional mass reconstruction can be mitigated using a deep learning approach based on a convolutional neural network (CNN). In this paper, we present our improvements and report on the detailed performance of our CNN algorithm applied to next-generation wide-field (WF) observations. Assuming the field of view ( ) and depth (27 mag at 5σ) of the Vera C. Rubin Observatory, we generated training data sets of mock shear catalogs with a source density of 33 arcmin−2 from cosmological simulation ray-tracing data. We find that the current CNN method provides high-fidelity reconstructions consistent with the true convergence field, restoring both small- and large-scale structures. In addition, the cluster detection utilizing our CNN reconstruction achieves ∼75% completeness down to ∼1014M⊙. We anticipate that this CNN-based mass reconstruction will be a powerful tool in the Rubin era, enabling fast and robust WF mass reconstructions on a routine basis.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -174,10 +145,8 @@ Traditional weak-lensing mass reconstruction techniques suffer from various arti
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b9</guid>
 <content:encoded><![CDATA[
-
 We report the Australian Telescope Compact Array and Nobeyama 45 m telescope detection of a remarkably bright (S1.1mm = 44 mJy) submillimeter galaxy MM J154506.4−344318 in emission lines at 48.5 and 97.0 GHz, respectively. We also identify part of an emission line at ≈218.3 GHz using the Atacama Large Millimeter/submillimeter Array (ALMA). Together with photometric redshift estimates and the ratio between the line and infrared luminosities, we conclude that the emission lines are most likely to be the J = 2–1, 4–3, and 9–8 transitions of 12CO at redshift z = 3.753 ± 0.001. ALMA 1.3 mm continuum imaging reveals an arc and a spot separated by an angular distance of , indicative of a strongly lensed dusty star-forming galaxy with respective molecular and dust masses of and after being corrected for ≈6.6× gravitational magnification. The inferred dust-to-gas mass ratio is found to be high (≈0.0083) among coeval dusty star-forming galaxies, implying the presence of a massive, chemically enriched reservoir of cool interstellar medium at z ≈ 4, or 1.6 Gyr after the Big Bang.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -185,10 +154,8 @@ We report the Australian Telescope Compact Array and Nobeyama 45 m telescope det
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1d5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1d5</guid>
 <content:encoded><![CDATA[
-
 We append an additional 15 yr (2009–2024) to the Chandra X-ray light curve of M31*, the supermassive black hole (SMBH) at the center of M31, the Andromeda galaxy. Extending and expanding on the work in Z. Li et al., we show that M31* has remained in an elevated X-ray state from 2006 through at least 2016 (when regular Chandra monitoring ceased) and likely through 2024, with the most recent observations still showing an elevated X-ray flux. We identify one moderate flare in 2013 where the other nuclear X-ray sources are in low-flux states, making that flare a valuable target for follow-up with multiwavelength and multimessenger archival data. We extract a mostly uncontaminated spectrum for M31* from this observation, showing that its X-ray properties are similar to those observed at Sgr A* in its quiescent state by Baganoff et al. Furthermore, we find no substantial change in the source’s hardness ratio in the 2006 and 2013 flares compared to the post-2006 elevated state, suggesting the these flares are increases in the regular X-ray emission mechanisms instead of entirely new emission modes. Our extended light curve for M31* provides valuable context for multimessenger or multiwavelength observations of nearby SMBHs.
 ]]></content:encoded>
-
 <pubDate>2025-02-26T00:00:00Z</pubDate>
 </item>
 <item>
@@ -196,13 +163,10 @@ We append an additional 15 yr (2009–2024) to the Chandra X-ray light curve of 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adad6c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad6c</guid>
 <content:encoded><![CDATA[
-
 Since the early reports of events beyond the Greisen–Zatsepin–Kuzmin (GZK) cutoff, the investigation of ultrahigh-energy cosmic rays has emerged as a fundamental method for testing Lorentz invariance violation (LV) effects. Recent advances in observational capabilities have resulted in more stringent constraints on LV parameters. This study delves into the potentially anomalous phenomena arising from subluminal and superluminal LV effects, encompassing aspects such as proton decay and atypical threshold behavior of photo-pion production from protons within the GZK region. High-energy proton observations via cosmic rays have imposed stringent constraints on superluminal proton LV effects, while the confirmation of the GZK cutoff has established a robust boundary for the anomalous phenomena associated with subluminal proton LV effects. The research provides rigorously bilateral constraints on proton LV effects from both subluminal and superluminal standpoints.
 ]]></content:encoded>
-
 <pubDate>2025-02-25T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>On a Critical Acceleration Scale of Dark Matter in ΛCDM and Dynamical Dark Energy</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaeb3</link>
@@ -9038,168 +9002,6 @@ MAXI J1803-298 is a transient black hole candidate discovered in 2021 May during
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8880</guid>
 <content:encoded><![CDATA[
 The discrepancies between observations and theoretical predictions of cataclysmic variables (CVs) suggest that there exists unknown angular-momentum-loss mechanism(s) besides magnetic braking and gravitational radiation. Mass loss due to nova eruptions belongs to the most likely candidates. While standard theory assumes that mass is lost in the form of radiation-driven, optically thick wind (fast wind), recent numerical simulations indicate that most of the mass loss is initiated and shaped by binary interaction. We explore the effect of this binary-driven mass loss (BDML) on the CV evolutions assuming a major fraction of the lost mass leaves the system from the outer Lagrangian point. Different from the traditional continuous wind picture, we consider the mass loss process to be instantaneous because the duration of nova eruptions is much shorter than the binary evolutionary timescale. Our detailed binary evolution calculations reveal the following results. (1) BDML seems able to provide extra angular momentum loss below the period gap. The mass transfer rates at a given orbital period occupy a large range, in agreement with the observed secular mass transfer rate distribution in CVs. (2) The enhanced mass transfer rates do not lead to a runaway mass transfer process and allow the white dwarfs to grow mass ≲0.1 M☉. (3) BDML can cause both positive and negative variations in the orbital period induced by nova eruptions, in line with observations, and can potentially explain the properties of some peculiar supersoft X-ray sources likely CAL 87, 1E 0035.4−7230, and RX J0537.7−7034.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The JCMT BISTRO Survey: The Magnetic Fields of the IC 348 Star-forming Region</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ed</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ed</guid>
-<content:encoded><![CDATA[
-We present 850 μm polarization observations of the IC 348 star-forming region in the Perseus molecular cloud as part of the B-fields In STar-forming Region Observation survey. We study the magnetic properties of two cores (HH 211 MMS and IC 348 MMS) and a filamentary structure of IC 348. We find that the overall field tends to be more perpendicular than parallel to the filamentary structure of the region. The polarization fraction decreases with intensity, and we estimate the trend by power law and the mean of the Rice distribution fittings. The power indices for the cores are much smaller than 1, indicative of possible grain growth to micron size in the cores. We also measure the magnetic field strengths of the two cores and the filamentary area separately by applying the Davis–Chandrasekhar–Fermi method and its alternative version for compressed medium. The estimated mass-to-flux ratios are 0.45–2.20 and 0.63–2.76 for HH 211 MMS and IC 348 MMS, respectively, while the ratios for the filament are 0.33–1.50. This result may suggest that the transition from subcritical to supercritical conditions occurs at the core scale (∼0.05 pc) in the region. In addition, we study the energy balance of the cores and find that the relative strength of turbulence to the magnetic field tends to be stronger for IC 348 MMS than for HH 211 MMS. The result could potentially explain the different configurations inside the two cores: a single protostellar system in HH 211 MMS and multiple protostars in IC 348 MMS.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>BD+44°493: Chemo-dynamical Analysis and Constraints on Companion Planetary Masses from WIYN/NEID Spectroscopy*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8646</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8646</guid>
-<content:encoded><![CDATA[
-In this work, we present high-resolution (R ∼ 100,000), high signal-to-noise ratio (S/N ∼ 800) spectroscopic observations for the well-known, bright, extremely metal-poor, carbon-enhanced star BD+44°493. We determined chemical abundances and upper limits for 17 elements from WIYN/NEID data, complemented with 11 abundances redetermined from Subaru and Hubble data, using the new, more accurate, stellar atmospheric parameters calculated in this work. Our analysis suggests that BD+44°493 is a low-mass (0.83 M⊙), old (12.1–13.2 Gyr) second-generation star likely formed from a gas cloud enriched by a single metal-free 20.5 M⊙ Population III star in the early Universe. With a disk-like orbit, BD+44°493 does not appear to be associated with any major merger event in the early history of the Milky Way. From the precision radial-velocity NEID measurements (median absolute deviation = 16 m s−1), we were able to constrain companion planetary masses around BD+44°493 and rule out the presence of planets as small as MJ out to periods of 100 days. This study opens a new avenue of exploration for the intersection between stellar archaeology and exoplanet science using NEID.
-]]></content:encoded>
-<pubDate>2024-11-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiwavelength Emission from Jets and Magnetically Arrested Disks in Nearby Radio Galaxies: Application to M87</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f4</guid>
-<content:encoded><![CDATA[
-Radio galaxies are a subclass of active galactic nuclei that drive relativistic jets from their center and are observed in radio to very-high-energy gamma rays. The emission mechanisms and regions are still unknown. High-energy gamma rays can be explained by the emission from the magnetically arrested disks (MADs) around the central supermassive black hole (BH), for which the magnetic flux threading the BH is in a saturation level, although the emission from the MADs does not explain the optical and X-ray data. We construct a two-zone multiwavelength emission model in which optical and X-rays come from jets, while millimeter/submillimeter and gamma rays come from MADs. Our model takes into account the particle injection by the magnetic reconnection at the jet base close to the BH and particle entrainment from the ambient gas at the jet emission zone. We apply our model to M87 and find that our model can explain the simultaneous multiwavelength data, except for the radio data, which could be explained if we extend our one-zone emission model to a one-dimensional one. We also find that the strong plasma entrainment is necessary to explain the multiwavelength data. Our model will be tested by variability analysis among the multiwavelength data.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraining the Location of the γ-Ray Emission Region in Radio-loud AGN 3C 380</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad891e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad891e</guid>
-<content:encoded><![CDATA[
-A detailed broadband spectral and temporal study of a radio-loud active galactic nucleus, 3C 380, is carried out using 14.5 yr of Fermi-LAT data, available Swift observations, and data from other observatories, including AstroSat (2020 August). The source exhibited a GeV outburst on 2020 September 5. Given the sparsity of Swift observations, no useful correlations could be established between γ-ray, X-ray, and UV/optical bands. The source is also a part of the Monitoring of Jets in Active Galactic Nuclei with VLBA Experiments survey and has been monitored at 15 GHz for over a decade. The correlation studies show that radio emission lags γ-rays by ∼150 days. We constrain the location of γ-ray emission by the core shift measurements from the literature and the observed time delays. Using this localization, we constructed and modeled the broadband spectral energy distribution (SED) of the source during its high γ-ray activity states and for the long-term averaged state. The SEDs during the high γ-ray activity states are modeled with two zones: one corresponding to the “steady” or the emission from the source averaged over more than a decade and another corresponding to the “flare” emission. We conclude that the high-energy emission originates within the parsec-scale jet, and moving shocks in the region drive the observed γ-flux variations.
-]]></content:encoded>
-<pubDate>2024-11-28T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Observations of Preferential Heating and Acceleration of α-particles in the Young Solar Wind by Parker Solar Probe</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad79fa</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad79fa</guid>
-<content:encoded><![CDATA[
-Remote sensing observations of the nascent solar wind in the solar corona imply that heavy ions are often faster and hotter than the plasma protons. In situ observations of the near-Earth solar wind with low collisional age show that hotter and faster states of heavy ions usually do not occur at the same time: heavy ions are either faster or hotter than the protons. This discrepancy highlights the need to understand the competing effects of heating, acceleration, Coulomb collisions, and instabilities on heavy ions in the inner heliosphere, from the solar corona to Earth. The Parker Solar Probe (PSP) is currently the closest spacecraft to the Sun and is anticipated to cross the outer boundary of the preferential heating and acceleration zone. Using in situ measurements from PSP, we find that larger drift speeds between α-particles and protons (Vαp) correspond to larger α-to-proton temperature ratios ( ) in the young solar wind close to the corona. This observation differs from in situ observations farther from the Sun (e.g., with Helios and Wind at 0.3–1 au). We believe that this difference is related to the speed of the solar wind, as well as the distance from the Sun. The anti-correlation between Vαp and in fast wind away from the Sun is potentially related to the energy transfer from the drift kinetic energy of α-particles to proton thermal energy due to drift instabilities. In the young slow wind, heavy ions exhibit signs of both preferential heating and preferential acceleration, but are not affected much by drift instabilities. We identify the outer boundary of the preferential heating and acceleration zone for heavy ions in the young slow wind to be at a distance of around 0.16 au, beyond which the effects of Coulomb collisions weaken the effects of preferential heating and acceleration.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Transition Region Brightening in a Moss Region and Their Relation with Lower Atmospheric Dynamics</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84e1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84e1</guid>
-<content:encoded><![CDATA[
-Small-scale brightenings (SBs) are commonly observed in the transition region (TR) that separates the solar chromosphere from the corona. These brightenings, omnipresent in active region patches known as “moss” regions, could potentially contribute to the heating of active region plasma. In this study, we investigate the properties of SB events in a moss region and their associated chromospheric dynamics, which could provide insights into the underlying generation mechanisms of the SBs. We analyzed the data sets obtained by coordinated observations using the Interface Region Imaging Spectrograph and the Goode Solar Telescope at Big Bear Solar Observatory. We studied 131 SB events in our region of interest and found that 100 showed spatial and temporal matches with the dynamics observed in the chromospheric Hα images. Among these SBs, 98 of them were associated with spicules that are observed in Hα images. Furthermore, detailed analysis revealed that one intense SB event corresponded to an Ellerman bomb (EB), while another SB event consisted of several recurring brightenings caused by a stream of falling plasma. We observed that Hα far wings often showed flashes of strong brightening caused by the falling plasma, creating an Hα spectral profile similar to an EB. However, 31 of the 131 investigated SB events showed no noticeable spatial and temporal matches with any apparent features in Hα images. Our analysis indicated that the predominant TR SB events in moss regions are associated with chromospheric phenomena primarily caused by spicules. Most of these spicules display properties akin to dynamic fibrils.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Neural Network Constraints on the Cosmic-Ray Ionization Rate and Other Physical Conditions in NGC 253 with ALCHEMI Measurements of HCN and HNC</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad85db</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85db</guid>
-<content:encoded><![CDATA[
-We use a neural network model and Atacama Large Millimeter/submillimeter Array (ALMA) observations of HCN and HNC to constrain the physical conditions, most notably the cosmic-ray ionization rate (CRIR, ζ), in the Central Molecular Zone (CMZ) of the starburst galaxy NGC 253. Using output from the chemical code UCLCHEM, we train a neural network model to emulate UCLCHEM and derive HCN and HNC molecular abundances from a given set of physical conditions. We combine the neural network with radiative transfer modeling to generate modeled integrated intensities, which we compare to measurements of HCN and HNC from the ALMA Large Program ALCHEMI. Using a Bayesian nested sampling framework, we constrain the CRIR, molecular gas volume and column densities, kinetic temperature, and beam-filling factor across NGC 253's CMZ. The neural network model successfully recovers UCLCHEM molecular abundances with ∼3% error and, when used with our Bayesian inference algorithm, increases the parameter-inference speed tenfold. We create images of these physical parameters across NGC 253's CMZ at 50 pc resolution and find that the CRIR, in addition to the other gas parameters, is spatially variable with ζ ∼ a few ×10−14 s−1 at r ≳ 100 pc from the nucleus, increasing to ζ > 10−13 s−1 at its center. These inferred CRIRs are consistent within 1 dex with theoretical predictions based on nonthermal emission. Additionally, the high CRIRs estimated in NGC 253's CMZ can be explained by the large number of cosmic-ray-producing sources as well as a potential suppression of cosmic-ray diffusion near their injection sites.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Turbulent Pressure Heats Gas and Suppresses Star Formation in Galactic Bar Molecular Clouds</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8631</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8631</guid>
-<content:encoded><![CDATA[
-The Central Molecular Zone (CMZ) of the Milky Way is fed by gas inflows from the Galactic disk along almost radial trajectories aligned with the major axis of the Galactic bar. However, despite being fundamental to all processes in the nucleus of the Galaxy, these inflows have been studied significantly less than the CMZ itself. We present observations of various molecular lines between 215 and 230 GHz for 20 clouds with ∣ℓ∣ < 10°, which are candidates for clouds in the Galactic bar due to their warm temperatures and broad lines relative to typical Galactic disk clouds, using the Atacama Large Millimeter/submillimeter Array Atacama Compact Array. We measure gas temperatures, shocks, star formation rates, turbulent Mach numbers, and masses for these clouds. Although some clouds may be in the Galactic disk despite their atypical properties, nine clouds are likely associated with regions in the Galactic bar, and in these clouds, turbulent pressure is suppressing star formation. In clouds with no detected star formation, turbulence is the dominant heating mechanism, whereas photoelectric processes heat the star-forming clouds. We find that the ammonia (NH3) and formaldehyde (H2CO) temperatures probe different gas components, and in general, each transition appears to trace different molecular gas phases within the clouds. We also measure the CO-to-H2 X-factor in the bar to be an order of magnitude lower than the typical Galactic value. These observations provide evidence that molecular clouds achieve CMZ-like properties before reaching the CMZ.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>GOALS-JWST: The Warm Molecular Outflows of the Merging Starburst Galaxy NGC 3256</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87d3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87d3</guid>
-<content:encoded><![CDATA[
-We present James Webb Space Telescope (JWST) integral-field spectrograph observations of NGC 3256, a local infrared-luminous late-stage merging system with two nuclei roughly 1 kpc apart, both of which have evidence of cold molecular outflows. Using JWST/NIRSpec and Mid-Infrared Instrument data sets, we investigate this morphologically complex system on spatial scales of <100 pc, where we focus on the warm molecular H2 gas surrounding the nuclei. We detect collimated outflowing warm H2 gas originating from the southern nucleus, though we do not find significant outflowing H2 gas surrounding the northern nucleus. We measure maximum intrinsic outflow velocities of ∼1000 km s−1, which extend out to a distance of 0.7 kpc. Based on H2 S(7)/S(1) ratios, we find a larger fraction of warmer gas near the southern nucleus, which decreases with increasing distance from the nucleus, signifying the southern nucleus as a primary source of H2 heating. The gas mass of the warm H2 outflow component is estimated to be Mwarm,out = (1.4 ± 0.2) × 106M⊙, as much as 6% of the cold H2 mass estimated using Atacama Large Millimeter/submillimeter Array CO data. The outflow timescale is about 7 × 105 yr, resulting in a mass outflow rate and kinetic power Pwarm,out ∼ 4 × 1041 erg s−1. Lastly, regions within our 3.″0 × 3.″0 NIRSpec data, where the outflowing gas reside show high [Fe ii]/Paβ and H2/Brγ line ratios, indicate enhanced mechanical heating caused by the outflows. The fluxes and ratios of polycyclic aromatic hydrocarbons (PAHs) in these regions are not significantly different compared to those elsewhere in the disk, suggesting the outflows may not significantly alter the PAH ionization state or grain size.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Buddy for Betelgeuse: Binarity as the Origin of the Long Secondary Period in α Orionis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad87f4</guid>
-<content:encoded><![CDATA[
-We predict the existence of α Ori B, a low-mass companion orbiting Betelgeuse. This is motivated by the presence of a 2170 day long secondary period (LSP) in Betelgeuse’s lightcurve, a periodicity that is ≈5 times longer than the star’s 416 day fundamental radial pulsation mode. While binarity is currently the leading hypothesis for LSPs in general, the LSP and the radial velocity (RV) variations observed in Betelgeuse, taken together, necessitate a revision of the prevailing physical picture. Specifically, the lightcurve–RV phase difference requires a companion to be behind Betelgeuse at the LSP luminosity minimum, ≈180° out of phase with the system orientation associated with occultation. We demonstrate the consistency of this model with available observational constraints and identify tensions in all other proposed LSP hypotheses. Within this framework, we calculate a mass for α Ori B of and an orbital separation of 1850 ± 70 R⊙, or times the radius of Betelgeuse. We then describe the features of the companion as constrained by the fundamental parameters of Betelgeuse and its orbital system, and discuss what would be required to confirm the companion’s existence observationally.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Sun-as-a-Star Spectral Line Variability in the 300–2390 nm Wavelength Range</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad888f</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad888f</guid>
-<content:encoded><![CDATA[
-Combining the near-daily Ozone Monitoring Instrument (OMI) and Tropospheric Monitoring Instrument (TROPOMI) measurements of solar spectra, we construct line indices (line-core to line-flanks ratios) for various transitions (mainly Fe i) in the 300–2390 nm spectral domain. The indices are supplemented by the wavelength-binned fluxes from OMI and Total and Spectral Solar Irradiance Sensor (TSIS-1). To study the short-term (solar-rotational) patterns, we normalize the indices and fluxes to the minimum-activity epoch, then de-trend them with 81 day running means. Comparisons of the de-trended TSIS-1 and OMI fluxes with the NASA-NOAA-LASP SSI (NNLSSI1) model show excellent agreement, to (0.5–2.2) × 10−4 in the normalized and de-trended data. The data are subjected to a multiregression analysis against quantities representing the facular brightening and the sunspot darkening. The de-trended line indices and average fluxes show different sensitivities to these two solar magnetic-activity manifestations, with the fluxes being far more susceptible to the sunspot component. The de-trended line indices experience a rapid drop of activity levels towards longer wavelengths, albeit with a large rebound in the short-wave infrared (SWIR) domain that is caused by the ubiquitous, temperature-sensitive CO transitions. The wavelength-dependent activity also falls, however much slower, in the de-trended average fluxes. Qualitatively similar behavior is captured by semiempirical models.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Constraints on Common Envelope Ejection from Double Helium White Dwarfs</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ef</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88ef</guid>
-<content:encoded><![CDATA[
-Double helium white dwarfs (He WDs) are a type of gravitational wave source and are greatly important in studies of binary interaction, particularly in common envelope (CE) ejection physics. Most double He WDs with mass ratios of q ∼ 1 are formed through a particular channel. In this channel, one He WD is initially produced from a red giant (RG) with a degenerate core via stable Roche lobe overflow, and another He WD is formed from an RG with a degenerate core via CE ejection. They may have significant implications for binary evolution processes but have not received specific studies, especially for the CE phase. This paper adopts a semianalytic method and a detailed stellar evolution simulation to model the formation of double He WDs. We find that most double He WDs show mass ratios slightly greater than 1, and their orbital period–mass ratio relations are broadly consistent with observations. There is also a relation between the mass ratios and progenitor masses of the He WDs produced via CE ejection for double He WDs with determined WD masses. Based on this relation, the mass of the He WD progenitor can be inferred from the mass ratio. Then, the CE ejection efficiency can be constrained with the orbital period. In addition, we constrain the CE ejection efficiency for two double He WDs, J1005-2249 and WD0957-666. The results show that the CE ejection efficiencies increase with the WD progenitor masses.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Identifying New High-confidence Polluted White Dwarf Candidates Using Gaia XP Spectra and Self-organizing Maps</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f5</guid>
-<content:encoded><![CDATA[
-The identification of new white dwarfs (WDs) polluted with heavy elements is important since they provide a valuable tool for inferring the chemical properties of putative planetary systems accreting material on their surfaces. The Gaia space mission has provided us with an unprecedented amount of astrometric, photometric, and low-resolution (XP) spectroscopic data for millions of newly discovered stellar sources, among them thousands of WDs. In order to find WDs among these data and to identify which ones have metals in their atmospheres, we propose a methodology based on an unsupervised artificial intelligence technique called self-organizing maps. In our approach, a nonlinear high-dimensional data set is projected on a 2D grid map where similar elements fall into the same neuron. By applying this method, we obtained a clean sample of 66,337 WDs. We performed an automatic spectral classification analysis on them, obtaining 143 bona fide polluted WD candidates not previously classified in the literature. The majority of them are cool WDs and we identify in their XP spectra several metallic lines such as Ca, Mg, Na, Li, and K. The fact that we obtain similar precision metrics to those achieved with recent supervised techniques highlights the power of our unsupervised approach to mine the Gaia archives for hidden treasures to follow up spectroscopically with higher resolution.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Mass Function of Stellar Black Holes as Revealed by the LIGO–Virgo–KAGRA Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b43</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b43</guid>
-<content:encoded><![CDATA[
-Ninety gravitational-wave events have been detected by the LIGO–Virgo–KAGRA network and are released in the Gravitational-Wave Transient Catalog. Among these events, 83 cases are definitely binary black hole mergers, since the masses of all the objects involved significantly exceed the upper limit of neutron stars. The black holes in these merger events naturally form two interesting samples, a premerger sample that includes all the black holes before the mergers and a postmerger sample that consists of the black holes generated during the merging processes. The former represents black holes that once existed in the Universe, while the latter represents newly born black holes. Here we present a statistical analysis of these two samples. The nonparametric τ statistic method is adopted to correct for the observational selection effect. The Lynden-Bell C− method is further applied to derive the mass distribution and density function of black holes. It is found that the mass distribution can be expressed as a broken power-law function. More interestingly, the power-law index in the high-mass region is comparable for the two samples. The number density of black holes is found to depend on redshift as ρ(z) ∝ z−2.06—z−2.12 based on the two samples. The implications of these findings on the origin of black holes are discussed.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Estimating the Masses of Supercluster-scale Filaments from Redshift Dispersions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba8</guid>
-<content:encoded><![CDATA[
-We present a strategy for estimating the mass per unit length along supercluster-scale filaments that are oriented across the sky, based on mock redshift surveys of 264 filaments from the Millennium simulation. In our fiducial scenario, we place each simulated filament at a distance of 300 Mpc, perpendicular to the line of sight, and calculate the redshift dispersion using galaxies with magnitudes r < 19.5. Some regions are dynamically complicated in ways that interfere with finding a simple relationship between dispersion σ and linear mass density μ. However, by examining individual overlapping segments along the filaments, we find a relationship that allows us to successfully predict from with a scatter of about ±0.20 dex, for ∼70% of the regions along filaments. This relationship is robust to changes in the distance to the filament if the physical segment length and the absolute magnitude for galaxy selection are held constant. The relationship between redshift dispersion and mass is similar to that obtained for a simple analytical model where filaments are dynamically relaxed, and we examine the possibility that the galaxies are indeed relaxed within the gravitational potential of the filament. We find that this is not the case; galaxy dynamics are strongly affected by infall to the filament and by orbits within groups and clusters.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Efficient and Accurate Force Replay in Cosmological-baryonic Simulations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88f0</guid>
-<content:encoded><![CDATA[
-We construct time-evolving gravitational potential models for a Milky Way–mass galaxy from the FIRE-2 suite of cosmological-baryonic simulations using basis function expansions. These models capture the angular variation with spherical harmonics for the halo and azimuthal harmonics for the disk, and the radial or meridional plane variation with splines. We fit low-order expansions (four angular/harmonic terms) to the galaxy’s potential for each snapshot, spaced roughly 25 Myr apart, over the last 4 Gyr of its evolution, then extract the forces at discrete times and interpolate them between adjacent snapshots for forward orbit integration. Our method reconstructs the forces felt by simulation particles with high fidelity, with 95% of both stars and dark matter, outside of self-gravitating subhalos, exhibiting errors ≤4% in both the disk and the halo. Imposing symmetry on the model systematically increases these errors, particularly for disk particles, which show greater sensitivity to imposed symmetries. The majority of orbits recovered using the models exhibit positional errors ≤10% for 2–3 orbital periods, with higher errors for orbits that spend more time near the galactic center. Approximate integrals of motion are retrieved with high accuracy even with a larger potential sampling interval of 200 Myr. After 4 Gyr of integration, 43% and 70% of orbits have total energy and angular momentum errors within 10%, respectively. Consequently, there is higher reliability in orbital shape parameters such as pericenters and apocenters, with errors ∼10% even after multiple orbital periods. These techniques have diverse applications, including studying satellite disruption in cosmological contexts.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Water Enrichment from Pebble Drift in Disks with Gap-forming Planets</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad891d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad891d</guid>
-<content:encoded><![CDATA[
-Volatiles like H2O are present as ice in solids in the cold outer regions of protoplanetary disks and as vapor in the warm inner regions within the water snow line. Icy pebbles drifting inwards from the outer disk sublimate after crossing the snow line, enriching the inner disk with solid mass and water vapor. Meanwhile, protoplanets forming within the disk open gaps in the disk gas, creating traps against the inward drift of pebbles and in turn reducing water enrichment in the inner disk. Recent disk observations from millimeter interferometry and infrared spectroscopy have supported this broad picture by finding a correlation between the outer radial distribution of pebbles and the properties of inner water vapor spectra. In this work, we aim at further informing previous and future observations by building on previous models to explore pebble drift in disks with multiple gaps. We systematically explore multiple gap locations and their depths (equivalent to the specific masses of planets forming within), and different particle sizes to study their impact on inner disk water enrichment. We find that the presence of close-in deep gaps carved by a Jupiter-mass planet is likely crucial for blocking icy pebble delivery into the inner disk, while planets with lower masses only provide leaky traps. We also find that disks with multiple gaps show lower vapor enrichment in the inner disk. Altogether, these model results support the idea that inner disk water delivery and planet formation are regulated by the mass and location of the most massive planets.
-]]></content:encoded>
-<pubDate>2024-11-29T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Testable Predictions of Outside-in Age Gradients in Dwarf Galaxies of All Types</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b1e</guid>
-<content:encoded><![CDATA[
-We use a sample of 73 simulated satellite and central dwarf galaxies spanning a stellar mass range of 105.3–109.1M⊙ to investigate the origin of their stellar age gradients. We find that dwarf galaxies often form their stars “inside-out,” i.e., the stars form at successively larger radii over time. However, the oldest stars get reshuffled beyond the star-forming radius by fluctuations in the gravitational potential well caused by stellar feedback (the same mechanisms that cause dwarfs to form dark matter cores). The result is that many dwarfs appear to have an “outside-in” age gradient at z = 0, with younger stellar populations more centrally concentrated. However, for the reshuffled galaxies with the most extended star formation, young stars can form out to the large radii to which the old stars have been reshuffled, erasing the age gradient. We find that major mergers do not play a significant role in setting the age gradients of dwarfs. We find similar age gradient trends in satellites and field dwarfs, suggesting that environment plays only a minor role, if any. Finally, we find that the age gradient trends are imprinted on the galaxies at later times, suggesting that the stellar reshuffling dominates after the galaxies have formed 50% of their stellar mass. The later reshuffling is at odds with results from the fire-2 simulations. Hence, age gradients offer a test of current star formation and feedback models that can be probed via observations of resolved stellar populations.
 ]]></content:encoded>
 <pubDate>2024-11-29T00:00:00Z</pubDate>
 </item>
