@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Starspot Distribution and Flare Events in Two Young Low-mass Stars Using TESS Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adae07</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae07</guid>
+<content:encoded><![CDATA[
+
+Wide-field high-precision photometric observations such as the Transiting Exoplanet Survey Satellite (TESS) allowed the investigation of the stellar magnetic activity of cool stars. M dwarf starspots and stellar flares are the main indicators of magnetic activity. The present study focuses on modeling light curves (LCs) to analyze the distribution and characteristics of starspots, e.g., location, temperature, and spot size. The TESS LCs of two selected young M dwarfs, i.e., GJ 182 and 2MASS J05160212+2214528, were reconstructed using the Best rAndom StarSpots Model calculAtioN software, obtaining a three-spot model for GJ 182 and two-spot model for 2MASS J05160212+2214528, describing their LCs. For GJ 182, the mean spot temperature was estimated to be approximately 3279 K, covering 5%–8.5% of the stellar surface, while for 2MASS J05160212+2214528, the average spot temperature was approximately 2631 K, with a mean spottedness of about 5.4%. Using the 2 minute cadence LC data, we identified and analyzed 48 flare events from GJ 182, while no flares were detected in 2MASS J05160212+2214528. The estimated bolometric flare energy ranges from 1032 to 1035 erg, while in the TESS bandpass, it ranges from 1031 to 1033 erg. We derived the power-law index of −1.53 ± 0.12 and −1.86 ± 0.22 for flare frequency distribution in sectors 5 and 32, respectively, in the flare energy range 1033–1035 erg, consistent with previous studies for M dwarfs. A positive linear correlation between flare energy and duration was found with a slope of 0.67 ± 0.02, suggesting a similar mechanism followed by stellar superflares and solar flares. By assuming the similarities with solar flares, we also estimated a lower limit of the magnetic field strength of around 12–232 G to produce such superflare events.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Cosmological and Astrophysical Parameter Inference from Stacked Galaxy Cluster Profiles Using CAMELS-zoomGZ</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e9</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e9</guid>
 <content:encoded><![CDATA[
-
 We present a study on the inference of cosmological and astrophysical parameters using stacked galaxy cluster profiles. Utilizing the CAMELS-zoomGZ simulations, we explore how various cluster properties—such as X-ray surface brightness, gas density, temperature, metallicity, and Compton-y profiles—can be used to predict parameters within the 28-dimensional parameter space of the IllustrisTNG model. Through neural networks, we achieve a high correlation coefficient of 0.97 or above for all cosmological parameters, including Ωm, H0, and σ8, and over 0.90 for the remaining astrophysical parameters, showcasing the effectiveness of these profiles for parameter inference. We investigate the impact of different radial cuts, with bins ranging from 0.1R200c to 0.7R200c, to simulate current observational constraints. Additionally, we perform a noise sensitivity analysis, adding up to 40% Gaussian noise (corresponding to signal-to-noise ratios as low as 2.5), revealing that key parameters such as Ωm, H0, and the initial mass function slope remain robust even under extreme noise conditions. We also compare the performance of full radial profiles against integrated quantities, finding that profiles generally lead to more accurate parameter inferences. Our results demonstrate that stacked galaxy cluster profiles contain crucial information on both astrophysical processes within groups and clusters and the underlying cosmology of the Universe. This underscores their significance for interpreting the complex data expected from next-generation surveys and reveals, for the first time, their potential as a powerful tool for parameter inference.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ We present a study on the inference of cosmological and astrophysical parameters
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0b7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0b7</guid>
 <content:encoded><![CDATA[
-
 Analysis of cosmic shear is an integral part of understanding structure growth across cosmic time, which in turn provides us with information about the nature of dark energy. Conventional methods generate shear maps from which we can infer the matter distribution in the universe. Current methods (e.g., Kaiser–Squires inversion) for generating these maps, however, are tricky to implement and can introduce bias. Recent alternatives construct a spatial process prior for the lensing potential, which allows for inference of the convergence and shear parameters given lensing shear measurements. Realizing these spatial processes, however, scales cubically in the number of observations—an unacceptable expense as near-term surveys expect billions of correlated measurements. Therefore, we present a linearly scaling shear map construction alternative using a scalable Gaussian process prior called MuyGPs. MuyGPs avoids cubic scaling by conditioning interpolation on only nearest neighbors and fits hyperparameters using batched leave-one-out cross-validation. This work is the first step toward a full, scalable mass mapping method. We work in a simplified regime where we validate our method by interpolating and analyzing maps given noisy point-estimate data from all three shear fields, taken from a suite of N-body ray-tracing simulations. We also show that we can perform these operations at the scale of billions of galaxies on high-performance computing platforms.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@ Analysis of cosmic shear is an integral part of understanding structure growth a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb311</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb311</guid>
 <content:encoded><![CDATA[
-
 The streaming instability (SI) is a leading mechanism for concentrating solid particles into regions dense enough to form planetesimals. Its efficiency in clumping particles depends primarily on the dimensionless stopping time (τs, a proxy for particle size) and dust-to-gas surface density ratio (Z). Previous simulations identified a critical Z (Zcrit) above which strong clumping occurs, where particle densities exceed the Hill density (thus satisfying a condition for gravitational collapse), over a wide range of τs. These works found that, for τs ≤ 0.01, Zcrit was above the interstellar medium value (∼0.01). In this work, we reexamine the clumping threshold using 2D axisymmetric, stratified simulations at high resolution and with relatively large (compared to many previous simulations) domain sizes. Our main results are as follows: First, when τs = 0.01, strong clumping occurs even at Z ≲ 0.01, lower than Zcrit found in all previous studies. Consequently, we revise a previously published fit to the Zcrit curve to account for this updated Zcrit. Second, higher resolution results in a thicker dust layer, which may result from other instabilities manifesting, such as the vertically shearing SI. Third, despite this thicker layer, higher resolution can lead to strong clumping even with a lower midplane dust-to-gas density ratios (which results from the thicker particle layer) so long as Z ≳ Zcrit. Our results demonstrate the efficiency of the SI in clumping small particles at Z ∼ 0.01, which is a significant refinement of the conditions for planetesimal formation by the SI.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +48,10 @@ The streaming instability (SI) is a leading mechanism for concentrating solid pa
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb418</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb418</guid>
 <content:encoded><![CDATA[
-
 We present a wide-field study of a dense region within the Polaris Flare using 12CO, 13CO, and C18O (J = 1–0) observations at 15″ resolution, obtained with the Nobeyama 45 m Radio Telescope. The analysis reveals molecular gas formation occurring at column densities up to ∼1021 cm−2, evidenced by an anticorrelation between H i and CO distributions, indicating active atomic-to-molecular gas conversion. We found a threshold column density for molecular formation at ∼5 × 1020 cm−2, which is common among more evolved molecular clouds. The CO-to-H2 conversion factor, XCO, was found to be 0.7 × 1020 H2 cm−2 (K km s−1)−1, lower than the solar neighborhood average. Our chemical models estimate the cloud’s age to be ∼105–106 yr, suggesting an early stage of molecular cloud evolution. This interpretation is consistent with the observed low XCO factor. While virial analysis suggests that the entire cloud is gravitationally unbound, we identified several filamentary structures extending from the main cloud body. These filaments show systematic velocity gradients of 0.5–1.5 km s−1 pc−1, and analysis of the velocities shows that the molecular gas within them is falling toward the main cloud body, following a freefall model. This suggests ongoing mass accumulation processes through the filaments, demonstrating that gravitational processes can be important even at column densities of ∼1021 cm−2.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Using Convolutional Neural Networks to Search for Strongly Lensed Quasars in KiDS DR5</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</link>
@@ -9010,42 +9013,6 @@ The afterglow of gamma-ray bursts (GRBs) has been extensively discussed in the c
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad85e5</guid>
 <content:encoded><![CDATA[
 We present X-ray spectroscopy of the SU UMa–type dwarf nova Z Chamaeleontis using the European Photon Imaging Camera and reflection grating spectrometer (RGS) instruments on board the XMM-Newton observatory. The quiescent system can be modeled by collisional equilibrium (CIE) or nonequilibrium plasma models, yielding a kT of 8.2–13.0 keV at a luminosity of (5.0–6.0) × 1030 erg s−1. The spectra yield better using partially covering absorbers of cold and/or photoionized nature. The ionized absorber has an equivalent NH = (3.4–5.9) × 1022 cm−2 and a log(ξ) = 3.5–3.7 with a (50–60)% covering fraction when the VNEI model (XSPEC) is used. The line diagnosis in quiescence shows no resonance lines, with only the forbidden lines of Ne, Mg, and Si detected. The H-like C, O, Ne, and Mg are detected. The strongest line is O viii, with (2.7–4.6) × 10−14 erg s−1 cm−2. The quiescent X-ray-emitting plasma is not collisional and not in ionization equilibrium, which is consistent with hot ADAF-like accretion flows. The line diagnosis in the outburst shows He-like O and Ne, with intercombination lines being the strongest, along with weaker resonance lines. This indicates the plasma is more collisional and denser, but not yet in CIE, revealing ionization timescales of (0.97–1.4) × 1011 s cm−3. The R ratios in the outburst yield electron densities of (7–90) × 1011 cm−3 and the G ratios yield electron temperatures of (2–3) × 106 K. The outburst luminosity is (1.4–2.5) × 1030 erg s−1. The flow is inhomogeneous in density. All detected lines are narrow, with widths limited by the resolution of RGS, yielding Keplerian rotational velocities <1000 km s−1. This is too low for boundary layers, consistent with the nature of ADAF-like hot flows.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Filament Accretion and Fragmentation in the Perseus Molecular Cloud</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad88e8</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad88e8</guid>
-<content:encoded><![CDATA[
-Observations suggest that filaments in molecular clouds can grow by mass accretion while forming cores via fragmentation. Here, we present one of the first large-sample studies of filament accretion using velocity gradient measurements of star-forming filaments on the ∼0.05 pc scale with NH3 observations of the Perseus Molecular Cloud, primarily obtained as a part of the Green Bank Ammonia Survey. In this study, we find significant correlations between the velocity gradient, velocity dispersion, mass per unit length, and number of cores per unit length of the Perseus filaments. Our results suggest a scenario in which filaments not only grow through mass accretion, but also form new cores continuously in the process, well into the thermally supercritical regime. Such behavior is contrary to that expected from isolated filament models but consistent with how filaments form within a more realistic cloud environment, suggesting that the cloud environment plays a crucial role in shaping core formation and evolution in filaments. Furthermore, even though velocity gradients within filaments are not oriented randomly, we find no correlation between velocity gradient orientation and the filament properties we analyzed. This result suggests that gravity is unlikely to be the dominant mechanism imposing order on the ∼0.05 pc scale for dense star-forming gas.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Star-forming Main Sequence in JADES and CEERS at z > 1.4: Investigating the Burstiness of Star Formation</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba4</guid>
-<content:encoded><![CDATA[
-We have used public JWST/NIRSpec and JWST/NIRCam observations from the CEERS and JADES surveys in order to analyze the star-forming main sequence (SFMS) over the redshift range 1.4 ≤ z < 7. We calculate the star formation rates (SFRs) of the galaxy sample using three approaches: Balmer line luminosity, spectral energy distribution (SED) fitting, and UV luminosity. We find a larger degree of scatter about the SFMS using the Balmer-based SFRs compared to the UV-based SFRs. Because these SFR indicators are sensitive to star formation on different timescales, the difference in scatter may be evidence of bursty star formation histories in the early Universe. We additionally compare the Hα-to-UV luminosity ratio (L(Hα)/νLν,1600) for individual galaxies in the sample and find that 29%–52% of the ratios across the sample are poorly described by predictions from a smooth star formation history. Measuring the burstiness of star formation in the early Universe has multiple significant implications, such as deriving accurate physical parameters from SED fitting, explaining the evolution of the UV luminosity function, and providing constraints for subgrid models of feedback in simulations of galaxy formation and evolution.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Galaxy Spectroscopy without Spectra: Galaxy Properties from Photometric Images with Conditional Diffusion Models</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbe</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8bbe</guid>
-<content:encoded><![CDATA[
-Modern spectroscopic surveys can only target a small fraction of the vast amount of photometrically cataloged sources in wide-field surveys. Here, we report the development of a generative artificial intelligence (AI) method capable of predicting optical galaxy spectra from photometric broadband images alone. This method draws from the latest advances in diffusion models in combination with contrastive networks. We pass multiband galaxy images into the architecture to obtain optical spectra. From these, robust values for galaxy properties can be derived with any methods in the spectroscopic toolbox, such as standard population synthesis techniques and Lick indices. When trained and tested on 64 × 64 pixel images from the Sloan Digital Sky Survey, the global bimodality of star-forming and quiescent galaxies in photometric space is recovered, as well as a mass–metallicity relation of star-forming galaxies. The comparison between the observed and the artificially created spectra shows good agreement in overall metallicity, age, Dn4000, stellar velocity dispersion, and E(B − V) values. Photometric redshift estimates of our generative algorithm can compete with other current, specialized deep learning techniques. Moreover, this work is the first attempt in the literature to infer velocity dispersion from photometric images. Additionally, we can predict the presence of an active galactic nucleus up to an accuracy of 82%. With our method, scientifically interesting galaxy properties, normally requiring spectroscopic inputs, can be obtained in future data sets from large-scale photometric surveys alone. The spectra prediction via AI can further assist in creating realistic mock catalogs.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Infrared Band Strengths and Other Properties of Three Interstellar Compounds—Amorphous Isocyanic Acid, Formaldehyde, and Formic Acid</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</guid>
-<content:encoded><![CDATA[
-Infrared (IR) spectral features of interstellar and solar system ices have been attributed to solid organic and inorganic compounds for over 50 yr, but in many cases the laboratory IR data needed to fully quantify such work have never been published, forcing researchers to rely on assumptions about gas- or liquid-phase measurements to interpret data for ices. Here, we report the first mid-IR intensity measurements for isocyanic acid (HNCO) ices that are free of such assumptions, providing new results for use by both observational and laboratory astrochemists. We also report similar new IR data for both formaldehyde (H2CO) and formic acid (HCOOH), which have been discussed in the astrochemical literature for decades, but again without adequate laboratory data to help quantify observational results. Densities and refractive indices of HNCO, H2CO, and HCOOH as amorphous ices also are reported. Two applications of the new H2CO work are presented, the first vapor-pressure measurements of solid H2CO, along with an enthalpy of sublimation, at 100 to 109 K and a set of IR intensities of H2CO in H2O + H2CO ices. Band strengths, absorption coefficients, and optical constants are calculated for all three compounds. Extensive comparisons are made to older results, which are not recommended for future use.
 ]]></content:encoded>
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
