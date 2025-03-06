@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Using Convolutional Neural Networks to Search for Strongly Lensed Quasars in KiDS DR5</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</guid>
+<content:encoded><![CDATA[
+
+Gravitationally strongly lensed quasars (SL-QSO) offer invaluable insights into cosmological and astrophysical phenomena. With the data from ongoing and next-generation surveys, thousands of SL-QSO systems can be discovered expectedly, leading to unprecedented opportunities. However, the challenge lies in identifying SL-QSO from enormous data sets with high recall and purity in an automated and efficient manner. Hence, we developed a program based on a convolutional neural network (CNN) for finding SL-QSO from large-scale surveys and applied it to the Kilo-degree Survey Data Release 5. Our approach involves three key stages: first, we preselected 10 million bright objects (with r-band MAG_AUTO < 22), excluding stars from the data set; second, we established realistic training and test sets to train and fine-tune the CNN, resulting in the identification of 4195 machine candidates, and the false-positive rate of ∼1/2000 and recall of 0.8125 evaluated by using the real test set containing 16 confirmed lensed quasars; third, human inspections were performed for further selections, and then, 272 SL-QSO candidates were eventually found in total, including 16 high-score, 118 median-score, and 138 lower-score candidates, separately. Removing the systems already confirmed or identified in other papers, we end up with 229 SL-QSO candidates, including 7 high-score, 95 median-score, and 127 lower-score candidates, and the corresponding catalog is publicly available online (https://github.com/EigenHermit/H24). We have also included an excellent quad candidate in the Appendix, discovered serendipitously during the fine-tuning process of the CNN.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Survival of the Fittest: Testing Superradiance Termination with Simulated Binary Black Hole Statistics</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1db</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1db</guid>
 <content:encoded><![CDATA[
-
 The superradiance instability of rotating black holes (BHs) leads to the formation of an ultralight boson cloud with distinctive observational signatures, making BHs an effective probe of ultralight bosons. However, around BHs in a binary system, the superradiance effect of such clouds can be terminated by tidal perturbations from the companion, leading to cloud depletion. In this study, we focus on the superradiance of a scalar boson, and perform the first analysis of the impact of this termination effect on superradiant BH binaries, which are realistically modeled after their statistics in our Galaxy. Working with a data set of approximately 107 BH binaries simulated using the Stellar Evolution for N-body population synthesis code, we identify the superradiant candidates and those that manage to survive the termination effect. We then calculate the cloud survival rate for various boson masses and BH spin models. Our findings reveal that the l = m = 1 cloud modes are generally stable against termination, whereas the l = m = 2 modes can be significantly affected, with survival rates dropping below 10% for boson masses below approximately 0.5 × 10−12 eV. In addition, our analysis indicates that clouds that overcome termination typically exhibit a higher superradiant growth rate and therefore a higher detectability.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ The superradiance instability of rotating black holes (BHs) leads to the formati
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e2</guid>
 <content:encoded><![CDATA[
-
 The possibility of generating a magnetic field by a dynamo effect with anisotropic electrical conductivity rather than turbulent flow has been demonstrated theoretically and experimentally. If the electrical conductivity is anisotropic, the electrical currents will flow preferentially in certain directions rather than others, and a simple differential rotation will suffice to generate a magnetic field. In a galaxy with spiral arms, it is reasonable to assume that the electrical conductivity will be twice as large along the arms than in the perpendicular direction, suggesting the possibility of an anisotropic dynamo. However, a further geometrical criterion must be satisfied to obtain a dynamo. It is given by , where p is the pitch angle of the spiral arms, with , and is the radial shear of the angular velocity. We find that the usual spiral-arm galaxies, which satisfy , do not satisfy this dynamo condition because they have trailing arms instead of leading arms. Even galaxy NGC 4622, which has both trailing and leading arms, does not satisfy this dynamo condition either. This is confirmed by numerical simulations of the induction equation. Thus, for all spiral-arm galaxies known to date, the anisotropy of the spiral arms cannot explain the existence of galactic magnetic fields until further notice.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@ The possibility of generating a magnetic field by a dynamo effect with anisotrop
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb41a</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb41a</guid>
 <content:encoded><![CDATA[
-
 Solar active regions can significantly disrupt the Sun–Earth space environment, leading to severe space weather events such as solar flares or coronal mass ejections. Consequently, the automatic classification of active region groups is a crucial starting point for accurately and promptly predicting solar activity. This study presents our application of deep learning techniques to classify active region cutouts based on the Mount Wilson classification scheme. We explore the latest advantages in image classification architectures, ranging from convolutional neural networks to vision transformers, alongside modern training procedures, including on-the-fly data augmentations and transfer learning. We aim at evaluating the respective strengths and limitations of different neural network architectures in classifying solar active region cutouts. We observed that combining magnetogram and continuum image types enhances model performance by leveraging complementary features from diverse inputs. When considering only magnetograms, data-efficient image transformers achieve the best performance, suggesting that these models can better capture the spatial complexity of magnetograms. Models trained exclusively on continuum images exhibit overall lower performance, suggesting that continuum images, due to their more homogeneous nature, offer less spatial variability.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@ Solar active regions can significantly disrupt the Sun–Earth space environment
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb41e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb41e</guid>
 <content:encoded><![CDATA[
-
 While cloud–cloud collisions (CCCs) have been proposed as a mechanism for triggering massive star formation, it is suggested that higher collision velocities (vcol) and lower giant molecular cloud (GMC) mass (MGMC) and/or density (ΣGMC) tend to suppress star formation. In this study, we choose the nearby barred galaxy NGC 3627 to examine the star formation rate and star formation efficiency (SFE) of a colliding GMC ( and ϵCCC) and explore the connections between and ϵCCC, MGMC(ΣGMC) and vcol, and galactic structures (disk, bar, and bar end). Using Atacama Large Millimeter/submillimeter Array CO (2–1) data (60 pc resolution), we estimated vcol within 500 pc apertures, based on line-of-sight GMC velocities, assuming random motion in a two-dimensional plane. We extracted apertures where at least 0.1 collisions occur per 1 Myr, identifying them as regions dominated by CCC-driven star formation, and then calculated and ϵCCC using attenuation-corrected Hα data from MUSE on the Very Large Telescope. We found that both and ϵCCC are lower in the bar (median values: 103.84M⊙ and 0.18%) and higher in the bar end (104.89M⊙ and 1.10%) compared to the disk (104.28M⊙ and 0.75%). Furthermore, we found that structural differences within the parameter space of vcol and MGMC(ΣGMC), with higher MGMC(ΣGMC) in the bar end and higher vcol in the bar compared to the disk, lead to higher star formation activity in the bar end and lower activity in the bar. Our results support the scenario in which variations in CCC properties across different galactic structures can explain the observed differences in SFE on a kiloparsec scale within a disk galaxy.
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +57,8 @@ While cloud–cloud collisions (CCCs) have been proposed as a mechanism for trig
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb57c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb57c</guid>
 <content:encoded><![CDATA[
-
 In this work, we employ a multicomponent decomposition model to study the Sextans and Sculptor dwarf spheroidal galaxies, which have distinct evolutionary histories. Sextans exhibits massive stars dominating in the early stages of its evolution and a lower contribution from type Ia supernovae (SNe Ia). With increasing metallicity, the evolution of massive stars in Sextans shows two turning points, at [Fe/H] ∼ −2.8 and [Fe/H] ∼ −2.0, indicating episodes of accretion events and galactic winds during its evolution. In the late stages, influenced by galactic winds, the contribution from massive stars ceases, and SNe Ia become the dominant evolutionary process. Sculptor exhibits contributions from the main r-process, early very massive stars, massive stars, SNe Ia, and asymptotic giant branch (AGB) stars. In its early stages, the contributions from early very massive stars and massive stars are dominant, while the contribution from SNe Ia is low. Around [Fe/H] ∼ −2, the contribution from early very massive stars starts to decline, while the contributions from SNe Ia and massive stars continue to increase. At [Fe/H] ∼ −1.7, the contribution from massive stars gradually decreases and approaches the level of the solar neighborhood, while the contribution from AGB stars continues to rise with increasing metallicity. Both dwarf galaxies exhibit characteristic features of similar initial mass functions, but the Sextans dwarf galaxy exhibits a high-mass cutoff, while the Sculptor dwarf galaxy does not. Additionally, through decomposition, we can analyze the contributions of different astrophysical processes to [α/Fe] versus [Fe/H], [iron-group/Fe] versus [Fe/H], and [neutron-capture/Fe] versus [Fe/H].
 ]]></content:encoded>
-
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,13 +66,10 @@ In this work, we employ a multicomponent decomposition model to study the Sextan
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adadf3</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adadf3</guid>
 <content:encoded><![CDATA[
-
 We report the discovery of eight new recurrent changing-look (CL) active galactic nuclei (AGNs), consisting of seven rebrightening turn-off AGNs and one fading turn-on AGN. These systems are valuable for placing constraints on the duration of dim and bright states, which may be linked to the AGN duty cycle or disk instability. Long-term analysis of optical light curves reveals that many objects in our sample exhibit a prolonged plateau during the dim states lasting 5–7 yr, with a gradual turn-on/off process. We observe no significant difference between the turn-on and turn-off timescales, and this timescale is broadly consistent with the propagation timescale for the heating/cooling front. Comparison between the optical and infrared variations supports the idea that these transitions are driven by changes in accretion disk emission rather than dust obscuration. Our discovery significantly increases the previously identified recurrent CL AGN sample, demonstrating that some AGNs can enter dormancy and reawaken on timescales of a few years, which provides useful information for understanding episodic AGN accretion.
 ]]></content:encoded>
-
 <pubDate>2025-03-05T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Introducing the Condor Array Telescope. VI. Discovery of Extensive Ionized Gaseous Filaments of the Cosmic Web in the Direction of the M81 Group</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad99ad</link>
@@ -9014,60 +9013,6 @@ Infrared (IR) spectral features of interstellar and solar system ices have been 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</guid>
 <content:encoded><![CDATA[
 Fast radio bursts (FRBs) are bright radio transients with millisecond durations, which typically occur at extragalactic distances. The association of FRB 20200428 with the Galactic magnetar SGR J1935+2154 strongly indicates that they could originate from neutron stars, which naturally leads to the expectation that periodicity connected with the spinning of magnetars should exist in the activities of repeating FRBs. However, previous studies have failed to find any signatures supporting such a conjecture. Here we perform a thorough search for short-timescale periodicity in the four most active repeating sources, i.e., FRBs 20121102A, 20200120E, 20201124A, and 20220912A. Three different methods are employed, including a phase folding algorithm, the H-test, and Lomb–Scargle periodograms. For the three most active repeaters from which more than 1000 bursts have been detected, i.e., FRBs 20121102A, 20201124A, and 20220912A, more in-depth period searches are conducted by considering various burst properties such as the pulse width, peak flux, fluence, and the brightness temperature. No clear periodicity is found in a period range of 0.001–1000 s in all efforts. Implications of such a null result on the theoretical models of FRBs are discussed.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Intergalactic Medium Rotation Measure of Primordial Magnetic Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dc5</guid>
-<content:encoded><![CDATA[
-The Faraday rotation effect, quantified by the rotation measure (RM), is a powerful probe of the large-scale magnetization of the Universe—tracing magnetic fields not only on galaxy and galaxy cluster scales but also in the intergalactic medium (IGM; referred to as RMIGM). The redshift dependence of the latter has extensively been explored with observations. It has also been shown that this relation can help to distinguish between different large-scale magnetization scenarios. We study the evolution of this RMIGM for different primordial magnetogenesis scenarios to search for the imprints of primordial magnetic fields (PMFs; magnetic fields originating in the early Universe) on the redshift-dependence of RMIGM. We use cosmological magnetohydrodynamic simulations for evolving PMFs during large-scale structure formation, coupled with the light-cone analysis to produce a realistic statistical sample of mock RMIGM images. We study the predicted behavior for the cosmic evolution of RMIGM for different correlation lengths of PMFs, and provide fitting functions for their dependence on redshifts. We compare these mock RM trends with the recent analysis of the the LOw-Frequency ARray RM Grid and find that large-scale-correlated PMFs should have (comoving) strengths ≲0.75 nG, if they originated during inflation with the scale-invariant spectrum and (comoving) correlation length of ∼19 h−1 cMpc or ≲30 nG if they originated during phase-transition epochs with the comoving correlation length of ∼1 h−1 cMpc. Our findings agree with previous observations and confirm the results of semi-analytical studies, showing that upper limits on the PMF strength decrease as their coherence scales increase.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Dynamic 3D Simulation of Surface Charging on Rotating Asteroids</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e37</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e37</guid>
-<content:encoded><![CDATA[
-The surface-charging phenomenon of asteroids, mainly resulting from solar wind plasma and solar radiation, has been extensively studied. However, the influence of the asteroid’s rotation on surface charging is not yet fully understood. In this study, a neural network is established to replace numerical integration, improving the efficiency of dynamic 3D simulations. We simulate rotating asteroids and their surrounding plasma environments under various conditions, including the quiet solar wind and solar storms. Different minerals on the asteroid surface are also considered. Additionally, the effects of orbital motion and obliquity are studied for asteroids with rotation periods comparable to their orbital periods. The results show that under the typical solar wind, the maximum and minimum potentials of asteroids gradually decrease with increasing rotation periods, especially when the solar wind is obliquely incident. For asteroids with rotation periods longer than one week, this decreasing trend becomes extremely slow. During a solar storm, the solar wind plasma changes sharply, and the susceptibility of an asteroid’s surface potential to rotation is greatly pronounced. Surface minerals also play a role; plagioclase is the most sensitive mineral among those explored, while ilmenite appears indifferent to changes in rotation periods. Understanding the surface charging of asteroids under various rotation periods and angles is crucial for further research on solar wind plasma and asteroids’ surface dust motion, providing a reference for the safe landing and exploration of asteroids.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiple Components of the Outflow in the Protostellar System HH 212: Outer Outflow Shell, Rotating Wind, Shocked Wind, and Jet</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb4</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8eb4</guid>
-<content:encoded><![CDATA[
-We present the Atacama Large Millimeter/submillimeter Array Band 7 observations of the CO (J = 3−2) line emission of the protostellar system HH 212 at ∼24 au spatial resolution and compare them to those of the SiO (J = 8−7) and SO (J = 8−7) line emission reported in the literature. We find that the CO line traces four distinct regions: (1) an outer outflow shell, (2) a rotating wind region between the SiO and CO shells, (3) the shocked and wide-angle inner X-wind inside a SiO shell, and (4) the jet. The origin of the CO outer outflow shell could be associated with the entrained material of the envelope, or an extended disk wind. The rotating wind, which is shocked, is launched from a radius of 9–15 au, slightly exterior to that of the previously detected SO shell, which marks the boundary where the wide-angle X-wind is interacting with and shocking the disk wind. Additionally, the SO is found to be mixed with the CO emission within the thick and extended rotating wind region. The large-scale CO-shocked wind coexists with the SO emission near the upper portion of the inner shocked region converged on top of the inner SiO knots. The CO jet is traced by a chain of knots with roughly equal intervals, exhibiting quasiperiodicity, as reported in other jets in the literature.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Mergers, Radio Jets, and Quenching Star Formation in Massive Galaxies: Quantifying Their Synchronized Cosmic Evolution and Assessing the Energetics</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f3e</guid>
-<content:encoded><![CDATA[
-The existence of a population of massive quiescent galaxies with little to no star formation poses a challenge to our understanding of galaxy evolution. The physical process that quenched the star formation in these galaxies is debated, but the most popular possibility is that feedback from supermassive black holes lifts or heats the gas that would otherwise be used to form stars. In this paper, we evaluate this idea in two ways. First, we compare the cumulative growth in the cosmic inventory of the total stellar mass in quiescent galaxies to the corresponding growth in the amount of kinetic energy carried by radio jets. We find that these two inventories are remarkably well-synchronized, with about 50% of the total amounts being created in the epoch from z ≈ 1 to 2. We also show that these agree extremely well with the corresponding growth in the cumulative number of major mergers that result in massive (>1011Mʘ) galaxies. We therefore argue that major mergers trigger the radio jets and also transform the galaxies from disks to spheroids. Second, we evaluate the total amount of kinetic energy delivered by jets and compare it to the baryonic binding energy of the galaxies. We find the jet kinetic energy is more than sufficient to quench star formation, and the quenching process should be more effective in more massive galaxies. We show that these results are quantitatively consistent with recent measurements of the Sunyaev–Zel’dovich effect seen in massive galaxies at z ≈ 1.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Detailed Calculations of the Efficiency of Planetesimal Accretion in the Core-accretion Model. III. The Contribution of Planetesimals beyond Saturn</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9003</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9003</guid>
-<content:encoded><![CDATA[
-Continuing our initiative on advancing the calculations of planetesimal accretion in the core-accretion model, we present here the results of our recent study of the contributions of planetesimals around and beyond the orbit of Saturn. In our first two papers, where our focus was on the effects of the Sun and Saturn, the initial distribution of planetesimals was limited to the regions around the accretion zone of a growing Jupiter. In this paper, we expanded that distribution to regions beyond the accretion zone of Saturn. We integrated the orbits of a large ensemble of planetesimals and studied the rate of their capture by the growing proto-Jupiter. In order to be consistent with our previous studies, we did not consider the effect of the nebular gas. Results demonstrated that the exterior planetesimals, especially those beyond 8 au, have only slight contributions to the growth and metallicity of the growing Jupiter. The final mass and composition of this planet is mainly due to the planetesimals inside and around its accretion zone. Our study shows that although the rate of capture varies slightly by the size and composition of planetesimals, in general, the final results are independent of the size and material of these bodies. Results also pointed to a new finding: the rate of accretion follows the same trend as that of the evolution of Jupiter’s envelope, with the largest accretion occurring during the envelope’s collapse. We present details of our analysis and discuss the implications of its results.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Challenges for Fast Radio Bursts as Multimessenger Sources from Binary Neutron Star Mergers</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9023</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9023</guid>
-<content:encoded><![CDATA[
-Fast radio bursts (FRBs) are millisecond-duration transients from extragalactic sources, with their origins remaining a topic of active debate. Among the proposed progenitors, binary neutron star (BNS) mergers are compelling candidates for some nonrepeating FRBs. However, associating FRBs with BNS mergers cannot be based solely on low chance coincidence probability. This study delineates necessary criteria for associating FRBs with BNS mergers, focusing on the postmerger ejecta environment. To underscore the significance of these criteria, we scrutinise the proposed association between GW190425 and FRB 20190425A, considering the requirement for the FRB signal to traverse the dense merger ejecta without significant attenuation to remain detectable at 400 MHz. Our investigation reveals that if the FRB is linked to the gravitational-wave (GW) event, the GW data support a highly off-axis configuration, with a probability of the BNS merger viewing angle p(θv > 30°) being ≈99.99%. This strongly excludes an on-axis system, which is required for this FRB to be detectable. We also find faraway FRB emission models inadequate to explain the FRB 20190425A–GW190425 connection. Thus, we conclude that GW190425 is not related to FRB 20190425A. We discuss the implications for future multimessenger observations, suggesting that BNS merger remnants are unlikely to account for more than 1% of FRB sources. This finding implies that short gamma-ray bursts, which are expected to occur in only a fraction of all BNS mergers, cannot account for the overall characteristics of the FRB host population.
 ]]></content:encoded>
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
