@@ -5,17 +5,59 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>Using Convolutional Neural Networks to Search for Strongly Lensed Quasars in KiDS DR5</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</guid>
+<title>Cosmological and Astrophysical Parameter Inference from Stacked Galaxy Cluster Profiles Using CAMELS-zoomGZ</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e9</guid>
 <content:encoded><![CDATA[
 
-Gravitationally strongly lensed quasars (SL-QSO) offer invaluable insights into cosmological and astrophysical phenomena. With the data from ongoing and next-generation surveys, thousands of SL-QSO systems can be discovered expectedly, leading to unprecedented opportunities. However, the challenge lies in identifying SL-QSO from enormous data sets with high recall and purity in an automated and efficient manner. Hence, we developed a program based on a convolutional neural network (CNN) for finding SL-QSO from large-scale surveys and applied it to the Kilo-degree Survey Data Release 5. Our approach involves three key stages: first, we preselected 10 million bright objects (with r-band MAG_AUTO < 22), excluding stars from the data set; second, we established realistic training and test sets to train and fine-tune the CNN, resulting in the identification of 4195 machine candidates, and the false-positive rate of ∼1/2000 and recall of 0.8125 evaluated by using the real test set containing 16 confirmed lensed quasars; third, human inspections were performed for further selections, and then, 272 SL-QSO candidates were eventually found in total, including 16 high-score, 118 median-score, and 138 lower-score candidates, separately. Removing the systems already confirmed or identified in other papers, we end up with 229 SL-QSO candidates, including 7 high-score, 95 median-score, and 127 lower-score candidates, and the corresponding catalog is publicly available online (https://github.com/EigenHermit/H24). We have also included an excellent quad candidate in the Appendix, discovered serendipitously during the fine-tuning process of the CNN.
+We present a study on the inference of cosmological and astrophysical parameters using stacked galaxy cluster profiles. Utilizing the CAMELS-zoomGZ simulations, we explore how various cluster properties—such as X-ray surface brightness, gas density, temperature, metallicity, and Compton-y profiles—can be used to predict parameters within the 28-dimensional parameter space of the IllustrisTNG model. Through neural networks, we achieve a high correlation coefficient of 0.97 or above for all cosmological parameters, including Ωm, H0, and σ8, and over 0.90 for the remaining astrophysical parameters, showcasing the effectiveness of these profiles for parameter inference. We investigate the impact of different radial cuts, with bins ranging from 0.1R200c to 0.7R200c, to simulate current observational constraints. Additionally, we perform a noise sensitivity analysis, adding up to 40% Gaussian noise (corresponding to signal-to-noise ratios as low as 2.5), revealing that key parameters such as Ωm, H0, and the initial mass function slope remain robust even under extreme noise conditions. We also compare the performance of full radial profiles against integrated quantities, finding that profiles generally lead to more accurate parameter inferences. Our results demonstrate that stacked galaxy cluster profiles contain crucial information on both astrophysical processes within groups and clusters and the underlying cosmology of the Universe. This underscores their significance for interpreting the complex data expected from next-generation surveys and reveals, for the first time, their potential as a powerful tool for parameter inference.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A Scalable Gaussian Process Approach to Shear Mapping with MuyGPs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0b7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0b7</guid>
+<content:encoded><![CDATA[
+
+Analysis of cosmic shear is an integral part of understanding structure growth across cosmic time, which in turn provides us with information about the nature of dark energy. Conventional methods generate shear maps from which we can infer the matter distribution in the universe. Current methods (e.g., Kaiser–Squires inversion) for generating these maps, however, are tricky to implement and can introduce bias. Recent alternatives construct a spatial process prior for the lensing potential, which allows for inference of the convergence and shear parameters given lensing shear measurements. Realizing these spatial processes, however, scales cubically in the number of observations—an unacceptable expense as near-term surveys expect billions of correlated measurements. Therefore, we present a linearly scaling shear map construction alternative using a scalable Gaussian process prior called MuyGPs. MuyGPs avoids cubic scaling by conditioning interpolation on only nearest neighbors and fits hyperparameters using batched leave-one-out cross-validation. This work is the first step toward a full, scalable mass mapping method. We work in a simplified regime where we validate our method by interpolating and analyzing maps given noisy point-estimate data from all three shear fields, taken from a suite of N-body ray-tracing simulations. We also show that we can perform these operations at the scale of billions of galaxies on high-performance computing platforms.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Probing Conditions for Strong Clumping by the Streaming Instability: Small Dust Grains and Low Dust-to-gas Density Ratio</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb311</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb311</guid>
+<content:encoded><![CDATA[
+
+The streaming instability (SI) is a leading mechanism for concentrating solid particles into regions dense enough to form planetesimals. Its efficiency in clumping particles depends primarily on the dimensionless stopping time (τs, a proxy for particle size) and dust-to-gas surface density ratio (Z). Previous simulations identified a critical Z (Zcrit) above which strong clumping occurs, where particle densities exceed the Hill density (thus satisfying a condition for gravitational collapse), over a wide range of τs. These works found that, for τs ≤ 0.01, Zcrit was above the interstellar medium value (∼0.01). In this work, we reexamine the clumping threshold using 2D axisymmetric, stratified simulations at high resolution and with relatively large (compared to many previous simulations) domain sizes. Our main results are as follows: First, when τs = 0.01, strong clumping occurs even at Z ≲ 0.01, lower than Zcrit found in all previous studies. Consequently, we revise a previously published fit to the Zcrit curve to account for this updated Zcrit. Second, higher resolution results in a thicker dust layer, which may result from other instabilities manifesting, such as the vertically shearing SI. Third, despite this thicker layer, higher resolution can lead to strong clumping even with a lower midplane dust-to-gas density ratios (which results from the thicker particle layer) so long as Z ≳ Zcrit. Our results demonstrate the efficiency of the SI in clumping small particles at Z ∼ 0.01, which is a significant refinement of the conditions for planetesimal formation by the SI.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Velocity Structure and Molecular Formation in the Polaris Molecular Cloud</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb418</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb418</guid>
+<content:encoded><![CDATA[
+
+We present a wide-field study of a dense region within the Polaris Flare using 12CO, 13CO, and C18O (J = 1–0) observations at 15″ resolution, obtained with the Nobeyama 45 m Radio Telescope. The analysis reveals molecular gas formation occurring at column densities up to ∼1021 cm−2, evidenced by an anticorrelation between H i and CO distributions, indicating active atomic-to-molecular gas conversion. We found a threshold column density for molecular formation at ∼5 × 1020 cm−2, which is common among more evolved molecular clouds. The CO-to-H2 conversion factor, XCO, was found to be 0.7 × 1020 H2 cm−2 (K km s−1)−1, lower than the solar neighborhood average. Our chemical models estimate the cloud’s age to be ∼105–106 yr, suggesting an early stage of molecular cloud evolution. This interpretation is consistent with the observed low XCO factor. While virial analysis suggests that the entire cloud is gravitationally unbound, we identified several filamentary structures extending from the main cloud body. These filaments show systematic velocity gradients of 0.5–1.5 km s−1 pc−1, and analysis of the velocities shows that the molecular gas within them is falling toward the main cloud body, following a freefall model. This suggests ongoing mass accumulation processes through the filaments, demonstrating that gravitational processes can be important even at column densities of ∼1021 cm−2.
 ]]></content:encoded>
 
 <pubDate>2025-03-06T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>Using Convolutional Neural Networks to Search for Strongly Lensed Quasars in KiDS DR5</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf28</guid>
+<content:encoded><![CDATA[
+Gravitationally strongly lensed quasars (SL-QSO) offer invaluable insights into cosmological and astrophysical phenomena. With the data from ongoing and next-generation surveys, thousands of SL-QSO systems can be discovered expectedly, leading to unprecedented opportunities. However, the challenge lies in identifying SL-QSO from enormous data sets with high recall and purity in an automated and efficient manner. Hence, we developed a program based on a convolutional neural network (CNN) for finding SL-QSO from large-scale surveys and applied it to the Kilo-degree Survey Data Release 5. Our approach involves three key stages: first, we preselected 10 million bright objects (with r-band MAG_AUTO < 22), excluding stars from the data set; second, we established realistic training and test sets to train and fine-tune the CNN, resulting in the identification of 4195 machine candidates, and the false-positive rate of ∼1/2000 and recall of 0.8125 evaluated by using the real test set containing 16 confirmed lensed quasars; third, human inspections were performed for further selections, and then, 272 SL-QSO candidates were eventually found in total, including 16 high-score, 118 median-score, and 138 lower-score candidates, separately. Removing the systems already confirmed or identified in other papers, we end up with 229 SL-QSO candidates, including 7 high-score, 95 median-score, and 127 lower-score candidates, and the corresponding catalog is publicly available online (https://github.com/EigenHermit/H24). We have also included an excellent quad candidate in the Appendix, discovered serendipitously during the fine-tuning process of the CNN.
+]]></content:encoded>
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
 <item>
 <title>Survival of the Fittest: Testing Superradiance Termination with Simulated Binary Black Hole Statistics</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1db</link>
@@ -9004,15 +9046,6 @@ Modern spectroscopic surveys can only target a small fraction of the vast amount
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8c43</guid>
 <content:encoded><![CDATA[
 Infrared (IR) spectral features of interstellar and solar system ices have been attributed to solid organic and inorganic compounds for over 50 yr, but in many cases the laboratory IR data needed to fully quantify such work have never been published, forcing researchers to rely on assumptions about gas- or liquid-phase measurements to interpret data for ices. Here, we report the first mid-IR intensity measurements for isocyanic acid (HNCO) ices that are free of such assumptions, providing new results for use by both observational and laboratory astrochemists. We also report similar new IR data for both formaldehyde (H2CO) and formic acid (HCOOH), which have been discussed in the astrochemical literature for decades, but again without adequate laboratory data to help quantify observational results. Densities and refractive indices of HNCO, H2CO, and HCOOH as amorphous ices also are reported. Two applications of the new H2CO work are presented, the first vapor-pressure measurements of solid H2CO, along with an enthalpy of sublimation, at 100 to 109 K and a set of IR intensities of H2CO in H2O + H2CO ices. Band strengths, absorption coefficients, and optical constants are calculated for all three compounds. Extensive comparisons are made to older results, which are not recommended for future use.
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Thorough Search for Short-timescale Periodicity in Four Active Repeating Fast Radio Bursts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd5</guid>
-<content:encoded><![CDATA[
-Fast radio bursts (FRBs) are bright radio transients with millisecond durations, which typically occur at extragalactic distances. The association of FRB 20200428 with the Galactic magnetar SGR J1935+2154 strongly indicates that they could originate from neutron stars, which naturally leads to the expectation that periodicity connected with the spinning of magnetars should exist in the activities of repeating FRBs. However, previous studies have failed to find any signatures supporting such a conjecture. Here we perform a thorough search for short-timescale periodicity in the four most active repeating sources, i.e., FRBs 20121102A, 20200120E, 20201124A, and 20220912A. Three different methods are employed, including a phase folding algorithm, the H-test, and Lomb–Scargle periodograms. For the three most active repeaters from which more than 1000 bursts have been detected, i.e., FRBs 20121102A, 20201124A, and 20220912A, more in-depth period searches are conducted by considering various burst properties such as the pulse width, peak flux, fluence, and the brightness temperature. No clear periodicity is found in a period range of 0.001–1000 s in all efforts. Implications of such a null result on the theoretical models of FRBs are discussed.
 ]]></content:encoded>
 <pubDate>2024-12-09T00:00:00Z</pubDate>
 </item>
