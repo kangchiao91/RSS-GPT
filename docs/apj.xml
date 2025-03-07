@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>Characterizing the Multiple Protostellar System VLA 1623-2417 with JWST, ALMA, and VLA: Outflow Origins, Dust Growth, and an Unsettled Disk</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0b9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0b9</guid>
+<content:encoded><![CDATA[
+
+Utilizing the James Webb Space Telescope (JWST), the Atacama Large Millimeter/submillimeter Array (ALMA), and the Very Large Array (VLA), we present high angular resolution (0 06–0 42), multiwavelength (4 μm–3 cm) observations of the VLA 1623-2417 protostellar system to characterize the origin, morphology and, properties of the continuum emission. JWST observations at 4.4 μm reveal outflow cavities for VLA 1623 A and, for the first time, VLA 1623 B, as well as scattered light from the upper layers of the VLA 1623 W disk. We model the millimeter-centimeter spectral energy distributions to quantify the relative contributions of dust and ionized gas emission, calculate dust masses, and use spectral index maps to determine where optical depth hinders this analysis. In general, all objects appear to be optically thick down to ∼90 GHz, show evidence for significant amounts (tens to hundreds of M⊕) of large (>1 mm) dust grains, and are dominated by ionized gas emission for frequencies ≲15 GHz. In addition, we find evidence of unsettled millimeter dust in the inclined disk of VLA 1623 B possibly attributed to instabilities within the circumstellar disk, adding to the growing catalog of unsettled Class 0/I disks. Our results represent some of the highest-resolution observations possible with current instrumentation, particularly in the case of the VLA. However, our interpretation is still limited at low frequencies (≲22 GHz) and thus motivates the need for next-generation interferometers operating at centimeter wavelengths.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Multifrequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1c5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1c5</guid>
 <content:encoded><![CDATA[
-
 We present new radio observations of the galaxy cluster merger CIZA J0107.7+5408 (CIZA0107), a large, roughly equal mass, postcore passage, dissociative binary system at z = 0.1066. CIZA0107 is an elongated, disturbed system, hosting two subclusters with optical galaxy number density peaks offset from their associated X-ray density peaks and double-peaked diffuse radio structure. We present new 240–470 MHz and 2.0–4.0 GHz Very Large Array observations of CIZA0107. We image the diffuse emission at high resolution, constrain its integrated spectrum, and map the spectral index distribution. We confirm the presence of steep-spectrum (α ∼ −1.3) emission on a scale of ∼0.5 Mpc in both subclusters. We identify two smaller ultrasteep spectrum (α < −2) regions, superimposed on larger-scale radio emission associated with the southwestern subcluster. At 340 MHz, we detect a radio edge bounding the emission to the south and show that it is coincident with a weak (M ∼ 1.2) shock identified in the Chandra image. At 3 GHz, the emission does not show any corresponding edgelike feature, and in fact it extends beyond the shock. We investigate the nature of the emission in CIZA0107 and find that, while the system may host a double halo structure, we cannot rule out a scenario in which the emission arises from two relics projected on the central cluster regions.
 ]]></content:encoded>
-
 <pubDate>2025-03-07T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ We present new radio observations of the galaxy cluster merger CIZA J0107.7+5408
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1d7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1d7</guid>
 <content:encoded><![CDATA[
-
 There are expected to be millions of isolated black holes in the galaxy resulting from the deaths of massive stars. Measuring the abundance and properties of this remnant population would shed light on the end stages of stellar evolution and the evolution paths of black hole systems. Detecting isolated black holes is currently only possible via gravitational microlensing, which has so far yielded one definitive detection. The difficulty in finding microlensing black holes lies in having to choose a small subset of events, based on characteristics of their light curves, to allocate expensive and scarce follow-up resources to confirm the identity of the lens. Current methods either rely on simple cuts in parameter space without using the full distribution information or are only effective on small subsets of events. In this paper, we present a new lens classification method. The classifier takes in posterior constraints on light-curve parameters and combines them with a Galactic simulation to estimate the lens class probability. This method is flexible and can be used with any set of microlensing light-curve parameters, making it applicable to large samples of events. We make this classification framework available via the popclass Python package. We apply the classifier to ∼10,000 microlensing events from the Optical Gravitational Lensing Experiment survey and find 23 high-probability black hole candidates. Our classifier also suggests that the only known isolated black hole is an observational outlier, according to current Galactic models, and the allocation of astrometric follow-up on this event was a high-risk strategy.
 ]]></content:encoded>
-
 <pubDate>2025-03-07T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +39,8 @@ There are expected to be millions of isolated black holes in the galaxy resultin
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb289</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb289</guid>
 <content:encoded><![CDATA[
-
 We investigate various short-warning mitigation scenarios via fragmentation for a hypothetical impact of asteroid 2023 NT1, a near-Earth object (NEO) that was discovered on 2023 July 15, two days after its closest approach to Earth on July 13. The asteroid passed by Earth within ∼0.25 lunar distances, with a closest approach of ∼1 × 105 km and a velocity of 11.27 km s−1. Its size remains largely uncertain, with an estimated diameter range of 26–58 m and a most probable estimate of 34 m (JPL Sentry, 2023 September 15; weighted by the NEO size frequency distribution). If 2023 NT1 had collided with Earth, it could have caused significant local damage. Assuming a spherical asteroid with a diameter of 34 m, uniform density of 2.6 g cm−3, and impact velocity of 15.59 km s−1, a collision would have yielded an estimated impact energy of ∼1.5 Mt, approximately 3 times the energy of the Chelyabinsk airburst in 2013. We analyze the effectiveness of mitigation via intentional robust disruption for objects similar to 2023 NT1. We utilize Pulverize It (PI), a NASA Innovative Advanced Concepts study of planetary defense via fragmentation, to model potential mitigation scenarios through simulations of hypervelocity asteroid disruption and atmospheric ground effects in the case of a terminal defense mode. Simulations suggest that PI is an effective multimodal approach for planetary defense that can operate in extremely short interdiction modes, in addition to long interdiction timescales with extended warning. Our simulations support the proposition that threats like 2023 NT1 can be effectively mitigated with intercepts of 1 day (or less) prior to impact, yielding minimal to no ground damage.
 ]]></content:encoded>
-
 <pubDate>2025-03-07T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +48,8 @@ We investigate various short-warning mitigation scenarios via fragmentation for 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb39d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb39d</guid>
 <content:encoded><![CDATA[
-
 Classical Cepheids (DCEPs) serve as fundamental standard candles for measuring cosmic distances and investigating the structure and evolution of the Milky Way disk. However, accurate distance estimation faces challenges due to severe extinction, particularly toward the Galactic center. Although the Gaia Wesenheit magnitude reduces extinction effects, its reliance on a constant optical extinction law introduces significant uncertainties in regions of heavy obscuration. Infrared period–luminosity relations, combined with 3D extinction maps, offer an alternative, but these maps become unreliable beyond approximately 5 kpc. In this work, we calibrate the period–luminosity–metallicity (PLZ) relations for DCEPs across three near-infrared bands (J, H, KS) and four mid-infrared bands (W1, W2, [3.6], and [4.5]). This includes the first calibration of the W1 and W2 bands. To correct for extinction, we employ the infrared multi-passband optimal distance method and the BP–RP method, which complement and validate each other. These homogeneous PLZ relations, combined with reliable extinction corrections, yield the most accurate Galactic DCEP distances to date, covering 3452 DCEPs with an average relative distance error of 3.1%.
 ]]></content:encoded>
-
 <pubDate>2025-03-07T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,13 +57,10 @@ Classical Cepheids (DCEPs) serve as fundamental standard candles for measuring c
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb48d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb48d</guid>
 <content:encoded><![CDATA[
-
 We examine 3He-rich solar energetic particles (SEPs) detected on 2023 October 24–25 by Solar Orbiter at 0.47 au. Measurements reveal that heavy-ion enhancements increase irregularly with mass, peaking at S. C, and especially N, Si, and S, stand out in the enhancement pattern with large abundances. Except for 3He, heavy-ion spectra can only be measured below 0.5 MeV nucleon−1. At 0.386 MeV nucleon−1, the event shows a huge 3He/4He ratio of 75.2 ± 33.9, larger than previously observed. Solar Dynamics Observatory extreme-ultraviolet data show a minifilament eruption at the solar source of 3He-rich SEPs that triggered a straight tiny jet. Located at the boundary of a low-latitude coronal hole, the jet base is a bright, small-scale region with a supergranulation scale size. The emission measure (EM) provides relatively cold source temperatures of 1.5–1.7 MK between the filament eruption and nonthermal type III radio burst onset. Analysis suggests that the EM distribution of temperature in the solar source could be a factor that affects the preferential selection of heavy ions for heating or acceleration, thus shaping the observed enhancement pattern. Including previously reported similar events indicates that the eruption of the minifilament is a common feature of events with heavy-ion enhancement not ordered by mass. Surprisingly, sources with weak magnetic fields show extreme 3He enrichment in these events. Moreover, the energy attained by heavy ions seems to be influenced by the size and form of the jets.
 ]]></content:encoded>
-
 <pubDate>2025-03-07T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Measuring the Interstellar Medium Content of Nearby, Luminous, Type 1 and Type 2 QSOs through CO and [C ii]</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb13b</link>
@@ -9012,51 +9013,6 @@ SPT2349−56 is a protocluster discovered in the 2500 deg2 South Pole Telescope 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9019</guid>
 <content:encoded><![CDATA[
 Partially ionized plasmas are widely present in astrophysical and space plasmas, and ion-neutral collisions have an important impact on the plasma dynamics, such as electrostatic wave propagation. In this work, the excitation and propagation characteristics of electrostatic ion cyclotron (EIC) waves were experimentally studied in a partially ionized plasma. The EIC waves were launched via a grid antenna, and two types of EIC waves were observed to be excited and propagated. In partially ionized plasmas with weak ion–neutral collisions, it was found that the EIC wave propagation is dominated by ion motion, resembling the classical EIC wave. However, in plasmas with strong ion–neutral collisions, experiments revealed for the first time that EIC wave propagation can be dominated by neutral motion, which leads to an increase in the collisional EIC wave’s phase velocity. Additionally, the EIC wave dispersion relationships under collisions were determined to reveal the underlying processes responsible for the observations. This work verified that collisional EIC waves can gain energy from neutrals in partially ionized plasmas, which suggests that ion‒neutral collisions in the Earth and planetary ionosphere and solar atmosphere have a more complex impact on plasma wave propagation than previously thought.
-]]></content:encoded>
-<pubDate>2024-12-10T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Cross-correlation of Luminous Red Galaxies with Machine Learning Selected Active Galactic Nuclei in HSC-SSP: Unobscured AGN Residing in More Massive Halos</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8342</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8342</guid>
-<content:encoded><![CDATA[
-Active galactic nuclei (AGN) are the signposts of black hole growth, and likely play an important role in galaxy evolution. An outstanding question is whether AGN of different spectral types indicate different evolutionary stages in the coevolution of black holes and galaxies. We present the angular correlation function between an AGN sample selected from Hyper Suprime-Cam Subaru Strategic Program (HSC-SSP) optical photometry and Wide-field Infrared Survey Explorer mid-IR photometry and a luminous red galaxy (LRG) sample from HSC-SSP. We investigate AGN clustering strength as a function of luminosity and spectral features across three independent HSC fields totaling ∼600 deg2, for z ∈ 0.6 −1.2 and AGN with L6 μm > 3 × 1044 erg s−1. There are ∼28,500 AGN and ∼1.5 million LRGs in our primary analysis. We determine the average halo mass for the full AGN sample (Mh ≈ 1012.9 h−1M⊙), and note that it does not evolve significantly as a function of redshift (over this narrow range) or luminosity. We find that, on average, unobscured AGN (Mh ≈ 1013.3 h−1M⊙) occupy ∼4.5× more massive halos than obscured AGN (Mh ≈ 1012.6 h−1M⊙), at 5σ statistical significance using 1D uncertainties, and at 3σ using the full covariance matrix, suggesting a physical difference between unobscured and obscured AGN, beyond the line-of-sight viewing angle. Furthermore, we find evidence for a halo mass dependence on reddening level within the Type I AGN population, which could support the existence of a dust-obscured phase. However, we also find that quite small systematic shifts in the redshift distributions of the AGN sample could explain current and previously observed differences in Mh.
-]]></content:encoded>
-<pubDate>2024-12-10T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Modeling Multiple X-Ray Reflection in Super-Eddington Winds</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad86c0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad86c0</guid>
-<content:encoded><![CDATA[
-It has been recently discovered that a few super-Eddington sources undergoing black hole super-Eddington accretion exhibit X-ray reflection signatures. In such new systems, one expects the coronal X-ray emissions to be mainly reflected by optically thick super-Eddington winds instead of thin disks. In this paper, we conduct a series of general-relativistic ray-tracing and Monte Carlo radiative transfer simulations to model the X-ray reflection signatures, especially the characteristic Fe Kα line, produced from super-Eddington accretion flows around nonspinning black holes. In particular, we allow the photons emitted by a lamppost corona to be reflected multiple times in a cone-like funnel surrounded by fast winds. We find that the Fe Kα line profile most sensitively depends on the wind kinematics, while its exact shape also depends on the funnel open angle and corona height. Furthermore, very interestingly, we find that the Fe Kα line can have a prominent double-peak profile in certain parameter spaces, even with a face-on orientation. Moreover, we compare the Fe Kα line profiles produced from super-Eddington and thin disks and show that such lines can provide important insights into the understanding of black hole systems undergoing super-Eddington accretion.
-]]></content:encoded>
-<pubDate>2024-12-10T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Case Study of Gas Impacted by Black-hole Jets with the JWST: Outflows, Bow Shocks, and High Excitation of the Gas in the Galaxy IC 5063</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89ba</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89ba</guid>
-<content:encoded><![CDATA[
-We present James Webb Space Telescope MIRI data of the inner ∼3 × 2 kpc2 of the galaxy IC 5063, in which the jets of a supermassive black hole interact with the gaseous disk they are crossing. Jet-driven outflows were known to be initiated along or near the jet path and to modify the stability of molecular clouds, possibly altering their star formation properties. The MIRI data, of unprecedented resolution and sensitivity in the infrared, now reveal that there are more than 10 discrete regions with outflows, nearly doubling the number of such known regions. Outflows exist near the radio lobes, at the nucleus, in a biconical structure perpendicular to the jet, and in a bubble moving against the disk. In some of them, velocities above escape velocity are observed. Stratification is also observed, with higher ionization or excitation gas attaining higher velocities. More outflows and bow shocks, found further away from the nucleus than the radio lobes, in regions without significant radio emission, reveal the existence of past or weak radio jets that interacted with the interstellar medium. The coincidence of the bow shocks with the optical extended emission line region (EELR) suggests that the jets also contributed to the gas ionization. Maps of the H2 gas excitation temperature, Tex, indicate that the molecular gas is most excited in regions with radio emission. There, Tex is >100 K higher than in the EELR interior. We argue that a combination of jet-related shocks and cosmic rays is likely responsible for this excess molecular gas excitation.
-]]></content:encoded>
-<pubDate>2024-12-10T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Temporal and Spectral Analysis of the Unique and Second-brightest Gamma-Ray Burst GRB 230307A: Insights from GECAM and Fermi/GBM Observations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a64</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a64</guid>
-<content:encoded><![CDATA[
-In this study, we present the pulse profile of the unique and the second-brightest gamma-ray burst GRB 230307A, and analyze its temporal behavior using a joint GECAM–Fermi Gamma-ray Burst Monitor (GBM) time-resolved spectral analysis. The utilization of GECAM data is advantageous as it successfully captured significant data during the pileup period of the Fermi/GBM. We investigate the evolution of its flux, photon fluence, photon flux, peak energy, and the corresponding hardness–intensity and hardness–flux correlations. The findings within the first 27 s exhibit consistent patterns reported previously, providing valuable insights for comparing observations with predictions from the synchrotron radiation model invoking an expanding shell. Beyond the initial 27 s, we observe a notable transition in the emitted radiation, attributed to high-latitude emission, influenced by the geometric properties of the shells and the relativistic Doppler effects. By modeling the data within the framework of the large-radius internal shock model, we discuss the required parameters as well as the limitations of the model. We conclude that a more complicated synchrotron emission model is needed to fully describe the observational data of GRB 230307A.
-]]></content:encoded>
-<pubDate>2024-12-10T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Deep Einstein@Home Search for Continuous Gravitational Waves from the Central Compact Objects in the Supernova Remnants Vela Jr. and G347.3-0.5 Using LIGO Public Data</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b9e</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b9e</guid>
-<content:encoded><![CDATA[
-We perform a search for continuous nearly monochromatic gravitational waves from the central compact objects associated with the supernova remnants Vela Jr. and G347.3. Over 1018 different waveforms are considered, covering signal frequencies between 20 and 1300 Hz (20 and 400 Hz) for G347.3-0.5 (Vela Jr.) and a very broad range of frequency derivatives. The data set used for this first search is from the second observing run of LIGO (O2). Thousands of volunteers donating compute cycles through the computing project Einstein@Home have made this endeavor possible. Following the Einstein@Home search, we perform multistage follow-ups of over 5 million waveforms. The threshold for selecting candidates from the Einstein@Home search is such that, after the multistage follow-up, we do not expect any surviving candidate due to noise. The very last stage uses a different data set, namely, the LIGO O3 data. We find no significant signal candidate for either targets. Based on this null result, for G347.3-0.5, we set the most constraining upper limits to date on the amplitude of gravitational-wave signals, corresponding to deformations below 10−6 in a large part of the search band. At the frequency of best strain sensitivity, near 161 Hz, we set 90% confidence upper limits on the gravitational-wave intrinsic amplitude of . Over most of the frequency range, our upper limits are a factor of 10 smaller than the indirect age-based upper limit. For Vela Jr., near 163 Hz, we set . Over most of the frequency range, our upper limits are a factor of 15 smaller than the indirect age-based upper limit. The Vela Jr. upper limits presented here are slightly less constraining than the most recent upper limits of R. Abbott et al., but they apply to a broader set of signals.
 ]]></content:encoded>
 <pubDate>2024-12-10T00:00:00Z</pubDate>
 </item>
