@@ -4,6 +4,61 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Multifrequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1c5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1c5</guid>
+<content:encoded><![CDATA[
+
+We present new radio observations of the galaxy cluster merger CIZA J0107.7+5408 (CIZA0107), a large, roughly equal mass, postcore passage, dissociative binary system at z = 0.1066. CIZA0107 is an elongated, disturbed system, hosting two subclusters with optical galaxy number density peaks offset from their associated X-ray density peaks and double-peaked diffuse radio structure. We present new 240–470 MHz and 2.0–4.0 GHz Very Large Array observations of CIZA0107. We image the diffuse emission at high resolution, constrain its integrated spectrum, and map the spectral index distribution. We confirm the presence of steep-spectrum (α ∼ −1.3) emission on a scale of ∼0.5 Mpc in both subclusters. We identify two smaller ultrasteep spectrum (α < −2) regions, superimposed on larger-scale radio emission associated with the southwestern subcluster. At 340 MHz, we detect a radio edge bounding the emission to the south and show that it is coincident with a weak (M ∼ 1.2) shock identified in the Chandra image. At 3 GHz, the emission does not show any corresponding edgelike feature, and in fact it extends beyond the shock. We investigate the nature of the emission in CIZA0107 and find that, while the system may host a double halo structure, we cannot rule out a scenario in which the emission arises from two relics projected on the central cluster regions.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>On Finding Black Holes in Photometric Microlensing Surveys</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1d7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1d7</guid>
+<content:encoded><![CDATA[
+
+There are expected to be millions of isolated black holes in the galaxy resulting from the deaths of massive stars. Measuring the abundance and properties of this remnant population would shed light on the end stages of stellar evolution and the evolution paths of black hole systems. Detecting isolated black holes is currently only possible via gravitational microlensing, which has so far yielded one definitive detection. The difficulty in finding microlensing black holes lies in having to choose a small subset of events, based on characteristics of their light curves, to allocate expensive and scarce follow-up resources to confirm the identity of the lens. Current methods either rely on simple cuts in parameter space without using the full distribution information or are only effective on small subsets of events. In this paper, we present a new lens classification method. The classifier takes in posterior constraints on light-curve parameters and combines them with a Galactic simulation to estimate the lens class probability. This method is flexible and can be used with any set of microlensing light-curve parameters, making it applicable to large samples of events. We make this classification framework available via the popclass Python package. We apply the classifier to ∼10,000 microlensing events from the Optical Gravitational Lensing Experiment survey and find 23 high-probability black hole candidates. Our classifier also suggests that the only known isolated black hole is an observational outlier, according to current Galactic models, and the allocation of astrometric follow-up on this event was a high-risk strategy.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Evaluating Short-warning Mitigation via Intentional Robust Disruption of a Hypothetical Impact of Asteroid 2023 NT1</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb289</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb289</guid>
+<content:encoded><![CDATA[
+
+We investigate various short-warning mitigation scenarios via fragmentation for a hypothetical impact of asteroid 2023 NT1, a near-Earth object (NEO) that was discovered on 2023 July 15, two days after its closest approach to Earth on July 13. The asteroid passed by Earth within ∼0.25 lunar distances, with a closest approach of ∼1 × 105 km and a velocity of 11.27 km s−1. Its size remains largely uncertain, with an estimated diameter range of 26–58 m and a most probable estimate of 34 m (JPL Sentry, 2023 September 15; weighted by the NEO size frequency distribution). If 2023 NT1 had collided with Earth, it could have caused significant local damage. Assuming a spherical asteroid with a diameter of 34 m, uniform density of 2.6 g cm−3, and impact velocity of 15.59 km s−1, a collision would have yielded an estimated impact energy of ∼1.5 Mt, approximately 3 times the energy of the Chelyabinsk airburst in 2013. We analyze the effectiveness of mitigation via intentional robust disruption for objects similar to 2023 NT1. We utilize Pulverize It (PI), a NASA Innovative Advanced Concepts study of planetary defense via fragmentation, to model potential mitigation scenarios through simulations of hypervelocity asteroid disruption and atmospheric ground effects in the case of a terminal defense mode. Simulations suggest that PI is an effective multimodal approach for planetary defense that can operate in extremely short interdiction modes, in addition to long interdiction timescales with extended warning. Our simulations support the proposition that threats like 2023 NT1 can be effectively mitigated with intercepts of 1 day (or less) prior to impact, yielding minimal to no ground damage.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Milky Way Classical Cepheid Distances from Calibrated Infrared Period–Luminosity–Metallicity Relations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb39d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb39d</guid>
+<content:encoded><![CDATA[
+
+Classical Cepheids (DCEPs) serve as fundamental standard candles for measuring cosmic distances and investigating the structure and evolution of the Milky Way disk. However, accurate distance estimation faces challenges due to severe extinction, particularly toward the Galactic center. Although the Gaia Wesenheit magnitude reduces extinction effects, its reliance on a constant optical extinction law introduces significant uncertainties in regions of heavy obscuration. Infrared period–luminosity relations, combined with 3D extinction maps, offer an alternative, but these maps become unreliable beyond approximately 5 kpc. In this work, we calibrate the period–luminosity–metallicity (PLZ) relations for DCEPs across three near-infrared bands (J, H, KS) and four mid-infrared bands (W1, W2, [3.6], and [4.5]). This includes the first calibration of the W1 and W2 bands. To correct for extinction, we employ the infrared multi-passband optimal distance method and the BP–RP method, which complement and validate each other. These homogeneous PLZ relations, combined with reliable extinction corrections, yield the most accurate Galactic DCEP distances to date, covering 3452 DCEPs with an average relative distance error of 3.1%.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Origin of the Unusual Composition of 3He-rich Solar Energetic Particles</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb48d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb48d</guid>
+<content:encoded><![CDATA[
+
+We examine 3He-rich solar energetic particles (SEPs) detected on 2023 October 24–25 by Solar Orbiter at 0.47 au. Measurements reveal that heavy-ion enhancements increase irregularly with mass, peaking at S. C, and especially N, Si, and S, stand out in the enhancement pattern with large abundances. Except for 3He, heavy-ion spectra can only be measured below 0.5 MeV nucleon−1. At 0.386 MeV nucleon−1, the event shows a huge 3He/4He ratio of 75.2 ± 33.9, larger than previously observed. Solar Dynamics Observatory extreme-ultraviolet data show a minifilament eruption at the solar source of 3He-rich SEPs that triggered a straight tiny jet. Located at the boundary of a low-latitude coronal hole, the jet base is a bright, small-scale region with a supergranulation scale size. The emission measure (EM) provides relatively cold source temperatures of 1.5–1.7 MK between the filament eruption and nonthermal type III radio burst onset. Analysis suggests that the EM distribution of temperature in the solar source could be a factor that affects the preferential selection of heavy ions for heating or acceleration, thus shaping the observed enhancement pattern. Including previously reported similar events indicates that the eruption of the minifilament is a common feature of events with heavy-ion enhancement not ordered by mass. Surprisingly, sources with weak magnetic fields show extreme 3He enrichment in these events. Moreover, the energy attained by heavy ions seems to be influenced by the size and form of the jets.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Measuring the Interstellar Medium Content of Nearby, Luminous, Type 1 and Type 2 QSOs through CO and [C ii]</title>
