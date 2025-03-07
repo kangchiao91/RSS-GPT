@@ -4,6 +4,116 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>UNCOVER: 404 Error—Models Not Found for the Triply Imaged Little Red Dot A2744-QSO1*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada613</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada613</guid>
+<content:encoded><![CDATA[
+
+JWST has revealed an abundance of compact, red objects at z ≈ 5–8 dubbed “little red dots” (LRDs), whose SEDs display a faint blue UV continuum followed by a steep rise in the optical. Despite extensive study of their characteristic V-shaped SEDs, the nature of LRDs remains unknown. We present a new analysis of the NIRSpec/PRISM spectrum of A2744-QSO1, a triply imaged LRD at z = 7.04 from the UNCOVER survey. The spectrum shows a strong Balmer break and broad Balmer emission lines, both of which are difficult to explain with models invoking exclusively AGN or stellar contributions. Our fiducial model decomposes the spectrum into a post-starburst galaxy dominating the UV-optical continuum and a reddened AGN being subdominant at all wavelengths and contributing at a level of ∼20%. However, this model infers a stellar mass of M⋆ ≈ 4 × 109M⊙ within a radius of re < 30 pc, driving its central density to the highest among observations to date. This high central density could be explained if A2744-QSO1 is the early-forming core of a modern-day massive elliptical galaxy that later puffed up via the inside-out growth channel. The models also necessitate an unusually steep dust extinction law to preserve the strong break strength, though this steepness may be explained by a deficit of large dust grains. It is also probable that these challenges reflect our ignorance of A2744-QSO1's true nature. Future variability and reverberation mapping studies could help disentangle the galaxy and AGN contribution to the continuum, and deeper redder observations could also unveil the dust properties in LRDs.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>BATSRUS GPU: Faster-than-real-time Magnetospheric Simulations with a Block-adaptive Grid Code</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf15</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf15</guid>
+<content:encoded><![CDATA[
+
+Block-Adaptive-Tree Solar-wind Roe-type Upwind Scheme (BATSRUS), our state-of-the-art extended magnetohydrodynamic code, is the most used and one of the most resource-consuming models in the Space Weather Modeling Framework. It has always been our objective to improve its efficiency and speed with emerging techniques, such as GPU acceleration. To utilize the GPU nodes on modern supercomputers, we port BATSRUS to GPUs with the OpenACC API. Porting the code to a single GPU requires rewriting and optimizing the most used functionalities of the original code into a new solver, which accounts for around 1% of the entire program in length. To port it to multiple GPUs, we implement a new message-passing algorithm to support its unique block-adaptive grid feature. We conduct weak scaling tests on as many as 256 GPUs and find good performance. The program has 50%–60% parallel efficiency on up to 256 GPUs and up to 95% efficiency within a single node (four GPUs). Running large problems on more than one node has reduced efficiency due to hardware bottlenecks. We also demonstrate our ability to run representative magnetospheric simulations on GPUs. The performance for a single A100 GPU is about the same as 270 AMD “Rome” CPU cores (2.1 128-core nodes), and it runs 3.6 times faster than real time. The simulation can run 6.9 times faster than real time on four A100 GPUs.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Signature of a Seyfert-like Component in Blazar 3C 273 and Its Reflection-based Explanation</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0ca</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0ca</guid>
+<content:encoded><![CDATA[
+
+We present the results of blazar 3C 273 from simultaneous observations obtained using the XMM-Newton and NuSTAR satellites during the period 2015–2019 in five epochs. When the spectra are modeled with a power law, significant residuals arise below ∼2 keV and in the energy range of 30–78 keV in NuSTAR data. Residuals in the lower energy band represent soft X-ray excess, while at higher energies it likely represents a Compton reflection hump, which might be a weak component arising from dense and cold material. A faint iron line is present in XMM-Newton observations. We interpret such features as being attributed to the coronal emission plus those produced through reflection from an accretion disk. We model the spectral energy distributions (SEDs) with the single-zone inverse Compton (IC) jet model based on synchrotron self-Compton and external Compton phenomena. It is found that a one-zone synchrotron+IC model explains the SEDs quite well, but the jet component alone fails to fit the multiband X-ray emission for the low flux state of this object in 2018 and 2019, which arises owing to spectral flattening at low-energy X-rays, indicating that an additional Seyfert-like thermal component must be present at X-rays. This is further supported by a big blue bump present in the optical/UV band in all SEDs. Finally, we analyzed all the epochs using the relxill model to incorporate relativistic reflection and to model those residuals of soft excess and Compton hump in the X-ray bands.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Observation of Cosmic-Ray Anisotropy in the Southern Hemisphere with 12 yr of Data Collected by the IceCube Neutrino Observatory</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1de</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1de</guid>
+<content:encoded><![CDATA[
+
+We analyzed the 7.92 × 1011 cosmic-ray-induced muon events collected by the IceCube Neutrino Observatory from 2011 May 13, when the fully constructed experiment started to take data, to 2023 May 12. This data set provides an up-to-date cosmic-ray arrival direction distribution in the Southern Hemisphere with unprecedented statistical accuracy covering more than a full period length of a solar cycle. Improvements in Monte Carlo event simulation and better handling of year-to-year differences in data processing significantly reduce systematic uncertainties below the level of statistical fluctuations compared to the previously published results. We confirm the observation of a change in the angular structure of the cosmic-ray anisotropy between 10 TeV and 1 PeV, more specifically in the 100–300 TeV energy range. For the first time, we analyzed the angular power spectrum at different energies. The observed variations of the power spectra with energy suggest relatively reduced large-scale features at high energy compared to those of medium and small scales. The large volume of data enhances the statistical significance at higher energies, up to the PeV scale, and smaller angular scales, down to approximately 6° compared to previous findings.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Photoevaporation from Inner Protoplanetary Disks Confronted with Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb396</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb396</guid>
+<content:encoded><![CDATA[
+
+The decades-long explorations on the dispersal of protoplanetary disks involve many debates about photoevaporation versus magnetized wind launching mechanisms. This work argues that the observed winds originating from the inner disk (R ≲ 0.3 au) cannot be explained by the photoevaporative mechanism. Heating the gas to proper temperatures for the observed forbidden lines (especially [O i] λ6300) will overionize it, suppressing the abundances of species responsible for the emission. Even if adequate emissivity is achieved by fine-tuning the physical parameters, the total cooling power will become unattainable by the radiative heating alone. Energy conservation requires the presumed photoevaporative winds to be heated to ≳105 K when launched from inner disks. However, due to efficient thermal accommodation with dust grains and cooling processes at high densities, X-ray irradiation at energies above 1 keV cannot efficiently launch winds in the first place because of its high penetration. Some studies claiming X-ray wind launching have oversimplified the thermochemical couplings. Confirmed by semianalytic integrations of thermochemical fluid structures, such high ionizations contradict the observed emission of neutral and singly ionized atoms from the winds originating from the inner disks.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Gas-phase Oxygenation and Sulfurization Processes of Fullerene Cations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb42d</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb42d</guid>
+<content:encoded><![CDATA[
+
+Atomic oxygen and sulfur are known to efficiently react with fullerenes and may thus form a long list of oxygenated and sulfurated fullerene species in the interstellar medium (ISM). In this work, the gas-phase collision reactions between fullerene (C60 and C54/56/58) cations and 18O or S atoms are investigated. Oxygenated and sulfurated fullerene cations ([C6018O1−6]+, [C54/56/5818O1−3]+ and [C60S1−4]+, [C54/56/58S1−4]+) are efficiently formed. Under laser irradiation, O-atom and CO-unit loss channels are identified in the photodeoxygenation processes; [C60O]+ only has an O-atom loss channel. Smaller fullerene cations can be produced through sequential steps, and species with repeatedly lost CO units, i.e., fullerenes containing odd carbon numbers (e.g., 55 or 57 C atoms), can be produced in the photodeoxygenation processes of oxygenated fullerene cations. A S-atom loss channel and no CS-unit loss channel are identified in the photodesulfurization processes. Through theoretical calculations, the structures of oxygenated and sulfurated fullerene cations (e.g., [C6018O]+ and [C60S]+) and the bonding energies for the formation reaction pathways are investigated, together with their IR spectra. The exothermic energy for each reaction pathway is relatively high. Consequently, the oxygenation or sulfurization states and forms of fullerene compounds are intricate and complex. In addition, different types of oxygenation and sulfurization bonds are obtained with their evolution. Importantly, we infer that the photodeoxygenation of mono-oxygenated fullerene species or the photodesulfurization of sulfurated fullerene species is not involved in the top-down chemical evolution routes of buckminsterfullerene (C60) in the ISM.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Anticorrelation Between Flux and Photon Index of Hard-X-Ray Emission from the Crab</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb70e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb70e</guid>
+<content:encoded><![CDATA[
+
+Using Swift Burst Alert Telescope event-mode data during gamma-ray burst occurrences, we conduct spectral analysis for the Crab system. From 38 good observations, which span a period of 18 yr from 2006 to 2023, we find that the Crab’s X-ray flux not only flickers but also significantly anticorrelates to its spectral power-law photon index. Since the emission contribution of the Crab pulsar in this energy range is small, this anticorrelation is mainly about the emission of the Crab nebula. We suggest that this anticorrelation provides observational supporting evidence for the long-standing notion that the nebula emission is due to synchrotron radiation of shocked pulsar winds in the nebula.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Experimental and Numerical Studies of the Collapse of Dense Clouds Induced by Herbig–Haro Stellar Jets</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb715</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb715</guid>
+<content:encoded><![CDATA[
+
+This study investigates the influence of Herbig–Haro jets on initiating star formation in dense environments. When molecular clouds are nearing gravitational instability, the impact of a protostellar jet could provide the impetus needed to catalyze star formation. A high-energy-density experiment was carried out at the LULI2000 laser facility, where a supersonic jet generated by a nanosecond laser was used to compress a foam or plastic ball, mimicking the interaction of a Herbig–Haro jet with a molecular cloud. Simulations using the 3D radiation hydrodynamics code TROLL provided comprehensive data for analyzing ball compression and calculating jet characteristics. After applying scaling laws, similarities between stellar and experimental jets were explored. Diagnostic simulations—including density gradient, emission, and X-ray radiographies—showed strong agreement with experimental data. The results of the experiment, supported by simulations, demonstrate that the impact of a protostellar jet on a molecular cloud could reduce the Bonnor–Ebert mass by approximately 9%, thereby initiating collapse.
+]]></content:encoded>
+
+<pubDate>2025-03-07T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Physical Origins of Outflowing Cold Clouds in Local Star-forming Dwarf Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ada606</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada606</guid>
+<content:encoded><![CDATA[
+
+We study the physical origins of outflowing cold clouds in a sample of 14 low-redshift dwarf (M* ≲ 1010M⊙) galaxies from the Cosmic Origins Spectrograph Legacy Archive Spectroscopic SurveY (CLASSY) using Keck/ESI data. Outflows are traced by broad (FWHM ∼260 km s−1) and very-broad (VB; FWHM ∼1200 km s−1) velocity components in strong emission lines like [O iii] λ5007 and Hα. The maximum velocities ( ) of broad components correlate positively with star formation rate, unlike the anticorrelation observed for VB components, and are consistent with superbubble models. In contrast, supernova-driven galactic wind models better reproduce the of VB components. Direct radiative cooling from a hot wind significantly underestimates the luminosities of both broad and VB components. A multiphase wind model with turbulent radiative mixing reduces this discrepancy to at least 1 dex for most VB components. Stellar photoionization likely provides additional energy since broad components lie in the starburst locus of excitation diagnostic diagrams. We propose a novel interpretation of outflow origins in star-forming dwarf galaxies—broad components trace expanding superbubble shells, while VB components originate from galactic winds. One-zone photoionization models fail to explain the low-ionization lines ([S ii] and [O i]) of broad components near the maximal starburst regime, which two-zone photoionization models with density-bounded channels instead reproduce. These two-zone models indicate anisotropic leakage of Lyman continuum photons through low-density channels formed by expanding superbubbles. Our study highlights extreme outflows ( ) in nine out of 14 star-forming dwarf galaxies, comparable to active galactic nucleus–driven winds.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
+<item>
+<title>The Emergence of the Star Formation Main Sequence with Redshift Unfolded by JWST</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb309</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb309</guid>
+<content:encoded><![CDATA[
+
+We investigate the correlation between stellar mass (M⋆) and star formation rate (SFR) across the stellar mass range . We consider almost 50,000 star-forming galaxies at z ≈ 3–7, leveraging data from COSMOS/SMUVS, JADES/GOODS-S, and MIDIS/XDF. This is the first study spanning such a wide M⋆ range without relying on gravitational lensing effects. We locate our galaxies on the SFR–M⋆ plane to assess how the location of galaxies in the star formation main sequence (MS) and starburst (SB) region evolves with M⋆ and redshift. We find that the two star-forming modes tend to converge at , with all galaxies found in the SB mode. However, deeper observations will be instrumental for reaching lower SFRs and M⋆ to further validate this scenario. By dissecting our galaxy sample in M⋆ and redshift, we show that the emergence of the star formation MS is M⋆ dependent: while in galaxies with the MS is already well in place at z = 5–7, for galaxies with it only becomes significant at z < 4. Overall, our results are in line with previous findings that the SB mode dominates among low stellar-mass galaxies. The earlier emergence of the MS for massive galaxies is consistent with galaxy downsizing.
+]]></content:encoded>
+
+<pubDate>2025-03-06T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>The AURORA Survey: An Extraordinarily Mature, Star-forming Galaxy at z ∼ 7</title>
