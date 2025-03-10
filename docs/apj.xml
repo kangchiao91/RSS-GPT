@@ -5,17 +5,26 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
-<title>The Unexpected Lack of Asymmetry in the Horizon-scale Image of Sagittarius A*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9689</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9689</guid>
+<title>BASS. XLVII. 22 GHz Radio Atlas of Swift-BAT Selected AGN</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e7</guid>
 <content:encoded><![CDATA[
 
-The ring-like images of the two supermassive black holes captured by the Event Horizon Telescope (EHT) provide powerful probes of the physics of accretion flows at horizon scales. Specifically, the brightness asymmetry in the images carries information about the angular velocity profile of the inner accretion flow and the inclination of the observer, owing to the Doppler boosts photons experience at their site of emission. In this paper, we develop a method for quantifying the brightness asymmetry of black hole images in the Fourier domain, which can be measured directly from interferometric data. We apply this method to current EHT data and find that the image of Sagittarius A* (Sgr A*) has an unusually low degree of asymmetry that is even lower than that inferred for M87. We then use a covariant semianalytic model to obtain constraints on the inclinations and velocity profiles of the inner accretion flow for Sgr A*. We find that the lack of significant brightness asymmetry forces the observer inclination to uncomfortably small values (6°–10∘), if the plasma velocity follows Keplerian profiles. Alternatively, larger inclination angles can be accommodated if the plasma velocities are significantly sub-Keplerian and the black hole is not spinning rapidly.
+We present the third phase of the largest high-frequency, high-resolution imaging survey of 231 nearby, hard X-ray selected active galactic nuclei (AGNs), with a very high 98% ± 1% detection fraction. This survey presents VLA 22 GHz radio observations with 1″ spatial resolution covering over 6 orders of magnitude in radio luminosity in nearby AGNs that span ∼4 orders of magnitude in black hole mass and X-ray luminosity. We identify three different radio morphologies: 44% ± 3% (102/231) are compact or unresolved, 46% ± 3% (106/231) show an extended structure (star formation, possible one-sided jets, etc.), and 8% ± 2% (19/231) have a biconical or two-sided jet-like morphology. The remaining 2% ± 1% (4/231) sources are nondetections. The radio-to-X-ray luminosity ratios of the Swift-BAT AGNs in our sample (LR/L14−195keV ∼ 10−5.5 and LR/L2−10keV ∼ 10−5 with a scatter of ∼0.5 dex) are similar to that of coronally active stars (LR/LX ∼ 10−5). For most targets, extended emission in radio-quiet objects is broadly consistent with the expectation for star formation from previous far-infrared observations once the contribution from the radio core has been subtracted. Our sample represents nearby analogs of distant AGNs at the peak of black hole growth, and thus the high detection fraction in our work has important implications for future high frequency AGN radio surveys with the next generation Very Large Array or Square Kilometre Array, both of which should detect large fractions of more distant AGNs.
 ]]></content:encoded>
 
 <pubDate>2025-03-10T00:00:00Z</pubDate>
 </item>
 
+<item>
+<title>The Unexpected Lack of Asymmetry in the Horizon-scale Image of Sagittarius A*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9689</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9689</guid>
+<content:encoded><![CDATA[
+The ring-like images of the two supermassive black holes captured by the Event Horizon Telescope (EHT) provide powerful probes of the physics of accretion flows at horizon scales. Specifically, the brightness asymmetry in the images carries information about the angular velocity profile of the inner accretion flow and the inclination of the observer, owing to the Doppler boosts photons experience at their site of emission. In this paper, we develop a method for quantifying the brightness asymmetry of black hole images in the Fourier domain, which can be measured directly from interferometric data. We apply this method to current EHT data and find that the image of Sagittarius A* (Sgr A*) has an unusually low degree of asymmetry that is even lower than that inferred for M87. We then use a covariant semianalytic model to obtain constraints on the inclinations and velocity profiles of the inner accretion flow for Sgr A*. We find that the lack of significant brightness asymmetry forces the observer inclination to uncomfortably small values (6°–10∘), if the plasma velocity follows Keplerian profiles. Alternatively, larger inclination angles can be accommodated if the plasma velocities are significantly sub-Keplerian and the black hole is not spinning rapidly.
+]]></content:encoded>
+<pubDate>2025-03-10T00:00:00Z</pubDate>
+</item>
 <item>
 <title>Looking at the Distant Universe with the MeerKAT Array: The H i Mass Function in the Local Universe</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f3f</link>
@@ -9004,15 +9013,6 @@ Repeating fast radio bursts (FRBs) can exhibit a wide range of burst repetition 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8888</guid>
 <content:encoded><![CDATA[
 Inverse Compton (IC) emission associated with the nonthermal component of the intracluster medium (ICM) has been a long-sought phenomenon in cluster physics. Traditional spectral fitting often suffers from the degeneracy between the two-temperature thermal (2T) spectrum and the one-temperature plus IC power-law (1T+IC) spectrum. We present a semisupervised deep-learning approach to search for IC emission in galaxy clusters. We employ a conditional autoencoder (CAE), which is based on an autoencoder with latent representations trained to constrain the thermal parameters of the ICM. The algorithm is trained and tested using synthetic NuSTAR X-ray spectra with instrumental and astrophysical backgrounds included. The training data set only contains 2T spectra, which is more common than 1T+IC spectra. Anomaly detection is performed on the validation and test data sets consisting of 2T spectra as the normal set and 1T+IC spectra as anomalies. With a threshold anomaly score, chosen based on cross validation, our algorithm is able to identify spectra that contain an IC component in the test data set, with a balanced accuracy (BAcc) of 0.64, which outperforms traditional spectral fitting (BAcc = 0.55) and ordinary autoencoders (BAcc = 0.55). Traditional spectral fitting is better at identifying IC cases among true IC spectra (a better recall), while IC predictions made by CAE have a higher chance of being true IC cases (a better precision), demonstrating that they mutually complement each other.
-]]></content:encoded>
-<pubDate>2024-12-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Radial Profiles of Σ*, ΣSFR, Gas Metallicity, and Their Correlations across the Galactic Mass–Size Plane</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a61</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a61</guid>
-<content:encoded><![CDATA[
-We analyzed the global and resolved properties of approximately 1240 nearby star-forming galaxies from the MaNGA survey, comparing compact and extended galaxies—those with smaller and larger radii (Re), respectively—at a fixed stellar mass (M*). Compact galaxies typically exhibit lower H i gas fractions, higher dust extinction, higher metallicity, greater mass concentration, and lower angular momentum on a global scale. Radial profiles of stellar mass surface density (Σ*) and star formation rate surface density (ΣSFR) as functions of the effective radius (R/Re) reveal that compact galaxies display steeper gradients and higher values, resulting in elevated specific star formation rates (sSFRs) in their inner regions compared to their outskirts. At a given Σ*, compact galaxies have higher sSFRs than extended galaxies, particularly in low-mass galaxies (log(M*/M⊙) ≤ 1010). Additionally, their metallicity profiles differ significantly: extended galaxies have steeper metallicity gradients, while compact galaxies exhibit flatter slopes and higher metallicity at a given R/Re. After accounting for the dependence of metallicity on M* and Σ*, no further correlation with SFR is observed. The combination of higher sSFR and potentially higher star formation efficiency in compact galaxies suggests that their central gas is being rapidly consumed, leading to older stellar populations, as indicated by Dn(4000) and EW(HδA), and resulting in faster central growth. Our results reveal that radial SFR profiles cannot be fully determined by M* and Σ* alone; other factors, such as galaxy size or angular momentum, must be considered to fully understand the observed trends.
 ]]></content:encoded>
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
