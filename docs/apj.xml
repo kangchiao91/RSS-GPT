@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>BASS. XLVII. 22 GHz Radio Atlas of Swift-BAT Selected AGN</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e7</guid>
 <content:encoded><![CDATA[
-
 We present the third phase of the largest high-frequency, high-resolution imaging survey of 231 nearby, hard X-ray selected active galactic nuclei (AGNs), with a very high 98% ± 1% detection fraction. This survey presents VLA 22 GHz radio observations with 1″ spatial resolution covering over 6 orders of magnitude in radio luminosity in nearby AGNs that span ∼4 orders of magnitude in black hole mass and X-ray luminosity. We identify three different radio morphologies: 44% ± 3% (102/231) are compact or unresolved, 46% ± 3% (106/231) show an extended structure (star formation, possible one-sided jets, etc.), and 8% ± 2% (19/231) have a biconical or two-sided jet-like morphology. The remaining 2% ± 1% (4/231) sources are nondetections. The radio-to-X-ray luminosity ratios of the Swift-BAT AGNs in our sample (LR/L14−195keV ∼ 10−5.5 and LR/L2−10keV ∼ 10−5 with a scatter of ∼0.5 dex) are similar to that of coronally active stars (LR/LX ∼ 10−5). For most targets, extended emission in radio-quiet objects is broadly consistent with the expectation for star formation from previous far-infrared observations once the contribution from the radio core has been subtracted. Our sample represents nearby analogs of distant AGNs at the peak of black hole growth, and thus the high detection fraction in our work has important implications for future high frequency AGN radio surveys with the next generation Very Large Array or Square Kilometre Array, both of which should detect large fractions of more distant AGNs.
 ]]></content:encoded>
-
 <pubDate>2025-03-10T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Unexpected Lack of Asymmetry in the Horizon-scale Image of Sagittarius A*</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9689</link>
@@ -9004,15 +9002,6 @@ We present ultraviolet, optical, and near-infrared photometric and optical spect
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84de</guid>
 <content:encoded><![CDATA[
 Repeating fast radio bursts (FRBs) can exhibit a wide range of burst repetition rates, from none to hundreds of bursts per hour. Here we report the detection and characteristics of 60 bursts from the recently discovered FRB 20240114A, observed with the upgraded Giant Metrewave Radio Telescope in the frequency ranges 300–500 MHz and 550–750 MHz. The majority of the bursts show narrow emission bandwidth with Δν/ν ∼ 10%. All of the bursts we detect are faint (<10 Jy ms) and thus probe the lower end of the energy distribution. We determine the rate function for FRB 20240114A at 400 MHz and downward drift rates at 400 and 650 MHz, and we discuss our measurements in the context of the repeating FRB population. We observe sudden variations in the burst activity of FRB 20240114A over time. From our data and the publicly available information on other observations of FRB 20240114A so far, there is an indication that FRB 20240114A potentially exhibits chromaticity in its burst activity. While the burst properties of FRB 20240114A are similar to other repeating FRBs, the frequency-dependent activity, if established, could provide crucial clues to the origin of repeating FRBs. We also place the most stringent 5σ upper limits of 600 and 89 μJy on any persistent radio source (PRS) associated with FRB 20240114A at 400 and 650 MHz, respectively, and compare these with the luminosity of the known PRSs associated with FRB 121102A and FRB 190520B.
-]]></content:encoded>
-<pubDate>2024-12-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Semisupervised Learning for Detecting Inverse Compton Emission in Galaxy Clusters</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8888</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8888</guid>
-<content:encoded><![CDATA[
-Inverse Compton (IC) emission associated with the nonthermal component of the intracluster medium (ICM) has been a long-sought phenomenon in cluster physics. Traditional spectral fitting often suffers from the degeneracy between the two-temperature thermal (2T) spectrum and the one-temperature plus IC power-law (1T+IC) spectrum. We present a semisupervised deep-learning approach to search for IC emission in galaxy clusters. We employ a conditional autoencoder (CAE), which is based on an autoencoder with latent representations trained to constrain the thermal parameters of the ICM. The algorithm is trained and tested using synthetic NuSTAR X-ray spectra with instrumental and astrophysical backgrounds included. The training data set only contains 2T spectra, which is more common than 1T+IC spectra. Anomaly detection is performed on the validation and test data sets consisting of 2T spectra as the normal set and 1T+IC spectra as anomalies. With a threshold anomaly score, chosen based on cross validation, our algorithm is able to identify spectra that contain an IC component in the test data set, with a balanced accuracy (BAcc) of 0.64, which outperforms traditional spectral fitting (BAcc = 0.55) and ordinary autoencoders (BAcc = 0.55). Traditional spectral fitting is better at identifying IC cases among true IC spectra (a better recall), while IC predictions made by CAE have a higher chance of being true IC cases (a better precision), demonstrating that they mutually complement each other.
 ]]></content:encoded>
 <pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
