@@ -5,14 +5,35 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>An Unexplained Origin for the Unusual Globular Cluster System in the Ultradiffuse Galaxy FCC 224</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adae11</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adae11</guid>
+<content:encoded><![CDATA[
+
+We study the quiescent ultradiffuse galaxy FCC 224 in the Fornax cluster using Hubble Space Telescope (HST) imaging, motivated by peculiar properties of its globular cluster (GC) system revealed in shallower imaging. The surface brightness fluctuation distance of FCC 224 measured from HST is 18.6 ± 2.7 Mpc, consistent with the Fornax cluster distance. We use Prospector to infer the stellar population from a combination of multiwavelength photometry (HST, ground-based, Wide-field Infrared Survey Explorer) and Keck Cosmic Web Imager spectroscopy. The galaxy has a mass-weighted age of ∼10 Gyr, metallicity [M/H] of ∼−1.25 dex, and a very short formation e-folding time of τ ∼ 0.3 Gyr. Its 12 candidate GCs exhibit highly homogeneous g475 − I814 colors, merely 0.04 mag bluer than the diffuse starlight, which supports a single-burst formation scenario for this galaxy. We confirm a top-heavy GC luminosity function, similar to the two dark matter deficient galaxies NGC 1052-DF2 and DF4. However, FCC 224 differs from those galaxies with relatively small GC sizes of ∼3 pc (∼35% smaller than typical for other dwarfs), and with radial mass segregation in its GC system. We are not yet able to identify a formation scenario to explain all of the GC properties in FCC 224. Follow-up measurements of the dark matter content in FCC 224 will be crucial because of the mix of similarities and differences among FCC 224, DF2, and DF4.
+]]></content:encoded>
+
+<pubDate>2025-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Global Turbulent Solar Convection: A Numerical Path Investigating Key Force Balances in the Context of the Convective Conundrum</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adad59</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adad59</guid>
+<content:encoded><![CDATA[
+
+Understanding solar turbulent convection and its influence on differential rotation has been a challenge over the past two decades. Current models often overestimate giant convection cells' amplitude, leading to an effective Rossby number (Ro) too large and a shift toward an antisolar rotation regime. This convective conundrum underscores the need for improved comprehension of solar convective dynamics. We propose a numerical experiment in the parameter space that controls Ro while increasing the Reynolds number (Re) and maintaining solar parameters. By controlling the Nusselt number (Nu), we limit the energy transport by convection while reducing viscous dissipation. This approach enabled us to construct a Sun-like rotating model (SBR97n035) with strong turbulence (Re ∼ 800) that exhibits prograde equatorial rotation and aligns with observational data from helioseismology. We compare this model with an antisolar rotating counterpart and provide an in-depth spectral analysis to investigate the changes in convective dynamics. We also find the appearance of vorticity rings near the poles, whose existence on the Sun could be probed in the future. The Sun-like model shows reduced buoyancy over the spectrum, as well as an extended quasi-geostrophic equilibrium toward smaller scales. This promotes a Coriolis–inertia (CI) balance rather than a Coriolis–inertia–Archimedes (CIA) balance, in order to favor the establishment of a prograde equator. The presence of convective columns in the bulk of the convection zone, with limited surface manifestations, also hints at such structures potentially occurring in the Sun.
+]]></content:encoded>
+
+<pubDate>2025-03-10T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>A Data-driven M Dwarf Model and Detailed Abundances for ∼17,000 M Dwarfs in SDSS-V</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1f</guid>
 <content:encoded><![CDATA[
-
 The cool temperatures of M dwarf atmospheres enable complex molecular chemistry, making robust characterization of M dwarf compositions a long-standing challenge. Recent modifications to spectral synthesis pipelines have enabled more accurate modeling of M dwarf atmospheres, but these methods are too slow for characterizing more than a handful of stars at a time. Data-driven methods such as The Cannon are viable alternatives, and can harness the information content of many M dwarfs from large spectroscopic surveys. Here, we train The Cannon on M dwarfs with FGK binary companions from the Sloan Digital Sky Survey-V/Milky Way Mapper (SDSS-V/MWM), with spectra from the Apache Point Observatory Galactic Evolution Experiment. The FGK-M pairs are assumed to be chemically homogeneous and span −0.56 < [Fe/H] < 0.31 dex. The resulting model is capable of inferring M dwarf Teff and elemental abundances for Fe, Mg, Al, Si, C, N, O, Ca, Ti, Cr, and Ni with median uncertainties of 13 K and 0.018–0.029 dex, respectively. We test the model by verifying that it reproduces the reported abundance values of M dwarfs in open clusters and benchmark M dwarf data sets, as well as the expected metallicity trends from stellar evolution. We apply the model to 16,590 M dwarfs in SDSS-V/MWM and provide their detailed abundances in our accompanying catalog.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +41,8 @@ The cool temperatures of M dwarf atmospheres enable complex molecular chemistry,
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0bb</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0bb</guid>
 <content:encoded><![CDATA[
-
 We present supernova (SN) 2023ufx, a unique Type IIP SN with the shortest known plateau duration (tPT ∼ 47 days), a luminous V-band peak (MV = −18.42 ± 0.08 mag), and a rapid early decline rate (s1 = 3.47 ± 0.09 mag (50 days)−1). By comparing observed photometry to a hydrodynamic MESA+STELLA model grid, we constrain the progenitor to be a massive red supergiant with MZAMS ∼ 19–25 M⊙. Independent comparisons with nebular spectral models also suggest an initial He-core mass of ∼6 M⊙, and thus a massive progenitor. For a Type IIP, SN 2023ufx produced an unusually high amount of nickel (56Ni) ∼0.14 ± 0.02 M⊙, during the explosion. We find that the short plateau duration in SN 2023ufx can be explained with the presence of a small hydrogen envelope ( ∼ 1.2 M⊙), suggesting partial stripping of the progenitor. About ∼0.09 M⊙ of circumstellar material through mass loss from late-time stellar evolution of the progenitor is needed to fit the early time (≲10 days) pseudo-bolometric light curve. Nebular line diagnostics of broad and multipeak components of [O i] λλ6300, 6364, Hα, and [Ca ii] λλ7291, 7323 suggest that the explosion of SN 2023ufx could be inherently asymmetric, preferentially ejecting material along our line of sight.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +50,8 @@ We present supernova (SN) 2023ufx, a unique Type IIP SN with the shortest known 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1be</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1be</guid>
 <content:encoded><![CDATA[
-
 We use the IllustrisTNG cosmological hydrodynamical simulation to study the rotation curves of galaxies in the local universe. To do that, we first select the galaxies with 9.4 < < 11.5 to make a sample comparable to that of SDSS/MaNGA observations. We then construct the 2D line-of-sight velocity map and conduct the fit to determine the rotational velocity and the slope of the rotation curve in the outer region (Rt < r < 3 × rhalf,*). The outer slopes of the simulated galaxies show diverse patterns that are dependent on morphology and stellar mass. The outer slope increases as galaxies are more disky, and decreases as galaxies are more massive, except for the very massive early-type galaxies. The outer slope of the rotation curves shows a correlation with the dark matter fraction, slightly better than for the gas mass fraction. Our study demonstrates that the observed dependence of galaxy rotation curves on morphology and stellar mass can be successfully reproduced in cosmological simulations, and provides a hint that dark matter plays an important role in shaping the rotation curve. The sample of simulated galaxies in this study could serve as an important test bed for the subsequent study tracing galaxies back in time, enabling a deeper understanding of the physical origin behind the diverse rotation curves.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +59,10 @@ We use the IllustrisTNG cosmological hydrodynamical simulation to study the rota
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e4</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e4</guid>
 <content:encoded><![CDATA[
-
 In order to better connect core-collapse supernova (CCSN) theory with its observational signatures, we have developed a simulation pipeline from the onset of the core collapse to beyond shock breakout from the stellar envelope. Using this framework, we present a 3D simulation study from 5 s to over 5 days following the evolution of a 17 M⊙ progenitor, exploding with ∼1051 erg of energy and ∼0.1 M⊙ of 56Ni ejecta. The early explosion is highly asymmetric, expanding most prominently along the southern hemisphere. This early asymmetry is preserved to shock breakout, ∼1 day later. Breakout itself evinces strong angle-dependence, with as much as 1 day delay in the shock breakout by direction. The nickel ejecta closely tail the forward shock, with velocities at the breakout as high as ∼7000 km s−1. A delayed reverse shock forming at the H/He interface on hour timescales leads to the formation of Rayleigh–Taylor instabilities, fast-moving nickel bullets, and almost complete mixing of the metal core into the hydrogen envelope. For the first time, we illustrate the angle-dependent emergent broadband and bolometric light curves from simulations evolved in 3D in entirety, continuing through hydrodynamic shock breakout from a CCSN model of a massive stellar progenitor evolved with detailed, late-time neutrino microphysics and transport. Our case study of a single progenitor underscores that 3D simulations generically produce the cornucopia of observed asymmetries and features in CCSNe observations, while establishing the methodology to study this problem in breadth.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Where is the Supervirial Gas? II. Insight from the Survey of Galactic Sightlines</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb3a5</link>
@@ -9010,42 +9024,6 @@ Gas metallicity, ionization parameter, and gas pressure can affect the observed 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9006</guid>
 <content:encoded><![CDATA[
 High spatial resolution observation of solar prominence is an important observation subject of the New Vacuum Solar Telescope (NVST). While the current level of observation and image reconstruction technologies for solar prominences are advanced, a significant challenge remains in achieving high-precision alignment among high-resolution prominence images observed at different times and different off-bands. Existing alignment approaches either become ineffective or yield low accuracy, and always require manual intervention during the alignment. These limitations are largely due to the stronger edge gradient and lower structural contrast of the prominence images compared with the solar surface ones. In response to this challenge, our study aims to develop an effective and robust algorithm for high-precision alignment of the prominence images. We thoroughly consider the unique structural characteristics of prominence images and the specific application conditions of various alignment algorithms. Consequently, we propose a comprehensive alignment method that incorporates the optical flow field of the solar surface, the gradient of the solar edge, and the cross-correlation within the solar prominence region. This method is designed to accurately determine the movement displacements among the prominence images. Our results demonstrate that this alignment method excels in both accuracy and robustness, making it well-suited for handling the diverse postures of solar prominence images captured by the NVST.
-]]></content:encoded>
-<pubDate>2024-12-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Visual Orbits of Wolf–Rayet Stars. II. The Orbit of the Nitrogen-rich Wolf–Rayet Binary WR 138 Measured with the CHARA Array</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9024</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9024</guid>
-<content:encoded><![CDATA[
-Classical Wolf–Rayet (WR) stars are descendants of massive OB-type stars that have lost their hydrogen-rich envelopes and are in the final stages of stellar evolution, possibly exploding as Type Ib/c supernovae. It is understood that the mechanisms driving this mass loss are either strong stellar winds and or binary interactions, so intense studies of these binaries including their evolution can tell us about the importance of the two pathways in WR formation. WR 138 (HD 193077) has a period of just over 4 yr and was previously reported to be resolved through interferometry. We report on new interferometric data combined with spectroscopic radial velocities in order to provide a three-dimensional orbit of the system. The precision on our parameters tend to be about an order of magnitude better than previous spectroscopic techniques. These measurements provide masses of the stars, namely, MWR = 13.93 ± 1.49 M⊙ and MO = 26.28 ± 1.71 M⊙. The derived orbital parallax agrees with the parallax from Gaia, namely, with a distance of 2.13 kpc. We compare the system’s orbit to models from BPASS, showing that the system likely may have been formed with little interaction but could have formed through some binary interactions either following or at the start of a red supergiant phase but with the most likely scenario occurring as the red supergiant phase starts for a ∼40 M⊙ star.
-]]></content:encoded>
-<pubDate>2024-12-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>High-precision Galaxy Clustering Predictions from Small-volume Hydrodynamical Simulations via Control Variates</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad919d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad919d</guid>
-<content:encoded><![CDATA[
-Cosmological simulations of galaxy formation are an invaluable tool for understanding galaxy formation and its impact on cosmological parameter inference from large-scale structures. However, their high computational cost is a significant obstacle for running simulations that probe cosmological volumes comparable to those analyzed by contemporary large-scale structure experiments. In this work, we explore the possibility of obtaining high-precision galaxy clustering predictions from small-volume hydrodynamical simulations such as MillenniumTNG and FLAMINGO via control variates. In this approach, the hydrodynamical full-physics simulation is paired with a matched low-resolution gravity-only simulation. By learning the galaxy–halo connection from the hydrodynamical simulation and applying it to the gravity-only counterpart, one obtains a galaxy population that closely mimics the one in the more expensive simulation. One can then construct an estimator of galaxy clustering that combines the clustering amplitudes in the small-volume hydrodynamical and gravity-only simulations with clustering amplitudes in a large-volume gravity-only simulation. Depending on the galaxy sample, clustering statistic, and scale, this galaxy clustering estimator can have an effective volume of up to around 100 times the volume of the original hydrodynamical simulation in the nonlinear regime. With this approach, we can construct galaxy clustering predictions from existing simulations that are precise enough for mock analyses of next-generation large-scale structure surveys such as the Dark Energy Spectroscopic Instrument and the Legacy Survey of Space and Time.
-]]></content:encoded>
-<pubDate>2024-12-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Emergence of the Galaxy Morphology–Star Formation Activity–Clustercentric Radius Relations in Galaxy Clusters</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9276</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9276</guid>
-<content:encoded><![CDATA[
-We investigate when and how the relations of galaxy morphology and star-forming activity with clustercentric radius become evident in galaxy clusters. We identify 162 galaxy clusters with total mass at z = 0.625 in the Horizon Run 5 cosmological hydrodynamical simulation and study how the properties of the galaxies with stellar mass M* > 5 × 109M⊙ near the cluster main progenitors have evolved in the past. Galaxies are classified into disk, spheroid, and irregular morphological types according to the asymmetry and Sérsic index of their stellar mass distribution. We also classify galaxies into active and passive ones depending on their specific star formation rate. We find that the morphology–clustercentric radius relation (MRR) emerges at z ≃ 1.8 as the fraction of spheroidal types exceeds 50% in the central region (d ≲ 0.1R200). Galaxies outside the central region remain disk-dominated. Numerous encounters between galaxies in the central region seem to be responsible for the morphology transformation from disks to spheroids. We also find that the star formation activity–clustercentric radius relation emerges at an epoch different from that of MRR. At z ≃ 0.8, passive galaxies start to dominate the intermediate radius region (0.1 ≲ d/R200 ≲ 0.3), and this “quenching region” grows inward and outward thereafter. The region dominated by early-type galaxies (spheroids and passive disks) first appears at the central region at z ≃ 1.8, expands rapidly to larger radii as the population of passive disks grows in the intermediate radii, and clusters are dominated by early types after z ≃ 0.8.
-]]></content:encoded>
-<pubDate>2024-12-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Shear Particle Acceleration in Structured Gamma-Ray Burst Jets. I. Physical Origin of the Band Function and Application to GRBs 090926A, 131108A, and 160509A</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93cb</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93cb</guid>
-<content:encoded><![CDATA[
-The radiation physics of gamma-ray bursts (GRBs) remains an open question. Based on the simulation analysis and recent observations, it was proposed that GRB jets are composed of a narrow ultrarelativistic core surrounded by a wide subrelativistic cocoon. We show that emission from the synchrotron radiations and the synchrotron self-Compton (SSC) process of shear-accelerated electrons in the mixed jet-cocoon (MJC) region and internal-shock-accelerated electrons in the jet core is potentially explained the spectral characteristics of the prompt gamma rays. Assuming an exponential-decay velocity profile, the shear flow in the MJC region can accelerate electrons up to for injected electrons with γe,inject = 3 × 102 if its magnetic field strength ( ) is 100 G and its inner-edge velocity ( ) is 0.9 c. The cooling of these electrons is dominated by the SSC process, and the emission flux peaks at the keV band. In addition, the energy flux of synchrotron radiations of internal-shock-accelerated electrons (γe = 104 ∼ 105) peaks at around the keV−MeV band, assuming a bulk Lorentz factor of 300, a magnetic field strength of ∼106 G for the jet core. Adding the flux from both the jet core and the MJC region, the total spectral energy distribution illustrates similar characteristics as the broadband observations of GRBs. The bimodal and Band cut spectra observed in GRBs 090926A, 131108A, and 160509A can be well fit with our model. The derived varies from 54 G to 450 G and c.
 ]]></content:encoded>
 <pubDate>2024-12-12T00:00:00Z</pubDate>
 </item>
