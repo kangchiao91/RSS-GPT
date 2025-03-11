@@ -5,14 +5,57 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>A Data-driven M Dwarf Model and Detailed Abundances for ∼17,000 M Dwarfs in SDSS-V</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adaf1f</guid>
+<content:encoded><![CDATA[
+
+The cool temperatures of M dwarf atmospheres enable complex molecular chemistry, making robust characterization of M dwarf compositions a long-standing challenge. Recent modifications to spectral synthesis pipelines have enabled more accurate modeling of M dwarf atmospheres, but these methods are too slow for characterizing more than a handful of stars at a time. Data-driven methods such as The Cannon are viable alternatives, and can harness the information content of many M dwarfs from large spectroscopic surveys. Here, we train The Cannon on M dwarfs with FGK binary companions from the Sloan Digital Sky Survey-V/Milky Way Mapper (SDSS-V/MWM), with spectra from the Apache Point Observatory Galactic Evolution Experiment. The FGK-M pairs are assumed to be chemically homogeneous and span −0.56 < [Fe/H] < 0.31 dex. The resulting model is capable of inferring M dwarf Teff and elemental abundances for Fe, Mg, Al, Si, C, N, O, Ca, Ti, Cr, and Ni with median uncertainties of 13 K and 0.018–0.029 dex, respectively. We test the model by verifying that it reproduces the reported abundance values of M dwarfs in open clusters and benchmark M dwarf data sets, as well as the expected metallicity trends from stellar evolution. We apply the model to 16,590 M dwarfs in SDSS-V/MWM and provide their detailed abundances in our accompanying catalog.
+]]></content:encoded>
+
+<pubDate>2025-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Luminous Type II Short-plateau SN 2023ufx: Asymmetric Explosion of a Partially Stripped Massive Progenitor</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0bb</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0bb</guid>
+<content:encoded><![CDATA[
+
+We present supernova (SN) 2023ufx, a unique Type IIP SN with the shortest known plateau duration (tPT ∼ 47 days), a luminous V-band peak (MV = −18.42 ± 0.08 mag), and a rapid early decline rate (s1 = 3.47 ± 0.09 mag (50 days)−1). By comparing observed photometry to a hydrodynamic MESA+STELLA model grid, we constrain the progenitor to be a massive red supergiant with MZAMS ∼ 19–25 M⊙. Independent comparisons with nebular spectral models also suggest an initial He-core mass of ∼6 M⊙, and thus a massive progenitor. For a Type IIP, SN 2023ufx produced an unusually high amount of nickel (56Ni) ∼0.14 ± 0.02 M⊙, during the explosion. We find that the short plateau duration in SN 2023ufx can be explained with the presence of a small hydrogen envelope ( ∼ 1.2 M⊙), suggesting partial stripping of the progenitor. About ∼0.09 M⊙ of circumstellar material through mass loss from late-time stellar evolution of the progenitor is needed to fit the early time (≲10 days) pseudo-bolometric light curve. Nebular line diagnostics of broad and multipeak components of [O i] λλ6300, 6364, Hα, and [Ca ii] λλ7291, 7323 suggest that the explosion of SN 2023ufx could be inherently asymmetric, preferentially ejecting material along our line of sight.
+]]></content:encoded>
+
+<pubDate>2025-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Diverse Rotation Curves of Galaxies in a Simulated Universe: The Observed Dependence on Stellar Mass and Morphology Reproduced</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1be</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1be</guid>
+<content:encoded><![CDATA[
+
+We use the IllustrisTNG cosmological hydrodynamical simulation to study the rotation curves of galaxies in the local universe. To do that, we first select the galaxies with 9.4 < < 11.5 to make a sample comparable to that of SDSS/MaNGA observations. We then construct the 2D line-of-sight velocity map and conduct the fit to determine the rotational velocity and the slope of the rotation curve in the outer region (Rt < r < 3 × rhalf,*). The outer slopes of the simulated galaxies show diverse patterns that are dependent on morphology and stellar mass. The outer slope increases as galaxies are more disky, and decreases as galaxies are more massive, except for the very massive early-type galaxies. The outer slope of the rotation curves shows a correlation with the dark matter fraction, slightly better than for the gas mass fraction. Our study demonstrates that the observed dependence of galaxy rotation curves on morphology and stellar mass can be successfully reproduced in cosmological simulations, and provides a hint that dark matter plays an important role in shaping the rotation curve. The sample of simulated galaxies in this study could serve as an important test bed for the subsequent study tracing galaxies back in time, enabling a deeper understanding of the physical origin behind the diverse rotation curves.
+]]></content:encoded>
+
+<pubDate>2025-03-11T00:00:00Z</pubDate>
+</item>
+<item>
+<title>A 3D Simulation of a Type II-P Supernova: From Core Bounce to beyond Shock Breakout</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e4</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e4</guid>
+<content:encoded><![CDATA[
+
+In order to better connect core-collapse supernova (CCSN) theory with its observational signatures, we have developed a simulation pipeline from the onset of the core collapse to beyond shock breakout from the stellar envelope. Using this framework, we present a 3D simulation study from 5 s to over 5 days following the evolution of a 17 M⊙ progenitor, exploding with ∼1051 erg of energy and ∼0.1 M⊙ of 56Ni ejecta. The early explosion is highly asymmetric, expanding most prominently along the southern hemisphere. This early asymmetry is preserved to shock breakout, ∼1 day later. Breakout itself evinces strong angle-dependence, with as much as 1 day delay in the shock breakout by direction. The nickel ejecta closely tail the forward shock, with velocities at the breakout as high as ∼7000 km s−1. A delayed reverse shock forming at the H/He interface on hour timescales leads to the formation of Rayleigh–Taylor instabilities, fast-moving nickel bullets, and almost complete mixing of the metal core into the hydrogen envelope. For the first time, we illustrate the angle-dependent emergent broadband and bolometric light curves from simulations evolved in 3D in entirety, continuing through hydrodynamic shock breakout from a CCSN model of a massive stellar progenitor evolved with detailed, late-time neutrino microphysics and transport. Our case study of a single progenitor underscores that 3D simulations generically produce the cornucopia of observed asymmetries and features in CCSNe observations, while establishing the methodology to study this problem in breadth.
+]]></content:encoded>
+
+<pubDate>2025-03-11T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Where is the Supervirial Gas? II. Insight from the Survey of Galactic Sightlines</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb3a5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb3a5</guid>
 <content:encoded><![CDATA[
-
 Recent observations have revealed a supervirial temperature gas phase at log(T/K) ∼ 7 in the Milky Way, challenging existing galaxy formation models. This hot gas phase was discovered toward extragalactic absorption sightlines and blank-sky emission fields, both at high Galactic latitudes. The location of this hot component is unknown; is it in the extended circumgalactic medium (CGM) or in the interstellar medium (ISM) instead? We analyzed X-ray spectra from Chandra’s High-Energy Transmission Grating observations of 27 Galactic X-ray binaries (XRBs) to investigate whether the hot gas component is present in the ISM. We searched for absorption lines of S xvi Kα, Si xiv Kα, and Ne x Kα, which are the telltale signatures of the hot gas and which have been detected toward extragalactic sightlines. Of the 27 targets, these lines were detected in the spectra of only 7, with two sources displaying broad line features likely intrinsic to the XRB systems. Additionally, most of the detected lines are time variable, reinforcing their likely association with the XRBs. Our results suggest that the supervirial temperature gas is not a widespread component of the ISM but may instead be located in extraplanar regions or the extended CGM, which aligns with some recent simulation results.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@ Recent observations have revealed a supervirial temperature gas phase at log(T/K
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb41c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb41c</guid>
 <content:encoded><![CDATA[
-
 JWST has enabled the detection of the ultraviolet (UV) continuum of galaxies at z > 10, revealing extremely blue, potentially dust-free galaxies. However, interpreting UV spectra is complicated by the well-known degeneracy between stellar ages, dust reddening, and nebular continuum. The main goal of this paper is to develop a theoretical model for the relationship between galaxy UV slopes (β), bursty star formation histories, dust evolution, and nebular contributions using cosmological zoom-in simulations. We build a layered model where we simulate increasingly complex physics, including the impact of (i) unattenuated intrinsic stellar populations, (ii) reddened populations using a new on-the-fly evolving dust model, and (iii) populations including dust and nebular continuum. Unattenuated stellar populations with no nebular emission exhibit a diverse range of intrinsic UV slopes (β0 ≈ −3 → −2.2), with an inverse correlation between UV slope and specific star formation rate. When including dust, our model galaxies demonstrate a rapid rise in dust obscuration between z ≈ 8 and 10. This increase in dust mass is due to high grain–grain shattering rates, and enhanced growth per unit dust mass in very small grains, resulting in UV-detected galaxies at z ∼ 12 descending into Atacama Large Millimeter/submillimeter Array–detectable galaxies by z ∼ 6. The rapid rise in dust content at z ≈ 8–10 leads to a systematic reddening of the UV slopes during this redshift range. Nebular continuum further reddens UV slopes by a median Δβneb ≈ 0.2–0.4, though notably the highest-redshift galaxies (z ≈ 12) are insufficiently blue compared to observations; this may imply an evolving escape fraction from H ii regions with redshift.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@ JWST has enabled the detection of the ultraviolet (UV) continuum of galaxies at 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb42e</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb42e</guid>
 <content:encoded><![CDATA[
-
 The recent prediction and discovery of hypervelocity supernova survivors has provided strong evidence that the “dynamically driven double-degenerate double-detonation” (D6) Type Ia supernova scenario occurs in nature. In this model, the accretion stream from the secondary white dwarf (WD) in a double WD binary strikes the primary WD violently enough to trigger a helium shell detonation, which in turn triggers a carbon/oxygen core detonation. If the secondary WD survives the primary’s explosion, it will be flung away as a hypervelocity star. While previous work has shown that the hotter observed D6 stars can be broadly understood as secondaries whose outer layers have been heated by their primaries’ explosions, the properties of the cooler D6 stars have proven difficult to reproduce. In this paper, we show that the cool D6 stars can be explained by the Kelvin–Helmholtz contraction of helium or carbon/oxygen WDs that underwent significant mass loss and core heating prior to and during the explosion of their WD companions. We find that the current population of known D6 candidates is consistent with ∼2% of Type Ia supernovae leaving behind a hypervelocity surviving companion. We also calculate the evolution of hot, low-mass oxygen/neon stars and find reasonable agreement with the properties of the LP 40–365 class of hypervelocity survivors, suggesting that these stars are the kicked remnants of near-Chandrasekhar-mass oxygen/neon WDs that were partially disrupted by oxygen deflagrations. We use these results as motivation for schematic diagrams showing speculative outcomes of interacting double WD binaries, including long-lived merger remnants, Type Ia supernovae, and several kinds of peculiar transients.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@ The recent prediction and discovery of hypervelocity supernova survivors has pro
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb730</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb730</guid>
 <content:encoded><![CDATA[
-
 The chemical composition of the Sun is still a highly controversial issue. No solar model has yet been able to simultaneously reproduce the solar lithium and beryllium abundances, along with helioseismic results, including the rotation profile. Lithium and beryllium are fragile elements that are highly sensitive to the physical conditions, as well as to transport and mixing processes within and below the convective zone (CZ). Uncovering the transport mechanisms responsible for the depletion of Li and Be in the Sun is crucial for using them as tools to understand stellar interiors and the associated transport and mixing processes. We constructed rotating solar models based on Magg’s abundance scale, incorporating the effects of convective overshoot and magnetic fields. The rotating model exhibits superior sound speed and density profile and successfully reproduces the observed ratios r02 and r13. It also matches the seismically inferred CZ depth, surface helium abundance, and rotation profile, as well as the detected Li and Be abundances and neutrino fluxes within 1σ. The depletion of Li is dominated by convective overshoot and rotational mixing, while Be depletion is primarily driven by gravitational settling and rotational mixing. The presence of the tachocline accelerates Li depletion but slows down Be depletion. These distinct depletion mechanisms result in the surface abundances of Li and Be evolving differently over time.
 ]]></content:encoded>
-
 <pubDate>2025-03-11T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@ The chemical composition of the Sun is still a highly controversial issue. No so
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb0c2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb0c2</guid>
 <content:encoded><![CDATA[
-
 In 2020 November, A0535+26 underwent one of its brightest outbursts, reaching nearly 12 Crab in X-ray flux. Observed by Insight-HXMT, NuSTAR, NICER, and AstroSat, this event provided valuable insights into Be/X-ray binaries. The pulse profiles evolved significantly with luminosity, transitioning from pencil-beam to fan-beam geometries. A0535+26, known for its fundamental cyclotron line at ∼44 keV, became only the second source to exhibit a negative correlation between cyclotron line energy and flux at high luminosities, with a plateau phase preceding the transition from positive to negative correlation. We report the discovery of a phase-transient low-energy cyclotron line, detected in a narrow phase range (∼16%) across all seven NuSTAR observations during the rising, peak, and declining phases of the outburst. The new line exhibited dramatic variations with pulse phase and luminosity. We explain this behavior using an accretion geometry where the accretion column sweeps across the line of sight.
 ]]></content:encoded>
-
 <pubDate>2025-03-10T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,13 +99,10 @@ In 2020 November, A0535+26 underwent one of its brightest outbursts, reaching ne
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb723</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb723</guid>
 <content:encoded><![CDATA[
-
 Modified Newtonian dynamics (MOND) was originally proposed to model galaxy rotation curves without dark matter. However, MOND presents difficulties in explaining the radial acceleration relation observed in galaxy clusters, and moreover, it does not completely eliminate the need for dark matter, since it requires using nonluminous particles (e.g., cold molecular gas or dust, or neutrinos) to explain the observed hydrostatic equilibrium of the hot gas. Hyperconical modified gravity (HMG) offers a relativistic framework that recovers the success of MOND in galaxy rotation curves as a natural particular case, and it could potentially reconcile the previously described discrepancies without invoking any type of dark matter. This paper analyzes the performance of the HMG model for hydrostatic equilibrium in 12 XMM Cluster Outskirts Project galaxy clusters, with a special focus on 5 objects with available complete stellar mass information: A1795, A2029, A2142, A2319, and A644. Specifically, we used high-resolution X-ray data with which gas density and mass profiles were previously derived to constrain modified gravity models. Our results show that the hydrostatic equilibrium of analyzed cluster gas is more naturally adjusted to the HMG model beyond 1 Mpc, reducing the need to fit parameters, but further research is required to expand to more spatial scales.
 ]]></content:encoded>
-
 <pubDate>2025-03-10T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>BASS. XLVII. 22 GHz Radio Atlas of Swift-BAT Selected AGN</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1e7</link>
@@ -9016,60 +9048,6 @@ We investigate when and how the relations of galaxy morphology and star-forming 
 The radiation physics of gamma-ray bursts (GRBs) remains an open question. Based on the simulation analysis and recent observations, it was proposed that GRB jets are composed of a narrow ultrarelativistic core surrounded by a wide subrelativistic cocoon. We show that emission from the synchrotron radiations and the synchrotron self-Compton (SSC) process of shear-accelerated electrons in the mixed jet-cocoon (MJC) region and internal-shock-accelerated electrons in the jet core is potentially explained the spectral characteristics of the prompt gamma rays. Assuming an exponential-decay velocity profile, the shear flow in the MJC region can accelerate electrons up to for injected electrons with γe,inject = 3 × 102 if its magnetic field strength ( ) is 100 G and its inner-edge velocity ( ) is 0.9 c. The cooling of these electrons is dominated by the SSC process, and the emission flux peaks at the keV band. In addition, the energy flux of synchrotron radiations of internal-shock-accelerated electrons (γe = 104 ∼ 105) peaks at around the keV−MeV band, assuming a bulk Lorentz factor of 300, a magnetic field strength of ∼106 G for the jet core. Adding the flux from both the jet core and the MJC region, the total spectral energy distribution illustrates similar characteristics as the broadband observations of GRBs. The bimodal and Band cut spectra observed in GRBs 090926A, 131108A, and 160509A can be well fit with our model. The derived varies from 54 G to 450 G and c.
 ]]></content:encoded>
 <pubDate>2024-12-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Synchrotron Break Frequencies of Mildly to Highly Relativistic Outflows Observed Off-axis</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9684</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9684</guid>
-<content:encoded><![CDATA[
-We consider the synchrotron spectrum produced by mildly to highly relativistic collisionless shocks. Simple analytic formulae are derived for the break frequencies (peak frequency, self-absorption frequency, synchrotron, and inverse Compton cooling frequencies) of the emission produced by postshock plasma elements propagating at an angle θe relative to the observer’s line of sight. These formulae reproduce well the results of earlier exact analytic calculations valid for ultrarelativistic shocks and also hold for γ < 10 and for “off-axis” propagation (deviating from the ultrarelativistic results by approximately 1 order of magnitude). Our results will improve parameter estimation accuracy from future observations of synchrotron emission produced by collisionless shocks driven by the relativistic ejected material from compact object mergers and jetted tidal disruption events. The improved accuracy for mildly relativistic velocities is essential since most events will be observed off-axis, with γ < 10 outflows dominating the synchrotron emission (due to relativistic beaming). For GW170817, our results imply that (i) the Lorentz factor of the plasma emitting the observed radiation is bounded by 2.6 < γ at t ∼ 10 days and by γ < 12 at t > 16 days, (ii) the interstellar medium (ISM) density, n, and the fraction of internal energy density held by magnetic fields, εB, are bounded by n · εB ≲ 3 × 10−7 cm−3. In future merger events in higher-density ISM, the peak and cooling frequencies may be identified in the radio and X-ray bands; consequently, γ, n · εB could be measured as opposed to the case of GW170817, where these frequencies are out of the observable range.
-]]></content:encoded>
-<pubDate>2024-12-12T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Peak Frequency and Luminosity of Synchrotron Emitting Shocks: From Nonrelativistic to Ultrarelativistic Explosions</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b47</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8b47</guid>
-<content:encoded><![CDATA[
-Synchrotron emission is ubiquitous in explosive astrophysical events—it is a natural byproduct of shocks formed when matter expelled by the explosion collides with ambient material. This emission is well observed in various classes of transients, and is often interpreted within a canonical “equipartition” framework that allows physical properties of the shock to be inferred from the frequency and luminosity at which the observed spectral energy distribution (SED) peaks. This framework has been remarkably successful in explaining observations of radio supernovae. It has also been used for transrelativistic explosions, where the shock velocities approach the speed of light. However, the conventional framework does not incorporate relativistic effects. Neither does it account for thermal electrons, which have been shown to be important for high-velocity shocks. In this paper we describe a revised framework that accounts for these two effects, and is applicable to nonrelativistic, transrelativistic, and ultrarelativistic explosions. We show that accounting for these effects can dramatically change the inferred parameters of high-velocity shocks, and, in particular, that the shock velocity, ambient density, and total energy are overestimated by the conventional nonrelativistic framework. We delineate the phase-space where such modifications are important in terms of observationally measurable parameters. We also find a novel upper limit on the peak synchrotron luminosity of shock-powered transients, which is remarkably consistent with existing observations. Finally, we discuss a prediction of the model—that the SED will qualitatively change as a function of shock velocity—and show that this is broadly consistent with data for representative events (e.g., SN1998bw, AT2018cow, CSS161010, AT2020xnd).
-]]></content:encoded>
-<pubDate>2024-12-09T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Classification of Wolf–Rayet Stars Using Ensemble-based Machine Learning Algorithms</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dda</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dda</guid>
-<content:encoded><![CDATA[
-We develop a robust machine learning classifier model utilizing the eXtreme-Gradient Boosting (XGB) algorithm for improved classification of Galactic Wolf–Rayet (WR) stars based on IR colors and positional attributes. For our study, we choose an extensive data set of 6555 stellar objects (from 2MASS and AllWISE data releases) lying in the Milky Way (MW) with available photometric magnitudes of different types, including WR stars. Our XGB classifier model can accurately (with an 86% detection rate) identify a sufficient number of WR stars against a large sample of non-WR sources. The XGB model outperforms other ensemble classifier models, such as Random Forest. Also, using the XGB algorithm, we develop a WR subtype classifier model that can differentiate the WR subtypes from the non-WR sources with a high model accuracy (>60%). Further, we apply both XGB-based models to a selection of 6457 stellar objects with unknown object types, detecting 58 new WR star candidates and predicting subtypes for 10 of them. The identified WR sources are mainly located in the local spiral arm of the MW and mostly lie in the solar neighborhood.
-]]></content:encoded>
-<pubDate>2024-12-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Revisiting Radio Variability of the Blazar 3C 454.3</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90e3</guid>
-<content:encoded><![CDATA[
-We examine lengthy radio light curves of the flat spectrum radio galaxy 3C 454.3 for possible quasiperiodic oscillations (QPOs). The data used in this work were collected at five radio frequencies, 4.8, 8.0, 14.5, 22.0, and 37.0 GHz between 1979 and 2013 as observed at the University of Michigan Radio Astronomical Observatory, Crimean Astrophysical Observatory, and Aalto University Metsähovi Radio Observatory. We employ generalized Lomb–Scargle periodogram and weighted wavelet transform analyses to search for periodicities in these light curves. We confirm a QPO period of ∼2000 days to be at least 4σ significant using both methods at all five radio frequencies between 1979 and 2007, after which a strong flare changed the character of the light curve. We also find a ∼600 day period, which is at least 4σ significant, but only in the 22.0 and 37.0 GHz light curves. We briefly discuss physical mechanisms capable of producing such variations.
-]]></content:encoded>
-<pubDate>2024-12-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>CSS 161010: A Luminous Fast Blue Optical Transient with Broad Blueshifted Hydrogen Lines</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad89a5</guid>
-<content:encoded><![CDATA[
-We present ultraviolet, optical, and near-infrared photometric and optical spectroscopic observations of the luminous fast blue optical transient (LFBOT) CSS 161010:045834–081803 (CSS 161010). The transient was found in a low-redshift (z = 0.033) dwarf galaxy. The light curves of CSS 161010 are characterized by an extremely fast evolution and blue colors. The V-band light curve shows that CSS 161010 reaches an absolute peak of mag in 3.8 days from the start of the outburst. After maximum, CSS 161010 follows a power-law decline ∝t−2.8±0.1 in all optical bands. These photometric properties are comparable to those of well-observed LFBOTs such as AT 2018cow, AT 2020mrf, and AT 2020xnd. However, unlike these objects, the spectra of CSS 161010 show a remarkable transformation from a blue and featureless continuum to spectra dominated by very broad, entirely blueshifted hydrogen emission lines with velocities of up to 10% of the speed of light. The persistent blueshifted emission and the lack of any emission at the rest wavelength of CSS 161010 are unique features not seen in any transient before CSS 161010. The combined observational properties of CSS 161010 and its M* ∼ 108M⊙ dwarf galaxy host favor the tidal disruption of a star by an intermediate-mass black hole as its origin.
-]]></content:encoded>
-<pubDate>2024-12-11T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Varying Activity and the Burst Properties of FRB 20240114A Probed with GMRT Down to 300 MHz</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad84de</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad84de</guid>
-<content:encoded><![CDATA[
-Repeating fast radio bursts (FRBs) can exhibit a wide range of burst repetition rates, from none to hundreds of bursts per hour. Here we report the detection and characteristics of 60 bursts from the recently discovered FRB 20240114A, observed with the upgraded Giant Metrewave Radio Telescope in the frequency ranges 300–500 MHz and 550–750 MHz. The majority of the bursts show narrow emission bandwidth with Δν/ν ∼ 10%. All of the bursts we detect are faint (<10 Jy ms) and thus probe the lower end of the energy distribution. We determine the rate function for FRB 20240114A at 400 MHz and downward drift rates at 400 and 650 MHz, and we discuss our measurements in the context of the repeating FRB population. We observe sudden variations in the burst activity of FRB 20240114A over time. From our data and the publicly available information on other observations of FRB 20240114A so far, there is an indication that FRB 20240114A potentially exhibits chromaticity in its burst activity. While the burst properties of FRB 20240114A are similar to other repeating FRBs, the frequency-dependent activity, if established, could provide crucial clues to the origin of repeating FRBs. We also place the most stringent 5σ upper limits of 600 and 89 μJy on any persistent radio source (PRS) associated with FRB 20240114A at 400 and 650 MHz, respectively, and compare these with the luminosity of the known PRSs associated with FRB 121102A and FRB 190520B.
-]]></content:encoded>
-<pubDate>2024-12-11T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
