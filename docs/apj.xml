@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>The Proxima Centauri Campaign—First Constraints on Millimeter Flare Rates from ALMA</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada5f2</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada5f2</guid>
 <content:encoded><![CDATA[
-
 Proxima Centauri (Cen) has been the subject of many flaring studies due to its proximity and potential to host habitable planets. The discovery of millimeter flares from this M dwarf with Atacama Large Millimeter/submillimeter Array (ALMA) has opened a new window into the flaring process and the space-weather environments of exoplanets like Proxima b. Using a total of ~50 hr of ALMA observations of Proxima Cen at 1.3 mm (233 GHz), we add a new piece to the stellar flaring picture and report the first cumulative flare frequency distribution (FFD) at millimeter wavelengths of any M dwarf. We detect 463 flares ranging from energies 1024 to 1027 erg. The brightest and most energetic flare in our sample reached a flux density of 119 ± 7 mJy, increasing by a factor of 1000× the quiescent flux, and reaching an energy of 1027 erg in the ALMA bandpass, with t1/2 ≈ 16 s. From a log–log linear regression fit to the FFD, we obtain a power-law index of αFFD = 2.92 ± 0.02, much steeper than αFFD values (~2) observed at X-ray to optical wavelengths. If millimeter flare rates are predictive of flare rates at extreme-UV wavelengths, the contribution of small flares to the radiation environment of Proxima b may be much higher than expected based on the shallower power-law slopes observed at optical wavelengths.
 ]]></content:encoded>
-
 <pubDate>2025-03-17T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>The Long-lived Broadband Afterglow of Short Gamma-Ray Burst 231117A and the Growing Radio-detected Short Gamma-Ray Burst Population</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada9e5</link>
@@ -9004,15 +9002,6 @@ Continuum reverberation mapping (CRM) of active galactic nuclei (AGN) monitors m
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad901e</guid>
 <content:encoded><![CDATA[
 We present PyMerger, a Python tool for detecting binary black hole (BBH) mergers from the Einstein Telescope (ET), based on a deep residual neural network (ResNet) model. ResNet was trained on data combined from all three proposed subdetectors of ET (TSDCD) to detect BBH mergers. Five different lower-frequency cutoffs (Flow)—5 Hz, 10 Hz, 15 Hz, 20 Hz, and 30 Hz—with the match-filter signal-to-noise ratio (MSNR) ranges 4–5, 5–6, 6–7, 7–8, and >8 were employed in the data simulation. Compared to previous work that utilized data from a single subdetector, the detection accuracy from TSDCD has shown substantial improvements, increasing from 60%, 60.5%, 84.5%, 94.5%, and 98.5% to 78.5%, 84%, 99.5%, 100%, and 100% for sources with MSNRs of 4–5, 5–6, 6–7, 7–8, and >8, respectively. The ResNet model is evaluated on the first ET mock data challenge (ET-MDC1) data set, where the model demonstrates strong performance in detecting BBH mergers, identifying 5566 out of 6578 BBH events, with optimal SNRs starting from 1.2 and a minimum and maximum DL of 0.5 Gpc and 148.95 Gpc, respectively. Despite being trained only on BBH mergers without overlapping sources, the model achieves high BBH detection rates. Notably, even though the model was not trained on binary neutron star (BNS) and black hole-neutron star (BHNS) mergers, it successfully detected 11,477 BNS and 323BHNS mergers in ET-MDC1, with optimal SNRs starting from 0.2 and 1, respectively, indicating its potential for broader applicability.
-]]></content:encoded>
-<pubDate>2024-12-16T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Jet Interaction with Galaxy Cluster Mergers</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9028</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9028</guid>
-<content:encoded><![CDATA[
-Active galactic nucleus (AGN) bubbles in cool-core galaxy clusters are believed to facilitate the transport of cosmic-ray electrons (CRe) throughout the cluster. Recent radio observations reveal the complex morphologies of cluster diffuse emission, potentially linked to interactions between AGN bursts and the cluster environment. We perform 3D magnetohydrodynamical simulations of binary cluster mergers and inject a bidirectional jet at the center of the main cluster. Kinetic, thermal, magnetic, and cosmic ray (CR) energy are included in the jet and we use the two-fluid formalism to model the CR component. We explore a wide range of cluster merger and jet parameters. We discuss the formation of various wide-angle-tail and X-shaped sources in the early evolution of the jet and merger. During the last phase of the evolution, we find that the CR material efficiently permeates the central region of the cluster reaching radii of ∼1–2 Mpc within ∼5–6 Gyr, depending on the merger mass ratio. We find that solenoidal turbulence dominates during the binary merger and we explore the possibility for the CR jet material to be reaccelerated by super-Alfvènic turbulence and contribute to cluster scale radio emission. We find high volume fractions, ≳70%, at which the turbulent acceleration time is shorter than the electron cooling time. Finally, we study the merger shock interaction with the CRe material and show that it is unlikely that this material significantly contributes to the radio relic emission associated with the shocks. We suggest that multiple jet outbursts and/or off-center radio galaxies would increase the likelihood of detecting these merger shocks in the radio due to shock reacceleration.
 ]]></content:encoded>
 <pubDate>2024-12-16T00:00:00Z</pubDate>
 </item>
