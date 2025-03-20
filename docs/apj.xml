@@ -5,14 +5,57 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>The Multiwavelength Extinction Law and Its Variation in the Coalsack Molecular Cloud Based on the Gaia, APASS, SMSS, 2MASS, GLIMPSE, and WISE Surveys</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb431</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb431</guid>
+<content:encoded><![CDATA[
+
+Accurate interpretation of observations relies on the interstellar dust extinction law, which also serves as a powerful diagnostic for probing dust properties. In this study, we investigate the multiwavelength extinction law of the quiescent, starless molecular cloud Coalsack and explore its potential variation across different interstellar environments: the surrounding region, the nearby high Galactic latitude region, the inner dense region, and the inner diffuse region. Using a sample of 368,524 dwarf stars selected from Gaia DR3 as tracers, we establish the effective temperature Teff–intrinsic color relations to derive the intrinsic color indices and optical−mid-infrared (MIR) color excess (CE) for 20 bands. Linear fits to the CE–CE diagrams provide CE ratios, which are subsequently converted into relative extinction. The resulting extinction curves for different environments exhibit steep slopes in the near-infrared (NIR) and flat profiles in the MIR. In the optical–NIR range, the Coalsack extinction law is consistent with the RV = 3.1 of S. Wang & X. Chen and B. S. Hensley & B. T. Draine, while in the MIR, it follows the RV = 5.5 of J. C. Weingartner & B. T. Draine, similar to the results of active star-forming clouds. At an angular resolution of , our extinction map reveals fine cloud structures. No correlation is found between RV and EB,V for EB,V > 0.3 mag, implying a uniform optical extinction law in the Coalsack cloud. The derived average RV value is 3.24 ± 0.32.
+]]></content:encoded>
+
+<pubDate>2025-03-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Turbulent Suppression of Alfvénic Wave Resonances in Coronal Loops</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb48b</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb48b</guid>
+<content:encoded><![CDATA[
+
+Alfvénic wave turbulence is a leading mechanism for explaining the heating of the solar corona and the acceleration of the solar wind. Alfvénic waves are observed to be prevalent throughout the inner corona. An intriguing aspect of the observed waves is that active-region loops show decayless standing Alfvénic oscillations, while quiet-Sun loops show only propagating Alfvénic waves. Given the weaker rates of resonant damping found in the quiet Sun (compared to those estimated from decaying oscillations of active-region loops), the reason for the lack of observed standing oscillations is unclear. We suggest that this may be due to the presence of efficient (or strong) Alfvénic wave turbulence in the quiet Sun, which limits the ability of waves to form resonant oscillations in the coronal cavity. To test this idea, we model the coronal velocity fluctuations using a previously developed 3D reduced magnetohydrodynamic model. In this model, we implement a semi-realistic profile for atmospheric plasma conditions along the magnetic field and a homogeneous plasma perpendicular to the magnetic field. Results are presented for different models of the background atmosphere that effectively have different levels of coronal turbulence. For the Alfvénic waves in the simulation, we see that resonant modes are present when the coronal turbulence is in a weak regime. However, decreasing the nonlinear timescale leads to a faster development of turbulence. This can suppress the presence of standing modes when the nonlinear timescale is comparable to or shorter than the Alfvén travel time.
+]]></content:encoded>
+
+<pubDate>2025-03-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine Learning and Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb8e5</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb8e5</guid>
+<content:encoded><![CDATA[
+
+We introduce the DaRk mattEr and Astrophysics with Machine learning and Simulations (DREAMS) project, an innovative approach to understanding the astrophysical implications of alternative dark matter (DM) models and their effects on galaxy formation and evolution. The DREAMS project will ultimately comprise thousands of cosmological hydrodynamic simulations that simultaneously vary over DM physics, astrophysics, and cosmology in modeling a range of systems—from galaxy clusters to ultra-faint satellites. Such extensive simulation suites can provide adequate training sets for machine-learning-based analyses. This paper introduces two new cosmological hydrodynamical suites of warm dark matter (WDM), each comprising 1024 simulations generated using the arepo code. One suite consists of uniform-box simulations covering a volume, while the other consists of Milky Way zoom-ins with sufficient resolution to capture the properties of classical satellites. For each simulation, the WDM particle mass is varied along with the initial density field and several parameters controlling the strength of baryonic feedback within the IllustrisTNG model. We provide two examples, separately utilizing emulators and convolutional neural networks, to demonstrate how such simulation suites can be used to disentangle the effects of DM and baryonic physics on galactic properties. The DREAMS project can be extended further to include different DM models, galaxy formation physics, and astrophysical targets. In this way, it will provide an unparalleled opportunity to characterize uncertainties on predictions for small-scale observables, leading to robust predictions for testing the particle physics nature of DM on these scales.
+]]></content:encoded>
+
+<pubDate>2025-03-20T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Statistical Analysis of Comet Disconnection Events Using STEREO HI and a Data-assimilative Solar Wind Model</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb978</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb978</guid>
+<content:encoded><![CDATA[
+
+Comets tails can reveal information about the local solar wind conditions. They can exhibit various signatures of interactions with the solar wind including bending, developing kinks, and sometimes undergoing tail disconnections. In this study, we investigate comet tail disconnection events observed in the STEREO HI data during the period of 2007–2023. Using the Heliospheric Upwind eXtrapolation model with a time-dependency (HUXt) solar wind model alongside novel solar wind data assimilation (DA) techniques, each disconnection event was investigated to determine its cause. The resulting statistical analysis led to three main conclusions: (1) for every heliospheric current sheet (HCS) crossing predicted by HUXt that occurs when the comet is within the region of influence of DA, a tail disconnection follows; (2) for HCS crossings that occur outside the region where DA can be applied, 54.5% are followed by a tail disconnection; and (3) there is an approximately linear relationship between the speed of the solar wind at the HCS crossing and the time delay to the onset of a disconnection given by the equation Vrel (km s−1) = (2.23 ± 0.35)Δt (hr) + (400 ± 10)(km s−1).
+]]></content:encoded>
+
+<pubDate>2025-03-20T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Simulating a Stellar Binary Merger. II. Obtaining a Light Curve*</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada6b8</guid>
 <content:encoded><![CDATA[
-
 Luminous red novae are enigmatic transient events distinguished by a rapid rise in luminosity, a plateau in luminosity, and spectra, which become redder with time. The best-observed system before, during, and after the outburst is V1309 Sco. We model a candidate V1309 Sco progenitor binary configuration (1.52 + 0.16 M⊙) using the smoothed particle hydrodynamics (SPH) code StarSmasher with a modified energy equation that implements flux-limited emission-diffusion radiative transport in a Lagrangian case. We developed an imaging technique allowing us to capture the flux an observer would measure. In this novel method, the outgoing radiative flux of each SPH particle in the observer's direction is attenuated by other particles along the path to the observer. We investigated how the light curve is affected in various models: with and without dust formation; constant, Planck, or Rosseland mean opacities; different donor star sizes; different companion star masses and types; radiative heating included in our modified energy equation; and different SPH simulation resolutions. The resulting evolution in bolometric luminosity and spectrum peak temperature is in good agreement with V1309 Sco observations. Our simulations rule out V1309 Sco models that do not assume dust formation.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +63,8 @@ Luminous red novae are enigmatic transient events distinguished by a rapid rise 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb1b8</guid>
 <content:encoded><![CDATA[
-
 The improved sensitivity of interferometric facilities to the 21 cm line of atomic hydrogen (H i) enables studies of its properties in galaxies beyond the local Universe. In this work, we perform a 21 cm line spectral stacking analysis combining the MeerKAT International GigaHertz Tiered Extragalactic Exploration and COSMOS H i Large Extra-galactic Survey surveys in the COSMOS field to derive a robust H i–stellar mass relation at z ≈ 0.36. In particular, by stacking thousands of star-forming galaxies subdivided into stellar mass bins, we optimize the signal-to-noise ratio of targets and derive mean H i masses in the different stellar mass intervals for the investigated galaxy population. We combine spectra from the two surveys, estimate H i masses, and derive the scaling relation . Our findings indicate that galaxies at z ≈ 0.36 are H i richer than those at z ≈ 0 but H i poorer than those at z ≈ 1, with a slope consistent across redshift, suggesting that stellar mass does not significantly affect H i exchange mechanisms. We also observe a slower growth rate H i relative to the molecular gas, supporting the idea that the accretion of cold gas is slower than the rate of consumption of molecular gas to form stars. This study contributes to understanding the role of atomic gas in galaxy evolution and sets the stage for future development of the field in the upcoming Square Kilometre Array era.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +72,8 @@ The improved sensitivity of interferometric facilities to the 21 cm line of atom
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb30c</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb30c</guid>
 <content:encoded><![CDATA[
-
 While the sources of the diffuse astrophysical neutrino flux detected by the IceCube Neutrino Observatory are still largely unknown, one of the promising methods to improve our understanding of them is investigating the potential temporal and spatial correlations between neutrino alerts and the electromagnetic radiation from blazars. We report on the multiwavelength target-of-opportunity observations of the blazar B3 2247+381, taken in response to an IceCube multiplet alert for a cluster of muon neutrino events compatible with the source location between 2022 May 20 and 2022 November 10. B3 2247+381 was not detected with VERITAS during this time period. The source was found to be in a low-flux state in the optical, ultraviolet, and gamma-ray bands for the time interval corresponding to the neutrino event, but was detected in the hard X-ray band with NuSTAR during this period. We find the multiwavelength spectral energy distribution is described well using a simple one-zone leptonic synchrotron self-Compton radiation model. Moreover, assuming the neutrinos originate from hadronic processes within the jet, the neutrino flux would be accompanied by a photon flux from the cascade emission, and the integrated photon flux required in such a case would significantly exceed the total multiwavelength fluxes and the VERITAS upper limits presented here. The lack of flaring activity observed with VERITAS, combined with the low multiwavelength flux levels, as well as the significance of the neutrino excess being at a 3σ level (uncorrected for trials), makes B3 2247+381 an unlikely source of the IceCube multiplet. We conclude that the neutrino excess is likely a background fluctuation.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,10 +81,8 @@ While the sources of the diffuse astrophysical neutrino flux detected by the Ice
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb3a8</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb3a8</guid>
 <content:encoded><![CDATA[
-
 The Sun’s polar magnetic field is pivotal in understanding solar dynamo processes and forecasting future solar cycles. However, direct measurements of the polar field have only been available since the 1970s. The chromospheric Ca ii K polar network index (PNI; the fractional area of the chromospheric network regions above a certain latitude) has recently emerged as a reliable proxy for polar magnetic fields. In this study, we derive PNI estimates from newly calibrated, rotation-corrected Ca ii K observations from the Kodaikanal Solar Observatory (1904–2007) and modern data from the Rome Precision Solar Photometric Telescope (2000–2022). We use both of those Ca ii K archives to identify polar network regions with an automatic adaptive threshold segmentation technique and calculate the PNI. The PNI obtained from both the archives shows a significant correlation with the measured polar field from the Wilcox Solar Observatory (Pearson correlation coefficient r > 0.93) and the derived polar field based on an Advective Flux Transport Model (r > 0.91). The PNI series also shows a significant correlation with faculae counts derived from Mount Wilson Observatory observations (r > 0.87) for both Kodaikanal Solar Observatory and Rome Precision Solar Photometric Telescope data. Finally, we use the PNI series from both archives to reconstruct the polar magnetic field over a 119 yr long period, which includes the last 11 solar cycles (Cycles 14–24). We also obtain a relationship between the amplitude of solar cycles (in 13 month smoothed sunspot number) and the strength of the reconstructed polar field at the preceding solar cycle minimum to validate the prediction of the ongoing solar cycle, Cycle 25.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -53,10 +90,8 @@ The Sun’s polar magnetic field is pivotal in understanding solar dynamo proces
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb624</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb624</guid>
 <content:encoded><![CDATA[
-
 The One-hundred-deg2 DECam Imaging in Narrowbands (ODIN) survey is carrying out a systematic search for protoclusters during Cosmic Noon, using Lyα-emitting galaxies (LAEs) as tracers. Once completed, ODIN aims to identify hundreds of protoclusters at redshifts of 2.4, 3.1, and 4.5 across seven extragalactic fields, covering a total area of up to 91 deg2. In this work, we report the high clustering strength of the ODIN protoclusters, determined via measurements of their cross-correlation with LAEs. Our sample consists of 150 protocluster candidates at z = 2.4 and 3.1, identified in two ODIN fields with a total area of 13.9 deg2. At z = 2.4 and 3.1, the inferred protocluster biases are and , corresponding to mean halo masses of and , respectively. By the present day, these protoclusters are expected to evolve into virialized galaxy clusters with a mean mass of ∼1014.5M⊙. By comparing the observed number density of protoclusters to that of halos with the same measured clustering strength, we find that the completeness of our sample is of order unity. Finally, the similar descendant masses derived for our samples at z = 2.4 and 3.1, assuming that the halo number density remains constant, suggest that they represent similar structures observed at different cosmic epochs. As a consequence, any observed differences between the two samples can be understood as redshift evolution. The ODIN protocluster samples will thus provide valuable insights into the cosmic evolution of cluster galaxies.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -64,10 +99,8 @@ The One-hundred-deg2 DECam Imaging in Narrowbands (ODIN) survey is carrying out 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb630</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb630</guid>
 <content:encoded><![CDATA[
-
 Recent observations of the Galactic component of the high-energy neutrino flux, together with the detection of the diffuse Galactic gamma-ray emission up to sub-PeV energies, open new possibilities to study the acceleration and propagation of cosmic rays in the Milky Way. At the same time, both large nonastrophysical backgrounds at TeV energies and the scarcity of neutrino events in the sub-PeV band currently limit these analyses. Here, we use the sample of cascade events with estimated neutrino energies above 200 TeV, detected by the partially deployed Baikal Gigaton Volume Detector (GVD) in 6 yr of operation, to test the continuation of the Galactic neutrino spectrum to sub-PeV energies. We find that the distribution of the arrival directions of Baikal-GVD cascades above 200 TeV in the sky suggests an excess of neutrinos from low Galactic latitudes with the chance probability of 1.4 × 10−2. We also find the excess above 200 TeV in the most recent IceCube public data sets, both of cascades and tracks. The chance probability of the excess in the combined IceCube and Baikal-GVD analysis is 3.4 × 10−4. The flux of Galactic neutrinos above 200 TeV challenges often-used templates for neutrino search based on cosmic-ray simulations.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -75,10 +108,8 @@ Recent observations of the Galactic component of the high-energy neutrino flux, 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb750</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb750</guid>
 <content:encoded><![CDATA[
-
 Galactic outflows driven by rapidly accreting quasars at high redshift are widely expected to play a key role in the short- and long-term future evolution of their host galaxies. Using new and archival Atacama Large Millimeter/submillimeter Array data, we observed the OH 119 μm doublet lines in order to search for cold molecular outflows in a sample of 11 unobscured, IR-luminous quasars at z > 6. This represents the first survey for molecular winds in reionization-era quasars, and we detect unambiguous outflows in 8/11 (73%) of the quasars. The outflows we find are substantially faster, by ≈300 km s−1 on average, than outflows observed in a roughly coeval sample of nonquasar IR-luminous galaxies, suggesting that the active galactic nuclei (AGN) drive the winds to higher velocities. On the other hand, the implied molecular outflow rates are relatively modest given the high luminosities, suggesting typical mass-loading factors ~0.5 in the cold gas. The outflows are consistent with expectations for momentum-driven winds regardless of the driving source, but the kinetic energy in the outflows suggests that the AGN must be at least partially responsible for driving the winds. Accordingly, we find trends between the outflow properties and the Eddington ratio of the black hole accretion, though this may be linked to the underlying trend with AGN luminosity. We find that the kinetic power carried in the cold outflow phase is typically only ~0.1% of the total AGN luminosity. Our study provides evidence in favor of AGN feedback on the cold molecular gas in z > 6 quasar host galaxies, demonstrating that cold outflows are very common and powerful in the most extreme reionization-era quasars.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -86,10 +117,8 @@ Galactic outflows driven by rapidly accreting quasars at high redshift are widel
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb7e5</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb7e5</guid>
 <content:encoded><![CDATA[
-
 The Hubble tension has become one of the central problems in cosmology. In this work, we determine the Hubble constant H0 and sound horizon rd by using the combination of baryon acoustic oscillations (BAOs) from DESI surveys, time-delay lensed quasars from H0LiCOW collaborations, and the Pantheon supernova (SN) observations. We consider two cosmological approaches, i.e., Taylor series and Padé polynomials, to avoid cosmological dependence. The reason for using this combination of data is that the absolute distance provided by strong gravitational lensing helps anchor the relative distance of BAOs, and SNe provide a robust history of Universe evolution. Combining the six time-delay distance (6DΔt) plus four angular diameter distance to the deflector (4Dd) measurements of time-delay lensed quasars, the BAOs, and the Type Ia SN data sets, we obtain a model-independent result of Mpc and for the Taylor series cosmography and Mpc and for the Padé polynomial cosmography. The determination of rd and H0 prefers larger H0 and smaller rd than Planck data under the assumption of a flat Lambda cold dark matter model. However, the values of H0 are consistent with the H0 determination from the SH0ES collaboration.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -97,10 +126,8 @@ The Hubble tension has become one of the central problems in cosmology. In this 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb8d7</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb8d7</guid>
 <content:encoded><![CDATA[
-
 Despite the success of dark matter models, unresolved issues require exploring alternatives such as modified gravity theories. In this context, we examine the compatibility of the hyperconical modified gravity (HMG) with galaxy rotation curves inferred from weak-lensing data. The research addresses the existing limitations of modified Newtonian dynamics (MOND), which often struggle with universal applicability across different galactic scales. By assuming local validity of general relativity and analyzing recent data on circular velocities from galaxy–galaxy weak lensing, our findings interpret the flat rotation curves as an effect of fictitious acceleration inherited from the cosmic expansion, without invoking dark matter. The results indicate that HMG successfully reproduces flat velocity curves on scales of 1 Mpc slightly better than MOND. Therefore, these observations support HMG as a viable gravitational model, highlighting its potential to account for dynamics on galaxies and other scales. Further research with extensive data sets is required to confirm these preliminary insights.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -108,10 +135,8 @@ Despite the success of dark matter models, unresolved issues require exploring a
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb8dd</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb8dd</guid>
 <content:encoded><![CDATA[
-
 We use James Webb Space Telescope Mid-Infrared Instrument Medium-resolution Spectrometer observations of 3C 293 (UGC 8782), CGCG 012-070 and NGC 3884 to investigate the origin of the H2 emission. These three nearby active galactic nucleus (AGN) hosts are known to present H2 emission excess relative to star-forming galaxies, as traced by the H2 S(3)/PAH11.3 μm line ratio. We define the kinematically disturbed region (KDR) by the AGN and the virially dominated region based on the H2 line widths, using the W80 parameter. From the correlations between W80 and H2 S(3)/PAH11.3 μm, as well as the higher H2 S(5)/H2 S(3) and [Fe ii]5.34 μm/PAH11.3 μm ratios and flatter power-law temperature distributions observed in the KDR, we conclude that the H2 emission in the KDR is primarily driven by shock-heated gas. For 3C 293, the KDR is cospatial with the radio core, indicating that the origin of the shocks is the interaction of the radio jet with the interstellar medium, which is also responsible for the observed molecular and ionized gas outflows in this source. The other galaxies are weak radio sources; however, due to the lack of high-resolution radio images, we cannot rule out low-power jets as the origin of the shock-heated H2. Our results indicate that the excess H2 emission excess is associated with shock heating of the gas, generated by outflows or by the interaction of the radio jet with the ambient gas.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
 <item>
@@ -119,13 +144,10 @@ We use James Webb Space Telescope Mid-Infrared Instrument Medium-resolution Spec
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb973</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb973</guid>
 <content:encoded><![CDATA[
-
 The sensitivity of gravitational-wave (GW) detectors is characterized by their noise curves, which determine the detector’s reach and ability to measure the parameters of astrophysical sources accurately. The detector noise is typically modeled as stationary and Gaussian for many practical purposes and is characterized by its power spectral density (PSD). However, due to environmental and instrumental factors, physical changes in the state of detectors may introduce nonstationarity into the noise. Misestimation of the noise behavior directly impacts the posterior width of the signal parameters. It becomes an issue for studies that depend on accurate localization volumes, such as (i) probing cosmological parameters (e.g., the Hubble constant) using cross-correlation methods with galaxies and (ii) doing electromagnetic follow-up using localization information from parameter estimation done from premerger data. We study the effects of dynamical noise on the parameter estimation of the GW events. We develop a new method to correct dynamical noise by estimating a locally valid pseudo-PSD normalized along a potential signal’s time–frequency track. We do simulations by injecting binary neutron star merger signals in various scenarios where the detector goes through a period of nonstationarity with reference noise curves of third-generation detectors (Cosmic Explorer, the Einstein telescope). As an example, for a source where mismodeling of the noise biases the signal-to-noise estimate by even 10%, one would expect the estimated sky localization to be either under- or overreported by ∼20%; errors like this, especially in low latency, could potentially cause follow-up campaigns to miss the actual source location.
 ]]></content:encoded>
-
 <pubDate>2025-03-20T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Erratum: “Analytic H i-to-H2 Photodissociation Transition Profiles” (2016, ApJ, 822, 83)</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb95f</link>
@@ -9024,105 +9046,6 @@ We present photometric and spectroscopic observations of SN 2023fyq, a Type Ibn 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dd8</guid>
 <content:encoded><![CDATA[
 The nearby long gamma-ray burst (GRB) 190829A was observed using the Hubble Space Telescope/Wide Field Camera 3/infrared grisms about four weeks to 500 days after the burst. We find the spectral features of its associated supernova, SN 2019oyw, are redshifted by several thousand km s−1 compared to the redshift of the large spiral galaxy on which it is superposed. This velocity offset is seen in several features but most clearly in Ca ii near-infrared triplet λλ8498, 8542, 8662 (CaIR3). We also analyze Very Large Telescope/FOcal Reducer and low dispersion Spectrograph and X-shooter spectra of the supernova (SN) and find strong evolution with time of its P-Cygni features of CaIR3 from the blue to the red. However, comparison with a large sample of Type Ic-BL and Ic SNe shows no other object with the CaIR3 line as red as that of SN 2019oyw were it at the z = 0.0785 redshift of the disk galaxy. This implies that SN 2019oyw is either a highly unusual SN or is moving rapidly with respect to its apparent host. Indeed, using CaIR3 we find the redshift of SN 2019oyw is 0.0944 ≤ z ≤ 0.1156. The GRB-SN is superposed on a particularly dusty region of the massive spiral galaxy; therefore, while we see no sign of a small host galaxy behind the spiral, it could be obscured. Our work provides a surprising result on the origins of GRB 190829A, as well as insights into the time evolution of GRB-SNe spectra and a method for directly determining the redshift of a GRB-SN using the evolution of strong spectral features such as CaIR3.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Detection of the Temperature Dependence of the White Dwarf Mass–Radius Relation with Gravitational Redshifts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ddc</guid>
-<content:encoded><![CDATA[
-Models predict that the well-studied mass–radius relation of white dwarf stars depends on the temperature of the star, with hotter white dwarfs having larger masses at a given radius than cooler stars. In this paper, we use a catalog of 26,041 DA white dwarfs observed in Sloan Digital Sky Survey Data Releases 1–19. We measure the radial velocity, effective temperature, surface gravity, and radius for each object. By binning this catalog in radius or surface gravity, we average out the random motion component of the radial velocities for nearby white dwarfs to isolate the gravitational redshifts for these objects and use them to directly measure the mass–radius relation. For gravitational redshifts measured from binning in either radius or surface gravity, we find strong evidence for a temperature-dependent mass–radius relation, with warmer white dwarfs consistently having greater gravitational redshifts than cool objects at a fixed radius or surface gravity. For warm white dwarfs, we find that their mean radius is larger and mean surface gravity is smaller than those of cool white dwarfs at 5.2σ and 6.0σ significance, respectively. Selecting white dwarfs with similar radii or surface gravities, the significance of the difference in mean gravitational redshifts between the warm and cool samples is >6.1σ and >3.6σ for measurements binned in radius and surface gravity, respectively, in the direction predicted by theory. This is an improvement over previous implicit detections, and our technique can be expanded to precisely test the white dwarf mass–radius relation with future surveys.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Mapping the Inner 0.1 pc of a Supermassive Black Hole Environment with the Tidal Disruption Event and Extreme Coronal-line Emitter AT 2022upj</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a69</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8a69</guid>
-<content:encoded><![CDATA[
-Extreme coronal-line emitters (ECLEs) are objects showing transient high-ionization lines in the centers of galaxies. They have been attributed to echoes of high-energy flares of ionizing radiation, such as those produced by tidal disruption events (TDEs), but have only recently been observed within hundreds of days after an optical transient was detected. AT 2022upj is a nuclear UV–optical flare at z = 0.054, with spectra showing [Fe x] λ6375 and [Fe xiv] λ5303 during the optical peak, the earliest presence of extreme coronal lines during an ongoing transient. AT 2022upj is also the second ever ECLE (and the first with a concurrent flare) to show broad He iiλ4686 emission, a key signature of optical/UV TDEs. We also detect X-ray emission during the optical transient phase, which may be related to the source of ionizing photons for the extreme coronal lines. Finally, we analyze the spectroscopic evolution of each emission line and find that [Fe x] and [Fe xiv] weaken within 400 days of the optical peak, while [Fe vii] λ5720, [Fe vii] λ6087, and [O iii] λλ4959,5007 emerge over the same period. The velocities of the iron lines indicate circumnuclear gas within 0.1 pc of the central supermassive black hole (SMBH), while a dust echo inferred from NEOWISE data indicates that circumnuclear dust lies a minimum of 0.4 pc away, providing evidence of stratified material around an SMBH. AT 2022upj is thus the first confirmed ECLE–TDE with clear signatures of both classes and with spectroscopic evolution on a ∼year-long timescale. This event helps unveil the impacts of highly energetic flares such as TDEs on the complex environments around SMBHs.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Enhanced Peak and Extended Cooling of the Extreme-ultraviolet Late Phase in a Confined Solar Flare</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba3</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8ba3</guid>
-<content:encoded><![CDATA[
-We present observations and analysis of an X1.8 noneruptive solar flare on 2012 October 23, which is characterized by an extremely large late-phase peak seen in the warm coronal extreme-ultraviolet (EUV) emissions (∼3 MK), with the peak intensity over 1.4 times that of the main flare peak. The flare is driven by a failed eruption of a magnetic flux rope, whose strong squeeze force acting on the overlying magnetic structures gives rise to an intense early heating of the late-phase loops. Based on differential emission measure analysis, it is found that the late-phase loops experience a “longer-than-expected” cooling, without the presence of any obvious additional heating, while their volume emission measure maintains a plateau for a long time before turning into an evident decay. Without the need for an additional heating, we propose that the special thermodynamic evolution of the late-phase loops revealed in this flare might arise from loop cross-sectional expansions with height, which are evidenced by both direct measurements from EUV images and by magnetic field extrapolation. By blocking the losses of both heat flux and mass from the corona, such an upward cross-sectional expansion not only elongates the loop-cooling time, but also more effectively sustains the loop density, therefore leading to a later-than-expected occurrence of the warm coronal late phase in combination with a sufficiently high late-phase peak. We further verify such a scenario by analytically solving the cooling process of a late-phase loop characterized by a variable cross section.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A Precursor to Solar Prominence Eruptions: Detection and Analysis of EUV Prominence Oscillations</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e3c</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8e3c</guid>
-<content:encoded><![CDATA[
-The eruption of prominences can have a significant influence on the solar–terrestrial environment. However, accurately predicting these eruptions remains a challenge. We apply automated detection methods for extreme ultraviolet (EUV) prominences observed by the twin spacecraft from the Solar Terrestrial Relations Observatory (STEREO) mission and the Solar Dynamics Observatory near Earth. We study an event, during 2011 March, when each STEREO spacecraft is in quadrature with respect to the Earth. For two time ranges, we obtain longitudinal height profiles as a function of time. We also track the corresponding EUV filaments across the solar disk, which reveal the emergence of ultra-long-period oscillations in the EUV filament channels. Our analysis shows a correlation between the prominence’s increasing height and the oscillation periods, suggesting a potential link to the subsequent eruption observed by the STEREO spacecraft off-limb. These findings offer new insights into prominence dynamics and may pave the way for improved eruption prediction.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Milky Way’s Rowdy Neighbors: The Effects of the Large Magellanic Cloud and Sagittarius Dwarf on the Milky Way Disk</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad901b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad901b</guid>
-<content:encoded><![CDATA[
-The Milky Way (MW) is a barred spiral galaxy shaped by tidal interactions with its satellites. The Large Magellanic Cloud (LMC) and the Sagittarius dwarf galaxy (Sgr) are the dominant influences at the present day. This paper presents a suite of four 109 particle N-body simulations, illustrating the response of the stellar disk of the MW to the close approach of the LMC and the merger of Sgr into the MW. The suite is intended to provide a resource for others to study the complex interactions between the MW and its satellites independently and together, in comparison to an isolated disk control simulation. The high temporal and mass resolution allows for a quantitative Fourier decomposition of the stellar kinematics, disentangling the individual influence of each satellite on the MW. In our preliminary analysis, we find that the influences from the LMC and Sgr on the disk of the MW appear distinct, additive, and separable within our tailored simulations. Notably, the corrugations induced by Sgr reproduce the large radial velocity wave seen in the data. Overall, our findings emphasise the need to include both satellites when modeling the present-day state of the MW structure and kinematics.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Molecular Gas Mass Measurements of an Active, Starburst Galaxy at z ≈ 2.6 Using ALMA Observations of the [C i], CO, and Dust Emission</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9021</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9021</guid>
-<content:encoded><![CDATA[
-We present new Atacama Large Millimeter/submillimeter Array (ALMA) observations of a starburst galaxy at cosmic noon hosting a radio-loud active galactic nucleus: PKS 0529-549 at z = 2.57. To investigate the conditions of its cold interstellar medium, we use ALMA observations that spatially resolve the [C i] fine-structure lines, [C i] (2–1) and [C i] (1–0), CO rotational lines, CO (7–6) and CO (4–3), and the rest-frame continuum emission at 461 and 809 GHz. The four emission lines display different morphologies, suggesting spatial variation in the gas excitation conditions. The radio jets have just broken out of the molecular gas but not through the more extended ionized gas halo. The [C i] (2–1) emission is more extended (≈8 kpc × 5 kpc) than detected in previous shallower ALMA observations. The [C i] luminosity ratio implies an excitation temperature of 44 ± 16 K, similar to the dust temperature. Using the [C i] lines, CO (4–3), and 227 GHz dust continuum, we infer the mass of molecular gas Mmol using three independent approaches and typical assumptions in the literature. All approaches point to a massive molecular gas reservoir of about 1011M☉, but the exact values differ by up to a factor of 4. Deep observations are critical in correctly characterizing the distribution of cold gas in high-redshift galaxies, and highlight the need to improve systematic uncertainties in inferring accurate molecular gas masses.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>SAUNAS. II. Discovery of Cross-shaped X-Ray Emission and a Rotating Circumnuclear Disk in the Supermassive S0 Galaxy NGC 5084</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4b</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad7c4b</guid>
-<content:encoded><![CDATA[
-Combining Chandra, Atacama Large Millimeter/submillimeter Array, EVLA, and Hubble Space Telescope archival data and newly acquired data from the Apache Point Observatory/Dual Imaging Spectrograph, we detect a double-lobed 17 kpc X-ray emission with plumes oriented approximately perpendicular and parallel to the galactic plane of the massive lenticular galaxy NGC 5084 at 0.3–2.0 keV. We detect a highly inclined ( ), molecular circumnuclear disk ( pc) in the core of the galaxy rotating (V km s−1) in a direction perpendicular to that of the galactic disk, implying a total mass of for NGC 5084's supermassive black hole. Archival EVLA radio observations at 6 and 20 cm reveal two symmetric radio lobes aligned with the galactic plane, extending to a distance of from the core, oriented with the polar axis of the circumnuclear disk. The spectral energy distribution lacks strong emission lines in the optical range. Three formation scenarios are considered to explain these multiwavelength archival observations: (1) active galactic nuclei (AGN) reorientation caused by accretion of surrounding material, (2) AGN-driven hot gas outflow directed along the galactic minor axis, or (3) a starburst/supernovae driven outflow at the core of the galaxy. This discovery is enabled by new imaging analysis tools including the Selective Amplification of Ultra Noisy Astronomical Signal, demonstrating the abundance of information still to be exploited in the vast and growing astronomical archives.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>UNCOVER: A NIRSpec Census of Lensed Galaxies at z = 8.50–13.08 Probing a High-AGN Fraction and Ionized Bubbles in the Shadow</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9027</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9027</guid>
-<content:encoded><![CDATA[
-We present JWST NIRSpec prism spectroscopy of lensed galaxies at z ≳ 9 found behind the massive galaxy cluster Abell 2744 in the UNCOVER Cycle 1 Treasury Program. We confirm the redshift via emission lines and/or the Lyα break for 10 galaxies at z = 8.50–13.08 down to MV = −17.3. We achieve a 100% confirmation rate for z > 9 candidates reported in H. Atek et al. Using six sources with multiple line detections, we find that offsets in redshift estimates between the lines and the Lyα break alone can be ±0.2, raising caution in designing future follow-up spectroscopy for the break-only sources with the Atacama Large Millimeter/submillimeter Array. With spec-z-confirmed sources in UNCOVER and the literature, we derive lower limits on the rest-frame ultraviolet (UV) luminosity function (LF) at z ≃ 9–12 and find that these lower limits agree with recent photometric measurements. We identify at least two unambiguous and several possible active galactic nucleus (AGN) systems based on X-ray, broad Hβ, high ionization lines, and excess in the UV LF. This requires the AGN LFs at z ≃ 9–10 to be comparable or even higher than the X-ray AGN LF estimated at z ∼ 6 and suggests a plausible cause of the high abundance of z > 9 galaxies claimed in the recent photometric measurements is AGNs. One UV-luminous source is confirmed at the same redshift as a broad-line AGN at z = 8.50 with a physical separation of 380 kpc in the source plane. These two sources show emission blueward of Lyα, indicating a giant ionized bubble enclosing them with a radius of 7.69 ± 0.18 pMpc. Our results imply that AGNs have a nonnegligible contribution to cosmic reionization.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Cosmic Censorship in Sgr A* and M87*: Observationally Excluding Naked Singularities</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90aa</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90aa</guid>
-<content:encoded><![CDATA[
-The imaging of Sagittarius A* (Sgr A*) and the supermassive black hole at the center of Messier 87 (M87*) by the Event Horizon Telescope constrains the location and nature of emission from these objects. Coupled with flux limits from the near-infrared through the ultraviolet, the attendant size constraints provide strong evidence for the absence of an accretion-powered photosphere, and therefore for the existence of an event horizon about an astrophysical black hole. Here, we demonstrate that a broad class of naked singularities exhibit inner turning points for time-like geodesics, and therefore may generically be excluded, regardless of the nature and unknown physical impact of the singularity itself, subject to the single weak assumption that its nongravitational impact is localized to its immediate vicinity. While we restrict our attention to static, spherically symmetric spacetimes, we are nevertheless able to exclude or constrain a large number of commonly invoked naked singularity spacetimes in this way.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>On the Possible Mechanisms of the SEP Event and Electron Enhancement over the SEP Decay Phase on 2023 August 5</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90b1</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90b1</guid>
-<content:encoded><![CDATA[
-We carry out this study on the solar energetic particle (SEP) event that occurred on 2023 August 5 over the ascending phase of the current solar cycle 25. It is found that the SEP event might have been initiated by the M1.6 flare, while the SEP peak was caused by the coronal shock manifested in DH-type II radio burst over the propagation phase of a halo coronal mass ejection (CME; ∼1000 km s−1), thus creating a mixed SEP event. There were two enhancements of the electron fluxes lying over the SEP rise and decay phase. It is surprising that, despite a stronger flare (X1.6) and a faster halo CME (∼1647 km s−1), there was no SEP enhancement during the second enhancement of the electron fluxes. In order to investigate this, we make an additional effort to analyze the X1.6 flare based on the availability of the temporal, spectral, and spatial evolution of the electromagnetic radiation components. It is observed that the CME shock was aligned with the flare eruption direction and was close to the western limb (W77°), and thus the radially moving CME shock missed the Earth. In another development, it is observed that the electron impulsive phase lies over the type III radio bursts, indicating that the electrons might have escaped directly during the eruption. The radio flux and radio dynamic spectra of a higher frequency lie over the rise phase of the soft X-ray derivative, indicating that a large number of electrons travelled through magnetic fields.
-]]></content:encoded>
-<pubDate>2024-12-18T00:00:00Z</pubDate>
-</item>
-<item>
-<title>SCExAO/CHARIS Spectroscopic Characterization of Cloudy L/T Transition Companion Brown Dwarf HIP 93398 B</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90bc</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90bc</guid>
-<content:encoded><![CDATA[
-Brown dwarfs with measured dynamical masses and spectra from direct imaging are benchmarks that anchor substellar atmosphere cooling and evolution models. We present Subaru SCExAO/CHARIS infrared spectroscopy of HIP 93398 B, a brown dwarf companion recently discovered by Y. Li et al. (2023), as part of an informed survey using the Hipparcos–Gaia Catalog of Accelerations. This object was previously classified as a T6 dwarf based on its luminosity, with its independently derived age and dynamical mass in tension with existing models of brown dwarf evolution. Spectral typing via empirical standard spectra, temperatures derived by fitting substellar atmosphere models, and J − H, J − K and colors all suggest that this object has a substantially higher temperature and luminosity, consistent with classification as a late-L dwarf near the L/T transition (T = K) with moderate to thick clouds possibly present in its atmosphere. When compared with the latest generation of evolution models that account for clouds with our revised luminosity and temperature for the object, the tension between the model-independent mass/age and model predictions is resolved.
 ]]></content:encoded>
 <pubDate>2024-12-18T00:00:00Z</pubDate>
 </item>
