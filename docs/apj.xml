@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>An Agnostic Approach to Building Empirical Type Ia Supernova Light Curves: Evidence for Intrinsic Chromatic Flux Variation Using Nearby Supernova Factory Data</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f32</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9f32</guid>
 <content:encoded><![CDATA[
-
 We present a new empirical Type Ia supernova (SN Ia) model with three chromatic flux variation templates: one phase dependent and two phase independent. No underlying dust extinction model or patterns of intrinsic variability are assumed. Implemented with Stan and trained using spectrally binned Nearby Supernova Factory spectrophotometry, we examine this model's 2D, phase-independent flux variation space using two motivated basis representations. In both, the first phase-independent template captures variation that appears dust-like, while the second captures a combination of effectively intrinsic variability and second-order dust-like effects. We find that ≈13% of the modeled phase-independent flux variance is not dust-like. Previous empirical SN Ia models either assume an effective dust extinction recipe in their architecture, or only allow for a single mode of phase-independent variation. The presented results demonstrate such an approach may be insufficient, because it could “leak” noticeable intrinsic variation into phase-independent templates.
 ]]></content:encoded>
-
 <pubDate>2025-03-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +19,8 @@ We present a new empirical Type Ia supernova (SN Ia) model with three chromatic 
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb629</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb629</guid>
 <content:encoded><![CDATA[
-
 Particle acceleration from collisionless shocks is a key mechanism in the generation of cosmic rays. In particular, shocks in young supernova remnants (SNRs) are considered to be a major source of galactic cosmic rays. This study investigates the early-stage plasma instability evolution and subsequent electron and ion heating in the foot region of high-Mach-number perpendicular shocks in young SNRs, using 2D particle-in-cell simulations. Unlike previous simulations that cover larger regions of the shock structure—including the downstream, shock, and upstream regions—our simulations are local, limited to the shock transition region, and focus on practical parameters with a nonrelativistic shock velocity (v ≈ 0.02c) and the standard mass ratio between protons and electrons. We examined scenarios with and without the presence of return protons, and our results reveal that the Buneman instability, followed by the ion two-stream instability, dominates the early electron-heating process. We observed long-lasting ion heating in the case without return protons and note that the Weibel instability did not emerge within the simulation time frame. These findings enhance the understanding of plasma behavior in young SNR shocks and suggest that local simulations with practical parameters are crucial for exploring electron-heating mechanisms, while also highlighting the conditions under which the Weibel instability may or may not emerge.
 ]]></content:encoded>
-
 <pubDate>2025-03-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,10 +28,8 @@ Particle acceleration from collisionless shocks is a key mechanism in the genera
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb716</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb716</guid>
 <content:encoded><![CDATA[
-
 Although Cherenkov detectors of high-energy neutrinos in ice and water are often optimized to detect teraelectronvolt–petaelectronvolt neutrinos, they may also be sensitive to transient neutrino sources in the 1–100 GeV energy range. A wide variety of transient sources have been predicted to emit gigaelectronvolt neutrinos. In light of the upcoming IceCube Upgrade, which will extend the IceCube detector’s sensitivity down to a few gigaelectronvolts, as well as improve its angular resolution, we survey a variety of transient-source models and compare their predicted neutrino fluences to detector sensitivities, in particular those of IceCube-DeepCore and the IceCube Upgrade. We consider ranges of neutrino fluence from transients powered by nonrelativistic shocks, such as novae, supernovae, fast blue optical transients, and tidal disruption events. We also consider fast radio bursts and relativistic outflows of high- and low-luminosity gamma-ray bursts. Our study sheds light on the prospects of observing gigaelectronvolt transients with existing and upcoming neutrino facilities.
 ]]></content:encoded>
-
 <pubDate>2025-03-21T00:00:00Z</pubDate>
 </item>
 <item>
@@ -42,13 +37,10 @@ Although Cherenkov detectors of high-energy neutrinos in ice and water are often
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb72d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb72d</guid>
 <content:encoded><![CDATA[
-
 Cool, dusty interstellar material plays an important role in the chemical evolution of galaxies. We present an analysis of this material across galaxy type through a spatially resolved spectral stacking analysis of galaxies from the MaNGA survey. With stellar population synthesis, we isolate neutral gas signals from resonance lines, comparing outcomes across model types, galactic geometry, and host stellar mass and age. We find that both synthetic and empirical models fail to capture the range of galactic chemical abundances. There is also notable Na i contamination from the Galaxy’s interstellar medium (ISM) in the MILES empirical stellar library. We are unable to reliably determine the column density of the gas due to the accuracy of absorption measurements, but differential analysis across radius and inclination reveals consistent and significant path-length dependent absorption in the equivalent width of Na i. We note similar but lesser trends in a narrow Ca ii index. We find no trends in Ca i or in a broad Ca ii index, indicating its ISM insensitivity and providing evidence in favor of its utility in determining the age and chemical content of stellar populations. Our data shows there is a cool ISM component in most external galaxies with Dn(4000) < 1.7 that can be traced by Na i. Lastly, we caution that the characterization of gas kinematics traced by Na i in such low-resolution spectra is subject to systematic effects due to the chosen approach to stellar population modeling.
 ]]></content:encoded>
-
 <pubDate>2025-03-21T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Carving Out the Inner Edge of the Period Ratio Distribution through Giant Impacts</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adae8a</link>
@@ -9012,42 +9004,6 @@ Charge exchange is a predominant process in inelastic collisions in astronomical
 Radio halos of edge-on galaxies are crucial for investigating cosmic ray propagation and magnetic field structures in galactic environments. We present VLA C-configuration S-band (2–4 GHz) observations of the spiral galaxy NGC 3556, a target from the Continuum Halos in Nearby Galaxies—an EVLA Survey. We estimate the thermal contribution to the radio emission from a combination of the Hα and mid-IR data, and employ rotation measure synthesis to reveal the magnetic field structures. In our data, NGC 3556 exhibits a box-like radio halo extending nearly 7 kpc from the galactic plane. The scale height of the total S-band intensity in the halo is 1.68 ± 0.29 kpc, while that of the nonthermal intensity is 1.93 ± 0.28 kpc. Fitting the data to a 1D cosmic-ray transport model, we find advection to describe the cosmic-ray propagation within the halo better than diffusion, with advection speeds of 245 ± 15 km s−1 and 205 ± 25 km s−1 above and below the disk, respectively. The magnetic field is detected patchily across the galaxy, displaying a toroidal configuration in the rotation measure map. The mean equipartition magnetic field strength is approximately 8.3 μG in the disk and 4.5 μG in the halo. In addition, a bubble-like structure extends nearly 3 kpc into the southern halo, aligned with the polarized intensity and Hα image, suggestive of superwinds generated by recent star formation feedback in the nuclear region.
 ]]></content:encoded>
 <pubDate>2024-12-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Irradiated Atmospheres. I. Heating by Vertical-mixing-induced Energy Transport</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9473</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9473</guid>
-<content:encoded><![CDATA[
-Observations have revealed unique temperature profiles in hot Jupiter atmospheres. We propose that the energy transport by vertical mixing could lead to such thermal features. In our new scenario, strong absorbers, TiO, and VO are not necessary. Vertical mixing could be naturally excited by atmospheric circulation or internal gravity wave breaking. We perform radiative transfer calculations by taking into account the vertical-mixing-driven energy transport. The radiative equilibrium is replaced by the radiative-mixing equilibrium. We investigate how the mixing strength, Kzz, affects the atmospheric temperature–pressure profile. Strong mixing can heat the lower atmosphere and cool the upper atmosphere. This effect has important effects on the atmosphere's thermal features that would form without mixing. In certain circumstances, it can induce temperature inversions in scenarios where the temperature monotonically increases with increasing pressure under conditions of lower thermal band opacity. Temperature inversions show up as Kzz increases with altitude due to shear interaction with the convection layer. The atmospheric thermal structure of HD 209458b can be well fitted with Kzz ∝ (P/1 bar)−1/2 cm2 s−1. Our findings suggest vertical mixing promotes temperature inversions and lowers Kzz estimates compared to prior studies. Incorporating chemical species into vertical mixing will significantly affect the thermal profile due to their temperature sensitivity.
-]]></content:encoded>
-<pubDate>2024-12-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Impact of Void-finding Algorithms on Galaxy Classification</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9585</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9585</guid>
-<content:encoded><![CDATA[
-We explore how the definition of a void influences the conclusions drawn about the impact of the void environment on galactic properties using two void-finding algorithms in the Void Analysis Software Toolkit: Voronoi Voids (V2), a Python implementation of ZOnes Bordering On Voidness (ZOBOV); and VoidFinder, an algorithm that grows and merges spherical void regions. Using the Sloan Digital Sky Survey Data Release 7, we find that galaxies found in VoidFinder voids tend to be bluer and fainter and to have higher (specific) star formation rates than galaxies in denser regions. Conversely, galaxies found in V2 voids show less significant differences when compared to galaxies in denser regions, less consistent with the large-scale environmental effects on galaxy properties expected from both simulations and previous observations. These results align with previous simulation results that show V2-identified voids “leak” into the dense walls between voids because their boundaries extend up to the density maxima in the walls. As a result, when using ZOBOV-based void-finders, galaxies likely to be part of wall regions are instead classified as void galaxies, a misclassification that can be critical to our understanding of galaxy evolution.
-]]></content:encoded>
-<pubDate>2024-12-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>A High-resolution Simulation of Protoplanetary Disk Turbulence Driven by the Vertical Shear Instability</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a5</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad90a5</guid>
-<content:encoded><![CDATA[
-A high-resolution fourth-order Padé scheme is used to simulate locally isothermal 3D disk turbulence driven by the vertical shear instability (VSI) using 268.4 M points. In the early nonlinear period of axisymmetric VSI, angular momentum transport by vertical jets creates correlated N-shaped radial profiles of perturbation vertical and azimuthal velocity. This implies dominance of positive perturbation vertical vorticity layers and a recently discovered angular momentum staircase with respect to radius (r). These features are present in 3D in a weaker form. The 3D flow consists of vertically and azimuthally coherent turbulent shear layers containing small vortices with all three vorticity components active. Previously observed large persistent vortices in the interior of the domain driven by the Rossby wave instability are absent. We speculate that this is due to a weaker angular momentum staircase in 3D in the present simulations compared to a previous simulation. The turbulent viscosity parameter α(r) increases linearly with r. At intermediate resolution, the value of α(r) at midradius is close to that of a previous simulation. The specific kinetic energy spectrum with respect to radial wavenumber has a power-law region with exponent −1.84, close to the value −2 expected for shear layers. The spectrum with respect to azimuthal wavenumber has a −5/3 region and lacks a −5 region reported in an earlier study. Finally, it is found that axisymmetric VSI has artifacts at late times, including a very strong angular momentum staircase, which in 3D is present weakly in the disk’s upper layers.
-]]></content:encoded>
-<pubDate>2024-12-19T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Evolutionary Dynamics of Counterhelical Magnetic Flux Ropes</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad93d9</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad93d9</guid>
-<content:encoded><![CDATA[
-Upon interaction, a pair of magnetic flux ropes can merge to form a new pair, each consisting of opposite helicity along their axis. Magnetic helicity along such new structures may annihilate and release the energy of the azimuthal magnetic field. In this study, we model the deformation dynamics of such structures within the solar wind at 1 au. The perturbation front of deformation propagates along the rope axis at approximately the Alfvén speed. However, the process of annihilating 90% of the azimuthal components is much slower and is affected by the screw pitch of the magnetic field. Such a deformation process causes the plasma in the transition region between the two opposite chiralities to spin about the rope axis. The resulting plasma heating is discussed accordingly. Our results provide insights for estimating the lifetimes of such flux ropes, facilitating observational efforts to identify them. This process may also apply to the behavior of magnetic flux ropes in other space and astronomical plasma environments.
-]]></content:encoded>
-<pubDate>2024-12-19T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
