@@ -5,14 +5,24 @@
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
 <item>
+<title>No Glitch in the Matrix: Robust Reconstruction of Gravitational Wave Signals under Noise Artifacts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbb66</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbb66</guid>
+<content:encoded><![CDATA[
+
+Gravitational wave (GW) observations by ground-based detectors such as LIGO and Virgo have transformed astrophysics, enabling the study of compact binary systems and their mergers. However, transient noise artifacts, or “glitches,” pose a significant challenge, often obscuring or mimicking signals and complicating their analysis. In this work, we extend the Attention-boosted Waveform Reconstruction network (AWaRe) to address glitch mitigation, demonstrating its robustness in reconstructing waveforms in the presence of real glitches from LIGO’s third observing run. Without requiring explicit training on glitches, AWaRe accurately isolates GW signals from data contaminated by glitches spanning a wide range of amplitudes and morphologies. We evaluate this capability by investigating the events GW191109 and GW200129, which exhibit strong evidence of antialigned spins and spin precession, respectively, but may be adversely affected by data quality issues. We find that, regardless of the potential presence of glitches in the data, AWaRe reconstructs both waveforms with high accuracy. Additionally, we perform a systematic study of AWaRe’s performance on a simulated catalog of injected waveforms in real LIGO glitches and obtain reliable reconstructions of the waveforms. By subtracting the AWaRe reconstructions from the data, we show that the resulting residuals closely align with the background noise that the waveforms were injected in. The robustness of AWaRe in mitigating glitches, despite being trained exclusively on GW signals and not explicitly on glitches, highlights its potential as a powerful tool for improving the reliability of searches and characterizing noise artifacts.
+]]></content:encoded>
+
+<pubDate>2025-03-21T00:00:00Z</pubDate>
+</item>
+
+<item>
 <title>Simulation-based Prediction of Black Hole X-Ray Spectra and Spectral Variability</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb61f</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb61f</guid>
 <content:encoded><![CDATA[
-
 Data derived from general relativistic magnetohydrodynamic simulations of accretion onto black holes can be used as input to a postprocessing scheme that predicts the radiated spectrum. Combining a relativistic Compton scattering radiation transfer solution in the corona with detailed local atmosphere solutions incorporating local ionization and thermal balance within the disk photosphere, it is possible to study both spectral formation and intrinsic spectral variability in the radiation from relativistic accretion disks. With this method, we find that radiatively efficient systems with black holes of 10M⊙ accreting at ≈0.01 in Eddington units produce spectra very similar to those observed in the hard states of X-ray binaries. The spectral shape above 10 keV is well described by a power law with an exponential cutoff. Intrinsic turbulent variations lead to order-unity changes in bolometric luminosity, variations in the logarithmic spectral slope ∼0.1, and factor of 2 alterations in the cutoff energy on timescales ∼50 (MBH/10M⊙) ms. Within the corona, the range of gas temperature spans more than 1 order of magnitude. The wide distribution of temperatures is central to defining the spectrum: the logarithmic spectral slope is harder by ∼0.3 and the cutoff energy larger by a factor ∼10–30 than if the coronal temperature everywhere were its mass-weighted mean.
 ]]></content:encoded>
-
 <pubDate>2025-03-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,10 +30,8 @@ Data derived from general relativistic magnetohydrodynamic simulations of accret
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb8dc</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb8dc</guid>
 <content:encoded><![CDATA[
-
 Ram pressure stripping is a well-known environmental quenching mechanism that removes gas from galaxies infalling into groups and clusters. In some extreme examples of ram pressure stripping, galaxies with extended gas tails show evidence of enhanced star formation prior to quenching. In this work we use a sample of 5277 local satellite galaxies in which a stripped tail of gas has not necessarily been observed, to quantify the strength of ram-pressure-enhanced star formation and compare these results to a control sample of 8360 field galaxies. We use u-band imaging from the Ultraviolet Near Infrared Optical Northern Survey (UNIONS) as a star formation tracer and several metrics to quantify star formation asymmetry. We compare these results to environmental properties of the galaxy, such as their time since infall and host halo mass, to constrain the degree of ram-pressure-enhanced star formation as a function of environment. We find no significant differences between the satellite and the field samples. We further restrict our sample to galaxies which we most expect to be experiencing significant ram pressure but find no strong evidence of these galaxies having systematically enhanced star formation. Finally, we investigate the properties of the most asymmetric galaxies in our sample and again find no strong evidence of ram-pressure-induced star formation enhancement. We conclude that any star formation enhancement must be small for infalling galaxies, suggesting that this effect is either uncommon or short-lived.
 ]]></content:encoded>
-
 <pubDate>2025-03-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -31,13 +39,10 @@ Ram pressure stripping is a well-known environmental quenching mechanism that re
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb62d</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb62d</guid>
 <content:encoded><![CDATA[
-
 We present the analysis of NOEMA interferometric observations of the high-mass star-forming region W75N(B) with a focus on molecular composition and distribution of prebiotic molecules in the source’s multiple cores. Over 20 molecules are identified across the region, with many being fit for column density, rotational temperature, spectral line FWHM, and vlsr. This work includes the first known detection and initial analysis of complex organic molecules in the MM2 and MM3 regions. Furthermore, parameter maps were created from the six molecules that were well fit across multiple regions. The molecular emission was imaged and correlated across different molecules and the continuum to reveal structural features. From the spatial and spectral analysis of the MM1 region, these results concur with those from other studies showing that there is a difference in chemical composition between the MM1a and MM1b regions, with sulfur-bearing molecules tracing MM1a and organic molecules tracing MM1b. The molecular emission imaged toward the MM3 region reveals two peaks, possibly indicating the presence of multiple young stellar objects. These results provide detailed quantitative information about the physical parameters and distributions of molecules in this source. Additionally, these results are part of a follow-up of a single-dish survey of multiple star-forming regions and are discussed in this context.
 ]]></content:encoded>
-
 <pubDate>2025-03-21T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Argon in β Pictoris–Entrapment and Release of Volatile in Disks</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada287</link>
@@ -9008,33 +9013,6 @@ We examine the quiescent fractions of massive galaxies in six z ≳ 3 spectrosco
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8dca</guid>
 <content:encoded><![CDATA[
 In this study, we test whether the power law slopes (αF) for fluxes (F), and (αE) for energies (E) are universal in their size distributions, and , in astrophysical observations of galactic, extragalactic, and black hole systems. This is a test of fundamental importance for self-organized criticality (SOC) systems. The test decides whether (i) power laws are a natural consequence of the scale-freeness and inherent universality of SOC systems, or (ii) if they depend on more complex physical scaling laws. The former criterion allows quantitative predictions of the power-law-like size distributions, while the latter criterion requires individual physical modeling for each SOC variable and data set. Our statistical test, carried out with 61 published data sets, is consistent with the former option, which implies that observed power laws can simply be derived from the scale-freeness and do not require specific physical models to understand their statistical distributions. The observations show a mean and standard deviation of αF = 1.78 ± 0.29 for SOC fluxes and αE = 1.66 ± 0.22 for SOC fluences, and thus are consistent with the prediction of the fractal-diffusive SOC model, with αF = 1.80 and αE = 1.67.
-]]></content:encoded>
-<pubDate>2024-12-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>The Redshift-space Momentum Power Spectrum. III. Measuring the Growth Rate from the SDSSv Survey Using the Auto- and Cross-power Spectrum of the Galaxy Density and Momentum Fields</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9391</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9391</guid>
-<content:encoded><![CDATA[
-The large-scale structure of the Universe and its evolution over time contains an abundance of cosmological information. One way to unlock this is by measuring the density and momentum power spectrum from the positions and peculiar velocities of galaxies and fitting the cosmological parameters from these power spectra. In this paper, we will explore the cross-power spectrum between the density and momentum fields of galaxies. We derive the estimator of the density–momentum cross-power spectrum multipoles. The growth rate of the large-scale structure, fσ8, is measured from fitting the combined density monopole, momentum monopole, and cross-dipole power spectrum. The estimators and models of the power spectrum as well as our fitting method have been tested using mock catalogs; we find that they perform well in recovering the fiducial values of the cosmological parameters of the simulations, and we also find that the errors of the parameters can be largely reduced by including the cross-power spectrum in the fit. We measure the autodensity, automomentum, and cross-power spectrum using the Sloan Digital Sky Survey Data Release 14 peculiar velocity catalog. The fit result of the growth rate fσ8 is at effective redshift zeff = 0.073, and our measurement is consistent with the prediction of the Lambda cold dark matter cosmological model, assuming general relativity.
-]]></content:encoded>
-<pubDate>2024-12-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Multiwavelength Study of Five Distant Transient Gamma-Ray AGNs with z > 1</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad968d</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad968d</guid>
-<content:encoded><![CDATA[
-The multiwavelength emissions, especially gamma-rays, of active galactic nuclei (AGNs) are essential for studying the physical properties of jets emanating from supermassive black holes at galaxy centers. However, for high-redshift AGNs, it is challenging to identify their gamma-ray emissions due to limited angular resolution of gamma-ray instruments. In this work, using the infrared light curves of the Wide-field Infrared Survey Explorer (WISE) and spectral measurements through Sloan Digital Sky Survey DR16 quasar observations, we assemble 64 mid-infrared flares with redshift z > 1 as the sample. Based on the Fermi-Large Area Telescope survey data, we search for gamma-ray emission from the 64 WISE sources. New quasi-simultaneous gamma-ray emissions are detected for five sample sources when their infrared emissions are at a flare state, and the infrared positions fall into the error bars of their best-fit gamma-ray positions, as well. We collect the optical data and historical data to perform a spectral energy distribution (SED) analysis. To investigate the multiband characteristics of these five gamma-ray AGNs at flare and quiescent states, a one-zone leptonic model is applied to reproduce their averaged SEDs.
-]]></content:encoded>
-<pubDate>2024-12-20T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Combined Fit of Spectrum and Composition for FR0 Radio-galaxy-emitted Ultra–high energy Cosmic Rays with Resulting Secondary Photons and Neutrinos</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd7</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8cd7</guid>
-<content:encoded><![CDATA[
-This study comprehensively investigates the gamma-ray dim population of Fanaroff–Riley Type 0 (FR0) radio galaxies as potentially significant sources of ultra–high energy cosmic rays (UHECRs, E > 1018 eV) detected on Earth. While individual FR0 luminosities are relatively low compared to the more powerful Fanaroff–Riley Type 1 and Type 2 galaxies, FR0s are substantially more prevalent in the local universe, outnumbering the more energetic galaxies by a factor of ∼5 within a redshift of z ≤ 0.05. Employing CRPropa3 simulations, we estimate the mass composition and energy spectra of UHECRs originating from FR0 galaxies for energies above 1018.6 eV. This estimation fits data from the Pierre Auger Observatory (Auger) using three extensive air shower models; both constant and energy-dependent observed elemental fractions are considered. The simulation integrates an approximately isotropic distribution of FR0 galaxies, extrapolated from observed characteristics, with UHECR propagation in the intergalactic medium, incorporating various plausible configurations of extragalactic magnetic fields, both random and structured. We then compare the resulting emission spectral indices, rigidity cutoffs, and elemental fractions with recent Auger results. In total, 25 combined energy-spectrum and mass-composition fits are considered. Beyond the cosmic-ray fluxes emitted by FR0 galaxies, this study predicts the secondary photon and neutrino fluxes from UHECR interactions with intergalactic cosmic photon backgrounds. The multimessenger approach, encompassing observational data and theoretical models, helps elucidate the contribution of low-luminosity FR0 radio galaxies to the total cosmic-ray energy density.
 ]]></content:encoded>
 <pubDate>2024-12-20T00:00:00Z</pubDate>
 </item>
