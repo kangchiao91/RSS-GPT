@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Magnetic Thomson Transport in High-opacity Domains</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb848</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb848</guid>
 <content:encoded><![CDATA[
-
 X-ray radiation from neutron stars manifests itself in a variety of settings. Isolated pulsars and magnetars both exhibit quasi-thermal persistent soft X-ray emission from their surfaces. Transient magnetospheric bursts from magnetars and pulsed signals from accreting neutron stars mostly appear in harder X-rays. The emission zones pertinent to these signals are all highly Thomson optically thick, so that their radiation anisotropy and polarization can be modeled using sophisticated simulations of scattering transport from extended emission regions. Validation of such codes and their efficient construction is enhanced by a deep understanding of scattering transport in high-opacity domains. This paper presents a new analysis of the polarized magnetic Thomson radiative transfer in the asymptotic limit of high opacity. The integrodifferential equations for photon scattering transport that result from a phase matrix construction are reduced to a compact pair of equations. This pair is then solved numerically for two key parameters that describe the photon anisotropy and polarization configuration of high Thomson opacity environs. Empirical approximations for these parameters as functions of the ratio of the photon and cyclotron frequencies are presented. Implementation of these semi-analytic transport solutions as interior boundary conditions is shown to speed up scattering simulations. The solutions also enable the specification of the anisotropic radiation pressure. The analysis is directly applicable to the atmospheres of magnetars and moderate-field pulsars, and to the accretion columns of magnetized X-ray binaries, and can be adapted to address other neutron star settings.
 ]]></content:encoded>
-
 <pubDate>2025-03-24T00:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ X-ray radiation from neutron stars manifests itself in a variety of settings. Is
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb9ea</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb9ea</guid>
 <content:encoded><![CDATA[
-
 Thermal X-ray emission from rotation-powered millisecond pulsars, shaped by gravitational lensing and the beaming of the surface radiation, provides critical insights into neutron star properties. This approach has been the focus of observations with the Neutron Star Interior Composition Explorer (NICER) mission. Using a semianalytic model to calculate pulse profiles, we investigate the effects of adopting incorrect beaming models on the inferred compactness of neutron stars. We demonstrate that assuming a more centrally peaked beaming pattern when fitting data from a more isotropic emitter leads to an underestimation of compactness in the case of two antipodal polar caps. We present a detailed analysis of this counterintuitive result, offering both qualitative insights and quantitative estimates. If the atmospheric heating in the millisecond pulsars observed with NICER is shallow, the inferred radii for these sources could be significantly overestimated, with important implications for neutron star structure and equation-of-state constraints.
 ]]></content:encoded>
-
 <pubDate>2025-03-24T00:00:00Z</pubDate>
 </item>
-
 <item>
 <title>No Glitch in the Matrix: Robust Reconstruction of Gravitational Wave Signals under Noise Artifacts</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adbb66</link>
@@ -9008,24 +9004,6 @@ In recent years, the Mg ii h and k lines have become increasingly important for 
 In this work, we explore the cosmological stability of f(Q, B) gravity using a dynamical system approach, where Q denotes the nonmetricity scalar and B represents the boundary term. We determine the model parameters of f(Q, B) through Bayesian statistical analysis, employing Markov Chain Monte Carlo techniques. This analysis incorporates numerical solutions and observational data from cosmic chronometers, the extended Pantheon+ data set, and baryonic acoustic oscillation measurements. Our findings reveal a stable critical point within the dynamical system of the model, corresponding to the de Sitter phase, which is consistent with current observations of the Universe dominated by dark energy and undergoing late-time accelerated expansion. Additionally, we utilize center manifold theory to examine the stability of this critical point, providing deeper insights into the behavior of the model. The cosmological implications of f(Q, B) gravity indicate a smooth transition in the deceleration parameters from deceleration to the acceleration phase, underscoring the potential of the model to describe the evolution of the Universe. Our results suggests that the f(Q, B) model presents a viable alternative to the standard ΛCDM model, effectively capturing the observed acceleration of the Universe and offering a robust framework for explaining the dynamics of cosmic expansion.
 ]]></content:encoded>
 <pubDate>2024-12-23T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Depolarization by Jet Precession in Early Optical Afterglows of Gamma-Ray Bursts</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad96b0</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad96b0</guid>
-<content:encoded><![CDATA[
-Polarization observations provide a unique way to probe the nature of jet magnetic fields in gamma-ray bursts (GRBs). Recently, some GRBs have been detected to be polarized in their early optical afterglows. However, the measured polarization degrees (PDs) of these GRBs are much lower than those predicted by theoretical models. In this work, we investigate the depolarization induced by jet precession in combination with the measured PDs of the GRB early optical afterglows in the reverse shock (RS) dominated phase (∼102–103 s). We calculate the PDs of RS emissions with and without jet precession in both magnetic field configurations, i.e., aligned and toroidal magnetic fields, and meanwhile explore the effects of different parameters on the PDs. We find that the PDs are slightly affected by the configurations of the ordered magnetic fields and are positively related to the precession period. Moreover, the PDs are sensitive to the observed angle, and the measured low PDs favor a small one. Thus, as one of the plausible origins of the structured jets, jet precession could be considered as an alternative mechanism for the low PDs observed in GRB early optical afterglows.
-]]></content:encoded>
-<pubDate>2024-12-23T00:00:00Z</pubDate>
-</item>
-<item>
-<title>MAGAZ3NE: Evidence for Galactic Conformity in z ≳ 3 Protoclusters*</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f36</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f36</guid>
-<content:encoded><![CDATA[
-We examine the quiescent fractions of massive galaxies in six z ≳ 3 spectroscopically confirmed protoclusters in the COSMOS field, one of which is newly confirmed and presented here. We report the spectroscopic confirmation of MAGAZ3NE J100143+023021 at by the Massive Ancient Galaxies At z > 3 NEar-infrared (MAGAZ3NE) survey. MAGAZ3NE J100143+023021 contains a total of 79 protocluster members (28 spectroscopic and 51 photometric). Three spectroscopically confirmed members are star-forming ultramassive galaxies (UMGs; > 11), the most massive of which has . Combining Keck/MOSFIRE spectroscopy and the COSMOS2020 photometric catalog, we use a weighted Gaussian kernel density estimator to map the protocluster and measure its total mass in the dense “core” region. For each of the six COSMOS protoclusters, we compare the quiescent fraction to the status of the central UMG as star-forming or quiescent. We observe that galaxies in these protoclusters appear to obey galactic conformity: Elevated quiescent fractions are found in protoclusters with UVJ-quiescent UMGs and low quiescent fractions are found in protoclusters containing UVJ star-frming UMGs. This correlation of star formation/quiescence in UMGs and the massive galaxies nearby in these protoclusters is the first evidence for the existence of galactic conformity at z > 3. Despite disagreements over mechanisms behind conformity at low redshifts, its presence at these early cosmic times would provide strong constraints on the physics proposed to drive galactic conformity.
-]]></content:encoded>
-<pubDate>2024-12-20T00:00:00Z</pubDate>
 </item>
 </channel>
 </rss>
