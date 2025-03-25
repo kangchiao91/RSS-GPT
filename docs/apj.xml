@@ -4,6 +4,83 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Polarization Estimation for Radio Pulsars</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb7e1</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb7e1</guid>
+<content:encoded><![CDATA[
+
+A number of polarization estimators have been developed for a variety of astrophysical applications to compensate measurements of linear polarization for a bias contributed by the instrumental noise. Most derivations of the estimators assume that the amplitude and orientation of the polarization vector are constant. This assumption generally is not valid for the radio emission from pulsars that fluctuates from pulse to pulse. The radio emission from pulsars, fast radio bursts, and magnetars can be elliptically polarized, and estimators of the total polarization and absolute value of the circular polarization are used in their observations. However, these estimators have not been formally developed to a level that is commensurate with those of linear polarization. Estimators are derived for circular, linear, and total polarization when the amplitude of the polarization vector is a constant or a random variable. Hybrid estimators are proposed for general application to pulsar polarization observations. They are shown to be more effective at removing instrumental noise than their commonly used counterparts.
+]]></content:encoded>
+
+<pubDate>2025-03-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Observations and Radiative Transfer Simulations of the Carbon-rich AGB Star V Oph with VLTI/MATISSE*</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb7e2</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb7e2</guid>
+<content:encoded><![CDATA[
+
+Carbon-rich asymptotic giant branch (AGB) stars are among the most important contributors of enriched materials to the interstellar medium due to their strong stellar winds. To fully characterize mass loss on the AGB, it is necessary to determine the distributions of dust and gas around the stars, where the dust begins to condense from the gas, and how this extended atmospheric structure evolves over the pulsational period of the star. We present an analysis of L-band (2.8–4.2 μm) interferometric observations of the carbon-rich AGB star V Oph made with the MATISSE instrument at the Very Large Telescope Interferometer at the maximum and minimum of the star’s visual light curve. Using the radiative transfer software RADMC-3D, we model the circumstellar dust shell, and find stellar radii of 395 and 495R⊙ at the two phases, and dust radii of 790 and 742.5R⊙ at the two epochs, respectively. By adding C2H2 and HCN gas to the RADMC-3D models, we are able to fit the visibility spectra well, with some deviations at the 3.11 μm feature. Reasons for this deviation and interpretation of the best fitting models are discussed in the text, and we discuss motivations for follow-up imaging observations of V Oph.
+]]></content:encoded>
+
+<pubDate>2025-03-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>BASS. XLV. Quantifying Active Galactic Nuclei Selection Effects in the Chandra COSMOS-legacy Survey with BASS</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb8c9</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb8c9</guid>
+<content:encoded><![CDATA[
+
+Deep extragalactic X-ray surveys, such as the Chandra COSMOS-Legacy field (CCLS), are prone to be biased against active galactic nuclei (AGN) with high column densities due to their lower count rates at a given luminosity. To quantify this selection effect, we forward model nearby (z ∼ 0.05) AGN from the BAT AGN Spectroscopic Survey (BASS) with well-characterized (≳1000 cts) broadband X-ray spectra (0.5–195 keV) to simulate the CCLS absorption distribution. We utilize the BASS low-redshift analogs with similar luminosities to the CCLS ( ∼ 1042−45 erg s), which are much less affected by obscuration and low-count statistics, as the seed for our simulations and follow the spectral fitting of the CCLS. Our simulations reveal that Chandra would fail to detect the majority (53.3%; 563/1056) of obscured (NH ≥ 1022 cm−2) simulated BASS AGN given the observed redshift and luminosity distribution of the CCLS. Even for detected sources with sufficient counts (≥30) for spectral modeling, the level of obscuration is significantly overestimated. This bias is most extreme for objects whose best fit indicates a high-column density AGN (NH ≥ 1024 cm−2), since the majority (66.7%; 18/27) of these are actually unobscured sources (NH < 1022 cm−2). This implies that previous studies may have significantly overestimated the increase in the obscured fraction with redshift and the fraction of luminous obscured AGN. Our findings highlight the importance of directly considering obscuration biases and forward modeling in X-ray surveys, as well as the need for higher-sensitivity X-ray missions such as the Advanced X-ray Imaging Satellite (AXIS), and the importance of multiwavelength indicators to estimate obscuration in distant supermassive black holes.
+]]></content:encoded>
+
+<pubDate>2025-03-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Can Neutron Star Tidal Effects Obscure Deviations from General Relativity?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb966</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb966</guid>
+<content:encoded><![CDATA[
+
+One of the main goals of gravitational-wave astrophysics is to study gravity in the strong-field regime and constrain deviations from general relativity (GR). Any such deviation affects not only binary dynamics and gravitational-wave emission but also the structure and tidal properties of compact objects. In the case of neutron stars, masses, radii, and tidal deformabilities can all differ significantly between different theories of gravity. Currently, the measurement uncertainties in neutron star radii and tidal deformabilities are quite large. However, much less is known about how the large uncertainty in the nuclear equation of state (EOS) might affect tests of GR using binary neutron star mergers. Conversely, using the wrong theory of gravity might lead to incorrect constraints on the nuclear EOS. Here, we study this problem within scalar–tensor (ST) theory. We apply the recently derived ℓ = 2 tidal Love numbers in this theory to parameter estimation of GW170817. Correspondingly, we test if physics beyond GR could bias measurements of the nuclear EOS and neutron star radii. We find that parameter inference for both the GR and ST cases returns consistent component masses and tidal deformabilities. The radius and the EOS posteriors, however, differ between the two theories, but neither is excluded by current observational limits. This indicates that measurements of the nuclear EOS may be biased and that deviations from GR could go undetected when analyzing current binary neutron star mergers.
+]]></content:encoded>
+
+<pubDate>2025-03-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Filament Mass Losses Forced by Magnetic Reconnection in the Solar Corona</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbae8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbae8</guid>
+<content:encoded><![CDATA[
+
+Recent observations of the solar atmosphere in cool extreme-ultraviolet lines have reported the prevalence of coronal rain falling from coronal cloud filaments that are associated with the magnetic dips of coronal X-point structures. These filaments mysteriously appear as clouds of mass in the corona that subsequently shrink and disappear due to mass losses that drain as coronal rain along arced field lines. Using a two-and-a-half-dimensional magnetohydrodynamic model, we investigated evaporation-condensation as the formation mechanism of the subset of coronal cloud filaments that form above coronal X-points. Our simulation included the effects of field-aligned thermal conduction and optically thin radiation, and used the state-of-the-art transition region adaptive conduction (TRAC) method to model the formation, maintenance, and mass loss of a filament above a coronal X-point. This paper presents a physical model that demonstrates magnetic reconnection as a filament loss mechanism, producing hybrid filament/coronal rain via mass losses through the X-point. A detailed analysis of how the mass of the filament forces the field to reconnect is also presented, revealing three phases that characterize the evolution of the reconnecting current sheet and associated mass losses. We conclude that the formation of certain coronal cloud filaments and subsequent mass losses via coronal rain can be explained by the evaporation-condensation model combined with filament mass losses forced by magnetic reconnection. We also report that rebound shocks generated by the impact of coronal rain condensations on the chromosphere together with retractive upflows can cause upward-propagating condensations to form through a dynamic thermal runaway process.
+]]></content:encoded>
+
+<pubDate>2025-03-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Identification and Analysis of Galactic Bars in DESI Legacy Imaging Surveys</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbcac</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbcac</guid>
+<content:encoded><![CDATA[
+
+We present a comprehensive study of bar structures in the local universe using data from the DESI Legacy Imaging Surveys. Through isophotal analysis of 232,142 galaxies, we identify bars and classify them into strong and weak categories based on normalized bar length, using a threshold of 0.4. We find a total bar fraction of 42.9%, rising to 62.0% in disk galaxies, with strong barred galaxies accounting for 30.0%. For barred galaxies in our sample, deprojected bar lengths are measured both in absolute terms and normalized by galaxy size. Most bars are found to have absolute lengths of 3–7 kpc, and normalized bar lengths concentrated around a median value of 0.4. Bar ellipticity mainly ranges from 0.2 to 0.6, with a median value of 0.3. Our analysis reveals a bimodal distribution of bar fractions with respect to galaxy color, with weak bars in our classification being more prevalent in intermediate-color systems. With respect to stellar mass, strong bars also present a bimodal distribution, while weak bars are distributed uniformly. Normalized bar length remains relatively stable across stellar masses, while absolute bar length positively correlates with stellar mass. Cross-validation with visual classifications from Galaxy Zoo DESI catalog confirms a bar identification accuracy of 93%. These results validate our automated method for bar identification and measurement, demonstrating its reliability. Our findings underscore the importance of bars in galaxy evolution and highlight the potential of upcoming wide-field surveys to deepen our understanding of barred galaxies.
+]]></content:encoded>
+
+<pubDate>2025-03-25T00:00:00Z</pubDate>
+</item>
+<item>
+<title>Short-term Balmer Line Emission Variability in M Dwarfs</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb615</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb615</guid>
+<content:encoded><![CDATA[
+
+M dwarfs make up the majority of stars, offering an avenue for discovering exoplanets due to their smaller sizes. However, their magnetic activity poses challenges for exoplanet detection, characterization, and planetary habitability. Understanding their magnetic activity, including surface starspots and internal dynamos, is crucial for exoplanet research. In this study, we present short-term variability in four Balmer emission lines, Hα, Hβ, Hγ, and Hδ, for a sample of 77 M dwarfs of varying spectral types and binarity. Stars were observed using the MDM Observatory’s Ohio State Multi-Object Spectrograph on the 2.4 m telescope and the Modular Spectrograph on the 1.3 m telescope. These data are combined with TESS photometry to explore the connection between spectroscopic and photometric variability. We observe sporadic short-term variability in Balmer lines for some stars, on a timescale ≳15 min, but much shorter than the stellar rotation period. We calculate periods for stars lacking those measurements, reevaluate the amplitude (Rvar)–activity relation for the Hα line from A. Garcìa Soto et al., and extend our analysis to the Hβ, Hγ, and Hδ lines, which indicates that the relation becomes increasingly dispersed for higher-order Balmer lines. This is consistent with increased intrinsic variability from lower- to higher-order lines. Additionally, we compute the Balmer decrement, using Hβ as the fiducial, for stars where we could measure Hγ and/or Hδ. The Balmer decrement can show distinct patterns during white-light flares, with significant differences even for the same star. We also find evidence for dark spots on TIC 283866910.
+]]></content:encoded>
+
+<pubDate>2025-03-24T00:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Magnetic Thomson Transport in High-opacity Domains</title>
