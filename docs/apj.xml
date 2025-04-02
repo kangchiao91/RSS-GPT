@@ -4,18 +4,16 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>EPOCHS. I. The Discovery and Star-forming Properties of Galaxies in the Epoch of Reionization at 6.5 < z < 18 with PEARLS and Public JWST Data</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/ada608</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ada608</guid>
 <content:encoded><![CDATA[
-
 We present in this paper the discovery, properties, and a catalog of 1165 high-redshift 6.5 < z < 18 galaxies found in deep JWST NIRCam imaging from the GTO PEARLS survey combined with data from JWST public fields. We describe our bespoke homogeneous reduction process and our analysis of these areas including the NEP, CEERS, GLASS, NGDEEP, JADES, and ERO SMACS-0723 fields with over 214 arcmin2 imaged to depths of ∼30 mag. We describe our rigorous methods for identifying these galaxies, involving the use of Lyman-break strength, detection significance criteria, visual inspection, and integrated photometric redshift probability distributions predominately at high redshift. Our sample is a robust and highly pure collection of distant galaxies from which we also remove brown dwarf stars, and calculate completeness and contamination from simulations. We include a summary of the basic properties of these z > 6.5 galaxies, including their redshift distributions, UV absolute magnitudes, and star formation rates. Our study of these young galaxies reveals a wide range of stellar population properties as seen in their colors and SED fits, which we compare to stellar population models, indicating a range of star formation histories (SFHs), dust, active galactic nuceli, and/or nebular emission. We find that a strong trend exists between stellar mass and (U − V) color, as well as the existence of the “main-sequence” of star formation for galaxies as early as z ∼ 12. This indicates that stellar mass, or an underlying variable correlating with stellar mass, is driving galaxy formation, in agreement with simulation predictions. We also discover ultra-high-redshift candidates at z > 12 in our sample and describe their properties. Finally, we note a significant observed excess of galaxies compared to models at z > 12, revealing a tension between predictions and our observations.
 ]]></content:encoded>
-
 <pubDate>2025-04-01T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>Detection of Molecular Clouds in the PeVatron Candidate Source LHAASO J0341+5258 by the Nobeyama 45-m Radio Telescope</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb7df</link>
@@ -9004,15 +9002,6 @@ The confirmation of massive quiescent galaxies emerging within the first billion
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad856d</guid>
 <content:encoded><![CDATA[
 Morphological features in galaxies—like spiral arms, bars, rings, and tidal tails, etc.—carry information about their structure, origin, and evolution. It is therefore important to catalog and study such features and to correlate them with other basic galaxy properties, the environments in which the galaxies are located, and their interactions with other galaxies. The volume of present and future data on galaxies is so large that traditional methods, which involve expert astronomers identifying morphological features through visual inspection, are no longer sufficient. It is therefore necessary to use AI-based techniques like machine learning and deep learning to find morphological structures quickly and efficiently. We report in this study the application of deep learning for finding ring-like structures in galaxy images from the Sloan Digital Sky Survey (SDSS) DR18. We use a catalog by R. J. Buta of ringed galaxies from SDSS to train the network, reaching good accuracy and recall, and generate a catalog of 29,420 galaxies, of which 4855 have ring-like structures with prediction confidence exceeding 90%. Using a catalog of barred galaxy images identified by S. Abraham et. al. with deep-learning techniques, we identify a set of 2087 galaxies with bars as well as rings. The catalog should be very useful in understanding the origin of these important morphological structures. As an example of the usefulness of the catalog, we explore the environments and star formation characteristics of the ring galaxies in our sample.
-]]></content:encoded>
-<pubDate>2025-01-06T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Unveiling the Cosmic Chemistry: Revisiting the Mass–Metallicity Relation with JWST/NIRSpec at 4 < z < 10</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f32</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad8f32</guid>
-<content:encoded><![CDATA[
-We present star formation rates (SFRs), the mass–metallicity relation (MZR), and the SFR-dependent MZR across redshifts 4–10 using 81 star-forming galaxies observed by the JWST NIRSpec employing both low-resolution PRISM and medium-resolution gratings, including galaxies from the JWST Advanced Deep Extragalactic Survey (JADES) GOODS-N and GOODS-S fields, the JWST-PRIMAL Legacy Survey, and additional galaxies from the literature in the A2744, SMACS-0723, RXJ2129, BDF, COSMOS, and MACS1149 fields. These galaxies span a 3 dex stellar mass range of 107 < M*/M⊙ < 1010, with an average SFR of 7.2 ± 1.2M⊙ yr−1 and an average metallicity of . Our findings align with previous observations up to z = 8 for the MZR and indicate no deviation from the local Universe fundamental metallicity relation (FMR) up to this redshift. Beyond z = 8, we observe a significant deviation (∼0.27 dex) in FMR, consistent with recent JWST findings. We also integrate Cosmic Evolution Early Release Science (135 galaxies) and JADES (47 galaxies) samples with our data to study the metallicity evolution with redshift in a combined sample of 263 galaxies, revealing a decreasing metallicity trend with a slope of 0.067 ± 0.013, consistent with IllustrisTNG and EAGLE but contradicting the FIRE simulations. We introduce an empirical mass–metallicity–redshift relation: × , which accurately reproduces the observed trends in metallicity with both redshift and stellar mass. This trend underscores the “Grand Challenge” in understanding the factors driving high-redshift galactic metallicity trends, such as inflow, outflow, and active galactic nucleus/stellar feedback—and emphasizes the need for further investigations with larger samples and enhanced simulations.
 ]]></content:encoded>
 <pubDate>2025-01-06T00:00:00Z</pubDate>
 </item>
