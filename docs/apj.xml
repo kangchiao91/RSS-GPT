@@ -4,6 +4,83 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Modeling the Solar Transition Region: Effects of Spatial Resolution on the Atmospheric Structure, Emission and Non-equilibrium Ionization</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adac5f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adac5f</guid>
+<content:encoded><![CDATA[
+
+The solar transition region (TR) is a narrow interface between the chromosphere and corona, where emitted radiation contains critical information pertinent to coronal heating processes. We conducted two-dimensional radiation magnetohydrodynamics simulations using adaptive mesh refinement to spatially resolve the fine structure of the TR while simultaneously capturing the larger-scale dynamics originating from surface convection. The time evolution of ionization fractions for oxygen ions is computed alongside the simulations. A minimum grid size of 1.25 km is achieved in the TR, enabling adequate resolution of the upper TR (log10T ≳ 5), although the lower TR (log10T ≲ 5) remains under-resolved. Doppler shifts and nonthermal widths synthesized from TR lines exhibit convergence with grid sizes as coarse as 40 km, though some discrepancies persist between our results and observed TR line properties. A notable enhancement in emission from O vi lines, converging at a grid size of 2.5 km, shows an intensity 1.2 times that expected under ionization equilibrium, attributable to shock interactions with the TR. While model refinements are still required, our ability to resolve the TR offers critical insights into TR line characteristics arising from non-equilibrium ionization states, advancing our understanding of the coronal heating problem.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>StreamSculptor: Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb8e8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb8e8</guid>
+<content:encoded><![CDATA[
+
+Stellar streams are one of the most promising tracers of low-mass dark-matter subhalos. Existing frameworks for modeling stream perturbations rely on restrictive assumptions for the Milky Way potential (e.g., static, axisymmetric) or are computationally inefficient in generating many realizations of subhalo impacts. We present StreamSculptor, a GPU accelerated code that combines differentiable simulations and Hamiltonian perturbation theory to model the leading-order effect of dark-matter subhalos on stellar streams. Our model works in two stages: First, a base stream is generated in a Milky Way potential, including the effects of nonlinear time-dependent sources like the rotating Galactic bar and a massive satellite galaxy. Then, linear perturbation theory is applied to the base stream, allowing us to rapidly superimpose the effects of different subhalo impacts without having to carry out additional simulations. Subhalo masses and scale-radii can be rescaled as a postprocessing step. We demonstrate how this framework can be used to model subhalo impacts on stellar streams under realistic Milky Way conditions, specifically for an inner Galaxy stream like Palomar 5 and an outer Galaxy stream like Orphan–Chenab. We find that simultaneously modeling subhalo impacts and other time-dependent components of the Galactic gravitational potential is crucial for an unbiased inference of dark-matter substructure.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Solar Energetic Particle Events with Extremely High 3He Content Observed by Solar Orbiter</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbae7</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbae7</guid>
+<content:encoded><![CDATA[
+
+We performed a survey of 3He-rich events using observations from the Suprathermal Ion Spectrograph on the Solar Orbiter mission from 2020 to 2024. We identified 57 3He-rich events, each showing clear 3He enhancements above the background and 3He/4He abundance ratios greater than 1 in at least one energy channel in the range from 193.2 keV nucleon−1 to 8.74 MeV nucleon−1. The analysis of the events’ abundance ratios shows characteristics of impulsive solar energetic particle events with 3He/4He ∼ 3.1 and Fe/O ∼ 1.3. We observe an energy dependence in the 3He/4He ratio, which increases with energy, while the Fe/O ratios are almost constant with energy. We also found that six events in our list have extremely high 3He content (e.g., 3He/C–Fe ratios in the range 25–62). These events show curved 3He and heavy nuclei spectra that roll over at higher energies and flatten toward low energy. Their spectral forms can be reasonably fit with simple exponentials with a 3He rollover energy in the range of a few hundred keV per nucleon and a C–Fe rollover energy ∼2–3 times lower. The differences in spectral rollover energy lead to a strong energy dependence of the ratio 3He/C–Fe, rising sharply with energy. We conclude that the features of these events with extremely high 3He content have a reasonable likelihood of depicting the initial acceleration process, which is driven by magnetic reconnection in flaring loops near the solar surface.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Jormungandr: A Large Substructure Circling the Milky Way Identified from Gaia DR3 Data</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbc5f</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbc5f</guid>
+<content:encoded><![CDATA[
+
+We report the discovery of a large substructure in the Milky Way passing through the solar neighborhood, detected in actions calculated from Gaia DR3 data. We perform extensive tests to evaluate the selection effects present in the sample and conclude that they cannot produce an artifact with the same characteristics. This substructure, which we call Jormungandr, is orbiting the Milky Way with high LZ, higher eccentricity (median ∼0.50) and larger rotation velocity Vϕ compared to disk stars. It leaves obvious patterns in the integrals of motion and kinematics. The chemical abundances from the Apache Point Observatory Galactic Evolution Experiment DR17 for members of Jormungandr resemble those of the Galactic disk high-α sequence. It shows a significant spread in metallicity, as well as age, according to its color–magnitude diagram. Understanding its formation and nature requires further analysis and simulations.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Polycyclic Aromatic Hydrocarbon and CO(2–1) Emission at 50–150 pc Scales in 70 Nearby Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbd40</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbd40</guid>
+<content:encoded><![CDATA[
+
+Combining Atacama Large Millimeter/submillimeter Array CO(2–1) mapping and JWST near- and mid-infrared imaging, we characterize the relationship between CO(2–1) and polycyclic aromatic hydrocarbon (PAH) emission at ≈100 pc resolution in 70 nearby star-forming galaxies. Leveraging a new Cycle 2 JWST Treasury program targeting nearby galaxies, we expand the sample size by more than an order of magnitude compared to previous ≈100 pc resolution CO–PAH comparisons. In regions of galaxies where most of the gas is likely to be molecular, we find strong correlations between CO(2–1) and 3.3 μm, 7.7 μm, and 11.3 μm PAH emission, estimated from JWST’s F335M, F770W, and F1130W filters. We derive power-law relations between CO(2–1) and PAH emission, with indices in the range 0.8–1.3, implying relatively weak variations in the observed CO-to-PAH ratios across our sample. We find that CO-to-PAH ratios and scaling relationships near H ii regions are similar to those in diffuse sight lines. The main difference between the two types of regions is that sight lines near H ii regions show higher intensities in all tracers. Galaxy centers show higher overall intensities and enhanced CO-to-PAH ratios compared to galaxy disks. Individual galaxies show 0.19 dex scatter in the normalization of CO at fixed IPAH, and this normalization anticorrelates with specific star formation rate and correlates with stellar mass. We provide a prescription that accounts for galaxy-to-galaxy variations, representing our best current empirical predictor to estimate CO(2–1) intensity from PAH emission, allowing one to take advantage of JWST’s excellent sensitivity and resolution to trace cold gas.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>A Linear Decomposition Method to Analyze and Study Pulsar Mode Changes</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbdb8</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbdb8</guid>
+<content:encoded><![CDATA[
+
+In this paper, we present the linear decomposition method (LDM), which we developed to detect and analyze pulsar profile variations and mode-changing behavior. We developed LDM utilizing the likelihood function approach assuming the Gaussian noise. The LDM projects pulse profiles onto significance-ordered orthonormal vector bases. We show that the method is similar to the principal component analysis, but the LDM can handle more general situations. We use a simulated data set and data from the Kunming 40 m radio telescope to demonstrate the application of the LDM. We found that the LDM successfully identified mode changes for well-known mode-changing PSR B0329+54 and found a continuous pulse profile evolution for PSR B0355+54. We also show that the LDM can be used to improve the timing precision for mode-changing PSR B0329+54.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Anomalous Acceleration of PSR J2043+1711: Long-period Orbital Companion or Stellar Flyby?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbf90</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbf90</guid>
+<content:encoded><![CDATA[
+
+Based on the rate of change of its orbital period, PSR J2043+1711 has a substantial peculiar acceleration of 3.5 ± 0.8 mm s–1 yr–1, which deviates from the acceleration predicted by equilibrium Milky Way (MW) models at a 4σ level. The magnitude of the peculiar acceleration is too large to be explained by disequilibrium effects of the MW interacting with orbiting dwarf galaxies (∼1 mm s–1 yr–1), and too small to be caused by period variations due to the pulsar being a redback. We identify and examine two plausible causes for the anomalous acceleration: a stellar flyby, and a long-period orbital companion. We identify a main-sequence star in Gaia DR3 and Pan-STARRS DR2 with the correct mass, distance, and on-sky position to potentially explain the observed peculiar acceleration. However, the star and the pulsar system have substantially different proper motions, indicating that they are not gravitationally bound. However, it is possible that this is an unrelated star that just happens to be located near J2043+1711 along our line of sight (chance probability of 1.6%). Therefore, we also constrain possible orbital parameters for a circumbinary companion in a hierarchical triple system with J2043+1711; the changes in the spindown rate of the pulsar are consistent with an outer object that has an orbital period of 60 kyr, a companion mass of 0.3 M⊙ (indicative of a white dwarf or low-mass star), and a semimajor axis of 1900 au. Continued timing and/or future faint optical observations of J2043+1711 may eventually allow us to differentiate between these scenarios.
+]]></content:encoded>
+
+<pubDate>2025-04-06T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Connection between Nonaxisymmetric Structures and Neutral Gas Distribution in Disk Galaxies</title>
