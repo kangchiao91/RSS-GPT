@@ -4,6 +4,28 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Simulating the Photospheric to Coronal Plasma Using Magnetohydrodyanamic Characteristics. II. Reflections on Non-reflecting Boundary Conditions</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adb132</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb132</guid>
+<content:encoded><![CDATA[
+
+We present our implementation of non-reflecting boundary conditions in the magnetohydrodynamics (MHD) code LaRe3D. This implementation couples a characteristics-based boundary condition with a Lagrangian remap code, demonstrating the generality and flexibility of such non-reflecting boundary conditions for use with arbitrary grid-based MHD schemes. To test this implementation for perturbations on a background state, we present simulations of a hot sphere in an angled magnetic field. We then examine a series of simulations where we advect a spheromak through a non-reflecting boundary condition at four speeds related to the fast and slow magnetosonic speeds and the Alfvén speed. We compare the behavior of these simulations to ground truth simulations run from the same initial condition on an extended grid that keeps the spheromak in the simulation volume at all times. We find that the non-reflecting boundary condition can lead to severe, physical differences developing between a simulation using a non-reflecting boundary and a ground truth simulation using a larger simulation volume. We conclude by discussing the origins of these differences.
+]]></content:encoded>
+
+<pubDate>2025-04-07T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Investigating the Bouncing Barrier with Collision Simulations of Compressed Dust Aggregates</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbf04</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbf04</guid>
+<content:encoded><![CDATA[
+
+The collision outcomes of dust aggregates in protoplanetary disks dictate how planetesimals form. Experimental and numerical studies have suggested that bouncing collisions occurring at low impact velocities may limit aggregate growth in the disks, but the conditions under which bouncing occurs have yet to be fully understood. In this study, we perform a suite of collision simulations of moderately compact dust aggregates with various impact velocities, aggregate radii, and filling factors ranging between 0.4 and 0.5. Unlike previous simulations, we generate compact aggregates by compressing more porous ones, mimicking the natural processes through which compact aggregates form. We find that the compressed aggregates bounce above a threshold mass, which decreases with impact velocity. The threshold mass scales with impact velocity as the –4/3 power, consistent with the findings of previous experiments. We also find that the threshold aggregate mass for bouncing depends strongly on filling factor, likely reflecting the strong filling-factor dependence of the compressive strength of compressed aggregates. Our energy analysis reveals that nearly 90% of the initial impact energy is dissipated during the initial compression phase, and over 70% of the remaining energy is dissipated during the subsequent stretching phase, regardless of whether the collision results in sticking or bouncing. Our results indicate that dust aggregates with a filling factor of 0.4 cease to grow beyond 100 μm as a result of the bouncing barrier.
+]]></content:encoded>
+
+<pubDate>2025-04-07T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>A Spectroscopically Calibrated Prescription for Extracting Polycyclic Aromatic Hydrocarbon Flux from JWST MIRI Imaging</title>
