@@ -4,15 +4,14 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+
 <item>
 <title>Simulating the Photospheric to Coronal Plasma Using Magnetohydrodyanamic Characteristics. II. Reflections on Non-reflecting Boundary Conditions</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb132</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adb132</guid>
 <content:encoded><![CDATA[
-
 We present our implementation of non-reflecting boundary conditions in the magnetohydrodynamics (MHD) code LaRe3D. This implementation couples a characteristics-based boundary condition with a Lagrangian remap code, demonstrating the generality and flexibility of such non-reflecting boundary conditions for use with arbitrary grid-based MHD schemes. To test this implementation for perturbations on a background state, we present simulations of a hot sphere in an angled magnetic field. We then examine a series of simulations where we advect a spheromak through a non-reflecting boundary condition at four speeds related to the fast and slow magnetosonic speeds and the Alfvén speed. We compare the behavior of these simulations to ground truth simulations run from the same initial condition on an extended grid that keeps the spheromak in the simulation volume at all times. We find that the non-reflecting boundary condition can lead to severe, physical differences developing between a simulation using a non-reflecting boundary and a ground truth simulation using a larger simulation volume. We conclude by discussing the origins of these differences.
 ]]></content:encoded>
-
 <pubDate>2025-04-07T23:00:00Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@ We present our implementation of non-reflecting boundary conditions in the magne
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adbf04</link>
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbf04</guid>
 <content:encoded><![CDATA[
-
 The collision outcomes of dust aggregates in protoplanetary disks dictate how planetesimals form. Experimental and numerical studies have suggested that bouncing collisions occurring at low impact velocities may limit aggregate growth in the disks, but the conditions under which bouncing occurs have yet to be fully understood. In this study, we perform a suite of collision simulations of moderately compact dust aggregates with various impact velocities, aggregate radii, and filling factors ranging between 0.4 and 0.5. Unlike previous simulations, we generate compact aggregates by compressing more porous ones, mimicking the natural processes through which compact aggregates form. We find that the compressed aggregates bounce above a threshold mass, which decreases with impact velocity. The threshold mass scales with impact velocity as the –4/3 power, consistent with the findings of previous experiments. We also find that the threshold aggregate mass for bouncing depends strongly on filling factor, likely reflecting the strong filling-factor dependence of the compressive strength of compressed aggregates. Our energy analysis reveals that nearly 90% of the initial impact energy is dissipated during the initial compression phase, and over 70% of the remaining energy is dissipated during the subsequent stretching phase, regardless of whether the collision results in sticking or bouncing. Our results indicate that dust aggregates with a filling factor of 0.4 cease to grow beyond 100 μm as a result of the bouncing barrier.
 ]]></content:encoded>
-
 <pubDate>2025-04-07T23:00:00Z</pubDate>
 </item>
-
 <item>
 <title>A Spectroscopically Calibrated Prescription for Extracting Polycyclic Aromatic Hydrocarbon Flux from JWST MIRI Imaging</title>
 <link>http://iopscience.iop.org/article/10.3847/1538-4357/adb97f</link>
@@ -9006,24 +9002,6 @@ The first James Webb Space Telescope (JWST) Near InfraRed Camera imaging in the 
 <guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad891b</guid>
 <content:encoded><![CDATA[
 In this work, we present source-tailored Wide-field Infrared Survey Explorer (WISE) mid-infrared photometry (at 3.4, 4.6, 12, and 23 μm) of 2812 galaxies in the extended Spitzer Survey of Stellar Structure in Galaxies sample, and characterize the mid-infrared colors and dust properties of this legacy nearby galaxy data set. Informed by the relative emission between W3 (12 μm) and W4 (23 μm), we rederive star formation rate (SFR) scaling relations calibrated to LTIR, which results in improved agreement between the two tracers. By inverse–variance weighting the W3 and W4-derived SFRs, we generate a combined mid-infrared SFR that is a broadly robust measure of star formation activity in dusty, star-forming galaxies in the nearby Universe. In addition, we investigate the use of a W3-derived dust density metric, Σ12 μm (L⊙/kpc2), to estimate the SFR deficit of low mass, low dust galaxies. This is achieved by combining WISE with existing Galaxy Evolution Explorer ultraviolet (UV) photometry, which we further use to explore the relationship between dust and UV emission as a function of morphology. Finally, we use our derived SFR prescriptions to examine the location of galaxies in the log SFR–log Mstellar plane, as a function of morphological type, which underscores the complexity of dust-derived properties seen in galaxies of progressively earlier type.
-]]></content:encoded>
-<pubDate>2025-01-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): Nested Morphological and Kinematic Structures of Outflows Revealed in SiO and CO Emission</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9275</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9275</guid>
-<content:encoded><![CDATA[
-The Atacama Large Millimeter/submillimeter Array Survey of Orion Planck Galactic Cold Clumps (ALMASOP) reveals complex nested morphological and kinematic features of molecular outflows through the CO (J = 2−1) and SiO (J = 5−4) emission. We characterize the jet and outflow kinematics of the ALMASOP sample in four representative sources (HOPS 10, 315, 358, and G203.21-11.20W2) through channel maps and position–velocity diagrams (PVDs) parallel and transverse to the outflow axes. The combined CO and SiO emission exhibits the coexistence of the conventional extremely high-velocity jets and shell-like low-velocity cavity walls and new features. More complex, nested bubble-like and filamentary structures in the images and channel maps, triangle-shaped regions near the base of the parallel PVDs, and regions composed of rhombus/oval shapes in the transverse PVDs are also evident. Such features find natural explanations within the bubble structure of the unified model of jet, wind, and ambient medium. The reverse shock cavity is revealed on the PVD base regions, and other features naturally arise within the dynamic postshock region of magnetic interaction. The finer nested shells observed within the compressed wind region reveal previously unnoticed shocked emission between the jet and the conventional large cavity walls. These pseudopulse-produced filamentary features connect to the jetlike knotty blobs, creating an impression of episodicity in mass ejection. SiO emission is enhanced downstream of the reverse shock boundary, with jetlike excitation conditions. Combined, these observed features reveal the extended structures induced by the magnetic interplay between a jet-bearing magnetized wide-angle wind and its ambient magnetized surrounding medium.
-]]></content:encoded>
-<pubDate>2025-01-14T00:00:00Z</pubDate>
-</item>
-<item>
-<title>Blowing Out the Candle: How to Quench Galaxies at High Redshift—An Ensemble of Rapid Starbursts, AGN Feedback, and Environment</title>
-<link>http://iopscience.iop.org/article/10.3847/1538-4357/ad9472</link>
-<guid>http://iopscience.iop.org/article/10.3847/1538-4357/ad9472</guid>
-<content:encoded><![CDATA[
-Recent observations with JWST and the Atacama Large Millimeter/submillimeter Array have revealed extremely massive quiescent galaxies at redshifts of z = 3 and higher, indicating both rapid onset and quenching of star formation. Using the cosmological simulation suite Magneticum Pathfinder, we reproduce the observed number densities and stellar masses, with 36 quenched galaxies of stellar mass larger than 3 × 1010M⊙ at z = 3.42. We find that these galaxies are quenched through a rapid burst of star formation and subsequent active galactic nucleus (AGN) feedback caused by a particularly isotropic collapse of surrounding gas, occurring on timescales of around 200 Myr or shorter. The resulting quenched galaxies host stellar components that are kinematically fast rotating and alpha-enhanced, while exhibiting a steeper metallicity and flatter age gradient compared to galaxies of similar stellar mass. The gas of the galaxies has been metal enriched and ejected. We find that quenched galaxies do not inhabit the densest nodes, but rather sit in local underdensities. We analyze observable metrics to predict future quenching at high redshifts, finding that on shorter timescales <500 Myr, the ratio Mbh/M* is the best predictor, followed by the burstiness of the preceding star formation, t50–t90 (time to go from 50% to 90% stellar mass). On longer timescales, >1 Gyr, the environment becomes the strongest predictor, followed by t50–t90, indicating that at high redshifts the consumption of old gas and lack of new gas are more relevant for long-term prevention of star formation than the presence of a massive AGN. We predict that relics of such high-z quenched galaxies should best be characterized by a strong alpha enhancement.
 ]]></content:encoded>
 <pubDate>2025-01-14T00:00:00Z</pubDate>
 </item>
