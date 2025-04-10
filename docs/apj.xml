@@ -4,6 +4,61 @@
 <title>The Astrophysical Journal - latest papers</title>
 <link>http://iopscience.iop.org/journal/rss/0004-637X</link>
 
+<item>
+<title>Are Purely Gaseous Bars in Dwarf Irregulars a Myth?</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbf00</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbf00</guid>
+<content:encoded><![CDATA[
+
+About two-thirds of galactic disks exhibit a central ellipsoidal stellar component called the bar, with or without a gaseous counterpart. However, there are a few dwarf galaxies with purely gaseous bars: NGC 3741, NGC 2915, and DDO 168. This is a puzzle, as gas is a collisional medium, and a gaseous bar is expected to be ripped off by shock waves. We study the formation of gaseous bars in these galaxies by constructing dynamical models constrained by stellar photometry and H i observations already available. We first analytically study the dynamical stability of the galactic disks against global m = 2 perturbations. Our results indicate that the stellar and gas disks are moderately unstable against these bar modes. Using N-body + hydrodynamical simulations employing RAMSES, we next find that a purely gaseous bar is formed in an oblate dark matter halo of vertical-to-planar axis ratio c/a = 0.6–0.8, with a relatively high-spin parameter Λ = 0.04–0.07, which survives for more than 10 dynamical times. Further, the low values of our calculated Mach numbers M = 2–6 of the gaseous medium comply with the survival of the gaseous bars, unaffected by shock waves. Interestingly, our simulations show the formation of a tiny stellar bar in each case. However, the temporal evolution of the change in angular momentum Lz of the different disk components indicates the exchange of Lz between the gas disk and the dark matter halo only; the Lz of the stellar disk remained unchanged, indicating a weak stellar bar.
+]]></content:encoded>
+
+<pubDate>2025-04-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Effects of Galactic Environment on Size and Dark Matter Content in Low-mass Galaxies</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbf07</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbf07</guid>
+<content:encoded><![CDATA[
+
+We utilize the cosmological volume simulation FIREbox to investigate how a galaxy’s environment influences its size and dark matter content. Our study focuses on approximately 1200 galaxies (886 central and 332 satellite halos) in the low-mass regime, with stellar masses between 106 and 109M⊙. We analyze the size–mass relation (r50–M⋆), the inner dark matter mass–stellar mass ( –M⋆) relation, and the halo mass–stellar mass (Mhalo–M⋆) relation. At fixed stellar mass, we find that galaxies experiencing stronger tidal influences, indicated by higher Perturbation Indices (PI > 1) are generally larger and have lower halo masses relative to their counterparts with lower Perturbation Indices (PI < 1). Applying a Random Forest regression model, we show that both the environment (PI) and halo mass (Mhalo) are significant predictors of a galaxy’s relative size and dark matter content. Notably, because Mhalo is also strongly affected by the environment, our findings indicate that environmental conditions not only influence galactic sizes and relative inner dark matter content directly, but also indirectly, through their impact on halo mass. Our results highlight a critical interplay between environmental factors and halo mass in shaping galaxy properties, affirming the environment as a fundamental driver in galaxy formation and evolution.
+]]></content:encoded>
+
+<pubDate>2025-04-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>The Dwarf Irregular Galaxy NGC 6822. II. Young, Intermediate and Old Stellar Populations: Comparison between Theory and Observations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adbf0e</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adbf0e</guid>
+<content:encoded><![CDATA[
+
+This paper presents a quantitative analysis of the stellar content in the Local Group dwarf irregular galaxy NGC 6822 by comparing stellar evolution models and observations in color–magnitude diagrams (CMDs) and color–color diagrams (CC-Ds). Our analysis is based on optical ground-based g, r, i photometry, and deep archival Hubble Space Telescope photometry of two fields in the galactic disk. We compared young, intermediate-age, and old stellar populations with isochrones from the BaSTI-IAC library and found that NGC 6822 hosts a quite metal-rich ([Fe/H] = −0.7 to −0.4) young component with an age ranging from 20–100 Myr. The intermediate-age population experienced a modest chemical enrichment between 4 and 8 Gyr ago, while stars older than 11 Gyr have a low metal abundance ([Fe/H] ∼ −1.70). We also identified the asymptotic giant branch (AGB) clump population with a luminosity peak at i ∼ 23.35 mag. Our analysis of both the CMD and the optical–near-IR (NIR)–mid-IR (MIR) CC-Ds of AGB oxygen- and carbon-rich stars, using the PARSEC+COLIBRI isochrones with and without circumstellar dust, reveals that this stellar component exhibits a spread in age from 1–2 Gyr and in metallicity between [Fe/H] = −1.30 and −1.70. The stellar models we used reproduce very well the two distinct color sequences defined by AGB O- and C-rich stars in the various optical–NIR–MIR CC-Ds, suggesting that they are reliable diagnostics to identify and characterize intermediate-age stellar populations. However, we also find that evolutionary prescriptions in the optical i-(r − i) CMDs predict, at fixed color, systematically lower luminosities than observed AGB stars.
+]]></content:encoded>
+
+<pubDate>2025-04-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Constraining Reionization with Lyα Damping-wing Absorption in Galaxy Spectra: A Machine Learning Model Based on Reionization Simulations</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adc001</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adc001</guid>
+<content:encoded><![CDATA[
+
+Recently, NIRSpec PRISM/CLEAR observations by JWST have begun providing rest-frame UV continuum measurements of galaxies at z ≳ 7, revealing signatures of Lyα damping-wing (DW) absorption by the intergalactic medium (IGM). We develop a methodology to constrain the global ionization fraction of the IGM (QHII) using low-resolution spectra, employing the random forest classification (RFC) method. We construct mock spectra using the simulated galaxies and the IGM from the Cosmic Dawn II simulation and train RFC models to estimate QHII at the redshift of the source and to detect the presence of a damped Lyα absorber. We find that individual galaxy spectra with spectral bins between 1220 and 1270 Å and with signal-to-noise ratios (SNR) >20 can place tight constraints on QHII, provided the UV continuum is accurately modeled. This method is particularly effective for the early phase of reionization (QHII < 50%), when the IGM opacity is high in the DW. As a demonstration, we apply our model to existing NIRSpec PRISM/CLEAR spectra, placing upper bounds of QHII = 59.6%, 5.6%, and 18.5% at z = 7.7, 9.4, and 10.6, respectively, with 68% confidence, though several modeling uncertainties remain to be discussed. These constraints favor late-starting reionization models, where ≳80% of the IGM is ionized after z = 8. We conclude that high-SNR observations of carefully selected targets around z ∼ 7–9 can effectively constrain reionization models.
+]]></content:encoded>
+
+<pubDate>2025-04-09T23:00:00Z</pubDate>
+</item>
+<item>
+<title>Tight Bound on the Neutron Star Radius with Quasiperiodic Oscillations in Short Gamma-Ray Bursts</title>
+<link>http://iopscience.iop.org/article/10.3847/1538-4357/adc101</link>
+<guid>http://iopscience.iop.org/article/10.3847/1538-4357/adc101</guid>
+<content:encoded><![CDATA[
+
+Quasiperiodic oscillations (QPOs) have been recently discovered in the short gamma-ray bursts (GRBs) 910711 and 931101B. Their frequencies are consistent with those of the quasiradial and quadrupolar oscillations of binary neutron star (BNS) merger remnants, as obtained in numerical relativity simulations. These simulations reveal quasi-universal relations between the remnant oscillation frequencies and the tidal coupling constant of the binaries. Under the assumption that the observed QPOs are due to these postmerger oscillations, we use the frequency–tide relations in a Bayesian framework to infer the source redshift, as well as the chirp mass and the binary tidal deformability of the BNS progenitors for GRBs 910711 and 931101B. We further use this inference to estimate bounds on the mass–radius relation for neutron stars. By combining the estimates from the two GRBs, we find a 68% credible range km for the radius of a neutron star with mass M = 1.4 M⊙, which is one of the tightest bounds to date.
+]]></content:encoded>
+
+<pubDate>2025-04-09T23:00:00Z</pubDate>
+</item>
 
 <item>
 <title>Clustering Analysis of Ca i 4227 Line Polarization Using Magnetohydrodynamic Simulations of the Solar Atmosphere</title>
